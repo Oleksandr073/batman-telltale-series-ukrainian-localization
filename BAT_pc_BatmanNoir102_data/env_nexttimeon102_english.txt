@@ -1,0 +1,116 @@
+﻿1) HARVEY
+[OS]Who are these people, Bruce?
+2) SELINA
+[OS][you’re in over your head]You don’t know these people, Bruce.
+3) FAIRCHILD
+Authorities are scrambling. The so called Children of Arkham have the city in a frenzy, but there’s still no sign of their masked leader.
+4) FAIRCHILD
+With Hill and Falcone dead, it seems they’ve now turned their sights on Thomas Wayne’s heir... Bruce Wayne.
+5) FAIRCHILD
+And the city seems to agree with them.
+6) GORDON
+I’m asking for your help.
+7) BATMAN
+[OS]I won’t let you do this.
+8) VICKI
+[to Batman]Do you really think Bruce Wayne is worth protecting?
+9) HARVEY
+[OS][giving a speech]For too long the wealthy have profited from your suffering!
+10) HARVEY
+[OS][giving a speech]You deserve better.
+11) HARVEY
+[OS][giving a speech; determined]Gotham deserves better!
+12) LADYARKHAM
+[OS]There’s something lurking within Wayne Enterprises... a sickness that’s gone unchecked for years.
+13) LADYARKHAM
+[OS]We are going to eradicate it.
+38) LADYARKHAM
+[OS]We are going to eradicate it.
+14) FAIRCHILD
+With Hill and Falcone dead by their hands, the question on everyone’s lips is... who’s next?
+15) SELINA
+[OS]They’re not gonna stop until they get what they want from you.
+16) BRUCE
+[OS]And what’s that?
+17) SELINA
+[OS]Everything.
+18) LADYARKHAM
+[OS]And it starts with Bruce Wayne!
+19) ALFRED
+[OS]Bruce? Bruce?!
+20) HARVEY
+[OS]Batman saved me... but I know this isn’t over.
+21) SELINA
+[OS]You may have saved me, but this isn’t over.
+22) HARVEY
+[ALT][OS][giving a speech]You deserve better than what the Children of Arkham are offering you.
+23) HARVEY
+[ALT][OS][giving a speech]You deserve better from your mayor.
+24) HARVEY
+[ALT][OS][giving a speech]You deserve better than masked vigilantes.
+25) BRUCE
+Previously, on Batman.
+26) BRUCE
+Next time, on Batman.
+27) BRUCE
+Previously, on Telltale’s Batman.
+28) BRUCE
+Next time, on Telltale’s Batman.
+29) BRUCE
+Previously, on Batman: The Telltale Series.
+30) BRUCE
+Next time, on Batman: The Telltale Series.
+31) HARVEY
+[OS]After that news about your father sending innocent people to Arkham... the whole city wants your head on a pike.
+52) HARVEY
+After that news about your father sending innocent people to Arkham... the whole city wants your head on a pike.
+32) OSWALD
+[OS]Bruce Wayne’s finally going to get what’s coming to him.
+33) LADYARKHAM
+[OS]The corruption in Gotham is too deep, too ingrained, to do anything but bleed it out.
+53) LADYARKHAM
+The corruption in Gotham is too deep, too ingrained, to do anything but bleed it out.
+34) LADYARKHAM
+[OS]Then we’ll see each other for who we really are.
+35) LADYARKHAM
+No more hiding.
+55) LADYARKHAM
+No more hiding.
+36) LADYARKHAM
+Not for anyone.
+56) LADYARKHAM
+Not for anyone.
+37) REGINA
+[OS]{HappyA}The Waynes have always run this company. {ConcernedA}But now...
+50) REGINA
+{HappyA}The Waynes have always run this company. {ConcernedA}But now...
+39) REGINA
+[OS]{ConcernedA} They want to decide what your future at this company will be.
+40) ALFRED
+[OS]{ThinkingA}You don’t think someone at Wayne Enterprises is{SkepticalA} involved?
+46) ALFRED
+{ThinkingA}You don’t think someone at Wayne Enterprises is{SkepticalA} involved?
+41) BATMAN
+[OS]{AngryA}So we look higher.
+42) ALFRED
+[OS]{ThinkingA}You mean Lucius {SkepticalA}Fox?
+48) ALFRED
+{ThinkingA}You mean Lucius {SkepticalA}Fox?
+43) ALFRED
+[OS]{ConcernedA}He’s one of the few people who know Batman’s identity.
+49) ALFRED
+{ConcernedA}He’s one of the few people who know Batman’s identity.
+44) BATMAN
+[OS][tense]What do you want from me?
+45) CATWOMAN
+[OS]You know what I want.
+57) CATWOMAN
+You know what I want.
+47) BATMAN
+{AngryA}So we look higher. At the person who runs{ThinkingA} Wayne Tech.
+51) REGINA
+{DisgustA}You are the topic of discussion for the board.{ConcernedA} They want to decide what your future at this company will be.
+54) LADYARKHAM
+Then we’ll see each other for we really are.
+58) BATMAN
+[tense]What do you want from me?

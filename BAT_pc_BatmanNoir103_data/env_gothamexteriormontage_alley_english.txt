@@ -1,0 +1,862 @@
+﻿1) DIRDIR
+(Merry Ainsworth, Fri Jul 29 09:13:04 2016) We hear the sounds of a car pulling up.
+2) HEROGOON
+You think I’m scared of you?
+116) COA03
+You think I’m scared of you?
+3) HEROGOON
+What are you gonna do?
+216) COA03
+What are you gonna do?
+4) HEROGOON
+Costumed freak...
+214) COA04
+Costumed freak...
+215) COA04
+Costumed freak...
+5) HEROGOON
+Huh?
+217) COA03
+Huh?
+6) HEROGOON
+How does it feel, huh? Knowin’ you failed.
+7) HEROGOON
+And the night’s not over yet.
+29) HEROGOON
+And the night’s not over yet.
+118) GOON04
+And the night’s not over yet.
+119) GOON04
+And the night’s not over yet.
+8) BATMAN
+Tell me where your leader is. [shoving him]What are you planning?
+34) BATMAN
+Tell me where your leader is. [shoving him]What are you planning?
+9) HEROGOON
+Sworn to secrecy, I’m afraid.
+35) HEROGOON
+Sworn to secrecy, I’m afraid.
+120) GOON04
+Sworn to secrecy, I’m afraid.
+219) COA04
+Sworn to secrecy, I’m afraid.
+10) HEROGOON
+Don’t want to spoil the surprise.
+36) HEROGOON
+Don’t want to spoil the surprise.
+121) GOON04
+Don’t want to spoil the surprise.
+220) COA04
+Don’t want to spoil the surprise.
+11) HEROGOON
+We still got those weapons.
+12) HEROGOON
+We still got the crowd on our side.
+13) HEROGOON
+Those people still got hurt.
+14) BATMAN
+[scary turned way up]You should be.
+15) HEROGOON
+Oh, should I?
+117) GOON04
+Oh, should I?
+211) COA03
+Oh, should I?
+16) CIVILIAN01
+Did you see him?
+20) CIVILIAN01
+Did you see him?
+23) CIVILIAN01
+Did you see him?
+25) CIVILIAN01
+Did you see him?
+17) CIVILIAN02
+Over this way!
+21) CIVILIAN02
+Over this way!
+24) CIVILIAN02
+Over this way!
+26) CIVILIAN02
+Over this way!
+18) BATMAN
+I’m not going to let you people ruin Gotham! This ends now.
+19) HEROGOON
+Ha! You think --
+123) GOON04
+Ha! You think --
+22) HEROGOON
+[punched in the face]Ah!
+124) GOON04
+[punched in the face]Ah!
+213) COA03
+[punched in the side]Ah!
+27) 
+[Punch Him]
+37) HEROGOON
+[small pained chuckle]
+51) ASSISTANT
+[screams]
+63) HARVEY
+[getting punched]
+80) HARVEY
+[punching the guy]
+97) 
+
+122) COA03
+[small pained chuckle]
+131) 
+
+132) 
+
+133) 
+
+134) 
+
+137) 
+
+138) 
+
+139) 
+
+140) 
+
+141) 
+
+142) 
+
+143) 
+
+144) 
+
+145) 
+
+156) 
+
+157) 
+
+158) 
+
+159) 
+
+160) 
+
+161) 
+
+162) 
+
+163) 
+
+164) 
+
+165) 
+
+166) 
+
+167) 
+
+176) 
+
+177) 
+
+181) 
+
+182) 
+
+183) 
+
+184) 
+
+185) 
+
+186) 
+
+187) 
+
+188) 
+
+189) 
+
+190) 
+
+191) 
+
+192) 
+
+193) 
+
+194) 
+
+195) 
+
+196) 
+
+197) 
+
+198) 
+
+199) 
+
+200) 
+
+201) 
+
+242) 
+
+243) 
+
+244) 
+
+245) 
+
+246) 
+
+247) 
+
+248) 
+
+249) 
+
+250) 
+
+251) 
+
+265) 
+
+270) 
+
+271) 
+
+280) 
+
+298) 
+
+300) 
+
+302) 
+
+305) 
+
+319) 
+
+355) GORDON
+[PICKUP]
+385) 
+[Hurt him]
+386) 
+[Threaten him]
+28) 
+You should be scared.
+30) HEROGOON
+[in pain]The speech.
+125) GOON04
+[in pain]The speech.
+31) BATMAN
+This can get so much worse for you.
+32) BATMAN
+Speak louder.
+33) HEROGOON
+Harvey Dent’s speech. That’s where they’re going. They’ll--
+38) BATMAN
+Tell me.
+39) CIVILIAN01
+Hey!
+40) 
+No
+41) COA03
+Boss says the Batman’s heading this way. Should be here any second.
+42) COA04
+And we’ll be ready for him.  Take him down before the Mayor pulls through.
+43) COA03
+What about us? What if he--
+44) COA04
+You scared or something? What the hell is wrong with you?
+45) GOON03
+Get out of the car!
+46) HARVEY
+What the hell is going on?
+47) GOON03
+You heard me. Get the HELL out of the car!
+75) GOON04
+You heard me! Get the hell out of the car!
+207) COA04
+You heard me! Get the hell out of the car!
+48) GOON04
+You’d better listen to us, Mister Mayor. Wouldn’t want to hurt your pretty face anymore, would we?
+49) HARVEY
+Hey, stay the hell away from me!
+53) HARVEY
+Hey, stay the hell away from me!
+50) GOON03
+You want us to screw up your face even more? Is that what you want?
+54) GOON03
+You want us to screw up your face even more? Is that what you want?
+52) GOON04
+We don’t have to make this anymore difficult than it needs to be. Just turn your car around and go home, Mister Mayor.
+55) BATMAN
+Night night.
+56) COA03
+You’re right, he ain’t got nothing on us.
+57) COA04
+The boss’ll be real impressed if we take out the Bat.
+58) COA03
+You talking about a promotion?
+59) COA04
+I’m talking about shooting straight to the top! Boss needs some right hand men, right?
+60) ASSISTANT
+Mr. Dent, don’t--
+272) ASSISTANT
+Mr. Dent, don’t--
+61) HARVEY
+[to Deborah]Stay behind me, Deborah. [To Goons]Just let us through. Haven’t you done enough harm as it is?
+273) HARVEY
+[to Deborah]Stay behind me, Deborah. [To Goons]Just let us through. Haven’t you done enough harm as it is?
+62) COA04
+Boss doesn’t think so. Seeing as you still got the Mayor’s seat.
+274) COA04
+Boss doesn’t think so. Seeing as you still got the Mayor’s seat.
+64) ASSISTANT
+No, please! Stop it!
+65) GOON04
+We warned you! Now you’ll see what happens when you don’t listen to the Children of Arkham!
+66) COA04
+Hey Nicky! You see anything?
+67) GOON04
+Something’s wrong.
+68) COA04
+[Shit]Christ. You two! Go check it out. I’ll deal with Dent here.
+69) GOON04
+[Shit]Christ. The car’s pulling up.
+70) GOON04
+You two! Go check on Marty. I’ve got the Mayor.
+71) GOON04
+[Shit]Christ. The car’s coming.
+203) COA04
+[Shit]Christ. The car’s coming.
+204) COA03
+[Shit]Christ. The car’s coming.
+72) GOON04
+You two! Go check on Nikki. I’ve got the Mayor.
+73) GOON04
+Hey! Out of the car, Dent!
+206) COA04
+Hey! Out of the car, Dent!
+74) HARVEY
+What the hell’s going on.
+76) GOON04
+You better listen, Mister Mayor. Wouldn’t want that pretty face to take another beating, would we?
+208) COA04
+You better listen, Mister Mayor. Wouldn’t want that pretty face to take another beating, would we?
+77) ASSISTANT
+Mister Dent...
+78) HARVEY
+Don’t worry Deborah, I’ll handle this--
+79) GOON04
+Dammit--
+209) COA04
+Dammit--
+281) COA04
+Dammit--
+81) GOON03
+It’s the Batman!
+210) COA03
+It’s the Batman!
+82) HARVEY
+This is the second time you’ve helped me.
+83) HARVEY
+I misjudged you, and I’m sorry. I’d looked at you like a vigilante and not an ally.
+84) HARVEY
+Sounds like you’ve got your plate full tonight. You better go.
+85) HARVEY
+Hope you won’t mind keeping an eye out for any Children of Arkham at my speech. Could really use the backup.
+86) 
+Be careful.
+108) 
+[ALT]Be careful.
+87) 
+Gotham’s lucky to have you.
+88) 
+I’ve got your back.
+89) BATMAN
+Be careful. The Children of Arkham still have you in their sights.
+113) BATMAN
+Be careful. The Children of Arkham still have you in their sights.
+90) HARVEY
+I can handle a couple of low-lifes like them.
+91) BRUCE
+You should turn your car around. Don’t give your speech tonight.
+126) BATMAN
+You should turn your car around. Don’t give your speech tonight.
+92) HARVEY
+And let the Children of Arkham get what they want? I appreciate the warning, but I’m not backing down.
+93) HARVEY
+Just watch my back at the speech--I don’t know if I can handle a surprise attack..
+94) HARVEY
+Just watch my back at the speech--I don’t know if I can handle a surprise attack..
+98) HARVEY
+Just watch my back at the speech--I don’t know if I can handle a surprise attack..
+100) HARVEY
+Just watch my back at the speech--I don’t know if I can handle a surprise attack..
+95) BATMAN
+Don’t worry. I’ll keep an eye out for you.
+96) HARVEY
+And I’m glad. But I can take care of myself.
+99) HARVEY
+Thanks again. I owe you one.
+101) HARVEY
+It’s absolute chaos out there.
+102) HARVEY
+What the hell do you think you’re doing here?
+103) HARVEY
+Last time I checked, I didn’t need your god damn help, bat freak!
+104) HEROGOON
+[laughs]Yeah, bat freak!
+202) GOON04
+[laughs]Yeah, bat freak!
+229) COA04
+[laughs]Yeah, bat freak!
+105) HARVEY
+Get the hell away from us.
+106) 
+You’ll be a good mayor.
+107) 
+You’re in danger.
+109) BATMAN
+You should turn your car around. It’s too dangerous to give your speech tonight.
+110) HARVEY
+Screw you. I’m gonna do whatever I want, and Batman sure as hell isn’t going to tell me otherwise.
+111) BATMAN
+You’re in danger. The Children of Arkham will come after you again.
+112) HARVEY
+I can handle the Children of Arkham without your help.
+114) HARVEY
+Go screw youself, Batman. Or the next guy that’s getting decked is you.
+115) HARVEY
+What did I say? Get out of here!
+127) 
+1
+128) 
+2
+129) 
+3
+130) COA03
+No, I’m fine.
+135) 
+Travel To.
+146) 
+Travel To.
+136) 
+Listen.
+147) 
+Listen.
+148) COA01
+You’re dealing with us now. The Children of Arkham are taking over.
+149) DEALER
+Now hang on--[interrupted]
+150) LADYARKHAM
+Do we have a problem?
+151) LADYARKHAM
+[menacing]You’ll deal with whoever I tell you to.
+152) LADYARKHAM
+Understand?
+153) BATMAN
+That voice...
+154) ALFRED
+Might not be there much longer.
+155) BATMAN
+I’m going to the docks.
+168) BATMAN
+I need an update on the docks.
+252) BATMAN
+I need an update on the docks.
+169) ALFRED
+Bringing it up now.
+253) ALFRED
+Bringing it up now.
+170) COA01
+That’s the last of em!
+254) COA01
+That’s the last of em!
+171) LADYARKHAM
+Hurry up! I don’t have time to babysit you! [beat]The rest of you, form up!
+255) LADYARKHAM
+Hurry up! I don’t have time to babysit you! [beat]The rest of you, form up!
+172) DEALER
+Wait! What about my money?
+256) DEALER
+Wait! What about my money?
+173) LADYARKHAM
+[low laugh]Cute.
+258) LADYARKHAM
+[low laugh]Cute.
+174) ALFRED
+You’d better get down there.
+261) ALFRED
+You’d better get down there.
+175) BATMAN
+On my way.
+262) BATMAN
+On my way.
+178) COA04
+Come on!
+179) COA03
+Come on out!
+275) COA04
+Come on out!
+180) BATMAN
+[low]I’m not sorry about the headache you’ll have later.
+205) COA04
+You two! Go check on Nicky. I’ve got the Mayor.
+212) COA03
+So soon?
+218) COA03
+[smiling]The night’s not even over yet.
+221) HARVEY
+[earnest]Thank you.
+222) BATMAN
+Gotham is lucky to have you as mayor.
+223) HARVEY
+I appreciate your vote of confidence.
+224) HARVEY
+With you and me working together, we can fix this city.
+225) HARVEY
+Make sure you’re watching out for everyone else too.
+226) HARVEY
+The Children of Arkham chose one hell of a night to strike out.
+227) HARVEY
+Batman. Be safe out there.
+228) HARVEY
+The Mayor’s on your side.
+230) HARVEY
+I’m the mayor now and things are gonna change around here.
+231) HARVEY
+Starting with people like you.
+232) BATMAN
+I know you’ll be a good mayor for Gotham.
+233) HARVEY
+If you thought that, you should have helped me at the debate.
+234) HARVEY
+I was hospitalized.
+235) HARVEY
+You masks are all the same.
+236) HARVEY
+This city is a battleground.
+237) HARVEY
+It’s bad enough without people like you...
+238) HARVEY
+Gotham won’t need you anymore.
+239) HARVEY
+Keep sticking your nose into my business and you’ll be sorry, Batman.
+240) HARVEY
+This is my city, now. Not yours.
+241) HARVEY
+Not yours.
+257) GORDON
+[over megaphone]Put down your weapons!
+259) GORDON
+[frantic]Everybody get down! [aside]Dammit!
+260) GORDON
+[into his walkie]Commissioner, come in! We need back-up! Hello?
+263) COA04
+As long as Nicky does his damn job.
+264) COA03
+Why’d we put him on look-out anyway?
+266) COA04
+Nicky!
+268) COA04
+Nicky?
+267) COA04
+Hey Nicky! Get the hell over here!
+269) COA03
+Where the hell is he?
+276) COA04
+I said get out of the car!
+277) COA04
+[surprised]What the--[punched]
+278) ASSISTANT
+Don’t!
+279) ASSISTANT
+Are you crazy?!
+282) ASSISTANT
+Yeah. You? [beat; awkward]Sorry dumb question.
+283) BATMAN
+Everyone alright?
+285) BATMAN
+Everyone alright?
+284) ASSISTANT
+I’ll call us a cab.
+286) HARVEY
+Gotham does not need you taking matters into your own hands.
+287) HARVEY
+You make these freaks think it’s okay!
+288) HARVEY
+Yeah well, no thanks to you. You left me for dead once before.
+289) HARVEY
+You showed me where you stood back at the debate.
+290) ASSISTANT
+Hey, c’mon. Let’s go. I’ll call us a cab.
+291) 
+I just saved your life!
+292) BATMAN
+I just saved your life. Show a little gratitude.
+293) HARVEY
+This doesn’t make up for what you did at the debate. You left me for de
+294) HARVEY
+Don’t pretend like you care for my safety.
+295) 
+You might have a mole.
+296) 
+Play it safe.
+297) 
+You’ve been hacked.
+299) BATMAN
+Thanks. But I’ve got my own.
+301) LADYARKHAM
+[over the radio]Squad cars 324, 325, and 393 en route to Penguin. 394 deployed. Get yourselves over there.
+303) LADYARKHAM
+Squad cars 324, 325, and 393 en route to the warehouse. 394 deployed. Get your guys over here.
+304) COMMISSIONER
+Gordon, answer me!
+306) 
+Land on goon.
+309) 
+Land On Goon
+307) 
+Docks
+308) 
+Construction Site
+310) 
+Land On Car
+311) 
+Get Over Here
+312) BATMAN
+[PICKUP]What’s that supposed to mean?
+313) BATMAN
+[PICKUP][angry]That’s not an answer!
+314) COA03
+[PICKUP][in pain]There’s nothing the cops can do that we won’t know about.
+315) COA03
+[PICKUP][in pain]Including every time Gordon uses you as his errand boy.
+316) COA03
+[PICKUP][in pain]Hurt me all you want.
+317) COA03
+[PICKUP][pained, winded]Keep working with the pigs and we’ll know all your secrets.
+318) COA03
+[PICKUP]That all depends on you, Batman.
+320) CHEMTHUG
+[PICKUP]Heads up. They got three black-and-whites headed for the handoff.
+322) CHEMTHUG
+[PICKUP]Heads up. They got three black-and-whites headed for the handoff.
+321) HTTP
+//www.ocregister.com/articles/sears-728409-medical-board.html
+323) GORDON
+[PICKUP][trying to figure it out]How? We’ve been using a secure channel... You sayin’ we got a leak?
+324) GORDON
+[PICKUP]Gordon to command. Anyone there?
+325) 
+I’ll handle this.
+326) 
+Suck it up.
+327) 
+You’re doing fine.
+328) GORDON
+[PICKUP]Get me the Commissioner, ASAP.
+329) GROGAN
+[PICKUP]Command here. What is it, Gordon?
+330) COP04
+[PICKUP]The Commissioner? What’s this regarding?
+331) GORDON
+[PICKUP]It’s important. Just find him.
+332) COP04
+[PICKUP]Roger that.
+333) BATMAN
+[PICKUP]Gordon, get off the radio! Now!
+334) GORDON
+[PICKUP]Why?
+335) BATMAN
+[PICKUP]It’s been compromised.
+338) BATMAN
+[PICKUP]It’s been compromised.
+336) BATMAN
+[PICKUP]Turn that off!
+337) GORDON
+[PICKUP]What?
+339) BATMAN
+[PICKUP]The Children of Arkham are listening in on the GCPD’s communications.
+340) BATMAN
+[PICKUP][ALT]The Children of Arkham can hear everything the cops are saying.
+341) GORDON
+[PICKUP]What can we do?
+342) GORDON
+[PICKUP]We’ve gotta have some way to communicate.
+343) BATMAN
+[PICKUP]I’ll figure it out.
+344) GORDON
+[PICKUP][defeated]If we can’t organize a response... then they’ve already won.
+345) GORDON
+[PICKUP]They outnumber us already.
+346) GORDON
+[PICKUP]And now we’re crippled.
+347) GORDON
+[PICKUP]This battle’s lost and I can’t do a damn thing about it!
+348) GORDON
+[PICKUP][ALT]This city’s falling apart on my watch.
+349) BATMAN
+[PICKUP]Just stay calm. I’ll handle it.
+350) GORDON
+[PICKUP]Stay calm, he says. We better figure something out. Fast.
+351) BATMAN
+[PICKUP][stern]There’s no time for self-pity, Gordon. Suck it up and fight.
+352) GORDON
+[PICKUP][angry]I’m doing everything I can!
+353) BATMAN
+[PICKUP]You can’t blame yourself. No one saw this coming.
+354) GORDON
+[PICKUP]We can both come up with excuses when everything isn’t on fire.
+356) GORDON
+[PICKUP][grim joking]I guess there’s always carrier pigeons.
+357) BATMAN
+[PICKUP]I’m gonna look into this. I’ll let you know what I find.
+358) BATMAN
+[PICKUP]In the meantime, it’s radio silent. You understand?
+359) COA02
+[PICKUP][calilng out]Outta the car, Dent!
+360) COA03
+[PICKUP][to COA03, anxious]We gotta hurry. Batman’s on his way.
+361) COA02
+[PICKUP]Relax, we’ll be ready for him.
+362) HARVEY
+[PICKUP]Listen, I don’t want any trouble.
+363) COA02
+[PICKUP]Too late, Dent!
+364) CHEMTHUG
+[PICKUP]Gordon’s with ‘em.
+375) CHEMTHUG
+[PICKUP]Gordon’s with ‘em.
+365) HARVEY
+[pickup][shocked gasp - Batman lands on car]
+366) ASSISTANT
+[pickup][shocked gasp - Batman lands on car]
+367) HARVEY
+[pickup][surprised gasp - it’s Batman!]
+368) ASSISTANT
+[pickup][surprised gasp - it’s Batman!]
+369) HARVEY
+[pickup]Get behind me, Deborah!
+370) ASSISTANT
+[pickup][ALT]Just leave us alone!
+371) BATMAN
+[pickup][ALT]What does that mean?
+372) BATMAN
+[pickup][threatening]Don’t make me hurt you.
+373) BATMAN
+[pickup]Start talking and I’ll hand you over to the police in one piece.
+374) COA03
+[pickup][laughs]Go ahead.
+376) GORDON
+[pickup]I better call this in.
+377) GORDON
+[pickup][ALT]I’ll see what I can dig up on my end.
+378) BATMAN
+[pickup][giving him a comm device]Here. Use this if you need to get in contact.
+379) GORDON
+[pickup][weary]{TiredB}We got our{AngryA}{FaceAccent} asses handed to us.
+380) GORDON
+[pickup]They almost got to Harvey...
+381) BATMAN
+[pickup]{AngryA}They knew you were coming.
+383) BATMAN
+{AngryA}They knew you were coming.
+382) GORDON
+[weary]{TiredB}We got our{AngryA}{FaceAccent} asses handed to us.
+384) GROGAN
+[over the radio]Gordon! Gordon, come in! Do you copy?
+387) COA03
+[pickup]There’s nothing the cops can do that we won’t know about.
+388) COA03
+[pickup]Including every time Gordon uses you as his errand boy.
+389) COA03
+[pickup]Dent got lucky this time.
+429) COA03
+[pickup]Dent got lucky this time.
+390) COA03
+[pickup][mean]What are you gonna do without your protector?
+430) COA03
+[pickup][mean]What are you gonna do without your protector?
+391) GORDON
+[pickup]w
+392) 
+He would’ve wished for death.
+393) 
+What are you saying?
+394) 
+I would’ve arrested him!
+395) COP02
+[pickup]Self-defense he says.
+396) COP02
+[pickup]New mayor’s pretty tough, turns out. Killed one of those guys attacking him with his bare hands.
+397) BATMAN
+[pickup]Dent did that?
+398) COP02
+[pickup]Guess the fella’s lucky Dent got to him before you did, huh?
+399) COP02
+[pickup]You don’t kill, but...
+400) COP02
+[pickup]Sometimes you do worse, don’t you?
+401) COP02
+[pickup]At least this way it was over quick.
+402) BATMAN
+[pickup]If you have something to say then say it.
+403) COP02
+[pickup]We all know how you operate.
+404) BATMAN
+[pickup]I’d have put him in jail.
+405) BATMAN
+[pickup]So unless you’re making a comment on the justice system, I’m afraid you’ve been misinformed.
+406) COP02
+[pick
+407) COP02
+[pickup]You’ve been trying this nice guy routine lately, but I don’t buy it for a second.
+423) COP02
+[pickup]You’ve been trying this nice guy routine lately, but I don’t buy it for a second.
+408) COP02
+[pickup]You like to see them hurt don’t you?
+421) COP02
+[pickup]You like to see them hurt don’t you?
+409) COP02
+[pickup]They’re not dead, but they wish they were.
+422) COP02
+[pickup]They’re not dead, but they wish they were.
+410) COP02
+At least this one died quick.
+413) COP02
+At least this one died quick.
+419) COP02
+At least this one died quick.
+420) COP02
+At least this one died quick.
+411) BATMAN
+[pickup][ALT - add]You’re wrong about me.
+412) COP02
+[pickup]You think any of us are buying this recent nice guy routine? We’ve all heard the stories about you.
+414) COP02
+[pickup][pssh]Yeah they get around to us eventually, but you hurt them first, don’t you?
+415) COP02
+[pickup]They beg for mercy but you never give it.
+416) BATMAN
+[pickup]You’re right. [beat]I wouldn’t have let him off that easy.
+417) COP02
+[pickup]‘Course you woudn’t.
+418) COP02
+[pickup]You may not kill, but I’ve heard stories about you.
+424) COP02
+[pickup][ALT]And I thought Gotham was rough before.
+425) COP02
+[pickup][ALT]Things are changing in Gotham, that’s for sure...
+426) CHEMTHUG
+[pickup]Heads up. The cops just sent three black-and-whites to stop our guys at the construction site.
+427) CHEMTHUG
+[pickup]From the chatter, sounds like Gordon’s with ‘em.
+428) CHEMTHUG
+[pickup][ALT]Heads up. The cops just sent three black-and-whites to stop our guys at the handoff.
+431) 
+This ends now!

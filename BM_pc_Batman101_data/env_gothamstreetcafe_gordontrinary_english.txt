@@ -1,0 +1,192 @@
+﻿1) GORDON
+I don’t even want to know where you {FaceAccent} got this.
+2) GORDON
+[sadness]{TiredA}Sometimes I think this {SadA}{FaceAccent}whole city’s a crime scene.
+3) 
+Won’t Batman protect you?
+4) 
+You’ll owe me.
+5) GORDON
+{ThinkingA}So, you should know this {AngryA}[holds up the envelope]isn’t a gonna change a thing about the {SadA}investigation of your family.
+6) BRUCE
+There are no strings attached.
+7) BRUCE
+I just want Falcone gone.
+8) BRUCE
+Everyone can be bought.
+9) GORDON
+Gonna pretend you’re all clear on that now.
+10) GORDON
+Don’t want this to proceed under any false pretenses.
+11) BRUCE
+{ThinkingA}I’m a businessman. {FaceAccent}I build relationships.
+12) GORDON
+[deadpan]{AngryA}I’ll just assume you were drawn to my {FaceAccent}{BodyAccent}effervescent personality.
+13) BRUCE
+{AmusedA}I heard you were the {ThinkingA}{BodyAccent}last honest man on the {AngryA}force.
+14) GORDON
+[uncomfortable]{TiredA}I wouldn’t exactly say that -- {AngryA}but yeah I’ve seen him -- {ThinkingA}around.
+15) BRUCE
+{SkepticalA}I heard that you... {ConcernedA}{FaceAccent}{BodyAccent}work with the {AngryA}Batman sometimes.
+16) GORDON
+[haunted]Men that {FaceAccent}powerful -- they tend to be{FaceAccent} dangerous.
+17) GORDON
+{ThinkingA}Yeah. He’s probably the only guy out there I would trust with my life.
+18) BRUCE
+{ThinkingA}That you two are... {ConcernedA}friends.
+19) BRUCE
+{ThinkingA}{FaceAccent}{BodyAccent}Well, I wouldn’t tell you anyways.
+20) GORDON
+{determined}Still... I gotta know one {AngryB}thing.
+21) GORDON
+{ThinkingA}Why give this to me?
+22) GORDON
+{ThinkingA}No need to blow smoke.
+23) 
+Take down Falcone.
+24) BRUCE
+{SkepticalA}This isn’t about {AngryA}politics.
+25) BRUCE
+Gotham is {SkepticalA}{BodyAccent}safer with Falcone {ConcernedA}{FaceAccent}off the streets.
+26) GORDON
+I’ve seen your house. Your cars. I know you’ve got the wallet for it...
+27) BRUCE
+{AmusedA}Well, he could{ConcernedA} protect you.
+28) GORDON
+{AngryA}He’s not as much of a{TiredA} hero as you think.
+29) 
+I’m sure you can handle it.
+30) 
+Then stay out of harm’s way.
+31) BRUCE
+{SkepticalA}Something tells me that {FaceAccent}{AmusedA}you can handle it.
+32) GORDON
+Men as powerful as you... they don’t usually trust so easy.
+33) GORDON
+{TiredA}I gotta go.
+34) GORDON
+{TiredB}I came straight from a crime scene and I {AngryA}haven’t been home yet.
+35) GORDON
+Thanks, Bruce.
+36) GORDON
+[sadness]And we’re just {FaceAccent}{BodyAccent}walkin’ through it.
+37) GORDON
+You and me both.
+38) GORDON
+{ThinkingA}Tell me you {AngryA}didn’t leak this to the press.
+39) BRUCE
+{SkepticalA}No. {SmugA}Just you.
+40) GORDON
+{AngryA}Keep it that way.
+41) GORDON
+{ThinkingA}Don’t get me wrong--I appreciate the hell outta this.
+42) GORDON
+{AngryA}It’s a first step in the marathon to {determined}fix this city.
+43) GORDON
+I’ve got enough {AngryB}{FaceAccent}{BodyAccent}cancer coming my way as it is.
+44) GORDON
+{AngryB}We wouldn’t want {FaceAccent}{BodyAccent}Falcone to know what’s coming.
+45) GORDON
+{ThinkingA}Thanks for the vote of confidence.
+46) BRUCE
+{SkepticalA}Don’t put {ConcernedA}yourself in harm’s way.
+47) GORDON
+{AngryB}I can’t be bought.
+48) 
+My family deserves justice.
+49) GORDON
+You gotta understand--I’m bound to this badge.
+50) BRUCE
+The investigation isn’t the problem--it’s the Wayne family name.
+51) GORDON
+If your family’s clean, I’ll sing it from the rooftops.
+52) GORDON
+If they aren’t... I’ll still sing.
+53) BRUCE
+Help me clear it.
+54) GORDON
+But I’m not for sale.
+55) BRUCE
+{AngryA}What you’re holding... {SadA}will make walking it much safer.
+56) GORDON
+I’m tired of staring at his mugshot.
+57) 
+I trust you.
+58) 
+No strings attached.
+59) 
+Everyone has a price.
+60) GORDON
+[awe]This... this is a silver bullet.
+61) GORDON
+Everyone on the force will too.
+62) GORDON
+We’ve been lookin’ for this kinda firepower for years.
+63) GORDON
+But thank you, honestly.
+64) GORDON
+Knowing this evidence can lock up Falcone... I’ll sleep like a goddamn baby. For once.
+65) BRUCE
+And it doesn’t hurt to have one with the GCPD.
+66) GORDON
+But this grants you an invitation for life.
+67) GORDON
+If you wanted to attend one of my famous barbecues, all you had to do was ask.
+68) GORDON
+If I go after Falcone, I might not come back.
+69) GORDON
+Something like this--it’s the dividing line.
+70) BRUCE
+Between what?
+71) GORDON
+The guys who joined the force to make a difference... and those who just wanted to wear a gun.
+72) GORDON
+She’s why I go out there, night after night.
+73) GORDON
+I’ve got a daughter... Barbara.
+74) GORDON
+A father just wants his kids to sleep safe, y’know?
+75) GORDON
+And he’s wearing a mask, not a badge.
+76) GORDON
+Can you believe that?
+77) GORDON
+I do it so others won’t have to, simple as that.
+78) GORDON
+That’s the job, Mr. Wayne.
+79) BRUCE
+Not many heroes like you left, Lieutenant.
+80) GORDON
+It’s alright, I wouldn’t expect you to understand.
+81) GORDON
+Cops, we got a screw loose, but I don’t regret a single moment of sticking my neck out for this city.
+82) BRUCE
+[cheeky]Well... I can always change in the car.
+83) ALFRED
+[VOP comm]The Drones located Falcone downtown, a place called The Skyline Club.
+84) ALFRED
+[VOP comm]Though, you’re not dressed for that kind of party.
+85) ALFRED
+[VOP comm]Good. So is our hunt.
+86) BRUCE
+{ThinkingA}[to Alfred over comm]It’s done.
+87) GORDON
+You know, as much as I appreciate you callin’ me here, I gotta make one thing crystal...
+88) GORDON
+Until we find nothing, though, I gotta play bad cop.
+89) GORDON
+The Waynes always supported the Gotham Police.
+90) GORDON
+So I’d like to believe there’re no cloaks or daggers hidden in your closet.
+91) GORDON
+[ALT]Hey, stick to “Jim.“
+92) BRUCE
+[ALT][acknowledging him]Well, Lieutenant.
+93) GORDON
+[ALT]“Lieutenant” makes me sound old and I got plenty of asskickin’ left to do.
+94) BRUCE
+No, you don’t.
+95) GORDON
+I know... they’re all dead.
+96) GORDON
+And it’s gonna put Falcone down once and for all.

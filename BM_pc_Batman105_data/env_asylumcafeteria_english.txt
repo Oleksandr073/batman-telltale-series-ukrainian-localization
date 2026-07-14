@@ -1,0 +1,502 @@
+﻿1) 
+Inmate vs. Orderly
+2) 
+Release him and fight me.
+3) 
+You’ve already lost.
+4) 
+[signal Gordon to strike]
+40) 
+
+41) VICKI
+[getting hit, angry]
+43) VICKI
+[getting hit, angry]
+45) ZSASZ
+[creepy laugh]
+48) ZSASZ
+[low laughter]
+134) 
+[Leave]
+153) VICKI
+[getting hit, angry]
+154) ZSASZ
+[creepy laugh]
+155) ZSASZ
+[being electocuted]
+156) ZSASZ
+[extreme pain, followed by non-profanity cursing]
+162) ZSASZ
+[cursing! hand exploded pain]
+163) ZSASZ
+[calms down]
+165) 
+
+189) 
+[Leave]
+244) JOKER
+[cheering]
+5) GORDON
+This is madness.
+6) BATMAN
+[concerned]Stay close, Jim.
+7) GORDON
+I always wondered...
+8) BATMAN
+Wondered what?
+9) GORDON
+What it must feel like to be Batman.
+10) BATMAN
+[scary bat]Stay out of my way.
+126) BATMAN
+Stay out of my way.
+240) BATMAN
+[scary bat]Stay out of my way.
+11) BATMAN
+[pained][cut]Argh!
+150) BATMAN
+[pained][cut]Argh!
+12) ZSASZ
+[to Batman]How many lives have you taken away from me?
+160) ZSASZ
+[to Batman]How many lives have you taken away from me?
+13) ZSASZ
+Aargh! Batman!
+152) ZSASZ
+Aargh! Batman!
+14) ZSASZ
+Now all I want is yours.
+161) ZSASZ
+Now all I want is yours.
+15) ZSASZ
+I’ve saved this patch of skin above my heart for you.
+248) ZSASZ
+I’ve saved this patch of skin above my heart for you.
+250) ZSASZ
+I’ve saved this patch of skin above my heart for you.
+16) GORDON
+Get off of me!
+17) ZSASZ
+I’m going to slit his throat and pull out his larynx, Batman.
+18) BATMAN
+[scary bat]Let him go.
+19) ZSASZ
+I look forward to wearing your face.
+158) ZSASZ
+I look forward to wearing your face.
+20) BATMAN
+You don’t want him.
+21) ZSASZ
+[considering]That’s true.
+22) ZSASZ
+Then I’ll just have to carve off Gordon’s face and walk out of here wearing *it,* instead.
+23) BATMAN
+It’s already over, Zsasz.
+24) BATMAN
+The police are here. You’re not walking out of this building.
+25) GORDON
+Lunatic!
+26) BATMAN
+Jim-- no!
+27) ZSASZ
+[to Gordon]Next I’m gonna visit your children.
+28) GORDON
+Now!
+29) ZSASZ
+[stomach-punch]Gah!
+30) GORDON
+Don’t worry about me.
+246) 
+Don’t worry about me.
+31) GORDON
+I’m alright.
+32) MONTOYA
+Gordon’s here!
+190) MONTOYA
+Gordon’s here!
+33) COP04
+Batman too!
+191) COP04
+Batman too!
+34) GORDON
+We’ll round up the rest of the inmates.
+192) GORDON
+We’ll round up the rest of the inmates.
+35) GORDON
+You stop Lady Arkham!
+193) GORDON
+You stop Lady Arkham!
+36) GORDON
+We’ve got the inmates.
+164) GORDON
+We’ve got the inmates.
+195) MONTOYA
+We’ve got the inmates.
+37) GORDON
+[sees Batman]Batman!
+128) GORDON
+Batman!
+166) GORDON
+[sees Batman]Batman!
+175) GORDON
+Batman!
+194) MONTOYA
+[sees Batman] Batman!
+38) GORDON
+I’m going with Batman.
+170) GORDON
+I’m going with Batman.
+39) GORDON
+[under breath, to self]Damnit...
+169) GORDON
+[under breath, to self]Damnit...
+42) BATMAN
+Lady Arkham has a hostage.
+167) BATMAN
+Lady Arkham has a hostage.
+44) ZSASZ
+I’ll have to carve that suit off to get to what’s underneath.
+46) BATMAN
+Then come and get me.
+47) ZSASZ
+It might take a while, but.
+49) ZSASZ
+Straight to the blood.
+50) ZSASZ
+No banter? [darkly:]Fine.
+51) GORDON
+A little help!
+52) GORDON
+[disgusted]Oh, Jesus!
+172) GORDON
+[disgusted]Oh, Jesus!
+196) GORDON
+[disgusted]Oh, Jesus!
+53) GORDON
+[ALT][disgusted]Hell.
+54) BATMAN
+[Alt] Out of my way
+114) VICKI
+Out of my way!
+55) BATMAN
+[ALT][bark]Stay close.
+56) GORDON
+[barking]Over my dead body!
+57) ZSASZ
+[laughing]That’s the plan.
+159) ZSASZ
+[laughing]That’s the plan.
+58) ZSASZ
+[to Gordon]I’ll honor you properly, don’t worry.
+59) ZSASZ
+A deep cut for your sacrifice.
+60) ZSASZ
+[to Gordon]I’m giving you a gift. A way out of all this pointless chaos... [is punched]
+61) ZSASZ
+One for you, one for me.
+62) ZSASZ
+Have you ever seen the true color of blood?
+63) ZSASZ
+It’s beautiful.
+64) LADYARKHAM
+Stay back!
+65) LADYARKHAM
+You can’t keep up.
+66) LADYARKHAM
+Give up.
+67) LADYARKHAM
+Get back!
+107) ORDERLY01
+Get back!
+68) LADYARKHAM
+Get Batman!
+110) VICKI
+Get Batman!
+69) LADYARKHAM
+Get him!
+70) LADYARKHAM
+Over there!
+91) GCPD01
+Over there!
+71) LADYARKHAM
+Over here!
+72) LADYARKHAM
+Slow him down!
+73) LADYARKHAM
+Take this place back!
+74) JOKER
+Ooh! Good hit!
+75) JOKER
+Aww, put your back into it!
+76) JOKER
+Ouch!
+77) JOKER
+That one had to hurt!
+78) JOKER
+Off with his head!
+79) JOKER
+My, my.
+80) INMATE01
+Yeah!
+81) INMATE01
+Eat it.
+82) INMATE01
+Come here.
+83) INMATE02
+Can’t run from this.
+84) INMATE02
+Payback! It’s a bitch.
+85) INMATE02
+Now who’s leading the therapy group, huh?
+86) INMATE03
+Finally!
+87) INMATE03
+Batman’s here!
+88) INMATE03
+It’s Batman!
+89) INMATE01
+Batman’s this way!
+90) GCPD01
+Cover Batman!
+92) GCPD02
+Over here! Help me!
+93) GCPD02
+Come on! Let’s go!
+94) GCPD02
+Stay down!
+95) GCPD03
+We got this!
+96) GCPD03
+There’s another over there!
+97) GCPD04
+Get over there!
+98) GCPD04
+Get over here!
+99) GCPD05
+Batman’s got that one!
+100) GCPD05
+It’s all clear!
+101) GCPD06
+You heard Gordon!
+102) GCPD06
+Get moving!
+103) GCPD04
+We need backup!
+104) GCPD05
+More are coming!
+105) GCPD03
+You heard the lieutenant!
+106) ORDERLY01
+Help!
+108) ORDERLY02
+Get away from me!
+109) ORDERLY02
+Dammit!
+111) VICKI
+Go get him!
+112) VICKI
+Get out of my way!
+113) VICKI
+Move!
+115) ZSASZ
+I’m going to slice you open, Batman.
+116) ZSASZ
+I’ll make you bleed.
+251) ZSASZ
+I’ll make you bleed.
+117) ZSASZ
+You’re going to die!
+249) ZSASZ
+You’re going to die!
+118) ZSASZ
+You can do better than that.
+119) ZSASZ
+How disappointing.
+120) ZSASZ
+No!
+121) ZSASZ
+No!
+122) BATMAN
+No!
+123) BATMAN
+Gordon!
+124) BATMAN
+Get back here!
+125) BATMAN
+You’re mine.
+127) VICKI
+Take your time, Zsasz.
+151) VICKI
+Take your time, Zsasz.
+129) GORDON
+Don’t die.
+173) GORDON
+Don’t die.
+130) GORDON
+That’s an order.
+174) GORDON
+That’s an order.
+131) GORDON
+This city needs you.
+177) GORDON
+This city needs you.
+132) 
+I don’t take orders.
+188) 
+I don’t take orders.
+133) 
+Don’t worry.
+187) 
+Don’t worry.
+135) BATMAN
+I don’t take orders from you.
+136) GORDON
+Make it a request then.
+178) GORDON
+Make it a request then.
+137) GORDON
+From a friend.
+180) GORDON
+From a friend.
+138) BATMAN
+Don’t worry about me, Jim.
+179) BATMAN
+Don’t worry about me, Jim.
+139) BATMAN
+I don’t die easy.
+181) BATMAN
+I don’t die easy.
+140) BATMAN
+Don’t get your hopes up.
+183) BATMAN
+Don’t get your hopes up.
+141) GORDON
+Hope’s all I’ve got.
+185) GORDON
+Hope’s all I’ve got.
+142) BATMAN
+This won’t be easy.
+184) BATMAN
+This won’t be easy.
+143) GORDON
+Just be careful.
+186) GORDON
+Just be careful.
+144) GORDON
+I’ll hold you to that.
+182) GORDON
+I’ll hold you to that.
+145) BATMAN
+[alt] You’ve done enough Gordon.
+171) BATMAN
+[alt] You’ve done enough Gordon.
+146) BATMAN
+[alt] I’ll handle the rest.
+168) BATMAN
+[alt] I’ll handle the rest.
+147) BATMAN
+[dark] You’re not getting away.
+148) BATMAN
+[alt] Lady Arkham.
+149) BATMAN
+[dark] Vicki.
+157) BATMAN
+I don’t take orders from you, remember?
+176) BATMAN
+I don’t take orders from you, remember?
+197) MONTOYA
+Lock it down!
+198) 
+Hanging Light
+199) 
+Food Tray
+200) 
+Kitchen
+201) 
+Long Table
+202) 
+Door
+203) 
+Chair
+204) 
+Gurney
+205) 
+Tazer
+206) 
+Light Fixture
+207) 
+Table
+208) 
+Link Inmate #1119
+209) 
+Has already fractured the orderly’s cheek and nose.
+210) 
+Link Inmate #1005
+211) 
+Given much longer, will crush the orderly’s trachea.
+212) 
+Link Inmate #1328
+213) 
+About to gut the defenseless orderly.
+214) 
+Link Inmates #0219 and #0626
+215) 
+Could send Dr. Leland into cardiac arrest.
+216) 
+Link Lady Arkham
+217) 
+The target.
+218) 
+Link Hanging Light
+220) 
+Link Hanging Light
+219) 
+Cord is durable and heavily mounted into the ceiling.
+221) 
+Cord is durable and heavily mounted into the ceiling.
+222) 
+Link Food Tray
+223) 
+Made to be shatterproof.
+224) 
+Link Kitchen
+225) 
+Open to the cafeteria floor.
+226) 
+Link Long Table
+227) 
+Designed to seat many, top is long and laminate.
+228) 
+Link Door
+229) 
+Built to contain riots.
+230) 
+Link Chair
+231) 
+Lightweight and accessible.
+232) 
+Link Gurney
+233) 
+A mobile, sturdy model.
+234) 
+Link Taser
+235) 
+Law enforcement rated, 50,000 volts.
+236) 
+Link Table
+237) 
+Heavy metal and wood construction.
+238) 
+Link Light Fixture
+239) 
+Double hanging attachments.
+241) MONTOYA
+Be thorough!
+242) JOKER
+Such a pleasure to see your work in person!
+243) JOKER
+Truly inspiring!
+245) JOKER
+Impressive, Batman!
+247) 
+Sorry, I don’t take orders.

@@ -1,0 +1,278 @@
+﻿1) BATMAN
+Alfred.
+14) BATMAN
+Alfred.
+124) BATMAN
+{NormalA}Alfred.
+125) BATMAN
+{NormalA}Alfred.
+2) ALFRED
+You alright?
+15) ALFRED
+You alright?
+3) BATMAN
+Yeah [beat]How did they know I was coming?
+16) BATMAN
+Yeah [beat]How did they know I was coming?
+126) BATMAN
+{NormalA}Yeah [beat]How did they know I was coming?
+4) ALFRED
+I don’t know. I’d recommend only using your secure channel for the time being.
+17) ALFRED
+I don’t know. I’d recommend only using your secure channel for the time being.
+5) 
+Listen.
+19) 
+Listen.
+28) 
+Listen.
+6) 
+Travel To.
+18) 
+Travel To.
+27) 
+Travel To.
+7) HARVEY
+God, is this guy *trying* to drive us off the road.
+8) ASSISTANT
+He’s been following us for the last five blocks.
+9) ASSISTANT
+[to the driver]Take a left down here!
+10) HARVEY
+What the--?
+11) HARVEY
+Dammit!
+12) ALFRED
+That didn’t sound good.
+13) BATMAN
+[worried]Harvey...
+20) 
+
+21) 
+
+22) 
+
+23) 
+
+24) 
+
+25) 
+
+26) 
+
+39) 
+
+76) 
+
+77) 
+
+78) 
+
+79) 
+
+80) 
+
+81) 
+
+82) 
+
+83) 
+
+84) 
+
+85) 
+
+87) 
+
+88) 
+
+89) 
+
+90) 
+
+92) 
+
+93) 
+
+97) 
+
+98) 
+
+99) 
+
+111) 
+
+112) 
+
+113) 
+
+114) 
+
+115) 
+
+116) 
+
+117) 
+
+118) 
+
+119) 
+
+120) 
+
+29) COA01
+You’re dealing with us now. The Children of Arkham are taking over.
+30) DEALER
+Now hang on--[interrupted]
+31) LADYARKHAM
+Do we have a problem?
+32) LADYARKHAM
+[menacing]You’ll deal with whoever I tell you to.
+33) LADYARKHAM
+Understand?
+34) BATMAN
+That voice...
+35) ALFRED
+Might not be there much longer.
+36) ALFRED
+Be careful, Bruce.
+40) ALFRED
+Be careful, Bruce.
+96) ALFRED
+Be careful, Bruce.
+37) BATMAN
+I’m going to the new hospital site.
+38) BATMAN
+I’m going to help Harvey.
+41) COP02
+[into the radio]We need back-up. Now! I repeat, we need back-up!
+42) COP01
+Eveybody get down!
+43) ALFRED
+Bringing it up now.
+67) ALFRED
+Bringing it up now.
+101) ALFRED
+Bringing it up now.
+44) BATMAN
+{ThinkingA}I need an update on the construction site.
+45) ALFRED
+Good to know your own channels haven’t been compromised.
+46) GORDON
+[frantic]What was that?!
+47) ALFRED
+You’d better get down there.
+61) ALFRED
+You’d better get down there.
+75) ALFRED
+You’d better get down there.
+109) ALFRED
+You’d better get down there.
+48) BATMAN
+{AngryA}On my way.
+57) BATMAN
+{AngryA}On my way.
+66) BATMAN
+On my way.
+110) BATMAN
+On my way.
+49) GORDON
+[through megaphone]Put down your weapons!
+71) GORDON
+[over megaphone]Put down your weapons!
+105) GORDON
+[over megaphone]Put down your weapons!
+50) GORDON
+[shit]More of em!
+51) GORDON
+[frantic]Everybody get down! [into his radio]Commissioner, come in! We need back-up! Hello?
+52) COA03
+Get out of the car! Right now!
+53) COA04
+Clock’s ticking, Mr. Dent!
+54) ALFRED
+I’m bringing it up now.
+55) HARVEY
+Deborah, get down!
+56) ASSISTANT
+Look out!
+58) BATMAN
+{NormalA}I need an update on Harvey.
+59) COP02
+We need you down here, Gordon! [a beat]Gordon?!
+60) GORDON
+We’ve got company!
+62) GORDON
+We’re almost there!
+63) BATMAN
+They weren’t ready for me that time.
+65) BATMAN
+They weren’t ready for me that time.
+64) BATMAN
+{AngryA}They seem to be getting info on the GCPD’s whereabouts. {AngryB}Not sure how.
+68) COA01
+That’s the last of em!
+102) COA01
+That’s the last of em!
+69) LADYARKHAM
+Hurry up! I don’t have time to babysit you! [beat]The rest of you, form up!
+103) LADYARKHAM
+Hurry up! I don’t have time to babysit you! [beat]The rest of you, form up!
+70) DEALER
+Wait! What about my money?
+104) DEALER
+Wait! What about my money?
+72) LADYARKHAM
+[low laugh]Cute.
+106) LADYARKHAM
+[low laugh]Cute.
+73) GORDON
+[frantic]Everybody get down! [aside]Dammit!
+107) GORDON
+[frantic]Everybody get down! [aside]Dammit!
+74) GORDON
+[into his walkie]Commissioner, come in! We need back-up! Hello?
+108) GORDON
+[into his walkie]Commissioner, come in! We need back-up! Hello?
+86) BATMAN
+I need an update on the docks.
+100) BATMAN
+I need an update on the docks.
+91) BATMAN
+I’m going to the docks.
+94) BATMAN
+I’m going to the docks
+95) ALFRED
+Be careful, DIR:(Emily Garrison, Thu Aug 11 14:38:32 2016) Batman turns to leave and with a whoosh of his cape he’s gone!
+121) 
+Alley
+122) 
+Docks
+123) 
+Construction Site
+127) BATMAN
+{NormalA}Yeah [beat]{ThinkingA}How did they know I was coming?
+128) BATMAN
+[PICKUP][ALT]I need an update on Montoya.
+129) MONTOYA
+[PICKUP]Gordon, over here!
+130) GORDON
+[PICKUP]Stay down! We’re coming to you!
+131) MONTOYA
+[PICKUP]No! There’s too many of them! [beat]Behind you!
+132) HARVEY
+[PICKUP][breathing heavy]Get back in the car, Deborah!
+133) ASSISTANT
+[PICKUP][horrified]Mr. Dent! What did you do to him?
+134) HARVEY
+[PICKUP][unhinged]I said get back in the car! There’s more of them coming!
+135) BATMAN
+[pickup]{NormalA}Yeah. {ThinkingA}But they knew I was coming.
+136) GORDON
+[PICKUP]Everybody take cover!
+137) GORDON
+[pickup][alarmed]There’s too many of ‘em! Everybody take cover!
+138) ALFRED
+[pickup][ALT]Sounds like an ambush.
+139) ALFRED
+[pickup][ALT]The police are outnumbered!

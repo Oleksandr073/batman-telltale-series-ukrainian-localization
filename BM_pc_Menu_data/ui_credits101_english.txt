@@ -1,0 +1,2231 @@
+﻿1) 
+^font:MenuDisplaySmall.font^WRITTEN BY
+2) 
+^font:MenuDisplaySmall.font^DESIGNED BY
+3) 
+^^Chris Hockabout - Lead
+Mark Darin
+Emily Garrison
+Michael Kirkbride
+Luke Maulding
+4) 
+^font:MenuDisplaySmall.font^DIRECTED BY
+5) 
+^^Kent Mudle
+6) 
+^font:MenuDisplaySmall.font^ART DIRECTION BY
+7) 
+^^Martin McDonald
+8) 
+FMOD Studio by Firelight Technologies
+Uses Simplygon (TM), Copyright © 2014 Donya(TM) Labs AB
+©2002 Jean-Marc Valin
+ 
+
+Uses Oodle. Copyright (C) 2008-2016 by RAD Game Tools, Inc.
+ 
+Copyright © 1994–2016 Lua.org, PUC-Rio.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+ 
+ 
+This game is a work of fiction.  All of the characters, events, locations, logos, and entities portrayed are fictional.  Any resemblance to real persons, living or dead, or actual events, is purely coincidental.
+ 
+ 
+Software code © 2016 Telltale, Inc. All other elements ©2016 DC Comics.  BATMAN and all related characters, their distinctive likenesses, and related elements are the property of DC Comics.  ™ & © 2016.  Telltale, Telltale Games, Crowdplay, the Crowd Play logo and the Telltale logo are trademarks and/or registered trademarks of Telltale, Inc. All rights reserved.
+WBIE LOGO, WB SHIELD: ™ & © Warner Bros. Entertainment Inc. (s16)
+ 
+All other trademarks are the property of their respective owners.  All rights reserved.
+9) 
+In Memoriam
+
+Jory Prum
+1975 - 2016
+
+Stuart Waterman
+1973 - 2016
+10) 
+^font:MenuDisplaySmall.font^MUSIC BY
+11) 
+^font:MenuDisplaySmall.font^CONTENT PROGRAMMING
+12) 
+^font:MenuDisplaySmall.font^ANIMATION
+13) 
+^font:MenuDisplaySmall.font^CINEMATIC ARTISTS
+14) 
+^^Jared Emerson-Johnson
+15) 
+^^Zack Keller - Lead
+Patrick Kevin Day
+Shanon Ingles
+Nicole Martinez
+James Windeler
+16) 
+^^Matthew Leach - Lead
+Linda Bork
+Bridget  Bougan
+Kyle Cabral
+Patrick Clark
+Colter Coates
+Mark Droste
+Justin M Dunkle
+Hillary Galvin
+Michael Gambino
+Ori Gellman
+Tamara Go
+Andrew Goh
+Rogelio Gonzalez
+Scott Hammack
+Jonah Huang
+Jane Kim
+Zachary Macias
+Keenan Manely
+Andrew McDonell
+Christopher Rebbert
+Christopher Rieser
+Brett R. Rogstad
+Daniel Rosales Mendoza
+Jonathan Stauder
+Sean Stewart
+Ryann Lynn Weller
+Robert Wilson
+17) 
+^^Michael Tjosvold - Lead
+Caitlin Geels
+Michael Hall
+Ryan Hayford
+Tyler Helton
+Michael Hollander
+Marcia Hunsicker
+Eric Ingerson
+Jason Malinowsky
+Dianzambi Nick Malutama
+Chris McCormick
+Ryan Rasmussen
+Justin Rosenthal-Kambic
+Ramon Torralba
+Angelita R. Wylie
+18) 
+^^Tulley Rafferty - Lead
+David Grem Armstrong
+Michael Carpenter
+Gregory Felber
+Jason Kim
+John Wetmiller
+19) 
+^font:MenuDisplaySmall.font^ENVIRONMENT ART
+20) 
+^^Christian De Los Santos - Lead
+Jonathan Armstrong
+Brenton Corns
+Julia Lichtblau
+Farhan Noor
+Mark Sheppard
+Amanda Stewart
+Josh Michael Tyler
+Jan Wyss
+21) 
+^font:MenuDisplaySmall.font^CHARACTER ART
+22) 
+^^Daveed Kaplan - Lead
+Jay Lenn Cardona
+John Carnabuci
+Brandon Cebenka
+Davide Pagin
+Michael Sherak
+John Susuico
+Michael Vallejo
+23) 
+^font:MenuDisplaySmall.font^LIGHTING
+24) 
+^^Leif Estes- Lead
+Craig Schiller
+25) 
+^font:MenuDisplaySmall.font^CONCEPT ART
+26) 
+^^Michael Broussard
+Gray Rogers
+Derek Stratton
+27) 
+^font:MenuDisplaySmall.font^USER INTERFACE
+28) 
+^^David R. Monroe - Lead
+Luke Aiello
+Hain Lee
+Adrianne Pugh
+Katie Zammit
+29) 
+^font:MenuDisplaySmall.font^TECHNICAL ART AND EFFECTS
+30) 
+^^Jeffrey Benjamin - Lead VFX
+Ricky Lee O’Connor - Lead Rigging
+Tracey Landau
+Emily Overfelt
+Michael Perretta
+Valeria Reznitskaya
+William L. Walker
+31) 
+^font:MenuDisplaySmall.font^SOUND DESIGN
+32) 
+^^Lazar Levine - Lead
+Brian Correia
+Scott Gilmore
+Michael Kamper
+33) 
+^font:MenuDisplaySmall.font^VO DIRECTION
+34) 
+^^William Beckman - Lead
+Arthur Von Nagel
+35) 
+^font:MenuDisplaySmall.font^ASSISTANT DIRECTOR
+36) 
+^^Name(s)
+62) 
+^^Name(s)
+63) 
+^^Name(s)
+73) 
+^^Name(s)
+82) 
+^^Name(s)
+88) 
+^^Name(s)
+228) 
+^^Name(s)
+232) 
+^^Name(s)
+37) 
+^font:MenuDisplaySmall.font^CREATIVE LEAD
+38) 
+^^Andrew Grant
+39) 
+^^Brett Tosti
+40) 
+^font:MenuDisplaySmall.font^CREATIVE DIRECTOR
+41) 
+^font:MenuDisplaySmall.font^EXECUTIVE PRODUCER
+42) 
+^^Sean O’Connor
+43) 
+^font:MenuDisplaySmall.font^SENIOR  PRODUCER
+44) 
+^^Brodie Andersen
+45) 
+^font:MenuDisplaySmall.font^PRODUCERS
+46) 
+^^Bryan Roth
+Lisa Schulz
+47) 
+^^Jay Chaney
+Christopher Vossen
+48) 
+^font:MenuDisplaySmall.font^ASSOCIATE PRODUCERS
+49) 
+^font:MenuDisplaySmall.font^ASSISTANT PRODUCERS
+50) 
+^^Gregory Masto
+Andrew Smallwood
+51) 
+^font:MenuDisplaySmall.font^CREATIVE ASSISTANTS
+52) 
+^^Mark Anquoe
+Juan Vaca
+53) 
+^font:MenuDisplaySmall.font^ADDITIONAL WRITING
+54) 
+^^Meredith Ainsworth
+Michael Choung
+Andrew Hanson
+Pierre Shorette
+55) 
+^font:MenuDisplaySmall.font^ADDITIONAL DESIGN
+56) 
+^^Ryan Kaufman
+Matthew McManus
+57) 
+^font:MenuDisplaySmall.font^ADDITIONAL DIRECTION
+58) 
+^^Nicholas Herman
+59) 
+^font:MenuDisplaySmall.font^ADDITIONAL ART DIRECTION
+60) 
+^^Derek Sakai
+61) 
+^font:MenuDisplaySmall.font^ADDITIONAL MUSIC
+64) 
+^font:MenuDisplaySmall.font^ADDITIONAL CONTENT PROGRAMMING
+385) 
+^font:MenuDisplaySmall.font^ADDITIONAL CONTENT PROGRAMMING
+65) 
+^font:MenuDisplaySmall.font^ADDITIONAL ANIMATION
+66) 
+^^Mindwalk Studios
+West Munz
+Chris Waltner
+67) 
+^^Ryan Chan
+Airyque Ervin
+Scott Hammack
+Jonah Huang
+Marina Ilic
+Jonathan T. Kwok
+Sean Manning
+Robert Wilson
+68) 
+^font:MenuDisplaySmall.font^ADDITIONAL CINEMATIC ARTISTS
+69) 
+^^Ricardo Boronat
+Kelsey Martin
+John R. Miller
+Virtuos Games
+70) 
+^font:MenuDisplaySmall.font^ADDITIONAL CHARACTER ART
+71) 
+^^Jonathan Garcia
+Brian Flora (matte paintings)
+Jim Moore (matte paintings)
+Virtuos Games
+Volta (matte paintings)
+72) 
+^font:MenuDisplaySmall.font^ADDITIONAL ENVIRONMENT ART
+74) 
+^font:MenuDisplaySmall.font^ADDITIONAL LIGHTING
+75) 
+^font:MenuDisplaySmall.font^ADDITIONAL CONCEPT ART
+76) 
+^^Robin Chyo
+Min Fu
+John Grello
+Brian Matyas
+Dilanka Samaratunga
+77) 
+^font:MenuDisplaySmall.font^ADDITIONAL USER INTERFACE
+78) 
+^^Crystal Rogers
+79) 
+^font:MenuDisplaySmall.font^ADDITIONAL 
+TECHNICAL ART AND EFFECTS
+80) 
+^^Jason Armstrong
+Brian Eby
+Nora Falcon
+Jordan Levitt
+81) 
+^font:MenuDisplaySmall.font^ADDITIONAL ART TEAM SUPPORT
+83) 
+^font:MenuDisplaySmall.font^ADDITIONAL PRODUCTION
+84) 
+^^Todd Q. Jefferson
+Justin M. Lambros
+85) 
+^^Michael Daglow - Lead
+Romel Alonzo
+James Chapman
+Richard Heath
+Marylena LeBlanc
+William Quismorio
+Benjamin Vizcaino
+86) 
+^font:MenuDisplaySmall.font^DEVELOPMENT QUALITY ASSURANCE
+87) 
+^font:MenuDisplaySmall.font^VO PRODUCTION
+89) 
+^font:MenuDisplaySmall.font^CAST
+90) 
+^^Troy Baker
+91) 
+^font:MenuDisplaySmall.font^BATMAN, BRUCE WAYNE, 
+THOMAS WAYNE
+92) 
+^font:MenuDisplaySmall.font^CATWOMAN, SELINA KYLE
+93) 
+^^Laura Bailey
+94) 
+^font:MenuDisplaySmall.font^SONGS
+95) 
+^font:MenuDisplaySmall.font^BIRDS OF THE HEART
+96) 
+^^Words and Music by John di Martino
+© 2015 John di Martino Music BMI
+All rights reserved.
+259) 
+^^Words and Music by John di Martino
+© 2015 John di Martino Music BMI
+All rights reserved.
+97) 
+^font:MenuDisplaySmall.font^LIVE ORCHESTRA PRODUCTION BY
+287) 
+^font:MenuDisplaySmall.font^LIVE ORCHESTRA PRODUCTION BY
+292) 
+^font:MenuDisplaySmall.font^LIVE ORCHESTRA PRODUCTION BY
+98) 
+^^Dynamedion
+99) 
+^^Emmanuel Manzanares
+Vlad Rimburg
+100) 
+^font:MenuDisplaySmall.font^STUNT/FIGHT COORDINATORS
+101) 
+^font:MenuDisplaySmall.font^TELLTALE, INC.
+317) 
+^font:MenuDisplaySmall.font^TELLTALE, INC.
+102) 
+^font:MenuDisplaySmall.font^CEO
+103) 
+^^Kevin Bruner
+104) 
+^font:MenuDisplaySmall.font^CFO
+105) 
+^^Larry Castro
+106) 
+^font:MenuDisplaySmall.font^SENIOR VICE PRESIDENT OF PUBLISHING
+107) 
+^^Steve Allison
+108) 
+^^Dan Connors
+109) 
+^font:MenuDisplaySmall.font^EXECUTIVE ADVISOR
+110) 
+^font:MenuDisplaySmall.font^VICE PRESIDENT OF DEVELOPMENT
+111) 
+^^Paul Mathus
+112) 
+^font:MenuDisplaySmall.font^VICE PRESIDENT OF ENGINEERING
+113) 
+^^Zacariah Litton
+114) 
+^font:MenuDisplaySmall.font^VICE PRESIDENT OF ONLINE
+115) 
+^^Steve Crystal
+116) 
+^font:MenuDisplaySmall.font^DIRECTOR OF HUMAN RESOURCES
+117) 
+^^Kara Henander
+118) 
+^^Richard Iggo
+119) 
+^font:MenuDisplaySmall.font^SENIOR DIRECTOR OF MARKETING
+120) 
+^font:MenuDisplaySmall.font^DIRECTOR OF ANALYTICS
+121) 
+^^Nathan West
+122) 
+^font:MenuDisplaySmall.font^DIRECTOR OF ART DEPARTMENT
+123) 
+^^Dave Bogan
+124) 
+^^Michael Kamper
+125) 
+^font:MenuDisplaySmall.font^DIRECTOR OF AUDIO
+126) 
+^font:MenuDisplaySmall.font^DIRECTOR OF CINEMATICS
+127) 
+^^Vahram Antonian
+128) 
+^font:MenuDisplaySmall.font^DIRECTOR OF CONTENT ENGINEERING
+129) 
+^^Keenan Patterson
+130) 
+^font:MenuDisplaySmall.font^DIRECTOR OF CREATIVE COMMUNICATIONS
+131) 
+^^Job J. Stauffer
+132) 
+^font:MenuDisplaySmall.font^DIRECTOR OF DESIGN
+133) 
+^^Ryan Kaufman
+134) 
+^^John Merlino
+135) 
+^font:MenuDisplaySmall.font^DIRECTOR OF DISTRIBUTION AND RELEASE
+136) 
+^font:MenuDisplaySmall.font^DIRECTOR OF EXTERNAL PRODUCTION
+137) 
+^^Dennis Cooper
+138) 
+^font:MenuDisplaySmall.font^DIRECTOR OF PLATFORM TECHNOLOGY
+139) 
+^^David Brady
+140) 
+^font:MenuDisplaySmall.font^DIRECTOR OF PRODUCT MANAGEMENT
+141) 
+^^Tamir Nadav
+142) 
+^font:MenuDisplaySmall.font^DIRECTOR OF PRODUCTION
+143) 
+^^Alyssa Finley
+144) 
+^font:MenuDisplaySmall.font^DIRECTOR OF PRODUCTION TECHNOLOGIES
+145) 
+^^Jonathan Sgro
+146) 
+^font:MenuDisplaySmall.font^DIRECTOR OF STRATEGIC PLANNING AND CONSUMER INSIGHTS
+147) 
+^^Jerry Liu
+148) 
+^font:MenuDisplaySmall.font^DIRECTOR OF TECHNICAL ART
+149) 
+^^Jason Armstrong
+150) 
+^font:MenuDisplaySmall.font^DIRECTOR OF THIRD PARTY PUBLISHING
+151) 
+^^John Miller
+152) 
+^font:MenuDisplaySmall.font^DIRECTOR OF TOOLS TECHNOLOGY
+153) 
+^^Alex Montgomery
+154) 
+^^Pierre Shorette
+155) 
+^font:MenuDisplaySmall.font^DIRECTOR OF WRITING
+156) 
+^font:MenuDisplaySmall.font^CHOREOGRAPHY DEPARTMENT SUPERVISOR
+157) 
+^^Rebekah Gamin Arcovitch
+158) 
+^^Kim Lyons
+159) 
+^font:MenuDisplaySmall.font^STUDIO ART MANAGER
+160) 
+^font:MenuDisplaySmall.font^STUDIO CREATIVE MANAGER
+161) 
+^^A.J. Riebli III
+162) 
+^^Mari Aizawa Burns
+163) 
+^font:MenuDisplaySmall.font^STUDIO PRODUCTION MANAGER
+164) 
+^^James Chan
+165) 
+^font:MenuDisplaySmall.font^STUDIO TECHNOLOGY MANAGER
+166) 
+^font:MenuDisplaySmall.font^SENIOR MARKETING AND RELEASE MANAGER
+167) 
+^^Jonathan “JR” Rosales
+168) 
+^^Paolo Asuncion
+169) 
+^font:MenuDisplaySmall.font^SENIOR CREATIVE SERVICES MANAGER
+170) 
+^font:MenuDisplaySmall.font^MARKETING MEDIA PRODUCER
+171) 
+^^Shaun Finney
+172) 
+^font:MenuDisplaySmall.font^COMMUNITY AND VIDEO MANAGER
+173) 
+^^Nathan Ortega
+174) 
+^font:MenuDisplaySmall.font^CREATIVE COMMUNICATIONS MANAGER
+175) 
+^^Laura Perusco
+176) 
+^font:MenuDisplaySmall.font^VIDEO EDITORS
+177) 
+^^Murad Peret
+Jake Smith
+178) 
+^font:MenuDisplaySmall.font^ASSISTANT GRAPHIC DESIGNER
+179) 
+^^Jonathan Rozmarin
+180) 
+^^Evan Koepf
+181) 
+^font:MenuDisplaySmall.font^ASSISTANT RELEASE MANAGER
+182) 
+^^Joe Floyd
+Sara Guinness
+Daniel Pangelina
+183) 
+^font:MenuDisplaySmall.font^BUILD PRODUCERS
+184) 
+^font:MenuDisplaySmall.font^BUILD ENGINEERS
+185) 
+^^Sharif Gaines
+Fern Heintz
+Scott LaGrasta
+Mario Valencia
+186) 
+^font:MenuDisplaySmall.font^QA COMPLIANCE LEADS
+187) 
+^^Carlos Flores
+Seferino Gallardo
+188) 
+^^Ricardo de Avila
+Elena Morillo
+Cody Wade
+189) 
+^font:MenuDisplaySmall.font^QA COMPLIANCE SPECIALISTS
+190) 
+^font:MenuDisplaySmall.font^QA ENGINEERS
+191) 
+^^Eric Baca
+Tetsuji Gotanda
+Erik Speeckaert
+192) 
+^font:MenuDisplaySmall.font^SUBMISSION SPECIALIST
+193) 
+^^Mason Nguyen
+194) 
+^font:MenuDisplaySmall.font^SENIOR WEB ARCHITECT
+195) 
+^^John Gamble
+196) 
+^font:MenuDisplaySmall.font^LEAD WEB ARCHITECT
+197) 
+^^Dwayn Matthies
+198) 
+^font:MenuDisplaySmall.font^WEB DEVELOPMENT ENGINEER
+199) 
+^^Jesse Wagstaff
+200) 
+^font:MenuDisplaySmall.font^LEAD ONLINE ENGINEER
+201) 
+^^Erik Erwitt
+202) 
+^font:MenuDisplaySmall.font^TECHNICAL DIRECTOR
+203) 
+^^Michael Perretta
+204) 
+^font:MenuDisplaySmall.font^JUNIOR CREATIVE EXECUTIVE
+205) 
+^^Adam Miller
+206) 
+^font:MenuDisplaySmall.font^EXECUTIVE ASSISTANT
+310) 
+^font:MenuDisplaySmall.font^EXECUTIVE ASSISTANT
+207) 
+^^Betsy Delis
+208) 
+^font:MenuDisplaySmall.font^STUDIO PRODUCTION ASSISTANT
+209) 
+^^Adrian Emery
+210) 
+^font:MenuDisplaySmall.font^HUMAN RESOURCES
+211) 
+^^Amy Gosman
+Keena Hom
+Kimberly Ng
+212) 
+^^Nicola Smith						
+Stephanie Keegan
+Tim Nguyen
+Jenna Poffenroth 
+Megan Quinn
+213) 
+^font:MenuDisplaySmall.font^RECRUITING
+214) 
+^^Nadja Bebout
+Michael Hitson  
+Claudia Menjivar
+215) 
+^font:MenuDisplaySmall.font^OPERATIONS
+216) 
+^font:GameplayDisplayLarge.font^^glyphScale:0.8^REALM OF SHADOWS
+217) 
+^^Rhoda Gravador
+Glenn Horita
+Richard Hung
+Olga Malkiman
+Serena Sinn
+Dale Wang
+Matthew Williams
+218) 
+^font:MenuDisplaySmall.font^FINANCE
+219) 
+^^Mark Barbolak
+220) 
+^font:MenuDisplaySmall.font^LEGAL
+221) 
+^font:MenuDisplaySmall.font^IT
+222) 
+^^Erick Ely 
+Melanie Jacobson
+Alan Malicse						
+Manish Patel 
+Vern Roberts
+223) 
+^font:MenuDisplaySmall.font^PRODUCT SUPPORT
+224) 
+^^Matthew Pedonti
+Kasen Bien
+Ashley Burns
+225) 
+^font:MenuDisplaySmall.font^CREATED WITH THE TELLTALE TOOL
+226) 
+^^Kevin Bruner
+Zacariah Litton
+Jonathan Sgro
+Randy Tudor							
+Jeremy Bernstein
+David Brady
+Lex Chesler
+Matt Davidson
+Michael Eads
+Scott Eberline 
+Benn Herrera
+Ben Ingram
+Tim Ingram
+Sofy Kabacheck
+Alex Montgomery
+Mike Parsons 
+Karen Petersen
+Bernd Raabe
+Chris Schmelzle
+Michael Schwartz
+Ceri Stagg 
+Nicholas Van Sickle
+Eric Yiskis
+227) 
+^font:MenuDisplaySmall.font^FOCUS TESTERS
+229) 
+^^Dominic and Levi Smith
+Nicole, Penelope and Gwendolyn
+Vanessa Ishii and Nick “Robin” Rebbert
+Lindsey Lydecker Keller
+Katie Fleet
+Alex Dudley
+Torralba Clan
+Taryn, Tamon, and Mom
+Kim, Alan, and Christopher Koepf
+Javier M, Izzy D, Adrian Y, and Max D
+Lisa, Hunter & Scarlett Rozmarin
+The Vallejo Family
+Meagan, Avery & Benjamin Grant
+Oz, my darling garbage angel
+Michelle and Seraphine Nguyen
+Daniel Garrison
+Emi Eads
+Greg Miller
+Shane & Ty Allison
+Jessica Speeckaert
+Nicole, Enzo & Antonello Munz
+Susan Kim
+Dixie De La Tour, Stephanie Corns, Art & Pam Pullem, John B. Corns
+Lessa, Mal and Oli
+Owen & Luke Sgro
+Alina Gomenyuk
+Jackie, Eliana, and Devin Hayford
+Nick Topolos
+Elena & Everett Rafferty
+Sarah Wawryznowski, The Masto Family
+Northbound 101
+Michelle Steranko, Maverick & Sophie, Sage W.
+Kathleen Glover
+Selena Nadav
+Quismorio Family
+Lydia, Ed and Michael Morillo 
+Anne Appleman
+Elliot & Alison K.
+Abby
+Kayla A. Chavez 
+Marissa Lecount 
+Mama Conchita
+James Ryan McIlvaine
+Wesley Burnett
+Johnny Ray Arnold
+Debra Birrell
+Heidi & Virginia Ann Stauder
+Ken & Nancy Temoyan
+The Heuser Family
+Jeff Sinclair
+Kelly and Lisa O’Connor
+Marina Bennett
+Karla, Sandra, and Rogelio
+Hiro Harada 
+Zenas and Christian Burns
+Jim & Elliott Locker
+Vern Roberts
+Laura, Declan, & Aylish
+Yohanna “Cantik” Weller
+Erin Kerrigan
+Jennifer Charlee Armstrong
+Leah & Griffin RK
+My Wife, Ellie and the 2 twins on the way
+Amber von Nagel
+Denise Tosti, Alexis Tosti, Ryan Tosti
+Nikki Smith
+Michelle, Danielle, Ariel and Carmel
+The Miller Family
+Rachel Reynolds
+Natalie Helton
+Doki
+Devon Ramirez, Dina Tyler, Joyce Walker, Joe McClelland
+Kaidan and Hunter Falcon
+Julie H.
+Darya Makarava Kirkbride
+Ferrell!!!!!
+For Dima and Remy and for making my dreams come true.
+Julie, Violet, and Rory - I love you
+My wife Hezachan
+John and Henrietta Sanders
+Stacey, Isabella, and Tasi
+Red Whale Coffee
+Melissa Mast
+Maria, Mateo & Maximus Carpenter
+Harmony, Stephen, and Claire Sakai
+Michael Gong 
+Laurie Shaw
+Patrick Wright
+Ctenai, Pat (Patman) Evans, Caelan Donahue, Mateo Cortez, Tia & Jae, Sean & Alli, Analise, The Otters
+Tatty!!
+Ima, Daddy, Natalie, Ron and Jonah
+My brothers, Quinn, Michael, Jake, Elon, and Won Ho
+Mandy, Jodessa, Mark, Matt, Ebony, Peter, Leah
+Harrison “Harryllax” Simon - Rest in Peace, my brother
+Alexis Chesler
+Luis, Alicia, Alyn and Miguel Rosales, Jessica Matter, Deena Mustin, Dustin Garza, Jessie Torres, Lili Torres, Alex Barrio, Daniel Barrio, Alan Barrio, Lara Olexiuc, Ruben Torres
+Robbie Alan Wylie
+Claire(Mom) and Jim(Dad)
+Welcome baby Hunter Tjosvold!
+Haley Kavanagh, Samantha & Matthew Pietanza
+
+
+and You
+230) 
+^font:MenuDisplaySmall.font^SPECIAL THANKS
+231) 
+^font:MenuDisplaySmall.font^VERY SPECIAL THANKS
+233) 
+^^Loki Zammit
+Tangle
+Colin and Sophie
+Kissy Noise the Cat
+Toto
+Henrietta & Oslo
+Lizzie
+Torgo & Fingal
+Gordy Kikoboy
+Mamba the Cat
+Portillo
+Hyde & Lightning
+Maggie ‘Penguin’ Mae
+Summer
+Nacho
+Toby
+Athena, King and Lilly
+Shiro
+Gypsy & Marble
+Luke and the Gang
+Adonis & Aphrodite
+Quake “Not Quite Ace the Bat-Hound”
+Gretel
+Toby
+Seras
+Momo the Cat, Echo the Dog
+Robin
+Tique
+Penny & Desmond
+Emma Dashwood (& R.I.P Ernst)
+Fezzik and M
+Lilly 
+Chewie
+Ali the fighting kitten
+Meeko
+Commissioner Rocco
+Dolli, and Looni
+Cody
+Indie
+Spike (aka Spuddles)
+Maia (AKA Chunkers)
+Mr. Popo (R.I.P.)
+Kylo and Yuki
+Snowflake and Charlie Cricket Junior
+Emmitt, Shasta, Lassen, Leo, Snowy, Harriett, Hendrick, Eddie, Freddy and Curly
+Wrigley
+Rowdy
+Shaunday
+Lando, Obi, and Link
+NewCatStar
+Odo the BatCorg
+Peanut & Flame
+Nugget the cat
+Cat
+Penny “Batdog” Widmore
+Zim & Ziva
+Bean Goode
+Sophie
+Emma and Lara Kuku
+Inky & Pistol
+Gumbo, Dagon, and Trash Belly
+Sadie the turkey cat
+Banjo the Chicken Dog
+Sadie the Chatty Cat
+Jinro the Shibe
+Geordi the Shiba
+Dr. Claw
+Frodo, Cinnamon, Tux, Baby, and Frank
+R.I.P. “Good Girl” Midnight Carpenter
+JuJu,  we miss you Tobie
+Chewie
+Fisher ,The 3-Legged Wonder Dog!
+Mocha, Chai & Caramel
+Indie Mc Floof n’ Poop
+Gordon the Cat
+SIR!
+Miss Molly
+Frankie and Penny
+Mr. Grumpy Gills the Betta Fish
+
+And Brenden Q. Ferguson
+234) 
+^font:MenuDisplaySmall.font^TELLTALE PETS
+235) 
+^font:MenuDisplaySmall.font^CARMINE FALCONE
+236) 
+^^Richard McGonagle
+237) 
+^^Travis Willingham
+238) 
+^font:MenuDisplaySmall.font^HARVEY DENT
+239) 
+^^Enn Reitel
+240) 
+^font:MenuDisplaySmall.font^ALFRED J. PENNYWORTH
+241) 
+^font:MenuDisplaySmall.font^VICKI VALE
+242) 
+^^Erin Yvette
+243) 
+^font:MenuDisplaySmall.font^JAMES GORDON
+244) 
+^^Murphy Guyer
+245) 
+^font:MenuDisplaySmall.font^OSWALD COBBLEPOT, WAITER
+246) 
+^^Jason Spisak
+247) 
+^font:MenuDisplaySmall.font^RENEE MONTOYA, MENDEZ
+248) 
+^^Krizia Bajos
+249) 
+^^Lorri Holt
+250) 
+^font:MenuDisplaySmall.font^REGINA ZELLERBACH, MARTHA WAYNE, COUNCILWOMAN
+251) 
+^font:MenuDisplaySmall.font^BOB ZELLERBACH, THUG
+252) 
+^^Jarion Monroe
+253) 
+^font:MenuDisplaySmall.font^DRUG DEALER, FALCONE ASSISTANT, GCPD, REPORTER, THUG
+254) 
+^^Christian Lanz
+255) 
+^^Zack Villa
+256) 
+^font:MenuDisplaySmall.font^COP, DRUG DEALER, REPORTER, THUG, THUG BOSS
+257) 
+^font:MenuDisplaySmall.font^NEWSCASTER
+258) 
+^^Robert Clotworthy
+260) 
+^font:MenuDisplaySmall.font^ETHERIC DANCE
+261) 
+^font:MenuDisplaySmall.font^HAYDN STRING QUARTET 
+NO. 66 IN G MAJOR, OP. 77, NO.1
+262) 
+^^Written by Franz Joseph Haydn
+Performed by Kodaly Quartet
+Courtesy of Naxos
+By arrangement with Source/Q
+263) 
+^^Brendon Huor
+Jimmy Chhiu
+Amy Johnston
+Dennis Ruel
+Michael Lehr
+264) 
+^font:MenuDisplaySmall.font^STUNT PERFORMERS
+265) 
+^font:MenuDisplaySmall.font^QA SERVICES PROVIDED BY
+266) 
+^^Babel
+VMC
+267) 
+^font:MenuDisplaySmall.font^AUDIO SERVICES PROVIDED BY
+268) 
+^^Fantasy Studios
+Pomann Sound
+Shelly Shenoy’s Loop Group
+Studiopolis
+The Studio: Portland
+269) 
+^font:MenuDisplaySmall.font^LOCALIZATION SERVICES PROVIDED BY
+270) 
+^^MoGi Ltd.
+271) 
+^^Diana David
+Claudio Santos
+272) 
+^font:MenuDisplaySmall.font^VOICE EDITING AND MASTERING
+273) 
+^^Laura Jacqmin
+Jeff Juhasz
+Steve Tzirlin
+274) 
+^font:MenuDisplaySmall.font^ADDITIONAL STORY DEVELOPMENT
+275) 
+^^David Bowman
+276) 
+^font:MenuDisplaySmall.font^VICE PRESIDENT OF PRODUCTION
+277) 
+^^Jason Robertson
+278) 
+^font:MenuDisplaySmall.font^ONLINE CAMPAIGN MANAGER
+279) 
+^font:MenuDisplaySmall.font^SENIOR PRODUCT MANAGER
+280) 
+^^Shiaw-Ling Lai
+281) 
+^^Brandon Newton
+282) 
+^font:MenuDisplaySmall.font^FRONT END DEVELOPER
+283) 
+^font:MenuDisplaySmall.font^UX DESIGNER
+284) 
+^^Todd Pound
+285) 
+^font:MenuDisplaySmall.font^WB GAMES INC.
+
+
+
+VICE PRESIDENT - PRODUCTION & CREATIVE, DC COMICS FRANCHISE
+362) 
+^font:MenuDisplaySmall.font^WB GAMES INC.
+
+
+
+VICE PRESIDENT - PRODUCTION & CREATIVE, DC COMICS FRANCHISE
+365) 
+^font:MenuDisplaySmall.font^WB GAMES INC.
+
+
+
+VICE PRESIDENT - PRODUCTION & CREATIVE, DC COMICS FRANCHISE
+367) 
+^font:MenuDisplaySmall.font^WB GAMES INC.
+
+
+
+VICE PRESIDENT - PRODUCTION & CREATIVE, DC COMICS FRANCHISE
+368) 
+^font:MenuDisplaySmall.font^WB GAMES INC.
+
+
+
+VICE PRESIDENT - PRODUCTION & CREATIVE, DC COMICS FRANCHISE
+371) 
+^font:MenuDisplaySmall.font^WB GAMES INC.
+
+
+
+VICE PRESIDENT - PRODUCTION & CREATIVE, DC COMICS FRANCHISE
+372) 
+^font:MenuDisplaySmall.font^WB GAMES INC.
+
+
+
+VICE PRESIDENT - PRODUCTION & CREATIVE, DC COMICS FRANCHISE
+374) 
+^font:MenuDisplaySmall.font^WB GAMES INC.
+
+
+
+VICE PRESIDENT - PRODUCTION & CREATIVE, DC COMICS FRANCHISE
+377) 
+^font:MenuDisplaySmall.font^WB GAMES INC.
+
+
+
+VICE PRESIDENT - PRODUCTION & CREATIVE, DC COMICS FRANCHISE
+378) 
+^font:MenuDisplaySmall.font^WB GAMES INC.
+
+
+
+VICE PRESIDENT - PRODUCTION & CREATIVE, DC COMICS FRANCHISE
+380) 
+^font:MenuDisplaySmall.font^WB GAMES INC.
+
+
+
+VICE PRESIDENT - PRODUCTION & CREATIVE, DC COMICS FRANCHISE
+286) 
+^^Ames Kirshen
+288) 
+^^Dynamedion 
+
+Marcell Kelemen
+Session producer & orchestrator: David Christiansen
+
+Orchestra: Brandenburg State Orchestra Frankfurt
+Conductor: Christian Frank
+ 
+Recording producer: Christopher Tarnow, GENUIN recording group, Germany
+Recording engineer: Thomas Bößl
+ 
+Editing engineer: Thomas Bößl, Christopher Tarnow
+Mixing engineer: Christopher Tarnow
+289) 
+^^David Christiansen
+290) 
+^font:MenuDisplaySmall.font^SESSION PRODUCER & ORCHESTRATOR
+291) 
+^^Dynamedion 
+
+SESSION MANAGEMENT
+Marcell Kelemen
+
+SESSION PRODUCER & ORCHESTRATOR
+David Christiansen
+
+ORCHESTRA
+Brandenburg State Orchestra Frankfurt
+
+CONDUCTOR
+Christian Frank
+ 
+RECORDING PRODUCER
+Christopher Tarnow, GENUIN recording group, Germany
+Recording engineer: Thomas Bößl
+ 
+EDITING ENGINEER
+Thomas Bößl, Christopher Tarnow
+
+MIXING ENGINEER 
+Christopher Tarnow
+293) 
+^font:MenuDisplaySmall.font^ORCHESTRA
+294) 
+^^Brandenburg State Orchestra Frankfurt
+295) 
+^font:MenuDisplaySmall.font^CONDUCTOR
+296) 
+^^Christian Frank
+297) 
+^^Marcell Kelemen
+298) 
+^font:MenuDisplaySmall.font^SESSION MANAGEMENT
+299) 
+^font:MenuDisplaySmall.font^GENUIN RECORDING GROUP, GERMANY
+
+RECORDING PRODUCER
+300) 
+^^Christopher Tarnow
+305) 
+^^Christopher Tarnow
+301) 
+^^Thomas Bößl
+302) 
+^font:MenuDisplaySmall.font^RECORDING ENGINEER
+303) 
+^font:MenuDisplaySmall.font^EDITING ENGINEERS
+304) 
+^^Thomas Bößl
+Christopher Tarnow
+306) 
+^font:MenuDisplaySmall.font^MIXING ENGINEER
+307) 
+^font:MenuDisplaySmall.font^ASSOCIATE PRODUCER
+308) 
+^^Derek C. Smith
+309) 
+^^Susan Hawn
+311) 
+^font:MenuDisplaySmall.font^VICE PRESIDENT, BRAND MARKETING
+312) 
+^^Matthew Geyer
+313) 
+^font:MenuDisplaySmall.font^DIRECTOR, BRAND MARKETING.
+314) 
+^^Craig Mitchell
+315) 
+^^Remi Sklar
+316) 
+^font:MenuDisplaySmall.font^VICE PRESIDENT - WW COMMUNICATIONS & PR
+318) 
+^font:MenuDisplaySmall.font^DIRECTOR - INTEGRATED COMMUNICATIONS
+319) 
+^^Kehau Rodenhurst
+320) 
+^font:MenuDisplaySmall.font^DIRECTOR - RIGHTS & CLEARANCES
+321) 
+^^Jane Elms
+322) 
+^font:MenuDisplaySmall.font^VICE PRESIDENT - BUSINESS DEVELOPMENT & LICENSING
+344) 
+^font:MenuDisplaySmall.font^VICE PRESIDENT - BUSINESS DEVELOPMENT & LICENSING
+323) 
+^^Ben Elliott
+324) 
+^font:MenuDisplaySmall.font^VICE PRESIDENT - PRODUCTION FINANCE
+325) 
+^^Steve Chalk
+326) 
+^^Diane Nelson
+355) 
+^^Diane Nelson
+327) 
+^font:MenuDisplaySmall.font^PRESIDENT & CHIEF CONTENT OFFICER
+WARNER BROS. INTERACTIVE ENTERTAINMENT
+328) 
+^^Ron Sanders
+329) 
+^font:MenuDisplaySmall.font^PRESIDENT
+WARNER BROS. WORLDWIDE HOME ENTERTAINMENT DISTRIBUTION
+330) 
+^font:MenuDisplaySmall.font^PRESIDENT
+WARNER BROS. 
+INTERACTIVE ENTERTAINMENT
+331) 
+^^David Haddad
+332) 
+^font:MenuDisplaySmall.font^EXECUTIVE VICE PRESIDENT
+WORLDWIDE PRODUCTION AND STUDIOS
+WARNER BROS. INTERACTIVE ENTERTAINMENT
+333) 
+^^Steven Chiang
+334) 
+^font:MenuDisplaySmall.font^SENIOR VICE PRESIDENT
+GLOBAL GENERAL MANAGER - PRODUCTION & DEVELOPMENT
+335) 
+^^Peter Wyse
+336) 
+^^Russell Arons
+337) 
+^font:MenuDisplaySmall.font^SENIOR VICE PRESIDENT
+WORLDWIDE MARKETING 
+WARNER BROS. INTERACTIVE ENTERTAINMENT
+338) 
+^font:MenuDisplaySmall.font^SENIOR VICE PRESIDENT
+SALES & OPERATIONS AMERICAS
+WARNER BROS. INTERACTIVE ENTERTAINMENT
+383) 
+^font:MenuDisplaySmall.font^SENIOR VICE PRESIDENT
+SALES & OPERATIONS AMERICAS
+WARNER BROS. INTERACTIVE ENTERTAINMENT
+339) 
+^^Kevin Kebodeaux
+340) 
+^font:MenuDisplaySmall.font^SENIOR VICE PREISDENT, GAMES, EU
+341) 
+^^Olivier Wolff
+342) 
+^font:MenuDisplaySmall.font^VICE PRESIDENT & ASSOCIATE GENERAL COUNSEL
+343) 
+^^Jennifer Stump
+345) 
+^^Scott Johnson
+346) 
+^^John Simmons
+347) 
+^font:MenuDisplaySmall.font^VICE PRESIDENT - HUMAN RESOURCES
+348) 
+^font:MenuDisplaySmall.font^CHIEF CREATIVE OFFICER
+349) 
+^^Geoff Johns
+350) 
+^font:MenuDisplaySmall.font^CREATIVE DIRECTOR - INTERACTIVE
+351) 
+^^Patrick McCallum
+352) 
+^font:MenuDisplaySmall.font^CREATIVE EXECUTIVE - INTERACTIVE
+353) 
+^^Randy Ma
+354) 
+^font:MenuDisplaySmall.font^PRESIDENT
+356) 
+^font:MenuDisplaySmall.font^CO-PUBLISHERS
+357) 
+^^Dan DiDio
+Jim Lee
+358) 
+^font:MenuDisplaySmall.font^SENIOR VP
+MARKETING & GLOBAL FRANCHISE MANAGEMENT
+359) 
+^^Amit Desai
+360) 
+^^Nairi Gardiner
+ 
+
+
+
+BATMAN created by Bob Kane with Bill Finger.
+361) 
+^font:MenuDisplaySmall.font^SENIOR VP - FINANCE & OPERATIONS
+363) 
+^^Ames Kirshen
+ 
+Associate Producer
+Derek C. Smith
+ 
+Executive Assistant
+Susan Hawn
+ 
+MARKETING
+Vice President, Brand Marketing
+Matthew Geyer
+ 
+Director, Brand Marketing
+Craig Mitchell
+ 
+PR
+Vice President, WW Communications and PR
+Remi Sklar
+ 
+Director, Integrated Communications
+Kehau Rodenhurst
+ 
+LEGAL
+Director, Rights and Clearances
+Jane Elms
+ 
+BUSINESS DEVELOPMENT
+Vice President, Business Development and Licensing
+Ben Elliott
+ 
+FINANCE
+Vice President, Production Finance
+Steve Chalk
+ 
+EXECUTIVE MANAGEMENT
+President and Chief Content Officer, Warner Bros. Interactive Entertainment
+Diane Nelson
+ 
+President, Warner Bros. Worldwide Home Entertainment Distribution
+Ron Sanders
+ 
+President, Warner Bros. Interactive Entertainment
+David Haddad
+ 
+Executive Vice President, Worldwide Production and Studios, Warner Bros. Interactive Entertainment
+Steven Chiang
+ 
+Senior Vice President, Global General Manager - Production and Development
+Peter Wyse
+ 
+Senior Vice President, Worldwide Marketing, Warner Bros. Interactive Entertainment
+Russell Arons
+ 
+Senior Vice President, Sales & Operations, Americas, Warner Bros. Interactive Entertainment
+Kevin Kebodeaux
+ 
+Senior Vice President, Sales & Operations, Americas, Warner Bros. Interactive Entertainment
+Doug Regan
+ 
+Senior Vice President, Games, EU
+Olivier Wolff
+ 
+Vice President and Associate General Counsel
+Jennifer Stump
+ 
+Vice President, Business Development and Licensing
+Scott Johnson
+ 
+Vice President, Human Resources
+John Simmons
+ 
+
+DC Entertainment
+ 
+CHIEF CREATIVE OFFICER
+Geoff Johns  
+ 
+CREATIVE DIRECTOR, INTERACTIVE
+Patrick McCallum
+ 
+CREATIVE EXECUTIVE, INTERACTIVE
+Randy Ma
+ 
+PRESIDENT
+Diane Nelson                                  
+ 
+CO-PUBLISHERS
+Dan DiDio and Jim Lee                     
+ 
+SENIOR VP – MARKETING AND GLOBAL FRANCHISE MANAGEMENT
+Amit Desai                                                             
+ 
+SENIOR VP – FINANCE AND OPERATIONS
+Nairi Gardiner
+ 
+BATMAN created by Bob Kane with Bill Finger.
+364) 
+^^Ames Kirshen
+ 
+Associate Producer
+Derek C. Smith
+ 
+Executive Assistant
+Susan Hawn
+ 
+MARKETING
+Vice President, Brand Marketing
+Matthew Geyer
+ 
+Director, Brand Marketing
+Craig Mitchell
+ 
+PR
+Vice President, WW Communications and PR
+Remi Sklar
+ 
+Director, Integrated Communications
+Kehau Rodenhurst
+ 
+LEGAL
+Director, Rights and Clearances
+Jane Elms
+ 
+BUSINESS DEVELOPMENT
+Vice President, Business Development and Licensing
+Ben Elliott
+ 
+FINANCE
+Vice President, Production Finance
+Steve Chalk
+ 
+EXECUTIVE MANAGEMENT
+President and Chief Content Officer, Warner Bros. Interactive Entertainment
+Diane Nelson
+ 
+President, Warner Bros. Worldwide Home Entertainment Distribution
+Ron Sanders
+ 
+President, Warner Bros. Interactive Entertainment
+David Haddad
+ 
+Executive Vice President, Worldwide Production and Studios, Warner Bros. Interactive Entertainment
+Steven Chiang
+ 
+Senior Vice President, Global General Manager - Production and Development
+Peter Wyse
+ 
+Senior Vice President, Worldwide Marketing, Warner Bros. Interactive Entertainment
+Russell Arons
+ 
+Senior Vice President, Sales & Operations, Americas, Warner Bros. Interactive Entertainment
+Kevin Kebodeaux
+ 
+Senior Vice President, Sales & Operations, Americas, Warner Bros. Interactive Entertainment
+Doug Regan
+ 
+Senior Vice President, Games, EU
+Olivier Wolff
+ 
+Vice President and Associate General Counsel
+Jennifer Stump
+ 
+Vice President, Business Development and Licensing
+Scott Johnson
+ 
+Vice President, Human Resources
+John Simmons
+ 
+
+DC Entertainment
+ 
+CHIEF CREATIVE OFFICER
+Geoff Johns  
+ 
+CREATIVE DIRECTOR, INTERACTIVE
+Patrick McCallum
+ 
+CREATIVE EXECUTIVE, INTERACTIVE
+Randy Ma
+ 
+PRESIDENT
+Diane Nelson                                  
+ 
+CO-PUBLISHERS
+Dan DiDio and Jim Lee                     
+ 
+SENIOR VP – MARKETING AND GLOBAL FRANCHISE MANAGEMENT
+Amit Desai                                                             
+ 
+SENIOR VP – FINANCE AND OPERATIONS
+Nairi Gardiner
+ 
+BATMAN created by Bob Kane with Bill Finger.
+366) 
+^^Ames Kirshen
+ 
+Associate Producer
+Derek C. Smith
+ 
+Executive Assistant
+Susan Hawn
+ 
+MARKETING
+Vice President, Brand Marketing
+Matthew Geyer
+ 
+Director, Brand Marketing
+Craig Mitchell
+ 
+PR
+Vice President, WW Communications and PR
+Remi Sklar
+ 
+Director, Integrated Communications
+Kehau Rodenhurst
+ 
+LEGAL
+Director, Rights and Clearances
+Jane Elms
+ 
+BUSINESS DEVELOPMENT
+Vice President, Business Development and Licensing
+Ben Elliott
+ 
+FINANCE
+Vice President, Production Finance
+Steve Chalk
+ 
+EXECUTIVE MANAGEMENT
+President and Chief Content Officer, Warner Bros. Interactive Entertainment
+Diane Nelson
+ 
+President, Warner Bros. Worldwide Home Entertainment Distribution
+Ron Sanders
+ 
+President, Warner Bros. Interactive Entertainment
+David Haddad
+ 
+Executive Vice President, Worldwide Production and Studios, Warner Bros. Interactive Entertainment
+Steven Chiang
+ 
+Senior Vice President, Global General Manager - Production and Development
+Peter Wyse
+ 
+Senior Vice President, Worldwide Marketing, Warner Bros. Interactive Entertainment
+Russell Arons
+ 
+Senior Vice President, Sales & Operations, Americas, Warner Bros. Interactive Entertainment
+Kevin Kebodeaux
+ 
+Senior Vice President, Sales & Operations, Americas, Warner Bros. Interactive Entertainment
+Doug Regan
+ 
+Senior Vice President, Games, EU
+Olivier Wolff
+ 
+Vice President and Associate General Counsel
+Jennifer Stump
+ 
+Vice President, Business Development and Licensing
+Scott Johnson
+ 
+Vice President, Human Resources
+John Simmons
+ 
+
+DC Entertainment
+ 
+CHIEF CREATIVE OFFICER
+Geoff Johns  
+ 
+CREATIVE DIRECTOR, INTERACTIVE
+Patrick McCallum
+ 
+CREATIVE EXECUTIVE, INTERACTIVE
+Randy Ma
+ 
+PRESIDENT
+Diane Nelson                                  
+ 
+CO-PUBLISHERS
+Dan DiDio and Jim Lee                     
+ 
+SENIOR VP – MARKETING AND GLOBAL FRANCHISE MANAGEMENT
+Amit Desai                                                             
+ 
+SENIOR VP – FINANCE AND OPERATIONS
+Nairi Gardiner
+ 
+BATMAN created by Bob Kane with Bill Finger.
+369) 
+^^Ames Kirshen
+ 
+Associate Producer
+Derek C. Smith
+ 
+Executive Assistant
+Susan Hawn
+ 
+MARKETING
+Vice President, Brand Marketing
+Matthew Geyer
+ 
+Director, Brand Marketing
+Craig Mitchell
+ 
+PR
+Vice President, WW Communications and PR
+Remi Sklar
+ 
+Director, Integrated Communications
+Kehau Rodenhurst
+ 
+LEGAL
+Director, Rights and Clearances
+Jane Elms
+ 
+BUSINESS DEVELOPMENT
+Vice President, Business Development and Licensing
+Ben Elliott
+ 
+FINANCE
+Vice President, Production Finance
+Steve Chalk
+ 
+EXECUTIVE MANAGEMENT
+President and Chief Content Officer, Warner Bros. Interactive Entertainment
+Diane Nelson
+ 
+President, Warner Bros. Worldwide Home Entertainment Distribution
+Ron Sanders
+ 
+President, Warner Bros. Interactive Entertainment
+David Haddad
+ 
+Executive Vice President, Worldwide Production and Studios, Warner Bros. Interactive Entertainment
+Steven Chiang
+ 
+Senior Vice President, Global General Manager - Production and Development
+Peter Wyse
+ 
+Senior Vice President, Worldwide Marketing, Warner Bros. Interactive Entertainment
+Russell Arons
+ 
+Senior Vice President, Sales & Operations, Americas, Warner Bros. Interactive Entertainment
+Kevin Kebodeaux
+ 
+Senior Vice President, Sales & Operations, Americas, Warner Bros. Interactive Entertainment
+Doug Regan
+ 
+Senior Vice President, Games, EU
+Olivier Wolff
+ 
+Vice President and Associate General Counsel
+Jennifer Stump
+ 
+Vice President, Business Development and Licensing
+Scott Johnson
+ 
+Vice President, Human Resources
+John Simmons
+ 
+
+DC Entertainment
+ 
+CHIEF CREATIVE OFFICER
+Geoff Johns  
+ 
+CREATIVE DIRECTOR, INTERACTIVE
+Patrick McCallum
+ 
+CREATIVE EXECUTIVE, INTERACTIVE
+Randy Ma
+ 
+PRESIDENT
+Diane Nelson                                  
+ 
+CO-PUBLISHERS
+Dan DiDio and Jim Lee                     
+ 
+SENIOR VP – MARKETING AND GLOBAL FRANCHISE MANAGEMENT
+Amit Desai                                                             
+ 
+SENIOR VP – FINANCE AND OPERATIONS
+Nairi Gardiner
+ 
+BATMAN created by Bob Kane with Bill Finger.
+370) 
+^^Ames Kirshen
+ 
+Associate Producer
+Derek C. Smith
+ 
+Executive Assistant
+Susan Hawn
+ 
+MARKETING
+Vice President, Brand Marketing
+Matthew Geyer
+ 
+Director, Brand Marketing
+Craig Mitchell
+ 
+PR
+Vice President, WW Communications and PR
+Remi Sklar
+ 
+Director, Integrated Communications
+Kehau Rodenhurst
+ 
+LEGAL
+Director, Rights and Clearances
+Jane Elms
+ 
+BUSINESS DEVELOPMENT
+Vice President, Business Development and Licensing
+Ben Elliott
+ 
+FINANCE
+Vice President, Production Finance
+Steve Chalk
+ 
+EXECUTIVE MANAGEMENT
+President and Chief Content Officer, Warner Bros. Interactive Entertainment
+Diane Nelson
+ 
+President, Warner Bros. Worldwide Home Entertainment Distribution
+Ron Sanders
+ 
+President, Warner Bros. Interactive Entertainment
+David Haddad
+ 
+Executive Vice President, Worldwide Production and Studios, Warner Bros. Interactive Entertainment
+Steven Chiang
+ 
+Senior Vice President, Global General Manager - Production and Development
+Peter Wyse
+ 
+Senior Vice President, Worldwide Marketing, Warner Bros. Interactive Entertainment
+Russell Arons
+ 
+Senior Vice President, Sales & Operations, Americas, Warner Bros. Interactive Entertainment
+Kevin Kebodeaux
+ 
+Senior Vice President, Sales & Operations, Americas, Warner Bros. Interactive Entertainment
+Doug Regan
+ 
+Senior Vice President, Games, EU
+Olivier Wolff
+ 
+Vice President and Associate General Counsel
+Jennifer Stump
+ 
+Vice President, Business Development and Licensing
+Scott Johnson
+ 
+Vice President, Human Resources
+John Simmons
+ 
+
+DC Entertainment
+ 
+CHIEF CREATIVE OFFICER
+Geoff Johns  
+ 
+CREATIVE DIRECTOR, INTERACTIVE
+Patrick McCallum
+ 
+CREATIVE EXECUTIVE, INTERACTIVE
+Randy Ma
+ 
+PRESIDENT
+Diane Nelson                                  
+ 
+CO-PUBLISHERS
+Dan DiDio and Jim Lee                     
+ 
+SENIOR VP – MARKETING AND GLOBAL FRANCHISE MANAGEMENT
+Amit Desai                                                             
+ 
+SENIOR VP – FINANCE AND OPERATIONS
+Nairi Gardiner
+ 
+BATMAN created by Bob Kane with Bill Finger.
+373) 
+^^Ames Kirshen
+ 
+Associate Producer
+Derek C. Smith
+ 
+Executive Assistant
+Susan Hawn
+ 
+MARKETING
+Vice President, Brand Marketing
+Matthew Geyer
+ 
+Director, Brand Marketing
+Craig Mitchell
+ 
+PR
+Vice President, WW Communications and PR
+Remi Sklar
+ 
+Director, Integrated Communications
+Kehau Rodenhurst
+ 
+LEGAL
+Director, Rights and Clearances
+Jane Elms
+ 
+BUSINESS DEVELOPMENT
+Vice President, Business Development and Licensing
+Ben Elliott
+ 
+FINANCE
+Vice President, Production Finance
+Steve Chalk
+ 
+EXECUTIVE MANAGEMENT
+President and Chief Content Officer, Warner Bros. Interactive Entertainment
+Diane Nelson
+ 
+President, Warner Bros. Worldwide Home Entertainment Distribution
+Ron Sanders
+ 
+President, Warner Bros. Interactive Entertainment
+David Haddad
+ 
+Executive Vice President, Worldwide Production and Studios, Warner Bros. Interactive Entertainment
+Steven Chiang
+ 
+Senior Vice President, Global General Manager - Production and Development
+Peter Wyse
+ 
+Senior Vice President, Worldwide Marketing, Warner Bros. Interactive Entertainment
+Russell Arons
+ 
+Senior Vice President, Sales & Operations, Americas, Warner Bros. Interactive Entertainment
+Kevin Kebodeaux
+ 
+Senior Vice President, Sales & Operations, Americas, Warner Bros. Interactive Entertainment
+Doug Regan
+ 
+Senior Vice President, Games, EU
+Olivier Wolff
+ 
+Vice President and Associate General Counsel
+Jennifer Stump
+ 
+Vice President, Business Development and Licensing
+Scott Johnson
+ 
+Vice President, Human Resources
+John Simmons
+ 
+
+DC Entertainment
+ 
+CHIEF CREATIVE OFFICER
+Geoff Johns  
+ 
+CREATIVE DIRECTOR, INTERACTIVE
+Patrick McCallum
+ 
+CREATIVE EXECUTIVE, INTERACTIVE
+Randy Ma
+ 
+PRESIDENT
+Diane Nelson                                  
+ 
+CO-PUBLISHERS
+Dan DiDio and Jim Lee                     
+ 
+SENIOR VP – MARKETING AND GLOBAL FRANCHISE MANAGEMENT
+Amit Desai                                                             
+ 
+SENIOR VP – FINANCE AND OPERATIONS
+Nairi Gardiner
+ 
+BATMAN created by Bob Kane with Bill Finger.
+375) 
+^^Ames Kirshen
+ 
+Associate Producer
+Derek C. Smith
+ 
+Executive Assistant
+Susan Hawn
+ 
+MARKETING
+Vice President, Brand Marketing
+Matthew Geyer
+ 
+Director, Brand Marketing
+Craig Mitchell
+ 
+PR
+Vice President, WW Communications and PR
+Remi Sklar
+ 
+Director, Integrated Communications
+Kehau Rodenhurst
+ 
+LEGAL
+Director, Rights and Clearances
+Jane Elms
+ 
+BUSINESS DEVELOPMENT
+Vice President, Business Development and Licensing
+Ben Elliott
+ 
+FINANCE
+Vice President, Production Finance
+Steve Chalk
+ 
+EXECUTIVE MANAGEMENT
+President and Chief Content Officer, Warner Bros. Interactive Entertainment
+Diane Nelson
+ 
+President, Warner Bros. Worldwide Home Entertainment Distribution
+Ron Sanders
+ 
+President, Warner Bros. Interactive Entertainment
+David Haddad
+ 
+Executive Vice President, Worldwide Production and Studios, Warner Bros. Interactive Entertainment
+Steven Chiang
+ 
+Senior Vice President, Global General Manager - Production and Development
+Peter Wyse
+ 
+Senior Vice President, Worldwide Marketing, Warner Bros. Interactive Entertainment
+Russell Arons
+ 
+Senior Vice President, Sales & Operations, Americas, Warner Bros. Interactive Entertainment
+Kevin Kebodeaux
+ 
+Senior Vice President, Sales & Operations, Americas, Warner Bros. Interactive Entertainment
+Doug Regan
+ 
+Senior Vice President, Games, EU
+Olivier Wolff
+ 
+Vice President and Associate General Counsel
+Jennifer Stump
+ 
+Vice President, Business Development and Licensing
+Scott Johnson
+ 
+Vice President, Human Resources
+John Simmons
+ 
+
+DC Entertainment
+ 
+CHIEF CREATIVE OFFICER
+Geoff Johns  
+ 
+CREATIVE DIRECTOR, INTERACTIVE
+Patrick McCallum
+ 
+CREATIVE EXECUTIVE, INTERACTIVE
+Randy Ma
+ 
+PRESIDENT
+Diane Nelson                                  
+ 
+CO-PUBLISHERS
+Dan DiDio and Jim Lee                     
+ 
+SENIOR VP – MARKETING AND GLOBAL FRANCHISE MANAGEMENT
+Amit Desai                                                             
+ 
+SENIOR VP – FINANCE AND OPERATIONS
+Nairi Gardiner
+ 
+BATMAN created by Bob Kane with Bill Finger.
+376) 
+^^Ames Kirshen
+ 
+Associate Producer
+Derek C. Smith
+ 
+Executive Assistant
+Susan Hawn
+ 
+MARKETING
+Vice President, Brand Marketing
+Matthew Geyer
+ 
+Director, Brand Marketing
+Craig Mitchell
+ 
+PR
+Vice President, WW Communications and PR
+Remi Sklar
+ 
+Director, Integrated Communications
+Kehau Rodenhurst
+ 
+LEGAL
+Director, Rights and Clearances
+Jane Elms
+ 
+BUSINESS DEVELOPMENT
+Vice President, Business Development and Licensing
+Ben Elliott
+ 
+FINANCE
+Vice President, Production Finance
+Steve Chalk
+ 
+EXECUTIVE MANAGEMENT
+President and Chief Content Officer, Warner Bros. Interactive Entertainment
+Diane Nelson
+ 
+President, Warner Bros. Worldwide Home Entertainment Distribution
+Ron Sanders
+ 
+President, Warner Bros. Interactive Entertainment
+David Haddad
+ 
+Executive Vice President, Worldwide Production and Studios, Warner Bros. Interactive Entertainment
+Steven Chiang
+ 
+Senior Vice President, Global General Manager - Production and Development
+Peter Wyse
+ 
+Senior Vice President, Worldwide Marketing, Warner Bros. Interactive Entertainment
+Russell Arons
+ 
+Senior Vice President, Sales & Operations, Americas, Warner Bros. Interactive Entertainment
+Kevin Kebodeaux
+ 
+Senior Vice President, Sales & Operations, Americas, Warner Bros. Interactive Entertainment
+Doug Regan
+ 
+Senior Vice President, Games, EU
+Olivier Wolff
+ 
+Vice President and Associate General Counsel
+Jennifer Stump
+ 
+Vice President, Business Development and Licensing
+Scott Johnson
+ 
+Vice President, Human Resources
+John Simmons
+ 
+
+DC Entertainment
+ 
+CHIEF CREATIVE OFFICER
+Geoff Johns  
+ 
+CREATIVE DIRECTOR, INTERACTIVE
+Patrick McCallum
+ 
+CREATIVE EXECUTIVE, INTERACTIVE
+Randy Ma
+ 
+PRESIDENT
+Diane Nelson                                  
+ 
+CO-PUBLISHERS
+Dan DiDio and Jim Lee                     
+ 
+SENIOR VP – MARKETING AND GLOBAL FRANCHISE MANAGEMENT
+Amit Desai                                                             
+ 
+SENIOR VP – FINANCE AND OPERATIONS
+Nairi Gardiner
+ 
+BATMAN created by Bob Kane with Bill Finger.
+379) 
+^^Ames Kirshen
+ 
+Associate Producer
+Derek C. Smith
+ 
+Executive Assistant
+Susan Hawn
+ 
+MARKETING
+Vice President, Brand Marketing
+Matthew Geyer
+ 
+Director, Brand Marketing
+Craig Mitchell
+ 
+PR
+Vice President, WW Communications and PR
+Remi Sklar
+ 
+Director, Integrated Communications
+Kehau Rodenhurst
+ 
+LEGAL
+Director, Rights and Clearances
+Jane Elms
+ 
+BUSINESS DEVELOPMENT
+Vice President, Business Development and Licensing
+Ben Elliott
+ 
+FINANCE
+Vice President, Production Finance
+Steve Chalk
+ 
+EXECUTIVE MANAGEMENT
+President and Chief Content Officer, Warner Bros. Interactive Entertainment
+Diane Nelson
+ 
+President, Warner Bros. Worldwide Home Entertainment Distribution
+Ron Sanders
+ 
+President, Warner Bros. Interactive Entertainment
+David Haddad
+ 
+Executive Vice President, Worldwide Production and Studios, Warner Bros. Interactive Entertainment
+Steven Chiang
+ 
+Senior Vice President, Global General Manager - Production and Development
+Peter Wyse
+ 
+Senior Vice President, Worldwide Marketing, Warner Bros. Interactive Entertainment
+Russell Arons
+ 
+Senior Vice President, Sales & Operations, Americas, Warner Bros. Interactive Entertainment
+Kevin Kebodeaux
+ 
+Senior Vice President, Sales & Operations, Americas, Warner Bros. Interactive Entertainment
+Doug Regan
+ 
+Senior Vice President, Games, EU
+Olivier Wolff
+ 
+Vice President and Associate General Counsel
+Jennifer Stump
+ 
+Vice President, Business Development and Licensing
+Scott Johnson
+ 
+Vice President, Human Resources
+John Simmons
+ 
+
+DC Entertainment
+ 
+CHIEF CREATIVE OFFICER
+Geoff Johns  
+ 
+CREATIVE DIRECTOR, INTERACTIVE
+Patrick McCallum
+ 
+CREATIVE EXECUTIVE, INTERACTIVE
+Randy Ma
+ 
+PRESIDENT
+Diane Nelson                                  
+ 
+CO-PUBLISHERS
+Dan DiDio and Jim Lee                     
+ 
+SENIOR VP – MARKETING AND GLOBAL FRANCHISE MANAGEMENT
+Amit Desai                                                             
+ 
+SENIOR VP – FINANCE AND OPERATIONS
+Nairi Gardiner
+ 
+BATMAN created by Bob Kane with Bill Finger.
+381) 
+^^Ames Kirshen
+ 
+Associate Producer
+Derek C. Smith
+ 
+Executive Assistant
+Susan Hawn
+ 
+MARKETING
+Vice President, Brand Marketing
+Matthew Geyer
+ 
+Director, Brand Marketing
+Craig Mitchell
+ 
+PR
+Vice President, WW Communications and PR
+Remi Sklar
+ 
+Director, Integrated Communications
+Kehau Rodenhurst
+ 
+LEGAL
+Director, Rights and Clearances
+Jane Elms
+ 
+BUSINESS DEVELOPMENT
+Vice President, Business Development and Licensing
+Ben Elliott
+ 
+FINANCE
+Vice President, Production Finance
+Steve Chalk
+ 
+EXECUTIVE MANAGEMENT
+President and Chief Content Officer, Warner Bros. Interactive Entertainment
+Diane Nelson
+ 
+President, Warner Bros. Worldwide Home Entertainment Distribution
+Ron Sanders
+ 
+President, Warner Bros. Interactive Entertainment
+David Haddad
+ 
+Executive Vice President, Worldwide Production and Studios, Warner Bros. Interactive Entertainment
+Steven Chiang
+ 
+Senior Vice President, Global General Manager - Production and Development
+Peter Wyse
+ 
+Senior Vice President, Worldwide Marketing, Warner Bros. Interactive Entertainment
+Russell Arons
+ 
+Senior Vice President, Sales & Operations, Americas, Warner Bros. Interactive Entertainment
+Kevin Kebodeaux
+ 
+Senior Vice President, Sales & Operations, Americas, Warner Bros. Interactive Entertainment
+Doug Regan
+ 
+Senior Vice President, Games, EU
+Olivier Wolff
+ 
+Vice President and Associate General Counsel
+Jennifer Stump
+ 
+Vice President, Business Development and Licensing
+Scott Johnson
+ 
+Vice President, Human Resources
+John Simmons
+ 
+
+DC Entertainment
+ 
+CHIEF CREATIVE OFFICER
+Geoff Johns  
+ 
+CREATIVE DIRECTOR, INTERACTIVE
+Patrick McCallum
+ 
+CREATIVE EXECUTIVE, INTERACTIVE
+Randy Ma
+ 
+PRESIDENT
+Diane Nelson                                  
+ 
+CO-PUBLISHERS
+Dan DiDio and Jim Lee                     
+ 
+SENIOR VP – MARKETING AND GLOBAL FRANCHISE MANAGEMENT
+Amit Desai                                                             
+ 
+SENIOR VP – FINANCE AND OPERATIONS
+Nairi Gardiner
+ 
+BATMAN created by Bob Kane with Bill Finger.
+382) 
+^font:MenuDisplaySmall.font^DC ENTERTAINMENT
+384) 
+^^Doug Regan
+386) 
+^^Steven Lashower
+Nate Trost

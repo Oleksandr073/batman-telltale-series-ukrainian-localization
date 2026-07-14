@@ -1,0 +1,190 @@
+﻿1) CIVILIAN01
+[dragged out of chair] Nooo, please!
+2) THUG01
+Drop him.
+3) THUG01
+[into radio] I have a Visual on batman, boss.
+4) OSWALD
+[from radio] Right on time.
+32) OSWALD
+[from radio] Right on time!
+5) GROGAN
+Batman -- No! It’s a trap!
+6) GROGAN
+[battlecry]
+19) GROGAN
+[painful coughing]
+72) 
+
+92) CIVILIAN01
+[scream as she’s falling]
+94) CIVILIAN01
+[distressed breathing]
+95) CIVILIAN01
+[distressed sounds]
+7) GROGAN
+[to batman; struggling] Get it together, Batman!
+8) RYDER
+[ALT; OTN][newscast] Witnesses have reported that Batman appears to be struggling, as if his usually superior tech is failing him.
+9) RYDER
+[newscast] And all of Gotham is wondering; how long can Batman, outmanned and outgunned, continue to fight?
+10) GROGAN
+Save those hostages!
+63) GROGAN
+[ALT]Save those hostages!
+11) RYDER
+[newscast] As Gotham’s police struggle to restore order after the arrest of Harvey Dent, the conflict between Batman and the Children of Arkham ringleader ‘the Penguin’ continues to escalate.
+12) RYDER
+[newscast] Batman has clashed with Penguin’s men at least four times in the last month, foiling the kidnapping of prominent Gotham citizens and civil servants.
+13) RYDER
+[newscast] Late last night, Police Commissioner Grogan was abducted from his home, making him the Penguin’s highest profile target to date.
+14) RYDER
+[newscast] The list of victims includes Judge Reinhardt of the Circuit Court and Councilwoman Debbie Palmieri.
+15) GROGAN
+[dying] I.. I was wrong Batman...
+16) GROGAN
+[dying] This city needs you...
+17) GCPD05
+[coaxing hm to live] Commissioner! Commissioner!
+18) GCPD05
+[despair] He’s.... he’s gone...
+20) BATMAN
+[under breath] Dammit!
+21) RYDER
+[newscast] Witnesses report that the constant battle seems to be taking its toll on Batman...
+22) OSWALD
+Good question, newsman!
+23) OSWALD
+The bat certainly has been looking a bit worn around the wings.
+24) OSWALD
+But here’s the thing...
+65) OSWALD
+[ALT] But here’s the thing...
+25) OSWALD
+I’m gonna keep popping the uppity elite of Gotham....
+26) OSWALD
+Until the masked crusader tries to stop me!
+27) PENGUIN
+Carry on, gents!
+93) PENGUIN
+Carry on, gents!
+28) OSWALD
+[ALT][less specific] That’s right, newsman!
+29) OSWALD
+[ALT] The bat certainly has been looking a bit worn around the edges.
+30) GROGAN
+[alt] Batman!
+61) GROGAN
+Batman!
+31) OSWALD
+[ALT][pickup] Until the masked crusader stops me!
+33) COA01
+[into radio] Batman sighted, boss.
+34) COA01
+Drop her!
+35) BATMAN
+Commissioner, get to safety.
+36) GROGAN
+I can’t just leave these people!
+37) RYDER
+[PKUP]Late last night-- wait.
+38) RYDER
+[PKUP]I’m getting breaking news; the Children of Akrham are outside the Gate Street Metro station... [beat, showing his upset]They have taken Commissioner Grogan hostage.
+39) RYDER
+[ALT; coverage][PKUP]According to sources... Commissioner Grogan was attempting to stop the Children of Arkham from abducting a citizen-- and was overwhelmed.
+40) RYDER
+[PKUP]I repeat, for anyone just tuning in, Commissioner Grogan has been taken hostage--
+41) OSWALD
+[ALT][PKUP]Dear ol’ Commish just came around and offered himself up to the cause.
+42) OSWALD
+[ALT][PKUP]Couldn’t refuse the man, could we?
+43) OSWALD
+[PKUP][lower, threating]If you can’t clean yourself up, Gotham, then the Children will do it for you.
+44) BATMAN
+[ALT][PKUP]No!
+45) BATMAN
+[ALT][PKUP][snarl]Not now--
+46) GROGAN
+[PKUP][dying]You... have to... stop them.
+47) GROGAN
+[ALT][PKUP]Do what you need to...
+48) RYDER
+[ALT; coverage][PKUP]--wait.
+49) GROGAN
+[ALT][PKUP]It’s up to you... to save Gotham.
+50) GROGAN
+[ALT][PKUP]Save Gotham...
+51) RYDER
+[ALT][PKUP]The group has continued their reign of terror, most recently with a series of kidnappings of prominent Gotham citizens.
+52) RYDER
+[PKUP]As for the leader herself-- wait.
+53) RYDER
+[PKUP][newscast][newscast] Batman has clashed with Penguin’s men several times in the last month, foiling the kidnapping of several prominent Gotham citizens.
+54) RYDER
+[ALT][newscast] Batman has clashed with Penguin’s men at least four times in the last month, foiling the kidnapping of prominent Gotham citizens and civil servants.
+55) BATMAN
+Alfred, I’ve located the commissioner.
+56) BATMAN
+Looks like another one of Penguin’s traps.
+57) ALFRED
+I’m sure more deadly than the last--
+58) ALFRED
+He’s been making the most of his access to Wayne Tech.
+59) ALFRED
+Be careful, Bruce.
+60) GROGAN
+[ALT][to batman; struggling] Get it together, Batman!
+62) GROGAN
+[PKUP]The hostages!
+64) GROGAN
+[PKUP]... save our city.
+66) OSWALD
+[less specific] That’s right, newsman!
+67) RYDER
+[PKUP2] Breaking news!
+68) RYDER
+[PKUP2] The Children of Arkham have taken hostages--
+69) RYDER
+[PKUP2] Several important Gotham citizens were forced from their homes early this morning.
+70) RYDER
+[ALT][PKUP2] Wait--
+80) RYDER
+[ALT][PKUP2] Wait--
+71) RYDER
+[PKUP2][shaken] The GCPD tried to intervene and Commissioner Grogan was captured as well.
+83) RYDER
+[PKUP2][shaken] The GCPD tried to intervene and Commissioner Grogan was captured as well.
+73) RYDER
+[PKUP2] I repeat, the Children of Arkham have taken several hostages, including the GCPD’s Commissioner, Peter Grogan.
+84) RYDER
+[PKUP2] I repeat, the Children of Arkham have taken several hostages, including the GCPD’s Commissioner, Peter Grogan.
+74) RYDER
+Police Commissioner Peter Grogan has been taken hostage.
+81) RYDER
+Police Commissioner Peter Grogan has been taken hostage.
+75) RYDER
+Apparently
+82) RYDER
+Apparently
+76) RYDER
+[PKUP] When the GCPD tried to intervene, many were taken as well, including Police Commissioner Peter Grogan.
+79) RYDER
+[PKUP] When the GCPD tried to intervene, many were taken as well, including Police Commissioner Peter Grogan.
+77) RYDER
+[PKUP2] High profile Gotham citizens including Police Commissioner Peter Grogan, who was taken while attempting to intervene.
+78) RYDER
+[PKUP2] I repeat, the Children of Arkham have taken hostages--
+85) CIVILIAN01
+[shaken] Th- Thank you!
+86) CIVILIAN01
+[shaken] Th- Thank you, Batman!
+87) CIVILIAN01
+[in a daze] Thanks...
+88) OSWALD
+[ALT][PKUP2][on radio] Time to get the bat’s attention!
+89) OSWALD
+[ALT][PKUP2][on radio] Do it!
+90) COA01
+[PKUP2] Boss says it’s time to get the bat’s attention.
+91) COA01
+[ALT][PKUP2] Penguin says it’s time to get the bat’s attention.

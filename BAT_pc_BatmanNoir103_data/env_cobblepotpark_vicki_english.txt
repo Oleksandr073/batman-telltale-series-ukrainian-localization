@@ -1,0 +1,934 @@
+﻿1) BATMAN
+Strange place to meet.
+2) BATMAN
+This area is dangerous. You shouldn’t be out here alone.
+52) BATMAN
+This area is dangerous. You shouldn’t be out here alone.
+3) VICKI
+I just interviewed a known terrorist, I think I can handle myself.
+4) VICKI
+[ALT]You’re not gonna let anything happen to me.
+5) VICKI
+You don’t come around here often, do you Batman.
+6) 
+And you do?
+7) 
+That’s not why I’m here.
+8) 
+More than you think.
+9) BATMAN
+That’s what I need to talk to you about.
+10) VICKI
+[sighs]I guess that’s a no to the interview then.
+11) BATMAN
+We’ll see.
+12) VICKI
+What do you want to know?
+13) 
+Who is the Voice?
+14) 
+Where is their base?
+15) 
+What’s their next move?
+16) BATMAN
+The Voice... who is he?
+17) VICKI
+Now you know I can’t tell you that.
+18) BATMAN
+I need to know where I can find them. Their base of operations...
+19) VICKI
+And by th
+20) 
+What did they tell you?
+70) BATMAN
+What did they tell you?
+21) 
+How did they contact you?
+75) BATMAN
+How did they contact you?
+22) 
+Where did you meet?
+23) VICKI
+Honestly it was just a lot of posturing and grandoise monologuing.
+24) VICKI
+“We’re going to purge the city of corruption” sort of thing.
+25) BATMAN
+What else did they tell you? Anything at all.
+26) VICKI
+You read the story I assume.
+27) VICKI
+That’s about it. Nothing specific.
+28) VICKI
+They’re big on secrecy. I’m sure you understand.
+29) BATMAN
+How did you get into contact with the Voice?
+30) VICKI
+They contacted me actually. Same way you did.
+31) VICKI
+I’m sorry. That’s all I can tell you.
+32) 
+Stop protecting them.
+33) 
+You have to know more.
+34) VICKI
+The circumstances of that meeting are confidential. I’m not selling out a source... not even for Batman.
+35) 
+That’s unacceptable.
+36) 
+Lives are at risk!
+37) BATMAN
+The Children of Arkham hurt you too. They don’t deserve your protection.
+38) VICKI
+Yeah, well you’d know a lot about that wouldn’t you?
+39) VICKI
+You really think Bruce Wayne deserves your protection?
+40) 
+Bruce is innocent.
+41) 
+I’m not protecting him.
+42) 
+Next question.
+43) VICKI
+He’s the one everyone’s mad at.
+44) VICKI
+{FaceAccent}Everyone’s{ConcernedA} angry... everyone wants him to answer{AngryA} for what his{DisgustA}{FaceAccent} family did.
+45) VICKI
+Everyone{DisgustB} except for{FaceAccent} you.
+46) BATMAN
+[intimidating]I’m gonna need you to be more helpful than that, Miss Vale.
+47) VICKI
+Save the dramatics for those who deserve it.
+48) VICKI
+Bruce Wayne would be a good start.
+49) 
+I’ve been here before.
+118) BATMAN
+I’ve been here before.
+50) 
+This is nothing.
+51) 
+Don’t be coy with me.
+53) 
+You think they’re terrorists?
+54) 
+I know you’re competent.
+55) 
+You seem to like danger.
+56) BATMAN
+Who is the Children of Arkham’s leader? The Voice?
+57) VICKI
+They’re not a fan of that nickname.
+58) 
+They have another name.
+59) 
+Tell me their true identity.
+60) 
+Then what are they called?
+61) BATMAN
+What would they prefer?
+63) BATMAN
+What would they prefer?
+66) BATMAN
+What would they prefer?
+68) BATMAN
+What would they prefer?
+62) VICKI
+No idea. They’re really into the secret identity thing.
+64) VICKI
+You really think they’d just tell me that?
+65) 
+I’m not a fan of their message.
+67) VICKI
+They didn’t say. They’re really into the secret identity thing. I’m sure you understand.
+69) VICKI
+They didn’t say. They’re really into the secret identity thing. I’m sure you understand.
+71) VICKI
+Not great from an investigative standpoint, but the public will eat it up.
+72) 
+You spread their message!
+73) 
+You sold out.
+74) 
+Stop hiding the truth.
+76) VICKI
+Same way you did. And after the debate… I was stuck between a rock and a hard place. It’s not like I could refuse.
+77) 
+I’m sorry about what happened.
+78) 
+You got lucky at the debate.
+79) 
+That must be how they heard of you.
+80) BATMAN
+I’m sorry. You went through a lot.
+81) VICKI
+I didn’t have it nearly as bad as other people. I mean, at least I’m not Hill. Thank you, by the way. If you weren’t there at the debate-- I don’t know what the Children of Arkham might have done.
+82) 
+I’m on Bruce Wayne’s side.
+83) 
+I work with the police.
+84) 
+I’m against the Children of Arkham.
+85) 
+No
+86) BATMAN
+The Children of Arkham are still out there. Did they tell you their next move?
+87) VICKI
+No, they didn’t.
+88) VICKI
+They didn’t tell me anything.
+101) VICKI
+They didn’t tell me anything.
+89) VICKI
+Look. I don’t agree with the Children of Arkham’s methods. But something in this city needs to change.
+90) BATMAN
+Harvey Dent can change it.
+91) VICKI
+Rumor is Harvey Dent is locked up in his office and acting erratic.
+92) BATMAN
+He’s fine.
+113) 
+He’s fine.
+116) BATMAN
+He’s fine.
+93) VICKI
+Let’s hope he is. We need a leader now more than ever.
+117) VICKI
+Let’s hope he is. We need a leader now more than ever.
+94) VICKI
+Be careful, Batman. These Children of Arkham aren’t messing around.
+95) BATMAN
+Alfred.
+96) ALFRED
+Yes, sir?
+97) BATMAN
+There’s a video of Vicki Vale’s interview with The Voice. I’m heading back now.
+98) ALFRED
+Would you like me to have anything ready for your return?
+99) BATMAN
+Yeah. Pull up the Gotham Gazette’s hard drive. I’ve got an idea.
+100) ALFRED
+Very good, sir.
+102) BATMAN
+They must have told you something! Where did you meet?
+103) VICKI
+I don’t know! It was a video conference, that’s all. I couldn’t see anything.
+104) 
+Stop asking about Bruce Wayne!
+105) 
+Leave Catwoman out of this.
+106) BATMAN
+I thought you were his friend. You’ve been defending him in the press.
+185) BATMAN
+I thought you were his friend. You’ve been defending him in the press.
+107) VICKI
+Just because I think he’s innocent doesn’t mean the rest of this city does too. Besides, he gave me the file on Falcone. I owe him that.
+186) VICKI
+Just because I think he’s innocent doesn’t mean the rest of this city does too. Besides, he gave me the file on Falcone. I owe him that.
+108) VICKI
+Speaking of, I know the Falcone files were on the drive that was stolen during the breakin at City Hall. The drive you and that Catwoman fought over. So you must have some sort of connection with him. Is that why you’re protecting him?
+187) VICKI
+Speaking of, I know the Falcone files were on the drive that was stolen during the breakin at City Hall. The drive you and that Catwoman fought over. So you must have some sort of connection with him. Is that why you’re protecting him?
+109) 
+Yes, it is.
+110) 
+Give me the video.
+203) BATMAN
+Give me the video!
+111) 
+How convenient.
+112) 
+Yet you met me in a park...
+114) 
+What a weird rumor.
+115) 
+I’ve heard that too...
+119) VICKI
+Really? Slumming it up with the locals? Wouldn’t expect that from a guy like you.
+120) BATMAN
+I’ve been worse places before. This is nothing.
+121) VICKI
+Sorry it’s not up to your standards.
+122) BATMAN
+I didn’t come here for you to be coy with me.
+123) VICKI
+You sure about that?
+124) VICKI
+Fine. Whatever.
+125) VICKI
+You’re probably used to swinging around high rises. Nice views of the city. Beating down thugs in front of Gotham high society.
+126) BATMAN
+Is that your professional opinion? That they’re terrorists?
+127) VICKI
+If the boot fits. I’ve heard firsthand what this Voice thinks about Gotham.
+128) VICKI
+They’re incredibly dangerous.
+129) BATMAN
+I don’t doubt you, Miss Vale. You’re incredibly competent.
+130) VICKI
+A compliment from the Batman? Didn’t think it was possible. Thanks.
+131) VICKI
+I’m used to danger, living in a city like this. It’s why I wanted to get an exclusive with the Voice.
+132) BATMAN
+You seem to be a glutton for danger.
+133) VICKI
+When you’re a reporter in Gotham, you need to like the danger. It’s what drives me.
+134) VICKI
+It’s why I wanted to get an exclusive with the Voice.
+135) VICKI
+I’m used to the danger. It’s an occupational hazard. And when it comes to danger, this Voice certainly qualifies.
+136) VICKI
+I didn’t think you’d be one to judge, quite frankly. You’re not the only one worried about Gotham.
+137) BATMAN
+Who is it? Underneath the mask?
+138) BATMAN
+Well, I’m not a fan of them. Or their message.
+139) VICKI
+I’m sure you’re not. I saw how you beat up those Children of Arkham at the debate. You made your opinion of them very clear.
+140) VICKI
+They said it’s too... what was the word?
+141) BATMAN
+You’re only helping them. Giving them an outlet to promote their anarcy.
+142) VICKI
+I’m reporting the truth. There’s no slant for or against them. What people take away from it is their own perogative.
+143) BATMAN
+And I’m sure you made a profit. Hope it was worth it.
+144) VICKI
+Do you know what my job is? I’m paid to sell papers. So yeah, it *was* worth it.
+145) BATMAN
+Gotham needs to know how dangerous the Children of Arkham really are. You’re hiding the truth.
+146) VICKI
+My editor says the physical copies are practically sold out.
+147) VICKI
+Oh wow. Over a thousand retweets.
+151) VICKI
+Oh wow. Over a thousand retweets.
+148) BATMAN
+The word is getting out.
+149) VICKI
+Let’s just hope the people get the right message.
+150) 
+
+178) 
+
+318) 
+
+335) 
+
+152) VICKI
+All I did was write it down.
+153) VICKI
+At least, I hope so. I’d hate to have stuck my neck out for nothing.
+154) BATMAN
+At least you’re still alive. Not everyone at the debate was as lucky as you.
+155) BATMAN
+You moderated the debate. That’s probably how the Children of Arkham thought to contact you.
+156) VICKI
+I thought the same thing. I guess it’s the only good that came out of that nightmare.
+157) VICKI
+I... I don’t know if I’ll ever be over it.
+158) VICKI
+You think I don’t realize that? It’s not like I’m looking for pity.
+159) VICKI
+But I’m glad you reached out to me. Investigative journalism requires me to report both sides.
+160) VICKI
+The Children of Arkham got their exclusive.
+161) VICKI
+So, do you have an opinion? Whose side is Batman on?
+162) BATMAN
+Bruce Wayne’s.
+163) VICKI
+Really? That’s a bit of controversial stance to take.
+164) BATMAN
+I’m helping the GCPD.
+165) VICKI
+[joking]So they have you on their payroll?
+166) BATMAN
+They protect this city. So do I.
+167) BATMAN
+As long as it’s against the Children of Arkham. That’s the side I’m on.
+168) VICKI
+How pragmatic of you.
+169) BATMAN
+They’re a danger to this city. And I’m going to take care of them.
+170) VICKI
+Hey, you’re the one who offered up this interview. You gotta give me something.
+171) VICKI
+I’ve had nightmares ever since that night. But the Children of Arkham don’t seem to care. They say “jump,“ and you ask “how high?“
+172) BATMAN
+You’re putting the safety of everyone in Gotham at risk!
+173) VICKI
+There are more dangerous people than the Children of Arkham.
+174) VICKI
+Bruce Wayne is one of them.
+175) VICKI
+The Children of Arkham aren’t the only danger in Gotham. You should be going after Bruce Wayne.
+176) BATMAN
+Bruce Wayne is innocent. He’s not responsible for what his father did.
+177) BATMAN
+He doesn’t need my protection.
+179) VICKI
+You said you were on his side.
+180) BATMAN
+I don’t need to protect someone to be on their side.
+181) VICKI
+Too bad for him, I guess.
+182) BATMAN
+I’m not here to talk about Bruce Wayne.
+183) VICKI
+I thought a guy like you saw the world in black and white.
+184) VICKI
+Seems strange that Bruce Wayne of all people would have your support.
+188) VICKI
+You’re always working in the shadows. Protecting the regular citizens of Gotham that can’t get help anywhere else.
+189) VICKI
+How does Bruce Wayne fall into that category? Do you owe him or something? I know Bruce gave Lieutenant Gordon the files on Falcone--
+190) BATMAN
+[pissed off]Quit asking about Bruce Wayne.
+191) VICKI
+Okay, okay. Have it your way.
+192) BATMAN
+How?
+193) VICKI
+Please, I’m a reporter. It’s my job.
+198) VICKI
+[Don’t question my abilities]Please, I’m a reporter. It’s my job.
+194) VICKI
+Speaking of, the Falcone files were on the drive that was stolen during the breakin at City Hall. The drive you and that Catwoman fought over. So you must have some sort of connection with him. Is that why you’re protecting him?
+195) BATMAN
+We’re not talking about Catwoman.
+196) VICKI
+Interesting. What’s the deal with her? She’s against you at City Hall, then she’s with you at the debate--
+197) BATMAN
+I said drop it.
+199) BATMAN
+I have an...arrangement with Bruce Wayne.
+200) VICKI
+[What kind of arrangement?] Oh, really? That’s *very* interesting.
+201) VICKI
+[sarcastic]Guess you like to keep more than your identity secret, huh?
+202) BATMAN
+Interview’s over. Now you’re gonna tell me what else you know about the Children of Gotham.
+204) VICKI
+I don’t have it anymore.
+205) BATMAN
+How convenient. No names, no important information...
+206) VICKI
+I’m sorry they didn’t spill their evil plan to me. Like I said. They’re a fan of secrecy.
+207) VICKI
+I did everything by the book. I’m not going to put my job or my life on the line to help out the Batman.
+208) BATMAN
+You interview them in secrecy, but you meet me at a public park.
+209) VICKI
+They’re the ones who told me when and where. And to be honest, I wasn’t sure you were going to show.
+210) VICKI
+But secrecy is much more akin to villains than heroes, don’t you think?
+211) VICKI
+It was dark... the most I could see was their leader’s mask. Hard to miss, you know?
+212) BATMAN
+Then where is it?
+213) VICKI
+It’s property of the Gazette now. I’m not high enough on the paygrade to access it.
+214) BATMAN
+Awful strange rumor you heard, Miss Vale.
+215) VICKI
+I guess the aftermath of the debate isn’t going well on his end either.
+216) VICKI
+As strange as a reporter talking to a guy in a bat costume. At this point, I take very little with a grain of salt.
+217) BATMAN
+I’ve heard the same.
+218) VICKI
+If Mayor Dent wants to keep to his promises and change this city, he’s going to need to snap out of it.
+219) VICKI
+If Mayor Dent wants to keep to his promises and change this city, he’s going to need to snap out of it.
+220) VICKI
+I’m not sure you know who I am. Vicki Vale. Reporter. I’m paid to sell papers.
+221) VICKI
+Wasn’t sure you were gonna show.
+222) 
+I keep my word.
+223) VICKI
+Gotta admit, part of me thought it was a prank call.
+224) VICKI
+Nothing is ever this easy.
+225) 
+I need information.
+226) VICKI
+Especially not when you’re a reporter.
+227) BATMAN
+I always keep my word.
+228) VICKI
+Good to know.
+229) BATMAN
+I need some information from you.
+230) VICKI
+Yeah, figured as much.
+231) 
+Why here?
+232) BATMAN
+There are... safer... options out there. Why here?
+233) VICKI
+Seemed topical.
+234) VICKI
+Okay, gonna make me do the teeth-pulling then.
+235) VICKI
+So... Batman.
+236) VICKI
+The Children of Arkham seem to be your latest target.
+237) VICKI
+What makes them so dangerous?
+238) 
+No, they’re terrorists.
+239) 
+They have a point.
+240) 
+Turn the recorder off.
+241) VICKI
+[with a smile]I’ll skip the obvious question.
+242) VICKI
+In your opinion.
+243) BATMAN
+You saw what they did at the debate. They’re terrorizing Gotham.
+244) VICKI
+Yeah, some say they’re liberating it.
+245) BATMAN
+And you believe that?
+246) VICKI
+Doesn’t matter what I believe. I just report the facts.
+247) BATMAN
+They’re a symptom of a larger problem.
+457) BATMAN
+They’re a symptom of a larger problem.
+248) VICKI
+The corruption in Gotham.
+249) BATMAN
+They exist because they see an injustice.
+250) VICKI
+Sort of like you, then.
+251) BATMAN
+I don’t want this conversation recorded.
+252) VICKI
+I thought we were here for an interview.
+253) BATMAN
+Turn it off.
+254) VICKI
+Fine.
+260) VICKI
+Fine.
+325) VICKI
+Fine.
+405) VICKI
+[pickup]Fine.
+255) VICKI
+Will you talk now?
+256) BATMAN
+You interviewed their leader. The Voice.
+257) BATMAN
+The Children of Arkham...
+258) VICKI
+“Pedestrian.”
+259) VICKI
+Do you consider them biggest danger to Gotham?
+261) VICKI
+I’m sure you understand.
+262) VICKI
+They’re really into the secret identity thing. I’m sure you understand.
+263) VICKI
+You’ve made that very clear. Though I’m not sure the rest of Gotham agrees with you.
+264) VICKI
+About the message at least.
+265) VICKI
+That’s not what you’re here to find out though, is it.
+266) VICKI
+Their message is picking up traction. Especially since the interview.
+267) VICKI
+Does no one read anymore?
+268) VICKI
+It was a lot of posturing and grandiose monologuing, really. “We’re going to purge the city of corruption” sort of thing.
+269) VICKI
+Sounded a lot like Harvey Dent actually.
+270) VICKI
+If that’s the only reason you called me you should really just read it yourself.
+271) VICKI
+They aren’t trying to hide their motivations.
+272) VICKI
+It’s all out there, clear as day.
+273) BATMAN
+[annoyed]You gave them a platform to promote themselves. You’re helping them get what they want.
+274) VICKI
+What they want is an end to corruption. Something I’ve heard you claim to support as well.
+275) VICKI
+Unless that’s all just a rumor.
+276) VICKI
+So whose side is Batman on?
+277) BATMAN
+Where did you meet? How did they contact you?
+382) BATMAN
+Where did you meet? How did they contact you?
+278) VICKI
+Okay, I’m gonna stop you right there.
+383) VICKI
+Okay, I’m gonna stop you right there.
+279) VICKI
+I can’t tell you anything about the circumstances of that meeting. It’s confidential.
+280) VICKI
+I’m not selling out a source... not even for Batman.
+384) VICKI
+I’m not selling out a source... not even for Batman.
+281) VICKI
+{ConfusedA}Why haven’t you{ConfusedC} gone after him {AngryA}yet?
+282) VICKI
+No way he just slipped under your radar.
+283) VICKI
+But so far no action from you against him.
+284) VICKI
+Why is that?
+285) VICKI
+The circumstances of that meeting are confidential.
+385) VICKI
+The circumstances of that meeting are confidential.
+286) VICKI
+Just like this one.
+287) VICKI
+I’m sure you wouldn’t want me telling everyone how to get ahold of you.
+288) VICKI
+I can’t give you specifics.
+289) VICKI
+That’s not up to me to decide.
+290) VICKI
+I have to remain unbiased. Something you should learn to do.
+291) BATMAN
+What does that mean?
+292) VICKI
+I’m talking about Bruce Wayne.
+293) VICKI
+Well, if you really care about the safety of Gotham, why aren’t you looking at Bruce Wayne?
+294) VICKI
+And if you want my honest opinion, you’re wasting your time with the Children of Arkham.
+295) VICKI
+You should be looking at Bruce Wayne.
+296) VICKI
+Maybe not, but he still benefits from it.
+297) VICKI
+All those people suffered so that he could prosper up in that mansion of his.
+298) BATMAN
+I’m not protecting Bruce Wayne.
+299) VICKI
+Maybe not, but in this case doing nothing sure sends a strong statement.
+300) VICKI
+Don’t think people haven’t noticed.
+301) VICKI
+They have a right to be angry.
+302) BATMAN
+I thought you didn’t take sides.
+303) VICKI
+Look, I came here to meet you. I didn’t have to do that.
+305) VICKI
+Look, I came here to meet you. I didn’t have to do that.
+304) VICKI
+The least you could do is answer a few questions.
+306) VICKI
+The least you could do is answer a few questions.
+307) VICKI
+I’m not stupid. I know you have some connection with him.
+308) VICKI
+That data drive he gave me... that was from you.
+309) VICKI
+But you can’t ignore the facts.
+310) VICKI
+I don’t know if you have some... connection with him. Maybe there’s more to this story than I realize.
+311) VICKI
+Whether he intended to or not his family has been stealing from innocent people for years.
+312) 
+Reporters aren’t supposed to take sides.
+313) BATMAN
+I thought reporters didn’t take sides.
+314) VICKI
+Doesn’t mean I can’t have an opinion.
+315) 
+He’s trying to fix things.
+316) BATMAN
+He’s doing what he can to make things right again.
+317) VICKI
+But he’s running out of time.
+319) VICKI
+Everything he has...
+320) VICKI
+He got because of what his father did.
+321) VICKI
+You can’t deny that.
+322) 
+This interview is over.
+426) 
+This interview is over.
+323) BATMAN
+The interview is over, Miss Vale.
+324) BATMAN
+You know what the Children of Arkham are planning, don’t you?
+326) VICKI
+You must see it.
+327) VICKI
+Even if you don’t want to believe it.
+328) VICKI
+Gotham will have justice one way or another.
+329) VICKI
+No, but I can put two and two together.
+330) VICKI
+If you wanna stand by and watch, that’s up to you.
+331) VICKI
+[dismissive]I gotta get this to my editor.
+332) VICKI
+Not that I got anything more than “turn it off”.
+333) VICKI
+Not that you gave me much to work with.
+334) BATMAN
+But I think I know where to look.
+336) 
+We’re not done!
+337) BATMAN
+We are not done!
+339) BATMAN
+We are not done!
+338) VICKI
+Like you said, this interview is over.
+340) VICKI
+{AngryA}Oh, I think we{DisgustB} are.
+341) 
+What are you gonna do with that?
+342) BATMAN
+What’s your editor gonna do with that recording?
+343) VICKI
+I was hoping for a story.
+344) VICKI
+Sounds like this one’ll likely pick up dust on the server instead.
+345) VICKI
+I have work to do. I’m not interested in bits of nothing that will only pick up dust on the company server.
+346) VICKI
+I have work to do. I’m not interested in bits of nothing that will only pick up dust on the company server.
+364) VICKI
+I have work to do. I’m not interested in bits of nothing that will only pick up dust on the company server.
+347) 
+I need your help.
+348) BATMAN
+Looks like neither of us got what we were looking for.
+349) VICKI
+Too bad.
+350) BATMAN
+Please, Miss Vale.
+351) BATMAN
+I need to find the Children of Arkham before they hurt anyone else.
+352) BATMAN
+Think what you want about Bruce Wayne, but I need to find the Children of Arkham before they hurt anyone else.
+353) VICKI
+I’m not gonna hear the end of it.
+354) VICKI
+Goodbye, Batman.
+355) VICKI
+{DisgustA}If you’re as good as they{ConfusedA} say you are,{SmugA} I’m sure you’ll find a way.
+356) ALFRED
+Did she tell you where to find the Children of Arkham, sir?
+357) VICKI
+Now if you’ll excuse me, this isn’t gonna upload itself.
+359) VICKI
+Now if you’ll excuse me, this isn’t gonna upload itself.
+358) VICKI
+Guess that’s nothing new though.
+360) BATMAN
+Not exactly.
+361) VICKI
+{ConfusedB}I still want {ConcernedA}to believe he’s a good{FaceAccent} guy too, but{AngryA} with the{BodyAccent} information that’s{ConfusedB} surfaced...
+362) 
+WRI: Stronger conditional
+363) 
+That’s not true.
+365) BATMAN
+There are no facts linking Bruce Wayne to what his father did. You’re jumping to conclusions.
+366) VICKI
+I’m not jumping anywhere. I’m trying to be objective.
+367) VICKI
+Objectivity runs in my line of work. I’m not saying that Bruce intended what’s happened, maybe he didn’t even know.
+368) VICKI
+But he’s still been profiting.
+369) VICKI
+Doesn’t change anything.
+370) BATMAN
+I agree with you.
+371) BATMAN
+You’re right. His fortune was built on lies and corruption. And he’ll stand accountable for that.
+372) VICKI
+Couldn’t have said it better myself.
+373) VICKI
+I’d say the truth is getting out there. It just may not be the side you like.
+374) VICKI
+But that’s why I’m here. To get the other half I’m missing.
+375) VICKI
+No investigation.
+376) VICKI
+I’m not saying that Bruce intended what’s happened... maybe he didn’t even know.
+377) VICKI
+But it still warrants an investigation.
+378) VICKI
+And I believe that, I really do.
+379) VICKI
+The people won’t wait forever.
+381) VICKI
+The people won’t wait forever.
+380) VICKI
+But the clock is ticking.
+386) VICKI
+[pickup]{ConcernedA}Good luck with{ThinkingB} the Children of Arkham.
+438) VICKI
+[pickup]{ConcernedA}Good luck with{ThinkingB} the Children of Arkham.
+387) 
+I’ll call the cops.
+388) 
+This is your fault.
+389) 
+You’re next on their list.
+390) 
+Don’t make me hurt you.
+391) BATMAN
+[pickup][threatening]I could make you talk.
+392) VICKI
+[pickup]{ConcernedA}I’m sure you{FearA} could.
+393) VICKI
+[pickup]{ConcernedA}Let me{AngryA} by.
+394) VICKI
+[pickup]I told you I can’t help you.
+395) BATMAN
+[pickup]You’re obstructing justice. If I have to I’ll get the police involved.
+396) BATMAN
+[pickup]Whatever happens next, whatever the Children of Arkham do to this city... remember that you had the chance to stop it.
+397) BATMAN
+[pickup]Can you really live with that responsibility?
+398) BATMAN
+[pickup]Tell me what you know and you can walk away.
+399) VICKI
+[pickup][nervous]...Okay. Okay.
+400) VICKI
+[pickup][guilty]Y- Yeah. You’re right.
+401) BATMAN
+[pickup]The Children of Arkham are capable of more than you know. They’re spying on the GCPD and soon they’ll have access to even more.
+402) BATMAN
+[pickup]Including the Gotham Gazette.
+403) VICKI
+[pickup]I- I didn’t realize.
+404) VICKI
+[pickup][scared]You’re not gonna let me go are you?
+406) VICKI
+[pickup][hesitant]I could lose my job for this, but...
+407) VICKI
+[pickup]This is where we met for the interview.
+408) VICKI
+[pickup][insistent]Please. Don’t tell anyone I gave this to you.
+409) BATMAN
+[pickup]The Skyrail Depot?
+410) 
+You’re right.
+411) VICKI
+[pickup]{body-X}{ConfusedA}Okay, you want my{BodyAccent} source, you’re gonna{AngryA} have to tell me what’s{FaceAccent} really{ThinkingA} going on here.
+412) 
+I don’t make deals.
+413) 
+Nothing is going on.
+414) 
+Sounds good.
+415) VICKI
+[pickup]{ThinkingA}I’ll tell you where{ConcernedA} to find the {FaceAccent}Children of Arkham.
+416) VICKI
+[pickup]But I {DisgustA}need something from you.
+417) VICKI
+[pickup]Something I{ThinkingA} can{BodyAccent} work with.
+418) BATMAN
+[pickup]{AngryA}I’m not here to make deals with you{DisgustA}, Miss Vale.
+419) VICKI
+{AngryA}Then you’re not getting anything{DisgustB} from me.
+420) BATMAN
+[pickup]{DisgustA}There’s nothing to tell. This isn’t some grand{AngryA} conspiracy, Miss Vale.
+421) VICKI
+[pickup]{ThinkingA}Then this should be easy{SmugA} for you then.
+422) BATMAN
+[pickup]{DisgustA}I’ll tell you what I{FaceAccent} can.{AngryA} But I need that{ThinkingA} information.
+423) VICKI
+[pickup]{ThinkingB}Then you’d better not hold {ThinkingA}anything back.
+424) VICKI
+[pickup]{DisgustA}If you want anything from me then you’d better start having{ConfusedA} more to say.
+425) VICKI
+[pickup]{ConfusedA}So what are you going{ConfusedB} to do about{ConcernedA} it?
+427) 
+I handle bigger threats.
+428) 
+Wayne will pay his debts.
+429) VICKI
+[pickup]{ConcernedA}The people want{ConfusedB} to know.
+430) VICKI
+[pickup]{ConfusedA}What is Batman doing to protect them from{DisgustA} Bruce Wayne?
+467) VICKI
+[pickup]{ConfusedA}What is Batman doing to protect them from{DisgustA} Bruce Wayne?
+431) BATMAN
+[pickup]{AngryA}That’s enough{DisgustA} questions.
+432) VICKI
+[pickup]{AngryA}Fine. If{ConfusedC} that’s how {DisgustA}you feel...
+433) BATMAN
+[pickup]{AngryA}There are bigger threats to Gotham out there.{DisgustA} The Children of Arkham... I have to deal with {AngryB}them first.
+434) VICKI
+[pickup]{DisgustA}You’re doing what you{ThinkingB} think is right. {ThinkingC}I get it.
+435) BATMAN
+[pickup]{AngryA}Believe me, {ThinkingA}I’ll make sure Bruce Wayne’s{AngryA} debt is repayed.
+436) VICKI
+[pickup]{ConcernedA}Gotham will be{SmugA} glad to hear it.
+437) VICKI
+[pickup]{ThinkingA}I can see where {DisgustA}this is going.
+439) VICKI
+[pickup]Here. This is where we met for the interview.
+440) VICKI
+[pickup]Thank{HappyB} you.
+441) VICKI
+[pickup]I’ll be sure your message gets out.
+442) BATMAN
+[pickup]{AngryA}We had a{AngryB} deal.
+443) VICKI
+[pickup]{ConfusedB}You’re-- you’re really going to{AngryA} threaten me?
+444) VICKI
+[pickup]Then you should’ve taken my deal.
+445) VICKI
+[pickup]{AngryA}I tried to help you. You didn’t {DisgustA}want to play.
+446) VICKI
+[pickup]{ThinkingB}If you think I’m{DisgustA} upholding our deal now.
+447) VICKI
+[pickup]{ThinkingA}You’re right. You upheld{ThinkingB} your end...
+448) VICKI
+[pickup]{ThinkingA}You’re right. You upheld{ThinkingB} your end...
+449) VICKI
+[pickup][awkward]{SmugA}Right.
+450) BATMAN
+[pickup]I said I’d be here didn’t I?
+451) BATMAN
+[pickup]It’s important.
+452) VICKI
+[pickup]We all know their methods are... extreme. But what about their message?
+453) VICKI
+[pickup]Their leader claims that Gotham’s elite have been abusing their power, often at the expense of ordinary citizens.
+454) VICKI
+[pickup]For the record, do you think there’s any validity to what they’re saying?
+455) BATMAN
+[pickup]That’s all there is to it.
+456) BATMAN
+[pickup]The Children of Arkham have done horrible things.
+458) BATMAN
+[pickup]I need to know everything they told you.
+459) VICKI
+[pickup][not happy about it]Part of the job, you know.
+460) BATMAN
+[pickup][ALT]So much for journalistic integrity.
+461) VICKI
+[pickup][ALT]Integrity is for those who can afford it. I still gotta make a living.
+462) BATMAN
+[pickup]I thought you were a journalist with integrity.
+463) BATMAN
+[pickup][ALT]Didn’t expect you to abandon your integrity for a story.
+464) BATMAN
+[pickup][ALT]The Children of Arkham hurt you at the debate too. They don’t deserve your protection.
+465) BATMAN
+[pickup][ALT]They’ll have you arrested.
+466) 
+This is important.

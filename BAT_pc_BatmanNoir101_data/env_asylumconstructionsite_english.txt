@@ -1,0 +1,523 @@
+﻿1) REPORTER02
+Over here. Right here.
+2) REPORTER03
+Mr. Wayne... Bruce... Bruce…
+3) REPORTER04
+One on your left. Your other left.
+4) COUNCILWOMAN
+One of those options, Arkham Asylum, remains the dangerous relic of an outdated system of mental healthcare. Due to Mayor Hill’s negligence, the facility has jeopardized the well-being for Gotham’s most troubled citizens.
+5) 
+
+24) 
+[Read text]
+25) 
+[Ignore]
+52) 
+[Ignore Them]
+64) 
+[Read text]
+65) 
+[Ignore]
+74) BRUCE
+{SmugA}[fake, almost condescending laughter]
+77) 
+[Smile and wave]
+133) HARVEY
+{SkepticalA}[Harvey-esque chuckle]
+201) 
+[Walk off stage]
+249) 
+[Ignore Text]
+6) 
+Reporter
+7) 
+Vicki Vale
+8) 
+Check your source.
+57) 
+Check your source.
+9) 
+My parents weren’t criminals.
+56) 
+My parents weren’t criminals.
+10) 
+This conference is over.
+55) 
+This conference is over.
+11) BRUCE
+{SkepticalA}Next question.
+161) BRUCE
+{SkepticalA}Next question.
+194) BRUCE
+Next question.
+232) BRUCE
+Next question.
+12) BRUCE
+{ThinkingA}I don’t comment on rumors.
+63) BRUCE
+{ThinkingA}I don’t comment on rumors.
+13) HARVEY
+Please keep your questions on topic, people.
+27) HARVEY
+Please keep your questions on topic, people.
+62) HARVEY
+Please keep your questions on topic, people.
+14) HARVEY
+Mr. Falcone showed up unannounced, but Bruce--being the gracious host he is--allowed him a brief chat about billiards.
+170) HARVEY
+Mr. Falcone showed up unannounced, but Bruce--being the gracious host he is--allowed him a brief chat about billiards.
+15) HARVEY
+No skeletons in the closet there, folks.
+164) HARVEY
+No skeletons in the closet there, folks.
+16) REPORTER04
+Just a few more questions. Please.
+17) HARVEY
+We’re here about the hospital, remember?
+26) HARVEY
+We’re here about the hospital, remember?
+61) HARVEY
+We’re here about the hospital, remember?
+18) 
+Falcone’s no friend.
+162) 
+Falcone’s no friend.
+254) 
+Falcone’s no friend.
+19) SPENCER
+Care to comment?
+60) SPENCER
+Care to comment?
+20) BRUCE
+{ConcernedA}I think you should check your source.
+58) BRUCE
+{ConcernedA}I think you should check your source.
+21) BRUCE
+{ConcernedB}It sounds to me like an intern is finally{SmugA} putting their creative writing minor to good use.
+59) BRUCE
+{ConcernedB}It sounds to me like an intern is finally{SmugA} putting their creative writing minor to good use.
+22) 
+:: Not now ::
+46) 
+Not now
+23) 
+:: Whats up? ::
+47) 
+What’s up?
+28) COUNCILWOMAN
+Today, the Thomas and Martha Wayne Foundation makes an unprecedented commitment to the future of our city.
+29) COUNCILWOMAN
+Gotham is no stranger to the ravages if mental illness: Homelessness, crime, broken homes, abuse in the workplace, inside the family -- and inside ourselves.
+30) COUNCILWOMAN
+In collaboration with Gotham’s medical and social justice communities, we are taking the first step towards bringing mental health care firmly into the 21st century with the Thomas and Martha Wayne Memorial Psychiatric Hospital.
+31) COUNCILWOMAN
+Pay attention to that name: Criminally [beat] Insane.
+32) COUNCILWOMAN
+Each of us have been touched by it in some way.
+33) COUNCILWOMAN
+Mental illness is not a crime; it’s a disease!
+261) COUNCILWOMAN
+Mental illness is not a crime; it’s a disease!
+34) COUNCILWOMAN
+We need to stop treat the least of us like criminals -- and more like patients who can and will recover!
+35) COUNCILWOMAN
+Gotham took it’s first step towards dealing with this issue with the founding of the Elizabeth Arkham Asylum for the Criminally Insane in 1922.
+36) COUNCILWOMAN
+And that’s exactly what the Thomas and Martha Wayne Psychiatric Hospital will do!
+37) COUNCILWOMAN
+A disease -- that with the right facilities and care -- we can overcome!
+38) COUNCILWOMAN
+No more labeling patients as monsters and throwing them into the shadows of an archiac prison -- to be forgotten... or worse.
+39) COUNCILWOMAN
+From this day forward we pledge to provide the most humane, state-of-the-art treatment program in the nation to Gotham’s mentally ill.
+40) COUNCILWOMAN
+It’s shaped our lives, our city -- our way of life.
+41) COUNCILWOMAN
+We will lead the nation. We will lead the world.
+42) COUNCILWOMAN
+But first, let’s hear from two of Gotham’s most visionary leaders.
+43) COUNCILWOMAN
+It is my honor and privelage to introduce to you the next Mayor of Gotham, District Attorney Harvey Dent --
+44) COUNCILWOMAN
+And Gotham’s most famous son: Bruce Wayne!
+45) 
+Need to talk.
+48) 
+Call me ASAP.
+49) 
+Urgent!
+GCPD is here.
+50) 
+Get my good side.
+51) 
+Enough photos.
+53) BRUCE
+{ConfusedA}[emotional, unprepared speech] You know, when I was{ThinkingA} nine years old, my parents took me to{HappyA} see a movie about a hero in a mask.
+229) BRUCE
+{ConfusedA}[emotional, unprepared speech] You know, when I was{ThinkingA} nine years old, my parents took me to{HappyA} see a movie about a hero in a mask.
+54) VICKI
+With the opening of this new hospital, what does this mean for Arkham Asylum?
+66) REPORTER02
+Smile for the Tribune!
+67) HARVEY
+{SmugA}In the meantime... are there any more questions?
+68) HARVEY
+{AmusedA}[poking fun in a playful way]I’m making a career out of waiting on Mr. Wayne,{HappyB} but he already *has* a butler.
+69) HARVEY
+{ConcernedA}Um... yes, you there--
+70) SPENCER
+Mr. Wayne! Over here! Right here!
+71) REPORTER03
+Bruce! Bruce!
+72) BRUCE
+{SmugA}Get my good side, okay?
+73) BRUCE
+{SmugB}[a little push back, not a jerk]Okay, okay, pretty sure you have enough photos, guys.
+75) BRUCE
+{SmugA}Hey, text that one to me, will you?
+76) REPORTER03
+Of Bruce Wayne? Never.
+78) HARVEY
+{AmusedB}Hey Bruce, you mind if we swap cars?
+79) BRUCE
+{HappyA}‘Morning, Mr Dent.
+80) HARVEY
+{ConcernedA}[turning more serious]We’re here about Arkham Asylum.
+81) HARVEY
+{NormalA}We didn’t bring you all out here to discuss cars,{SmugA} honestly. [little laugh]
+82) BRUCE
+We should tear down the walls and erase it from the map.
+83) BRUCE
+[pointed]We can do better.
+84) BRUCE
+I think Arkham has only done harm to Gotham.
+85) BRUCE
+Made criminals more unstable, put our citizens in jeopardy.
+86) BRUCE
+This time, we won’t fail those who need us most.
+87) BRUCE
+I say we leave the asylum standing, as a reminder, that we can do better.
+88) BRUCE
+I don’t want us lingering on past mistakes--I want us to focus on Gotham’s future.
+89) BRUCE
+{ThinkingA}It was a hero who stood up to {FaceAccent}oppression and{BodyAccent} defended the people from injustice,{ConcernedA} no matter the cost.
+90) BRUCE
+{NormalA}That night...{SadA} my parents{FaceAccent} paid the {AngryA}ultimate cost defending me from a{BodyAccent} man...
+91) BRUCE
+{ConcernedB}[can’t believe he’s saying it]After all these years,{SadB} I... I still even have the movie tickets...
+92) 
+A terrible lesson.
+93) 
+It won’t happen again.
+94) HARVEY
+{HappyA}[polite laughter]I know, I know.
+95) HARVEY
+{ThinkingA}I promise you all{HappyA} he will be here soon.
+96) BRUCE
+{ConcernedA}My parents... {SurpriseA}were heroes that night.
+97) BRUCE
+{SadA}We can all learn from their{FaceAccent} sacrifice.
+98) VICKI
+I know this is a sensitive subject, Mr. Wayne.
+99) VICKI
+I withdraw my question.
+100) HARVEY
+[heartfelt]We should all take Bruce’s words to heart.
+101) HARVEY
+[heartfelt]Thank you, Ms. Vale.
+102) BRUCE
+{ThinkingA}In the hope that a night like that... {ConcernedB}never happens again.
+103) BRUCE
+{ConcernedA}Let us honor their memory with this{NormalA} new facility...
+104) BRUCE
+{ThinkingA}With this facility... and the next mayor of Gotham--
+106) BRUCE
+{ThinkingA}With this facility... and the next mayor of Gotham--
+105) BRUCE
+{NormalA}We can put a Dent in crime...
+107) BRUCE
+{ConcernedA}[making every word count]My hope is in Harvey to make sure a night like {BodyAccent}that... {SadB}never happens again.
+108) BRUCE
+{ThinkingA}We create a new face for Gotham--
+109) BRUCE
+We change Gotham...
+110) HARVEY
+[heartfelt]Thank you, Bruce.
+111) VICKI
+Thank you.
+112) BRUCE
+[snippy]That’s absurd.
+257) 
+That’s absurd!
+113) BRUCE
+My parents were entrepreneurs, philanthropists... not common criminals.
+114) BRUCE
+Why don’t we just stick to real journalism here.
+171) BRUCE
+Why don’t we just stick to real journalism here.
+115) BRUCE
+Harvey is the one who invited him.
+167) BRUCE
+Harvey is the one who invited him.
+116) HARVEY
+[disbelief, hushed]Bruce?!
+168) HARVEY
+[disbelief, hushed]Bruce?!
+117) BRUCE
+I don’t make friends with gangsters.
+165) BRUCE
+I don’t make friends with gangsters.
+118) BRUCE
+He came to learn about Harvey Dent, your next mayor.
+166) BRUCE
+He came to learn about Harvey Dent, your next mayor.
+119) BRUCE
+Well I think Mister Falcone is a voter, just like anyone else in this city.
+169) BRUCE
+Well I think Mister Falcone is a voter, just like anyone else in this city.
+120) BRUCE
+Personally, I would never welcome that man into my home.
+163) BRUCE
+Personally, I would never welcome that man into my home.
+121) HARVEY
+[fast, whispered into Bruce’s ear]Damage control’s my territory. We’ll talk later.
+122) HARVEY
+Everyone, everyone please, settle down.
+123) REPORTER04
+Did you know about this, Bruce?
+155) REPORTER04
+Did you know about this, Bruce?
+124) SPENCER
+What aren’t you telling us?
+154) SPENCER
+What aren’t you telling us?
+125) HARVEY
+I’ll be fielding your questions from here on out.
+126) REPORTER03
+Could the allegations be true?
+157) REPORTER03
+Could the allegations be true?
+127) SPENCER
+Mr. Wayne! Mr. Wayne!
+158) SPENCER
+Mr. Wayne! Mr. Wayne!
+128) RAMARQUE
+How long has your family been dealing with Falcone?
+156) RAMARQUE
+How long has your family been dealing with Falcone?
+129) ALFRED
+So am I.
+130) ALFRED
+Bruce! I’ve been trying to reach you.
+177) ALFRED
+Bruce! I’ve been trying to reach you.
+131) BRUCE
+A little busy at the moment, Alfred.
+132) REPORTER03
+[ALT]Hey, the public loves you.
+134) HARVEY
+{ThinkingA}But {FaceAccent}today, with a{HappyA} sizable contribution from this man here{BodyAccent}[gestures to Bruce] we break ground on a{FaceAccent} state-of-the-art mental health care facility.
+135) HARVEY
+{ThinkingA}Mr. {FaceAccent}Wayne has a few words he’d like to say.{HappyA} {BodyAccent}Bruce?
+136) HARVEY
+{ThinkingA}Its methods for rehabiliation: crude, its security: lacking.
+137) 
+Hidden Silence
+138) HARVEY
+{SkepticalB}Arkham Asylum is a cancer on Gotham.
+139) HARVEY
+{ThinkingA}Worse still, those who do get out -- {FearA}or God-forbid, escape -- {ConcernedA}are even more dangerous than before they went in.
+140) HARVEY
+{ConcernedA}And the rate of death and suicide inside the {ConcernedB}asylum itself, is truly terrifying.
+141) HARVEY
+{ThinkingA}Ever since it opened its doors, Arkham has been a {FearA}breeding ground for the criminally insane...
+142) BRUCE
+{AngryA}As a reminder.
+143) BRUCE
+{SadB} And make sure a night like that... never happens again.
+144) BRUCE
+{SadB} And make sure a night like that... never happens again.
+145) BRUCE
+{SadB} And make sure a night like that... never happens again.
+146) BRUCE
+{SmugB}[alt][cheerful]Actually, this side is my good side.
+147) 
+Good Morning!
+148) BRUCE
+{HappyA}Good morning, everyone.
+149) REPORTER04
+This way!
+150) HARVEY
+{SmugA}I mean, mine isn’t fast and the paint’s rusting off...{AmusedA} but boy does she have charm.
+151) HARVEY
+{HappyA}One that will improve the well-being of Gotham,{ThinkingA} and its citizens,{SmugA} for years to come.
+152) VICKI
+What happens to the old building?
+153) HARVEY
+[heartfelt]Today, on the anniversary of that fateful night, we dedicate this facility to Thomas and Martha Wayne, and usher in a new era of healing for Gotham.
+159) ALFRED
+The police are here.
+160) ALFRED
+The police are inside the manor.
+178) ALFRED
+The police are inside the manor.
+172) HARVEY
+Please, let’s try to keep this civilized.
+173) ALFRED
+You need to get back here.
+179) ALFRED
+You need to get back here.
+174) HARVEY
+[fast, whispered into Bruce’s ear]I’m sorry about this, Bruce. I dunno where the hell it’s coming from.
+175) 
+<<Insert Image Here: Photo of Bruce entering the press conference>>
+176) 
+It’s a free country.
+180) 
+Let’s put a Dent in crime.
+181) 
+My hope is in Harvey.
+182) 
+We need a new face for Gotham.
+183) 
+Together, we change Gotham.
+184) 
+It did more harm than good
+185) 
+It should be demolished.
+186) 
+It can serve as a reminder.
+187) BRUCE
+[pickup]With this facility... and our next mayor--
+189) BRUCE
+[pickup]With this facility... and our next mayor--
+190) BRUCE
+[pickup]With this facility... and our next mayor--
+188) BRUCE
+{SadB}...Who needed the kind of help this new facility will provide.
+191) BRUCE
+[still a bit emotional]Okay.
+192) BRUCE
+[transitioning back to upbeat Bruce]I’m sure you all have plenty of questions about the new hospital, so let’s open it up.
+193) BRUCE
+You first, Ms. Vale.
+195) BRUCE
+[ALT]Next question, please.
+196) BRUCE
+Anyone else have a question?
+197) SPENCER
+This morning, the Globe received evidence of an off-shore bank account managed by Carmine Falcone and your father, Thomas Wayne.
+198) RAMARQUE
+Is the Wayne family legacy built on lies?
+199) SPENCER
+Is all your money dirty?
+200) RAMARQUE
+Does the mob sign Wayne Enterprises’ paychecks?
+202) BRUCE
+[firm, commanding]This press conference... is over.
+203) 
+How dare you!
+204) BRUCE
+How dare you.
+205) BRUCE
+I just finished telling you about my parents’ murder and you accuse them of being, what, criminals?
+206) BRUCE
+Have some decency.
+207) BRUCE
+And did anyone else receive this “evidence?”
+208) SPENCER
+We all did.
+209) SPENCER
+The Globe, The Gazette...
+210) 
+No comment.
+211) 
+[ALT]Are you accusing my family of corruption?
+212) BRUCE
+[disbelief]Are you accusing my family of corruption?
+213) SPENCER
+That’s what this evidence shows.
+214) 
+Show me the proof[ALT].
+215) BRUCE
+Show me the proof.
+216) BRUCE
+Because this sounds like a pitiful smear campaign.
+217) SPENCER
+Well, you’ll hear about it on the news just like everyone else in Gotham.
+218) 
+The sick need our help.
+219) 
+My parents would be honored.
+220) 
+Crime is rampant.
+221) BRUCE
+For those with mental health issues, there are no cuts or scrapes, their ailments are often invisible.
+222) BRUCE
+But inside... they’re suffering.
+223) BRUCE
+They invested their blood, sweat and tears in this city.
+224) BRUCE
+My parents loved Gotham.
+225) BRUCE
+I’m here today... because I want to heal Gotham, to stop the culture of crime that’s running our streets.
+226) 
+[ALT]Violence breeds violence.
+227) BRUCE
+Violence... breeds violence.
+228) BRUCE
+We need to take away the guns and knives... and replace them with helping hands.
+230) BRUCE
+Alright, who’s up next?
+231) BRUCE
+You there.
+233) BRUCE
+He was an unwelcome guest--that’s all.
+234) SPENCER
+The papertrail ties your family directly to the mob.
+235) SPENCER
+[frying pan]Transactions connected to organized crime, going back years... and continuing to this day.
+236) BRUCE
+[ALT]Excuse me?
+237) BRUCE
+What exactly are you implying?
+238) SPENCER
+[ALT]Every media outlet in Gotham.
+239) SPENCER
+[beat][ALT]I am.
+240) SPENCER
+[ALT]This morning we received evidence of an off-shore bank account linking Carmine Falcone and your father, Thomas Wayne.
+241) RAMARQUE
+Mr. Wayne, Julia Ramarque of the Tribune.
+242) BRUCE
+Yes, Julia. Go ahead.
+243) RAMARQUE
+My sources say that you welcomed alleged mob-boss Carmine Falcone into your home.
+244) RAMARQUE
+You even shook his hand.
+245) RAMARQUE
+You even spoke with him behind closed doors.
+246) RAMARQUE
+You and Mr. Dent even spoke with him behind closed doors.
+247) SPENCER
+But Mr. Wayne!
+248) SPENCER
+[ALT]Mr. Wayne!
+250) 
+I doubt your “evidence”.
+251) 
+Its day has passed.
+252) 
+Leave it standing
+253) 
+Tear it down.
+255) 
+He was Harvey’s guest.
+256) 
+Your source is wrong.
+258) 
+This interview is over.
+259) 
+At press conference.
+260) 
+Got it. Will do.

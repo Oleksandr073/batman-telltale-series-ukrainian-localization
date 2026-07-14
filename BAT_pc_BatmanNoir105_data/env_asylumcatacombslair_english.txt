@@ -1,0 +1,774 @@
+﻿1) 
+[remove cowl] But I did.
+302) BATMAN
+[ALT] But I did.
+2) ALFRED
+[barks]No! Batman!
+26) ALFRED
+[barks]No! Batman!
+3) VICKI
+[cagey]Maybe it didn’t matter at all. Maybe you just wanted someone to punch.
+4) ALFRED
+[ALT][softly]Bruce...
+5) 
+That’s not your right.
+6) 
+They’ll see you as a murderer.
+7) 
+They’ll see you as a murderer.
+8) 
+[ALT] It has, Victoria.
+9) BATMAN
+[ALT; coverage] Come with us.
+22) BATMAN
+Come with us.
+194) BATMAN
+Come with us.
+10) VICKI
+I can never trust a Wayne!
+105) VICKI
+[ALT] I can never trust a Wayne!
+11) 
+[ALT] Let’s end it right here, then.
+35) 
+Let’s end it right here, then.
+12) 
+[ALT] I’ve only ever told the truth.
+36) 
+I’ve only ever told the truth.
+13) VICKI
+You’re no better than the Vales, than your father!
+171) VICKI
+You’re no better than the Vales, than your father!
+287) VICKI
+You’re no better than the Vales, than your father!
+14) VICKI
+Enough!
+28) VICKI
+Enough!
+189) VICKI
+Enough!
+272) VICKI
+Enough!
+274) VICKI
+Enough!
+276) VICKI
+Enough!
+279) VICKI
+Enough!
+281) VICKI
+Enough!
+282) VICKI
+Enough!
+15) VICKI
+None of this matters. Your parents killed mine. Tonight they’ll finally find peace.
+190) VICKI
+None of this matters. Your parents killed mine. Tonight they’ll finally find peace.
+271) VICKI
+None of this matters. Your parents killed mine. Tonight they’ll finally find peace.
+273) VICKI
+None of this matters. Your parents killed mine. Tonight they’ll finally find peace.
+275) VICKI
+None of this matters. Your parents killed mine. Tonight they’ll finally find peace.
+277) VICKI
+None of this matters. Your parents killed mine. Tonight they’ll finally find peace.
+278) VICKI
+None of this matters. Your parents killed mine. Tonight they’ll finally find peace.
+280) VICKI
+None of this matters. Your parents killed mine. Tonight they’ll finally find peace.
+283) VICKI
+None of this matters. Your parents killed mine. Tonight they’ll finally find peace.
+16) VICKI
+[ALT][to Alfred] If he were here--things might be different. But, I have to take my vengeance where I can.
+17) 
+You’ve done enough harm.
+18) 
+Who are you to judge?
+19) 
+They see you as a murderer.
+20) 
+They see you as a murderer.
+21) ALFRED
+[softly] Batman...
+23) VICKI
+[shocked]You’re... serious.
+195) VICKI
+[shocked]You’re... serious.
+24) VICKI
+[to Alfred] If he were here--things might be different. But, I have to take my vengeance where I can.
+25) 
+[Remove Cowl]
+37) VICKI
+[furious noise]
+41) 
+
+45) 
+
+110) 
+
+111) 
+
+116) 
+[Attack Vicki]
+178) ALFRED
+[shocking pain, a gasp]
+234) 
+
+235) 
+
+236) 
+
+237) 
+
+238) 
+
+27) ALFRED
+[barks]No!
+78) ALFRED
+[PKUP] No!
+177) BATMAN
+[ALT]No!
+199) BATMAN
+No.
+373) ALFRED
+[PKUP] No!
+29) VICKI
+[cagey]Maybe it didn’t matter at all. Maybe you just wanted someone to hurt.
+30) BATMAN
+I’m nothing like my father.
+31) BATMAN
+Everything I do is for the good of Gotham.
+32) BATMAN
+He was a criminal. He used only ever used people.
+33) BATMAN
+I’ve devoted my life to helping them.
+34) VICKI
+Ha, ha, ha!
+180) VICKI
+Ha, ha, ha!
+38) 
+It’s called compassion.
+39) 
+Release him and we can talk.
+40) 
+I won’t show mercy to you!
+42) 
+I can’t change the past.
+123) 
+I can’t change the past.
+43) 
+You’re right about my father.
+44) 
+Stop blaming others.
+46) VICKI
+[PKUP]Interesting how you speak to him.
+47) VICKI
+[PKUP]So familiar?
+48) VICKI
+So concerned.
+49) VICKI
+[PKUP]For someone you’ve never met before.
+50) BATMAN
+[PKUP]It’s called compassion, Vicki.
+51) BATMAN
+[PKUP]Something you seem to know very little about.
+52) VICKI
+[PKUP]Sounds like deflection to me.
+61) VICKI
+[PKUP]Sounds like deflection to me.
+53) VICKI
+[PKUP]There’s more here than you’re telling.
+62) VICKI
+[PKUP]There’s more here than you’re telling.
+54) BATMAN
+[PKUP]Release him.
+55) VICKI
+[PKUP][referencing Bats calling him this] “Alfred.“
+56) VICKI
+[PKUP]You know, I just don’t believe you.
+57) VICKI
+[PKUP]I think “Alfred” may be the only way I can make you talk.
+58) BATMAN
+[PKUP][menacing] Concern I don’t have for you.
+59) VICKI
+[PKUP]Such concern.
+60) VICKI
+[PKUP]Huh.
+63) VICKI
+I just find it odd.
+64) VICKI
+[PKUP]It makes me wonder...
+65) VICKI
+[ALT][PKUP]What kind of person hides beneath that mask?
+66) VICKI
+[ALT][PKUP]And just how much do you really care?
+67) VICKI
+[PKUP]Only one way to find out.
+68) ALFRED
+[PKUP][pained grunt]
+69) ALFRED
+[PKUP][pained] Batman! Don’t!
+70) VICKI
+[PKUP][to Alfred] Shut up, old man!
+71) VICKI
+[to Batman] I wear no mask.
+72) VICKI
+[PKUP][to Batman] You’ve seen my true self.
+73) VICKI
+[PKUP]Prove that you care...
+74) VICKI
+[PKUP][threatening] Take off your mask.
+75) VICKI
+Let me see the man you really are.
+76) VICKI
+Either way, I’ll know.
+77) BATMAN
+[PKUP] If that’s what it will take to save him...
+374) BATMAN
+[PKUP] If that’s what it will take to save him...
+79) VICKI
+[PKUP] This must be some kind of... trick.
+80) VICKI
+[PKUP] Bruce Wayne--he’d never be the man Batman is.
+81) VICKI
+[PKUP] He only looks out for himself.
+82) VICKI
+[PKUP][reeling] Ah, but of course... now I understand.
+83) VICKI
+[PKUP] As Batman, you can prey upon the weak, the defenseless.
+84) VICKI
+[PKUP] Just like your father did!
+85) VICKI
+[PkUP] A true Wayne!
+86) VICKI
+[PKUP] There’s nothing heroic about you!
+87) VICKI
+[PKUP] I thought so...
+88) VICKI
+[PKUP] You’re just like him. Just as guilty!
+89) VICKI
+[PKUP] You don’t know how I suffered!
+90) VICKI
+[PKUP][threatening] But you will.
+91) VICKI
+[PKUP] Your voice! All of it!
+92) VICKI
+[PKUP] You’ll know how I suffered. I will show you.
+93) VICKI
+[PKUP] I’ll show you what Thomas Wayne did to me, to my family!
+94) BRUCE
+[PKUP] I know what my father did. It was wrong.
+95) BRUCE
+[PKUP] I also know... nothing I can do will make up for it. But I have to try.
+96) BRUCE
+[PKUP] That’s why I wear this mask. To help people!
+97) VICKI
+[PKUP] Lies--so many lies.
+98) VICKI
+[PKUP] I’m not some naive socialite you can sweet talk.
+99) VICKI
+[PKUP] I know a liar when I see one!
+100) BRUCE
+[PKUP][bruce voice] Stop blaming other people for your problems.
+101) BRUCE
+[PKUP][bruce voice] You aren’t the only one that’s suffered!
+102) VICKI
+[PKUP] You really think you can preach to me?
+103) VICKI
+[PKUP] You? Of all people?
+104) VICKI
+[PKUP][low, guttural] I see your true face.
+106) VICKI
+[PKUP][low, guttural] I’ll never trust you.
+107) BRUCE
+[PKUP] But you’re the only one, doing this now--hurting people!
+108) VICKI
+Just tell me...
+109) VICKI
+Who are you?
+112) 
+I am Gotham’s savior
+113) 
+I am Vengeance
+181) BATMAN
+I am vengeance.
+114) 
+Batman is my mask
+115) 
+[CUT] I shared my secret.
+117) 
+Bruce is my mask.
+118) BATMAN
+Hold on, Alfred.
+119) BATMAN
+[ALT]Can you walk? We need to get you out of here.
+120) ALFRED
+[CUT] Behind you!
+121) BATMAN
+If you want to hurt someone, hurt me, not him.
+122) VICKI
+You’d sacrifice yourself for this man? He doesn’t deserve your pity.
+124) 
+I took down a close friend because of you!
+125) 
+You twisted Oswald’s mind.
+126) 
+Your worst nightmare.
+127) BATMAN
+[ALT][low]Did you see her?
+128) VICKI
+After all that we’ve been through, I’m glad this will end here.
+129) BATMAN
+[scary bat]Release him. Now.
+130) VICKI
+Is that the best you can offer?
+131) VICKI
+His death-- and Bruce’s pain-- is *mine.*
+132) VICKI
+[snide]Besides. I’m sure there’s time enough to hurt you both.
+133) VICKI
+It may mean nothing to you, but this place is special.
+134) VICKI
+It’s the only place that’s ever been mine.
+135) VICKI
+It’s fitting, I suppose.
+136) VICKI
+Killing you here.
+137) BATMAN
+[with gravity]You’re wrong, Vicki.
+138) ALFRED
+[quietly]No, Bruce...
+375) ALFRED
+[quietly]No, Bruce...
+139) VICKI
+[ALT][shocked]Of course...
+140) VICKI
+[turning angry]All this time! I gave you the chance to prove you were better than the others--
+141) VICKI
+I gave *both* of you the chance.
+142) BATMAN
+You wanted Bruce Wayne. Here I am.
+143) BATMAN
+[ALT]No more lies.
+331) VICKI
+[PKUP] No more lies!
+144) VICKI
+[ALT]Your lies have never been more clear!
+145) BATMAN
+Apart from Alfred, you’re the only one who knows who I am.
+146) VICKI
+[tightly]Then I can hardly be expected to be allowed to walk away, can I?
+147) VICKI
+You just proved my point!
+148) BATMAN
+Bruce Wayne is my mask. Batman is who I really am.
+149) BATMAN
+I don’t believe it has to end that way, Vicki.
+150) VICKI
+You show me this and have nothing to say for yourself?!
+151) VICKI
+[cruel]Because you understand what a liar you are.
+152) VICKI
+Both lie!
+153) ALFRED
+[ALT]No. I could only hear her talking to you.
+154) VICKI
+I watched as you took out Oswald.
+155) VICKI
+I had thought Batman was just... on a crusade.
+158) VICKI
+I had thought Batman was just... on a crusade.
+156) VICKI
+But you knew him.
+160) VICKI
+But you knew him.
+157) VICKI
+I heard how you took out Dent.
+159) VICKI
+Grew up together.
+161) VICKI
+Supported him.
+162) BRUCE
+[bruce voice] I can’t change what happened in the past.
+163) BRUCE
+[bruce voice] I would have fought for you, Vicki. No one should have to suffer the way that you did.
+164) VICKI
+[unsure]You say that, but Batman fought against me.
+165) VICKI
+[snarling]Spare me. Batman fought me at every turn!
+166) VICKI
+Please, you don’t care. Batman fought me.
+167) VICKI
+Pretending to be an ally.
+168) VICKI
+Only to betray...
+169) VICKI
+[shaken]I almost believed that you were telling the truth.
+285) VICKI
+[shaken]I almost believed that you were telling the truth.
+288) VICKI
+[shaken]I almost believed that you were telling the truth.
+170) VICKI
+But this is all another face, isn’t it? Another mask.
+284) VICKI
+But this is all another face, isn’t it? Another mask.
+286) VICKI
+But this is all another face, isn’t it? Another mask.
+172) VICKI
+You’re only a piece in the bigger game, but...
+173) VICKI
+You’re the only piece I have left.
+174) VICKI
+It will make me feel better.
+175) VICKI
+And maybe give you a little ease as well.
+176) BATMAN
+Alfred!
+179) ALFRED
+[ALT][shocking pain, crying out]
+182) BATMAN
+I answer the call of all the people you’ve harmed.
+183) VICKI
+I set them free.
+184) VICKI
+Even if it hurts!
+185) BATMAN
+I am the one who protects this city. Gotham’s savior.
+186) VICKI
+And what happens when I bury you here with my ancestors? Poor Gotham.
+187) BATMAN
+I’m your worst nightmare.
+188) BATMAN
+You think the Vales were bad? You have no idea what I can do.
+191) VICKI
+[low, spitting mad]I’ll kill you for that.
+192) VICKI
+I don’t need an answer. I’ll pry that hood off when you’re dead.
+193) ALFRED
+Bruce!
+352) ALFRED
+Bruce!
+196) VICKI
+[quiet, shocked]You weren’t lying when you said you knew what the Vales did.
+197) VICKI
+[quiet, shocked]You truly think I’m redeemable.
+198) VICKI
+You really think we could make a difference.
+200) BATMAN
+We all are.
+325) BATMAN
+[ALT; coverage] We all are.
+201) BATMAN
+Everyday.
+202) VICKI
+[snarling]You can keep hiding who you are, but I refuse.
+203) VICKI
+[snarling]Put your mask back on, Bruce. No one wants to see your lies.
+204) VICKI
+[snarling]Keep your mercy. Perhaps it’ll bring back the Vales.
+205) VICKI
+[snarling]Still patronizing to the last. Congratulations.
+206) VICKI
+[low]This is how it was meant to be.
+207) VICKI
+[to Alfred][murmur]I can promise it will be fast.
+208) VICKI
+[to Alfred]That much I can give you.
+209) 
+[CUT] And I’ll never stop.
+210) BATMAN
+Grogan’s blood is on your hands.
+233) BATMAN
+[alt] Grogan’s blood is on your hands.
+211) BATMAN
+He wanted what was best for Gotham and you had the Penguin throw him off a roof.
+212) VICKI
+[snarls]He was standing in the way. A casuality.
+213) BATMAN
+You’re blinded by your revenge.
+227) BATMAN
+You’re blinded by your revenge.
+214) BATMAN
+What gives you the right?
+215) BATMAN
+You don’t have the authority to be judge, jury and executioner.
+216) VICKI
+But I do. Falcone, Hill, Wayne-- they stole my life from me.
+217) VICKI
+They *made* me who I am.
+218) BATMAN
+You pushed Dent too far and he lashed out, he’s hurt this city because of you.
+219) BATMAN
+Gotham’s blood is on your hands.
+220) VICKI
+Dent’s his own man-- you can’t blame me for his actions.
+221) BATMAN
+Even though you blame Alfred?
+222) BATMAN
+You’re responsible for your own actions.
+223) BATMAN
+Every person is important to Gotham.
+224) BATMAN
+Every life. They are the ones that can fix this city.
+225) VICKI
+I can’t believe that I looked up to you.
+226) VICKI
+[low laugh]You’re such a fool.
+228) VICKI
+[getting frantic]This is owed to me!
+229) VICKI
+Falcone, Hill and Wayne took my life!
+230) VICKI
+[tight throat, almost yelling]My family was taken away-- I was given to people who hated my entire existence!
+231) BATMAN
+Alfred is not responsible for that.
+232) VICKI
+[super cold]But Thomas Wayne is.
+239) 
+[ALT] They are one and the same.
+240) 
+[CUT] What can I give you?
+241) BATMAN
+Tell me what it’ll take for you to let Alfred go.
+242) BATMAN
+Unharmed.
+243) VICKI
+There’s nothing in the world that will keep this man from harm.
+244) VICKI
+I am what this city made me. Everything that I’ve done is just. Repaying a debt owed to me.
+245) VICKI
+Your concerns are so small. So petty. One man’s life...
+246) VICKI
+Gotham will see what it’s wrought.
+247) BATMAN
+Gotham has seen what it’s created.
+248) BATMAN
+[ALT] You’ve done enough harm already.
+249) BATMAN
+Its people have suffered. They’ve paid the price.
+250) VICKI
+Not everyone. Not Bruce Wayne!
+251) VICKI
+He murdered my parents--my REAL parents--when they found out what he was doing at their Asylum.
+252) BATMAN
+The Arkhams died in a car accident.
+253) VICKI
+It was no accident!
+254) VICKI
+[ALT] I found out the truth from the hired thug who ran them off the road.
+255) VICKI
+[ALT] Before I killed him...
+256) VICKI
+Thomas Wayne took my family... so now I’ll take the only family Bruce Wayne has left.
+257) VICKI
+[to Alfred] Even though he didn’t care enough about you to show up himself.
+258) BATMAN
+No more mask.
+259) VICKI
+Bruce Wayne only cares about himself.
+260) VICKI
+You’ve proven my point--
+261) BATMAN
+This city’s needs outweigh my own.
+262) BATMAN
+My friendships, past and present, can’t get in the way of that.
+263) VICKI
+So why wear the mask?
+264) BATMAN
+To protect those close to me. But sometimes it doesn’t work.
+265) VICKI
+You were right. Gotham did almost destroy me.
+266) VICKI
+You had your chance, but you didn’t...
+267) VICKI
+No, I know what you think of me, Batman--that I’m just some kind of terrorist.
+268) VICKI
+I’m not going to be some prize in your collection.
+269) VICKI
+Another victim in a cell.
+270) 
+[CUT] I do what has to be done.
+289) BATMAN
+You want to end this?
+290) BATMAN
+Let’s do it. Right now.
+291) VICKI
+Stay back!
+292) VICKI
+Look at you, worrying for him.
+293) VICKI
+No matter how fearsome the mighty Batman is you’re still human.
+294) BATMAN
+We both are.
+295) VICKI
+[spits] We’re nothing alike.
+296) BATMAN
+Gotham only sees you as a murderer.
+297) BATMAN
+Gotham only sees you as a murderer.
+298) VICKI
+What neglect and ignorance creates.
+299) VICKI
+They’ll see there are repercussions.
+300) VICKI
+You’ll see, too!
+301) BATMAN
+[with gravity] He’s here.
+303) VICKI
+You wear the lie everyday, living a life that you don’t even want!
+304) VICKI
+[snarl]But neither face is true.
+305) BATMAN
+Batman... Bruce Wayne. They’re the same.
+306) BATMAN
+I only wear the mask to protect those I care about.
+307) BATMAN
+I’ve failed.
+308) VICKI
+You’re just trying to throw me off!
+309) BATMAN
+You can call Bruce Wayne a thief and say that Batman is a lie--but mask or no mask, I’ve only ever tried to help the people of Gotham.
+310) BATMAN
+Even if I get hurt in the process.
+311) VICKI
+He’s as dishonest as his father.
+312) BATMAN
+What happened to Harvey was your fault!
+313) BATMAN
+What you did to him broke him.
+314) BATMAN
+What happened to Oswald was your fault!
+315) BATMAN
+You twisted the truth so that he’d turn on me.
+316) BATMAN
+I’ve never told you anything but the truth.
+317) BATMAN
+We worked together to bring down Falcone.
+318) VICKI
+[ALT] I almost believed you.
+319) VICKI
+It’s a little late to convince me we’re on the same side.
+320) VICKI
+More lies!
+321) VICKI
+You think I don’t see right through your feeble attempts to save yourself?
+322) VICKI
+[ALT] [quiet, shocked] You really think I’m worth saving? Because I was a victim?
+323) BATMAN
+[ALT]Yes.
+324) VICKI
+[ALT] You really think the Vales were monsters--not me.
+326) VICKI
+[PKUP]Your turn.
+327) BRUCE
+[PKUP][bruce voice] You’re right about my father.
+328) BRUCE
+[PKUP][bruce voice] The things he did... are unforgivable.
+329) BRUCE
+[PKUP][bruce voice] But I am trying to make up for his crimes.
+330) BRUCE
+[PKUP][bruce voice] I wear this mask to help people!
+332) VICKI
+[PKUP] No more talk!
+333) VICKI
+[PKUP] The only truth left...
+334) VICKI
+[PKUP] ...is in your death!
+335) VICKI
+I’ll bury you!
+336) BATMAN
+Stop, Vicki...
+337) BRUCE
+[bruce voice] Stop, Vicki--
+382) BATMAN
+Stop, Vicki...
+384) BRUCE
+[bruce voice] Stop, Vicki--
+338) BATMAN
+It’s over.
+339) BRUCE
+[bruce voice] It’s over.
+383) BRUCE
+[bruce voice] It’s over.
+385) BATMAN
+It’s over.
+340) VICKI
+Nothing will keep me from my revenge!
+386) VICKI
+Nothing will keep me from my revenge!
+341) VICKI
+You belong in this darkness, Batman.
+342) VICKI
+You’ll be buried with it.
+343) VICKI
+You... and the butler.
+344) VICKI
+You belong in this place, Bruce. Lost, forgotten...
+345) VICKI
+Buried.
+346) VICKI
+And Gotham will not mourn.
+347) VICKI
+The sins of the Wayne bloodline end here!
+348) BATMAN
+[PKUP] Then we’ll talk.
+349) VICKI
+[PKUP] Do you really care?
+350) BATMAN
+[ALT] You’re done.
+380) BATMAN
+[ALT] You’re done.
+351) BRUCE
+[ALT][bruce voice] You’re done!
+381) BRUCE
+[ALT][bruce voice] You’re done!
+353) BATMAN
+[ALT][PKUP][menacing] Don’t worry. I don’t feel anything like that for you.
+354) ALFRED
+[waking up] You, you...you came. You came for me.
+355) BATMAN
+[ALT] Have you seen Vicki?
+356) ALFRED
+[ALT] Look out!
+357) ALFRED
+Above you!
+358) ALFRED
+[delirious] After what you said...
+359) ALFRED
+[ALT][delirious] ...back in the cave...
+360) ALFRED
+I knew you’d come.
+361) ALFRED
+[quiet, delirious] The man, the man I-I made you...
+362) ALFRED
+[delirious] You... you stopped them...
+363) ALFRED
+[delirious] My fault. It doesn’t matter...
+364) ALFRED
+[delirious] I... I wasn’t sure you’d come...
+365) ALFRED
+[delirious] I don’t deserve... deserve it...
+366) ALFRED
+[ALT][more out of it] No... No, I just heard her... talking to you.
+367) BATMAN
+[worried] Just hold on, Alfred.
+368) BATMAN
+[worried] Just hold on, Alfred.
+369) BATMAN
+[worried] Just hold on, Alfred.
+370) BATMAN
+[ALT][under breath] What did she do to you?
+371) BATMAN
+[worried] I’m getting you out of here.
+372) ALFRED
+[quiet, delirious] The man... the man I raised...
+376) BATMAN
+[PKUP2][low] Did you see where she went?
+377) ALFRED
+[ALT][PKUP2]No. I could... I could hear her though.
+378) ALFRED
+[ALT][PKUP2]Talking to you...
+379) ALFRED
+[PKUP2][still pretty out of it] She just... dis-disappeared.
+387) ALFRED
+[ALT][PKUP2]Batman!

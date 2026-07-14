@@ -1,0 +1,964 @@
+﻿1) 
+There’s no one here.
+2) 
+Nothing suspicious yet.
+3) 
+Just a bunch of trains.
+4) 
+I’m sorry about the debate.
+5) 
+I’m so glad you’re okay.
+6) 
+What are you doing here?
+7) 
+TEMP: Flirty
+8) 
+That was reckless.
+9) 
+It’s been chaos out there.
+10) 
+I’ve missed you.
+11) 
+Harvey is worried about you.
+12) 
+I’ve got to stop them.
+13) 
+We’ve got to work quickly.
+14) 
+Sanctus!!!
+15) 
+Analyze
+20) 
+Analyze
+22) 
+Analyze
+124) 
+Analyze
+128) 
+Analyze
+16) 
+Look At
+17) 
+Look At
+18) 
+Look At
+19) 
+Look At
+45) 
+Look At
+120) 
+Look at
+125) 
+Look at
+127) 
+Look at
+21) 
+I’m on it.
+23) 
+Stay away!
+24) 
+Go after her!
+25) 
+Help me!
+26) 
+No, I’m not OK.
+27) 
+I told you to go after her.
+28) 
+I’m OK.
+29) 
+That doesn’t matter.
+30) 
+Set Explosive Charge
+129) 
+Set Explosive Charge
+31) 
+You back to normal?
+32) CATWOMAN
+(OS) If I’d known you were going to make me lug this thing all the way inside, I would’ve worn more comfortable shoes...
+219) CATWOMAN
+(OS) If I’d known you were going to make me lug this thing all the way inside, I would’ve worn more comfortable shoes...
+33) LADYARKHAM
+[OS, unamused, modulated]This way.
+220) LADYARKHAM
+[OS, unamused, modulated]This way.
+315) LADYARKHAM
+[amused]This way.
+34) CATWOMAN
+You know, I’m really going to miss our little conversations. [imitating LA]“This way.” “Over there.”
+216) CATWOMAN
+You know, I’m really going to miss our little conversations. [imitating LA]“This way.” “Over there.”
+35) LADYARKHAM
+[modulated]Stop --
+154) LADYARKHAM
+[modulated]Stop--
+217) LADYARKHAM
+[modulated]Stop --
+36) CATWOMAN
+“Stop talking!” See? We even finish each other’s sentences!
+218) CATWOMAN
+“Stop talking!” See? We even finish each other’s sentences!
+37) CATWOMAN
+[she totally does, and she totally is]I don’t get nervous.
+38) LADYARKHAM
+[modulated]Not yet.
+295) LADYARKHAM
+[modulated]Not yet.
+39) CATWOMAN
+And before you go for the obvious joke -- it hasn’t gotten me killed yet, has it?
+40) LADYARKHAM
+[modulated{AngryA}]Nothing you need{AngryB} to worry about.
+41) CATWOMAN
+[grunts]{ConfusedA}What’s in here, {AngryA}anyway?
+42) 
+She betrayed me.
+43) 
+She doesn’t sound happy to be here.
+44) 
+She’s always been neutral.
+46) CATWOMAN
+Call it a {AngryA}professional point of pride that I like to know who’s{SarcasticB} cookie jar I’m sticking my hand into.
+47) CATWOMAN
+I’m a curious girl.
+48) LADYARKHAM
+[modulated]You haven’t stopped running your mouth since we picked you up.
+49) LADYARKHAM
+[modulated]Sometimes less is more, you know.
+50) CATWOMAN
+[sharp]Hey -- if I’d known you were going to hustle me into a van and come all the way out here, I would’ve brushed up on a couple of conversation topics.
+51) LADYARKHAM
+[modulated]Such as?
+52) CATWOMAN
+[tart]You know: diet tips. The latest lipstick trends. All that super-fun stuff.
+53) LADYARKHAM
+[modulated]I know this must be difficult for you.
+54) LADYARKHAM
+Stepping aside to make way for Gotham’s future.
+55) CATWOMAN
+I don’t really care, one way or the other. That’s not my bag.
+56) LADYARKHAM
+[modulated]There’s always a place for you with the Children of Arkham, Catwoman.
+57) CATWOMAN
+Very funny.
+58) LADYARKHAM
+[modulated]Who’s joking?
+59) CATWOMAN
+A few days ago, your goon squad was out there, firing at the target on my back.
+60) LADYARKHAM
+[modulated]A lot can change in a few days.
+61) LADYARKHAM
+[modulated]Or… in a few minutes.
+62) LADYARKHAM
+[modulated]It’s not too late to join us.
+63) LADYARKHAM
+[modulated]You can still be on the right side of this war. And make no mistake about it: this IS war.
+64) CATWOMAN
+Yeah, well. Thanks, but no thanks.
+65) CATWOMAN
+You said if I did this for you, we’d be square. So: are we?
+66) LADYARKHAM
+[modulated]You have nothing to fear from the Children of Arkham…
+67) LADYARKHAM
+[modulated]No more than any other citizen of Gotham.
+68) CATWOMAN
+[angry]Now, wait just a second --
+69) LADYARKHAM
+[modulated]We’ve waited long enough. Gotham belongs to us now.
+70) LADYARKHAM
+[modulated]And those who refuse to release their grip on the keys to this city… will be dealt with.
+71) LADYARKHAM
+What’s going on here?
+72) CATWOMAN
+No, no, no, no.
+73) LADYARKHAM
+The deal’s off!
+74) CATWOMAN
+What? No, you promised­­
+75) LADYARKHAM
+You promised you’d come alone.
+76) CATWOMAN
+I don’t even know this guy!
+77) LADYARKHAM
+I’m the last person you’d want to con, Catwoman. I don’t like it when people lie.
+78) CATWOMAN
+I didn’t bring him.
+79) LADYARKHAM
+No such thing as coincidences.
+80) 
+It is a coincidence.
+81) 
+Catwoman played us both.
+82) BATMAN
+She didn’t lead me here. I tracked you myself.
+83) LADYARKHAM
+Don’t lie to me! I know you two have been running around together.
+84) BATMAN
+You’re not the only one she’s tricked.
+85) LADYARKHAM
+I heard you two had been running around together. What, is there trouble in paradise?
+86) BATMAN
+She’s not involved. This is between you and me.
+87) LADYARKHAM
+No. This is between me and this cesspool of a city.
+88) 
+Of course she  led me here.
+89) LADYARKHAM
+I heard you two had been running around together.
+90) CATWOMAN
+He’s not involved.
+91) LADYARKHAM
+Though I suppose I should be thanking you, Catwoman. You brought the Bat straight to my front door.
+92) CATWOMAN
+[bitter]My mistake, I promise you.
+93) LADYARKHAM
+[coy, almost flirting]I’ve heard so much about you, Batman.
+94) 
+Gotham is my home.
+176) 
+Gotham is my home.
+95) LADYARKHAM
+Bringing justice to a city that’s beyond help.
+96) LADYARKHAM
+I wonder why that is?
+97) LADYARKHAM
+Gotham deserves to burn, and yet you want to protect it.
+98) 
+Because you want to destroy it.
+99) 
+There are good people here.
+100) BATMAN
+I protect my home.
+101) LADYARKHAM
+This isn’t a home. It’s a prison.
+102) BATMAN
+The people of Gotham are good people.
+103) LADYARKHAM
+Who?
+104) LADYARKHAM
+The patients in Arkham Asylum?
+105) LADYARKHAM
+The thugs in Crime Alley?
+106) LADYARKHAM
+The corrupt politicians?
+107) LADYARKHAM
+They’re as filthy as the streets they live on.
+108) BATMAN
+I protect this city from those who want to destroy it.
+109) LADYARKHAM
+Sometimes the only way to save something is to let it die and start over again.
+110) LADYARKHAM
+See? You know I’m right. You can’t even defend your precious Gotham.
+111) LADYARKHAM
+Like a Greek Tragedy, isn’t it? Pushing the rock up the hill only to have it roll back down.
+112) BATMAN
+{ThinkingA}Everything’s dark,{DisgustA} quiet. It’s{AngryA} empty.
+237) BATMAN
+{ThinkingA}Everything’s dark,{DisgustA} quiet. It’s{AngryA} empty.
+113) 
+Rails
+114) 
+Construction
+208) 
+Construction
+115) 
+Skyrail Car
+116) 
+Tools
+209) 
+Tools
+117) 
+Residue
+118) 
+Final - Storage Tanks
+119) 
+Sprinklers
+121) BATMAN
+Wood.. nails... building something.
+122) BATMAN
+Each of these cars transports hundreds of people around Gotham every day.
+123) ALFRED
+[through comm]Multiplied by the number of cars throughout the city...
+126) ALFRED
+[through comm]They could cover entire neighborhoods in minutes.
+130) BATMAN
+They’ve installed storage tanks to feed the sprinklers.
+131) ALFRED
+[through comm]It’s worse than I feared.
+132) BATMAN
+They’re all full of the drug.
+133) ALFRED
+[through comm]You can’t let any of it get out.
+134) BATMAN
+Let’s blow their plan to hell.
+135) BATMAN
+[alt]Let’s blow their plan apart.
+136) CATWOMAN
+[off screen]{DisgustA}If I’d known{AngryA} you were going to make me{DisgustA} lug this thing myself, I would have worn more comfortable {SarcasticA}shoes.
+137) BATMAN
+[to himself]{AngryA}Catwoman?
+139) ALFRED
+[through comm]Catwoman?
+138) BATMAN
+[whisper]{AngryB}Their leader is here... with{SurpriseA} Catwoman.
+140) ALFRED
+[through comm]What’s she doing here?
+141) ALFRED
+[through comm]What can you see?
+142) 
+She’s working for them.
+143) 
+They may have forced her.
+144) 
+Selina plays both sides.
+145) BATMAN
+[whisper]Looks{DisgustA} like she’s working{AngryA} with them again.
+146) ALFRED
+[through comm]Don’t be too hasty in your judgement.
+147) BATMAN
+[whisper]Doesn’t {DisgustA}sound like she’s too{ThinkingA} happy to be here.
+148) ALFRED
+[through comm]She might need your help.
+149) BATMAN
+[whisper]She{AngryB} plays whatever side meets{AngryA} her needs.
+150) ALFRED
+[through comm]Currently her “needs” seem focused on keeping all nine of her lives.
+151) ALFRED
+[through comms]Don’t keep me in suspense here.
+152) LADYARKHAM
+[modulated][commanding]Over there.
+153) CATWOMAN
+I’m really going to miss our chats. “This way.“ “Over there.“
+155) CATWOMAN
+[cutting in]--talking? See. We even finish each other’s sentences.
+156) ALFRED
+[through comm]Have you found out what they’re up to?
+157) BATMAN
+[whisper]{AngryA}I’m going in.
+158) ALFRED
+[through comm]Good luck, sir.
+159) ALFRED
+[through comm]Wait... several individuals are approaching the building.
+160) BATMAN
+It buys me some time to check the building.
+161) ALFRED
+[through comm]Just so long as you don’t check yourself into a trap.
+162) CATWOMAN
+What? No! We agreed!
+163) CATWOMAN
+{FearA}I’m not with{AngryB} this guy!
+164) 
+I didn’t need Catwoman.
+165) BATMAN
+{AngryA}I didn’t need her{AngryB} help to find you.
+166) BATMAN
+The Children{DisgustA} of Arkham leave their fingerprints {AngryA}everywhere.
+167) LADYARKHAM
+Unlike the {AmusedA}corrupt men running this city,{AmusedB} we don’t mind showing our work.
+168) 
+She played us both.
+169) BATMAN
+{AngryA}You’re not the only one{AngryB} Catwoman played.
+170) 
+Yes, she brought me here.
+171) BATMAN
+{AngryA}Catwoman led me right to you. {AngryB}Exactly as planned.
+172) LADYARKHAM
+[modulated]You’ve become quite a pest to me.
+173) LADYARKHAM
+[modulated]First at the debate, then popping up all over the city... like an angry guard dog.
+174) LADYARKHAM
+[modulated]Why is that?
+175) LADYARKHAM
+Then we’ll{AngryA} see each other for we really are.
+177) BATMAN
+Whatever this city may be, it’s my home.
+178) LADYARKHAM
+This isn’t a home. It’s a madhouse.
+179) BATMAN
+I will stop you from doing whatever you want to this city.
+180) 
+Good people live here.
+181) BATMAN
+There are still good people in Gotham. They deserve to be protected.
+182) LADYARKHAM
+{AmusedA}Soon the masquerade will be over.
+183) LADYARKHAM
+[modulated]Out of all the people in this cesspool of a city, I thought you two would understand.
+184) LADYARKHAM
+[modulated]We’re here to purge Gotham of corruption...
+185) LADYARKHAM
+[modulated]...and steal back from the thieves.
+186) LADYARKHAM
+[modulated]Pathetic.
+187) BATMAN
+Catwoman! Get back!
+188) LADYARKHAM
+[modulated]A weapon is only as good as the man who uses it.
+189) CATWOMAN
+[off screen]Get off me!
+445) CATWOMAN
+[pickup]Get off me!
+190) CATWOMAN
+[off screen]Batman! Look out!
+191) LADYARKHAM
+[modulated]The darkness doesn’t scare me, Batman.
+192) LADYARKHAM
+[modulated]Not bad. I was beginning to think you didn’t have it in you.
+193) LADYARKHAM
+[modulated]We gave you your chance with Falcone and Hill, but you couldn’t finish the job.
+194) BATMAN
+Who are you?
+195) LADYARKHAM
+[modulated]Just another Child of Arkham.
+196) CATWOMAN
+[off screen]Let me go!
+197) CATWOMAN
+[between kicks]Don’t. Ever. Touch. Me. Again.
+198) LADYARKHAM
+[modulated]First you were an annoyance... then a distraction...
+199) LADYARKHAM
+[modulated]Now you’re destroying our work. We can’t allow that behavior to continue.
+200) LADYARKHAM
+[modulated]Maybe a little shock therapy will cure it.
+201) BATMAN
+[screams in pain]
+211) 
+...
+234) BATMAN
+[yells out in pain]
+258) 
+[Attack]
+345) 
+...
+363) 
+[Batarang]
+202) LADYARKHAM
+[modulated]All this could have been avoided if you joined us.
+203) LADYARKHAM
+[modulated]Instead, you’ll fry.
+204) CATWOMAN
+[worry, just shy of frantic]{SurpriseA}Hang in there.{PainA} Don’t pass {FaceAccent}{FearA}out on me.
+205) CATWOMAN
+{ThinkingB}I’m gonna get you{PainA} somewhere safe...
+206) BATMAN
+[through his teeth, half screaming]No!
+207) BATMAN
+DON’T!!!
+210) 
+Power Box
+212) CATWOMAN
+Sorry about this.
+213) CATWOMAN
+Sorry about this.
+214) CATWOMAN
+Sorry about this.
+215) 
+Plant Explosive Charge
+221) BATMAN
+They have to keep building more to accomodate everyone.
+222) ALFRED
+What’s it doing here?
+223) BATMAN
+Using the cars to transport it maybe... hard to tell for sure.
+224) BATMAN
+{AngryA}Not yet. I’m not{AngryB} finished looking around.
+225) BATMAN
+More traces of the drug.
+226) BATMAN
+They’re going to release it from the bottom of the skyrail cars.
+227) ALFRED
+Is there a way to disable it?
+228) BATMAN
+More of them.
+229) ALFRED
+How many?
+230) BATMAN
+Not really in a position to do inventory right now.
+231) ALFRED
+Right.
+232) BATMAN
+Drug residue. Just like the other one.
+233) LADYARKHAM
+{AmusedB}At least the bat knows when to {AngryA}keep his mouth shut.
+235) CATWOMAN
+{FearA}Come on, {WindedA}{FaceAccent}bats.
+236) CATWOMAN
+Just stay with{SurpriseA} me.
+238) BATMAN
+If they’ve been here, then they’ve left something behind to find.
+239) BATMAN
+These cars run all over Gotham. More being built every day...
+240) ALFRED
+There are hundreds running in the system.
+241) BATMAN
+And more being built to accomidate the growing population.
+242) ALFRED
+The Children have manipulated her before.
+243) ALFRED
+She must have a good reason for being there.
+244) ALFRED
+They did have a price on her head, after all.
+245) BATMAN
+These sprinklers...
+246) BATMAN
+Enough for every train in Gotham.
+247) LADYARKHAM
+[modulated]Do you always talk this much when you’re nervous?
+248) CATWOMAN
+{AngryB}Hey, you wanted me to steal{SarcasticA} a thing; I stole the thing.
+249) CATWOMAN
+He has {AngryB}nothing to do with our agreement--I{FearA} did what you asked!
+250) CATWOMAN
+{AngryA}I didn’t bring{AngryB} him here.
+251) LADYARKHAM
+{ConcernedA}The corruption in Gotham is{AngryA} too deep, too ingrained, to do {AngryB}anything but bleed it out.
+252) LADYARKHAM
+You {ThinkingA}can’t fix them.
+253) BATMAN
+It doesn’t deserve what you’re doing.
+254) BATMAN
+[through a clenched jaw]{AngryA}Should {FaceAccent}have{AngryC}... gone... {AngryB}after.... {FaceAccent}{DisgustA}[them]{SurpriseA}
+255) CATWOMAN
+[soft, relieved]{SarcasticA}Shut up.{HappyA}
+256) COA01
+Where is he?
+257) COA01
+Kill him!
+259) LADYARKHAM
+So shortsighted.
+260) CATWOMAN
+Batman!
+407) CATWOMAN
+[pickup]Batman?
+261) CATWOMAN
+Catch!
+262) BATMAN
+[Being shocked; intense pain]Ah!
+263) LADYARKHAM
+You have to face the truth sometime, Batman.
+264) BATMAN
+Nice toys. I have a few of my own.
+265) LADYARKHAM
+Go on. Show me how you’ll save your precious city.
+266) LADYARKHAM
+Just like the other liars.
+267) LADYARKHAM
+Lovely view, isn’t it?
+268) LADYARKHAM
+How about a little shock therapy?
+269) COA01
+Hands getting sweaty, Bat?
+270) COA02
+Come on, give us a show!
+271) COA03
+Give up! You’re through!
+272) COA04
+Who’s the hero now?
+273) ALFRED
+Part of a recent Wayne Enterprises initiative... “everyone gets to work on time,” was the slogan if I remember.
+274) BATMAN
+Never thought I’d be breaking into my own warehouse.
+275) LADYARKHAM
+All talk, no action.
+276) LADYARKHAM
+You can’t protect Gotham from itself.
+277) LADYARKHAM
+They lit the fire... we’re just here to stoke the flames.
+278) LADYARKHAM
+There’s nothing you can do to stop it.
+279) LADYARKHAM
+Saddest thing is they don’t even see the smoke.
+280) LADYARKHAM
+You’d be surprised. Fear can be incredibly persuasive.
+281) BATMAN
+You do a lot of talking. Not sure you can back it up.
+282) LADYARKHAM
+Try me.
+283) LADYARKHAM
+And I can’t wait to see them.
+284) LADYARKHAM
+Get used to it.
+285) LADYARKHAM
+Slipping into old habits again, are we?
+286) ALFRED
+I thought they were after her.
+287) BATMAN
+Yeah{AngryB} me too.
+288) BATMAN
+I’ve got an idea.
+289) LADYARKHAM
+{AngryA}Take away the mask{AngryB} and everyone’s the same. Selfish,{AngryA} cruel... broken.
+290) LADYARKHAM
+You can dress it up any way you like, but that doesn’t change what it is.
+291) LADYARKHAM
+Soon everyone will see it.
+292) LADYARKHAM
+[modulated]You expect me{AmusedB} to tell you because {AngryB}of your pride?
+293) CATWOMAN
+Look, {AngryA}you know what? I {DisgustA}don’t really care.
+294) CATWOMAN
+We’re {AngryA}done here right?
+296) CATWOMAN
+No{ConfusedA} no no {AngryB}no no. There’s no part{DisgustA} two of this.
+297) LADYARKHAM
+[modulated]You {AngryB}don’t want to walk {ConcernedA}away from me.
+298) CATWOMAN
+I got you{DoubtfulA} what you wanted. {AngryA}I’m done.
+299) CATWOMAN
+Is that {FlirtA}so?
+300) LADYARKHAM
+[modulated] We{ThinkingA} have more to talk about.
+301) LADYARKHAM
+[modulated]Your{AngryA} future for one thing.
+302) CATWOMAN
+I’m {DoubtfulA}not interested in a guidance {SarcasticB}counselor, thanks.
+303) CATWOMAN
+They{SarcasticA} always think they know{SmugA} what’s best for you.
+304) LADYARKHAM
+[modulated]You should {AngryB}learn to listen.
+305) CATWOMAN
+I will when I{FlirtA} start hearing something interesting.
+306) CATWOMAN
+You’re{AngryA} stalling.
+307) CATWOMAN
+So are {AngryB}we good or not?
+308) CATWOMAN
+I’ve got{AngryA} places to be.
+309) LADYARKHAM
+[modulated]We’re {AngryA}good when I say we are. Now sit down.
+310) LADYARKHAM
+[modulated]You can{AngryA} leave when the{AngryB} job is done.
+311) CATWOMAN
+I think{MockingA} I’ll stand.
+312) LADYARKHAM
+[modulated]I thought{AmusedA} your feet {AmusedB}were tired.
+313) LADYARKHAM
+[modulated]But {AngryB}suit yourself.
+314) LADYARKHAM
+[ALT]Look what the cat dragged in.
+316) LADYARKHAM
+Just add it to the list of your mistakes.
+317) LADYARKHAM
+Must be why you didn’t come through on your last assignment.
+318) CATWOMAN
+Shit.
+319) CATWOMAN
+[deadpan]{DoubtfulA}Great.
+320) LADYARKHAM
+{AngryA}I knew you’d just{AngryB} disappoint me again.
+321) LADYARKHAM
+I suppose{ThinkingA} it’s my fault for believing in you.
+322) LADYARKHAM
+Well{AmusedA} then you’re just{AmusedB} extremely unlucky.
+323) LADYARKHAM
+Either way, {AngryB}the deal’s off.
+324) CATWOMAN
+You can’t{AngryB} do that!
+325) LADYARKHAM
+{AngryA}Whine all you {AmusedB}want, my dear.
+326) LADYARKHAM
+{AngryA}And I’m guessing that’s the last time {AmusedB}either of us make that mistake.
+327) LADYARKHAM
+{AmusedB}How’s that working out for you?
+328) LADYARKHAM
+{AmusedA}But whose fault{AngryB} is it really? The liar...
+329) LADYARKHAM
+Or the ones{AngryB} who refused to see the truth?
+330) CATWOMAN
+{FearA}I didn’t lie to you.
+331) LADYARKHAM
+Just{AngryB} like you can’t fix Gotham.
+332) LADYARKHAM
+No {ThinkingA}more hiding.
+333) LADYARKHAM
+Not for{AngryB} anyone.
+334) 
+You’re hiding behind a mask!
+335) BATMAN
+[intense]{AngryB}Then why are you hiding?{AngryC} Why don’t you take off your mask?
+336) LADYARKHAM
+{AmusedA}You’re impatient.{AngryA} I understand.
+337) LADYARKHAM
+The masquerade will{AmusedA} be over soon.
+338) LADYARKHAM
+{AmusedA}Those “good people” will get{AngryA} exactly what they deserve soon enough.
+339) LADYARKHAM
+Just like{AngryB} Hill and Falcone before them.
+340) LADYARKHAM
+{AmusedA}Too bad you won’t {AngryA}be around to witness it.
+341) LADYARKHAM
+[ALt]Poor choice of footwear.
+342) LADYARKHAM
+[ALT]Looks like the cat dragged in a bat.
+343) 
+Gotham won’t fall.
+344) 
+You talk too much.
+346) LADYARKHAM
+[pickup1]Do you see now, Batman?
+347) LADYARKHAM
+[pickup1]Do you see that we cannot, will not be stopped?
+348) LADYARKHAM
+[pickup1]We are Gotham’s future.
+349) BATMAN
+[pickup1]Give me cover! I’ll get up there and take them down.
+350) BATMAN
+[pickup1]Give me your Cat Claw. I’ll take them out.
+351) CATWOMAN
+[pickup1]Take this.
+352) CATWOMAN
+[pickup1]I don’t normally share, but I’ll make an exception for you Bats.
+353) BATMAN
+[pickup1]Distract them. I’ll get up there and end this.
+354) CATWOMAN
+[pickup1]Here, use this.
+355) CATWOMAN
+[pickup1]Take this. I’ll distract them.
+356) COA02
+[pickup] Train’s ready! Move out!
+357) LADYARKHAM
+[pickup] Don’t get ahead of yourself.
+358) LADYARKHAM
+[pickup] I decide when this ends.
+359) 
+Go ahead, do it.
+360) 
+I know your plans!
+361) 
+Okay, I surrender.
+362) 
+Help me, Catwoman!
+364) 
+Gotham is mine!
+365) 
+Go to hell.
+366) LADYARKHAM
+[pickup]You might as well come out, Batman. I know you’re here.
+367) CATWOMAN
+[pickup]No, no way. I did [stress]not bring him here.
+368) CATWOMAN
+[pickup][panicked]I honored our deal!
+369) LADYARKHAM
+[pickup]Oh, I know you did. But now you’re a loose end.
+370) CATWOMAN
+[pickup]I did everything you said.
+371) LADYARKHAM
+[pickup][to Batman]Surrender. Unless you’d like to see first-hand what a lethal dose looks like.
+372) BATMAN
+[pickup]It’s over. I know what you’re trying to do.
+373) BATMAN
+[pickup]I know what you have planned with the skyrail.
+374) BATMAN
+[pickup]It’s not going to happen.
+375) LADYARKHAM
+[pickup]Then killing you both will have to be a consolation prize.
+376) CATWOMAN
+[pickup]Thanks, bats.
+377) CATWOMAN
+[ALT][pickup]Always with the timing, bats.
+378) BATMAN
+[pickup]I surrender. Take me instead and let her go.
+379) CATWOMAN
+[pickup]Oh, screw this.
+386) CATWOMAN
+[pickup]Oh, screw this.
+380) CATWOMAN
+[pickup]I’m not that sort of damsel.
+381) CATWOMAN
+[ALT][pickup]Sorry to spoil the heroics.
+382) BATMAN
+[pickup][bluffing]Go ahead. Do it.
+383) LADYARKHAM
+[pickup]Dark knight, so nob--[le].
+384) CATWOMAN
+[pickup]Thanks for nothing, bats.
+385) CATWOMAN
+[ALT][pickup]Really know how to wine and dine a gal, don’t’cha, bats.
+387) CATWOMAN
+[ALT][pickup]Leave it to the lady to rescue herself.
+388) LADYARKHAM
+[pickup]Or I could leave her a vegetable.
+389) LADYARKHAM
+[pickup]Death might be preferable.
+390) CATWOMAN
+[pickup]Here come more!
+391) CATWOMAN
+[pickup]Move it, bats!
+392) CATWOMAN
+[pickup]Ha, nice try.
+393) CATWOMAN
+[pickup]I don’t think you’re even trying!
+394) CATWOMAN
+[pickup]Look out!
+395) CATWOMAN
+[pickup]Behind you!
+396) CATWOMAN
+[pickup]A little help over here!
+397) CATWOMAN
+[pickup]Bats!
+406) CATWOMAN
+[pickup]Bats?
+398) CATWOMAN
+[pickup]What?
+399) CATWOMAN
+[ALT][pickup]Hey--!
+400) COA02
+[pickup]Hey boss! Lookit’ this, we caught ourselves a bat!
+401) LADYARKHAM
+[pickup]Seems like we did.
+402) LADYARKHAM
+[ALT][pickup]Seems like we caught ourselves a bat.
+403) LADYARKHAM
+[pickup]And here I’d heard you spoken of with such high regard.
+404) LADYARKHAM
+[pickup]But this was just easy.
+405) LADYARKHAM
+[ALT][pickup]Look who decided to join us.
+408) CATWOMAN
+[pickup][to Lady Arkham]What’s he doing here?
+409) LADYARKHAM
+[pickup]You care? A thief with a heart of gold. You’re just another liar.
+410) BATMAN
+[pickup][to Lady Arkham]Leave her out of this. This is between us.
+411) LADYARKHAM
+[pickup]She’s more a part of this than you, Batman.
+412) CATWOMAN
+[pickup][more forceful]Answer me! Why is he here?
+413) LADYARKHAM
+[pickup][to Catwoman]You’re here to do a job. Do it.
+414) LADYARKHAM
+[pickup]Careful!
+415) CATWOMAN
+[ALT][pickup]You want it done right, you better do it yourself.
+416) LADYARKHAM
+[pickup]No! I told you, over there!
+417) CATWOMAN
+[pickup][muttering]Yeah, yeah.
+418) LADYARKHAM
+[pickup]You tried so hard, Batman, but your time in Gotham is done.
+419) CATWOMAN
+[ALT][pickup]Butterfingers, sorry.
+420) CATWOMAN
+[pickup]It’s not exactly light, you know.
+421) BATMAN
+[pickup]I’ll be done when I’m dead.
+422) LADYARKHAM
+[pickup]So gallant, but that can be arrang--[ed]!
+423) CATWOMAN
+[pickup][while fighting]A thank you would be nice!
+427) CATWOMAN
+[pickup][while fighting]A thank you would be nice!
+436) CATWOMAN
+[pickup][while fighting]A thank you would be nice!
+424) CATWOMAN
+[ALT][pickup][not fighting yet]A thank you would be nice.
+428) CATWOMAN
+[ALT][pickup][not fighting yet]A thank you would be nice.
+437) CATWOMAN
+[ALT][pickup][not fighting yet]A thank you would be nice.
+425) BATMAN
+Catwoman! Please!
+426) LADYARKHAM
+[pickup]You think she’s going to help? Catwoman’s in debt to--[me.]
+429) CATWOMAN
+[ALT][pickup]I’ve said it before, I don’t like debts.
+430) LADYARKHAM
+[pickup]No final words?
+439) LADYARKHAM
+[pickup]No final words?
+431) CATWOMAN
+[pickup]Guess we don’t make too bad a team.
+440) CATWOMAN
+[pickup]Guess we don’t make too bad a team.
+432) CATWOMAN
+[ALT][pickup]Nice throw.
+441) CATWOMAN
+[ALT][pickup]Nice throw.
+433) CATWOMAN
+[pickup]Took you long enough!
+442) CATWOMAN
+[pickup]Took you long enough!
+434) BATMAN
+[pickup][scary bat]It’s funny. You don’t even realize... Gotham is mine!
+435) LADYARKHAM
+[pickup]Such brave wor--[ds].
+438) CATWOMAN
+[ALT][pickup]You know, [stress]I thought it was pretty brave.
+443) LADYARKHAM
+[pickup]It belongs to me, now.
+444) LADYARKHAM
+[pickup]To the Children of Arkham.
+446) CATWOMAN
+[pickup]Help!
+447) CATWOMAN
+[pickup]He’s over there!
+448) CATWOMAN
+[pickup]Get him!
+449) CATWOMAN
+[pickup]Get them!
+450) CATWOMAN
+[pickup]I’ve got this!
+451) CATWOMAN
+[pickup]I’m fine!
+452) CATWOMAN
+[pickup]Go!
+453) CATWOMAN
+[pickup]Over there!
+454) CATWOMAN
+[pickup]He’s behind you!
+455) CATWOMAN
+[pickup]Over here!
+456) CATWOMAN
+[pickup]They’re behind you!
+457) BATMAN
+The people of Gotham are stronger than you think. They will not let this city fall into chaos.
+458) BATMAN
+This doesn’t add up.
+459) LADYARKHAM
+[pickup][to Batman]Surrender. Unless you’d like to see first-hand what a critical dose looks like.
+460) LADYARKHAM
+[pickup]She’d join poor Esther Cobblepot.
+461) BATMAN
+[pickup][ALT]I’m not gonna stop you.
+462) ALFRED
+[ALT][pickup]Gotham Central Station.
+463) BATMAN
+[pickup]It doesn’t make sense.
+464) BATMAN
+[pickup]I should try something else.
+465) BATMAN
+[pickup]There has to be a clearer connection.
+466) BATMAN
+[pickup]There has to be another way.
+467) BATMAN
+[pickup]I must be missing something.
+468) ALFRED
+[pickup]Let’s hope they don’t.
+469) COA03
+We’re down to our last few barrels since Batman screwed up the transfer.
+470) COA03
+We’ll have to make do I guess.
+471) COA03
+Glad we got all the barrels out before Batman showed up.
+472) COA03
+It’s all here.
+473) ALFRED
+[pickup][ALT] Let’s hope they can’t find any more.
+474) COA03
+Okay, you two. Get these mixed and loaded onto the train.
+475) COA03
+[calling out to Lady A]You want us to hook this up?
+476) COA03
+[calling out to the goons]You know your orders!
+477) COA03
+[calling out]Get that stuff mixed!
+478) COA03
+[calling out]Load it onto the train!
+479) COA03
+[calling out to Lady A]Ready to go!
+480) COA03
+[calling out to Lady A]Ready to go on your signal!
+481) COA03
+[calling out]Get that train out of here!
+482) BATMAN
+[pickup][to Alfred]She’s got more of that absorbing agent.

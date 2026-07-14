@@ -1,0 +1,2349 @@
+﻿1) BRUCE
+I’m here!
+2) ALFRED
+I’m here!
+6) QUINZEL
+I’m here!
+3) LUCIUS
+I’m here!
+DR. QUINZEL: I’m here!
+4) ORDERLY01
+I might be here!
+5) ORDERLY 2
+I could be here, too!
+OTHER PATIENTS/THEIR VISITORS: Could be seen here, too!
+7) LUCIUS
+I think Im here conditionally
+8) 
+I’m the one who failed you.
+44) BRUCE
+I’m the one who failed you.
+9) 
+You could never fail me.
+52) BRUCE
+You could never fail me.
+10) 
+Don’t look at me like that.
+53) BRUCE
+Don’t look at me like that.
+11) 
+I’m not broken.
+56) BRUCE
+I’m not broken.
+12) 
+What happened to your trust in me?
+13) 
+I’ve been through worse.
+14) 
+Maybe you’re right.
+122) BRUCE
+Maybe you’re right.
+15) 
+Answer me, damnit!
+16) 
+Alfred, please...
+70) BRUCE
+Alfred... please.
+17) 
+You don’t need to protect me.
+18) 
+I don’t believe that.
+19) 
+I knew it.
+20) 
+Call Harvey, he’ll get me out.
+21) 
+They can’t keep me here.
+95) BRUCE
+They can’t keep me here.
+451) BRUCE
+They can’t keep me here.
+22) 
+Contact Selina Kyle.
+106) BRUCE
+Contact Selina Kyle.
+527) BRUCE
+Contact Selina Kyle.
+604) BRUCE
+Contact Selina Kyle.
+23) 
+Vicki Vale drugged me.
+288) 
+Vicki Vale drugged me.
+24) 
+I attacked Oswald.
+289) 
+I attacked Oswald.
+25) 
+I don’t have time for games.
+236) BRUCE
+I don’t have time for games.
+268) BRUCE
+I don’t have time for games.
+290) 
+I don’t have time for games.
+26) 
+She’s Lady Arkham.
+86) BRUCE
+She’s Lady Arkham.
+232) BRUCE
+She’s Lady Arkham.
+279) BRUCE
+She’s Lady Arkham.
+280) BRUCE
+She’s Lady Arkham.
+295) 
+She’s Lady Arkham.
+27) 
+It was the same drug Montoya was dosed with.
+296) 
+It was the same drug Montoya was dosed with.
+28) 
+She set me up.
+282) BRUCE
+She set me up.
+294) 
+She set me up.
+29) 
+I would never do that in public!
+293) 
+I would never do that in public!
+30) 
+I was drugged.
+32) 
+I was drugged.
+247) BRUCE
+I was drugged.
+263) BRUCE
+I was drugged.
+286) 
+I was drugged.
+287) 
+I was drugged.
+337) BRUCE
+I was drugged.
+1006) BRUCE
+I was drugged.
+31) 
+No, I don’t.
+291) 
+No, I don’t.
+33) 
+I was dosed like Montoya!
+292) 
+I was dosed like Montoya!
+34) 
+I must have lost control.
+240) BRUCE
+I must have lost control.
+277) BRUCE
+I must have lost control.
+297) 
+I must have lost control.
+35) ALFRED
+I guess I’m to blame.
+36) ALFRED
+I can’t bear to see you this way.
+37) ALFRED
+I feared it would come to this.
+38) 
+
+137) 
+
+138) 
+
+176) 
+
+216) 
+
+302) 
+
+327) 
+
+331) 
+
+363) 
+
+393) 
+
+394) 
+
+453) 
+
+459) 
+
+464) 
+
+516) 
+
+539) 
+
+655) 
+
+854) 
+
+864) 
+[Accept]
+865) 
+[Stand on your own]
+869) BRUCE
+{ConcernedA}[groan - waking up and in pain]
+872) BRUCE
+{AngryC}[pained wince]
+874) BRUCE
+{DisgustA}[groaning with difficulty as he sits up]
+880) BRUCE
+[aggrivated groan]
+882) BRUCE
+[pained grunt]
+883) BRUCE
+[labored breathing]
+884) BRUCE
+[strained groan. hard to walk]
+888) BRUCE
+[breathe catching in his throat]
+893) BRUCE
+[breathe catching in his throat]
+906) ORDERLY01
+[snicker]
+938) INMATE02
+[laughs]
+941) INMATE01
+{AmusedB}[Laughs]
+944) INMATE02
+[laughs]
+951) BRUCE
+[strained groan]
+952) BRUCE
+[Pained shout]
+953) BRUCE
+[groan from drug withdrawel]
+954) BRUCE
+[strained gasping]
+955) BRUCE
+[getting kicked repeatedly]
+1017) LELAND
+[laughs good naturely]
+1026) BRUCE
+{ConcernedA}[stressed breath]
+1027) ORDERLYJERK
+{HappyA}[laughs; this guy]
+1053) JOKER
+[small chuckle]
+1059) JOKER
+[nervous laugh]
+1060) JOKER
+[nervous laugh]
+1080) 
+
+1088) 
+
+1102) 
+
+1108) INMATE01
+[punched in face]
+1116) INMATE02
+[Groaning from floor]
+1124) 
+...
+1172) JOKER
+[Low giggle, builds to laugh]
+39) ALFRED
+You need to get out of here and quickly.
+40) BRUCE
+Al, what’s wrong?
+41) ALFRED
+Sorry. This is harder than I thought it would be -- seeing you like this.
+42) BRUCE
+Like what?
+43) ALFRED
+Bruce.
+234) ALFRED
+Bruce [deflated sigh]
+264) ALFRED
+Bruce [deflated sigh]
+754) ALFRED
+Bruce..?
+45) ALFRED
+I’ve failed you.
+46) BRUCE
+Why are you looking at me like that?
+47) ALFRED
+I failed you -- and I’m sorry.
+48) BRUCE
+Alfred?
+183) BRUCE
+[stern] Alfred.
+49) BRUCE
+What are you talking about?
+50) ALFRED
+I just didn’t think it would come so soon.
+51) BRUCE
+Al... what’s going on?
+54) BRUCE
+Al, what are you talking
+55) BRUCE
+Goddamn it, Al! Answer me.
+67) BRUCE
+Goddamnit, Al. Answer me.
+57) ALFRED
+You’re in [beat] Arkham Asylum.
+58) BRUCE
+How did I get here?
+146) BRUCE
+How did I get here?
+360) BRUCE
+How did I get here?
+59) ALFRED
+Why do you think?
+60) ALFRED
+You really don’t remember, do you?
+61) ALFRED
+You don’t
+62) BRUCE
+How do you think you’ve failed me?
+63) BRUCE
+Of course, I remember.
+130) BRUCE
+Of course, I remember.
+64) BRUCE
+This is not a game.
+128) BRUCE
+This is not a game.
+65) ALFRED
+No. No it’s not.
+126) ALFRED
+No. No it’s not.
+66) BRUCE
+Maybe I’m a little confused.
+127) BRUCE
+Maybe I’m a little confused.
+68) BRUCE
+You’ve kept too many of them from me already.
+69) ALFRED
+I don’t have the heart to tell you.
+71) BRUCE
+I need you to tell me where I am.
+72) BRUCE
+Help me remember.
+129) BRUCE
+Help me remember.
+73) ALFRED
+I’m afraid this is the least of your problems.
+74) BRUCE
+What do you mean?
+148) BRUCE
+What do you mean?
+167) BRUCE
+What do you mean?
+182) BRUCE
+What do you mean?
+298) BRUCE
+What do you mean?
+75) ALFRED
+He’s gained access to Sanctus.
+244) ALFRED
+He’s gained access to Sanctus.
+76) BRUCE
+What about him?
+77) ALFRED
+He’s gotten a hold of your Wayne Tech.
+78) ALFRED
+Bruce. He’s using it to control the city.
+437) ALFRED
+Bruce. He’s using it to control the city.
+79) ALFRED
+If he can gain access to that, it’s just a matter of time before he finds out you’re --
+438) ALFRED
+If he can gain access to that, it’s just a matter of time before he finds out you’re --
+80) BRUCE
+Batman [sighs].
+371) BRUCE
+[sighs] Batman.
+439) BRUCE
+[sighs] Batman.
+81) BRUCE
+I was at the press conference.
+230) BRUCE
+I was at the press conference.
+265) BRUCE
+I was at the press conference.
+273) BRUCE
+I was at the press conference.
+82) ALFRED
+Listen to yourself, Bruce.
+364) ALFRED
+Listen to yourself, Bruce.
+83) ALFRED
+You sound--
+84) BRUCE
+I’m not crazy.
+834) 
+I’m not crazy!
+85) ALFRED
+Why on Earth would she do that?
+266) ALFRED
+Why on Earth would she do that?
+344) ALFRED
+Why on Earth would she do that?
+413) ALFRED
+Why on Earth would she do that?
+87) ALFRED
+Don’t you repeat that to any one here.
+281) ALFRED
+Don’t you repeat that to any one here.
+88) ALFRED
+Never repeat that to anybody.
+89) BRUCE
+Oz. He was there.
+271) BRUCE
+Oz. He was there.
+90) ALFRED
+Yes, you did.
+91) BRUCE
+Alfred, you’re scaring me.
+92) ALFRED
+But I suppose I ought to be the one to tell you.
+93) BRUCE
+I’ll take care of it.
+94) ALFRED
+What do you mean ‘take care of it’?
+96) ALFRED
+Then what? You would be a fugitive of the law, Bruce.
+97) ALFRED
+That helps no one.
+495) ALFRED
+That helps no one.
+608) ALFRED
+That helps no one.
+635) ALFRED
+That helps no one.
+98) BRUCE
+Call Harvey.
+496) BRUCE
+Call Harvey.
+533) BRUCE
+Call Harvey.
+598) BRUCE
+Call Harvey.
+99) BRUCE
+Where am I?
+100) ALFRED
+You should be scared.
+101) BRUCE
+He can get a court order for my release.
+497) BRUCE
+He can get a court order for my release.
+535) BRUCE
+He can get a court order for my release.
+599) BRUCE
+He can get a court order for my release.
+102) ALFRED
+I wouldn’t be so sure.
+103) BRUCE
+I
+680) LELAND
+I’
+104) BRUCE
+I’ll escape.
+493) BRUCE
+I’ll escape.
+105) ALFRED
+You’re in Arkham. They can keep you for as long as they bloody well want.
+107) ALFRED
+Who?
+528) ALFRED
+Who?
+108) BRUCE
+[hushed] Catwoman.
+109) ALFRED
+Oh christ, Bruce.
+530) ALFRED
+Oh, christ Bruce.
+531) ALFRED
+Oh, christ Bruce.
+110) ALFRED
+I need you to act as sane as possible.
+111) ALFRED
+I can try to get you out legitmately -- but you need to get your act together and keep it together.
+112) BRUCE
+I - I just don’t know where I am.
+.
+113) BRUCE
+I’ve been through worse, right?
+114) ALFRED
+It’s your secret that I’m trying to protect.
+191) ALFRED
+It’s your secret that I’m trying to protect.
+115) ALFRED
+Don’t tell me you trust her.
+116) ALFRED
+Christ.
+117) ALFRED
+The stress of leading a double-life -- It would break anyone.
+118) ALFRED
+I’m to blame.
+119) ALFRED
+I guess it was just a matter of time before you ended up here.
+120) ALFRED
+Before it broke you.
+121) ALFRED
+No. You haven’t.
+123) BRUCE
+Hell, I don’t even know where I am.
+124) BRUCE
+Where’s ‘here’?
+125) ALFRED
+You really don’t know?
+131) BRUCE
+I love her.
+132) ALFRED
+You really have lost it.
+133) ALFRED
+She’s bad news.
+134) BRUCE
+I more than trust her.
+135) BRUCE
+She can bust me out.
+136) ALFRED
+There’s no way I’m reaching out to her.
+139) ALFRED
+You really don’t remember what you did?
+254) ALFRED
+You really don’t remember what you did?
+140) ALFRED
+Is that all you remember?
+274) ALFRED
+Is that all you remember?
+141) ALFRED
+I need you to keep it together.
+142) ALFRED
+Now, when someone asks you how you got here, what are you going to tell them?
+143) ALFRED
+He’ll need to get himself out of jail first.
+144) BRUCE
+Forget I mentioned her.
+145) ALFRED
+I’ll try.
+147) ALFRED
+I would say that things are about to get a lot worse.
+149) BRUCE
+[deflated sigh] I guess I finally lost it, huh?
+357) BRUCE
+[deflated sigh] I guess I finally lost it, huh?
+150) ALFRED
+Whatever you think you lost -- you better find it.
+151) ALFRED
+Because the city needs you more than ever.
+154) ALFRED
+Because the city needs you more than ever.
+189) ALFRED
+Because the city needs you more than ever.
+152) BRUCE
+Alfred... I’m not crazy.
+359) BRUCE
+Alfred... I’m not crazy.
+153) ALFRED
+I hope you’re right.
+155) ALFRED
+They might be able to get you out legitmately -- but I need you to keep it together.
+156) ALFRED
+You still have faith in him after everything he’s done?
+157) ALFRED
+[dissapointed] I see.
+235) ALFRED
+I see...
+237) ALFRED
+I see.
+275) ALFRED
+I see.
+576) ALFRED
+[a beat] I see.
+158) BRUCE
+Somewhere inside him, he’s still Harvey.
+159) BRUCE
+Who am I to judge?
+199) BRUCE
+Who am I to judge?
+160) BRUCE
+It’s not a matter of faith.
+161) BRUCE
+I don’t have a a lot of options.
+201) BRUCE
+I don’t have a a lot of options.
+162) ALFRED
+No, you don’t.
+203) ALFRED
+No, you don’t.
+207) ALFRED
+No, you don’t.
+163) ALFRED
+I hope you believe that about yourself.
+200) ALFRED
+I hope you believe that about yourself.
+211) ALFRED
+I hope you believe that about yourself.
+164) BRUCE
+I’m not giving up on him.
+205) BRUCE
+I’m not giving up on him.
+210) BRUCE
+I’m not giving up on him.
+213) BRUCE
+I’m not giving up on him.
+165) BRUCE
+I can do that.
+166) ALFRED
+I’m not sure I should tell you.
+168) BRUCE
+What’s going on?
+299) BRUCE
+What’s going on?
+342) BRUCE
+What’s going on?
+169) ALFRED
+I’m not sure I should tell you, given your current condition.
+300) ALFRED
+I’m not sure I should tell you, given your current condition.
+343) ALFRED
+I’m not sure I should tell you, given your current condition.
+170) BRUCE
+You need to have more faith in me.
+171) ALFRED
+And it’s not like I can keep this one.
+172) BRUCE
+You need to stop protecting me.
+173) ALFRED
+I just didn’t think it would happen so soon.
+174) BRUCE
+Where  the hell am I?
+175) BRUCE
+Whatever’s happening -- I can handle it.
+177) BRUCE
+Whatever’s happening -- I can handle it.
+178) BRUCE
+Whatever’s happening -- I can handle it.
+301) BRUCE
+Whatever’s happening -- I can handle it.
+179) BRUCE
+Christ, Al. I’m not a child.
+180) BRUCE
+Don’t you think you’ve kept enough secrets from me?
+181) BRUCE
+Just tell me what’s going on?
+184) ALFRED
+He’s gotten hold of one of your R & D projects.
+185) BRUCE
+Jesus.
+187) BRUCE
+[sighs] Jesus.
+186) ALFRED
+[softly] No.
+224) ALFRED
+No.
+846) 
+No
+188) BRUCE
+Is that all? All he’s found?
+190) BRUCE
+Just tell
+192) BRUCE
+Speak sense.
+193) ALFRED
+Just don’t give up on yourself.
+204) ALFRED
+Just don’t give up on yourself.
+209) ALFRED
+Just don’t give up on yourself.
+194) ALFRED
+You need to act as sane as possible.
+195) BRUCE
+She used the same drug that Montoya was dosed with.
+285) BRUCE
+She used the same drug that Montoya was dosed with.
+196) BRUCE
+There’s still a good man somewhere left there.
+202) BRUCE
+There’s still a good man somewhere left there.
+214) BRUCE
+There’s still a good man somewhere left there.
+197) ALFRED
+You had him arrested, remember?
+198) ALFRED
+He’s lost.
+206) BRUCE
+You may be right.
+208) BRUCE
+There’s still a good man somewhere left in him.
+212) BRUCE
+Then so am I.
+215) BRUCE
+I’m no better.
+217) BRUCE
+[sighs] I guess I’m in a real
+218) ALFRED
+Do you know why you’re here?
+219) ALFRED
+That’s all?
+231) ALFRED
+That’s all?
+270) ALFRED
+That’s all?
+220) BRUCEDIR
+(shanon, Fri Jul 15 09:44:59 2016) Alfred looks concerned, confused. He takes of his glasses and rubs his forehead. He can’t believe what he’s hearing.
+221) BRUCE
+She drugged me.
+262) BRUCE
+She drugged me.
+222) BRUCE
+I attacked him, didn’t I?
+269) BRUCE
+I attacked him, didn’t I?
+223) BRUCE
+Is he dead?
+225) ALFRED
+Why did you do it?
+257) ALFRED
+Why did you do it?
+267) ALFRED
+Why did you do it?
+312) ALFRED
+Why did you do it?
+226) ALFRED
+You don’t know?
+361) ALFRED
+You don’t know?
+227) ALFRED
+I want to believe that.
+358) ALFRED
+I want to believe that.
+228) BRUCE
+Vicki Vale. She was there.
+261) BRUCE
+Vicki Vale. She was there.
+229) ALFRED
+What about her?
+233) ALFRED
+Bruce, he can’t help you.
+238) ALFRED
+You don’t remember beating Oswald nearly to death in front of an entire press corp?
+272) ALFRED
+You don’t remember beating Oswald nearly to death in front of an entire press corp?
+239) BRUCE
+I must have blacked out.
+278) BRUCE
+I must have blacked out.
+241) ALFRED
+What else?
+276) ALFRED
+What else?
+242) BRUCE
+She’s setting me up.
+243) ALFRED
+You’re sound paranoid.
+284) ALFRED
+You’re sound paranoid.
+245) BRUCE
+Did I kill him?
+246) ALFRED
+The press is not your enemy.
+283) ALFRED
+The press is not your enemy.
+248) ALFRED
+We both know what that drug does to you.
+249) ALFRED
+You wanted to do it.
+250) BRUCE
+Why am I here?
+258) BRUCE
+[stern] Why. Am. I. Here?
+847) 
+Why am I here?
+251) ALFRED
+Yy
+252) ALFRED
+Violence has always been inside you, Bruce.
+253) BRUCE
+How in the hell did I get here?
+255) BRUCE
+[hostile] Don’t make me ask you again.
+256) ALFRED
+Attacking Oswald in front of half of Gotham’s press corp.
+259) ALFRED
+Nearly beat him to death.
+260) ALFRED
+They got it on video.
+303) BRUCE
+I must have wanted to.
+304) ALFRED
+Why do you say that?
+305) ALFRED
+Think hard, Bruce. What was the last thing you remember?
+306) ALFRED
+How did that happen?
+307) BRUCE
+You wouldn’t believe me if I told you.
+308) BRUCE
+You already think I’m crazy enough.
+309) ALFRED
+How did you get dosed?
+310) BRUCE
+Vicki Vale [sighs] she drugged me.
+412) BRUCE
+Vicki Vale - she drugged me.
+311) ALFRED
+All I want to know is one
+313) BRUCE
+[shocked] I don’t remember doing that.
+314) ALFRED
+Bruce, they got it on video -- all of it.
+400) ALFRED
+Bruce, they got it on video -- all of it.
+315) ALFRED
+Every major network has been playing it on a loop.
+401) ALFRED
+Every major network has been playing it on a loop.
+316) ALFRED
+You’ve made Cobblepot a regular folk hero.
+317) BRUCE
+I was dosed with that drug. The same one the caused Montoya to kill Falcone.
+318) BRUCE
+Because he d
+319) BRUCE
+Is he alright?
+320) ALFRED
+He just got out of the hospital today.
+321) ALFRED
+A few broken bones, a neck brace.
+322) ALFRED
+How did you let this happen?
+323) ALFRED
+How did you just lose control like that?
+324) ALFRED
+How did you lose control like that?
+325) ALFRED
+I’m more worried about you.
+326) ALFRED
+He will recover. I’m not so sure about you.
+328) BRUCE
+I’m sure he deserved every single punch.
+329) ALFRED
+Why?
+330) ALFRED
+Bruce [deflated sigh] that sounds insane.
+332) BRUCE
+[shocked] Arkham? How?
+333) ALFRED
+Can you do that for me?
+334) ALFRED
+You don’t want to give them *any* excuse to keep you here.
+407) ALFRED
+You don’t want to give them *any* excuse to keep you here.
+335) ALFRED
+I’ll talk to your lawyers.
+336) BRUCE
+For how long?
+338) ALFRED
+You need
+339) ALFRED
+You need to get your head on straight.
+659) ALFRED
+[alt] You need to get your head on straight.
+340) ALFRED
+The city, it needs you more than ever.
+341) BRUCE
+What do you mean? What’s going on?
+345) BRUCE
+[sighs] Because Vicki Vale is Lady Arkham.
+414) BRUCE
+[sighs] Because Vicki Vale is Lady Arkham.
+346) ALFRED
+Promise me you won’t repeat that to any one else.
+347) BRUCE
+I won’t need to, because you will.
+348) ALFRED
+Come again?
+349) BRUCE
+I need you to go to the police, the press, anyone who will listen and tell them that Vicki Vale is Lady Arkham.
+350) BRUCE
+And she’s gaslit me.
+351) BRUCE
+I plan on telling everyone -- as soon as I get out of here.
+352) BRUCE
+Check the video footage from the press conference.
+353) ALFRED
+Let’s hope that’s sooner than later.
+354) ALFRED
+I know you’re not.
+355) BRUCE
+There’s got to be footage of her there.
+356) BRUCE
+I don’t want your pity.
+362) BRUCE
+I can handle it.
+365) ALFRED
+Sounds like an excuse.
+366) ALFRED
+Can you honestly tell me that you didn’t want to take a hand to Oswald?
+416) ALFRED
+Can you honestly tell me that you didn’t want to take a hand to Oswald?
+367) BRUCE
+I never wanted to hurt him.
+368) ALFRED
+Now you have even more of a reason to want to take him down.
+369) ALFRED
+It’s Cobblepot.
+370) ALFRED
+He’s using Sanctus to access Wayne Technology.
+372) BRUCE
+I need to get out of here.
+440) BRUCE
+I need to get out of here.
+443) BRUCE
+[frusterated] I need to get out of here.
+458) BRUCE
+I need to get out of here.
+483) BRUCE
+[frusterated] I need to get out of here.
+484) BRUCE
+[frusterated] I need to get out of here.
+492) BRUCE
+I need to get out of here.
+373) ALFRED
+And how do you propose to do that?
+488) ALFRED
+And how do you propose to do that?
+374) ALFRED
+Stay out of trouble.
+406) ALFRED
+Stay out of trouble.
+375) ALFRED
+Do NOT act crazy
+376) 
+That wasn’t my fault.
+377) 
+Is he badly hurt?
+378) 
+He deserved it.
+820) 
+He deserved it.
+379) 
+I can handle Harvey
+380) 
+Sanctus is a dangerous weapon
+381) 
+The city needs me.
+382) ALFRED
+{ConfusedA}I’ve never seen you lose control like that before - attacking{SkepticalA} Mr. Cobblepot in front of half of Gotham’s press corp.
+790) ALFRED
+{ConfusedA}I’ve never seen you lose control like that before - attacking{SkepticalA} Mr. Cobblepot in front of half of Gotham’s press corp.
+829) ALFRED
+{ConfusedA}I’ve never seen you lose control like that before - attacking{SkepticalA} Mr. Cobblepot in front of half of Gotham’s press corp.
+383) BRUCE
+[aggravated] That wasn’t me.
+384) BRUCE
+Is he okay? How bad did I hurt him?
+385) ALFRED
+[Hushed] Let’s just say he’s lucky you weren’t wearing your *other* suit.
+386) BRUCE
+That slime deserved it. He’s lucky I didn’t do worse.
+387) BRUCE
+I never wanted to hurt someone more.
+388) BRUCE
+He took my company from me.
+389) BRUCE
+Maimed Harvey.
+390) BRUCE
+{ThinkingA}No. Stop him, maybe,{ConcernedB} but I’d never want Oz to get hurt.
+391) ALFRED
+Are you trying to convince me -- or yourself?
+392) ALFRED
+I’m afraid that excuse won’t pass muster, Bruce. They have it recorded. All of it. Every major network has been playing the footage on a loop.
+395) BRUCE
+Sure -- but only as Batman.
+396) BRUCE
+{ThinkingA}It doesn’t make any sense -{ConfusedA} He works *for* the Children of Arkham. {ConcernedA}How stupid would he have to be to volunteer for that assignment?
+397) BRUCE
+But not Bruce. Not me.
+398) ALFRED
+You’re speaking as if you’re two different people.
+399) BRUCE
+Maybe we are.
+402) ALFRED
+There’s no question that it was you.
+403) BRUCE
+I wasn’t in control of myself.
+404) ALFRED
+The family lawyers have already arranged for this evaluation period - If you can pass it I should be able to secure your release.
+405) ALFRED
+We might be able to get you out legitimately -- but until I can secure your release -- I need you stay out of trouble.
+408) ALFRED
+{ConcernedA}Please. Just keep your head down,{ThinkingA} obey the rules, {HappyA}and we should be able to get you out of this.
+409) ALFRED
+Obey the rules.
+410) ALFRED
+And leave the rest to me.
+411) BRUCE
+{AngryA}I don’t care what you have to do, {DespairA}just take care of it.
+415) ALFRED
+She knew you wanted to hurt him.
+417) BRUCE
+[aggravated] No. It’s her. She’s the leader of the Children of Arkham. That “press conference?“ It was a trap.
+418) ALFRED
+That drug she uses - we both knows it brings out one’s... baser desires.
+419) ALFRED
+The drug just gave you a nudge.
+716) ALFRED
+The drug just gave you a nudge.
+420) ALFRED
+The drug -- we both knows it brings out our... baser desires.
+421) ALFRED
+And Mayor Dent...
+445) ALFRED
+And Mayor Dent...
+422) BRUCE
+I wasn’t in control of myself. It was Vicki Vale. She drugged me.
+423) ALFRED
+Sounds like an excuse -- and not a very good one either.
+424) ALFRED
+But it doesn’t excuse your behavior.
+425) ALFRED
+I’m not going to argue that point, Bruce, but it was incredibly reckless behavior.
+426) ALFRED
+Removed your inhabitions.
+427) ALFRED
+It *was* you -- the true you.
+428) ALFRED
+So the drug brought out your true self.
+429) ALFRED
+We can’t afford any missteps.
+444) ALFRED
+We can’t afford any missteps.
+430) ALFRED
+I guess the stress of leading a double-life has finally taken it’s toll.
+431) ALFRED
+It was just a matter of time before you became... unhinged.
+432) ALFRED
+If you thought you had a reason to
+433) ALFRED
+Don’t deny it.
+434) BRUCE
+I never wanted to
+435) BRUCE
+But I wouldn’t of.
+436) ALFRED
+Ozwald has recovered from his beating enough to
+441) ALFRED
+Yes, you do -- and quickly.
+477) ALFRED
+Yes you do -- and quickly.
+485) ALFRED
+Yes you do -- and quickly.
+442) BRUCE
+{ThinkingA}I’ll keep a low profile. {SkepticalA} All I have to do is keep to myself and{AmusedA} not act crazy.
+446) ALFRED
+And how do you suppose I do that?
+447) BRUCE
+{Intensity-Low}{DespairA}Don’t let me down, Alfred. I’m counting on you here.{HappyA}
+448) ALFRED
+Then what?
+449) BRUCE
+[determined]I’m going to have to find another way.
+450) ALFRED
+Gotham needs you.
+513) ALFRED
+Gotham needs you.
+582) ALFRED
+Gotham needs you.
+452) ALFRED
+You’re in Arkham.
+454) ALFRED
+It breaks my heart to see you like this.
+455) ALFRED
+Just remember... stay out of trouble.
+508) ALFRED
+Just remember... stay out of trouble.
+510) ALFRED
+{SkepticalA}Just remember... stay out of trouble.
+456) BRUCE
+Get me out of here.
+457) BRUCE
+[frusterated] She made me do it.
+460) ALFRED
+Sometimes
+461) BRUCE
+Okay.
+462) ALFRED
+[brightened] That’s my boy.
+463) BRUCE
+Of course I wanted to hurt him.
+465) BRUCE
+[seething] Screw Gotham.
+586) BRUCE
+[seething] Screw Gotham.
+466) BRUCE
+Why should I save a place that won’t save me?
+467) BRUCE
+That hates me?
+468) ALFRED
+The city may hate the name Wayne -- but they still revere Batman.
+553) ALFRED
+The city may hate the name Wayne -- but they still revere Batman.
+588) ALFRED
+The city may hate the name Wayne -- but they still revere Batman.
+469) ALFRED
+*You* are still a hero to many.
+555) ALFRED
+*You* are still a hero to many.
+589) ALFRED
+*You* are still a hero to many.
+640) ALFRED
+*You* are still a hero to many.
+701) ALFRED
+*You* are still a hero to many.
+727) ALFRED
+*You* are still a hero to many.
+470) ALFRED
+[tough love] So, start acting like one.
+554) ALFRED
+[tough love] So, start acting like one.
+590) ALFRED
+[tough love] So, start acting like one.
+638) ALFRED
+[tough love] So, start acting like one.
+702) ALFRED
+[tough love] So, start acting like one.
+728) ALFRED
+[tough love] So, start acting like one.
+471) ALFRED
+Because that’s who you are.
+472) ALFRED
+Maybe this is your shot at redemption.
+473) ALFRED
+You need to get your head on straight and get out of here.
+474) BRUCE
+Why should I keep trying to save a city that hates me?
+587) BRUCE
+Why should I keep trying to save a city that hates me?
+630) BRUCE
+{DespairA}Why should I keep trying to save a city that hates me?
+475) ALFRED
+Gotham needs both Bruce and Batman.
+476) ALFRED
+{SkepticalA}With both Batman and Bruce Wayne currently out of the picture,{ConcernedA} the city will be vulnerable. {DisgustA} The Children of Arkham have stirred up a lot of unrest.
+478) BRUCE
+This isn’t about the city anymore.
+479) BRUCE
+And I’ll be there to save Gotham.
+480) BRUCE
+The CoA -- they’ve made this personal.
+481) ALFRED
+You need to think beyond your own personal
+482) ALFRED
+Then shut them down.
+486) BRUCE
+That’s just not true.
+487) ALFRED
+You don’t have much time -- and neither does the city.
+489) ALFRED
+You don’t have much time.
+584) ALFRED
+You don’t have much time.
+644) ALFRED
+{ThinkingA}You don’t have much time.
+490) ALFRED
+I’ll see what I can do.
+507) ALFRED
+I’ll see what I can do.
+509) ALFRED
+I’ll see what I can do.
+524) ALFRED
+I’ll see what I can do.
+491) ALFRED
+If you want to get out of here, you need to get your head on straight.
+494) ALFRED
+Then what? You would be making yourself a fugitive of the law.
+607) ALFRED
+Then what? You would be making yourself a fugitive of the law.
+632) ALFRED
+Then what? You would be making yourself a fugitive of the law.
+498) ALFRED
+I wouldn’t be so sure about that.
+536) ALFRED
+I wouldn’t be so sure about that.
+537) ALFRED
+I wouldn’t be so sure about that.
+600) ALFRED
+I wouldn’t be so sure about that.
+499) BRUCE
+Pay off whoever you need to -- just get me out of here.
+500) ALFRED
+You cannot buy your way out of this one.
+501) ALFRED
+They can keep you for as long as they bloody well want.
+502) ALFRED
+Listen to me, Bruce.
+505) ALFRED
+Listen to me, Bruce.
+580) ALFRED
+Listen to me, Bruce.
+503) ALFRED
+Bruce. Gotham needs you.
+504) ALFRED
+You need to listen to me right now.
+506) LELAND
+[OS] Mr. Wayne?
+511) ALFRED
+And do whatever she says.
+512) BRUCE
+Bye, Alfred.
+514) ALFRED
+Pull yourself together, Bruce, because you’re going to need all your strength to face the days to come.
+515) BRUCE
+What happened Alfred?  Where am I?
+517) ALFRED
+In Arkham Asylum, sir.
+518) ALFRED
+And neither does the city.
+585) ALFRED
+And neither does the city.
+645) ALFRED
+{ConcernedA}And neither does the city.
+519) ALFRED
+[alt] I don’t know who you’re trying to convince more. Me -- or yourself?
+520) ALFRED
+You need to pull yourself together.
+521) ALFRED
+And maybe they should.
+522) ALFRED
+[cynical] Vicki Vale? Are you sure you’re not still confused?
+769) ALFRED
+[cynical] Vicki Vale? Are you sure you’re not still confused?
+523) ALFRED
+{SadA}Gotham still needs you.
+525) BRUCE
+Pay off whoever you need to.
+540) BRUCE
+Pay off whoever you need to.
+594) BRUCE
+Pay off whoever you need to.
+526) ALFRED
+All the money in the world can get you out of this.
+529) BRUCE
+She’s an expert in getting in and out of places unseen.
+605) BRUCE
+She’s an expert in getting in and out of places unseen.
+532) ALFRED
+[deflated sigh] You shouldn’t trust her.
+534) BRUCE
+He can
+538) ALFRED
+Just sit tight and obey the rules.
+541) ALFRED
+Bruce... there’s just some things you can’t buy your way out of -- and this is one of them.
+596) ALFRED
+Bruce... there’s just some things you can’t buy your way out of -- and this is one of them.
+542) ALFRED
+Not this time -- not after everything that’s happened.
+543) ALFRED
+I’m telling you -- this is one of them!
+544) BRUCE
+That’s not true.
+545) BRUCE
+My parents’ blood money -- it’s got to be worth something.
+595) BRUCE
+My parents’ blood money -- it’s got to be worth something.
+546) ALFRED
+This is your shot at redemption, Bruce. Redemption for both you and Batman.
+593) ALFRED
+This is your shot at redemption, Bruce. Redemption for both you and Batman.
+547) ALFRED
+Protect the city
+548) ALFRED
+That’s the definition of a hero.
+552) ALFRED
+That’s the definition of a hero.
+549) ALFRED
+We both know he’s not the same man you’ve grown accustom to counting on.
+550) ALFRED
+He’s... changed -- and not for the better.
+602) ALFRED
+He’s... changed -- and not for the better.
+551) ALFRED
+Both Bruce and Batman would be wanted.
+556) ALFRED
+Protect the city with
+557) BRUCE
+[frusterated] What do you want me to do? Sit in this hole while the city tears itself apart?!
+560) BRUCE
+[frusterated] What do you want me to do? Sit in this hole while the city tears itself apart?!
+566) BRUCE
+[frusterated] What do you want me to do? Sit in this hole while the city tears itself apart?!
+597) BRUCE
+[frusterated] What do you want me to do? Sit in this hole while the city tears itself apart?!
+603) BRUCE
+[frusterated] What do you want me to do? Sit in this hole while the city tears itself apart?!
+606) BRUCE
+[frusterated] What do you want me to do? Sit in this hole while the city tears itself apart?!
+633) BRUCE
+[frusterated] What do you want me to do? Sit in this hole while the city tears itself apart?!
+558) BRUCE
+Ask him anyways.
+559) BRUCE
+I’m not going to stand by while the city tears itself apart.
+561) BRUCE
+Batman is being hunted by the GCPD
+562) ALFRED
+Then I don’t have much time now, do I?
+563) ALFRED
+Then what? You would be making Bruce Wayne a bigger fugitive than you’ve already made Batman.
+609) ALFRED
+Then what? You would be making Bruce Wayne a bigger fugitive than you’ve already made Batman.
+634) ALFRED
+Then what? You would be making Bruce Wayne a bigger fugitive than you’ve already made Batman.
+564) ALFRED
+There would be no where for you to hide.
+610) ALFRED
+There would be no where for you to hide.
+636) ALFRED
+There would be no where for you to hide.
+565) ALFRED
+He’s not the same man you used to be able to count on.
+601) ALFRED
+He’s not the same man you used to be able to count on.
+567) BRUCE
+Both my names are mud.
+568) ALFRED
+An oppurtunity to redeem both Bruce -- and Batman.
+569) ALFRED
+Because that’s what you do.
+591) ALFRED
+Because that’s what you do.
+641) ALFRED
+{AngryA}Because that’s what you do.
+720) ALFRED
+Because that’s what you do.
+570) ALFRED
+You protect the city no matter the pressure -- or the cost.
+592) ALFRED
+You protect the city no matter the pressure -- or the cost.
+721) ALFRED
+You protect the city no matter the pressure -- or the cost.
+571) ALFRED
+{TiredA}You can depend on me.{HappyA}
+761) ALFRED
+{TiredA}You can depend on me.{HappyA}
+572) ALFRED
+{ConcernedA}I’ll leave you to it then, sir.
+573) LELAND
+Hope you’re ready for your first day in Arkham.
+574) BRUCE
+I’ll do my part. Be sure you do yours.
+575) BRUCE
+Yes.  No, obviously it was me physically, but... [Continued in next line - “I wasn’t in control of myself”]
+577) BRUCE
+He took everything from me.
+578) ALFRED
+To be frank, you’ve given them the case to do it.
+579) ALFRED
+And now you’re proposing to throw it all away.
+581) ALFRED
+You need to pull yourself together and find a way out of here.
+583) ALFRED
+With both Batman and Bruce out of the picture -- the Children of Arkham will continue to take control of the city.
+611) BRUCE
+{ThinkingA}Give us a few more minutes?
+612) LELAND
+{HappyA}We have a schedule to keep.
+681) LELAND
+{HappyA}We have a schedule to keep.
+682) LELAND
+{HappyA}We have a schedule to keep.
+683) LELAND
+{HappyA}We have a schedule to keep.
+689) LELAND
+We have a schedule to keep.
+690) LELAND
+{HappyA}We have a schedule to keep.
+613) LELAND
+No can do.
+762) LELAND
+{HappyA}No can do.
+614) LELAND
+{HappyA}I’m Dr. Leland. Time for group therapy.
+615) BRUCE
+My company
+616) LELAND
+We don’t want to be late.
+617) LELAND
+I can show you around some of the facilities you’ll be using.
+618) LELAND
+Give you the lay of the land.
+619) BRUCE
+Can Alfred come?
+620) LELAND
+I’m afraid it’s going to be just you and I.
+621) BRUCE
+I guess we better get going then.
+622) LELAND
+You’ve got a good attitude. I like that.
+623) LELAND
+It’s gonna be okay. I promise.
+624) ALFRED
+You’ve gone too far this time.
+625) ALFRED
+I’m afraid it is unquestionably you.
+626) BRUCE
+I would only
+627) BRUCE
+I would never risk exposing myself like that.
+628) ALFRED
+The drug
+629) BRUCE
+{AngryA}To hell with Gotham.
+631) ALFRED
+Harvey is the problem.
+637) ALFRED
+This is your shot at redemption.
+639) ALFRED
+{ThinkingA}You protect the city no matter the pressure -{ConcernedA} or the cost.
+642) ALFRED
+{ThinkingA}Bruce, The city may have shunned the name “Wayne” - but{AmusedA} they still need Batman.
+700) ALFRED
+{ThinkingA}Bruce, The city may have shunned the name “Wayne” - but{AmusedA} they still need Batman.
+643) ALFRED
+Redemption for both you and Batman.
+723) ALFRED
+Redemption for both you and Batman.
+646) BRUCE
+Gotham hates me.
+647) ALFRED
+[smiles, quiet]{SurpriseA} Says the man {AmusedA}who dresses up as a bat.
+648) BRUCE
+{ThinkingA}You’re right.
+649) BRUCE
+But how in the hell am I going to save this city from here?
+650) BRUCE
+{ThinkingA}Gotham has Harvey now.{DespairA} It doesn’t need me.
+651) BRUCE
+It doesn’t need me.
+652) ALFRED
+{ConfusedA}But Bruce, Mr. Dent {SkepticalA}*is* the problem.
+653) ALFRED
+And this is the price.
+654) ALFRED
+When I saw what you did, I couldn’t believe it.
+656) LELAND
+Bruce Wayne.
+657) ALFRED
+{ConcernedA}He’s unstable. You can’t trust him and you know it.
+658) BRUCE
+{Intensity-Medium}[frustrated] {AngryA}What the hell do you want me to do, Al?
+665) BRUCE
+{Intensity-Medium}[frustrated] {AngryA}What the hell do you want me to do, Al?
+667) BRUCE
+{Intensity-Medium}[frustrated] {AngryA}What the hell do you want me to do, Al?
+703) BRUCE
+{Intensity-Medium}[frustrated] {AngryA}What the hell do you want me to do, Al?
+660) BRUCE
+[frustrated]{ConfusedA} I can’t exactly save the city while{AngryB} I’m an inmate in Arkham Asylum.
+666) BRUCE
+[frustrated]{ConfusedA} I can’t exactly save the city while{AngryB} I’m an inmate in Arkham Asylum.
+668) BRUCE
+[frustrated]{ConfusedA} I can’t exactly save the city while{AngryB} I’m an inmate in Arkham Asylum.
+704) BRUCE
+[frustrated]{ConfusedA} I can’t exactly save the city while{AngryB} I’m an inmate in Arkham Asylum.
+661) ALFRED
+I still can’t believe it.
+662) ALFRED
+But you did.
+663) ALFRED
+{ConcernedA}Bruce - You need to pull yourself together.
+664) BRUCE
+I’ll do whatever it takes to protect the city.
+669) BRUCE
+{ThinkingA}Great or not it’s a little hard {SkepticalA}to save the city while I’m an{ConfusedA} inmate in Arkham Asylum.
+670) BRUCE
+{SurpriseA}Let’s get {DespairA}this over with.
+671) BRUCE
+We were just finishing up here.
+672) LELAND
+I’ve come to collect you.
+673) LELAND
+Good, because we have a schedule to keep.
+674) LELAND
+You’ve got a pretty full plate today.
+675) LELAND
+Best get a head start.
+676) ALFRED
+{ConcernedA}Bruce... Please try and be cooperative.
+707) ALFRED
+{ConcernedA}Bruce... Please try and be cooperative.
+708) ALFRED
+{ConcernedA}Bruce... Please try and be cooperative.
+709) ALFRED
+{ConcernedA}Bruce... Please try and be cooperative.
+677) BRUCE
+{SmugA}I don’t do therapy.
+826) 
+I don’t do therapy.
+678) LELAND
+{HappyA}That’s too bad, {SmugA}because it’s mandatory.
+679) LELAND
+{HappyA}Come on. Let’s go.
+684) LELAND
+{HappyA}Come on. Let’s go.
+685) LELAND
+{HappyA}Come on. Let’s go.
+688) LELAND
+{HappyA}Come on. Let’s go.
+686) ALFRED
+Bruce, just
+687) ALFRED
+Bruce, don’t be difficult.
+691) ALFRED
+Just try and keep a good attitude.
+692) ALFRED
+It’s not her fault you’re here.
+693) BRUCE
+You can’t be serious.
+694) BRUCE
+Yes, okay, it was ME, but I mean that I wasn’t in the driver’s seat.
+695) ALFRED
+You usually save that sort of “conflict resolution” for after hours... what happened?
+696) ALFRED
+{ConfusedA}I’m not sure if I entirely believe that...
+697) ALFRED
+No - of course not.
+698) ALFRED
+He’s robbed us both.
+699) ALFRED
+{SkepticalA}I completely understand the impulse.
+705) ALFRED
+I hope this is getting through to you.
+706) LELAND
+As a new patient you need to get familiar with the facilities and the rules.
+710) BRUCE
+I’d never risk exposing myself like that.
+711) ALFRED
+But he hasn’t beaten you, Bruce. Not yet.
+712) ALFRED
+Who are you trying to convince? Me or yourself?
+713) ALFRED
+In fact, I was ready to kick his ass myself!
+714) ALFRED
+If I was a younger man, I would’ve kick his ass myself.
+717) ALFRED
+If I was a younger man, I would’ve kick his ass myself.
+715) ALFRED
+And she used that against you.
+718) BRUCE
+{AngryA}I won’t abandon Gotham. Even if I feel like it’s abandoned me...
+719) ALFRED
+[Proud] {ThinkingA}Selflessness - {NormalA}it’s what makes a good man great. {HappyA}And you, Bruce, are a great man.
+722) ALFRED
+This is your shot at redemption, Bruce.
+724) BRUCE
+[fusterated] What in the hell would you have me do, Al?
+729) BRUCE
+[fusterated] What in the hell would you have me do, Al?
+725) BRUCE
+[frusterated] I can’t exactly save the city while I’m an inmate in Arkham Asylum.
+730) BRUCE
+[frusterated] I can’t exactly save the city while I’m an inmate in Arkham Asylum.
+726) ALFRED
+The city may shuned the Wayne name -- but they still need Batman.
+731) ALFRED
+Your freedom hangs in the balance.
+732) BRUCE
+{ConcernedA}I know I can, Al.{HappyA}
+733) BRUCE
+Arkham?  They cant put me in here.
+734) ALFRED
+They can, and if we’re not careful, they can keep you for as long as they bloody well want.
+735) 
+I won’t abandon the people.
+736) 
+Maybe I don’t need Gotham.
+737) 
+The city has Mayor Dent now.
+738) ALFRED
+{ConcernedA}I can’t even imagine what you must be going through right now,{ThinkingA} but you must try and stay with me.
+739) BRUCE
+Alfred. It was Vicki Vale. She drugged me.
+740) ALFRED
+[Quieter] I know. And as soon as we return home we’ll be able to create an antidote.
+741) 
+These people are idiots.
+742) 
+You believe me, right?
+743) ALFRED
+But to do that you need to pass this “evaluation period” so they pronounce you safe and sane.
+744) 
+This wasn’t my fault!
+745) BRUCE
+They would have to be idiots to not pronounce me sane.
+746) ALFRED
+[Stern] Bruce. That is exactly the sort of attitude you can’t afford to take right now. Not after what happened.
+747) BRUCE
+But... you don’t think I’m insane. Right Al?
+748) ALFRED
+Of course not, Bruce.
+749) ALFRED
+[Quick after-thought] Sir.
+759) ALFRED
+[Quick afterthought] Sir.
+750) ALFRED
+Though I must admit it didn’t look good.
+751) BRUCE
+Alfred, you’ve gotta listen to me - This wasn’t my fault.
+752) ALFRED
+[Easy, easy] I know. I know. Just... try and see it from everyone else’s perspective.
+753) ALFRED
+Especially with every would-be “journalist” from here to Metropolis already dragging the Wayne family name through the mud.
+755) ALFRED
+Bruce? Are you still with me?
+756) ALFRED
+I have worked for the Wayne family my entire life. I feel as though Mr. Cobblepot has robbed me as well.
+757) ALFRED
+{ConcernedA}You’re a good man,{ThinkingA} but it would take the patience of three saints to not wish some ill will on{AngryA} Mr. Cobblepot after what he’s done.
+758) ALFRED
+{ConcernedA}You’re a good man,{ThinkingA} but it would take the patience of three saints to not wish some ill will on{AngryA} Mr. Cobblepot after what he’s done.
+760) ALFRED
+Perish the th
+763) LELAND
+{SmugA}Ah. You’re going to be {HappyA}one of THOSE patients.
+764) ALFRED
+I know. We’ll be able to go home as soon as this [disdainful] “observation period” is complete.
+765) ALFRED
+You can hear me, can’t you?
+766) ALFRED
+{ThinkingA}And the... just horrible things you were saying.{ConfusedA} The threats you were making.
+791) ALFRED
+{ThinkingA}And the... just horrible things you were saying.{ConfusedA} The threats you were making.
+767) BRUCE
+Her drugs bring out a person’s... baser desires...
+768) ALFRED
+[Realizing] Like your desire to see Mr. Cobblepot hurt.
+770) ALFRED
+{SkepticalA}I hope I’m making {ConcernedA}myself clear.
+771) ALFRED
+{AmusedA}I hope.
+772) LELAND
+{HappyA}I’m sure we’ll be just{ThinkingA}.. just excellent {SmugA}friends soon.
+773) LADYARKHAM
+[Dream] You have to face the truth sometime.
+774) VICKI
+[Dream] Retribution, Bruce!
+775) LADYARKHAM
+[Dream][Laughing]
+776) BRUCE
+{Intensity-High}{SurpriseA}[Gasp waking up from nightmare]{Intensity-Medium}{ConfusedA}
+777) ALFRED
+{ConcernedA}Bruce - You’re awake!{ThinkingA}
+778) ALFRED
+{Intensity-Medium}{ConcernedB}You are in Arkham Aslyum.
+779) 
+This is Vicki’s fault.
+780) BRUCE
+{ConfusedA}No. No! This is all Vicki Vale’s fault!{ConcernedB} She did this when she drugged me!
+830) BRUCE
+{ConfusedA}No. No! This is all Vicki Vale’s fault!{ConcernedB} She did this when she drugged me!
+781) ALFRED
+{ConfusedA}Bruce - Slow down. {ConcernedA}You’re not making any sense.
+787) ALFRED
+{ConfusedA}Bruce - Slow down. {ConcernedA}You’re not making any sense.
+782) 
+Harvey’s jealous.
+783) BRUCE
+{Intensity-Medium}{SurpriseA}[Stunned] What?
+784) ALFRED
+{ThinkingA}You attacked Mr. Cobblepot. {ThinkingA}It was... savage.{SkepticalA} Mayor Dent had you committed for “violent psychotic behavior.“
+785) BRUCE
+{AngryA}[Seething] That opportunistic bastard... {SkepticalA}He just wanted me out of the way so he took advantage of the situation.
+786) 
+You let this happen?
+788) BRUCE
+{Intensity-High}{AngryA}And you just let him commit me?
+789) ALFRED
+{Intensity-Medium}{ConcernedA}Bruce, I had no choice.
+792) BRUCE
+{Intensity-Medium}{DespairA}That wasn’t me. {ThinkingA}I was under the influence of the same drug that the Children of Arkham used on Montoya.{ThinkingA}
+793) BRUCE
+[Dropping a bomb] {SkepticalA}And it was Vicki Vale that administered it.{AngryA}
+794) BRUCE
+{SurpriseA}Yes. {AngryA}She’s the leader of the Children of Arkham.
+832) BRUCE
+{SurpriseA}Yes. {AngryA}She’s the leader of the Children of Arkham.
+795) ALFRED
+{SurpriseA}You mean...{ThinkingA}
+831) ALFRED
+{SurpriseA}You mean...{ThinkingA}
+796) ALFRED
+{SurpriseA}My god. I knew you must have had a reason for{ConfusedA}... doing that to{ThinkingA} Mr. Cobblepot,{ConcernedA} but I had never even imagined.
+797) BRUCE
+{Intensity-Medium}{AngryA}That slime deserved it. {Intensity-High}{AngryB}He’s lucky I didn’t do worse.
+798) ALFRED
+{ConcernedB}Especially with every would-be “journalist”{ThinkingA} from here to Metropolis already dragging the {SadA}Wayne family name through the mud.
+799) ALFRED
+{ThinkingA}I’m not going to argue that point, Bruce, {ConcernedA}but it was incredibly reckless behavior.
+800) ALFRED
+I heard he is already up and about again, but it certainly didn’t look good.
+801) ALFRED
+{AmusedA}People love a martyr.
+802) ALFRED
+{ThinkingA}You mean--
+803) BRUCE
+{SkepticalA}[Firm] Yes. Vicki Vale did it. {SurpriseA}She’s the leader of the {AngryA}Children of Arkham.
+804) BRUCE
+[Putting pieces together] {ThinkingA}The Children of Arkham’s drugs bring out people’s baser desires...
+805) ALFRED
+{ThinkingA}Your father was responsible for quite a few people being put here in Arkham. {ConcernedA}Having the last name “Wayne” could be... dangerous in here.
+806) ALFRED
+{ThinkingA}I’m going to see what I can do to get you out,{ConcernedA} but you need to try and stay out of trouble.
+807) 
+[ALT] Let’s get to it then.
+808) BRUCE
+[cheery] {HappyA}Let’s get to it{SmugA} then.
+809) LELAND
+{HappyA}How cooperative.
+810) LELAND
+Right this way.
+811) ALFRED
+{ThinkingA}She knew she could take advantage of your desire to {SurpriseA}see him hurt.
+833) ALFRED
+{ThinkingA}She knew she could take advantage of your desire to {SurpriseA}see him hurt.
+812) ALFRED
+{SkepticalA}By sending you here instead of prison, he’s making a statement.
+813) ALFRED
+{DisgustA}Putting you in the same place that{ConcernedA} you father sent so many.
+814) ALFRED
+{ThinkingA}Even if thats true, {ConcernedA}he does have legal grounds for his actions.
+815) BRUCE
+{AngryA}He wants Selina for himself.
+816) ALFRED
+I’ve never seen you lose control like that before - attacking Mr. Cobblepot in front of half of Gotham’s press corp.
+817) ALFRED
+And the... just horrible things you were saying. The threats you were making.
+818) BRUCE
+{Intensity-Low}{DespairA}[pickup]That wasn’t me. {ThinkingA}I was under the influence of the same drug that the {AngryA}Children of Arkham used on Harvey and Montoya.{ThinkingA}
+819) BRUCE
+{AngryA}She injected me with same drug she used on Harvey and Montoya.
+821) 
+But he works for her!
+822) 
+I didn’t want him hurt.
+823) 
+Do whatever it takes to get me out.
+824) 
+I’ll keep a low profile.
+825) 
+Don’t let me down.
+827) 
+Let’s get this over with.
+828) 
+Give us a few minutes.
+835) BRUCE
+[pickup]I’m not crazy, Alfred.
+836) ALFRED
+[pickup]Of course not, but you have to admit, your actions were ... questionable.
+837) 
+Examine
+838) 
+Examine
+839) 
+Examine
+841) 
+Examine
+842) 
+Examine
+850) 
+Examine
+840) 
+Flush.
+843) 
+Pick Up.
+844) 
+Put On
+845) 
+Yes
+848) 
+Don’t mess with me!
+849) 
+I want my lawyer!
+851) 
+You’ll regret this.
+852) 
+Bring it on!
+853) 
+Someone help me!
+855) 
+I’m fine.
+856) B
+(ebuck, Thu Oct  6 11:49:38 2016) The joker asks if you are okay
+
+Th
+857) STUB
+(ebuck, Thu Oct  6 11:49:38 2016) The joker asks if you are okay
+858) 
+No, I’m not okay.
+859) 
+I had it handled.
+860) 
+Thanks, I guess.
+861) 
+Who’s this guy?
+862) 
+I appreciate that.
+863) 
+Nice to meet you.
+866) 
+I don’t need a therapist.
+867) 
+Your guard took bribes.
+868) 
+You can’t protect me.
+870) BRUCE
+[to himself; mortified]{FearA}Oh god.
+871) BRUCE
+[to himself]What happened to me?
+873) BRUCE
+[to himself]{ConcernedA}What is this{FearA} place?
+875) BRUCE
+What is this place?
+876) ORDERLYJERK
+[fuck you]Get up! Breakfast.
+877) ORDERLY01
+Try not to choke on it.
+878) ORDERLYJERK
+{AngryA}And for Christ’s sake,{AngryB}put some clothes on. {SkepticalB}Doctor’s making the rounds soon.
+879) BRUCE
+{ConfusedA}Doctor? {ConcernedA}What doctor?
+881) BRUCE
+I’m not going anywhere if I don’t get my strength back. Might as well eat.
+885) BRUCE
+[to himself]{SkepticalB}Looks like someone was {ThinkingA}angry.
+886) BRUCE
+[to himself]{SkepticalA}Lovely.
+887) BRUCE
+[to himself]{SkepticalA}Is that... {ConcernedB}my blood?
+889) BRUCE
+[to himself][fuck]{FearA}Arkham Asylum...
+894) BRUCE
+[to himself][fuck]{FearA}Arkham Asylum...
+890) BRUCE
+[to himself]{ConcernedB}This can’t be {SadB}happening.
+895) BRUCE
+[to himself]{ConcernedB}This can’t be {SadB}happening.
+891) BRUCE
+[to himself][mortified]{SkepticalB}This can’t be real.
+892) BRUCE
+Oh god, how am I in Arkham?
+896) BRUCE
+Might as well put it on.
+897) BRUCE
+Can’t give them a reason to keep me here for only wearing underwear.
+898) BRUCE
+[to himself]I didn’t think anything could be more stale than the bagels in Selina’s fridge.
+899) BRUCE
+[to himself; oh god I’m stuck here]Selina...
+900) BRUCE
+[to himself; sigh]I stand corrected.
+901) BRUCE
+[to himself; this looks horrible]This looks... pleasant.
+902) BRUCE
+[to himself]I don’t think I could eat right now anyway.
+903) ORDERLYJERK
+[disgust]{AngryB}You better be decent!
+904) ORDERLYJERK
+{AngryA}{BodyAccent}You settled? {SkepticalB}{FaceAccent}Good.
+905) ORDERLYJERK
+[clearly not caring]{SkepticalA}{FaceAccent}Anything you need? {ThinkingB}Water? {FaceAccent}Piss? {AngryB}{FaceAccent}{BodyAccent}Rat poison?
+907) BRUCE
+[demanding]{AngryA}{BodyAccent}You can tell me why I’m in {AngryB}{BodyAccent}{FaceAccent}Arkham Asylum, {AngryA}for a start.
+908) ORDERLYJERK
+{AngryA}{FaceAccent}What? {AmusedB}{FaceAccent}Rich boy doesn’t remember?
+909) ORDERLYJERK
+[this should be obvious]{SkepticalB}Oswald Cobblepot. {ConfusedA}{BodyAccent}You beat him to a bloody{AngryB} pulp. {AngryA}{FaceAccent}Nearly killed him.
+910) ORDERLYJERK
+{AngryA}{FaceAccent}Landed you here. {SkepticalB}{FaceAccent}{BodyAccent}Any of this ringing a bell?
+911) BRUCE
+{AngryA}{BodyAccent}I want to talk to my {AngryB}{FaceAccent}lawyers.
+912) ORDERLYJERK
+{AngryB}{BodyAccent}You’re not in any {AngryA}position to be {BodyAccent}making demands, {AngryB}{FaceAccent}rich boy.
+913) BRUCE
+{AngryB}I have{AngryC}{FaceAccent} rights.
+914) ORDERLY01
+[laughing]Nice try. Loonies don’t get to have rights.
+915) ORDERLYJERK
+{AngryB}And yours were {AngryA}{FaceAccent}revoked after you beat {BodyAccent}Oswald Cobblepot{SkepticalB} within an inch of his {AngryB}life and landed yourself in here.
+916) ORDERLYJERK
+[dark]{AngryB}You’re not {FaceAccent}{AmusedA}buying your way out this{AngryB} time.
+917) BRUCE
+[tense anger]{AngryA}Do you have {FaceAccent}{SternA}any idea who I {BodyAccent}{AngryB}am?
+918) ORDERLYJERK
+[with a smile]{AmusedA}{FaceAccent}Sure I do.
+919) ORDERLYJERK
+[feigned fascination]{SurpriseA}Bruce Wayne. {AmusedA}The spoiled brat that nearly {AmusedB}beat his replacement to death when they {AngryA}took away his company.
+920) ORDERLYJERK
+{AngryB}And now {BodyAccent}{AmusedA}you’re here.
+921) ORDERLYJERK
+[spiteful]{AngryB}Exactly where you{BodyAccent}{AngryA} belong.
+922) ORDERLY01
+Yeah... keep quiet. That’s how you can tell who’s really off their rocker.
+923) ORDERLY01
+The ones who stay silent in the face of danger.
+924) ORDERLY01
+[laughs]And boy, are you in some deep water.
+925) ORDERLY01
+Since you beat Oswald Cobblepot to a bloody pulp.
+926) ORDERLYJERK
+{AngryB}I’ve been asked for {ThinkingB}rope before. {FaceAccent}Not really allowed to give it out.
+927) ORDERLYJERK
+{AngryA}Of course, I could make an exception for {AngryB}you.
+928) ORDERLY01
+Arkham ain’t no cakewalk Wayne. We’ve all got bets on how long you’ll last.
+929) ORDERLYJERK
+{AngryA}{FaceAccent}{BodyAccent}Might as well get comfortable. {AngryB}{BodyAccent}This is your home now.
+930) ORDERLYJERK
+{AngryA}Time to meet your{AmusedA}{FaceAccent} neighbors.
+931) ORDERLY01
+Welcome to Arkham, pretty boy.
+932) BRUCE
+[calling to the orderly]Someone! I need help!
+933) BRUCE
+Help me!
+934) BRUCE
+[frantic]Somebody help!
+935) BRUCE
+[intimidating]{AngryB}You really {AngryC}don’t want to do this.
+936) INMATE01
+Oh, no. We *really* do.
+937) BRUCE
+I’m serious. You don’t want to get hurt.
+939) INMATE02
+Listen to this guy. Thinks he’s funny.
+940) BRUCE
+{AngryB}Go on then. {AngryC}Hit me!
+942) INMATE01
+Cute. Rich boy thinks he can take us.
+943) BRUCE
+{AngryC}What are you waiting {AngryB}for?
+945) INMATE02
+What happened to the tough guy act?
+946) INMATE01
+Heard about your little stunt with Cobblepot.
+947) INMATE01
+Let’s see if you can put your money where your mouth is.
+948) INMATE01
+Nowhere to run.
+949) INMATE02
+[getting clipped in the face]Dammit!
+950) INMATE02
+[raging]You asked for it!
+956) JOKER
+Hey, bozos! Get off of him!
+957) LELAND
+Oh god! Stop it! Stop this at once!
+958) JOKER
+You okay, buddy?
+959) BRUCE
+Don’t touch me!
+960) JOKER
+Whoa! No need to be jumpy, friend. Just trying to help.
+961) BRUCE
+{AngryC}Does it look {SkepticalB}like I’m okay?
+962) JOKER
+{HappyA}Not one {AmusedA}bit.
+963) JOKER
+At least they didn’t scratch that pretty smile of yours.
+964) BRUCE
+I’m fine. I was taking care of it.
+965) JOKER
+[sarcasm]Yeah, you sure had them quivering in their hospital shoes.
+966) JOKER
+You’re welcome, by the way.
+967) BRUCE
+{ConcernedB}I... thank you. {ThinkingA}I appreciate the help.
+968) JOKER
+[bright]{HappyA}You’re welcome!
+969) JOKER
+{ConcernedA}If we don’t look out for each other, {HappyA}who will? {AmusedA}Right?
+970) JOKER
+You don’t look so grand.
+971) JOKER
+And they seemed pretty eager to get their hands on you.
+972) JOKER
+Though I understand why.
+973) JOKER
+You’re quite the looker, aren’t you?
+974) JOKER
+Don’t worry, those pretty blues will get you plenty in here.
+975) JOKER
+On your feet, soldier.
+976) JOKER
+[bright]Look at you! Got up all by yourself!
+978) JOKER
+[bright]Look at you! Got up all by yourself!
+977) JOKER
+Lesser men wouldn’t get up at all.
+979) JOKER
+Let’s get you off the floor. Hmm?
+980) LELAND
+Mr. Wayne. I’m so sorry about this. This is not the kind of impression I wanted to make.
+981) LELAND
+I’m Doctor Joan Leland, head of Psychiatry.
+982) LELAND
+I’ll be overseeing your care personally.
+983) BRUCE
+It’s uh... nice to meet you, Dr. Leland.
+984) LELAND
+You too, Bruce.
+985) BRUCE
+There’s been a mistake. I don’t need a therapist. I’m not crazy.
+986) LELAND
+Therapists can help anyone, Bruce. Not just those deemed mental unfit.
+987) LELAND
+Though your recent actions have lead to some uncertainty about your own sanity.
+988) LELAND
+[with a smile]But that’s what I’m here for. I’m on your side.
+989) BRUCE
+[nodding to Joker]And who’s this?
+990) LELAND
+I’m here to analyze and recommend the correct treatment for you. I’m on your side.
+991) LELAND
+[with a smile]He’s possibly the best ally you’ll have here. Besides me, of course.
+992) LELAND
+My job is to analyze your behavior and recommend the best treatment for you.
+993) LELAND
+You can think of me as your advocate in Arkham.
+994) LELAND
+I hope you know that I’m on your side in this.
+995) LELAND
+It’s been... messy here, to say the least. We’re all trying get things in order before the new hospital gets built. It may seem a long way off but there are arrangements to be made.
+996) LELAND
+Thank you, by the way. For funding the facility.
+997) LELAND
+Even so, I’m afraid many of the inmates aren’t very fond of you.
+998) LELAND
+And with the disorganization of the move, there’s some animosity among the staff as well.
+999) BRUCE
+Well, it doesn’t help when your guard is taking bribes from the inmates.
+1000) LELAND
+[frustrated sigh]Great. Not another one.
+1001) LELAND
+I’m just glad you’re alright. Other patients haven’t been so lucky.
+1002) BRUCE
+{ConcernedB}{BodyAccent}Thank you. {ConcernedA}{FaceAccent}I appreciate the effort.
+1003) LELAND
+{FaceAccent}{ConcernedA}I’m glad you’re so understanding after what{SadA} just happened.
+1004) LELAND
+[indicating Joker]{ConcernedA}Good thing help wasn’t far away.
+1005) BRUCE
+I’m not supposed to be here.
+1007) LELAND
+Huh. That’s so strange.
+1008) LELAND
+I haven’t seen this before. It wasn’t in your file when you were admitted.
+1009) LELAND
+I’ll see what I can do. But I can’t promise anything.
+1010) LELAND
+{ThinkingA}{BodyAccent}S{FaceAccent}tick close to the two of us.
+1011) LELAND
+Well, let’s just say that some of their anger is justified.
+1012) LELAND
+Though of course, their violence isn’t.
+1013) LELAND
+{ThinkingA}We’ll get you transferred to a new room, Bruce. {ThinkingB}One that doesn’t {DisgustA}have your{DisgustB}... blood {ThinkingA}all over it.
+1014) LELAND
+{AngryA}For now, {ThinkingA}follow me.
+1015) JOKER
+You know where I think the term ‘basketcase’ comes from?
+1016) JOKER
+Did someone just have one giant basket to carry a bunch of little baskets....
+1018) LELAND
+[to Bruce]This joker here is John Doe.
+1019) LELAND
+He’s the one that came to find me.
+1020) LELAND
+He the one that saved your life.
+1021) LELAND
+It’s because of my negligence that you were attacked in the first place.
+1022) JOKER
+And people would point and laugh and say ‘Hey, look at that crazy guy! He’s got baskets for his baskets! What a basketcase!‘[laughs]
+1023) JOKER
+I wonder where the term ‘basketcase’ comes from...
+1024) JOKER
+You ever wonder where the term “basket case” comes from?
+1025) BRUCE
+[to himself]{ConcernedA}God I hope it’s{SadA} mine.
+1028) ORDERLYJERK
+{AngryA}{FaceAccent}{BodyAccent}I’ve seen a lot of {AmusedA}people come through here. The ones {AngryB}who stay {FaceAccent}quiet... {SkepticalA}{FaceAccent}they’re always the craziest.
+1029) ORDERLYJERK
+{AngryA}Can’t tell how{BodyAccent} much danger {ThinkingA}they’re in.
+1030) ORDERLYJERK
+{AmusedA}{FaceAccent}And boy are you in deep. {AngryA}Beating {BodyAccent}Oswald Cobblepot half to {AngryB}death isn’t something you {FaceAccent}walk {AngryA}away from.
+1031) ORDERLYJERK
+{ThinkingA}{BodyAccent}As you were.
+1032) INMATE01
+[tense threatening anger]{AngryB}{FaceAccent}{BodyAccent}You look just like {AngryA}him.
+1033) INMATE01
+[rising anger; ends shouting]{AngryA}Your father {BodyAccent}ever {SkepticalB}tell you about {FaceAccent}me? {AngryA}How he sent me here? Left me to {AngryB}{BodyAccent}ROT in this{AngryA} goddamn {AngryB}{FaceAccent}hellhole!
+1034) INMATE01
+[furious; right in Bruce’s face]{AngryB}I hope to God there is a Hell.
+1035) INMATE01
+[furious]{AngryA}I want your daddy to see what {AngryB}I do to you.
+1036) INMATE01
+As good as I’m gonna get.
+1037) ORDERLY01
+Nobody’s coming for you, Wayne.
+1038) INMATE01
+{AngryB}You don’t know a{AngryA} damn thing about me, {AngryB}Wayne!
+1039) INMATE01
+{SkepticalB}Don’t get cocky, {AngryB}Wayne.
+1040) INDIR
+(ebuck, Wed Oct  5 14:38:42 2016) Bruce looks around panicked
+1041) INMATE01
+{AngryB}You’ll join him{AngryA} soon enough, {AngryB}Wayne.
+1042) 
+I’m so sick of this.
+1043) BRUCE
+[frustrated anger]{AngryB}I’m so sick of everyone blaming me for what my{AngryC} father did!
+1044) INMATE01
+{SkepticalA}Maybe not... but {AmusedA}you’re the next best thing, {AngryB}Wayne.
+1045) LELAND
+Get them off of him! Now!
+1046) LELAND
+[to the orderly]We have to do something about this.
+1047) BRUCE
+[insistent]{AngryX}I’m not him! {AngryB}Hurting me does{AngryC} nothing!
+1048) JOKER
+More like the opposite.
+1049) JOKER
+What would that be?
+1050) JOKER
+Poor perhaps.
+1051) JOKER
+Dirty down there.
+1052) JOKER
+Up here’s not much better.
+1054) JOKER
+Better.
+1055) JOKER
+There you go.
+1056) JOKER
+Nice.
+1057) JOKER
+Means they didn’t break any ribs at least.
+1058) JOKER
+Means they didn’t break any ribs at least.
+1061) LELAND
+I’m here to help.
+1062) BRUCE
+[ALT]I saw you. You set this up, didn’t you?
+1063) LELAND
+I try not to use that term, Bruce. And whether you agree or not, you need to be here so that you can get well.
+1064) LELAND
+Even you have to see that your recent actions have been cause for concern.
+1065) JOKER
+[amusing himself]And people thought... they thought he lost his mind. What a basket case! Carrying baskets with baskets. [laughs]
+1066) LELAND
+[to Bruce]This joker here... he goes by John Doe.
+1067) JOKER
+You can call me John.
+1068) BRUCE
+How could you let this happen?
+1069) BRUCE
+Your orderly let them into my cell! He was paid off.
+1070) LELAND
+[frustrated; to herself]God, not another one.
+1071) LELAND
+I’ll take care of it. I’ll be the first to admit things aren’t perfect here.
+1072) LELAND
+Once the new facility gets built we’re planning to hire on a completely new team. That was part of the agreement.
+1073) LELAND
+And of course with the news about what your father did...
+1074) LELAND
+That isn’t a secret from the staff.
+1075) LELAND
+What I’m saying is, you have a lot of enemies here, Mr. Wayne.
+1076) LELAND
+I’ll do my best to keep you safe, but I need you to be careful.
+1077) LELAND
+That isn’t exactly a secret from the staff.
+1078) LELAND
+We’re in the process of sifting through all the old case files now, but it’s slow going. Even so many of them have lost years of their lives.
+1079) LELAND
+We’re in the process of sifting through all the old case files now, but it’s slow going. Even if we find them all, they’ve still lost years of their lives.
+1081) LELAND
+But I’m on your side.
+1082) LELAND
+I won’t lie to you. You have a lot of enemies here.
+1083) LELAND
+Once the new facility gets built we’re planning to hire on a completely new team as part of the agreement with Wayne Enterprises.
+1084) LELAND
+{ConcernedA}{BodyAccent}{FaceAccent}I’ll do my best to keep {NormalA}you safe, {FaceAccent}but I {ThinkingB}{BodyAccent}need you to be careful.
+1085) LELAND
+{ConcernedA}{BodyAccent}Come to me if anything {FaceAccent}happens.
+1086) LELAND
+{SurpriseA}D{FaceAccent}on’t try to tough it out.
+1087) LELAND
+You can trust me, Bruce. I’m on your side.
+1089) 
+Broken Wall
+1090) 
+Rusty Cot
+1091) 
+Jumpsuit
+1092) 
+Security Camera
+1093) LELAND
+We’re still processing some of your blood work. If that’s true, we’ll know about it.
+1094) 
+I can handle myself.
+1095) BRUCE
+{AngryA}Don’t worry. {SmugA}I’m always careful.
+1096) BRUCE
+[ALT]I’m always careful.
+1097) LELAND
+{ConfusedA}And you seem to be able to defend yourself quite well. {SadA}Still... {AngryA}better to play it safe.
+1098) LELAND
+[meaning Joker]{ThinkingA}You were lucky help came so quickly.
+1099) BRUCE
+[to himself]It was just there.
+1100) LELAND
+[about Joker]{ThinkingA}{FaceAccent}You were lucky help came so {ConcernedA}{BodyAccent}quickly this time.
+1101) LELAND
+But it’s best to play it safe.
+1103) INMATE01
+[With each hit] This feel good? You like this?
+1104) INMATE02
+[Cruel, psychotic] Come on, sing for us, pretty birdie!
+1105) JOKER
+[off-screen][Low, creepy] The welcoming committee has really gone downhill around here, hasn’t it?
+1106) INMATE01
+What the--?
+1107) INMATE02
+Augh!
+1109) BRUCE
+[pickup] Who--? Who are you?
+1110) JOKER
+[With punch] RUDE.
+1130) JOKER
+[Quiet, darkly] Rude.
+1111) JOKER
+[with punch] CHURLISH.
+1112) JOKER
+[Grab inmate] NOT-- [Smash face] NICE.
+1113) JOKER
+[Genuine concern] Buddy, aw buddy, are you okay?
+1114) LELAND
+[authoritative] What is going on in here?
+1115) JOKER
+It’s like I told you, doctor! These creeps were attacking the new guy!
+1117) LELAND
+[re: unconscious inmates, accusatory] Well who did THAT? Was it you?
+1118) JOKER
+[Scandalized] Of course not! It was mostly over by the time I got in. The new guy is tougher than he looks!
+1119) JOKER
+[To Bruce, with a wink] Right... buddy?
+1120) LELAND
+[Doesn’t approve] Bruce, is that really what happened?
+1121) 
+Yeah. I did this.
+1122) 
+No, He’s lying!
+1123) 
+It was all a blur.
+1125) JOKER
+[Leading] Go on... tell her.
+1126) BRUCE
+[pickup] Yeah. Yeah, that’s what happened.
+1127) LELAND
+We have a very strict no-fighting policy here in Arkham. If you can’t obey that rule... you’re going to find yourself in hot water fast.
+1128) BRUCE
+[pickup] He’s lying. [To Joker, ugh] He was the one who kicked their ass.
+1129) LELAND
+[Admonishing] I understand wanting to protect someone, but fighting isn’t the way to do it. We’ll have to talk about this later.
+1131) BRUCE
+[pickup1] I don’t really know what happened... it was all a blur.
+1132) LELAND
+Seems like you could have experienced another psychotic episode... we’ll need to keep an eye on that.
+1133) LELAND
+Seems like you could have experienced another psychotic episode... we’ll need to keep an eye on that.
+1134) BRUCE
+[pickup] {AngryB}{BodyAccent}{FaceAccent}The orderly that was here before {BodyAccent}{AngryA}took money from these men{AngryC} and {FaceAccent}let them into my room! {AngryB}He {BodyAccent}gave them a {AngryC}{FaceAccent}taser!
+1135) LELAND
+[horrified] {SurpriseA}{FaceAccent}No. {SadB}Mr. Wayne, {SurpriseA}{FaceAccent}{BodyAccent}I am so, so sorry.{SadA} {FaceAccent}My god I’ll have {DisgustA}it taken care of.
+1136) LELAND
+{DisgustB}I knew that {ConcernedA}you coming to Arkham could cause {ThinkingA}some.... {SadA}excitement, but {SurpriseA}I didn’t expect it to happen so {ConcernedA}fast.
+1137) LELAND
+This certainly isn’t the first impression I’d hoped to make but... I’m Dr. Joan Leland, head of psychiatry, and I’ll be overseeing your case personally.
+1138) LELAND
+{SurpriseA}I’m Dr. Joan Leland, by the way. {NormalA}Head of Psychiatry. {ThinkingA}I’ll be overseeing your case{NormalA} personally.
+1139) JOKER
+{HappyB}Come on!
+1140) BRUCE
+[pickup]{SkepticalB}I’m sorry, I don’t think I ever got {ThinkingA}your name--?
+1141) JOKER
+Believe it or not... don’t remember it. So now I just use the name they gave me.
+1142) BRUCE
+[alt] [to himself] {ConcernedA}How the hell did I get here?
+1143) JOKER
+[alt][Hitting, enjoying it] How do you like it?
+1144) JOKER
+[alt][Hitting, enjoying it] Don’t quit yet!
+1145) JOKER
+[alt][Hitting, enjoying it] Come on! Fight back!
+1146) JOKER
+[alt][Hitting, enjoying it] You are pathetic!
+1147) JOKER
+[alt][Hitting, enjoying it] That’s not very neighborly.
+1148) JOKER
+[alt][Hitting, enjoying it][Cackling] Oh that’s good. That’s GOOD.
+1149) BRUCE
+[pickup][Tough] {AngryB}I’m fine. {DisgustA}Just some bruises.
+1150) JOKER
+{SurpriseA}Alright. {HappyB}Tough guy. {HappyA}Nice.
+1151) BRUCE
+[pickup][weakly] {AngryB}Okay, I’m up, I’m up.
+1152) BRUCE
+[pickup][stubborn] {SkepticalB}{FaceAccent}Safe? And {AngryB}{BodyAccent}how do you plan to do {AngryA}that?
+1153) LELAND
+[mildly offended] {BodyAccent}{DisgustA}You’re hardly the first patient in {AngryA}{FaceAccent}{BodyAccent}Arkham Asylum to be attacked - {DisgustB}{BodyAccent}I’m sure we can figure {DisgustA}{FaceAccent}something out.
+1154) BRUCE
+{ConfusedA}What?
+1155) LELAND
+{DisgustA}We just call him {ThinkingA}“John Doe.“
+1156) LELAND
+[Given this schpiel before] {ThinkingA}He’s never given his name out to {ThinkingB}anybody.
+1157) ORDERLYJERK
+[pickup]{AngryB}{FaceAccent}{BodyAccent}Heh, then you turned on the crowd, {AngryA}{FaceAccent}{BodyAccent}screaming that you couldn’t{AngryB}{FaceAccent} stop!
+1158) ORDERLYJERK
+[pickup]{AngryB}{FaceAccent}{BodyAccent}Heh, then you turned on the crowd, {AngryA}{FaceAccent}{BodyAccent}screaming that you couldn’t{AngryB}{FaceAccent} stop!
+1159) ORDERLYJERK
+[pickup]{AngryB}{FaceAccent}{BodyAccent}Heh, then you turned on the crowd, {AngryA}{FaceAccent}{BodyAccent}screaming that you couldn’t{AngryB}{FaceAccent} stop!
+1160) INMATE01
+[gritted teeth] {AngryB}Somebody’s gotta {FaceAccent}pay for that.
+1161) 
+Cell Door
+1162) JOKER
+[pickup][with a wink] Us nice guys got to stick together, am I right?
+1163) JOKER
+[pickup][leland just referenced him helping Bruce, humbly] Hey, I’m just looking out for the new guy.
+1166) JOKER
+[pickup][leland just referenced him helping Bruce, humbly] Hey, I’m just looking out for the new guy.
+1167) JOKER
+[pickup][leland just referenced him helping Bruce, humbly] Hey, I’m just looking out for the new guy.
+1164) JOKER
+[pickup][amused] Me?
+1165) JOKER
+[pickup][quiet chuckle] Bingo!
+1168) JOKER
+[pickup] You don’t look so good.
+1169) JOKER
+[pickup] Those guys were... well pretty savage.
+1170) JOKER
+[pickup][Amiable chuckle] Lucky for you I was just walking by.
+1171) JOKER
+[Quiet, dark] We will meet again. I promise you that.

@@ -1,0 +1,326 @@
+﻿1) 
+Reconstruct what happened here by discovering which pieces of evidence best link together to tell the story.
+2) 
+You cannot make a connection until at least 2 linkable items have been discovered.
+3) 
+Use Bat-Tech to reveal heat signatures of a survivor.
+4) 
+Not all connected items will reveal valid theories.  Break these links to reset them.
+5) 
+Unlink items that don’t seem to have a strong connection.
+6) 
+Inspect the evidence at the crime scene.
+7) 
+Analyze the drone to determine its modifications and origin.
+83) 
+Analyze the drone to determine its modifications and origin.
+85) 
+Analyze the drone to determine its modifications and origin.
+8) 
+Items tagged with ^imageScale:0.8^<ui_notification_evidencePOI.d3dtx:-18> can be “linked” to related items to theorize a connection.
+9) 
+These two items aren’t a match.  Break this link and look for a more direct connection.
+10) 
+Find additional related evidence.
+11) 
+^glyphScale:1.25^Sky Train Depot
+^glyphScale:.6^ 8:55 PM
+12) 
+^glyphScale:1.25^Arkham Asylum
+^glyphScale:.6^12:15 AM
+13) 
+^glyphScale:1.25^City Hall
+^glyphScale:.6^6:07 PM
+14) 
+^glyphScale:1.25^Wayne Tower
+^glyphScale:.6^7:29 AM
+15) 
+^color:#cbd6db^^font:GameplayBodyMedium^Programming
+^^TULLEY RAFFERTY
+16) 
+^color:#cbd6db^^font:GameplayBodyMedium^Music by
+^^JARED EMERSON-JOHNSON
+17) 
+^glyphScale:1.25^Cobblepot Park
+^glyphScale:.6^5:45 AM
+18) 
+^glyphScale:1.25^Gotham General Hospital
+^glyphScale:.6^8:45 PM
+19) 
+^glyphScale:1.25^GCPD Headquarters
+^glyphScale:.6^6:30 PM
+20) 
+Fill bars to earn an Expert Move.
+21) 
+^color:#cbd6db^^font:GameplayBodyMedium^Choreography
+^^DANIEL ROSALES
+22) 
+Press <ui_notification_facebuttonDown.d3dtx:-20> and <ui_notification_controllerTriggerRight.d3dtx:-20> to use your Finishing Blow!
+23) 
+^color:#cbd6db^^font:GameplayBodyMedium^A Telltale story by
+^^MEGHAN THORNTON
+^^CHRIS HOCKABOUT
+24) 
+^color:#cbd6db^^font:GameplayBodyMedium^Episode Directed by
+^^KENT MUDLE
+25) 
+^color:#cbd6db^^font:GameplayBodyMedium^Art Direction
+^^MARTIN McDONALD
+26) 
+Press <ui_notification_keyboardAndMouseA.d3dtx:-20> and <ui_notification_keyboardAndMouseD:-20> to use your Finishing Blow!
+27) 
+^color:#cbd6db^^font:GameplayBodyMedium^Characters
+^^DAVEED KAPLAN
+28) 
+^color:#cbd6db^^font:GameplayBodyMedium^Environments
+^^CHRISTIAN DE LOS SANTOS
+29) 
+^color:#cbd6db^^font:GameplayBodyMedium^Animation
+^^MICHAEL TJOSVOLD
+30) 
+Gotham will hear of this.
+31) 
+Oswald will remember that.
+32) 
+Alfred will remember that.
+33) 
+Selina will remember that.
+34) 
+Gordon will remember that.
+35) 
+Vicki will remember that.
+36) 
+Regina will remember that.
+37) 
+Deborah will remember that.
+38) 
+Falcone will remember that.
+39) 
+Harvey will remember that.
+40) 
+They will remember that.
+41) 
+He’ll remember that.
+52) 
+He’ll remember that.
+42) 
+She’ll remember that.
+43) 
+Lucius will remember that.
+44) 
+He will remember that.
+50) 
+He will remember that.
+45) 
+Two-Face will remember that.
+46) 
+Dr. Leland will remember that.
+47) 
+The Codex has been updated!
+48) 
+The boy will remember that.
+49) 
+She will remember that.
+51) 
+The doctor will remember that.
+53) 
+Penguin will remember that.
+54) 
+UPDATED
+55) 
+SELECT
+62) 
+SELECT
+56) 
+DECRYPTING DEVICE
+66) 
+DECRYPTING DEVICE
+57) 
+Gotham Media Feed
+58) 
+Swipe Up and Down to scroll.
+59) 
+Use ^imageScale:0.8^<ui_batComputer_legendMouseW.d3dtx:-15> and ^imageScale:0.8^<ui_batComputer_legendMouseS.d3dtx:-15> to scroll.
+60) 
+This game series adapts to the choices you make.
+The story is tailored by how you play.
+61) 
+Use the arrows buttons to Select and Rotate the pieces.
+64) 
+Use the arrows buttons to Select and Rotate the pieces.
+63) 
+<ui_batComputer_legendDpadUpDown.d3dtx:-12>Select <ui_batComputer_legendDpadLeftRight.d3dtx:-12>Rotate
+65) 
+^imageScale:0.5^<ui_notification_faceButtonRight.d3dtx:-15> to exit.
+67) 
+Right Click to exit.
+68) 
+Use ^imageScale:0.8^<ui_batComputer_legendDpadUpDown.d3dtx:-15> or ^imageScale:0.8^<ui_batComputer_legendLeftStick.d3dtx:-15> to scroll.
+69) 
+Use the mouse to look around.
+70) 
+Drag to move.
+75) 
+Drag to move.
+77) 
+Drag to move.
+71) 
+To move use <ui_notification_analogStickLeft.d3dtx:-20>
+88) 
+To move use <ui_notification_analogStickLeft.d3dtx:-20>
+72) 
+To move use^imageScale:0.95^<ui_notification_keyboardAndMouseWasd.d3dtx:-20>
+76) 
+To move use^imageScale:0.95^<ui_notification_keyboardAndMouseWasd.d3dtx:-20>
+73) 
+Silence is a valid option.
+74) 
+You have a limited amount of time to make a choice.
+78) 
+To look around use <ui_notification_analogStickRight.d3dtx:-20>.
+79) 
+Use^imageScale:0.95^<ui_notification_keyboardAndMouseWasd.d3dtx:-20> to Follow Dr. Leland
+80) 
+Press <ui_notification_keyboardAndMouseE.d3dtx:-20> to update Codex.
+81) 
+Tap screen to update Codex.
+82) 
+Use <ui_notification_analogStickLeft.d3dtx:-20> to Follow Dr. Leland.
+84) 
+Create an antidote by analyzing the Drug Molecule and your DNA sequence.
+86) 
+Drag to Follow Dr. Leland.
+87) 
+Press <ui_notification_facebuttonDown:-20> to update Codex.
+89) 
+Use <ui_notification_analogStickRight.d3dtx:-20> to move into the circle, then press the displayed button to attack.
+90) 
+Press both prompts simultaneously.
+91) 
+Use <ui_notification_mouseLeftClick.d3dtx:-20> to move into the circle, then press to attack.
+92) 
+Fill up the Bat Symbol by completing Expert moves to earn a Finishing Blow!
+93) 
+Move the reticle into the circle, then press to attack.
+94) 
+Press both prompts simultaneously to use your Finishing Blow!
+95) 
+Press <ui_notification_keyboardAndMouseShift.d3dtx:-20> and <ui_notification_keyboardAndMouseQ.d3dtx:-20> simultaneously.
+96) 
+Press <ui_notification_facebuttonDown.d3dtx:-20> and move <ui_notification_analogStickLeft.d3dtx:-20> simultaneously.
+97) 
+Montoya will remember that.
+98) 
+He’s on to you.
+99) 
+You distracted him.
+100) 
+Selina will remember this.
+101) 
+Lady Arkham will remember that.
+102) 
+Gotham will remember that.
+103) 
+Self Diagnostic Repair^^
+^font:GameplayBodySmall.font^^color:#aed5d4^^glyphScale:.5^Preparing for recovery...
+104) 
+VICKI VALE
+105) 
+THE VALES
+106) 
+LADY ARKHAM
+107) 
+CHILDREN OF ARKHAM
+108) 
+^glyphScale:1.25^One Year Ago
+109) 
+^glyphScale:1.25^Five Days Later
+110) 
+^glyphScale:1.25^Vale Residence
+^glyphScale:.6^8:38 PM
+111) 
+WAYNE ENTERPRISE LOG IN
+112) 
+LADY ARKHAM FILE
+113) 
+ERROR
+114) 
+Wayne enterprise
+Administrative system
+115) 
+LOG IN
+116) 
+RECENTLY MODIFIED
+117) 
+FINANCIAL
+REPORT
+118) 
+REAL ESTATE
+119) 
+RECORDS
+120) 
+SECURITY
+121) 
+SERVEILLANCE
+122) 
+BRUCE
+123) 
+OSWALD
+124) 
+VICTORIA VALE
+125) 
+Use the Bat Cowl to virtually investigate Alfred’s surroundings.
+126) 
+Look for clues.
+127) 
+Tap filters to narrow down your search.
+128) 
+Determine the link between Oswald Cobblepot and Vicki Vale
+129) 
+Investigate Oswald Cobblepot to determine his connection to Vicki.
+130) 
+Investigate the damaged drone.
+131) 
+FILTER ONE
+132) 
+FILTER TWO
+133) 
+FILTER THREE
+134) 
+FILTER FOUR
+135) 
+N 34° 9’ 7.456’‘
+W 118° 20’ 10.917’‘
+136) 
+N 34° 8’ 55.433’‘
+W 118° 20’ 19.27’‘
+137) 
+N 38° 0’ 16.404’‘
+W 122° 32’ 16.718’‘
+138) 
+LOCATION DETAILS
+139) 
+RENDERING
+140) 
+CAN ANYONE STOP
+LADY ARKHAM?
+141) 
+Logging In...
+142) 
+MORE THAN 6 WEEKS AGO
+143) 
+You’ve discovered a clue to Lady Arkham’s plan.
+144) 
+UNMATCHED DNA
+145) 
+^glyphScale:1.25^A Week Later...
+146) 
+Use Reticle to select filters. Press <ui_notification_mouseLeftClick.d3dtx:-20> to apply filter.
+147) 
+Use <ui_batComputer_legendDpadUpDown.d3dtx:-12> to toggle filters. <ui_notification_facebuttonDown:-20> to apply filter.
+148) 
+Inspect the remaining locations.
+149) 
+^imageScale:0.5^<ui_notification_faceButtonDown.d3dtx:-15> to exit.
+150) 
+Use <ui_batComputer_legendDpadUpDown.d3dtx:-12> to toggle filters. <ui_notification_facebuttonRight:-20> to apply filter.

@@ -1,0 +1,520 @@
+﻿1) 
+Not yet.
+9) BATMAN
+Not yet.
+2) 
+I’m going in.
+7) BATMAN
+I’m going in.
+3) ALFRED
+[VOP comm]The Drone’s cameras and scanning tech are fully functional.
+4) BATMAN
+Good.
+152) BATMAN
+[eager for a fight]Good.
+5) BATMAN
+Gotta be Falcone’s hideout.
+6) ALFRED
+[VOP comm]Bruce.
+8) ALFRED
+[VOP comm]Re-activating Drone cameras.
+10) ALFRED
+[VOP comm]Ready when you are.
+11) BATMAN
+Nothing here.
+12) BATMAN
+Good point of entry.
+13) BATMAN
+Cameras.
+14) ALFRED
+[over comm]The entire floor is under surveillence.
+15) ALFRED
+[over comm]You’ll be detected as soon as you enter.
+16) BATMAN
+No time for subtlety.
+17) ALFRED
+[over comm]The barman appears to be armed.
+18) BATMAN
+Rough customers.
+19) ALFRED
+[over comm]Indeed.
+20) ALFRED
+The white rose. Falcone’s symbol.
+21) BATMAN
+A red rose, after tonight.
+22) FALCONE
+[a challenge]Show yourself!
+23) FALCONE
+[an insult]Goddamn circus freak.
+24) FALCONE
+The hell?
+25) FALCONE
+Christ!
+26) ALFRED
+[VOP comm]EMP armed.
+27) FALCONE
+You can’t sneak up on me...
+28) FALCONE
+Get your goddamn hands off of my suit!
+29) FALCONE
+[on fire][screaming, in severe pain]
+30) FALCONE
+[pain]
+37) FALCONE
+[scream of pain]
+60) FALCONE
+[grunting, struggling efforts]
+66) FALCONE
+[gasp of surprise]
+162) FALCONE
+[gasp]
+173) FALCONE
+[struggling / strangling sounds]
+175) FALCONE
+[stabbing Batman with piece of glass]
+205) FALCONE
+[impaled on rebar]
+206) FALCONE
+[pain noises following big scream, heavy breathing, hissing]
+208) FALCONE
+[quick scream of terror as he’s thrown]
+243) BATMAN
+[alt]
+31) BATMAN
+[VOP batvoice] It’s over, Falcone.
+34) BATMAN
+[VOP batvoice] It’s over, Falcone.
+32) FALCONE
+You got a lot to learn, kid.
+33) FALCONE
+You got a lot to learn, kid.
+35) ALFRED
+[VOP comm]Explosives armed!
+36) ALFRED
+[VOP comm]Fire when ready!
+38) MOBSTER01
+Still healing from the last time, I bet.
+39) MOBSTER02
+Yeah. No broken bones.
+40) MOBSTER01
+You make your rounds?
+41) ALFRED
+[over comm]Well, it won’t be as easy as ringing the doorbell.
+42) ALFRED
+[over comm]That’s the most heavily guarded door in the building.
+43) FALCONE
+How about this one?
+44) FALCONE
+Do you know who my lawyers... my lawyers are?!
+45) FALCONE
+For you.
+46) BATMAN
+[VOP batvoice] I found your calling card at the docks.
+47) BATMAN
+[VOP batvoice] The white rose.
+48) FALCONE
+Something reeks about this whole thing.
+49) BATMAN
+[VOP batvoice][threatening, big]Answers! Now! Or you fall.
+50) FALCONE
+Go ahead, give them a show.
+51) FALCONE
+What a place to call home.
+52) BATMAN
+Let’s find Falcone.
+53) BATMAN
+[determined]Alright.
+54) ALFRED
+[VOP comm]Have you formulated your plan of attack?
+55) FALCONE
+I run Gotham.
+56) FALCONE
+And a masked monster like you is not gonna stop me.
+57) FALCONE
+You can’t do this to me!
+58) FALCONE
+I’m a respectable businessman!
+59) FALCONE
+You broke into my club!
+61) FALCONE
+Get your goddamn hands off of me!
+62) FALCONE
+You think that’s gonna work?
+63) FALCONE
+[ALT]I’m gonna light up this whole fucking place!
+64) FALCONE
+[dark laughter]Heh.
+65) FALCONE
+I got rights to defend myself.
+67) FALCONE
+You got no goddamn right to be here!
+68) FALCONE
+[confused]What?
+69) MOBLADY02
+Where’s Nikki?
+70) MOBLADY03
+[disaffected] In lock-up.
+71) MOBLADY02
+[shocked] Again? Christ, Kimmy. What did they pinch him for now?
+72) MOBLADY03
+Some hit down at the docks.
+73) MOBLADY02
+[disbelief] Nikki? No. I didn’t think he was a hatchet man.
+74) MOBLADY03
+You and me both.
+75) MOBLADY03
+Honey, I’m always his alibi.
+76) MOBLADY04
+I’d like to make a toast.
+77) MOBSTER06
+Here’s to doing our part!
+78) MOBLADY04
+To... Gotham: the official crime capital of the country!
+79) MOBSTER05
+I’ll toast to that.
+80) MOBLADY04
+Salude!
+81) MOBLADY01
+[flirtacious laugh] Tell me another.
+82) MOBSTER04
+So, are you alone?
+83) MOBLADY01
+Not any more I’m not.
+84) MOBSTER04
+[flitacious] What’s the difference between the mafia and city council?
+85) MOBSTER04
+Only one of them is organized.
+86) MOBLADY01
+I dunno. Aren’t they the same thing?
+87) MOBLADY01
+[flirtaciously laugh] You’re cute.
+88) MOBLADY02
+Does he gotta an alibi?
+89) MOBSTER02
+All it took was a couple of c-notes this time.
+90) MOBSTER02
+Nice and easy.
+91) MOBSTER01
+Nice and easy, my ass. [hushed] I know you burned powder tonight. The whole city can smell it.
+92) MOBSTER01
+[yelps in pain] Hey!
+93) MOBSTER02
+It’ll make it hurt less.
+94) MOBSTER02
+Here. Have another drink.
+95) MOBSTER01
+[pained] You’re a real punk.
+96) MOBSTER02
+That’s what they pay me for.
+97) MOBSTER05
+To what?
+98) MOBSTERO1
+Tell your bookie I’m puttin’ down 5-g on Dent to win.
+99) MOBSTER02
+I’m not going to Tony with that. Betting on that rat D.A. -- it’s heresy.
+100) MOBSTER01
+The odds say he’s got the edge.
+101) MOBSTER02
+Politics, it ain’t horse racing. Whoever wins, there’s consequences that are bigger than your wallet.
+102) MOBSTER01
+[joking] I don’t know... my wallet’s pretty damn big.
+103) MONBSTER02
+[laughs] I’ll remember you said that when I’m peelin’ your face of one of Falcone’s friers.
+104) MOBSTERO1
+I’ll take my chances.
+105) 
+Modern Art
+135) 
+Modern Art
+106) 
+Bar
+107) 
+Balcony
+108) 
+Office
+109) 
+Rose Sigil
+110) 
+Security Camera
+111) 
+Patrons
+112) 
+Patrons
+113) 
+Patrons
+114) 
+Mobster
+115) 
+Balcony Gunman
+116) 
+Isolated from guests inside, easy to take by surprise.
+117) 
+Balcony Railing
+118) 
+Presents an unexpected point of attack.
+119) 
+Upper Balcony
+120) 
+Offers direct access to main balcony and entry point.
+121) 
+Staircase
+122) 
+Large, steel frame staircase from upper floor. Turns on a single landing.
+123) 
+Marble Pillar
+124) 
+Load bearing structure is both impenetrable and immoveable.
+125) 
+Entryway Gunman
+126) 
+Close to entry point. Strategically positioned, should be quickly neutralized.
+127) 
+Large Coffee Table
+128) 
+Appears to be heavy, very solidly constructed.
+129) 
+Seated Gunman
+130) 
+Seated, talking to woman on sofa. Distracted and unprepared for action.
+131) 
+Folding Screen
+132) 
+Large, wooden, three-paneled, folding privacy screen.
+133) 
+Outer Window Gunman
+134) 
+Furthest from entry point, impossible to surprise. Will require stragetic attack.
+136) 
+Large, solid cube-shaped piece made of ceramic and metal.
+137) 
+Hanging Light
+138) 
+Heavy light fixture hanging from ceiling, approximately 3m from floor
+139) ALFRED
+[pickup]Keep looking. I imagine Falcone’s office is well-protected.
+140) ALFRED
+[pickup]Let’s get back on track.
+141) BATMAN
+[pickup]I’m sure Falcone’s office is on this floor.
+142) BATMAN
+[Pickup]Hmm. I see a couple of options for taking this guy down...
+143) ALFRED
+[pickup]This one might be tricky.  Any ideas?
+144) BATMAN
+I’ve got it covered, Al.
+145) ALFRED
+Keep looking.
+146) 
+Don’t make me hurt you.
+147) 
+TALK!
+148) 
+You’ve lost, Falcone!
+222) BATMAN
+You’ve lost, Falcone.
+149) ALFRED
+[VOP comm]Let ‘em have it, sir.
+150) ALFRED
+[VOP comm]This isn’t a night club, it’s a bloody armory.
+151) ALFRED
+[VOP comm]Falcone’s thugs are armed to the teeth, they won’t go down easy.
+153) BATMAN
+I like a challenge.
+154) ALFRED
+[VOP comm]There we are.
+155) FALCONE
+I’m gonna light up this whole goddamn place!
+156) FALCONE
+Alright, alright.
+163) FALCONE
+Alright, alright.
+157) FALCONE
+I’ll talk.
+167) FALCONE
+I’ll talk.
+158) FALCONE
+You wouldn’t--
+159) BATMAN
+[VOP batvoice] Spare yourself the pain, old man.
+160) FALCONE
+I been through worse--
+161) FALCONE
+[strangled]Okay, alright, I’ll talk!
+164) FALCONE
+What? You throwin’ in the towel already?
+165) FALCONE
+I could go a few more rounds.
+166) BATMAN
+[VOP batvoice] You fought well, but it’s over.
+168) FALCONE
+Goddamn psycho.
+169) FALCONE
+[defiant]It doesn’t scare me.
+170) FALCONE
+Okay, alright!
+171) FALCONE
+This whole no talkin’ routine...
+172) BATMAN
+[the grim reaper]Don’t try me.
+174) FALCONE
+[rising in intensity, about to attack Batman]And it ain’t a dead bat!
+176) BATMAN
+[VOP batvoice] The chemicals!
+177) BATMAN
+[VOP batvoice] Where are they?!
+178) FALCONE
+Those chemicals you’re so riled up about--they’re mine, alright?
+179) FALCONE
+But someone’s tryin’ to cut me out of the deal, because I did not make that mess at the docks.
+180) FALCONE
+Ha! Gotham!
+181) FALCONE
+[severe pain, near death]It’s... the Waynes.
+189) FALCONE
+[winded, beaten down]It’s... the Waynes.
+182) FALCONE
+[severe pain, near death]Well... the Waynes are the biggest gangsters in Gotham!
+190) FALCONE
+[winded, beaten down]Well... the Waynes are the biggest gangsters in Gotham!
+183) FALCONE
+[severe pain, near death]They’re behind all this.
+188) FALCONE
+[winded, beaten down]They’re behind all this.
+184) BATMAN
+[VOP batvoice][pushing him]What do you mean?
+187) BATMAN
+[VOP batvoice][pushing him]What do you mean?
+185) FALCONE
+I’ll be walkin’ free by tomorrow morning.
+186) FALCONE
+[severe pain, near death]You really-- you really wanna take down crime?
+191) BATMAN
+[VOP batvoice][threatening]Still wanna play games?
+192) BATMAN
+[VOP batvoice]Spill it, Falcone.
+227) BATMAN
+[VOP batvoice]Spill it, Falcone.
+193) BRUCE
+Nice.
+194) MONTOYA
+Take him out!
+195) MONTOYA
+[a threat]Now we only have to take one of you down.
+196) MONTOYA
+Thanks for the assist.
+197) MONTOYA
+[yelling]Open fire!
+198) MONTOYA
+[disgusted]Oh my god...
+199) ALFRED
+[VOP comm][ALT]I’ll watch the fireworks from here.
+200) FALCONE
+You think I wanted to lead YOU here?
+201) BATMAN
+[VOP batvoice][threat, loud]Then who did?
+202) FALCONE
+No, we’re done!
+203) FALCONE
+Gotham’s watching now.
+204) FALCONE
+Wait, what the hell are you-
+207) FALCONE
+Woah, woah wait, wait oh, oh Jesus!
+209) FALCONE
+Augh! Christ almighty!
+210) FALCONE
+Ok, Ok! I’ll talk! I’ll talk!
+211) BATMAN
+[VOP batvoice]While you still can.
+228) BATMAN
+[VOP batvoice]While you still can.
+212) FALCONE
+[severe pain] [alt] You really wanna save this city?
+213) FALCONE
+[winded, beaten down]You wanna save this city?
+214) 
+Drag in any direction to maneuver the drone.
+215) 
+Maneuver the drone using<ui_notification_keyboardAndMouseWasd.d3dtx:-20>
+216) 
+Use the <ui_notification_analogStickLeft.d3dtx:-30> to maneuver the drone and <ui_notification_analogStickRight.d3dtx:-30> to move the reticle.
+217) BATMAN
+[pickup with correct pronunciation][ALT]Alright... let’s find Falcone.
+218) BATMAN
+Stay down, Falcone.
+220) BATMAN
+Stay down, Falcone.
+219) BATMAN
+We can end this now.
+221) BATMAN
+We can end this now.
+223) BATMAN
+[ALT]It’s over, Falcone. I win.
+224) BATMAN
+[ALT]The nerve agent... where is it?!
+225) BATMAN
+[ALT]Where’s it being released?!
+226) BATMAN
+[ALT]The water supply?! The election?!
+229) 
+Brutalize Falcone
+230) 
+Arrest Falcone
+231) 
+Drone Shoot Office
+232) FALCONE
+I smell a set up!
+233) ALFRED
+[emphasis on “his”]Your turn to crash his party.
+234) FALCONE
+We’re all bein’ played here... includin’ you.
+235) ALFRED
+[ALT][emphasis on “his”]Your turn to be an unwelcome guest in his house.
+236) ALFRED
+Very good, sir.
+237) BATMAN
+I planned for the hard way.
+238) BATMAN
+[ALT]Wouldn’t mind breaking that.
+239) BATMAN
+And Falcone didn’t lik
+240) BATMAN
+Four armed guards.
+241) BATMAN
+[ALT]Too many to sneak past.
+242) BATMAN
+[alt] Armed guards.
+244) BATMAN
+Stealth isn’t an option.
+245) BATMAN
+[alt]No way to enter quietly.
+246) BATMAN
+[pickup][alt - In case we change the number of thugs]There are several armed goons, too many to sneak past.
+247) BATMAN
+I’ll have to take them out.
+248) ALFRED
+You do prefer going in “loud.“
+249) BATMAN
+I’ll put together a plan of attack. Stand by.
+250) BATMAN
+And possibly more out of sight.
+251) BATMAN
+[ALT]Several armed guards.
+252) ALFRED
+Well... I know you’re fond of making an entrance.
+253) 
+Arrest
+254) 
+Brutalize
+255) 
+<<id:377549838>>
+256) 
+<<id:377549839>><<id:377549839>><<id:0>>
+257) 
+Falcone
+258) 
+^font:GameplayDisplayLarge^Falcone
+^^Brutalize
+259) 
+^font:GameplayDisplayLarge^Falcone
+^^Arrest
