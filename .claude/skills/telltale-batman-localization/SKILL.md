@@ -128,7 +128,14 @@ Noir is **not** a lightly edited copy. It is a re-export from the later LCG Ente
 5. Length limits: choice buttons and UI labels have fixed widths, so long translations may be cut off or overflow. Check the choice wheel and menus.
 6. Font coverage for your alphabet.
 
-## 8. Tools (`scripts/`, Python 3, no dependencies)
+## 8. Names glossary
+
+`glossary.md` (next to this file) lists every character, place, organisation, gadget and nickname found in the visible
+text, with counts, plus source typos and what they should be. **Before translating, read it and use the
+`Translation` column for every name. When you translate a name that isn't filled in yet, add it to the glossary first**,
+so every file uses the same form. Speaker IDs in headers and the people in the credits are not translated.
+
+## 9. Tools (`scripts/`, Python 3, no dependencies)
 
 Validate a translation against the English originals (single file or whole folder tree):
 ```
@@ -143,8 +150,9 @@ python .claude/skills/telltale-batman-localization/scripts/sync_noir.py --en EN_
 ```
 It writes BAT_* files using the English BAT structure (headers, line counts, BOM, CRLF) plus your translations, and creates `noir_todo.txt` listing every record still in English.
 
-## 9. Checklist when translating a file
+## 10. Checklist when translating a file
 
+- [ ] Names translated exactly as in `glossary.md` (new names added there first).
 - [ ] Header lines untouched (copy them; translate only text lines).
 - [ ] Same number of text lines in every record; empty lines stay empty.
 - [ ] Every `{…}`, `^…^`, `^^`, `<…>`, `<<…>>` present and unchanged; `{percent}%` intact.
