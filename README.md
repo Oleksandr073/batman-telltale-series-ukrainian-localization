@@ -38,18 +38,31 @@ Run all commands from this folder (the repo root). **Close the Excel files befor
 python .claude/skills/telltale-batman-localization/scripts/apply_translations.py original_data analysis/speaker_genders.xlsx analysis/translation_table.xlsx localized_data --unique unique_original_data unique_localized_data
 ```
 
-It rewrites `unique_original_data/`, `unique_localized_data/` and all 222 files in `localized_data/`. Rows with an empty Ukrainian cell stay English. At the end it checks
-every file (line count, header lines, tags, encoding) and must report `0 error(s)`. Safe to run any time.
+It writes the Ukrainian from the table into `unique_localized_data/` (each unique text once) and into all 222 files in
+`localized_data/`. Rows with an empty Ukrainian cell stay English. Then it checks itself, and the end of the output
+must say `0 error(s)` and `0 mismatch(es)`:
+- **Validation:** every final file has the same structure as the English one (line count, header lines, tags,
+  encoding).
+- **Consistency:** every text in the 222 final files is exactly the text from `unique_localized_data/` (with the
+  original tags put back), and every text that is not in the unique folder is unchanged English.
 
-**2. See what changed:**
+Safe to run any time; the English folders are never changed.
+
+**2. Review the changes in git:**
 
 ```
 git diff --word-diff=plain unique_localized_data
-git diff --word-diff=plain localized_data
 ```
 
-The first shows each new translation once (with who speaks and how many times it is used). The second shows every
-place in the game files where it was put.
+This shows only the new or changed translations, each once (like the table), with who speaks and how many times it
+is used. You don't need to read the `localized_data` diff — the consistency check already proved it matches. If you
+want to see it anyway: `git diff --word-diff=plain localized_data`.
+
+**Check the folders again later** (for example after a merge or a hand edit), without changing anything:
+
+```
+python .claude/skills/telltale-batman-localization/scripts/check_consistency.py original_data analysis/speaker_genders.xlsx unique_localized_data localized_data
+```
 
 **3. After changing `speaker_genders.xlsx`, rebuild the table** (your translations are kept):
 

@@ -211,7 +211,12 @@ table or the overrides file). `unique_original_data/` and `unique_localized_data
 table row once, English and Ukrainian, in files that mirror the game folders (each text where it first appears; entry =
 `#### key | speaker → listener | x<count>`, the text lines, an empty line). Untranslated rows keep English, so
 `git diff unique_localized_data` shows each translation once. The script only empties and rewrites folders it created
-(marker file `.generated-unique-texts`). `localized_data/` started as an exact copy, so `git diff localized_data`
+(marker file `.generated-unique-texts`). After writing, the import runs `check_consistency.py`: every record of the 222 final files must equal the
+English record with its text lines replaced by the matching `unique_localized_data` entry (records not in the unique
+folder must be unchanged English). It reads only the folders, not the table, and catches hand edits and missed
+records [VERIFIED with deliberate mistakes]. Run it on its own any time:
+`python .claude/skills/telltale-batman-localization/scripts/check_consistency.py original_data analysis/speaker_genders.xlsx unique_localized_data localized_data`.
+`localized_data/` started as an exact copy, so `git diff localized_data`
 shows exactly which lines were replaced (`git diff --word-diff=plain` is easiest to read), and untranslated files stay byte-identical. An import
 with an empty table changes nothing [VERIFIED]. `.gitattributes` forces CRLF for both folders on every computer.
 

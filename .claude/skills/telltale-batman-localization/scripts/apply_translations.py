@@ -32,6 +32,7 @@ from landb_txt import read_records, txt_files, write_lines  # noqa: E402
 from tm_lib import (LINE_SEP, analyze_records, check_root, load_genders, read_table, split_line,  # noqa: E402
                     split_translation, unescape_cell)
 import validate  # noqa: E402
+import check_consistency  # noqa: E402
 
 
 def read_tsv(path):
@@ -166,7 +167,11 @@ def main():
         errors += e
     print('\n'.join(msgs) if msgs else 'No problems found.')
     print(f'Validation: {errors} error(s) in {len(written)} file(s).')
-    sys.exit(1 if errors or problems else 0)
+    mismatches = 0
+    if a.unique and not a.only:
+        print(f'\nComparing {a.out} with {a.unique[1]}...')
+        mismatches = check_consistency.check(a.en, a.genders, a.unique[1], a.out, a.overrides)
+    sys.exit(1 if errors or problems or mismatches else 0)
 
 
 if __name__ == '__main__':
