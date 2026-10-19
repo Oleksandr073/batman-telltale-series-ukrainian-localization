@@ -57,7 +57,7 @@ def check_root(files, root):
     """Stop early if EN_ROOT is not the folder that directly contains the BM_* / BAT_* folders."""
     if not files or not all(f.startswith(('BM_', 'BAT_')) for f in files):
         sys.exit(f'{root} must be the folder that directly contains the BM_* and BAT_* folders '
-                 f'(here: original_data). Found e.g.: {files[:1]}')
+                 f'(here: data/original_data). Found e.g.: {files[:1]}')
 
 
 def load_genders(path):
@@ -340,15 +340,15 @@ def read_table(path):
         return [dict(zip(header, line.rstrip('\r\n').split('\t'))) for line in fh if line.strip()]
 
 
-# --- unique-text folders (unique_original_data / unique_localized_data) ----------------------------------
-# unique_original_data is built from the English game files ONLY (no genders, no guesses): every unique English
+# --- unique-text folders (data/unique_original_data / data/unique_localized_data) ----------------------------------
+# data/unique_original_data is built from the English game files ONLY (no genders, no guesses): every unique English
 # text once, in the file named after the game file where it first appears:
 #   #### <text id> | <who speaks, from the header lines> → <spoken to, guessed from the scene> | x<times used>
 # ("spoken to" comes from [to X] notes, names used in direct address and neighbouring speakers - all from the
 #  English files, never from the genders file)
 #   <text lines>
 #   <empty line>
-# unique_localized_data has the same entries with the Ukrainian from the table (untranslated = English). Only when
+# data/unique_localized_data has the same entries with the Ukrainian from the table (untranslated = English). Only when
 # one English text needs several Ukrainian versions (male/female forms) does the entry appear once per version,
 # with the table key and a label, e.g. "#### f156de4535-LF | BRUCE | x4 | listener: female".
 

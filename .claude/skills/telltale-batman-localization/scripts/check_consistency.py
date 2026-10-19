@@ -3,10 +3,10 @@
 Usage:
   python check_consistency.py ORIGINAL GENDERS UNIQUE_LOCALIZED LOCALIZED [--overrides OVERRIDES_TSV]
 
-  ORIGINAL          original_data            (English game files)
+  ORIGINAL          data/original_data            (English game files)
   GENDERS           reference/speaker_genders.xlsx (same file the table was built with)
-  UNIQUE_LOCALIZED  unique_localized_data    (each unique text once, "#### key | ..." entries)
-  LOCALIZED         localized_data           (final game files)
+  UNIQUE_LOCALIZED  data/unique_localized_data    (each unique text once, "#### key | ..." entries)
+  LOCALIZED         data/localized_data           (final game files)
 
 It does not read the translation table. For every record of every file in ORIGINAL:
   - if the record has an entry in UNIQUE_LOCALIZED, the record in LOCALIZED must be exactly the English

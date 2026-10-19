@@ -177,19 +177,19 @@ conversation reads together. Branching answers sit next to each other, so it isn
 ## 10. Tools (`scripts/`, Python 3)
 
 The Excel files (`.xlsx`) need the `openpyxl` package once: `python -m pip install openpyxl`. Everything else
-uses only standard Python. The English files live in `original_data/` (the folder that directly contains the BM_* and
+uses only standard Python. The English files live in `data/original_data/` (the folder that directly contains the BM_* and
 BAT_* folders); the scripts stop with a clear message if they are pointed at the wrong folder.
 
 Translation table (run from the repo root):
 ```
-python .claude/skills/telltale-batman-localization/scripts/build_tm.py original_data reference/speaker_genders.xlsx translation_table.xlsx [--unique-original unique_original_data]
-python .claude/skills/telltale-batman-localization/scripts/apply_translations.py original_data reference/speaker_genders.xlsx translation_table.xlsx localized_data --unique unique_original_data unique_localized_data [--overrides overrides.tsv] [--only BM_]
-python .claude/skills/telltale-batman-localization/scripts/scene_view.py original_data reference/scenes
+python .claude/skills/telltale-batman-localization/scripts/build_tm.py data/original_data reference/speaker_genders.xlsx translation_table.xlsx [--unique-original data/unique_original_data]
+python .claude/skills/telltale-batman-localization/scripts/apply_translations.py data/original_data reference/speaker_genders.xlsx translation_table.xlsx data/localized_data --unique data/unique_original_data data/unique_localized_data [--overrides overrides.tsv] [--only BM_]
+python .claude/skills/telltale-batman-localization/scripts/scene_view.py data/original_data reference/scenes
 ```
 `build_tm.py` rebuilds the table and keeps filled translations (unmatched ones are saved to
 `translation_table.lost.xlsx`, never silently dropped). `apply_translations.py` never changes the English files;
-it writes `localized_data/` and validates every file. `scene_view.py` writes the read-only conversation-order views.
-Speaker statistics: `python .claude/skills/telltale-batman-localization/scripts/speakers.py original_data reference/speaker_genders.xlsx analysis`, then
+it writes `data/localized_data/` and validates every file. `scene_view.py` writes the read-only conversation-order views.
+Speaker statistics: `python .claude/skills/telltale-batman-localization/scripts/speakers.py data/original_data reference/speaker_genders.xlsx analysis`, then
 `python .claude/skills/telltale-batman-localization/scripts/make_speakers_md.py`.
 
 Validate a translation against the English originals (single file or whole folder tree):
@@ -205,23 +205,23 @@ python .claude/skills/telltale-batman-localization/scripts/sync_noir.py --en EN_
 ```
 It writes BAT_* files using the English BAT structure (headers, line counts, BOM, CRLF) plus your translations, and creates `noir_todo.txt` listing every record still in English.
 
-**Folders and git.** `original_data/` = English, never edited. `localized_data/` = the game files with Ukrainian,
+**Folders and git.** `data/original_data/` = English, never edited. `data/localized_data/` = the game files with Ukrainian,
 written only by `apply_translations.py` (don't edit it by hand: the next import overwrites it, so put changes in the
-table or the overrides file). `unique_original_data/` is built from `original_data/` ONLY (never from the genders file):
+table or the overrides file). `data/unique_original_data/` is built from `data/original_data/` ONLY (never from the genders file):
 every unique English text once, entry header `#### <text id> | <speakers> → <listeners> | x<count>` (speakers from
 the header lines; listeners guessed from `[to X]` notes, names in direct address and neighbouring speakers). It is
 written only by `build_tm.py --unique-original` and never changes unless the English files do; the import only
-checks it. `unique_localized_data/` (rewritten by every import with `--unique`) has the same entries with the
+checks it. `data/unique_localized_data/` (rewritten by every import with `--unique`) has the same entries with the
 Ukrainian; an English text with several table rows (male/female versions, ~230 texts) appears once per version,
 header `#### <table key> | ... | speaker: female` etc. Together they hold every text once, English and Ukrainian, in files that mirror the game folders (each text where it first appears; entry =
 `#### key | speaker → listener | x<count>`, the text lines, an empty line). Untranslated rows keep English, so
-`git diff unique_localized_data` shows each translation once. Before deleting anything in these folders the scripts check that every
+`git diff data/unique_localized_data` shows each translation once. Before deleting anything in these folders the scripts check that every
 file in them is a unique-text file (starts with `#### `), so a wrong folder name is refused. After writing, the import runs `check_consistency.py`: every record of the 222 final files must equal the
-English record with its text lines replaced by the matching `unique_localized_data` entry (records not in the unique
+English record with its text lines replaced by the matching `data/unique_localized_data` entry (records not in the unique
 folder must be unchanged English). It reads only the folders, not the table, and catches hand edits and missed
 records [VERIFIED with deliberate mistakes]. Run it on its own any time:
-`python .claude/skills/telltale-batman-localization/scripts/check_consistency.py original_data reference/speaker_genders.xlsx unique_localized_data localized_data`.
-`localized_data/` started as an exact copy, so `git diff localized_data`
+`python .claude/skills/telltale-batman-localization/scripts/check_consistency.py data/original_data reference/speaker_genders.xlsx data/unique_localized_data data/localized_data`.
+`data/localized_data/` started as an exact copy, so `git diff data/localized_data`
 shows exactly which lines were replaced (`git diff --word-diff=plain` is easiest to read), and untranslated files stay byte-identical. An import
 with an empty table changes nothing [VERIFIED]. `.gitattributes` forces CRLF for both folders on every computer.
 
