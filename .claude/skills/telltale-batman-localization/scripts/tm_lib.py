@@ -230,6 +230,11 @@ HELP = [
     '',
     'Type the Ukrainian translation into the yellow column "Ukrainian". Do not change any other column.',
     'One row = one text. It is used in every place the game shows it ("Used (times)" says how many).',
+    '',
+    'Layout: the table follows the story (ai_context/play_order.txt). Dark rows = sections (episodes, menus, credits),',
+    'light-blue bold rows = scenes. Use the +/- buttons on the left to fold episodes or scenes.',
+    'Grey rows = the same text again later in the story, only for context: their Ukrainian cell repeats the',
+    'translation of the row in "see row #N". Never type in grey rows - type in row #N (the import warns you).',
     'Empty Ukrainian cell = the game keeps the English text.',
     '',
     'Columns',
@@ -245,7 +250,7 @@ HELP = [
     'Listener gender - same, for the person spoken to ("Did you see?" -> бачив / бачила).',
     'Who speaks / To whom - characters. "choice/UI" = a choice option or menu text (Bruce says choices).',
     '    "To whom" is a guess from the scene.',
-    'Where - first place this text appears. Open ai_context/scenes/<that file> to read the whole conversation.',
+    'Where - the game file and line of this row. Open ai_context/scenes/<that file> to read the whole scene.',
     'Notes - "keep N ¶": the text has several lines joined with " ¶ " - keep the same number of lines: type ¶',
     '    between them, or press Alt+Enter for a line break (both work). A text without ¶ is ONE line in the game:',
     '    never put a line break in it (the import skips such rows and tells you the row number).',
@@ -272,75 +277,128 @@ def _openpyxl():
         sys.exit('Excel files need the openpyxl package. Install it once with:  python -m pip install openpyxl')
 
 
+def table_column_letter(name):
+    """Excel column letter of a table column, e.g. 'ukrainian' -> 'C'."""
+    from openpyxl.utils import get_column_letter
+    return get_column_letter([c[0] for c in TABLE_COLUMNS].index(name) + 1)
+
+
 def write_table(path, rows):
-    """rows: list of dicts with internal column names."""
+    """rows: list of dicts with internal column names and 'kind': section / scene / text / ref
+    (rows without 'kind' are text rows). Only text rows have a key."""
     names = [c[0] for c in TABLE_COLUMNS]
-    if path.lower().endswith('.xlsx'):
-        _openpyxl()
-        from openpyxl import Workbook
-        from openpyxl.styles import Alignment, Border, Font, PatternFill, Side
-        wb = Workbook()
-        ws = wb.active
-        ws.title = 'Translate'
-        ws.append([c[1] for c in TABLE_COLUMNS])
-        wrap = Alignment(wrap_text=True, vertical='top')
-        top = Alignment(vertical='top')
-        yellow = PatternFill('solid', fgColor='FFF2B3')
-        header_fill = PatternFill('solid', fgColor='E7E6E6')
-        grey = Font(color='999999', size=8)
-        line = Side(style='thin', color='BFBFBF')
-        box = Border(left=line, right=line, top=line, bottom=line)  # fills hide Excel's gridlines
-        for n, row in enumerate(rows, 1):
-            n_lines = row['english'].count('¶') + 1
-            ws.append([n if c == 'row' else n_lines if c == 'lines' else row.get(c, '') for c in names])
-        for idx, (name, title, width) in enumerate(TABLE_COLUMNS, 1):
-            letter = ws.cell(row=1, column=idx).column_letter
-            ws.column_dimensions[letter].width = width
-            head = ws.cell(row=1, column=idx)
-            head.font = Font(bold=True)
-            head.fill = header_fill
-            head.border = box
-            head.alignment = wrap
-        ucol = names.index('ukrainian') + 1
-        tcol = names.index('translator_notes') + 1
-        blue = PatternFill('solid', fgColor='DDEBF7')
-        for r in ws.iter_rows(min_row=2):
-            for cell in r:
-                cell.border = box
-                cell.alignment = wrap if cell.column in (2, ucol, tcol, len(names) - 1) else top
-                if cell.column not in (1, names.index('count') + 1, names.index('lines') + 1):
-                    cell.data_type = 's'           # never a formula, even if text starts with = or --
-            u = r[ucol - 1]
-            u.fill = yellow
-            u.number_format = '@'
-            t = r[tcol - 1]
-            t.fill = blue
-            t.number_format = '@'
-            r[-1].font = grey
-        ws.cell(row=1, column=ucol).fill = yellow
-        ws.cell(row=1, column=tcol).fill = blue
-        # the Ukrainian cell turns red while its number of lines (¶ or Alt+Enter line breaks) differs from "Lines"
-        from openpyxl.formatting.rule import FormulaRule
-        u, ln = ws.cell(row=2, column=ucol).column_letter, ws.cell(row=2, column=names.index('lines') + 1).column_letter
-        count = f'LEN(${u}2)-LEN(SUBSTITUTE(SUBSTITUTE(${u}2,"¶",""),CHAR(10),""))+1'
-        ws.conditional_formatting.add(f'{u}2:{u}{ws.max_row}', FormulaRule(
-            formula=[f'AND(${u}2<>"",{count}<>${ln}2)'],
-            # Excel reads a conditional solid fill from bgColor (normal cells use fgColor) - set both
-            fill=PatternFill(fill_type='solid', start_color='FF9999', end_color='FF9999', bgColor='FF9999'),
-            font=Font(color='9C0006', bold=True)))
-        ws.freeze_panes = 'C2'
-        ws.auto_filter.ref = ws.dimensions
-        hs = wb.create_sheet('Help')
-        hs.column_dimensions['A'].width = 120
-        for line in HELP:
-            hs.append([line])
-        hs['A1'].font = Font(bold=True, size=14)
-        wb.save(path)
-    else:
+    if not path.lower().endswith('.xlsx'):
         with open(path, 'w', encoding='utf-8-sig', newline='\r\n') as fh:
             fh.write('\t'.join(n for n in names if n != 'row') + '\n')
             for row in rows:
-                fh.write('\t'.join(str(row.get(n, '')) for n in names if n != 'row') + '\n')
+                if row.get('kind', 'text') == 'text':
+                    fh.write('\t'.join(str(row.get(n, '')) for n in names if n != 'row') + '\n')
+        return
+    _openpyxl()
+    from openpyxl import Workbook
+    from openpyxl.formatting.rule import FormulaRule
+    from openpyxl.styles import Alignment, Border, Font, PatternFill, Side
+    from openpyxl.worksheet.properties import Outline
+    wb = Workbook()
+    ws = wb.active
+    ws.title = 'Translate'
+    ws.append([c[1] for c in TABLE_COLUMNS])
+    wrap = Alignment(wrap_text=True, vertical='top')
+    top = Alignment(vertical='top')
+    yellow = PatternFill('solid', fgColor='FFF2B3')
+    blue = PatternFill('solid', fgColor='DDEBF7')
+    header_fill = PatternFill('solid', fgColor='E7E6E6')
+    section_fill = PatternFill('solid', fgColor='1F3864')
+    scene_fill = PatternFill('solid', fgColor='D9E1F2')
+    ref_fill = PatternFill('solid', fgColor='F2F2F2')
+    small_grey = Font(color='999999', size=8)
+    ref_font = Font(color='808080', italic=True)
+    line = Side(style='thin', color='BFBFBF')
+    box = Border(left=line, right=line, top=line, bottom=line)  # fills hide Excel's gridlines
+    col = {n: i + 1 for i, n in enumerate(names)}
+    wrap_cols = {col['english'], col['ukrainian'], col['translator_notes'], col['notes']}
+    number_cols = {col['row'], col['count'], col['lines']}
+    ws.sheet_properties.outlinePr = Outline(summaryBelow=False)    # +/- buttons on the header rows
+    ncols = len(names)
+
+    def row_cells(r):     # direct lookups; ws[r] rescans the whole sheet each time (very slow on 60 000+ rows)
+        return [ws.cell(row=r, column=i) for i in range(1, ncols + 1)]
+
+    for n, row in enumerate(rows, 2):
+        kind = row.get('kind', 'text')
+        if kind in ('section', 'scene'):
+            ws.append(['', row['english']] + [''] * (len(names) - 2))
+            if kind == 'scene' and row.get('first_seen'):
+                ws.cell(row=n, column=col['first_seen']).value = row['first_seen']
+            for c in row_cells(n):
+                c.fill = section_fill if kind == 'section' else scene_fill
+                c.font = Font(bold=True, size=13, color='FFFFFF') if kind == 'section' else Font(bold=True)
+                c.border = box
+            ws.row_dimensions[n].outlineLevel = 0 if kind == 'section' else 1
+            continue
+        n_lines = row['english'].count('¶') + 1
+        ws.append([row.get('row', n) if c == 'row' else n_lines if c == 'lines' else row.get(c, '') for c in names])
+        for c in row_cells(n):
+            c.border = box
+            c.alignment = wrap if c.column in wrap_cols else top
+            if c.column not in number_cols and not (kind == 'ref' and c.column == col['ukrainian']):
+                c.data_type = 's'                 # never a formula, even if text starts with = or --
+            if kind == 'ref':
+                c.fill = ref_fill
+                c.font = ref_font
+        if kind == 'text':
+            u = ws.cell(row=n, column=col['ukrainian'])
+            u.fill, u.number_format = yellow, '@'
+            t = ws.cell(row=n, column=col['translator_notes'])
+            t.fill, t.number_format = blue, '@'
+            ws.cell(row=n, column=col['key']).font = small_grey
+        ws.row_dimensions[n].outlineLevel = 2
+
+    for name, title, width in TABLE_COLUMNS:
+        c = ws.cell(row=1, column=col[name])
+        ws.column_dimensions[c.column_letter].width = width
+        c.font, c.fill, c.border, c.alignment = Font(bold=True), header_fill, box, wrap
+    ws.cell(row=1, column=col['ukrainian']).fill = yellow
+    ws.cell(row=1, column=col['translator_notes']).fill = blue
+    # the Ukrainian cell turns red while its number of lines (¶ or Alt+Enter line breaks) differs from "Lines"
+    u, ln = table_column_letter('ukrainian'), table_column_letter('lines')
+    count = f'LEN(${u}2)-LEN(SUBSTITUTE(SUBSTITUTE(${u}2,"¶",""),CHAR(10),""))+1'
+    ws.conditional_formatting.add(f'{u}2:{u}{ws.max_row}', FormulaRule(
+        formula=[f'AND(${ln}2<>"",${u}2<>"",{count}<>${ln}2)'],
+        # Excel reads a conditional solid fill from bgColor (normal cells use fgColor) - set both
+        fill=PatternFill(fill_type='solid', start_color='FF9999', end_color='FF9999', bgColor='FF9999'),
+        font=Font(color='9C0006', bold=True)))
+    ws.freeze_panes = 'C2'
+    ws.auto_filter.ref = ws.dimensions
+    hs = wb.create_sheet('Help')
+    hs.column_dimensions['A'].width = 120
+    for text in HELP:
+        hs.append([text])
+    hs['A1'].font = Font(bold=True, size=14)
+    wb.save(path)
+
+
+def reference_row_edits(path):
+    """Grey reference rows whose Ukrainian cell was overwritten by hand -> [(row, master row), ...].
+    Scripts never read those cells, so such typing would be lost."""
+    if not path.lower().endswith('.xlsx'):
+        return []
+    _openpyxl()
+    from openpyxl import load_workbook
+    wb = load_workbook(path, read_only=True, data_only=False)
+    ws = wb['Translate'] if 'Translate' in wb.sheetnames else wb.worksheets[0]
+    it = ws.iter_rows(values_only=True)
+    by_title = {c[1]: c[0] for c in TABLE_COLUMNS}
+    cols = [by_title.get(str(t or ''), str(t or '')) for t in next(it)]
+    found = []
+    for n, vals in enumerate(it, 2):
+        row = dict(zip(cols, vals))
+        m = re.match(r'see row #(\d+)', str(row.get('notes') or ''))
+        uk = row.get('ukrainian')
+        if m and uk not in (None, '') and not str(uk).startswith('='):
+            found.append((n, int(m.group(1))))
+    wb.close()
+    return found
 
 
 def read_table(path):
@@ -440,7 +498,7 @@ def unique_files(root, rows=None):
                     text = tr
             files[e['file']].extend([_head(tid, e)] + text + [''])
             continue
-        for row in variants[tid]:                          # several Ukrainian versions of one English text
+        for row in sorted(variants[tid], key=lambda v: v["key"]):   # several Ukrainian versions, fixed order
             label = ', '.join(f'{who}: {GENDER_WORD.get(g, g)}' for who, g in
                               (('speaker', row.get('speaker_gender')), ('listener', row.get('listener_gender'))) if g)
             text = e['cores']

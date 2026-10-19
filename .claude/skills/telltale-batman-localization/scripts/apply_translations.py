@@ -29,7 +29,7 @@ import types
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from landb_txt import read_records, txt_files, write_lines  # noqa: E402
-from tm_lib import (analyze_records, check_root, compare_unique, load_genders, read_table,  # noqa: E402
+from tm_lib import (analyze_records, check_root, compare_unique, load_genders, read_table, reference_row_edits,  # noqa: E402
                     split_line, split_translation, unique_files, write_unique)
 import validate  # noqa: E402
 import check_consistency  # noqa: E402
@@ -72,8 +72,12 @@ def main():
             cell = ''
             r['ukrainian'] = ''
         table[r['key']] = cell
+    for n, m in reference_row_edits(a.table):
+        row_problems.append(f'table row #{n} is a grey reference row - its Ukrainian cell is never used. '
+                            f'Type the translation in row #{m} instead (and undo the change in row #{n}).')
     if row_problems:
-        print(f'{len(row_problems)} table row(s) have a wrong number of lines and were left in English:')
+        print(f'{len(row_problems)} table row(s) have problems (wrong number of lines, or typing in a reference row); '
+              f'they were left in English:')
         for p in row_problems[:30]:
             print('  ' + p)
         if len(row_problems) > 30:
@@ -158,7 +162,7 @@ def main():
         print(f'\nComparing {a.out} with {a.unique[1]}...')
         mismatches = check_consistency.check(a.en, a.genders, a.unique[1], a.out, a.overrides)
     if row_problems:
-        print(f'\n{len(row_problems)} table row(s) were skipped because of a wrong number of lines (see the top of '
+        print(f'\n{len(row_problems)} table row(s) were skipped (see the top of '
               f'the output). Fix them in the table and run the import again.')
     sys.exit(1 if errors or problems or mismatches or row_problems else 0)
 

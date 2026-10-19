@@ -10,12 +10,13 @@ with the text replaced).
 
 | File / folder | What it is |
 |---|---|
-| `translation_table.xlsx` | **The translation table**: one row per unique text (~44 000 rows). Type Ukrainian in the yellow column. The *Help* sheet explains every column. |
+| `translation_table.xlsx` | **The translation table**, in story order: episodes and scenes as header rows, each unique text once (~44 000 yellow rows to translate), plus grey rows where a text appears again later (for context, filled automatically). The *Help* sheet explains every column. |
 | `speaker_genders.xlsx` | Gender of each speaker (M / F / ?). It fills the *Speaker gender* / *Listener gender* columns of the translation table. Fill in the orange cells, then run `npm run rebuild`. |
 | `data/original_data/` | English game text (222 files). **Never edit.** `BM_*` = normal mode, `BAT_*` = Shadows/Noir mode. |
 | `data/localized_data/` | The same 222 files with Ukrainian text — the final result for the game. Written only by the script below — don't edit by hand. |
 | `data/unique_original_data/` | Every unique English text once (~43 900), in files named like the game files, built from `data/original_data/` only, never from the gender file. Each entry shows who speaks → to whom (guessed from the scene) and how many times the text is used. Read-only: the import only checks it. |
 | `data/unique_localized_data/` | The same entries with the Ukrainian from the table (untranslated texts stay English). Written by the script. The ~230 texts that need separate male/female Ukrainian versions appear once per version, marked e.g. `listener: female`. |
+| `ai_context/play_order.txt` | The story order of the game files, with scene titles. Edit it to fix the order, then `npm run rebuild`. Scenes marked `(?)` are guesses. |
 | `ai_context/style_guide.md` | Translation style decisions: quotes, apostrophe, punctuation, swearing, tone. |
 | `ai_context/speakers.md` | Who talks to whom, with the confirmed ти/ви decisions. |
 | `ai_context/scenes/` | Read-only copies of every game file in conversation order (all lines, with repeats) — for reading the context around a line. Not in git; create with `npm run scenes`. |
@@ -89,6 +90,8 @@ The full commands behind each shortcut are in `package.json`.
 ## Translation rules in short
 
 - Translate only the yellow **Ukrainian** column. Never change *English* or *key*, and never delete rows.
+- Grey rows repeat a text for context; their Ukrainian cell shows the translation from the row in *Notes*
+  ("see row #N"). Never type in grey rows — the import warns and ignores them.
 - The blue **Translator notes** column is free space for people (questions, doubts, "check in game"). Scripts
   never use it. Other columns are rewritten on `npm run rebuild`, so write notes only there.
 - Copy tags inside the text unchanged: `{SmugA}`, `^font:…^`, `^^`, `<ui_…d3dtx:-15>`, `{percent}`. Tags at the

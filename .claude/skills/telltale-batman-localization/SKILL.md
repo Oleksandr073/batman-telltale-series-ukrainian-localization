@@ -154,8 +154,12 @@ validates them. Rules for the table:
   read it. Write your own questions/doubts there, never in other columns (they are recreated).
 - `notes` column: `same as row #N (almost)` (reuse that translation), `keep markup inside`, `N lines: keep N-1 ¶`,
   `credits: people’s names stay in Latin`, `listener guessed - check scene`.
-- Rows are in conversation order (episode → file → record number). Translate top to bottom, and open
-  `ai_context/scenes/<same path>` to read the surrounding scene.
+- Rows follow the story: `ai_context/play_order.txt` lists the game files per episode in play order (location
+  cards + story knowledge; `(?)` = guess). Section rows (episodes, MENUS & UI, CREDITS, SHADOWS MODE) and scene rows
+  have no key. Each text is translated once in its first (yellow) row; later occurrences are grey reference rows
+  (`see row #N`, Ukrainian = formula) that scripts ignore - the import warns if someone types in one. Files that are
+  mostly copies of an earlier file (shared dialogue databases, 50%+ overlap, common in ep. 2-3) get no reference rows.
+  Translate top to bottom; open `ai_context/scenes/<same path>` for more context. `#` = Excel row number.
 - One row = one translation everywhere. If one scene needs a different wording, put it in an overrides TSV
   (`file`, `id`, `ukrainian`, `comment`) passed with `--overrides`.
 

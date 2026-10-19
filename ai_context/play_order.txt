@@ -1,0 +1,135 @@
+# Play order of the game files, used to sort translation_table.xlsx (npm run rebuild).
+# Edit freely: move lines to change the order, fix titles. Then run: npm run rebuild (translations are kept).
+#
+# Format:
+#   == SECTION TITLE                         -> a section header row in the table (episode, menus, credits...)
+#   <folder>/<file without _english.txt> | scene title   -> one game file, in play order
+# Files missing here are added at the end of the table under "NOT IN PLAY ORDER".
+# Order source: the location cards in each episode's ui_episode file (e.g. "City Hall, 8:32 PM") plus story
+# knowledge. "(?)" = position is a best guess - please check while playing.
+
+== EPISODE 1 — Realm of Shadows
+BM_pc_Batman101_data/env_mayorsoffice | City Hall, 8:32 PM — Batman vs. Catwoman in the mayor's office
+BM_pc_Batman101_data/env_waynemanorfoyer_gala | Wayne Manor — fundraiser for Harvey, Falcone arrives
+BM_pc_Batman101_data/env_batcave_postgala | Batcave — Alfred after the fundraiser
+BM_pc_Batman101_data/env_cobblepotpark | Cobblepot Park, 6:06 AM — meeting Oswald
+BM_pc_Batman101_data/env_gothamstreetcafe | Cafe Triste, 5:23 PM — Bruce and Selina
+BM_pc_Batman101_data/env_gothamstreetcafe_gordontrinary | Cafe Triste — call from Gordon (?)
+BM_pc_Batman101_data/env_gothamdockswarehouse | Eastside Docks, 6:44 PM — warehouse investigation
+BM_pc_Batman101_data/env_skylineclub_batman | Skyline Club, 9:19 PM — Batman confronts Falcone
+BM_pc_Batman101_data/env_asylumconstructionsite | Arkham construction site — press conference (?)
+BM_pc_Batman101_data/env_asylumconstructionsite_vickitrinary | Press conference — Vicki Vale (?)
+BM_pc_Batman101_data/env_batcave_alfredtrinary | Batcave — Alfred (?)
+BM_pc_Batman101_data/env_waynemanorfoyer_seizure | Wayne Manor — GCPD raid
+BM_pc_Batman101_data/env_batcave_finale | Batcave — episode ending
+BM_pc_Batman101_data/env_nexttimeon101 | Next time on…
+BM_pc_Batman101_data/ui_episode | Episode 1 — screen texts (location cards, tutorials, end screen)
+
+== EPISODE 2 — Children of Arkham
+BM_pc_Batman102_data/env_previouslyonbat102 | Previously on…
+BM_pc_Batman102_data/env_crimealley | Crime Alley, 5:38 AM
+BM_pc_Batman102_data/env_policelobby_falcone | GCPD, 8:56 AM — Falcone (?)
+BM_pc_Batman102_data/env_batcave_postgcpd | Batcave — after GCPD (?)
+BM_pc_Batman102_data/env_skylineclub102_batman | Skyline Club, 4:57 PM
+BM_pc_Batman102_data/env_gothamrooftops | Gotham rooftops (?)
+BM_pc_Batman102_data/env_stackeddeckbar_selina | The Stacked Deck, 6:26 PM — Selina
+BM_pc_Batman102_data/env_batcave_predebate | Batcave — before the debate (?)
+BM_pc_Batman102_data/env_mayorsoffice_bruce | City Hall, 7:03 PM — as Bruce
+BM_pc_Batman102_data/env_mayorsoffice_batman | City Hall, 7:11 PM — as Batman
+BM_pc_Batman102_data/env_gothamauditorium_bat | Wayne Memorial Auditorium, 8:27 PM — the debate
+BM_pc_Batman102_data/env_policelobby_montoya | GCPD, 10:22 AM — Montoya
+BM_pc_Batman102_data/env_nexttimeon102 | Next time on…
+BM_pc_Batman102_data/migrate | Save import texts
+BM_pc_Batman102_data/ui_episode | Episode 2 — screen texts
+
+== EPISODE 3 — New World Order
+BM_pc_Batman103_data/env_previouslyonbat103 | Previously on…
+BM_pc_Batman103_data/env_gothamgeneralhospital_harvey | Gotham General Hospital, 8:45 PM — Harvey
+BM_pc_Batman103_data/env_gcpd_montage | GCPD, 12:05 AM
+BM_pc_Batman103_data/env_batcave_coahunt | Batcave — hunting the Children of Arkham (?)
+BM_pc_Batman103_data/env_gothamwayneenterprisesexterior | Wayne Tower, 7:29 AM — outside
+BM_pc_Batman103_data/env_wayneenterprisesoffice_oswald | Wayne Tower — office, Oswald
+BM_pc_Batman103_data/env_wayneenterprisesoffice_secret | Wayne Tower — office secret (?)
+BM_pc_Batman103_data/env_wayneenterprisesrd | Wayne Tower — R&D, Lucius (?)
+BM_pc_Batman103_data/env_mayorsoffice_harvey | City Hall, 6:07 PM — Harvey
+BM_pc_Batman103_data/env_cobblepotpark_vicki | Cobblepot Park, 7:15 PM — Vicki
+BM_pc_Batman103_data/env_batmobile_alfred | Batmobile — Alfred (?)
+BM_pc_Batman103_data/env_gothamexteriormontage_alley | Montage — alley (?)
+BM_pc_Batman103_data/env_gothamexteriormontage_constructionsite | Montage — construction site (?)
+BM_pc_Batman103_data/env_batmobile_transition | Batmobile — transition (?)
+BM_pc_Batman103_data/env_gothamskyrailwarehouse_investigation | Sky Train Depot, 8:55 PM — investigation
+BM_pc_Batman103_data/env_gothamskyrailwarehouse_action | Sky Train Depot — fight
+BM_pc_Batman103_data/env_selinaapartment_fight | Selina's apartment — fight (?)
+BM_pc_Batman103_data/env_selinaapartment_injury | Selina's apartment, 11:58 PM — injury
+BM_pc_Batman103_data/env_nexttimeonbat103 | Next time on…
+BM_pc_Batman103_data/ui_episode | Episode 3 — screen texts
+
+== EPISODE 4 — Guardian of Gotham
+BM_pc_Batman104_data/env_previouslyonbat104 | Previously on…
+BM_pc_Batman104_data/env_arkham_cell_alfred | Arkham Asylum — cell, Alfred (?)
+BM_pc_Batman104_data/env_arkham_recroom | Arkham Asylum — rec room, John Doe
+BM_pc_Batman104_data/env_arkham_hallway | Arkham Asylum — hallway
+BM_pc_Batman104_data/env_arkham_cell_exit | Arkham Asylum — leaving the cell
+BM_pc_Batman104_data/env_gothamstreets_riot | Downtown Gotham, 1:23 PM — riot
+BM_pc_Batman104_data/env_waynemanor_harvey | Wayne Manor — Harvey (?)
+BM_pc_Batman104_data/env_waynemanor_selina | Wayne Manor — Selina (?)
+BM_pc_Batman104_data/env_valehouse_investigation | Gotham Heights, Vale Residence, 5:46 PM
+BM_pc_Batman104_data/env_batcave_postvalehouse | Batcave — after the Vale house
+BM_pc_Batman104_data/env_batcave_preparations | Batcave — preparations (?)
+BM_pc_Batman104_data/env_crimealley_execution | Crime Alley — execution (?)
+BM_pc_Batman104_data/env_crimealley_execution_batman | Crime Alley — execution, as Batman (?)
+BM_pc_Batman104_data/env_cityhall_rooftop | City Hall, 9:12 PM — rooftop (?)
+BM_pc_Batman104_data/env_cityhall_rooftop_batman | City Hall rooftop — as Batman (?)
+BM_pc_Batman104_data/env_gothamstreets_batmobile | Gotham streets — Batmobile (?)
+BM_pc_Batman104_data/env_wayneenterpriseslab_assault | Wayne Enterprises, 12:01 AM — lab assault
+BM_pc_Batman104_data/env_wayneenterpriseshallways_assault | Wayne Enterprises — hallways
+BM_pc_Batman104_data/env_wayneenterprisesoffice_assault | Wayne Enterprises — office
+BM_pc_Batman104_data/env_batcave_epilogue | Batcave — epilogue (?)
+BM_pc_Batman104_data/env_waynemanor_epilogue | Wayne Manor — epilogue (?)
+BM_pc_Batman104_data/ui_episode | Episode 4 — screen texts
+
+== EPISODE 5 — City of Light
+BM_pc_Batman105_data/env_previouslyonbat105 | Previously on…
+BM_pc_Batman105_data/env_waynemanorfoyer_harvey | Wayne Manor — Harvey (?)
+BM_pc_Batman105_data/env_arkhamasylum_intro | Arkham Asylum, 12:15 AM — intro (?)
+BM_pc_Batman105_data/env_batcave | Batcave (?)
+BM_pc_Batman105_data/env_wayneenterprisesexterior105_bruce | Wayne Tower — outside, as Bruce (?)
+BM_pc_Batman105_data/env_wayneenterprisesexterior105_batman | Wayne Tower — outside, as Batman (?)
+BM_pc_Batman105_data/env_gothamstreettile105 | Gotham streets (?)
+BM_pc_Batman105_data/env_gothamrooftops105 | Gotham rooftops (?)
+BM_pc_Batman105_data/env_cobblepotpark_penguin | Cobblepot Park, 5:45 AM — Penguin
+BM_pc_Batman105_data/env_crimealley105_dronefight | Crime Alley — drone fight (?)
+BM_pc_Batman105_data/env_crimealley105_rooftopalfred | Crime Alley rooftop — Alfred (?)
+BM_pc_Batman105_data/env_policelobby105 | GCPD Headquarters, 6:30 PM (?)
+BM_pc_Batman105_data/env_policelobbyinfirmary105 | GCPD — infirmary (?)
+BM_pc_Batman105_data/env_gothamstreetcafe105 | Cafe (?)
+BM_pc_Batman105_data/env_stackeddeckbar105 | The Stacked Deck (?)
+BM_pc_Batman105_data/env_batcave_alfredsearch | Batcave — searching for Alfred (?)
+BM_pc_Batman105_data/env_suburbs_valehouse | Vale Residence, 8:38 PM — the past (?)
+BM_pc_Batman105_data/env_asylumconstructionsite_selina | Arkham construction site — Selina (?)
+BM_pc_Batman105_data/env_asylumhallways105 | Arkham Asylum — hallways (?)
+BM_pc_Batman105_data/env_asylumcafeteria | Arkham Asylum — cafeteria (?)
+BM_pc_Batman105_data/env_asylumcatacombs | Arkham Asylum — catacombs
+BM_pc_Batman105_data/env_asylumcatacombslair | Arkham Asylum — Lady Arkham's lair
+BM_pc_Batman105_data/env_asylumcellladyarkham | Arkham Asylum — Lady Arkham's cell
+BM_pc_Batman105_data/env_waynemanor_parlor | Wayne Manor — parlor, A Week Later (?)
+BM_pc_Batman105_data/env_waynemanor_parlor_freewalk | Wayne Manor — parlor, free walk (?)
+BM_pc_Batman105_data/ui_episode | Episode 5 — screen texts
+
+== MENUS & UI
+BM_pc_Boot_data/boot | Start-up screens
+BM_pc_Menu_data/ui_menu | Main menu, options, store
+BM_pc_Menu_data/chapters | Chapter names
+BM_pc_Menu_data/ui_slides | Slides
+BM_pc_Menu_data/ui_socialdata | Social sharing
+BM_pc_Project_data/ui_text | General UI texts
+BM_pc_Project_data/ui_media | Media
+BM_pc_Project_data/stats | End-of-episode choice statistics
+BM_pc_Menu_data/ui_codex | Codex (character and location files)
+
+== CREDITS
+BM_pc_Menu_data/ui_credits101 | Credits — episode 1
+BM_pc_Menu_data/ui_credits102 | Credits — episode 2
+BM_pc_Menu_data/ui_credits103 | Credits — episode 3
+BM_pc_Menu_data/ui_credits104 | Credits — episode 4
+BM_pc_Menu_data/ui_credits105 | Credits — episode 5
