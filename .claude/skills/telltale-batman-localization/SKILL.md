@@ -183,12 +183,12 @@ BAT_* folders); the scripts stop with a clear message if they are pointed at the
 Translation table (run from the repo root):
 ```
 python .claude/skills/telltale-batman-localization/scripts/build_tm.py original_data analysis/speaker_genders.xlsx analysis/translation_table.xlsx
-python .claude/skills/telltale-batman-localization/scripts/apply_translations.py original_data analysis/speaker_genders.xlsx analysis/translation_table.xlsx OUT_FOLDER [--overrides overrides.tsv] [--only BM_]
+python .claude/skills/telltale-batman-localization/scripts/apply_translations.py original_data analysis/speaker_genders.xlsx analysis/translation_table.xlsx localized_data [--overrides overrides.tsv] [--only BM_]
 python .claude/skills/telltale-batman-localization/scripts/scene_view.py original_data analysis/scenes
 ```
 `build_tm.py` rebuilds the table and keeps filled translations (unmatched ones are saved to
 `translation_table.lost.xlsx`, never silently dropped). `apply_translations.py` never changes the English files;
-it writes OUT_FOLDER and validates every file. `scene_view.py` writes the read-only conversation-order views.
+it writes `localized_data/` and validates every file. `scene_view.py` writes the read-only conversation-order views.
 Speaker statistics: `python analysis/tools/speakers.py original_data analysis/speaker_genders.xlsx analysis`, then
 `python analysis/tools/make_speakers_md.py`.
 
@@ -204,6 +204,12 @@ Generate translated Noir files from a finished default translation:
 python .claude/skills/telltale-batman-localization/scripts/sync_noir.py --en EN_ROOT --tr TRANSLATED_ROOT --out OUT_ROOT
 ```
 It writes BAT_* files using the English BAT structure (headers, line counts, BOM, CRLF) plus your translations, and creates `noir_todo.txt` listing every record still in English.
+
+**Folders and git.** `original_data/` = English, never edited. `localized_data/` = the game files with Ukrainian,
+written only by `apply_translations.py` (don't edit it by hand: the next import overwrites it, so put changes in the
+table or the overrides file). It started as an exact copy, so `git diff localized_data` shows exactly which lines were
+replaced (`git diff --word-diff=plain` is easiest to read), and untranslated files stay byte-identical. An import
+with an empty table changes nothing [VERIFIED]. `.gitattributes` forces CRLF for both folders on every computer.
 
 ## 11. Checklist when translating
 
