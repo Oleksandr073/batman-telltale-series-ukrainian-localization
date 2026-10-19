@@ -225,8 +225,15 @@ records [VERIFIED with deliberate mistakes]. Run it on its own any time:
 shows exactly which lines were replaced (`git diff --word-diff=plain` is easiest to read), and untranslated files stay byte-identical. An import
 with an empty table changes nothing [VERIFIED]. `.gitattributes` forces CRLF for both folders on every computer.
 
+## 10b. Style decisions
+
+Read `reference/style_guide.md` before translating: confirmed rules (ти/ви, names, “ ” quotes, ’ apostrophe,
+punctuation copied from English) and any open decisions. Never decide a style question on your own if the guide
+marks it as open - ask.
+
 ## 11. Checklist when translating
 
+- [ ] Style as in `reference/style_guide.md`.
 - [ ] Names translated exactly as in `reference/glossary.md` (new names added there first).
 - [ ] Gender forms match `speaker_gender` / `listener_gender`; ти/ви match `reference/speakers.md`.
 - [ ] In the table: same number of ` ¶ ` as the English cell; `apply_translations.py` reports 0 errors.

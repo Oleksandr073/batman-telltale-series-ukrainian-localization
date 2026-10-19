@@ -81,15 +81,15 @@ out = [
     'Number = lines where their gender changes the Ukrainian text. Listen in game, then set M/F in',
     '`speaker_genders.xlsx` and rebuild the table (existing translations are kept, marked "check gender forms"):', '',
     ', '.join(unknown), '',
-    '## ти/ви (suggestions — confirm or change in the last column)', '',
+    '## ти/ви (CONFIRMED by the project owner, 2026-10-19 — use exactly these)', '',
     'General rules: **talking to several people = ви** (plural), whatever the table says. Strangers, staff, police,',
     'reporters, nurses ↔ Bruce: ви. Batman ↔ thugs and criminals: ти. Batman → ordinary adults (hostages,',
     'workers): ви; → children: ти. Wayne parents ↔ young Bruce: ти.', '',
-    '| Speaker → listener | lines | suggested | Reverse | lines | suggested | Notes | Your decision |',
+    '| Speaker → listener | lines | decision | Reverse | lines | decision | Notes | Status |',
     '|---|---|---|---|---|---|---|---|']
 for a, b, s1, s2, note in SPEC:
     out.append(f'| {LABEL[a]} → {LABEL[b]} | {n(a, b)} | **{s1}** | {LABEL[b]} → {LABEL[a]} | {n(b, a)} | '
-               f'**{s2}** | {note} | |')
+               f'**{s2}** | {note} | confirmed |')
 with open('reference/speakers.md', 'w', encoding='utf-8') as fh:
     fh.write('\n'.join(out) + '\n')
 print('\n'.join(out[-6:]))

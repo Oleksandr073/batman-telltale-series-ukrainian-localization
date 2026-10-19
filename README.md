@@ -16,7 +16,8 @@ with the text replaced).
 | `data/localized_data/` | The same 222 files with Ukrainian text — the final result for the game. Written only by the script below — don't edit by hand. |
 | `data/unique_original_data/` | Every unique English text once (~43 900), in files named like the game files, built from `data/original_data/` only, never from the gender file. Each entry shows who speaks → to whom (guessed from the scene) and how many times the text is used. Read-only: the import only checks it. |
 | `data/unique_localized_data/` | The same entries with the Ukrainian from the table (untranslated texts stay English). Written by the script. The ~230 texts that need separate male/female Ukrainian versions appear once per version, marked e.g. `listener: female`. |
-| `reference/speakers.md` | Who talks to whom, with ти/ви decisions. |
+| `reference/style_guide.md` | Translation style decisions: quotes, apostrophe, punctuation, swearing, tone. |
+| `reference/speakers.md` | Who talks to whom, with the confirmed ти/ви decisions. |
 | `reference/scenes/` | Read-only copies of every game file in conversation order (all lines, with repeats) — for reading the context around a line. Not in git; see command 4. |
 | `reference/glossary.md` | Names of characters, places and gadgets — translate them the same way everywhere. |
 | `reference/` (other files) | Statistics behind the tables above (`pairs.tsv`, `speaker_stats.tsv`). |
@@ -104,7 +105,7 @@ python .claude/skills/telltale-batman-localization/scripts/validate.py data/orig
 - Multi-line texts are joined with ` ¶ `. Keep the same number of `¶`.
 - Choices like `[Ignore]` are shown in the game: translate inside the brackets and keep the brackets.
 - Keep `...`, `--` and the ending punctuation as in the English text.
-- Names come from `reference/glossary.md`, ти/ви from `reference/speakers.md`, and gender forms follow the *Speaker gender* /
+- Follow `reference/style_guide.md`. Names come from `reference/glossary.md`, ти/ви from `reference/speakers.md`, and gender forms follow the *Speaker gender* /
   *Listener gender* columns.
 
 Full details: `.claude/skills/telltale-batman-localization/SKILL.md`.
