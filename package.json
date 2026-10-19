@@ -1,0 +1,16 @@
+{
+  "name": "batman-telltale-ukrainian",
+  "private": true,
+  "description": "Ukrainian localization of Batman: The Telltale Series - shortcuts for the translation scripts",
+  "scripts": {
+    "setup": "python -m pip install openpyxl",
+    "import": "python .claude/skills/telltale-batman-localization/scripts/apply_translations.py data/original_data speaker_genders.xlsx translation_table.xlsx data/localized_data --unique data/unique_original_data data/unique_localized_data",
+    "review": "git diff --word-diff=plain data/unique_localized_data",
+    "review:all": "git diff --word-diff=plain data/localized_data",
+    "check": "python .claude/skills/telltale-batman-localization/scripts/check_consistency.py data/original_data speaker_genders.xlsx data/unique_localized_data data/localized_data",
+    "validate": "python .claude/skills/telltale-batman-localization/scripts/validate.py data/original_data data/localized_data",
+    "rebuild": "python .claude/skills/telltale-batman-localization/scripts/build_tm.py data/original_data speaker_genders.xlsx translation_table.xlsx",
+    "scenes": "python .claude/skills/telltale-batman-localization/scripts/scene_view.py data/original_data ai_context/scenes",
+    "unique-original": "python .claude/skills/telltale-batman-localization/scripts/build_tm.py data/original_data speaker_genders.xlsx translation_table.xlsx --unique-original data/unique_original_data"
+  }
+}

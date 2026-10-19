@@ -180,6 +180,10 @@ The Excel files (`.xlsx`) need the `openpyxl` package once: `python -m pip insta
 uses only standard Python. The English files live in `data/original_data/` (the folder that directly contains the BM_* and
 BAT_* folders); the scripts stop with a clear message if they are pointed at the wrong folder.
 
+**Shortcuts:** `package.json` in the repo root defines `npm run import | review | review:all | check | validate |
+rebuild | scenes | unique-original | setup` for the commands below. Prefer them; extra arguments go after `--`
+(e.g. `npm run import -- --overrides overrides.tsv`).
+
 Translation table (run from the repo root):
 ```
 python .claude/skills/telltale-batman-localization/scripts/build_tm.py data/original_data speaker_genders.xlsx translation_table.xlsx [--unique-original data/unique_original_data]
