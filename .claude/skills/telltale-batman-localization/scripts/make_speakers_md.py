@@ -71,7 +71,7 @@ out = [
     '# Speakers, gender and ти/ви — Batman S1 (Ukrainian)', '',
     'Files in `ai_context/`:',
     '- `speaker_genders.xlsx` (repo root) — gender of every speaker ID (M/F/?). **Edit it**, then rebuild the translation table.',
-    '- `translation_table.xlsx` — one row per unique text to translate.',
+    '- `translation_table.xlsx` (repo root) — every text to translate once, in story order, with context rows.',
     '- `scenes/` — read-only views of every file sorted by record number (conversation order).', '',
     'How the listener is guessed: a `[to Alfred]` note, else a name used in direct address ("Alfred, …"), else the',
     'most frequent other speaker within 3 records. Only about 10% of lines are found by note or name; the rest are',

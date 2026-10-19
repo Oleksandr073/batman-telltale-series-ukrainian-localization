@@ -127,6 +127,8 @@ def main():
             if key not in master:
                 cores = i['cores']
                 notes = []
+                if len(cores) > 1:
+                    notes.append(f'{len(cores)} lines: keep {len(cores) - 1} ¶')
                 if any(re.search(r'\{[^{}]*\}|\^[^^]*\^|<[^<>]+>', c) for c in cores):
                     notes.append('keep markup inside')
                 if 'credits' in rel:

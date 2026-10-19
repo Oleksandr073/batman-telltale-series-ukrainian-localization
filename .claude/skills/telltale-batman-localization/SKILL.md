@@ -138,8 +138,8 @@ so every file uses the same form. Speaker IDs in headers and the people in the c
 ## 9. Ukrainian workflow: translation table, context, gender, ти/ви
 
 **Main way to translate: the translation table, not the game files.**
-`translation_table.xlsx` (Excel; a Help sheet explains every column; type only in the yellow column) has one row per unique text for both modes: ~44 200 rows, ~373 000 words, built
-from ~185 000 records. Fill only the `ukrainian` column. Then `apply_translations.py` writes all 222 game files and
+`translation_table.xlsx` (Excel; a Help sheet explains every column; type only in the yellow column) has one yellow row per unique text for both modes (~44 200 rows, ~373 000 words, built
+from ~185 000 records), plus section/scene header rows and grey reference rows for context. Fill only the `ukrainian` column. Then `apply_translations.py` writes all 222 game files and
 validates them. Rules for the table:
 - Leading `{tags}` and `[notes]` (`{AngryA}[pickup][ALT]`) and a trailing `[alt]` are **not** in the table; they are
   put back automatically. Everything else in the `english` cell (mid-line `{tags}`, `^..^`, `<icons>`, `[beat]`,
