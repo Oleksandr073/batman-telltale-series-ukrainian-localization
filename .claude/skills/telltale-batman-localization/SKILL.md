@@ -112,7 +112,7 @@ Noir is **not** a lightly edited copy. It is a re-export from the later LCG Ente
 - Present only in default: `env_previouslyonbat104`, `env_policelobbyinfirmary105`, `BM_pc_Project_data/*` (stats, ui_media, ui_text).
 - Noir duplicates: `BAT_pc_PC_Noir_Batman10x_compressed/*` and `BAT_pc_BatmanNoir10x_data/*` contain the same files. Translate them identically.
 
-**Workflow:** the translation table (section 9) covers both modes at once, because Noir-only texts are extra rows at the end. If you translate files by hand instead, translate BM_* only, then run `scripts/sync_noir.py`. It fills ~95 000 Noir records automatically and lists the ~383 that need work (mostly LCG credits).
+**Workflow:** the translation table (section 9) covers both modes at once, because Noir-only texts are extra rows at the end.
 
 ## 6. Known corrupt characters in the source
 
@@ -206,11 +206,6 @@ python .claude/skills/telltale-batman-localization/scripts/validate.py  en/file.
 ```
 Errors: BOM/CRLF, line count, changed or shifted headers, **the first broken record** (the exact record where a line was added or removed), a text line that looks like a header, filled/emptied lines, and lost or changed `{}` `^^` `<>` `<<>>` `[ALT…]` markup. Warnings: markup order, whitespace/tab changes, straight `"`. The exit code is 1 when there are errors.
 
-Generate translated Noir files from a finished default translation:
-```
-python .claude/skills/telltale-batman-localization/scripts/sync_noir.py --en EN_ROOT --tr TRANSLATED_ROOT --out OUT_ROOT
-```
-It writes BAT_* files using the English BAT structure (headers, line counts, BOM, CRLF) plus your translations, and creates `noir_todo.txt` listing every record still in English.
 
 **Folders and git.** `data/original_data/` = English, never edited. `data/localized_data/` = the game files with Ukrainian,
 written only by `apply_translations.py` (don't edit it by hand: the next import overwrites it, so put changes in the
