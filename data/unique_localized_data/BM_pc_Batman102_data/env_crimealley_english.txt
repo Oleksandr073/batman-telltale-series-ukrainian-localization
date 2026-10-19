@@ -340,10 +340,10 @@ That I don’t know.
 #### 3a396820f9 | ALFRED → BRUCE | x2
 And no amount of threatening is going to change my
 
-#### b18bd30615-LM | choice/UI → ALFRED, SELINA | x6 | listener: male
+#### b18bd30615-LF | choice/UI → ALFRED, SELINA | x6
 You betrayed me.
 
-#### b18bd30615-LF | choice/UI → ALFRED, SELINA | x6 | listener: female
+#### b18bd30615-LM | choice/UI → ALFRED, SELINA | x6
 You betrayed me.
 
 #### c2c21cb8b0 | ALFRED → BRUCE | x2
@@ -769,19 +769,19 @@ Bruce? Bruce, where are you going?
 #### 545eb0f2c0 | ALFRED → GCPD02, NEWSCASTER, THOMAS | x6
 I thought we could travel together.
 
-#### 1618c2ad37-SM | choice/UI, ALFRED, ENFORCERCOLLEEN, ASSISTANT → BRUCE, GORDON, HARVEY | x27 | speaker: male
+#### 1618c2ad37-S? | choice/UI, ALFRED, ENFORCERCOLLEEN, ASSISTANT → BRUCE, GORDON, HARVEY | x27
 I’m so sorry.
 
-#### 1618c2ad37-S? | choice/UI, ALFRED, ENFORCERCOLLEEN, ASSISTANT → BRUCE, GORDON, HARVEY | x27 | speaker: unknown
+#### 1618c2ad37-SF | choice/UI, ALFRED, ENFORCERCOLLEEN, ASSISTANT → BRUCE, GORDON, HARVEY | x27
 I’m so sorry.
 
-#### 1618c2ad37-SF | choice/UI, ALFRED, ENFORCERCOLLEEN, ASSISTANT → BRUCE, GORDON, HARVEY | x27 | speaker: female
+#### 1618c2ad37-SM | choice/UI, ALFRED, ENFORCERCOLLEEN, ASSISTANT → BRUCE, GORDON, HARVEY | x27
 I’m so sorry.
 
-#### 3f8539001b-LM | ALFRED → BRUCE, NEWSCASTER | x6 | listener: male
+#### 3f8539001b-L? | ALFRED → BRUCE, NEWSCASTER | x6
 But I think it’s better you had a moment with them. Alone.
 
-#### 3f8539001b-L? | ALFRED → BRUCE, NEWSCASTER | x6 | listener: unknown
+#### 3f8539001b-LM | ALFRED → BRUCE, NEWSCASTER | x6
 But I think it’s better you had a moment with them. Alone.
 
 #### 5f7988ee6e | BRUCE → ALFRED | x2
@@ -1108,10 +1108,10 @@ But perhaps a momentary truce.
 #### cf4b91c066 | BRUCE → ALFRED | x6
 If I forgot anything about that night, it was for a good reason.
 
-#### 92551577c8-LM | JOE CHILL, JOECHILL → ALFRED, MARTHA | x4 | listener: male
+#### 92551577c8-LF | JOE CHILL, JOECHILL → ALFRED, MARTHA | x4
 Listen carefully, kid. Your folks got killed in a robbery. You got lucky. Remember that.
 
-#### 92551577c8-LF | JOE CHILL, JOECHILL → ALFRED, MARTHA | x4 | listener: female
+#### 92551577c8-LM | JOE CHILL, JOECHILL → ALFRED, MARTHA | x4
 Listen carefully, kid. Your folks got killed in a robbery. You got lucky. Remember that.
 
 #### afb0be9d13 | MARTHA → JOECHILL, THOMAS | x14
@@ -1147,10 +1147,10 @@ But then I suddenly became your guardian. I had to think like a parent. Like you
 #### 5342f97707 | ALFRED → THOMAS | x2
 And the reality of what your parents were gave way to the fear of what you could grow up to be.
 
-#### 4ef43d9d6c-LF | ALFRED → MARTHA, BRUCE | x4 | listener: female
+#### 4ef43d9d6c-LF | ALFRED → MARTHA, BRUCE | x4
 If you learned your father was corrupt at a young age, would it send you down the same path?
 
-#### 4ef43d9d6c-LM | ALFRED → MARTHA, BRUCE | x4 | listener: male
+#### 4ef43d9d6c-LM | ALFRED → MARTHA, BRUCE | x4
 If you learned your father was corrupt at a young age, would it send you down the same path?
 
 #### e0d4bcb9cf | BRUCE → ALFRED | x4
@@ -1165,10 +1165,10 @@ I haven’t judged what they did, only explained.
 #### fa44225c5b | ALFRED → BRUCE | x8
 And I have never absolved myself from the guilt.
 
-#### d9387a263e-SM-LM | ALFRED → BRUCE | x4 | speaker: male, listener: male
+#### d9387a263e-SM-L? | ALFRED → BRUCE | x4
 Did you know I was supposed to pick you up from the theater that night?
 
-#### d9387a263e-SM-L? | ALFRED → BRUCE | x4 | speaker: male, listener: unknown
+#### d9387a263e-SM-LM | ALFRED → BRUCE | x4
 Did you know I was supposed to pick you up from the theater that night?
 
 #### 04bbe0aac8 | ALFRED → BRUCE | x4
@@ -1291,10 +1291,10 @@ And I’m sorry to say, the story appears to be accurate.
 #### 38d61a869c | ALFRED → BRUCE | x6
 This isn’t going to end anytime soon.
 
-#### 90a41c9325-SM-LM | ALFRED → BRUCE | x6 | speaker: male, listener: male
+#### 90a41c9325-SM-L? | ALFRED → BRUCE | x6
 I’m sorry you had to find out this way.
 
-#### 90a41c9325-SM-L? | ALFRED → BRUCE | x6 | speaker: male, listener: unknown
+#### 90a41c9325-SM-LM | ALFRED → BRUCE | x6
 I’m sorry you had to find out this way.
 
 #### 8e24f9068f | ALFRED → BRUCE | x6
@@ -1399,10 +1399,10 @@ I’ve always had my doubts your parents were the victims of a random mugging.
 #### 76015dc675 | ALFRED → BRUCE | x4
 But that was what you told the police.
 
-#### ca911551b5-LM | ALFRED → BRUCE | x10 | listener: male
+#### ca911551b5-L? | ALFRED → BRUCE | x10
 You’ve never wavered from your story in twenty years.
 
-#### ca911551b5-L? | ALFRED → BRUCE | x10 | listener: unknown
+#### ca911551b5-LM | ALFRED → BRUCE | x10
 You’ve never wavered from your story in twenty years.
 
 #### 88b84d08a4 | ALFRED → BRUCE | x10
@@ -1501,10 +1501,10 @@ I’ll... be delicate.
 #### 2b0c835691 | BATMAN, choice/UI → HILL, ALFRED | x10
 How do you know them?
 
-#### 215a67cc71-L? | choice/UI, BATMAN, BRUCE → HILL, ALFRED | x12 | listener: unknown
+#### 215a67cc71-L? | choice/UI, BATMAN, BRUCE → HILL, ALFRED | x12
 What did you do to them?
 
-#### 215a67cc71-LM | choice/UI, BATMAN, BRUCE → HILL, ALFRED | x12 | listener: male
+#### 215a67cc71-LM | choice/UI, BATMAN, BRUCE → HILL, ALFRED | x12
 What did you do to them?
 
 #### 81cfa50280 | choice/UI | x6
@@ -1534,10 +1534,10 @@ Remember, this is your doing.
 #### a465fad03a | choice/UI | x4
 [Let Hill talk]
 
-#### 6850d29bc1-L? | choice/UI → HILL | x10 | listener: unknown
+#### 6850d29bc1-L? | choice/UI → HILL | x10
 No, you need protection from me.
 
-#### 6850d29bc1-LM | choice/UI → HILL | x10 | listener: male
+#### 6850d29bc1-LM | choice/UI → HILL | x10
 No, you need protection from me.
 
 #### ed3fd95ee5 | choice/UI → SELINA, HILL, PATRON01 | x16
@@ -1552,10 +1552,10 @@ You’ll talk. I promise.
 #### 678ea3fea2 | choice/UI | x10
 Falcone squealed, so will you.
 
-#### 3f41a789ad-L? | choice/UI → ALFRED, HILL | x8 | listener: unknown
+#### 3f41a789ad-L? | choice/UI → ALFRED, HILL | x8
 Did you know?!
 
-#### 3f41a789ad-LM | choice/UI → ALFRED, HILL | x8 | listener: male
+#### 3f41a789ad-LM | choice/UI → ALFRED, HILL | x8
 Did you know?!
 
 #### e2030dba54 | choice/UI → HILL | x8
@@ -1843,10 +1843,10 @@ Your parents. Carmine Falcone. Mayor Hill.
 #### 1d28371bc0 | ALFRED → BRUCE | x4
 Your father did what he did.
 
-#### 5baf15eefa-LM | ALFRED → BRUCE | x4 | listener: male
+#### 5baf15eefa-L? | ALFRED → BRUCE | x4
 You’ve forged your own path. And that’s all that should matter.
 
-#### 5baf15eefa-L? | ALFRED → BRUCE | x4 | listener: unknown
+#### 5baf15eefa-LM | ALFRED → BRUCE | x4
 You’ve forged your own path. And that’s all that should matter.
 
 #### 512e22e782 | ALFRED → BRUCE | x2
@@ -1981,10 +1981,10 @@ There must be some detail that escaped you.
 #### 7c71efb677 | JOECHILL → MARTHA, ALFRED, THOMAS | x12
 Just business.
 
-#### 0c90cd853d-LM | JOECHILL → MARTHA, YOUNGBRUCE | x12 | listener: male
+#### 0c90cd853d-LF | JOECHILL → MARTHA, YOUNGBRUCE | x12
 They told me you had it coming.
 
-#### 0c90cd853d-LF | JOECHILL → MARTHA, YOUNGBRUCE | x12 | listener: female
+#### 0c90cd853d-LM | JOECHILL → MARTHA, YOUNGBRUCE | x12
 They told me you had it coming.
 
 #### 9134c35555 | ALFRED → YOUNGBRUCE | x2

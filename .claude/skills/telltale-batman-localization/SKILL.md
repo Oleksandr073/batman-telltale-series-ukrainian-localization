@@ -219,7 +219,7 @@ the header lines; listeners guessed from `[to X]` notes, names in direct address
 written only by `build_tm.py --unique-original` and never changes unless the English files do; the import only
 checks it. `data/unique_localized_data/` (rewritten by every import with `--unique`) has the same entries with the
 Ukrainian; an English text with several table rows (male/female versions, ~230 texts) appears once per version,
-header `#### <table key> | ... | speaker: female` etc. Together they hold every text once, English and Ukrainian, in files that mirror the game folders (each text where it first appears; entry =
+header `#### <table key> | ...` (the key ends in -SM/-SF/-LM/-LF; no readable gender label). Together they hold every text once, English and Ukrainian, in files that mirror the game folders (each text where it first appears; entry =
 `#### key | speaker → listener | x<count>`, the text lines, an empty line). Untranslated rows keep English, so
 `git diff data/unique_localized_data` shows each translation once. Before deleting anything in these folders the scripts check that every
 file in them is a unique-text file (starts with `#### `), so a wrong folder name is refused. After writing, the import runs `check_consistency.py`: every record of the 222 final files must equal the

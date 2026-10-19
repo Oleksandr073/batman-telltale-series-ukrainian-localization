@@ -374,10 +374,10 @@ It’s no surprise that she would have targeted you.
 #### b38e32ad25 | JOKER → BRUCE | x8
 Tell me about the night your parents died.
 
-#### 7b8978db4d-L? | JOKER → BRUCE | x8 | listener: unknown
+#### 7b8978db4d-L? | JOKER → BRUCE | x8
 You witnessed their murder, didn’t you?
 
-#### 7b8978db4d-LM | JOKER → BRUCE | x8 | listener: male
+#### 7b8978db4d-LM | JOKER → BRUCE | x8
 You witnessed their murder, didn’t you?
 
 #### 3eb577638c | JOKER → BRUCE | x2
@@ -1199,16 +1199,16 @@ How do you know her name!?
 #### e5ae4b08bf | choice/UI | x2
 How do you
 
-#### 107378d38f-L? | choice/UI → JOKER | x4 | listener: unknown
+#### 107378d38f-L? | choice/UI → JOKER | x4
 You said Vicki Vale’s name.
 
-#### 107378d38f-LM | choice/UI → JOKER | x4 | listener: male
+#### 107378d38f-LM | choice/UI → JOKER | x4
 You said Vicki Vale’s name.
 
-#### 2aad851f9e-L? | choice/UI → JOKER | x4 | listener: unknown
+#### 2aad851f9e-L? | choice/UI → JOKER | x4
 You were praising the CoA.
 
-#### 2aad851f9e-LM | choice/UI → JOKER | x4 | listener: male
+#### 2aad851f9e-LM | choice/UI → JOKER | x4
 You were praising the CoA.
 
 #### eecf59fd44 | choice/UI → JOKER | x4
@@ -1499,10 +1499,10 @@ See -- broken brain.
 #### 76000ccdf7 | JOKER → BRUCE | x4
 Hey Zsasz! Heads up!
 
-#### c1751789ec-LM | JOKER → BRUCE | x4 | listener: male
+#### c1751789ec-L? | JOKER → BRUCE | x4
 You broke Oswald’s body because you wanted to.
 
-#### c1751789ec-L? | JOKER → BRUCE | x4 | listener: unknown
+#### c1751789ec-LM | JOKER → BRUCE | x4
 You broke Oswald’s body because you wanted to.
 
 #### bbad908aa8 | JOKER → BRUCE | x2
@@ -2021,10 +2021,10 @@ This is a trick.
 #### 83db079aec | HARVEY → BRUCE | x2
 These “Children of Arkham” are trying to sell you a false story, ladies and gentlemen.
 
-#### a3e4e7546d-LM | HARVEY → JOKER, LELAND, ZSASZ | x14 | listener: male
+#### a3e4e7546d-LF | HARVEY → JOKER, LELAND, ZSASZ | x14
 These{FaceAccent} “Children{AngryB} of Arkham”{FaceAccent} would have you believe that {ThinkingB}they{BodyAccent} are the ones who{AngryA} are going to bring Gotham to a new era of prosperity, but all they have done is {AngryB}sow the{BodyAccent} seeds {AngryC}of{FaceAccent}{BodyAccent} chaos!
 
-#### a3e4e7546d-LF | HARVEY → JOKER, LELAND, ZSASZ | x14 | listener: female
+#### a3e4e7546d-LM | HARVEY → JOKER, LELAND, ZSASZ | x14
 These{FaceAccent} “Children{AngryB} of Arkham”{FaceAccent} would have you believe that {ThinkingB}they{BodyAccent} are the ones who{AngryA} are going to bring Gotham to a new era of prosperity, but all they have done is {AngryB}sow the{BodyAccent} seeds {AngryC}of{FaceAccent}{BodyAccent} chaos!
 
 #### b45d987406 | HARVEY → LELAND, BRUCE, ZSASZ | x10
@@ -2565,10 +2565,10 @@ Wow, look at Mr. Impatient over here. I’m just trying to build up a little, he
 #### ded03fa0ff | JOKER → BRUCE | x10
 The point is that you must have the same darkness, the same “bubbles,“ inside you that your daddy did. He released HIS with those [chuckle] delightful gaslightings.
 
-#### ed9eeef5ba-LM | JOKER → BRUCE | x12 | listener: male
+#### ed9eeef5ba-L? | JOKER → BRUCE | x12
 But how do YOU let the bubbles out?
 
-#### ed9eeef5ba-L? | JOKER → BRUCE | x12 | listener: unknown
+#### ed9eeef5ba-LM | JOKER → BRUCE | x12
 But how do YOU let the bubbles out?
 
 #### 1a5530eb45 | BRUCE → JOKER | x2
@@ -2901,10 +2901,10 @@ The point is, we ALL have those bubbles, Bruce. They’re nothing to be ashamed 
 #### 5c06995422 | JOKER → BRUCE | x2
 You can’t bottle yourself up like that - Those bubbles need to go somewhere.
 
-#### eb396dbd95-LM | JOKER → BRUCE | x6 | listener: male
+#### eb396dbd95-L? | JOKER → BRUCE | x6
 You know who you could learn some lessons from?
 
-#### eb396dbd95-L? | JOKER → BRUCE | x6 | listener: unknown
+#### eb396dbd95-LM | JOKER → BRUCE | x6
 You know who you could learn some lessons from?
 
 #### df553a25ea | BRUCE → JOKER | x2
@@ -3012,10 +3012,10 @@ I have no idea what you’re talking about. I’m not like you.
 #### 5c50989564 | JOKER → BRUCE | x6
 Brucie! Baby! It’s in your DNA! I’ve already SEEN it on the tee-vee - You wailing on that poncey little Cobblepot kid!
 
-#### 3c9e446aaa-LM | JOKER → BRUCE | x8 | listener: male
+#### 3c9e446aaa-L? | JOKER → BRUCE | x8
 Come on, level with me. Who else have you hurt?
 
-#### 3c9e446aaa-L? | JOKER → BRUCE | x8 | listener: unknown
+#### 3c9e446aaa-LM | JOKER → BRUCE | x8
 Come on, level with me. Who else have you hurt?
 
 #### eccfbef27c | BRUCE → JOKER | x2
@@ -5289,10 +5289,10 @@ He’s useful.
 #### 705d9da246 | JOKER → BRUCE | x2
 Have a look around if you want.
 
-#### 743e3e093c-LM | JOKER → BRUCE, ORDERLY01, HARVEY | x6 | listener: male
+#### 743e3e093c-L? | JOKER → BRUCE, ORDERLY01, HARVEY | x6
 When you’re done, you and I have a lot to talk about.
 
-#### 743e3e093c-L? | JOKER → BRUCE, ORDERLY01, HARVEY | x6 | listener: unknown
+#### 743e3e093c-LM | JOKER → BRUCE, ORDERLY01, HARVEY | x6
 When you’re done, you and I have a lot to talk about.
 
 #### ac58cce41b | BRUCE → JOKER | x2
@@ -5751,10 +5751,10 @@ I’ll send someone to come get you soon.
 #### bae225739e | JOKER → GORDON | x2
 And oh! When I get out of here, you’ll owe me a little favor, alright?
 
-#### 656e1ccb47-SM-LM | JOKER → BRUCE, LELAND | x8 | speaker: male, listener: male
+#### 656e1ccb47-SM-LF | JOKER → BRUCE, LELAND | x8
 Just like I did you a favor today.
 
-#### 656e1ccb47-SM-LF | JOKER → BRUCE, LELAND | x8 | speaker: male, listener: female
+#### 656e1ccb47-SM-LM | JOKER → BRUCE, LELAND | x8
 Just like I did you a favor today.
 
 #### aaab55994a | JOKER → BRUCE | x6
@@ -6429,10 +6429,10 @@ Sounds to me like you’ve got more in common than you’re willing to admit, Br
 #### 7e54f5e262 | JOKER → BRUCE | x2
 But! There I go getting ahead of myself again!
 
-#### 83b16ed65a-LM | JOKER → BRUCE, Y01 | x4 | listener: male
+#### 83b16ed65a-L? | JOKER → BRUCE, Y01 | x4
 Assume I can take care of that - you need to be willing to use some of that money. That influence. Play... dirty.
 
-#### 83b16ed65a-L? | JOKER → BRUCE, Y01 | x4 | listener: unknown
+#### 83b16ed65a-LM | JOKER → BRUCE, Y01 | x4
 Assume I can take care of that - you need to be willing to use some of that money. That influence. Play... dirty.
 
 #### 97fc0b22e5 | BRUCE → JOKER | x2

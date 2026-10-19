@@ -208,10 +208,10 @@ Each situation requires its own set of rules, Alfred. Varibles apply.
 #### a331389ff2 | ALFRED → BRUCE | x2
 Each criminal is different, I do understand that.
 
-#### 69e23b59e9-LM | ALFRED → BRUCE | x6 | listener: male
+#### 69e23b59e9-L? | ALFRED → BRUCE | x6
 I’m know you had your reasons.
 
-#### 69e23b59e9-L? | ALFRED → BRUCE | x6 | listener: unknown
+#### 69e23b59e9-LM | ALFRED → BRUCE | x6
 I’m know you had your reasons.
 
 #### 3d421feee4 | ALFRED → BRUCE | x6
@@ -478,10 +478,10 @@ You haven’t tasted it yet.
 #### 4eb003637d | ALFRED → BRUCE | x6
 No... [stressed]thank you.
 
-#### 49e570627d-LM | ALFRED → BRUCE, FAIRCHILD | x4 | listener: male
+#### 49e570627d-L? | ALFRED → BRUCE, FAIRCHILD | x4
 You sacrificed your identity for my safety.
 
-#### 49e570627d-L? | ALFRED → BRUCE, FAIRCHILD | x4 | listener: unknown
+#### 49e570627d-LM | ALFRED → BRUCE, FAIRCHILD | x4
 You sacrificed your identity for my safety.
 
 #### 1c1de88169 | BRUCE → ALFRED | x2
@@ -490,10 +490,10 @@ It was the right desicion. You’re my family.
 #### 2623744ba6 | ALFRED → BRUCE | x2
 You saved me.
 
-#### 3aaaa04232-LM | ALFRED → BRUCE, FAIRCHILD | x4 | listener: male
+#### 3aaaa04232-L? | ALFRED → BRUCE, FAIRCHILD | x4
 I haven’t gotten a chance to thank you for what you did, sacrificing your identity for my safety.
 
-#### 3aaaa04232-L? | ALFRED → BRUCE, FAIRCHILD | x4 | listener: unknown
+#### 3aaaa04232-LM | ALFRED → BRUCE, FAIRCHILD | x4
 I haven’t gotten a chance to thank you for what you did, sacrificing your identity for my safety.
 
 #### ec3cb3beea | ALFRED → BRUCE | x2
@@ -1423,10 +1423,10 @@ Despite all the recent turmoil surrounding your family, you’ve risen above it.
 #### 8d8c86d1cb | ALFRED | x4
 And he’s seen your bravery.
 
-#### ff03bde802-L? | ALFRED → BRUCE | x4 | listener: unknown
+#### ff03bde802-L? | ALFRED → BRUCE | x4
 You risked your own life to save those hostages from Harvey Dent.
 
-#### ff03bde802-LM | ALFRED → BRUCE | x4 | listener: male
+#### ff03bde802-LM | ALFRED → BRUCE | x4
 You risked your own life to save those hostages from Harvey Dent.
 
 #### 0d8b76d9d1 | ALFRED | x4
@@ -1657,10 +1657,10 @@ Something to consider, in any case.
 #### 97ebaa286a | ALFRED → BRUCE | x2
 Both Bruce Wayne and Batman have helped this city tremendously.
 
-#### 2f5895dc81-L? | ALFRED → BRUCE | x6 | listener: unknown
+#### 2f5895dc81-L? | ALFRED → BRUCE | x6
 You’ve helped this city tremendously, both as Bruce Wayne and Batman.
 
-#### 2f5895dc81-LM | ALFRED → BRUCE | x6 | listener: male
+#### 2f5895dc81-LM | ALFRED → BRUCE | x6
 You’ve helped this city tremendously, both as Bruce Wayne and Batman.
 
 #### 5549bf1261 | ALFRED | x2

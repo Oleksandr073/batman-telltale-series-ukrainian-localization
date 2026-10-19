@@ -314,10 +314,10 @@ Good God-!
 #### 273bcee7e5 | BRUCE → GORDON | x2
 The Mayor ordered these two to kill me.
 
-#### 2ee9a90a31-LM | GORDON → BRUCE, COP01, TUB | x6 | listener: male
+#### 2ee9a90a31-L? | GORDON → BRUCE, COP01, TUB | x6
 How the hell did you survive all this while you were cuffed?
 
-#### 2ee9a90a31-L? | GORDON → BRUCE, COP01, TUB | x6 | listener: unknown
+#### 2ee9a90a31-LM | GORDON → BRUCE, COP01, TUB | x6
 How the hell did you survive all this while you were cuffed?
 
 #### ad044bdb38 | BRUCE → GORDON | x6
@@ -476,10 +476,10 @@ This is Gordon... okay...
 #### ffeb3ad747 | GORDON → BRUCE | x4
 There’s been a large, sudden increase in violent Children of Arkham activity- officers are being deployed all over Gotham-
 
-#### 3fc25e0b27-LM | GORDON → BRUCE, BATMAN | x8 | listener: male
+#### 3fc25e0b27-L? | GORDON → BRUCE, BATMAN | x8
 You better make yourself scarce.
 
-#### 3fc25e0b27-L? | GORDON → BRUCE, BATMAN | x8 | listener: unknown
+#### 3fc25e0b27-LM | GORDON → BRUCE, BATMAN | x8
 You better make yourself scarce.
 
 #### a7d7c81654 | GORDON → BRUCE, BATMAN | x10
@@ -488,10 +488,10 @@ I’ll clean up this mess.
 #### 998787962e | BATMAN, BRUCE → GORDON | x4
 Okay.  Thank you.
 
-#### 6de067881a-LM | GORDON → BRUCE | x12 | listener: male
+#### 6de067881a-L? | GORDON → BRUCE | x12
 And hey... About what you said...
 
-#### 6de067881a-L? | GORDON → BRUCE | x12 | listener: unknown
+#### 6de067881a-LM | GORDON → BRUCE | x12
 And hey... About what you said...
 
 #### 1e923c91c2 | BRUCE → GORDON | x4
@@ -761,10 +761,10 @@ They’re just gestapos with a more polite name.
 #### 6f5e2c5ed4 | BRUCE → GORDON | x14
 Take care, Jim.
 
-#### 35a475f184-LM | GORDON → BRUCE | x16 | listener: male
+#### 35a475f184-L? | GORDON → BRUCE | x16
 And hey... {ThinkingA}About what you said...
 
-#### 35a475f184-L? | GORDON → BRUCE | x16 | listener: unknown
+#### 35a475f184-LM | GORDON → BRUCE | x16
 And hey... {ThinkingA}About what you said...
 
 #### 2432a53940 | LUCIUS, ALFRED → BATMAN, GORDON | x12
@@ -791,10 +791,10 @@ He’s put together a computer--a “Black Box” device--for the express purpos
 #### 3ae392af85 | LUCIUS → BATMAN, ENFORCERCOLLEEN | x6
 Nothing yet. But I can’t keep him out much longer. Maybe an hour, at best.
 
-#### d3395a518a-LF | LUCIUS → BATMAN, ENFORCERCOLLEEN | x6 | listener: female
+#### d3395a518a-LF | LUCIUS → BATMAN, ENFORCERCOLLEEN | x6
 I’m going to keeping routing him, but you need to get to Wayne Tower and destroy that Black Box!
 
-#### d3395a518a-LM | LUCIUS → BATMAN, ENFORCERCOLLEEN | x6 | listener: male
+#### d3395a518a-LM | LUCIUS → BATMAN, ENFORCERCOLLEEN | x6
 I’m going to keeping routing him, but you need to get to Wayne Tower and destroy that Black Box!
 
 #### d8ea21d819 | ENFORCERCOLLEEN → LUCIUS | x2
@@ -1307,10 +1307,10 @@ And it gets worse - He’s using it like a wrecking ball on the Bat Computer’s
 #### 76433f9b8d | BRUCE → LUCIUS | x4
 If he gets through those firewalls... he’ll have access to *everything.* How do I stop it?
 
-#### d2a3257f56-LM | LUCIUS → BRUCE, ENFORCERFEMALE | x4 | listener: male
+#### d2a3257f56-LF | LUCIUS → BRUCE, ENFORCERFEMALE | x4
 The device’s signal is coming from Wayne Tower. You need to find the Black Box... and destroy it. If you don’t - Your identity, your technology... Penguin will have it all.
 
-#### d2a3257f56-LF | LUCIUS → BRUCE, ENFORCERFEMALE | x4 | listener: female
+#### d2a3257f56-LM | LUCIUS → BRUCE, ENFORCERFEMALE | x4
 The device’s signal is coming from Wayne Tower. You need to find the Black Box... and destroy it. If you don’t - Your identity, your technology... Penguin will have it all.
 
 #### 69e143c397 | GORDON → BRUCE | x2
@@ -1403,10 +1403,10 @@ He’s supposedly trying to stop the Children of Arkham, but now he’s become a
 #### 63eaccc2ad | GORDON → LUCIUS, BRUCE | x4
 The amount of blood on his hands... he and Lady Arkham might be neck and neck on body count by this point.
 
-#### a200188607-LM | GORDON → LUCIUS | x4 | listener: male
+#### a200188607-L? | GORDON → LUCIUS | x4
 Dent’s got you brainwashed!
 
-#### a200188607-L? | GORDON → LUCIUS | x4 | listener: unknown
+#### a200188607-LM | GORDON → LUCIUS | x4
 Dent’s got you brainwashed!
 
 #### 083777ad29 | GORDON | x2

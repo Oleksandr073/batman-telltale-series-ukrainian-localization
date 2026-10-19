@@ -1135,10 +1135,10 @@ I uh... took a bit of a beating when I ran into the Children of Arkham--
 #### 06f4d38b61 | BRUCE → HARVEY | x2
 You weird thing.
 
-#### 08af4cbd6b-LM | choice/UI → HARVEY | x4 | listener: male
+#### 08af4cbd6b-L? | choice/UI → HARVEY | x4
 You’re not alone.
 
-#### 08af4cbd6b-L? | choice/UI → HARVEY | x4 | listener: unknown
+#### 08af4cbd6b-LM | choice/UI → HARVEY | x4
 You’re not alone.
 
 #### 40235c344a | BRUCE → HARVEY | x2

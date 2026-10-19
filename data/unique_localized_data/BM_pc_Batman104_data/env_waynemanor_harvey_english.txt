@@ -235,10 +235,10 @@ Or are you two partners? It’s hard to tell.
 #### e5277512cf | HARVEY → BATMAN | x4
 Oh the stones on you.
 
-#### abaeeb31b8-LM | HARVEY → BATMAN | x4 | listener: male
+#### abaeeb31b8-L? | HARVEY → BATMAN | x4
 Look at yourself. Thinking you’re so noble. So high and mighty.
 
-#### abaeeb31b8-L? | HARVEY → BATMAN | x4 | listener: unknown
+#### abaeeb31b8-LM | HARVEY → BATMAN | x4
 Look at yourself. Thinking you’re so noble. So high and mighty.
 
 #### 77f44e56a6 | HARVEY → BATMAN | x2
@@ -1027,10 +1027,10 @@ I should have guessed you were behind this parlor trick.
 #### 98193e8d8e | BATMAN → HARVEY | x2
 This stops now.
 
-#### 0ab6b02a47-LM | HARVEY → ALFRED, HARVRV | x4 | listener: male
+#### 0ab6b02a47-L? | HARVEY → ALFRED, HARVRV | x4
 Haven’t you heard the news?
 
-#### 0ab6b02a47-L? | HARVEY → ALFRED, HARVRV | x4 | listener: unknown
+#### 0ab6b02a47-LM | HARVEY → ALFRED, HARVRV | x4
 Haven’t you heard the news?
 
 #### 636ef6e7bc | HARVEY → BATMAN, HARVRV | x6
@@ -1739,10 +1739,10 @@ The city won’t know what hit it.
 #### 5782c61061 | BATMAN → HARVEY | x2
 And that’s what I’m going to recommend to the new D.A.
 
-#### 752855b165-LM | HARVEY → BATMAN | x4 | listener: male
+#### 752855b165-L? | HARVEY → BATMAN | x4
 Stupid Harvey. You really thought you could get some head doctor to get rid of me?
 
-#### 752855b165-L? | HARVEY → BATMAN | x4 | listener: unknown
+#### 752855b165-LM | HARVEY → BATMAN | x4
 Stupid Harvey. You really thought you could get some head doctor to get rid of me?
 
 #### ff51284ca1 | BATMAN → HARVEY | x2
@@ -1886,10 +1886,10 @@ Hold still, you’re hurt.
 #### eb4650ef38 | BATMAN → HARVEY | x2
 And so is your reign of terror.
 
-#### 8efab31ea5-LM | BATMAN → LADYARKHAM, HARVEY | x6 | listener: male
+#### 8efab31ea5-LF | BATMAN → LADYARKHAM, HARVEY | x6
 Give yourself up.
 
-#### 8efab31ea5-LF | BATMAN → LADYARKHAM, HARVEY | x6 | listener: female
+#### 8efab31ea5-LM | BATMAN → LADYARKHAM, HARVEY | x6
 Give yourself up.
 
 #### 105e3b0b75 | HARVEY → BATMAN | x2

@@ -31,10 +31,10 @@ You’re just a selfish
 #### 8a01466604 | SELINA → BRUCE | x2
 Nothing wrong with a little self-love, Bruce.
 
-#### d0ca73501f-LM | SELINA → BRUCE | x4 | listener: male
+#### d0ca73501f-L? | SELINA → BRUCE | x4
 It’s something you could use more of.
 
-#### d0ca73501f-L? | SELINA → BRUCE | x4 | listener: unknown
+#### d0ca73501f-LM | SELINA → BRUCE | x4
 It’s something you could use more of.
 
 #### 81b0d86e52 | SELINA → BRUCE | x2
@@ -535,10 +535,10 @@ It’s okay, Al.
 #### 265c806d41 | BRUCE → SELINA | x2
 I’ll be down in a moment.
 
-#### 6ca34d6946-LM | ALFRED → BRUCE, SELINA | x4 | listener: male
+#### 6ca34d6946-LF | ALFRED → BRUCE, SELINA | x4
 I really must protest. You need some rest.
 
-#### 6ca34d6946-LF | ALFRED → BRUCE, SELINA | x4 | listener: female
+#### 6ca34d6946-LM | ALFRED → BRUCE, SELINA | x4
 I really must protest. You need some rest.
 
 #### 7f891770ad | ALFRED → BRUCE | x2
@@ -788,19 +788,19 @@ So, I’ll make this quick.
 #### 76f8bff3e2 | ALFRED → SELINA | x2
 Where did she go?
 
-#### 454c5446e4-SF-LM | SELINA → ALFRED, BRUCE | x8 | speaker: female, listener: male
+#### 454c5446e4-SF-L? | SELINA → ALFRED, BRUCE | x8
 I knew you would make it out.
 
-#### 454c5446e4-SF-L? | SELINA → ALFRED, BRUCE | x8 | speaker: female, listener: unknown
+#### 454c5446e4-SF-LM | SELINA → ALFRED, BRUCE | x8
 I knew you would make it out.
 
 #### 109c1f292d | SELINA → ALFRED | x2
 Those
 
-#### 371a739e89-SF-L? | SELINA → BRUCE | x6 | speaker: female, listener: unknown
+#### 371a739e89-SF-L? | SELINA → BRUCE | x6
 I knew they couldn’t keep you locked up for long.
 
-#### 371a739e89-SF-LM | SELINA → BRUCE | x6 | speaker: female, listener: male
+#### 371a739e89-SF-LM | SELINA → BRUCE | x6
 I knew they couldn’t keep you locked up for long.
 
 #### e76738458f | SELINA → BRUCE | x4

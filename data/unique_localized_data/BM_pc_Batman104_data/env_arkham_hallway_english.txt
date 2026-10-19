@@ -246,10 +246,10 @@ Hey, you!
 #### a9cbd79fb3 | ORDERLY1 → VICKI | x2
 Vicki. Vicki Vale.
 
-#### b5f3f8e53f-LF | BRUCE → NURSE, ORDERLY1, ORDERLY01 | x22 | listener: female
+#### b5f3f8e53f-L? | BRUCE → NURSE, ORDERLY1, ORDERLY01 | x22
 What did you just say?
 
-#### b5f3f8e53f-L? | BRUCE → NURSE, ORDERLY1, ORDERLY01 | x22 | listener: unknown
+#### b5f3f8e53f-LF | BRUCE → NURSE, ORDERLY1, ORDERLY01 | x22
 What did you just say?
 
 #### 412ae162dd | QUINZEL → BRUCE | x2
@@ -279,10 +279,10 @@ You’re hearing things.
 #### 09b0e1ee41 | BRUCE → LELAND | x6
 I wasn’t talking.
 
-#### 885fb5857f-LM | LELAND, QUINZEL → BRUCE, ORDERLY01 | x6 | listener: male
+#### 885fb5857f-L? | LELAND, QUINZEL → BRUCE, ORDERLY01 | x6
 Yes. You were.
 
-#### 885fb5857f-L? | LELAND, QUINZEL → BRUCE, ORDERLY01 | x6 | listener: unknown
+#### 885fb5857f-LM | LELAND, QUINZEL → BRUCE, ORDERLY01 | x6
 Yes. You were.
 
 #### bde2f1e77d | BRUCE → LELAND, QUINZEL | x6
@@ -366,10 +366,10 @@ What’s your name?
 #### 48574a0f9b | LELAND → BRUCE, ORDERLY2 | x4
 I’m Dr. Leland.
 
-#### 98bd2e3ce3-LM | LELAND, THOMPKINS → BRUCE, LELAND | x4 | listener: male
+#### 98bd2e3ce3-LF | LELAND, THOMPKINS → BRUCE, LELAND | x4
 We met a couple of days ago when you were admitted.
 
-#### 98bd2e3ce3-LF | LELAND, THOMPKINS → BRUCE, LELAND | x4 | listener: female
+#### 98bd2e3ce3-LM | LELAND, THOMPKINS → BRUCE, LELAND | x4
 We met a couple of days ago when you were admitted.
 
 #### 9115f35e6e | LELAND → BRUCE | x4
@@ -694,16 +694,16 @@ I’m not suprised you don’t remember.
 #### 20743ee4bb | LELAND → BRUCE | x4
 That’s not surprising. You had quite the break from reality, Mr. Wayne.
 
-#### 6676eadb5e-LF | LELAND → THOMPKINS, BRUCE | x4 | listener: female
+#### 6676eadb5e-LF | LELAND → THOMPKINS, BRUCE | x4
 You were quite... confused the last time we spoke.
 
-#### 6676eadb5e-LM | LELAND → THOMPKINS, BRUCE | x4 | listener: male
+#### 6676eadb5e-LM | LELAND → THOMPKINS, BRUCE | x4
 You were quite... confused the last time we spoke.
 
-#### f2cfbc69ef-LF | LELAND → THOMPKINS, BRUCE | x4 | listener: female
+#### f2cfbc69ef-LF | LELAND → THOMPKINS, BRUCE | x4
 Well. I’m Dr. Leland. I’ve been your physician since you were... checked in a few days ago.
 
-#### f2cfbc69ef-LM | LELAND → THOMPKINS, BRUCE | x4 | listener: male
+#### f2cfbc69ef-LM | LELAND → THOMPKINS, BRUCE | x4
 Well. I’m Dr. Leland. I’ve been your physician since you were... checked in a few days ago.
 
 #### 45d2b04dd3 | LELAND → NURSE | x2
@@ -712,10 +712,10 @@ Hm. I think I’d prefer you focus on “getting well.“
 #### 60cf527b3b | NURSE → LELAND | x2
 That Vicki Vale.
 
-#### 90d7445ceb-LF | LELAND → NURSE, BRUCE | x4 | listener: female
+#### 90d7445ceb-LF | LELAND → NURSE, BRUCE | x4
 I don’t know whether this denial is for your benefit or mine, but it’s definitely something we’ll need to overcome if you’re serious about making a full recovery.
 
-#### 90d7445ceb-LM | LELAND → NURSE, BRUCE | x4 | listener: male
+#### 90d7445ceb-LM | LELAND → NURSE, BRUCE | x4
 I don’t know whether this denial is for your benefit or mine, but it’s definitely something we’ll need to overcome if you’re serious about making a full recovery.
 
 #### 9df34c8bb8 | LELAND → NURSE | x2
@@ -739,10 +739,10 @@ We’re all friendly.
 #### ef5a972b76 | NURSE → ORDERLY02 | x2
 Oh, that’s great! Just ignore me like everyone else does!
 
-#### a5ce38ccad-L? | BRUCE → ORDERLY02, NURSE | x4 | listener: unknown
+#### a5ce38ccad-L? | BRUCE → ORDERLY02, NURSE | x4
 You need help?
 
-#### a5ce38ccad-LF | BRUCE → ORDERLY02, NURSE | x4 | listener: female
+#### a5ce38ccad-LF | BRUCE → ORDERLY02, NURSE | x4
 You need help?
 
 #### ebb0ce2880 | LELAND → BRUCE | x2
@@ -793,10 +793,10 @@ I got something to ask you.
 #### e98338fed0 | ORDERLY1 → BRUCE | x2
 You’re a man of means.
 
-#### 04a8b70670-S?-LM | ORDERLY1, ORDERLY01 → BLOCKBUSTER, ORDERLY1 | x4 | speaker: unknown, listener: male
+#### 04a8b70670-S?-L? | ORDERLY1, ORDERLY01 → BLOCKBUSTER, ORDERLY1 | x4
 I could tell you how to secure your release -- and you could help me.
 
-#### 04a8b70670-S?-L? | ORDERLY1, ORDERLY01 → BLOCKBUSTER, ORDERLY1 | x4 | speaker: unknown, listener: unknown
+#### 04a8b70670-S?-LM | ORDERLY1, ORDERLY01 → BLOCKBUSTER, ORDERLY1 | x4
 I could tell you how to secure your release -- and you could help me.
 
 #### e14fae4061 | ORDERLY1 | x2
@@ -1211,10 +1211,10 @@ What are you doing? Please put that back.
 #### 269881ca41 | BRUCE → LELAND, NURSE | x4
 I just -
 
-#### bc00aa851a-LF | LELAND → NURSE, BRUCE | x4 | listener: female
+#### bc00aa851a-LF | LELAND → NURSE, BRUCE | x4
 No, you were speaking to someone.
 
-#### bc00aa851a-LM | LELAND → NURSE, BRUCE | x4 | listener: male
+#### bc00aa851a-LM | LELAND → NURSE, BRUCE | x4
 No, you were speaking to someone.
 
 #### c0a104682b | LELAND → BRUCE | x4

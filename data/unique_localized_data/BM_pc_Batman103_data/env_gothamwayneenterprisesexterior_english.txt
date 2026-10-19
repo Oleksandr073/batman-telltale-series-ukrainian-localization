@@ -82,10 +82,10 @@ Obviously Arkham wasn’t ideal, but, for all it’s faults, you’d never mista
 #### 6cb16820f6 | BRUCE → HARVEY | x36
 And…
 
-#### d594883b53-LM | HARVEY → BRUCE, COUNCILWOMAN | x36 | listener: male
+#### d594883b53-LF | HARVEY → BRUCE, COUNCILWOMAN | x36
 And, we’ve polled this Bruce...the people of Gotham believe, regardless of mental capacity, when you’re convicted of a crime, you deserve a punishment. A real one.
 
-#### d594883b53-LF | HARVEY → BRUCE, COUNCILWOMAN | x36 | listener: female
+#### d594883b53-LM | HARVEY → BRUCE, COUNCILWOMAN | x36
 And, we’ve polled this Bruce...the people of Gotham believe, regardless of mental capacity, when you’re convicted of a crime, you deserve a punishment. A real one.
 
 #### 0276322256 | HARVEY → BRUCE | x36
@@ -163,10 +163,10 @@ Your mother says hello.
 #### 2d2328b007 | choice/UI → HARVEY | x18
 There were three of them.
 
-#### ee68e2f9e6-LM | BRUCE, choice/UI → HARVEY | x54 | listener: male
+#### ee68e2f9e6-L? | BRUCE, choice/UI → HARVEY | x54
 You’re just jealous.
 
-#### ee68e2f9e6-L? | BRUCE, choice/UI → HARVEY | x54 | listener: unknown
+#### ee68e2f9e6-LM | BRUCE, choice/UI → HARVEY | x54
 You’re just jealous.
 
 #### be999071cf | HARVEY → BRUCE | x36
@@ -403,10 +403,10 @@ This’ll probably get buried.
 #### 491c823ceb | VICKI → BRUCE | x9
 But if you think of anything, let me know.
 
-#### 59ba7df5a0-LF | choice/UI → VICKI | x36 | listener: female
+#### 59ba7df5a0-L? | choice/UI → VICKI | x36
 You ambushed me.
 
-#### 59ba7df5a0-L? | choice/UI → VICKI | x36 | listener: unknown
+#### 59ba7df5a0-LF | choice/UI → VICKI | x36
 You ambushed me.
 
 #### 539d2a6bef | choice/UI, BRUCE, SELINA, ALFRED → VICKI, BRUCE, LELAND | x76
@@ -451,10 +451,10 @@ On second thought -- we get donuts on Thursdays so...I’m good.
 #### dea059d060 | choice/UI → VICKI | x36
 You catch more flies with honey.
 
-#### 08a9efef9d-LF | BRUCE → VICKI, HARVEY | x36 | listener: female
+#### 08a9efef9d-LF | BRUCE → VICKI, HARVEY | x36
 Haven’t you heard the expression...you catch more flies with honey than...
 
-#### 08a9efef9d-LM | BRUCE → VICKI, HARVEY | x36 | listener: male
+#### 08a9efef9d-LM | BRUCE → VICKI, HARVEY | x36
 Haven’t you heard the expression...you catch more flies with honey than...
 
 #### 32bc46ff2b | VICKI → BRUCE, HARVEY | x36
@@ -562,10 +562,10 @@ Be careful now. Someone snaps a picture of you in an old folks home...might cram
 #### 513903564b | BRUCE → HARVEY | x36
 There were three of them. And one was from Australia.
 
-#### 3da0dbc431-LM | BRUCE, choice/UI, BATMAN → HARVEY, SELINA, GORDON | x48 | listener: male
+#### 3da0dbc431-LF | BRUCE, choice/UI, BATMAN → HARVEY, SELINA, GORDON | x48
 You’re wrong.
 
-#### 3da0dbc431-LF | BRUCE, choice/UI, BATMAN → HARVEY, SELINA, GORDON | x48 | listener: female
+#### 3da0dbc431-LM | BRUCE, choice/UI, BATMAN → HARVEY, SELINA, GORDON | x48
 You’re wrong.
 
 #### d5a8ea676d | HARVEY → BRUCE | x9
@@ -763,10 +763,10 @@ Look...before you say anything...I shouldn’t have let that get to me. All righ
 #### f8f1b6d859 | HARVEY → VICKI, BRUCE | x36
 Hell, maybe you should be the one running.
 
-#### b8fad1d2de-LM | HARVEY → VICKI, BRUCE | x36 | listener: male
+#### b8fad1d2de-LF | HARVEY → VICKI, BRUCE | x36
 I don’t understand how you’re still so calm.
 
-#### b8fad1d2de-LF | HARVEY → VICKI, BRUCE | x36 | listener: female
+#### b8fad1d2de-LM | HARVEY → VICKI, BRUCE | x36
 I don’t understand how you’re still so calm.
 
 #### e74b31f35e | HARVEY → BRUCE | x36
@@ -1198,10 +1198,10 @@ It’s a boundary around a prison, on the other side of which you get shot.
 #### afeee451c5 | HARVEY, choice/UI, BRUCE, SELINA → VICKI, QUINZEL, ALFRED | x15
 Don’t look at me like that.
 
-#### 2fcbe669d4-LM | choice/UI, BRUCE → HARVEY, VICKI | x54 | listener: male
+#### 2fcbe669d4-LF | choice/UI, BRUCE → HARVEY, VICKI | x54
 You need to apologize.
 
-#### 2fcbe669d4-LF | choice/UI, BRUCE → HARVEY, VICKI | x54 | listener: female
+#### 2fcbe669d4-LM | choice/UI, BRUCE → HARVEY, VICKI | x54
 You need to apologize.
 
 #### 47cd0d64c2 | HARVEY, BRUCE → BRUCE, ALFRED | x29
@@ -1288,10 +1288,10 @@ Is there not, some correlation between your decision to build this new facility 
 #### 0b082da310 | VICKI → HARVEY | x27
 So what I’m asking is...
 
-#### c8e98c009d-LF | HARVEY → VICKI, BRUCE | x36 | listener: female
+#### c8e98c009d-LF | HARVEY → VICKI, BRUCE | x36
 You need to make this stop.
 
-#### c8e98c009d-LM | HARVEY → VICKI, BRUCE | x36 | listener: male
+#### c8e98c009d-LM | HARVEY → VICKI, BRUCE | x36
 You need to make this stop.
 
 #### 8a58faebac | BRUCE → HARVEY, VICKI | x27
@@ -1312,10 +1312,10 @@ I’m very sorry but something came up that requires my attention.
 #### 06bebbf20c | BRUCE → HARVEY | x27
 But, thank you everyone for coming.
 
-#### 2298419dfb-LM | HARVEY → VICKI, BRUCE | x27 | listener: male
+#### 2298419dfb-LF | HARVEY → VICKI, BRUCE | x27
 You need to learn when to call it quits.
 
-#### 2298419dfb-LF | HARVEY → VICKI, BRUCE | x27 | listener: female
+#### 2298419dfb-LM | HARVEY → VICKI, BRUCE | x27
 You need to learn when to call it quits.
 
 #### c75eb788f4 | VICKI → HARVEY, BRUCE | x27
@@ -1998,10 +1998,10 @@ That’s right, Bruce. Don’t dignify it with a response.
 #### 9d3e56b974 | BRUCE → HARVEY, REPORTER04 | x36
 My father was whiter than white. His father too. Everyone knows what they did for this city.
 
-#### 7dbe6df249-SM | REPORTER01, REPORTER04, REPORTER02, REPORTER03 → BRUCE, HARVEY | x36 | speaker: male
+#### 7dbe6df249-S? | REPORTER01, REPORTER04, REPORTER02, REPORTER03 → BRUCE, HARVEY | x36
 I wish I were.
 
-#### 7dbe6df249-S? | REPORTER01, REPORTER04, REPORTER02, REPORTER03 → BRUCE, HARVEY | x36 | speaker: unknown
+#### 7dbe6df249-SM | REPORTER01, REPORTER04, REPORTER02, REPORTER03 → BRUCE, HARVEY | x36
 I wish I were.
 
 #### 920467178b | BRUCE → REPORTER01, REPORTER04, HARVEY | x36
@@ -2073,10 +2073,10 @@ That’s a pretty serious accusation.
 #### d9dc3a3c8b | BRUCE → REPORTER01, REPORTER04, HARVEY | x36
 You better have something to back it up.
 
-#### 7077a5d938-SM | REPORTER01, REPORTER04, REPORTER02 → BRUCE | x54 | speaker: male
+#### 7077a5d938-S? | REPORTER01, REPORTER04, REPORTER02 → BRUCE | x54
 I thought I did until today.
 
-#### 7077a5d938-S? | REPORTER01, REPORTER04, REPORTER02 → BRUCE | x54 | speaker: unknown
+#### 7077a5d938-SM | REPORTER01, REPORTER04, REPORTER02 → BRUCE | x54
 I thought I did until today.
 
 #### 3a28c15eab | BRUCE → REPORTER01 | x9
@@ -2904,19 +2904,19 @@ That’s not how it looks from here.
 #### 89f8638e27 | REPORTER01 → REPORTER04, HARVEY | x36
 I know you don’t comment on rumors, but...
 
-#### 2d8f1f68aa-LM | REPORTER01, REPORTER04 → HARVEY, REPORTER04, REPORTER01 | x45 | listener: male
+#### 2d8f1f68aa-L? | REPORTER01, REPORTER04 → HARVEY, REPORTER04, REPORTER01 | x45
 I know you thought it was absurd, but...
 
-#### 2d8f1f68aa-L? | REPORTER01, REPORTER04 → HARVEY, REPORTER04, REPORTER01 | x45 | listener: unknown
+#### 2d8f1f68aa-LM | REPORTER01, REPORTER04 → HARVEY, REPORTER04, REPORTER01 | x45
 I know you thought it was absurd, but...
 
 #### bea218f41d | REPORTER01, REPORTER04 → HARVEY, REPORTER01, REPORTER04 | x36
 I know you think Hill’s just paranoid, but...
 
-#### 2f26c57f0e-L? | REPORTER04, REPORTER01 → BRUCE, REPORTER01, REPORTER04 | x45 | listener: unknown
+#### 2f26c57f0e-L? | REPORTER04, REPORTER01 → BRUCE, REPORTER01, REPORTER04 | x45
 My sources say that you welcomed Carmine Falcone into your home.
 
-#### 2f26c57f0e-LM | REPORTER04, REPORTER01 → BRUCE, REPORTER01, REPORTER04 | x45 | listener: male
+#### 2f26c57f0e-LM | REPORTER04, REPORTER01 → BRUCE, REPORTER01, REPORTER04 | x45
 My sources say that you welcomed Carmine Falcone into your home.
 
 #### 03a09f0c02 | REPORTER01, REPORTER04 → REPORTER04, REPORTER01, BRUCE | x45
@@ -3989,10 +3989,10 @@ So I already know how the story is going to end.
 #### 7bf6947f7c | BRUCE → OSWALD | x3
 Happy to be here too, Oz.
 
-#### ffb45b9e02-LM | OSWALD → BRUCE, REGINA | x6 | listener: male
+#### ffb45b9e02-LF | OSWALD → BRUCE, REGINA | x6
 If you’re going to dish it out, you’ve got to be able to take it, too.
 
-#### ffb45b9e02-LF | OSWALD → BRUCE, REGINA | x6 | listener: female
+#### ffb45b9e02-LM | OSWALD → BRUCE, REGINA | x6
 If you’re going to dish it out, you’ve got to be able to take it, too.
 
 #### a0dac07f31 | OSWALD → BRUCE, REGINA | x6
@@ -4255,10 +4255,10 @@ I know the bylines say Vicki Vale, but I prefer Lady Arkham.
 #### 48208a64c7 | BRUCE → OSWALD | x3
 You?!?
 
-#### 672327db92-LM | choice/UI, BRUCE → OSWALD, HARVEY | x7 | listener: male
+#### 672327db92-L? | choice/UI, BRUCE → OSWALD, HARVEY | x7
 You won’t get away with this.
 
-#### 672327db92-L? | choice/UI, BRUCE → OSWALD, HARVEY | x7 | listener: unknown
+#### 672327db92-LM | choice/UI, BRUCE → OSWALD, HARVEY | x7
 You won’t get away with this.
 
 #### a86beb2f55 | OSWALD → BRUCE | x3
@@ -5020,10 +5020,10 @@ That’s the drug taking hold of you.
 #### 052cb78cd4 | VICKI | x3
 Don’t fight it.
 
-#### 923ed2ed7d-L? | VICKI → BRUCE | x4 | listener: unknown
+#### 923ed2ed7d-L? | VICKI → BRUCE | x4
 I think it’s time you knew my real name...
 
-#### 923ed2ed7d-LM | VICKI → BRUCE | x4 | listener: male
+#### 923ed2ed7d-LM | VICKI → BRUCE | x4
 I think it’s time you knew my real name...
 
 #### 962dc0a59d | VICKI | x3

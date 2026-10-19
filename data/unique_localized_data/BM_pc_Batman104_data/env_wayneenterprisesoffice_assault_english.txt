@@ -49,10 +49,10 @@ That includes making sure rogue vigilantes are staying out of its business.
 #### 0839d3129a | PENGUIN → BATMAN | x4
 I owe it to the shareholders!
 
-#### 049b7d6d4a-L? | PENGUIN → OSWALD | x4 | listener: unknown
+#### 049b7d6d4a-L? | PENGUIN → OSWALD | x4
 What did you come all the way here to say?
 
-#### 049b7d6d4a-LM | PENGUIN → OSWALD | x4 | listener: male
+#### 049b7d6d4a-LM | PENGUIN → OSWALD | x4
 What did you come all the way here to say?
 
 #### 0675161ef5 | PENGUIN → OSWALD | x4
@@ -97,16 +97,16 @@ Oh, and what I discovered-
 #### 02e2b25f84 | PENGUIN | x4
 Wayne was wasting his best think tank’s efforts on hospital and agricultural tech!
 
-#### e31dc33e01-LM | PENGUIN → BATMAN | x4 | listener: male
+#### e31dc33e01-L? | PENGUIN → BATMAN | x4
 You only wish that you had stuff as good as what they’re making here-
 
-#### e31dc33e01-L? | PENGUIN → BATMAN | x4 | listener: unknown
+#### e31dc33e01-LM | PENGUIN → BATMAN | x4
 You only wish that you had stuff as good as what they’re making here-
 
-#### b28d6182ba-LM | PENGUIN → BATMAN | x4 | listener: male
+#### b28d6182ba-L? | PENGUIN → BATMAN | x4
 You and that utility belt of yours only wish that you had stuff as good as what they’re making here-
 
-#### b28d6182ba-L? | PENGUIN → BATMAN | x4 | listener: unknown
+#### b28d6182ba-LM | PENGUIN → BATMAN | x4
 You and that utility belt of yours only wish that you had stuff as good as what they’re making here-
 
 #### b0316e4448 | PENGUIN → BATMAN | x4
@@ -181,10 +181,10 @@ Oh, no! What happened there?!?
 #### 9e8b5bf552 | PENGUIN | x4
 It’s almost as if I could see what you were planning!
 
-#### 417c96f1fb-SM-LM | PENGUIN → BATMAN | x4 | speaker: male, listener: male
+#### 417c96f1fb-SM-L? | PENGUIN → BATMAN | x4
 It’s almost as if I could see what you were planning,eh!
 
-#### 417c96f1fb-SM-L? | PENGUIN → BATMAN | x4 | speaker: male, listener: unknown
+#### 417c96f1fb-SM-LM | PENGUIN → BATMAN | x4
 It’s almost as if I could see what you were planning,eh!
 
 #### d5486c6b56 | PENGUIN → BATMAN | x4
@@ -217,10 +217,10 @@ And unfortunately, I am going to have to ask you to leave.
 #### 7b0b02cfb1 | PENGUIN → BATMAN | x2
 Ha! It’s a little late for that-
 
-#### a682eee0e0-L? | PENGUIN → BATMAN | x6 | listener: unknown
+#### a682eee0e0-L? | PENGUIN → BATMAN | x6
 Ha! That all you got?
 
-#### a682eee0e0-LM | PENGUIN → BATMAN | x6 | listener: male
+#### a682eee0e0-LM | PENGUIN → BATMAN | x6
 Ha! That all you got?
 
 #### dfbd7b626b | choice/UI → PENGUIN | x2

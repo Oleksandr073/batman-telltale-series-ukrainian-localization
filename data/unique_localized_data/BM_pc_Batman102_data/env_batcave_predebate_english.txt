@@ -407,10 +407,10 @@ Hey, Bruce.
 #### 1bbd0ed697 | HARVEY → BRUCE | x4
 Something’s come up.
 
-#### 627e9f1bd0-SM-L? | HARVEY → ALFRED | x4 | speaker: male, listener: unknown
+#### 627e9f1bd0-SM-L? | HARVEY → ALFRED | x4
 Man, I’m glad you called -- I needed to talk to you, actually.
 
-#### 627e9f1bd0-SM-LM | HARVEY → ALFRED | x4 | speaker: male, listener: male
+#### 627e9f1bd0-SM-LM | HARVEY → ALFRED | x4
 Man, I’m glad you called -- I needed to talk to you, actually.
 
 #### 3326a1f1bd | choice/UI → HARVEY | x17
@@ -506,10 +506,10 @@ I’m glad you see it that way.
 #### b0bdc8de3d | choice/UI → HARVEY | x4
 Hill can’t be mayor.
 
-#### 756ba10da9-LM | choice/UI → HARVEY | x6 | listener: male
+#### 756ba10da9-L? | choice/UI → HARVEY | x6
 You’ve got some nerve.
 
-#### 756ba10da9-L? | choice/UI → HARVEY | x6 | listener: unknown
+#### 756ba10da9-LM | choice/UI → HARVEY | x6
 You’ve got some nerve.
 
 #### 6db944b7d6 | choice/UI → HARVEY | x4

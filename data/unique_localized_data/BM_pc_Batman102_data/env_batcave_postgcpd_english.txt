@@ -151,10 +151,10 @@ Yeah. I’ll be there as soon as I can.
 #### 7b9a14c1c7 | HARVEY → BRUCE | x16
 Come on, man. I’m traumatized here.
 
-#### 3438364d30-LM | BRUCE → GORDON, HARVEY, PATRON | x52 | listener: male
+#### 3438364d30-L? | BRUCE → GORDON, HARVEY, PATRON | x52
 You got the wrong guy.
 
-#### 3438364d30-L? | BRUCE → GORDON, HARVEY, PATRON | x52 | listener: unknown
+#### 3438364d30-LM | BRUCE → GORDON, HARVEY, PATRON | x52
 You got the wrong guy.
 
 #### 4398ebcc07 | GORDON → BRUCE | x48
@@ -187,13 +187,13 @@ Twenty minutes.
 #### 392b0b245f | GORDON → BRUCE | x16
 Should only take an hour or so.
 
-#### 8213d60174-SM | GORDON, PENGUIN, ORDERLY02, HARVEY → BRUCE, HARVEY, THOMAS | x58 | speaker: male
+#### 8213d60174-S? | GORDON, PENGUIN, ORDERLY02, HARVEY → BRUCE, HARVEY, THOMAS | x58
 That’s what I thought.
 
-#### 8213d60174-S? | GORDON, PENGUIN, ORDERLY02, HARVEY → BRUCE, HARVEY, THOMAS | x58 | speaker: unknown
+#### 8213d60174-SF | GORDON, PENGUIN, ORDERLY02, HARVEY → BRUCE, HARVEY, THOMAS | x58
 That’s what I thought.
 
-#### 8213d60174-SF | GORDON, PENGUIN, ORDERLY02, HARVEY → BRUCE, HARVEY, THOMAS | x58 | speaker: female
+#### 8213d60174-SM | GORDON, PENGUIN, ORDERLY02, HARVEY → BRUCE, HARVEY, THOMAS | x58
 That’s what I thought.
 
 #### f19c3c599c | GORDON → HARVEY | x16
@@ -283,10 +283,10 @@ I remember his face better than my parents.
 #### 54b72642ef | choice/UI | x32
 I wish I had a time machine.
 
-#### 18df1434d9-L? | choice/UI → HARVEY | x32 | listener: unknown
+#### 18df1434d9-L? | choice/UI → HARVEY | x32
 You really fucked up, huh?
 
-#### 18df1434d9-LM | choice/UI → HARVEY | x32 | listener: male
+#### 18df1434d9-LM | choice/UI → HARVEY | x32
 You really fucked up, huh?
 
 #### e41bb3052a | BRUCE → ALFRED | x16
@@ -505,10 +505,10 @@ You were the only eye witness and she didn’t even interview you.
 #### 55b751e579 | ALFRED → BRUCE | x32
 So, if anyone can attest to the accuracy of that police report, it would be you.
 
-#### 0f3578ad5b-L? | ALFRED → BRUCE | x32 | listener: unknown
+#### 0f3578ad5b-L? | ALFRED → BRUCE | x32
 I know you were just a boy, but you were the only eye witness to their... deaths.
 
-#### 0f3578ad5b-LM | ALFRED → BRUCE | x32 | listener: male
+#### 0f3578ad5b-LM | ALFRED → BRUCE | x32
 I know you were just a boy, but you were the only eye witness to their... deaths.
 
 #### 24dc836373 | ALFRED → BRUCE | x32
@@ -1072,10 +1072,10 @@ I know you don’t like to talk about it,  but you were the only eye witness to 
 #### 6d4aed6f0d | ALFRED | x16
 You never said
 
-#### 706b8ab1ff-L? | ALFRED → BRUCE | x32 | listener: unknown
+#### 706b8ab1ff-L? | ALFRED → BRUCE | x32
 You said this Ms. Vale had some theory... that they were assasinated?
 
-#### 706b8ab1ff-LM | ALFRED → BRUCE | x32 | listener: male
+#### 706b8ab1ff-LM | ALFRED → BRUCE | x32
 You said this Ms. Vale had some theory... that they were assasinated?
 
 #### 186e2a707a | ALFRED → BRUCE | x32
@@ -1207,10 +1207,10 @@ It was so big, you were... lost in it.
 #### 3e5ba584e8 | ALFRED → BRUCE | x64
 Unless, of course you remember otherwise...
 
-#### 613978653f-L? | ALFRED → GORDON, BRUCE | x64 | listener: unknown
+#### 613978653f-L? | ALFRED → GORDON, BRUCE | x64
 I know you don’t like to talk about it, but you were the only witness.
 
-#### 613978653f-LM | ALFRED → GORDON, BRUCE | x64 | listener: male
+#### 613978653f-LM | ALFRED → GORDON, BRUCE | x64
 I know you don’t like to talk about it, but you were the only witness.
 
 #### 1a83a83b70 | ALFRED → BRUCE | x32
@@ -1303,10 +1303,10 @@ It’s a liitle early for you, isn’t it?
 #### 5d75fe4361 | GORDON, choice/UI, JOKER → BRUCE | x20
 Sorry about that.
 
-#### 42996085dd-LM | choice/UI, BRUCE → GORDON | x48 | listener: male
+#### 42996085dd-L? | choice/UI, BRUCE → GORDON | x48
 You woke me up.
 
-#### 42996085dd-L? | choice/UI, BRUCE → GORDON | x48 | listener: unknown
+#### 42996085dd-LM | choice/UI, BRUCE → GORDON | x48
 You woke me up.
 
 #### 88b7a30892 | GORDON → BRUCE | x16
@@ -1648,10 +1648,10 @@ Not a word.
 #### c93a35adcb | ALFRED | x16
 No [beat] more like it was wearing you... It was so big, you were... lost in it.
 
-#### 62d0eb3506-LM | ALFRED, choice/UI → BRUCE | x18 | listener: male
+#### 62d0eb3506-L? | ALFRED, choice/UI → BRUCE | x18
 Get it yourself.
 
-#### 62d0eb3506-L? | ALFRED, choice/UI → BRUCE | x18 | listener: unknown
+#### 62d0eb3506-LM | ALFRED, choice/UI → BRUCE | x18
 Get it yourself.
 
 #### 13f63ca324 | BRUCE → ALFRED | x16
@@ -5260,10 +5260,10 @@ It matters to me.
 #### f238adb05a | HARVEY → BRUCE | x4
 This is my career.
 
-#### 998ccc8be4-LM | HARVEY → BRUCE | x8 | listener: male
+#### 998ccc8be4-L? | HARVEY → BRUCE | x8
 You spoke with Hill...
 
-#### 998ccc8be4-L? | HARVEY → BRUCE | x8 | listener: unknown
+#### 998ccc8be4-LM | HARVEY → BRUCE | x8
 You spoke with Hill...
 
 #### 922e1fadd1 | HARVEY | x8
@@ -5317,10 +5317,10 @@ It’s an asshole move, Harvey.
 #### d55f2e0ace | HARVEY → BRUCE | x8
 It’s the only move, Bruce.
 
-#### 8343c5fb2c-LM | HARVEY → BRUCE | x8 | listener: male
+#### 8343c5fb2c-L? | HARVEY → BRUCE | x8
 At least the only one you’ve left me with.
 
-#### 8343c5fb2c-L? | HARVEY → BRUCE | x8 | listener: unknown
+#### 8343c5fb2c-LM | HARVEY → BRUCE | x8
 At least the only one you’ve left me with.
 
 #### 28688aace4 | HARVEY → BRUCE | x2

@@ -1075,10 +1075,10 @@ Yeah, I wouldn’t mind easy for a change.
 #### 2c8ed63529 | ALFRED → BRUCE | x2
 Someday.
 
-#### 3dab2bf483-SM | ALFRED, REGINA, HARVEY, LUCIUS → BRUCE | x23 | speaker: male
+#### 3dab2bf483-SF | ALFRED, REGINA, HARVEY, LUCIUS → BRUCE | x23
 I’m sorry, Bruce.
 
-#### 3dab2bf483-SF | ALFRED, REGINA, HARVEY, LUCIUS → BRUCE | x23 | speaker: female
+#### 3dab2bf483-SM | ALFRED, REGINA, HARVEY, LUCIUS → BRUCE | x23
 I’m sorry, Bruce.
 
 #### 27fe66f68d | choice/UI → ALFRED | x2

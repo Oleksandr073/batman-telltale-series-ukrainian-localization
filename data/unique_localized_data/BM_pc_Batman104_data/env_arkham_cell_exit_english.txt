@@ -43,13 +43,13 @@ I am not vengeful anymore.
 #### 94bdcc0d46 | choice/UI | x2
 You’re crazier than I am.
 
-#### 12db183ea8-L? | BATMAN, choice/UI → LUCIUS, LADYARKHAM | x12 | listener: unknown
+#### 12db183ea8-L? | BATMAN, choice/UI → LUCIUS, LADYARKHAM | x12
 What have you done?
 
-#### 12db183ea8-LM | BATMAN, choice/UI → LUCIUS, LADYARKHAM | x12 | listener: male
+#### 12db183ea8-LF | BATMAN, choice/UI → LUCIUS, LADYARKHAM | x12
 What have you done?
 
-#### 12db183ea8-LF | BATMAN, choice/UI → LUCIUS, LADYARKHAM | x12 | listener: female
+#### 12db183ea8-LM | BATMAN, choice/UI → LUCIUS, LADYARKHAM | x12
 What have you done?
 
 #### 7316726893 | choice/UI → ORDERLY01 | x4
@@ -391,13 +391,13 @@ Bruce, I never came to visit you.
 #### e148cd74d0 | ALFRED → BRUCE | x2
 You weren’t allowed any visitors.
 
-#### f637e18dd6-SM-LM | BRUCE → ALFRED, LELAND | x14 | speaker: male, listener: male
+#### f637e18dd6-SM-L? | BRUCE → ALFRED, LELAND | x14
 I tried to do what you said.
 
-#### f637e18dd6-SM-L? | BRUCE → ALFRED, LELAND | x14 | speaker: male, listener: unknown
+#### f637e18dd6-SM-LF | BRUCE → ALFRED, LELAND | x14
 I tried to do what you said.
 
-#### f637e18dd6-SM-LF | BRUCE → ALFRED, LELAND | x14 | speaker: male, listener: female
+#### f637e18dd6-SM-LM | BRUCE → ALFRED, LELAND | x14
 I tried to do what you said.
 
 #### c5c2cf87aa | ALFRED → BRUCE | x2
@@ -409,13 +409,13 @@ This man is a violent psychotic -- he attacked several patients -- sending one t
 #### 64f5c958a1 | BRUCE → ALFRED | x2
 She’s lying.
 
-#### e0888881a1-SM-LM | BRUCE → LELAND, ALFRED | x14 | speaker: male, listener: male
+#### e0888881a1-SM-L? | BRUCE → LELAND, ALFRED | x14
 I did *exactly* what you told me to do.
 
-#### e0888881a1-SM-LF | BRUCE → LELAND, ALFRED | x14 | speaker: male, listener: female
+#### e0888881a1-SM-LF | BRUCE → LELAND, ALFRED | x14
 I did *exactly* what you told me to do.
 
-#### e0888881a1-SM-L? | BRUCE → LELAND, ALFRED | x14 | speaker: male, listener: unknown
+#### e0888881a1-SM-LM | BRUCE → LELAND, ALFRED | x14
 I did *exactly* what you told me to do.
 
 #### 41e300a547 | BRUCE → QUINZEL, ALFRED | x4
@@ -925,10 +925,10 @@ Respect our privacy, please.
 #### 0ebf23c8fc | ALFRED → SPENCER, REPORTER05, BRUCE | x10
 Mr. Wayne has been through a lot.
 
-#### 57f705db80-LM | REPORTER05 → ALFRED, BRUCE, SPENCER | x6 | listener: male
+#### 57f705db80-L? | REPORTER05 → ALFRED, BRUCE, SPENCER | x6
 Did you do it because he took your campany?
 
-#### 57f705db80-L? | REPORTER05 → ALFRED, BRUCE, SPENCER | x6 | listener: unknown
+#### 57f705db80-LM | REPORTER05 → ALFRED, BRUCE, SPENCER | x6
 Did you do it because he took your campany?
 
 #### b124fe6df1 | SPENCER → BRUCE | x2
@@ -982,10 +982,10 @@ Arkham isn’t a safe institution.
 #### 24bac234c1 | BRUCE → SPENCER | x6
 It deserves to be torn down.
 
-#### ec067c54a2-LM | BRUCE → REPORTER02, REPORTER04, SPENCER | x6 | listener: male
+#### ec067c54a2-L? | BRUCE → REPORTER02, REPORTER04, SPENCER | x6
 You need to get better sources.
 
-#### ec067c54a2-L? | BRUCE → REPORTER02, REPORTER04, SPENCER | x6 | listener: unknown
+#### ec067c54a2-LM | BRUCE → REPORTER02, REPORTER04, SPENCER | x6
 You need to get better sources.
 
 #### c359ab95e4 | SPENCER → BRUCE | x4
@@ -1453,10 +1453,10 @@ Not really my style.
 #### 51fd5d6391 | choice/UI → SPENCER, ALFRED | x4
 It wasn’t my fault.
 
-#### deb151590b-L? | BRUCE → SPENCER, ALFRED | x4 | listener: unknown
+#### deb151590b-L? | BRUCE → SPENCER, ALFRED | x4
 Did you really think that was going to happen?
 
-#### deb151590b-LM | BRUCE → SPENCER, ALFRED | x4 | listener: male
+#### deb151590b-LM | BRUCE → SPENCER, ALFRED | x4
 Did you really think that was going to happen?
 
 #### 93ea587d04 | ALFRED → BRUCE | x4

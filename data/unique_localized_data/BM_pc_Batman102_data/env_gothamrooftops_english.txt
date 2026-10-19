@@ -220,10 +220,10 @@ What’re you planning?
 #### 15fd0b1f7d | OSWALD → BATMAN, CHEMTHUG, CONTRACTOR | x8
 Come upstairs. I’ll show you the office area.
 
-#### d3946aed02-LM | BATMAN → OSWALD, CHEMTHUG | x8 | listener: male
+#### d3946aed02-L? | BATMAN → OSWALD, CHEMTHUG | x8
 You would have been safer there.
 
-#### d3946aed02-L? | BATMAN → OSWALD, CHEMTHUG | x8 | listener: unknown
+#### d3946aed02-LM | BATMAN → OSWALD, CHEMTHUG | x8
 You would have been safer there.
 
 #### cae114e934 | BATMAN → OSWALD, CHEMTHUG | x8
@@ -235,19 +235,19 @@ Quiet or I’ll break your other arm.
 #### 79d2291c36 | BATMAN → CHEMTHUG | x8
 Seems like you didn’t learn your lesson at the docks.
 
-#### fa7381d6a4-L? | BATMAN → CHEMTHUG | x10 | listener: unknown
+#### fa7381d6a4-L? | BATMAN → CHEMTHUG | x10
 You lied to me at the docks.
 
-#### fa7381d6a4-LM | BATMAN → CHEMTHUG | x10 | listener: male
+#### fa7381d6a4-LM | BATMAN → CHEMTHUG | x10
 You lied to me at the docks.
 
 #### 864c2d3e0a | BATMAN → CHEMTHUG | x10
 Tried to send me after Falcone.
 
-#### 3b90018fbe-LM | BATMAN → CHEMTHUG | x10 | listener: male
+#### 3b90018fbe-L? | BATMAN → CHEMTHUG | x10
 You won’t do that again.
 
-#### 3b90018fbe-L? | BATMAN → CHEMTHUG | x10 | listener: unknown
+#### 3b90018fbe-LM | BATMAN → CHEMTHUG | x10
 You won’t do that again.
 
 #### 7bcbc02714 | CHEMTHUG → BATMAN | x4
@@ -307,10 +307,10 @@ Now come check out this office. The view is something else...
 #### 6e648ab4ca | OSWALD → CONTRACTOR, BATMAN | x6
 Warren, forget Rocko! I’ve got something else for you.
 
-#### e92667336e-LM | OSWALD → CONTRACTOR, BATMAN | x14 | listener: male
+#### e92667336e-L? | OSWALD → CONTRACTOR, BATMAN | x14
 You’re lucky I don’t toss you out this hole!
 
-#### e92667336e-L? | OSWALD → CONTRACTOR, BATMAN | x14 | listener: unknown
+#### e92667336e-LM | OSWALD → CONTRACTOR, BATMAN | x14
 You’re lucky I don’t toss you out this hole!
 
 #### 20bb04d63a | OSWALD, PENGUIN → CONTRACTOR | x14
@@ -373,10 +373,10 @@ You turned a good cop into your personal assassin. Why?
 #### a5a1b92192 | OSWALD → BATMAN | x4
 Good question! But you’re chasing down the wrong fox.
 
-#### 34eee467a2-LM | OSWALD → BATMAN | x20 | listener: male
+#### 34eee467a2-L? | OSWALD → BATMAN | x20
 I know you’re steamed.
 
-#### 34eee467a2-L? | OSWALD → BATMAN | x20 | listener: unknown
+#### 34eee467a2-LM | OSWALD → BATMAN | x20
 I know you’re steamed.
 
 #### 1ec4128d11 | OSWALD → BATMAN | x20
@@ -388,10 +388,10 @@ Rough. But you’ve done worse, I suppose.
 #### 5f52e53b0b | OSWALD → BATMAN | x8
 There. Now let’s speak civilized.
 
-#### 90c69b7b1f-L? | OSWALD → BATMAN | x8 | listener: unknown
+#### 90c69b7b1f-L? | OSWALD → BATMAN | x8
 You need to understand that what’s happening right now is bigger than the two of us.
 
-#### 90c69b7b1f-LM | OSWALD → BATMAN | x8 | listener: male
+#### 90c69b7b1f-LM | OSWALD → BATMAN | x8
 You need to understand that what’s happening right now is bigger than the two of us.
 
 #### 3df427bfbd | OSWALD | x8
@@ -574,10 +574,10 @@ Yes! Beautiful name. Anyway, have fun with Desmond.
 #### add2e52891 | OSWALD → BLOCKBUSTER | x4
 That’s a question for one of my partners. I’ve been focused on my new club here.
 
-#### 27781846bf-LM | BLOCKBUSTER, PENGUIN → OSWALD | x10 | listener: male
+#### 27781846bf-L? | BLOCKBUSTER, PENGUIN → OSWALD | x10
 That all you got?
 
-#### 27781846bf-L? | BLOCKBUSTER, PENGUIN → OSWALD | x10 | listener: unknown
+#### 27781846bf-LM | BLOCKBUSTER, PENGUIN → OSWALD | x10
 That all you got?
 
 #### fad91656ee | BLOCKBUSTER → OSWALD, BATMAN | x6
@@ -607,13 +607,13 @@ He won’t be the same after this.
 #### 006e216810 | SELINA, BRUCE → RYDER, LADYARKHAM, ALFRED | x6
 Where am I?
 
-#### 14708a308d-LM | BRUCE, choice/UI → RYDER, LADYARKHAM | x6 | listener: male
+#### 14708a308d-L? | BRUCE, choice/UI → RYDER, LADYARKHAM | x6
 You’re safe.
 
-#### 14708a308d-LF | BRUCE, choice/UI → RYDER, LADYARKHAM | x6 | listener: female
+#### 14708a308d-LF | BRUCE, choice/UI → RYDER, LADYARKHAM | x6
 You’re safe.
 
-#### 14708a308d-L? | BRUCE, choice/UI → RYDER, LADYARKHAM | x6 | listener: unknown
+#### 14708a308d-LM | BRUCE, choice/UI → RYDER, LADYARKHAM | x6
 You’re safe.
 
 #### 7138ea9066 | RYDER → SELINA | x2
@@ -646,10 +646,10 @@ Meanwhile, the Wayne Family scandal continued to escalate after the full list of
 #### c00ec2dd5a | GORDON → RYDER | x2
 He’s lucky, you know. Could have been much worse if the Batman hadn’t been there.
 
-#### 40fa97ffd7-LM | GCPD01, BATMAN → RYDER, VICKI | x4 | listener: male
+#### 40fa97ffd7-LF | GCPD01, BATMAN → RYDER, VICKI | x4
 Did you see her?
 
-#### 40fa97ffd7-LF | GCPD01, BATMAN → RYDER, VICKI | x4 | listener: female
+#### 40fa97ffd7-LM | GCPD01, BATMAN → RYDER, VICKI | x4
 Did you see her?
 
 #### 7c2eca5c27 | GCPD02 → GCPD01 | x2

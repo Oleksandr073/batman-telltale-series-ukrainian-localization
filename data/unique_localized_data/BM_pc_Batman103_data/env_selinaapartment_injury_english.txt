@@ -1003,10 +1003,10 @@ I thought... nevermind.
 #### 33bd8c656c | CATWOMAN → BRUCE | x6
 Did you mean to say that out loud?
 
-#### 98569f7219-SM | BRUCE, SELINA → CATWOMAN, BRUCE | x4 | speaker: male
+#### 98569f7219-SF | BRUCE, SELINA → CATWOMAN, BRUCE | x4
 Of course I did.
 
-#### 98569f7219-SF | BRUCE, SELINA → CATWOMAN, BRUCE | x4 | speaker: female
+#### 98569f7219-SM | BRUCE, SELINA → CATWOMAN, BRUCE | x4
 Of course I did.
 
 #### 9e9394eadd | CATWOMAN → BRUCE | x2
@@ -1180,10 +1180,10 @@ I told you I don’t like owing people.{HappyA}
 #### 2456a26a88 | CATWOMAN → BRUCE | x2
 Then I’m done owing you favors.
 
-#### 60b8c95923-LM | CATWOMAN → BRUCE | x4 | listener: male
+#### 60b8c95923-L? | CATWOMAN → BRUCE | x4
 I think you’ve got the wrong idea, here.
 
-#### 60b8c95923-L? | CATWOMAN → BRUCE | x4 | listener: unknown
+#### 60b8c95923-LM | CATWOMAN → BRUCE | x4
 I think you’ve got the wrong idea, here.
 
 #### 699d33695f | CATWOMAN → BRUCE | x2
@@ -1258,10 +1258,10 @@ I wasn’t going to abandon you.
 #### 35195e566f | CATWOMAN → BRUCE | x14
 It’s better. No strings.
 
-#### 93712ba358-L? | CATWOMAN → BRUCE | x14 | listener: unknown
+#### 93712ba358-L? | CATWOMAN → BRUCE | x14
 You showed me where you stood back in that debate hall, and I know I don’t fit into the picture.
 
-#### 93712ba358-LM | CATWOMAN → BRUCE | x14 | listener: male
+#### 93712ba358-LM | CATWOMAN → BRUCE | x14
 You showed me where you stood back in that debate hall, and I know I don’t fit into the picture.
 
 #### 12113d2ee0 | choice/UI → CATWOMAN | x2
@@ -1336,10 +1336,10 @@ Must be nice.
 #### 3cfa15d1b0 | BRUCE → CATWOMAN | x2
 You don’t have anyone like that?
 
-#### 69c3697221-SF | BRUCE, CATWOMAN → JOKER, BRUCE | x6 | speaker: female
+#### 69c3697221-SF | BRUCE, CATWOMAN → JOKER, BRUCE | x6
 I did.
 
-#### 69c3697221-SM | BRUCE, CATWOMAN → JOKER, BRUCE | x6 | speaker: male
+#### 69c3697221-SM | BRUCE, CATWOMAN → JOKER, BRUCE | x6
 I did.
 
 #### 23c04c3afd | BRUCE → CATWOMAN | x4

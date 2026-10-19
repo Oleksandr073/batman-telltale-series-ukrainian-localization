@@ -145,10 +145,10 @@ I sure hope whatever he took wasn’t too valuable.
 #### 06e408f427 | SELINA → BRUCE | x2
 Actually it was.
 
-#### 2302aa42f2-SF | SELINA, choice/UI → BRUCE, GORDON | x4 | speaker: female
+#### 2302aa42f2-SF | SELINA, choice/UI → BRUCE, GORDON | x4
 I was mugged.
 
-#### 2302aa42f2-SM | SELINA, choice/UI → BRUCE, GORDON | x4 | speaker: male
+#### 2302aa42f2-SM | SELINA, choice/UI → BRUCE, GORDON | x4
 I was mugged.
 
 #### 1a41f99d0b | choice/UI → SELINA | x2
@@ -673,10 +673,10 @@ Oh, alright then. [beat]Don’t forget to change into your suit.
 #### 27206bee15 | BRUCE → SELINA | x2
 Alright, you want my help?
 
-#### ac87e6e23d-LF | LUCIUS, BRUCE, CATWOMAN, OSWALD → BRUCE, LADYARKHAM, SELINA | x30 | listener: female
+#### ac87e6e23d-LF | LUCIUS, BRUCE, CATWOMAN, OSWALD → BRUCE, LADYARKHAM, SELINA | x30
 You got it.
 
-#### ac87e6e23d-LM | LUCIUS, BRUCE, CATWOMAN, OSWALD → BRUCE, LADYARKHAM, SELINA | x30 | listener: male
+#### ac87e6e23d-LM | LUCIUS, BRUCE, CATWOMAN, OSWALD → BRUCE, LADYARKHAM, SELINA | x30
 You got it.
 
 #### c53cb8c7b5 | BRUCE → SELINA | x2

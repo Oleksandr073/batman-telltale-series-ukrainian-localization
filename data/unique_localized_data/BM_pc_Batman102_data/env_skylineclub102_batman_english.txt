@@ -130,10 +130,10 @@ You seem like you’re more of a talk scary and leave ‘em tied up for the poli
 #### 4ea3f51a7e | OSWALD → BATMAN | x4
 Guess knocking first isn’t really your thing, eh?
 
-#### 9364374b50-LM | OSWALD → BATMAN, CONTRACTOR | x8 | listener: male
+#### 9364374b50-L? | OSWALD → BATMAN, CONTRACTOR | x8
 Quite the persona you’ve crafted here, mate. The costume. The voice. Everything.
 
-#### 9364374b50-L? | OSWALD → BATMAN, CONTRACTOR | x8 | listener: unknown
+#### 9364374b50-LM | OSWALD → BATMAN, CONTRACTOR | x8
 Quite the persona you’ve crafted here, mate. The costume. The voice. Everything.
 
 #### 03a6b9ea88 | OSWALD → BATMAN, CONTRACTOR | x8
@@ -472,10 +472,10 @@ Hell of a view...
 #### 5765cc482b | ALFRED → OSWALD | x2
 May I ask, is it business or personal?
 
-#### d378757b60-LM | choice/UI → OSWALD, ALFRED | x4 | listener: male
+#### d378757b60-L? | choice/UI → OSWALD, ALFRED | x4
 You used Montoya!
 
-#### d378757b60-L? | choice/UI → OSWALD, ALFRED | x4 | listener: unknown
+#### d378757b60-LM | choice/UI → OSWALD, ALFRED | x4
 You used Montoya!
 
 #### 4022e81b33 | BATMAN → OSWALD | x4
@@ -820,10 +820,10 @@ Usually have to pay to see a show like that.
 #### 520cd5ff0b | OSWALD | x2
 Usually have to pay to watch bloodsport.
 
-#### f0c5d43905-L? | OSWALD → BATMAN, BRUCE | x8 | listener: unknown
+#### f0c5d43905-L? | OSWALD → BATMAN, BRUCE | x8
 Maybe that’s why you’ve got so many?
 
-#### f0c5d43905-LM | OSWALD → BATMAN, BRUCE | x8 | listener: male
+#### f0c5d43905-LM | OSWALD → BATMAN, BRUCE | x8
 Maybe that’s why you’ve got so many?
 
 #### 21862c23f8 | OSWALD | x4
@@ -976,10 +976,10 @@ I like your choice of words.
 #### a36cabbf2d | OSWALD → BATMAN | x4
 Impaling a man on live TV!
 
-#### 03d4d9688e-L? | OSWALD → BATMAN | x4 | listener: unknown
+#### 03d4d9688e-L? | OSWALD → BATMAN | x4
 Gotta admit, you’ve got flair!
 
-#### 03d4d9688e-LM | OSWALD → BATMAN | x4 | listener: male
+#### 03d4d9688e-LM | OSWALD → BATMAN | x4
 Gotta admit, you’ve got flair!
 
 #### 26873065fb | OSWALD → BATMAN | x4
@@ -1006,10 +1006,10 @@ What are you trying to change?
 #### 834e6e9fd0 | BATMAN → OSWALD | x2
 Where are Falcone’s chemicals?
 
-#### c83301ef48-SM | OSWALD, SELINA → BATMAN, BRUCE | x4 | speaker: male
+#### c83301ef48-SF | OSWALD, SELINA → BATMAN, BRUCE | x4
 That’s what I wanted to talk to you about.
 
-#### c83301ef48-SF | OSWALD, SELINA → BATMAN, BRUCE | x4 | speaker: female
+#### c83301ef48-SM | OSWALD, SELINA → BATMAN, BRUCE | x4
 That’s what I wanted to talk to you about.
 
 #### 7ab26830bf | OSWALD → BATMAN | x4

@@ -1090,13 +1090,13 @@ Oh. What’ve you got there?
 #### 714c3c0fe7 | BRUCE → HARVEY | x2
 Though I see I’m not the first.
 
-#### 1efa30bf4c-LM | BRUCE, choice/UI, HARVEY → JOKER, BRUCE, ALFRED | x12 | listener: male
+#### 1efa30bf4c-L? | BRUCE, choice/UI, HARVEY → JOKER, BRUCE, ALFRED | x12
 Maybe you’re right.
 
-#### 1efa30bf4c-L? | BRUCE, choice/UI, HARVEY → JOKER, BRUCE, ALFRED | x12 | listener: unknown
+#### 1efa30bf4c-LF | BRUCE, choice/UI, HARVEY → JOKER, BRUCE, ALFRED | x12
 Maybe you’re right.
 
-#### 1efa30bf4c-LF | BRUCE, choice/UI, HARVEY → JOKER, BRUCE, ALFRED | x12 | listener: female
+#### 1efa30bf4c-LM | BRUCE, choice/UI, HARVEY → JOKER, BRUCE, ALFRED | x12
 Maybe you’re right.
 
 #### 64507a69c0 | HARVEY → BRUCE | x2

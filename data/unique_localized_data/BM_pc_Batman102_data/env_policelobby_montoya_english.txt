@@ -94,10 +94,10 @@ She knows what happened.
 #### e88a31c612 | MONTOYA → BRUCE | x4
 I-- It would {ThinkingA}explain a lot.
 
-#### 84262d17ad-LM | BRUCE → HARVEY, MONTOYA | x4 | listener: male
+#### 84262d17ad-LF | BRUCE → HARVEY, MONTOYA | x4
 I believe you were drugged,{ConcernedA} Sergeant.
 
-#### 84262d17ad-LF | BRUCE → HARVEY, MONTOYA | x4 | listener: female
+#### 84262d17ad-LM | BRUCE → HARVEY, MONTOYA | x4
 I believe you were drugged,{ConcernedA} Sergeant.
 
 #### 62cfe316d5 | choice/UI → HARVEY | x2
@@ -217,22 +217,22 @@ We don’t have a choice
 #### 6d4742a3e3 | choice/UI | x2
 [Push her aside]
 
-#### 5bb75d2d32-L? | choice/UI → GORDON, MONTOYA | x8 | listener: unknown
+#### 5bb75d2d32-L? | choice/UI → GORDON, MONTOYA | x8
 You were drugged.
 
-#### 5bb75d2d32-LM | choice/UI → GORDON, MONTOYA | x8 | listener: male
+#### 5bb75d2d32-LF | choice/UI → GORDON, MONTOYA | x8
 You were drugged.
 
-#### 5bb75d2d32-LF | choice/UI → GORDON, MONTOYA | x8 | listener: female
+#### 5bb75d2d32-LM | choice/UI → GORDON, MONTOYA | x8
 You were drugged.
 
 #### 4653d54eab | choice/UI → GORDON | x4
 People were in danger.
 
-#### 541cd3b340-L? | choice/UI → GORDON | x4 | listener: unknown
+#### 541cd3b340-L? | choice/UI → GORDON | x4
 You killed Falcone.
 
-#### 541cd3b340-LM | choice/UI → GORDON | x4 | listener: male
+#### 541cd3b340-LM | choice/UI → GORDON | x4
 You killed Falcone.
 
 #### 3bd658d6a6 | choice/UI → GORDON | x4
@@ -592,10 +592,10 @@ Relax, I have his gun. But...[she turns to Gordon]I’m going to need your badge
 #### a438f19912 | GORDON → MONTOYA | x2
 I’m screwed, aren’t I?
 
-#### 523bd3570e-SF | MONTOYA, choice/UI, HARVEY, BRUCE → BRUCE, SELINA, GORDON | x44 | speaker: female
+#### 523bd3570e-SF | MONTOYA, choice/UI, HARVEY, BRUCE → BRUCE, SELINA, GORDON | x44
 I’m sorry.
 
-#### 523bd3570e-SM | MONTOYA, choice/UI, HARVEY, BRUCE → BRUCE, SELINA, GORDON | x44 | speaker: male
+#### 523bd3570e-SM | MONTOYA, choice/UI, HARVEY, BRUCE → BRUCE, SELINA, GORDON | x44
 I’m sorry.
 
 #### 0678e76366 | GORDON → MONTOYA | x2
@@ -2308,13 +2308,13 @@ Everything is so{ThinkingA}... foggy.
 #### f1e88df646 | MONTOYA → BRUCE | x2
 But I’m starting to think{AngryB} it was real...
 
-#### 3fcec45dea-LF | choice/UI → MONTOYA, OSWALD | x6 | listener: female
+#### 3fcec45dea-L? | choice/UI → MONTOYA, OSWALD | x6
 You murdered Falcone.
 
-#### 3fcec45dea-LM | choice/UI → MONTOYA, OSWALD | x6 | listener: male
+#### 3fcec45dea-LF | choice/UI → MONTOYA, OSWALD | x6
 You murdered Falcone.
 
-#### 3fcec45dea-L? | choice/UI → MONTOYA, OSWALD | x6 | listener: unknown
+#### 3fcec45dea-LM | choice/UI → MONTOYA, OSWALD | x6
 You murdered Falcone.
 
 #### e67d45486b | BRUCE → MONTOYA | x2
@@ -3250,13 +3250,13 @@ About some kind of{ConfusedB} lock down?
 #### c8586dec83 | VICKI → BRUCE | x2
 Word is Falcone{ThinkingA} was murdered{AngryA} in custody.
 
-#### 838d0d0ec8-LF | choice/UI → VICKI, HARVEY | x40 | listener: female
+#### 838d0d0ec8-L? | choice/UI → VICKI, HARVEY | x40
 Where did you hear that?
 
-#### 838d0d0ec8-LM | choice/UI → VICKI, HARVEY | x40 | listener: male
+#### 838d0d0ec8-LF | choice/UI → VICKI, HARVEY | x40
 Where did you hear that?
 
-#### 838d0d0ec8-L? | choice/UI → VICKI, HARVEY | x40 | listener: unknown
+#### 838d0d0ec8-LM | choice/UI → VICKI, HARVEY | x40
 Where did you hear that?
 
 #### 62dfeba9c2 | choice/UI → VICKI | x2

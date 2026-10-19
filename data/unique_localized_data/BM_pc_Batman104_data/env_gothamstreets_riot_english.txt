@@ -361,10 +361,10 @@ Why is the area blocked?
 #### 2bbab3020e | POLICE OFFICER, POLICEOFFICER → POLICEOFFICER, POLICE OFFICER | x4
 Didn’t you hear me say “Mayor Dent’s orders?!?“
 
-#### 4a45db61bd-LM | POLICE OFFICER, POLICEOFFICER → BRUCE, ENFORCER01 | x4 | listener: male
+#### 4a45db61bd-L? | POLICE OFFICER, POLICEOFFICER → BRUCE, ENFORCER01 | x4
 That’s all you got to know!
 
-#### 4a45db61bd-L? | POLICE OFFICER, POLICEOFFICER → BRUCE, ENFORCER01 | x4 | listener: unknown
+#### 4a45db61bd-LM | POLICE OFFICER, POLICEOFFICER → BRUCE, ENFORCER01 | x4
 That’s all you got to know!
 
 #### b9880eee8a | BRUCE → POLICE OFFICER | x2
@@ -748,10 +748,10 @@ That’s not funny.
 #### 1b190b750d | choice/UI | x2
 Thought you would visit.
 
-#### b465bd780b-L? | choice/UI → HARVEY | x4 | listener: unknown
+#### b465bd780b-L? | choice/UI → HARVEY | x4
 Glad you left?
 
-#### b465bd780b-LM | choice/UI → HARVEY | x4 | listener: male
+#### b465bd780b-LM | choice/UI → HARVEY | x4
 Glad you left?
 
 #### c6eaf02967 | choice/UI | x2

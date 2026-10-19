@@ -434,7 +434,7 @@ def read_table(path):
 #   <empty line>
 # data/unique_localized_data has the same entries with the Ukrainian from the table (untranslated = English). Only when
 # one English text needs several Ukrainian versions (male/female forms) does the entry appear once per version,
-# with the table key and a label, e.g. "#### f156de4535-LF | BRUCE | x4 | listener: female".
+# with the table key instead of the text id, e.g. "#### f156de4535-LF | BRUCE | x4" (no gender label).
 
 def file_order(rel):
     """Default mode first (episode 101 -> 105, menus), then Noir; used for table rows and unique files."""
@@ -474,9 +474,6 @@ def _head(tid, e):
     return f"#### {tid} | {who}{' → ' + to if to else ''} | x{e['count']}"
 
 
-GENDER_WORD = {'M': 'male', 'F': 'female', '?': 'unknown'}
-
-
 def unique_files(root, rows=None):
     """-> ({relative path: [lines]}, rows with a wrong ¶ count). rows=None: English folder.
     rows = table rows: Ukrainian folder."""
@@ -498,9 +495,10 @@ def unique_files(root, rows=None):
                     text = tr
             files[e['file']].extend([_head(tid, e)] + text + [''])
             continue
-        for row in sorted(variants[tid], key=lambda v: v["key"]):   # several Ukrainian versions, fixed order
-            label = ', '.join(f'{who}: {GENDER_WORD.get(g, g)}' for who, g in
-                              (('speaker', row.get('speaker_gender')), ('listener', row.get('listener_gender'))) if g)
+        # several Ukrainian versions of one English text (male/female forms): one entry each, in a fixed order.
+        # The entry header carries the table key (e.g. e9fb7ef5aa-LF) so the versions can be told apart and checked;
+        # no readable gender label (gender lives only in speaker_genders.xlsx and the table).
+        for row in sorted(variants[tid], key=lambda v: v["key"]):
             text = e['cores']
             if row.get('ukrainian'):
                 tr = split_translation(row['ukrainian'], len(e['cores']))
@@ -508,7 +506,7 @@ def unique_files(root, rows=None):
                     bad += 1
                 else:
                     text = tr
-            files[e['file']].extend([_head(row['key'], e) + f' | {label}'] + text + [''])
+            files[e['file']].extend([_head(row['key'], e)] + text + [''])
     return files, bad
 
 

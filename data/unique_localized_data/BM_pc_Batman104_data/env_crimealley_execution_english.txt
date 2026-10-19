@@ -7,10 +7,10 @@
 #### 42b2d8a1fd | choice/UI | x2
 I wish you weren’t in this position.
 
-#### ac2a819ee7-SM-L? | choice/UI → GORDON | x4 | speaker: male, listener: unknown
+#### ac2a819ee7-SM-L? | choice/UI → GORDON | x4
 I only survived because you showed up.
 
-#### ac2a819ee7-SM-LM | choice/UI → GORDON | x4 | speaker: male, listener: male
+#### ac2a819ee7-SM-LM | choice/UI → GORDON | x4
 I only survived because you showed up.
 
 #### f9efaabad4 | choice/UI | x2
@@ -286,10 +286,10 @@ God no, of course not.
 #### 7159a88c57 | GORDON → BRUCE | x4
 They’re all too “by the book” for their own good.
 
-#### 4acbcf7e95-L? | GORDON → BRUCE | x8 | listener: unknown
+#### 4acbcf7e95-L? | GORDON → BRUCE | x8
 You got these corrupt bastards, and the ones that aren’t corrupt are too “By-the-book” for their own good.
 
-#### 4acbcf7e95-LM | GORDON → BRUCE | x8 | listener: male
+#### 4acbcf7e95-LM | GORDON → BRUCE | x8
 You got these corrupt bastards, and the ones that aren’t corrupt are too “By-the-book” for their own good.
 
 #### b3a8bf7f0c | GORDON → BRUCE | x4

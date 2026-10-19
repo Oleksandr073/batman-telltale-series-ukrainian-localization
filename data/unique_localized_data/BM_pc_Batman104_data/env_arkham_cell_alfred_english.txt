@@ -18,10 +18,10 @@ I think Im here conditionally
 #### 77a29bbea5 | choice/UI, BRUCE → ORDERLY01, ALFRED | x4
 I’m the one who failed you.
 
-#### 8db23ad730-L? | choice/UI, BRUCE → ORDERLY 2, ALFRED | x4 | listener: unknown
+#### 8db23ad730-L? | choice/UI, BRUCE → ORDERLY 2, ALFRED | x4
 You could never fail me.
 
-#### 8db23ad730-LM | choice/UI, BRUCE → ORDERLY 2, ALFRED | x4 | listener: male
+#### 8db23ad730-LM | choice/UI, BRUCE → ORDERLY 2, ALFRED | x4
 You could never fail me.
 
 #### b30a158c1d | choice/UI, BRUCE → LUCIUS, ALFRED | x4
@@ -1450,10 +1450,10 @@ I know. We’ll be able to go home as soon as this [disdainful] “observation p
 #### 18b8c989b3 | ALFRED → LELAND | x2
 You can hear me, can’t you?
 
-#### 61574c9319-LF | ALFRED → LELAND, BRUCE | x4 | listener: female
+#### 61574c9319-LF | ALFRED → LELAND, BRUCE | x4
 And the... just horrible things you were saying.{ConfusedA} The threats you were making.
 
-#### 61574c9319-LM | ALFRED → LELAND, BRUCE | x4 | listener: male
+#### 61574c9319-LM | ALFRED → LELAND, BRUCE | x4
 And the... just horrible things you were saying.{ConfusedA} The threats you were making.
 
 #### 01e3e5a348 | BRUCE → ALFRED | x2
@@ -1915,10 +1915,10 @@ Don’t worry, those pretty blues will get you plenty in here.
 #### d4c33e0266 | JOKER | x2
 On your feet, soldier.
 
-#### ce53442b42-L? | JOKER → LELAND | x4 | listener: unknown
+#### ce53442b42-L? | JOKER → LELAND | x4
 Look at you! Got up all by yourself!
 
-#### ce53442b42-LF | JOKER → LELAND | x4 | listener: female
+#### ce53442b42-LF | JOKER → LELAND | x4
 Look at you! Got up all by yourself!
 
 #### db9aa9a83d | JOKER → LELAND | x2
@@ -2392,10 +2392,10 @@ We just call him {ThinkingA}“John Doe.“
 #### 4dfe789904 | LELAND → ORDERLYJERK | x2
 He’s never given his name out to {ThinkingB}anybody.
 
-#### 358a5d6451-LF | ORDERLYJERK → LELAND, JOKER | x6 | listener: female
+#### 358a5d6451-LF | ORDERLYJERK → LELAND, JOKER | x6
 Heh, then you turned on the crowd, {AngryA}{FaceAccent}{BodyAccent}screaming that you couldn’t{AngryB}{FaceAccent} stop!
 
-#### 358a5d6451-LM | ORDERLYJERK → LELAND, JOKER | x6 | listener: male
+#### 358a5d6451-LM | ORDERLYJERK → LELAND, JOKER | x6
 Heh, then you turned on the crowd, {AngryA}{FaceAccent}{BodyAccent}screaming that you couldn’t{AngryB}{FaceAccent} stop!
 
 #### 83cdd573bb | INMATE01 → ORDERLYJERK | x2

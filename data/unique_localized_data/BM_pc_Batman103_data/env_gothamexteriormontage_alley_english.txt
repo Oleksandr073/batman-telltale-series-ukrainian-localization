@@ -1,7 +1,7 @@
-﻿#### 618206f815-SM | HEROGOON, COA03 → GOON04 | x4 | speaker: male
+﻿#### 618206f815-S? | HEROGOON, COA03 → GOON04 | x4
 You think I’m scared of you?
 
-#### 618206f815-S? | HEROGOON, COA03 → GOON04 | x4 | speaker: unknown
+#### 618206f815-SM | HEROGOON, COA03 → GOON04 | x4
 You think I’m scared of you?
 
 #### 87e34b663b | HEROGOON, COA03, SPENCER, HARVEY → BRUCE, COA04 | x8
@@ -19,10 +19,10 @@ And the night’s not over yet.
 #### 170c9f4b1c | BATMAN → HEROGOON | x4
 Tell me where your leader is. [shoving him]What are you planning?
 
-#### 18e882dc33-SM | HEROGOON, GOON04, COA04 → BATMAN, COA03 | x8 | speaker: male
+#### 18e882dc33-S? | HEROGOON, GOON04, COA04 → BATMAN, COA03 | x8
 Sworn to secrecy, I’m afraid.
 
-#### 18e882dc33-S? | HEROGOON, GOON04, COA04 → BATMAN, COA03 | x8 | speaker: unknown
+#### 18e882dc33-SM | HEROGOON, GOON04, COA04 → BATMAN, COA03 | x8
 Sworn to secrecy, I’m afraid.
 
 #### 6359c2f64c | HEROGOON, GOON04, COA04 → BATMAN, COA03 | x8
@@ -43,10 +43,10 @@ You should be.
 #### 36527e4a1a | HEROGOON, GOON04, COA03 → BATMAN, HARVEY, COA04 | x6
 Oh, should I?
 
-#### 54d9158951-LM | CIVILIAN01 → HEROGOON, CIVILIAN02 | x8 | listener: male
+#### 54d9158951-L? | CIVILIAN01 → HEROGOON, CIVILIAN02 | x8
 Did you see him?
 
-#### 54d9158951-L? | CIVILIAN01 → HEROGOON, CIVILIAN02 | x8 | listener: unknown
+#### 54d9158951-LM | CIVILIAN01 → HEROGOON, CIVILIAN02 | x8
 Did you see him?
 
 #### 611f2973e4 | CIVILIAN02 → HEROGOON, BATMAN, CIVILIAN01 | x8
@@ -166,10 +166,10 @@ Hey! Out of the car, Dent!
 #### 77440567e4 | HARVEY → GOON04 | x2
 What the hell’s going on.
 
-#### 7ada2c9f8d-LM | GOON04, COA04 → HARVEY, COA03 | x4 | listener: male
+#### 7ada2c9f8d-L? | GOON04, COA04 → HARVEY, COA03 | x4
 You heard me! Get the hell out of the car!
 
-#### 7ada2c9f8d-L? | GOON04, COA04 → HARVEY, COA03 | x4 | listener: unknown
+#### 7ada2c9f8d-LM | GOON04, COA04 → HARVEY, COA03 | x4
 You heard me! Get the hell out of the car!
 
 #### d19018240d | GOON04, COA04 → HARVEY, COA03 | x4

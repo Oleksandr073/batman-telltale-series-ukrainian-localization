@@ -1115,10 +1115,10 @@ I became what I hated, ey?
 #### 63770ed9fd | choice/UI → OSWALD | x8
 This stops now!
 
-#### 0f5bd2b5ff-LM | choice/UI → HARVEY | x8 | listener: male
+#### 0f5bd2b5ff-L? | choice/UI → HARVEY | x8
 You won’t do it.
 
-#### 0f5bd2b5ff-L? | choice/UI → HARVEY | x8 | listener: unknown
+#### 0f5bd2b5ff-LM | choice/UI → HARVEY | x8
 You won’t do it.
 
 #### 8d70f9c5ab | choice/UI → OSWALD | x6
@@ -1316,19 +1316,19 @@ Well -- I’m, I’m sufferin’ here.
 #### 432be25463 | OSWALD | x6
 You -- you self-righteous bastard!
 
-#### 3791cefe37-LM | OSWALD → GOON01, COA01 | x6 | listener: male
+#### 3791cefe37-L? | OSWALD → GOON01, COA01 | x6
 [pained[ You would just leave me here to suffer...
 
-#### 3791cefe37-L? | OSWALD → GOON01, COA01 | x6 | listener: unknown
+#### 3791cefe37-LM | OSWALD → GOON01, COA01 | x6
 [pained[ You would just leave me here to suffer...
 
 #### 56c9ad0c05 | OSWALD → GOON01, COA01 | x6
 Oh, and get the board members up here...
 
-#### 7da20da22f-SM | GOON01, COA01 → OSWALD | x6 | speaker: male
+#### 7da20da22f-S? | GOON01, COA01 → OSWALD | x6
 He’s on the 15th floor. I got em.
 
-#### 7da20da22f-S? | GOON01, COA01 → OSWALD | x6 | speaker: unknown
+#### 7da20da22f-SM | GOON01, COA01 → OSWALD | x6
 He’s on the 15th floor. I got em.
 
 #### dc39bd03d2 | BATMAN → OSWALD | x6
@@ -1448,10 +1448,10 @@ Has anyone seen him?!?
 #### 72e3f7ba5c | PENGUIN, OSWALD → GOON02, COA02, PENGUIN | x8
 Useless! You are all bloody useless!
 
-#### 6a7afc487f-LM | PENGUIN → GOON02, COA02 | x8 | listener: male
+#### 6a7afc487f-L? | PENGUIN → GOON02, COA02 | x8
 Useless! You are all damned useless!
 
-#### 6a7afc487f-L? | PENGUIN → GOON02, COA02 | x8 | listener: unknown
+#### 6a7afc487f-LM | PENGUIN → GOON02, COA02 | x8
 Useless! You are all damned useless!
 
 #### 5f75ac33bf | PENGUIN → GOON03, COA01 | x6
@@ -1460,10 +1460,10 @@ What? Did Wayne tell you I was putting his Tech to practical use?
 #### 62907d4e3a | PENGUIN → LUCIUS | x4
 Can’t say I haven’t been expecting you, Bats-
 
-#### ff5ff57cc1-SM-L? | PENGUIN → LUCIUS | x4 | speaker: male, listener: unknown
+#### ff5ff57cc1-SM-L? | PENGUIN → LUCIUS | x4
 Figured when you found out I was putting this hardware to real practical use- for a change- you’d try to have something high and mighty and superheroic to say about it-
 
-#### ff5ff57cc1-SM-LM | PENGUIN → LUCIUS | x4 | speaker: male, listener: male
+#### ff5ff57cc1-SM-LM | PENGUIN → LUCIUS | x4
 Figured when you found out I was putting this hardware to real practical use- for a change- you’d try to have something high and mighty and superheroic to say about it-
 
 #### e525ca02ff | PENGUIN, GOON01 → LUCIUS | x4

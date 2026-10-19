@@ -238,10 +238,10 @@ Though if you thought I looked terrible before I can’t see how {ThinkingA}this
 #### 5537eda9be | HARVEY | x3
 You may still think I look good, but sheesh...{SarcasticA} you didn’t see the other half.
 
-#### a6764a76aa-SM-L? | HARVEY → BRUCE | x9 | speaker: male, listener: unknown
+#### a6764a76aa-SM-L? | HARVEY → BRUCE | x9
 You weren’t kidding when you said{AngryA} I looked terrible.
 
-#### a6764a76aa-SM-LM | HARVEY → BRUCE | x9 | speaker: male, listener: male
+#### a6764a76aa-SM-LM | HARVEY → BRUCE | x9
 You weren’t kidding when you said{AngryA} I looked terrible.
 
 #### d7d1c9b4ff | HARVEY → BRUCE | x3
@@ -1060,10 +1060,10 @@ Who needs law and order when you’ve got Batman enacting justice?
 #### 06d7f61b1a | HARVEY → VICKI | x3
 Especially once he’s been sanctioned by the Mayor.
 
-#### ea8f04f6be-LM | ALFRED → HARVEY, VICKI | x6 | listener: male
+#### ea8f04f6be-LF | ALFRED → HARVEY, VICKI | x6
 And if they find out you leaked Montoya’s name...
 
-#### ea8f04f6be-LF | ALFRED → HARVEY, VICKI | x6 | listener: female
+#### ea8f04f6be-LM | ALFRED → HARVEY, VICKI | x6
 And if they find out you leaked Montoya’s name...
 
 #### 4deb7807b5 | VICKI → ALFRED | x3
@@ -2281,10 +2281,10 @@ You don’t agree.
 #### 104a832268 | HARVEY | x3
 Besides hiding behind your money, in that mansion up on the hill.
 
-#### a34d3d3e79-SM | LADYARKHAM, HARVEY, choice/UI, SELINA → BATMAN, BRUCE, GORDON | x21 | speaker: male
+#### a34d3d3e79-SF | LADYARKHAM, HARVEY, choice/UI, SELINA → BATMAN, BRUCE, GORDON | x21
 You know I’m right.
 
-#### a34d3d3e79-SF | LADYARKHAM, HARVEY, choice/UI, SELINA → BATMAN, BRUCE, GORDON | x21 | speaker: female
+#### a34d3d3e79-SM | LADYARKHAM, HARVEY, choice/UI, SELINA → BATMAN, BRUCE, GORDON | x21
 You know I’m right.
 
 #### 07984804af | HARVEY → BRUCE | x3
@@ -2776,13 +2776,13 @@ Do you know where to find them? They must have a base of operations.
 #### 2896e00a0c | choice/UI → HARVEY | x3
 This can’t wait.
 
-#### 6a871d2c09-LM | choice/UI → HARVEY, SELINA, ALFRED | x13 | listener: male
+#### 6a871d2c09-L? | choice/UI → HARVEY, SELINA, ALFRED | x13
 Take care of yourself.
 
-#### 6a871d2c09-L? | choice/UI → HARVEY, SELINA, ALFRED | x13 | listener: unknown
+#### 6a871d2c09-LF | choice/UI → HARVEY, SELINA, ALFRED | x13
 Take care of yourself.
 
-#### 6a871d2c09-LF | choice/UI → HARVEY, SELINA, ALFRED | x13 | listener: female
+#### 6a871d2c09-LM | choice/UI → HARVEY, SELINA, ALFRED | x13
 Take care of yourself.
 
 #### 8a8986becd | choice/UI | x3

@@ -391,10 +391,10 @@ Goodnight, sweet prince.
 #### da5d0edfc6 | HARVEY | x2
 I’ll tell Selina you said goodbye.
 
-#### 1e6694f315-L? | HARVEY → BRUCE | x6 | listener: unknown
+#### 1e6694f315-L? | HARVEY → BRUCE | x6
 Touche. You’ve got me there!
 
-#### 1e6694f315-LM | HARVEY → BRUCE | x6 | listener: male
+#### 1e6694f315-LM | HARVEY → BRUCE | x6
 Touche. You’ve got me there!
 
 #### 272cbe37d2 | HARVEY → BRUCE | x2
@@ -640,10 +640,10 @@ You’re THROUGH.
 #### 31d7ab2b3d | HARVEY → BRUCE | x2
 And then after
 
-#### c87ad14f7d-L? | HARVEY → BRUCE | x4 | listener: unknown
+#### c87ad14f7d-L? | HARVEY → BRUCE | x4
 Honestly, it makes perfect sense why you would lose it. Much stronger men than you have.
 
-#### c87ad14f7d-LM | HARVEY → BRUCE | x4 | listener: male
+#### c87ad14f7d-LM | HARVEY → BRUCE | x4
 Honestly, it makes perfect sense why you would lose it. Much stronger men than you have.
 
 #### fc2151156a | HARVEY | x2
@@ -1348,10 +1348,10 @@ What business is it of yours anyways?
 #### 239fd8ea86 | choice/UI, BRUCE → HARVEY | x4
 You won’t be able to live with yourself.
 
-#### 794c94ef5f-LM | HARVEY → BRUCE | x4 | listener: male
+#### 794c94ef5f-L? | HARVEY → BRUCE | x4
 You, you hit me!
 
-#### 794c94ef5f-L? | HARVEY → BRUCE | x4 | listener: unknown
+#### 794c94ef5f-LM | HARVEY → BRUCE | x4
 You, you hit me!
 
 #### 83e2357675 | HARVEY → BRUCE | x2
@@ -1429,10 +1429,10 @@ Maybe you should check yourself back into Arkham, before you hit someone else.
 #### e20c264413 | HARVEY → BRUCE | x2
 Go ahead. Hit me. Give me another excuse to have your ass thrown in Arkham.
 
-#### b26303bae2-LM | HARVEY → BRUCE, ENFORCER01 | x4 | listener: male
+#### b26303bae2-L? | HARVEY → BRUCE, ENFORCER01 | x4
 Glad to see you’ve got that rage of yours under control.
 
-#### b26303bae2-L? | HARVEY → BRUCE, ENFORCER01 | x4 | listener: unknown
+#### b26303bae2-LM | HARVEY → BRUCE, ENFORCER01 | x4
 Glad to see you’ve got that rage of yours under control.
 
 #### ee55a95704 | HARVEY | x2
@@ -1714,10 +1714,10 @@ You don’t know that!
 #### 0f02cbf168 | HARVEY → BRUCE | x2
 Then you’re a fool. I would’ve.
 
-#### 678c3dfbbb-LM | HARVEY → BRUCE | x4 | listener: male
+#### 678c3dfbbb-L? | HARVEY → BRUCE | x4
 Don’t be stupid. You just never got a chance to show her your good side.
 
-#### 678c3dfbbb-L? | HARVEY → BRUCE | x4 | listener: unknown
+#### 678c3dfbbb-LM | HARVEY → BRUCE | x4
 Don’t be stupid. You just never got a chance to show her your good side.
 
 #### a56d3f4a98 | HARVEY → BRUCE | x6

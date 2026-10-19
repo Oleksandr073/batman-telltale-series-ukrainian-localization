@@ -97,10 +97,10 @@ Did you have something to do with this?
 #### 76c434d323 | choice/UI | x2
 I thought we sealed the room.
 
-#### 9cde954bf6-L? | choice/UI, BRUCE → LUCIUS | x6 | listener: unknown
+#### 9cde954bf6-L? | choice/UI, BRUCE → LUCIUS | x6
 You could have given him access.
 
-#### 9cde954bf6-LM | choice/UI, BRUCE → LUCIUS | x6 | listener: male
+#### 9cde954bf6-LM | choice/UI, BRUCE → LUCIUS | x6
 You could have given him access.
 
 #### c8c7ec90e9 | choice/UI | x4
@@ -109,10 +109,10 @@ Of course not, I just need your help.
 #### 010ea75d52 | choice/UI → LUCIUS | x6
 Negligence.
 
-#### 769b161fdf-L? | choice/UI → LUCIUS | x4 | listener: unknown
+#### 769b161fdf-L? | choice/UI → LUCIUS | x4
 You could have given them access.
 
-#### 769b161fdf-LM | choice/UI → LUCIUS | x4 | listener: male
+#### 769b161fdf-LM | choice/UI → LUCIUS | x4
 You could have given them access.
 
 #### b65b8bbf5e | choice/UI | x2
@@ -562,10 +562,10 @@ That wasn’t part of the original product design.
 #### 32c15a545d | LUCIUS → BRUCE | x2
 I had to give him an explanation.
 
-#### 9d7806576b-SM-LM | LUCIUS → BATMAN, BRUCE | x12 | speaker: male, listener: male
+#### 9d7806576b-SM-L? | LUCIUS → BATMAN, BRUCE | x12
 I’m just glad you {SkepticalB}asked me to stay on at{ThinkingA} Wayne Enterpises...
 
-#### 9d7806576b-SM-L? | LUCIUS → BATMAN, BRUCE | x12 | speaker: male, listener: unknown
+#### 9d7806576b-SM-LM | LUCIUS → BATMAN, BRUCE | x12
 I’m just glad you {SkepticalB}asked me to stay on at{ThinkingA} Wayne Enterpises...
 
 #### df8bc4cf87 | LUCIUS → BATMAN | x8
@@ -718,10 +718,10 @@ If only I was there.
 #### 2b185a625b | LUCIUS → BATMAN | x6
 The systems they’re using are hardwired from Wayne Tower.
 
-#### 2c0b74c0fc-L? | LUCIUS → BRUCE, HARVEY | x8 | listener: unknown
+#### 2c0b74c0fc-L? | LUCIUS → BRUCE, HARVEY | x8
 To take it down you’d need to find a way to fry the entire system.
 
-#### 2c0b74c0fc-LM | LUCIUS → BRUCE, HARVEY | x8 | listener: male
+#### 2c0b74c0fc-LM | LUCIUS → BRUCE, HARVEY | x8
 To take it down you’d need to find a way to fry the entire system.
 
 #### faf56a29f8 | BRUCE → LUCIUS | x4
@@ -809,10 +809,10 @@ I’m telling you, Bruce.
 #### 790da97dcb | ALFRED → BRUCE | x8
 Take a closer look at him.
 
-#### 674661f2c3-L? | ALFRED → LUCIUS | x8 | listener: unknown
+#### 674661f2c3-L? | ALFRED → LUCIUS | x8
 These are trying times. You need to keep your inner circle small if you want to survive.
 
-#### 674661f2c3-LM | ALFRED → LUCIUS | x8 | listener: male
+#### 674661f2c3-LM | ALFRED → LUCIUS | x8
 These are trying times. You need to keep your inner circle small if you want to survive.
 
 #### de156a630e | ALFRED → BRUCE | x4
@@ -1094,10 +1094,10 @@ Best to find a silver lining.
 #### 8b6d7dc200 | BATMANBRUCE → LUCIUS | x4
 I should’ve had you stay at Wayne Tower.
 
-#### 89d982d797-LM | LUCIUS → BATMAN, BRUCE | x6 | listener: male
+#### 89d982d797-L? | LUCIUS → BATMAN, BRUCE | x6
 This may seem like a setback for the moment -- but maybe you made the right decision in the long run.
 
-#### 89d982d797-L? | LUCIUS → BATMAN, BRUCE | x6 | listener: unknown
+#### 89d982d797-LM | LUCIUS → BATMAN, BRUCE | x6
 This may seem like a setback for the moment -- but maybe you made the right decision in the long run.
 
 #### 7a3f04c2ff | BRUCE → LUCIUS | x2
@@ -1304,10 +1304,10 @@ Oswald was controlling it.
 #### f6ddebce61 | choice/UI, BATMANBRUCE → LUCIUS | x10
 Do you know anything about this?
 
-#### dd0f6916db-LM | choice/UI → LUCIUS | x4 | listener: male
+#### dd0f6916db-L? | choice/UI → LUCIUS | x4
 You said the R&D lab was secure.
 
-#### dd0f6916db-L? | choice/UI → LUCIUS | x4 | listener: unknown
+#### dd0f6916db-LM | choice/UI → LUCIUS | x4
 You said the R&D lab was secure.
 
 #### d576670dd3 | BATMANBRUCE → BRUCE | x2
@@ -1388,10 +1388,10 @@ If I were there, I’d be able to help you disect that thing.
 #### ab59b1c1f4 | LUCIUS → BRUCE | x6
 I’m sorry, Bruce -- but you’re on your own.
 
-#### 0b742db7c9-LM | choice/UI → LUCIUS | x4 | listener: male
+#### 0b742db7c9-L? | choice/UI → LUCIUS | x4
 There is nothing you could have done.
 
-#### 0b742db7c9-L? | choice/UI → LUCIUS | x4 | listener: unknown
+#### 0b742db7c9-LM | choice/UI → LUCIUS | x4
 There is nothing you could have done.
 
 #### be25963a84 | BRUCE → LUCIUS | x2
@@ -1631,10 +1631,10 @@ I{FaceAccent} {ThinkingA}don’t work at Wayne Enterprises anymore.
 #### ea698d27b3 | LUCIUS → ALFRED | x2
 Maybe if you had asked me to stay.
 
-#### 3af174b1c4-L? | LUCIUS → BRUCE | x4 | listener: unknown
+#### 3af174b1c4-L? | LUCIUS → BRUCE | x4
 Maybe if you had asked me to stay on...
 
-#### 3af174b1c4-LM | LUCIUS → BRUCE | x4 | listener: male
+#### 3af174b1c4-LM | LUCIUS → BRUCE | x4
 Maybe if you had asked me to stay on...
 
 #### 88209f032f | LUCIUS | x2
@@ -1793,10 +1793,10 @@ I’ll leave you{ThinkingA} to it.
 #### 18332058e2 | BRUCE → ALFRED | x2
 I need to talk to Lucius.
 
-#### e61ec9f427-LM | LUCIUS → BRUCE | x4 | listener: male
+#### e61ec9f427-L? | LUCIUS → BRUCE | x4
 You called.
 
-#### e61ec9f427-L? | LUCIUS → BRUCE | x4 | listener: unknown
+#### e61ec9f427-LM | LUCIUS → BRUCE | x4
 You called.
 
 #### 12f45884b0 | BRUCE → LUCIUS | x2
@@ -2231,10 +2231,10 @@ But the most likely suspect would be Oswald.
 #### 94e816f65b | LUCIUS → BRUCE, BATMAN | x4
 I {FaceAccent}don’t work at {ConcernedB}Wayne Enterprises anymore.
 
-#### 702c81b677-SM-L? | LUCIUS → BATMAN | x6 | speaker: male, listener: unknown
+#### 702c81b677-SM-L? | LUCIUS → BATMAN | x6
 I left because you{SurpriseA} asked{ThinkingA} me to.
 
-#### 702c81b677-SM-LM | LUCIUS → BATMAN | x6 | speaker: male, listener: male
+#### 702c81b677-SM-LM | LUCIUS → BATMAN | x6
 I left because you{SurpriseA} asked{ThinkingA} me to.
 
 #### 601962ee0f | LUCIUS → BATMAN | x4
@@ -2531,10 +2531,10 @@ Yes. I’m sure.
 #### 187a1f9a58 | LUCIUS → BRUCE, BATMAN | x8
 I’m asking because...
 
-#### 43687177e6-SM-LM | LUCIUS → BATMAN, BRUCE | x16 | speaker: male, listener: male
+#### 43687177e6-SM-L? | LUCIUS → BATMAN, BRUCE | x16
 It’s{ThinkingA} that security update I had{ConcernedA} you install a couple of days ago.
 
-#### 43687177e6-SM-L? | LUCIUS → BATMAN, BRUCE | x16 | speaker: male, listener: unknown
+#### 43687177e6-SM-LM | LUCIUS → BATMAN, BRUCE | x16
 It’s{ThinkingA} that security update I had{ConcernedA} you install a couple of days ago.
 
 #### a403db32e8 | LUCIUS → BATMAN | x4
@@ -2639,10 +2639,10 @@ Is it a problem?
 #### 2d9ad807bc | choice/UI → LUCIUS | x4
 I havent noticed anything.
 
-#### 697806f4d9-L? | choice/UI → LUCIUS | x4 | listener: unknown
+#### 697806f4d9-L? | choice/UI → LUCIUS | x4
 Don’t put yourself in danger.
 
-#### 697806f4d9-LM | choice/UI → LUCIUS | x4 | listener: male
+#### 697806f4d9-LM | choice/UI → LUCIUS | x4
 Don’t put yourself in danger.
 
 #### 420762b45b | choice/UI → ALFRED | x4

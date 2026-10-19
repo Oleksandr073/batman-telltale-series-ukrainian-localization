@@ -197,13 +197,13 @@ Mum and Dad, they put so {ThinkingA}much work in here.
 #### ac0361cb1c | OSWALD | x2
 A place that was safe for kids, {ThinkingA}for families...
 
-#### 59c18f4005-LM | choice/UI, HARVEY, BRUCE, ENFORCERCOLLEEN → BATMAN, BRUCE, SELINA | x34 | listener: male
+#### 59c18f4005-L? | choice/UI, HARVEY, BRUCE, ENFORCERCOLLEEN → BATMAN, BRUCE, SELINA | x34
 You’re right.
 
-#### 59c18f4005-L? | choice/UI, HARVEY, BRUCE, ENFORCERCOLLEEN → BATMAN, BRUCE, SELINA | x34 | listener: unknown
+#### 59c18f4005-LF | choice/UI, HARVEY, BRUCE, ENFORCERCOLLEEN → BATMAN, BRUCE, SELINA | x34
 You’re right.
 
-#### 59c18f4005-LF | choice/UI, HARVEY, BRUCE, ENFORCERCOLLEEN → BATMAN, BRUCE, SELINA | x34 | listener: female
+#### 59c18f4005-LM | choice/UI, HARVEY, BRUCE, ENFORCERCOLLEEN → BATMAN, BRUCE, SELINA | x34
 You’re right.
 
 #### d31d71c21f | choice/UI → OSWALD | x2
@@ -527,10 +527,10 @@ I had it handled.
 #### 2e19a176ac | choice/UI → OSWALD, GORDON | x4
 Thanks for the help.
 
-#### bba86906c5-LM | choice/UI → OSWALD | x10 | listener: male
+#### bba86906c5-L? | choice/UI → OSWALD | x10
 You went too far.
 
-#### bba86906c5-L? | choice/UI → OSWALD | x10 | listener: unknown
+#### bba86906c5-LM | choice/UI → OSWALD | x10
 You went too far.
 
 #### f2ec233785 | HOMELESSMAN, RYDER → OSWALD, BRUCE | x4

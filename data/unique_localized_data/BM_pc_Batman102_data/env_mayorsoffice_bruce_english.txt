@@ -725,10 +725,10 @@ I have
 #### 49ec6bde57 | choice/UI | x2
 Never mind how I got it.
 
-#### 59762a9e43-L? | choice/UI → ALFRED | x4 | listener: unknown
+#### 59762a9e43-L? | choice/UI → ALFRED | x4
 How long have you been working for them?
 
-#### 59762a9e43-LM | choice/UI → ALFRED | x4 | listener: male
+#### 59762a9e43-LM | choice/UI → ALFRED | x4
 How long have you been working for them?
 
 #### ff534309d1 | choice/UI | x2
@@ -1672,10 +1672,10 @@ If not for me, then for the man who gave you your name.
 #### 15a20b835d | HILL → BRUCE | x2
 We took this city and made it ours.
 
-#### f34e865049-LM | HILL → BRUCE | x4 | listener: male
+#### f34e865049-L? | HILL → BRUCE | x4
 You were born with it.
 
-#### f34e865049-L? | HILL → BRUCE | x4 | listener: unknown
+#### f34e865049-LM | HILL → BRUCE | x4
 You were born with it.
 
 #### dd03c128c2 | BRUCE → HILL | x2
@@ -1987,10 +1987,10 @@ Along with the rest of their assets.
 #### 62a1862c87 | HILL | x2
 If I could count on you as an ally, well... maybe I could look into it for you.
 
-#### ebf0a75ad0-SM-L? | HILL → BRUCE | x4 | speaker: male, listener: unknown
+#### ebf0a75ad0-SM-L? | HILL → BRUCE | x4
 There’s so much more I could share -- if I knew you were a friend.
 
-#### ebf0a75ad0-SM-LM | HILL → BRUCE | x4 | speaker: male, listener: male
+#### ebf0a75ad0-SM-LM | HILL → BRUCE | x4
 There’s so much more I could share -- if I knew you were a friend.
 
 #### 842c1783a0 | HILL | x2

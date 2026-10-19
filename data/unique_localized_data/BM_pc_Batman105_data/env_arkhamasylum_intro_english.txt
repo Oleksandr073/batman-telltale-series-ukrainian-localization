@@ -917,10 +917,10 @@ Give me Alfred, now.
 #### 67badf10b3 | choice/UI | x4
 You were mistreated.
 
-#### c7b6430f89-L? | choice/UI → VICKI | x6 | listener: unknown
+#### c7b6430f89-L? | choice/UI → VICKI | x6
 You murdered your parents.
 
-#### c7b6430f89-LF | choice/UI → VICKI | x6 | listener: female
+#### c7b6430f89-LF | choice/UI → VICKI | x6
 You murdered your parents.
 
 #### 4efa18893e | choice/UI | x4
@@ -956,10 +956,10 @@ Wayne is already destroyed.
 #### 9a28db6db5 | choice/UI | x2
 Hand him over or suffer.
 
-#### addf981d44-L? | choice/UI → LADYARKHAM | x4 | listener: unknown
+#### addf981d44-L? | choice/UI → LADYARKHAM | x4
 I know you were abused.
 
-#### addf981d44-LF | choice/UI → LADYARKHAM | x4 | listener: female
+#### addf981d44-LF | choice/UI → LADYARKHAM | x4
 I know you were abused.
 
 #### 4fa818a8ed | choice/UI | x4
@@ -1574,10 +1574,10 @@ The inmates aren’t going anywhere, Vicki.
 #### f567fd623f | LADYARKHAM → BATMAN | x2
 You don’t call me that!
 
-#### f5390cde62-LM | LADYARKHAM, ADYARKHAM → BATMAN, LADYARKHAM | x4 | listener: male
+#### f5390cde62-LF | LADYARKHAM, ADYARKHAM → BATMAN, LADYARKHAM | x4
 This whole time... you were just stalling me!
 
-#### f5390cde62-LF | LADYARKHAM, ADYARKHAM → BATMAN, LADYARKHAM | x4 | listener: female
+#### f5390cde62-LM | LADYARKHAM, ADYARKHAM → BATMAN, LADYARKHAM | x4
 This whole time... you were just stalling me!
 
 #### f14afd20c0 | choice/UI → LADYARKHAM | x2
@@ -1919,10 +1919,10 @@ Release the butler.
 #### d3d0a2abdf | choice/UI → LADYARKHAM | x2
 I just came to talk.
 
-#### f470f10bc5-LF | choice/UI → LADYARKHAM, GORDON | x4 | listener: female
+#### f470f10bc5-LF | choice/UI → LADYARKHAM, GORDON | x4
 You’ve already lost.
 
-#### f470f10bc5-LM | choice/UI → LADYARKHAM, GORDON | x4 | listener: male
+#### f470f10bc5-LM | choice/UI → LADYARKHAM, GORDON | x4
 You’ve already lost.
 
 #### 59f00e53d8 | choice/UI → LADYARKHAM | x2
@@ -2417,10 +2417,10 @@ I’ve been to your home.
 #### d7e38b84bb | LADYARKHAM → BATMAN | x2
 Then you know they were monsters. That they had it coming.
 
-#### 5e350f6cc3-LM | LADYARKHAM, choice/UI → BATMAN | x4 | listener: male
+#### 5e350f6cc3-L? | LADYARKHAM, choice/UI → BATMAN | x4
 You’re wrong!
 
-#### 5e350f6cc3-L? | LADYARKHAM, choice/UI → BATMAN | x4 | listener: unknown
+#### 5e350f6cc3-LM | LADYARKHAM, choice/UI → BATMAN | x4
 You’re wrong!
 
 #### 84e83d4c2a | BATMAN → LADYARKHAM | x2

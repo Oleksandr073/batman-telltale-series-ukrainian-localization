@@ -367,10 +367,10 @@ I beat the odds, Bruce. Everything I dreamed about, I got.
 #### e0265c804e | OSWALD → BRUCE | x4
 There’s just one last thing on my list.
 
-#### efaa4ff697-L? | OSWALD → BRUCE | x4 | listener: unknown
+#### efaa4ff697-L? | OSWALD → BRUCE | x4
 But then you knew that.
 
-#### efaa4ff697-LM | OSWALD → BRUCE | x4 | listener: male
+#### efaa4ff697-LM | OSWALD → BRUCE | x4
 But then you knew that.
 
 #### ba55f2e877 | OSWALD → BRUCE | x4
@@ -430,10 +430,10 @@ We were in nappies together, Bruce!
 #### 045eff6151 | OSWALD → BRUCE | x4
 Maybe not. But it’ll make me feel warm and tingly for at least ten minutes.
 
-#### 4185d875f1-LM | OSWALD → BRUCE | x4 | listener: male
+#### 4185d875f1-L? | OSWALD → BRUCE | x4
 You didn’t bring your mates, did you?
 
-#### 4185d875f1-L? | OSWALD → BRUCE | x4 | listener: unknown
+#### 4185d875f1-LM | OSWALD → BRUCE | x4
 You didn’t bring your mates, did you?
 
 #### 131bb0f09b | BRUCE → OSWALD | x4
@@ -463,10 +463,10 @@ I can hardly believe we were friends once.
 #### 8bc4128471 | OSWALD → BRUCE | x2
 Brothers.
 
-#### b4376ce186-LM | OSWALD → BRUCE | x4 | listener: male
+#### b4376ce186-L? | OSWALD → BRUCE | x4
 Except you never saved me a seat at the top.
 
-#### b4376ce186-L? | OSWALD → BRUCE | x4 | listener: unknown
+#### b4376ce186-LM | OSWALD → BRUCE | x4
 Except you never saved me a seat at the top.
 
 #### 07538ccaba | OSWALD → BRUCE | x2
@@ -589,10 +589,10 @@ Tough bird.
 #### 32f29a366d | GORDON → BRUCE | x4
 With Penguin off the streets, the city will be safer. At least until Lady Arkham shows herself again...
 
-#### 41a1dc69e8-L? | GORDON → BRUCE | x8 | listener: unknown
+#### 41a1dc69e8-L? | GORDON → BRUCE | x8
 Gotta admit, you surprised me. Didn’t know you had that in you.
 
-#### 41a1dc69e8-LM | GORDON → BRUCE | x8 | listener: male
+#### 41a1dc69e8-LM | GORDON → BRUCE | x8
 Gotta admit, you surprised me. Didn’t know you had that in you.
 
 #### 3cc046dbd8 | GORDON → BRUCE | x8
@@ -1472,10 +1472,10 @@ That man...
 #### 474207af93 | OSWALD → BRUCE | x2
 I was always going to murder you, Wayne.
 
-#### cebe0496a3-LM | GORDON → OSWALD, BRUCE | x6 | listener: male
+#### cebe0496a3-L? | GORDON → OSWALD, BRUCE | x6
 Didn’t know you had that in you, Mr Wayne.
 
-#### cebe0496a3-L? | GORDON → OSWALD, BRUCE | x6 | listener: unknown
+#### cebe0496a3-LM | GORDON → OSWALD, BRUCE | x6
 Didn’t know you had that in you, Mr Wayne.
 
 #### c5bd940562 | GORDON → OSWALD | x2

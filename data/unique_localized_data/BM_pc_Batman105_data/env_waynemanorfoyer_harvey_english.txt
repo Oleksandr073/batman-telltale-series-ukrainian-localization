@@ -1112,10 +1112,10 @@ I owe you so much!
 #### 0e4af1a800 | RYDER → HARVEY | x2
 But you saved far more than my life.
 
-#### 0f445e4c40-L? | RYDER → BRUCE | x4 | listener: unknown
+#### 0f445e4c40-L? | RYDER → BRUCE | x4
 You saved Gotham from a tyrant.
 
-#### 0f445e4c40-LM | RYDER → BRUCE | x4 | listener: male
+#### 0f445e4c40-LM | RYDER → BRUCE | x4
 You saved Gotham from a tyrant.
 
 #### 07fc9927e4 | RYDER | x2
@@ -1187,10 +1187,10 @@ Dent -- he was your friend, right?
 #### 59b42f7a1e | MONTOYA → RYDER | x2
 I remember when you two were at the precinct.
 
-#### d7367db69a-LM | MONTOYA → BRUCE | x4 | listener: male
+#### d7367db69a-L? | MONTOYA → BRUCE | x4
 You seemed pretty tight.
 
-#### d7367db69a-L? | MONTOYA → BRUCE | x4 | listener: unknown
+#### d7367db69a-LM | MONTOYA → BRUCE | x4
 You seemed pretty tight.
 
 #### 2e5c1efa41 | MONTOYA → BRUCE | x2

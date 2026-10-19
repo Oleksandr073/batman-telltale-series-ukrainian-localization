@@ -403,10 +403,10 @@ Pretending to be an ally.
 #### c08983a03d | VICKI | x2
 Only to betray...
 
-#### ee2b4e036a-L? | VICKI → BATMAN | x6 | listener: unknown
+#### ee2b4e036a-L? | VICKI → BATMAN | x6
 I almost believed that you were telling the truth.
 
-#### ee2b4e036a-LM | VICKI → BATMAN | x6 | listener: male
+#### ee2b4e036a-LM | VICKI → BATMAN | x6
 I almost believed that you were telling the truth.
 
 #### cca070eb78 | VICKI → BATMAN | x6
@@ -805,10 +805,10 @@ Then we’ll talk.
 #### d2951ce6b8 | VICKI → BATMAN | x2
 Do you really care?
 
-#### 7d05557a79-LF | BATMAN → VICKI, ALFRED | x4 | listener: female
+#### 7d05557a79-LF | BATMAN → VICKI, ALFRED | x4
 You’re done.
 
-#### 7d05557a79-LM | BATMAN → VICKI, ALFRED | x4 | listener: male
+#### 7d05557a79-LM | BATMAN → VICKI, ALFRED | x4
 You’re done.
 
 #### 68e2c43c49 | BRUCE → BATMAN, ALFRED | x4

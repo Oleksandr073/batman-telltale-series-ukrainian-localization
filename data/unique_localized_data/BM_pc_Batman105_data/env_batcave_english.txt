@@ -91,10 +91,10 @@ We’re still cut off from the extended network, but it’s a start.
 #### 594743702b | BRUCE → ALFRED | x2
 Well, that sucks.
 
-#### 689d334c1b-LM | ALFRED → BRUCE | x6 | listener: male
+#### 689d334c1b-L? | ALFRED → BRUCE | x6
 You’re disconnected from the primary network, but... some basic functionality seems to remain.
 
-#### 689d334c1b-L? | ALFRED → BRUCE | x6 | listener: unknown
+#### 689d334c1b-LM | ALFRED → BRUCE | x6
 You’re disconnected from the primary network, but... some basic functionality seems to remain.
 
 #### 692cdff4a2 | BRUCE → ALFRED | x2
@@ -1060,10 +1060,10 @@ What do you suggest?
 #### 50bc934a89 | BRUCE → ALFRED | x2
 We need to figure out her next move.
 
-#### 10c2e9f692-LM | ALFRED → BRUCE | x4 | listener: male
+#### 10c2e9f692-L? | ALFRED → BRUCE | x4
 Now, you were saying?
 
-#### 10c2e9f692-L? | ALFRED → BRUCE | x4 | listener: unknown
+#### 10c2e9f692-LM | ALFRED → BRUCE | x4
 Now, you were saying?
 
 #### 94c2ba8f0f | BRUCE → ALFRED | x2

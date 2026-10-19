@@ -181,10 +181,10 @@ C’mon. Bruce Wayne has gotta be good for more.
 #### 8d91a7024e | BOUNCER → BRUCE | x2
 I’m not going to let you in.
 
-#### dbfae1e37e-S? | BOUNCER, BUTCHIE → BRUCE, BOUNCER | x4 | speaker: unknown
+#### dbfae1e37e-S? | BOUNCER, BUTCHIE → BRUCE, BOUNCER | x4
 Maybe I’m not making myself clear.
 
-#### dbfae1e37e-SM | BOUNCER, BUTCHIE → BRUCE, BOUNCER | x4 | speaker: male
+#### dbfae1e37e-SM | BOUNCER, BUTCHIE → BRUCE, BOUNCER | x4
 Maybe I’m not making myself clear.
 
 #### 4783526265 | BRUCE → BOUNCER, BUTCHIE | x4
@@ -244,10 +244,10 @@ Rhonda meet Bruce Wayne.
 #### 8209ef6a74 | RHONDA → SELINA | x8
 He’s cuter than his pictures. Is he richer too?
 
-#### 9216df2ebf-LF | RHONDA → SELINA, BRUCE | x8 | listener: female
+#### 9216df2ebf-LF | RHONDA → SELINA, BRUCE | x8
 Just watch out for this one. She’ll take you for whatever you’ve got.
 
-#### 9216df2ebf-LM | RHONDA → SELINA, BRUCE | x8 | listener: male
+#### 9216df2ebf-LM | RHONDA → SELINA, BRUCE | x8
 Just watch out for this one. She’ll take you for whatever you’ve got.
 
 #### cfb51b184d | BRUCE → RHONDA, SELINA | x4
@@ -361,10 +361,10 @@ The people here... they feel more *comfotable* around folks they know.
 #### 38953dd7c2 | BOUNCER, BUTCHIE → GUTTERPUNK, BRUCE, BOUNCER | x6
 Folks like them.
 
-#### 8898e1ad73-L? | BOUNCER, BUTCHIE → BRUCE | x4 | listener: unknown
+#### 8898e1ad73-L? | BOUNCER, BUTCHIE → BRUCE | x4
 You’re not welcomed here.
 
-#### 8898e1ad73-LM | BOUNCER, BUTCHIE → BRUCE | x4 | listener: male
+#### 8898e1ad73-LM | BOUNCER, BUTCHIE → BRUCE | x4
 You’re not welcomed here.
 
 #### ac4ab03eaf | BOUNCER, BUTCHIE → SELINA, BRUCE | x4
@@ -535,10 +535,10 @@ Ugh. Can’t they find something else to talk about?
 #### 88a60702ca | SELINA → BRUCE | x4
 Sorry this is happening to you.
 
-#### e015aeda22-SF-LF | SELINA → RHONDA, BRUCE | x4 | speaker: female, listener: female
+#### e015aeda22-SF-LF | SELINA → RHONDA, BRUCE | x4
 If I were you, I’d sue whoever was running that story.
 
-#### e015aeda22-SF-LM | SELINA → RHONDA, BRUCE | x4 | speaker: female, listener: male
+#### e015aeda22-SF-LM | SELINA → RHONDA, BRUCE | x4
 If I were you, I’d sue whoever was running that story.
 
 #### 51a158f202 | SELINA → BRUCE | x4
@@ -1018,16 +1018,16 @@ Oh, now you want to work with me.
 #### 4b6c2e3005 | SELINA → BRUCE | x6
 Stop trying to be helpful.
 
-#### c5b4532cdb-SF-LM | SELINA → BRUCE | x8 | speaker: female, listener: male
+#### c5b4532cdb-SF-L? | SELINA → BRUCE | x8
 I thought you were a solo act.
 
-#### c5b4532cdb-SF-L? | SELINA → BRUCE | x8 | speaker: female, listener: unknown
+#### c5b4532cdb-SF-LM | SELINA → BRUCE | x8
 I thought you were a solo act.
 
-#### 38ddb2b23d-SF-LM | SELINA → BRUCE | x8 | speaker: female, listener: male
+#### 38ddb2b23d-SF-L? | SELINA → BRUCE | x8
 I thought you liked to sleep alone.
 
-#### 38ddb2b23d-SF-L? | SELINA → BRUCE | x8 | speaker: female, listener: unknown
+#### 38ddb2b23d-SF-LM | SELINA → BRUCE | x8
 I thought you liked to sleep alone.
 
 #### 6ed303b5e5 | BRUCE → SELINA | x2
@@ -1459,10 +1459,10 @@ nI
 #### c25ee1c533 | RHONDA → SELINA, BRUCE | x4
 We don’t have any specials -- or happy hours for that matter.
 
-#### 9f2b8ca9d4-LM | RHONDA → BRUCE, SELINA | x8 | listener: male
+#### 9f2b8ca9d4-LF | RHONDA → BRUCE, SELINA | x8
 I don’t know if you noticed, but this isn’t a very happy place.
 
-#### 9f2b8ca9d4-LF | RHONDA → BRUCE, SELINA | x8 | listener: female
+#### 9f2b8ca9d4-LM | RHONDA → BRUCE, SELINA | x8
 I don’t know if you noticed, but this isn’t a very happy place.
 
 #### 5818c53ff8 | SELINA → RHONDA, BRUCE | x8
@@ -1495,10 +1495,10 @@ Now you’re sorry for putting me on the run.
 #### 3368a561ff | SELINA → BRUCE | x4
 Do me a favor.
 
-#### de889316c8-LM | SELINA → BRUCE | x4 | listener: male
+#### de889316c8-L? | SELINA → BRUCE | x4
 Then you came along...
 
-#### de889316c8-L? | SELINA → BRUCE | x4 | listener: unknown
+#### de889316c8-LM | SELINA → BRUCE | x4
 Then you came along...
 
 #### 5a5631f403 | BRUCE → SELINA | x4
@@ -1552,10 +1552,10 @@ You don’t know what you’re drinkin’?
 #### 5e277236ea | SELINA → RHONDA, BRUCE | x4
 Not this time.
 
-#### 83eeda9293-SF-LF | SELINA → RHONDA, BRUCE | x4 | speaker: female, listener: female
+#### 83eeda9293-SF-LF | SELINA → RHONDA, BRUCE | x4
 Oh, and here I thought you were one of those guys who took responsibility for their actions.
 
-#### 83eeda9293-SF-LM | SELINA → RHONDA, BRUCE | x4 | speaker: female, listener: male
+#### 83eeda9293-SF-LM | SELINA → RHONDA, BRUCE | x4
 Oh, and here I thought you were one of those guys who took responsibility for their actions.
 
 #### 423735aeed | SELINA → RHONDA, BRUCE | x4
@@ -1675,13 +1675,13 @@ Just let me finish my drink and I’ll be on my way.
 #### 0ff100b91e | TONY → BRUCE, BUTCHIE | x6
 I’d rather you just be on your way now.
 
-#### 53958a996b-SM-LM | TONY → SELINA, BRUCE, TIRONY | x8 | speaker: male, listener: male
+#### 53958a996b-SM-L? | TONY → SELINA, BRUCE, TIRONY | x8
 Someone said you were here -- but I guess I had to see it to believe it.
 
-#### 53958a996b-SM-L? | TONY → SELINA, BRUCE, TIRONY | x8 | speaker: male, listener: unknown
+#### 53958a996b-SM-LF | TONY → SELINA, BRUCE, TIRONY | x8
 Someone said you were here -- but I guess I had to see it to believe it.
 
-#### 53958a996b-SM-LF | TONY → SELINA, BRUCE, TIRONY | x8 | speaker: male, listener: female
+#### 53958a996b-SM-LM | TONY → SELINA, BRUCE, TIRONY | x8
 Someone said you were here -- but I guess I had to see it to believe it.
 
 #### d28dea1c77 | TONY → SELINA | x6
@@ -1690,10 +1690,10 @@ Oh, but it is your problem, Selina.
 #### 6326aff839 | TONY | x2
 Well, let me make it crystal: it is now.
 
-#### 28713f1ae4-L? | TONY → BRUCE | x6 | listener: unknown
+#### 28713f1ae4-L? | TONY → BRUCE | x6
 You made it your problem the moment you invited him here.
 
-#### 28713f1ae4-LM | TONY → BRUCE | x6 | listener: male
+#### 28713f1ae4-LM | TONY → BRUCE | x6
 You made it your problem the moment you invited him here.
 
 #### 0567573f31 | TONY → SELINA | x4
@@ -1711,10 +1711,10 @@ Time to leave.
 #### 88ff7cad66 | BRUCE → SELINA, TONY | x6
 Take your hand off her.
 
-#### ea4a48fce7-SM-LM | TONY → SELINA, BRUCE | x6 | speaker: male, listener: male
+#### ea4a48fce7-SM-LF | TONY → SELINA, BRUCE | x6
 If I was you, I’d take you’re new boyfriend and walk out of here while you still can.
 
-#### ea4a48fce7-SM-LF | TONY → SELINA, BRUCE | x6 | speaker: male, listener: female
+#### ea4a48fce7-SM-LM | TONY → SELINA, BRUCE | x6
 If I was you, I’d take you’re new boyfriend and walk out of here while you still can.
 
 #### 5bf308cf1d | SELINA → TONY | x2
@@ -1753,10 +1753,10 @@ Why not?
 #### d95616aa4f | BRUCE → TONY | x6
 Because she’s going to kick your ass.
 
-#### 6677392e1d-SF | SELINA, BRUCE → BRUCE, TONY, LELAND | x10 | speaker: female
+#### 6677392e1d-SF | SELINA, BRUCE → BRUCE, TONY, LELAND | x10
 I can take care of myself.
 
-#### 6677392e1d-SM | SELINA, BRUCE → BRUCE, TONY, LELAND | x10 | speaker: male
+#### 6677392e1d-SM | SELINA, BRUCE → BRUCE, TONY, LELAND | x10
 I can take care of myself.
 
 #### d69dfd21b0 | TONY → BRUCE | x2
@@ -2137,10 +2137,10 @@ I wish I was that free -- but I’m not.
 #### 0a1820ad3d | ELINA → RHONDA | x2
 sO, STOP BULLSHITTING ME AND TELL ME
 
-#### 2531c45fb9-LM | SELINA → BRUCE | x4 | listener: male
+#### 2531c45fb9-L? | SELINA → BRUCE | x4
 So, cut the shit and tell me why you really came here.
 
-#### 2531c45fb9-L? | SELINA → BRUCE | x4 | listener: unknown
+#### 2531c45fb9-LM | SELINA → BRUCE | x4
 So, cut the shit and tell me why you really came here.
 
 #### aa1d72d5c0 | SELINA, HARVEY → BRUCE | x4
@@ -2155,10 +2155,10 @@ Thanks for the invite but it doesn’t sound like my kinda scene.
 #### 83c7b24de1 | BRUCE → SELINA | x4
 Selina, a lot of people are going to get hurt.
 
-#### 2cd01f41f2-LM | SELINA → BRUCE | x4 | listener: male
+#### 2cd01f41f2-L? | SELINA → BRUCE | x4
 So cut the crap and tell me why you really came here.
 
-#### 2cd01f41f2-L? | SELINA → BRUCE | x4 | listener: unknown
+#### 2cd01f41f2-LM | SELINA → BRUCE | x4
 So cut the crap and tell me why you really came here.
 
 #### 3fbe873f6e | SELINA → BRUCE | x2
@@ -2389,10 +2389,10 @@ This one’s a keeper.
 #### 18756a2fe2 | SELINA → RHONDA | x8
 I got it.
 
-#### 447ab7d154-SF-LF | SELINA → RHONDA, TONY | x4 | speaker: female, listener: female
+#### 447ab7d154-SF-LF | SELINA → RHONDA, TONY | x4
 Are you going to tell me why you wanted to meet -- or do I need to buy you another drink first?
 
-#### 447ab7d154-SF-LM | SELINA → RHONDA, TONY | x4 | speaker: female, listener: male
+#### 447ab7d154-SF-LM | SELINA → RHONDA, TONY | x4
 Are you going to tell me why you wanted to meet -- or do I need to buy you another drink first?
 
 #### eeadc585a0 | SELINA → RHONDA | x2
@@ -2681,22 +2681,22 @@ Juke Box
 #### ea8748212f | choice/UI → RHONDA | x4
 TV Screen
 
-#### 7a1f4dc4f0-LF | RHONDA → SELINA, PATRON01 | x6 | listener: female
+#### 7a1f4dc4f0-L? | RHONDA → SELINA, PATRON01 | x6
 You lost? ‘Cuz I don’t have time for tourists.
 
-#### 7a1f4dc4f0-L? | RHONDA → SELINA, PATRON01 | x6 | listener: unknown
+#### 7a1f4dc4f0-LF | RHONDA → SELINA, PATRON01 | x6
 You lost? ‘Cuz I don’t have time for tourists.
 
 #### aa2b11d88b | choice/UI → RHONDA | x2
 [Flash some cash]
 
-#### 5bc29fdd08-LM | RHONDA → BRUCE, PATRON01, SELINA | x6 | listener: male
+#### 5bc29fdd08-L? | RHONDA → BRUCE, PATRON01, SELINA | x6
 Looks like you walked into the wrong bar.
 
-#### 5bc29fdd08-L? | RHONDA → BRUCE, PATRON01, SELINA | x6 | listener: unknown
+#### 5bc29fdd08-LF | RHONDA → BRUCE, PATRON01, SELINA | x6
 Looks like you walked into the wrong bar.
 
-#### 5bc29fdd08-LF | RHONDA → BRUCE, PATRON01, SELINA | x6 | listener: female
+#### 5bc29fdd08-LM | RHONDA → BRUCE, PATRON01, SELINA | x6
 Looks like you walked into the wrong bar.
 
 #### 87a05173d0 | RHONDA → BRUCE, PATRON01 | x6
@@ -2765,10 +2765,10 @@ Your face is all over the TV!
 #### e3d34f8b55 | PATRON → BRUCE | x2
 It looks like it found you.
 
-#### 46a7dc4ef4-L? | PATRON, PATRON01 → PATRON01, BRUCE | x4 | listener: unknown
+#### 46a7dc4ef4-L? | PATRON, PATRON01 → PATRON01, BRUCE | x4
 What did you say? You got some nerve--
 
-#### 46a7dc4ef4-LM | PATRON, PATRON01 → PATRON01, BRUCE | x4 | listener: male
+#### 46a7dc4ef4-LM | PATRON, PATRON01 → PATRON01, BRUCE | x4
 What did you say? You got some nerve--
 
 #### bcfa77d037 | PATRON, PATRON01 → BRUCE, RHONDA | x4
@@ -2849,10 +2849,10 @@ I can sense trouble.
 #### 3ba70783a2 | SELINA → BRUCE | x4
 Never took you for a follower, Bruce.
 
-#### dc7299aef1-LF | SELINA → RHONDA, BRUCE | x4 | listener: female
+#### dc7299aef1-LF | SELINA → RHONDA, BRUCE | x4
 Did you ever really doubt it?
 
-#### dc7299aef1-LM | SELINA → RHONDA, BRUCE | x4 | listener: male
+#### dc7299aef1-LM | SELINA → RHONDA, BRUCE | x4
 Did you ever really doubt it?
 
 #### df02348443 | SELINA → RHONDA, BRUCE | x4
@@ -3077,10 +3077,10 @@ Selina Kyle.
 #### a0bd0b12e2 | SELINA → CHEMTHUG, BRUCE | x4
 It seemed personal -- like Hill had hurt them or something.
 
-#### b887857dab-LM | SELINA → CHEMTHUG, COA01 | x4 | listener: male
+#### b887857dab-L? | SELINA → CHEMTHUG, COA01 | x4
 Rhonda? You didn’t tell me you had a problem with rats.
 
-#### b887857dab-L? | SELINA → CHEMTHUG, COA01 | x4 | listener: unknown
+#### b887857dab-LM | SELINA → CHEMTHUG, COA01 | x4
 Rhonda? You didn’t tell me you had a problem with rats.
 
 #### 4bfb6edc4e | CHEMTHUG, COA01 → BRUCE, CHEMTHUG | x6
@@ -3194,10 +3194,10 @@ Remember Penguin? Because he sure as hell remembers you.
 #### b077d9526b | SELINA → BRUCE | x4
 And the important thing is... ?
 
-#### d9eade4073-LF | SELINA → RHONDA, BRUCE | x4 | listener: female
+#### d9eade4073-LF | SELINA → RHONDA, BRUCE | x4
 If you knew how many thugs wanted me dead, you could have saved yourself the trip.
 
-#### d9eade4073-LM | SELINA → RHONDA, BRUCE | x4 | listener: male
+#### d9eade4073-LM | SELINA → RHONDA, BRUCE | x4
 If you knew how many thugs wanted me dead, you could have saved yourself the trip.
 
 #### 6896f683b7 | RHONDA → SELINA | x4
@@ -3308,19 +3308,19 @@ What about you?
 #### f4f275d65a | SELINA → RHONDA, BRUCE, ALFRED | x6
 The whole world freaked out at what big bad Batman did to Falcone.
 
-#### 7533c7ec3f-LF | SELINA → RHONDA | x4 | listener: female
+#### 7533c7ec3f-L? | SELINA → RHONDA | x4
 You beat on the Mayor too -- you could lose Gotham’s goodwill completely.
 
-#### 7533c7ec3f-L? | SELINA → RHONDA | x4 | listener: unknown
+#### 7533c7ec3f-LF | SELINA → RHONDA | x4
 You beat on the Mayor too -- you could lose Gotham’s goodwill completely.
 
 #### becc067200 | SELINA → BRUCE | x2
 You could lose Gotham’s goodwill.
 
-#### d76a0d1d40-LM | SELINA → BRUCE, ALFRED | x6 | listener: male
+#### d76a0d1d40-L? | SELINA → BRUCE, ALFRED | x6
 People look up to big, strong Batman after how you handled Falcone.
 
-#### d76a0d1d40-L? | SELINA → BRUCE, ALFRED | x6 | listener: unknown
+#### d76a0d1d40-LM | SELINA → BRUCE, ALFRED | x6
 People look up to big, strong Batman after how you handled Falcone.
 
 #### 4a886d4548 | SELINA → BRUCE, ALFRED | x6
@@ -3350,10 +3350,10 @@ I mean I get it. What’s to like about a corrupt politician who calls himself �
 #### 4f6e30c240 | BRUCE → SELINA | x4
 You think he’s involved with them?
 
-#### ad0bb3169c-L? | SELINA → PATRON01, BRUCE | x4 | listener: unknown
+#### ad0bb3169c-L? | SELINA → PATRON01, BRUCE | x4
 No, but he knows them. Unless you know where to find the Children of Arkham, he’s the only lead you’ve got.
 
-#### ad0bb3169c-LM | SELINA → PATRON01, BRUCE | x4 | listener: male
+#### ad0bb3169c-LM | SELINA → PATRON01, BRUCE | x4
 No, but he knows them. Unless you know where to find the Children of Arkham, he’s the only lead you’ve got.
 
 #### c41ce14b41 | SELINA → PATRON01, BRUCE | x4
@@ -3539,10 +3539,10 @@ Oh Bruce. You’re making me blush.
 #### 2dafb15bb2 | SELINA → BRUCE | x2
 You are the dangerous maniac, Bruce. You and me both.
 
-#### 77e5f1f784-SF | OSWALD, HARVEY, SELINA, choice/UI → BRUCE | x11 | speaker: female
+#### 77e5f1f784-SF | OSWALD, HARVEY, SELINA, choice/UI → BRUCE | x11
 I knew it.
 
-#### 77e5f1f784-SM | OSWALD, HARVEY, SELINA, choice/UI → BRUCE | x11 | speaker: male
+#### 77e5f1f784-SM | OSWALD, HARVEY, SELINA, choice/UI → BRUCE | x11
 I knew it.
 
 #### 9972583a22 | BRUCE → SELINA | x2

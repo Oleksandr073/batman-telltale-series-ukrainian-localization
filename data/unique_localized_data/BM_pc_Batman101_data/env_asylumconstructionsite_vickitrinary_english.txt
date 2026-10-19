@@ -217,10 +217,10 @@ Well... I can always change in the car.
 #### 7c8d19faf4 | ALFRED → BRUCE, GORDON | x4
 The Drones located Falcone downtown, a place called The Skyline Club.
 
-#### e9fb7ef5aa-LF | ALFRED → VICKI, GORDON | x4 | listener: female
+#### e9fb7ef5aa-LF | ALFRED → VICKI, GORDON | x4
 Though, you’re not dressed for that kind of party.
 
-#### e9fb7ef5aa-LM | ALFRED → VICKI, GORDON | x4 | listener: male
+#### e9fb7ef5aa-LM | ALFRED → VICKI, GORDON | x4
 Though, you’re not dressed for that kind of party.
 
 #### d43ac5c71a | FALCONE, VICKI → BRUCE | x5

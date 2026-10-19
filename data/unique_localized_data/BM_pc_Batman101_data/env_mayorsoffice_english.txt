@@ -490,13 +490,13 @@ Hey! What’re you--[doing]
 #### a24ed6fd36 | THUGBOSS, choice/UI → CATWOMAN, ALFRED | x4
 Where are you?
 
-#### 862d39150e-L? | choice/UI, THUGBOSS, FALCONE, BATMAN → VICKI, GCPD02, ALFRED | x12 | listener: unknown
+#### 862d39150e-L? | choice/UI, THUGBOSS, FALCONE, BATMAN → VICKI, GCPD02, ALFRED | x12
 Show yourself!
 
-#### 862d39150e-LM | choice/UI, THUGBOSS, FALCONE, BATMAN → VICKI, GCPD02, ALFRED | x12 | listener: male
+#### 862d39150e-LF | choice/UI, THUGBOSS, FALCONE, BATMAN → VICKI, GCPD02, ALFRED | x12
 Show yourself!
 
-#### 862d39150e-LF | choice/UI, THUGBOSS, FALCONE, BATMAN → VICKI, GCPD02, ALFRED | x12 | listener: female
+#### 862d39150e-LM | choice/UI, THUGBOSS, FALCONE, BATMAN → VICKI, GCPD02, ALFRED | x12
 Show yourself!
 
 #### 20cb10e1a9 | THUGBOSS → GUARD | x2

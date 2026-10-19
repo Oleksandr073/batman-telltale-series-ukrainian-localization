@@ -400,10 +400,10 @@ Stop--
 #### 073490b45d | CATWOMAN → LADYARKHAM | x2
 --talking? See. We even finish each other’s sentences.
 
-#### ac36dd4fc6-LF | ALFRED → CATWOMAN, BATMAN | x4 | listener: female
+#### ac36dd4fc6-LF | ALFRED → CATWOMAN, BATMAN | x4
 Have you found out what they’re up to?
 
-#### ac36dd4fc6-LM | ALFRED → CATWOMAN, BATMAN | x4 | listener: male
+#### ac36dd4fc6-LM | ALFRED → CATWOMAN, BATMAN | x4
 Have you found out what they’re up to?
 
 #### 7e00f45514 | ALFRED → BATMAN, BRUCE | x6
@@ -928,10 +928,10 @@ Take this. I’ll distract them.
 #### fd32edae01 | COA02 → LADYARKHAM | x4
 Train’s ready! Move out!
 
-#### 7a3d348708-LF | LADYARKHAM → CATWOMAN, BATMAN | x4 | listener: female
+#### 7a3d348708-LF | LADYARKHAM → CATWOMAN, BATMAN | x4
 Don’t get ahead of yourself.
 
-#### 7a3d348708-LM | LADYARKHAM → CATWOMAN, BATMAN | x4 | listener: male
+#### 7a3d348708-LM | LADYARKHAM → CATWOMAN, BATMAN | x4
 Don’t get ahead of yourself.
 
 #### 6c89497d9e | LADYARKHAM → CATWOMAN, BATMAN | x4
@@ -1114,16 +1114,16 @@ I’ll be done when I’m dead.
 #### 87bc22d239 | LADYARKHAM → CATWOMAN | x2
 So gallant, but that can be arrang--[ed]!
 
-#### 49224698f4-LM | CATWOMAN → LADYARKHAM, BATMAN | x6 | listener: male
+#### 49224698f4-LF | CATWOMAN → LADYARKHAM, BATMAN | x6
 A thank you would be nice!
 
-#### 49224698f4-LF | CATWOMAN → LADYARKHAM, BATMAN | x6 | listener: female
+#### 49224698f4-LM | CATWOMAN → LADYARKHAM, BATMAN | x6
 A thank you would be nice!
 
-#### ba09d9ddc5-LM | CATWOMAN → LADYARKHAM, BATMAN | x6 | listener: male
+#### ba09d9ddc5-LF | CATWOMAN → LADYARKHAM, BATMAN | x6
 A thank you would be nice.
 
-#### ba09d9ddc5-LF | CATWOMAN → LADYARKHAM, BATMAN | x6 | listener: female
+#### ba09d9ddc5-LM | CATWOMAN → LADYARKHAM, BATMAN | x6
 A thank you would be nice.
 
 #### 206cd19fbd | BATMAN → CATWOMAN | x2

@@ -133,10 +133,10 @@ You’re corrupt!
 #### 6f05a9c368 | choice/UI | x4
 You’re a liar!
 
-#### abe3cf3189-L? | choice/UI → HILL | x8 | listener: unknown
+#### abe3cf3189-L? | choice/UI → HILL | x8
 Falcone’s dead. You’re scared.
 
-#### abe3cf3189-LM | choice/UI → HILL | x8 | listener: male
+#### abe3cf3189-LM | choice/UI → HILL | x8
 Falcone’s dead. You’re scared.
 
 #### 2d16b5d36d | choice/UI | x4
@@ -325,10 +325,10 @@ No, Hill. This problem is all yours.
 #### 841c2d0e05 | BRUCE → HILL | x4
 You and Falcone have been smuggling dangerous drugs into the city.
 
-#### 4cdbf792be-LM | BRUCE → HILL | x8 | listener: male
+#### 4cdbf792be-L? | BRUCE → HILL | x8
 And you used my company as a cover.
 
-#### 4cdbf792be-L? | BRUCE → HILL | x8 | listener: unknown
+#### 4cdbf792be-LM | BRUCE → HILL | x8
 And you used my company as a cover.
 
 #### d8403a2f51 | BRUCE | x4
@@ -1406,10 +1406,10 @@ Gotham’s protector.
 #### 0cd2c8a06e | choice/UI → HILL | x4
 What was your bargain?
 
-#### 711cd3fa7c-L? | choice/UI, BATMAN → HILL | x8 | listener: unknown
+#### 711cd3fa7c-L? | choice/UI, BATMAN → HILL | x8
 What did you give them on Wayne?
 
-#### 711cd3fa7c-LM | choice/UI, BATMAN → HILL | x8 | listener: male
+#### 711cd3fa7c-LM | choice/UI, BATMAN → HILL | x8
 What did you give them on Wayne?
 
 #### 7d319669b6 | choice/UI | x2
