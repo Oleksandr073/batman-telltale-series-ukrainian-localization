@@ -1,0 +1,2054 @@
+﻿1) 
+I need to see Dent. Now.
+28) BRUCE
+[insistent]I need to see Dent. Now.
+2) 
+I’m not here to cause trouble.
+3) 
+Don’t try to stop me.
+4) 
+[alt]You got my attention. Now what?
+5) 
+I’m here to stop you.
+6) 
+Can we talk like friends?
+7) 
+Do you honestly believe that?
+8) 
+Is this because of Selina?
+9) 
+You’ve completely lost it.
+10) 
+You’re forgetting your REAL enemies.
+11) 
+You’re just being selfish.
+12) 
+You don’t know what’s good for Gotham.
+13) 
+You can’t just bury me.
+14) 
+You disgust me.
+15) 
+Let’s work something out.
+16) 
+
+43) 
+
+52) 
+
+63) 
+
+99) 
+
+166) 
+
+182) 
+
+333) HARVEY
+[Two Face, sneer]
+421) HARVEY
+[pickup]
+445) HARVEY
+[scoffs]
+482) HARVEY
+[pickup]
+527) BRUCE
+[gasps]
+552) 
+[Punch Him]
+553) HARVEY
+[grunts/gasps from being punched]
+558) 
+[Back Down]
+567) 
+
+581) 
+
+583) 
+
+595) 
+
+598) 
+[Attack Harvey]
+627) 
+
+641) 
+
+658) 
+
+660) 
+
+664) 
+
+665) 
+
+672) 
+
+677) 
+
+687) 
+
+690) 
+
+712) 
+
+731) 
+
+788) 
+
+790) 
+
+793) 
+
+794) HARVEY
+[two face]
+866) 
+
+869) 
+
+871) 
+
+891) 
+
+897) BRUCE
+[
+909) 
+
+911) 
+...
+946) 
+
+956) 
+
+987) 
+[Punch him]
+988) 
+[Threaten him]
+17) 
+You keep putting me there.
+18) 
+Not by choice.
+19) HTTPS
+//docs.google.com/a/telltalegames.com/document/d/1-_aR7rshlL82gKuExhW2dZMI3czem68BgEY7ZdmMcLM/edit?usp=sharing
+20) 
+Don’t change the subject.
+128) BRUCE
+Don’t change the subject-!
+21) 
+I’ve always supported you!
+22) 
+I’m not the enemy here!
+23) 
+I’m trying to help you!
+24) OFFICER01
+[into radio]Sir, it’s Bruce Wayne.
+25) SERGEANT
+[over radio] What? Where?
+26) OFFICER01
+[into radio] uh... here.
+27) DEBORAH
+Uh, hello, Mr. Wayne. Do you need anything?
+29) POLICEOFFICER
+[commanding]The lady asked you a question.
+30) POLICEOFFICER
+So you should answer her.
+31) BRUCE
+[defusing]I didn’t come here to cause trouble.
+32) BRUCE
+[tough]Don’t even try it!
+33) DEBORAH
+Sir? Did you hear me?
+34) DEBORAH
+[alt]Hello, Mr. Wayne... can we help you?
+35) DEBORAH
+... anyway... He mentioned you might come by.
+36) DEBORAH
+You can find him on the roof.
+37) DEBORAH
+[conspiratorially]It’s kind of his thinking place.
+38) BRUCE
+[calling]Harvey!
+140) BRUCE
+[calling]{ConfusedA}Harvey!
+278) BRUCE
+{ConcernedA}Harvey?
+279) BRUCE
+{ConcernedA}Harvey?
+322) BRUCE
+...Harvey?
+39) HARVEY
+I’m guessing you saw my big announcement about seizing your fortune.
+40) BRUCE
+{SadA}Can’t we talk this over like {FaceAccent}friends, Harvey?
+41) BRUCE
+After all, we used to be friends.
+42) BRUCE
+[alt]We’re friends, Harvey.
+44) HARVEY
+{ConfusedA}About your house I mean...
+45) HARVEY
+[alt]Deborah said I come off very mayoral... perhaps even “gubernatorial.“
+46) HARVEY
+[alt]It seems the public really likes to see the bad guy take a big fall.
+47) BRUCE
+{SkepticalA}I know your little stunt was to get my attention.
+48) HARVEY
+[interrupting]No, Bruce, I’m IN line.  Thanks to you being an out-of-control, plundering billionaire, I’ve got the whole city in line behind me now-
+49) HARVEY
+That’s right, Bruce, just let it sink in.
+50) HARVEY
+Get used to the new way of the world.
+51) BRUCE
+What the hell?!?
+53) HARVEY
+[Pleading] {PainA}I threw you in Arkham to get you out of the way.
+54) HARVEY
+I’m trying to keep a city running here whatever way I can.
+55) HARVEY
+[alt]I’m trying to keep a city running here.
+56) BRUCE
+{ConcernedA}I’ve always suported you, Harvey!
+57) BRUCE
+[alt]Your authority is a joke, Mister Mayor.
+58) BRUCE
+I’m just trying to help you!
+59) HARVEY
+What? Is Bruce Wayne finally out of answers for everything?
+60) HARVEY
+Can’t you see that you’re making Gotham worse?!?
+61) BRUCE
+{ConcernedA}Harvey, you should be focusing on the {ConcernedB}Penguin, Lady Arkham, and {AngryA}all the rest of their crazy army!
+62) BRUCE
+You’ve got the power- put it to good use.
+64) HARVEY
+You’re only helping yourself-
+65) HARVEY
+You’re just not seeing the big picture.
+66) HARVEY
+It took me years to get here, Bruce- I’m not going to let you ruin it.
+68) HARVEY
+It took me years to get here, Bruce- I’m not going to let you ruin it.
+67) HARVEY
+While the rest of the city is going to hell, you’re turning YOURSELF into the story.
+69) HARVEY
+I really don’t have time for this kind of nonsense.
+159) HARVEY
+I really don’t have time for this kind of nonsense.
+70) HARVEY
+[alt]One thing at a time, Bruce.
+71) HARVEY
+Well, if it is, it’s on you, Bruce.
+72) BRUCE
+What am I missing?  What does seizing my assets have to do with that?!?
+73) HARVEY
+Reparations, Bruce. It’s what your family owes this city.
+74) BRUCE
+{AngryB}Do you really believe all this garbage you’re saying?
+75) BRUCE
+{SadA}So that’s it then. {FearA}You’ve gone completely around the bend.
+76) HARVEY
+[insistent]No!
+77) HARVEY
+[considering...]Well... maybe half.
+78) HARVEY
+[alt]Not at all!
+79) BRUCE
+{SmugA}This is because of Selina, isn’t it?
+80) HARVEY
+{SurpriseA}Of course it isn’t!
+81) HARVEY
+[alt, an aside]Well, maybe it is a little.
+82) HARVEY
+Harvey is obviously beginning to unravel emotionally.
+83) HARVEY
+[Two-Face] {AngryA}It might be hard for you to accept, Bruce, but it’s time to make things right.
+169) HARVEY
+[Two-Face] {AngryA}It might be hard for you to accept, Bruce, but it’s time to make things right.
+84) HARVEY
+It’s time to give back what you’ve taken.
+85) HARVEY
+[alt]It’s time for a Wayne to make amends for all your family has done to this city.
+86) HARVEY
+[TWO-FACE]We’ve got enough to worry about without you making a problem of yourself.
+87) HARVEY
+[TWO-FACE]This is for the good of Gotham.
+88) HARVEY
+[TWO-FACE]If you’d asked me just a few weeks ago, I’d have bet Harvey could trust you more than anyone else in his life, Bruce.
+89) HARVEY
+[alt]As if Harvey don’t have enough to worry about as Mayor without you making yourself into another problem I have to deal with.
+90) HARVEY
+[TWO-FACE] You’re just as bad as Batman! Leaving Harvey to suffer while you look out for your own interests.
+91) HARVEY
+[TWO-FACE]Don’t get me wrong, Bruce. I will always appreciate everything you’ve done for Harvey. Hell, he wouldn’t be Mayor today if not for you and your wallet.
+92) HARVEY
+[TWO-FACE]But all that’s in the past.  And, for better or worse, we’re living in the now.
+93) BRUCE
+You can’t just get rid of me.
+94) HARVEY
+[TWO-FACE]Yes, you’re like a bad penny, aren’t you?
+95) HARVEY
+[TWO-FACE]Always turning up and all that... no matter what.
+96) BRUCE
+You’re disgusting.
+97) BRUCE
+I believed in you.  When no one else did. When you didn’t even believe in yourself.
+98) BRUCE
+Let’s make a deal, Harvey.
+100) BRUCE
+I refuse to go away.
+101) HARVEY
+True... but now I’m more than man enough for any job.
+102) HARVEY
+[TWO-FACE]It’s too late for that, Bruce.
+103) HARVEY
+[TWO-FACE]I’m holding all the cards now... and I’m not giving any of them up.
+104) BRUCE
+[alt]For old time’s sake.
+105) HARVEY
+[TWO-FACE]That’s right, Bruce.  Don’t argue.  Don’t fight it.
+106) HARVEY
+[TWO-FACE]It’ll make this all go so much easier.
+107) HARVEY
+[TWO-FACE]It’s over for you now, Bruce.
+108) HARVEY
+[TWO-FACE]You just need to accept it.
+109) HARVEY
+[TWO-FACE]It’s what’s good for Gotham, Bruce.
+110) HARVEY
+[TWO-FACE]We hope you’ll be able to see that.
+111) HARVEY
+[TWO-FACE]We hope you can see that.
+112) BRUCE
+Gotham has bigger problems than me.
+113) BRUCE
+You have way bigger problems than me, Harvey. Maybe if you’d take a look around you’d see that.
+114) BRUCE
+You’re wasting time on me while the Children of Arkham are tearing this city apart.
+115) HARVEY
+[TWO-FACE]It really is for the best.
+116) BRUCE
+No. You’re just being selfish.
+117) BRUCE
+That’s what’s really motivating you? Not this fake nobleness you’re playing at.
+118) BRUCE
+[alt]Stop being so two-faced.
+119) BRUCE
+You don’t know what’s good for Gotham, Harvey.
+120) HARVEY
+[TWO-FACE]-and you do?!?
+121) HARVEY
+[TWO-FACE]Just accept it, Bruce: You can’t fight City Hall.
+122) HARVEY
+[TWO-FACE]You certainly have been in the news a good deal lately, haven’t you?
+160) HARVEY
+[TWO-FACE]You certainly have been in the news a good deal lately, haven’t you?
+123) HARVEY
+[alt]I mean, even for Bruce Wayne, you’re getting a lot of press, aren’t you?
+124) BRUCE
+You’re the one that’s been putting me on the front page.
+125) HARVEY
+[TWO-FACE]I mean, even for Bruce Wayne, you’re making a lot of headlines.
+126) BRUCE
+It’s not like I’ve been trying to.
+127) BRUCE
+You think I want anything to do with this kind of attention?
+129) HARVEY
+[weirdly calm][TWO-FACE]Oh, but I’m not, Bruce.
+130) HARVEY
+[alt][TWO-FACE]What’s the matter, cat got your tongue?
+131) HARVEY
+[Two-Face] I thought you’d, at least, learn your lesson and keep a lower profile.
+132) HARVEY
+[TWO-FACE]Or have you just grown so accustomed to the attention that you can’t stand to go without it anymore?
+133) HARVEY
+[TWO-FACE]Or have you just grown so addicted to all the attention that you can’t stand to go without it anymore?
+134) HARVEY
+[two face] After a lifetime of battling post traumatic syndrome.
+135) HARVEY
+[TWO-FACE]And, now, commiting suicide mere hours after your assets are seized.
+136) BRUCE
+[what?] “Suicide?“
+261) BRUCE
+“Suicide?“
+264) BRUCE
+“Suicide?“
+266) BRUCE
+“Suicide?“
+268) BRUCE
+“Suicide?“
+137) ALFRED
+[over the phone] Bruce, I’m concerned about Mister Dent’s emotional state.
+138) BRUCE
+[into phone]I just need to hope my old friend is the Harvey Dent I’m talking to...
+139) ALFRED
+[over the phone]Good luck, sir.
+141) ALFRED
+[alt,over phone]He may not be capable of being the man you require him to be.
+142) ALFRED
+[alt,over phone]I fear he may not even be himself, at all.
+143) HARVEY
+[mumbles] {FearA}I told you, I told you, I can handle it.
+144) HARVEY
+[to Bruce] Bruce. I thought you might drop by.
+145) HARVEY
+[TWO-FACE]Goodnight, sweet prince.
+146) HARVEY
+[TWO-FACE]Goodnight, sweet prince.
+147) HARVEY
+[TWO-FACE] I’ll tell Selina you said goodbye.
+148) HARVEY
+[TWO-FACE]Touche. You’ve got me there!
+149) HARVEY
+[TWO-FACE]Touche. You’ve got me there!
+150) HARVEY
+[TWO-FACE]Touche. You’ve got me there!
+151) HARVEY
+[TWO-FACE]And it’s too late for Harvey!
+152) HARVEY
+[mumbles, angry] If you screw this up--
+153) BRUCE
+You think you can just take my home?
+154) HARVEY
+I didn’t have a choice, Bruce!
+155) HARVEY
+[Two-face] We tried it Harvey’s way - Putting you away in Arkham, but you had to buy your way right back out again! You forced my hand!
+156) HARVEY
+[mumbles, two-face] {AngryA}Don’t screw this up, Harvey.
+1026) HARVEY
+[two face]Don’t screw this up, Harvey!
+157) BRUCE
+Are we still friends at all?
+158) HARVEY
+Hard to say.
+161) DEBORAH
+Do you have an appointment?
+162) BRUCE
+I don’t need an appointment!
+163) BRUCE
+[appealing to her] You know who I am.  Just let me talk to him.
+164) DEBORAH
+Okay. He mentioned you might come by.
+165) HARVEY
+[over speaker] It’s okay. Let him up.
+167) OFFICER01
+Is there a problem?
+168) DEBORAH
+It’s okay.  Mayor Dent’s expecting him.
+170) ALFRED
+[Phone] Just be careful, Bruce.
+171) ALFRED
+[Phone] Batman may have saved him from Penguin’s attack, but Lady Arkham’s drug has clearly affected him on a deep level.
+172) ALFRED
+[Phone] I know he’s an old friend, but the man you once knew disapeared the moment Batman left him to save Selina. Those scars go deeper than just his appearance.
+173) 
+Harvey’s still in there.
+174) ALFRED
+[alt][Phone] The way you two left things at Miss Kyle’s, combined with the damage done by the Penguin while you were saving Selina... He could be irrational.
+175) ALFRED
+[Phone] From what you’ve told me, you two didn’t leave things well atMiss Kyle’s. Combined with his fragile psychological state after the Children of Arkham’s attack... This could be difficult.
+176) 
+He needs to be stopped.
+177) 
+I just want to talk to him.
+178) BRUCE
+[Into phone] {ConcernedA}Harvey’s still in there. {SadA}He has to be.
+179) ALFRED
+[Phone] Let’s hope you’re right.
+184) ALFRED
+[Phone] Let’s hope you’re right.
+392) ALFRED
+[Phone] Let’s hope you’re right.
+180) ALFRED
+[Phone] Well just try and treat the situation delicately this time.
+183) ALFRED
+[Phone] Well just try and treat the situation delicately this time.
+181) BRUCE
+[Phone] {ConcernedA}I can’t let him keep doing this - {ConcernedB}No matter what’s wrong with him, {AngryA}he needs to be stopped.
+185) ALFRED
+[Phone] Here’s hoping he’ll listen to reason...
+186) BRUCE
+[Into phone]{ThinkingA} All I want to do is {SadA}talk.
+187) ALFRED
+[Phone] Let’s just hope he’s in the mood to listen...
+188) ALFRED
+[Phone] Well... Best of luck.
+189) HARVEY
+{SurpriseA}Hey. {HappyA}Hi Bruce. I imagine you’ve got... some questions,{FaceAccent}right?
+190) HARVEY
+[Two-Face] I imagine you saw my little... announcement.
+191) HARVEY
+[Two-Face] {HappyB}Bruce. {SarcasticA}So good of you to stop by.
+192) HARVEY
+[Two-Face] {SmugA}Saw my little announcement, huh?
+193) HARVEY
+[mumbles] {FearA}Oh {FaceAccent}god he’s here.
+194) HARVEY
+[Mumbles, two-face] {AngryB}{FaceAccent}Shut up. {AngryA}Just shut up and I’ll handle it.
+195) HARVEY
+[two face] {SmugA}Course I guess it would be hard for you to miss.
+196) HARVEY
+[two face] {SmugB}What with it getting picked up on every channel.
+197) HARVEY
+{SadA}I just...{SurpriseA}{FaceAccent}oh god... {PainA}I was trying. I was trying to handle this like a friend.
+198) HARVEY
+[two face] {AngryA}Yeah. But he was too soft.
+199) HARVEY
+[two face] {AngryA}And then you had to go and {AngryB}undermine his authority!
+200) BRUCE
+{AngryA}Well... {FaceAccent}mission accomplished. What do you want?
+201) HARVEY
+{SurpriseB}“Mission accomplished..?“ {FaceAccent}Bruce, don’t you get it?
+202) HARVEY
+[Two-Face] {AngryA}What do I want? {AngryB}What do I {FaceAccent}WANT?
+203) HARVEY
+[Two-Face] {SarcasticA}You think you’re Harvey’s{AngryA} friend? Boy Bruce. I’d hate to see how you treat your {AngryB}ENEMIES.
+204) HARVEY
+{SadA}Bruce, I know you’re probably angry, and I {FaceAccent}know you’re upset, {PainA}but don’t you understand?
+205) HARVEY
+[Two-Face] {AngryA}My message clearly didn’t sink in the first time so I was forced to take more... {AngryB}drastic action.
+206) HARVEY
+[Two-Face]{AngryA} I wanted you {AngryC}GONE, Bruce.{AngryA} That’s why you got thrown into Arkham. {SmugA}It was Harvey’s one last kindness to you.
+207) HARVEY
+[Two-Face] {AngryA}That is until you went and undermined his authority.
+208) HARVEY
+{FearA}I know, I know, {FaceAccent}but{SadA} my hands are tied here!
+209) HARVEY
+[Two-Face] {SmugA}Real classy of you to hold it over his head like that.
+210) HARVEY
+[Two-Face] {SmugA}Gonna hold that over Harvey’s head forever, huh?{SarcasticA} Classy.
+211) HARVEY
+What do you think I’m trying to do, Bruce? I’m trying to keep control of a city that’s currently in the process of tearing itself apart at the seams!
+212) HARVEY
+[Two-Face] And failing. Because of YOU, Bruce.
+213) HARVEY
+[Two-Face] Aren’t you, Bruce? [Aren’t you the enemy?]
+214) BRUCE
+I am not the enemy here.
+215) 
+But why?
+216) BRUCE
+{SadA}I don’t understand... {DespairA}Why?
+217) HARVEY
+{PainA}Because he... Because he...
+218) HARVEY
+[Two-Face] {AngryA}Because Harvey didn’t have the {FaceAccent}stones to do what really needed to be done.
+219) 
+Let me talk to Harvey.
+220) BRUCE
+{SadA}Can I just talk to Harvey? If there was a kindness he wanted to give me then maybe we can work something out.
+221) HARVEY
+[Two-Face] It was his LAST kindness, Bruce. And frankly more than you deserved.
+222) HARVEY
+{SadA}It was... {PainA}it was my deal. {FaceAccent}With him.
+223) HARVEY
+[Two-Face] You’re not really that dense, are you?
+224) HARVEY
+I made a deal with him, don’t you see? Into Arkham... off the table. But now that you’re out you forced his hand!
+225) HARVEY
+I don’t... I don’t know how much longer I’ll be here.
+226) BRUCE
+But what does this have to do with taking my money? My home?
+227) HARVEY
+{PainB}I’m tearing down your mansion and turning it into a {AngryC}PARK because {AngryA}I think it’s about time the Waynes {SarcasticA}started giving back to the people of Gotham.
+228) HARVEY
+Y-you did a lot for us--... ME, Bruce. But that’s the past. It’s time to start looking forward to the future.
+229) HARVEY
+[Two-Face] It’s only fair.
+230) HARVEY
+[Two-Face]{SarcasticA} Not entirely, anyway.
+231) HARVEY
+[Two-Face] {SmugA}Ahh no no no.{SmugB} I’ve been set free for the first time in Harvey’s pathetic life.
+232) IR
+BRUCE:<<guid:{72BE7FCF-8BF4-49FF-94D5-131225E9849E}>><<id:378593506>>That’s why you took my house? My assets?
+233) HARVEY
+[Two-Face, threatening] That’s what you think, huh?
+234) HARVEY
+[Two-Face, threatening] One problem at a time, Bruce.
+235) BRUCE
+Penguin and the Children of Arkham are going to destroy Gotham from the inside!
+236) BRUCE
+I used to think you did... But not anymore.
+237) BRUCE
+And I don’t know if you ever have.
+238) HARVEY
+[Two-Face] Oh and you do?!
+239) HARVEY
+[Two-Face] You’re THROUGH.
+240) HARVEY
+[Two-Face] And then after
+241) HARVEY
+[Two-Face] {SmugA}Honestly, it makes perfect sense why you would lose it. Much stronger men than you have.
+389) HARVEY
+[Two-Face] {SmugA}Honestly, it makes perfect sense why you would lose it. Much stronger men than you have.
+242) HARVEY
+[Two-Face] (Much stronger men than you have)
+243) HARVEY
+[Two-Face] He thought he could take it, but he FAILED.
+244) HARVEY
+[Two-Face] That’s why I took over. Right, Harvey?
+245) HARVEY
+[Two-Face] It was all a little much for him, so he gave me the steering wheel.
+246) HARVEY
+[Two-Face] That’s why he gave me the steering wheel. Didn’t you Harvey?
+247) HARVEY
+[Trying to explain] Bruce, I--
+248) HARVEY
+[Scared] Bruce, I--
+249) HARVEY
+[Two-Face] Shut UP, Harvey. I said I’d do this.
+250) HARVEY
+[Two face, an idea] How about we flip for it.
+251) HARVEY
+[Two-face, threatening] Don’t you?
+252) HARVEY
+[Two-Face] {SarcasticA}Finally made him the man he needs to be.
+253) HARVEY
+[Two-Face] {SmugB}But still. Such a tragic end.
+390) HARVEY
+[Two-Face] {SmugB}But still. Such a tragic end.
+254) 
+I haven’t lost it.
+255) 
+Are you threatening me?
+259) BRUCE
+Are you threatening me?
+256) 
+You’re not making sense.
+257) BRUCE
+I haven’t lost it, Harvey. What are you talking about?
+258) HARVEY
+[Two-Face] I don’t
+260) HARVEY
+[Two-Face] No, Bruce. I’m just saying that suicide is such a sad way to go.
+262) BRUCE
+Hold it together, Harvey. You’re not making sense.
+263) HARVEY
+[Two-Face] I’m talking about your tragic suicide, Bruce.
+265) HARVEY
+[Two-Face] Am I not? I’m just talking about your sad, sad, suicide.
+267) HARVEY
+Are you confused, Bruce? I’m just talking about your suicide. Very sad.
+269) HARVEY
+Bruce, let me explain--
+270) HARVEY
+[Two-Face] Shut UP, Harvey.
+271) HARVEY
+[Two-Face] Shut UP, Harvey.
+272) HARVEY
+[Two-Face] Shut UP, Harvey.
+273) BRUCE
+Wait. Let Harvey talk.
+274) BRUCE
+Hang on. I want to talk to my friend.
+275) BRUCE
+Fine.
+773) HARVEY
+Fine.
+276) HARVEY
+[Two-Face] Well what do you know.
+277) HARVEY
+{PainA}Bruce. I... I don’t know how much longer... how much longer *I’ll* be here.
+280) HARVEY
+{AngryA}Make it quick, Bruce.  {AngryB}I have nothing left to say to you. {PainA}And soon I’ll be gone.
+281) 
+You need to hold on.
+302) 
+You need to hold on.
+282) 
+I’m so sorry.
+300) 
+I’m so sorry.
+283) 
+Snap out of it!
+301) 
+Snap out of it!
+284) BRUCE
+{SadA}This isn’t you. {ConcernedA}You just need to hold on. We can get you help.
+285) HARVEY
+{SadA}That’s just it, Bruce. I don’t know if I can hold on anymore.
+286) BRUCE
+[Insistent] Harvey? Harvey!
+287) BRUCE
+{SadB}I am so, so sorry Harvey.
+288) HARVEY
+{SadA}You’ve always been a good friend Bruce, and I’ll never forget that, okay?
+289) BRUCE
+{ConcernedA}Snap out of it! {AngryA}You can beat this, come on!
+290) HARVEY
+{SadA}What do you think I’ve been trying to do, Bruce?
+291) HARVEY
+[Losing it, trailing off] {PainA}Even if... Even if it seems like... if I’m acting like...
+292) HARVEY
+[Losing it, trailing off] {PainA}He keeps pushing me deeper, and deeper...
+295) HARVEY
+[Losing it, trailing off] {PainA}He keeps pushing me deeper, and deeper...
+293) HARVEY
+[Trailing off, losing it] {PainA}But my head... argh. My mind feels like it’s splitting... in two...
+294) HARVEY
+{SadA}This isn’t... this really isn’t how I wanted it to end.
+296) HARVEY
+[Two-Face] ‘Fraid that Harvey’s not home anymore, heh.
+313) HARVEY
+[Two-Face] ‘Fraid that Harvey’s not home anymore, heh.
+297) HARVEY
+[Two-Face] Don’t cry for him - You and I have work to do.
+343) HARVEY
+[Two-Face] Don’t cry for him - You and I have work to do.
+350) HARVEY
+[Two-Face] Don’t cry for him - You and I have work to do.
+353) HARVEY
+[Two-Face] Don’t cry for him - You and I have work to do.
+298) BRUCE
+{AngryA}You bastard.
+330) BRUCE
+{AngryA}You bastard.
+338) 
+You bastard.
+344) 
+You bastard.
+351) BRUCE
+{AngryA}You bastard.
+299) 
+This is what you deserve.
+303) 
+This is what you deserve.
+304) HARVEY
+{SadA}Too little too late, Bruce. Too little too late.
+305) HARVEY
+{PainA}Now... this is the way it has to be.
+306) HARVEY
+{SarcasticA}Well...[Toasting] To simpler times, huh? {AngryA}See you on the other side, Bruce.
+307) BRUCE
+[Glower] {AngryA}So what now?
+331) BRUCE
+[Glower] {AngryA}So what now?
+352) BRUCE
+[Glower] {AngryA}So what now?
+308) HARVEY
+[Two Face] {SmugB}Now? We get to work.
+332) HARVEY
+[Two Face] {SmugB}Now? We get to work.
+349) HARVEY
+[Two Face] {SmugB}Now? We get to work.
+309) BRUCE
+{ConcernedA}You’ve just reaping what you’ve sown, Harvey. {SkepticalA}You’ve made some big mistakes.
+310) HARVEY
+{AngryA}Well screw you too, “pal.“ See you in hell.
+311) HARVEY
+[Two Face]{AngryA} I need you out of the picture. Permanently.
+312) HARVEY
+[Two Face, sneer] {AngryB}It’s for the good of Gotham.
+314) HARVEY
+[Two Face] Thems the rules.
+315) 
+You let a coin control you?
+316) 
+I know you’re still in there.
+317) 
+You need to be put down.
+318) BRUCE
+{SmugA}You’re really letting your actions be determined by a coin? Seems a little weak-minded for you.
+319) HARVEY
+[Two Face] This? It’s the physical representation of chance. Chaos. Fate. Nothing stupid at all.
+320) HARVEY
+{AngryA}If you’re trying to get under my skin, it’s not gonna work. Harvey’s time is over. {AngryB}Done. {AngryC}Through.
+321) HARVEY
+[Two Face] {NormalA}You and Harvey good were friends. Loyal friends.
+323) BRUCE
+{ConcernedA}Harvey, I know you’re still in there. You can still fight this.
+324) HARVEY
+[Two Face] {SarcasticA}Nahh. Nah. Harvey was weak, and now he’s gone. {AngryA}Survival of the fittest.
+325) BRUCE
+{AngryA}I’ve heard enough. You need to be put down.
+326) HARVEY
+[Two Face, mocking] {AngryB}Who’s gonna stop me? You?
+327) HARVEY
+[Two Face] {SmugA} it’s MY time now. {AngryA}And I have work to do.
+328) HARVEY
+[Two Face] {SmugA}Gone. For good.
+329) HARVEY
+[Two Face] And now it’s time to make some changes.
+334) HARVEY
+[Two Face] {SarcasticA}So marks the end of an era.
+335) HARVEY
+[Two Face, sneer] {SmugA}Long live Harvey Dent.
+336) BRUCE
+Don’t forget that I paid for that “authority.“
+337) HARVEY
+Bruce...
+339) 
+It’s just you and me now.
+345) 
+It’s just you and me now.
+340) 
+You’ve just made things easier.
+346) 
+You’ve just made things easier.
+341) BRUCE
+{AngryB}You just made what I’m going to do to you a whole lot easier.
+348) BRUCE
+{AngryB}You just made what I’m going to do to you a whole lot easier.
+342) HARVEY
+[two face] {SmugB}Heh, I don’t think so...
+347) HARVEY
+[two face] {SmugB}Heh, I don’t think so...
+354) 
+What have you done?!
+355) BRUCE
+{SadA}What have you done?!  You’re saying Harvey is -
+356) ALFRED
+[Phone]He hasn’t been the same since Batman chose to save Selina over him at the debate.  And with the way you two left things at Miss Kyle’s... He could be irrational.
+357) ALFRED
+[Phone]Despite the fact that Batman saved him from Penguin at the debate, his mental state has been questionable ever since.  And with the way you two left things at Miss Kyle’s... This could be difficult.
+358) BRUCE
+I’m here to stop you, Harvey.
+359) 
+What’s this going to cost me?
+360) BRUCE
+What’s this going to cost, huh?  How much do you want to put an end to all this?
+361) HARVEY
+[sympathetic] {SurpriseA}You can’t {FaceAccent}pay your way out of this one, Bruce.
+362) HARVEY
+[twoface] {SmugA}He’s right!  {AngryA}We’re {FaceAccent}waaay past that!
+363) HARVEY
+[pleading] ...To keep you safe from the {FaceAccent}Children of Arkham
+364) BRUCE
+Turning my property into a park?
+365) HARVEY
+[two face] {SarcasticA}Now, you’re back on the streets like nothing ever happened. {AngryA}And that makes ME look bad.
+366) BRUCE
+So you’re going to strike back at me by taking my money?  My Home?!  Turning my property into a park?
+367) HARVEY
+[Two-Face] I don’t give a damn about building a park!  I’ll burn that mausoleum of a house to the ground because that’s what you deserve!!
+368) HARVEY
+[Two- Face]Seems only me and Batman are looking out for Harvey.  Everyone else is just trying to bring him down.
+369) BRUCE
+Heads I talk to Harvey?
+370) BRUCE
+[Glower]It’s just you and me.
+371) HARVEY
+[Two Face] Tails.
+372) HARVEY
+[two face] {AngryA}He had it coming!
+373) HARVEY
+[Two Face]{SmugA}The funny part is you were just as responsible for this - {AngryA}for ME - as anyone.
+374) HARVEY
+[two face] {AngryB}You should’ve been a better friend.
+375) 
+You back off and I’ll keep quiet.
+376) 
+Thats not gonna happen.
+377) BRUCE
+{AngryA}You stay away from my house, and my assets, and I swear {ConcernedA}you’ll never hear from Bruce Wayne again.
+378) HARVEY
+[twoface]{NormalA}Okay, Bruce. {SmugA} I’m a reasonable man. Fine, {SarcasticA}I’ll leave your precious mansion standing.
+379) BRUCE
+{AngryB}I’m absolutely serious.
+380) BRUCE
+{ConcernedA}Thank you.
+381) HARVEY
+[Two-face]{ThinkingA}Besides, it’ll be a nice guesture on my part to let it serve as a memorial  to you after your breakdown.
+382) HARVEY
+Considering your tragic suicide.
+383) BRUCE
+{AngryA}That just isn’t going to happen.  I’m not going anywhere.
+384) HARVEY
+[two face] {SmugA}Of course not...
+385) BRUCE
+{ConcernedA}You want to improve Gotham, you need money to do it.
+386) BRUCE
+{AngryA}We can still work together.  You know that I’ll suport any programs you propose that genuinely support this city.
+387) HARVEY
+[TWO-FACE]{SmugA} Sorry, Bruce.   You’re bad publicity.
+388) BRUCE
+What?
+391) BRUCE
+{SurpriseB}What?
+393) 
+“The good of Gotham” costs money.
+394) HARVEY
+[pickup] Beautiful, isn’t it?
+395) HARVEY
+[pickup] I was beautiful once too.
+396) HARVEY
+[pickup] Come here a sec. I want to show you something.
+465) HARVEY
+Come here a sec. I want to show you something.
+397) HARVEY
+[pickup] Well, like all beautiful things... it must go.
+398) HARVEY
+[pickup] Come on over here. I wanna show you something.
+399) HARVEY
+[pickup] Now look at me.
+400) BRUCE
+Don’t do this to yourself. Put your mask back on.
+401) BRUCE
+You’re ugly.
+402) BRUCE
+[pickup] [seething] You can’t do this to me.
+493) BRUCE
+[pickup] [seething] You can’t do this to me.
+403) HARVEY
+[pickup] Bruce. You’re just in time.
+404) BRUCE
+[pickup] [intense] Harvey.
+405) HARVEY
+[pickup] You know... when I was first elected D.A., I saw so much goddamn promise in this city.
+406) HARVEY
+[pickup] I made a promise to clean up this city ... and that starts tonight.
+407) HARVEY
+[pickup] Wait fo it...
+408) HARVEY
+Wait for it...
+409) HARVEY
+Once you’re gone, I promise to
+410) HARVEY
+[pickup] I’m sorry, Bruce, but I can’t back down now.
+411) HARVEY
+[pickup] A strong leader sticks to his word.
+412) 
+You’re weak.
+776) 
+You’re weak.
+413) HARVEY
+[pickup] Calm down. Let me explain myself.
+414) HARVEY
+[pickup] Now when I look out there,  I see nothing but the broken shards of that promise.
+415) HARVEY
+[pickup] Since then, Gotham has changed...
+416) HARVEY
+[pickup] You want me to back off, Bruce?
+417) HARVEY
+[pickup] I need you to dissapear.
+418) BRUCE
+[pickup] The time for talking is over.
+419) BRUCE
+That voice inside your head, telling you you’re weak... it’s right.
+780) BRUCE
+That voice inside your head, telling you you’re weak... it’s right.
+420) HARVEY
+[pickup] You want to hide the ugliness of this city -- I want to expose it.
+422) HARVEY
+I’ve changed a lot since then.
+423) HARVEY
+[pickup] I guess you’ve come to ask me not to take your home.
+424) HARVEY
+Or what?
+425) 
+You’ve changed too much.
+426) HARVEY
+[pickup] Bruce. You’re just in time. Come here a sec. I wanna show you something.
+427) HARVEY
+[pickup] Come here a sec. I wanna show you something.
+428) HARVEY
+[two-face snarl] I sure have.
+429) 
+Put your mask back on.
+430) BRUCE
+[lying] Not in the ways that matter.
+431) HARVEY
+[pickup] A new kind of city needs a new kind of mayor.
+432) BRUCE
+Yeah you have -- and not for the better.
+433) 
+And not for the better.
+434) 
+I’ve changed too.
+435) BRUCE
+You and me both.
+436) BRUCE
+Idealism is for the who can afford it.
+437) HARVEY
+Than you can afford plenty.
+438) HARVEY
+You’re the one who’
+439) BRUCE
+No, Harvey. You’ve changed too much.
+440) HARVEY
+The world, it evolves so quickly... [vulnerable] I don’t want to get left behind.
+441) HARVEY
+Nothing to offer me.
+442) 
+Our friendship.
+443) 
+Your reputation.
+446) BRUCE
+Your reputation.
+444) BRUCE
+How about our friendship?
+447) HARVEY
+Right. I see the way you look at me.
+448) HARVEY
+But the only constant is change.
+449) HARVEY
+We evolve or we die.
+450) 
+What is this gonna cost me?
+451) BRUCE
+[frusterated] Okay, Harvey. What is this gonna cost me?
+452) HARVEY
+[laughs] What? You think this is about money?
+453) HARVEY
+You’re washed up.
+454) HARVEY
+[laughs] Oh, Bruce. I don’t need you to give me your money -- not when I can take it.
+455) HARVEY
+After I tear down this place -- I’m going to need the funds to rebuild it.
+456) HARVEY
+Your money.
+457) HARVEY
+I promised the people that I would bring you to justice -- and I’m not going to renig on it.
+458) 
+There are other ways of being strong.
+459) 
+What about your word to me?
+460) HARVEY
+If I was weak, I wouldn’t have the guts to do what’s neccessary...
+461) 
+Name your price.
+462) HARVEY
+Don’t be so myopic. This about you and you’re mounds of dirty money.
+463) HARVEY
+You’ve got nothing to offer me.
+464) BRUCE
+[pickup] I won’t let you.
+494) BRUCE
+[pickup] I won’t let you.
+466) 
+It’s not too late for you.
+467) HARVEY
+New enemies... they popping up everywhere.
+468) HARVEY
+[pickup] I didn’t do this to ya. You did it to yourself.
+495) HARVEY
+[pickup] I didn’t do this to ya. You did it to yourself.
+469) HARVEY
+[pickup] All you had to do was stay in Arkham with all the other madmen.
+496) HARVEY
+[pickup] All you had to do was stay in Arkham with all the other madmen.
+470) HARVEY
+[pickup] You forced my hand.
+471) 
+You’re the madman!
+472) BRUCE
+[pickup] You’re the madman!
+473) BRUCE
+[pickup] Not me.
+474) HARVEY
+[pickup] [thinking] What’s that saying? It takes a madman to change to world?
+475) 
+I didn’t belong there.
+476) BRUCE
+[pickup] I didn’t belong there -- and you know it.
+477) HARVEY
+[pickup] [thinking] It was something like that.
+478) BRUCE
+[pickup] You really want to mess with a crazy person?
+578) 
+You really want to mess with a crazy person?
+479) 
+You want to mess with a crazy person?
+480) BRUCE
+[pickup] Who knows what I’ll do.
+585) BRUCE
+[low, seething] Who knows what I’ll do.
+481) HARVEY
+[pickup] The thing about crazy people -- they don’t know it.
+483) BRUCE
+What’s it gonna take for you to back off?
+484) 
+Let me help you.
+485) BRUCE
+Let me help you.
+842) BRUCE
+Let me help you.
+486) BRUCE
+[pickup] I’m here.
+605) BRUCE
+[into phone] I’m here.
+914) BRUCE
+[pickup] I’m here.
+917) BRUCE
+[pickup] I’m here.
+920) BRUCE
+[pickup] I’m here.
+487) HARVEY
+[pickup] Come here, Bruce. I want to show you something.
+488) HARVEY
+That’s... dissapointing.
+489) HARVEY
+I was hoping it wasn’t going to come to this.
+490) HARVEY
+[pickup] [into phone] I’m watching right now.
+606) HARVEY
+[pickup] [into phone] I’m watching right now.
+491) 
+What’ll it cost to make this go away?
+492) BRUCE
+[pickup] How much is it going to cost to change your mind?
+497) HARVEY
+Sometimes there needs to be a sacrifice -- and that sacrifice is you.
+498) 
+I thought we were friends.
+499) BRUCE
+I thought we were friends.
+500) HARVEY
+[scoffs] Friends?
+501) HARVEY
+[amused] That explains why you did it.
+502) BRUCE
+Did what?
+503) HARVEY
+Why you killed yourself.
+504) HARVEY
+They say I’ve turned into a monster.
+505) HARVEY
+[pickup] And what are you going to do to stop me?
+506) 
+I’ll pay you.
+507) BRUCE
+What is this going to cost me?
+508) 
+This isn’t a negociation.
+509) HARVEY
+Seriously, Bruce. What do you have to offer?
+510) HARVEY
+[pickup] Seriously, Bruce. What do you have to offer?
+511) 
+My friendship.
+512) BRUCE
+My friendship.
+513) BRUCE
+I’m not here to negociate.
+514) HARVEY
+Sure you are.
+743) HARVEY
+[two-face] Sure you are.
+515) HARVEY
+You want me to back off -- and I want to see you beg.
+516) HARVEY
+Beg for your h
+517) BRUCE
+You’re still my friend, Harvey.
+518) HARVEY
+[two-face] I tracked them down, found out where th
+519) BRUCE
+[interest peaked] Hide out?
+520) HARVEY
+I’ve done what Batman failed to do.
+521) BRUCE
+[intense] Where?
+522) HARVEY
+Relax. I’m taking care of it now.
+523) HARVEY
+Soon the
+524) HARVEY
+You really wanna know?
+588) HARVEY
+You really wanna know?
+525) HARVEY
+Come here. I’ll show you.
+526) HARVEY
+Right over...
+528) HARVEY
+[animated, exited] [two-face] Did you see that?!
+529) BRUCE
+Harvey. Tell me you didn’t know that was going to happen.
+530) HARVEY
+Well, I don’t want to be one of those politicians who lie.
+531) HARVEY
+Nothing happens in this town without my say so.
+532) HARVEY
+And I say, let there be
+533) HARVEY
+No one will remember the bodies.
+534) HARVEY
+[two-face] I’m going down as the Mayor who took out the Children of Arkham.
+535) HARVEY
+[two-face] And Bruce Wayne.
+942) HARVEY
+[two-face] And Bruce Wayne.
+536) HARVEY
+[two-face] I’m going to level your estate just like I leveled that city block.
+537) HARVEY
+And now you know I mean to do it.
+538) 
+Over my dead body.
+542) 
+Over my dead body.
+539) BRUCE
+You’re going to have to kill me first.
+543) BRUCE
+You’re going to have to kill me first.
+540) HARVEY
+That’s already been arranged.
+544) HARVEY
+[two face] That’s already been arranged.
+541) HARVEY
+[two-face] And I don’t care about the human cost.
+545) 
+Harvey, please.
+546) BRUCE
+[intense] Tell me. NOW.
+770) BRUCE
+[intense] Tell me. NOW.
+547) HARVEY
+What are you gonna do?
+548) BRUCE
+[vulnerable] Harvey, please. I’m your friend.
+549) HARVEY
+What business is it of yours anyways?
+550) 
+You won’t be able to live with yourself.
+551) BRUCE
+You won’t be able to live with yourself.
+554) HARVEY
+[in disbelief] You, you hit me!
+591) HARVEY
+[in disbelief] You, you hit me!
+555) HARVEY
+[laughs] You, you really have lost it.
+556) HARVEY
+Fine, fine.
+557) BRUCE
+And I’ll hit you again if you don’t tell me where they are.
+559) BRUCE
+I can help you. Let me help yo
+560) HARVEY
+Well, if you insist.
+561) BRUCE
+I’ll let you take my home. Whatever you want.
+562) HARVEY
+What can it hurt anyways?
+563) HARVEY
+Deal!
+564) BRUCE
+Just tell me where I can find them.
+565) BRUCE
+Tell me where they are.
+566) 
+I’m not the enemy.
+568) BRUCE
+I’m not the enemy.
+841) 
+I’m not the enemy!
+850) BRUCE
+I’m not the enemy!
+569) BRUCE
+I’m your friend.
+570) HARVEY
+[two face] [to himself] Don’t trust him.
+571) HARVEY
+I found the Children of Arkham’s drug supply.
+572) HARVEY
+[proud] I’ve accomplished what Batman couldn’t.
+795) HARVEY
+[proud] I’ve accomplished what Batman couldn’t.
+573) HARVEY
+[proud] Batman would be proud.
+796) HARVEY
+Batman would be proud.
+574) HARVEY
+You’ve got bigger problems to deal with... [smug] like homelessness.
+575) HARVEY
+I have to give the people something.
+576) HARVEY
+And that something... is you.
+577) 
+Don’t listen to them.
+579) BRUCE
+[low, threatening] You really wanna mess with a crazy person?
+580) HARVEY
+Whoa. Bruce.
+582) HARVEY
+Maybe you should check yourself back into Arkham, before you hit someone else.
+584) HARVEY
+[twYou’re only making things worse for yourself.
+586) HARVEY
+[two-face] Go ahead. Hit me. Give me another excuse to have your ass thrown in Arkham.
+587) HARVEY
+Glad to see you’ve got that rage of yours under control.
+819) HARVEY
+Glad to see you’ve got that rage of yours under control.
+589) HARVEY
+[shrugs] I guess I can’t argue with crazy.
+590) HARVEY
+Quick. Were gonna miss it.
+592) HARVEY
+[disbelief] You really have lost it.
+593) HARVEY
+[laughs] Can’t argue with crazy.
+594) HARVEY
+Can’t argue with crazy.
+596) HARVEY
+[animated, excited] I told you I would take care of it!
+597) BRUCE
+I’ll do it again if you don’t tell me where their base is.
+599) 
+evacuated those buildings.
+600) DIRDIR
+(Droste, Fri Sep 16 12:08:09 2016) Two Face is in control now, Intimidating he steps toward Bruce.
+601) 
+Please, Harvey.
+617) BRUCE
+Please, Harvey.
+602) BRUCE
+[shocked]  What did you do? Tell me you evacuated those buildings.
+603) HARVEY
+[two-face] And what? Alert the enemy? No way!
+604) HARVEY
+[two face] No way!
+607) ALFRED
+[phone] Just be cautious.
+608) BRUCE
+[pickup] You’ve changed since then.
+609) BRUCE
+Harvey? We need to talk.
+610) HARVEY
+If you’ve come to save your home, you’re wasting your time.
+611) HARVEY
+I’ve made up my mind.
+695) HARVEY
+[two-face] I’ve made up my mind.
+612) HARVEY
+[scoffs] You already know.
+613) 
+This is wrong!
+614) BRUCE
+Jesus Harvey.
+615) HARVEY
+[two-face] Well, we’ve made it up.
+616) HARVEY
+Why would I want your
+618) HARVEY
+[two-face] [correcting himself] I’ve made up my mind.
+619) HARVEY
+[pickup] [laughs] I don’t need you to give me your money -- not when I can just take it.
+705) HARVEY
+[pickup] [laughs] I don’t need you to give me your money -- not when I can just take it.
+719) HARVEY
+[pickup] [laughs] I don’t need you to give me your money -- not when I can just take it.
+620) BRUCE
+What you’re doing, Harvey -- it’s not right.
+621) HARVEY
+Are we negociating?
+706) HARVEY
+Are we negociating?
+722) HARVEY
+Are we negociating?
+622) BRUCE
+Always.
+707) BRUCE
+Always.
+720) BRUCE
+Always.
+623) HARVEY
+Maybe I don’t want to.
+624) HARVEY
+[two-face snarl] And I’m taking... everything.
+625) BRUCE
+What about our years of friendship?
+626) BRUCE
+What happened to the guy who cared about doing the right thing?
+628) BRUCE
+Doesn’t that mean anything to you?
+629) HARVEY
+[scoffs] Friendship?
+630) HARVEY
+Did you think you were doing the right thing when you were scewing Selina.
+631) HARVEY
+You used me as political pawn.
+632) HARVEY
+Friends don’t screw friends’ girls.
+633) HARVEY
+You could’ve had anyone. Why did you have to have her?
+634) HARVEY
+No. You
+635) HARVEY
+Out of all the women in Gotham, you just had to have her.
+636) 
+None of your business.
+637) 
+I never touched her.
+645) 
+I never touched her.
+638) BRUCE
+Look at yourself, Harvey.
+639) BRUCE
+A woman like that would never have a man like you.
+745) BRUCE
+A woman like that would never have a man like you.
+749) BRUCE
+A woman like that would never have a man like you.
+640) HARVEY
+Just like you took Selina from me.
+680) HARVEY
+[two-face] Just like you took Selina from me.
+642) HARVEY
+[two face] He knew how you felt about her.
+643) HARVEY
+[two face] How you wanted her.
+644) 
+I didn’t mean to hurt you.
+646) BRUCE
+That’s between Selina and I.
+647) BRUCE
+I’m sorry if I hurt you.
+648) 
+She would never have you.
+649) BRUCE
+I did it because I could.
+650) 
+Don’t blame me for your failure.
+651) 
+Because I could.
+652) HARVEY
+[two-face] Now you’re going to see how it feels to lose.
+653) BRUCE
+I never touched her, I swear.
+654) HARVEY
+But she wanted you. I know she did.
+655) BRUCE
+That’s not my fault.
+656) BRUCE
+Stop punishing me for something I didn’t do.
+657) BRUCE
+But it’s no reason to take my home -- and you know it.
+659) HARVEY
+[two-face] She just never got a chance to see my good side.
+747) HARVEY
+She just never got a chance to see my good side.
+748) HARVEY
+She just never got a chance to see my good side.
+661) BRUCE
+Don’t blame me just because I got there first.
+662) BRUCE
+It’s not my fault  you didn’t close the deal with Selina.
+663) HARVEY
+You don’t care about her. You just take and take and take with no regard to anyone but yourself.
+666) 
+I’ll do it on my terms.
+667) 
+I’ve paid my dues.
+668) 
+It’s not my debt to pay.
+683) BRUCE
+It’s not my debt to pay.
+669) BRUCE
+Believe me, Harvey. I’ve been paying for them my whole life.
+670) BRUCE
+I’ll make it right -- but I’m going to do it on my terms.
+671) BRUCE
+I’ll pay this city back on my terms. Not yours.
+673) BRUCE
+I’m not going to let you take my home over some piece of tail.
+674) BRUCE
+Is this what this is really about? Selina?
+675) HARVEY
+I didn’t even have a chance.
+676) HARVEY
+Not with you around.
+678) HARVEY
+It’s too late for apologies.
+679) HARVEY
+See, You’re entire fortune is built on the bones of the innocent.
+681) HARVEY
+Don’t you think you should pay back the people your parents robbed?
+682) HARVEY
+Make restitution?
+684) BRUCE
+I have nothing left to give.
+685) BRUCE
+What my parents did was not my fault.
+686) HARVEY
+[smirk] I’ll be the judge of that.
+688) HARVEY
+[relishing] Nah. I think I like my terms better.
+689) HARVEY
+I made a promise to clean up this city and I intend to keep it.
+691) HARVEY
+[two-face] Tonight I take care of you -- and the Children of Arkham.
+692) BRUCE
+[alarmed]  What are you talking about?
+895) BRUCE
+[alarmed]  What are you talking about?
+898) BRUCE
+[alarmed]  What are you talking about?
+899) BRUCE
+[alarmed]  What are you talking about?
+693) HARVEY
+But I haven’t changed fast enough... haven’t kept up.
+694) HARVEY
+[two-face] But not as much as
+696) HARVEY
+[two-face] If you’ve come to beg for your home, you’re wasting your time.
+697) HARVEY
+That’s why I have to take your home, Bruce.
+698) HARVEY
+The people of this city demand it.
+699) HARVEY
+If I don’t give them what they want -- I’ll be next.
+700) HARVEY
+You really think everything is a negotiation, don’t you?
+701) HARVEY
+Well -- this isn’t.
+703) HARVEY
+Well -- this isn’t.
+721) HARVEY
+Well -- this isn’t.
+702) HARVEY
+I’m finally standing up to you.
+704) HARVEY
+I’m finally taking a stand -- and taking your home from you.
+708) HARVEY
+You really think everything is a negociation, don’t you?
+717) HARVEY
+You really think everything is a negociation, don’t you?
+709) BRUCE
+A woman like her would never have a coward like you.
+746) BRUCE
+A woman like her would never have a coward like you.
+751) BRUCE
+A woman like her would never have a coward like you.
+710) HARVEY
+You don’t know that!
+744) HARVEY
+You don’t know that!
+750) HARVEY
+You don’t know that!
+711) HARVEY
+Then you’re a fool. I would’ve.
+713) HARVEY
+[two-face] Don’t be stupid. You just never got a chance to show her your good side.
+756) HARVEY
+[two-face] Don’t be stupid. You just never got a chance to show her your good side.
+714) HARVEY
+Not with this face.
+753) HARVEY
+Not with this face.
+755) HARVEY
+Not with this face.
+715) HARVEY
+This is the right thing, Bruce!
+716) HARVEY
+Tell me, Bruce. Were you thinking about our ‘friendship’ when you pulled the funding from my campaign the night I was maimed -- Or when you were screwing Selina?
+734) HARVEY
+Tell me, Bruce. Were you thinking about our ‘friendship’ when you pulled the funding from my campaign the night I was maimed -- Or when you were screwing Selina?
+718) HARVEY
+I’m finally standing up to you -- and taking your home from you.
+723) HARVEY
+Tell me, Bruce. Were you thinking about our ‘friendship’ when you pulled the funding from my campaign -- Or when you were screwing Selina?
+735) HARVEY
+Tell me, Bruce. Were you thinking about our ‘friendship’ when you pulled the funding from my campaign -- Or when you were screwing Selina?
+724) HARVEY
+Tell me, Bruce. Were you thinking baout our ‘friendship’ when you pulled the funding from my campaign the night I was maimed -- Or when you were screwing Selina?
+725) HARVEY
+Tell me, Bruce. Were you thinking baout our ‘friendship’ when you pulled the funding from my campaign -- Or when you were screwing Selina?
+726) BRUCE
+I supported you, even when you
+727) BRUCE
+Hell, I kept bankrolling your campaign even after you disavowed me to the press.
+728) BRUCE
+I have always supported you.
+951) BRUCE
+I have always supported you.
+953) BRUCE
+I have always supported you.
+729) BRUCE
+I’ve been a loyal friend.
+730) HARVEY
+[scoffs] Loyal?
+732) HARVEY
+Tell me, Bruce. Were you thinking about our ‘friendship’ when you were screwing Selina?
+733) HARVEY
+I’m taking your home from you, Bruce.
+736) HARVEY
+The people are scr
+737) HARVEY
+Listen, Bruce.
+738) HARVEY
+I promised them that you would pay for what
+739) HARVEY
+Bruce... you’re scaring me.
+740) HARVEY
+You would really hurt me, wouldn’t you?
+741) HARVEY
+Don’t you think you own
+742) HARVEY
+Who am I kidding? I never had a chance.
+754) HARVEY
+Who am I kidding? I never had a chance.
+752) HARVEY
+You’re
+757) HARVEY
+[two-face] [mocking] ‘It wasn’t my fault! Leave me alone!‘
+758) HARVEY
+[sneer] Nobody cares.
+759) HARVEY
+[two-face] But he did it anyways.
+760) HARVEY
+Everything has.
+761) HARVEY
+[two face] Go ahead. Hit me. See what happens.
+762) HARVEY
+[two face] You can’t tell him.
+765) HARVEY
+[two face] You can’t tell him.
+763) HARVEY
+[two face] I can’t reveal that information.
+766) HARVEY
+[two face] I can’t reveal that information.
+764) HARVEY
+[afraid] Jesus, Bruce. You’re scaring me.
+767) HARVEY
+[two face] But you’re not scaring me.
+768) HARVEY
+[two-face] [laughs] Someone’s still off his rocker.
+769) HARVEY
+[two face] Go ahead.
+771) HARVEY
+[two-face] Give me another excuse to throw your ass in Arkham again.
+772) HARVEY
+[two-face] What are you waiting for?
+774) HARVEY
+A strong leader never backs down.
+775) HARVEY
+Sorry, Bruce. But I made a decision and I can’t back down.
+777) 
+You’re ill.
+778) BRUCE
+Harvey. You’re ill.
+779) HARVEY
+[two-face] This whole city is ill. Diseased.
+781) HARVEY
+[two-face] If I were weak I wouldn’t be able to do what’s necessary.
+782) HARVEY
+[two face] Would a weak
+783) 
+I understand.
+784) BRUCE
+I get it. You’re under a lot of pressure.
+785) HARVEY
+[two-face] You want to find Lady Arkham? You’re going to have to pull her smoldering corpse out of those ashes.
+786) 
+You’re a murderer.
+787) BRUCE
+You’re a murderer.
+885) BRUCE
+You’re a murderer.
+789) HARVEY
+I did what Batman couldn’t.
+791) HARVEY
+... *there*.
+792) GOON01
+[OS] [walkie talkie] Ready to go.
+821) ENFORCER01
+[OS] [walkie talkie] Ready to go.
+797) HARVEY
+Got a tip Lady Arkham herself would be there tonight.
+798) 
+I need to know where she is
+799) HARVEY
+Come on, Bruce. This is a cause of celebration.
+800) HARVEY
+When politicians bomb the enemy, do the people call them murderers?
+801) BRUCE
+I’ll do anything you ask.
+802) BRUCE
+Just don’t hurt anyone else.
+803) BRUCE
+Do it and I’ll expose you.
+804) BRUCE
+Yo
+805) BRUCE
+You won’t be ruling over anything from a jail cell.
+806) HARVEY
+Expose me? But Bruce... the thing about dead men ... they don’t tell tales.
+807) HARVEY
+[two-face] You always had a Hamlet vibe.
+808) HARVEY
+I don’t blame you for taking your own life.
+809) HARVEY
+If I was that big of a loser I might too.
+810) 
+I’m still better than you.
+811) HARVEY
+I suppose you were both traumatized as a child, villainized by the public. Then you were faced with losing everything.
+812) BRUCE
+Hey!
+813) HARVEY
+[two face] And well, we both know how that story ends.
+814) HARVEY
+No! They call them goddamn heroes.
+815) HARVEY
+And that’s what I am.
+816) HARVEY
+[two-face] I’ll bring down that house right on top of their heads if I have to.
+817) 
+Please. I’ll do whatever you ask.
+818) HARVEY
+I guess that little stay in Arkham helped you after all.
+820) HARVEY
+I guess that little stay in Arkham helped you after all.
+822) HARVEY
+You want to know where the Children of Arkham are stockpiling their drug?
+823) HARVEY
+[meek harv, nervous] I’m sorry, Bruce.
+824) HARVEY
+But I can’t back down now.
+832) HARVEY
+[meek harv]But I can’t back down now.
+825) HARVEY
+[meek harv]I’ve got a lot of pressure on me right now. I got enemies everywhere.
+826) BRUCE
+You know that voice inside you’re head  telling you you’re weak?
+827) BRUCE
+It’s right.
+828) HARVEY
+[defensive] If I was weak, I wouldn’t be able to do what’s necessary.
+829) 
+You *are* weak.
+830) HARVEY
+You should have stayed in Arkham with all the other madmen.
+831) HARVEY
+[two-face
+833) HARVEY
+There’s this voice in m
+834) HARVEY
+A strong leader doesn’t back down.
+835) HARVEY
+[two-face] Weak
+836) HARVEY
+When they see an enemy -- they crush them -- without hesitation.
+837) 
+What ever hap
+838) 
+What  happened to ‘Put a Dent in Crime’?
+839) BRUCE
+‘Put a
+840) 
+You’re not strong.
+843) HARVEY
+I wouldn’t be taking out the Children of Arkham tonight.
+859) HARVEY
+I wouldn’t be taking out the Children of Arkham tonight.
+844) 
+This isn’t a dictatorship!
+845) BRUCE
+You’re lying to yourself.
+846) BRUCE
+You’re not a leader.
+847) BRUCE
+All you do is drum up fear hoping that people will line up and hide behind you.
+848) HARVEY
+[defensive] If that were true, I wouldn’t be able to do what’s necessary to take out the Children of Arkham.
+849) BRUCE
+And nothing you do to me will change that.
+851) BRUCE
+The Children of Arkham are.
+852) HARVEY
+Oh, don’t you worry... I’m taking care of them tonight too.
+853) 
+This is not the ‘New Face’ Gotham needed.
+854) BRUCE
+What about your campaign slogan...
+855) BRUCE
+You’re really living up to your campaign slogan, aren’t you Harv?
+856) BRUCE
+[scoffs] A New Face for Gotham.
+857) BRUCE
+[scoffs] ‘Put a Dent in Crime.‘
+858) HARVEY
+There will be nothing for an
+860) HARVEY
+And strong leaders crush their enemies -- without hesitation.
+861) BRUCE
+[mean] Suits you.
+862) HARVEY
+Tonight, I’m changing the face of Gotham forever.
+863) 
+I still believe in you.
+864) BRUCE
+I still want to believe in Harvey Dent.
+865) BRUCE
+What a joke.
+867) HARVEY
+Oh, I’m living up to it alright.
+868) HARVEY
+I’m about to put a dent in crime so large -- it’ll change the face of Gotham forever.
+870) HARVEY
+Oh, you will. Everyone will after they see what I’ve done to the Children of Arkham.
+872) BRUCE
+[sarcastic] Boy, you are really living up to your campaign slogan aren’t you?
+873) HARVEY
+Is that supposed to be funny?
+874) HARVEY
+You won’t be laughing after you see what I’m about to do to the Children of Arkham.
+875) HARVEY
+You’ve forced my hand.
+876) HARVEY
+I made a promise to this city that I would make it better.
+877) HARVEY
+Tonight -- I make due on both promises.
+878) HARVEY
+[cowardly] You touch me and I’ll have your ass thrown back in Arkham -- for good.
+879) HARVEY
+[two-face] There is one thing you could do for me.
+880) HARVEY
+You should have stayed in Gotham, with all the other madmen.
+881) 
+No, you’re going to jail!
+882) BRUCE
+No. Harvey. You’re going to jail.
+883) 
+Batman is going to destroy you.
+884) HARVEY
+[two face] When a soldier kills an enemy on the battlefield -- no one calls it murder.
+886) HARVEY
+[two face] They call it war.
+887) BRUCE
+I’m not giving up on you -- not yet.
+888) 
+You’re better than this.
+964) 
+You’re better than this.
+889) BRUCE
+You’re better than this, Harvey.
+890) BRUCE
+And I’m not giving up on you -- not yet.
+892) HARVEY
+You’re right.
+893) BRUCE
+You can still change things for the better.
+894) HARVEY
+And it starts with taking down the Children of Arkham.
+968) HARVEY
+And it starts with taking down the Children of Arkham.
+896) BRUCE
+[alarmed] What do you mean?
+900) BRUCE
+[alarmed] What do you mean?
+966) BRUCE
+[alarmed] What do you mean?
+967) BRUCE
+[alarmed] What do you mean?
+969) BRUCE
+[alarmed] What do you mean?
+901) BRUCE
+Batman is going to destroy you for this.
+902) HARVEY
+[two-face] I’d like to see him try.
+903) HARVEY
+[two face] You don’t know what you’re talking about.
+904) HARVEY
+[two face] Batman and me -- we’re on the same side.
+905) HARVEY
+[two face] You’re the one who’s on the wrong side of history.
+906) 
+It’s not too late to help them
+907) BRUCE
+He’s going to destroy you for this.
+908) HARVEY
+[two-face] Your suicide.
+910) HARVEY
+[two face] I don’t care who’s inside... Alfred... Selina...
+912) ALFRED
+[pickup, phone] Where is he?
+915) ALFRED
+[pickup, phone] Where is he?
+918) ALFRED
+[pickup, phone] Where is he?
+921) ALFRED
+[pickup, phone] Where is he?
+913) BRUCE
+[pickup] The roof.
+916) BRUCE
+[pickup] The roof.
+919) BRUCE
+[pickup] The roof.
+922) BRUCE
+[pickup] The roof.
+923) BRUCE
+Anything.
+924) HARVEY
+[two-face] Die.
+925) HARVEDY
+[two-face] And after they
+926) HARVEY
+[two face] That’s why you went to crime alley [beat] That’s why you killed yourself.
+927) HARVEY
+[two-face] And after they find your dead body it will all make sense.
+928) HARVEY
+All the shame you’ve suffered was just too much for you to bear. Your family’s history. Getting forced out of your company. Losing all of your money...
+929) BRUCE
+What the hell are you talking about?
+930) HARVEY
+[two face] Shakespearian, isn’t it?
+931) HARVEY
+You knew how I felt about her.
+932) HARVEY
+[two face] Tonight was just the first shot.
+933) HARVEY
+But I’ve got a tale to tell about you.
+934) 
+You
+935) HARVEY
+I’ll tell you what, Bruce.
+936) HARVEY
+I won’t hurt anyone else -- if you promise to hurt yourself.
+937) 
+You won’t get away with this.
+938) HARVEY
+Of course I will.
+939) HARVEY
+Everyone will believe
+940) HARVEY
+People love a tragedy.
+941) HARVEY
+And who’s more tragic that the poor little billionare Bruce Wayne?
+943) HARVEY
+Nothing to say for yourself?
+944) HARVEY
+The deal is done.
+945) 
+Don’t suppose
+947) HARVEY
+The value of your estate -- it could be used to do a lot of good.
+948) HARVEY
+You had you chance to talk earlier, but you {{callback}}
+949) HARVEY
+My mind is made up.
+950) HARVEY
+Really? How were you supporting me when you pulled the funding from my campaign the night I was attacked?!
+952) 
+slept with Selina?
+954) BRUCE
+You were my friend!
+955) HARVEY
+There’s nothing you can do about it.
+957) BRUCE
+Look, I know you’re still pissed off at me about sleeping with Selina, I get it.  But this has to stop. Now.
+958) BRUCE
+Look, I know you’re still pissed off at me about Selina, but I swear to you... nothing happened.  You have to stop this. Now.
+959) HARVEY
+Gotham deserves a Mayor that can focus on cleaning up this city.
+960) HARVEY
+That’s why I’m taking your money, your home, everything.
+961) HARVEY
+It’s time that you started paying your debt to Gotham.
+962) HARVEY
+The Children of Arkham won’t know what hit them!
+963) HARVEY
+And it’s a face that will be remembered after what I do to the Children of Arkham.
+965) HARVEY
+That I would weed out the crime and corruption.
+970) HARVEY
+Do it.
+971) ENFORCER01
+[Comm] Holy shit!  That blast was *way* bigger then expected!
+972) BRUCE
+[in shock]What the hell did you do?
+973) ENFORCER01
+[walkie talkie][horrified]Aw man, but ...that blast was way bigger than you said. We must have taken out a whole city block with it.
+974) HARVEY
+[into walkie]Are Lady Arkham’s drugs destroyed?
+975) HARVEY
+We stopped the Children of Arkham, that’s all that matters.
+976) ENFORCER01
+[walkie talkie]We lost a bunch of our own guys, the apartment next door--! Jesus Christ!
+977) HARVEY
+That’s what a leader does.
+978) 
+You killed innocent people!
+979) 
+You’ve lost your mind!
+980) 
+Why would you do that?
+981) 
+I’m going to stop you.
+982) 
+Gotham will turn against you.
+983) 
+You’re a monster!
+1013) BRUCE
+You’re a monster!
+1014) BRUCE
+You’re a monster!
+984) HARVEY
+Sometimes, you need a monster.
+985) HARVEY
+Sometimes, you need a monster.
+986) HARVEY
+No one will question finding you dead in Crime Alley, so soon after you got out of Arkham.
+989) HARVEY
+We could have talked when I called before, but clearly you didn’t feel like talking then.
+990) HARVEY
+We could have talked when I called before, if you weren’t busy being an arrogant asshole.
+991) ENFORCER01
+[walkie] Hey, how quickly can we get a firetruck here-? Oh god!
+992) BRUCE
+[Incredulous] Does a leader kill innocent people?! You’re a murderer now!
+993) HARVEY
+Their deaths are unfortunate, but think about everyone the Children of Arkham could have hurt with those drugs - That feels like an acceptable price to pay.
+994) BRUCE
+I can’t believe it - You actually have lost your mind.
+995) BRUCE
+You’re a lunatic!
+996) HARVEY
+I have a strong feeling that history will say otherwise.
+997) BRUCE
+[Shock] Why? Why would you do this?
+998) BRUCE
+The police could have handled it - Batman could have handled it... No one had to die!
+999) HARVEY
+No, that’s where you’re wrong, Bruce. It had to be done this way.
+1000) HARVEY
+I can tell your delicate sensibilities are upset but trust me Bruce - This is the way it had to be done.
+1001) HARVEY
+I couldn’t just destroy the drugs - I had to make a statement!
+1002) HARVEY
+I needed the Children of Arkham and any other potential enemies waiting in the shadows to know what I’m capable of!
+1003) HARVEY
+[darkly] That I’ll do anything to protect my city.
+1004) HARVEY
+[Laying out imaginary headline, relishing] “Harvey Dent:“ the headlines will say, “The Guardian of Gotham.“
+1005) BRUCE
+[Clenched teeth] I don’t care how many resources, how much I have to spend... I will use my last penny if that’s what it takes to stop you.
+1006) HARVEY
+[Dismissive] No bother. It’s not your concern anymore.
+1007) BRUCE
+After what you’ve done tonight, everyone in Gotham is going to see who they really elected mayor.
+1008) BRUCE
+And when that happens, they WILL turn against you.
+1009) HARVEY
+On the contrary, Bruce, this is what Gotham wanted.
+1010) BRUCE
+I understand now... The Harvey I was friends with, was never real at all.
+1012) BRUCE
+I understand now... The Harvey I was friends with, was never real at all.
+1011) BRUCE
+That new face of yours suits you.
+1015) HARVEY
+[Darkly] That I am the Guardian of Gotham.
+1016) HARVEY
+Come now Bruce, you must see what I’m going for--
+1017) HARVEY
+[Gloating] I can see tomorrow’s headlines already--
+1018) HARVEY
+[Laying out imaginary headline] “Hero Mayor Saves Citizens from Children of Arkham Terror Plot!“
+1019) HARVEY
+Meanwhile, somewhere in the back they’ll stick the article about “Bruce Wayne’s tragic suicide.“
+1020) HARVEY
+Hope that was satisfying. That’s the last one you get.
+1021) BRUCE
+If you kill me, you better make sure I’m dead. Because if not, what I did to Cobblepot will look like child’s play.
+1022) HARVEY
+Good to know.
+1023) HARVEY
+“Tragic, but unsurprising.“
+1024) HARVEY
+Maybe even dear old Alfred will shed a tear.
+1025) 
+We were friends.
+1027) HARVEY
+[Muttering to self, meek harvey] {body-A}{BodyAccent}{SadA}{FaceAccent}I don’t know if that was the right thing to do.{ConfusedB}{FaceAccent} Why did I do that?

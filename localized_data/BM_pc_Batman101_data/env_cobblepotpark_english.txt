@@ -1,0 +1,425 @@
+﻿1) BRUCE
+{body-A}{ConcernedA}It isn’t what it {SadA}used to be.
+2) 
+Graffiti
+3) 
+Plaque
+4) BRUCE
+[to himself; under his breath]Where are you, Oz?
+42) BRUCE
+[to himself; under his breath]Where are you, Oz?
+5) DRUGDEALER2
+[caught off-guard; staggered sound]
+67) OSWALD
+{HappyB}[laughs]
+125) OSWALD
+{ThinkingA}[sigh]
+137) OSWALD
+[kneeing someone HARD effort]
+6) 
+Smoking Man
+7) 
+Statue
+8) OSWALD
+[projected]{body-A}{SurpriseA}Gentlemen!
+9) DRUGDEALER1
+Keep walkin’, alright?
+10) OSWALD
+{body-X}{Intensity-Low}{HappyA}You see... that’s where you’re mistaken.
+11) BRUCE
+{body-A}{SkepticalA}Oz?
+12) OSWALD
+{body-X}{HappyB}My old mate and I have some catching up to do...
+13) OSWALD
+{DisgustA}Woo! That was a right little {AngryB}scrap, eh?
+14) OSWALD
+[concerned]{SurpriseA}Ha, oh hey Bruce, {DisgustA}you’ve got a little...{SadB}
+15) OSWALD
+[back to cheery self]{HappyA}There. Good as {HappyB}new!
+16) OSWALD
+{SadA}Besides, someone needed to deal with the {AngryB}rubbish {DisgustB}situation here.
+17) OSWALD
+{ThinkingA}Right now, I’m tryin’ to recognize{AngryB} the little Bruce I used to run ‘round this {DisgustB}place with.
+18) OSWALD
+{ThinkingA}Back when it wasn’t,{ThinkingB} y’know....  like {HappyA}‘this’.
+19) OSWALD
+{DisgustA}S’funny, huh?
+20) OSWALD
+{AngryB}Used to run in the same circles, {HappyA}we did.
+21) OSWALD
+[cheery]{HappyA}Sorry, mate. {HappyB}This reunion got a lot more grim than I planned!
+22) OSWALD
+{DisgustA}Which brings me to {DisgustB}you, Bruce.
+23) OSWALD
+{AngryB}When this whole thing starts... {DisgustA}make sure you’re on the {DisgustB}right side.
+24) BRUCE
+{AmusedB}Thanks for the backup.
+25) BRUCE
+{AngryA}Hey, I could have handled {AngryB}that myself.
+26) BRUCE
+{ConcernedA}You didn’t need to {AngryA}take it so far.
+27) BRUCE
+{ConcernedA}Well, those were better days.
+28) OSWALD
+{SadA}That they were, {AngryA}yeah.
+29) OSWALD
+{AngryA}Thought we’d grow up to be {DisgustA}kings, I did.
+30) BRUCE
+{FearA}It’s better off {SkepticalB}bulldozed.
+31) OSWALD
+{DisgustA}This park still matters {DisgustB}to me, Bruce.
+32) OSWALD
+{DisgustA}It’s all my folks {FearA}left behind.
+33) BRUCE
+{ConcernedA}It’s a shame what happened.
+34) OSWALD
+[scoffing, in disbelief]{AngryB}The last thing my parents {DisgustB}ever built...
+35) OSWALD
+{ThinkingB}Both of us...
+36) BRUCE
+{ConcernedB}I’m sorry, Oz.
+37) OSWALD
+{SadA}But we’re not the only {ThinkingA}ones suffering.
+38) BRUCE
+{ConcernedA}That’s just the way it goes sometimes.
+39) OSWALD
+{SadA}Well obviously, {ThinkingA}but you don’t have to be {DisgustB}a dick about it.
+40) BRUCE
+[sarcastic]{SkepticalA}{FaceAccent}Great.
+41) BRUCE
+[sarcastic]{SkepticalA}{FaceAccent}Great.
+43) 
+Running Late.  
+Meet you by the statue.
+44) DRUGDEALER1
+[fast, gruff, an order]{Intensity-Medium}Watch. Wallet. Cash.
+45) DRUGDEALER1
+Or this goes through you.
+46) 
+Try and take it.
+52) BRUCE
+[challenge]{AngryB}Try and take it.
+47) 
+Just walk away.
+48) 
+I’ve got nothing.
+209) BRUCE
+I’ve got nothing.
+49) BRUCE
+[cold, deliberate]{body-HandsUp}{ConcernedA}You’re making a mistake.
+50) DRUGDEALER1
+You already made one comin’ here.
+51) DRUGDEALER1
+The next one kills you.
+53) BRUCE
+[challenge]{body-A}{AngryA}Go ahead.
+54) DRUGDEALER1
+You want me to cut it out of you?
+55) BRUCE
+{ConfusedA}That’s very thoughtful of you.
+56) OSWALD
+{ThinkingB}‘Least I can do is make sure you {HappyB}don’t get shanked.
+57) OSWALD
+{AngryA}I yanked you away from your bloody {AngryB}ivory tower, {AngryA}Bruce.
+58) OSWALD
+{SurpriseA}And by “handled” do you mean having a {AngryB}fucking knife handle {AngryC}in your back?
+59) OSWALD
+{ThinkingA}No offense.
+60) OSWALD
+{AngryB}‘Cause that’s what would’ve happened, {AngryA}mate.
+61) OSWALD
+{SurpriseA}Some folks have {AngryA}fine hearing, Bruce.
+62) DRUGDEALER2
+This don’t concern you, twerp!
+63) OSWALD
+{CombatA}You hear that?
+64) OSWALD
+{AngryB}Others don’t get the message unless {HappyA}it’s beaten{AngryB} into them.
+65) BRUCE
+{SmugA}And you know what, I haven’t been mugged {SmugB}once that entire {HappyA}time.
+66) OSWALD
+[after laughter]{HappyA}That wasn’t why I {ThinkingA}brought you here, {AngryA}mate.
+68) OSWALD
+{ThinkingA}This park... it used to {DisgustA}mean something.
+69) OSWALD
+{HappyA}People came from all over to visit.
+70) OSWALD
+{SadA}Mum and Dad, they put so {ThinkingA}much work in here.
+71) OSWALD
+{HappyA}A place that was safe for kids, {ThinkingA}for families...
+72) 
+You’re right.
+73) 
+The place is a wreck.
+74) 
+This is a shame.
+75) OSWALD
+{SadA}Mum. Committed to{DisgustB} Arkham.
+76) OSWALD
+{AngryA}Dad. {DisgustA}Ended it himself, he did.
+77) OSWALD
+{DisgustA}Gave you {DisgustB}the good life.
+78) OSWALD
+{DisgustB}Same place that ground my family {AngryB}to dust...
+79) 
+I’m sorry, Oswald.
+80) OSWALD
+{SadA}Thanks, Bruce.
+81) BRUCE
+{SadA}No one should have to go {ConcernedA}through that.
+82) 
+I lost my parents too.
+83) BRUCE
+{ConcernedA}My parents are gone too, {ConcernedB}Oz.
+84) OSWALD
+{DisgustA}I know, Bruce. {AngryA}And I’m sorry for it.
+85) OSWALD
+{DisgustA}But I had my own funerals {DisgustB}to attend.
+86) BRUCE
+{ThinkingA}It’s out of our control.
+87) OSWALD
+{HappyA}On that, we can agree {HappyB}in earnest.
+88) BRUCE
+{SurpriseA}Falcone was an uninvited guest--{ThinkingB}that’s it.
+89) BRUCE
+{AngryA}I never want to see his face {AmusedA}again.
+90) BRUCE
+{FearA}No-no-no, no, no...I only agreed to meet him because of {ThinkingA}Harvey.
+91) OSWALD
+{AngryA}Beware of any man who smiles {DisgustA}that much, Bruce.
+92) 
+It’s not what you think.
+93) 
+He wasn’t invited.
+94) OSWALD
+{DisgustA}It’ll be a treat to watch him {AngryB}hit pavement.
+95) OSWALD
+{ThinkingA}Falcone’s made a stack of cash and {AngryA}corpses a mile high ruining {AngryB}families like mine.
+96) OSWALD
+{ThinkingA}All he needs a little push {ThinkingB}and...
+97) 
+I could give you money.
+98) 
+You want help with Falcone.
+99) 
+You want to fix this city.
+100) OSWALD
+{HappyA}Wasn’t the {SadA}point, honest.
+101) OSWALD
+{DisgustA}You don’t give me enough {HappyA}credit, mate.
+102) OSWALD
+{HappyA}No handouts required.
+103) BRUCE
+{AngryA}Let’s cut through all {ConcernedA}this, Oz.
+104) BRUCE
+{ConcernedA}You need some cash {ConcernedB}to get back on your feet.
+105) OSWALD
+{AngryA}I’m in fighting form.
+106) BRUCE
+{AmusedB}You want my help taking down {AmusedA}Falcone.
+107) OSWALD
+{HappyB}Appreciate the offer, mate, I do.
+108) OSWALD
+{ThinkingA}They’re usually hiding a {DisgustB}forked tongue.
+109) OSWALD
+{ThinkingA}But Falcone’s in my crosshairs. {AngryB}Not yours.
+110) BRUCE
+{AmusedA}So you came back {AmusedB}to fix Gotham.
+111) OSWALD
+{DisgustA}Gotham can’t{AngryB} be fixed.
+112) OSWALD
+{DisgustB}It needs to be burned up, {AngryB}torn down, and rebuilt {DisgustA}from the foundation.
+113) OSWALD
+{ThinkingB}It’s a new Oswald. {ThinkingA}A new crew. {AngryA}And new plans.
+114) OSWALD
+{AngryA}Things’re gonna be on the upswing {ThinkingA}soon though.
+115) OSWALD
+{SurpriseA}You see, you throw a rock in any direction, {DisgustA}you break a window that {DisgustB}Wayne Enterprises owns.
+116) OSWALD
+{FearA}We grew up together. {HappyA}Got into scraps together. Hell, still get into scraps together.
+117) OSWALD
+{ThinkingA}Don’t know how much that meant to you, {ThinkingB}but it meant loads to me.
+118) OSWALD
+{AngryB}Which is why I’m warning you...
+119) OSWALD
+{ThinkingA}I have got great affection for you, {ThinkingB}Bruce, I really do.
+120) DRUGDEALER2
+The hell’re you waiting for?
+121) OSWALD
+{ThinkingB}Nothin’ kickstarts the system like a {AngryA}dash of {HappyB}adrenaline, eh?
+122) BRUCE
+{ConcernedA}This place is {SadA}a wreck.
+123) OSWALD
+{ThinkingA}Glad they never {DisgustB}saw it like this.
+124) OSWALD
+{AngryA}My family’s fortune... {SadA}there’s nothing left, {SadA}Bruce.
+126) OSWALD
+{HappyA}Hobnobbin’ parties. {HappyB}Round the world vacations. {SadA}Unlimited potential.
+127) OSWALD
+{DisgustA}And what’s left in {SadB}this flask.
+128) OSWALD
+{AngryB}Let him choke on it.
+129) OSWALD
+{ThinkingA}Made himself right at home, {AngryB}that oily f--.
+130) OSWALD
+{AngryB}Wish I could’ve punched {AngryA}that grin into the {DisgustB}back of his throat.
+131) OSWALD
+{FearA}But seeing our old haunt, {ThinkingA}well, {ThinkingB}pretty {AngryA} haunted...
+132) OSWALD
+{SurpriseA}Hard to keep those gremlins {AngryA}under lock and key, eh?!
+133) OSWALD
+{DisgustA}A revolution is knocking on Gotham’s door... {HappyA}and I’m here to let it in.
+134) DRUGDEALER2
+Hey, you heard him, man.
+135) DRUGDEALER2
+[a challenge]Huh?!
+140) OSWALD
+{AngryA}Huh?
+136) OSWALD
+{body-A}{AngryA}C’mere!
+138) OSWALD
+[taunting]{body-A}{AngryA}This used to be a nice place.
+139) OSWALD
+{AngryC}You receiving the message?
+141) OSWALD
+{body-A}{AngryA}HUH?!
+142) OSWALD
+{AngryC}Get me now?!
+143) OSWALD
+{PainA}This is MY park. Mine!
+144) OSWALD
+{DisgustA}Place is a {AngryB}dump.
+145) OSWALD
+It’s the only way.
+146) OSWALD
+{ThinkingA}But when my revolution starts, {AngryA}we’re going to smash windows and{AngryB} cross off names all the way down.
+147) OSWALD
+{ThinkingA}As the “rich and powerful” go, {DisgustA}you top Gotham’s list.
+148) OSWALD
+{AngryB}Like I said, it’s not gonna be pretty... {DisgustA}it’s gonna be beautiful.
+149) OSWALD
+{DisgustA}And I can’t wait to {AngryB}get started.
+150) 
+Homeless Person
+151) 
+Give Change
+152) BRUCE
+Yeah, right.
+153) OSWALD
+[ALT]Not exactly high society out here, innit?
+154) OSWALD
+[ALT] Some people can take a hint.
+155) BRUCE
+It was beautiful once.
+156) BRUCE
+[sympathetic nod]I know, Alfred told me.
+157) OSWALD
+{Intensity-Medium}{ThinkingA}{body-A}Y’know when I saw you at the party last night I thought...
+158) OSWALD
+{SadA}Bruce Wayne... {AngryA}hasn’t changed a bit.
+159) OSWALD
+{ThinkingA}But maybe I was wrong.
+160) OSWALD
+{body-A}{Intensity-Medium}{AngryB}Shouldnt’ve been a surprise when I saw you with Carmine Falcone.
+161) OSWALD
+{body-A}{ThinkingA}Good to know you haven’t changed, Bruce.
+162) OSWALD
+{HappyA}You still care about something more than just yourself.
+163) OSWALD
+{body-A}{Intensity-Medium}{ThinkingB}Although I was surprised to see Carmine Falcone at your party last night.
+164) 
+That’s just politics.
+165) BRUCE
+It’s... politics, Oz.
+166) BRUCE
+That’s how the game is played.
+167) OSWALD
+[disgusted]I thought you had more integrity than that.
+168) OSWALD
+What? You got nothing to say?
+169) 
+Is that a threat?
+170) 
+I’m not your enemy.
+171) 
+You won’t win that battle.
+172) BRUCE
+Are you threatening me, Oz?
+173) OSWALD
+Take it as you like.
+174) BRUCE
+I’m not your enemy, Oz.
+175) OSWALD
+That remains to be seen, don’t it?
+176) BRUCE
+That’s a battle you won’t win, Oz.
+177) OSWALD
+[grins]No? I’ve learned a thing or three since we were kids.
+178) OSWALD
+Am I getting through to you, Bruce?
+179) 
+That’s how things are.
+180) 
+I had it handled.
+181) 
+Thanks for the help.
+182) 
+You went too far.
+183) HOMELESSMAN
+Thank you, sir.
+184) BRUCE
+[coverage][looking around the park]There’s the statue, but... no Oz.
+185) OSWALD
+[sudden volume / intensity change]And you’re ruinin’ the moment!
+186) OSWALD
+This city... chews right through people.
+187) OSWALD
+Now all I’ve got is this park...
+188) OSWALD
+Stay down!
+189) OSWALD
+[ALT]You mean a knife handle in the back?
+190) OSWALD
+[laughing, can’t believe it’s been so long]It’s been what... two decades?
+191) OSWALD
+[ALT]It’s my only inheritance.
+192) OSWALD
+Good seeing you, Bruce, but I’ve got some rocks to collect. Cheers.
+193) DRUGDEALER2
+[alt]Hurry up!
+194) DRUGDEALER2
+[a threat]End him.
+195) OSWALD
+And now it’s a... hell hole.
+196) OSWALD
+{AngryB}Think that’ll do?
+197) OSWALD
+[alt] Low lives like you don’t belong
+198) 
+Recent Newspaper
+199) 
+Empty Can
+200) 
+Shopping Cart
+201) 
+Examine
+202) 
+Entrance Sign
+203) 
+Burning Barrel
+204) BRUCE
+Hey.
+205) DRUGDEALER1
+[under his breath]Beat it.
+206) DRUGDEALER1
+The hell’d you say?!
+207) DRUGDEALER1
+[ALT]You don’t wanna do this, man.
+208) BRUCE
+Sorry fellas.
+210) 
+Press conference for new hospital starts soon.
+211) 
+Car waiting on south side of park.
+212) BRUCE
+Just let me...

@@ -1,0 +1,3218 @@
+﻿1) 
+test
+2) HARVEY
+Before anyone else knows he’s here.
+3) HARVEY
+You telling me she doesn’t smoke?
+4) 
+Skin
+5) 
+I barely know her.
+6) ALFRED
+I hope you have a lead on the killer.
+7) ALFRED
+Connection secured, Bruce.
+8) ALFRED
+Connection secured.
+9) GORDON
+Then we need the complex facts like how and why.
+1520) BRUCE
+Then we need the complex facts like how and why.
+1524) GORDON
+Then we need the complex facts like how and why.
+10) BRUCE
+[PICKUP]She remembers a voice saying something about revolution.
+11) BRUCE
+[ALT]She remembers a voice saying ‘the revolution is coming.‘
+12) BRUCE
+She remembers a voice saying ‘the revolution is coming.‘
+1608) BRUCE
+She remembers a voice saying ‘the revolution is coming.‘
+13) GORDON
+This, this isn’t like her...
+14) GORDON
+This, this isn’t like her...
+70) GORDON
+This, this isn’t like her...
+1597) GORDON
+[ALT] This, this isn’t like her...
+15) BRUCE
+Neck
+1595) 
+Neck
+16) OPERATOR
+Phone
+1596) 
+Phone
+17) MONTOYA
+[ALT; holding back tears] What am I gonna tell my wife..?
+18) MONTOYA
+[ALT; holding back tears] What am I gonna tell my wife..?
+19) BRUCE
+[ALT] It has to mean something to whomever did this to her...
+20) BRUCE
+[ALT] It has to mean something to whomever did this to her...
+21) BRUCE
+You’re fishing. You don’t have anything.
+22) BRUCE
+You’re fishing. You don’t have anything.
+23) VICKI
+Wait. Sergeant Montoya?
+24) VICKI
+Wait. Sergeant Montoya?
+25) BRUCE
+You didn’t get this from me.
+26) BRUCE
+You didn’t get this from me.
+27) 
+Yes, a sergeant.
+28) HARVEY
+I can delay them for a little while. But we still need answers.
+29) GORDON
+[PICKUP]Wait! She’s waking up!
+30) HARVEY
+[PICKUP]Gordon, I need you out there with me.
+31) GORDON
+[to Bruce]Tell me if she says anything.
+32) GORDON
+[sincere; worried about her]I have to know why she did this.
+33) MONTOYA
+[groans]
+34) MONTOYA
+[groans]
+93) 
+[Push her aside]
+361) 
+[Get Harvey]
+362) 
+[Talk to her]
+402) MONTOYA
+[moan]
+978) 
+[Answer Phone]
+1304) MONTOYA
+{FearA}[sobs]
+35) VICKI
+{ThinkingA}So it’s true?
+1236) VICKI
+{ThinkingA}So it’s true?
+1455) VICKI
+{ThinkingA}So it’s true?
+36) BRUCE
+{ThinkingB} That’s interesting...
+37) BRUCE
+{ThinkingB} That’s interesting...
+1604) BRUCE
+[ALT]{ThinkingB} That’s interesting...
+1606) BRUCE
+[ALT] {ThinkingB} That’s interesting...
+38) 
+Something was wrong with her.
+39) 
+This cost me answers!
+84) 
+This cost me answers!
+40) 
+Try to remember more.
+41) 
+I don’t have time for this.
+42) 
+I found needle marks.
+43) 
+She knows what happened.
+44) MONTOYA
+{FearA}I-- It would {ThinkingA}explain a lot.
+1392) MONTOYA
+{FearA}I-- It would {ThinkingA}explain a lot.
+45) BRUCE
+{SkepticalA}I believe you were drugged,{ConcernedA} Sergeant.
+1391) BRUCE
+{SkepticalA}I believe you were drugged,{ConcernedA} Sergeant.
+46) CHANGE
+Remove lines about “the voice” since the voice is critical path in the post node.
+47) IR
+(James Windeler, Mon Jul 25 07:52:51 2016) Gordon and Harvey come back in. Gordon rushes to Montoya’s side on seeing she’s away. The following plays in the b/g as Harvey approaches Bruce.
+48) 
+No comment.
+1218) 
+No comment.
+1233) 
+No comment.
+1462) 
+No comment.
+1463) 
+No comment.
+49) 
+I said no comment!
+50) 
+No deal, Vicki.
+51) BRUCE
+The press can’t seem to leave me alone.
+52) HARVEY
+Someone must have got to her, Jim.
+1338) HARVEY
+Someone must have got to her, Jim.
+53) HARVEY
+This whole damn force is riddled with corruption.
+1339) HARVEY
+This whole damn force is riddled with corruption.
+54) VICKI
+I can tell by the way you’re brushing me off that something happened.
+1505) VICKI
+I can tell by the way you’re brushing me off that something happened.
+55) VICKI
+Just give me something to run with.
+1506) VICKI
+Just give me something to run with.
+56) BRUCE
+Now if you’ll excuse me --
+1510) BRUCE
+Now if you’ll excuse me --
+57) VICKI
+You should talk to me, Bruce. This is coming out whether you stonewall me or not.
+1509) VICKI
+You should talk to me, Bruce. This is coming out whether you stonewall me or not.
+58) BRUCE
+{ConcernedA}Please -- {SkepticalA}get out of my way, Vicki. I’m{ThinkingA} in a hurry.
+1260) BRUCE
+{ConcernedA}Please -- {SkepticalA}get out of my way, Vicki. I’m{ThinkingA} in a hurry.
+1483) BRUCE
+{ConcernedA}Please -- {SkepticalA}get out of my way, Vicki. I’m{ThinkingA} in a hurry.
+59) VICKI
+{ThinkingA}Disappointing. {body-X}Maybe you have {SmugA}more to do with this than {body-LHandHip}I thought.
+60) VICKI
+{ThinkingA}Disappointing. {body-X}Maybe you have {SmugA}more to do with this than {body-LHandHip}I thought.
+1290) VICKI
+{ThinkingA}Disappointing. {body-X}Maybe you have {SmugA}more to do with this than {body-LHandHip}I thought.
+1482) VICKI
+{ThinkingA}Disappointing. {body-X}Maybe you have {SmugA}more to do with this than {body-LHandHip}I thought.
+1487) VICKI
+{ThinkingA}Disappointing. {body-X}Maybe you have {SmugA}more to do with this than {body-LHandHip}I thought.
+61) BRUCE
+A police sergeant. Renee Montoya.
+62) 
+Scan
+63) 
+Scan
+64) GORDON
+[ALT] Damn it!
+188) MONTOYA
+Damn it.
+65) VICKI
+You can’t afford to be associated with another scandal.
+66) MONTOYA
+{FearA}Oh God -- Falcone...{ThinkingA} I was hoping it wasn’t real.
+67) MONTOYA
+{FearA}I’ve let you down...
+68) GORDON
+That’s not much to go on.
+1600) GORDON
+[ALT] That’s not much to go on.
+69) BRUCE
+It wasn’t like anything I’d ever seen before.
+1501) BRUCE
+It wasn’t like anything I’d ever seen before.
+71) GORDON
+[idle] She’s always been loyal.
+1343) GORDON
+[idle] She’s always been loyal.
+72) BRUCE
+She did seem out of it to me. Like she wasn’t fully in control of herself.
+1346) BRUCE
+She did seem out of it to me. Like she wasn’t fully in control of herself.
+73) HARVEY
+Yeah, well in Gotham, loyalty can be bought for a pack of cigarettes.
+1516) HARVEY
+Yeah, well in Gotham, loyalty can be bought for a pack of cigarettes.
+74) GORDON
+Not from her. I’m telling you.
+1517) GORDON
+Not from her. I’m telling you.
+75) HARVEY
+Probably off her nut on PCP.
+77) HARVEY
+Probably off her nut on PCP.
+1347) HARVEY
+Probably off her nut on PCP.
+1514) HARVEY
+Probably off her nut on PCP.
+76) GORDON
+That’s just not who she is. She doesn’t even drink.
+78) GORDON
+That’s just not who she is. She doesn’t even drink.
+1499) GORDON
+That’s just not who she is. She doesn’t even drink.
+1515) GORDON
+That’s just not who she is. She doesn’t even drink.
+79) HARVEY
+That’s not all we’ve lost.
+1473) HARVEY
+That’s not all we’ve lost.
+80) BRUCE
+The veins in her neck were popping out.
+1500) BRUCE
+The veins in her neck were popping out.
+81) BRUCE
+Well, Falcone’s gone. And so is whatever he was about to tell me.
+1412) BRUCE
+Well, Falcone’s gone. And so is whatever he was about to tell me.
+82) 
+Her veins were visible.
+1471) 
+Her veins were visible.
+83) 
+She wasn’t in control.
+858) 
+She wasn’t in control.
+1344) 
+She wasn’t in control.
+85) 
+What the hell’s wrong with you?
+86) 
+Why did you attack Falcone?
+87) 
+Jim, are you still in there?
+88) 
+The sound of my voice worked before
+89) 
+Slap him
+90) 
+Splash ice water in his face
+91) 
+I’m saving him!
+92) 
+We don’t have a choice
+94) 
+You were drugged.
+122) 
+You were drugged.
+364) 
+You were drugged.
+884) 
+You were drugged.
+95) 
+People were in danger.
+123) 
+People were in danger.
+96) 
+You killed Falcone.
+124) 
+You killed Falcone.
+97) 
+I think you’re in trouble.
+143) 
+I think you’re in trouble.
+98) 
+Worry about it later.
+144) 
+Worry about it later.
+99) 
+You should hear the truth.
+142) 
+You should hear the truth.
+100) 
+I’m going to find who did this to Gordon
+101) 
+I just rememered an appointment.
+102) 
+None of your business
+103) 
+Keep this to yourself
+293) 
+Keep this to yourself.
+104) 
+The police have it handled
+294) 
+The police have it handled.
+105) 
+Find the antidote
+295) 
+Find the antidote.
+106) 
+Batman
+320) 
+Batman
+107) 
+Bruce
+319) 
+Bruce
+1034) VICKI
+[off screen]Bruce!
+1139) VICKI
+[off screen]Bruce!
+1214) VICKI
+[off screen]Bruce!
+108) 
+Is he still a danger?
+216) 
+Is he still a danger?
+219) BRUCE
+Is he still a danger?
+109) 
+Is there an antidote?
+217) 
+Is there an antidote?
+110) 
+Is there enough for evidence?
+111) 
+It doesn’t look good.
+234) 
+It doesn’t look good.
+112) 
+We’ll save you
+235) 
+We’ll save you.
+113) 
+Don’t beat yourself up
+236) 
+Don’t beat yourself up.
+114) 
+I believe you
+237) 
+I believe you.
+115) 
+We need evidence.
+238) 
+We need evidence.
+116) 
+You have to be careful
+239) 
+You have to be careful.
+117) 
+It’s not Batman
+277) 
+It’s not Batman.
+118) 
+I’ll ask around
+278) 
+I’ll ask around.
+119) 
+This is something new
+279) 
+This is something new.
+288) BRUCE
+This is something new.
+120) SARA
+He’s awake.
+121) GORDON
+Wayne? What am I doing here? Why am I handcuffed?
+125) MONTOYA
+Let’s get into that later. What exactly do you remember?
+132) MONTOYA
+Let’s get into that later. What exactly do you remember?
+126) GORDON
+What was I acting like?
+127) BRUCE
+You weren’t acting like yourself. It was like you were drugged.
+128) GORDON
+Why’s she sticking needles in me?
+129) GORDON
+Did I pass out?
+130) BRUCE
+We had to get you secured. People were in danger.
+131) GORDON
+In danger? [skeptical]From me?
+133) BRUCE
+[struggling with how to tell him]Jim... Carmine Falcone... you...
+134) MONTOYA
+[jumps in]...need to tell us what you remember.
+135) GORDON
+You guys look like you’re at a funeral.
+136) GORDON
+[frustrated]Come on, somebody say something.
+137) MONTOYA
+Why don’t you tell us what you remember?
+138) GORDON
+I woke up here.
+139) GORDON
+The hell? Is this blood? What aren’t you telling me?
+140) GORDON
+What do I remember? [thinks]I was in the hall and suddenly I was burning up. Then it was like I melted out through my shoes. Like I dissolved.
+141) MONTOYA
+And then?
+145) BRUCE
+[to Montoya]He needs to hear the truth.
+146) BRUCE
+[to Montoya]He needs to hear the truth.
+147) GORDON
+[remembering]There was yelling... Gunshots... Falcone’s face. I thought it was a dream.
+148) BRUCE
+It wasn’t a dream.
+149) BRUCE
+You could be in big trouble, Gordon.
+150) MONTOYA
+But we’ll get you out of it. The evidence is-
+151) MONTOYA
+Falcone...
+152) GORDON
+[interrupting, angry]Whose blood is this? Tell me!
+153) GORDON
+The yelling. The gunshots... It wasn’t a dream...
+154) GORDON
+Whose blood is this?
+155) GORDON
+Pretty sure it’s not mine.
+156) BRUCE
+Worry about it later, Gordon. Right now you need to rest.
+157) GORDON
+[frustrated, angry]Damn it! I’m sitting here soaked in blood and nobody’s being straight with me!
+158) MONTOYA
+It was Falcone.
+159) GORDON
+[shocked]Wha-
+160) MONTOYA
+He had it coming, one way or another.
+161) MONTOYA
+It was Falcone. You... shot him.
+162) GORDON
+Jesus. It’s bad, isn’t it.
+163) MONTOYA
+Don’t panic. We’re gonna figure this out. Someone else is behind this.
+164) GORDON
+[to Bruce]I murdered a man... What am I going to tell my daughter, Wayne?
+165) GORDON
+There was shouting. It was like I was at the bottom of a well...
+166) MONTOYA
+Doctor, you getting all this?
+167) GORDON
+But I pulled the trigger.
+168) GORDON
+You may say there was a drug involved.
+169) 
+It’s not your fault.
+170) 
+Better him than you.
+171) 
+He won’t be missed.
+172) BRUCE
+You’ve got to remember that it’s not your fault.
+173) BRUCE
+We’re trying to figure out the details.
+174) GORDON
+I’ve always taught her to take responsibility for her actions.
+175) GORDON
+Can’t start with excuses now.
+176) BRUCE
+The situation could easily have been reversed.
+177) BRUCE
+At least you’re alive to tell her anything.
+178) GORDON
+Christ, I need to call her.
+179) BRUCE
+Falcone was a bad guy.
+180) BRUCE
+He can’t be the first criminal you’ve shot in the line of duty.
+181) GORDON
+Actually... he was.
+182) GORDON
+[waves him off]I know, not your concern.
+183) GORDON
+You don’t have to be an example to anybody.
+184) SARA
+Ah-ha!
+185) SARA
+There *was* a drug in his bloodstream.
+186) MONTOYA
+What kind?
+187) SARA
+[shakes her head]It’s breaking down rapidly. Not enough left for me to ID.
+189) SARA
+But based on what the lieutenant is describing, it’s most likely some sort of synthetic behavior modification agent.
+190) 
+What is that?
+215) BRUCE
+What is that?
+191) 
+How powerful?
+192) 
+You’ve seen this before?
+200) BRUCE
+You’ve seen this before?
+193) SARA
+Just wish I could get an exact match.
+194) SARA
+The fuzzy memory and erratic behavior are giveaways.
+195) SARA
+There’s a whole range. Based on the evidence, I’d say this one can hijack all functions of the cerebrum.
+196) BRUCE
+You’re talking...
+202) BRUCE
+You’re talking...
+212) BRUCE
+You’re talking...
+197) BRUCE
+How powerful are these behavior modification agents?
+198) SARA
+Mind control.
+203) SARA
+Mind control.
+208) SARA
+Mind control.
+213) SARA
+Mind control.
+199) MONTOYA
+[pissed]Figures.
+204) MONTOYA
+[pissed]Figures.
+209) MONTOYA
+[pissed]Figures.
+214) MONTOYA
+[pissed]Figures.
+201) SARA
+Not to this degree, but yes. This drug hijacked all signals from the patient’s cerebrum.
+205) MONTOYA
+You’re saying this drug forced Gordon to kill Falcone.
+206) SARA
+It hijacked the signals coming from his cerebrum.
+207) MONTOYA
+You mean...
+210) SARA
+It hijacked all functions of his cerebrum.
+211) SARA
+It’s common. People take them to treat hyperactivity, depression, anxiety. Anything, really. But this one is incredibly powerful.
+218) 
+Is there enough to clear Gordon?
+220) SARA
+Hard to say. Until we know exactly what we’re dealing with, I’d only be guessing.
+221) SARA
+Of course. Anything you need.
+222) MONTOYA
+Doc, we just need your help making sure Gordon’s okay.
+223) BRUCE
+There’s a cure for this, right? An antidote?
+224) SARA
+Right now, no.
+225) BRUCE
+Do we have enough of a sample to clear Gordon?
+226) SARA
+It dissolved in the sample even as I was looking at it.
+227) MONTOYA
+It’s our word against a dead body.
+228) MONTOYA
+I know you’re a witness, Mr. Wayne. But right now, I need you to help or get out of the way.
+229) SARA
+I’m not sure that’s a good idea.
+230) MONTOYA
+He’ll be fine. You said yourself the drug had dissolved.
+231) GORDON
+Do you think you could uncuff me for now? I think I’m all right.
+232) GORDON
+It’s just that I can’t think with these cuffs on.
+233) GORDON
+They’re so damn heavy.
+240) GORDON
+[quiet]Thank you.
+241) SARA
+You’re risking all our lives right now.
+242) MONTOYA
+[to Sara]Relax, I have his gun. But...[she turns to Gordon]I’m going to need your badge. At least for right now.
+243) GORDON
+I’m screwed, aren’t I?
+244) MONTOYA
+I’m sorry.
+245) GORDON
+I’d be better off resigning now.
+246) GORDON
+This is just going to drag on.
+247) BRUCE
+It doesn’t look good right now, I’ll admit.
+248) MONTOYA
+Stay strong, Gordon. It’s gonna be okay.
+249) BRUCE
+We’re gonna clear your name.
+250) MONTOYA
+One way or another.
+251) BRUCE
+You have to remember, you’re a victim, too.
+252) MONTOYA
+You’re not going to prison over this.
+253) MONTOYA
+GCPD needs you, Gordon.
+254) MONTOYA
+No one’s resigning anything. Not on my watch.
+255) BRUCE
+I’m sorry. I can’t. Not until we get more info.
+256) MONTOYA
+I hate to pile on, but I’m going to need your badge. Until you’re cleared.
+257) GORDON
+You know where it is. You’ll have to take it yourself.
+258) GORDON
+I’m not a criminal. Someone did this to me.
+259) BRUCE
+But we have to prove your innocence to everyone.
+260) BRUCE
+I believe you. Montoya believes you.
+261) GORDON
+Leaving me locked up like a criminal isn’t going to help.
+262) BRUCE
+We’re going to need evidence to back that up.
+263) GORDON
+So what are you doing just standing there?
+264) GORDON
+Find it!
+265) BRUCE
+Everything you do is going to be scrutinized.
+266) BRUCE
+You’re a murder suspect now. You have to be careful.
+267) GORDON
+I can’t do much since you’re leaving me chained up here.
+268) MONTOYA
+You’re not going anywhere. We’ll handle this.
+269) GORDON
+Get me back out there. I’ll find who did this to me.
+270) MONTOYA
+We need to move fast.
+271) MONTOYA
+Who wanted Falcone dead and is into flying things?
+272) MONTOYA
+I think we start by looking at the Batman.
+273) GORDON
+Batman attacked Falcone. It seemed... personal.
+274) GORDON
+Batman may be crazy, but he’s not a killer.
+275) MONTOYA
+I just need to find him.
+276) MONTOYA
+I’ve got plenty of questions.
+280) MONTOYA
+You see what you want to see.
+281) BRUCE
+Forget it. It’s not Batman.
+282) MONTOYA
+I see a six foot psychotic who finally crossed the line.
+283) MONTOYA
+This was inevitable.
+284) BRUCE
+Let me ask around.
+285) BRUCE
+I may be able to put you in touch.
+286) BRUCE
+I don’t.
+287) MONTOYA
+Wayne, if you know who he is...
+289) BRUCE
+If Batman could use others to do his dirty work, he would have done it before now.
+290) MONTOYA
+So if it’s not Batman, then who?
+291) SARA
+That person should be considered extremely dangerous.
+292) SARA
+Whoever did this has access to a drug that’s incredibly powerful and completely untraceable.
+296) SARA
+There should be a citywide lockdown.
+297) BRUCE
+You have to keep this to yourself, Doctor.
+298) BRUCE
+The last thing we need is mass panic.
+299) MONTOYA
+I agree with Wayne.
+300) BRUCE
+At least for now.
+301) MONTOYA
+No need for a lockdown. Yet.
+302) BRUCE
+She has it handled, doc.
+303) SARA
+You have to move quick.
+304) BRUCE
+We have one of Gotham’s finest on the case.
+305) BRUCE
+The best thing you can do right now is find an antidote.
+306) MONTOYA
+We’ll find a way.
+307) BRUCE
+That’s the best weapon we could have against this... drug.
+308) SARA
+I’ll do what I can. But I need more to work with.
+309) SARA
+Anyone could become a weapon.
+310) SARA
+Nobody’s safe right now.
+311) MONTOYA
+I need to know who I’m trying to find.
+312) MONTOYA
+Before I go asking for a lockdown, I need a face.
+313) BRUCE
+I need Oz. Find him. Wherever he is.
+314) ALFRED
+He’ll be found. Will you be visiting as-is or is this a more... formal visit?
+315) BRUCE
+Now!
+316) ALFRED
+So much blood has already been spilled.
+317) ALFRED
+If I may, this might be a time to let your more obvious charms do the work for you.
+318) ALFRED
+I suppose this will fall on deaf ears, but perhaps you should approach this situation with a bit more caution than normal.
+321) BRUCE
+You’re right, Alfred.
+322) BRUCE
+Bruce Wayne can handle this situation.
+323) BRUCE
+Gonna need that change of clothes. Immediately.
+324) ALFRED
+[sighs]Very well.
+325) BRUCE
+Sorry, Alfred. Can’t take that risk.
+326) ALFRED
+I have the utmost faith in you.
+327) GORDON
+I have no idea what you’re talking about.
+328) MONTOYA
+What’s with all these feathers in your pocket?
+329) MONTOYA
+What the hell?
+406) MONTOYA
+What the hell!?
+463) MONTOYA
+What the hell!?
+464) MONTOYA
+What the hell!?
+465) MONTOYA
+What the hell!?
+641) MONTOYA
+What the hell!?
+642) MONTOYA
+What the hell?
+330) MONTOYA
+They’re stuck to your badge.
+331) GORDON
+I have no idea.
+332) GORDON
+Maybe it’s a clue?
+333) 
+What kind of bird?
+334) 
+This is a message.
+335) 
+Save the feathers
+336) SARA
+It’s like a duck feather. Or penguin.
+337) BRUCE
+What kind of bird feather is it?
+338) MONTOYA
+It’s not a falcon, if that’s what you’re thinking.
+339) SARA
+It’s some kind of aquatic bird. Like a duck. Or a loon. Or a penguin.
+344) SARA
+It’s some kind of aquatic bird. Like a duck. Or a loon. Or a penguin.
+340) BRUCE
+Someone is sending us a message.
+341) MONTOYA
+And file under “mysterious feathers?“
+342) BRUCE
+Save those feathers. Save everything out of the ordinary.
+343) SARA
+Penguin.
+345) SARA
+They appear to be penguin feathers. How odd.
+346) BRUCE
+Please excuse me.
+347) SARA
+He could still be a threat. We just don’t know for sure.
+348) MONTOYA
+Let me guess, they’re falcon feathers.
+349) SARA
+No, not a falcon.
+350) BRUCE
+Alfred, what was the alias Oz used in England?
+351) ALFRED
+You mean, “Penguin?“
+352) 
+I don’t blame you.
+353) 
+Those’ll kill ya.
+354) 
+Make mine a whiskey.
+355) 
+Renee’s not to blame.
+356) 
+She had a motive.
+357) 
+She took away my only chance
+358) 
+Gordon’s covering.
+359) 
+Here’s the spoon.
+360) 
+[play dumb]I got out of the way.
+363) 
+Stay calm. You’re safe.
+365) 
+You shot Falcone.
+366) 
+She inhaled it.
+367) 
+It fits the clues.
+368) 
+[lie]I see no sign of that.
+369) 
+She’s saying the opposite.
+370) 
+She couldn’t stop herself.
+371) 
+Stop being a dick.
+372) 
+Of course, Harvey.
+373) 
+We should tell the press!
+374) 
+It’s the same drug from the docks.
+375) GORDON
+Jesus, I could use a cigarette.
+376) GORDON
+I still sneak one occasionally.
+377) GORDON
+My daughter’s pressuring me to quit.
+378) BRUCE
+After what we just saw, I’d imagine you could go for a whole pack.
+379) BRUCE
+You know what they call cigarettes... coffin nails.
+380) GORDON
+I’m a cop in Gotham. My coffin has more than enough nails in it.
+381) BRUCE
+I’m not much of a smoker, but I could use a drink.
+382) GORDON
+Well, if you’re twisting my arm... I’ll take a drink, too.
+383) GORDON
+Being a cop in Gotham... smoking is probably the healthiest thing I do.
+384) GORDON
+I trust her with my life...
+385) GORDON
+That was not Renee Montoya acting... that was something else.
+460) GORDON
+That was not Renee Montoya acting... that was something else.
+386) BRUCE
+Harv--
+387) HARVEY
+This place is a madhouse. Falcone’s lawyers were yelling at me the whole walk down here.
+388) HARVEY
+[cutting him off]Don’t “Harv” me.
+389) 
+I had to know the truth.
+390) BRUCE
+These stories about my parents... Falcone was the only person who could confirm if they were true...
+391) 
+They would have found a way.
+392) 
+Blame me.
+393) HARVEY
+Why weren’t you like this three hours ago?
+394) HARVEY
+Now you choose to be quiet?
+395) HARVEY
+There’s screaming, shots fired, and when everyone rushed in, Falcone was dead from bullets out of your gun.
+396) HARVEY
+A few minutes later, she went in the room.
+397) HARVEY
+...with you.
+398) HARVEY
+Here’s what I know. I left him...
+399) HARVEY
+Somebody better start telling me the truth.
+400) HARVEY
+None of this adds up.
+401) BRUCE
+He’s telling the truth. That’s exactly how it happened.
+403) MONTOYA
+[in pain]Ooooh...
+404) MONTOYA
+My head...
+405) BRUCE
+Harvey... Jim...
+407) MONTOYA
+[groggy]What... where am I?
+408) MONTOYA
+It’s so bright...
+409) MONTOYA
+I can’t remember...
+410) BRUCE
+Don’t worry. You’re in a safe place.
+411) BRUCE
+Montoya... you were drugged... do you remember?
+412) HARVEY
+Kind of convenient.
+413) HARVEY
+What kind of drug? And how?
+414) HARVEY
+Explain.
+415) BRUCE
+[to himself]Traces of a foreign substance in her system.
+416) BRUCE
+[to himself]Whatever{SkepticalA} affected her eyes {ThinkingA}is still in {ConcernedA}the tear duct.
+417) BRUCE
+[to himself]Some sort of chemical-biological compound.
+418) GORDON
+[cutting him off]You seem to know an awful lot, Mr. Wayne.
+419) BRUCE
+It was probably something she inhaled...
+420) BRUCE
+Someone drugged her.
+1552) BRUCE
+[ALT; frying pan] Someone drugged her!
+421) BRUCE
+What Gordon’s saying makes sense with the evidence.
+422) BRUCE
+Guessing won’t help anything right now.
+423) HARVEY
+No. What we need right now is a solid story.
+424) BRUCE
+We need solid evidence.
+425) MONTOYA
+I did... oh, God... I shot Falcone...
+426) HARVEY
+You’re admitting you did it?
+427) HARVEY
+Sounded like a confession to me.
+428) GORDON
+That’s not an admission of guilt.
+429) BRUCE
+She’s admitting to the opposite. Clearly she wasn’t in control of herself.
+430) BRUCE
+The feelings were hers, but she couldn’t help herself from acting on them.
+431) MONTOYA
+I killed him. I murdered Falcone.
+432) MONTOYA
+My career is over... my life is over!
+433) BRUCE
+Whatever you say, Harv. I’m a team player.
+434) HARVEY
+Thanks, Bruce. You’re the one thing I can always count on.
+435) BRUCE
+This information is useful. Spilling it to the press might draw the attacker out.
+436) HARVEY
+Great. Stay silent. That works.
+437) HARVEY
+Thanks, Bruce. I knew you’d understand how this works. You’ve saved my ass again.
+438) HARVEY
+I promise, I’ll make this up to you.
+439) HARVEY
+I thought I could count on you, Bruce.
+440) HARVEY
+I pulled every string I had to get you in that room with Falcone, and now it’s coming back to bite me in the ass.
+441) GORDON
+Mr. Wayne?
+657) MONTOYA
+Mr. Wayne?
+874) MONTOYA
+{ThinkingA}Mr. Wayne?
+442) HARVEY
+Thank you, Bruce. At least someone around here trusts me enough to tell the truth.
+443) HARVEY
+I can’t depend on either of you.
+606) HARVEY
+I can’t depend on either of you.
+444) GORDON
+Then a couple of Falcone’s guys decided they wanted his route. He wasn’t too keen on it, but Falcone’s guys aren’t big on being refused.
+445) GORDON
+I used to buy cartons off this guy’s truck. He was a distributor to convenience stores all over the south side.
+446) GORDON
+He fought them off as long as he could...
+447) GORDON
+...but Falcone’s men won’t take no for an answer.
+448) 
+Not in the mood for stories.
+449) 
+Falcone’s people are scum.
+450) GORDON
+Good. I don’t have to paint you a picture of what they did.
+451) BRUCE
+I’ve had some experience with Falcone’s people.
+452) 
+But you arrested them...
+453) BRUCE
+Falcone’s men... you brought them in, right?
+454) GORDON
+The driver was her uncle.
+455) GORDON
+They pulled his body out of the river, and four years later, she’s graduating from the academy.
+456) GORDON
+Montoya has every reason to hate Falcone, but she’s a good cop.
+457) GORDON
+...but I’ve never seen her like that.
+458) BRUCE
+You said it yourself, she had every reason to want Falcone dead.
+459) GORDON
+Montoya respects the law. She would never act on those feelings... not in her right mind.
+461) GORDON
+This is it for her.
+462) GORDON
+She’ll be tried and convicted in public opinion before she ever reaches a courtroom.
+466) HARVEY
+That might be clear to the people in this room, but try to convince a jury.
+467) HARVEY
+Do you have any idea how this sounds? Like we’ll say anything to cover for her.
+468) HARVEY
+Makes sense with what evidence?
+469) HARVEY
+What makes you think there’s any evidence Montoya was drugged?
+780) HARVEY
+What makes you think there’s any evidence Montoya was drugged?
+470) 
+The residue around her mouth.
+471) BRUCE
+I noticed a residue around her nose and mouth.
+472) HARVEY
+I don’t see anything.
+473) GORDON
+You must have very good eyesight, Bruce.
+474) HARVEY
+Leave investigating to the real detectives, Bruce.
+479) HARVEY
+Leave investigating to the real detectives, Bruce.
+489) HARVEY
+Leave investigating to the real detectives, Bruce.
+490) HARVEY
+Leave investigating to the real detectives, Bruce.
+499) HARVEY
+Leave investigating to the real detectives, Bruce.
+475) 
+She just sounded drugged.
+476) HARVEY
+We’re going to need a lot more than that.
+477) BRUCE
+The way she was describing it. That sure sounded like someone drugged.
+478) HARVEY
+Yeah. I didn’t think so.
+480) HARVEY
+We need something tangible.
+481) 
+The black tears.
+482) BRUCE
+Her tears are black. That would suggest some sort of aersol irritant.
+483) GORDON
+[suspicious]Guess medical expertise must be genetic.
+484) 
+She acted insane.
+485) BRUCE
+Shooting Falcone in the infirmary is insane. No rational person would do that.
+486) HARVEY
+Not acting rational doesn’t mean she was drugged.
+487) 
+[lie]That’s all I had.
+488) BRUCE
+That’s all I noticed. Isn’t it enough?
+491) GORDON
+Anything else you... noticed?
+492) 
+They left a calling card.
+493) BRUCE
+Whoever drugged Montoya left their calling card.
+494) GORDON
+I’m not sure I want to ask where you found that.
+495) GORDON
+...but first, is there anything else?
+496) GORDON
+We might need to discuss how you know all this, Mr. Wayne...
+497) HARVEY
+This still isn’t sounding like evidence.
+498) 
+[lie]Nothing else.
+500) BRUCE
+I didn’t notice anything else.
+501) HARVEY
+[reassuring]You tried.
+502) 
+Montoya wouldn’t do this.
+503) HARVEY
+I know that, and you know that.
+504) HARVEY
+The hard part is convincing everyone out there.
+505) BRUCE
+The only evidence I need is Montoya herself. She’d never do this.
+506) HARVEY
+We don’ t have time to deal with that right now.
+507) MONTOYA
+You... searched me. While I was asleep.
+508) HARVEY
+I’m willing to accept that Montoya was drugged, but it’s not going to play to the press.
+509) HARVEY
+I’m willing to accept that Montoya was drugged, but it’s not going to play to the press.
+510) GORDON
+Harvey, listen...
+511) GORDON
+I’m telling you -- it’s a drug.
+512) GORDON
+I don’t have the evidence now, but I’ll find it.
+513) GORDON
+I know in my gut something isn’t right here.
+514) HARVEY
+Yes, and we’re going to let the police handle that.
+515) HARVEY
+It’s not part of the job description for billionaire playboy.
+516) MONTOYA
+You can’t be serious. [to Harvey]Tell me he isn’t serious.
+517) HARVEY
+No. This could work. Gordon shot Falcone under the control of an unknown chemical. You’ll be suspended the duration of the investigation, but with all your commedations, people will have to consider a foreign agent was involved.
+518) GORDON
+I have no personal beef with Falcone. I can say I was drugged.
+519) MONTOYA
+What?
+520) GORDON
+But they will with me.
+521) GORDON
+It was my gun that killed him after all.
+522) HARVEY
+We just have to agree that’s the story we’re telling anyone outside this room.
+523) GORDON
+Agreed.
+524) MONTOYA
+If you think it’s best...
+525) BRUCE
+[to himself]Gotham CSI never would have picked up this...
+526) ALFRED
+[understanding him]I can start rearranging your schedule... are there any other changes to your calender that I should keep under surveillance.
+527) BRUCE
+No. I will handle those myself.
+528) BRUCE
+Alfred, I’ve been delayed at GCPD. I won’t be able to make my... [code]late night appointment.
+529) ALFRED
+[though phone]Master Bruce?
+729) ALFRED
+[through phone]Master Bruce?
+530) ALFRED
+[through phone]Then you better find out for sure.
+531) ALFRED
+[though phone]That sounds ghastly.
+532) BRUCE
+I’m almost certain it was against her will.
+533) BRUCE
+One of the GCPD officers guarding Falcone killed him.
+534) BRUCE
+[to himself]{SkepticalA}Black {ThinkingA}residue...
+535) BRUCE
+Alfred,{SkepticalA} I think I found{ThinkingA} the substance.{AngryA} Run an analysis and forward{SkepticalA} me ther {ConcernedA}result.
+536) ALFRED
+[through phone]Of course. I will be in touch as soon as I have the results.
+1362) ALFRED
+[through phone]Of course. I will be in touch as soon as I have the results.
+537) HARVEY
+They definitely wanted our attention.
+538) HARVEY
+Gordon, shouldn’t you be figuring this out.
+539) GORDON
+I’m no lab tech. I work in motives and opportunity. Both of those are working against us.
+540) MONTOYA
+Is there no way to prove it...
+541) MONTOYA
+... what they did to me?
+542) MONTOYA
+That’s how it felt.
+543) GORDON
+The drug idea is making more and more sense.
+544) GORDON
+No need to wrorry. The GCPD will take the case from here.
+545) GORDON
+You seemed to pick up a lot of evidence. Seems you’re some sort of... [suspicious]detective yourself.
+546) GORDON
+You have a good eye, Mr. Wayne, but don’t go out there thinking you can solve this mystery on your own.
+547) GORDON
+You think you’ve seen it all, but this city loves to prove you wrong.
+548) BRUCE
+I’m not really in the mood for stories right now...
+549) GORDON
+Hang in there. This one comes with a twist.
+550) BRUCE
+They’re part of the filth choking this city.
+551) GORDON
+Judge wouldn’t even give me a warrant... I’m sure he was on the take, too...
+552) GORDON
+They had a flimsy alibi and good lawyers.
+553) GORDON
+No...
+554) BRUCE
+The look in her eyes... those strange tears...
+555) GORDON
+The cop in me only wants to believe what he saw in that room.
+556) GORDON
+But the man... Jim Gordon... is hoping like hell you’re right.
+557) BRUCE
+There was something else at work here. Montoya should be blamed for those actions.
+558) BRUCE
+Falcone was about to tell me everything, and in a second...
+559) GORDON
+We’ll get the truth... about your family and what really happened back in the infirmary.
+560) BRUCE
+She took all of it away.
+561) 
+We can’t let that happen.
+562) 
+You need to protect her.
+563) 
+She’s guilty, after all.
+564) GORDON
+...and the history with Montoya’s uncle...
+565) GORDON
+After Falcone’s “encounter” with the Batman...
+566) GORDON
+First it will be suspension... then formal investigation...
+567) GORDON
+That’s good to hear.
+568) GORDON
+[cryptic]If it comes to it, follow my lead.
+569) BRUCE
+We have to do everything we can to prevent that from happening.
+570) GORDON
+I can’t say that I’d go to the mat for every cop in this city...
+571) GORDON
+...but I won’t let Renee go without a fight.
+572) BRUCE
+If you believe she’s not responsible, you have to protect her.
+573) GORDON
+Officially... until we learn otherwise... yes.
+574) BRUCE
+She has to be resposible for her actions.
+575) BRUCE
+We saw it ourselves. She shot Falcone.
+576) GORDON
+But I refuse to believe she could murder a man in cold blood.
+577) GORDON
+If you want to stay quiet, that’s just fine with me.
+578) HARVEY
+You knew how uncomfortable I felt about all this... pulling strings so you could chat with Falcone.
+579) HARVEY
+If we didn’t clear the guards out of his room, none of this would have happened.
+580) HARVEY
+Falcone’s life... the careers of two cops...
+581) HARVEY
+We’re going to watch everything go down the drain.
+582) HARVEY
+This isn’t something you can fix by writing a check, Bruce.
+583) HARVEY
+Falcone’s dead, and someone has to be held responsible.
+593) HARVEY
+Falcone’s dead, and someone has to be held responsible.
+584) BRUCE
+I had to know, whatever the cost.
+585) BRUCE
+And they wouldn’t have stopped until they found a way to make that happen.
+586) HARVEY
+We might as well have sent them an invitation.
+587) HARVEY
+Even if that’s true, we gave them the perfect opportunity.
+588) BRUCE
+Someone wanted Falcone dead.
+589) BRUCE
+You’re right. This is my fault.
+590) HARVEY
+Even if you admitted everything, someone had to give you access.
+591) HARVEY
+Very noble of you, Bruce.
+592) BRUCE
+Put all the blame on me.
+594) GORDON
+I grabbed Montoya’s gun, knocked her out and shot him...
+595) GORDON
+It was me. I shot Falcone.
+596) GORDON
+...two bullets in the stomach.
+597) GORDON
+...one shot, straight through the head.
+598) HARVEY
+You’re seriously trying to feed me that line of bullshit?
+599) BRUCE
+He’s covering for Montoya.
+600) BRUCE
+Renee has some history with Falcone, and Gordon wants to make sure she gets a fair investigation.
+601) BRUCE
+So start swallowing.
+602) BRUCE
+To be honest, as soon as the door opened, I ducked and covered.
+603) BRUCE
+That’s what my private security always tells me to do.
+604) HARVEY
+I’m not the enemy here!
+605) HARVEY
+You two are thick as thieves, aren’t you?
+607) 
+Do what you have to do.
+608) 
+Don’t prosecute an innocent person.
+609) 
+Give us time to investigate.
+1012) GORDON
+{AngryA}[near desperate]Give us time to investigate.
+610) HARVEY
+The election is two weeks away, and I’m going to come out of this seeming completely corrupt, or -- if I’m lucky -- totally incompetent.
+611) HARVEY
+A cop killed a man in the GCPD infirmary... put there by a costumed vigilante.
+612) HARVEY
+I gave a civilian access to a material witness.
+613) HARVEY
+I’ve got to prosecute her. To the fullest extent of the law.
+614) HARVEY
+I have to do something, or this city will riot.
+615) GORDON
+What!? How dare you?
+616) HARVEY
+This election is more important than one cop.
+617) BRUCE
+You’re right, Harvey. It’s what you have to do.
+618) HARVEY
+I’ll stop him. You keep an eye on her.
+619) BRUCE
+Anything else, and we’re playing right into the hands of whoever caused this.
+620) GORDON
+I can’t believe what I’m hearing.
+621) HARVEY
+Us? Bruce, you shouldn’t even be in this building.
+622) BRUCE
+Give us time to look into this before we make any decisions.
+623) HARVEY
+Until I have any evidence to the contrary, she acted alone.
+624) HARVEY
+Carmine Falcone was shot by HER gun.
+625) BRUCE
+Harvey, you don’t want to put an innocent person in jail.
+626) GORDON
+We’re talking about Montoya’s life!
+627) HARVEY
+I don’t even know she IS innocent.
+628) HARVEY
+I’m glad someone else here can see the big picture.
+629) GORDON
+There must be something we missed...
+630) HARVEY
+If she wakes up, get us right away.
+631) HARVEY
+Just get us.
+632) HARVEY
+She’s a murder suspect. Simply leaving you in the room with her...
+633) MONTOYA
+Mr. Wayne? How did I get here?
+634) MONTOYA
+[paranoid]I remember a smell... and feeling.. a mist...
+635) MONTOYA
+Drugged!?
+636) MONTOYA
+[in a haze]I remember... a smell... and then feeling a... mist.
+637) MONTOYA
+Thank you... Bruce...
+638) MONTOYA
+[freaking out]No. That was a dream...
+639) BRUCE
+You were brought here after you shot Carmine Falcone.
+640) MONTOYA
+Be careful... there was something in the hallway. A smell... a sorta... mist....
+643) 
+Why did you kill Falcone?
+644) BRUCE
+Renee, what’s the last thing you remember?
+645) MONTOYA
+I was going to meet with a new CI, and... it all gets foggy...
+656) MONTOYA
+I was going to meet with a new CI, and... it all gets foggy...
+646) MONTOYA
+Why do you keep saying that?
+647) MONTOYA
+It was all... [trying to convince herself]a dream...
+648) MONTOYA
+It was all... [trying to convince herself]a dream...
+655) MONTOYA
+It was all... [trying to convince herself]a dream...
+649) MONTOYA
+No, that isn’t right...
+650) BRUCE
+Renee, why did you shoot Falcone?
+651) 
+Wait for Jim and Harvey.
+652) BRUCE
+We have to wait for Gordon and Harvey  -- [correcting himself]the district attorney.
+653) BRUCE
+Don’t say anything.
+654) MONTOYA
+The district attorney? Did I? No...
+658) MONTOYA
+It kept saying “Falcone’s gonna get off... he’ll cut a deal and be right back out there...“
+659) MONTOYA
+There was a strange smell... and then... a voice. In the back of my mind.
+660) MONTOYA
+I’ve thought it all before... that kinda stuff always makes me mad, but I’d never act on it...
+661) BRUCE
+Harvey, can you stop being a prosecutor for one second?
+662) HARVEY
+You can advise me on how to run my campaign, but don’t tell me how to do my job.
+663) HARVEY
+You came and got us as soon as she started waking up, right?
+664) HARVEY
+She didn’t say anything... did she?
+665) HARVEY
+It’s important I know everything.
+666) HARVEY
+No judgement
+667) BRUCE
+I came straight to get you.
+668) HARVEY
+Great. We gotta dot all our i’s and cross all our t’s on this one.
+669) BRUCE
+She was just mumbling... waking up.
+670) BRUCE
+I think she mumbled something about a spray.
+671) HARVEY
+Yeah. She said she remembered a strange smell... must be connected.
+676) HARVEY
+Yeah. She said she remembered a strange smell... must be connected.
+672) HARVEY
+Thanks for letting me know.
+675) HARVEY
+Thanks for letting me know.
+673) HARVEY
+Let’s just agree she said nothing and go from there.
+680) HARVEY
+Let’s just agree she said nothing and go from there.
+674) MONTOYA
+After that smell.. and the mist...
+677) BRUCE
+She said something... about a mist.
+678) 
+It was all nonsense.
+679) BRUCE
+She was babbling. Random nonsense as she woke up.
+681) 
+I got you right away.
+682) 
+[lie]I got you right away.
+683) 
+[lie]She mentioned a spray.
+684) 
+She mentioned a mist.
+685) BRUCE
+Or at least let the people know what’s happening in their city.
+686) GORDON
+Mr. Wayne and I agreed, we’d do anything we can to prevent that.
+687) GORDON
+I think it’s pretty clear. Montoya was drugged.
+688) GORDON
+Like Mr. Wayne said, if we don’t believe you were responsible, it’s up to us to protect you.
+689) GORDON
+Mr. Wayne might think you’re responsible for pulling that trigger, but I don’t.
+690) GORDON
+And I’ll do anything to protect you.
+692) GORDON
+And I’ll do anything to protect you.
+691) GORDON
+Some of us might not have much to say on the subject, but I do.
+693) GORDON
+Mr. Wayne... please stay with us.
+694) ALFRED
+[through phone]Master Bruce, I’m forwarding you the analysis results now.
+695) MONTOYA
+There’s nothing we can do. Someone has to take responsibility.
+696) HARVEY
+Bruce, this is important.
+697) MONTOYA
+I’ll turn myself in and face the consequences.
+698) GORDON
+After what Falcone’s people did to your uncle, no one is going to give this drug theory any serious consideration.
+699) GORDON
+The hell you will.
+700) GORDON
+They won’t believe it with Montoya.
+701) GORDON
+How would you know that, Mr. Wayne?
+702) BRUCE
+The chemical used on Montoya matches one stole from the docks.
+703) HARVEY
+Yeah, Bruce. You seem to know an awful lot.
+704) 
+I’m Batman.
+705) GORDON
+{Intensity-High}{DisgustA}You don’t what{AngryB} happened!
+706) 
+Let us investigate.
+707) BRUCE
+Gordon’s right, Harvey.
+708) BRUCE
+Give us time to look into this.
+709) HARVEY
+[snapping]  Us? You’re not even supposed to be in the building.
+710) 
+Maybe I should leave.
+711) 
+Harvey is right.
+712) BRUCE
+Harvey’s right.
+713) HARVEY
+[annoyed] I never should have let you talk me into this.
+714) HARVEY
+Letting a campaign donor in to see a suspect...
+715) HARVEY
+What was I thinking?
+716) HARVEY
+{ThinkingA}If any of this gets out...{FearA}
+717) GORDON
+{AngryB}It won’t.{AngryA}
+718) 
+Stop throwing blame.
+719) BRUCE
+Stop trying to figure out who to blame.We need to work together.
+720) 
+I take responsibility.
+721) BRUCE
+This was all my fault.
+722) 
+It’s Montoya’s fault.
+723) BRUCE
+Montoya seemed determined to kill Falcone.
+724) GCPD01
+Lieutenant... Mr. District Attorney... Falcone’s lawyers are here.
+725) GORDON
+{TiredA}Christ{DisgustA} Almighty.
+726) HARVEY
+[scrambling]{ThinkingA}We have to talk to them{SarcasticA}... follow{SmugA} my lead.
+727) HARVEY
+{HappyA}Hang back here, Bruce.{SmugA} We won’t be{TiredA} long.
+728) GORDON
+{DisgustA}If she starts to come around,{AngryA} let us know.
+730) BRUCE
+Alfred, {ThinkingA}I’ve been delayed at GCPD.{AmusedA} I’m going to need you to...{ThinkingA} [speaking in code]access{SurpriseA} my {ConcernedA}calendar.
+731) ALFRED
+[through phone]Of, course. I can start rearranging your schedule... are there any other items I should...[speaking in code]keep under surveillance.
+732) BRUCE
+{SurpriseA}No. I will handle {SkepticalA}those myself.
+733) MONTOYA
+Whe-where am I?
+734) BRUCE
+Get Gordon and Mr. Dent.
+735) MONTOYA
+Mr. Wayne, is that you?
+736) MONTOYA
+Everything is so... foggy.
+737) MONTOYA
+I remember us talking in the hall...
+738) 
+Please, call me Bruce.
+739) BRUCE
+[soothing]I told you, it’s Bruce.
+740) MONTOYA
+Bruce... [suddenly realizing]You were there!
+741) MONTOYA
+Oh, my God. I thought it was a dream.
+745) MONTOYA
+Oh, my God. I thought it was a dream.
+749) MONTOYA
+Oh, my God. I thought it was a dream.
+751) MONTOYA
+Oh, my God. I thought it was a dream.
+742) 
+Gordon is coming.
+743) BRUCE
+Hang in there, Renee. Gordon is on his way.
+744) MONTOYA
+Jim... [suddenly realizing]He was there.
+746) 
+What do you remember?
+1369) 
+What do you remember?
+1375) BRUCE
+{ConcernedA}What do you remember?
+747) BRUCE
+Renee, tell me the last thing you remember.
+748) MONTOYA
+I walked into the infirmary...
+750) MONTOYA
+I walked into the infirmary...
+752) GORDON
+Renee, are you alright?
+846) GORDON
+Renee, are you alright?
+1191) GORDON
+Renee, are you alright?
+753) MONTOYA
+Jim, what happened?
+847) MONTOYA
+Jim, what happened?
+754) MONTOYA
+Tell me I didn’t shoot Carmine Falcone.
+844) MONTOYA
+Tell me I didn’t shoot Carmine Falcone.
+755) HARVEY
+Talk to us, Renee. What do you remember?
+845) HARVEY
+Talk to us, Renee. What do you remember?
+756) MONTOYA
+I was going to meet a new CI. Talking about some faction moving in the shadows...
+842) MONTOYA
+I was going to meet a new CI. Talking about some faction moving in the shadows...
+757) MONTOYA
+There was a voice in the back of my head saying “Falcone will cut a deal... he never has to pay for what he’s done...“
+839) MONTOYA
+There was a voice in the back of my head saying “Falcone will cut a deal... he never has to pay for what he’s done...“
+758) MONTOYA
+I’ve thought things like that before, but I would never act on them.
+840) MONTOYA
+I’ve thought things like that before, but I would never act on them.
+759) MONTOYA
+The part of my mind that stops me was just... turned off.
+841) MONTOYA
+The part of my mind that stops me was just... turned off.
+760) GORDON
+What could even do that?
+837) GORDON
+What could even do that?
+761) HARVEY
+It doesn’t mean anything.
+762) GORDON
+You can’t say that.
+763) 
+She was drugged.
+764) BRUCE
+Clearly, she was drugged.
+765) HARVEY
+Clearly? You must have better vision than me.
+766) GORDON
+I think he’s onto something here...
+771) GORDON
+I think he’s onto something here...
+773) GORDON
+I think he’s onto something here...
+767) 
+Do you remember a needle?
+768) BRUCE
+Renee, do you remember a poke or a prick?
+769) BRUCE
+An injection.
+770) HARVEY
+Dear God, Bruce. I’m nervous about what you’re getting at.
+772) 
+Did you see this person?
+774) BRUCE
+This person behind you... did you get a look at them?
+775) MONTOYA
+No... it’s like I forgot they were there.
+776) HARVEY
+You’re going on a limb, Bruce.
+777) GORDON
+Sounds to me like she wasn’t in her right mind.
+778) GORDON
+I knew that wasn’t Montoya acting.
+779) GORDON
+She must have been under the influence of an unknow narcotic.
+781) HARVEY
+We need facts.
+782) HARVEY
+Not wishful thinking.
+783) 
+There’s an injection point.
+910) 
+There’s an injection point.
+784) BRUCE
+I noticed a puncture on Renee’s neck.
+785) GORDON
+He’s right.
+786) HARVEY
+Office, get a CSI team in here... STAT.
+791) HARVEY
+Office, get a CSI team in here... STAT.
+796) HARVEY
+Office, get a CSI team in here... STAT.
+798) HARVEY
+Office, get a CSI team in here... STAT.
+787) 
+She sounded drugged.
+788) BRUCE
+The way she described...
+789) BRUCE
+She sounded drugged to me.
+790) HARVEY
+We’re going to need more to go on than that.
+792) 
+She cried black tears.
+793) BRUCE
+The black tears coming out of her eyes...
+794) BRUCE
+...doesn’t seem normal.
+795) GORDON
+No, it doesn’t.
+797) HARVEY
+We can’t depend on guesses.
+799) HARVEY
+[to self] {ThinkingA}I don’t know how I’ll play{TiredA} it to the press.
+800) HARVEY
+We’re not only talking about Montoya’s life...
+801) 
+Keep it contained.
+802) BRUCE
+{ConcernedA}We can’t let the press{ConcernedA} get ahold of this.
+803) 
+Vicki will help.
+804) BRUCE
+{ThinkingA}We can reach{SurpriseA} out to {ConcernedA}Vicki Vale.
+805) BRUCE
+{HappyA}She’ll help us.
+806) HARVEY
+It’s a tight fit {ThinkingA}with all the people in your pocket,{FearA} Wayne.
+807) 
+Tell the truth.
+808) BRUCE
+{ThinkingA}We need to get the{SkepticalA} truth out there.
+809) HARVEY
+{TiredA}Guess that’s all on me.
+810) GORDON
+Can you silence that?
+811) HARVEY
+Yeah, Bruce. A little rude--
+812) LADYARKHAM
+[electronically altered]We are forgotten.
+813) LADYARKHAM
+[electronically altered]We are the lost.
+814) LADYARKHAM
+[electronically altered]We are the Children of Arkham.
+815) LADYARKHAM
+[electronically altered]We weren’t born, we were created.
+816) LADYARKHAM
+[electroncially altered]We’re here to bring down empires built on the backs others.
+817) LADYARKHAM
+[electronically altered]Carmine Falcone was a cancer corrupting Gotham City.
+818) LADYARKHAM
+[electronically altered]We have removed that cancer.
+819) GORDON
+What the hell was that?
+820) GCPD01
+Lieutenant, everyone’s phones...
+821) GORDON
+Happened in here, too.
+822) HARVEY
+Who are they? What do they want?
+823) GORDON
+How did they know Falcone was dead?
+824) 
+Do we have anything on them?
+825) 
+Track the hack.
+826) 
+Get me out of here.
+827) HARVEY
+Hey, Bruce...
+828) HARVEY
+The precinct got a call from Alfred. There’s an emergency back at your house.
+829) BRUCE
+I better see what he’s got himself into.
+830) HARVEY
+Bruce, I’m sorry, but we need to deal with this.
+831) HARVEY
+I’ve gotta ask you to leave.
+832) BRUCE
+I understand.
+833) HARVEY
+Who knows what this means...
+834) HARVEY
+But it’s time for the real detectives to get to work.
+835) BRUCE
+I was thinking the same thing.
+836) HARVEY
+Bruce, stop checking your Twitter.
+848) HARVEY
+Bruce, stop checking your twitter.
+838) GORDON
+Are we boring you, Bruce?
+843) MONTOYA
+I knew there was a person behind me, but I couldn’t turn...
+849) ALFRED
+[through earpiece]It’s definitely the same molecular composition as the chemicals stolen from the docks.
+850) MONTOYA
+I know someone was behind me, but I couldn’t turn...
+851) LADYARKHAM
+[electronically altered]We will strike again. On election day we will strike.
+852) LADYARKHAM
+[electronically altered]Choose your leaders wisely.
+853) 
+Montoya murdered Falcone.
+854) 
+You should ask Gordon.
+855) BRUCE
+Why don’t you ask the Lieutenant?
+856) 
+I wish I knew!
+857) BRUCE
+[pissed]I wish I knew!
+859) 
+Montoya cost me answers.
+860) HARVEY
+{Intensity-Medium}I can only{TiredA} work with the{SurpriseA} facts I have.{ThinkingA}
+861) BRUCE
+Unless there’s proof to the contrary, Detective Montoya has to be held responsible.
+862) HARVEY
+Exactly. Bruce sees the big picture.
+863) HARVEY
+Don’t go pleading the fifth on me.
+864) HARVEY
+I knew I shouldn’t have let you in to see Falcone...
+865) HARVEY
+I let our friendship cloud my judgement.
+866) BRUCE
+I don’t think it mattered whether I was there or not.
+867) HARVEY
+But we managed to give her the perfect opportunity.
+868) BRUCE
+Maybe I should let you two figure this out without me.
+869) GORDON
+{TiredA}[plain spoken]Dent, {ThinkingA}listen to your{SadA} friend.
+870) GORDON
+{DisgustA}I won’t destroy Montoya’s career without{AngryA} knowing exactly what happened.{SadA}
+871) GORDON
+[gruff]I don’t care what either of you think.
+872) MONTOYA
+{Intensity-Low}{ThinkingA}Whe-where am I?
+873) BRUCE
+{SurpriseA}Get Gordon {ConcernedA}and Dent.
+875) MONTOYA
+{FearA}Oh, my God!!
+876) MONTOYA
+{AngryA}Everything is so{ThinkingA}... foggy.
+877) MONTOYA
+{FearA}But I’m starting to think{AngryB} it was real...
+878) 
+You murdered Falcone.
+879) BRUCE
+Montoya -- you know you shot Falcone, don’t you?
+880) MONTOYA
+[Still cloudy] I shot Falcone?
+881) 
+We’re trying to help.
+882) BRUCE
+Easy, detective -- we’re trying to help.
+883) MONTOYA
+What -- what happened?
+885) BRUCE
+Easy detective, I think you were drugged.
+886) MONTOYA
+[increasingly anxious]How long was I out? Where’s Jim?
+887) MONTOYA
+[increasingly anxious]How long was I out? Where’s Jim?
+888) GORDON
+Thanks for keeping an eye on her, Bruce.
+889) GORDON
+I trust you kept to yourself while we were gone.
+890) HARVEY
+{ConfusedA}Between us -- {CovertA}did she say anything before {ThinkingA}we came in?
+891) HARVEY
+{ThinkingA}Like anything that might {SurpriseA}incriminate{ConfusedA} her?
+892) 
+She thought it was a dream.
+893) BRUCE
+Not much. She said she thought it was a dream.
+894) HARVEY
+Is that so? Well, it’s time she joined us in the nightmare.
+895) 
+Nothing important.
+896) BRUCE
+Nothing that I could make sense of.
+897) 
+She thought he deserved it.
+898) 
+I might have scared her.
+899) BRUCE
+She said she remembered a voice, and having her finger on the trigger...
+900) HARVEY
+So she as good as admitted it.
+901) GORDON
+{TiredA}Renee, are you{ThinkingA} alright?
+902) MONTOYA
+[weeping] {ThinkingA}Jim -- tell me I didn’t shoot Falcone.{FearA} Please --{AngryA}
+903) GORDON
+[comforting]Mr. Wayne and I -- we think you may have not been acting under your own control.
+904) GORDON
+[disapproving]The District Attorney feels otherwise.
+905) GORDON
+[official]It’s my belief that you weren’t acting under your own control.
+906) GORDON
+[disapproving]Mr. Wayne and the District Attorney feel otherwise.
+907) HARVEY
+{ConfusedA}I’m just trying to {TiredA}get to the facts.
+908) HARVEY
+{ConfusedA}Everything is theory{SarcasticA} without fact.
+909) HARVEY
+{ThinkingA}We need information.
+911) BRUCE
+I noticed a puncture mark on her neck.
+912) BRUCE
+Like she’d been injected.
+913) GORDON
+He’s right. There’s a needle mark.
+914) 
+Her eyes were completely black.
+915) BRUCE
+Jim and I both saw her eyes -- the whites were dark around her pupils.
+916) 
+She’s clearly dazed.
+917) BRUCE
+She’s clearly disorientated.
+918) HARVEY
+I agree - we’re spinning our wheels here.
+919) HARVEY
+I agree - we’re spinning our wheels here.
+920) GORDON
+{ThinkingA}Dent, I’m telling you, {AngryA}don’t jump to act.
+921) GORDON
+{AngryA}Suspend Montoya. {ThinkingA}Hold an investigation.
+922) GORDON
+{AngryA}Don’t destroy {DisgustA}her life.
+923) HARVEY
+[trying to stay detached]{ConfusedA} I-- {ThinkingA}I can’t pick who I {SadA}prosecute.
+924) 
+Hold off on prosecuting.
+925) BRUCE
+Wait until you have all the information, Harvey.
+926) 
+Do your job, Harvey.
+927) BRUCE
+You’re the DA.
+928) BRUCE
+Do what you were elected to do.
+929) HARVEY
+You’re right.
+930) HARVEY
+I don’t have a choice.
+937) HARVEY
+I don’t have a choice.
+931) HARVEY
+I have to treat this like any other homicide.
+938) HARVEY
+I have to treat this like any other homicide.
+932) 
+Batman could help.
+933) BRUCE
+The Batman seems to have a grip on what’s happening in the city.
+934) BRUCE
+Gordon, can’t you contact him?
+935) GORDON
+[hopefully]He may have information.
+936) HARVEY
+We can’t invite everyone down to stomp around our crime scene.
+939) HARVEY
+{ThinkingA}We’re running out of{AngryA} time.
+940) HARVEY
+{TiredA}I won’t prosecute Reneee...{ThinkingA} yet. Nothing until after the election.{AngryA}
+941) HARVEY
+Hopefully{ThinkingA} that’s long enough{TiredA} for an investigation.
+942) HARVEY
+{AngryA}I have to proscute.{ThinkingA} I need {SurpriseA}to indict her{AngryA} before the election.
+943) HARVEY
+{AngryA}This could ruin {SurpriseA}public opinion{ConfusedA} of the police.
+944) HARVEY
+Smart,{HappyA} but we have to be{ConfusedA} careful.
+945) HARVEY
+We {ConfusedA}can’t let the{AngryA} conspiracy damage us {ThinkingA}worse than the crime.
+947) HARVEY
+We {ConfusedA}can’t let the{AngryA} conspiracy damage us {ThinkingA}worse than the crime.
+946) HARVEY
+{SurpriseA}Transparency. {SmugA}That’s key.
+948) GORDON
+[relieved]{TiredA}Thanks, Harvey{ThinkingA}... Bruce.
+949) GORDON
+{ThinkingA}I’m sure with a{TiredA} little time--
+950) GORDON
+You two{AngryA} can pat yourselves on the back for saving your{DisgustA} campaign, {ThinkingA}but I--
+951) GCPD01
+You need to come see this, Sir.
+1567) GCPD01
+You need to come see this, Sir.
+1573) GCPD01
+You need to come see this, Sir.
+952) GORDON
+{AngryA}What is it?
+1568) GORDON
+[biting his head off]{AngryA}What is it?
+1572) GORDON
+[biting his head off]{AngryA}What is it?
+953) VICKI
+I have the dots.
+954) 
+I would never kill.
+955) BRUCE
+I’m many things, Ms. Vale, but I’m not a murderer.
+956) 
+That’s not far off.
+957) BRUCE
+Your contacts weren’t too far off.
+958) 
+I won’t dignify that.
+959) BRUCE
+I won’t dignify that with a response.
+960) VICKI
+I’m your friend.
+961) 
+The killers left a symbol.
+1163) 
+The killers left a symbol.
+962) BRUCE
+After Falcone was killed...
+963) 
+A detective shot Falcone.
+964) BRUCE
+The shooter was actually a detective of the GCPD.
+965) VICKI
+A detective?
+966) VICKI
+I need a name. Details.
+967) VICKI
+What else do you know?
+968) VICKI
+Anything.
+969) 
+The cop was drugged.
+970) BRUCE
+The officer involved was under the influence of a narcotic.
+971) VICKI
+Drugged to kill Falcone?
+972) VICKI
+[alt]It stretches the imagination.
+973) BRUCE
+The detective’s name is Renee Montoya.
+974) VICKI
+I know Montoya. She always seemed so predictable.
+975) 
+I’ve said enough.
+976) BRUCE
+I ‘ve already told you more than I should.
+977) VICKI
+Could be anything, but I thought you might want it.
+979) BRUCE
+I’m sorry, I need to take this.
+980) 
+Not Comment.
+981) BRUCE
+My official response? No comment.
+982) HARVEY
+{Intensity-Medium}{ConfusedB}{body-HandsUp}What a mess.{ThinkingA}
+983) HARVEY
+{ConfusedB}I had to call in favors {ThinkingA}I wasn’t even owed, {body-A}{SurpriseA}but I managed{FearA} to keep this between the three of us.{AngryA}
+984) HARVEY
+{CovertA}Bruce...{ThinkingA}
+985) HARVEY
+When I helped you get in to see Falcone...
+986) HARVEY
+I never thought it would end like this.
+987) BRUCE
+I-- was talking with Falcone.
+988) BRUCE
+[accusatory] Detective Montoya-- she burst in and murdered him.
+989) GORDON
+[incredulous]Impossible. Montoya would never kill in cold blood.
+990) HARVEY
+What about in the heat of the moment?
+991) GORDON
+I followed Renee into the room -- she wasn’t acting like herself --
+994) GORDON
+I followed Renee into the room -- she wasn’t acting like herself --
+992) GORDON
+I never imagined she’d --
+995) GORDON
+I never imagined she’d --
+993) HARVEY
+Well, it happened, so you don’t have to imagine it.
+996) HARVEY
+Well, it happened, so you don’t have to imagine it.
+997) GORDON
+{Intensity-Low}{body-Smoke}{DisgustA}[certain] Renee is a one of my best cops.{AngryA}
+998) GORDON
+She’s not perfect, but she knows the law.
+999) GORDON
+All this... it isn’t in her DNA.
+1000) GORDON
+She and her wife just had a kid for christ’s sake.{ThinkingA}
+1001) GORDON
+{SadA}She wouldn’t do this{ThinkingA} -- {AngryA}not in her right mind.{DisgustB}
+1002) BRUCE
+Good cop or not, I watched her pull the trigger.
+1003) HARVEY
+And there’s a room full of evidence that backs that up.
+1004) BRUCE
+Gordon’s right. She wasn’t in control of herself.
+1005) HARVEY
+I don’t buy it! She knew exactly what she was doing!
+1006) BRUCE
+[resentful]Falcone was telling me-- things-- about my family --
+1007) BRUCE
+Your detective shut his mouth forever.
+1008) HARVEY
+This is not just about you, Bruce.
+1009) HARVEY
+{FearA}{Intensity-Low}{body-A}Falcone was supposed to be a trophy -- the biggest{SurpriseA} case of my career!{ConfusedA}
+1010) HARVEY
+{body-X}{ThinkingA}{body-HandsUp}Now he’s a PR disaster.{AngryA}
+1011) HARVEY
+{TiredA}{body-A}I have no choice. I have to prosecute Montoya.{AngryA}
+1013) GORDON
+{body-Smoke}{Intensity-High}{body-StandA}Throw her in jail{AngryB} and she loses {DisgustB}her badge!{AngryC}
+1014) HARVEY
+{AngryA}She {SurpriseA}put a bullet in Falcone’s head,{FearA} Jim!
+1015) HARVEY
+[sharp] You can’t just cut and run, Bruce.
+1016) HARVEY
+We’re only in this mess because of your ‘special visit.‘
+1207) HARVEY
+We’re only in this mess because of your ‘special visit.‘
+1017) BRUCE
+One minute I’m talking to Falcone -- the next I’m covered in blood.
+1018) HARVEY
+Of course, Bruce Wayne is never held responsible.
+1019) HARVEY
+[shocked]Oh, God.
+1444) MONTOYA
+Oh God --
+1020) VICKI
+What a headline.
+1021) VICKI
+You can’t blame a gal for trying.
+1022) VICKI
+You can’t blame a gal for trying.
+1023) VICKI
+But, Bruce--
+1024) BRUCE
+[into phone]Bruce Wayne, how can I help you?
+1025) ALFRED
+[through phone]This is your escape call.
+1026) BRUCE
+Perfect timing, as always.
+1027) VICKI
+Everything that happened will come out sooner or later.
+1029) VICKI
+Everything that happened will come out sooner or later.
+1028) VICKI
+Then you’ll be begging for a friend in the press.
+1030) VICKI
+Then you’ll be begging for a friend in the press.
+1031) BRUCE
+Alfred, I’m heading back to the manor.
+1138) BRUCE
+Alfred, I’m heading back to the manor--
+1032) ALFRED
+[through earpiece]The analysis of your scans should be complete by the time you arrive.
+1033) BRUCE
+Good. Put them up on the big screen. I need--
+1035) ALFRED
+[through earpiece]I missed that. Was there something you needed?
+1036) 
+Call me in three minutes.
+1037) BRUCE
+Call me back in exactly three minutes.
+1038) BRUCE
+I may need an excuse to escape.
+1039) ALFRED
+[through earpiece]Very good, sir. I’ll use my American accent.
+1040) 
+Monitor the police scanner.
+1041) BRUCE
+Keep the police scanners going.
+1042) BRUCE
+I want to know what information gets out.
+1043) ALFRED
+[through earpiece]I’ll watch the watchmen as it were.
+1044) ALFRED
+[alt][through earpiece]My favorite radio program. Non-stop crime.
+1045) 
+I’d love a sandwich.
+1046) BRUCE
+[playfully]I haven’t eaten all day.
+1047) BRUCE
+Maybe a sandwich.
+1048) ALFRED
+[through earpiece]I’d much rather prepare your lunch than reset your bones.
+1049) ALFRED
+[through earpiece]I’ll speak to you back at the manor, Master Bruce.
+1050) VICKI
+I’ve been waiting for you...
+1051) VICKI
+Heard they had you locked up in an interrogation room.
+1052) VICKI
+[slyly]That wouldn’t be the case... would it?
+1053) VICKI
+I’ve got a couple friends in the GCPD.
+1054) VICKI
+They keep me up to date.
+1055) 
+I was their guest.
+1056) BRUCE
+They didn’t have me locked up.
+1057) BRUCE
+I was a guest.
+1058) VICKI
+Bruce Wayne: guest of GCPD.
+1059) VICKI
+A lot of people would love to see that headline.
+1060) 
+Off the record?
+1061) BRUCE
+You asking as a reporter or as a concerned friend?
+1062) VICKI
+[flirty]As a concerned reporter.
+1063) 
+I’m in a rush.
+1217) 
+I’m in a rush.
+1461) 
+I’m in a rush.
+1064) BRUCE
+I’m sorry, Vicki. I can’t talk right now.
+1065) VICKI
+Then just listen.
+1066) VICKI
+I know you’ll want to hear what I have to say.
+1068) VICKI
+I know you’ll want to hear what I have to say.
+1067) VICKI
+Fine. Don’t speak. Just listen.
+1069) VICKI
+Help me connect them.
+1070) BRUCE
+I was there. Falcone’s dead.
+1071) VICKI
+Don’t block me out, Bruce.
+1072) VICKI
+I can help.
+1074) VICKI
+I can help.
+1073) VICKI
+You can’t keep this under wraps forever.
+1075) BRUCE
+Someone painted a symbol on his door.
+1076) BRUCE
+It seemed to be a calling card.
+1077) VICKI
+You can’t be serious.
+1078) VICKI
+I wanted to bring you a present.
+1095) VICKI
+I wanted to bring you a present.
+1079) VICKI
+The anonymous source that supplied the Gazette with all the info on your parents also included a calling card.
+1080) VICKI
+Is there a connection?
+1081) VICKI
+Two crimes with calling cards?
+1082) VICKI
+That can’t be random.
+1083) BRUCE
+This is the same symbol that was painted on Falcone’s door.
+1084) VICKI
+Then there’s no denying that the same people are behind it.
+1085) 
+I’m keeping this.
+1086) BRUCE
+You brought this for me?
+1087) BRUCE
+I’m sure it will be a great help.
+1088) VICKI
+Information needs to be a two way street, Bruce.
+1089) 
+You have the wrong symbol.
+1090) BRUCE
+No. The symbol on Falcone’s door was different.
+1091) VICKI
+Damn. I thought I was onto something.
+1092) VICKI
+Damn. I thought I was onto something.
+1093) VICKI
+Thanks, Bruce.
+1097) VICKI
+Thanks, Bruce.
+1094) VICKI
+If I find out anything more, you’ll be the first to know.
+1098) VICKI
+If I find out anything more, you’ll be the first to know.
+1096) VICKI
+The anonymous source that gave the Gazette all the information about your parents included a calling card of sorts.
+1099) HARVEY
+{Intensity-Low}{TiredA}For now...{body-HandsHips}
+1100) HARVEY
+[regretful] We really stepped in it this time, Bruce.
+1101) HARVEY
+[cracking slightly]Together? I’m Mr. Together. It’s you two that seem to have a problem.
+1102) HARVEY
+Well, mostly, yeah.
+1103) HARVEY
+Now that we have that out of the way, we can focus on dealing with this.
+1104) MONTOYA
+[horrified] But I -- I could never do that!
+1105) BRUCE
+She said he deserved a bullet in the head.
+1106) GORDON
+[grim]Enjoy tonight,{DisgustA} because tomorrow, when you press charges against {ThinkingA}Montoya, you’ll lose the support of every {AngryA}cop in Gotham.
+1107) VICKI
+Let me help you break this story the right way.
+1155) VICKI
+Let me help you break this story the right way.
+1108) VICKI
+Tell me what happened in Falcone’s room.
+1109) VICKI
+Once this gets out, it’s going to make the allegations against you parents much more concrete.
+1110) 
+It’s a calling card.
+1115) 
+It’s a calling card.
+1122) 
+It’s a calling card.
+1111) 
+They want us to know who they are.
+1114) 
+They want us to know who they are.
+1112) 
+I should leave.
+1113) 
+I should leave.
+1126) 
+I should leave.
+1116) GCPD02
+It’s fresh!
+1117) GCPD03
+Where did it come from?
+1571) GCPD03
+Where did it come from?
+1118) GORDON
+{ThinkingA}My God...{ThinkingB}
+1569) GORDON
+{ThinkingA}My God...{ThinkingB}
+1119) HARVEY
+{SurpriseA}What the {ConfusedA}hell is it?
+1120) HARVEY
+The whole area was{AngryA} cordoned off for the techs.{ThinkingA}
+1121) HARVEY
+{ConfusedA}No one saw this {AngryA}happen?
+1123) BRUCE
+{SkepticalA}Whoever painted this is{ConcernedA} signing their name to{ThinkingA} Falcone’s murder.
+1124) 
+Anyone seen it before?
+1125) BRUCE
+{ConcernedA}Have either of you {ConfusedA}seen it before?
+1127) BRUCE
+{SkepticalA}I don’t think {ThinkingA}I should be here...
+1128) HARVEY
+{TiredA}No, you’re right.
+1129) HARVEY
+We need {TiredA}to get you out {ThinkingA}before they{SurpriseA} lock the {CovertA}building down.
+1130) HARVEY
+We need {TiredA}to get you out {ThinkingA}before they{SurpriseA} lock the {CovertA}building down.
+1131) BRUCE
+[alt; no code]{ThinkingA}Alfred, I’ve been delayed at GCPD. {SkepticalA}Under surveillance.
+1132) ALFRED
+[alt; no code][through phone]This line is secured. Do you any assistance locking down your area?
+1133) BRUCE
+[alt; no code]No.{ThinkingA} I can handle it {AmusedA}from here.
+1134) BRUCE
+Jim, don’t.
+1135) BRUCE
+It might be laced with whatever caused... [whsiper]Montoya’s reaction.
+1136) GORDON
+{ThinkingA}I need to get{AngryA} forensics on this...
+1574) GORDON
+{ThinkingA}I need to get{AngryA} forensics on this...
+1137) GORDON
+... {ThinkingA}and get rid{DisgustA} of any non-essential personnel.
+1575) GORDON
+... {ThinkingA}and get rid{DisgustA} of any non-essential personnel.
+1140) VICKI
+Look, I owe you for passing me those files on Falcone. They helped more than you could imagine.
+1141) VICKI
+So I feel like I owe you a heads up.
+1142) VICKI
+My contacts in the GCPD told me everything. Harvey arranged it so you could speak with Falcone. Minutes later, he’s shot dead.
+1147) VICKI
+My contacts in the GCPD told me everything. Harvey arranged it so you could speak with Falcone. Minutes later, he’s shot dead.
+1143) VICKI
+If we don’t get ahead of this, the story will be “Wayne Heir Murders Criminal Kingpin.“
+1144) VICKI
+Seems a treasure trove of evidence against Falcone fell into GCPD hands right before he was taken into custody.
+1145) VICKI
+Wish that would have fallen into my hands.
+1146) VICKI
+Personally, I’m a fan of sharking information. I wanted to tell you this to your face.
+1148) VICKI
+I can see the story now: “Wayne Heir Murders Criminal Kingpin.“
+1149) VICKI
+These aren’t the gossip columns, Bruce.
+1150) VICKI
+You can’t blow off the accusations with your billionaire playboy responses.
+1151) VICKI
+You can convince me of that, Bruce...
+1152) VICKI
+...but soon you’ll have to convince the entire city.
+1153) VICKI
+That’s good, Bruce. The more honest you are, the more people will believe you.
+1154) VICKI
+Once this gets out, it’s going to make the allegations against your parents much more concrete.
+1156) VICKI
+[hinting]My contacts mentioned there was someone else in that interrogation room, too...
+1157) VICKI
+Work with me, Bruce.
+1158) VICKI
+We can both get what we need.
+1159) 
+Montoya was drugged to do it.
+1160) BRUCE
+It was Detective Montoya.
+1161) BRUCE
+She was under the influence of some narcotic.
+1162) VICKI
+Drugged to kill Falcone? It stretches belief.
+1164) BRUCE
+Whoever killed Falcone left a symbol on his door.
+1165) BRUCE
+A calling card.
+1166) VICKI
+Sounds like we have some serious people to worry about.
+1167) VICKI
+[alt]Sounds a bit melodramatic to me.
+1168) 
+Just say I did it.
+1169) BRUCE
+If people want to believe I killed Falcone...
+1170) BRUCE
+Go ahead and say I did.
+1171) VICKI
+Making yourself a martyr won’t help anyone.
+1172) VICKI
+Making yourself a martyr won’t help anyone.
+1173) HARVEY
+[exasperated] {ConfusedA}What about our careers? {AngryA}What about the election-- {ThinkingA}the future of this city?{ConfusedA}
+1174) HARVEY
+[ALT; explicating Bruce’s presence] ... {ThinkingA}before we sneak you out,{SmugA} you need to tell me --{AngryA}
+1175) HARVEY
+... what the hell happened in there?!{ConfusedB}
+1176) HARVEY
+[ALT] Don’t clam up on me...
+1177) GORDON
+I won’t destroy Montoya’s career without knowing exactly what happened.
+1178) 
+She remembers wrong.
+1179) 
+Those gym classes kicked in.
+1180) 
+She had to be subdued.
+1181) HARVEY
+Talk to us, Detective. Tell us what you remember.
+1182) MONTOYA
+I remember struggling against him.
+1183) HARVEY
+No offense, but Renee’s a trained officer, and you’re... you.
+1185) HARVEY
+No offense, but Renee’s a trained officer, and you’re... you.
+1184) HARVEY
+That can’t be right.
+1186) MONTOYA
+There’s talk on the street of a new faction, moving in the shadows.
+1187) BRUCE
+It must have been one of the officers, and she only remembers me.
+1188) MONTOYA
+Jim... tell me I didn’t shoot Carmine Falcone.
+1189) MONTOYA
+Next thing I know, Mr. Wayne knocked me out.
+1190) BRUCE
+She was still pretty out of it.
+1192) MONTOYA
+I was going to meet a new CI.
+1193) HARVEY
+You don’t have to explain.
+1194) HARVEY
+Good thing you did.
+1195) HARVEY
+[mocking]I’m sure Gordon has an extra uniform if you’re interested.
+1196) BRUCE
+She was still a threat. I had to subdue her.
+1197) BRUCE
+Guess all those classes at the club are starting to pay off.
+1198) HARVEY
+Who knows where she would have emptied the rest of that clip?
+1199) HARVEY
+{ThinkingA}Do you remember pulling the trigger, {ConfusedA}detective?
+1200) MONTOYA
+{ThinkingA}I... uh... I remember going to meet a new CI -- then{FearA} the rest is a blur...
+1201) HARVEY
+Or shed light on this {TiredA}whole thing?
+1202) GORDON
+[ALT] I think you were out of your mind, Detective. Not in control of yourself.
+1203) GORDON
+[ALT] Mr. Wayne and I think you were out of your mind, Detective. Not in control of yourself.
+1204) HARVEY
+Montoya busted in and blew him away. Murdered in police custody.
+1205) HARVEY
+[ALT] This isn’t just about the precious Wayne Legacy.
+1206) HARVEY
+{ThinkingA}What would you have me do!?{ThinkingA}
+1208) GORDON
+The longer we keep Montoya{ThinkingA} out of a courtroom, {SadA}the better chance we have of salvaging{TiredA} her career.
+1209) GORDON
+{ThinkingA}They got some {DisgustA}balls, I tell you...
+1210) GORDON
+{ThinkingB}It’s like a gang tag{ThinkingA} -- but not one I’ve ever{ThinkingB} seen before.
+1211) GORDON
+[to Bruce] {TiredA}That means{AngryA} you.
+1576) GORDON
+[to Bruce] {TiredA}That means{AngryA} you.
+1212) HARVEY
+There’s a room full of evidence that says she killed him.
+1213) BRUCE
+Alfred, {ConcernedA}I’ve got to get back {SkepticalA}to the manor--
+1215) VICKI
+{TiredA}I’ve been waiting for {SurpriseA}you to {HappyA}come out.
+1216) VICKI
+{ConcernedA}What the hell {ConfusedA}happened in there?
+1219) 
+N
+1299) 
+N
+1419) 
+N
+1428) 
+N
+1437) 
+N
+1220) 
+Y
+1418) 
+Y
+1427) 
+Y
+1436) 
+Y
+1221) VICKI
+{ConcernedA}I know you were in the room {ConfusedB}with Falcone when{ThinkingA} he died --
+1222) VICKI
+{ConcernedA}Just tell me who pulled{SadA} the trigger and I’ll let you{HappyA} go.
+1223) 
+Get out of my way.
+1481) 
+Get out of my way.
+1588) 
+Get out of my way.
+1224) 
+Montoya was drugged.
+1225) 
+Someone left a calling card.
+1226) BRUCE
+[playing dumb]{ConfusedA}What do you mean? Nothing{ThinkingA} happened.
+1227) BRUCE
+{ConcernedA}I’m sorry, Vicki. I {ThinkingA}don’t have time...
+1460) BRUCE
+{ConcernedA}I’m sorry, Vicki. I {ThinkingA}don’t have time...
+1228) BRUCE
+{SmugA}Sorry Vicki, I{ThinkingA} can’t talk to the press...
+1457) BRUCE
+{SmugA}Sorry Vicki, I{ThinkingA} can’t talk to the press...
+1229) VICKI
+{SurpriseA}My friends in the{ThinkingA} GCPD have been{ConcernedA} telling stories --
+1447) VICKI
+{SurpriseA}My friends in the{ThinkingA} GCPD have been{ConcernedA} telling stories --
+1230) VICKI
+{SurpriseA}About some kind of{ConfusedB} lock down?
+1448) VICKI
+{SurpriseA}About some kind of{ConfusedB} lock down?
+1231) VICKI
+{ThinkingA}Word is Falcone{ThinkingA} was murdered{AngryA} in custody.
+1232) 
+Where did you hear that?
+1464) 
+Where did you hear that?
+1234) 
+Always digging, huh?
+1235) BRUCE
+{ConfusedA}Where did you get that?
+1454) BRUCE
+{ConfusedA}Where did you get that?
+1237) BRUCE
+{SmugA}No. I {ThinkingA}didn’t say that.
+1451) BRUCE
+{SmugA}No. I {ThinkingA}didn’t say that.
+1238) BRUCE
+{ConcernedA}It’s true. {ConcernedB}Falcone’s dead.
+1239) VICKI
+{ConcernedA}No. {ConfusedA}Really?
+1240) BRUCE
+[sighing] Yeah{SadA} -- he was {ThinkingA}shot and killed.
+1241) BRUCE
+{ConfusedA}Didn’t you hear me? I said{ThinkingA} no comment.
+1452) BRUCE
+{ConfusedA}Didn’t you hear me? I said{ThinkingA} no comment.
+1242) VICKI
+{ConfusedA}Don’t be{TiredA} like that, Bruce. {ThinkingA} Talk to me.
+1450) VICKI
+{ConfusedA}Don’t be{TiredA} like that, Bruce. {ThinkingA} Talk to me.
+1243) VICKI
+{AngryA}Gunned down{ConcernedA} in his hospital bed.
+1244) BRUCE
+{ThinkingA}I have no {ThinkingB}comment at this time.
+1453) BRUCE
+{ThinkingA}I have no {ThinkingB}comment at this time.
+1245) VICKI
+{SadA}Don’t be like that, Bruce.  {ConcernedA}Talk to me.
+1449) VICKI
+{SadA}Don’t be like that, Bruce.  {ConcernedA}Talk to me.
+1246) VICKI
+My source in the GCPD says you gave Gordon the goods on Falcone. Enough to send him to Blackgate for life.
+1247) VICKI
+[a little bite] Is that how you got your special audience?
+1248) VICKI
+The information you gave me would have put Falcone in Blackgate for life.
+1249) VICKI
+{ConfusedA}Supposedly under protection {AngryA}of the police.
+1250) VICKI
+I promise,{ConcernedA} I’ll keep your {SurpriseA}name out{TiredA} of any story{ThinkingA} I print.
+1251) 
+Back off, Vicki.
+1252) VICKI
+It put me on the map as a reporter, Bruce. I owe you.
+1253) BRUCE
+You should question your source.
+1254) VICKI
+So you’re denying it?
+1255) BRUCE
+I’m saying your informant has an active imagination.
+1256) 
+Check your source.
+1257) 
+It was a five minute meeting.
+1258) BRUCE
+It was hardly a special audience. It was a five minute conversation.
+1259) VICKI
+Of course -- to Bruce Wayne that’s entirely normal.
+1261) VICKI
+{ConfusedA}{SadA}Disappointing.
+1262) BRUCE
+{ThinkingA}Detective Montoya {ConcernedA}shot him. {ThinkingA}But she was under the influence of {ThinkingB}some drug.
+1263) VICKI
+{SurpriseA}Drugged to kill {ThinkingA}Falcone?
+1264) BRUCE
+Back off, Vicki. I don’t have time for this.
+1265) VICKI
+Is that what happened here?
+1266) VICKI
+You seem pretty good at buying your way into places.
+1267) VICKI
+Blink twice for yes.
+1271) VICKI
+Blink twice for yes.
+1268) BRUCE
+{ThinkingA}Whoever was behind it left a calling card. {ThinkingB}Some kind of symbol.
+1269) VICKI
+{ThinkingA}A {ConfusedA}symbol?
+1270) BRUCE
+If you’re going after the cops, {ConcernedA}you’re barking up the {ThinkingA}wrong tree.
+1272) BRUCE
+{ThinkingA}You {SkepticalA}didn’t get it from{ThinkingA} me.
+1273) VICKI
+{ConcernedA}Thanks {TiredA}Bruce -- I{HappyA} owe you one.
+1274) VICKI
+{ConcernedA}You don’t want to be {AngryA}associated with this mess.{SadA}
+1275) VICKI
+{ThinkingA}Trust me,{SadA} it doesn’t look{DisgustA} good.
+1276) VICKI
+You must have pulled some strings.
+1277) BRUCE
+My friends run this city. I go where I please.
+1278) BRUCE
+I thought you’d be more grateful -- yet here you are looking for dirt.
+1279) BRUCE
+Why don’t you and me discuss it over dinner. Thursday. 7 o’clock.
+1280) VICKI
+Give me a comment and I’ll think about it.
+1281) VICKI
+Like -- how did you get in to see Falcone?
+1282) VICKI
+{ConfusedA}Your lips are moving. {SmugA}Words are coming out.
+1459) VICKI
+{ConfusedA}Your lips are moving. {SmugA}Words are coming out.
+1283) VICKI
+{DisgustA}Don’t brush {ThinkingA}me off --
+1456) VICKI
+{DisgustA}Don’t brush {ThinkingA}me off --
+1284) BRUCE
+{SkepticalA}You{ThinkingA} know what I mean.
+1458) BRUCE
+{SkepticalA}You{ThinkingA} know what I mean.
+1285) BRUCE
+Whoever did this{ThinkingA}, they’re organized{ConcernedB} -- they left a {ThinkingA}calling card.
+1286) VICKI
+Maybe even broken the law?
+1287) VICKI
+Was there a breach in protocol?
+1288) VICKI
+Just doing my job, Bruce.
+1289) VICKI
+Not for much longer with an attitude like that.
+1291) VICKI
+I can help you control this how all this plays in the press, but you have to tell me what happened.
+1292) VICKI
+Maybe you should make time.
+1293) VICKI
+{ThinkingA}And I know it was {SurpriseA}one of Gotham’s{DisgustA} finest who killed him.
+1294) VICKI
+Let me know {ThinkingA}if you change your mind.
+1295) BRUCE
+{SkepticalA}You’re fishing --
+1498) 
+You’re fishing.
+1590) 
+You’re fishing.
+1296) GORDON
+[ALT] Why didn’t you call me?
+1297) HARVEY
+I hope you’re not holding anything back.
+1314) HARVEY
+I hope you’re not holding anything back.
+1298) 
+She remembers some of it.
+1424) 
+She remembers some of it.
+1300) GORDON
+{SadA}Renee --{ThinkingA}
+1301) MONTOYA
+[desperate] {FearA}My career -- my life {ThinkingA}-- everything I worked for{AngryA}, over --{FearA}
+1302) HARVEY
+Maybe her mascara was running or something.
+1303) GORDON
+[growled] She ain’t wearing mascara.
+1305) VICKI
+{SurpriseA}Are you{AngryA} kidding me?
+1306) MONTOYA
+{ThinkingA}Play it? {FearA}This is my life {AngryA}you’re talking about!
+1307) MONTOYA
+{AngryB}Not some politician’s game!
+1308) GCPD04
+They musta breached security somehow.
+1570) GCPD04
+They musta breached security somehow.
+1309) MONTOYA
+{ThinkingA}I-- remember a voice telling me to kill --{AngryA}
+1310) MONTOYA
+And then my finger on the trigger --
+1311) MONTOYA
+{ThinkingA}I-- thought it was a dream --{FearA}
+1312) MONTOYA
+It goes against everything I believe in as a cop.
+1313) BRUCE
+I wouldn’t say that.
+1315) HARVEY
+That’s natural -- she’s probably in shock.
+1316) HARVEY
+{SadA}We’re not only talking about {AngryA}your life...
+1317) BRUCE
+[to himself]{ConcernedA}A fresh injection{ThinkingA} site.
+1360) BRUCE
+[to himself]{ConcernedA}A fresh injection{ThinkingA} site.
+1318) BRUCE
+[to himself]{ConcernedA}Someone recently put a needle{ThinkingA} in Montoya’s neck.
+1319) BRUCE
+{ConcernedA}[alt][to himself]Did someone {ThinkingA}drug her?
+1320) 
+Can’t you leave me alone!
+1321) 
+I thought you’d be grateful.
+1322) 
+I’ll tell you over dinner.
+1323) 
+I have friends in high places.
+1324) 
+I watched it happen.
+1325) HARVEY
+I’ve bought us some time, but not much.
+1326) HARVEY
+We are in deep shit.
+1327) HARVEY
+[frustrated; uncomprehending] Why would she do something like this?
+1328) HARVEY
+We had Gotham’s biggest crime lord in our grasp!
+1329) HARVEY
+This close. We were this close.
+1330) 
+Montoya hated Falcone.
+1331) 
+She was paid to silence him.
+1332) HARVEY
+Word’s gonna get out, sooner or later.
+1333) BRUCE
+I don’t, I don’t know -- I hardly recognized her when she burst in.
+1334) HARVEY
+It’s a disgrace. Another officer gone rogue.
+1335) BRUCE
+You both heard her. She had no love for Falcone.
+1336) HARVEY
+If that’s why, she’s a disgrace to the uniform.
+1337) BRUCE
+Isn’t it obvious? She wanted to shut Falcone up for good.
+1340) GORDON
+[baffled] It just doesn’t make any sense.
+1341) GORDON
+I’ve worked with Montoya since she was a rookie -- she’s true blue.
+1342) GORDON
+[idle] Not in her right mind.
+1345) 
+I almost got him to talk.
+1348) HARVEY
+Falcone’s case meant justice for a thousand unnamed victims.
+1349) HARVEY
+Listen, we gotta get out in front of this. We gotta spin it as best we can.
+1350) 
+Let’s get the facts first.
+1351) 
+We need to get our story straight.
+1352) 
+You’re being played.
+1353) BRUCE
+There’s more at stake here than your campaign.
+1354) BRUCE
+Someone planned this for a reason.
+1355) BRUCE
+Harvey’s right. We need to control this story or someone else will.
+1356) BRUCE
+Slow down, Harvey. We need the facts first.
+1357) HARVEY
+The simple fact is she walked in and shot him.
+1523) HARVEY
+The simple fact is she walked in and shot him.
+1358) GORDON
+[under his breath; stressed] Christ.
+1578) GORDON
+[ALT] Christ.
+1359) HARVEY
+[To Gordon] We can handle them. Just -- follow my lead.
+1361) BRUCE
+Alfred,{SkepticalA} I think I found{ThinkingA} the substance.{AngryA} Analyze and forward{SkepticalA} me the {ConcernedA}result.
+1363) ALFRED
+Secured. What about surveillance?
+1364) BRUCE
+I can handle that from here.
+1365) BRUCE
+That does’t look like blood.
+1366) BRUCE
+[ALT; frying pan] She must have been drugged.
+1367) MONTOYA
+{AngryA}Where am I? {ThinkingA}Mister Wayne?
+1368) 
+You shot someone.
+1370) 
+We’re here for you.
+1371) BRUCE
+{ConcernedB}It’s not good, {SadB}Sergeant. {DespairA}You shot Falcone.
+1372) MONTOYA
+{FearA}I did what? {AngryB}No...  {NormalA}I --
+1373) MONTOYA
+{FearA}God -- {ThinkingA}it’s true...
+1374) BRUCE
+{SkepticalB}Sergeant, {ConcernedB}you have to think.
+1376) MONTOYA
+{FearA}Oh God -- Falcone... {AngryB}I was hoping it wasn’t{FearA} real.
+1377) BRUCE
+{SurpriseA}Easy, easy, {ConcernedA}Sergeant. {ConcernedB}Gordon and I are going to get {ConcernedA}you through this.
+1378) MONTOYA
+{ThinkingA}Through this?
+1379) MONTOYA
+{FearA}Oh God -- Falcone. {ThinkingA}What have I done?
+1380) MONTOYA
+{FearA}I talked big about hurting {AngryB}thugs like Falcone --
+1381) MONTOYA
+{FearA}But I would never -- {AngryB}never --{FearA} betray the Lieutenant.
+1382) MONTOYA
+{FearA}Okay, I know how much this collar {ThinkingA}meant to him.
+1383) MONTOYA
+{FearA}To the department.
+1384) 
+You screwed up.
+1385) 
+I’m on your side.
+1386) 
+Someone drugged you.
+1387) BRUCE
+{AngryA}You’re in a lot of trouble, {SkepticalA}Sergeant.
+1388) MONTOYA
+[despair] {FearA}It’s not what it looks like --
+1389) BRUCE
+{ConcernedB}I believe you, Sergeant. {ConcernedA}I’m on your side.
+1390) BRUCE
+{SurpriseA}Just -- help me {ThinkingA}understand what{ConcernedA} happened.
+1393) MONTOYA
+{ThinkingA}I know it must sound {FearA}crazy...
+1394) MONTOYA
+{ThinkingA}Everything is so -- {AngryA}foggy.  {ThinkingA}I remember a sharp {NormalA}pain.
+1395) MONTOYA
+{ThinkingA}Then I just felt light -- {NormalA}like I could do whatever I wanted. {AngryA}No guilt. No consequence.
+1396) MONTOYA
+{ThinkingA}There was a voice in my ear insisting {AngryA}Falcone was gonna get off.
+1397) MONTOYA
+{AngryB}And all I knew was I{AngryA} had to stop that.
+1398) MONTOYA
+{AngryB}I had to, {FearA}no matter what.
+1399) MONTOYA
+{ThinkingA}The reasons why I shouldn’t -- {FearA}they were a million miles away.
+1400) 
+What voice?
+1401) 
+What did you feel?
+1402) 
+Did you see anyone?
+1403) BRUCE
+{SkepticalB}A voice...whose voice? {SkepticalA}What did it sound like?
+1404) MONTOYA
+I -- I don’t know. Soft. Trustworthy, I guess.
+1405) BRUCE
+{AngryA}You have to remember {ConcernedA}more, Montoya. {SkepticalA}Try.
+1406) MONTOYA
+{ThinkingA}I remember a hand on my arm.{NormalA} Guiding me. {ThinkingA}Like a parent with a child.
+1407) MONTOYA
+{HappyA}There was a tattoo. {AngryA}Rough, handmade.
+1408) BRUCE
+{AngryA}Draw it.
+1409) BRUCE
+{SkepticalB}Did you see a face? {SurpriseA}Could you ID a suspect?
+1410) BRUCE
+{SkepticalA}Like you were {SkepticalB}hypnotized?
+1411) MONTOYA
+{AngryA}Not mind control. {ThinkingA}More like my impulse control was gone.
+1413) BRUCE
+I’ve got a lead on whoever’s behind this.
+1414) MONTOYA
+{FearA}Thank you, {NormalA}Mr Wayne. {ThinkingA}That means a lot.
+1415) MONTOYA
+{AngryA}I -- I don’t {ThinkingA}think so.
+1416) BRUCE
+{ConcernedB}You must remember some detail. {ConcernedA}Try.
+1417) BRUCE
+{AngryA}You put a bullet in a mob boss, {AngryB}just as he was about to talk.
+1420) MONTOYA
+Lieutenant - I’m... I’m so sorry. I screwed up.
+1421) HARVEY
+[to Bruce] {CovertA}We stalled Falcone’s lawyers {SadA}for now. {AngryB}But they’ll be back.
+1422) 
+Someone got to her.
+1423) 
+I can prove she was drugged.
+1425) MONTOYA
+{FearA}One thing stood out...
+1426) GORDON
+It’s alright detective.
+1429) GORDON
+Wayne and Dent may want to make an example of you, but I’ve got your back.
+1430) GORDON
+Dent may want to make an example of you, but Mr Wayne and I are going to figure this out.
+1431) BRUCE
+{AngryA}Someone used her as a weapon, {AngryB}Harvey.  {AngryA}They drugged her and sent her after Falcone.
+1432) BRUCE
+{SkepticalB}I found evidence that she was drugged. {SkepticalA}A fresh injection site on her neck.
+1433) GORDON
+[barked; to the door]{AngryC} Get forensics in here now.
+1541) GORDON
+[barked; to the door] {AngryC}Get forensics in here now.
+1434) MONTOYA
+Lieutenant. I’m -- I’m so sorry. I don’t know what to say.
+1435) MONTOYA
+I’ve been telling Mr Wayne what I rememember.
+1438) GORDON
+You wanna watch what you say around him.
+1439) GORDON
+Wayne and Dent wanted to make an example of you, to get the heat off them.
+1440) GORDON
+Good. Wayne and I wanna help you get through this.
+1441) GORDON
+Dent, not so much.
+1442) HARVEY
+How can I run against corruption when our own cops are redecorating the precinct with their prisoners’ brains?
+1443) MONTOYA
+{FearA}What’s going on?!
+1445) MONTOYA
+{FearA}Listen, you have to believe me.
+1446) BRUCE
+{ThinkingA}There’s an injection site on your neck.
+1465) BRUCE
+She was so different from the woman we met in the hall.
+1466) HARVEY
+And now it is a PR disaster!
+1467) VICKI
+What are you doing here?
+1468) 
+Getting away from you.
+1469) BRUCE
+Filing a complaint about harrassment, actually.
+1470) VICKI
+Yeah? Well I don’t know what to tell you. Maybe it’s your cologne.
+1472) GORDON
+She’d never do anything to hurt the department.
+1474) VICKI
+{ThinkingA}Word is there were shots fired -- near where Falcone was being held.
+1475) VICKI
+[idle] Know anything about that?
+1476) VICKI
+[idle] You must have been back there when it happened.
+1477) 
+Yes. Falcone was killed.
+1478) BRUCE
+Always digging for a story, huh?
+1479) VICKI
+Like a pig for truffles. So is it true?
+1480) BRUCE
+I didn’t say that.
+1484) VICKI
+Who fired the shots? A cop?
+1485) VICKI
+Listen, I owe you for those files on Falcone. I got a lot of cred at the Gazette for that story.
+1486) VICKI
+Whatever’s going on here, you can’t afford to be associated with it.
+1488) HARVEY
+She’s supposed to do her duty, not act on impulses.
+1489) HARVEY
+If she wakes up, see if you can get her to remember what happened.
+1490) BRUCE
+Alfred -- Falcone’s been murdered.
+1491) ALFRED
+Good god --
+1492) BRUCE
+I’m looking into it, but I’ll need access to the Batcomputer for anything I find.
+1493) VICKI
+Word is, you turned over enough dirt on Falcone to put him in Blackgate Prison for life.
+1494) VICKI
+I can keep your name out of whatever we print, but you need to give me something I can use.
+1495) VICKI
+Let me help you.
+1496) VICKI
+And now you’re here... [involved in this mess]
+1497) VICKI
+A day after he showed up at your house.
+1502) BRUCE
+You’re fishing. You don’t have a thing.
+1591) BRUCE
+You’re fishing. You don’t have a thing.
+1503) 
+Montoya fired shots.
+1589) 
+Montoya fired shots.
+1504) BRUCE
+A police sergeant fired the shots. Renee Montoya.
+1507) BRUCE
+You didn’t get it from me.
+1593) BRUCE
+You didn’t get it from me.
+1508) VICKI
+Sergeant Montoya?
+1592) VICKI
+Sergeant Montoya?
+1511) VICKI
+Isn’t she the one who shot Batman?
+1603) VICKI
+[ALT] Isn’t she the one who shot Batman?
+1512) HARVEY
+Even if that’s true, the simple fact is she gunned him down in his hospital bed.
+1513) GORDON
+Then we need the whole story, not just part of it.
+1518) HARVEY
+Issue a statement saying that we have the shooter in custody.
+1519) HARVEY
+That details are still coming in and we’re investigating. The usual.
+1521) GORDON
+We can’t act until we know the whole story.
+1522) GORDON
+Then we need the complete facts like how and why.
+1525) MONTOYA
+{AngryB}Everything is such a {ThinkingA}blur...
+1526) MONTOYA
+{NormalA} I got this {FearA}awful feeling something {ThinkingA}terrible happened...
+1527) BRUCE
+{ThinkingB}Under some  {SurpriseA}mind control?
+1528) MONTOYA
+{FearA}My anger was the only thing that mattered.
+1529) MONTOYA
+{ThinkingA}Some kind of symbol...
+1530) MONTOYA
+[emotional] {FearA}I’m so sorry, Lieutenant…
+1531) GORDON
+[comforting] {SadA}Don’t worry about that {TiredA}now.
+1532) MONTOYA
+{NormalA}Mr. Wayne found an injection site.
+1533) HARVEY
+{ConfusedA}How is she? {AngryA}Did she tell you anything?
+1534) MONTOYA
+{FearA}Mr Wayne found an injection site on my neck.
+1538) MONTOYA
+{FearA}Mr. Wayne found an injection site on my neck…
+1535) HARVEY
+{AngryA}And when they come, we need our {AngryB}stories straight.
+1536) BRUCE
+{ThinkingA}Montoya remembers being {ConcernedB}drugged --
+1537) MONTOYA
+[emotional] {AngryB}I was out of my mind, {AngryA}Lieutenant. {FearA}Please believe me!
+1539) GORDON
+[barked; to the door] {AngryC}Hey! Get forensics in here, now!
+1540) GORDON
+[barked; to the door]{AngryC} Get forensics in here {AngryB}now.
+1542) MONTOYA
+[emotional] {FearA}I was drugged, Lieutenant. Please -- please believe me.
+1543) GORDON
+[emotional] {SadA}I do. {TiredB}Of course I do.
+1544) BRUCE
+Whoever did this to her had this mark.
+1545) HARVEY
+At least we have a lead we can pursue.
+1546) MONTOYA
+[emotional] {FearA}I was out of my mind,{ThinkingA} Lieutenant. {FearA}Please believe me!
+1547) GORDON
+[emotional] {SadA}I do. Of course I do.
+1548) HARVEY
+Now if you’re bringing forensics in, let’s get Bruce out.
+1549) GORDON
+Good job, Mr Wayne. The officer at the door will escort you out.
+1550) BRUCE
+[to himself] The veins in her neck -- still a little swollen.
+1551) HARVEY
+[ALT; worry; no swear] This is a freaking disaster.
+1553) MONTOYA
+[ALT] {FearA}I know how much this {AngryA}arrest meant to him.
+1554) MONTOYA
+[ALT] {ThinkingA}There was a voice in my ear insisting {AngryA}Falcone was gonna get away with it.
+1555) HARVEY
+[ALT; worry; no swear] We’re in it up to our necks.
+1556) HARVEY
+[ALT; worry; no swear] We’re in a hell hole.
+1557) BRUCE
+[ALT] Her skin was grey --
+1558) BRUCE
+[ALT] Her skin had a deathly pallor to it --
+1559) BRUCE
+[ALT] When she came in she was really shaking --
+1560) MONTOYA
+{ThinkingA}The voice -- {FearA}it was saying something about “revolution.“
+1561) BRUCE
+[to himself] {SkepticalB}Cobblepot said {SkepticalA}something similar.
+1562) BRUCE
+[ALT] Her skin -- discoloration is still present.
+1563) BRUCE
+[ALT] She’s still shaking a little -- it looks like her muscles are spasming involuntarily.
+1564) BRUCE
+[ALT, no symbol] {SurpriseA}Write down anything you remember.
+1565) BRUCE
+[ALT; no symbol] Whoever did this to her said those words...
+1566) GORDON
+[baffled] ‘The revolution is coming?‘
+1577) GCPD02
+Look at this.
+1579) GORDON
+[ALT] What a goddamn mess.
+1580) GORDON
+[under his breath] My God...
+1581) GORDON
+[ALT] They left a goddamned calling card.
+1582) BRUCE
+[ALT; under his breath] Some kind of calling card...
+1583) BRUCE
+[starting the scan] All right, let’s see what we can find.
+1584) BRUCE
+[starting the scan] Analyzing the... suspect [reluctant to call her that] for any biological or chemical anomalies.
+1585) BRUCE
+Alfred, I’m going to try and confirm some suspicions of mine.
+1586) BRUCE
+[to himself; ALT] Her veins -- still visible beneath her skin.
+1587) BRUCE
+[ALT] Her veins were really dark -- like there was something in her blood.
+1594) 
+Eyes
+1598) BRUCE
+[ALT] When she came in she didn’t look like herself--
+1599) BRUCE
+[Alt] She remebers someone mentioning a “revolution”
+1601) BRUCE
+[ALT] It means something to whomever did this to her!
+1609) BRUCE
+[ALT] It means something to whomever did this to her...
+1602) MONTOYA
+[ALT] What will I tell my wife.
+1607) MONTOYA
+[ALT; holding back tears] What will I tell my wife..?
+1605) ALFRED
+Connection secured, sir.

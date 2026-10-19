@@ -1,0 +1,558 @@
+﻿1) RYDER
+But the most shocking part of this story is the Hill campaign’s allegations that Dent may have actually been involved in the break-in.
+2) NEWSCASTER
+[V.O.] Mayor Hill says he’s tough on crime, but since his election, violence in Gotham has skyrocketed.
+3) NEWSCASTER
+[V.O.] And when he was presented with legislation that would’ve dismantled organized crime in the city, he vetoed it, killing Gotham’s chance for a safer future.
+4) NEWSCASTER
+[V.O.] Maybe that’s because the rumors of Hill’s connections to some of Gotham’s most notorious mafia families are true.
+5) NEWSCASTER
+[V.O.] We don’t need another gangster running the city. We need a crime fighting hero.
+6) NEWSCASTER
+[V.O.] With over two-hundred successful convictions, District Attorney Harvey Dent just might be the hero Gotham needs. But he can’t save our city alone. He needs your help.
+7) NEWSCASTER
+[V.O.] He believes that together we can make a ‘dent’ in Gotham’s crime. But it starts with you.
+8) NEWSCASTER
+[V.O.] Vote for Harvey Dent and elect a real crime fighter to Gotham’s mayoral seat.
+9) HARVEY
+[V.O.] I’m Harvey Dent and I approve this message.
+10) 
+Bat Computer
+266) 
+Bat Computer
+11) 
+Access
+12) 
+Access
+13) 
+I’ll stay out of sight.
+14) 
+It was under control.
+15) 
+Thanks for your help.
+16) BRUCE
+{AngryA}I don’t want anything to do with Falcone.
+17) BRUCE
+{AngryA}I had everything under control.
+18) BRUCE
+{AmusedA}Yeah, {SkepticalA}thanks for the interruption.
+19) ALFRED
+{TiredA}You don’t have to take my advice, Bruce.
+20) ALFRED
+{ConcernedA}But that doesn’t mean I’ll stop giving it.
+21) BRUCE
+{HappyA}Found her.
+22) ALFRED
+[while reading; frustrated]{DisgustA}Not much to find, apparently.
+232) ALFRED
+[while reading; frustrated]{DisgustA}Not much to find, apparently.
+23) ALFRED
+[ALT]You might try under that name.
+24) BRUCE
+{SmugA}I stay out of sight when I need to.
+25) BRUCE
+{AngryA}That’s not the point.
+26) BRUCE
+{SkepticalA}Batman isn’t hiding from anybody.
+27) BRUCE
+{ConfusedA}I don’t like{AngryA} being compared to a common criminal.
+28) ALFRED
+{ConcernedA}You could learn a thing or two from her.
+234) ALFRED
+{ConcernedA}You could learn a thing or two from her.
+29) ALFRED
+{SkepticalB}Define “need to.“
+30) ALFRED
+{ConcernedB}I was talking about Bruce.
+31) ALFRED
+{ThinkingA}I think you’re missing the point.
+32) ALFRED
+{ConcernedA}You have to admit you’ve been drawing{SkepticalA} a lot of attention to yourself.
+48) ALFRED
+{ConcernedA}You have to admit you’ve been drawing{SkepticalA} a lot of attention to yourself.
+33) BRUCE
+{ThinkingA}No one’s gonna figure it out, Al. Trust me.
+34) ALFRED
+{ConcernedB}I don’t mean to beat a dead argument but--
+35) 
+I’ve got it covered.
+36) ALFRED
+{ThinkingA}If they put it together with the incident at the Mayor’s Office...
+37) 
+This city needs me.
+38) 
+You’re right, Alfred.
+39) ALFRED
+{ConcernedA}You’re in the spotlight more than ever.
+40) ALFRED
+{ConcernedB}You have to be careful.
+41) BRUCE
+[not worried]{SmugA}I’ve had to cover for mysterious injuries before.
+42) ALFRED
+{ConcernedA}You’ve been lucky.
+43) BRUCE
+{SkepticalB}Or I’m just a really good liar.
+44) BRUCE
+[frustrated]{ConcernedB}I have a job to do, okay, {AngryA}a responsibility to this city.
+45) BRUCE
+{ConcernedB}You’re right, you’re right. I should’ve canceled the event.
+46) ALFRED
+{ConcernedA}I know how much pressure you’re under.
+47) ALFRED
+{SadA}Old men worry, that’s all.
+49) 
+He needs money.
+50) 
+I’ll give him a chance.
+51) 
+It’s not a coincidence.
+52) BRUCE
+{ThinkingA}Do you think he’s looking for a handout?
+53) BRUCE
+{SkepticalA}I think he just wants to reconnect.
+54) BRUCE
+{ThinkingA}Do you think he might know something about the break in?
+55) BRUCE
+{SkepticalA}This catwoman shows up around the same time Oswald comes back to town...{ThinkingB} might not be a coincidence.
+56) ALFRED
+{ThinkingB}He would’ve come to the right person.
+57) ALFRED
+{ConcernedA}Why he’s returning now...
+58) ALFRED
+{ConfusedA}I haven’t the faintest idea.
+59) ALFRED
+{ConcernedB}A lot can change over the years.
+60) ALFRED
+[sigh]{ConcernedA}Well, as much as I enjoy having this {ConfusedA}one-sided conversation...
+61) ALFRED
+[not liking the idea]{ConcernedA}I’d advise you to be cautious...
+62) RYDER
+{HappyA}Five criminals are in custody this evening after a break in at City Hall.
+63) BRUCE
+[alt]Let’s find out what was so important.
+64) 
+Data Drive
+65) BRUCE
+{ThinkingA}It’s me.
+66) RYDER
+{HappyA}But thanks to the efforts of the Batman, {ThinkingA}the stolen items were returned.
+67) RYDER
+{DisgustA}The notorious Batman was on the scene, {ThinkingA}but failed to secure the stolen items.
+68) BRUCE
+[muttering]Encrypted.
+275) BRUCE
+Encrypted.
+69) ALFRED
+{SkepticalA}I saved you what I could.
+210) ALFRED
+{SkepticalA}I saved you what I could.
+70) ALFRED
+{ConcernedA}The same couldn’t be said for the bar--{AmusedA}I had to literally pry Mrs. Zellerbach away.
+208) ALFRED
+{ConcernedA}The same couldn’t be said for the bar--{AmusedA}I had to literally pry Mrs. Zellerbach away.
+71) ALFRED
+{ThinkingA}It wasn’t for you, Bruce.
+72) ALFRED
+[dry joke] I was worried he might drink all my good Scotch.
+73) ALFRED
+{DisgustA}Hopefully not close enough to stab you in the back.
+74) BRUCE
+{AmusedA}It was a “keep your enemies closer” situation.
+75) BRUCE
+{ThinkingA}A few burglaries, {ConcernedA}break ins...
+235) BRUCE
+{ThinkingA}A few burglaries, {ConcernedA}break ins...
+76) BRUCE
+{ThinkingA}Seems to lay pretty low.
+233) BRUCE
+{ThinkingA}Seems to lay pretty low.
+77) ALFRED
+{HappyA}As Bruce or Batman.
+78) BRUCE
+{HappyA}Whenever Harvey calls.
+79) BRUCE
+{ConcernedB}That guy’s exhausting.
+80) BRUCE
+{ConcernedA}I want criminals {AmusedA}to know I’m out there.
+81) ALFRED
+{ThinkingA}Ms. Vale noticed your injuries. {ConcernedB}So did Mr. Dent.
+82) BRUCE
+{AngryA}You know why I do this.
+83) ALFRED
+{SadA}I don’t mean to add to it.
+84) ALFRED
+{AmusedA}If we make a suit that fits me, {HappyA}we can trade places some night.
+85) ALFRED
+{SkepticalA}Though I’m not partial to heights.
+86) ALFRED
+{ConcernedA}It’s our gift and our curse.
+87) ALFRED
+[ALT]{ThinkingA}One more for the list.
+88) BRUCE
+{SurpriseA}I thought I saw Oz. {ThinkingA}It’s been what, 20 years?
+89) ALFRED
+[ALT]{SkepticalA}And they haven’t been kind to him.{ConcernedA} Or he to them.
+90) BRUCE
+{AngryA}Unfortunately you are.
+91) ALFRED
+{ConcernedA}It’s a criminal grand slam,{ConfusedA} if I’m using the expression correctly.
+92) ALFRED
+{ConcernedA}Oswald claimed he only wanted to catch up, {ThinkingB}but his behavior following his family’s collapse is... {ConcernedB}troubling.
+93) BRUCE
+{ConcernedA}Criminal record or not, he’s still an old friend.
+94) ALFRED
+{ThinkingB}If I remember correctly... {AngryA}Oswald was fond of the old “firecrackers in the toilet” trick.
+95) ALFRED
+{DisgustA}I worry what he’s graduated to.
+96) ALFRED
+{SadA}But I know you can’t abandon a good mystery {ConcernedA}until it’s solved.
+97) ALFRED
+{ConcernedA}After the press conference tomorrow, {AmusedA}I’ll mark your calendar as “Exhausted” then.
+98) ALFRED
+{AngryA}The media isn’t good for anyone’s health.
+99) ALFRED
+[ALT][insisting]{DisgustA}The wrong kind of attention, to be clear.
+100) ALFRED
+{ConfusedA}It would undo all the long nights {ConcernedA}and close calls we’ve endured to get here.
+101) ALFRED
+[sigh]
+102) BRUCE
+{ThinkingB}Because I’m--
+103) ALFRED
+{ConcernedA}A little too much sometimes.
+104) ALFRED
+{ConcernedA}Because you’re generous.
+105) 
+I won’t play his game.
+106) 
+I played him.
+107) ALFRED
+The press has been referring to her as the “the cat burglar.” Nothing more.
+108) ALFRED
+Anything?
+109) BRUCE
+Not yet.
+110) ALFRED
+[hesitant] You should have a look...
+111) ALFRED
+I wasn’t sure if I should give this to you or not.
+112) BRUCE
+What’s this?
+113) ALFRED
+{HappyA}But you’ll be pleased to hear everyone has left,{AngryA} including Mr. Falcone.
+209) ALFRED
+{HappyA}But you’ll be pleased to hear everyone has left,{AngryA} including Mr. Falcone.
+114) ALFRED
+{ConcernedA}Before the game switched from{DisgustA} billiards to cutthroat.
+206) ALFRED
+{ConcernedA}Before the game switched from{DisgustA} billiards to cutthroat.
+115) BRUCE
+{HappyA}Thanks, Al.
+207) BRUCE
+{HappyA}Thanks, Al.
+116) ALFRED
+{ConcernedA}Blood stains are much harder to remove from a tuxedo.
+117) ALFRED
+{ThinkingA}I’d recommend leaving the{ConcernedA} fist fights to your alter-ego.
+118) 
+Batmobile
+119) 
+Don’t compare me to her.
+120) 
+Criminals need to know I’m out there
+121) 
+Business Card
+122) 
+Gotham Feed
+123) 
+Main Screen
+124) 
+Codex
+125) ALFRED
+{ThinkingA}Oswald’s crimes, numerous they may be, {ConcernedA}are on a much smaller scale than robbing City Hall.
+126) 
+Bat Suit
+127) 
+Gadgets
+128) 
+Cowl
+129) BRUCE
+Cracking this should be easy.
+130) BRUCE
+Not a problem.
+131) BRUCE
+Huh. Feels like I’ve done this before...
+132) BRUCE
+There, that worked.
+133) BRUCE
+Okay, got that.
+134) BRUCE
+[thinking]Hmm, okay...
+135) BRUCE
+Almost there.
+136) BRUCE
+Almost done.
+137) BRUCE
+I think that’s it.
+138) BRUCE
+Got it.
+139) BRUCE
+Perfect.
+140) BRUCE
+Two more.
+141) BRUCE
+One more.
+142) BRUCE
+Done.
+143) BRUCE
+Aaaaand done.
+144) BRUCE
+That looks right.
+145) ALFRED
+And in the meantime...
+146) BRUCE
+Not all of them.
+147) BRUCE
+Let’s see what she was really after.
+148) RYDER
+And we have breaking news tonight--
+149) BRUCE
+Yeah, well. This is the only room that really matters.
+150) ALFRED
+In front of a computer.
+151) ALFRED
+In a dark, damp cave...
+152) ALFRED
+Wayne Manor has seven bedrooms, two kitchens, a library, a gymnasium, a basketball court, and a movie theater... and yet I always find you here.
+153) ALFRED
+The dusting is murder.
+164) ALFRED
+The dusting is murder.
+154) ALFRED
+Well, then you won’t mind if I skip cleaning the rest.
+165) ALFRED
+Well, then you won’t mind if I skip cleaning the rest.
+155) ALFRED
+One more worry for the list.
+156) BRUCE
+[reading, concerned]Dishonorable discharge. Illegal boxing matches. Arms dealing. Prison stints...
+157) 
+I like this cave.
+158) 
+Those rooms don’t matter.
+159) BRUCE
+Sure, I can see the headlines now...
+160) BRUCE
+Bruce Wayne. Billionaire. Entrepreneur. Cave dweller.
+161) ALFRED
+Then we should build an eighth bedroom down here.
+162) BRUCE
+I’m more at home here than the rest of the house, you know that.
+163) ALFRED
+Quite an eclectic resume.
+166) 
+I’m working.
+167) BRUCE
+I’ll leave as soon as I finish.
+251) BRUCE
+I’ll leave as soon as I finish.
+168) ALFRED
+Even worse, the best outcome is that no one ever finds out you’ve done it.
+169) ALFRED
+I agree--it isn’t normal work.
+170) BRUCE
+Yeah... well, good deeds usually go unnoticed.
+171) ALFRED
+Did you find out what that... cat woman... tried to steal?
+172) ALFRED
+But I’d already sewn you up once tonight and had no interest in a repeat performance.
+173) ALFRED
+It’s true--I’ve seen you take down worse thugs.
+174) ALFRED
+Well, he certainly showed interest in you.
+175) ALFRED
+That’s what worries me.
+176) ALFRED
+Your father despised men like Falcone. Thought they ruined Gotham’s stellar reputation.
+177) BRUCE
+Back when it still had one.
+178) ALFRED
+Though people like this... cat woman... aren’t helping.
+179) ALFRED
+It can again, Bruce.
+180) BRUCE
+Never seen her before.
+181) ALFRED
+Is she new to town?
+182) BRUCE
+Hopefully she’s just a tourist.
+183) ALFRED
+You can’t step outside without it ending up in the news lately.
+184) ALFRED
+A necessary evil in your line of work, I suppose.
+185) ALFRED
+Though... I hope you change careers someday.
+186) ALFRED
+Look, Bruce...
+187) ALFRED
+With your wealth, your time... and even your well-being.
+188) ALFRED
+When you see what’s become of his park... I think you will.
+189) BRUCE
+[trying to re-assure him]I’ll be careful, Alfred.
+190) ALFRED
+Though not unappreciated.
+191) BRUCE
+Nearly fell off a building for this?
+192) ALFRED
+For the record...
+193) BRUCE
+It’s okay. I know you’re only looking out for me.
+194) ALFRED
+Oh yes. You drive that thing like a bat out of hell.
+195) BRUCE
+Well, the car helps.
+196) ALFRED
+For the car, I presume.
+197) ALFRED
+And not the “Playboy Billionaire Buys New Yacht” kind of attention.
+198) ALFRED
+And not the “Playboy Billionaire Buys New Yacht” kind of attention.
+199) BRUCE
+He was always trouble growing up, but the fun kind of trouble.
+200) ALFRED
+You both were.
+201) ALFRED
+Even though you and young Master Cobblepot used to be close...
+202) RYDER
+And one mobster’s murder caused quite a headache for commuters this morning. The body of Falcone family capo Louie “Pistachio” Garmone was found hanging off the side of the 4th Street Bridge sometime just before dawn, causing traffic to back up for miles as the cops cut him down.
+203) RYDER
+A string of home invasions rippled through the city’s already crime-infested East End.
+204) FAIRCHILD
+We are now on day three of the factory fire that will not end. Crews have given up trying to combat the blaze at the Otisburg processing center owned by Ace Chemical. Still no word on what started the fire, but whatever’s burning in there has resisted everything the fire department has thrown at it. They’re recommending people avoid the area and seek immediate treatment if you happen to breath in any of that tar-black smoke.
+205) FAIRCHILD
+And if you can believe it... now you can’t even trust the valets.
+211) ALFRED
+[ALT]I was impressed you played it cool so long.
+212) ALFRED
+[ALT]I would have been tempted to be far less... polite.
+213) ALFRED
+[ALT]When I arrived, you looked ready to stab him with the pool cue.
+214) BRUCE
+[wistfully]Last time I saw him... we were in grade school.
+215) ALFRED
+[writing]Indeed. You two were thick as thieves.
+216) ALFRED
+[writing]Oswald however, took that role more literally than you.
+217) BRUCE
+That’s the stuff.
+218) BRUCE
+I should see if I can refine the edge. Could be sharper.
+219) BRUCE
+Spare grapple.
+220) BRUCE
+Can’t believe I let her take that.
+221) ALFRED
+What are we looking at?
+222) BRUCE
+Let me try a different angle.
+223) BRUCE
+I’ll check the Codex.
+224) FAIRCHILD
+More on this after the break.
+225) RYDER
+Another brutal week in Gotham, folks.
+226) FAIRCHILD
+And in other news...
+227) 
+Spare Grapple Gun
+228) 
+Take
+229) BRUCE
+[ALT][pickup]Let me see what we’ve got in the Codex.
+230) BRUCE
+In the process.
+231) BRUCE
+I already checked the Codex.
+236) BRUCE
+I can program it to reveal trace elements in a confined space.
+237) BRUCE
+The newest addition.
+238) BRUCE
+The test run at the Mayor’s office was a success.
+239) BRUCE
+Can deliver a jolt or knock out electricity in the area.
+240) BRUCE
+I suppose that Cat Woman would have preferred the latter.
+241) BRUCE
+The suit absorbed most of the damage from that gunshot...
+242) BRUCE
+I’ve gotta protect my back. Even from the police.
+243) 
+Data Port
+244) 
+Trace Detection Skimmers
+245) 
+Batarang
+246) 
+Smoke Pellets
+247) BRUCE
+The batcomputer should be able to read whatever data is on that stolen drive.
+248) BRUCE
+Holographic lenses...
+249) BRUCE
+Voice modulation...
+250) BRUCE
+Wayne Enterprises really outdid themselves with this version.
+252) BRUCE
+People with regular jobs can do their work anywhere, but for me... this is my office.
+253) BRUCE
+Yeah... well, good deeds often go unnoticed.
+254) FAIRCHILD
+Random stabbings are the latest headache for the riders of Gotham’s overcrowded skyrail cars to contend with. Gotham police are investigating multiple cases of riders receiving abdominal wounds from an ice pick or other pointed weapon while pressed into the tight quarters with fellow passengers. A few have died while most have been admitted to Gotham General in critical condition. The police don’t have any suspects at this time.
+255) RYDER
+Two more patients have gone missing from Arkham Asylum, bringing the total number of escapees from the half-prison, half-mental hospital to fifteen this year. Only three have been caught to date, but all the escapes highlight the rough, some would say inhumane conditions, at the aging Asylum. The latest, 44-year-old twin brother and sister Leon and Valerie Muldoon, should be considered dangerous if found. Authorities are asking that you do not approach and call police immediately.
+256) FAIRCHILD
+Mayor Hill’s Gotham Beautiful Act takes effect today, making it possible for landlords to evict tenants immediately and without cause. The new law was created in order to allow Gotham City’s biggest property owners greater ability to modify and improve the city’s aging buildings, some of which have been occupied by families for decades. So if you come home from work tonight and find all your stuff on the street, don’t worry. It probably isn’t anything you did wrong.
+257) BRUCE
+[ALT]R&D really outdid themselves with this version. I’ll have to remember to thank Lucius.
+258) RYDER
+Talk about dirty politics.
+259) RYDER
+Or will it be perceived as a desperate attempt from a flailing campaign to take down one of Gotham’s most promising young politicians?
+260) RYDER
+Does Hill’s campaign really think these accusations hold any water with the voters?
+261) BRUCE
+[alt] Helps with the element of surprise.
+262) BRUCE
+[alt] Those skull faced mercs never saw it coming.
+263) BRUCE
+[alt] The design... helps with the performance.
+264) 
+Analyze Data Drive
+265) 
+Look At
+267) 
+Gadgets Table
+268) 
+Movie Tickets
+269) BRUCE
+This is a map of the Eastside Shoreline...
+270) BRUCE
+But it could mean any number of things.
+271) ALFRED
+Maybe it’s where Mayor Hill picks up his dry-cleaning.
+272) BRUCE
+Hmm....
+273) BRUCE
+I can’t make sense of it yet, but there’re still plenty of files to decrypt.
+274) BRUCE
+Money, weapons, drugs...
+276) 
+EMP/StickyTazer
+277) BRUCE
+Everything flows through that port.
+278) 
+Watch
+279) 
+Batman doesn’t hide.

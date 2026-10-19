@@ -1,0 +1,1445 @@
+﻿1) 
+Unable to download at this time. Please try again later.!
+2) 
+Unable to download at this time. Please try again later.!
+3) 
+Invalid Password
+4) 
+Invalid Password
+5) 
+Password:
+444) 
+Password
+6) 
+Installing Episode
+7) 
+UPDATE REQUIRED
+8) 
+An update is required in order to access this content.
+9) 
+Your Choices
+10) 
+YOUR CHOICES
+11) 
+Adjust the overall volume output.
+12) 
+Not now
+13) 
+Get more
+14) 
+Extras
+17) 
+EXTRAS
+15) 
+Videos
+105) 
+VIDEOS
+16) 
+Codex
+18) 
+Record
+19) 
+^imageScale:0.7^<ui_legend_iconPlay.d3dtx>
+20) 
+^imageScale:0.7^<ui_legend_iconPause.d3dtx>
+21) 
+^imageScale:0.7^<ui_legend_iconFacebook.d3dtx:-12> Share
+22) 
+Share this video
+23) 
+Replay this video
+24) 
+Watch the next video
+25) 
+Play/Pause
+26) 
+Fast Forward
+27) 
+Share to Facebook
+28) 
+Paused
+247) 
+PAUSED
+29) 
+Fast Forwarding x{SPEED}
+30) 
+Rewinding x{SPEED}
+31) 
+Video contains spoilers
+32) 
+Based on your current selected save file, it’s been determined that this video may spoil future plot details! It’s recommended you finish Episode {EPISODE NUMBER} before watching.
+33) 
+Stop Downloading
+34) 
+Are you sure you want to stop the download? You can resume downloading at any time within the Episodes screen.
+35) 
+Watch Video
+36) 
+Stop Download
+37) 
+Continue Downloading
+38) 
+NOT PURCHASED
+39) 
+Content not yet purchased!
+40) 
+You have successfully signed into your Telltale account and will be automatically logged in whenever you relaunch your game. For more information about your account, please visit ^color:#ffffff^Telltale.com/profile^^.
+41) 
+Cloud Saving will automatically save your game’s progress to a cloud, allowing you to retrieve it later on other devices. Go to Settings > Change Save File for more information.
+42) 
+Enable Cloud Saving?
+43) 
+Telltale.com/crowdplay
+44) 
+A free Telltale Account provides access to exclusive content and great community.
+45) 
+You have successfully signed into your Telltale account and will be automatically signed in whenever you relaunch your game. 
+
+For more information about your account, please visit ^color:#ffffff^Telltale.com/profile^^.
+46) 
+Complete the necessary fields to sign into Telltale.
+47) 
+The game is having a problem communicating with the Telltale server. Please visit Telltale.com/support for more information.
+365) 
+The game is having a problem communicating with the Telltale server. Please visit Telltale.com/support for more information.
+554) 
+The game is having a problem communicating with the Telltale server. Please visit Telltale.com/support for more information.
+48) 
+Visit Telltale.com Online!
+49) 
+Telltale Account
+552) 
+TELLTALE ACCOUNT
+50) 
+Deleting {SAVE FILE NAME} in Save Slot 1 will delete both your local save and your Telltale Cloud Save. Click OK to delete both copies. Click Cancel to keep them.
+51) 
+Are you sure you want to Copy over {SAVE FILE NAME}? The copy will replace your Telltale Cloud Save.
+52) 
+Restarting the Episode will delete your saved game for any Episode beyond this one, including the data in your Telltale Cloud Save.
+53) 
+Deleting this game will delete local save files. Get a Telltale account and enable Cloud Saves to download a copy of your game in the future.
+54) 
+You have successfully signed into your Telltale account and will be automatically logged in whenever you relaunch your game. For more information about your account, please visit ^color:#7ab1cc^Telltale.com/profile.
+55) 
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.9^Get the full experience!
+^^
+Use a Telltale account to get access to exclusive videos & new features like Videos, Crowd Play & Sharing.
+
+More on Telltale account perks at ^color:#7ab1cc^Telltale.com/accounts
+56) 
+See more of your choices online!
+Sign up for a Telltale account and then visit ^color:#46a159^Telltale.com/batman
+57) 
+Enable Telltale Cloud Saving
+58) 
+The game is having a problem communicating with the Telltale server. Please visit ^color:#ffffff^Telltale.com/support^^ for more information.
+59) 
+Telltale Cloud Sync Error
+60) 
+Trial Episode
+61) 
+Episodes
+62) 
+Episodes
+63) 
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.8^Get the Season Pass
+^^
+Continue the journey with Batman. Get the final four episodes of the series.
+ More info at ^color: #7ab1cc^Telltale.com/batman
+64) 
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.9^See exclusive videos!
+^^
+Sign up for a Telltale account to gain full access to all episodes of Batman: Unmasked.
+65) 
+MORE OPTIONS
+117) 
+More Options
+66) 
+<ui_legend_moreIcon.d3dtx:-10>More Options
+67) 
+View Trailer
+68) 
+Season Pass
+69) 
+Play Video
+70) 
+Adjust Brightness
+71) 
+Bruce Wayne navigates the treacherous waters of Gotham politics as a series of shocking allegations surface, while Batman confronts Gotham’s most notorious crime boss.
+72) 
+Experience the entire 5-episode series with the Batman Season Pass.
+73) 
+An old friend becomes a new adversary as Bruce learns more about the Wayne family legacy and Batman escalates the fight against crime and corruption throughout Gotham.
+74) 
+With Gotham on the brink and Bruce under fire, a new generation of supervillains rise to prominence and threaten to overturn the traditional institutions of power.
+75) 
+Bruce and Batman must forge new alliances and fight old rivals to protect the innocent and keep Gotham from descending into chaos.
+76) 
+The battle for control of Gotham intensifies, reaching a fevered pitch as Bruce discovers a renewed sense of purpose and Batman finds himself pushed to the limits in a desperate effort to restore order.
+77) 
+Error! Video unable to play
+563) 
+Error! Video unable to play
+78) 
+The game is having a problem communicating with the Telltale server to load {VIDEO NAME}. Visit Telltale.com/support for more information.
+79) 
+Close
+114) 
+Close
+80) 
+Visit the forum
+81) 
+^font:MenuBodyMedium.font^^glyphScale:.8^Episode 1
+^^Realm of Shadows
+82) 
+^font:MenuBodyMedium.font^^glyphScale:.8^Episode 2
+^^Children of Arkham
+83) 
+^font:MenuBodyMedium.font^^glyphScale:.8^Episode 3
+^^New World Order
+84) 
+^font:MenuBodyMedium.font^^glyphScale:.8^Episode 4
+^^Guardian of Gotham
+85) 
+^font:MenuBodyMedium.font^^glyphScale:.8^Episode 5
+^^City of Light
+86) 
+Episode 4
+87) 
+Episode 5
+88) 
+Thank you
+89) 
+Uninstall {EPISODE NUMBER}
+389) 
+Uninstall
+90) 
+Refresh
+357) 
+Refresh
+91) 
+Rewatch Intro
+92) 
+^color:#6d1616^^font:MenuDisplayLarge^Invite your Friends
+^^^glyphScale:.1^
+^^Crowd Play mode allows a group of people to make story choices together.
+^glyphScale:.4^
+^^Participants get a game code, they watch your screen and vote with their own devices.
+^glyphScale:.4^
+^^Note: Playing via Twitch, YouTube or other streaming services is not advised due to network latency issues.
+93) 
+Are you sure you want return to the Main Menu? All unsaved progress will be lost.
+94) 
+New content has been downloaded and is ready to be installed. Install it by restarting the main menu?
+95) 
+Are you sure you want to start this episode? Choices will be auto-generated for unfinished episodes.
+96) 
+There was an error during the Cloud Save operation. Select Try Again to perform a Cloud Save operation. Select Disable Cloud Save to turn off Cloud Saving, allowing you to continue play with your local save file.
+97) 
+A conflict was found during cloud sync. Would you like to upload your local save file to the server or download the cloud save file to overwrite your local file?
+98) 
+We have detected a Cloud Save operation on another device. After that operation completes, select Try Again to perform a Cloud Save operation. Select Disable Cloud Save to turn off Cloud Saving, allowing you continue play with your local save file.
+99) 
+An account with this email already exists.
+100) 
+^color:#6d1616^^font:MenuDisplayLarge^Join the Game
+^^Join on your phone, tablet or PC by going to
+^color:black^^font:MenuDisplayMedium^
+101) 
+^^Game code:^color:black^^font:MenuDisplayMedium^
+102) 
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.8^Continue play on the go!
+^^
+Sign up for a Telltale account and use Cloud Save to securely save your progress in the cloud.
+103) 
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.8^Crowd Play with friends!
+^^
+Sign up for a Telltale account and invite friends to Crowd Play your story.
+104) 
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.8^Share your Experiences!
+^^
+Sign up for a Telltale account to share epic footage, bold choices, and surprising discoveries.
+106) 
+^font:MenuDisplayLarge.font^^glyphScale:.90^Buy!
+107) 
+^font:MenuDisplayMedium.font^Buy Episode 1
+108) 
+Log in
+109) 
+^glyphScale:0.8^You currently are offline, so we cannot compare your choices and outcomes with the rest of the online community.
+110) 
+^imageScale:0.7^<ui_legend_iconExit.d3dtx>
+111) 
+Got it, thank you
+112) 
+Upload local save
+113) 
+Download Cloud Save
+115) 
+Go to website
+116) 
+Adjust the slider so the Bat Symbol is BARELY visible.
+118) 
+PURCHASED & INSTALLED
+119) 
+PURCHASED, COMING SOON
+120) 
+PURCHASED, BUT NOT INSTALLED
+121) 
+COMING SOON
+262) 
+Coming soon
+122) 
+AVAILABLE NOW
+591) 
+AVAILABLE NOW
+123) 
+PURCHASED
+124) 
+PURCHASED, BUT NOT DOWNLOADED
+125) 
+Batman Season Pass
+126) 
+Batman Multi-pack
+127) 
+<ui_carousel_lock.d3dtx:-2>{EPISODE NUMBER} Coming Soon
+436) 
+<ui_carousel_lock.d3dtx:-2>Coming soon
+128) 
+Purchase the Season Pass
+129) 
+EPISODE 4
+^font:GameplayDisplayLarge.font^GUARDIAN OF GOTHAM
+522) 
+EPISODE 4
+^font:GameplayDisplayLarge.font^GUARDIAN OF GOTHAM
+130) 
+EPISODE 5
+^font:GameplayDisplayLarge.font^CITY OF LIGHT
+523) 
+EPISODE 5
+^font:GameplayDisplayLarge.font^CITY OF LIGHT
+131) 
+Error
+368) 
+Error
+132) 
+Run
+133) 
+Fight Actions
+134) 
+Account Created
+135) 
+I agree to the Terms of Service
+136) 
+Account Exists
+137) 
+Invalid Email
+138) 
+You entered an invalid email.
+139) 
+you password needs to be 6 characters or longer.
+140) 
+Connecting To Server...
+395) 
+Connecting to Server...
+141) 
+Connecting To Server...
+
+Saving content. Please don’t turn off your console.
+142) 
+Email:
+445) 
+Email
+143) 
+Sign Up
+144) 
+Linking Accounts...
+145) 
+Keep me informed via email
+146) 
+Passwords Didn’t Match
+147) 
+Please re-enter your Password so that they match in the confirmation box.
+148) 
+Re-enter Email or Password
+149) 
+You Are Signed In
+150) 
+Sign In
+151) 
+Terms Of Service
+152) 
+Please accept the Terms of Service
+153) 
+ACCOUNT
+154) 
+Incorrect Password
+155) 
+The password you entered did not match our records. Please double-check and try again.
+156) 
+Can’t Link Account
+157) 
+An unknown error occurred.
+158) 
+Unknown Email
+159) 
+The email you entered is not registered. Please try again.
+160) 
+CROWD PLAY
+270) 
+Crowd Play
+538) 
+Crowd Play
+161) 
+^^People in the crowd: ^color:black^^font:MenuDisplayMedium^
+162) 
+Crowd Play lets others play along by allowing them to suggest dialog choices.
+Would you like to enable Crowd Play?
+163) 
+Actions/
+Dialog Choices
+164) 
+Inventory
+165) 
+Move
+175) 
+Move
+166) 
+Pause Menu
+173) 
+Pause Menu
+183) 
+Pause Menu
+167) 
+Move Reticle/
+Camera
+178) 
+Move Reticle/
+Camera
+168) 
+Show
+Selectables
+176) 
+Show 
+Selectables
+169) 
+Additional Actions
+170) 
+Select Action
+171) 
+Cycle Inventory
+181) 
+Cycle Inventory
+172) 
+Pause Menu/Previous Menu
+174) 
+Move or select by swiping, touching and dragging on the touch surface.
+177) 
+Confirm Selection/Actions
+179) 
+Tap anywhere on screen to view touch controls.
+180) 
+Actions
+182) 
+Move by touching and dragging the screen.
+184) 
+ONLINE DISABLED
+185) 
+Online service is disabled on your Sony Entertainment Network account due to parental control restrictions.
+186) 
+Online service is disabled on your account due to parental control restrictions.
+187) 
+CANCELLED
+188) 
+The operation was canceled.
+189) 
+CONNECTION FAILED
+190) 
+Connection to the host failed.
+191) 
+CAN’T MAKE PAYMENTS
+192) 
+Payments are not allowed on this account
+193) 
+CAN’T RESOLVE HOST
+194) 
+The host could not be resolved.
+195) 
+NETWORK UNAVAILABLE
+212) 
+NETWORK UNAVAILABLE
+217) 
+NETWORK UNAVAILABLE
+196) 
+You need to be signed into Xbox Live to access Xbox Live features.
+218) 
+You need to be signed into Xbox Live to access Xbox Live features.
+230) 
+You need to be signed into Xbox Live to access Xbox Live features.
+197) 
+Please connect your PlayStation®3 system to PlayStation™Network
+213) 
+Please connect your PlayStation®3 system to PlayStation™Network
+219) 
+Please connect your PlayStation®3 system to PlayStation™Network
+198) 
+Please connect your PlayStation®4 computer entertainment system to PlayStation™Network
+214) 
+Please connect your PlayStation®4 computer entertainment system to PlayStation™Network
+220) 
+Please connect your PlayStation®4 computer entertainment system to PlayStation™Network
+199) 
+Please connect your Device to the Internet
+215) 
+Please connect your Device to the Internet
+221) 
+Please connect your Device to the Internet
+200) 
+Please connect to the Internet
+216) 
+Please connect to the Internet
+222) 
+Please connect to the Internet
+201) 
+TRY AGAIN LATER
+209) 
+TRY AGAIN LATER
+202) 
+There is no content available for download at this time. Please try again later.
+203) 
+UNABLE TO WRITE DATA
+204) 
+There was a problem trying to save a downloaded file to disk. You may be low on space.
+205) 
+FAILED
+206) 
+Content failed to download.
+207) 
+ALREADY INSTALLED
+208) 
+Content Already Installed!
+210) 
+BUY EPISODE 1
+211) 
+Purchase Episode 1 first!
+223) 
+DLC NOT FOUND
+224) 
+Could not find DLC.
+225) 
+UNABLE TO CONNECT
+364) 
+Unable to Connect
+553) 
+Unable to Connect
+226) 
+TIMED OUT
+227) 
+Timed out connecting or waiting for response from server.
+228) 
+UNSUPPORTED
+229) 
+The purchase system is not supported at all on the current platform.
+231) 
+Check Availability
+232) 
+Continue {EPISODE NUMBER}
+263) 
+Continue
+339) 
+Continue
+353) 
+Continue
+233) 
+Download {EPISODE NUMBER}
+276) 
+Download
+234) 
+Install {EPISODE NUMBER}
+289) 
+Install
+235) 
+Purchase {EPISODE NUMBER}
+236) 
+Restart {EPISODE NUMBER}
+237) 
+Start {EPISODE NUMBER}
+238) 
+PARTIALLY DOWNLOADED
+239) 
+AUDIO/VIDEO SETTINGS
+240) 
+SELECT A SLOT TO PASTE
+241) 
+COPYING
+267) 
+Copying
+242) 
+VIEW CREDITS
+243) 
+CROWD PLAY SETTINGS
+244) 
+SELECT A SLOT TO DELETE
+245) 
+GAMEPLAY SETTINGS
+246) 
+GRAPHICS SETTINGS
+248) 
+SELECT A SLOT TO RENAME
+249) 
+SAVE FILES
+315) 
+Save Files
+250) 
+SETTINGS
+317) 
+Settings
+251) 
+HOW TO PLAY
+264) 
+How to play
+252) 
+CONTROLS
+265) 
+Controls
+253) 
+Accept
+254) 
+Achievements
+255) 
+Trophies
+256) 
+Anti-Aliasing
+257) 
+Apply
+258) 
+Audio/Video
+259) 
+Buy!
+336) 
+Buy
+260) 
+Cancel
+337) 
+Cancel
+352) 
+Cancel
+443) 
+Cancel
+261) 
+Cloud Save
+266) 
+Copied
+268) 
+Credits
+269) 
+Crowd decides!
+271) 
+Current Save
+272) 
+Delete
+341) 
+Delete
+355) 
+Delete
+366) 
+Delete
+273) 
+Disable Cloud Save
+274) 
+Display Game Code
+275) 
+Display Style
+277) 
+Downloading
+278) 
+Empty
+279) 
+Enable
+280) 
+Episode 1
+281) 
+Episode 2
+282) 
+Episode 3
+283) 
+Exit Demo
+284) 
+Exit Game
+285) 
+Gameplay
+286) 
+Graphics
+287) 
+High
+288) 
+Host decides
+290) 
+Installed
+291) 
+Invert Y
+292) 
+Join
+293) 
+Large
+294) 
+Low
+295) 
+Main Menu
+370) 
+Main Menu
+296) 
+Medium
+297) 
+Minimal
+298) 
+No
+299) 
+No, thank you
+356) 
+No, thank you
+300) 
+Off
+301) 
+OK
+302) 
+On
+303) 
+Play Trial
+304) 
+Rename
+345) 
+Rename
+358) 
+Rename
+305) 
+Resolution
+306) 
+Restart Demo
+385) 
+Restart Demo
+307) 
+Restart Episode
+383) 
+Restart Episode
+308) 
+Restore
+309) 
+Restore Purchases
+310) 
+Resume Game
+346) 
+Resume Game
+311) 
+Save 1
+312) 
+Save 2
+313) 
+Save 3
+314) 
+Save 4
+316) 
+Rename save slot
+318) 
+Shadow Quality
+319) 
+Small
+320) 
+Standard
+321) 
+Start Episode
+322) 
+Display Subtitles
+323) 
+Subtitle Size
+324) 
+Texture Quality
+325) 
+Try Again
+326) 
+Unavailable
+327) 
+Unlock Episode 1
+328) 
+Master Volume
+329) 
+Music Volume
+330) 
+Full Screen
+331) 
+Yes
+332) 
+<ui_legend_faceButtonDown.d3dtx:-6> Select       <ui_legend_faceButtonRight.d3dtx:-6> Cancel       <ui_legend_faceButtonUp.d3dtx:-6> Change Profile
+333) 
+<ui_legend_faceButtonDown.d3dtx:-6> Select       <ui_legend_faceButtonRight.d3dtx:-6> Cancel
+334) 
+Apply Changes
+349) 
+Apply Changes
+335) 
+Back
+338) 
+Change Profile
+340) 
+Copy
+354) 
+Copy
+342) 
+Exit
+343) 
+Previous Menu
+344) 
+Refresh Stats
+347) 
+Select
+348) 
+Select Profile
+350) 
+<ui_legend_backIcon.d3dtx:-10>Back
+351) 
+^imageScale:0.5^<ui_legend_backIcon.d3dtx:-10>Previous Menu
+359) 
+Restoring Purchases
+360) 
+Cloud Sync Conflict
+361) 
+Cloud Save Temporarily Locked
+362) 
+Local Save Out of Sync
+363) 
+We’ve detected multiple devices playing this game and the version on the server is different from this device’s version. “Continue” will try to perform a Cloud Save operation. “Disable Cloud Save” will turn off Cloud Saves and you can continue to play with this device’s save file.
+367) 
+Are you sure you want to delete: {SAVE FILE NAME}?
+369) 
+An error occurred. Please try again!
+371) 
+New Content Downloaded
+372) 
+Update to DLC is available
+373) 
+An update to this content is available. Would you like to download it?
+374) 
+Are you sure you want to Copy over {SAVE FILE NAME}? It will overwrite all data in this slot!
+375) 
+Overwrite
+376) 
+Partial Download
+377) 
+This Episode was Partially Downloaded.  
+Choose to Either Resume Download or Delete Partial Download.
+378) 
+There are Partial Downloads detected. Please resolve the issue by going to “Episodes” and choosing to resume downloads or delete partial downloads.
+379) 
+Quit Game
+380) 
+Are you sure you want to quit the game and return to the Xbox Dashboard? All unsaved progress will be lost.
+381) 
+Are you sure you want to quit the game and return to the desktop? All unsaved progress will be lost.
+382) 
+Unfinished Episodes
+384) 
+Restarting the Episode will cause all data past the selected Episode to be lost.
+386) 
+Are you sure you want to restart the demo?
+387) 
+Settings Changed
+388) 
+You have changed your settings.  Save these changes?
+390) 
+Are you sure you want to uninstall this episode? You will not lose any save data and you can always reinstall the episode.
+391) 
+Uninstall Failed
+392) 
+Unable to uninstall this episode at this time.
+393) 
+Warning!
+394) 
+Talking to the server...
+396) 
+Downloading from server...
+397) 
+Purchasing content...
+398) 
+Uninstalling episodes frees up your HD space, but doesn’t delete your saves. As long as you don’t delete the app, you won’t lose your saves.
+399) 
+Getting latest game stats from server...
+400) 
+Updating content
+401) 
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.85^Thank you for playing!
+^^
+Continue your episode journey by upgrading to the full episode.
+402) 
+^imageScale:1.25^<ui_popupSplash_endOfPressDemo.d3dtx:-50>
+403) 
+EPISODE 1
+^font:GameplayDisplayLarge.font^REALM OF SHADOWS
+519) 
+EPISODE 1
+^font:GameplayDisplayLarge.font^REALM OF SHADOWS
+404) 
+EPISODE 2
+^font:GameplayDisplayLarge.font^CHILDREN OF ARKHAM
+520) 
+EPISODE 2
+^font:GameplayDisplayLarge.font^CHILDREN OF ARKHAM
+405) 
+EPISODE 3
+^font:GameplayDisplayLarge.font^NEW WORLD ORDER
+521) 
+EPISODE 3
+^font:GameplayDisplayLarge.font^NEW WORLD ORDER
+406) 
+Refresh to download the latest choices.
+407) 
+Anti-aliasing smooths out geometry’s hard edges.
+Disable to improve performance.
+408) 
+Creates and displays a Crowd Play game code, allowing other players to join your game using an internet enabled second screen device.
+409) 
+Displays the game code during gameplay allowing others to join your game while in progress.
+410) 
+Standard shows all points of interests in the environment, whereas Minimal hides them.
+411) 
+Play the game in fullscreen mode.
+412) 
+Determines which dialog choice is selected, the Host’s or the choice with the most votes.
+413) 
+Flips the Y-axis of the on screen reticle so it moves in the opposite direction of your input device.
+575) 
+Flips the Y-axis of the on screen reticle so it moves in the opposite direction of your input device.
+414) 
+Adjust the resolution and aspect ratio.
+415) 
+Displays subtitles at the bottom of the screen.
+416) 
+Adjust the size of the subtitles.
+417) 
+Adjust resolution of textures.
+Lower to improve performance.
+418) 
+Adjust the music volume.
+419) 
+Enter your Email
+420) 
+Create an account by entering Email and Password
+421) 
+Enter your Password
+422) 
+Sign In with your Email and Password
+423) 
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.8^Continue the journey with Batman
+^^
+More info at Telltale.com/batman
+424) 
+Logged in
+425) 
+Not logged in
+^font:MenuDisplaySmall.font^^glyphScale:0.7^EXTRAS > TELLTALE ACCOUNT
+426) 
+Stop
+427) 
+Byte
+428) 
+Bytes
+429) 
+KB
+430) 
+MB
+431) 
+GB
+432) 
+Calculating...
+433) 
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.8^The Season Pass is your best value!
+^^
+Save money and be the first to get new episodes with the Season Pass.
+434) 
+Buy just this Episode
+435) 
+Buy the Season Pass
+437) 
+Proceeding...
+438) 
+^imageScale:0.7^<ui_legend_iconFacebook.d3dtx:-12> Facebook
+439) 
+^font:MenuDisplayMedium^^glyphScale:0.8^Experience My Batman Story
+^font:MenuBodySmall^^glyphScale:0.85^Telltale has an established track record of creating award-winning content for some of the best properties in the world such as: Minecraft, Game of Thrones and The Walking Dead.
+^color:#666666^www.Telltale.com/batman
+440) 
+^font:MenuDisplaySmall^^color:#3b5998^Telltale will NEVER post without your permission!
+
+^font:MenuBodySmall^^color:#666666^This one-time setup, will link your Facebook profile with your Telltale Account. From now on, you will be able to quickly post to Facebook from any Telltale game!
+441) 
+I agree to the Terms of Service
+^glyphScale:.8^www.telltale.com/tos/
+478) 
+I agree to the Terms of Service
+^glyphScale:.8^www.telltale.com/tos/
+442) 
+Submit
+446) 
+name@example.com
+447) 
+******
+490) 
+...
+448) 
+www.telltale.com/tos/
+449) 
+TelltaleFriend
+450) 
+Experience my Telltale story!
+451) 
+share.Telltale.com
+452) 
+month %d, %Y
+453) 
+January
+454) 
+February
+455) 
+April
+456) 
+May
+457) 
+June
+458) 
+July
+459) 
+August
+460) 
+September
+461) 
+October
+462) 
+November
+463) 
+December
+464) 
+March
+465) 
+^font:font:MenuBodySmall^^glyphScale:0.8^No, thank you
+466) 
+Facebook Password
+467) 
+Facebook Email
+468) 
+Edit
+488) 
+Edit
+469) 
+Publish
+485) 
+Publish
+470) 
+Disable
+471) 
+Reset Password?
+474) 
+Reset Password
+472) 
+If you wish to reset your password, we will send you a link, to the email address that you registered with, that will allow you to create a new password.
+473) 
+I forgot my password...
+475) 
+Password Reset
+476) 
+An email has been sent to your email address. Please attempt to login with your new password after following the directions in the email.
+477) 
+<ui_legend_menuButton.d3dtx:-6> Cancel
+479) 
+Begin
+480) 
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.8^
+483) 
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.8^
+481) 
+^font:MenuBodySmall.font^^color:#acacac^^glyphScale:1.15^
+482) 
+^font:MenuBodySmall.font^^color:#acacac^
+484) 
+Play/Stop Video
+486) 
+Post to Facebook
+487) 
+Edit Post
+489) 
+Intro to Crowd Play
+491) 
+I am the night
+492) 
+I’m the world’s greatest detective
+493) 
+I’m Batman
+494) 
+Touch not supported
+495) 
+Crowd Play does not support touch screen controls on this device. Touch controls will be disabled for the duration of the Crowd Play session. Please proceed with either a mouse & keyboard or controller.
+496) 
+Could Not Post to Facebook
+498) 
+Could Not Post to Facebook
+497) 
+The message could not be posted to your Facebook Wall at this time.  Please try again later.
+499) 
+The message could not be posted to your Facebook Wall at this time.  Please try again later.
+500) 
+Sent!
+501) 
+Your post has been sharedl!
+502) 
+Retry
+503) 
+Toggle to World
+504) 
+Toggle to Crowd
+505) 
+<ui_telltaleCrowdPlay_dialogCount01.d3dtx:-2>more
+506) 
+Rewind
+507) 
+Data Not Found
+508) 
+Some data needed to share this moment was not found.  Please try again later.
+509) 
+Getting latest video data...
+510) 
+Ep1
+511) 
+Ep2
+512) 
+Ep3
+513) 
+Ep4
+514) 
+Ep5
+515) 
+Share this choice
+516) 
+Share all your choices
+517) 
+^font:GameplayDisplaySmall.font^IDENTIFIED INDIVIDUALS
+^font:GameplayDisplayLarge.font^CODEX ENTRIES
+518) 
+Continue to “Next Time On”
+524) 
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.8^Visit Telltale.com Online!
+^^
+This feature is not available at this time. Please try again later. Please visit ^color:#7ab1cc^Telltale.com/support^^ for more information.
+525) 
+Reset Social Account
+526) 
+Reset Social Account
+527) 
+Are you sure you want to reset your social account? This means the next time you want to post, you will have to log in again.
+528) 
+|  ^imageScale:0.8^<ui_carousel_checkBoxMarked.d3dtx:-7>^color:#3399cc^ CROWD PLAY: ON
+529) 
+|  ^imageScale:0.8^<ui_carousel_checkBox.d3dtx:-7>^color:#ffcc66^ CROWD PLAY: OFF
+530) 
+You’re One Step Away from Sharing Your Story
+531) 
+Batman just needs your permission to post to Facebook.  You will be redirected to the web to finish the post there.
+532) 
+<ui_colorSelectButton1.d3dtx:-5> Blue
+533) 
+<ui_colorSelectButton2.d3dtx:-5> Red
+534) 
+<ui_colorSelectButton3.d3dtx:-5> Yellow
+535) 
+<ui_colorSelectButton4.d3dtx:-5> Purple
+536) 
+^glyphScale:0.8^^font:MenuDisplayMedium.font^
+537) 
+^glyphScale:0.85^^font:MenuBodySmall.font^
+539) 
+Crowd Play On/Off
+540) 
+SELECT A BAT-TECH COLOR
+541) 
+Your Bat-tech color determines the look of Batman’s gadgets, gear and UI.
+542) 
+You are Logged In
+543) 
+For more information, visit Telltale.com/profile
+544) 
+Create a Telltale Account
+545) 
+Get access to exclusive features and be the first to know about new episodes.
+546) 
+Get Cloud Saving
+547) 
+Create a Telltale Account and gain access to Cloud Saving and more.
+548) 
+Cloud Save: Enabled
+549) 
+Cloud Save: Disabled
+550) 
+Logged into Telltale.
+551) 
+Say something about this...
+555) 
+Who Decides?
+556) 
+Host
+557) 
+Crowd
+558) 
+Return to Extras
+559) 
+Everybody’s vote counts
+560) 
+Thumbs up/down to show how you feel
+561) 
+Back to Episodes Menu
+562) 
+^color:#6d1616^^font:MenuDisplayLarge^Invite your Friends
+^^^glyphScale:.1^
+^^Crowd Play mode allows a group of people to make story choices together.
+^glyphScale:.4^
+^^Participants get a game code, they watch your screen and vote with their own devices.
+^glyphScale:.4^
+^^Note: Playing via Twitch, YouTube or other streaming services is not advised due to network latency issues.
+^glyphScale:.4^
+^^^font:MenuDisplaySmall^To activate Crowd Play, go to the Episodes Menu
+564) 
+Your current connection does not allow for streaming video playback for {VIDEO NAME}. Please check your network connection and try again. Visit Telltale.com/support for more information.
+565) 
+EDIT YOUR POST
+566) 
+The Wolf Among Us
+^font:MenuBodyMedium.font^Season Pass
+567) 
+The Wolf Among Us is a five episode series based on Fables, an award-winning comic book by Bill Willingham.
+568) 
+Batman Episodes
+569) 
+Engaging narrative experiences where your choices tailor the story to make it your own.
+
+Get more from Telltale’s catalogue of award winning games.
+570) 
+More Telltale Games
+571) 
+Visit Xbox Store
+590) 
+Visit Xbox Store
+572) 
+The Wolf Among Us
+585) 
+The Wolf Among Us
+573) 
+Next Level Story Telling
+574) 
+Videos & Extras
+576) 
+Flips the Y-axis of the on screen reticle so it moves in the opposite direction of your right stick.
+577) 
+Network Connection Lost
+578) 
+The game is having a problem communicating with the Telltale server. Please check your internet connection, or visit Telltale.com/support for more information.
+579) 
+Continue Without Crowd Play
+580) 
+Season Premiere Trailer
+581) 
+TRAILER  |  1:09
+582) 
+As Bigby “THE big bad” Wolf, you will discover that a brutal, bloody murder is just a taste of things to come.
+583) 
+Trailer
+584) 
+5 Episodes Available Now
+586) 
+The Wolf Among Us
+^font:MenuBodyMedium.font^Episode 1
+587) 
+This feature requires a login to a Telltale Account.
+588) 
+For Crowd Play questions and support, go to www.telltale.com/crowdplay/support
+589) 
+Visit PlayStation®Store
+600) 
+Visit PlayStation®Store
+592) 
+Game of Thrones
+^font:MenuBodyMedium.font^^glyphScale:.8^A Telltale Series
+593) 
+A six part episodic game series set in the world of HBO’s groundbreaking TV show, where you determine the fate of House Forrester through the choices you make.
+594) 
+^imageScale:1.1^<ui_legend_iconFacebook.d3dtx:-8> Share
+595) 
+Are your drivers up to date?
+596) 
+To experience the best possible performance, make sure that your graphics card drivers are up to date.
+597) 
+High Performance
+598) 
+High Quality
+599) 
+Crowd Play does not support touch screen controls on this device.
+601) 
+Exit Trial
+602) 
+Critical Patch Required
+603) 
+A critical patch is required to continue. Please select ‘Accept’ to proceed.
+604) 
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.9^Get the full experience!
+^^
+Use a Telltale account to get access to exclusive videos & new features like Videos & Sharing.
+
+More on Telltale account perks at ^color:#7ab1cc^Telltale.com/accounts
+605) 
+Visit Store
+606) 
+^imageScale:0.85^<ui_legend_iconFacebook.d3dtx:-12>
+607) 
+^imageScale:1.2^<ui_legend_iconFacebook.d3dtx:-8>
+608) 
+^imageScale:1^<ui_legend_iconExit.d3dtx>
+609) 
+^imageScale:1^<ui_legend_iconPause.d3dtx>
+610) 
+^imageScale:1^<ui_legend_iconPlay.d3dtx>
+611) 
+<ui_legend_editIcon.d3dtx:-10>Edit
+612) 
+<ui_legend_publishIcon.d3dtx:-10>Publish
+613) 
+Purchase the Multi-Pack
+614) 
+Purchase the Multi-Pack to own the entire 5-episode series.
+615) 
+The Wolf Among Us
+^font:MenuBodyMedium.font^Multi-Pack
+616) 
+Buy the Multi-Pack
+617) 
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.8^Get the Multi-Pack
+^^
+Continue the journey with Batman. Get the final four episodes of the series.
+ More info at ^color:#7ab1cc^Telltale.com/batman
+618) 
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.8^The Multi-Pack is your best value!
+^^
+Save money and be the first to get new episodes with the Multi-Pack.
+619) 
+Multi-Pack
+620) 
+Buy All Episodes
+621) 
+Buy All Episodes
+622) 
+<ui_legend_buyAllIcon.d3dtx:-10>Buy All Episodes
+623) 
+^imageScale:0.5^<ui_legend_moreIcon.d3dtx:-10>More Options
+624) 
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.9^Get the full experience!
+^^
+Use a Telltale account to get access to new features & exclusive content.
+
+More on Telltale account perks at ^color:#7ab1cc^Telltale.com/accounts
+625) 
+Achievements <ui_GooglePlayGameFeatures:-10>
+626) 
+^color:#6d1616^^font:MenuDisplayLarge^Join the Game
+^^Join on your phone, tablet or PC by going to
+^color:black^^font:MenuDisplayMedium^Telltale.com/crowdplay
+
+^^Game code: ^color:black^^font:MenuDisplayMedium^{RoomCode}
+
+^^People in the crowd: ^color:black^^font:MenuDisplayMedium^{RoomPopulation}^^ <ui_telltaleCrowdPlay_crowdPlayRoomCount.d3dtx>
+627) 
+Render Quality
+628) 
+Adjust lighting and shadow quality.
+Lower to improve performance.
+629) 
+Preparing shaders for your device...
+630) 
+Preparing
+631) 
+Your Batman/Bruce was...
+632) 
+Brutal
+633) 
+Merciful
+634) 
+Cunning
+635) 
+Honest
+636) 
+Self-reliant
+637) 
+Collaborative
+638) 
+Pragmatic
+639) 
+Compassionate
+640) 
+Combat Proficiency
+641) 
+Gotham saw a man that was uncompromising, forceful, and unafraid to employ extreme violence to effectively achieve his ends.
+642) 
+It takes heroic restrainst when dealing with criminals, keeping oneself from taking it too far or inflicting unnecessary pain and suffering.
+643) 
+Brutal’s description comes here. Brutal’s description comes here.
+Brutal’s description comes here.
+644) 
+Sometimes one has to think like a criminal to catch a criminal, using deviousness or deception in order to protect the people of Gotham.
+645) 
+Being honest - committing oneself to truth in thought, word, and deed - is the hallmark of a hero, for without honesty there is no trust.
+646) 
+In the war against crime, one must be self-reliant and ever ready, able to react immediately and independently to threats as they arise.
+647) 
+^glyphScale:0.85^Defending Gotham is more than any single person should take upon themselves; it often requires a team of close friends and associates to be a powerful force for good.
+648) 
+^glyphScale:0.85^Doing the right thing is seldom the popular thing but when it comes to defending Gotham and its people, doing what must be done means making difficult decisions.
+649) 
+^glyphScale:0.85^The crusade to defend Gotham is about helping people, being a beacon of hope in a dark world, to use one’s strength to lift people up instead of just beating villains down.
+650) 
+Highest Quality
+651) 
+Balanced Performance
+652) 
+Batman Season Overview
+^font:MenuBodySmall.font^Click to view your performance.
+653) 
+Batman Season Overview
+^font:MenuBodySmall.font^Analyzing your performance...
+654) 
+Get My Season Overview
+655) 
+Batman Season Overview Unavailable
+
+^font:MenuBodySmall.font^To view your season performance,
+please complete all 5 episodes.
+656) 
+Update {EPISODE NUMBER}
+657) 
+<ui_carousel_updateRequired.d3dtx:-7> UPDATE REQUIRED
+658) 
+Build Version: {BUILD_VERSION}
+Telltale Engine Version: {ENGINE_VERSION}
+
+Software code © 2016-17 Telltale, Inc. All other elements ©2016-17 DC Comics.  BATMAN and all related characters, their distinctive likenesses, and related elements are the property of DC Comics.  ™ & © 2016-17.
+659) 
+ABOUT
+660) 
+About
+661) 
+Depth Of Field
+662) 
+Ambient Occlusion
+663) 
+Simulation of the range of focus. Objects outside the range of focus are blurred.
+Lower or disable to improve performance.
+664) 
+Set the quality of self-shadowing from ambient lighting for objects in the scene.
+Lower or disable to improve performance.
+665) 
+Ultra
+666) 
+^glyphScale:0.7^

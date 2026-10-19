@@ -1,0 +1,1376 @@
+﻿1) 
+They’ll live.
+2) 
+I’m getting worse.
+3) 
+Get me home.
+4) 
+ALT -- [Punch him]
+5) 
+[Walk Away]
+14) 
+[Get out of car]
+88) 
+
+108) 
+[Ram the Barricade]
+109) 
+[Pay Off the Enforcer]
+119) HARVEY
+[over P.A.]
+124) 
+
+173) 
+
+200) 
+
+230) 
+
+297) 
+[Ignore Text]
+298) 
+[Ignore Text]
+312) 
+[Ignore Text]
+354) SELINA
+[TEXT]...
+360) SELINA
+[TEXT];-)
+503) 
+
+513) 
+[Ignore Text]
+564) 
+
+646) 
+...
+648) 
+...
+6) 
+It just keeps getting worse...
+7) 
+I need to stop this.
+8) 
+Why aren’t the police helping?
+9) 
+Ram it!
+33) BRUCE
+[angry]Ram it!
+10) 
+Help me clear a path.
+11) 
+Wait here. I’ll take care of it.
+12) 
+I haven’t taken anything from you.
+13) 
+What the hell do you want?
+15) 
+Just calm down.
+16) ALFRED
+[re: the rioters] Parts of the city seem to have gone mad...
+17) ALFRED
+Whatever it was that people were exposed to has caused increased volatility.
+18) ALFRED
+[alt]Have they not, Master Bruce...?
+19) BRUCE
+[increasingly tense]It just keeps on getting worse.  And worse.  And worse.  Everything.
+20) BRUCE
+[alt]Maybe it’s crazy to think one man can make a difference.
+21) BRUCE
+[increasingly tense]I need to stop all this.
+22) BRUCE
+[distraught]The Police... Gordon... They’re powerless to help- But someone has to.
+23) BRUCE
+[insistant]I have to
+24) BRUCE
+[increasingly tense]Why aren’t the police doing anything to help?
+25) BRUCE
+[alt. mad]The city is falling apart and Dent’s just standing by, letting it happen?
+26) ALFRED
+That’s it, sir, just take it easy.  You need to build your strength.
+27) ALFRED
+[alt]I don’t think the city has seen anything like this before.
+28) BRUCE
+[drug-induced rage]Why the hell are you stopping?!?
+29) BRUCE
+Why are you stopping?!?
+30) ALFRED
+[calmly]{SkepticalB}Our path is blocked.  I {FaceAccent}can’t proceed any further-
+31) ALFRED
+[looking around]-and there does not seem to enough room to turn the vehicle around.
+32) ALFRED
+[alt, looking around]-and turning the vehicle around no longer seems like an option.
+34) BRUCE
+[alt,angry]Ram the barricade!
+35) ALFRED
+[calm]Sir, we are not in the Batmobile-
+36) BRUCE
+[angry Batman]I SAID RAM IT, ALFRED.
+37) ALFRED
+[alt]I’m afraid we are stuck-
+38) ALFRED
+[alt]We need to get the tire clear.
+39) BRUCE
+[agitated]Help me get the path clear-
+40) ALFRED
+Unless we can clear a way forward.
+41) BRUCE
+Stay where you are, I’ll take care of this.
+42) ALFRED
+[alt]I’ll drive the car past-
+43) RIOTER01
+[taunt]Is that Bruce freakin’ Wayne?!?
+44) RIOTER02
+[taunt]I thought you were supposed to be locked in Arkham were you belong!
+45) RIOTER03
+[threatening] Lucky running into you... since we’re taking back what’s ours!
+46) BRUCE
+[alt, flippant]Just hold your horses.
+47) BRUCE
+[flippant]Calm yourselves.
+48) BRUCE
+[angier]You worthless leeches.
+49) RIOTER01
+Screw you, buddy!
+50) BRUCE
+[nicely] I haven’t take anything of yours, gentlemen.
+51) BRUCE
+[mean]-but I’m about to rob you wastes of life of your ability to stand-up straight.
+52) RIOTER02
+We’ll see about that, rich boy!
+53) BRUCE
+[angry disdain]What the hell do you morons want?!?
+54) RIOTER03
+To bust your hoity-toity head open!
+55) RIOTER03
+To bust your face in, pretty boy!
+56) RIOTER02
+[to Rioter3]You think he’s pretty? Really? That why you want to bust his face in-?
+57) RIOTER03
+[flustered]Shut up!
+58) RIOTER02
+[taunting]I’m just saying.
+59) RIOTER02
+[threatening]And maybe we should start with whatever’s in your wallet-!
+60) RIOTER03
+[excited]And that fancy car.
+61) RIOTER02
+Whatthe-!
+62) BRUCE
+[BATMAN VOICE]If you commit crimes, you deserve to be treated like criminals-
+63) BRUCE
+[BATMAN VOICE]If you break the law, you deserve to be BROKEN.
+64) ALFRED
+[alt]Master Bruce...?
+67) ALFRED
+[alt]Master Bruce?
+65) ALFRED
+[alt]What are you feeling, sir?
+66) ALFRED
+[alt]Sir?
+110) ALFRED
+{ConfusedA}Sir?
+679) ALFRED
+{ConfusedA}Sir?
+68) BRUCE
+[shocked]I... lost control.
+69) ALFRED
+[alt]It is not your fault, sir.
+70) BRUCE
+Those thugs’ll live.
+71) BRUCE
+[not at ease]Yes, I suppose they will.
+72) BRUCE
+[not at ease]Though not very comfortably for the foreseeable future, I would imagine.
+73) BRUCE
+[alt]We need to go make that antidote, Alfred.
+74) ALFRED
+Yes, sir, that does seem like quite a good idea.
+75) ALFRED
+Let us get you back to the Manor, sir.
+76) BRUCE
+Take me home, Alfred.
+77) ALFRED
+Yes, sir. Right away.
+78) ALFRED
+[alt]Very good, sir.
+79) ALFRED
+[alt]Very well, sir.
+80) ALFRED
+[alt]Very well, sir.
+81) ALFRED
+[alt]Very well, sir.
+82) ALFRED
+Alright, then-
+83) ALFRED
+I do believe he has had enough, sir.
+84) ALFRED
+Exiting the car may not be safe option at the moment, sir.
+85) BRUCE
+Then be quick and keep your head down.
+86) ALFRED
+I’ll be here if you need me, sir.
+87) POLICEOFFICER
+[through megaphone]This area is to be cleared by the order of Mayor Dent!
+89) NEWSCASTER
+[promo mode]The ongoing fallout of the Children of Arkham leaks continues with futher resignations, like that of ousted Wayne Enterprises CEO Bruce Wayne, expected this week... Will bank closings next? Stay tuned.
+90) NEWSCASTER
+Coming up next, we talk to psychiatrist Dr. Hugo Strange about how much of a role justified outrage is playing in the rioting going on throughout Gotham-
+91) ALFRED
+[calming]There’s nothing you can do about it right now, Master Bruce.
+92) ALFRED
+Please try to relax.
+93) BRUCE
+[disconnected]The city needs me, Alfred... I need to stop this.
+94) BRUCE
+[alt]It never stops.
+95) BRUCE
+[alt]It never, ever stops.
+96) ALFRED
+[alt]Mayor Dent seems to be using the Gotham Police Department only to do his own bidding-
+97) ALFRED
+With the city in such chaos, the Police Department is spread too thin- at this point, there is little they can do help.
+98) BRUCE
+We need to get out of here, Alfred.
+99) BRUCE
+[alt]We need to get back home, Alfred.
+100) BRUCE
+It’s getting worse.
+101) RIOTER01
+[mad]It’s guys like him that are the reason for all this!
+102) DIRDIR
+(Mark Darin, Fri Aug 19 12:56:45 2016) as they turn a corner, they come across a road block.
+103) 
+Do whatever they say
+104) 
+Let me do the talking
+105) 
+Tell them to let us through.
+106) 
+Let me through.  It’s an emergency.
+107) 
+Do you know who I am?
+199) 
+Do you know who I am?
+111) BRUCE
+{SadB}Just get us home, Al.  {FaceAccent}{SternA}Fast.
+680) BRUCE
+{SadB}Just get us home, Al.  {FaceAccent}{SternA}Fast.
+112) HARVEY
+[over Radio]Earlier today, my office was informed that Bruce Wayne was released from Arkham Asylum in spite of the recommendations of the staff...
+113) HARVEY
+{ConfusedB}Mr. Wayne was released after inciting a riot after {AngryA}assaulting an emotionally disturbed and {FaceAccent}mentally ill patient. {ConfusedA}Doctors believe he should be fully commited- {FaceAccent}not released on his own recognizance.
+114) HARVEY
+[alt]Believe me!
+115) HARVEY
+{ConfusedB}Mr. Wayne is accused of allowing another patient to be {FaceAccent}{AngryA}critically harmed and may have actually {FaceAccent}incited the incident!  {ConfusedA}Clearly, my old friend is out of control and should have remained under medical care, {CovertA}not back out {FaceAccent}roaming our Gotham streets...
+116) HARVEY
+{ThinkingA}But regrettably some aspects of the Wayne family’s {FaceAccent}corruption {AngryA}seem to live on.
+179) HARVEY
+{ThinkingA}But regrettably some aspects of the Wayne family’s {FaceAccent}corruption {AngryA}seem to live on.
+117) HARVEY
+[over P.A.]{AngryB}Bruce Wayne is now a {FaceAccent}criminal, {AngryA}just like Lady Arkham or any member of the {FaceAccent}Children of Arkham.  {AngryB}They think the law doesn’t aply to them.
+118) HARVEY
+{ConfusedA}[over P.A.]-but they’re not above {FaceAccent}MY LAW!
+120) HARVEY
+{ThinkingA}[over P.A.]{FaceAccent}Today I will be enacting a series security checkpoints throughout the city patrolled by {HappyA}my {FaceAccent}private team of enforcers.
+121) STUB
+(Mark Darin, Fri Aug 19 12:55:09 2016) harvey: Citizens of Gotham, this must stop.  Together we can put and end to this kind of elitism.  This is our city, and no one should stand above you!  Not Me. Not The Children of Arkham...
+122) HARVEY
+{ConfusedB}[over P.A.]Not me. {AngryA}Not The {FaceAccent}Children of Arkham...
+123) HARVEY
+[over Radio]{AngryB}And certainly not {FaceAccent}Bruce Wayne.
+183) HARVEY
+[over Radio]{AngryB}And certainly not {FaceAccent}Bruce Wayne.
+125) BRUCE
+I’ll do the talking, Alfred.
+126) BRUCE
+{DisgustA}Why are you {FaceAccent}stopping?
+127) ALFRED
+Certainly, sir.
+128) BRUCE
+Just do whatever he says, Alfred.
+129) BRUCE
+We need to stay as inconspicuous as possible...
+130) ALFRED
+Of course, Master Bruce. Best to keep you as far out of Mister Dent’s spotlight as possible.
+131) ALFRED
+This officer seems to want something of us, sir.
+132) BRUCE
+Tell them to let our car through-
+133) ALFRED
+I will tell them it is an emergency, sir.
+134) ALFRED
+I’m sure we will know what the hold-up is soon enough...
+135) POLICEOFFICER
+You’re gonna hafta turn this thing around.  This whole area’s gotta be blocked off.
+136) POLICEOFFICER
+Mayor Dent’s orders.
+283) ENFORCER01
+[ALT] Mayor Dent’s orders.
+534) ENFORCER01
+Mayor Dent’s Orders.
+605) ENFORCER01
+Mayor Dent’s orders.
+137) BRUCE
+Why is the area blocked?
+195) BRUCE
+Why is the area blocked?
+138) POLICE OFFICER
+[annoyance]Didn’t you hear me say “Mayor Dent’s orders?!?“
+196) POLICEOFFICER
+[annoyance]Didn’t you hear me say “Mayor Dent’s orders?!?“
+139) POLICE OFFICER
+[dismissive]That’s all you got to know!
+197) POLICEOFFICER
+[dismissive]That’s all you got to know!
+140) BRUCE
+I need to get past, it’s an emergency.
+141) POLICE OFFICER
+[nope]Sorry, pal: no can do.
+152) POLICE OFFICER
+[nope]Sorry, pal: no can do.
+142) POLICE OFFICER
+[alt]Go have your emergency somewhere else.
+153) POLICE OFFICER
+[alt]Go have your emergency somewhere else.
+188) POLICE OFFICER
+[alt]Go have your emergency somewhere else.
+143) POLICE OFFICER
+C’mon, buddy.  Let’s getta move on.
+187) POLICE OFFICER
+C’mon, buddy.  Let’s getta move on.
+144) POLICE OFFICER
+I don’t got all day.
+189) POLICE OFFICER
+I don’t got all day.
+145) POLICE OFFICER
+What are ya, deaf or something?
+193) POLICE OFFICER
+What are ya, deaf or something?
+146) POLICE OFFICER
+I told you to move along.
+194) POLICE OFFICER
+I told you to move along.
+147) BRUCE
+Do what he says...
+148) ALFRED
+[to Police Officer]Certainly, officer. We will move along and find an alternate route.
+149) ALFRED
+We will move along and find an alternate route.
+150) POLICE OFFICER
+Good.  Hurry it up.
+151) ALFRED
+[to Police Officer]There is an emergency, officer.  We HAVE to get through.
+154) ALFRED
+[to Police Officer] Yes, officer.
+155) ALFRED
+We will turn around and take an alternate route.
+156) BRUCE
+{AngryA}{FaceAccent}Ram the barricade.
+157) ALFRED
+[skeptical]{SkepticalA}This {FaceAccent}isn’t the Batmobile...
+158) PROTESTER01
+[realizing]I think I heard that cop say it’s Bruce Wayne!
+159) PROTESTER2
+That guy belongs in Arkham!
+160) PROTESTER2
+[to Police Officer]Hey-! Lock that guy up! Arrest that jerk!
+161) POLICEOFFICER
+[half-heartedly]Alright, stop.  Stay in your cars.
+162) BRUCE
+[insistent]{AngryB}{FaceAccent}Just do it, Alfred!
+163) BRUCE
+Officer, while I have you here, can I make a donation to the Police Officers’ Fund?
+164) BRUCE
+[alt]Might it be possible to pay a toll and move on?
+165) ENFORCER01
+[what the-]{SurpriseA}{BodyAccent}What the-- HEY!
+294) ENFORCER01
+[what the-]{SurpriseA}{BodyAccent}What the-- HEY!
+166) ENFORCER01
+[smarmy]{HappyA}Sure, that’ll work.
+167) PROTESTER02
+{SurpriseA}{FaceAccent}Arrested? {AngryB}You should be locking {BodyAccent}*him* up!
+168) ALFRED
+{ConcernedA}This is turning ugly, sir- {FaceAccent}{ConfusedA}what would you like to do?
+169) ENFORCER01
+Okay, that’s enough. Get back to you cars.
+170) ENFORCER01
+[annoyed]Alright, back off. Back off, people.
+171) POLICE OFFICER
+Move along.
+172) PROTESTER01
+Guys like him are why we have to put up with crap like this!
+174) PROTESTER01
+[disgusted] Checkpoints? Private Enforcers?  Mayor Dent’s practically declared martial law!
+175) PROTESTER1
+I know, right?
+176) BRUCE
+Don’t you know who I am?
+177) POLICE OFFICER
+[smiling]Sure, I do.  You’re a guy who throws money at your problems.
+178) POLICE OFFICER
+[alt]And knows how much it costs to make them go away...
+192) ENFORCER
+[alt]And knows how much it costs to make them go away...
+180) HARVEY
+[alt][over Radio]And certainly not the son of Martha and Thomas Wayne.
+181) PROTESTER2
+[alt] I can’t believe he’s back on the street already!
+182) HARVEY
+{HappyB}Together we will finally put an end to the {AngryA}kind of {FaceAccent}elitism and chaos that plagues this city.  This is {ConfusedA}your city and {FaceAccent}no one should stand above you.
+184) HARVEY
+{ConfusedA}[disapointed]Not even old friends... {ConfusedB}like {FaceAccent}Bruce Wayne.
+185) BRUCE
+{SternA}Well I need to get past. {FaceAccent} Please let me through.
+186) ENFORCER01
+[nope]{AngryA}Sorry, pal: {FaceAccent}not that easy...
+190) BRUCE
+{AngryB}I’m sorry, do you{FaceAccent} know who I am?
+191) ENFORCER
+[smiling]  You’re a guy who throws money at your problems.
+202) ENFORCER01
+[smiling]  You’re a guy who throws money at your problems.
+198) 
+Please, let me through.
+201) ENFORCER01
+{AngryA}Come on, I don’t {FaceAccent}got all day.
+203) 
+Gordon will hear about this.
+204) 
+Try to make me!
+205) 
+How much do you want?
+206) PROTESTER01
+{AngryB}Hey, Get a move on!
+207) PROTESTER01
+[frustrated]{AngryB}What’s the {BodyAccent}hold-up here?!
+208) 
+Make them back off
+209) SPENCER
+*You* used your money and influence to get out in less than forty-eight hours.
+210) SPENCER
+Your father committed innocent people to Arkham and made sure they stayed there for the rest of their lives.
+211) SPENCER
+Your money enabled you to dodge a bullet that would’ve put any one else away for years.
+212) SPENCER
+You’re as corrupt as your father.
+213) SPENCER
+Maybe even worse.
+214) BRUCE
+I shouldn’t have been there in the first place.
+215) BRUCE
+And I’m grateful to be out.
+216) PROTESTER01
+“Shouldn’t have been in there?“ You know how many others have been in Arkham for WAY less?
+217) ALFRED
+Please, leave us be.
+218) ALFRED
+We just want to get home.
+219) SPENCER
+Hey c’mon!
+220) SPENCER
+The people have a right to know!
+223) SPENCER
+The people have a right to know!
+221) BRUCE
+Make them stop harassing me.  It’s your job.
+222) BRUCE
+I just want to go home.
+224) BRUCE
+My lawyers did their job.
+225) BRUCE
+Everyone’s entitled to the best legal defense they can buy.
+226) SPENCER
+So, you admit it. You bought your way out!
+232) PROTESTER01
+So, you admit it. You bought your way out!
+227) BRUCE
+That’s not what I said.
+228) PROTESTER01
+[Pointing a finger] Hey,your father committed innocent people to Arkham and made sure they stayed there for the rest of their lives.
+229) PROTESTER01
+You got out in less than forty-eight hours.
+231) ENFORCER01
+[seething]Must be nice to be so rich!
+288) ENFORCER01
+[seething]Must be nice to be so rich!
+233) PROTESTER02
+Hey, he’s the problem!  Not us!
+234) BRUCE
+[agitated] {AngryB}Here!
+235) BRUCE
+{SternA}{FaceAccent}This isn’t over.
+236) ENFORCER01
+{AngryA}Yeah, sure.  {FaceAccent}Take it {DisgustA}up with city hall.
+237) ENFORCER01
+That’s what I heard.
+238) HARVEY
+[over radio, combative]{ThinkingA}I’m sorry to inform you that {ConfusedA}earlier today, my {FaceAccent}FORMER friend, Bruce Wayne, {AngryA}pulled enough strings to get himself released- {FaceAccent}AGAINST DOCTORS’ ADVICE- {ThinkingA}from Arkham Asylum...
+239) HARVEY
+[over radio, gravely]{SadA}It saddens me to inform you that today my {ThinkingA}old friend Bruce Wayne was able to get himself released- {FaceAccent}{ConfusedB}against doctors’ advice- from Arkham Asylum, {ConfusedA}where he was getting the help I believe he desperately needs.
+240) BRUCE
+[polite]{AngryB}What’s going on here?
+528) BRUCE
+[pickup]What’s going on here?
+241) ENFORCER01
+[taunting]{ThinkingA}Security checkpoint, sir. {AngryA}Looking for weapons, {FaceAccent}drugs, you know-
+242) ENFORCER01
+-{ThinkingB}{FaceAccent}suspicious activity.
+243) BRUCE
+[really?]{AngryA}Is that right?
+244) ENFORCER01
+{AngryA}Yeah, Mayor Dent’s orders.
+245) BRUCE
+[confident]{SternA}Search all you like, the {FaceAccent}car’s clean-
+246) ENFORCER01
+[obsequious]{ThinkingA}Sure- Sure-Sure- {FaceAccent}of course it is...(but)
+247) ENFORCER01
+{DisgustA}Of course. {FaceAccent}I read the papers...
+248) ENFORCER01
+{ThinkingA}This {FaceAccent}shouldn’t take long-
+249) ENFORCER01
+[firmly]{AngryA}-if you do {BodyAccent}whatever you’re told.
+250) ENFORCER01
+[smarmy]{ThinkingA}Tell you what, Mr. W...
+251) ENFORCER01
+[smiling]{HappyA}You’re a guy used to putting your money to {FaceAccent}good use-{BodyAccent}whose time is valuable-
+252) ENFORCER01
+{HappyA}For a {BodyAccent}small toll fee, I can move you {FaceAccent}right into the {BodyAccent}express lane-
+253) BRUCE
+[firmly]{SkepticalA}Lieutenant Gordon will {FaceAccent}hear about this.
+254) BRUCE
+{AngryB}You know, he’s a personal {FaceAccent}friend of mine-
+255) ENFORCER01
+[brashly]{HappyA}Tell him {FaceAccent}whatever you want- {AngryA}it’s {BodyAccent}Mayor Dent who’s in charge now-
+256) BRUCE
+[Batman voice] {SkepticalA}{FaceAccent}Make. Me.
+257) ENFORCER01
+[excited]{HappyA}Love to-
+258) ENFORCER01
+{NormalA}You’re a {FaceAccent}smart guy, right?
+259) ENFORCER01
+{ThinkingA}You know what I’m getting at.
+260) ENFORCER01
+{AngryA}So let’s {FaceAccent}keep it moving-
+261) ENFORCER01
+{ThinkingA}Or we could just {BodyAccent}sit here all day.  {HappyB}{FaceAccent}Up to you.
+262) ENFORCER01
+[mad dog]Do you want to go?
+263) PROTESTER1
+He’s a menace!
+264) ENFORCER01
+[annoyed]My job is keeping these checkpoints moving-
+265) ENFORCER01
+-so right now, YOU are my only problem-
+266) PROTESTER01
+[excited]I’m going to post this everywhere-!
+267) PROTESTER02
+[angry]Yeah, just pay your way out of trouble again.
+268) PROTESTER03
+[angry]Entitled little brat!
+269) BRUCE
+[here you go]{SkepticalA}This should cover it...
+270) ENFORCER01
+[dubious]{DisgustA}I don’t think this does cover it... {DisgustB}seeing as you’re a billionaire, it makes sense you’d pay a higher rate, right?  {FaceAccent}{AngryA}Like a much higher rate.
+271) PROTESTER02
+[angry, loud]{AngryA}What’s he even {BodyAccent}doing out of Arkham?!?
+272) PROTESTER01
+[angry, loud]{AngryC}It’s{BodyAccent} rich man’s justice is what it is!
+273) PROTESTER02
+[angry, loud]Why don’t you arrest him?!?
+274) ENFORCER01
+[to bruce]Just pay the toll and move along already.
+275) ENFORCER01
+[impatient]Alright, come on buddy, you know how the world works.
+276) ENFORCER01
+[ordering]I’m calling for backup.
+277) ENFORCER01
+[loudly]Hey, you people, back off!
+278) ENFORCER01
+[ordering] Hey, hey. Keep back, if you know what’s good for you!
+279) ENFORCER01
+[ordering]Get out of here!
+280) DROIR
+(Luke McMullen, Mon Aug 22 16:35:49 2016) The policeman makes a half hearted attempt to calm down the group.
+281) TESTDIR
+(Luke McMullen, Mon Aug 22 16:35:49 2016) The policeman makes a half hearted attempt to calm down the group.
+282) PROTESTER01
+{SurpriseA}Did you say {FaceAccent}”“Bruce”? {AngryA}As in{FaceAccent} Bruce Wayne? {AngryB}That guy’s {BodyAccent}a menace!
+284) PROTESTER01
+[alt][realizing]Look at that car!  It’s gotta be Bruce Wayne.
+285) ENFORCER01
+[half-heartedly]{AngryA}Alright, get {BodyAccent}back to your car before I {FaceAccent}have you arrested.
+286) ALFRED
+{ThinkingB}This is {FaceAccent}preposterous.
+287) ALFRED
+{ThinkingA}Bruce, we {FaceAccent}need to leave.
+289) PROTESTER01
+[seething]{AngryB}Must be nice to be {FaceAccent}so rich you can {BodyAccent}buy your way out of Arkham!
+290) ALFRED
+Perhaps we should just pay the man.
+291) ALFRED
+Bruce! [Do something!]
+583) ALFRED
+[Warning] Bruce--
+590) ALFRED
+[Warning] Bruce--
+593) ALFRED
+[Warning] Bruce--
+292) ENFORCER01
+Hey, the Mayor’s gonna hear about this, and it ain’t gonna make him happy.
+293) 
+Time Out
+295) ALFRED
+[pickup] This is absurd.  We’re getting out of here!
+296) 
+Search the car, I’m clean.
+299) 
+Where are you?
+300) 
+Come back to Gotham.
+301) 
+Back off, Harvey!
+302) 
+I feel much better now.
+303) 
+I can handle myself.
+304) 
+Armed goons won’t help
+305) 
+You’re making a big mistake.
+306) 
+You just made a big mistake.
+307) 
+I don’t want trouble.
+308) 
+They certainly tried.
+309) 
+I missed you.
+310) 
+It was nothing.
+311) 
+Keeping tabs on it?
+313) 
+::You’d love Arkham::
+314) 
+::Not funny::
+315) 
+That’s not funny.
+643) 
+That’s not funny
+316) 
+Thought you would visit.
+317) 
+That include you?
+318) 
+Glad you left?
+512) 
+Glad you left?
+319) 
+Then I have work to do.
+320) 
+Yep. Still crazy.
+519) 
+::Yep. Still crazy::
+321) 
+You didn’t fill in for me?
+322) 
+You’re pathetic.
+323) 
+This isn’t you!
+324) 
+Stay out of my way.
+325) 
+Keep me out of it.
+326) 
+Dick
+327) 
+You need to let it go.
+328) 
+She’s safe at the Manor.
+329) 
+She’s far away from here.
+330) 
+It was her decision.
+331) 
+You looking for a fight?
+332) 
+Get out of my face!
+333) 
+You took your time!
+334) 
+You’re a real charmer.
+335) 
+Let us through right now.
+336) BRUCE
+[PICKUP][angry]I’ve been gone two days and Penguin’s already remaking the city how he wants.
+337) BRUCE
+[PICKUP]Drive faster, Alfred.
+338) ALFRED
+[PICKUP]I could speed. Probably run over a few Children of Arkham thugs while I’m at it.
+339) BRUCE
+[PICKUP]Running wild in the streets. All of them...
+340) ALFRED
+Save
+341) BRUCE
+[PICKUP][pleased]Selina...
+342) SELINA
+[TEXT]Still crazy?
+343) ALFRED
+Good to know Miss Kyle’s keeping in touch... from wherever she is now.
+344) ALFRED
+[PICKUP]Ah, Miss Kyle was sad to miss your release.
+345) ALFRED
+[PICKUP]But she wanted to avoid any possible media attention.
+346) SELINA
+[TEXT]Glad ur free
+347) SELINA
+[TEXT]Was Arkham fun?
+348) BRUCE
+[TEXT]Still crazy. Glad to go home.
+652) 
+Still crazy. Glad to go home
+349) SELINA
+[TEXT]I bet.
+627) 
+I bet
+350) BRUCE
+[TEXT]You didn’t visit
+351) SELINA
+[TEXT]Miss me? ;-)
+352) SELINA
+[TEXT]I couldn’t get in.
+353) BRUCE
+[TEXT]Lot of disturbed criminals. Your kind of place
+641) 
+Lot of disturbed criminals. Your kind of place
+355) SELINA
+[TEXT]RUDE!
+644) 
+RUDE!
+356) BRUCE
+[TEXT]I’m not laughing.
+357) DESSELINA
+[TEXT]Sorry.
+632) 
+Sorry
+635) 
+Sorry
+358) SELINA
+[TEXT]Gotham is going nuts
+359) SELINA
+[TEXT]Think they missed u.
+361) BRUCE
+[TEXT]Glad to get out of Gotham?
+362) SELINA
+[TEXT]Crappy hotel in Nowhere USA = MUCH better
+363) BRUCE
+[TEXT]You didn’t fight them?
+364) SELINA
+[TEXT]Nope. Got lost in ur mansion.
+365) SELINA
+[TEXT]SEND HELP!
+366) BRUCE
+[TEXT]Bad people include you?
+367) SELINA
+[TEXT]Yep. I’m the worst.
+368) BRUCE
+[TEXT]I’m back to work tonight.
+369) SELINA
+[TEXT]Bout time.
+370) SELINA
+[TEXT]Phone broke?
+639) 
+Phone broke?
+371) SELINA
+[TEXT]You’re a good man, Bruce.
+522) SELINA
+[TEXT]You’re a good man, Bruce.
+650) 
+You’re a good man, Bruce
+372) SELINA
+[TEXT]You should know that.
+640) 
+You should know that
+373) SELINA
+[TEXT]Been thinking about things.
+374) SELINA
+[TEXT]About us.
+375) SELINA
+[TEXT]UGH. Hate texting.
+376) SELINA
+[TEXT]Talk when u get home.
+377) BRUCE
+[PICKUP][answers phone, tense]Hello Harvey.
+378) HARVEY
+[PICKUP] I can’t believe it. Weaseled your way out already.
+379) HARVEY
+[PICKUP]But I wanted you to know you’ve made a mistake.
+380) HARVEY
+[PICKUP]Can’t believe you used Gordon to weasel your way out of Arkham. Must be nice to have a cop in your pocket.
+381) HARVEY
+[PICKUP]It must be nice to have a cop in your pocket.
+382) HARVEY
+[PICKUP][angry]You disgust me, Bruce.
+383) HARVEY
+Don’t you think it’s a little unseemly; Flashing daddy’s cash to get yourself out of Arkham?
+384) BRUCE
+[PICKUP]What do you want, Harvey?
+385) BRUCE
+[PICKUP]What do you want, Harvey?
+386) HARVEY
+[PICKUP] You should have stayed in the asylum where I put you.
+625) HARVEY
+[PICKUP] You should have stayed in the asylum where I put you.
+387) HARVEY
+[PICKUP]Out here, the Children of Arkham are the least of your worries.
+388) HARVEY
+[PICKUP]You’ll figure that out... eventually.
+389) HARVEY
+[PICKUP]It’s unseemly.
+390) HARVEY
+[PICKUP]You were safe in the asylum.
+391) HARVEY
+[PICKUP] Gotham’s going to hell and you’re not exactly everyone’s favorite guy right now.
+392) HARVEY
+[PICKUP]You could have stayed in there forever.
+393) HARVEY
+[PICKUP]Right where I put you.
+394) HARVEY
+[PICKUP]But you wanted to be difficult.
+395) BRUCE
+[PICKUP] I’ll be fine, Harvey.  I can handle myself.
+396) HARVEY
+[PICKUP]I don’t think you understand the danger you’re in.
+397) BRUCE
+[PICKUP]I’m innocent, Harvey. And you know it.
+398) HARVEY
+[PICKUP] You call yourself “innocent” after what you did to Cobblepot? That was savage.
+401) HARVEY
+[PICKUP] You call yourself “innocent” after what you did to Cobblepot? That was savage.
+500) HARVEY
+[PICKUP] You call yourself “innocent” after what you did to Cobblepot? That was savage.
+399) BRUCE
+[PICKUP]I was drugged, Harvey. The same stuff they used on you.
+402) BRUCE
+[PICKUP]I was drugged, Harvey. The same stuff they used on you.
+504) BRUCE
+[PICKUP]I was drugged, Harvey. The same stuff they used on you.
+400) HARVEY
+[PICKUP] Yeah except I wasn’t attacking bystanders.
+403) HARVEY
+[PICKUP] Yeah except I wasn’t attacking bystanders.
+404) HARVEY
+[PICKUP]The voters want to feel safe. They don’t want more maniacs out there.
+405) BRUCE
+[PICKUP] Just leave me the hell alone, Harvey. Trust me, it’ll be easier for you in the long run.
+406) HARVEY
+[PICKUP]I was doing you a favor, Bruce. If you want to get ugly...
+407) HARVEY
+[PICKUP]That can be arranged.
+408) HARVEY
+[PICKUP][angry, building]Why are you being... so... DIFFICULT?
+409) HARVEY
+[PICKUP]This whole mess is because of YOU and your stupid family.
+410) HARVEY
+[PICKUP]The least you could do is GO AWAY while I fix it.
+411) HARVEY
+[PICKUP]The last thing I need is you traipsing around Gotham.
+412) HARVEY
+[PICKUP]Reminding everyone of how you fooled them for years!
+413) BRUCE
+[PICKUP] Would you listen to yourself! You sound insane!
+414) HARVEY
+[PICKUP] No. I’m just a man who’s done letting assholes like you run the world and take whatever they want.
+657) HARVEY
+[PICKUP] No. I’m just a man who’s done letting assholes like you run the world and take whatever they want.
+415) BRUCE
+[PICKUP]You’re only mayor because I put you there.
+416) BRUCE
+[PICKUP]Harvey, how about we just agree to go our separate ways, alright?
+417) HARVEY
+[PICKUP] You think you can just walk away from me? Just like that? After everything you’ve done?
+418) BRUCE
+[PICKUP] You’re pathetic, Harvey. Not even mayor for a week and already the pressure’s gotten to you.
+419) HARVEY
+[PICKUP][pissed]No. I’m the mayor!
+420) BRUCE
+[PICKUP]You’re a joke.
+421) BRUCE
+[PICKUP]Not without my help.
+422) HARVEY
+[PICKUP]I thought I could appeal to your sense of decency. But you’re out of control!
+423) HARVEY
+[PICKUP][Angry] I have no idea what Selina sees in you.
+424) HARVEY
+[PICKUP]And I can’t live with that.
+425) HARVEY
+[PICKUP]No one dies while I’m mayor.
+426) HARVEY
+[PICKUP]No one who doesn’t already deserve it.
+427) BRUCE
+[PICKUP] You need to let that situation go, Harvey. You have way bigger problems on your plate.
+428) HARVEY
+[PICKUP] Of course you would think that.
+429) BRUCE
+[PICKUP] Selina’s gone, Harvey. I told her to pack her bags and got out of town.
+430) BRUCE
+[PICKUP]Far away from here. And definitely far away from you.
+431) HARVEY
+[PICKUP][seething]You’ll regret this.
+509) HARVEY
+[PICKUP][seething]You’ll regret this.
+432) BRUCE
+[PICKUP]Selina will be fine. Wayne Manor’s completely safe.
+433) HARVEY
+[PICKUP]She... moved in with you?
+434) HARVEY
+[PICKUP][raging]You’ll regret this!
+435) BRUCE
+[PICKUP]Uh-huh.
+436) BRUCE
+[PICKUP]She doesn’t belong to you, Harvey. She can see whoever she wants.
+437) HARVEY
+[PICKUP][Seething]Do not lecture me about Selina!
+438) HARVEY
+[PICKUP]I’m going to keep her safe.
+439) HARVEY
+[PICKUP]One way or another.
+440) HARVEY
+Hello? Are you still there?
+441) ALFRED
+[PICKUP]A security checkpoint. [sarcastic]One of Mayor Dent’s new “gifts” to the city.
+442) BRUCE
+[PICKUP]Can we bypass it?
+443) ALFRED
+[PICKUP]They’re unavoidable. Dent thinks it will help him capture the Children of Arkham.
+444) ALFRED
+[PICKUP]Damn! Someone rearended us.
+445) BRUCE
+[PICKUP]That’s not an accident.
+446) HARVEY
+[PICKUP][heard through speaker]Don’t ignore me, Wayne!
+447) ALFRED
+[PICKUP][concerned]Are you all right, Master Bruce? You look--
+448) PROTESTER01
+[PICKUP][disgusted,realizing it’s Bruce in the car] Of course... should’ve known.
+660) PROTESTER01
+[PICKUP][disgusted,realizing it’s Bruce in the car] Of course... should’ve known.
+449) PROTESTER01
+Showing your face in public like this?
+450) PROTESTER01
+Not real smart.
+451) PROTESTER01
+[PICKUP]What do you think you’re doing, Wayne? You should be locked up!
+452) BRUCE
+[PICKUP]YOU DON’T TALK TO ME LIKE THAT!
+453) BRUCE
+[PICKUP]I COULD CRUSH YOU!
+454) ALFRED
+[PICKUP]Bruce! Stop it! It’s the drug-
+457) ALFRED
+[PICKUP]Bruce! Stop it! It’s the drug-
+460) ALFRED
+[PICKUP]Bruce! Stop it! It’s the drug-
+455) BRUCE
+[PICKUP]SHUT UP, ALFRED!
+458) BRUCE
+[PICKUP]SHUT UP, ALFRED!
+461) BRUCE
+[PICKUP]SHUT UP, ALFRED!
+456) BRUCE
+[PICKUP]BACK UP NOW BEFORE I BASH YOUR HEAD IN!
+459) BRUCE
+[PICKUP]YOU WANT TROUBLE? YOU JUST FOUND IT!
+462) ALFRED
+[PICKUP]Bruce! Stop it! It’s the drug still in your system!
+463) PROTESTER02
+[PICKUP]Whoa! What’s wrong with him?
+464) PROTESTER03
+[PICKUP]Throw him back in Arkham! He deserves it!
+465) BRUCE
+[PICKUP][to Alfred]I’m sorry. I couldn’t stop it.
+466) ARUCE
+LFRED:[PICKUP]Don’t worry, Bruce. You’ll be okay.
+467) PROTESTER01
+[PICKUP]You just gonna hide in that fancy car? Huh? Get out here!
+468) ENFORCER01
+[PICKUP]That’s your last warning! Get outta here!
+469) ENFORCER01
+[PICKUP][to Bruce]Everything all right, Mr. Wayne?
+470) BRUCE
+[PICKUP]Yes...thank you. I appreciate the help.
+471) ENFORCER01
+[PICKUP]You bet.
+472) BRUCE
+[PICKUP]I had it handled. I don’t run from fights.
+473) ENFORCER01
+[PICKUP][doubtful]Whatever you say, Mr Wayne.
+474) BRUCE
+[PICKUP]It’s fine now that you finally showed up.
+475) BRUCE
+[PICKUP]Took you long enough!
+476) ENFORCER01
+[PICKUP]Guess it’s true what they say about you.
+477) ALFRED
+[PICKUP]Yes, everything is just fine. Thank you!
+478) PROTESTER01
+[PICKUP][angry]He’s a threat to everybody!
+479) PROTESTER02
+[PICKUP][angry]Are you guys kidding me? He’s a monster!
+480) ENFORCER01
+[PICKUP]Everybody take a step back!
+481) BRUCE
+Or I won’t hold back this time.
+482) BRUCE
+[PICKUP][angry][ALT]Penguin’s already remaking the city how he wants.
+483) HARVEY
+[PICKUP]You should have stayed where I put you.
+484) HARVEY
+[PICKUP]But by then it’ll be too late.
+485) HARVEY
+[PICKUP][Seething]Damn it, Bruce. You’ve got to say something.
+486) HARVEY
+[PICKUP][ALT]I can hear you breathing!
+487) SELINA
+[TEXT]All bad people came out to play.
+488) HARVEY
+[PICKUP]I’M in charge now. You need to get that through your skull.
+489) HARVEY
+[PICKUP]No more double standards for the wealthy and powerful.
+490) BRUCE
+[PICKUP]Remember Selina’s place? I won’t hold back next time.
+491) BRUCE
+[PICKUP]Remember Selina’s place? I’ll beat you down all over again.
+492) PROTESTER01
+[PICKUP]Why’s a rich prick like you blocking up my streets?
+493) ENFORCER01
+[PICKUP][glances back at the angry protesters]Or maybe you’re happy to wait right here.
+494) BRUCE
+[PICKUP][ALT]I’ve got a lead on Lady Arkham.
+495) BRUCE
+[PICKUP] I’ve got to get back out there.
+496) BRUCE
+[PICKUP][ALT]I’ve got a lead on Vicki.
+497) BRUCE
+[PICKUP][ALT][pissed]Because I bought it for you!
+498) BRUCE
+[PICKUP][ALT][pissed]Because I bought it for you!
+499) HARVEY
+[PICKUP]You tore into him like an animal.
+501) HARVEY
+[PICKUP]You tore into him like an animal.
+502) HARVEY
+[Cold] Hey there, Bruce.
+505) BRUCE
+[Skeptical, surprised] Selina? Is she what this is all about?
+506) HARVEY
+What you did was a low blow, Bruce.
+507) HARVEY
+She’s... living with you?
+508) BRUCE
+Yeah. For now.
+510) HARVEY
+A real man wouldn’t have done that.
+511) HARVEY
+A friend wouldn’t have done that.
+514) 
+::I could use your help::
+515) 
+::Thanks for checking in::
+516) 
+Am I supposed to salute?
+517) 
+::He’s welcome to try::
+518) BRUCE
+[to himself] Selina...
+520) SELINA
+Just Glad you’re safe.  See ya when ya get back.
+521) SELINA
+We should talk.
+523) HARVEY
+[pickup]The streets of Gotham are a dangerous place for someone like you right now.
+626) HARVEY
+[pickup]The streets of Gotham are a dangerous place for someone like you right now.
+524) HARVEY
+[pickup] You knew I was interested in Selina.
+525) 
+I’m sorry it happened that way.
+526) 
+Sorry for what happened.
+527) 
+She’s just a friend.
+529) ALFRED
+[pickup][with disgust] One of Mayor Dent’s security checkpoints.
+530) PROTESTER01
+[shouting]Come on!  What’s the damn hold up?!
+531) 
+The hell you are.
+532) 
+I’ve nothing to hide.
+533) 
+Do you have a warrant?
+535) ENFORCER01
+If we find anything tying you to the Children of Arkham, including drugs, weapons, or any other suspicious materials, you will be taken into custody.
+536) ALFRED
+[alt][pickup] This isn’t your “other” car.
+537) ALFRED
+I just can’t believe that Lady Arkham was actually Vicki Vale this entire time... [To Be Trimmed - We let her into our home!]
+538) BRUCE
+...and all the while she was working with Cobblepot to try and bring me down. [To Be Trimed - I know. The phony interviews, the fishing for information...]
+539) BRUCE
+[Trying to rally] But... I know how to find the rest of her drugs now - And that’s the kind of lead we can work with.
+540) ALFRED
+Did Lieutenant Gordon hear about this lead when he let you out?
+541) BRUCE
+[Emphasis on Batman]Not yet. Batman will handle this one first.
+542) ALFRED
+It’s a good thing the family lawyers were able to get you out so quickly.
+543) BRUCE
+[Emphasis on Batman]No kidding. Batman’s got some work to do...
+544) ALFRED
+I don’t mind telling you - It’s a relief to hear that you’re so eager to put your other suit back on.
+545) ALFRED
+Even during Batman’s brief “hiatus”, Gotham has become that much more dangerous.
+546) ALFRED
+And the public opinion on Bruce Wayne... [has gotten terrible]
+547) 
+We can’t worry about it.
+548) 
+It’s Batman’s turn.
+549) 
+I can turn that around.
+550) ALFRED
+[re: public opinion] Well... it certainly hasn’t gotten any better.
+551) BRUCE
+[Scoff] I don’t care about “public opinion,” and neither should you Al.
+684) BRUCE
+[Scoff] I don’t care about “public opinion,” and neither should you Al.
+552) ALFRED
+I wish I could agree with you, but the more people call out for you to receive justice, the harder your... other job could become.
+685) ALFRED
+I wish I could agree with you, but the more people call out for you to receive justice, the harder your... other job could become.
+553) BRUCE
+Yeah, well, that’s why it’s Batman’s turn now...
+681) BRUCE
+Yeah, well, that’s why it’s Batman’s turn now...
+554) ALFRED
+[Mildly amused] True, I suppose public opinion doesn’t affect him much.
+682) ALFRED
+[Mildly amused] True, I suppose public opinion doesn’t affect him much.
+555) ALFRED
+Though if the people protesting to have you thrown back in Arkham get their way... that could put a damper on things.
+683) ALFRED
+Though if the people protesting to have you thrown back in Arkham get their way... that could put a damper on things.
+556) BRUCE
+So many people angry at me... the entire family... I just hope I can turn it around.
+686) BRUCE
+So many people angry at me... the entire family... I just hope I can turn it around.
+557) ALFRED
+[Convincing himself too] I’m sure you’ll figure something out. You always do.
+558) ALFRED
+[Convincing himself too] I’m sure you’ll figure something out. You always do.
+687) ALFRED
+[Convincing himself too] I’m sure you’ll figure something out. You always do.
+688) ALFRED
+[Convincing himself too] I’m sure you’ll figure something out. You always do.
+559) BRUCE
+For now let’s just get home...
+560) BRUCE
+Speaking of home...
+561) STLIUB
+(mkirkbride, Fri Oct  7 12:42:21 2016) Selina texts-- He wants you dead.
+562) NASTUB
+(mkirkbride, Fri Oct  7 12:42:21 2016) Selina texts-- He wants you dead.
+563) STU
+BB:(mkirkbride, Fri Oct  7 12:44:44 2016) Selina texts-- Can’t. Got a thing.
+565) BRUCE
+[Incredulous] They’re only dangerous because you made them dangerous! Armed guards on every street corner?
+566) BRUCE
+That’s insane, Harvey.
+567) HARVEY
+I beg to differ.
+568) HARVEY
+With the Children of Arkham sneaking around everywhere, those armed guards are the only thing keeping people safe!
+569) HARVEY
+Maybe you haven’t heard, but the Children of Arkham have gone underground. Obviously plotting some sort of attack, and people are scared. Panicking.
+570) HARVEY
+I needed to show them that my resolve hasn’t weakened, that Gotham is still strong, so I gave them an enemy - You and your family’s filthy corruption.
+571) HARVEY
+Can’t let you keep running around scot-free, Bruce. [Growl] It’s the will of the people.
+572) BRUCE
+You can spare me your “will of the people” crap, Harvey. I know this is personal.
+573) BRUCE
+That isn’t how I wanted things to go down either, Harvey, and I’m really sorry they did, but that’s no excuse for this ridiculous crusade against me!
+574) BRUCE
+Harvey. Listen to me. I know what you think happened, but Selina and I are just friends, period.
+575) HARVEY
+Don’t tell me what I think happened. You’re a goddamn liar.
+576) HARVEY
+[From phone, angry] Bruce? BRUCE?
+577) BRUCE
+We’re done talking.
+578) BRUCE
+-the hell?
+659) BRUCE
+-the hell?
+579) PROTESTER01
+Go back to Arkham, you damn maniac!
+661) PROTESTER01
+Go back to Arkham, you damn maniac!
+580) PROTESTER02
+[Taunting] Careful, or you’ll be the next Cobblepot.
+662) PROTESTER02
+[Taunting] Careful, or you’ll be the next Cobblepot.
+581) BRUCE
+[Way too hot] What is your problem?
+582) BRUCE
+[rapid, angry] Because if you’re looking to get your ass kicked you’re doing a great job.
+584) BRUCE
+Shut up, Alfred! I can HANDLE THIS!
+591) BRUCE
+Shut up, Alfred! I can HANDLE THIS!
+594) BRUCE
+Shut up, Alfred! I can HANDLE THIS!
+585) BRUCE
+[rapid, angry] You can still leave.
+586) BRUCE
+[threat] And I would take advantage of that while both your kneecaps are still attached correctly.
+587) BRUCE
+[rapid, angry] I am tired. I am hungry. I haven’t showered in three days.
+588) BRUCE
+Right now y
+589) BRUCE
+[angry] I want to go home, and if you don’t get the hell out of my way I swear to god I will have this car run you over and then back up again just to make sure it did the job.
+592) PROTESTER01
+Nothing to say, huh?
+595) ALFRED
+Bruce, don’t!
+596) PROTESTER01
+Someone else saw that, right? This psycho tried to get out of the car and attack me!
+597) PROTESTER01
+[Scared] Someone else heard that, right? This psycho just threatened me!
+598) PROTESTER02
+[Flourishing cell phone] Yeah, I filmed the whole thing!
+668) PROTESTER02
+[Flourishing cell phone] Yeah, I filmed the whole thing!
+599) PROTESTER03
+They should lock you up!
+600) BRUCE
+Oh god... [to alfred] Alfred, I’m sorry. I don’t--
+601) ALFRED
+You’ll be fine. We just need to get out of this mess.
+602) PROTESTER03
+Nowhere to run, dirtbag!!
+603) ENFORCER01
+[To crowd, threatening] Next one won’t be a warning shot!
+604) ENFORCER01
+Open the trunk. We’re searching the car.
+606) BRUCE
+[Seething] Like hell you are. The only way you’re searching this car is with two broken arms afterwards.
+607) ENFORCER01
+[cool as a cucumber] Oh, I don’t think that would be a good idea.
+608) BRUCE
+[Seething] Go ahead. I have nothing to hide.
+609) ENFORCER01
+Doesn’t sound like it. Besides, everyone’s hiding something.
+610) BRUCE
+[Seething]  I know my goddamn rights and you better have a warrant to back that up.
+611) ENFORCER01
+[Smirk] Don’t need one. Mayor Dent gave his Enforcers full search-and-seizure rights.
+612) ENFORCER01
+[Smirk] Aw come on now. Don’t make this any more difficult than it has to be.
+613) ENFORCER01
+Alright, now the way I see it, there are two ways we can do this, [smarmy emphasis] Bruce Wayne.
+672) ENFORCER01
+Alright, now the way I see it, there are two ways we can do this, [smarmy emphasis] Bruce Wayne.
+614) ENFORCER01
+Either I let these people at you and see how you handle mob justice...
+673) ENFORCER01
+Either I let these people at you and see how you handle mob justice...
+615) ENFORCER01
+Or, you could make a little donation to me and my boys to help us stay well-funded. And well-armed.
+674) ENFORCER01
+Or, you could make a little donation to me and my boys to help us stay well-funded. And well-armed.
+616) ENFORCER01
+[Grin] What do you say?
+671) ENFORCER01
+[Grin] What do you say?
+617) BRUCE
+[Annoyed] How much are we talking?
+618) ENFORCER01
+I dunno - How much would it cost to repair the damage they could do to this fancy car of yours? Plus the medical bills...
+619) PROTESTER01
+What’s going on?!
+620) PROTESTER02
+Yeah, what’s the hold up?!
+621) PROTESTER01
+Wouldn’t get too close! He’s a goddamn psychopath!
+622) PROTESTER03
+I say we rush it!
+623) ALFRED
+This situation is only going to get worse...
+624) BRUCE
+[Gritted teeth] That’s everything I have, okay?
+628) 
++ I hear Harv is out for blood
+629) 
+Heard you got out. Still crazy?
+630) 
+Can’t. Busy w something else
+631) 
+Glad to hear you got out of Arkham.  See ya when ya get back
+633) 
+Harv’s dangerous
+634) 
+Could use a partner again
+636) 
+I’ve handled way worse than Harv
+637) 
+I’ll be fine.
+638) 
+kk, tough guy
+642) 
+I saw what happened with Oz. Just wanted to make sure you’re ok.
+645) 
+Just don’t get hurt
+647) 
+I appreciate you looking out for me. Thanks
+649) 
+Sounds like he wants you dead.
+651) 
+TTYL
+653) 
+Got some stuff we need to talk about
+654) 
+Come back and help?
+655) FAIRCHILD
+In other news...
+656) FAIRCHILD
+If you’ve noticed the streets of Gotham have been a lot quieter recently, you’re not alone. The GCPD has reported a sudden and steep drop in violent crime in the past few days, with the number of 911 calls falling off a whopping sixty percent. Many are attributing it to a decrease in the visibility of the terrorist group Children of Arkham, whose members seem to be taking some time off. Or maybe it’s just our new Mayor Dent making good on his campaign promise to bring down crime in the city. Either way, the citizens are breathing a sigh of relief.
+658) HARVEY
+[Angry]I don’t need an excuse!  You’re a criminal and I’m coming for you!
+663) PROTESTER01
+What going on?  Is he one of them?!
+664) ENFORCER02
+Get back to your car.
+677) ENFORCER02
+Get back to your car.
+665) PROTESTER01
+He’s with the Childrem of Arkham isn’t he!?
+666) PROTESTER02
+Did they find drugs?
+667) PROTESTER01
+I hope you rot in hell!!
+669) ENFORCER01
+Well, well, well... Bruce Wayne. You really must’ve done something to piss the Mayor off so much.  Heh, maybe I’ll get a bonus for this...
+670) ALFRED
+[alt] It’s Lady Arkham’s drug, isnt it?
+675) ENFORCER01
+I can let these people know who you really are, and trust me, people really hate the Wayne’s these days...
+676) ALFRED
+[pickup]They’ve got us blocked in, I can’t back up.
+678) BRUCE
+[alt][rapid, angry] Because you are making a big mistake right now.

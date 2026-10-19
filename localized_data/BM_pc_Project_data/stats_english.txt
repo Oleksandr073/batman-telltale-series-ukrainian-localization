@@ -1,0 +1,852 @@
+﻿1) 
+Did you keep Catwoman from getting away with the loot?
+2) 
+You and {percent}% of players prevented Catwoman from getting away with the loot.
+3) 
+You and {percent}% of players failed to keep Catwoman from escaping with the loot.
+4) 
+Did you stick up for Harvey in front of Falcone?
+65) 
+Did you stick up for Harvey in front of Falcone?
+5) 
+Did you shake Carmine Falcone’s hand?
+82) 
+Did you shake Carmine Falcone’s hand?
+6) 
+Did you tell Oswald his family park should be bulldozed?
+7) 
+What is Bruce Wayne’s publicly stated opinion of Batman?
+8) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players defied Falcone by inviting Harvey into the private meeting.
+9) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players shut Harvey out of the private meeting with Falcone.
+10) 
+You and {percent}% of players refused Falcone’s offer of an alliance, angering him in the process.
+11) 
+You and {percent}% of players chose to play the dirty game of Gotham politics and treated Falcone respectfully.
+12) 
+You and {percent}% of players pleased Oswald by showing sympathy for the plight of the Cobblepot family.
+13) 
+You and {percent}% of players offended Oswald by suggesting his family park be bulldozed.
+14) 
+You and {percent}% of players took a controversial stand and defended Batman’s actions before the press.
+15) 
+You and {percent}% of players used Bruce’s name and influence to condemn Batman before the press.
+16) 
+Did you interrupt the press conference to answer Alfred’s text?
+17) 
+You and {percent}% of players interrupted the press conference to text Alfred back.
+18) 
+You and {percent}% of players did not respond to Alfred’s texts and continued on with the press conference.
+19) 
+You and {percent}% of players predicted that the new hospital could spell the end of the Batman’s crusade.
+20) 
+Did you provide a quote for Vicki’s story?
+71) 
+Did you provide a quote for Vicki’s story?
+21) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players chose a press blackout, refusing Vicki’s request for a quote.
+22) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players chose to control the emerging Wayne story and provided Vicki with a quote.
+23) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players gave Vicki a quote for her story, insisting that the Wayne family has never had ties to organized crime.
+24) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players gave Vicki a quote for her story, issuing a threat to those who spread lies about the Wayne family.
+25) 
+Did you break the docks shooter’s arm?
+26) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players brutally broke the docks shooter’s arm, ensuring that he’d never hold a gun straight again.
+27) 
+Did you talk to Gordon or fade into the shadows?
+85) 
+Did you talk to Gordon or fade into the shadows?
+28) 
+You and {percent}% of players faded into the shadows when Gordon arrived at the docks.
+29) 
+You and {percent}% of players stayed to talk about the docks massacre with Gordon.
+30) 
+Who did you give the Falcone data to?
+31) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players gave the Falcone data to Vicki Vale instead of Gordon and the GCPD.
+32) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players gave the Falcone data to Lieutenant Gordon instead of making the information public through Vicki Vale.
+33) 
+How did Batman deal with Falcone at the end?
+79) 
+How did Batman deal with Falcone at the end?
+34) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players chose to brutalize Falcone, making an example of him to criminals everywhere.
+35) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players showed restraint, and handed Falcone over to the police safe and sound.
+36) 
+Did you save or destroy the theater tickets?
+88) 
+Did you save or destroy the theater tickets?
+37) 
+You and {percent}% of players saved the old theater tickets, choosing to hold on to a painful memory.
+38) 
+You and {percent}% of players burned the old theater tickets, turning your back on the memory of your parents.
+39) 
+{percent}% of players prevented Catwoman from getting away with the loot.
+40) 
+{percent}% of players failed to keep Catwoman from escaping with the loot.
+41) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players defied Falcone by inviting Harvey into the private meeting.
+42) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players shut Harvey out of the private meeting with Falcone.
+43) 
+{percent}% of players refused Falcone’s offer of an alliance, angering him in the process.
+44) 
+{percent}% of players chose to play the dirty game of Gotham politics and treated Falcone respectfully.
+45) 
+{percent}% of players pleased Oswald by showing sympathy for the plight of the Cobblepot family.
+46) 
+{percent}% of players offended Oswald by suggesting his family park be bulldozed.
+47) 
+{percent}% of players took a controversial stand and defended Batman’s actions before the press.
+48) 
+{percent}% of players used Bruce’s name and influence to condemn Batman before the press.
+49) 
+{percent}% of players predicted that the new hospital could spell the end of the Batman’s crusade.
+50) 
+{percent}% of players interrupted the press conference to text Alfred back.
+51) 
+{percent}% of players did not respond to Alfred’s texts and continued on with the press conference.
+52) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}% ^^of players chose a press blackout, refusing Vicki’s request for a quote.
+53) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players chose to control the emerging Wayne story and provided Vicki with a quote.
+54) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#811e13^{percent}%^^ of players gave Vicki a quote for her story, insisting that the Wayne family has never had ties to organized crime.
+55) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#811e13^{percent}%^^ of players gave Vicki a quote for her story, issuing a threat to those who spread lies about the Wayne family.
+56) 
+{percent}% of players faded into the shadows when Gordon arrived at the docks.
+57) 
+{percent}% of players stayed to talk about the docks massacre with Gordon.
+58) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players gave the Falcone data to Vicki Vale instead of Gordon and the GCPD.
+59) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players gave the Falcone data to Lieutenant Gordon instead of making the information public through Vicki Vale.
+60) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players chose to brutalize Falcone, making an example of him to criminals everywhere.
+61) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players showed restraint, and handed Falcone over to the police safe and sound.
+62) 
+{percent}% of players saved the old theater tickets, choosing to hold on to a painful memory.
+63) 
+{percent}% of players burned the old theater tickets, turning your back on the memory of your parents.
+64) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players showed mercy in your interrogation of the docks shooter.
+66) 
+Stood by Harvey.
+67) 
+Told Harvey to wait outside.
+68) 
+Were you kind or callous to Oswald?
+69) 
+Showed Oswald kindness.
+70) 
+Were callous in your responses to Oswald.
+72) 
+Denied Vicki a quote for her story.
+73) 
+Provided a quote for Vicki’s story about the Wayne family.
+74) 
+Quoted to Vicki that the Waynes have never had any connections to organized crime.
+75) 
+Quoted to Vicki a threat to anyone spreading malicious rumors about the Waynes.
+76) 
+Who did you give the USB to?
+77) 
+Chose to give the drive to Vicki Vale.
+78) 
+Chose to give the drive to Lieutenant Gordon.
+80) 
+Brutalized Falcone as Gotham watched.
+81) 
+Showed restraint and turned Falcone over to the authorities.
+83) 
+Shook Carmine Falcone’s hand.
+84) 
+Refused to shake Falcone’s hand.
+86) 
+Faded into the shadows before Gordon arrived.
+87) 
+Remained at the docks to speak to Gordon.
+89) 
+Save the tickets from that fateful night at the theater.
+90) 
+Burned that painful reminder of the death of Bruce’ parents.
+91) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^{percent}%^^ of players brutally broke the docks shooter’s arm, ensuring that he’d never hold a gun straight again.
+92) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^{percent}%^^ of players showed mercy in your interrogation of the docks shooter.
+93) 
+Did you ease Falcone’s pain or make him suffer?
+138) 
+Did you ease Falcone’s pain or make him suffer?
+94) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players eased Falcone’s pain with morphine.
+95) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players eased Falcone’s pain with morphine.
+96) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players made Falcone suffer.
+97) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players made Falcone suffer.
+98) 
+Did you kiss Selina?
+142) 
+Did you kiss Selina?
+99) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players tried to kiss Selina.
+100) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players tried to kiss Selina.
+101) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players didn’t try to kiss Selina.
+102) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players didn’t try to kiss Selina.
+103) 
+Did you visit Mayor Hill as Bruce or Batman?
+104) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players chose to visit Mayor Hill as Bruce Wayne.
+105) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players chose to visit Mayor Hill as Bruce Wayne.
+106) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players chose to visit Mayor Hill as Batman.
+107) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players chose to visit Mayor Hill as Batman.
+108) 
+Did you withdraw your funding for Harvey’s campaign?
+145) 
+Did you withdraw your funding for Harvey’s campaign?
+109) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players continued to fund Harvey’s campaign.
+110) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players continued to fund Harvey’s campaign.
+111) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players withdrew your funding from Harvey’s campaign.
+112) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players withdrew your funding from Harvey’s campaign.
+113) 
+Did you save Selina or Harvey?
+114) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players saved Selina over Harvey.
+115) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players saved Selina over Harvey.
+116) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players saved Harvey over Selina.
+117) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players saved Harvey over Selina.
+118) 
+Did you forgive Alfred?
+148) 
+Did you forgive Alfred?
+119) 
+You and {percent}% of players forgave Alfred.
+120) 
+You and {percent}% of players forgave Alfred.
+121) 
+You and {percent}% of players have not yet forgiven Alfred.
+122) 
+You and {percent}% of players have not yet forgiven Alfred.
+123) 
+Did you tell Harvey why you needed to see Falcone?
+151) 
+Did you tell Harvey why you needed to see Falcone?
+124) 
+You and {percent}% of players told Harvey why you needed to see Falcone.
+125) 
+You and {percent}% of players told Harvey why you needed to see Falcone.
+126) 
+You and {percent}% of players refused to tell Harvey why you needed to see Falcone.
+127) 
+You and {percent}% of players refused to tell Harvey why you needed to see Falcone.
+128) 
+Did you give up Montoya’s name to the press?
+129) 
+You and {percent}% of players gave up Montoya’s name to Vicki Vale.
+130) 
+You and {percent}% of players gave up Montoya’s name to Vicki Vale.
+131) 
+You and {percent}% of players withheld Montoya’s name from Vicki Vale.
+132) 
+You and {percent}% of players withheld Montoya’s name from Vicki Vale.
+133) 
+Did you tell Mayor Hill you would join his side?
+134) 
+You and {percent}% of players told Mayor Hill you would cut Harvey loose.
+135) 
+You and {percent}% of players told Mayor Hill you would cut Harvey loose.
+136) 
+You and {percent}% of players refused to make a deal with Mayor Hill.
+137) 
+You and {percent}% of players refused to make a deal with Mayor Hill.
+139) 
+Eased Falcone’s pain.
+140) 
+Eased Falcone’s pain.
+141) 
+Made Falcone suffer.
+143) 
+Tried to kiss Selina.
+144) 
+Didn’t try to kiss Selina.
+146) 
+Continued to fund Harvey’s campaign.
+147) 
+Pulled your funding from Harvey’s campaign.
+149) 
+Forgave Alfred.
+150) 
+Refused to forgive Alfred.
+152) 
+Told Harvey why you needed to see Falcone.
+153) 
+Refused to tell Harvey why you needed to see Falcone.
+154) 
+Did you help Montoya or Mayor Dent?
+155) 
+Did you ask Lucius to stay at Wayne Enterprises or come work for you?
+156) 
+Did you romance Selina?
+157) 
+Did you beat up Harvey or take it easy on him?
+158) 
+Did you ask Selina to stay or leave Gotham?
+159) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}% of players chose to back up Montoya and let Harvey face danger alone.
+160) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}% of players chose to back up Montoya and let Harvey face danger alone.
+161) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}% of players chose to back up Harvey and let Montoya face danger alone.
+162) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}% of players chose to back up Harvey and let Montoya face danger alone.
+163) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}% of players asked Lucius to remain at Wayne Enterprises as your “inside man.”
+164) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}% of players asked Lucius to remain at Wayne Enterprises as your “inside man.”
+165) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}% of players had Lucius quit and work full-time for Batman.
+166) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}% of players had Lucius quit and work full-time for Batman.
+167) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}% of players spent the night with Selina.
+168) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}% of players spent the night with Selina.
+169) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}% of players chose to maintain a platonic relationship with Selina.
+170) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}% of players chose to maintain a platonic relationship with Selina.
+171) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}% of players were provoked into a physical altercation with Harvey.
+172) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}% of players were provoked into a physical altercation with Harvey.
+173) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}% of players refused to physically attack Harvey.
+174) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}% of players refused to physically attack Harvey.
+175) 
+You and {percent}% of players believed that Selina would only be safe if she left Gotham.
+176) 
+You and {percent}% of players believed that Selina would only be safe if she left Gotham.
+177) 
+You and {percent}% of players asked Selina to stay with you in Gotham.
+178) 
+You and {percent}% of players asked Selina to stay with you in Gotham.
+179) 
+Did you punch Oswald?
+180) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}% of players were provoked into striking Oswald.
+181) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}% of players kept your composure when provoked by Oswald.
+182) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}% of players were provoked into striking Oswald.
+183) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}% of players kept their composure when provoked by Oswald.
+184) 
+Did you accept to keep Harvey’s secret?
+191) 
+Did you accept to keep Harvey’s secret?
+185) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^
+186) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^
+189) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^
+190) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^
+192) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^
+193) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^
+194) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^
+195) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^
+198) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^
+199) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^
+200) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^
+201) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^
+203) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^
+204) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^
+187) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^
+188) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^
+196) 
+Did you give Vicki an official statement as Batman?
+234) 
+Did you give Vicki an official statement as Batman?
+197) 
+Did you hide from Harvey at Selina’s apartment?
+202) 
+FINALE TELEPROMPTER - TBD
+205) 
+You and {percent}% of players suggested Harvey tell the public about his secret.
+206) 
+You and {percent}% of players suggested Harvey tell the public about his secret.
+207) 
+You and {percent}% of players don’t think Harvey can be trusted alone with his secret.
+208) 
+You and {percent}% of players don’t think Harvey can be trusted alone with his secret.
+209) 
+You and {percent}% of players promised to keep Harvey’s secret safe.
+210) 
+You and {percent}% of players promised to keep Harvey’s secret safe.
+217) 
+You and {percent}% of players promised to keep Harvey’s secret safe.
+218) 
+You and {percent}% of players promised to keep Harvey’s secret safe.
+211) 
+You and {percent}% of players remained silent when Harvey asked you to keep a secret.
+212) 
+You and {percent}% of players remained silent when Harvey asked you to keep a secret.
+219) 
+You and {percent}% of players remained silent when Harvey asked you to keep a secret.
+220) 
+You and {percent}% of players remained silent when Harvey asked you to keep a secret.
+213) 
+You and {percent}% of players suggested Harvey keep his secret to himself.
+214) 
+You and {percent}% of players suggested Harvey keep his secret to himself.
+215) 
+You and {percent}% of players suggested Harvey seek help instead of keeping a secret.
+216) 
+You and {percent}% of players suggested Harvey seek help instead of keeping a secret.
+221) 
+You and {percent}% of players told Vicki to stop recording when she asked Batman for a statement.
+222) 
+You and {percent}% of players told Vicki to stop recording when she asked Batman for a statement.
+223) 
+You and {percent}% of players remained silent when Vicki asked Batman for a statement.
+224) 
+You and {percent}% of players remained silent when Vicki asked Batman for a statement.
+225) 
+You and {percent}% of players declared the Children of Arkham are terrorizing Gotham when Vicki asked Batman for a statement.
+226) 
+You and {percent}% of players declared the Children of Arkham are terrorizing Gotham when Vicki asked Batman for a statement.
+227) 
+You and {percent}% of players claimed the Children of Arkham exist because of injustice when Vicki asked Batman for a statement.
+228) 
+You and {percent}% of players claimed the Children of Arkham exist because of injustice when Vicki asked Batman for a statement.
+229) 
+You and {percent}% of players hid from Harvey when he arrived at Selina’s apartment.
+230) 
+You and {percent}% of players hid from Harvey when he arrived at Selina’s apartment.
+231) 
+You and {percent}% of players confronted Harvey when he arrived at Selina’s apartment.
+232) 
+You and {percent}% of players confronted Harvey when he arrived at Selina’s apartment.
+233) 
+How did you react when provoked by Oswald?
+235) 
+Did you hurt the Children of Arkham member chasing Harvey?
+236) 
+Did you ask Lucius to work with you or stay at Wayne Enterprises?
+237) 
+Did you ask Selina to stay with you?
+238) 
+Did you fight Harvey or go easy on him?
+239) 
+Told Vicki to stop recording.
+240) 
+Did not accept Montoya’s apology.
+241) 
+Punished the Children of Arkham member.
+242) 
+Threatened the Children of Arkham member.
+243) 
+Punched Oswald.
+244) 
+Played along with his ruse.
+245) 
+Stay at Wayne Enterprises.
+246) 
+Quit and work for Batman.
+247) 
+Offered Selina to stay at Wayne Manor.
+248) 
+Suggested Selina leave town.
+249) 
+Beat up Harvey.
+250) 
+Dodged Harvey’s attacks.
+251) 
+Remained silent.
+255) 
+Remained silent.
+296) 
+Remained silent.
+370) 
+Remained silent.
+381) 
+Remained silent.
+252) 
+The Children of Arkham are terrorizing Gotham.
+253) 
+Injustice created the Children of Arkham.
+254) 
+Told Oswald to pick up his mess.
+256) 
+Chose not to advise Lucius at all.
+257) 
+Did you go along with Joker’s Plan?
+258) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players chose to follow Joker’s advice and make a phone call to get out of Arkham.
+259) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players agreed to owe Joker a favor after being released from Arkham.
+260) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players rammed the barricade at Harvey’s security checkpoint.
+261) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players chose to talk to Harvey on a personal level instead of threatening him as Batman.
+262) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players chose to stop Harvey from destroying your home and risked Oswald taking away your tech.
+263) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players chose to follow Joker’s advice and make a phone call to get out of Arkham.
+264) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^of players chose to stop the fight instead of taking Joker’s advice to make a call and get out of Arkham.
+265) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players chose to stop the fight instead of taking Joker’s advice to make a call and get out of Arkham.
+266) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players denied Joker a favor in return for his help in Arkham.
+267) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players paid off the enforcer at Harvey’s security checkpoint.
+268) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players chose to intimidate Harvey as Batman instead of risking his wrath as Bruce.
+269) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players chose to stop Oswald from destroying your tech and risked Harvey destroying your home.
+270) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players agreed to owe Joker a favor after being released from Arkham.
+271) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players denied Joker a favor in return for his help in Arkham.
+272) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players rammed the barricade at Harvey’s security checkpoint.
+273) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players paid off the enforcer at Harvey’s security checkpoint.
+274) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players chose to talk to Harvey on a personal level instead of threatening him as Batman.
+275) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players chose to intimidate Harvey as Batman instead of risking his wrath as Bruce.
+276) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players chose to stop Harvey from destroying your home and risked Oswald taking away your tech.
+277) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players chose to stop Oswald from destroying your tech and risked Harvey destroying your home.
+278) 
+Did you promise Joker a favor?
+285) 
+Did you promise Joker a favor?
+279) 
+How did you get past the Enforcer Baricade?
+286) 
+How did you get past the Enforcer Baricade?
+280) 
+Did you deal with Harvey as Bruce or Batman?
+289) 
+Did you deal with Harvey as Bruce or Batman?
+281) 
+Did you stop Harvey or Oswald?
+292) 
+Did you stop Harvey or Oswald?
+282) 
+How did you get out of Arkham?
+283) 
+Use your wealth and lawyers.
+284) 
+Use your influence on the GCPD.
+287) 
+Ram the barricade.
+288) 
+Pay the Enforcer.
+290) 
+Go as Bruce.
+291) 
+Go at Batman.
+293) 
+Stop Harvey.
+294) 
+Stop Oswald.
+295) 
+Agreed to owe Joker a favor.
+297) 
+Denied Joker a favor.
+298) 
+Did you go along with Joker’s story?
+299) 
+Where did you send Harvey?
+300) 
+What were your last words to Selina?
+301) 
+How did you interact with the boy?
+302) 
+You and {percent}% of players told Dr. Leland it was all a blur.
+303) 
+You and {percent}% of players told Dr. Leland it was all a blur.
+304) 
+You and {percent}% of players told Dr. Leland that Joker is lying.
+305) 
+You and {percent}% of players told Dr. Leland that Joker is lying.
+306) 
+You and {percent}% of players went along with Joker’s story.
+307) 
+You and {percent}% of players went along with Joker’s story.
+308) 
+You and {percent}% of players remained silent instead of telling your side of the story.
+309) 
+You and {percent}% of players remained silent instead of telling your side of the story.
+310) 
+You and {percent}% of players punished Harvey with Blackgate instead of Arkham.
+311) 
+You and {percent}% of players punished Harvey with Blackgate instead of Arkham.
+312) 
+You and {percent}% of players sent Harvey to Arkham for treatment instead of punishment at Blackgate.
+313) 
+You and {percent}% of players sent Harvey to Arkham for treatment instead of punishment at Blackgate.
+314) 
+You and {percent}% of players told Selina to leave.
+322) 
+You and {percent}% of players told Selina to leave.
+315) 
+You and {percent}% of players turned your back to Selina.
+323) 
+You and {percent}% of players turned your back to Selina.
+316) 
+You and {percent}% of players kissed Selina goodbye.
+324) 
+You and {percent}% of players kissed Selina goodbye.
+317) 
+You and {percent}% of player had no last words for Selina.
+325) 
+You and {percent}% of player had no last words for Selina.
+318) 
+You and {percent}% of players attempted to calm the boy instead of pressing him for information.
+326) 
+You and {percent}% of players attempted to calm the boy instead of pressing him for information.
+319) 
+You and {percent}% of players pressed the boy for useful information instead of coddling him.
+327) 
+You and {percent}% of players pressed the boy for useful information instead of coddling him.
+320) 
+You and {percent}% of players
+321) 
+You and {percent}% of players
+328) 
+How did you respond to Selina?
+367) 
+How did you respond to Selina?
+329) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players regarded Selina as more than a thief.
+330) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players deemed Selina as nothing more than a thief.
+331) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players threw Harvey’s coin over the balcony.
+332) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players pocketed Harvey’s coin.
+333) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players removed your cowl and revealed your identity to Vicki.
+334) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players kept the cowl on and protected your identity.
+335) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players showed up to Gordon’s address as Bruce.
+336) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players showed up to Gordon’s address as Batman.
+337) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^{percent}%^^ of players regarded Selina as more than a thief.
+338) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^You and {percent}%^^ of players deemed Selina as nothing more than a thief.
+339) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players threw Harvey’s coin over the balcony.
+340) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players pocketed Harvey’s coin.
+341) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players took off the cowl and revealed their identity to Vicki.
+342) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players kept the cowl on and protected their identity.
+343) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players showed up to Gordon’s address as Bruce.
+344) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players showed up to Gordon’s address as Batman.
+345) 
+What did you do with Harvey’s coin?
+346) 
+Did you take off the cowl?
+371) 
+Did you take off the cowl?
+347) 
+Did you attend Gordon’s address as Bruce or Batman?
+374) 
+Did you attend Gordon’s address as Bruce or Batman?
+348) 
+Did you successfully distract Penguin?
+349) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players distracted Penguin long enough for Gordon to get the job done.
+350) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^ {percent}%^^ of players distracted Penguin long enough for Gordon to get the job done.
+351) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players could not keep Penguin distracted long enough for Gordon.
+352) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and  {percent}%^^ of players could not keep Penguin distracted long enough for Gordon.
+353) 
+Did you blame Alfred for his involvement with Thomas Wayne?
+362) 
+Did you blame Alfred for his involvement with Thomas Wayne?
+354) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players told Alfred it didn’t matter who was at fault, all that matters is fixing the problem.
+355) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players blamed Alfred for not doing enough to stop Thomas Wayne.
+356) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players comforted Alfred that he wasn’t to blame.
+357) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players did not respond as Alfred blamed himself.
+358) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players told Alfred it didn’t matter who was at fault, all that matters is fixing the problem.
+359) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players blamed Alfred for not doing enough to stop Thomas Wayne.
+360) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players comforted Alfred that he wasn’t to blame.
+361) 
+^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players did not respond as Alfred blamed himself.
+363) 
+Focused on fixing the problem.
+364) 
+Blamed Alfred.
+365) 
+Did not blame Alfred
+366) 
+Did not respond.
+368) 
+Told Selina she’s more than a thief.
+369) 
+Told Selina she’s just a thief.
+372) 
+Took the cowl off.
+373) 
+Kept the cowl on.
+375) 
+Bruce.
+376) 
+Batman
+377) 
+How did you respond to Lady Arkham’s tape?
+378) 
+Vicki will pay for this.
+379) 
+This is my fault.
+380) 
+Alfred is strong.
+382) 
+What were your last words to Oswald?
+383) 
+You and {percent}% of players knocked Oswald out.
+384) 
+You and {percent}% of players knocked Oswald out.
+385) 
+You and {percent}% of players told Oswald to show some dignity.
+386) 
+You and {percent}% of players told Oswald to show some dignity.
+387) 
+You and {percent}% of players told Oswald goodbye.
+388) 
+You and {percent}% of players told Oswald goodbye.
+389) 
+You and {percent}% of players told Oswald to enjoy prison.
+390) 
+You and {percent}% of players told Oswald to enjoy prison.
+391) 
+How did you react to Commissioner Grogan’s death?
+392) 
+You and {percent}% of players told Gordon you would avenge Grogan’s death.
+393) 
+You and {percent}% of players told Gordon you would avenge Grogan’s death.
+394) 
+You and {percent}% of players believed Grogan gave his life for Gotham.
+395) 
+You and {percent}% of players believed Grogan gave his life for Gotham.
+396) 
+You and {percent}% of players told Gordon there wasn’t time to grieve.
+397) 
+You and {percent}% of players told Gordon there wasn’t time to grieve.
+398) 
+You and {percent}% of players were silent.
+399) 
+You and {percent}% of players were silent.
+407) 
+You and {percent}% of players were silent.
+408) 
+You and {percent}% of players were silent.
+416) 
+You and {percent}% of players were silent.
+417) 
+You and {percent}% of players were silent.
+418) 
+You and {percent}% of players were silent.
+419) 
+You and {percent}% of players were silent.
+400) 
+How did you relate to Lady Arkham’s pain?
+401) 
+You and {percent}% of players told Lady Arkham that you understood her pain.
+402) 
+You and {percent}% of players told Lady Arkham that you understood her pain.
+403) 
+You and {percent}% of players told Lady Arkham that you understood her need for justice.
+404) 
+You and {percent}% of players told Lady Arkham that you understood her need for justice.
+405) 
+You and {percent}% of players didn’t care for it.
+406) 
+You and {percent}% of players didn’t care for it.
+409) 
+What was your reason for meeting Oswald as Bruce?
+410) 
+You and {percent}% of players told Alfred you’d make the perfect hostage.
+411) 
+You and {percent}% of players told Alfred you’d make the perfect hostage.
+412) 
+You and {percent}% of players think Oswald underestimates Bruce .
+413) 
+You and {percent}% of players think Oswald underestimates Bruce.
+414) 
+You and {percent}% of players think Oswald would listen to Bruce.
+415) 
+You and {percent}% of players think Oswald would listen to Bruce.
+420) 
+What was your reason for meeting Harvey as Bruce?
+421) 
+You and {percent}% of players told Alfred you can distract Harvey as Bruce.
+422) 
+You and {percent}% of players told Alfred you can distract Harvey as Bruce.
+423) 
+You and {percent}% of players told Alfred that Bruce can get close enough to disarm Harvey.
+424) 
+You and {percent}% of players told Alfred that Bruce can get close enough to disarm Harvey.
+425) 
+You and {percent}% of players think Harvey would listen to Bruce.
+426) 
+You and {percent}% of players think Harvey would listen to Bruce.

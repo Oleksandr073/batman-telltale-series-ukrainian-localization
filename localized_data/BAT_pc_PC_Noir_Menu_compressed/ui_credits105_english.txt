@@ -1,0 +1,1730 @@
+﻿1) 
+^font:GameplayDisplayLarge.font^^glyphScale:0.8^City of Light
+2) 
+^^Portions Copyright
+FMOD Studio by Firelight Technologies
+Uses Simplygon (TM), Copyright © 2014 Donya(TM) Labs AB
+
+©2002 Jean-Marc Valin
+
+Uses Oodle.  Copyright (C) 2008-2016 by RAD Game Tools, Inc.
+
+Copyright © 1994–2016 Lua.org, PUC-Rio.Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the Software), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+This game is a work of fiction. All of the characters, events, locations, logos, and entities portrayed are fictional. Any resemblance to real persons, living or dead, or actual events, is purely coincidental.
+
+Software code © 2016-2019 LCG Entertainment, Inc. All other elements © DC (s16). DC LOGO, BATMAN and all related characters and elements © & ™ DC (s16). Telltale, Telltale Games, Crowd Play, the Crowd Play logo and the Telltale logo are trademarks and/or registered trademarks of LCG Entertainment, Inc. All rights reserved.
+
+WBIE LOGO, WB SHIELD: ™&© Warner Bros. Entertainment Inc. (s16)
+
+All other trademarks are the property of their respective owners. All rights reserved.
+3) 
+
+286) 
+^^
+311) 
+^^
+4) 
+^font:MenuDisplaySmall.font^WRITTEN BY
+238) 
+^font:MenuDisplaySmall.font^WRITTEN BY
+5) 
+^^Name(s)
+9) 
+^^Name(s)
+11) 
+^^Name(s)
+13) 
+^^Name(s)
+37) 
+^^Name(s)
+39) 
+^^Name(s)
+41) 
+^^Name(s)
+43) 
+^^Name(s)
+45) 
+^^Name(s)
+47) 
+^^Name(s)
+49) 
+^^Name(s)
+51) 
+^^Name(s)
+53) 
+^^Name(s)
+55) 
+^^Name(s)
+57) 
+^^Name(s)
+59) 
+^^Name(s)
+61) 
+^^Name(s)
+63) 
+^^Name(s)
+65) 
+^^Name(s)
+67) 
+^^Name(s)
+69) 
+^^Name(s)
+71) 
+^^Name(s)
+73) 
+^^Name(s)
+75) 
+^^Name(s)
+77) 
+^^Name(s)
+79) 
+^^Name(s)
+81) 
+^^Name(s)
+83) 
+^^Name(s)
+85) 
+^^Name(s)
+87) 
+^^Name(s)
+89) 
+^^Name(s)
+217) 
+^^Name(s)
+221) 
+^^Name(s)
+223) 
+^^Name(s)
+6) 
+^font:MenuDisplaySmall.font^DESIGNED BY
+245) 
+^font:MenuDisplaySmall.font^DESIGNED BY
+7) 
+^^Name - Lead
+Name(s)
+15) 
+^^Name - Lead
+Name(s)
+17) 
+^^Name - Lead
+Name(s)
+21) 
+^^Name - Lead
+Name(s)
+23) 
+^^Name - Lead
+Name(s)
+25) 
+^^Name - Lead
+Name(s)
+29) 
+^^Name - Lead
+Name(s)
+33) 
+^^Name - Lead
+Name(s)
+35) 
+^^Name - Lead
+Name(s)
+8) 
+^font:MenuDisplaySmall.font^DIRECTED BY
+241) 
+^font:MenuDisplaySmall.font^DIRECTED BY
+10) 
+^font:MenuDisplaySmall.font^ART DIRECTION BY
+257) 
+^font:MenuDisplaySmall.font^ART DIRECTION BY
+12) 
+^font:MenuDisplaySmall.font^MUISC BY
+14) 
+^font:MenuDisplaySmall.font^CONTENT PROGRAMMING
+243) 
+^font:MenuDisplaySmall.font^CONTENT PROGRAMMING
+641) 
+^font:MenuDisplaySmall.font^CONTENT PROGRAMMING
+16) 
+^font:MenuDisplaySmall.font^ANIMATION
+259) 
+^font:MenuDisplaySmall.font^ANIMATION
+18) 
+^font:MenuDisplaySmall.font^CINEMATIC ARTISTS
+247) 
+^font:MenuDisplaySmall.font^CINEMATIC ARTISTS
+19) 
+^^Name - Lead
+Name - Action Lead  (if applicable)
+Name(s)
+20) 
+^font:MenuDisplaySmall.font^ENVIRONMENT ART
+253) 
+^font:MenuDisplaySmall.font^ENVIRONMENT ART
+22) 
+^font:MenuDisplaySmall.font^CHARACTER ART
+249) 
+^font:MenuDisplaySmall.font^CHARACTER ART
+24) 
+^font:MenuDisplaySmall.font^LIGHTING
+237) 
+^font:MenuDisplaySmall.font^LIGHTING
+26) 
+^font:MenuDisplaySmall.font^CONCEPT ART
+254) 
+^font:MenuDisplaySmall.font^CONCEPT ART
+27) 
+^^Name – Lead (if applicable)
+Name(s)
+31) 
+^^Name – Lead (if applicable)
+Name(s)
+28) 
+^font:MenuDisplaySmall.font^USER INTERFACE
+236) 
+^font:MenuDisplaySmall.font^USER INTERFACE
+30) 
+^font:MenuDisplaySmall.font^TECHNICAL ART AND EFFECTS
+262) 
+^font:MenuDisplaySmall.font^TECHNICAL ART AND EFFECTS
+32) 
+^font:MenuDisplaySmall.font^SOUND DESIGN
+251) 
+^font:MenuDisplaySmall.font^SOUND DESIGN
+34) 
+^font:MenuDisplaySmall.font^VO DIRECTION
+264) 
+^font:MenuDisplaySmall.font^VO DIRECTION
+36) 
+^font:MenuDisplaySmall.font^ASSISTANT DIRECTOR
+38) 
+^font:MenuDisplaySmall.font^CREATIVE LEAD(S)
+40) 
+^font:MenuDisplaySmall.font^CREATIVE DIRECTOR(S)
+42) 
+^font:MenuDisplaySmall.font^EXECUTIVE PRODUCER(S)
+44) 
+^font:MenuDisplaySmall.font^SENIOR  PRODUCER(S)
+46) 
+^font:MenuDisplaySmall.font^PRODUCER(S)
+48) 
+^font:MenuDisplaySmall.font^ASSOCIATE PRODUCER(S)
+277) 
+^font:MenuDisplaySmall.font^ASSOCIATE PRODUCERS
+50) 
+^font:MenuDisplaySmall.font^ASSISTANT PRODUCER(S)
+306) 
+^font:MenuDisplaySmall.font^ASSISTANT PRODUCERS
+52) 
+^font:MenuDisplaySmall.font^CREATIVE ASSISTANT(S)
+54) 
+^font:MenuDisplaySmall.font^ADDITIONAL WRITING
+308) 
+^font:MenuDisplaySmall.font^ADDITIONAL WRITING
+56) 
+^font:MenuDisplaySmall.font^ADDITIONAL DESIGN
+293) 
+^font:MenuDisplaySmall.font^ADDITIONAL DESIGN
+58) 
+^font:MenuDisplaySmall.font^ADDITIONAL DIRECTION
+60) 
+^font:MenuDisplaySmall.font^ADDITIONAL ART DIRECTION
+321) 
+^font:MenuDisplaySmall.font^ADDITIONAL ART DIRECTION
+62) 
+^font:MenuDisplaySmall.font^ADDITIONAL MUSIC
+64) 
+^font:MenuDisplaySmall.font^ADDITIONAL CONTENT PROGRAMMING
+66) 
+^font:MenuDisplaySmall.font^ADDITIONAL ANIMATION
+292) 
+^font:MenuDisplaySmall.font^ADDITIONAL ANIMATION
+68) 
+^font:MenuDisplaySmall.font^ADDITIONAL CINEMATIC ARTISTS
+300) 
+^font:MenuDisplaySmall.font^ADDITIONAL CINEMATIC ARTISTS
+70) 
+^font:MenuDisplaySmall.font^ADDITIONAL CHARACTER ART
+278) 
+^font:MenuDisplaySmall.font^ADDITIONAL CHARACTER ART
+72) 
+^font:MenuDisplaySmall.font^ADDITIONAL ENVIRONMENT ART
+303) 
+^font:MenuDisplaySmall.font^ADDITIONAL ENVIRONMENT ART
+74) 
+^font:MenuDisplaySmall.font^ADDITIONAL LIGHTING
+285) 
+^font:MenuDisplaySmall.font^ADDITIONAL LIGHTING
+76) 
+^font:MenuDisplaySmall.font^ADDITIONAL CONCEPT ART
+561) 
+^font:MenuDisplaySmall.font^ADDITIONAL CONCEPT ART
+78) 
+^font:MenuDisplaySmall.font^ADDITIONAL USER INTERFACE
+80) 
+^font:MenuDisplaySmall.font^ADDITIONAL TECHNICAL ART AND EFFECTS
+281) 
+^font:MenuDisplaySmall.font^ADDITIONAL TECHNICAL ART AND EFFECTS
+82) 
+^font:MenuDisplaySmall.font^ADDITIONAL ART TEAM SUPPORT
+84) 
+^font:MenuDisplaySmall.font^ADDITIONAL PRODUCTION
+563) 
+^font:MenuDisplaySmall.font^ADDITIONAL PRODUCTION
+86) 
+^font:MenuDisplaySmall.font^DEVELOPMENT QUALITY ASSURANCE
+304) 
+^font:MenuDisplaySmall.font^DEVELOPMENT QUALITY ASSURANCE
+88) 
+^font:MenuDisplaySmall.font^VO PRODUCTION
+90) 
+^font:MenuDisplaySmall.font^CAST
+325) 
+^font:MenuDisplaySmall.font^CAST
+91) 
+^font:MenuDisplaySmall.font^CHARACTER
+92) 
+^^Actor Name
+93) 
+^font:MenuDisplaySmall.font^CHARACTER 2
+94) 
+^^Actor 2  Name
+95) 
+^font:MenuDisplaySmall.font^SONGS
+96) 
+^font:MenuDisplaySmall.font^SONG TITLE 1
+97) 
+^^Song Info
+98) 
+^font:MenuDisplaySmall.font^____ SERVICES PROVIDED BY
+99) 
+^^Name of Company(s)
+101) 
+^^Name of Company(s)
+100) 
+^font:MenuDisplaySmall.font^____  2 SERVICES PROVIDED BY
+102) 
+^font:MenuDisplaySmall.font^TELLTALE, INC.
+426) 
+^font:MenuDisplaySmall.font^TELLTALE, INC.
+103) 
+^font:MenuDisplaySmall.font^CEO
+456) 
+^font:MenuDisplaySmall.font^CEO
+660) 
+^font:MenuDisplaySmall.font^CEO
+104) 
+^^Kevin Bruner
+437) 
+^^Kevin Bruner
+105) 
+^font:MenuDisplaySmall.font^CFO
+427) 
+^font:MenuDisplaySmall.font^CFO
+106) 
+^^Larry Castro
+429) 
+^^Larry Castro
+107) 
+^font:MenuDisplaySmall.font^SENIOR VICE PRESIDENT OF PUBLISHING
+447) 
+^font:MenuDisplaySmall.font^SENIOR VICE PRESIDENT OF PUBLISHING
+108) 
+^^Steve Allison
+460) 
+^^Steve Allison
+109) 
+^font:MenuDisplaySmall.font^EXECUTIVE ADVISOR
+428) 
+^font:MenuDisplaySmall.font^EXECUTIVE ADVISOR
+110) 
+^^Dan Connors
+430) 
+^^Dan Connors
+111) 
+^font:MenuDisplaySmall.font^VICE PRESIDENT OF DEVELOPMENT
+443) 
+^font:MenuDisplaySmall.font^VICE PRESIDENT OF DEVELOPMENT
+112) 
+^^Paul Mathus
+454) 
+^^Paul Mathus
+113) 
+^font:MenuDisplaySmall.font^VICE PRESIDENT OF ENGINEERING
+445) 
+^font:MenuDisplaySmall.font^VICE PRESIDENT OF ENGINEERING
+114) 
+^^Zacariah Litton
+446) 
+^^Zacariah Litton
+115) 
+^font:MenuDisplaySmall.font^VICE PRESIDENT OF ONLINE
+451) 
+^font:MenuDisplaySmall.font^VICE PRESIDENT OF ONLINE
+116) 
+^^Steve Crystal
+449) 
+^^Steve Crystal
+117) 
+^font:MenuDisplaySmall.font^DIRECTOR OF HUMAN RESOURCES
+455) 
+^font:MenuDisplaySmall.font^DIRECTOR OF HUMAN RESOURCES
+118) 
+^^Kara Henander
+418) 
+^^Kara Henander
+119) 
+^font:MenuDisplaySmall.font^SENIOR DIRECTOR OF MARKETING
+459) 
+^font:MenuDisplaySmall.font^SENIOR DIRECTOR OF MARKETING
+120) 
+^^Richard Iggo
+457) 
+^^Richard Iggo
+121) 
+^font:MenuDisplaySmall.font^DIRECTOR OF ANALYTICS
+458) 
+^font:MenuDisplaySmall.font^DIRECTOR OF ANALYTICS
+122) 
+^^Nathan West
+417) 
+^^Nathan West
+123) 
+^font:MenuDisplaySmall.font^DIRECTOR OF ART DEPARTMENT
+423) 
+^font:MenuDisplaySmall.font^DIRECTOR OF ART DEPARTMENT
+124) 
+^^Dave Bogan
+425) 
+^^Dave Bogan
+125) 
+^font:MenuDisplaySmall.font^DIRECTOR OF AUDIO
+461) 
+^font:MenuDisplaySmall.font^DIRECTOR OF AUDIO
+126) 
+^^Michael Kamper
+462) 
+^^Michael Kamper
+127) 
+^font:MenuDisplaySmall.font^DIRECTOR OF CINEMATICS
+419) 
+^font:MenuDisplaySmall.font^DIRECTOR OF CINEMATICS
+128) 
+^^Vahram Antonian
+463) 
+^^Vahram Antonian
+129) 
+^font:MenuDisplaySmall.font^DIRECTOR OF CONTENT ENGINEERING
+420) 
+^font:MenuDisplaySmall.font^DIRECTOR OF CONTENT ENGINEERING
+130) 
+^^Keenan Patterson
+435) 
+^^Keenan Patterson
+131) 
+^font:MenuDisplaySmall.font^DIRECTOR OF CREATIVE COMMUNICATIONS
+464) 
+^font:MenuDisplaySmall.font^DIRECTOR OF CREATIVE COMMUNICATIONS
+132) 
+^^Job J. Stauffer
+421) 
+^^Job J. Stauffer
+133) 
+^font:MenuDisplaySmall.font^DIRECTOR OF DESIGN
+465) 
+^font:MenuDisplaySmall.font^DIRECTOR OF DESIGN
+134) 
+^^Ryan Kaufman
+466) 
+^^Ryan Kaufman
+135) 
+^font:MenuDisplaySmall.font^DIRECTOR OF DISTRIBUTION AND RELEASE
+431) 
+^font:MenuDisplaySmall.font^DIRECTOR OF DISTRIBUTION AND RELEASE
+136) 
+^^John Merlino
+436) 
+^^John Merlino
+137) 
+^font:MenuDisplaySmall.font^DIRECTOR OF EXTERNAL PRODUCTION
+467) 
+^font:MenuDisplaySmall.font^DIRECTOR OF EXTERNAL PRODUCTION
+138) 
+^^Dennis Cooper
+433) 
+^^Dennis Cooper
+139) 
+^font:MenuDisplaySmall.font^DIRECTOR OF PLATFORM TECHNOLOGY
+424) 
+^font:MenuDisplaySmall.font^DIRECTOR OF PLATFORM TECHNOLOGY
+140) 
+^^David Brady
+478) 
+^^David Brady
+141) 
+^font:MenuDisplaySmall.font^DIRECTOR OF PRODUCT MANAGEMENT
+468) 
+^font:MenuDisplaySmall.font^DIRECTOR OF PRODUCT MANAGEMENT
+142) 
+^^Tamir Nadav
+469) 
+^^Tamir Nadav
+143) 
+^font:MenuDisplaySmall.font^DIRECTOR OF PRODUCTION
+470) 
+^font:MenuDisplaySmall.font^DIRECTOR OF PRODUCTION
+144) 
+^^Alyssa Finley
+480) 
+^^Alyssa Finley
+145) 
+^font:MenuDisplaySmall.font^DIRECTOR OF PRODUCTION TECHNOLOGIES
+471) 
+^font:MenuDisplaySmall.font^DIRECTOR OF PRODUCTION TECHNOLOGIES
+146) 
+^^Jonathan Sgro
+472) 
+^^Jonathan Sgro
+147) 
+^font:MenuDisplaySmall.font^DIRECTOR OF STRATEGIC PLANNING AND CONSUMER INSIGHTS
+475) 
+^font:MenuDisplaySmall.font^DIRECTOR OF STRATEGIC PLANNING AND CONSUMER INSIGHTS
+148) 
+^font:MenuDisplaySmall.font^STUDIO ART MANAGER
+484) 
+^font:MenuDisplaySmall.font^STUDIO ART MANAGER
+149) 
+^^Kim Lyons
+504) 
+^^Kim Lyons
+150) 
+^font:MenuDisplaySmall.font^STUDIO CREATIVE MANAGER
+515) 
+^font:MenuDisplaySmall.font^STUDIO CREATIVE MANAGER
+151) 
+^^A.J. Riebli III
+486) 
+^^A.J. Riebli III
+152) 
+^font:MenuDisplaySmall.font^STUDIO PRODUCTION MANAGER
+518) 
+^font:MenuDisplaySmall.font^STUDIO PRODUCTION MANAGER
+153) 
+^^Mari Aizawa Burns
+512) 
+^^Mari Aizawa Burns
+154) 
+^font:MenuDisplaySmall.font^STUDIO TECHNOLOGY MANAGER
+509) 
+^font:MenuDisplaySmall.font^STUDIO TECHNOLOGY MANAGER
+155) 
+^^James Chan
+505) 
+^^James Chan
+156) 
+^font:MenuDisplaySmall.font^SENIOR MARKETING AND RELEASE MANAGER
+157) 
+^^Jonathan “JR” Rosales
+506) 
+^^Jonathan “JR” Rosales
+158) 
+^font:MenuDisplaySmall.font^SENIOR CREATIVE SERVICES MANAGER
+507) 
+^font:MenuDisplaySmall.font^SENIOR CREATIVE SERVICES MANAGER
+159) 
+^^Paolo Asuncion
+500) 
+^^Paolo Asuncion
+160) 
+^font:MenuDisplaySmall.font^MARKETING MEDIA PRODUCER
+161) 
+^^Shaun Finney
+162) 
+^font:MenuDisplaySmall.font^COMMUNITY AND VIDEO MANAGER
+490) 
+^font:MenuDisplaySmall.font^COMMUNITY AND VIDEO MANAGER
+163) 
+^^Nathan Ortega
+501) 
+^^Nathan Ortega
+164) 
+^font:MenuDisplaySmall.font^CREATIVE COMMUNICATIONS MANAGER
+508) 
+^font:MenuDisplaySmall.font^CREATIVE COMMUNICATIONS MANAGER
+165) 
+^^Laura Perusco
+487) 
+^^Laura Perusco
+166) 
+^font:MenuDisplaySmall.font^VIDEO EDITORS
+519) 
+^font:MenuDisplaySmall.font^VIDEO EDITORS
+167) 
+^^Murad Peret
+Jake Smith
+168) 
+^font:MenuDisplaySmall.font^ASSISTANT GRAPHIC DESIGNER
+521) 
+^font:MenuDisplaySmall.font^ASSISTANT GRAPHIC DESIGNER
+169) 
+^^Jonathan Rozmarin
+524) 
+^^Jonathan Rozmarin
+170) 
+^font:MenuDisplaySmall.font^ASSISTANT RELEASE MANAGER
+481) 
+^font:MenuDisplaySmall.font^ASSISTANT RELEASE MANAGER
+171) 
+^^Evan Koepf
+511) 
+^^Evan Koepf
+172) 
+^font:MenuDisplaySmall.font^BUILD PRODUCERS
+493) 
+^font:MenuDisplaySmall.font^BUILD PRODUCERS
+173) 
+^^Jeff Edwards
+Sara Guinness
+Edward Toomey
+174) 
+^font:MenuDisplaySmall.font^BUILD ENGINEERS
+488) 
+^font:MenuDisplaySmall.font^BUILD ENGINEERS
+175) 
+^^Fern Heintz
+Mario Valencia
+176) 
+^font:MenuDisplaySmall.font^QA COMPLIANCE LEADS
+526) 
+^font:MenuDisplaySmall.font^QA COMPLIANCE LEADS
+177) 
+^^Joseph Floyd
+Seferino Gallardo
+178) 
+^font:MenuDisplaySmall.font^QA COMPLIANCE SPECIALISTS
+516) 
+^font:MenuDisplaySmall.font^QA COMPLIANCE SPECIALISTS
+179) 
+^^Ricardo de Avila
+Carlos Flores
+Elena Morillo-Peterson
+Matthew Warner
+180) 
+^font:MenuDisplaySmall.font^QA ENGINEERS
+483) 
+^font:MenuDisplaySmall.font^QA ENGINEERS
+181) 
+^^Eric Baca
+Tetsuji Gotanda
+Erik Speeckaert
+182) 
+^font:MenuDisplaySmall.font^SUBMISSION SPECIALIST
+373) 
+^font:MenuDisplaySmall.font^SUBMISSION SPECIALIST
+183) 
+^^Mason Nguyen
+379) 
+^^Mason Nguyen
+184) 
+^font:MenuDisplaySmall.font^SENIOR WEB ARCHITECT
+391) 
+^font:MenuDisplaySmall.font^SENIOR WEB ARCHITECT
+185) 
+^^John Gamble
+359) 
+^^John Gamble
+186) 
+^font:MenuDisplaySmall.font^LEAD WEB ARCHITECT
+187) 
+^^Dwayn Matthies
+188) 
+^font:MenuDisplaySmall.font^WEB DEVELOPMENT ENGINEER
+384) 
+^font:MenuDisplaySmall.font^WEB DEVELOPMENT ENGINEER
+189) 
+^^Jesse Wagstaff
+380) 
+^^Jesse Wagstaff
+190) 
+^font:MenuDisplaySmall.font^LEAD ONLINE ENGINEER
+372) 
+^font:MenuDisplaySmall.font^LEAD ONLINE ENGINEER
+191) 
+^^Erik Erwitt
+358) 
+^^Erik Erwitt
+192) 
+^font:MenuDisplaySmall.font^TECHNICAL DIRECTOR
+388) 
+^font:MenuDisplaySmall.font^TECHNICAL DIRECTOR
+193) 
+^^Michael Perretta
+365) 
+^^Michael Perretta
+194) 
+^font:MenuDisplaySmall.font^JUNIOR CREATIVE EXECUTIVE
+195) 
+^^Adam Miller
+196) 
+^font:MenuDisplaySmall.font^EXECUTIVE ASSISTANT
+399) 
+^font:MenuDisplaySmall.font^EXECUTIVE ASSISTANT
+197) 
+^^Betsy Delis
+198) 
+^font:MenuDisplaySmall.font^STUDIO PRODUCTION ASSISTANT
+370) 
+^font:MenuDisplaySmall.font^STUDIO PRODUCTION ASSISTANT
+199) 
+^^Adrian Emery
+390) 
+^^Adrian Emery
+200) 
+^font:MenuDisplaySmall.font^HUMAN RESOURCES
+389) 
+^font:MenuDisplaySmall.font^HUMAN RESOURCES
+201) 
+^^Amy Gosman
+Keena Hom
+Kimberly Ng
+202) 
+^font:MenuDisplaySmall.font^RECRUITING
+395) 
+^font:MenuDisplaySmall.font^RECRUITING
+203) 
+^^Nicola Smith
+Sara Geimer
+Stephanie Keegan
+Tim Nguyen
+Jenna Poffenroth
+Megan Quinn
+204) 
+^font:MenuDisplaySmall.font^OPERATIONS
+393) 
+^font:MenuDisplaySmall.font^OPERATIONS
+205) 
+^^Michael Hitson  
+Claudia Menjivar
+206) 
+^font:MenuDisplaySmall.font^FINANCE
+374) 
+^font:MenuDisplaySmall.font^FINANCE
+207) 
+^^Rhoda Gravador
+Glenn Horita
+Richard Hung
+Olga Malkiman
+Serena Sinn
+Dale Wang
+Matthew Williams
+208) 
+^font:MenuDisplaySmall.font^LEGAL
+368) 
+^font:MenuDisplaySmall.font^LEGAL
+209) 
+^^Mark Barbolak
+396) 
+^^Mark Barbolak
+210) 
+^font:MenuDisplaySmall.font^IT
+382) 
+^font:MenuDisplaySmall.font^IT
+211) 
+^^Erick Ely 
+Melanie Jacobson
+Alan Malicse
+Matthew Mitchell
+Manish Patel
+212) 
+^font:MenuDisplaySmall.font^PRODUCT SUPPORT
+383) 
+^font:MenuDisplaySmall.font^PRODUCT SUPPORT
+213) 
+^^Matthew Pedonti
+Ashley Burns
+Michael Vallejo
+214) 
+^font:MenuDisplaySmall.font^CREATED WITH THE TELLTALE TOOL
+354) 
+^font:MenuDisplaySmall.font^CREATED WITH THE TELLTALE TOOL
+215) 
+^^Kevin Bruner
+Zacariah Litton
+Jonathan Sgro
+Randy Tudor
+Patrick Algermissen
+Jeremy Bernstein
+David Brady
+David Bromberg
+Lex Chesler
+Matt Davidson
+Michael Eads
+Scott Eberline 
+Benn Herrera
+Ben Ingram
+Tim Ingram
+Alex Montgomery
+Mike Parsons 
+Karen Petersen
+Bernd Raabe
+Chris Schmelzle
+Michael Schwartz
+Ceri Stagg 
+Nicholas Van Sickle
+216) 
+^font:MenuDisplaySmall.font^FOCUS TESTERS
+218) 
+^font:MenuDisplaySmall.font^SPECIAL THANKS
+542) 
+^font:MenuDisplaySmall.font^SPECIAL THANKS
+588) 
+^font:MenuDisplaySmall.font^SPECIAL THANKS
+638) 
+^font:MenuDisplaySmall.font^SPECIAL THANKS
+219) 
+^^Name(s)
+
+
+and You
+220) 
+^font:MenuDisplaySmall.font^VERY SPECIAL THANKS
+222) 
+^font:MenuDisplaySmall.font^TELLTALE PETS
+551) 
+^font:MenuDisplaySmall.font^TELLTALE PETS
+224) 
+^^Jerry Liu
+473) 
+^^Jerry Liu
+225) 
+^font:MenuDisplaySmall.font^DIRECTOR OF TECHNICAL ART
+226) 
+^^Jason Armstrong
+227) 
+^font:MenuDisplaySmall.font^DIRECTOR OF THIRD PARTY PUBLISHING
+474) 
+^font:MenuDisplaySmall.font^DIRECTOR OF THIRD PARTY PUBLISHING
+228) 
+^^John Miller
+476) 
+^^John Miller
+229) 
+^font:MenuDisplaySmall.font^DIRECTOR OF TOOLS TECHNOLOGY
+477) 
+^font:MenuDisplaySmall.font^DIRECTOR OF TOOLS TECHNOLOGY
+230) 
+^^Alex Montgomery
+479) 
+^^Alex Montgomery
+231) 
+^font:MenuDisplaySmall.font^DIRECTOR OF WRITING
+496) 
+^font:MenuDisplaySmall.font^DIRECTOR OF WRITING
+232) 
+^^Pierre Shorette
+503) 
+^^Pierre Shorette
+233) 
+^font:MenuDisplaySmall.font^CHOREOGRAPHY DEPARTMENT SUPERVISOR
+485) 
+^font:MenuDisplaySmall.font^CHOREOGRAPHY DEPARTMENT SUPERVISOR
+234) 
+^^Rebekah Gamin Arcovitch
+523) 
+^^Rebekah Gamin Arcovitch
+235) 
+^font:MenuDisplaySmall.font^MUSIC BY
+239) 
+^^Meghan Thornton - Lead
+Meredith Ainsworth
+James Windeler
+240) 
+^^Martin McDonald
+242) 
+^^Jared Emerson-Johnson
+244) 
+^^Tulley Rafferty - Lead
+Michael Carpenter
+Greg Felber
+246) 
+^^Daniel Rosales - Lead
+Marissa Bernstel
+Bridget Bougan
+Kyle Cabral
+Kai Ho Chen
+Patrick Clark
+Colter Coates
+Ori Gellman
+Andrew Goh
+Rogelio Gonzalez
+Marina Ilic
+Jane Kim
+Vincent Kings
+Jonathan Kwok
+Zach Macias
+Camila Magrane
+Nick Marshall
+Andrew McDonell
+Jarann Pan
+Jason Pyke
+Thomas Tan
+Ryann Weller
+248) 
+^^Christian De Los Santos - Lead
+Brian Gillies
+Julia Lichtblau
+Amanda Stewart
+Josh Michael Tyler
+Jan Wyss
+250) 
+^^Johannes Holm
+Patrick Jensen
+Rolf Mohr 
+Gray Rogers
+252) 
+^^Lazar Levine - Lead
+Greg deBeer
+Michael Kamper
+Michael Patterson
+Aaron Walz
+255) 
+^^Chris Hockabout - Lead
+Matthew McManus
+256) 
+^^Kent Mudle
+258) 
+^^Michael Tjosvold - Lead
+Tyler Helton
+Michael Hollander
+Nick Malutama
+Ryan Rasmussen
+Shahbaaz Shah
+Ramon Torralba
+Angel Wylie
+260) 
+^^John Carnabuci
+Brandon Cebenka
+Michael Sherak
+Davide Pagin
+Michael Vallejo
+261) 
+^^Craig Schiller - Lead
+Derek Godat
+263) 
+^^Jeffrey Benjamin - Lead
+Tracey Landau
+Farhan Noor
+Ricky O’Connor
+Emily Overfelt
+Michael Perretta
+Val Reznitskaya
+William Walker
+265) 
+^^Will Beckman - Lead
+266) 
+^font:MenuDisplaySmall.font^CREATIVE LEAD
+267) 
+^^Andrew Grant
+268) 
+^font:MenuDisplaySmall.font^CREATIVE DIRECTOR
+664) 
+^font:MenuDisplaySmall.font^CREATIVE DIRECTOR
+269) 
+^^Brett Tosti
+270) 
+^^David Reed Monroe - Lead
+Luke Aiello
+Hain Lee
+Adrianne Pugh
+Katie Zammit
+271) 
+^font:MenuDisplaySmall.font^EXECUTIVE PRODUCER
+272) 
+^^Sean O’Connor
+273) 
+^font:MenuDisplaySmall.font^SENIOR  PRODUCER
+274) 
+^^Brodie Andersen
+275) 
+^font:MenuDisplaySmall.font^PRODUCER
+276) 
+^^Anne Cunningham
+279) 
+^^Derek Sakai
+280) 
+^^Katrina Carras
+Calvin Huang
+282) 
+^^Troy Baker
+283) 
+^^Greg Masto
+Andrew Smallwood
+Kathleen Tigue
+284) 
+^^Dave Fennoy
+287) 
+^^Patrick Kevin Day
+Yale Hannon
+288) 
+^^Leif Estes
+289) 
+^^Travis Willingham
+290) 
+^^Laura Bailey
+583) 
+^^Laura Bailey
+291) 
+^font:MenuDisplaySmall.font^JAMES GORDON
+294) 
+^font:MenuDisplaySmall.font^ALFRED J. PENNYWORTH
+295) 
+^font:MenuDisplaySmall.font^ADDITIONAL VO DIRECTION
+296) 
+^font:MenuDisplaySmall.font^LADY ARKHAM (MASKED), ORDERLY 1
+297) 
+^font:MenuDisplaySmall.font^THE JOKER (JOHN DOE)
+298) 
+^^Brian Correia
+Nicholas Mastroianni
+299) 
+^^Jason Spisak
+301) 
+^font:MenuDisplaySmall.font^OSWALD COBBLEPOT, PENGUIN
+302) 
+^^Anthony Ingruber
+305) 
+^^Murphy Guyer
+307) 
+^font:MenuDisplaySmall.font^CREATIVE ASSISTANT
+309) 
+^font:MenuDisplaySmall.font^VICKI VALE, LADY ARKHAM
+310) 
+^^John R Miller
+Steven Moore
+Bekki Wilkinson
+Virtuos Games
+312) 
+^^Erin Yvette
+313) 
+^^Andrew Baker
+Mark Darin
+Juan Vaca
+314) 
+^^Jay Chaney
+Chris Vossen
+315) 
+^^Eric Ingerson
+Mindwalk Studios
+316) 
+^^Michael Daglow - Lead
+Kasen Bien
+Max Giganti
+Alejandro Ibarra
+Tim Johnson
+Marylena LeBlanc
+Bryson Perez
+William Quismorio
+Nicky Silber
+Eli Standard
+Randal West
+317) 
+^font:MenuDisplaySmall.font^BATMAN, BRUCE WAYNE
+318) 
+^font:MenuDisplaySmall.font^ADDITIONAL SOUND DESIGN
+319) 
+^font:MenuDisplaySmall.font^HARVEY DENT, TWO FACE
+320) 
+^^Mark Anquoe
+322) 
+^^Steve Blum
+323) 
+^font:MenuDisplaySmall.font^CATWOMAN, SELINA KYLE
+324) 
+^^Virtuos Games
+326) 
+^font:MenuDisplaySmall.font^LUCIUS FOX
+327) 
+^^Enn Reitel
+328) 
+^font:MenuDisplaySmall.font^VICTOR ZSASZ, COA THUG 1
+329) 
+^^Kiff VandenHuevel
+330) 
+^font:MenuDisplaySmall.font^ARNOLD WESKER, SOCKO
+331) 
+^^Larry Brisbowitz
+332) 
+^font:MenuDisplaySmall.font^RENEE MONTOYA, VESPER FAIRCHILD, DEBORAH
+333) 
+^^Krizia Bajos
+334) 
+^font:MenuDisplaySmall.font^QA SERVICES PROVIDED BY
+335) 
+^font:MenuDisplaySmall.font^LIVE ORCHESTRA PRODUCTION BY
+336) 
+^^Dynamedion
+337) 
+^^Babel
+338) 
+^font:MenuDisplaySmall.font^SESSION MANAGEMENT
+339) 
+^^Marcell Kelemen
+340) 
+^font:MenuDisplaySmall.font^SESSION PRODUCER & ORCHESTRATOR
+341) 
+^^David Christiansen
+342) 
+^^Thomas Bößl
+Christopher Tarnow
+343) 
+^font:MenuDisplaySmall.font^MIXING ENGINEER
+344) 
+^font:MenuDisplaySmall.font^EDITING ENGINEERS
+345) 
+^^Thomas Bößl
+346) 
+^^Christopher Tarnow, GENUIN recording group, Germany
+347) 
+^font:MenuDisplaySmall.font^RECORDING ENGINEER
+348) 
+^font:MenuDisplaySmall.font^RECORDING PRODUCER
+349) 
+^font:MenuDisplaySmall.font^CONDUCTOR
+350) 
+^^Christian Frank
+351) 
+^font:MenuDisplaySmall.font^ORCHESTRA
+352) 
+^^Brandenburg State Orchestra Frankfurt
+353) 
+^^Erick Ely 
+Melanie Jacobson
+Alan Malicse
+Manish Patel 
+Vern Roberts
+355) 
+^^Gary B. Washington Jr.
+356) 
+^^Susan Hawn
+357) 
+^^Craig Mitchell
+360) 
+^^Rhoda Gravador
+Glenn Horita
+Richard Hung
+Jeremiah Lawrance
+Olga Malkiman
+Serena Sinn
+Matthew Williams
+361) 
+^font:MenuDisplaySmall.font^UX DESIGNER
+362) 
+^^Amy Gosman
+Keena Hom
+363) 
+^font:MenuDisplaySmall.font^SENIOR PRODUCT MANAGER
+364) 
+^^Nicola Smith
+Clint Hansen
+Stephanie Keegan
+Jenna Poffenroth 
+Megan Quinn
+366) 
+^font:MenuDisplaySmall.font^PRODUCTION
+
+VICE PRESIDENT - PRODUCTION, CREATIVE, DC COMICS FRANCHISE
+367) 
+^^Kevin Bruner
+Zacariah Litton
+Jonathan Sgro
+Randy Tudor
+David Brady
+Lex Chesler
+Matt Davidson
+Michael Eads
+Scott Eberline 
+Ben Ingram
+Tim Ingram
+Sofy Kabachek
+Alex Montgomery
+Son Nguyen
+Mike Parsons 
+Karen Petersen
+Bernd Raabe
+Chris Schmelzle
+Michael Schwartz
+Ceri Stagg 
+Nicholas Van Sickle
+Jesse Ziglar
+Nate Trost
+369) 
+^font:MenuDisplaySmall.font^PRESIDENT
+WARNER BROS. INTERACTIVE ENTERTAINMENT
+371) 
+^font:MenuDisplaySmall.font^DIRECTOR, BRAND MARKETING
+375) 
+^^Ames Kirshen
+376) 
+^font:MenuDisplaySmall.font^MARKETING
+
+VICE PRESIDENT, BRAND MARKETING
+377) 
+^font:MenuDisplaySmall.font^PR
+
+VICE PRESIDENT, WW COMMUNICATIONS AND PR
+378) 
+^font:MenuDisplaySmall.font^LEGAL
+
+DIRECTOR, RIGHTS AND CLEARANCES
+381) 
+^^Brandon Newton
+385) 
+^font:MenuDisplaySmall.font^ASSOCIATE PRODUCER
+386) 
+^font:MenuDisplaySmall.font^FRONT END DEVELOPER
+387) 
+^^Shiaw-Ling Lai
+392) 
+^^Todd Pound
+394) 
+^^Nadja Bebout
+Michael Hitson  
+Claudia Menjivar
+397) 
+^^Ashley Burns
+398) 
+^font:MenuDisplaySmall.font^WB GAMES INC.
+400) 
+^^Matthew Geyer
+401) 
+^^Jane Elms
+402) 
+^^Ben Elliott
+403) 
+^font:MenuDisplaySmall.font^BUSINESS DEVELOPMENT
+
+VICE PRESIDENT, BUSINESS DEVELOPMENT AND LICENSING
+404) 
+^^Steve Chalk
+405) 
+^font:MenuDisplaySmall.font^EXECUTIVE MANAGEMENT
+
+PRESIDENT AND CHIEF CONTENT OFFICER, WARNER BROS. INTERACTIVE ENTERTAINMENT
+406) 
+^font:MenuDisplaySmall.font^FINANCE
+
+VICE PRESIDENT, PRODUCTION FINANCE
+407) 
+^^Diane Nelson
+590) 
+^^Diane Nelson
+408) 
+^^Kehau Rodenhurst
+409) 
+^^Remi Sklar
+410) 
+^font:MenuDisplaySmall.font^DIRECTOR, INTEGRATED COMMUNICATIONS
+411) 
+^font:MenuDisplaySmall.font^PRESIDENT
+WARNER BROS. WORLDWIDE HOME ENTERTAINMENT DISTRIBUTION
+412) 
+^^Ron Sanders
+413) 
+^^David Haddad
+414) 
+^font:MenuDisplaySmall.font^EXECUTIVE VICE PRESIDENT
+WORLDWIDE PRODUCTION AND STUDIOS, WARNER BROS. INTERACTIVE ENTERTAINMENT
+415) 
+^^Steven Chiang
+416) 
+^font:MenuDisplaySmall.font^SENIOR VICE PRESIDENT
+GLOBAL GENERAL MANAGER - PRODUCTION AND DEVELOPMENT
+422) 
+^font:MenuDisplaySmall.font^STUNT/FIGHT COORDINATORS
+432) 
+^^Fantasy Studios
+Pomann Sound
+Shelly Shenoy’s Loop Group
+Studiopolis
+The Studio: Portland
+434) 
+^font:MenuDisplaySmall.font^AUDIO SERVICES PROVIDED BY
+438) 
+^^David Bowman
+439) 
+^^Diana David
+Claudio Santos
+440) 
+^^Christopher Tarnow
+441) 
+^font:MenuDisplaySmall.font^STUNT PERFORMERS
+442) 
+^font:MenuDisplaySmall.font^VOICE EDITING AND MASTERING
+444) 
+^^MoGi Ltd.
+448) 
+^^George Crayton 
+Micah Karns
+450) 
+^^Vlad Rimburg
+Emmanuel Manzanares
+452) 
+^font:MenuDisplaySmall.font^LOCALIZATION SERVICES PROVIDED BY
+453) 
+^font:MenuDisplaySmall.font^VICE PRESIDENT OF PRODUCTION
+482) 
+^^Christopher Rose
+489) 
+^font:MenuDisplaySmall.font^ASSOCIATE BUILD PRODUCER
+491) 
+^font:MenuDisplaySmall.font^SENIOR BUILD PRODUCER
+492) 
+^^Joe Floyd
+Daniel Pangelina
+494) 
+^font:MenuDisplaySmall.font^ONLINE CAMPAIGN MANAGER
+495) 
+^^Sara Guinness
+667) 
+^^Sara Guinness
+497) 
+^^Sharif Gaines
+Fern Heintz
+Scott LaGrasta
+Mario Valencia
+498) 
+^^Eric Baca
+James Chapman
+Tetsuji Gotanda
+Erik Speeckaert
+499) 
+^font:MenuDisplaySmall.font^INTERNAL TOOLS ENGINEER
+502) 
+^^Jason Spafford
+510) 
+^font:MenuDisplaySmall.font^DIRECTOR OF PUBLISHING
+513) 
+^^Oleg Zilberman
+514) 
+^^Carlos Flores
+Seferino Gallardo
+517) 
+^^Romel Alonzo
+Ricardo de Avila
+David Choe
+Elena Morillo-Peterson
+Cody Wade
+Johnny Wing
+520) 
+^^Beau Hudak
+Murad Peret
+Jake Smith
+522) 
+^^Jason Robertson
+525) 
+^font:MenuDisplaySmall.font^SENIOR PLATFORM ENGINEER
+527) 
+^font:MenuDisplaySmall.font^VP, CREATIVE AFFAIRS
+528) 
+^font:MenuDisplaySmall.font^DC ENTERTAINMENT
+529) 
+^font:MenuDisplaySmall.font^SENIOR VP, FINANCE AND OPERATIONS
+530) 
+^font:MenuDisplaySmall.font^EXECUTIVE VP, BUSINESS AND MARKETING STRATEGY, DIRECT TO CONSUMER AND GLOBAL FRANCHISE MANAGEMENT
+531) 
+^^Nauru Gardiner
+532) 
+^^Russell Arons
+533) 
+^^Peter Wyse
+534) 
+^^Patrick McCallum
+535) 
+^^John Simmons
+536) 
+^font:MenuDisplaySmall.font^SENIOR VICE PRESIDENT, GAMES, EU
+537) 
+^font:MenuDisplaySmall.font^VICE PRESIDENT AND ASSOCIATE GENERAL COUNSEL
+538) 
+^font:MenuDisplaySmall.font^PUBLISHER
+593) 
+^font:MenuDisplaySmall.font^PUBLISHER
+539) 
+^font:MenuDisplaySmall.font^PRESIDENT AND CHIEF CREATIVE OFFICER
+540) 
+^font:MenuDisplaySmall.font^VICE PRESIDENT, HUMAN RESOURCES
+541) 
+^^Loki Zammit
+Colin and Sophie
+Miss Molly
+Sadie Pocket and Luna Bell
+Izzy
+Turtle the Turtle, Mickey the Chihuahua
+Calley and Izzy
+Seras Victoria The Police Cat
+Caramel, Chai, & Mocha.
+Rocco “Snuggle-buggle” Taco
+Tangle
+Emma Dashwood
+Momo the Cat, Echo the Dog
+Kiki
+FeetFeet
+Siobhan, Finn, Molly, and Skywalker
+Vincent & Luna
+Adonis & Aphrodite
+Jasper, The Pit
+Spike (aka Spuddles)
+Athena, King and Lilly
+Wrigley
+Cody
+Lilly
+Shaunday
+Guenever & Fishtank#5
+Mojo & Tico
+Chloe, Ori and Sonja. 
+Princess Chelsea
+Odie
+Punkin
+Nacho Libre
+Toto
+M and Fezzik
+Conway Twitty
+Coal
+Pigeon
+Cat
+Ali the fighting cat
+Maggie ‘The Bark Knight’ Mae
+Emma Carras
+Princess Shnorklepuffs Shoki
+Watson the Corgi
+Lily
+Penny & Desmond
+Dinah the Cat
+Emma and Lara Kuku
+Sir “The Jokes On You” Roses
+Snowflake and Charlie Cricket Junior
+Tobester Oven
+For Ziggy the Iguana
+Buffy and Scout, RIP Spike
+Mr. Grumpy Gills the Beta Fish
+and
+Brenden Q. Ferguson
+543) 
+^font:MenuDisplaySmall.font^SENIOR VICE PRESIDENT
+SALES & OPERATIONS, AMERICAS,
+WARNER BROS. INTERACTIVE ENTERTAINMENT
+544) 
+^font:MenuDisplaySmall.font^SENIOR VICE PRESIDENT
+FINANCE & ADMINISTRATION, AMERICAS, WARNER BROS. INTERACTIVE ENTERTAINMENT
+545) 
+^^Randy Ma
+ 
+
+
+
+BATMAN created by Bob Kane with Bill Finger.
+546) 
+^^Doug Regan
+547) 
+^font:MenuDisplaySmall.font^VICE PRESIDENT, BUSINESS DEVELOPMENT AND LICENSING
+548) 
+^^Dan Evans III
+549) 
+^font:MenuDisplaySmall.font^CREATIVE EXECUTIVE, INTERACTIVE
+550) 
+^^Kevin Kebodeaux
+552) 
+^^Olivier Wolff
+553) 
+^^Geoff Johns
+554) 
+^font:MenuDisplaySmall.font^SENIOR VICE PRESIDENT
+WORLDWIDE MARKETING 
+WARNER BROS. INTERACTIVE ENTERTAINMENT
+555) 
+^^Jennifer Stump
+556) 
+^^Jim Lee
+557) 
+^^Amit Desai
+558) 
+^^Scott Johnson
+559) 
+^font:MenuDisplaySmall.font^CREATIVE DIRECTOR, INTERACTIVE
+560) 
+^^Elena & Everett Rafferty
+Maria, Mateo & Maximus Carpenter
+Nicole and the “PenGwen”
+To my brother, Robert Alan Wylie
+Devon Ramirez, Joyce Walker, Bob Walker
+Ferrell Chaney
+Ryan Tosti, Alexis Tosti, Denise Tosti
+Kathy and Michael Liddick
+Marina Bennett
+Owen & Luke Sgro
+Liz Lopez
+Nick Topolos
+Chrissy, Pat (Patman) Evans, Mateo Cortez & Tatty!
+Marissa Lecount, La familia Vaca
+Dominic & Levi Smith
+Kathleen Glover & Newell Emerson-Johnson
+Sarah Wawrzynowski
+Mom, Dad, Natalie, Ron and jonah
+Liza Vasquez: Mother of the Year
+Steph & Caleb
+Susan Kim
+Karla, Sandra and Rogelio
+Kelly and Lisa O’Connor
+Michelle and Seraphine Nguyen
+Laura, Declan, & Aylish
+Jeff Sinclair
+Quismorio Family
+Erin Kerrigan
+Paps and Ma Boman
+Harley Huggins, II
+Miya McHugh
+Nathan Lyons
+Dominick & Andre Shah
+Connor Bernstel, Janet Bernstel, Maurice Bernstel, Leigha Foy, Scott Armetta, Jacksepticeye
+Jacqui, Ellie and the twins!
+Selena Nadav
+Michael Roy Anderson ‘78-‘08
+The Riebli Family
+For Jo-Anne, Grayling, and Aiya
+Alexander Pearlstein
+Michelle, Danielle, Ariel and Carmel
+To the Morillo Family and San Jose!
+The Vallejo Family
+Peter Nelson
+Michelle Steranko, Sage Wessner, Maverick & Sophie
+Alice White & House McCarthy
+Misty Lord
+Doki
+Harrison “Harryllax” Simon
+Luis, Alicia, Alyn and Miguel Rosales, Deena Mustin, Jessica Matter, Dustin Garza
+Zenas and Christian Burns
+Much love to Angela, Nathan, and Liam! Go Team Hockabout!
+My Boy Oz
+Amanda, Cameron, Colin and McKenna Baird; John Thornton III
+Haley Kavanagh
+
+
+and You
+562) 
+^^John Grello
+Layne Johnson
+564) 
+^^Etienne Grunenwald
+565) 
+^font:MenuDisplaySmall.font^CIVILIAN 1, GCPD COP 3, GCPD COP 8
+566) 
+^^Valerie Arem
+567) 
+^^Brad Abrell
+568) 
+^font:MenuDisplaySmall.font^GCPD COP 4, INMATE 1, GCPD COP 6, GCPD COP 7
+569) 
+^font:MenuDisplaySmall.font^YOUNG BRUCE, YOUNG OSWALD
+570) 
+^^Cole Sand
+571) 
+^font:MenuDisplaySmall.font^COMMISSIONER GROGAN, JACK RYDER
+572) 
+^^Robert Clotworthy
+573) 
+^^Christian Lanz
+574) 
+^font:MenuDisplaySmall.font^INMATE 3
+575) 
+^font:MenuDisplaySmall.font^COA THUG 2, GCPD COP 2, GCPD COP 5
+576) 
+^^Bayardo De Murguia
+577) 
+^font:MenuDisplaySmall.font^COA THUG 4, INMATE 2, ORDERLY 2
+578) 
+^^Chris Cox
+579) 
+^^Caroline Liddick
+580) 
+^font:MenuDisplaySmall.font^COMMUNITY MEDIA MANAGER
+581) 
+^font:MenuDisplaySmall.font^PLATFORM ENGINEER
+582) 
+^^Jesse Ziglar
+584) 
+^font:MenuDisplaySmall.font^COA THUG 3, GCPD COP 1
+585) 
+^^Matt Shapiro
+586) 
+^font:MenuDisplaySmall.font^VICE PRESIDENT OF CREATIVE
+587) 
+^^Leah Hoyer
+589) 
+^^Derek C. Smith
+591) 
+^font:MenuDisplaySmall.font^PRESIDENT
+612) 
+^font:MenuDisplaySmall.font^PRESIDENT
+592) 
+^^Dan DiDio
+594) 
+^font:MenuDisplaySmall.font^UI PROGRAMMING
+595) 
+^^David Grem Armstrong
+John Wetmiller
+596) 
+^font:MenuDisplaySmall.font^PRODUCT SUPPORT SUPERVISOR
+597) 
+^^Matthew Pedonti
+598) 
+^font:MenuDisplaySmall.font^CENTRAL TEAMS PRODUCER
+599) 
+^^Jennifer Hill
+600) 
+^font:MenuDisplaySmall.font^GENERAL MANAGER
+601) 
+^^Jacek Fajfer
+602) 
+^^Michal Raczynski
+603) 
+^font:MenuDisplaySmall.font^PUBLISHED BY ATHLON GAMES, INC.
+604) 
+^^Trevor Smith
+605) 
+^^Eli Standard - Lead
+Mark Vargas
+606) 
+^font:MenuDisplaySmall.font^SENIOR MANAGER GLOBAL BRAND
+607) 
+^font:MenuDisplaySmall.font^DIRECTOR, GLOBAL PR
+608) 
+^^Randy Tudor
+609) 
+^font:MenuDisplaySmall.font^VP, GLOBAL BRAND & MARKETING
+610) 
+^^James Chan
+Erik Erwitt
+Erick Ely
+Jesse Wagstaff
+Ben Ingram
+Ashley Burns
+611) 
+^^Geoff Chandler
+613) 
+^^Craig Mitchel
+614) 
+^font:MenuDisplaySmall.font^MANAGER GLOBAL COMMUNITY
+615) 
+^^Andrew Raabe
+616) 
+^font:MenuDisplaySmall.font^DIRECTOR, EMEA PUBLISHING
+617) 
+^^Alex Friend
+618) 
+^^Tom Goldberger
+619) 
+^^Adam Piesiak
+620) 
+^font:MenuDisplaySmall.font^VICE PRESIDENT, BUSINESS DEVELOPMENT
+621) 
+^^Andrew Lewis
+622) 
+^font:MenuDisplaySmall.font^ART
+623) 
+^font:MenuDisplaySmall.font^SR. DIRECTOR SOCIAL AND COMMUNITY
+624) 
+^^Pawel Ziajka
+625) 
+^font:MenuDisplaySmall.font^BUSINESS DEVELOPMENT MANAGER
+626) 
+^font:MenuDisplaySmall.font^QA PROJECT MANAGERS
+627) 
+^^Maciej Grabowski
+Andrzej Tsupko
+628) 
+^^Dave Miller
+629) 
+^^Sergiusz Slosarczyk
+630) 
+^font:MenuDisplaySmall.font^COMPLIANCE MANAGER
+631) 
+^font:MenuDisplaySmall.font^DIRECTOR OF QUALITY ASSURANCE
+632) 
+^font:MenuDisplaySmall.font^SUBMISSIONS
+633) 
+^font:MenuDisplaySmall.font^TESTED BY QLOC S.A.
+634) 
+^^Erik Heiberg
+635) 
+^font:MenuDisplaySmall.font^BUSINESS DEVELOPMENT DEPUTY DIRECTOR
+636) 
+^font:MenuDisplaySmall.font^QA LAB MANAGERS
+637) 
+^font:MenuDisplaySmall.font^QA TRAINING MANAGER
+639) 
+^font:MenuDisplaySmall.font^QUALITY ASSURANCE
+640) 
+^^Jakub Trudzik
+642) 
+^^Brett R. Rogstad
+Michael Sherak
+Denise Tomlin
+643) 
+^font:MenuDisplaySmall.font^ASSOCIATE, GLOBAL BRAND & MARKETING
+644) 
+^^Elena Roor
+645) 
+^^Lukasz Miroslawski
+Pawel Strzelczyk
+646) 
+^font:MenuDisplaySmall.font^QA TEAM LEADERS
+647) 
+^^Bartlomiej Zarek
+648) 
+^font:MenuDisplaySmall.font^QAF TESTERS
+649) 
+^^Yukari Baba
+Bartlomiej Beton
+Vincent Gileta
+Choi Hoseong
+Tomasz Klebecki 
+Dorota Kobylanska 
+Lukasz Poblocki
+Sebastian Stolarczyk
+Filip Switek
+650) 
+^font:MenuDisplaySmall.font^CQA TESTERS
+651) 
+^^Ewa Angielska
+Pawel Bucko
+Grzegorz Lewinski
+Michal Siwiecki
+652) 
+^font:MenuDisplaySmall.font^IT MANAGER
+653) 
+^^Tomasz Dziedzic
+654) 
+^font:MenuDisplaySmall.font^BUILD ENGINEERING
+655) 
+^^Mario Valencia
+656) 
+^font:MenuDisplaySmall.font^CRO
+657) 
+^font:MenuDisplaySmall.font^DEVELOPED BY
+LCG ENTERTAINMENT, INC.
+658) 
+^^Matt Saia
+659) 
+^font:MenuDisplaySmall.font^BATMAN: SHADOWS MODE
+661) 
+^^Jamie Ottilie
+662) 
+^^Brian Waddle
+663) 
+^font:MenuDisplaySmall.font^DIRECTOR OF OPERATIONS
+665) 
+^font:MenuDisplaySmall.font^SERVER ENGINEERING
+666) 
+^^Joe Paolinelli

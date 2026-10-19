@@ -1,0 +1,382 @@
+﻿1) 
+Don’t struggle, you’ll fall.
+2) 
+Talk or I drop you.
+3) 
+You can’t escape this.
+4) BATMAN
+Give up. There’s no way out.
+5) CATWOMAN
+Gotta admit it though--you give a good chase.
+66) CATWOMAN
+Gotta admit it though--you give a good chase.
+6) CATWOMAN
+One day you might actually catch me.
+67) CATWOMAN
+One day you might actually catch me.
+7) CATWOMAN
+But you won’t.
+8) BATMAN
+Who put you up to this?
+9) GCPD01
+[confused]The hell?
+10) CATWOMAN
+[to herself, congratulatory]Without a scratch.
+11) BATMAN
+So far.
+12) REPORTER01
+You getting this?
+13) REPORTER01
+[alt]Move us in! Closer!
+14) REPORTER01
+[disbelief]Holy hell!
+15) GORDON
+Do not shoot!
+16) GORDON
+Stand down!
+17) GCPD03
+[alt]Oh shit! Are we takin’ bets, ‘cause my money’s on the Bat.
+18) GORDON
+[furious]I said don’t shoot!
+19) GORDON
+[furious]Goddammit!
+20) CATWOMAN
+[grunts]Guess I was wrong about you catching me.
+21) BATMAN
+Don’t struggle or you’ll fall.
+22) CATWOMAN
+But that’s what you crave--the struggle.
+23) CATWOMAN
+Wouldn’t have landed on my feet this time.
+24) BATMAN
+Answer me or I let go--
+25) GCPD02
+[drawing gun][ALT]I’ve got her!
+26) GCPD03
+[shocked at the sight]Jesus!
+27) CATWOMAN
+[alt]Not sure if it was for my sake... or yours.
+28) CATWOMAN
+[scoffs]
+32) 
+
+37) THUG03
+[screaming and struggling as he’s dragged across the room]
+42) BRUCE
+[grimacing, glass being pulled from shoulder]
+95) THUG01
+[surprised scream]
+98) THUG04
+[coughing]
+99) THUGBOSS
+[coughing]
+100) THUG04
+[coughing]
+101) THUG03
+[coughing]
+146) BRUCE
+[grunt as he stands painfully]
+29) GORDON
+[alt]No!
+30) GORDON
+[alt]NO! NO! NO!
+31) GORDON
+[alt]WAIT! WAIT! WAIT!
+33) 
+Office Window
+34) 
+Shoot
+35) GORDON
+Move in!
+148) GORDON
+[to his men]Move in!
+36) GORDON
+Take the stairs!
+38) GCPD01
+Stay where you are!
+39) GCPD01
+You’re under arrest!
+40) BATMAN
+No, wait! [pained]
+41) GORDON
+What the hell are you doing!?
+43) BRUCE
+[fighting through the pain]Criminals in this city... they need something to fear.
+44) BRUCE
+This time though...
+103) BRUCE
+This time though...
+45) CATWOMAN
+My my, you’re a big one aren’t you?
+46) CATWOMAN
+Payday.
+47) CATWOMAN
+I was wondering if we’d cross paths.
+48) BATMAN
+No one else will.
+49) CATWOMAN
+[sarcastic]Oh, cut the shit.
+50) CATWOMAN
+Don’t tell me that’s why you do all... this.
+51) BATMAN
+[a threat, guttural]You broke the law. Here I am.
+52) CATWOMAN
+Most people dressed up like that end up in Arkham.
+53) CATWOMAN
+Squeeze into a suit, tie on a cape.
+54) CATWOMAN
+I’ll show you a thrill.
+55) CATWOMAN
+[pandering]Sounds lonely.
+56) BATMAN
+Why go to all that trouble for this?
+72) BATMAN
+Why go to all that trouble for this?
+57) BRUCE
+[sigh, resigned]Well then.
+58) BRUCE
+That’s a much harder fight.
+59) BRUCE
+[deadpan]Time to save the city.
+60) 
+This city needs protecting.
+61) BATMAN
+Gotham needs a hero.
+62) CATWOMAN
+“The law?”
+63) BATMAN
+I’m the only one who gets the job done.
+64) BATMAN
+Then let’s put you in a cage.
+65) CATWOMAN
+Don’t you know not to corner a wild animal?
+68) CATWOMAN
+It’s dangerous.
+69) CATWOMAN
+[taunting]Bring it, Bat.
+70) BATMAN
+It’s over!
+71) CATWOMAN
+I wouldn’t be so sure.
+73) CATWOMAN
+Shit.
+91) THUG02
+[on high alert]Shit.
+191) CATWOMAN
+Shit.
+74) ALFRED
+And people will keep you in the crosshairs...
+75) CATWOMAN
+Aww. So brooding.
+76) CATWOMAN
+Well, it’s been fun...
+77) CATWOMAN
+Bye, Bat.
+78) ALFRED
+[low, sincere]Don’t let tombstones be your family legacy.
+79) CATWOMAN
+You’re not that kinda guy.
+80) BRUCE
+[fighting through the pain]I can handle it.
+84) 
+I can handle it.
+81) BRUCE
+[fighting through the pain]Yeah, well that’s the point.
+82) ALFRED
+Strength and silence aren’t enough to keep you alive.
+83) BRUCE
+Let them come.
+85) 
+They need something to fear.
+86) 
+That’s the point.
+87) 
+No one else can do the job.
+88) 
+I do it for the thrill.
+89) THUGBOSS
+[an order]Get it open.
+90) THUG01
+[serious]The hell’d he go?
+92) THUG02
+Hey, I think somebody’s here.
+93) THUGBOSS
+[grim, serious]Whatever got in... don’t let it get out.
+94) THUG01
+On it.
+96) THUGBOSS
+[an order, to his mercs]Back to back, circle up!
+97) THUG04
+[choking]Agh!
+102) GORDON
+[an order]Back! Get back!
+104) BRUCE
+It’s a scare tactic, Al.
+105) ALFRED
+Criminals are becoming afraid of you. So are the police.
+106) BATMAN
+[forceful]Tonight.
+107) CATWOMAN
+[ALT]Let me guess... mommy and daddy issues?
+108) ALFRED
+[ALT]Go too far... and someday the public might agree.
+109) ALFRED
+Until you’ve been shot out of the sky.
+110) ALFRED
+[concerned, sympathetic]Bruce... you..you can’t keep doing this.
+111) BRUCE
+Sometimes you need a monster.
+179) BRUCE
+[pickup] Sometimes... you need a monster.
+112) ALFRED
+If you want to be intimidating, you’re succeeding.
+113) BATMAN
+That doesn’t belong to you.
+114) ALFRED
+You, however, are flesh and blood.
+115) ALFRED
+[VO]A myth can’t be killed.
+190) ALFRED
+[VO]A myth can’t be killed.
+116) BRUCE
+[pained]I have to... no one else will.
+117) ALFRED
+But, be careful you don’t turn into a monster.
+118) ALFRED
+I know you’re trying to create a myth.
+119) ALFRED
+Every drop of blood, everything you’ve sacrificed... this city is safer now.
+120) ALFRED
+But it’s made you a target.
+121) BRUCE
+Just a performance.
+122) ALFRED
+Step out of the shadows...
+123) ALFRED
+And put on the Bruce Wayne mask tonight.
+124) ALFRED
+[ALT]Be careful it doesn’t turn you into a monster.
+125) CATWOMAN
+[challenging him]Come and get it.
+126) CATWOMAN
+[challenging him]Want this?
+127) THUG03
+[gruff]Make enough noise and he shows up like a fuckin’ wrecking ball.
+128) THUG01
+[conspiratorial]You think he’s gonna show?
+129) THUG03
+He’ll bring the whole goddamn place down.
+130) THUG03
+Sent three home in an ambulance.
+131) THUG03
+The rest in body bags.
+132) THUG04
+No wonder the cops want him dead.
+133) THUG03
+I heard stories, you know.
+134) THUG03
+[defensive]What?! No, Hell no.
+135) THUG03
+Dyin’ to get a chance to clip his wings, that’s all--
+136) THUG04
+Don’t tell me you’re scared of the big bad bat...
+137) THUG02
+With all the other flyin’ animals.
+138) THUG02
+Yeah. Gotham Zoo.
+139) THUG01
+You ever seen him?
+140) BATMAN
+They’re on the 52nd floor.
+141) BATMAN
+I’m goin’ in.
+142) GORDON
+Hey, wait! Wait for backup!
+143) THUG02
+Huh?
+144) THUG02
+[alt]What was that?
+145) THUG02
+The hell is this...?
+147) GORDON
+[to himself, frustrated]Christ.
+149) THUG02
+[alt] You scared of a freak in a costume?
+150) THUG01
+[alt] No man! I just...you know, heard things.
+151) THUG03
+[alt]They say he ain’t even human.
+152) THUG04
+[alt]That’s a load.
+153) THUG02
+[alt] He’s a myth.
+154) THUGBOSS
+[alt]Eye on the prize boys.
+155) THUGBOSS
+[alt]We’ll be out before anyone can stop us.
+156) THUGBOSS
+[alt]Stay focused.
+157) 
+Satchel Catwoman
+158) BRUCE
+[ALT]You need a monster.
+159) GORDON
+[to his men]Stay alert... we’re not the only ones workin’ late.
+160) BATMAN
+Don’t need it.
+161) GCPD02
+Hey! There he is!
+162) CATWOMAN
+[ALT]Took you long enough. I was getting bored.
+163) CATWOMAN
+[ALT]Learn to knock, asshole.
+164) CATWOMAN
+[ALT]Didn’t your mother teach you to knock?
+165) CATWOMAN
+[ALT][re- Batman’s stubby ears]Nice ears.
+166) CATWOMAN
+[ALT][re- he’s about to be attacked]Behind you, big boy.
+167) CATWOMAN
+[success, to herself]Gotcha.
+168) BATMAN
+Someone to hunt down people like you.
+169) CATWOMAN
+[enjoying the distinction]Sounds fun.
+170) CATWOMAN
+So that makes me, what, a villain?
+171) GCPD01
+[pissed off]Two of ‘em now?
+172) CATWOMAN
+Maybe next time.
+173) CATWOMAN
+But that’s what you crave--the struggle, the chase.
+174) CATWOMAN
+I know men like you.
+175) CATWOMAN
+[biting back at him]Gimme some credit.
+176) CATWOMAN
+[facetious][ALT]Well, it’s been terrible...
+177) ALFRED
+[ALT]And be Bruce Wayne tonight.
+178) BATMAN
+I do this for the thrill of it.
+180) CATWOMAN
+[sarcastic][ALT]Oh, shut up.
+181) GCPD02
+[drawing gun, aimed at Batman]I’ve got him!
+182) GUARD
+[surprised, afraid]Hey! What’re you--[doing]
+183) THUGBOSS
+[gruff, taunting]Where are you?
+184) THUGBOSS
+[gruff, taunting]Show yourself!
+185) THUGBOSS
+[gruff, taunting]You think you can stop us?
+186) THUGBOSS
+[gruff, taunting]Why’re you hiding, huh?!
+187) THUGBOSS
+[gruff, taunting]You freak!
+188) THUGBOSS
+[gruff, taunting]Come out and fight!
+189) BATMAN
+[over radio]Gordon.

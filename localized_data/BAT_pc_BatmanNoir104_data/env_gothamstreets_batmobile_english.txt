@@ -1,0 +1,130 @@
+﻿1) BATMAN
+[to Alfred, into radio] Alfred. It’s me.
+2) BATMAN
+[to Alfred]My talk with Harvey didn’t go-
+3) ALFRED
+[over radio/interrupting]Mr. Dent is pulling up to the manor as we speak! And he’s not alone.
+4) BATMAN
+[realizing]He’s trying to take the manor.
+5) ALFRED
+I don’t think he intends to leave anything to take.
+6) BATMAN
+[bad ass]I’m on my way.
+7) BATMAN
+[frustrated]Not now!
+26) BATMAN
+[frustrated]Not now!
+8) BATMAN
+Lucius?
+9) LUCIUS
+I just saw!
+10) LUCIUS
+[pickup1] But I can’t explain it... the sheer number of server pings could only mean some sort of high-volume DDOS repeater--
+11) BATMAN
+[impatient] English, Lucius!
+12) LUCIUS
+[pickup1][tension] He’s put together a computer--a “Black Box” device--for the express purpose of smashing through the Batcave firewalls! I don’t know how, but he found the Batcave’s encrypted network!
+13) BATMAN
+What can Oswald access?
+14) LUCIUS
+[pickup1] Nothing yet. But I can’t keep him out much longer. Maybe an hour, at best.
+15) LUCIUS
+[pickup1] I’m going to keeping routing him, but you need to get to Wayne Tower and destroy that Black Box!
+16) BATMAN
+[to himself] Meanwhile Wayne Manor is under siege.
+17) LUCIUS
+[sympathetic] Even Batman can’t be in two places at once.
+32) ALFRED
+[pickup]Even Batman can’t be in two places at once.
+57) ALFRED
+[pickup]Even Batman can’t be in two places at once.
+18) LUCIUS
+[alt]I wish I could be more help, but you’re on your own for this.
+19) BATMAN
+I’m going home.
+20) BATMAN
+I’m coming home.
+21) BATMAN
+[to himself] Time to go to work.
+22) 
+[Go to Wayne Enterprises]
+23) 
+[Go to Wayne Manor]
+50) ALFRED
+[Heavy breathing, breaking onto call]
+24) BATMAN
+[pickup]Lucius discovered how Oswald’s cracking my security. He has a device that-
+25) ALFRED
+[pickup] I’m afraid we have another problem to deal with--!
+27) BATMAN
+[pickup][Gritted teeth] Penguin’s hacking assaults are getting worse - At this rate he’ll have my tech compromised by the end of the night.
+28) ALFRED
+[pickup]I.. understand. I can retreat to the Batcave to keep it secure but there won’t be anyone to stop Harvey from leveling the Manor.
+48) ALFRED
+[pickup]I.. understand. I can retreat to the Batcave to keep it secure but there won’t be anyone to stop Harvey from leveling the Manor.
+29) ALFRED
+[pickup]But I heard about his attack on the Children of Arkham.  I don’t expect there’s not much reasoning left in him.
+30) ALFRED
+[pickup]I don’t expect there’s not much reasoning left in him.
+31) ALFRED
+[pickup]Well I-- don’t envy your position.
+56) ALFRED
+[pickup]Well I-- don’t envy your position.
+33) BATMAN
+[pickup][to Alfred] I need to stop Penguin.  You go to the Batcave and make sure Harvey doesnt find it.
+34) ALFRED
+I understand.
+35) BATMAN
+[realizing] Already?!
+36) ALFRED
+[pickup] Sir! Are you alright?
+37) BATMAN
+[pickup] Harvey’s made it personal now - I need to stop him.
+38) ALFRED
+[pickup] Understood. See you soon.
+39) BATMAN
+Lucius. What’s the situation?
+51) BATMAN
+Lucius. What’s the situation?
+62) BATMAN
+Lucius. What’s the situation?
+63) BATMAN
+Lucius. What’s the situation?
+40) LUCIUS
+[Panicking] I figured out how he’s causing the feedback loop!
+52) LUCIUS
+[Panicking] I figured out how he’s causing the feedback loop!
+41) LUCIUS
+[Rapid] He’s somehow connected a “Black Box” computer to your encrypted network... God, it’s like a digital battering ram.
+53) LUCIUS
+[Rapid] He’s somehow connected a “Black Box” computer to your encrypted network... God, it’s like a digital battering ram.
+42) LUCIUS
+If he keeps this up, he could smash through the Batcave firewalls at any minute.
+54) LUCIUS
+If he keeps this up, he could smash through the Batcave firewalls at any minute.
+43) BATMAN
+[Grim realization] He’d have access to the Batcomputer...
+55) BATMAN
+[Grim realization] He’d have access to the Batcomputer...
+44) ALFRED
+[panicked] That’s not the worst of it I’m afraid!
+45) BATMAN
+[Worried] Alfred..?
+46) BATMAN
+Hang on, Lucius. It’s Alfred - I’m patching him in.
+47) BATMAN
+[Answering phone] Al. Lucius figured out how Penguin’s cracking my security. He has a device that-
+49) ALFRED
+I.. understand. Mr. Fox and I can retreat to the Batcave to keep it secure, but there won’t be anyone to stop Harvey from leveling the Manor.
+58) 
+Wayne Enterprises
+59) 
+Wayne Manor
+60) 
+FIREWALL BREACHED
+61) 
+Alfred Pennyworth
+64) BATMAN
+[pickup3][muttering to self] Only place he could be hacking me from is Wayne Enterprises...
+65) LUCIUS
+[alt][pickup3] If Oswald keeps this up, he could smash through the Batcave firewalls at any minute!

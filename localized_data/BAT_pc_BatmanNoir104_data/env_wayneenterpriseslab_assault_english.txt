@@ -1,0 +1,1797 @@
+﻿1) BATMAN
+I’m here.
+2) CATWOMAN
+Me too.
+3) THUG
+We might be here guarding stuff, but it’s probably just mechanical security stopping Batman.
+4) 
+Act natural.
+5) 
+Get angry.
+6) 
+Pretend to be drunk.
+7) 
+Play it cool.
+8) 
+I can steamroll him.
+9) 
+I’ll act drunk.
+10) 
+Just showing my girlfriend around.
+11) 
+I pay your salary, son.
+12) 
+I’m Bruce Wayne!
+13) 
+I have personal effects here.
+14) 
+I can still fire you!
+15) 
+I need my personal effects.
+16) 
+Oswald is expecting me.
+17) 
+My parents died.
+18) 
+I’ll give you a raise.
+19) 
+[Grab his hand]
+62) 
+
+74) 
+
+77) 
+
+96) LUCIUS
+[OS]
+106) 
+
+123) 
+
+124) 
+
+128) 
+
+172) 
+
+177) LUCIUS
+[muffled scream]
+207) 
+
+217) 
+
+228) REGINA
+[muffled scream]
+234) 
+
+244) PENGUIN
+[screams in pain]
+249) 
+
+271) 
+
+291) 
+
+319) 
+
+322) 
+
+372) GOON02
+[screams]
+460) 
+
+462) OSWALD
+[pained]
+478) 
+[Knock Him Out]
+480) OSWALD
+[pained]
+481) 
+[Hand Cuff Him]
+482) 
+
+486) OSWALD
+[pained]
+488) 
+
+492) 
+[Knock Him Out]
+494) 
+[Break Hands]
+495) 
+[HandCuff Him]
+505) PENGUIN
+[scream]
+527) 
+
+591) 
+
+592) 
+
+598) OSWALD
+[pained]
+599) OSWALD
+[wheezes]
+621) HARVEY
+[Growls menacingly]
+657) BATMAN
+[straining grunt]
+660) BATMAN
+[lets out a quick grunt]
+661) GOON01
+[gasps as he’s yanked off his feet!]
+813) 
+
+826) OSWALD
+[grunts]
+841) 
+[Knock him out]
+846) 
+[Deadstick]
+872) 
+[Knock him out]
+885) 
+[Knock him out]
+887) 
+[Restrain him]
+894) HARVEY
+[Growls menacingly]
+20) 
+You’re an embarassment.
+21) 
+You were doing your job.
+22) 
+Don’t let it happen again.
+23) 
+You’re fired.
+24) 
+I learned from the best.
+25) 
+That was the easy part.
+26) 
+I appreciate your help.
+27) BRUCE
+[serious]You know the plan, get inside, destroy the servers and the satellite dish.
+35) BATMAN
+[serious]You know the plan, get inside, destroy the servers and the satellite dish.
+28) SELINA
+[not serious]You really do know how to show a woman a good time, Mr. Wayne.
+29) BRUCE
+Lucius, you there?
+30) LUCIUS
+[in his earpierce]If you stall lobby security, I can spoof your account back nto the Wayne Enterprises active database.
+31) SELINA
+What’d he say?
+40) CATWOMAN
+What’d he say?
+32) BRUCE
+[alt]Okay.
+659) BATMAN
+[focusing]Okay-
+33) BRUCE
+That everything’s fine.
+34) SELINA
+We’re about to try to break into the most secure building in the state by introducing ourselves to security, everything’s not “fine.“
+36) CATWOMAN
+[not serious]Easy, breezy.
+37) BATMAN
+Lucius, are you there?
+652) BATMAN
+[alt, into comm]Lucius- are you there?
+38) LUCIUS
+[in his earpiece]Building security is on high alert but if you can get my infiltrator device onto on to a camera, I can keep you off their electronic surveillance.
+39) BATMAN
+Understood.
+41) BATMAN
+He’s going to make us invisible.
+42) 
+I hope he’s listening.
+48) BATMAN
+I hope he’s listening.
+43) 
+It won’t matter.
+61) BATMAN
+It won’t matter.
+44) 
+Then I’ll make this brief.
+49) BATMAN
+Then I’ll make this brief.
+45) 
+I’ll start over.
+46) 
+It’s become a blemish.
+47) 
+Now’s not the time for sentiment.
+50) PENGUIN
+We’ve got a Bat.
+51) PENGUIN
+Be ready.
+52) PENGUIN
+Call me Penguin.
+112) PENGUIN
+Call me Penguin.
+474) PENGUIN
+Call me Penguin.
+53) OSWALD
+Get me the Zellerbachs.
+54) REGINA
+But Mr. Cobblepot--
+55) THUG
+This is the one who let him in.
+58) THUG
+This is the one who let him in.
+56) PENGUIN
+That was sly of you, Mister Fox.
+57) PENGUIN
+Mr. Fox.
+59) PENGUIN
+The only thing that can kill a bat is a Bird of Prey.
+60) THUG
+[into] Man down, man down!
+63) BATMAN
+Then we’ll take the whole system down.
+397) BATMAN
+Then we’ll take the whole system down.
+64) LUCIUS
+You really want to erase Wayne Enterprises -- for good?
+65) BATMAN
+When it’s done, you’ll know.
+436) BATMAN
+When it’s done, you’ll know.
+66) LUCIUS
+[OS] The whole city will know.
+437) LUCIUS
+[OS] The whole city will know.
+67) LUCIUS
+What you’re about to do -- it’s going to
+68) BATMAN
+Lucius. Where are you?
+69) LUCIUS
+You know that Oswald has access to your entire comminication system.
+70) LUCIUS
+[OS] He could be listening to everything we’re saying right now.
+71) BATMAN
+I want him to know what’s coming to him.
+72) BATMAN
+In a few minutes -- this will all be over.
+73) BATMAN
+We won’t give him to react.
+75) LUCIUS
+[OS] You need to consider what may be coming to me.
+76) LUCIUS
+[OS] Neither of us do.
+78) LUCIUS
+You realize I’m putting my life on the line for you.
+79) BATMAN
+You?
+80) LUCIUS
+At work.
+91) LUCIUS
+At work.
+81) BATMAN
+Your office?
+92) BATMAN
+Your office?
+82) LUCIUS
+I don’t want to say.
+93) LUCIUS
+I don’t want to say.
+83) LUCIUS
+Monitoring you from the Batcave.
+84) LUCIUS
+It’s late. I went home.
+85) LUCIUS
+[OS] Oswald has compromised your entire commincation system.
+86) BATMAN
+Get out of there if you have to. I can handle this on my own.
+87) BATMAN
+You owe me this, Lucius.
+88) LUCIUS
+Just make sure I get out of this
+120) LUCIUS
+Just make sure I get out of this
+89) LUCIUS
+I’m putting my life on the life for you here.
+94) LUCIUS
+I’m putting my life on the life for you here.
+95) LUCIUS
+I’m putting my life on the life for you here.
+90) BATMAN
+If there was ever a reason I asked you to stay -- this is it.
+97) OSWALD
+I’m sorry, but we have to cut this meeting short.
+98) OSWALD
+Oh, and get me Mr. Fox, please.
+99) OSWALD
+We’ve got some... business to discuss.
+100) PENGUIN
+Remember when I told you that we wanted the same things?
+101) PENGUIN
+Now I got all of yours.
+102) BATMAN
+I don’t like to share.
+103) BATMAN
+Let them go.
+104) BATMAN
+Let them go.
+261) BATMAN
+Let them go.
+276) BATMAN
+Let them go.
+278) BATMAN
+Let them go.
+105) PENGUIN
+I really like this toy you made for him. Maybe you could help me test it out.
+107) PENGUIN
+I have to say --  I was surprised when I discovered that Bruce Wayne was in the Batman business.
+108) PENGUIN
+I own you now.
+147) PENGUIN
+I own you now.
+109) PENGUIN
+I thought you were a hero.
+110) PENGUIN
+But I guess you’re just a hypocrite.
+111) LUCIUS
+Oswald--
+473) LUCIUS
+Oswald?
+113) LUCIUS
+If he catches me -- I won’t be helping anyone -- ever again.
+114) LUCIUS
+If you get a chance, stop by my office.
+LUCIUS
+115) BATMAN
+I need you to plant the last EMP in the Executive Office.
+116) LUCIUS
+I’m putting my life on the line by helping you here.
+117) LUCIUS
+I hope you know that.
+118) BATMAN
+You knew the risks when you decided to stay.
+119) BATMAN
+I owe you a raise.
+121) BATMAN
+Just do it.
+158) BATMAN
+Just do it.
+122) BATMAN
+I was surprised when I discovered that you were being funded by Wayne Enterprises.
+125) BATMAN
+Lucius, can you get into the Executive Office?
+126) BATMAN
+You have access.
+127) LUCIUS
+I can try.
+129) THUG04
+Got him. He’s on the 15 the floor.
+130) PENGUIN
+[OS] You got him?
+131) BATMAN
+[into intercom] I’ll be right up.
+132) BATMAN
+You can have them.
+133) BATMAN
+I don’t need them.
+215) BATMAN
+I don’t need them.
+134) PENGUIN
+Now, you work for me.
+135) PENGUIN
+Oh, good! You’re just in time for the party.
+136) PENGUIN
+I didn’t know that Bruce Wayne was in the Batman business.
+137) BATMAN
+They won’t help you.
+220) BATMAN
+They won’t help you.
+297) BATMAN
+They won’t help you.
+138) LUCIUS
+[OS] Where?
+139) BATMAN
+Wayne Tower.
+140) LUCIUS
+[OS] [taken a back] Have you lost your mind?
+141) BATMAN
+I need you to plant the last EMP
+142) BATMAN
+I’m here to do something about that.
+395) BATMAN
+I’m here to do something about that.
+143) LUCIUS
+[OS] Oswald has control of the entire system now. You can’t just change the password and lock him out.
+394) LUCIUS
+[OS] Oswald has control of the entire system now. You can’t just change the password and lock him out.
+144) LUCIUS
+[OS] You’re going to have to take the entire system down.
+396) LUCIUS
+[OS] You’re going to have to take the entire system down.
+145) PENGUIN
+No, no. Don’t cry.
+146) PENGUIN
+We haven’t gotten to that part yet.
+148) PENGUIN
+I
+149) BATMAN
+The ends -- they always justify the means.
+150) PENGUIN
+Then there’s something we agree on.
+151) PENGUIN
+You’re just like him.
+152) BATMAN
+Consider me his better half.
+153) PENGUIN
+I beg to differ.
+154) PENGUIN
+Now that I’m CEO, I guess that means that I am too.
+155) PENGUIN
+Let them go? But I was just about to test out all these new toys on them.
+156) PENGUIN
+A man should never walk into a fight with an untested rifle.
+157) PENGUIN
+Oh, come now Regina. Don’t cry.
+159) BATMAN
+Oswald is on the verge of finding out... everything.
+160) BATMAN
+I don’t want to put you at risk.
+161) LUCIUS
+[OS] You’re the best man I know.
+409) LUCIUS
+[OS] You’re the best man I know.
+412) LUCIUS
+[OS] You’re the best man I know.
+162) LUCIUS
+[OS] A man worth risking his life for.
+410) LUCIUS
+[OS] A man worth risking his life for.
+413) LUCIUS
+[OS] A man worth risking his life for.
+163) BATMAN
+You sure?
+164) LUCIUS
+[OS] No -- but we really don’t have a choice now, do we?
+165) BATMAN
+Don’t put yourself at risk.
+166) BATMAN
+Wayne Enterprises could use a fresh start.
+167) BATMAN
+Now it’s just a blemish.
+168) BATMAN
+It doesn’t deserve to survive.
+169) BATMAN
+Now is not the time for sentiment.
+170) BATMAN
+It’s time for action.
+171) GOON03
+This is the one who was helping Batman.
+173) PENGUIN
+Well, well, well, Mister Fox. Ain’t you a sly one.
+174) PENGUIN
+You make these, Mr. Fox?
+175) PENGUIN
+I’m impressed. Real top notch.
+176) PENGUIN
+Maybe I’ll keep you on after this is all over.
+230) PENGUIN
+Maybe I’ll keep you on after this is all over.
+178) PENGUIN
+These are great.
+179) LUCIUS
+[terrified] Yes.
+628) 
+Yes
+180) PENGUIN
+Now tell me. Why were you helping Batman?
+181) LUCIUS
+Go to hell.
+182) PENGUIN
+[excited] Bloody brilliant!
+229) PENGUIN
+[excited] Bloody brilliant!
+183) BATMAN
+Enough!
+184) PENGUIN
+Excuse the mess. I was just testing out this new toy Mister Fox worked out for me.
+185) PENGUIN
+Or should I say *your* new toy.
+186) PENGUIN
+That’s right -- I know your secret.
+187) PENGUIN
+And I can’t wait to tell the world.
+188) PENGUIN
+[theatrically] ‘Batman bankrolled by Bruce Wayne!‘
+189) PENGUIN
+I knew he owned half of Gotham.
+190) PENGUIN
+But I didn’t realize that he owned you too.
+191) BATMAN
+I don’t belong to Bruce Wayne.
+192) PENGUIN
+Yeah, but you’re on his payroll.
+193) PENGUIN
+Taking money from a man -- that makes you his.
+277) PENGUIN
+Taking money from a man -- that makes you his.
+194) PENGUIN
+I’d like to make you mine.
+195) BATMAN
+I only exist because of him.
+196) PENGUIN
+Now you only exist because of me.
+197) BATMAN
+You’ve got it wrong. I own him.
+198) BATMAN
+Don’t make me own you too.
+199) PENGUIN
+You got it all wrong, mate.
+200) PENGUIN
+Seeing as I’m the one signing your checks now  -- I might as well get into the Batman business too.
+201) PENGUIN
+Whaddya say? You come work for me and I’ll give you all this back.
+202) PENGUIN
+Seeing as I’m the one signing your checks now  -- why don’t we just make this official.
+203) PENGUIN
+Whaddya say? You come work for me and you can have all this back.
+204) BATMAN
+You won’t live to tell.
+205) PENGUIN
+It’s what I live for.
+206) BATMAN
+And I know yours, Penguin.
+208) PENGUIN
+Seeing as I’m the one who’s signing your paychecks now -- I figure I’d get in the Batman business too.
+221) PENGUIN
+Seeing as I’m the one who’s signing your paychecks now -- I figure I’d get in the Batman business too.
+222) PENGUIN
+Seeing as I’m the one who’s signing your paychecks now -- I figure I’d get in the Batman business too.
+209) PENGUIN
+I’d like to get into the Batman business too.
+210) BATMAN
+Let them go and I’ll consider it.
+211) PENGUIN
+I can’t do that.
+212) PENGUIN
+They know too much about you -- *and* me.
+213) PENGUIN
+Just consider them collateral damage.
+214) BATMAN
+Keep the toys.
+216) PENGUIN
+You decline my generous offer -- I’m just going to have to let these good people go.
+218) BATMAN
+I don’t care about them.
+219) BATMAN
+I only care about
+223) BOB
+[sobbing] Please, please don’t hurt us.
+224) PENGUIN
+I won’t -- as long as you’re honest with me.
+225) PENGUIN
+Now, Regina, are you the one who’s been developing Batman’s toys?
+226) REGINA
+[blubbering] No, I swear. I don’t know anything about it.
+227) PENGUIN
+Wrong answer.
+447) PENGUIN
+Wrong answer.
+231) PENGUIN
+Excuse the mess. I was just testing out this new toy Mrs. Zellerbach worked out for me.
+232) BATMAN
+It doesn’t matter.
+233) BATMAN
+You won’t live to tell anyone.
+235) BATMAN
+And I know yours -- Oswald.
+236) PENGUIN
+So, I’m Oswald and Oswald is Penguin.
+237) BATMAN
+No one would believe you.
+238) PENGUIN
+Maybe not -- but the tabloids would still eat it up.
+239) PENGUIN
+I can see the front page now.
+240) PENGUIN
+It’s still not as juicy as Batman going corporate.
+241) PENGUIN
+[theatrically] ‘The Dark Knight
+242) PENGUIN
+That bastard really does have it all.
+243) PENGUIN
+I’d like to put that to the test.
+245) OSWALD
+Oh, god.
+246) PENGUIN
+Don’t -- don’t touch me.
+247) PENGUIN
+[pained] Don’t -- don’t touch me.
+248) BATMAN
+Easy there.
+250) OSWALD
+[pained]  Get me out of these!
+251) OSWALD
+[pained] Hey!
+252) BATMAN
+You’ll get over it.
+253) BATMAN
+Your revolution is over.
+854) 
+Your revolution is over!
+254) OSWALD
+[pained] My, my hands.
+255) BATMAN
+I hope so.
+256) OSWALD
+That’s where you’re wrong.
+257) OSWALD
+[pained] It’s just not my revolution-- it’s hers.
+258) BATMAN
+Where is she?
+259) OSWALD
+You’re part of the problem.
+260) OSWALD
+You’re just as bad as Bruce Wayne.
+262) PENGUIN
+It’s been awhile since I’ve been in the ring -- and I’d like to even the odds a bit.
+263) PENGUIN
+I like to even the odds -- I guess these will do the job.
+264) BATMAN
+Your revolution -- it’s over.
+265) BATMAN
+Where is she? Where’s Lady Arkham?
+266) OSWALD
+[pained] And she won’t be done with it until she sets ever mind free in Gotham.
+267) OSWALD
+[pained] I can’t tell what I don’t know.
+268) BATMAN
+Run. Now.
+269) IR
+(shanon, Sun Aug 28 01:12:41 2016) WIth Penguin defeated, we cut to a shot of Batman producting the EMP detonator.
+270) PENGUIN
+Now these -- these are posh.
+272) PENGUIN
+I bet these beauties will do the job.
+273) PENGUIN
+[gleeful] Smashing, don’t you think?
+274) 
+Don’t think I’m not tempted.
+470) BATMAN
+Don’t think I’m not tempted.
+275) PENGUIN
+Well, had it all. We sure did a good job of taking everything from him.
+279) PENGUIN
+Batman! Good to see you again, mate.
+280) PENGUIN
+Don’t mind me.
+281) PENGUIN
+Whaddaya say? You come work for me -- and I’ll keep the cash flowing.
+282) PENGUIN
+You can keep all your toys.
+283) PENGUIN
+I’ll even build you a few new ones. Whatever you want.
+284) BATMAN
+I’d rather die than work for you.
+285) PENGUIN
+[dark] That can be arranged.
+286) PENGUIN
+That’s... dissapointing.
+287) PENGUIN
+I could use a good man.
+288) PENGUIN
+I won’t lie. I’m deeply dissapointed.
+289) PENGUIN
+But I guess a man can’t have everything.
+290) PENGUIN
+If we can’t get into business together -- then what happens now?
+292) BATMAN
+I’m taking you down.
+293) BATMAN
+It’s over for you.
+294) PENGUIN
+Their deaths are a small price to pay for the greater good of this city.
+295) PENGUIN
+Now that Bruce Wayne is out of the way, think of all we could accomplish together.
+296) BATMAN
+Keep the money -- and the toys.
+298) BATMAN
+You’re no better than a Wayne.
+299) BATMAN
+This is your last chance.
+300) BATMAN
+Walk away from this -- and I’ll let you walk out of here.
+309) BATMAN
+Walk away from this -- and I’ll let you walk out of here.
+301) PENGUIN
+I don’t know if you’ve noticed -- but the odds here -- they’re in *my* favor.
+310) PENGUIN
+I don’t know if you’ve noticed -- but the odds here -- they’re in *my* favor.
+302) PENGUIN
+[insulted] Ouch. You really know how to hit a man where it hurts.
+303) PENGUIN
+Luckily for me -- [dark] so do I.
+304) BATMAN
+I’m going to hurt you.
+305) BATMAN
+You’re the curruption that needs to be weeded out of this city.
+306) BATMAN
+You leave town.
+307) BATMAN
+You’re going to jail for a very long time.
+308) PENGUIN
+I’m the bad guy?
+311) PENGUIN
+[laughs] Me? Walk away?
+312) PENGUIN
+[laughs] Me? Walk away?
+313) PENGUIN
+Penguin and Batman fighting against Gotham’s greatest villians.
+314) PENGUIN
+Nah, mate. You’re the one who’s going to be hurting when this is all over.
+315) PENGUIN
+Men with this much money and power -- they don’t get locked up.
+316) PENGUIN
+Just look at Bruce Wayne.
+317) PENGUIN
+And he doesn’t have what I have -- not anymore.
+318) BATMAN
+You’re insane.
+320) BATMAN
+You’re the villian.
+321) PENGUIN
+Maybe so -- but it takes a madman to change the world.
+323) PENGUIN
+Remember how
+324) PENGUIN
+This could be the start of a new era.
+325) PENGUIN
+The era of Penguin and Bat.
+326) PENGUIN
+No?
+366) OSWALD
+No!
+485) OSWALD
+[pained] No.
+629) 
+No
+667) GOON02
+[over comm]No...
+668) GOON03
+[over comm]No.
+705) PENGUIN
+No?
+871) OSWALD
+[In pain]NO!!
+327) BOB
+[sobbing] Oh, god no! Please. Don’t let them kill us! I don’t want to die!
+328) BOB
+[sobbing] Oh, god no! Please. Don’t let them kill us! I don’t want to die!
+329) PENGUIN
+We all die.
+330) PENGUIN
+Now is just as good of time as any for you.
+331) PENGUIN
+Nothing to be done?
+332) PENGUIN
+Nothing could stop us.
+333) PENGUIN
+We would be kings.
+334) BATMAN
+Get out of here. NOW!
+335) PENGUIN
+[OS] What’s the matter, Batman?
+336) OSWALD
+[alt]Oh, and get me the Zellerbachs.
+337) OSWALD
+Tell them we’re having an emergency meeting.
+338) REGINA
+[OS] [coughing] Lucius! Someone help him!
+340) REGINA
+[OS] [coughing] Lucius! Someone help him!
+353) REGINA
+[OS] [coughing] Lucius! Someone help him!
+339) BOB
+[OS] [coughing] My wife! Please help her!
+341) BOB
+[OS] [coughing] My wife! Please help her!
+352) BOB
+[OS] [coughing] My wife! Please help her!
+342) BATMAN
+She’s alive.
+343) REGINA
+[gasps] [coughs]
+348) LUCIUS
+[gasps] [coughs]
+344) BATMAN
+[to Bob] Get her out of here now. Call the police.
+345) BOB
+[sobbing] She won’t wake up. Tell me she’s alive.
+346) BATMAN
+He’s still alive.
+347) REGINA
+He won’t wake up.
+349) BATMAN
+[to Bob and Regina] Get him out of here now. Call the police.
+350) BATMAN
+[to Lucius] Lucius, I’m sorry.
+351) BATMAN
+Go! NOW!
+354) REGINA
+Lucius? Thank god.
+355) BOB
+Regina? Can you hear me?
+356) PENGUIN
+[OS] [coughing] Way to muck it, Batman.
+357) PENGUIN
+No way!
+358) PENGUIN
+Now, let’s see how well they smash your face.
+359) OSWALD
+We’ve got a bat on the roof.
+360) GOON01
+This way!
+361) GOON02
+Whatever you do -- don’t let him get through.
+362) PENGUIN
+Let’s see how you like these raptors.
+363) PENGUIN
+[OS] Someone mock up all that nice equipment? [laughs]
+364) PENGUIN
+[OS] You should have just come work from me.
+365) PENGUIN
+I’m in need of a few upgrades.
+367) LUR
+Batman
+368) BATMAN
+I’m at Wayne Tower.
+369) LUCIUS
+[OS]It’s only a matter of time before he finds out where you are.
+370) BATMAN
+And so could I.
+371) GOON01
+Look out!
+373) BATMAN
+Alfred. It’s done.
+374) BATMAN
+Alfred?
+380) BATMAN
+[into comm, panicked] Alfred?
+383) BATMAN
+[OS, screaming] Alfred!
+375) BATMAN
+[into comm] Lucius. It’s done.
+376) BATMAN
+[into comm] Tell me that Harvey has gone away.
+377) BATMAN
+[into comm] Al -- you there?
+378) BATMAN
+[into comm] I’m safe -- tell me you are too.
+379) BATMAN
+[into comm, panicked] Lucius?
+404) BATMAN
+Lucius?
+381) BATMAN
+[into comm, panicked] Al, come in. Can you hear me? Where are you?
+382) BATMAN
+[into comm, panicked] Alfred, come in. Can you hear me?
+384) GOON03
+Hey, boss. The guests you requested -- they’ve arrived.
+385) LUCIUS
+[OS] Why?
+386) LUCIUS
+You need to consider what’s coming to you.
+387) BATMAN
+I am the trouble.
+388) LUCIUS
+[OS] I’m still in the building for God’s sake.
+424) LUCIUS
+[OS] I’m still in the building for God’s sake.
+425) LUCIUS
+[OS] I’m still in the building for God’s sake.
+389) LUCIUS
+[OS] In a few minutes -- he might be browsing through the Batcomputer.
+538) LUCIUS
+[OS] In a few minutes -- he might be browsing through the Batcomputer.
+541) LUCIUS
+[OS] In a few minutes -- he might be browsing through the Batcomputer.
+544) LUCIUS
+[OS] In a few minutes -- he might be browsing through the Batcomputer.
+390) LUCIUS
+Then that’s make this quick.
+391) BATMAN
+Be my man on the inside -- and help me get in undetected.
+392) BATMAN
+Help me take down the system -- before he takes down me.
+393) LUCIUS
+You realize what you’re asking me, don’t you?
+398) LUCIUS
+[OS]And what you’re about to do.
+399) LUCIUS
+I’m putting my neck on the line here.
+400) LUCIUS
+[OS] You don’t have much time.
+539) LUCIUS
+[OS] You don’t have much time.
+542) LUCIUS
+[OS] You don’t have much time.
+545) LUCIUS
+[OS] You don’t have much time.
+401) LUCIUS
+[OS] If you don’t detonate the servers simultaneously -- a backup copy of the system will be uploaded to a cloud.
+402) LUCIUS
+[OS] You will be exposing the entire contents of the Batcomputer to the world.
+403) OSWALD
+I don’t want to walk into this without something to negociate with.
+405) LUCIUS
+[OS] You’re asking me to risk everything -- most of all my life.
+406) BATMAN
+You’ve kept too many secrets from me.
+407) LUCIUS
+[OS] If this is what I have to do to make ammends -- I will.
+408) LUCIUS
+[OS] If you insist.
+411) LUCIUS
+I’ll do what needs to be done.
+414) LUCIUS
+As long as Oswald still has access to that -- he’ll still have power.
+415) BATMAN
+Then we’ll destoy everything.
+416) BATMAN
+He won’t be browsing anything.
+417) LUCIUS
+[OS] You destroy the system -- you destroy everything we’ve built.
+418) LUCIUS
+[OS] Wayne Enterprises has done a lot for this city.
+419) LUCIUS
+[OS] We’re not just talking about the technological developments we’ve been able to achieve. We’re talking philanthropy, medical research -- not to mention tens of thousands of jobs.
+420) LUCIUS
+[OS] You will be ending that. All of it.
+421) LUCIUS
+[OS] As long as there’s a backdoor to Wayne Enterprises -- someone will try to open it. Your Bat Tech -- it will never be safe.
+422) LUCIUS
+[OS] It’s not just another corporation. It’s been a beacon of hope and prosperity to many.
+423) LUCIUS
+[OS] What you will be doing
+426) LUCIUS
+[OS] I’m counting on it.
+427) LUCIUS
+[OS] But if things go wrong, it’ll my blood on your hands.
+428) LUCIUS
+[OS] But if things go wrong, it’ll my blood on your hands.
+429) LUCIUS
+[OS] If things go wrong, it’ll be my blood on your hands.
+430) BATMAN
+No more communications from here on out.
+435) BATMAN
+No more communications from here on out.
+431) LUCIUS
+[OS] I’ll do it.
+432) LUCIUS
+I’ll see what I can do to scramble the building’s secuity system.
+433) LUCIUS
+Meet me in my office.
+434) BATMAN
+Thanks
+438) LUCIUS
+[OS] We should cut off commincations until it’s over.
+439) LUCIUS
+[OS] See you on the other side.
+451) BATMAN
+See you on the other side.
+440) OSWALD
+Send up some exterminators. It’s a big one.
+441) GOON02
+[OS] Copy that, boss.
+442) PENGUIN
+A madman with a crap load of cash -- and a stock-pile of weapons that is.
+443) BATMAN
+Where’s Lady Arkham?
+444) OSWALD
+[coughing, pained] My hands -- Oh bloody Christ!
+483) OSWALD
+[coughing, pained] My hands -- Oh bloody Christ!
+445) OSWALD
+[coughing, pained] I guess my boxing days are over.
+446) OSWALD
+[severe pain]Give-give it to my straight.
+448) LUCIUS
+You’re going to have to infiltrate each of the server rooms -- including the one in located in R & D -- and blast them with an EMP at the same time.
+449) BATMAN
+Then they won’t go wrong.
+450) BATMAN
+Then they won’t go wrong.
+452) PENGUIN
+Don’t like the sound of it, huh?
+453) PENGUIN
+I was just offerin’ a bleedin’ olive branch.
+454) PENGUIN
+I guess I’ll have to use another form of persuasion.
+455) PENGUIN
+I was just in need of an upgrade.
+457) PENGUIN
+I was just in need of an upgrade.
+456) PENGUIN
+Now don’t you go any where. I’ll be right back.
+458) BATMAN
+Let’s just put it this way.
+459) OSWALD
+[pained] What happens now?
+461) OSWALD
+[painedWhat happens now?
+463) BATMAN
+You’re
+596) OSWALD
+You’re
+464) OSWALD
+[in severe pain] Wha-what’s wrong with ‘em?
+465) OSWALD
+[severe pain] I can handle it.
+466) BATMAN
+Your boxing days are over.
+467) OSWALD
+[pained]I don’t want to live like this -- do me a favor -- and put me out of my misery.
+484) OSWALD
+[pained]I don’t want to live like this -- do me a favor -- and put me out of my misery.
+468) BATMAN
+Misery is what you deserve.
+469) BATMAN
+Because I believe there’s still a chance for you.
+471) OSWALD
+[severe pained] You gonna really leave me here all alone?
+472) 
+Someone will find you.
+493) 
+Someone will find you.
+475) OSWALD
+[pained] Why can’t you just give into it like the rest of us?
+476) PENGUIN
+[screams] Damn that hurts!
+477) BATMAN
+I guess this is goodbye.
+479) BATMAN
+You’re going away for a long time, Oswald.
+528) BATMAN
+You’re going away for a long time, Oswald.
+487) BATMAN
+The cops will help you.
+489) BATMAN
+You deserve to suffer.
+490) BATMAN
+You want my help?
+491) OSWALD
+[pained] Give into temptation like the rest of us.
+496) BATMAN
+Stop struggling, Oswald! It’s over.
+497) OSWALD
+[pained] I’d love to stop struggling -- I’ve been struggling all my life.
+498) PENGUIN
+[pained] Something you would know nothing about.
+499) OSWALD
+I don’t have anything left.
+500) OSWALD
+Why don’t you just kill me and put me out of my misery?
+501) OSWALD
+With your swank suit and fancy tech.
+502) OSWALD
+You don’t know what it’s like to fight for something.
+503) BATMAN
+I admire your grit.
+504) BATMAN
+But
+506) BATMAN
+I admire you grit.
+507) OSWALD
+[pained] Something you know nothing about.
+508) BATMAN
+You’re obsessed!  How can you expect to do any good when you can’t see past your own blind ambition!
+509) HARVEY
+[shaken] What am I doing?  This isn’t what I wanted.  Everything just got so out of control!
+510) OSWALD
+I became what I hated, ey?
+511) 
+This stops now!
+512) 
+You won’t do it.
+513) 
+Oswald, please!
+514) BATMAN
+Harvey, calm down.  Don’t let it end like this
+515) HARVEY
+You’re right.  I *am* the cancer.
+516) HARVEY
+It all stops with me.
+517) HARVEY
+What do you care? You’ll still end up the hero.
+518) BATMAN
+You won’t do it. You’re too much of a coward.
+519) HARVEY
+Well one of us has to die... [Harvey smiles a bit] Now who’s the coward?
+520) BATMAN
+This ends now!
+521) HARVEY
+Oh, I couldn’t agree more!
+522) OSWALD
+I just wanted to make my name mean something again.
+523) OSWALD
+And I won’t stop swinging until it does.
+524) OSWALD
+Batman believes in me?
+525) OSWALD
+I never thought I’d live to see the day.
+526) BATMAN
+But you need to learn when it’s time to give up.
+529) BATMAN
+He’s about to breach the Batcomputer.
+530) PENGUIN
+I can’t imagine this ends well -- for you at least.
+531) BATMAN
+Stop whining.
+532) BATMAN
+We all struggle.
+533) OSWALD
+Hey! Put me down!
+534) OSWALD
+You can’t do this to me.
+535) OSWALD
+I’m the CEO of this company.
+536) OSWALD
+It’s not fair!
+537) OSWALD
+Or what?
+573) PENGUIN
+Or what?
+877) OSWALD
+[pained]Or what?!
+540) LUCIUS
+[OS] Good, because --
+543) LUCIUS
+[OS] And you should know what’s coming to you --
+546) BATMAN
+I’m destroying the whole system tonight -- then I’m destroying Penguin.
+547) LUCIUS
+It won’t be easy.
+548) BATMAN
+Tell
+549) OSWALD
+You know the first chance I get, I’ll be out swinging again.
+550) BATMAN
+Don’t--
+551) OSWALD
+I wonder what would happen if I did.
+552) OSWALD
+Anything interesting?
+553) BATMAN
+Pull it and say goodbye to your company.
+554) BATMAN
+It’s an EMP detonator.
+555) BATMAN
+You don’t have the guts to find out.
+556) BATMAN
+You’ll detonate Wayne Tower.
+557) OSWALD
+[mocking] But Batman -- they’re people inside this building -- innocent people.
+558) OSWALD
+Innocent people.
+559) OSWALD
+Nah, this may dentonate something -- but it ain’t a bomb.
+560) OSWALD
+[mocking] You wouldn’t kill them all, would you?
+561) OSWALD
+What? You think that if you call me a coward and I’ll take your bait and pull it.
+562) OSWALD
+I’m not stupid, Batman.
+563) OSWALD
+Oh, I bet what happens next is just riveting.
+564) BATMAN
+It pisses you off, doesn’t it?
+565) BATMAN
+To know that I’ve had it easy and you’ve had it hard.
+566) BATMAN
+That’s what makes us strong.
+567) OSWALD
+I can’t wait to find out.
+568) OSWALD
+Not so fast.
+569) BATMAN
+It will fry all the servers in the building.
+570) OSWALD
+Oh, so that’s why you came here.
+571) OSWALD
+You came to wipe the Wayne Tech servers free of Batman.
+572) BATMAN
+Give it back.
+574) BATMAN
+You look stupid to me.
+575) OSWALD
+Don’t do what?
+576) OSWALD
+You’re worried I’m going to pull this trigger.
+577) PENGUIN
+[pained] Bloody hell, Batman. Is that all you got?
+578) OSWALD
+Well, I’m definitely not giving it back now.
+579) BATMAN
+I’ll crush your fists -- make sure you’ll never throw another punch again.
+580) BATMAN
+Stay down!
+862) BATMAN
+Stay down.
+581) BATMAN
+Don’t make me hurt you more.
+582) 
+We’re done here.
+583) 
+Come over here and find out.
+584) BATMAN
+Come over here and find out.
+585) PENGUIN
+Because I was sure you had more fight in you than that.
+586) PENGUIN
+[pained] When a man’s knocked down -- he’s got to get up again.
+587) PENGUIN
+[pained] Oh, I intend to.
+588) PENGUIN
+[pained] Or else he is defeated.
+589) OSWALD
+[severe pain] Do me a favor. Put me out of my misery and kill me.
+590) OSWALD
+[severe pain] You’re just gonna be on your way then?
+593) BATMAN
+That’s enough of that.
+594) PENGUIN
+You can’t defeat the undefeated.
+595) OSWALD
+[pained, calling after him] Hey-- HEY! Where do you think you’re going?!
+597) OSWALD
+[pained] Do it. Kill me.
+600) OSWALD
+[pained] Well -- I’m, I’m sufferin’ here.
+601) OSWALD
+[pained] You -- you self-righteous bastard!
+602) OSWALD
+[pained[ You would just leave me here to suffer...
+603) OSWALD
+[pained] Come back here!
+604) OSWALD
+Oh, and get the board members up here...
+605) GOON01
+He’s on the 15th floor. I got em.
+606) BATMAN
+He didn’t get me.
+607) OSWALD
+[severe pain] You’re not going to help me?
+608) OSWALD
+Come on man! I’m in pain!
+609) OSWALD
+[pained] You sadistic bastard!
+610) OSWALD
+[pained] Please -- don’t leave me like this.
+611) OSWALD
+[pained] I thought that was what Batman did. Help -- those in need.
+612) OSWALD
+[pained] You’re no hero! You’re a bloody hypocrite!
+613) OSWALD
+[pained] You can’t leave me to those dirty bastards.
+614) OSWALD
+[pained
+615) OSWALD
+[pained] You -- you let them have me and -- and I’m as good as dead.
+616) OSWALD
+[pained] Worse than a Wayne!
+617) REF
+https://www.google.com/search?q=google+glass&espv=2&biw=1648&bih=829&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjVqr-r1Y3PAhUUSmMKHdhMDY4Q_AUICSgE#imgrc=LfvSNWf_sZ8orM%3A
+618) HTTPS
+//www.google.com/search?q=google+glass&espv=2&biw=1648&bih=829&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjVqr-r1Y3PAhUUSmMKHdhMDY4Q_AUICSgE#imgrc=LfvSNWf_sZ8orM%3A
+619) ENFORCER01
+Sir, I just got the word...
+895) ENFORCER01
+Sir, I just got the word...
+620) ENFORCER01
+Bruce Wayne is still alive.
+893) ENFORCER01
+Bruce Wayne is still alive.
+622) 
+Stop trying to hack my network.
+623) 
+I won’t allow you to weaponize drones.
+624) 
+The Wayne Tech exploit is closed.
+625) STUB
+Penguin: Bruce tried to hide the research wing from me.  Ironically, it was the sticky bomb he left beneath the desk that led wonder...what was he trying to hide.
+626) 
+That doesn’t belong to you.
+627) 
+I’ll destroy it all.
+630) 
+I’m stronger than you.
+631) 
+You’re better than this.
+632) 
+You’re still Lady Arkham’s stooge.
+633) 
+I’m not the bully.
+703) BATMAN
+[calmly]I’m not the bully.
+773) BATMAN
+[calmly]I’m not the bully.
+801) BATMAN
+[calmly]I’m not the bully.
+814) BATMAN
+[calmly]I’m not the bully.
+634) 
+I do what I have to.
+635) 
+Shut up before I shut you up.
+636) 
+Brutalized Falcone?
+640) 
+Brutalized Falcone?
+647) 
+Brutalized Falcone?
+649) 
+Brutalized Falcone?
+637) 
+Attacked Dock Shooter in 101
+641) 
+Attacked Dock Shooter in 101
+646) 
+Attacked Dock Shooter in 101
+638) 
+Intimadetd Hill in 102
+642) 
+Intimadetd Hill in 102
+644) 
+Intimadetd Hill in 102
+639) 
+Default
+643) 
+Default
+645) 
+Default
+650) 
+Default
+648) 
+violent example 2
+651) 
+violent example 3
+653) LUCIUS
+[over comm]I have mapped, what I believe to be, the path of least resistance to the CEO office.
+654) LUCIUS
+[over comm]Be warned, though, the drone patrolling the hallways are extremely dangerous, I would suggest attempting to avoid them, if possible.
+655) LUCIUS
+[over comm, urgent]No, the other way.
+656) LUCIUS
+[alt, over comm, urgent]The other way!
+658) LUCIUS
+[over comm, urgent]The elevator! Get to the elevator!
+662) PENGUIN
+[into comm, anxious]Find him!
+663) PENGUIN
+[into comm, anxious]He’s got to be there somewhere!
+664) PENGUIN
+DAMMIT!DAMMIT!DAMMIT!DAMMIT!
+665) PENGUIN
+[into comm]Does anyone have him?
+666) PENGUIN
+[into comm]Has anyone seen him?!?
+669) PENGUIN
+[upset]Useless! You are all bloody useless!
+670) PENGUIN
+[upset]Useless! You are all damned useless!
+671) PENGUIN
+[alt]What? Did Wayne tell you I was putting his Tech to practical use?
+672) PENGUIN
+Can’t say I haven’t been expecting you, Bats-
+673) PENGUIN
+Figured when you found out I was putting this hardware to real practical use- for a change- you’d try to have something high and mighty and superheroic to say about it-
+674) PENGUIN
+[pained]Oof!
+675) LUCIUS
+[over comm, urgent]Batman. The device Penguin’s using to hack the network... it’s nearby!
+676) BATMAN
+[ to self]...the Black Box. It’s here.
+677) PENGUIN
+I’ve worked too hard for this-!
+678) PENGUIN
+I’m finally at the top and nobody’s gonna knock me back down.
+679) PENGUIN
+Not even you!
+692) PENGUIN
+Not even you!
+680) BATMAN
+You’re still just Lady Arkham’s stooge. You’re not at the top of anything, Cobblepot.
+681) BATMAN
+And you’re a fool if you think otherwise.
+682) PENGUIN
+[insistent]She GAVE me a multi-national corporation for letting Bruce Wayne take a few swings at me.
+683) PENGUIN
+She wasn’t one of the ones who took everything and left me with nothing!
+684) BATMAN
+I am stronger than you, Cobblepot.
+685) BATMAN
+You had better stand down before you get yourself hurt.
+686) PENGUIN
+That’s why I’m leveling the playing field.
+687) PENGUIN
+And I’m tired of bullies who think they can take what’s mine!
+688) BATMAN
+[an appeal]You’re better than this, Cobblepot.
+689) PENGUIN
+[alt]No, I really don’t think that I am!
+690) PENGUIN
+No- I’m better than YOU.
+691) PENGUIN
+And I’m just trying to protect what’s mine!
+693) PENGUIN
+[alt]Not even you, Batman...
+694) PENGUIN
+I’m just protecting what’s mine from anyone who’d dare try take it away from me.
+695) PENGUIN
+It’s the American Way!
+696) PENGUIN
+No, that was people like you...
+697) PENGUIN
+It’s bullies like you that are the problem!
+698) BATMAN
+Shut your mouth before I shut it for you!
+772) BATMAN
+Shut your mouth before I shut it for you!
+800) BATMAN
+Shut your mouth before I shut it for you!
+811) BATMAN
+Shut your mouth before I shut it for you!
+812) BATMAN
+Shut your mouth before I shut it for you!
+699) PENGUIN
+Is that what you said when you Brutalized Falcone?
+700) PENGUIN
+Is that what you said when you beat up XXXXXX?
+701) PENGUIN
+[pickup]Is that how you sounded when you paid a visit to Mayor Hill before he died?  Oh yeah, I heard about that, mate!
+702) PENGUIN
+Is that what you said before you gave Selina a black eye?
+704) BATMAN
+[alt]I’m not like those people.
+706) PENGUIN
+[alt]Oh, really?!?
+774) PENGUIN
+[alt]Oh, really?!?
+802) PENGUIN
+[alt]Oh, really?!?
+815) PENGUIN
+[alt]Oh, really?!?
+707) PENGUIN
+What about Falcone?
+708) PENGUIN
+You think he might disagree with you?
+709) PENGUIN
+How about XXXXXX?
+710) PENGUIN
+Don’t you think he’d call you a bully?
+711) PENGUIN
+What about YYYYYY?
+712) PENGUIN
+They might say different about ya, right?
+713) PENGUIN
+[touche]Who gave Selina that black eye?
+714) BATMAN
+I do what I have to do to make sure justice get served.
+775) BATMAN
+I do what I have to do to make sure justice get served.
+808) BATMAN
+I do what I have to do to make sure justice get served.
+818) BATMAN
+I do what I have to do to make sure justice get served.
+715) PENGUIN
+My family was once among Gotham’s most influential!
+716) PENGUIN
+The Cobblepots could’ve done some good in this city!
+717) PENGUIN
+[furious]I couldn’t stop the Waynes from destroying my family and taking everything away from me-
+718) PENGUIN
+[raging]-but I can sure as hell STOP YOU!
+719) PENGUIN
+[alt, on fire]I couldn’t- I just couldn’t-
+720) PENGUIN
+[alt]Is that what you said when you put that entire street gang in the hospital last year?
+721) PENGUIN
+Is that how you justify what you did to Falcone?
+722) PENGUIN
+Justice?  Is that what you call the way you interrogated my man at the docks?
+723) PENGUIN
+[pickup]Oh, is that how you justify your “little talk” you had with Mayor Hill?
+724) PENGUIN
+Is that how you justify giving Selina a black eye?
+725) PENGUIN
+[fuming]I fought, tooth and nail, to get here-
+726) PENGUIN
+-and no costumed thug with an inflated sense of ego is going to get in my way.
+727) BATMAN
+You GOT what you deserved, Cobblepot.
+728) BATMAN
+I am sorry for what happened to you and your family, Cobblepot.
+729) BATMAN
+There’s no such thing as “deserves.“
+730) PENGUIN
+[pained]You crippled me-!
+731) PENGUIN
+[alt]You are a bully!
+791) PENGUIN
+[alt]You are a bully!
+732) PENGUIN
+You maniac!
+792) PENGUIN
+You maniac!
+733) PENGUIN
+[alt]I knew I was right about you!
+790) PENGUIN
+[alt]I knew I was right about you!
+734) OSWALD
+[pained scream] AAAAARH!
+735) BATMAN
+You’re lucky that’s all I did.
+789) BATMAN
+You’re lucky that’s all I did.
+736) BATMAN
+[alt]You’re lucky you’re still alive.
+784) BATMAN
+[alt]You’re lucky you’re still alive.
+737) 
+You’re lucky
+777) 
+You’re lucky
+738) 
+That is what you deserved
+776) 
+That is what you deserved
+739) 
+I’m sorry
+778) 
+I’m sorry
+740) OSWALD
+[furious]You psycho!
+741) PENGUIN
+[furious]This is what you really enjoy, right?
+742) PENGUIN
+Hurting people?
+743) PENGUIN
+[alt]That’s why you do this, isn’t it?
+788) PENGUIN
+[alt]That’s why you do this, isn’t it?
+744) PENGUIN
+[through tears]I was just trying to get what I deserved!
+745) 
+You GOT what you deserved.
+746) 
+Sorry about your family.
+747) PENGUIN
+You big, brooding bastard.
+748) PENGUIN
+You big, brooding jerk.
+749) BATMAN
+You brought all this upon yourself.
+750) BATMAN
+[harsh]From this point on, you only have YOURSELF to blame for your lot in life.
+751) BATMAN
+[alt, sincerely]... I can even... relate.
+752) BATMAN
+[alt, sincerely]...I can even... empathize.
+753) BATMAN
+Bad things happen to good people.
+754) PENGUIN
+[breaking down]...that’s all...
+755) PENGUIN
+[breaking down]...just what’s owed to me...
+756) PENGUIN
+[outraged]You’re a damn sadist!
+785) PENGUIN
+[outraged]You’re a damn sadist!
+757) BATMAN
+[coldly]That’s just what you deserved.
+779) BATMAN
+[coldly]That’s just what you deserved.
+758) BATMAN
+[alt]Try and take it with some dignity.
+780) BATMAN
+[alt]Try and take it with some dignity.
+759) PENGUIN
+[alt]“Dignity?!?“ Sez the man in the bat suit?
+786) PENGUIN
+[alt]“Dignity?!?“ Sez the man in the bat suit?
+760) PENGUIN
+[alt]Blow it out your ear!
+787) PENGUIN
+[alt]Blow it out your ear!
+761) BATMAN
+Sorry. I’m sure that hurts.
+781) BATMAN
+Sorry. I’m sure that hurts.
+762) PENGUIN
+[clenched teeth]You’re damned right it does!
+782) PENGUIN
+[clenched teeth]You’re damned right it does!
+763) PENGUIN
+[alt]Is that supposed to make me feel better?!?
+783) PENGUIN
+[alt]Is that supposed to make me feel better?!?
+764) PENGUIN
+[defiant]What? Is that supposed to make me feel better?
+765) PENGUIN
+[sad]Yeah, well... I’m sorry, too.
+766) 
+That’s how the world works.
+767) BATMAN
+That’s the way the world works.
+768) BATMAN
+You just have to find a way to move forward.
+769) PENGUIN
+Heartless bastard!
+770) PENGUIN
+Easy for you to say.
+771) BATMAN
+[alt][ to self]...That’s how he’s hacking the network.
+793) BATMAN
+But this was *not* the way to fix the past.
+794) BATMAN
+What Thomas Wayne did to your mother was wrong. Do your time in Blackgate prison. Come out a better man. Honor her memory by reforming yourself.
+795) OFFICER01
+What the-
+796) OSWALD
+[pickup][disgusted] Just cut me down, mate.
+797) PENGUIN
+[pickup] Is that what you said back when you tortured my man at the docks?
+798) PENGUIN
+[pissed] YOU BROKE HIS FRIGGIN’ ARM!
+805) PENGUIN
+[pissed] YOU BROKE HIS FRIGGIN’ ARM!
+807) PENGUIN
+[pissed] YOU BROKE HIS FRIGGIN’ ARM!
+810) PENGUIN
+[pissed] YOU BROKE HIS FRIGGIN’ ARM!
+799) PENGUIN
+[angry]You smashed him in the face with a freakin’ pipe, mate!
+804) PENGUIN
+[angry]You smashed him in the face with a freakin’ pipe, mate!
+806) PENGUIN
+[angry]You smashed him in the face with a freakin’ pipe, mate!
+809) PENGUIN
+[angry]You smashed him in the face with a freakin’ pipe, mate!
+803) PENGUIN
+Have you forgotten about the man you “interrogated” at the docks?
+816) PENGUIN
+[pickup] Then how would you describe your little chat with the former Mayor Hill.
+817) PENGUIN
+[pickup]Yeah, I heard all about that, mate.
+819) PENGUIN
+[pickup]Yeah, I heard all about that, mate.
+820) PENGUIN
+[pickup]...Before I killed him of course.
+821) PENGUIN
+[pickup]...Before I killed him of course.
+822) OSWALD
+Aww, you hate to see THAT happen!
+823) OSWALD
+I’m the one with the toys now, Batman.
+829) OSWALD
+I’m the one with the toys now, Batman.
+824) OSWALD
+[alt] Don’t worry, it happens to LOADS of guys.
+828) PENGUIN
+[alt] Don’t worry, it happens to LOADS of guys.
+825) OSWALD
+[Prim] This is the start of a new legacy, and I’m afraid you don’t have any place in it.
+827) OSWALD
+Haven’t you learned yet? I’ve shut you down!
+830) PENGUIN
+[Angry tears] I just... I just wanted to get what I deserved... prove I could be better...
+831) PENGUIN
+Better than Bruce.
+832) 
+You’re not the victim here.
+837) 
+You’re not the victim here.
+833) BATMAN
+Lose the victim act, Cobblepot. You left the high road a long time ago.
+834) 
+I’m sorry it ended this way.
+835) BATMAN
+I’m sorry this is how it had to be, Cobblepot. I wish it could’ve ended differently.
+836) PENGUIN
+[Pushed to angry tears again] But the Waynes, this stinking *city*--
+838) PENGUIN
+[Spitting mad] Spare me the “sympathy,“ you psychotic sonuvabitch.
+839) PENGUIN
+You’re just as bad as the rest of them.
+840) PENGUIN
+You’re just as bad as the rest of them.
+842) BATMAN
+[Growl] Lights out, Cobblepot.
+843) 
+Let it go, Cobblepot.
+844) BATMAN
+Your obsession with the past is what got you here. Let it go and move on.
+845) PENGUIN
+[Spitting mad] Yeah? Like you don’t have anything in your past that YOU’RE obsessed with?
+847) PENGUIN
+Let’s level the playing feild.
+848) OSWALD
+Oh, is this how it feels when you put on that suit?  I like it!
+849) LUCIUS
+[alt][comm]That’s the device!
+850) OSWALD
+Yeah, that little beauty is almost done hacking your precious network.
+851) OSWALD
+Few more minutes... All your secrets are mine.
+852) OSWALD
+[alt]You absolute, bastard!
+853) BATMAN
+I will stop you before that happens.
+855) OSWALD
+[in pain] This isn’t the end, Batman!
+856) OSWALD
+[in pain]You can’t stop us!
+857) 
+You better stay down.
+858) BATMAN
+It’s done, Cobblepot! Your revolution is over!  It started with you and it ends with Lady Arkham!
+859) OSWALD
+[in pain] Good luck!  You’ll never find her in time!
+860) BATMAN
+It didn’t have to be like this, Oswald.  You should have given up when you had the chance.
+861) OSWALD
+[pickup][in pain] Give up?  I’ve already won.
+863) OSWALD
+[in pain]Or what?! You’ll break my other leg?
+864) OSWALD
+[in pain]You can do whatever you want to me, but Lady Arkham’s plans are already in motion!
+865) OSWALD
+[in pain]You can do whatever you want to me, but Lady Arkham’s plans are already in motion!
+867) OSWALD
+[in pain]You can do whatever you want to me, but Lady Arkham’s plans are already in motion!
+866) OSWALD
+[in pain]You think this is over?!  You think you can just take me out and end the revolution?
+868) BATMAN
+Where is she! What is she planning?!
+869) OSWALD
+[in pain] The message is the same as it’s ever been!  We will open your eyes!  This city’s hypocrisy will be exposed!
+870) BATMAN
+Tell me where to find her!
+873) 
+I’m losing patience!
+874) OSWALD
+[alt][In pain]Screw you!!
+875) OSWALD
+[alt][In pain]Piss off!!
+876) BATMAN
+TELL ME!!
+878) BATMAN
+All of Gotham is in danger... what do you think I’ll do to get answers out of you.
+879) OSWALD
+[pained]I won’t tell you.  Do your worst.
+880) 
+Lady Arkham is using you!
+881) BATMAN
+[pickup]You’re nothing but a pawn to her.
+882) OSWALD
+[pained]You don’t get it, do you?  I’m not a pawn, I’m a soldier!
+883) OSWALD
+[pained] I’m not telling you anything.
+884) OSWALD
+[pained] When she’s ready, she’ll find you.
+886) OSWALD
+[alt]Don’t make a scene of it.
+888) BATMAN
+But you can help yourself by talking.
+890) BATMAN
+But you can help yourself by talking.
+889) BATMAN
+I’ll stop her either way.
+891) BATMAN
+I’ll stop her either way.
+892) OSWALD
+[pained]I’d die before I sell out the cause.
+896) ENFORCER01
+We looked everywhere, sir.
+897) ENFORCER01
+Bruce Wayne isn’t here.
+898) 
+This is your fault.
