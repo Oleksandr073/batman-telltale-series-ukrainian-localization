@@ -32,6 +32,35 @@ npm run setup
 
 Run everything from this folder (the repo root). **Close the Excel files before running a command.**
 
+## Localization flow
+
+1. **Set speaker genders** (only when needed): edit `speaker_genders.xlsx` by hand — fill the orange cells
+   (unknown gender that matters) or fix a gender. Save and close the file.
+2. **Rebuild the table:** `npm run rebuild`. The gender columns in `translation_table.xlsx` are updated and texts
+   said by both men and women get separate rows. Existing translations are kept; rows whose gender changed are marked
+   "check gender forms" in *Notes*. Skip steps 1–2 if no gender changed.
+3. **Translate:** fill the yellow *Ukrainian* column of `translation_table.xlsx`, by hand or with AI. Follow
+   `ai_context/style_guide.md`, `ai_context/glossary.md` and `ai_context/speakers.md`. Save and close the file.
+4. **Import:** `npm run import`. It writes `data/unique_localized_data/` and the 222 files in `data/localized_data/`,
+   and checks them. The output must end with `0 error(s)` and `0 mismatch(es)`:
+   - **validation** — every final file has the same structure as the English one (line count, header lines, tags,
+     encoding);
+   - **consistency** — every text in the 222 files is exactly the text from `data/unique_localized_data/`, and
+     everything not translated is unchanged English.
+
+   If there are errors, the output names the file, line and problem. Fix the table and run `npm run import` again.
+   The English folders are never changed.
+5. **Review the translations:** `npm run review` — each new or changed text once, English → Ukrainian, with who
+   speaks to whom. This is the main review. Wrong wording → fix it in the table and go back to step 4.
+6. **Review the game files (optional):** `npm run review:all` — every place in the 222 files of
+   `data/localized_data/` where the text was replaced. You don't need to read it all: step 4 already proved these
+   files match step 5.
+7. **Commit** (table + `data/` folders together), then pack `data/localized_data/` into the game archives.
+
+Extra checks any time, without changing anything: `npm run check` (222 files vs. unique texts) and
+`npm run validate` (structure of the 222 files). After `git pull`/merge, run `npm run import` (or at least
+`npm run check`) before packing.
+
 ## Commands
 
 All shortcuts are defined in `package.json` (`scripts`), like in any Node project.
@@ -48,20 +77,7 @@ All shortcuts are defined in `package.json` (`scripts`), like in any Node projec
 | `npm run unique-original` | Recreates `data/unique_original_data/` from the English files. | Only if `data/original_data/` changes |
 | `npm run setup` | Installs the Excel package for Python. | Once per computer |
 
-**The normal cycle:** edit the table → `npm run import` → `npm run review` → commit → pack `data/localized_data/` into
-the game archives.
-
-`npm run import` must end with `0 error(s)` and `0 mismatch(es)`:
-- **Validation:** every final file has the same structure as the English one.
-- **Consistency:** every text in the 222 final files is exactly the text from `data/unique_localized_data/` (with the
-  original tags put back), and every text that is not in the unique folder is unchanged English.
-
-It never changes `data/original_data/` or `data/unique_original_data/` (it only checks that they still match), so it
-is safe to run any time.
-
-**After `npm run rebuild`:** a gender change can split a text into separate male/female rows. Run `npm run import`
-again; `data/unique_localized_data/` then shows the new versions. `data/unique_original_data/` never changes because
-of genders.
+The steps in which to use them are in **Localization flow** above.
 
 **One record needs its own translation** (the same English line needs different Ukrainian in one scene): make a
 tab-separated file with columns `file`, `id`, `ukrainian`, `comment` (for example,
