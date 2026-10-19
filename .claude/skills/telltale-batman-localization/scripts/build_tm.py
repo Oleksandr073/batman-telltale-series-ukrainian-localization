@@ -199,6 +199,8 @@ def main():
         else:
             h, sg, lg = parts(key)
             for ok, ov in old_by_hash.get(h, []):
+                if ok in master:
+                    continue      # that row still exists with its own translation: nothing moved, copy nothing
                 _, osg, olg = parts(ok)
                 if osg in ('?', '', sg) and olg in ('?', '', lg) or sg in ('?', '') and lg in ('?', ''):
                     row['ukrainian'] = ov.get('ukrainian', '')

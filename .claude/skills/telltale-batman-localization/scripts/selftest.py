@@ -280,6 +280,8 @@ def main():
                       if ws.cell(row=after[k]['row'], column=col['translator_notes']).value != n]
         check('rebuild keeps every translation', code == 0 and not lost, f'lost: {lost[:3]}' if lost else f'{len(filled)} kept')
         check('rebuild keeps every translator note', not lost_notes)
+        added = [k for k, r in after.items() if r['ukrainian'] and k not in filled]
+        check('rebuild adds no translation nobody typed', not added, f'added: {added[:3]}' if added else '')
 
         print('\n[5] Gender change keeps translations')
         unknown = [r for r in after.values() if re.match(r'^[0-9a-f]+-S\?$', r['key']) and ',' not in r['speakers']
