@@ -1,4 +1,4 @@
 __pycache__/
 *.pyc
-# generated read-only views (python .claude/skills/telltale-batman-localization/scripts/scene_view.py data/original_data reference/scenes)
-reference/scenes/
+# generated read-only views (python .claude/skills/telltale-batman-localization/scripts/scene_view.py data/original_data ai_context/scenes)
+ai_context/scenes/

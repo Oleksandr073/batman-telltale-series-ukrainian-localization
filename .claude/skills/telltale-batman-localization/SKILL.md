@@ -130,7 +130,7 @@ Noir is **not** a lightly edited copy. It is a re-export from the later LCG Ente
 
 ## 8. Names glossary
 
-`reference/glossary.md` lists every character, place, organisation, gadget and nickname found in the visible
+`ai_context/glossary.md` lists every character, place, organisation, gadget and nickname found in the visible
 text, with counts, plus source typos and what they should be. **Before translating, read it and use the
 `Translation` column for every name. When you translate a name that isn't filled in yet, add it to the glossary first**,
 so every file uses the same form. Speaker IDs in headers and the people in the credits are not translated.
@@ -152,7 +152,7 @@ validates them. Rules for the table:
 - `notes` column: `near-copy of <key>` (reuse that translation), `keep markup inside`, `N lines: keep N-1 ¶`,
   `credits: people’s names stay in Latin`, `listener guessed - check scene`.
 - Rows are in conversation order (episode → file → record number). Translate top to bottom, and open
-  `reference/scenes/<same path>` to read the surrounding scene.
+  `ai_context/scenes/<same path>` to read the surrounding scene.
 - One row = one translation everywhere. If one scene needs a different wording, put it in an overrides TSV
   (`file`, `id`, `ukrainian`, `comment`) passed with `--overrides`.
 
@@ -167,7 +167,7 @@ Values: `M`, `F`, `?` (unknown: decide from the scene). Choice options are spoke
 Speaker genders live in `speaker_genders.xlsx`. After editing it, run `build_tm.py` again; existing
 translations are kept and rows whose gender changed are marked "check gender forms".
 
-**ти/ви.** Decisions per character pair are in `reference/speakers.md` (suggested values plus line counts; the user
+**ти/ви.** Decisions per character pair are in `ai_context/speakers.md` (suggested values plus line counts; the user
 confirms them). Apply them consistently. Talking to several people is always ви.
 
 **Context order [VERIFIED].** File order is NOT conversation order: the exporter groups identical texts, so 26% of
@@ -184,7 +184,7 @@ Translation table (run from the repo root):
 ```
 python .claude/skills/telltale-batman-localization/scripts/build_tm.py data/original_data speaker_genders.xlsx translation_table.xlsx [--unique-original data/unique_original_data]
 python .claude/skills/telltale-batman-localization/scripts/apply_translations.py data/original_data speaker_genders.xlsx translation_table.xlsx data/localized_data --unique data/unique_original_data data/unique_localized_data [--overrides overrides.tsv] [--only BM_]
-python .claude/skills/telltale-batman-localization/scripts/scene_view.py data/original_data reference/scenes
+python .claude/skills/telltale-batman-localization/scripts/scene_view.py data/original_data ai_context/scenes
 ```
 `build_tm.py` rebuilds the table and keeps filled translations (unmatched ones are saved to
 `translation_table.lost.xlsx`, never silently dropped). `apply_translations.py` never changes the English files;
@@ -227,15 +227,15 @@ with an empty table changes nothing [VERIFIED]. `.gitattributes` forces CRLF for
 
 ## 10b. Style decisions
 
-Read `reference/style_guide.md` before translating: confirmed rules (ти/ви, names, “ ” quotes, ’ apostrophe,
+Read `ai_context/style_guide.md` before translating: confirmed rules (ти/ви, names, “ ” quotes, ’ apostrophe,
 punctuation copied from English) and any open decisions. Never decide a style question on your own if the guide
 marks it as open - ask.
 
 ## 11. Checklist when translating
 
-- [ ] Style as in `reference/style_guide.md`.
-- [ ] Names translated exactly as in `reference/glossary.md` (new names added there first).
-- [ ] Gender forms match `speaker_gender` / `listener_gender`; ти/ви match `reference/speakers.md`.
+- [ ] Style as in `ai_context/style_guide.md`.
+- [ ] Names translated exactly as in `ai_context/glossary.md` (new names added there first).
+- [ ] Gender forms match `speaker_gender` / `listener_gender`; ти/ви match `ai_context/speakers.md`.
 - [ ] In the table: same number of ` ¶ ` as the English cell; `apply_translations.py` reports 0 errors.
 - [ ] Header lines untouched (copy them; translate only text lines).
 - [ ] Same number of text lines in every record; empty lines stay empty.

@@ -1,4 +1,4 @@
-"""Write reference/speakers.md (ти/ви decision sheet) from reference/pairs.tsv and speaker_stats.tsv.
+"""Write ai_context/speakers.md (ти/ви decision sheet) from ai_context/pairs.tsv and speaker_stats.tsv.
 Usage: python .claude/skills/telltale-batman-localization/scripts/make_speakers_md.py   (run from the repo root after speakers.py)"""
 import collections
 import csv
@@ -6,7 +6,7 @@ import sys
 
 sys.stdout.reconfigure(encoding='utf-8')
 P = collections.Counter()
-with open('reference/pairs.tsv', encoding='utf-8-sig') as fh:
+with open('ai_context/pairs.tsv', encoding='utf-8-sig') as fh:
     for r in csv.DictReader(fh, delimiter='\t', quoting=csv.QUOTE_NONE):
         a = r['speaker'].replace('BRUCE/BATMAN (choice)', 'BRUCE')
         P[(a, r['listener'])] += int(r['lines'])
@@ -61,14 +61,14 @@ SPEC = [
 ]
 
 unknown = []
-with open('reference/speaker_stats.tsv', encoding='utf-8-sig') as fh:
+with open('ai_context/speaker_stats.tsv', encoding='utf-8-sig') as fh:
     for r in csv.DictReader(fh, delimiter='\t', quoting=csv.QUOTE_NONE):
         if r['gender'] == '?' and int(r['lines_where_speaker_gender_matters']) > 0:
             unknown.append(f"{r['speaker']} ({r['lines_where_speaker_gender_matters']})")
 
 out = [
     '# Speakers, gender and ти/ви — Batman S1 (Ukrainian)', '',
-    'Files in `reference/`:',
+    'Files in `ai_context/`:',
     '- `speaker_genders.xlsx` (repo root) — gender of every speaker ID (M/F/?). **Edit it**, then rebuild the translation table.',
     '- `speaker_stats.tsv` — lines per speaker, and how many need the speaker’s / listener’s gender in Ukrainian.',
     '- `pairs.tsv` — every speaker → listener pair with line counts and examples.',
@@ -90,6 +90,6 @@ out = [
 for a, b, s1, s2, note in SPEC:
     out.append(f'| {LABEL[a]} → {LABEL[b]} | {n(a, b)} | **{s1}** | {LABEL[b]} → {LABEL[a]} | {n(b, a)} | '
                f'**{s2}** | {note} | confirmed |')
-with open('reference/speakers.md', 'w', encoding='utf-8') as fh:
+with open('ai_context/speakers.md', 'w', encoding='utf-8') as fh:
     fh.write('\n'.join(out) + '\n')
 print('\n'.join(out[-6:]))
