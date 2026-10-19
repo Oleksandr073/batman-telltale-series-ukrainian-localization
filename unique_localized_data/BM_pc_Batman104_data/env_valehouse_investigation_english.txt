@@ -22,7 +22,7 @@ You think there’s going to be trouble in there?
 #### 6e774c949e | BATMAN → GORDON | x2
 Not sure what we’ll be getting into in there. Thought I might need backup.
 
-#### e692c3703e-SM | GORDON → BATMAN | x2
+#### e692c3703e | GORDON → BATMAN | x2
 Well I’m happy to provide whatever help I can.
 
 #### 367c35f904 | BATMAN → GORDON | x2
@@ -31,7 +31,7 @@ Couldn’t convince anyone else to come?
 #### 6fcb541c3b | GORDON → BATMAN | x2
 Couldn’t risk anyone not being on duty. Gotham’s threatening to boil over, and Dent won’t stop turning the heat up.
 
-#### ba889e3911-LM | BATMAN → GORDON | x2
+#### ba889e3911 | BATMAN → GORDON | x2
 Don’t mention it. Just glad you could make it.
 
 #### 1fd1b271b5 | GORDON → BATMAN | x2
@@ -103,7 +103,7 @@ Retribution-- Retribution, consequence--
 #### 5acdacbd71 | GORDON → BATMAN | x2
 He’s *alive*?
 
-#### 315087e2d3-SM | GORDON → BATMAN | x2
+#### 315087e2d3 | GORDON → BATMAN | x2
 This is Gordon - I’ve got a heavily injured man--
 
 #### ea82bfc34d | BATMAN → GORDON | x2
@@ -160,7 +160,7 @@ Please... I don’t wanna get killed.
 #### 41045e7828 | choice/UI → BOY | x2
 I’ll keep you safe.
 
-#### f8f0eb5cec-SM | choice/UI → BOY | x2
+#### f8f0eb5cec | choice/UI → BOY | x2
 I asked you a question.
 
 #### 6b5ac1d2c1 | BOY → BATMAN | x2
@@ -169,10 +169,10 @@ Are you... Are you friends with her?
 #### e8ac52042c | BOY → GORDON | x2
 That lady with the freaky voice?
 
-#### 31689d4001-LM | choice/UI → BOY | x2
+#### 31689d4001 | choice/UI → BOY | x2
 Tell me what you saw.
 
-#### 6eb1a0388e-SM | choice/UI → BOY | x2
+#### 6eb1a0388e | choice/UI → BOY | x2
 I’m sorry I scared you.
 
 #### 42d3dbaa30 | choice/UI → BOY | x4
@@ -187,7 +187,7 @@ Don’t worry, she’s gone.
 #### acd0fdbb00 | BOY → GORDON | x2
 My mom and dad... they got attacked.
 
-#### 32a3c10446-SM | GORDON → BATMAN | x2
+#### 32a3c10446 | GORDON → BATMAN | x2
 Batman, I heard--
 
 #### b35a352313 | GORDON, INMATE01 → ALFRED, INMATE02 | x4
@@ -202,10 +202,10 @@ They’re dead.
 #### 58251edab6 | choice/UI → BOY, GORDON | x6
 You shouldn’t look.
 
-#### 37edf60228-LM | choice/UI → BOY, ALFRED | x6
+#### 37edf60228 | choice/UI → BOY, ALFRED | x6
 You need to be brave.
 
-#### f91bdf5d74-SM | BATMAN → GORDON | x2
+#### f91bdf5d74 | BATMAN → GORDON | x2
 I found a boy. In the closet.
 
 #### 93d51f1058 | ALFRED → GORDON, BATMAN | x4
@@ -229,7 +229,7 @@ Well if it ain’t the biggest, bleedin’, pleasure to see your sour mug again.
 #### 742dc3bdcd | PENGUIN → BATMAN | x4
 You’ve been keeping me up at night, Batman. Haven’t slept a wink since our last encounter imagining all the horrible ways I want to kill you.
 
-#### 372ad4996e-SM | PENGUIN → BATMAN, BOY | x4
+#### 372ad4996e | PENGUIN → BATMAN, BOY | x4
 Luckily I found these lovely new toys just lying around the basement of Wayne Tower to help make that happen.
 
 #### 03fcc29a73 | PENGUIN → BATMAN | x6
@@ -247,16 +247,16 @@ I’m not going to kill you.
 #### c73cfc22e4 | BATMAN → BOY | x2
 Promise.
 
-#### a8ebd3059e-SM | BATMAN → BOY | x2
+#### a8ebd3059e | BATMAN → BOY | x2
 I asked you a question. {BodyAccent}What are you doing in here?
 
 #### 9055fafe41 | BOY → BATMAN, GROGAN, ALFRED | x16
 ... Go away!
 
-#### f5862e5bdc-LM | BATMAN → BOY | x2
+#### f5862e5bdc | BATMAN → BOY | x2
 Tell me what you saw.{BodyAccent} Why are you hiding in here?
 
-#### 8b893895a7-SM | BATMAN → BOY | x2
+#### 8b893895a7 | BATMAN → BOY | x2
 I’m sorry I scared you. It’s going to be okay.
 
 #### 627c63b2a0 | BOY → BATMAN | x4
@@ -280,7 +280,7 @@ I... I don’t know. I don’t know.
 #### 97007230d0 | BOY → BATMAN | x4
 I just never want to see her again.
 
-#### fbece2aab8-SM | BATMAN → BOY | x2
+#### fbece2aab8 | BATMAN → BOY | x2
 I found the boy. Alive. He was hiding in a vent.
 
 #### 47281ae031 | BATMAN → BOY | x2
@@ -292,7 +292,7 @@ Judging by what we saw? Yeah. That makes sense.
 #### 3ba2e2e3b5 | GORDON → BATMAN | x2
 That poor kid.
 
-#### 89d212f836-LM | ALFRED → GORDON | x2
+#### 89d212f836 | ALFRED → GORDON | x2
 Of course. From what you’ve described, he’s certainly traumatized.
 
 #### 24233fc5f3 | ALFRED → GORDON, BOY | x6
@@ -310,7 +310,7 @@ No one should have to witness that...
 #### b93afb5567 | ALFRED → GORDON | x2
 Least of all a child.
 
-#### 2bbb3dd653-SM | BATMAN → ALFRED | x2
+#### 2bbb3dd653 | BATMAN → ALFRED | x2
 I tried to ask him what he saw but he won’t tell me anything.
 
 #### 097cf96988 | GORDON → BATMAN | x2
@@ -334,13 +334,13 @@ Lady Arkham killed two people.
 #### caf99f91c8 | GORDON → BATMAN | x2
 Who’s this?
 
-#### ff0c907529-SM | BATMAN → GORDON | x2
+#### ff0c907529 | BATMAN → GORDON | x2
 I was investigating a lead and the Children of Arkham ambushed me.
 
-#### f82c28503f-SM | choice/UI → GORDON | x2
+#### f82c28503f | choice/UI → GORDON | x2
 I was ambushed by the CoA.
 
-#### dfea8e87bd-SM | choice/UI → GORDON | x2
+#### dfea8e87bd | choice/UI → GORDON | x2
 I was trying to keep it quiet.
 
 #### 2dba081094 | BATMAN → GORDON | x2
@@ -355,7 +355,7 @@ Thanks for the heads-up.
 #### 70f2da3f1f | GORDON → BATMAN | x4
 But Batman--
 
-#### b66c1820a4-SM | BATMAN → GORDON | x2
+#### b66c1820a4 | BATMAN → GORDON | x2
 I was investigating a crime scene and I was ambushed by some CoA drones.
 
 #### e389ffd475 | GORDON → BATMAN | x2
@@ -367,13 +367,13 @@ God. Are there people inside...?
 #### d86216e344 | BATMAN → GORDON | x2
 You’ll see when you get inside.
 
-#### f167308b9e-SM | BATMAN → GORDON | x2
+#### f167308b9e | BATMAN → GORDON | x2
 I need you to take this boy.
 
 #### 58c6e35ce8 | GORDON → BATMAN | x2
 My god. Where are his parents?
 
-#### 23539502f0-SM | GORDON → BATMAN | x2
+#### 23539502f0 | GORDON → BATMAN | x2
 Batman. I need you to work with me here - This place looks like a warzone!
 
 #### 9587580695 | GORDON → BATMAN | x2
@@ -382,19 +382,19 @@ This house looks like a war zone!
 #### c40158396b | BATMAN → GORDON | x2
 Then I guess that’s my cue.
 
-#### 906c604e36-SM | BAR → GORDON | x2
+#### 906c604e36 | BAR → GORDON | x2
 TMAN:I need to figure out how Penguin knew where to find me.
 
 #### 5b94d12a9d | GORDON → BATMAN | x2
 I assume you’re going to take that as your cue to vanish?
 
-#### 1ba1a02ef7-SM | choice/UI → GORDON | x2
+#### 1ba1a02ef7 | choice/UI → GORDON | x2
 I’ve got work to do.
 
 #### ce92da4e86 | choice/UI, BATMAN → BAR, GORDON | x4
 Less complicated that way.
 
-#### 21293153ad-SM | BATMAN → GORDON | x2
+#### 21293153ad | BATMAN → GORDON | x2
 I’ve got work to do. Namely figuring out how Penguin knew where I was going to be.
 
 #### 2acc168c8e | choice/UI → GORDON | x2
@@ -445,7 +445,7 @@ It’ll be better if you don’t look.
 #### 05edf5ad81 | BATMAN → BOY, PENGUIN | x8
 Your parents aren’t going to be around to take care of you anymore.
 
-#### 2f33bc0113-LM | BATMAN → BOY | x4
+#### 2f33bc0113 | BATMAN → BOY | x4
 It’s going to be hard. And it’s going to be scary. But you need to do your best to be brave. {SurpriseA}Can you do that?
 
 #### f7f4a83a65 | BOY → BATMAN | x6
@@ -466,10 +466,10 @@ I... I see.
 #### 19f7c02b9a | GORDON → BATMAN | x2
 Well... We’ll make sure he’s taken care of.
 
-#### 75f6f21dd1-LM | choice/UI → ALFRED | x2
+#### 75f6f21dd1 | choice/UI → ALFRED | x2
 Don’t be scared. You’re safe now.
 
-#### 9faf68c12a-LM | BATMAN → ALFRED | x2
+#### 9faf68c12a | BATMAN → ALFRED | x2
 You don’t have to be scared anymore.{BodyAccent} You’re safe now.
 
 #### 1c759ed358 | GORDON → BOY, BATMAN | x14
@@ -493,7 +493,7 @@ Yeah.{ThinkingB} Yeah that’s right.
 #### c4c83e5a24 | BOY → GORDON | x4
 Why do you do this stuff?
 
-#### 341050ba11-SM | choice/UI → GORDON | x2
+#### 341050ba11 | choice/UI → GORDON | x2
 I was hurt too.
 
 #### 5f8e4dead3 | choice/UI → BOY | x2
@@ -502,13 +502,13 @@ Bad people need to be stopped.
 #### 26f5dab9f4 | BATMAN → GORDON, BOY | x4
 I’m Batman. It’s my job.
 
-#### 27aeace51a-SM | BATMAN → BOY | x2
+#### 27aeace51a | BATMAN → BOY | x2
 When I was young,{FaceAccent} I was hurt too.
 
 #### 0872729851 | BOY, BRUOY → BATMAN | x4
 Cool job.
 
-#### f972612913-SM | BATMAN → BOY | x2
+#### f972612913 | BATMAN → BOY | x2
 But I promised when I grew up {BodyAccent}I would try and protect innocent people.{NormalA}{FaceAccent} That’s why.
 
 #### 530e9e5670 | BOY → BATMAN | x4
@@ -526,7 +526,7 @@ Um. N-nevermind.
 #### 8a76b66016 | BATMAN → BOY | x2
 I know it feels impossible right now{ThinkingA}{FaceAccent}, but someday you’re going to be okay.
 
-#### 3b2813c936-LM | BATMAN → BOY | x2
+#### 3b2813c936 | BATMAN → BOY | x2
 Hey you did pretty good back there.
 
 #### a12f2204c5 | BATMAN → BOY | x2
@@ -565,7 +565,7 @@ It appears Mrs. Vale attempted to fight back with this knife...{ThinkingA}{BodyA
 #### 0c4d96bdbf | BATMAN → ALFRED | x2
 Large amounts of blood spatter across the walls.
 
-#### 80d5dbcd5f-LM | ALFRED → BATMAN | x2
+#### 80d5dbcd5f | ALFRED → BATMAN | x2
 The knife you found, sir?
 
 #### 1dddab4497 | BATMAN → ALFRED | x2
@@ -574,7 +574,7 @@ No, it didn’t have any blood on it. Whatever weapon did this, I haven’t seen
 #### 59162c0bd7 | BATMAN → ALFRED | x2
 Whatever did this, I haven’t found it yet.
 
-#### 3d9cbec733-SM | BATMAN → ALFRED | x2
+#### 3d9cbec733 | BATMAN → ALFRED | x2
 If that boy is here I need to find him. Hopefully alive...
 
 #### 437adea538 | BATMAN → ALFRED | x2
@@ -586,7 +586,7 @@ Nothing in the usual records - But Bruce, they’re very small - Do you suppose.
 #### 4a648f8ffd | BATMAN → ALFRED | x2
 Yes. I’m starting to think the boy from the photos is in here somewhere.
 
-#### 45049e8773-SM | BATMAN → GORDON | x2
+#### 45049e8773 | BATMAN → GORDON | x2
 Believe it or not, Jim, I was trying to keep things quiet.
 
 #### 0bd92f9530 | GORDON → BATMAN | x2
@@ -598,7 +598,7 @@ If the parents are ...gone... we need to start figuring out where he’s going t
 #### a6a2717743 | choice/UI → GORDON | x2
 You have it under control, right?
 
-#### 966b3dfecb-LM | choice/UI → GORDON | x2
+#### 966b3dfecb | choice/UI → GORDON | x2
 You could take him.
 
 #### 0da4cc686b | BATMAN → GORDON | x2
@@ -613,7 +613,7 @@ Let me know if there’s anything I can do to help.
 #### c5572a4596 | BATMAN → GORDON | x2
 A child doesn’t deserve this.
 
-#### 106c2f6551-LM | BATMAN → GORDON | x2
+#### 106c2f6551 | BATMAN → GORDON | x2
 You’re a father, right Jim? You could take him.
 
 #### 1a028ed525 | GORDON → BATMAN | x2
@@ -655,10 +655,10 @@ Good thing I wore the suit.
 #### 8946d7ac0d | choice/UI → ALFRED, BOY | x6
 Maybe I should have worn the suit.
 
-#### c745114f90-SM | BATMAN → ALFRED | x2
+#### c745114f90 | BATMAN → ALFRED | x2
 Could be. I’m glad I wore the suit.
 
-#### 3550ae0bc3-SM | BATMAN → ALFRED | x4
+#### 3550ae0bc3 | BATMAN → ALFRED | x4
 Maybe I should have put on the suit.  At least I brought along a few gadgets.
 
 #### b9ba97ab1a | choice/UI | x2
@@ -670,10 +670,10 @@ That was really stupid.  {AngryB}{FaceAccent}{BodyAccent}I handle the dangerous 
 #### e7da99affc | choice/UI → BOY | x2
 Are you ok?
 
-#### a899d987e0-LM | BATMAN → BOY | x4
+#### a899d987e0 | BATMAN → BOY | x4
 Are you safe?  Were you wounded?
 
-#### 45a159d7f6-SM | BOY → BATMAN | x4
+#### 45a159d7f6 | BOY → BATMAN | x4
 I’m okay.
 
 #### 2b3c26d995 | BATMAN → BOY | x2
@@ -688,7 +688,7 @@ Turn Knob
 #### f56abd62c3 | BATMAN → ALFRED | x2
 Alfred, The Vales are dead. One body confirmed, but there is a LOT of blood.  Alert Gordon.
 
-#### 012e9c3fae-SM | BATMAN → ALFRED | x2
+#### 012e9c3fae | BATMAN → ALFRED | x2
 Good thing I put on the suit.  Don’t worry, I’ll watch my back.
 
 #### dc9bc3520f | BATMAN → ALFRED | x2
@@ -706,7 +706,7 @@ That was really stupid.  I handle the dangerous stuff. You stay hidden.
 #### 769a5d7cbd | BATMAN → BOY | x2
 You’ll be okay. The police will be here soon.
 
-#### 600d58ada7-LM | choice/UI → BOY | x2
+#### 600d58ada7 | choice/UI → BOY | x2
 Were you injured?
 
 #### 63d1f546bf | BATMAN → BOY | x2
@@ -721,7 +721,7 @@ Hi, are you alright?
 #### 29e1bbc92a | choice/UI → BOY | x2
 Easy, I’m not going to hurt you.
 
-#### f9b53e1b7d-SM-LM | BOY → BATMAN | x2
+#### f9b53e1b7d | BOY → BATMAN | x2
 I.. I heard you out there and I was scared you were friends with her.
 
 #### 78822b329f | BOY → BATMAN | x2
@@ -736,31 +736,31 @@ Where did this “lady with the freaky voice” go?
 #### c29a6d6e41 | BATMAN → BOY | x4
 When you come out of the closet... don’t look okay?
 
-#### 4c3ece9792-LM | BATMAN → BOY, PENGUIN | x4
+#### 4c3ece9792 | BATMAN → BOY, PENGUIN | x4
 It’s going to be hard. And it’s going to be scary. But you need to do your best to be brave. Can you do that?
 
 #### 297a7a1fcf | BATMAN → BOY | x2
 They’re... gone. It was the “nightmare lady.“
 
-#### 9166dd157b-SM | BOY → BATMAN | x2
+#### 9166dd157b | BOY → BATMAN | x2
 My mom and dad... I heard them yelling.
 
 #### a37795701f | GORDON → BATMAN | x2
 Batman! We got calls from every house on the block - What the hell are you doing here?
 
-#### 1d69815ffa-SM | choice/UI → GORDON | x2
+#### 1d69815ffa | choice/UI → GORDON | x2
 I was jogging in the area.
 
-#### f6754e372f-SM | choice/UI → GORDON | x2
+#### f6754e372f | choice/UI → GORDON | x2
 I was looking for Vicki Vale.
 
 #### f08a5642eb | choice/UI → GORDON | x2
 Waiting for you to arrive.
 
-#### ac910ee008-SM | BATMAN → BOY | x2
+#### ac910ee008 | BATMAN → BOY | x2
 When I was young, I was hurt too.
 
-#### 39e151b759-SM | BATMAN, RUCE → BOY, BATMAN | x4
+#### 39e151b759 | BATMAN, RUCE → BOY, BATMAN | x4
 But I promised when I grew up I would try and protect innocent people. That’s why.
 
 #### c6ad398c83 | BATMAN → GORDON | x2
@@ -778,7 +778,7 @@ Can you keep a secret?
 #### 53470d63ec | choice/UI → BRUOY | x2
 This boy was in grave danger.
 
-#### 7af908fbde-LM | choice/UI → ALFRED | x2
+#### 7af908fbde | choice/UI → ALFRED | x2
 You helped me once, help him too.
 
 #### 228ad4ab9a | choice/UI → ALFRED | x2
@@ -796,7 +796,7 @@ That’s too simple.
 #### 9fb8a60f5b | choice/UI → ALFRED | x4
 Good time to look around.
 
-#### b927529201-SM | choice/UI → ALFRED | x4
+#### b927529201 | choice/UI → ALFRED | x4
 I’ve got a bad feeling.
 
 #### 9661b959ac | ALFRED → BATMAN, GORDON | x16
@@ -811,7 +811,7 @@ Well be ca
 #### 8c6b2d51de | BATMAN → ALFRED | x6
 If they are, then it’s a good time to look around...
 
-#### dad6f0d86f-SM | BATMAN → ALFRED | x4
+#### dad6f0d86f | BATMAN → ALFRED | x4
 I’ve got a bad feeling about this, Alfred.{ThinkingA} I’m going in.
 
 #### a17cab6f60 | ALFRED → BRUCE | x2
@@ -820,7 +820,7 @@ You and me both, Bruce.
 #### be8970aab1 | ALFRED → BOY | x2
 I’ll alert Gordon. Keep me posted of your progress.
 
-#### 1a72e4449a-SM | BATMAN → BOY, ALFRED | x10
+#### 1a72e4449a | BATMAN → BOY, ALFRED | x10
 I’m {BodyAccent}sorry.
 
 #### 181b112431 | BOY → BATMAN, ALFRED, PENGUIN | x12
@@ -829,7 +829,7 @@ They weren’t always nice. But they gave me a place to live--
 #### a542623d4a | PENGUIN → BOY, BATMAN | x4
 Our mutual friend asked me to keep an eye on this place with my new toy here.
 
-#### ec91531802-SM | PENGUIN → BOY, BATMAN | x4
+#### ec91531802 | PENGUIN → BOY, BATMAN | x4
 Like it? I found a whole FLEET of the things in the basement of Wayne Tower.
 
 #### 749d422e99 | BOY → PENGUIN | x2
@@ -838,10 +838,10 @@ Thank you. For saving me I mean.
 #### 1c5fbaf554 | BOY → GORDON | x2
 If you say so...
 
-#### e9d495e0f6-SM | BATMAN → ALFRED | x2
+#### e9d495e0f6 | BATMAN → ALFRED | x2
 Alfred, I found what{BodyAccent} appear to be adoption papers. Can you cross-check this ID number and see who they’re for?
 
-#### 14aa486c34-LM | ALFRED → BATMAN | x2
+#### 14aa486c34 | ALFRED → BATMAN | x2
 Certainly... Aha. That number is showing up as the record of when Victoria Arkham was adopted by the Vale family. You say you found them..?
 
 #### 6dbfd9afa9 | BATMAN → GORDON | x2
@@ -856,10 +856,10 @@ They must have adopted another child later.
 #### 241f936b47 | BATMAN | x2
 This is the pen Vicki used on me at the press conference.
 
-#### 8c34b0ccb3-SM | BATMAN | x2
+#### 8c34b0ccb3 | BATMAN | x2
 The spring I found in Mrs. Vale’s wound must be part of the pen’s inner mechanism.
 
-#### 8301b79a78-SM | BATMAN | x2
+#### 8301b79a78 | BATMAN | x2
 The cartridge I found lodged in Mrs. Vale’s wound must be part of the pen’s hidden drug mechanism.
 
 #### 3ab5dc0250 | BATMAN | x2
@@ -916,7 +916,7 @@ Looks like Mr. Vale was murdered with his own belt, {BodyAccent}{ThinkingA}but t
 #### 34a196037d | BATMAN → ALFRED | x2
 I’m going to find out who did this.
 
-#### 781e26abcb-SM | BATMAN → ALFRED | x2
+#### 781e26abcb | BATMAN → ALFRED | x2
 I’ve got a bad feeling about this, Alfred. I’m going in.
 
 #### f7993b86de | ALFRED → BATMAN | x2
@@ -931,10 +931,10 @@ The lady with the freaky voice.
 #### 9d761d8e5f | BATMAN | x2
 They’re... gone.
 
-#### 626e4e3856-SM | BATMAN | x4
+#### 626e4e3856 | BATMAN | x4
 I’m really sorry...
 
-#### 2b5c006824-SM-LF | PENGUIN → VICKI | x2
+#### 2b5c006824 | PENGUIN → VICKI | x2
 Bruce Wayne!?  Theyin’ to get some revenge on your old pal, Vicki?  You won’t find her here I’m afraid!
 
 #### d4c59a909b | BATMAN → PENGUIN | x2
@@ -946,7 +946,7 @@ And this is just a taste of what’s to come, mate.
 #### 379a3c9b59 | PENGUIN → BATMAN | x4
 Lady Arkham’s got bi-ig plans for ‘em.
 
-#### db3439106d-SM | BATMAN → RUCE | x2
+#### db3439106d | BATMAN → RUCE | x2
 When I was a kid, not much older than you... Someone took my parents from me too.
 
 #### 43cf5706ed | BATMAN → RUCE | x2
@@ -961,7 +961,7 @@ Talk to me, Al.
 #### c45d9c632c | ALFRED → BOY | x2
 Gordon and his men are approaching the house.
 
-#### 52e5b9564b-LM | BOY → ALFRED | x2
+#### 52e5b9564b | BOY → ALFRED | x2
 Why did you save me? It was dangerous. You could have died too.
 
 #### e83182b706 | BOY → BATMAN | x2
@@ -973,7 +973,7 @@ I’m going into the house. With me.
 #### d53de12ba3 | BATMAN → GORDON | x2
 I have to go now. But the man coming in is one of the best people I know. He’ll take good care of you.
 
-#### f2c84c7130-SM | GORDON → BATMAN | x2
+#### f2c84c7130 | GORDON → BATMAN | x2
 I need paramedic and forensic teams. Now.
 
 #### 2ef9613ddb | BATMAN → GORDON | x2
@@ -982,7 +982,7 @@ Lady Arkham killed this boy’s parents. The drone and gun fire are... unrelated
 #### 361e21ac7b | BATMAN → GORDON | x2
 WayneTech... But how did he get it?
 
-#### f000efefc7-SM | BATMAN → GORDON | x2
+#### f000efefc7 | BATMAN → GORDON | x2
 And then I need to figure out how Penguin got his hands on this...
 
 #### 3435f73cf3 | BATMAN → GORDON | x2
@@ -1054,7 +1054,7 @@ Dear god.
 #### 53ed4cc594 | BATMAN → ALFRED | x2
 This device is what Vicki used to inject me during the press conference.
 
-#### 3845233d9e-SM | BATMAN → ALFRED | x2
+#### 3845233d9e | BATMAN → ALFRED | x2
 Yes, {FaceAccent}but this is several times{BodyAccent} stronger than the dosage I received.
 
 #### 558d1f4bdf | ALFRED → BATMAN | x2
@@ -1108,7 +1108,7 @@ There’s someone here, under the stairs. {ThinkingA}Alive.
 #### 8e5146d3b8 | ALFRED → BATMAN | x2
 Oh thank heavens.
 
-#### 83b18d59da-SM | PENGUIN → GORDON | x2
+#### 83b18d59da | PENGUIN → GORDON | x2
 I had a feeling you’d be stopping by.
 
 #### 0a9de57078 | choice/UI → ALFRED, GORDON | x4
@@ -1129,7 +1129,7 @@ This has to be connected to Lady Arkham somehow.
 #### 0f4f5ed441 | GORDON → PENGUIN | x2
 She claimed to be responsible for Vicki’s disapearance.
 
-#### 6f3f9cc24e-LM | choice/UI → GORDON | x2
+#### 6f3f9cc24e | choice/UI → GORDON | x2
 Have you found Lady Arkham?
 
 #### 837bcedc33 | GORDON → BATMAN | x2
@@ -1153,7 +1153,7 @@ This whole city is going to hell.
 #### df08662e35 | BATMAN → GORDON | x2
 But there are still innocents that need protecting.
 
-#### adfa347e16-LM | BATMAN → GORDON | x2
+#### adfa347e16 | BATMAN → GORDON | x2
 Have you found her?
 
 #### a9f5fd5678 | GORDON → BATMAN | x2
@@ -1162,7 +1162,7 @@ No. {DisgustA} With Mayor Dent turning every neighborhood{DisgustB}{BodyAccent} 
 #### d1ab856e08 | GORDON → BATMAN | x4
 ...Who’s the kid?
 
-#### 4d38d5b13b-SM | BATMAN → GORDON | x2
+#### 4d38d5b13b | BATMAN → GORDON | x2
 The Vale’s appeared to be his parents.  I found him hiding under the stairs.
 
 #### d59efc74a5 | BATMAN → GORDON | x2
@@ -1216,7 +1216,7 @@ That lady from TV with the freaky voice?
 #### 6ce6eca114 | BATMAN → BOY | x2
 And I’m going to stop her so she can never do bad things again.
 
-#### ad8c9d90ff-SM | BATMAN → BOY | x2
+#### ad8c9d90ff | BATMAN → BOY | x2
 It seems the Vale’s adopted another child.{FaceAccent} I found him hiding under the stairs.
 
 #### 8240824cff | choice/UI → MONTOYA | x2
@@ -1276,13 +1276,13 @@ Mrs Vale’s Body
 #### 0f7f5b86ac | BOY → BATMAN | x2
 Someone was.. someone was hurting my parents. You’re not with her, right?
 
-#### e958701aa3-SM | BATMAN → ALFRED | x2
+#### e958701aa3 | BATMAN → ALFRED | x2
 I need to know where she went!
 
 #### 3a44091678 | BATMAN → ALFRED | x2
 The papers are receipts. Check stubs for federal aid the Vale’s were recieving for adopting Vicki.
 
-#### 0bbf4273a8-SM | BATMAN → ALFRED | x2
+#### 0bbf4273a8 | BATMAN → ALFRED | x2
 I found a lock of hair
 
 #### 8a6ed496ad | BATMAN → ALFRED | x2
@@ -1345,7 +1345,7 @@ I keep hearing them...
 #### a1b2fb748c | BATMAN → BOY | x2
 I’m going to get you out of here, but in the other room... it’s going to be hard to see.
 
-#### 9dea8b7cfe-LM | BATMAN → BOY | x2
+#### 9dea8b7cfe | BATMAN → BOY | x2
 The person that attacked your parents was twisted. Evil. So when you see what happened to them... you need to be brave.
 
 #### f8ba916613 | BOY → BATMAN | x2
@@ -1357,7 +1357,7 @@ Th- they’re dead.
 #### 4026ec1f1d | BOY | x2
 Mom... Dad...
 
-#### fba7861384-SM | BOY | x2
+#### fba7861384 | BOY | x2
 I... I’m sorry. I can’t be brave.
 
 #### 83c396a95c | BOY | x2
@@ -1417,7 +1417,7 @@ Jim - One last thing. I know where the drugs are. Lady Arkham is stockpiling the
 #### c7f6a27e76 | GORDON → BATMAN | x2
 I’ll get an APB on it right away. Thanks Batman.
 
-#### 04e3678c88-SM | BATMAN → GORDON | x2
+#### 04e3678c88 | BATMAN → GORDON | x2
 I’ll do what I can soon - First I’ve got a... personal matter to deal with.
 
 #### 9c57ec8cc1 | BATMAN → GORDON | x2
@@ -1429,7 +1429,7 @@ It smells like a slaughterhouse in here.
 #### 179c96beec | BATMAN | x2
 Alfred, get word to Gordon. This is a murder scene.
 
-#### a8606b05c0-SM | BATMAN | x2
+#### a8606b05c0 | BATMAN | x2
 I need to figure out what happened.
 
 #### c03b965168 | BATMAN | x2
@@ -1549,7 +1549,7 @@ I don’t know how this is connected to the drugs yet.  Whatever they knew about
 #### 58d3226986 | BATMAN | x2
 But there still might be something here to point me to the drugs.
 
-#### a7559784c2-SM | BATMAN | x2
+#### a7559784c2 | BATMAN | x2
 I need to look around.
 
 #### bb63c85619 | BATMAN | x2
@@ -1657,7 +1657,7 @@ He might be able to tell me more about what happened.
 #### 56c27f2bcb | choice/UI → ALFRED | x2
 You’re going to be alright.
 
-#### 2f525f7554-SM | choice/UI → BOY | x2
+#### 2f525f7554 | choice/UI → BOY | x2
 Sorry I scared you.
 
 #### 1794c965cb | choice/UI → BOY | x4
@@ -1666,7 +1666,7 @@ Stop hiding.
 #### 2bf7684b72 | BATMAN → BOY | x2
 But you’re not.
 
-#### 5e8be295c3-LM | choice/UI → PENGUIN | x2
+#### 5e8be295c3 | choice/UI → PENGUIN | x2
 You need to be strong
 
 #### e1d18c7bd8 | choice/UI → MONTOYA | x2
@@ -1714,7 +1714,7 @@ You of all people can appreciate the gravity of his situation - Don’t make thi
 #### fbcdf858d8 | BATMAN → ALFRED | x2
 Hey, it’s going to be okay. You’re going to be alright.
 
-#### 7edbc33ea6-SM-LM | BATMAN → ALFRED | x2
+#### 7edbc33ea6 | BATMAN → ALFRED | x2
 I need to know what happened. Tell me what you saw.
 
 #### d179ece3f5 | BATMAN → BOY | x2
@@ -1729,16 +1729,16 @@ Why are you hiding?
 #### 061116a677 | BOY → BATMAN | x4
 Please, please just leave me alone.
 
-#### 0526f2310e-SM | BOY → BATMAN | x2
+#### 0526f2310e | BOY → BATMAN | x2
 I... I heard screams. Lots of screams. So I hid. I didn’t see what happened.
 
-#### 2d59eeb078-SM | BATMAN → BOY | x4
+#### 2d59eeb078 | BATMAN → BOY | x4
 Something bad happened out here. I know it might be scary, but I need your help. Can you do that?
 
 #### f678edcdf5 | BOY → BATMAN | x2
 What do you want?!
 
-#### aea469645e-LM | BATMAN → BOY | x2
+#### aea469645e | BATMAN → BOY | x2
 I know you’re scared, but you don’t have to be scared of me.
 
 #### b80b55904c | BATMAN → BOY | x2
@@ -1753,13 +1753,13 @@ He told the stranger that... he doesn’t have any more trucks.
 #### e244d03885 | BOY → BATMAN | x2
 And... and it was.. it was after that the screaming started.
 
-#### 9a4a121f16-SM-LM | BATMAN → BOY | x2
+#### 9a4a121f16 | BATMAN → BOY | x2
 I need you to tell me if you saw, or heard, anything.
 
-#### 0d5f3b6406-SM | BOY → BATMAN | x2
+#### 0d5f3b6406 | BOY → BATMAN | x2
 I... I heard someone say something... something about drugs? Fighting the police? I don’t know who.
 
-#### 3e774c9102-SM | BOY → BATMAN | x2
+#### 3e774c9102 | BOY → BATMAN | x2
 I don’t know who because I didn’t see anything, I didn’t see anything because I hid in here - Please don’t send me to punishment!
 
 #### 6b0c5202d3 | BATMAN → PENGUIN, BOY | x4
@@ -1777,19 +1777,19 @@ Did I get it? Am I close? Pathetic.
 #### 7549a83206 | PENGUIN → BATMAN | x2
 Now I
 
-#### 4ed5ae8bff-SM | PENGUIN → BATMAN | x2
+#### 4ed5ae8bff | PENGUIN → BATMAN | x2
 I’ve got these little bat traps all over the city, but I should’ve known a good double murder would be what brought you out into the open.
 
-#### 86c391d123-SM | BATMAN → PENGUIN | x2
+#### 86c391d123 | BATMAN → PENGUIN | x2
 I’m so sorry that I couldn’t save your parents.
 
 #### ec35a84976 | BATMAN → PENGUIN | x2
 You don’t know how sorry.
 
-#### 22b61ab3eb-LM | BATMAN → PENGUIN | x2
+#### 22b61ab3eb | BATMAN → PENGUIN | x2
 Yes, they are... but you’re not. You’re still alive.
 
-#### 31868d15fa-SM | BATMAN → BOY | x2
+#### 31868d15fa | BATMAN → BOY | x2
 I promise - I won’t stop until I catch the person that did this.
 
 #### fd25c8914c | BATMAN → BOY | x2
@@ -1801,13 +1801,13 @@ But... but what’s going to happen to me?
 #### 6bb4f81888 | BATMAN → BOY | x2
 They’re going to find you a new family. One that will love you and take care of you.
 
-#### d0ccd04e87-LM | BATMAN → BOY | x2
+#### d0ccd04e87 | BATMAN → BOY | x2
 You won’t be left alone.
 
 #### a021b9d71b | BATMAN → BOY | x2
 There’s a man coming right now that’s going to come and help you.
 
-#### 67ee0e9dab-SM | BATMAN | x2
+#### 67ee0e9dab | BATMAN | x2
 He’ll make sure you’re taken care of. When I was about your age, he helped me too.
 
 #### 4bd90a4687 | BATMAN → BOY | x2
@@ -1849,7 +1849,7 @@ Just make sure he’s taken care of and doesn’t fall through the cracks. After
 #### 2365051777 | GORDON → BATMAN | x2
 Yeah I... I actually know the drill.
 
-#### 0df7c05ba6-SM | BATMAN → GORDON | x2
+#### 0df7c05ba6 | BATMAN → GORDON | x2
 That boy was the Vales’ adopted son. According to the papers I found, they were receiving a pretty significant stipend.
 
 #### 9fc6d698bc | GORDON → BATMAN | x2
@@ -1879,7 +1879,7 @@ The warehouse is Vale Oil & Heating. You should secure it as soon as possible.
 #### a66de17029 | GORDON → BATMAN | x2
 I’ll get on it right away. What about you?
 
-#### 05f59e2164-SM | BATMAN → GORDON | x2
+#### 05f59e2164 | BATMAN → GORDON | x2
 I’ve got something I need to look into.
 
 #### 33053edfdc | GORDON → BATMAN | x2
@@ -1960,7 +1960,7 @@ Be strong, you’re a hero!
 #### 2db2f51a5a | BATMAN → GORDON | x2
 Vicki showed up to attack her foster parents.{ThinkingA} {BodyAccent}But at first, only the mother was there.
 
-#### 1a864d0b58-SM | BATMAN → GORDON | x2
+#### 1a864d0b58 | BATMAN → GORDON | x2
 That boy was the Vales’ foster son. According to the papers I found, they were receiving a pretty significant stipend.
 
 #### 900ffd99ad | BATMAN → GORDON | x2
@@ -1969,6 +1969,6 @@ My guess is he’s another foster child living with the Vales.
 #### de4989fa54 | BATMAN → BOY | x2
 This must be Vicki shortly after the Vales took her into their care.
 
-#### 6d6846f43e-SM | choice/UI → BOY | x2
+#### 6d6846f43e | choice/UI → BOY | x2
 I said stop hiding.
 

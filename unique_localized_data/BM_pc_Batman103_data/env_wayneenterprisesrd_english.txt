@@ -43,10 +43,10 @@ You’ve cost me my company.
 #### 4ebdcfb25e | choice/UI | x2
 What’s done is done.
 
-#### 3356abc96e-SM | choice/UI | x2
+#### 3356abc96e | choice/UI | x2
 This is worse than I feared.
 
-#### e05b2740da-SM | choice/UI → LUCIUS | x4
+#### e05b2740da | choice/UI → LUCIUS | x4
 I’m sorry I doubted you.
 
 #### 97fee1fc8a | choice/UI | x2
@@ -58,7 +58,7 @@ We just have to figure this out.
 #### 5c635720c1 | choice/UI | x2
 Are you hiding something from me?
 
-#### 0b2b7c63f9-SM-L? | choice/UI | x2
+#### 0b2b7c63f9 | choice/UI | x2
 I’m lucky to have you.
 
 #### eb25e10a7c | choice/UI | x2
@@ -67,7 +67,7 @@ There’s something else we need to discuss.
 #### 4311158cd1 | choice/UI | x2
 Wayne Enterprises has a deeper problem.
 
-#### cf0a056f99-SM | choice/UI | x2
+#### cf0a056f99 | choice/UI | x2
 This is harder than I expected.
 
 #### 4d15ef25a8 | choice/UI | x2
@@ -76,7 +76,7 @@ Things are worse than you know.
 #### 149258a3ea | choice/UI | x2
 Tell me I can trust you.
 
-#### a14acbed26-SM | choice/UI | x2
+#### a14acbed26 | choice/UI | x2
 I’m sorry if I’ve upset you.
 
 #### 36ebc12164 | choice/UI | x2
@@ -142,19 +142,19 @@ Are you... spying on me?
 #### ab8290be56 | LUCIUS → BRUCE | x2
 Bruce, what’s going on?
 
-#### cb7e92d784-SM | BRUCE → LUCIUS | x2
+#### cb7e92d784 | BRUCE → LUCIUS | x2
 I need to know if I can trust you, Lucius.
 
 #### 624da74a44 | LUCIUS → BRUCE | x2
 Of course you can. What kind of question is that?
 
-#### aa04cad897-SM | LUCIUS → BRUCE | x2
+#### aa04cad897 | LUCIUS → BRUCE | x2
 I’ve kept your secret all these years. I’ve never hidden anything from you.
 
 #### 5dbb8cd9d2 | BRUCE → LUCIUS | x2
 I didn’t mean to upset you, Lucius. I’m just trying to get some answers.
 
-#### ad58a33032-LM | LUCIUS → BRUCE | x2
+#### ad58a33032 | LUCIUS → BRUCE | x2
 You could’ve just asked me. Instead you broke into my computer...
 
 #### 330d94f4fb | BRUCE → LUCIUS | x2
@@ -163,10 +163,10 @@ I know about Sanctus, Lucius.
 #### a75e777581 | LUCIUS → BRUCE | x2
 So that’s what it is?
 
-#### 49bb471486-SM | LUCIUS → BRUCE | x2
+#### 49bb471486 | LUCIUS → BRUCE | x2
 I found the name by chance a few days ago. It’s some sort of hidden division or... system, but I can’t dig up anything more than that.
 
-#### bbdd05ad1b-SM | LUCIUS → BRUCE | x2
+#### bbdd05ad1b | LUCIUS → BRUCE | x2
 I didn’t know if it was you or... or what it was. I wanted to find something concrete before I came to you in a panic over nothing.
 
 #### 7ac534d830 | LUCIUS → BRUCE | x2
@@ -178,7 +178,7 @@ I’ve never given you any reason to doubt me, have I?
 #### 750e6a34c5 | BRUCE → LUCIUS | x2
 I want to belive you. I really do.
 
-#### 42b3577d60-SM | BRUCE → LUCIUS | x2
+#### 42b3577d60 | BRUCE → LUCIUS | x2
 But there are things I’ve found hiding within Wayne Tech that are... hard to explain.
 
 #### e8ed845610 | BRUCE → LUCIUS | x2
@@ -187,7 +187,7 @@ We aren’t the only secret hiding within Wayne Tech.
 #### adfd0ef2f6 | LUCIUS → BRUCE | x2
 This is Sanctus isn’t it?
 
-#### 03630bc5c4-SM | BRUCE → LUCIUS | x4
+#### 03630bc5c4 | BRUCE → LUCIUS | x4
 I found this in the GCPD’s communication devices.
 
 #### 88dc693709 | LUCIUS → BRUCE | x2
@@ -217,10 +217,10 @@ I know...
 #### cb851c6e4c | BRUCE → LUCIUS | x2
 Do you understand what you’ve done? You might’ve cost me my company.
 
-#### 86ebc58457-SM | BRUCE → LUCIUS | x2
+#### 86ebc58457 | BRUCE → LUCIUS | x2
 If I had known about this {AngryA}I could’ve done something.
 
-#### 55fff13740-SM | LUCIUS, ALFRED → BRUCE | x4
+#### 55fff13740 | LUCIUS, ALFRED → BRUCE | x4
 I’m so sorry, Bruce.
 
 #### f2c7d80ca1 | LUCIUS → BRUCE | x2
@@ -229,7 +229,7 @@ I... I know that doesn’t help.
 #### 5a453fabd9 | BRUCE → LUCIUS | x2
 It doesn’t matter. What’s done is done.
 
-#### d3286278cb-SM | LUCIUS → BRUCE | x2
+#### d3286278cb | LUCIUS → BRUCE | x2
 I messed up.
 
 #### 2921e0c6b0 | choice/UI → LUCIUS | x2
@@ -253,7 +253,7 @@ We should be able to get in.
 #### 46c661d340 | BRUCE → LUCIUS | x2
 All I know is, you’d better find a way to fix this.
 
-#### 8295218d4b-SM | BRUCE → LUCIUS | x2
+#### 8295218d4b | BRUCE → LUCIUS | x2
 I need you to help me, Lucius. Please.
 
 #### d23f6f8666 | LUCIUS → BRUCE | x2
@@ -274,19 +274,19 @@ There has to be a way.
 #### 2bf88e4059 | LUCIUS, BRUCE → BRUCE, BATMAN, GORDON | x6
 I will.
 
-#### 4f921553a1-LM | LUCIUS → BRUCE | x2
+#### 4f921553a1 | LUCIUS → BRUCE | x2
 Bruce! Glad you called me about stopping over. I have something I’ve been wanting to show you.
 
-#### 3770cd834a-SM | LUCIUS → BRUCE | x2
+#### 3770cd834a | LUCIUS → BRUCE | x2
 You might say I outdid myself here. [beat]C’mon, say it!
 
 #### b071e1d1ce | BRUCE → LUCIUS | x2
 Looks like another invaluable piece of Lucius Fox technology.
 
-#### e0163b37a1-SM | LUCIUS → BRUCE | x2
+#### e0163b37a1 | LUCIUS → BRUCE | x2
 I’ve spent the better part of a month fine-tuning it.
 
-#### 1389b10d69-SM | LUCIUS → BRUCE | x2
+#### 1389b10d69 | LUCIUS → BRUCE | x2
 I wanted to leave you well-equipped before...
 
 #### 01d8e0fa7e | BRUCE → LUCIUS | x2
@@ -295,13 +295,13 @@ You’re in an awfully good mood, considering.
 #### 532e47efdf | LUCIUS → BRUCE | x2
 Considering the... current state of affairs, you mean?
 
-#### 0252340edd-SM | LUCIUS → BRUCE | x2
+#### 0252340edd | LUCIUS → BRUCE | x2
 I thought sticking to business as usual might take your mind off things.
 
 #### e71e9d5610 | BRUCE → LUCIUS | x2
 Look, Lucius... I think it’s time we had a conversation.
 
-#### ea7d08e707-LM | LUCIUS → BRUCE | x2
+#### ea7d08e707 | LUCIUS → BRUCE | x2
 You’re right. This can wait.
 
 #### 4ec7f45c4d | BRUCE → LUCIUS | x2
@@ -310,7 +310,7 @@ That’s the polite way to put it.
 #### 652dba7a6c | BRUCE → LUCIUS | x2
 Before my own company turns against me, too?
 
-#### e45f9c3710-SM | LUCIUS → BRUCE | x2
+#### e45f9c3710 | LUCIUS → BRUCE | x2
 I’ve been watching the news all day. Haven’t been able to tear myself away from it. “Bruce Wayne To Be Ousted as CEO of Wayne Enterprises?“
 
 #### 4df3149f96 | LUCIUS → BRUCE | x2
@@ -325,13 +325,13 @@ You’re the only reason I’ve stuck around as long as I have. Helping Batman..
 #### 6242cf4515 | BRUCE → LUCIUS | x2
 All that daytime TV’ll rot your brain.
 
-#### eaaa89f0dc-SM-LM | BRUCE → LUCIUS | x2
+#### eaaa89f0dc | BRUCE → LUCIUS | x2
 I’m lucky to have you in my corner, Lucius.
 
 #### ed7a19ef2d | LUCIUS → BRUCE | x2
 The feeling’s entirely mutual.
 
-#### a63b7aac03-LM | LUCIUS → BRUCE | x2
+#### a63b7aac03 | LUCIUS → BRUCE | x2
 But that isn’t what you wanted to talk to me about. Is it?
 
 #### c1334bf0f2 | LUCIUS → BRUCE | x2
@@ -346,7 +346,7 @@ I probably would’ve worked here for free, if you’d ever asked.
 #### 7415b9c95f | LUCIUS → BRUCE | x2
 ... Maybe don’t quote me on that, though.
 
-#### 67da351b67-SM | BRUCE → LUCIUS | x2
+#### 67da351b67 | BRUCE → LUCIUS | x2
 There’s actually something else I wanted to talk to you about.
 
 #### ee649da3e5 | LUCIUS → BRUCE | x2
@@ -376,10 +376,10 @@ Okay...
 #### b4d6f50dcd | LUCIUS → BRUCE | x2
 What’s--what’s going on?
 
-#### 27d8077364-SM | BRUCE → LUCIUS | x2
+#### 27d8077364 | BRUCE → LUCIUS | x2
 I didn’t know if I should bring this to you--if I could trust you...
 
-#### a2818c6b8d-SM | BRUCE → LUCIUS | x2
+#### a2818c6b8d | BRUCE → LUCIUS | x2
 But the things I’ve found--{ConfusedA}I can’t explain them. Not without your help.
 
 #### da2acbd999 | LUCIUS → BRUCE | x4
@@ -397,16 +397,16 @@ You know you’ve always been able to tell me anything.
 #### 0c8efecf57 | BRUCE → LUCIUS | x2
 Just stop, alright? It’s bad enough that you’ve been lying to me this whole time--now you’re gonna do it straight to my face.
 
-#### 47e2a0a487-SM | LUCIUS → BRUCE | x2
+#### 47e2a0a487 | LUCIUS → BRUCE | x2
 Lying to you? I would never! I *have* never!
 
-#### d961005409-LM | BRUCE → LUCIUS | x2
+#### d961005409 | BRUCE → LUCIUS | x2
 You mean to tell me there are bugs in our Wayne Tech, and you had nothing to do with it?
 
 #### a70d8b8e8b | LUCIUS → BRUCE | x2
 That’s... Sanctus isn’t it?
 
-#### 5fb03d9495-SM | BRUCE → LUCIUS | x2
+#### 5fb03d9495 | BRUCE → LUCIUS | x2
 I found... bugs in the Wayne Tech at the GCPD.
 
 #### 49d167dabe | LUCIUS → BRUCE | x2
@@ -439,22 +439,22 @@ Everything that Wayne Enterprises has built... everything that makes Gotham run.
 #### b99036adf4 | LUCIUS → BRUCE | x2
 Illegal medical experimentation... market gouging... crooked low-income housing... even the Skyrail network! They control it all!
 
-#### 430b2edbe8-SM | LUCIUS → BRUCE | x2
+#### 430b2edbe8 | LUCIUS → BRUCE | x2
 How... how could I have let this happen?
 
-#### 5e22998272-SM | BRUCE → LUCIUS | x2
+#### 5e22998272 | BRUCE → LUCIUS | x2
 This... is terrible. Much worse than I imagined.
 
 #### cdcc9f144b | BRUCE → LUCIUS | x2
 None of this is your fault, Lucius.
 
-#### 2a36e99b31-SM | LUCIUS → BRUCE | x2
+#### 2a36e99b31 | LUCIUS → BRUCE | x2
 If I had just dug deeper -- maybe I could have done -- *some*thing to stop this!
 
 #### f269bf846d | BRUCE → LUCIUS | x2
 A network this vast... it took decades to build. They didn’t just sneak in while one person was asleep at the wheel.
 
-#### 270f6e85d1-SM | LUCIUS → BRUCE | x4
+#### 270f6e85d1 | LUCIUS → BRUCE | x4
 If I’d known things were this bad... I would have come to you much sooner.
 
 #### 68a519a9a2 | BRUCE → LUCIUS | x2
@@ -472,13 +472,13 @@ The scale of it... it’s unbelievable.
 #### 239a48ce59 | BRUCE → LUCIUS | x2
 We just have to figure out who’s behind it -- how they operate, and whose palms they’ve greased along the way.
 
-#### cd3eb6c392-SM | LUCIUS → BRUCE | x2
+#### cd3eb6c392 | LUCIUS → BRUCE | x2
 If I had just come to you sooner --
 
 #### 89053cbcfc | BRUCE → LUCIUS | x2
 We both know now. We’ll unravel their web -- together.
 
-#### 2df05eed3c-SM | BRUCE → LUCIUS | x2
+#### 2df05eed3c | BRUCE → LUCIUS | x2
 Looks like I’ve got a guest.
 
 #### 9a3f11a6b8 | LUCIUS → BRUCE | x2
@@ -496,22 +496,22 @@ Take this. Everything on Sanctus.
 #### 21359568eb | LUCIUS → BRUCE | x2
 I’ll cover our tracks down here.
 
-#### f4c35a66e1-SM | BRUCE → LUCIUS | x2
+#### f4c35a66e1 | BRUCE → LUCIUS | x2
 I’m sorry I doubted you, Lucius.
 
 #### 0a6868bb50 | LUCIUS → BRUCE | x2
 Don’t give it another thought.
 
-#### ac7da9b915-SM-LM | BRUCE → LUCIUS | x2
+#### ac7da9b915 | BRUCE → LUCIUS | x2
 Next time you’ve got something--no matter how small--{ConcernedA}I need you to tell me.
 
-#### 1084c218b0-SM | LUCIUS → BRUCE | x2
+#### 1084c218b0 | LUCIUS → BRUCE | x2
 I won’t make the same mistake twice.
 
 #### 5bdbe792b7 | LUCIUS → BRUCE | x2
 I hope you know that no matter what happens up there--
 
-#### 9becf0b70e-SM | LUCIUS → BATMAN | x4
+#### 9becf0b70e | LUCIUS → BATMAN | x4
 I’ve got your back, Batman.
 
 #### 96415b7594 | LUCIUS | x2
@@ -535,7 +535,7 @@ My bet? Either it’s an inside job.... or it was masterminded by the highest of
 #### 2924d5125e | BRUCE → LUCIUS | x2
 Not sure I’ll ever get the first one back from Selina.
 
-#### e92e6b7165-SM | LUCIUS → BRUCE | x2
+#### e92e6b7165 | LUCIUS → BRUCE | x2
 I still shouldn’t have kept it from you. I’m sorry.
 
 #### 9d3783cc0d | LUCIUS → BRUCE | x2
@@ -556,10 +556,10 @@ And through Wayne Enterprises, it gave them absolute legitimacy.
 #### c7350614cc | LUCIUS → BRUCE | x2
 How do you shut down an entire company? This isn’t a plug you can simply pull.
 
-#### 22f462cd99-SM | choice/UI → LUCIUS | x2
+#### 22f462cd99 | choice/UI → LUCIUS | x2
 This is worse than I thought.
 
-#### 6a6d892d4e-SM | BRUCE → LUCIUS | x2
+#### 6a6d892d4e | BRUCE → LUCIUS | x2
 I had no idea it was this bad.
 
 #### 81b0a4cf33 | BRUCE, choice/UI → LUCIUS | x7
@@ -571,7 +571,7 @@ I should’ve known. I’ve run my father’s company for years.
 #### 9d22c360d9 | LUCIUS → BRUCE | x2
 None of us did.
 
-#### fdd53e0658-SM | LUCIUS → BRUCE | x2
+#### fdd53e0658 | LUCIUS → BRUCE | x2
 I had no idea...
 
 #### eabc7c5639 | LUCIUS → BRUCE | x2
@@ -589,7 +589,7 @@ Thomas Wayne. At 10 PM last night.
 #### 5d33399c83 | LUCIUS → BRUCE | x2
 That’s not possible.
 
-#### 07b61a9e7d-SM | BRUCE → LUCIUS | x2
+#### 07b61a9e7d | BRUCE → LUCIUS | x2
 The board meeting just let out. I need to get back up there to meet Regina.
 
 #### 87fc44f536 | LUCIUS → BRUCE | x2
@@ -637,7 +637,7 @@ Good. And you shouldn’t.
 #### f58a9e4e6e | LUCIUS → BRUCE | x2
 Keep fighting, till the very end.
 
-#### f9fac3d882-LM | LUCIUS → BRUCE | x2
+#### f9fac3d882 | LUCIUS → BRUCE | x2
 Of course you don’t want to hear about some flashy gadget--not after the kind of day you’ve had.
 
 #### 059cc52a27 | BRUCE → LUCIUS | x2
@@ -664,22 +664,22 @@ It’s a sticky bomb. New and improved. You can detonate it from over one hundre
 #### c952f7c31f | LUCIUS → BRUCE | x2
 I try to stay occupied.
 
-#### 289179e709-LM | LUCIUS → BRUCE | x2
+#### 289179e709 | LUCIUS → BRUCE | x2
 Back before we figured out the ideal weight. [chuckles]Those first few missions were certainly entertaining to watch. You were so confident all your equipment would work perfectly. And then... well.
 
-#### 04073cadb1-LM | LUCIUS → BRUCE | x2
+#### 04073cadb1 | LUCIUS → BRUCE | x2
 Good thing you were only going after petty thieves back then.
 
 #### 7b22e26ff5 | LUCIUS → BRUCE | x2
 Wonder if that’s the only thing she stole.
 
-#### 6c89ad73e9-SM-LM | BRUCE → LUCIUS | x2
+#### 6c89ad73e9 | BRUCE → LUCIUS | x2
 I always wondered why you had a table that could hide itself. {SmugA}Guess it’s coming in pretty handy now.
 
 #### 20cedc1681 | LUCIUS → BRUCE | x2
 Trust me, it was much more paranoia than precaution.
 
-#### 2dc3cae6f5-SM | LUCIUS → BRUCE | x2
+#### 2dc3cae6f5 | LUCIUS → BRUCE | x2
 I think of what Gotham has become. And I think of them. They give me all the reason I need to work with Batman. He’s the only one that will truly protect them.
 
 #### 1e8109e298 | BRUCE → LUCIUS | x2
@@ -694,19 +694,19 @@ Alright, now where did those bugs come from?
 #### a98dd3fcbd | LUCIUS → BRUCE | x2
 And you control the size of the explosion.
 
-#### 4f577b0a84-SM | BRUCE → LUCIUS | x2
+#### 4f577b0a84 | BRUCE → LUCIUS | x2
 I need to know how it got there.
 
 #### 7fd20c63cd | LUCIUS → BRUCE | x2
 I wonder if this has to do with Sanctus.
 
-#### ea83049d8e-SM | LUCIUS → BRUCE | x2
+#### ea83049d8e | LUCIUS → BRUCE | x2
 I’m sorry I didn’t come to you with this sooner.
 
 #### dbc6b6e4d2 | choice/UI → LUCIUS | x2
 This put people in danger!
 
-#### 21bd694b71-SM | BRUCE → LUCIUS | x2
+#### 21bd694b71 | BRUCE → LUCIUS | x2
 This put a lot of innocent people in danger. The Children of Arkham were using this to spy on the GCPD. {ThinkingA}If I had known about this {AngryA}I could’ve done something.
 
 #### 3618edf7a9 | BRUCE → LUCIUS | x4
@@ -724,7 +724,7 @@ Not much...
 #### 1f859e891a | BRUCE → LUCIUS | x2
 Can you hold it off?
 
-#### a1f9d36c39-LM | LUCIUS → BRUCE | x2
+#### a1f9d36c39 | LUCIUS → BRUCE | x2
 How much time do you need?
 
 #### 8b593ea5b4 | BRUCE → LUCIUS | x2
@@ -739,7 +739,7 @@ Then what was this doing in the GCPD’s communication devices?
 #### bfbebca2b9 | BRUCE → LUCIUS | x4
 This was hidden in the GCPD’s communication devices.
 
-#### aaa6aaeac1-SM | BRUCE → LUCIUS | x2
+#### aaa6aaeac1 | BRUCE → LUCIUS | x2
 And I found this in the GCPD’s communication devices.
 
 #### 62747326aa | LUCIUS → BRUCE | x2
@@ -775,10 +775,10 @@ The blast radius is small, so they’re discreet, but they still pack a serious 
 #### 2654dd86e8 | LUCIUS → BRUCE | x2
 Be careful. Those things pack a serious punch.
 
-#### acd6fe2499-LM | LUCIUS → BRUCE | x2
+#### acd6fe2499 | LUCIUS → BRUCE | x2
 Then, if you need to, press here.
 
-#### a77558c271-LM | BRUCE → LUCIUS | x2
+#### a77558c271 | BRUCE → LUCIUS | x2
 Yeah, you’re right.
 
 #### 63626182af | BRUCE → LUCIUS | x2
@@ -823,7 +823,7 @@ The counter-hack wasn’t automatic.{SkepticalA} Someone logged in around the sa
 #### 865a703de2 | choice/UI → LUCIUS | x2
 They won’t get in my way.
 
-#### 0923359e60-SM | choice/UI → LUCIUS, VICKI | x4
+#### 0923359e60 | choice/UI → LUCIUS, VICKI | x4
 I’m not worried.
 
 #### 59871fa474 | choice/UI → LUCIUS | x2
@@ -904,13 +904,13 @@ The board’s in a panic, {NormalA}but this’ll die down {ThinkingA}before it c
 #### 5a129962c2 | BRUCE → LUCIUS | x2
 I’m not gonna let anything get in the way of what we’re doing down here.
 
-#### 213bb43011-SM | LUCIUS → BRUCE | x2
+#### 213bb43011 | LUCIUS → BRUCE | x2
 I’m glad you’re being optimistic about this. But I’m not so sure.
 
 #### f630da7339 | LUCIUS → BRUCE, FAIRCHILD | x8
 If it gets taken away, you’ll be saving Gotham in suits with tears and bullet holes.
 
-#### 11f41932ba-SM | BRUCE → LUCIUS | x2
+#### 11f41932ba | BRUCE → LUCIUS | x2
 I don’t need to worry about the board. {SmugA}{BodyAccent}I’ve got plenty of money--{SmugB}{FaceAccent}we’ll make do.
 
 #### 0812a68264 | LUCIUS → BRUCE | x2
@@ -922,7 +922,7 @@ I’d like to be optimistic, but from where I’m sitting it doesn’t look good
 #### 3f19ae617a | BRUCE → LUCIUS | x2
 My fate at the company can wait.
 
-#### 6a31627a81-LM | BRUCE → LUCIUS | x2
+#### 6a31627a81 | BRUCE → LUCIUS | x2
 What have you got?
 
 #### 7e7bf373ac | LUCIUS → BRUCE | x4
@@ -940,7 +940,7 @@ Just get on with it, Lucius. {BodyAccent}We don’t have time for games.
 #### 4b742623d6 | LUCIUS → BRUCE | x2
 Forgive me for trying to lighten the mood.
 
-#### 31c82f8327-SM | LUCIUS → BRUCE | x2
+#### 31c82f8327 | LUCIUS → BRUCE | x2
 The backdoor they’re using... I was the one who built it.
 
 #### 42697adb7d | LUCIUS → BRUCE | x2
@@ -952,7 +952,7 @@ The good news is I should be able to shut down the backdoor.
 #### 1b337308ca | LUCIUS | x2
 Well, you see this backdoor they’re using... I built it.
 
-#### 09370a84fc-L? | LUCIUS | x2
+#### 09370a84fc | LUCIUS | x2
 Really? Nothing? You’re not as fun as you used to be.
 
 #### 60ceb44880 | LUCIUS → BRUCE | x2
@@ -976,13 +976,13 @@ Gotham’s just lucky you have a conscience. You’re a one-man NSA, Bruce.
 #### 0f67da22da | LUCIUS → BRUCE | x2
 Gotham’s just lucky you have a conscience. You’re Big Brother in a Batsuit, Bruce.
 
-#### bb9d9f1e81-SM | BRUCE → LUCIUS | x2
+#### bb9d9f1e81 | BRUCE → LUCIUS | x2
 I need as much surveillance as I can get. {AngryA}Gotham can have its privacy when it isn’t crawling with criminals.
 
 #### f9a9ebb512 | LUCIUS → BRUCE | x2
 Sounds like recent events are coloring your judgement a bit, no?
 
-#### e308bdcc49-LM | BRUCE → LUCIUS | x2
+#### e308bdcc49 | BRUCE → LUCIUS | x2
 How long have you known me, Lucius? {AngryA}Batman would never use this to control people’s lives.
 
 #### b7fcb7c86a | LUCIUS → BRUCE | x2
@@ -994,7 +994,7 @@ Are you going to start lecturing me about the sanctity of privacy? {SmugA}Becaus
 #### e6c8e3b4ca | LUCIUS → BRUCE | x2
 I just want to keep you honest, Bruce. Alfred can only do so much.
 
-#### 59ac6a6395-LM | LUCIUS → BRUCE | x2
+#### 59ac6a6395 | LUCIUS → BRUCE | x2
 I know how useful it is, to listen in when you need to.
 
 #### 7a12d58d8a | LUCIUS → BRUCE | x2
@@ -1033,7 +1033,7 @@ There’s only one person I know that could manage something this big.
 #### 578ed6e1ad | BRUCE → LUCIUS | x2
 And he happens to be sitting in that chair.
 
-#### ab9abc2ee9-SM | LUCIUS → BRUCE | x2
+#### ab9abc2ee9 | LUCIUS → BRUCE | x2
 You know, I was always suspicious of this Lucius Fox character.
 
 #### 98b9e43f5a | LUCIUS → BRUCE | x2
@@ -1057,7 +1057,7 @@ In the meantime, here.
 #### bef3afb317 | LUCIUS | x2
 Get that back to the Batcomputer.
 
-#### ec8279426a-SM | LUCIUS | x2
+#### ec8279426a | LUCIUS | x2
 I’m serious about what I said before. You can’t lose your position as CEO of Wayne Enterprises.
 
 #### 0899af9aec | LUCIUS → BRUCE | x2
@@ -1069,7 +1069,7 @@ We can’t risk the company getting suspicious.
 #### 7ec0069285 | LUCIUS → BRUCE | x2
 And if I’m not working on Batman’s equipment, I don’t know what I’m even doing here.
 
-#### af256b1e82-SM | BRUCE → LUCIUS | x2
+#### af256b1e82 | BRUCE → LUCIUS | x2
 This is my only priority now. {NormalA}I’m sorry.
 
 #### eccb46d888 | LUCIUS → BRUCE | x2
@@ -1081,19 +1081,19 @@ Don’t worry.{AmusedA} I’ll make sure you’re taken care of. No matter what.
 #### 3a02bc1401 | LUCIUS → BRUCE | x2
 Thank you, Bruce. That means a lot.
 
-#### 8294bd71da-LM | BRUCE → LUCIUS | x2
+#### 8294bd71da | BRUCE → LUCIUS | x2
 Come on. You’re resourceful. {SmugA}You could find a new job in no time.
 
 #### c9fe667535 | BRUCE → LUCIUS | x2
 “Freelance hacker and technology guru for hire.“
 
-#### 0c983f898f-SM | LUCIUS → BRUCE | x2
+#### 0c983f898f | LUCIUS → BRUCE | x2
 I’m sure I could. And while I’m at it, I’ll let everyone know you’re Batman.
 
 #### 628b51a912 | LUCIUS → BRUCE | x2
 After all, it is a huge part of my resume.
 
-#### 242b6322ff-LM | LUCIUS → BRUCE | x2
+#### 242b6322ff | LUCIUS → BRUCE | x2
 I know you’re busy, but if you have time, you should look around.
 
 #### 4a740bcce0 | LUCIUS → BRUCE | x2
@@ -1105,16 +1105,16 @@ I’m going to keep working on this Children of Arkham business. See if there’
 #### 7715b53b4b | BRUCE → LUCIUS | x2
 Like this?
 
-#### a7634117d0-LM | LUCIUS → BRUCE | x2
+#### a7634117d0 | LUCIUS → BRUCE | x2
 The signal is activated on the underside. Stick it wherever you need, and then you can detonate it from your gauntlet.
 
 #### 7096da0de1 | LUCIUS → BRUCE | x2
 It’s discreet, but packs a major punch.
 
-#### 477d512484-SM | LUCIUS → BRUCE | x2
+#### 477d512484 | LUCIUS → BRUCE | x2
 A new sticky bomb I developed. The signal is activated on the underside.
 
-#### ec7d72f215-LM | LUCIUS → BRUCE | x2
+#### ec7d72f215 | LUCIUS → BRUCE | x2
 Attach it wherever you need, then detonate it remotely with your gauntlet.
 
 #### 5fe799da94 | LUCIUS → BRUCE | x2
@@ -1213,7 +1213,7 @@ My life just keeps getting better.
 #### a6e5066b70 | choice/UI → LUCIUS | x2
 They would have already attacked.
 
-#### d69dcae147-LM | choice/UI → LUCIUS | x2
+#### d69dcae147 | choice/UI → LUCIUS | x2
 You messed up bad.
 
 #### 4ba79d4303 | LUCIUS → FAIRCHILD | x2
@@ -1231,7 +1231,7 @@ They’d be able to monitor nearly{AngryA} everything that happens in Gotham.
 #### c546cae2a7 | BRUCE → LUCIUS | x2
 You’re telling me the {FaceAccent}{BodyAccent}Children of Arkham hacked into the system.
 
-#### 24867fc536-SM | LUCIUS → BRUCE | x2
+#### 24867fc536 | LUCIUS → BRUCE | x2
 But that’s because I was the one that built it.
 
 #### ee63bb4ccc | BRUCE → LUCIUS | x2
@@ -1252,19 +1252,19 @@ It’ll install the added security measures.
 #### 76894c9081 | LUCIUS → BRUCE | x2
 But it’s not really ready yet.
 
-#### 0f3183669f-SM-LM | LUCIUS → BRUCE | x2
+#### 0f3183669f | LUCIUS → BRUCE | x2
 I was worried that Regina might kick you to the curb as soon as you showed up.
 
 #### 71ab3b9751 | LUCIUS → BRUCE | x2
 It’s good to hear she’s still in your corner.
 
-#### d6c28be755-LM | LUCIUS → BRUCE | x2
+#### d6c28be755 | LUCIUS → BRUCE | x2
 When your mission as Batman started, you needed a way to monitor the city.
 
 #### 7e6d1b9f6b | BRUCE → LUCIUS | x2
 I remember.
 
-#### f7ee16ca92-SM | LUCIUS → BRUCE | x4
+#### f7ee16ca92 | LUCIUS → BRUCE | x4
 Well, this is how. I piggybacked Batman’s surveillance onto the Wayne Enterprises’ signal.
 
 #### 0936405761 | LUCIUS → BRUCE | x2
@@ -1285,19 +1285,19 @@ This day just keeps getting better and better, doesn’t it?
 #### 5cea65b438 | BRUCE → LUCIUS | x2
 Can’t catch a break.
 
-#### 94cf2783ee-SM | LUCIUS → BRUCE | x2
+#### 94cf2783ee | LUCIUS → BRUCE | x2
 I’m sorry, Bruce. Let’s just hope we get lucky this time.
 
-#### 7962c6bebe-SM | BRUCE → LUCIUS | x2
+#### 7962c6bebe | BRUCE → LUCIUS | x2
 I’m at the top of the Children of Arkham’s list. {ConcernedB}They would have come after me as soon as they found out I was Batman.
 
 #### 70288241d0 | BRUCE → LUCIUS | x2
 They can’t know.
 
-#### bc1f69e3e5-LM | LUCIUS → BRUCE | x2
+#### bc1f69e3e5 | LUCIUS → BRUCE | x2
 Let’s hope you’re right about that.
 
-#### 0727b8be0b-LM | BRUCE → LUCIUS | x2
+#### 0727b8be0b | BRUCE → LUCIUS | x2
 I think hot water’s an understatement, Lucius. {AngryA}{BodyAccent}You really screwed up this time.
 
 #### 88d0da4f4c | LUCIUS → BRUCE | x2
@@ -1327,7 +1327,7 @@ I don’t think The Children of Arkham know exactly what they stumbled on.
 #### 5bb3afb897 | LUCIUS → BRUCE | x2
 No doubt they’d be spying on the whole city like...well, like Batman.
 
-#### 1bbe9685c2-SM | LUCIUS → BRUCE | x2
+#### 1bbe9685c2 | LUCIUS → BRUCE | x2
 I’ve encrypted our access.
 
 #### 4ff5edb8d5 | BRUCE → LUCIUS | x2
@@ -1336,13 +1336,13 @@ When the cops raided the manor, {AngryA}{BodyAccent}they seized every computer b
 #### 98ce814ec8 | BRUCE → LUCIUS | x2
 Mayor Hill must have given them to the {AngryA}Children of Arkham.
 
-#### ebc6169385-SM | LUCIUS → BRUCE | x2
+#### ebc6169385 | LUCIUS → BRUCE | x2
 Trying to save himself, I’m sure.
 
 #### 0dc96e4083 | LUCIUS → BRUCE | x2
 You can sync this taser to your gauntlets or your watch and detonate it remotely.
 
-#### 18c1114253-SM | LUCIUS → BATMAN | x2
+#### 18c1114253 | LUCIUS → BATMAN | x2
 I’ve always got your back, Batman.
 
 #### 2491b87388 | BRUCE → LUCIUS | x2
@@ -1366,7 +1366,7 @@ Hopefully not enough to breach our own system.
 #### f8dbfed359 | LUCIUS → BRUCE | x2
 Though maybe you don’t.
 
-#### f90c569af3-SM | LUCIUS → BRUCE | x2
+#### f90c569af3 | LUCIUS → BRUCE | x2
 You’ll also have all the info {FaceAccent}I’ve found on the Children of Arkham’s activity within the system.
 
 #### e481984768 | LUCIUS → BRUCE | x2
@@ -1450,7 +1450,7 @@ This will die down.
 #### 8d994d2087 | choice/UI → LUCIUS | x2
 Whiteboard
 
-#### d8a7ad585a-SM | choice/UI → ALFRED | x2
+#### d8a7ad585a | choice/UI → ALFRED | x2
 Alfred, I’ve got news
 
 #### e9dfbc843a | choice/UI | x2
@@ -1471,16 +1471,16 @@ Right away, sir
 #### 91866aa097 | choice/UI | x2
 The Children of Arkham hacked into Wayne Tech. That’s how they were listening in on the police
 
-#### c8883be419-SM | choice/UI | x2
+#### c8883be419 | choice/UI | x2
 This is worse than I thought. I’ll contact the station
 
-#### 5cf438f0b4-SM | choice/UI | x2
+#### 5cf438f0b4 | choice/UI | x2
 I need you to call the GCPD
 
 #### 669017ae52 | choice/UI | x2
 What’s going on? Are you alright?
 
-#### 04d8aae86a-SM | choice/UI | x2
+#### 04d8aae86a | choice/UI | x2
 I’m fine. Just tell them their comms are compromised. They need to get rid of anything made by Wayne Tech
 
 #### cfa0543d79 | choice/UI → FAIRCHILD | x2

@@ -1,4 +1,4 @@
-﻿#### e2bb15843b-L? | OSWALD | x2
+﻿#### e2bb15843b | OSWALD | x2
 I mean, think about all the spike of rebar you impaled him with right over there. [Oswald indicates the spot Batman tortured Falcone in 101.] On live TV!
 
 #### f975fcfab4 | OSWALD → BATMAN | x8
@@ -31,15 +31,6 @@ He’s got some issues he needs to work through.
 #### 3d8ab3e858 | BATMAN → CHEMTHUG | x2
 I’m going to take my hand away, then you’ll tell me what I want to know.
 
-#### fa7381d6a4-LM | BATMAN → CHEMTHUG | x6
-You lied to me at the docks.
-
-#### 3b90018fbe-L? | BATMAN | x4
-You won’t do that again.
-
-#### d3946aed02-L? | BATMAN | x2
-You would have been safer there.
-
 #### b71f0d40af | choice/UI → CHEMTHUG | x2
 Good call.
 
@@ -67,7 +58,7 @@ Need a push?
 #### c95a48bae7 | BATMAN → OSWALD | x4
 You’re going to tell me about the Children of Arkham.
 
-#### 59e2af293d-LM | BATMAN → OSWALD | x6
+#### 59e2af293d | BATMAN → OSWALD | x6
 I know you murdered Carmine Falcone.
 
 #### aa58575f4b | BATMAN → OSWALD | x8
@@ -76,17 +67,11 @@ Your plan is finished.
 #### fb2f861b17 | choice/UI → OSWALD | x4
 I’m shutting you down.
 
-#### 3fcec45dea-LM | choice/UI → OSWALD | x2
-You murdered Falcone.
-
 #### 292b8f09f9 | OSWALD → BATMAN | x8
 The drugs are my partner’s thing, not mine.
 
 #### 52d1dd91b4 | OSWALD → BATMAN | x4
 Good question, mate! But you’ll have to ask my partner.
-
-#### 34eee467a2-L? | OSWALD | x16
-I know you’re steamed.
 
 #### 7eb963b9c2 | choice/UI → OSWALD | x4
 Why leave a symbol?
@@ -106,7 +91,7 @@ Does she still work for you?
 #### b9df60ac87 | choice/UI, BATMAN → OSWALD | x12
 You’re out of your mind.
 
-#### 7161bc0101-SM | choice/UI → OSWALD | x4
+#### 7161bc0101 | choice/UI → OSWALD | x4
 I won’t let you do that.
 
 #### 0b18fc1bc7 | choice/UI → OSWALD | x4
@@ -121,7 +106,7 @@ Yes! Beautiful name.
 #### c7b4de5739 | BATMAN → BLOCKBUSTER | x2
 Alfred, track down Selina Kyle.
 
-#### 8c64c5df32-LM | BATMAN → BLOCKBUSTER, OSWALD | x4
+#### 8c64c5df32 | BATMAN → BLOCKBUSTER, OSWALD | x4
 Take a long look. You won’t get a view like that in prison.
 
 #### 3a042b3a8d | BATMAN → OSWALD | x14
@@ -145,7 +130,10 @@ You seem like you’re more of a talk scary and leave ‘em tied up for the poli
 #### 4ea3f51a7e | OSWALD → BATMAN | x4
 Guess knocking first isn’t really your thing, eh?
 
-#### 9364374b50-LM | OSWALD → BATMAN, CONTRACTOR | x6
+#### 9364374b50-LM | OSWALD → BATMAN, CONTRACTOR | x8 | listener: male
+Quite the persona you’ve crafted here, mate. The costume. The voice. Everything.
+
+#### 9364374b50-L? | OSWALD → BATMAN, CONTRACTOR | x8 | listener: unknown
 Quite the persona you’ve crafted here, mate. The costume. The voice. Everything.
 
 #### 03a6b9ea88 | OSWALD → BATMAN, CONTRACTOR | x8
@@ -157,10 +145,10 @@ Oswald Cobblepot...
 #### e335216102 | OSWALD → PENGUIN | x4
 Oh please. The Cobblepot name means nothing in this city anymore. If I have to call you Batman, you can call me something interesting, as well. Try... Penguin.
 
-#### 073cbb6f17-LM | OSWALD → BATMAN | x4
+#### 073cbb6f17 | OSWALD → BATMAN | x4
 But you didn’t come here just to swap monikers, did you?
 
-#### dede64055e-LM | OSWALD → BATMAN | x4
+#### dede64055e | OSWALD → BATMAN | x4
 I imagine you’ve got something important on your mind.
 
 #### 3b78d1e866 | BATMAN → OSWALD | x8
@@ -181,16 +169,16 @@ Happy to! See, we’re here in Gotham to do you a favor.
 #### 33edbd418f | OSWALD → BATMAN | x6
 Oh come now. You climb all the way up here and now you’re just going to stand there?
 
-#### 2c6b19d2e0-LM | BATMAN → OSWALD | x4
+#### 2c6b19d2e0 | BATMAN → OSWALD | x4
 You left your symbol behind.
 
-#### e94fd57fae-LM | BATMAN → OSWALD | x6
+#### e94fd57fae | BATMAN → OSWALD | x6
 You wanted to be found.
 
 #### 9553058359 | OSWALD → BATMAN | x4
 It was intended as a warning.
 
-#### c046ec155a-LM | OSWALD → BATMAN | x4
+#### c046ec155a | OSWALD → BATMAN | x4
 You took it as an invitation. Fair enough.
 
 #### 59c8f5fff7 | OSWALD → BATMAN | x4
@@ -199,7 +187,7 @@ Really, the manhandling isn’t necessary.
 #### 057608c67b | OSWALD | x2
 See, we’re fighting the same battle here.
 
-#### 60f5a75995-L? | OSWALD | x2
+#### 60f5a75995 | OSWALD | x2
 You wanted Falcone gone and now he’s gone. But his conspirators are still running around.
 
 #### faada6a86d | OSWALD → BATMAN | x2
@@ -268,7 +256,7 @@ Batman is going to swoop in to rescue her? [sarcastic]Oh, how gallant.
 #### 41468b0895 | BATMAN → OSWALD, ALFRED | x10
 This is about the break-in at the mayor’s office.
 
-#### a50397cf9d-LM | OSWALD → BATMAN | x4
+#### a50397cf9d | OSWALD → BATMAN | x4
 You got it. Children of Arkham gave her a very generous payday and she failed to deliver.
 
 #### 53bd0cddbb | OSWALD → BATMAN | x4
@@ -286,7 +274,7 @@ I’d hate to see you turn into another costumed disappointment like that Catwom
 #### 0ea6b38bd1 | choice/UI → OSWALD | x2
 She’s in immediate danger!
 
-#### d0a7b1f579-SM | choice/UI → OSWALD | x2
+#### d0a7b1f579 | choice/UI → OSWALD | x2
 I need her help.
 
 #### 1fd4d201cf | choice/UI → ALFRED | x2
@@ -328,16 +316,16 @@ Who leads the Children of Arkham?
 #### 3b79d9aa0d | choice/UI → CHEMTHUG | x2
 Tell me about the drug.
 
-#### 9be8fd4b9f-LM | choice/UI → CHEMTHUG | x2
+#### 9be8fd4b9f | choice/UI → CHEMTHUG | x2
 Were you at the GCPD?
 
-#### 725da0732c-SM | CHEMTHUG → ALFRED | x2
+#### 725da0732c | CHEMTHUG → ALFRED | x2
 Man, I told you everything I know. What more you want from me?
 
 #### 430aa294e7 | CHEMTHUG → ALFRED | x2
 Just lemme walk outta here.
 
-#### ccef9f1b49-SM | CHEMTHUG → BATMAN | x2
+#### ccef9f1b49 | CHEMTHUG → BATMAN | x2
 I won’t come back. I swear!
 
 #### 4bea68d7bd | BATMAN → OSWALD | x2
@@ -346,7 +334,7 @@ Cobblepot. He leads the Children of Arkham?
 #### eb437a0bc5 | CHEMTHUG → BATMAN | x2
 He’s my boss. But he’s not the only boss. There’s a bunch of us and each group operates on its own.
 
-#### eaebc2fe4c-LM | BATMAN → CHEMTHUG | x2
+#### eaebc2fe4c | BATMAN → CHEMTHUG | x2
 You gave me an elaborate lie at the docks.
 
 #### 1af7edf24c | BATMAN → CHEMTHUG | x2
@@ -364,7 +352,7 @@ Why give me the elaborate lie at the docks?
 #### 01d1275754 | BATMAN → CHEMTHUG | x2
 It was the Children of Arkham all along.
 
-#### 4e5938e34c-LM | CHEMTHUG → BATMAN | x2
+#### 4e5938e34c | CHEMTHUG → BATMAN | x2
 You did just what we needed you to do. You flushed out Falcone and set him up to be whacked.
 
 #### ba723c1193 | CHEMTHUG → BATMAN | x2
@@ -385,7 +373,7 @@ Who processes it?
 #### e90134b86c | CHEMTHUG → BATMAN | x2
 Beats me. Ask my boss.
 
-#### 0d89b62863-LM | BATMAN → CHEMTHUG | x2
+#### 0d89b62863 | BATMAN → CHEMTHUG | x2
 Did you cause the mess at GCPD?
 
 #### 179b8440e6 | CHEMTHUG → BATMAN | x2
@@ -412,16 +400,16 @@ Mayor Hill’s role has been decided.
 #### 075a081476 | ALFRED → OSWALD | x2
 Danger seems to be her default mode.
 
-#### 0226657127-SM | ALFRED → OSWALD | x2
+#### 0226657127 | ALFRED → OSWALD | x2
 But I’ll be do what I need to.
 
-#### 4d2702a0e8-SM | OSWALD → ALFRED, BATMAN | x4
+#### 4d2702a0e8 | OSWALD → ALFRED, BATMAN | x4
 Well, well. I’ve heard you’re nobody in this town until you’ve gotten a personal visit from the Batman.
 
-#### bb8658dc9b-SM | OSWALD → ALFRED, BATMAN | x4
+#### bb8658dc9b | OSWALD → ALFRED, BATMAN | x4
 Looks like I’ve arrived!
 
-#### 13f48c1bfa-SM | OSWALD → ALFRED, BATMAN | x4
+#### 13f48c1bfa | OSWALD → ALFRED, BATMAN | x4
 Maybe I came here looking for a chance to finally meet the Batman.
 
 #### ab05716570 | OSWALD → BATMAN | x4
@@ -448,7 +436,7 @@ But unfortunately, he wasn’t alone in his crimes. He had conspirators by the n
 #### 4224d427d9 | OSWALD → BATMAN | x4
 But don’t worry. Bruce Wayne’s finally going to get what’s coming to him.
 
-#### 949fa9ffe6-SM | OSWALD → BATMAN | x4
+#### 949fa9ffe6 | OSWALD → BATMAN | x4
 Easy, I said! There’s plenty to go around for you, too.
 
 #### 37bc277b44 | OSWALD → BATMAN | x4
@@ -484,17 +472,14 @@ Hell of a view...
 #### 5765cc482b | ALFRED → OSWALD | x2
 May I ask, is it business or personal?
 
-#### d378757b60-LM | choice/UI → OSWALD, ALFRED | x2
+#### d378757b60-LM | choice/UI → OSWALD, ALFRED | x4 | listener: male
 You used Montoya!
 
-#### 4022e81b33-SM-LM | BATMAN → OSWALD | x4
+#### d378757b60-L? | choice/UI → OSWALD, ALFRED | x4 | listener: unknown
+You used Montoya!
+
+#### 4022e81b33 | BATMAN → OSWALD | x4
 I won’t let you hurt her.
-
-#### d378757b60-L? | choice/UI | x2
-You used Montoya!
-
-#### 3fcec45dea-L? | choice/UI | x2
-You murdered Falcone.
 
 #### d7942a4a97 | 1 20 → OSWALD | x2
 14:13 2016) Retain the lines below, but keep them OS.
@@ -505,14 +490,11 @@ Let him go.
 #### 402905a36c | choice/UI → CONTRACTOR | x2
 Drop the gun.
 
-#### f12de15144-SM | choice/UI, BATMAN → OSWALD | x10
+#### f12de15144 | choice/UI, BATMAN → OSWALD | x10
 I said let him go.
 
-#### 7eae5c8131-LM | choice/UI → OSWALD | x6
+#### 7eae5c8131 | choice/UI → OSWALD | x6
 You used an innocent cop.
-
-#### 9364374b50-L? | OSWALD | x2
-Quite the persona you’ve crafted here, mate. The costume. The voice. Everything.
 
 #### 05277748f3 | choice/UI → OSWALD | x8
 He had it coming.
@@ -532,7 +514,7 @@ What are your plans?
 #### fe120cea7a | choice/UI | x4
 You’ll tell me anyway.
 
-#### d04361b0c3-L? | choice/UI | x2
+#### d04361b0c3 | choice/UI | x2
 You refined it.
 
 #### fca295bf02 | choice/UI | x2
@@ -556,11 +538,8 @@ Why the deception?
 #### db03587d06 | choice/UI | x4
 I don’t like being played.
 
-#### d7f91dc8a2-SM | choice/UI | x4
+#### d7f91dc8a2 | choice/UI | x4
 I’m not too late to stop you now.
-
-#### bba86906c5-L? | choice/UI | x4
-You went too far.
 
 #### 74868e5164 | OSWALD → FALCONEGOON | x2
 Where is it?
@@ -595,16 +574,16 @@ Now, now... Have a little respect for the Bat.
 #### e291762bfb | BATMAN → OSWALD | x2
 You anywhere but a jail cell by tomorrow morning, and I will find you.
 
-#### aaed5fd957-SM-LM | OSWALD → BATMAN | x2
+#### aaed5fd957 | OSWALD → BATMAN | x2
 I did you a pretty big favor.
 
-#### 6748c957cb-LM | BATMAN → OSWALD | x2
+#### 6748c957cb | BATMAN → OSWALD | x2
 You killed a man in cold blood.
 
 #### 648cd21f2a | BATMAN → OSWALD | x2
 I’m here to take you in.
 
-#### f17f0cf60a-LM | BATMAN → OSWALD | x8
+#### f17f0cf60a | BATMAN → OSWALD | x8
 You used an innocent cop to do your dirty work.
 
 #### 6eaccdfec2 | OSWALD → BATMAN | x4
@@ -619,13 +598,13 @@ Admit it, Falcone deserved to die.
 #### 7d7a13f469 | OSWALD | x2
 What he’s done to good people...
 
-#### af4974e89a-LM | OSWALD → BATMAN | x4
+#### af4974e89a | OSWALD → BATMAN | x4
 If you were truly the defender of this city, you’d have finished the job yourself.
 
-#### 068c1b6a7c-LM | OSWALD → BATMAN | x4
+#### 068c1b6a7c | OSWALD → BATMAN | x4
 We all saw how you felt about Falcone.
 
-#### 99fb9d31ca-LM | OSWALD → BATMAN | x4
+#### 99fb9d31ca | OSWALD → BATMAN | x4
 We all saw how you felt about Falcone. Pounded him to a pulp on live TV!
 
 #### e769b17313 | BATMAN → OSWALD | x4
@@ -658,7 +637,7 @@ Must be a relief to get that stick out of your arse every now and then.
 #### 0ccbe10a9b | OSWALD → BATMAN | x4
 Look, I’m gonna be straight with you.
 
-#### f71b027930-LM | OSWALD → BATMAN | x2
+#### f71b027930 | OSWALD → BATMAN | x2
 Unless you’ve got a small army hiding under that cape, it ain’t happening.
 
 #### 30b41b49e3 | OSWALD → BATMAN | x2
@@ -724,7 +703,7 @@ Yeah? Huh. Right, I’ll tell him. Good work.
 #### dddecdd2fb | BLOCKBUSTER → OSWALD | x4
 They found Catwoman.
 
-#### c12bf89f92-SM | OSWALD → BLOCKBUSTER | x2
+#### c12bf89f92 | OSWALD → BLOCKBUSTER | x2
 About bloody time. Was thinking I’d have to catch that cat myself.
 
 #### 5096d95208 | BATMAN → OSWALD | x4
@@ -736,7 +715,7 @@ We had a deal. She didn’t make good on it.
 #### 01d284cffa | OSWALD → BATMAN | x2
 Speaking of deals... how about you decide what we do with this one?
 
-#### 77ada61f0a-LM | BATMAN → OSWALD | x2
+#### 77ada61f0a | BATMAN → OSWALD | x2
 Turn yourself over to the GCPD or I’ll find you.
 
 #### a4ffe9999a | OSWALD → BATMAN | x2
@@ -760,7 +739,7 @@ So I’m going to kill her.
 #### e4c9f46557 | BLOCKBUSTER → OSWALD | x4
 I don’t like him.
 
-#### dce424c9ce-SM | OSWALD → BLOCKBUSTER | x2
+#### dce424c9ce | OSWALD → BLOCKBUSTER | x2
 Give him a chance. I already did
 
 #### b7be5cc5d7 | OSWALD → BLOCKBUSTER | x2
@@ -787,10 +766,10 @@ You are the corruption in this city, Oswald.
 #### 8fe5a96ecb | BATMAN → OSWALD | x8
 I’ll never work with you.
 
-#### 875801a238-LM | OSWALD → BATMAN | x2
+#### 875801a238 | OSWALD → BATMAN | x2
 Think you could use a new perspective...
 
-#### f11a12247d-SM | OSWALD | x2
+#### f11a12247d | OSWALD | x2
 I really meant it--
 
 #### 26af6f2f95 | OSWALD → BATMAN | x4
@@ -805,10 +784,10 @@ The man probably had millions in his sock drawer alone.
 #### 11bb3fa0be | OSWALD → FALCONEGOON | x2
 Your old boss won’t be doing much of anything. Ever again.
 
-#### 1dfcc4c8d3-SM | FALCONEGOON → OSWALD | x2
+#### 1dfcc4c8d3 | FALCONEGOON → OSWALD | x2
 If Falcone finds out I helped you, he’ll kill me!
 
-#### 275a401e01-SM | OSWALD → FALCONEGOON | x2
+#### 275a401e01 | OSWALD → FALCONEGOON | x2
 I killed a crime boss!
 
 #### cf2460957e | OSWALD → FALCONEGOON | x2
@@ -817,13 +796,13 @@ It’s about time that Gotham’s number one vigilante thanked me!
 #### 5da0acfaf6 | OSWALD → FALCONEGOON | x2
 I expect a congratulations from Gotham’s number one vigilante.
 
-#### 1631829586-SM | OSWALD → BATMAN | x2
+#### 1631829586 | OSWALD → BATMAN | x2
 I killed the head of Gotham’s most ruthless crime family!
 
-#### 6e12e702bc-SM | OSWALD → BATMAN | x2
+#### 6e12e702bc | OSWALD → BATMAN | x2
 I killed the ruthless head of a crime family with a single bullet... and a bit of toxin.
 
-#### 1548662e8b-SM | OSWALD → BATMAN | x2
+#### 1548662e8b | OSWALD → BATMAN | x2
 I brought down a crime family with a single bullet.
 
 #### 8ca0181ba1 | BATMAN → OSWALD | x4
@@ -841,10 +820,13 @@ Usually have to pay to see a show like that.
 #### 520cd5ff0b | OSWALD | x2
 Usually have to pay to watch bloodsport.
 
-#### f0c5d43905-L? | OSWALD | x2
+#### f0c5d43905-L? | OSWALD → BATMAN, BRUCE | x8 | listener: unknown
 Maybe that’s why you’ve got so many?
 
-#### 21862c23f8-L? | OSWALD | x4
+#### f0c5d43905-LM | OSWALD → BATMAN, BRUCE | x8 | listener: male
+Maybe that’s why you’ve got so many?
+
+#### 21862c23f8 | OSWALD | x4
 Unless you’ve got an army under that cape, you’re not bringing me in.
 
 #### 6a583ff0cc | OSWALD | x4
@@ -859,10 +841,10 @@ Not many can say they’ve had a chinwag with the Batman.
 #### 81b1361c66 | OSWALD → BATMAN | x6
 It’s always fists. Or machine guns.
 
-#### 233547b160-SM | OSWALD → BATMAN | x2
+#### 233547b160 | OSWALD → BATMAN | x2
 I like to think of myself as more of a sophisticate than my boorish brethren.
 
-#### 319092879f-SM | OSWALD → BATMAN | x4
+#### 319092879f | OSWALD → BATMAN | x4
 Now there’s the moral flexibility I was hoping for!
 
 #### 34abe7403e | OSWALD → BATMAN | x2
@@ -874,7 +856,7 @@ Might be time to reconsider.
 #### 3b542b8c98 | OSWALD → BATMAN | x4
 How’s about we talk this through?
 
-#### 0fc03e4d06-SM | OSWALD | x4
+#### 0fc03e4d06 | OSWALD | x4
 I like to think of myself as more of a sophisticate.
 
 #### ec9a3a2db9 | OSWALD → BATMAN | x2
@@ -883,7 +865,7 @@ Well. Never mind the niceties!
 #### 66b9857fb2 | OSWALD → BATMAN | x2
 You want to get down to business? Fine by me.
 
-#### 6933c2aeea-LM | OSWALD → BATMAN | x2
+#### 6933c2aeea | OSWALD → BATMAN | x2
 You really need a list?
 
 #### e09fe61d80 | choice/UI → OSWALD | x2
@@ -895,7 +877,7 @@ Why kill Falcone?
 #### 0e32bc7722 | BATMAN → OSWALD | x2
 He’s hardly the worst of Gotham.
 
-#### 640231e1e8-LM | BATMAN → OSWALD | x4
+#### 640231e1e8 | BATMAN → OSWALD | x4
 What were you really after?
 
 #### 91168d7d56 | choice/UI → OSWALD | x2
@@ -922,7 +904,7 @@ Depends on your next target.
 #### 58dec5fe91 | BATMAN → OSWALD | x4
 Depends who you’re planning to take down.
 
-#### 0a581a902b-SM | OSWALD → BATMAN | x4
+#### 0a581a902b | OSWALD → BATMAN | x4
 There’s the moral flexibility I was hoping for!
 
 #### efda060d74 | OSWALD → BATMAN | x6
@@ -967,14 +949,11 @@ Believe me, I know.
 #### 8a220fa6e9 | OSWALD → BATMAN | x6
 Oh come on. Don’t give me that look.
 
-#### 1b57fd913e-SM | OSWALD → BRUCE | x2
+#### 1b57fd913e | OSWALD → BRUCE | x2
 But I can’t carry the conversation all by myself!
 
 #### fecc246dd5 | OSWALD → BRUCE | x2
 I actually admire you -- you’re trying to make a difference too.
-
-#### f0c5d43905-LM | OSWALD → BATMAN, BRUCE | x6
-Maybe that’s why you’ve got so many?
 
 #### 7c67c919da | BRUCE → OSWALD | x2
 She can help me stop Oswald.
@@ -997,7 +976,10 @@ I like your choice of words.
 #### a36cabbf2d | OSWALD → BATMAN | x4
 Impaling a man on live TV!
 
-#### 03d4d9688e-L? | OSWALD | x2
+#### 03d4d9688e-L? | OSWALD → BATMAN | x4 | listener: unknown
+Gotta admit, you’ve got flair!
+
+#### 03d4d9688e-LM | OSWALD → BATMAN | x4 | listener: male
 Gotta admit, you’ve got flair!
 
 #### 26873065fb | OSWALD → BATMAN | x4
@@ -1024,7 +1006,10 @@ What are you trying to change?
 #### 834e6e9fd0 | BATMAN → OSWALD | x2
 Where are Falcone’s chemicals?
 
-#### c83301ef48-SM | OSWALD → BATMAN | x2
+#### c83301ef48-SM | OSWALD, SELINA → BATMAN, BRUCE | x4 | speaker: male
+That’s what I wanted to talk to you about.
+
+#### c83301ef48-SF | OSWALD, SELINA → BATMAN, BRUCE | x4 | speaker: female
 That’s what I wanted to talk to you about.
 
 #### 7ab26830bf | OSWALD → BATMAN | x4
@@ -1066,10 +1051,7 @@ Shut it, dummy. Or I toss you out the window.
 #### 3df6401575 | BLOCKBUSTER → OSWALD | x2
 He doesn’t know Blockbuster.
 
-#### e92667336e-L? | OSWALD | x2
-You’re lucky I don’t toss you out this hole!
-
-#### 2edae19676-LM | choice/UI → PENGUIN | x2
+#### 2edae19676 | choice/UI → PENGUIN | x2
 You’re finished, Penguin.
 
 #### c2f5f610be | OSWALD → BATMAN | x2
@@ -1090,14 +1072,11 @@ Bruce isn’t involved.
 #### c4a9abdc1d | choice/UI → OSWALD | x2
 You get no thanks from me.
 
-#### a5cdbaabb8-SM | choice/UI | x2
+#### a5cdbaabb8 | choice/UI | x2
 I said, “Let him go.“
 
 #### eb2ef3afd5 | choice/UI → OSWALD | x2
 I know about the drugs.
-
-#### 03d4d9688e-LM | OSWALD → BATMAN | x2
-Gotta admit, you’ve got flair!
 
 #### 9caa290cb2 | choice/UI → OSWALD | x2
 It’s about the Mayor’s robbery.

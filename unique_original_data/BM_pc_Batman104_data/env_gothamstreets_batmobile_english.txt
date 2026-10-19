@@ -10,7 +10,7 @@ Mr. Dent is pulling up to the manor as we speak! And he’s not alone.
 #### 6a09911761 | BATMAN → ALFRED | x2
 Lucius discovered how Oswald’s cracking my security. He has a device that-
 
-#### c7f7d28142-SM | ALFRED → BATMAN | x2
+#### c7f7d28142 | ALFRED → BATMAN | x2
 I’m afraid we have another problem to deal with--!
 
 #### b38e149d4a | BATMAN → ALFRED | x2
@@ -19,7 +19,7 @@ Penguin’s hacking assaults are getting worse - At this rate he’ll have my te
 #### b4cb98e1c3 | ALFRED → BATMAN | x4
 I.. understand. I can retreat to the Batcave to keep it secure but there won’t be anyone to stop Harvey from leveling the Manor.
 
-#### 5d2a6997dc-SM | ALFRED → BATMAN | x2
+#### 5d2a6997dc | ALFRED → BATMAN | x2
 But I heard about his attack on the Children of Arkham.  I don’t expect there’s not much reasoning left in him.
 
 #### 17a1b6cd04 | ALFRED → BATMAN | x2
@@ -28,7 +28,7 @@ I don’t expect there’s not much reasoning left in him.
 #### 813f91a8a3 | ALFRED → BATMAN | x4
 Well I-- don’t envy your position.
 
-#### 033c6821a9-SM | BATMAN → ALFRED | x2
+#### 033c6821a9 | BATMAN → ALFRED | x2
 I need to stop Penguin.  You go to the Batcave and make sure Harvey doesnt find it.
 
 #### 4c5c197369 | BATMAN → ALFRED | x2
@@ -37,7 +37,7 @@ Already?!
 #### 3fe214670f | ALFRED → BATMAN | x2
 Sir! Are you alright?
 
-#### c5f4d79cc5-SM | BATMAN → ALFRED | x2
+#### c5f4d79cc5 | BATMAN → ALFRED | x2
 Harvey’s made it personal now - I need to stop him.
 
 #### 52e6767fdd | ALFRED → BATMAN | x2
@@ -46,7 +46,7 @@ Understood. See you soon.
 #### 97f139da48 | BATMAN → LUCIUS | x8
 Lucius. What’s the situation?
 
-#### b548cbcf56-SM | LUCIUS → BATMAN, ALFRED | x4
+#### b548cbcf56 | LUCIUS → BATMAN, ALFRED | x4
 I figured out how he’s causing the feedback loop!
 
 #### c8449e80d1 | LUCIUS → ALFRED | x4
@@ -58,7 +58,7 @@ If he keeps this up, he could smash through the Batcave firewalls at any minute.
 #### d34e70cb17 | BATMAN → LUCIUS | x4
 He’d have access to the Batcomputer...
 
-#### e4921ce886-SM | ALFRED → BATMAN | x2
+#### e4921ce886 | ALFRED → BATMAN | x2
 That’s not the worst of it I’m afraid!
 
 #### eb26cf3de3 | BATMAN → ALFRED | x2

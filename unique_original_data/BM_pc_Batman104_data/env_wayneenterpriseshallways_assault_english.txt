@@ -34,7 +34,7 @@ I have personal effects here.
 #### 58dec9ca44 | choice/UI | x6
 I can still fire you!
 
-#### 5106c116f3-SM | choice/UI | x6
+#### 5106c116f3 | choice/UI | x6
 I need my personal effects.
 
 #### e27a8d0d0f | choice/UI | x6
@@ -52,16 +52,16 @@ I’ll give you a raise.
 #### bd2d3373a5 | choice/UI | x6
 You’re an embarassment.
 
-#### 5880d7e59e-L? | choice/UI | x6
+#### 5880d7e59e | choice/UI | x6
 You were doing your job.
 
 #### b67ba68c16 | choice/UI | x6
 Don’t let it happen again.
 
-#### 3aa1bc994b-L? | choice/UI | x6
+#### 3aa1bc994b | choice/UI | x6
 You’re fired.
 
-#### 7da8da9471-SM | choice/UI → SELINA | x6
+#### 7da8da9471 | choice/UI → SELINA | x6
 I learned from the best.
 
 #### 4dce0a0917 | choice/UI → SELINA | x6
@@ -178,7 +178,7 @@ In a few minutes -- this will all be over.
 #### 1f72f1540e | BATMAN → LUCIUS | x6
 We won’t give him to react.
 
-#### e65dd2a4ba-LM | LUCIUS → BATMAN | x6
+#### e65dd2a4ba | LUCIUS → BATMAN | x6
 You need to consider what may be coming to me.
 
 #### 48b2910a90 | LUCIUS, SELINA → BATMAN, BRUCE | x8
@@ -202,7 +202,7 @@ I don’t want to say.
 #### 6564047b79 | LUCIUS → BATMAN | x6
 Monitoring you from the Batcave.
 
-#### dcf4e76f6c-SM | LUCIUS → BATMAN | x6
+#### dcf4e76f6c | LUCIUS → BATMAN | x6
 It’s late. I went home.
 
 #### 2d16b3658c | LUCIUS → BATMAN | x6
@@ -220,10 +220,10 @@ Just make sure I get out of this
 #### f8553f0000 | LUCIUS → BATMAN, OSWALD | x18
 I’m putting my life on the life for you here.
 
-#### 4244d88b63-SM | BATMAN → LUCIUS | x6
+#### 4244d88b63 | BATMAN → LUCIUS | x6
 If there was ever a reason I asked you to stay -- this is it.
 
-#### b2c07083d7-SM | OSWALD → LUCIUS | x6
+#### b2c07083d7 | OSWALD → LUCIUS | x6
 I’m sorry, but we have to cut this meeting short.
 
 #### b1937607fa | OSWALD → LUCIUS | x6
@@ -232,10 +232,10 @@ Oh, and get me Mr. Fox, please.
 #### c4db43345f | OSWALD → PENGUIN | x6
 We’ve got some... business to discuss.
 
-#### 0b1e3ba158-SM | PENGUIN → OSWALD | x6
+#### 0b1e3ba158 | PENGUIN → OSWALD | x6
 Remember when I told you that we wanted the same things?
 
-#### addb3f84e6-SM | PENGUIN → BATMAN | x6
+#### addb3f84e6 | PENGUIN → BATMAN | x6
 Now I got all of yours.
 
 #### aa8da91b14 | BATMAN → PENGUIN | x6
@@ -244,29 +244,29 @@ I don’t like to share.
 #### e7893f6e93 | BATMAN → PENGUIN, OSWALD | x30
 Let them go.
 
-#### b2bdbb0a6e-LM | PENGUIN → BATMAN | x6
+#### b2bdbb0a6e | PENGUIN → BATMAN | x6
 I really like this toy you made for him. Maybe you could help me test it out.
 
-#### 74ddfae58a-SM | PENGUIN → BATMAN | x6
+#### 74ddfae58a | PENGUIN → BATMAN | x6
 I have to say --  I was surprised when I discovered that Bruce Wayne was in the Batman business.
 
 #### 93d8896366 | PENGUIN → BATMAN, LUCIUS | x12
 I own you now.
 
-#### 2fceb2a4cd-SM-LM | PENGUIN → LUCIUS | x6
+#### 2fceb2a4cd | PENGUIN → LUCIUS | x6
 I thought you were a hero.
 
 #### 7024afc501 | PENGUIN → LUCIUS | x6
 But I guess you’re just a hypocrite.
 
-#### 0d2281296f-SM | LUCIUS → PENGUIN | x6
+#### 0d2281296f | LUCIUS → PENGUIN | x6
 If he catches me -- I won’t be helping anyone -- ever again.
 
 #### cca44e22c8 | LUCIUS → PENGUIN | x6
 If you get a chance, stop by my office.
 LUCIUS
 
-#### 909d006df2-SM | BATMAN → LUCIUS | x6
+#### 909d006df2 | BATMAN → LUCIUS | x6
 I need you to plant the last EMP in the Executive Office.
 
 #### 866f54e02d | LUCIUS → BATMAN | x6
@@ -275,13 +275,13 @@ I’m putting my life on the line by helping you here.
 #### 80c7084836 | LUCIUS → BATMAN | x6
 I hope you know that.
 
-#### 3243833728-LM | BATMAN → LUCIUS | x6
+#### 3243833728 | BATMAN → LUCIUS | x6
 You knew the risks when you decided to stay.
 
 #### 26fdad69a9 | BATMAN → LUCIUS | x6
 I owe you a raise.
 
-#### 9d1d740c70-SM-LM | BATMAN → LUCIUS | x6
+#### 9d1d740c70 | BATMAN → LUCIUS | x6
 I was surprised when I discovered that you were being funded by Wayne Enterprises.
 
 #### a91842dcfe | BATMAN → LUCIUS | x6
@@ -293,7 +293,7 @@ You have access.
 #### 51aeb7aec1 | THUG04 → BATMAN | x6
 Got him. He’s on the 15 the floor.
 
-#### 95707a4d44-LM | PENGUIN → BATMAN | x6
+#### 95707a4d44 | PENGUIN → BATMAN | x6
 You got him?
 
 #### d84e016b81 | BATMAN → PENGUIN | x6
@@ -317,10 +317,10 @@ I didn’t know that Bruce Wayne was in the Batman business.
 #### ef93093815 | BATMAN → PENGUIN | x18
 They won’t help you.
 
-#### 0cead34c3d-LM | LUCIUS → BATMAN | x6
+#### 0cead34c3d | LUCIUS → BATMAN | x6
 Have you lost your mind?
 
-#### 5a0c77b1ef-SM | BATMAN → LUCIUS | x6
+#### 5a0c77b1ef | BATMAN → LUCIUS | x6
 I need you to plant the last EMP
 
 #### 43a1a79589 | BATMAN → LUCIUS | x12
@@ -353,7 +353,7 @@ Consider me his better half.
 #### 28d4ad2e39 | PENGUIN → BATMAN | x6
 Now that I’m CEO, I guess that means that I am too.
 
-#### ec8beb196b-SM | PENGUIN → BATMAN | x6
+#### ec8beb196b | PENGUIN → BATMAN | x6
 Let them go? But I was just about to test out all these new toys on them.
 
 #### e2b4f4661b | PENGUIN → BATMAN | x6
@@ -377,7 +377,7 @@ A man worth risking his life for.
 #### 6f3b8d527d | LUCIUS → BATMAN | x6
 No -- but we really don’t have a choice now, do we?
 
-#### a878b55dad-LM | BATMAN → LUCIUS | x6
+#### a878b55dad | BATMAN → LUCIUS | x6
 Don’t put yourself at risk.
 
 #### 7b815a4862 | BATMAN → LUCIUS | x6
@@ -404,7 +404,7 @@ Well, well, well, Mister Fox. Ain’t you a sly one.
 #### 5e416530bb | PENGUIN → LUCIUS | x6
 You make these, Mr. Fox?
 
-#### 62ca390cf5-SM | PENGUIN → GOON03, COA01 | x6
+#### 62ca390cf5 | PENGUIN → GOON03, COA01 | x6
 I’m impressed. Real top notch.
 
 #### 0a16ae3976 | PENGUIN → LUCIUS, BATMAN | x12
@@ -413,13 +413,13 @@ Maybe I’ll keep you on after this is all over.
 #### 0d3439b3af | PENGUIN → LUCIUS | x6
 These are great.
 
-#### acf3b9b5a8-LM | PENGUIN → LUCIUS | x6
+#### acf3b9b5a8 | PENGUIN → LUCIUS | x6
 Now tell me. Why were you helping Batman?
 
 #### edd3a8aa46 | PENGUIN → LUCIUS, REGINA | x12
 Bloody brilliant!
 
-#### 1a069686a2-SM | PENGUIN → LUCIUS | x6
+#### 1a069686a2 | PENGUIN → LUCIUS | x6
 Excuse the mess. I was just testing out this new toy Mister Fox worked out for me.
 
 #### 96e2279e81 | PENGUIN → BATMAN | x6
@@ -434,7 +434,7 @@ And I can’t wait to tell the world.
 #### 5c7c1da0b2 | PENGUIN → BATMAN | x6
 ‘Batman bankrolled by Bruce Wayne!‘
 
-#### 2916f4781c-SM | PENGUIN → BATMAN | x6
+#### 2916f4781c | PENGUIN → BATMAN | x6
 I knew he owned half of Gotham.
 
 #### ac63ebef7e | PENGUIN → BATMAN | x6
@@ -458,13 +458,13 @@ I only exist because of him.
 #### 5d936ba342 | PENGUIN → BATMAN | x6
 Now you only exist because of me.
 
-#### 7d0848757f-LM | BATMAN → PENGUIN | x6
+#### 7d0848757f | BATMAN → PENGUIN | x6
 You’ve got it wrong. I own him.
 
 #### bf8bb184c7 | BATMAN → PENGUIN | x6
 Don’t make me own you too.
 
-#### 58309bd1dd-LM | PENGUIN → BATMAN | x6
+#### 58309bd1dd | PENGUIN → BATMAN | x6
 You got it all wrong, mate.
 
 #### a5dc66cc56 | PENGUIN → BATMAN | x6
@@ -479,7 +479,7 @@ Seeing as I’m the one signing your checks now  -- why don’t we just make thi
 #### 4d348d6017 | PENGUIN → BATMAN | x6
 Whaddya say? You come work for me and you can have all this back.
 
-#### 7d155e6e0a-LM | BATMAN → PENGUIN | x6
+#### 7d155e6e0a | BATMAN → PENGUIN | x6
 You won’t live to tell.
 
 #### 82caf8ee2c | PENGUIN → BATMAN | x6
@@ -518,7 +518,7 @@ I only care about
 #### 222caf1c87 | BOB → PENGUIN | x6
 Please, please don’t hurt us.
 
-#### 1d2620197a-SM-LM | PENGUIN → BOB | x6
+#### 1d2620197a | PENGUIN → BOB | x6
 I won’t -- as long as you’re honest with me.
 
 #### 678d6bb2c8 | PENGUIN → REGINA | x6
@@ -530,10 +530,10 @@ No, I swear. I don’t know anything about it.
 #### 4852de078a | PENGUIN → REGINA, OSWALD | x12
 Wrong answer.
 
-#### c100d332bb-SM | PENGUIN → BATMAN | x6
+#### c100d332bb | PENGUIN → BATMAN | x6
 Excuse the mess. I was just testing out this new toy Mrs. Zellerbach worked out for me.
 
-#### 8db724830c-LM | BATMAN → PENGUIN | x6
+#### 8db724830c | BATMAN → PENGUIN | x6
 You won’t live to tell anyone.
 
 #### 52bf444d3a | BATMAN → OSWALD | x6
@@ -623,7 +623,7 @@ I bet these beauties will do the job.
 #### f97668385a | PENGUIN → BATMAN | x6
 Smashing, don’t you think?
 
-#### b1a60fe23c-SM | choice/UI, BATMAN → PENGUIN, OSWALD | x12
+#### b1a60fe23c | choice/UI, BATMAN → PENGUIN, OSWALD | x12
 Don’t think I’m not tempted.
 
 #### 7fc3bb7627 | PENGUIN → BATMAN | x6
@@ -647,10 +647,10 @@ I’ll even build you a few new ones. Whatever you want.
 #### e7df5e9455 | BATMAN → PENGUIN | x6
 I’d rather die than work for you.
 
-#### 12e5d2b62d-SM | PENGUIN → BATMAN | x6
+#### 12e5d2b62d | PENGUIN → BATMAN | x6
 I could use a good man.
 
-#### 9b044b83dc-SM | PENGUIN → BATMAN | x6
+#### 9b044b83dc | PENGUIN → BATMAN | x6
 I won’t lie. I’m deeply dissapointed.
 
 #### a771444c81 | PENGUIN → BATMAN | x6
@@ -680,7 +680,7 @@ You’re no better than a Wayne.
 #### bf40c37401 | BATMAN → PENGUIN | x12
 Walk away from this -- and I’ll let you walk out of here.
 
-#### 5fb8d9aac8-LM | PENGUIN → BATMAN | x12
+#### 5fb8d9aac8 | PENGUIN → BATMAN | x12
 I don’t know if you’ve noticed -- but the odds here -- they’re in *my* favor.
 
 #### 6935384fbe | PENGUIN → BATMAN | x6
@@ -788,7 +788,7 @@ He won’t wake up.
 #### aa0e7eb628 | BATMAN → REGINA | x6
 Get him out of here now. Call the police.
 
-#### 0647e9a5b7-SM | BATMAN → LUCIUS | x6
+#### 0647e9a5b7 | BATMAN → LUCIUS | x6
 Lucius, I’m sorry.
 
 #### 8aff702c68 | BATMAN → REGINA | x6
@@ -845,7 +845,7 @@ Tell me that Harvey has gone away.
 #### 1715aa9949 | BATMAN | x6
 Al -- you there?
 
-#### 5873ba476d-SM | BATMAN | x6
+#### 5873ba476d | BATMAN | x6
 I’m safe -- tell me you are too.
 
 #### cfe668526c | BATMAN → GOON03, COA01 | x6
@@ -854,10 +854,10 @@ Al, come in. Can you hear me? Where are you?
 #### 598f2d4e37 | BATMAN → GOON03, COA01 | x6
 Alfred, come in. Can you hear me?
 
-#### d2810640e7-LM | GOON03, COA01 → BATMAN | x6
+#### d2810640e7 | GOON03, COA01 → BATMAN | x6
 Hey, boss. The guests you requested -- they’ve arrived.
 
-#### bada9d13b6-LM | LUCIUS → BATMAN | x6
+#### bada9d13b6 | LUCIUS → BATMAN | x6
 You need to consider what’s coming to you.
 
 #### 70a6c2169f | BATMAN → LUCIUS | x6
@@ -899,7 +899,7 @@ I don’t want to walk into this without something to negociate with.
 #### 447731434c | LUCIUS → BATMAN | x6
 You’re asking me to risk everything -- most of all my life.
 
-#### 9023d8374f-LM | BATMAN → LUCIUS | x6
+#### 9023d8374f | BATMAN → LUCIUS | x6
 You’ve kept too many secrets from me.
 
 #### 707bb3d14d | LUCIUS → BATMAN | x6
@@ -998,13 +998,13 @@ Then they won’t go wrong.
 #### 9c1347a0b3 | PENGUIN → BATMAN | x6
 Don’t like the sound of it, huh?
 
-#### 82bab5d65f-SM | PENGUIN → BATMAN | x6
+#### 82bab5d65f | PENGUIN → BATMAN | x6
 I was just offerin’ a bleedin’ olive branch.
 
 #### 02059bca0a | PENGUIN → BATMAN | x6
 I guess I’ll have to use another form of persuasion.
 
-#### 76b1bde312-SM | PENGUIN → BATMAN, OSWALD | x12
+#### 76b1bde312 | PENGUIN → BATMAN, OSWALD | x12
 I was just in need of an upgrade.
 
 #### e779a289a8 | PENGUIN → BATMAN | x6
@@ -1079,7 +1079,7 @@ Stop struggling, Oswald! It’s over.
 #### 07788c0f88 | OSWALD → BATMAN | x6
 I’d love to stop struggling -- I’ve been struggling all my life.
 
-#### 7cbafb404e-LM | PENGUIN → OSWALD | x6
+#### 7cbafb404e | PENGUIN → OSWALD | x6
 Something you would know nothing about.
 
 #### 96c5406c71 | OSWALD → BATMAN | x6
@@ -1103,19 +1103,19 @@ I admire you grit.
 #### b3a2c23dc2 | OSWALD → BATMAN | x6
 Something you know nothing about.
 
-#### aaf02a78d4-LM | BATMAN → OSWALD | x6
+#### aaf02a78d4 | BATMAN → OSWALD | x6
 You’re obsessed!  How can you expect to do any good when you can’t see past your own blind ambition!
 
-#### a2be10a44a-SM | HARVEY → BATMAN | x8
+#### a2be10a44a | HARVEY → BATMAN | x8
 What am I doing?  This isn’t what I wanted.  Everything just got so out of control!
 
-#### c563ae7a8f-SM | OSWALD → HARVEY | x6
+#### c563ae7a8f | OSWALD → HARVEY | x6
 I became what I hated, ey?
 
 #### 63770ed9fd | choice/UI → OSWALD | x8
 This stops now!
 
-#### 0f5bd2b5ff-LM | choice/UI → HARVEY | x6
+#### 0f5bd2b5ff | choice/UI → HARVEY | x8
 You won’t do it.
 
 #### 8d70f9c5ab | choice/UI → OSWALD | x6
@@ -1124,7 +1124,7 @@ Oswald, please!
 #### 2675ef040b | BATMAN → HARVEY | x8
 Harvey, calm down.  Don’t let it end like this
 
-#### 3c52aaf6af-LM | HARVEY → BATMAN | x8
+#### 3c52aaf6af | HARVEY → BATMAN | x8
 You’re right.  I *am* the cancer.
 
 #### 5f3977af75 | HARVEY → BATMAN | x8
@@ -1133,7 +1133,7 @@ It all stops with me.
 #### e827279900 | HARVEY → BATMAN | x8
 What do you care? You’ll still end up the hero.
 
-#### 42aece7f86-LM | BATMAN → HARVEY | x8
+#### 42aece7f86 | BATMAN → HARVEY | x8
 You won’t do it. You’re too much of a coward.
 
 #### ae60d2a9d5 | HARVEY → BATMAN | x8
@@ -1142,19 +1142,19 @@ Well one of us has to die... [Harvey smiles a bit] Now who’s the coward?
 #### 9a9d8573de | HARVEY → OSWALD, BATMAN | x8
 Oh, I couldn’t agree more!
 
-#### 8903e476b7-SM | OSWALD → HARVEY | x6
+#### 8903e476b7 | OSWALD → HARVEY | x6
 I just wanted to make my name mean something again.
 
-#### b5aa42809a-SM | OSWALD → BATMAN | x6
+#### b5aa42809a | OSWALD → BATMAN | x6
 And I won’t stop swinging until it does.
 
 #### 8ed4bd737c | OSWALD → BATMAN | x6
 Batman believes in me?
 
-#### e4a9ae5acf-SM | OSWALD → BATMAN | x6
+#### e4a9ae5acf | OSWALD → BATMAN | x6
 I never thought I’d live to see the day.
 
-#### 0db4ee453c-LM | BATMAN → OSWALD | x6
+#### 0db4ee453c | BATMAN → OSWALD | x6
 But you need to learn when it’s time to give up.
 
 #### 8a2db64d5a | BATMAN → OSWALD | x6
@@ -1193,7 +1193,7 @@ You know the first chance I get, I’ll be out swinging again.
 #### 0af2d44aa6 | BATMAN → OSWALD | x6
 Don’t--
 
-#### dbad3600ff-SM | OSWALD → BATMAN | x6
+#### dbad3600ff | OSWALD → BATMAN | x6
 I wonder what would happen if I did.
 
 #### 82cf2b2cb7 | OSWALD → BATMAN | x6
@@ -1226,7 +1226,7 @@ You wouldn’t kill them all, would you?
 #### 78f510a6d4 | OSWALD → BATMAN | x6
 What? You think that if you call me a coward and I’ll take your bait and pull it.
 
-#### 4988797028-SM | OSWALD → BATMAN | x6
+#### 4988797028 | OSWALD → BATMAN | x6
 I’m not stupid, Batman.
 
 #### 773626141d | OSWALD → BATMAN | x6
@@ -1235,7 +1235,7 @@ Oh, I bet what happens next is just riveting.
 #### 4126fce117 | BATMAN → OSWALD | x6
 It pisses you off, doesn’t it?
 
-#### a803d7df5e-SM-LM | BATMAN → OSWALD | x6
+#### a803d7df5e | BATMAN → OSWALD | x6
 To know that I’ve had it easy and you’ve had it hard.
 
 #### e987de71fa | BATMAN → OSWALD | x6
@@ -1250,10 +1250,10 @@ Not so fast.
 #### 63b9e5afc2 | BATMAN → OSWALD | x6
 It will fry all the servers in the building.
 
-#### a4549a2dfd-LM | OSWALD → BATMAN | x6
+#### a4549a2dfd | OSWALD → BATMAN | x6
 Oh, so that’s why you came here.
 
-#### dea97c9a7d-LM | OSWALD → BATMAN | x6
+#### dea97c9a7d | OSWALD → BATMAN | x6
 You came to wipe the Wayne Tech servers free of Batman.
 
 #### d134b092f1 | BATMAN → OSWALD | x6
@@ -1265,10 +1265,10 @@ You look stupid to me.
 #### f493c7fe7b | OSWALD → BATMAN | x6
 Don’t do what?
 
-#### 6fb022aefb-LM | OSWALD → PENGUIN | x6
+#### 6fb022aefb | OSWALD → PENGUIN | x6
 You’re worried I’m going to pull this trigger.
 
-#### 4f5c698a27-LM | PENGUIN → BATMAN | x6
+#### 4f5c698a27 | PENGUIN → BATMAN | x6
 Bloody hell, Batman. Is that all you got?
 
 #### fd6eb38c40 | OSWALD → BATMAN | x6
@@ -1283,7 +1283,7 @@ Don’t make me hurt you more.
 #### cf6616423c | choice/UI, BATMAN → PENGUIN | x12
 Come over here and find out.
 
-#### 1d316a4264-SM-LM | PENGUIN → BATMAN | x6
+#### 1d316a4264 | PENGUIN → BATMAN | x6
 Because I was sure you had more fight in you than that.
 
 #### d4d45e86cf | PENGUIN → BATMAN | x6
@@ -1313,13 +1313,13 @@ Well -- I’m, I’m sufferin’ here.
 #### 432be25463 | OSWALD | x6
 You -- you self-righteous bastard!
 
-#### 3791cefe37-LM | OSWALD → GOON01 | x4
+#### 3791cefe37 | OSWALD → GOON01, COA01 | x6
 [pained[ You would just leave me here to suffer...
 
 #### 56c9ad0c05 | OSWALD → GOON01, COA01 | x6
 Oh, and get the board members up here...
 
-#### 7da20da22f-SM | GOON01 → OSWALD | x4
+#### 7da20da22f | GOON01, COA01 → OSWALD | x6
 He’s on the 15th floor. I got em.
 
 #### dc39bd03d2 | BATMAN → OSWALD | x6
@@ -1337,7 +1337,7 @@ You sadistic bastard!
 #### 4070333a19 | OSWALD | x6
 Please -- don’t leave me like this.
 
-#### a9e353a70e-SM | OSWALD | x6
+#### a9e353a70e | OSWALD | x6
 I thought that was what Batman did. Help -- those in need.
 
 #### c2a087f360 | OSWALD | x6
@@ -1349,13 +1349,13 @@ You can’t leave me to those dirty bastards.
 #### ef814d5e8d | OSWALD → ENFORCER01 | x6
 [pained
 
-#### 97f6ae0ce9-L? | OSWALD → ENFORCER01 | x6
+#### 97f6ae0ce9 | OSWALD → ENFORCER01 | x6
 You -- you let them have me and -- and I’m as good as dead.
 
 #### 5c325c893d | OSWALD → ENFORCER01 | x6
 Worse than a Wayne!
 
-#### d62d2048d9-S? | ENFORCER01 → OSWALD, HARVEY | x10
+#### d62d2048d9 | ENFORCER01 → OSWALD, HARVEY | x10
 Sir, I just got the word...
 
 #### 879bbf2586 | ENFORCER01, BATMAN → OSWALD, BATMAN, HARVEY | x12
@@ -1364,7 +1364,7 @@ Bruce Wayne is still alive.
 #### cb83ffb4de | choice/UI → ENFORCER01 | x6
 Stop trying to hack my network.
 
-#### 2e3838343c-SM | choice/UI → ENFORCER01 | x6
+#### 2e3838343c | choice/UI → ENFORCER01 | x6
 I won’t allow you to weaponize drones.
 
 #### 74d1b9c5c5 | choice/UI → ENFORCER01 | x6
@@ -1403,10 +1403,10 @@ Default
 #### df367e85c2 | BATMAN → LUCIUS | x2
 Lucius- {ThinkingA}are you there?
 
-#### 7f92df7cb0-SM | LUCIUS → ENFORCER01 | x6
+#### 7f92df7cb0 | LUCIUS → ENFORCER01 | x6
 I have mapped, what I believe to be, the path of least resistance to the CEO office.
 
-#### 0438eaf348-LM | LUCIUS → BATMAN | x2
+#### 0438eaf348 | LUCIUS → BATMAN | x2
 Be warned, though, he has drones patrolling the hallways.  Same as the one you encountered earlier.
 
 #### 91d29174d4 | LUCIUS → BATMAN | x2
@@ -1439,16 +1439,16 @@ Has anyone seen him?!?
 #### 72e3f7ba5c | PENGUIN, OSWALD → GOON02, COA02, PENGUIN | x8
 Useless! You are all bloody useless!
 
-#### 6a7afc487f-LM | PENGUIN → GOON02 | x4
+#### 6a7afc487f | PENGUIN → GOON02, COA02 | x8
 Useless! You are all damned useless!
 
-#### 5f75ac33bf-SM | PENGUIN → GOON03, COA01 | x6
+#### 5f75ac33bf | PENGUIN → GOON03, COA01 | x6
 What? Did Wayne tell you I was putting his Tech to practical use?
 
 #### 62907d4e3a | PENGUIN → LUCIUS | x4
 Can’t say I haven’t been expecting you, Bats-
 
-#### ff5ff57cc1-SM-L? | PENGUIN | x2
+#### ff5ff57cc1 | PENGUIN → LUCIUS | x4
 Figured when you found out I was putting this hardware to real practical use- for a change- you’d try to have something high and mighty and superheroic to say about it-
 
 #### e525ca02ff | PENGUIN, GOON01 → LUCIUS | x4
@@ -1490,10 +1490,10 @@ Got you now!
 #### 4f384cf912 | PENGUIN → LUCIUS | x2
 Goodnight, Irene!
 
-#### d2a5a6cc4e-SM | LUCIUS → PENGUIN | x2
+#### d2a5a6cc4e | LUCIUS → PENGUIN | x2
 I’m here. I’ve mapped you a route to the R&D lab - looks like the signal from Penguin’s “Black Box” is coming from there...
 
-#### 29a51ad9a0-SM | BATMAN → LUCIUS | x2
+#### 29a51ad9a0 | BATMAN → LUCIUS | x2
 I’m ready for them.
 
 #### 495fa953ab | LUCIUS → BATMAN | x2
@@ -1517,7 +1517,7 @@ Let’s see how Oswald likes this hostile takeover.
 #### fa7b29e45e | LUCIUS → BATMAN | x2
 But be careful. Lotta drones and guards in the way.
 
-#### c56cb90ca9-SM | BATMAN → LUCIUS | x2
+#### c56cb90ca9 | BATMAN → LUCIUS | x2
 I’m ready for them. Thanks Lucius.
 
 #### d7182a7d26 | BATMAN → LUCIUS | x2
@@ -1535,7 +1535,7 @@ I can definitely do that. Just be careful, Bruce. No telling what kind of securi
 #### 54bfc7879b | LUCIUS → BATMAN | x2
 Opening the doors... now.
 
-#### 9329e681e6-SM | LUCIUS → BATMAN | x2
+#### 9329e681e6 | LUCIUS → BATMAN | x2
 I’m offsite, but I’ve tapped into the security systems to give us an advantage.
 
 #### 3aca2a8f81 | LUCIUS → BATMAN | x2
@@ -1574,13 +1574,13 @@ Run!
 #### 33bedfcf33 | LUCIUS → GOON01 | x2
 Avoid that hallway.
 
-#### 001cbd7a1e-SM | LUCIUS → GOON01 | x2
+#### 001cbd7a1e | LUCIUS → GOON01 | x2
 I’m here. I’ve tapped into security to give us an advantage.
 
 #### eb88e2b7b9 | GOON01 → LUCIUS | x2
 There!
 
-#### e368b53b39-SM | GOON01 → GOON02 | x2
+#### e368b53b39 | GOON01 → GOON02 | x2
 I got him!
 
 #### a39b535122 | GOON01 → GOON02 | x2
@@ -1595,7 +1595,7 @@ Found him!
 #### 7dd577e85d | GOON02 → GOON01 | x2
 Where’d he go?
 
-#### 6136e2e035-SM | GOON02 → GOON01 | x2
+#### 6136e2e035 | GOON02 → GOON01 | x2
 I lost him!
 
 #### 495eae8b8f | GOON02 | x2

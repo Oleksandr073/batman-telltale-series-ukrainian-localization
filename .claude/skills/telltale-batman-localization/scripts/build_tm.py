@@ -1,12 +1,14 @@
 """Build the translation table: one row per unique text to translate, for all files of both modes.
 
 Usage:
-  python build_tm.py EN_ROOT GENDERS OUT_TABLE
+  python build_tm.py EN_ROOT GENDERS OUT_TABLE [--unique-original UNIQUE_EN_DIR]
 
   EN_ROOT      folder with the English BM_* and BAT_* folders
-  GENDERS  reference/speaker_genders.xlsx (speaker_id, gender M/F/?)
+  GENDERS      reference/speaker_genders.xlsx (speaker_id, gender M/F/?)
   OUT_TABLE    table to write: .xlsx (Excel/LibreOffice/Google Sheets, with a Help sheet) or .tsv.
                If it already exists, filled-in Ukrainian cells are kept (matched by key). Close it in Excel first.
+  --unique-original  also (re)write this folder (unique_original_data): every unique English text once, built
+               from EN_ROOT only (no genders). The import only checks it. It changes only if the English files do.
 
 Columns: #, English, Ukrainian, Speaker gender, Listener gender, Who speaks, To whom, Used, Where, Notes, key
 - Translate only the "ukrainian" column. Leave it empty to keep English.
@@ -27,16 +29,7 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from landb_txt import exists, read_records, txt_files  # noqa: E402
 from tm_lib import (LINE_SEP, analyze_records, check_root, escape_cell, load_genders, loose_text, read_table,  # noqa: E402
-                    unescape_cell, write_table)
-
-
-def file_order(rel):
-    folder = rel.split('/')[0]
-    mode = 0 if folder.startswith('BM_') else 1
-    m = re.search(r'(10[1-5])', folder)
-    grp = m.group(1) if m else {'Menu': '200', 'Boot': '300', 'Project': '400'}.get(
-        next((g for g in ('Menu', 'Boot', 'Project') if g in folder), ''), '900')
-    return mode, grp, rel
+                    unescape_cell, write_table, write_unique, file_order, unique_files)
 
 
 def load_old(path):
@@ -44,9 +37,17 @@ def load_old(path):
 
 
 def main():
-    if len(sys.argv) != 4:
+    args = sys.argv[1:]
+    unique_dir = None
+    if '--unique-original' in args:
+        i = args.index('--unique-original')
+        if i + 1 >= len(args):
+            sys.exit(__doc__)
+        unique_dir = args[i + 1]
+        del args[i:i + 2]
+    if len(args) != 3:
         sys.exit(__doc__)
-    root, gpath, out = sys.argv[1:]
+    root, gpath, out = args
     genders = load_genders(gpath)
     old = load_old(out)
 
@@ -135,6 +136,11 @@ def main():
         write_table(lost_path, [old[k] for k in lost])
     words = sum(len(unescape_cell(rows[k]['english']).split()) for k in order)
     print(f'{len(order)} rows ({words} English words) -> {out}. Kept {kept} existing translation(s).')
+    if unique_dir:
+        files, _ = unique_files(root)
+        nfiles = write_unique(files, unique_dir)
+        print(f'Wrote the unique English texts into {nfiles} file(s) in {unique_dir} (built from {root} only; '
+              f'it changes only if the English files change - check with: git status {unique_dir}).')
     if lost:
         print(f'WARNING: {len(lost)} translated row(s) no longer match any text - saved to {lost_path}')
 

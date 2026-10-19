@@ -16,7 +16,7 @@ Who authorized this?
 #### cd8215a011 | BRUCE, choice/UI → THOMAS | x4
 And if I refuse?
 
-#### e142347bac-SM | BRUCE → VICKI | x2
+#### e142347bac | BRUCE → VICKI | x2
 I’m sorry, Are you arresting me?
 
 #### 514af9bf03 | BRUCE → VICKI | x2
@@ -31,7 +31,7 @@ I... I didn’t mean to interrupt, but...
 #### ceaec28204 | choice/UI → VICKI | x2
 Go ahead, do your job.
 
-#### cccc00a1db-SM | choice/UI → VICKI | x2
+#### cccc00a1db | choice/UI → VICKI | x2
 I’m busy right now.
 
 #### c55820706b | choice/UI → VICKI | x2
@@ -76,13 +76,13 @@ Bruce, stay back!
 #### 7a4434056b | GORDON → BRUCE | x2
 It’s not personal.
 
-#### f50968ab4d-SM | GORDON → MARTHA | x2
+#### f50968ab4d | GORDON → MARTHA | x2
 I had the boys turn their lights off and keep a low profile.
 
 #### 938a5fd632 | GORDON → THOMAS | x2
 Hopefully we can do our job and be{FaceAccent} outta here ASAP.
 
-#### fa73a9ea76-SM | GORDON → BRUCE | x2
+#### fa73a9ea76 | GORDON → BRUCE | x2
 I meant what I said about{FaceAccent}{BodyAccent} “not personal.“
 
 #### 0f95eb709f | GORDON → BRUCE | x2
@@ -160,7 +160,7 @@ It’s difficult to book a {FaceAccent}meeting{BodyAccent} with you.
 #### 3c3c8ddbe0 | VICKI → GORDON | x2
 Enjoyed.{BodyAccent}
 
-#### 181220e7bd-SF | VICKI → BRUCE | x2
+#### 181220e7bd | VICKI → BRUCE | x2
 I’m sorry,{BodyAccent} but if the press has {NormalA}{FaceAccent}their way... {SadA}you’re not gonna have any for a{BodyAccent} while.
 
 #### b9e8da68e3 | BRUCE → VICKI | x2
@@ -202,7 +202,7 @@ You.. you don’t have to do this!
 #### 02443fce31 | BRUCE → ALFRED | x2
 Alfred, keep an eye on them. Make sure they take only what they have to.
 
-#### b8639dbf73-SM | GORDON → BRUCE | x2
+#### b8639dbf73 | GORDON → BRUCE | x2
 I’m afraid we can’t, Mr. Wayne.
 
 #### 38c4f9017e | BRUCE → GORDON | x2
@@ -259,10 +259,10 @@ That’d be a real shame. Mr. Dent’s the only D.A. I ever trusted to make a co
 #### b1f6fdee50 | GORDON → BRUCE | x4
 That’s what we’re here to find out.
 
-#### a02e905b86-SM | GORDON → BRUCE | x2
+#### a02e905b86 | GORDON → BRUCE | x2
 Not unless I’m forced to.
 
-#### f39371345b-LM | GORDON → BRUCE | x2
+#### f39371345b | GORDON → BRUCE | x2
 Maybe you did.
 
 #### 3073a212fe | BRUCE → GORDON | x2
@@ -271,16 +271,16 @@ Well Hill has a history of making his opposition... disappear.
 #### 40559787d2 | GORDON → BRUCE | x2
 Rumors and allegations, Mr. Wayne. That’s all.
 
-#### 1d4a730b14-SM | GORDON → BRUCE | x2
+#### 1d4a730b14 | GORDON → BRUCE | x2
 But if they become fact, I’ll handcuff him myself same as any other crook.
 
-#### 6c11d3cb02-LM | GORDON → BRUCE | x2
+#### 6c11d3cb02 | GORDON → BRUCE | x2
 So consider yourself served.
 
 #### e625433e48 | BRUCE → GORDON | x2
 Hill knows if I go down, Harvey’s campaign goes down too.
 
-#### 743f3f07b2-LF | GORDON → VICKI | x2
+#### 743f3f07b2 | GORDON → VICKI | x2
 For all our sakes, I pray you’ve got nothing to hide.
 
 #### f41db14cf2 | GORDON → BRUCE | x2
@@ -295,10 +295,10 @@ I just...
 #### 883ac47122 | BRUCE → VICKI | x2
 Ms. Vale.
 
-#### 04d6c74157-SF-LM | VICKI → BRUCE | x2
+#### 04d6c74157 | VICKI → BRUCE | x2
 I thought you could use someone not tearing out your jugular.
 
-#### 6a02a36071-SF | VICKI → BRUCE | x2
+#### 6a02a36071 | VICKI → BRUCE | x2
 I saw what those assholes did here.
 
 #### 2b942a44df | BRUCE → VICKI | x2
@@ -418,13 +418,13 @@ Until I know what’s really going on, I’m not speaking to the press again.
 #### d72424d87c | BRUCE → VICKI | x2
 Turn it off, Ms. Vale.
 
-#### 080876f142-LM | VICKI → BRUCE | x2
+#### 080876f142 | VICKI → BRUCE | x2
 You need to get out ahead of this.
 
 #### c7dd246830 | VICKI → BRUCE | x4
 Otherwise people are gonna fill in the blanks, and it won’t be in your favor.
 
-#### 1cbb5cc5a0-LM | VICKI → BRUCE | x4
+#### 1cbb5cc5a0 | VICKI → BRUCE | x4
 You gotta help yourself out here, Mr. Wayne.
 
 #### 1bd7e8db95 | ALFRED → VICKI | x2
@@ -442,7 +442,7 @@ All this.... on the anniversary of your parent’s...
 #### 218becef63 | BRUCE → VICKI | x2
 On the record then.
 
-#### fd31a758a7-LM | VICKI → BRUCE | x2
+#### fd31a758a7 | VICKI → BRUCE | x2
 Whenever you’re ready.
 
 #### 73b0e5a963 | BRUCE → VICKI | x2
@@ -451,7 +451,7 @@ Do you think is a coincidence?
 #### cd2e6f523f | GORDON → VICKI | x2
 I’m boring that way.
 
-#### 4638e2bdb4-SF | VICKI → BRUCE | x2
+#### 4638e2bdb4 | VICKI → BRUCE | x2
 I saw what those jerks did here.
 
 #### 46d8be7404 | VICKI → BRUCE | x2
@@ -472,7 +472,7 @@ You’re going to beat this, Bruce.
 #### 98ec2e7f70 | VICKI → BRUCE | x2
 Through my connections at the Gazette, I have all kinds of access.
 
-#### dd480a1535-LM | VICKI → BRUCE | x2
+#### dd480a1535 | VICKI → BRUCE | x2
 I can dig up whatever you need to fight this.
 
 #### d21178b8e3 | VICKI → BRUCE | x2
@@ -499,16 +499,16 @@ If my house were being ransacked by the cops...
 #### 7fc3c0ae47 | VICKI → BRUCE | x2
 Listen, Bruce...
 
-#### 48a1e0a93a-L? | VICKI | x2
+#### 48a1e0a93a | VICKI | x2
 This might be a worse clean up than that party you had.
 
-#### 38c8e1a7e5-L? | VICKI | x2
+#### 38c8e1a7e5 | VICKI | x2
 You’ve had too many unwelcome guests
 
 #### 206faa610e | VICKI | x2
 Yeah, the kind who steal things.
 
-#### 43052d00d0-SF | VICKI → BRUCE | x2
+#### 43052d00d0 | VICKI → BRUCE | x2
 Sorry I let myself in...
 
 #### e31e581f74 | VICKI → BRUCE | x2

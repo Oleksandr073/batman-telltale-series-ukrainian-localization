@@ -7,14 +7,11 @@ Intimadetd Hill in 102
 #### 6b092fbfe3 | BATMAN → LUCIUS | x4
 Lucius- are you there?
 
-#### e5422310db-SM | LUCIUS → BATMAN | x4
+#### e5422310db | LUCIUS → BATMAN | x4
 Be warned, though, the drone patrolling the hallways are extremely dangerous, I would suggest attempting to avoid them, if possible.
 
 #### 808c3cb7be | LUCIUS → BATMAN | x4
 No, the other way.
-
-#### ff5ff57cc1-SM-LM | PENGUIN → LUCIUS | x2
-Figured when you found out I was putting this hardware to real practical use- for a change- you’d try to have something high and mighty and superheroic to say about it-
 
 #### e78426b7b2 | PENGUIN → LUCIUS | x2
 Oof!
@@ -25,7 +22,7 @@ Batman. The device Penguin’s using to hack the network... it’s nearby!
 #### 22f4610616 | BATMAN → PENGUIN | x2
 ...the Black Box. It’s here.
 
-#### 72fd9002f7-SM | PENGUIN → BATMAN | x2
+#### 72fd9002f7 | PENGUIN → BATMAN | x2
 I’ve worked too hard for this-!
 
 #### 496e8cc19c | PENGUIN → BATMAN | x2
@@ -49,13 +46,13 @@ She wasn’t one of the ones who took everything and left me with nothing!
 #### c85777877b | BATMAN → OSWALD | x2
 I am stronger than you, Cobblepot.
 
-#### bfb67495ea-LM | BATMAN → PENGUIN | x2
+#### bfb67495ea | BATMAN → PENGUIN | x2
 You had better stand down before you get yourself hurt.
 
 #### 9856ed5903 | PENGUIN → BATMAN | x2
 That’s why I’m leveling the playing field.
 
-#### 4cd6c6cb8a-SM | PENGUIN → BATMAN | x2
+#### 4cd6c6cb8a | PENGUIN → BATMAN | x2
 And I’m tired of bullies who think they can take what’s mine!
 
 #### 8272fbce0c | BATMAN → OSWALD | x2
@@ -88,16 +85,16 @@ It’s bullies like you that are the problem!
 #### 21628ee461 | BATMAN → PENGUIN | x10
 Shut your mouth before I shut it for you!
 
-#### ac942b5982-LM | PENGUIN → BATMAN | x2
+#### ac942b5982 | PENGUIN → BATMAN | x2
 Is that what you said when you Brutalized Falcone?
 
-#### b8ce733b86-LM | PENGUIN → BATMAN | x2
+#### b8ce733b86 | PENGUIN → BATMAN | x2
 Is that what you said when you beat up XXXXXX?
 
-#### 640cdcf860-SM-LM | PENGUIN → BATMAN | x2
+#### 640cdcf860 | PENGUIN → BATMAN | x2
 Is that how you sounded when you paid a visit to Mayor Hill before he died?  Oh yeah, I heard about that, mate!
 
-#### ad125df56d-LM | PENGUIN → BATMAN | x2
+#### ad125df56d | PENGUIN → BATMAN | x2
 Is that what you said before you gave Selina a black eye?
 
 #### d9150c4f9b | BATMAN → PENGUIN | x2
@@ -145,37 +142,37 @@ I couldn’t stop the Waynes from destroying my family and taking everything awa
 #### 1e5131ac16 | PENGUIN | x2
 I couldn’t- I just couldn’t-
 
-#### 31fbc10d1d-L? | PENGUIN | x2
+#### 31fbc10d1d | PENGUIN | x2
 Is that what you said when you put that entire street gang in the hospital last year?
 
-#### fdaf0cf728-L? | PENGUIN | x2
+#### fdaf0cf728 | PENGUIN | x2
 Is that how you justify what you did to Falcone?
 
-#### f06e319d36-L? | PENGUIN | x2
+#### f06e319d36 | PENGUIN | x2
 Justice?  Is that what you call the way you interrogated my man at the docks?
 
-#### 88345b5693-L? | PENGUIN | x2
+#### 88345b5693 | PENGUIN | x2
 Oh, is that how you justify your “little talk” you had with Mayor Hill?
 
 #### 8465dd60ec | PENGUIN → BATMAN | x2
 Is that how you justify giving Selina a black eye?
 
-#### 427ed44b02-SM | PENGUIN → BATMAN | x2
+#### 427ed44b02 | PENGUIN → BATMAN | x2
 I fought, tooth and nail, to get here-
 
 #### 74e8c90fdb | PENGUIN → BATMAN | x2
 -and no costumed thug with an inflated sense of ego is going to get in my way.
 
-#### 6777721c51-LM | BATMAN → OSWALD | x2
+#### 6777721c51 | BATMAN → OSWALD | x2
 You GOT what you deserved, Cobblepot.
 
-#### a176174541-SM | BATMAN → OSWALD | x2
+#### a176174541 | BATMAN → OSWALD | x2
 I am sorry for what happened to you and your family, Cobblepot.
 
 #### df2cb80dbd | BATMAN → PENGUIN | x2
 There’s no such thing as “deserves.“
 
-#### 57f8c6ded0-LM | PENGUIN → BATMAN | x2
+#### 57f8c6ded0 | PENGUIN → BATMAN | x2
 You crippled me-!
 
 #### 17c0c3a53d | PENGUIN → BATMAN | x4
@@ -184,22 +181,22 @@ You are a bully!
 #### efa283e9e6 | PENGUIN → BATMAN | x4
 You maniac!
 
-#### 80b71ff222-SM | PENGUIN → BATMAN | x4
+#### 80b71ff222 | PENGUIN → BATMAN | x4
 I knew I was right about you!
 
 #### 147305194c | OSWALD → PENGUIN, HARVEY, ALFRED | x6
 AAAAARH!
 
-#### 13c4403778-SM-LM | BATMAN → PENGUIN | x4
+#### 13c4403778 | BATMAN → PENGUIN | x4
 You’re lucky that’s all I did.
 
-#### 0a844b615c-LM | BATMAN → PENGUIN | x4
+#### 0a844b615c | BATMAN → PENGUIN | x4
 You’re lucky you’re still alive.
 
-#### cb3654bf11-LM | choice/UI → PENGUIN | x4
+#### cb3654bf11 | choice/UI → PENGUIN | x4
 You’re lucky
 
-#### 8a7574392a-LM | choice/UI → OSWALD, PENGUIN | x4
+#### 8a7574392a | choice/UI → OSWALD, PENGUIN | x4
 That is what you deserved
 
 #### 15c9644565 | OSWALD → PENGUIN, JOKER, HARVEY | x6
@@ -214,10 +211,10 @@ Hurting people?
 #### aa4b89cde9 | PENGUIN → OSWALD, BATMAN | x4
 That’s why you do this, isn’t it?
 
-#### efbc6dd247-SM | PENGUIN → BATMAN | x2
+#### efbc6dd247 | PENGUIN → BATMAN | x2
 I was just trying to get what I deserved!
 
-#### c5a46625cd-LM | choice/UI → PENGUIN | x2
+#### c5a46625cd | choice/UI → PENGUIN | x2
 You GOT what you deserved.
 
 #### 488311398a | choice/UI → PENGUIN | x2
@@ -229,10 +226,10 @@ You big, brooding bastard.
 #### 6526674938 | PENGUIN → BATMAN | x2
 You big, brooding jerk.
 
-#### b07520d53f-LM | BATMAN → PENGUIN | x2
+#### b07520d53f | BATMAN → PENGUIN | x2
 You brought all this upon yourself.
 
-#### 120c1d6126-LM | BATMAN → PENGUIN | x2
+#### 120c1d6126 | BATMAN → PENGUIN | x2
 From this point on, you only have YOURSELF to blame for your lot in life.
 
 #### 2aa9a5753c | BATMAN → PENGUIN | x2
@@ -253,7 +250,7 @@ Bad things happen to good people.
 #### aab0b319ca | PENGUIN → BATMAN | x4
 You’re a damn sadist!
 
-#### 20e4705863-LM | BATMAN → PENGUIN | x4
+#### 20e4705863 | BATMAN → PENGUIN | x4
 That’s just what you deserved.
 
 #### 15968ee3dd | BATMAN → PENGUIN | x4
@@ -265,10 +262,10 @@ Try and take it with some dignity.
 #### 86ba143dad | PENGUIN → BATMAN | x4
 Blow it out your ear!
 
-#### f2d47d2812-SM | BATMAN → PENGUIN | x4
+#### f2d47d2812 | BATMAN → PENGUIN | x4
 Sorry. I’m sure that hurts.
 
-#### 9dd446382b-LM | PENGUIN → BATMAN | x4
+#### 9dd446382b | PENGUIN → BATMAN | x4
 You’re damned right it does!
 
 #### 60377bb260 | PENGUIN → BATMAN | x4
@@ -277,7 +274,7 @@ Is that supposed to make me feel better?!?
 #### a3a4e50251 | PENGUIN → BATMAN | x2
 What? Is that supposed to make me feel better?
 
-#### 42c458b729-SM | PENGUIN → BATMAN | x2
+#### 42c458b729 | PENGUIN → BATMAN | x2
 Yeah, well... I’m sorry, too.
 
 #### 75c4270e5f | choice/UI → PENGUIN | x2
@@ -298,7 +295,7 @@ Heartless bastard!
 #### b1a585bbd5 | BATMAN → PENGUIN | x2
 But this was *not* the way to fix the past.
 
-#### d22c277833-LM | BATMAN → PENGUIN | x2
+#### d22c277833 | BATMAN → PENGUIN | x2
 What Thomas Wayne did to your mother was wrong. Do your time in Blackgate prison. Come out a better man. Honor her memory by reforming yourself.
 
 #### 91bdca9dfc | OFFICER01, GCPD01 → PENGUIN, OSWALD | x4
@@ -307,25 +304,25 @@ What the-
 #### dbd45145c1 | OSWALD → PENGUIN, GCPD01 | x4
 Just cut me down, mate.
 
-#### 79fc8757df-LM | PENGUIN → BATMAN | x2
+#### 79fc8757df | PENGUIN → BATMAN | x2
 Is that what you said back when you tortured my man at the docks?
 
-#### cbc52179cf-LM | PENGUIN → BATMAN | x8
+#### cbc52179cf | PENGUIN → BATMAN | x8
 YOU BROKE HIS FRIGGIN’ ARM!
 
-#### c423cf6dd8-LM | PENGUIN → BATMAN | x8
+#### c423cf6dd8 | PENGUIN → BATMAN | x8
 You smashed him in the face with a freakin’ pipe, mate!
 
-#### 8f897136e7-LM | PENGUIN → BATMAN | x2
+#### 8f897136e7 | PENGUIN → BATMAN | x2
 Have you forgotten about the man you “interrogated” at the docks?
 
 #### 837ec98d28 | PENGUIN → BATMAN | x2
 Then how would you describe your little chat with the former Mayor Hill.
 
-#### 0332ae80f3-SM | PENGUIN → BATMAN | x4
+#### 0332ae80f3 | PENGUIN → BATMAN | x4
 Yeah, I heard all about that, mate.
 
-#### 064904f78d-SM | PENGUIN → OSWALD | x4
+#### 064904f78d | PENGUIN → OSWALD | x4
 ...Before I killed him of course.
 
 #### ceba5c71f5 | OSWALD → PENGUIN | x2
@@ -337,13 +334,13 @@ I’m the one with the toys now, Batman.
 #### 2aede331b3 | OSWALD, PENGUIN → PENGUIN, OSWALD | x4
 Don’t worry, it happens to LOADS of guys.
 
-#### ac6662b60e-SM | OSWALD → PENGUIN | x2
+#### ac6662b60e | OSWALD → PENGUIN | x2
 This is the start of a new legacy, and I’m afraid you don’t have any place in it.
 
-#### 7958f2134a-LM | OSWALD → PENGUIN | x2
+#### 7958f2134a | OSWALD → PENGUIN | x2
 Haven’t you learned yet? I’ve shut you down!
 
-#### 20d3023b16-SM | PENGUIN → OSWALD | x2
+#### 20d3023b16 | PENGUIN → OSWALD | x2
 I just... I just wanted to get what I deserved... prove I could be better...
 
 #### 39b04ebab4 | PENGUIN → BATMAN | x2
@@ -352,13 +349,13 @@ Better than Bruce.
 #### 43cc7d7e6b | choice/UI → PENGUIN | x4
 You’re not the victim here.
 
-#### 673c7a7635-LM | BATMAN → OSWALD | x2
+#### 673c7a7635 | BATMAN → OSWALD | x2
 Lose the victim act, Cobblepot. You left the high road a long time ago.
 
-#### 131b6a2618-SM | choice/UI → PENGUIN | x2
+#### 131b6a2618 | choice/UI → PENGUIN | x2
 I’m sorry it ended this way.
 
-#### 2a13f43b01-SM | BATMAN → OSWALD | x2
+#### 2a13f43b01 | BATMAN → OSWALD | x2
 I’m sorry this is how it had to be, Cobblepot. I wish it could’ve ended differently.
 
 #### 1d5e897e64 | PENGUIN → BATMAN | x2
@@ -382,13 +379,13 @@ Let it go, Cobblepot.
 #### d30ba8e7dc | BATMAN → PENGUIN | x2
 Your obsession with the past is what got you here. Let it go and move on.
 
-#### 3ee3b8b2b0-LM | PENGUIN → BATMAN | x2
+#### 3ee3b8b2b0 | PENGUIN → BATMAN | x2
 Yeah? Like you don’t have anything in your past that YOU’RE obsessed with?
 
 #### 0f358e8209 | PENGUIN → BATMAN | x2
 Let’s level the playing feild.
 
-#### bd85259b24-LM | OSWALD → PENGUIN | x2
+#### bd85259b24 | OSWALD → PENGUIN | x2
 Oh, is this how it feels when you put on that suit?  I like it!
 
 #### 81aa95e437 | LUCIUS → OSWALD | x2
@@ -424,10 +421,10 @@ It’s done, Cobblepot! Your revolution is over!  It started with you and it end
 #### fa84ea3cfa | OSWALD → BATMAN | x2
 Good luck!  You’ll never find her in time!
 
-#### b11ae4bd29-LM | BATMAN → OSWALD | x2
+#### b11ae4bd29 | BATMAN → OSWALD | x2
 It didn’t have to be like this, Oswald.  You should have given up when you had the chance.
 
-#### 8987c29c75-SM | OSWALD → BATMAN | x2
+#### 8987c29c75 | OSWALD → BATMAN | x2
 Give up?  I’ve already won.
 
 #### 16631d60fd | BATMAN → OSWALD | x2
@@ -472,7 +469,7 @@ Or what?!
 #### c5ee3601c2 | BATMAN → OSWALD | x2
 All of Gotham is in danger... what do you think I’ll do to get answers out of you.
 
-#### 023fb4cf6f-SM | OSWALD → BATMAN | x2
+#### 023fb4cf6f | OSWALD → BATMAN | x2
 I won’t tell you.  Do your worst.
 
 #### 2bd1ea9e3e | choice/UI → OSWALD | x2
@@ -496,7 +493,7 @@ Don’t make a scene of it.
 #### 35f432c58f | choice/UI → OSWALD | x2
 [Restrain him]
 
-#### 27496376ad-LM | BATMAN → OSWALD | x4
+#### 27496376ad | BATMAN → OSWALD | x4
 But you can help yourself by talking.
 
 #### ce7f7ad2c3 | BATMAN → OSWALD | x4

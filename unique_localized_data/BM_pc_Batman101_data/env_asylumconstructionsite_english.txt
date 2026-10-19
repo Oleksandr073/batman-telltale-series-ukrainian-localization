@@ -146,7 +146,7 @@ Enough photos.
 #### 8ef059e20a | choice/UI → SPENCER, VICKI, REPORTER05 | x12
 [Ignore Them]
 
-#### 74d3b25a84-SM | BRUCE → COUNCILWOMAN | x4
+#### 74d3b25a84 | BRUCE → COUNCILWOMAN | x4
 You know, when I was{ThinkingA} nine years old, my parents took me to{HappyA} see a movie about a hero in a mask.
 
 #### 7ce073093b | VICKI → BRUCE | x11
@@ -308,7 +308,7 @@ He came to learn about Harvey Dent, your next mayor.
 #### 2248be8556 | BRUCE → HARVEY | x4
 Well I think Mister Falcone is a voter, just like anyone else in this city.
 
-#### b6dcd73949-SM | BRUCE → HARVEY, ALFRED | x4
+#### b6dcd73949 | BRUCE → HARVEY, ALFRED | x4
 Personally, I would never welcome that man into my home.
 
 #### 42d930a332 | HARVEY → BRUCE, ALFRED | x20
@@ -317,7 +317,7 @@ Damage control’s my territory. We’ll talk later.
 #### 4987284824 | HARVEY → BRUCE | x2
 Everyone, everyone please, settle down.
 
-#### c6206aa6eb-LM | REPORTER04 → BRUCE | x22
+#### c6206aa6eb | REPORTER04 → BRUCE | x22
 Did you know about this, Bruce?
 
 #### 45e77b1272 | REPORTER01, SPENCER → HARVEY, REPORTER04 | x22
@@ -410,10 +410,10 @@ The police are inside the manor.
 #### 289e0ab654 | HARVEY → BRUCE | x2
 Please, let’s try to keep this civilized.
 
-#### b93604d138-LM | ALFRED → BRUCE, HARVEY | x22
+#### b93604d138 | ALFRED → BRUCE, HARVEY | x22
 You need to get back here.
 
-#### d7e988b686-SM | HARVEY → BRUCE | x2
+#### d7e988b686 | HARVEY → BRUCE | x2
 I’m sorry about this, Bruce. I dunno where the hell it’s coming from.
 
 #### e13914bb0a | choice/UI → ALFRED | x2
@@ -449,7 +449,7 @@ With this facility... and our next mayor--
 #### 4371ac3060 | BRUCE, HARVEY, SELINA, BOY → SELINA, HARVEY, BRUCE | x36
 Okay.
 
-#### f088cd1dbe-SM | BRUCE | x2
+#### f088cd1dbe | BRUCE | x2
 I’m sure you all have plenty of questions about the new hospital, so let’s open it up.
 
 #### 3c84a7e15c | BRUCE, HARVEY → VICKI | x29
@@ -485,7 +485,7 @@ How dare you!
 #### 9313e3b051 | LADYARKHAM, BRUCE → BATMAN, SPENCER | x6
 How dare you.
 
-#### 1ebf313746-SM | BRUCE → RAMARQUE | x2
+#### 1ebf313746 | BRUCE → RAMARQUE | x2
 I just finished telling you about my parents’ murder and you accuse them of being, what, criminals?
 
 #### 46d0eb617f | BRUCE → SPENCER | x2
@@ -590,13 +590,16 @@ Mr. Wayne, Julia Ramarque of the Tribune.
 #### f8442367a2 | BRUCE → RAMARQUE | x2
 Yes, Julia. Go ahead.
 
-#### 004866ea8e-L? | RAMARQUE → SPENCER | x2
+#### 004866ea8e | RAMARQUE → SPENCER | x2
 My sources say that you welcomed alleged mob-boss Carmine Falcone into your home.
 
 #### b87543b98f | REPORTER01, REPORTER04, RAMARQUE → HARVEY, BRUCE, REPORTER04 | x56
 You even shook his hand.
 
-#### b08bac8ec4-L? | REPORTER01, RAMARQUE → REPORTER04, SPENCER | x11
+#### b08bac8ec4-L? | REPORTER01, REPORTER04, RAMARQUE → HARVEY, REPORTER04, REPORTER01 | x47 | listener: unknown
+You even spoke with him behind closed doors.
+
+#### b08bac8ec4-LM | REPORTER01, REPORTER04, RAMARQUE → HARVEY, REPORTER04, REPORTER01 | x47 | listener: male
 You even spoke with him behind closed doors.
 
 #### 38602d9c55 | RAMARQUE → SPENCER | x2

@@ -16,7 +16,7 @@ We need to find her.
 #### 208d42a902 | choice/UI → ALFRED | x2
 She’s got nothing left.
 
-#### c86e6dfe54-LM | BRUCE → ALFRED | x2
+#### c86e6dfe54 | BRUCE → ALFRED | x2
 I hope you’re right, Alfred.
 
 #### ab3367b8cb | BRUCE → ALFRED | x2
@@ -34,13 +34,13 @@ Wherever she is, you can bet she’s planning something. We need to find her.
 #### cce651fa2e | BRUCE → ALFRED | x2
 I hear there’s a fantastic sushi place--that’s a front for human trafficking.
 
-#### d2e4c47192-LM | ALFRED → BRUCE | x2
+#### d2e4c47192 | ALFRED → BRUCE | x2
 Sounds delightful. In all seriousness though, Bruce. You need to give yourself a rest.
 
 #### f6da2a68ae | BRUCE → ALFRED | x2
 Maybe the East Side. There’s a fantastic sushi place that just opened up.
 
-#### d2288f3b95-LM | ALFRED → BRUCE | x2
+#### d2288f3b95 | ALFRED → BRUCE | x2
 I only wish you could rest. The last few weeks. They’ve been... trying.
 
 #### 86996b5ea2 | BRUCE → ALFRED | x2
@@ -52,7 +52,7 @@ I’ve taken out her biggest player. She’s done. But you know how I feel about
 #### 2d67ba81a3 | ALFRED → BRUCE | x2
 Let’s hope she’s an easy one to tie up.
 
-#### dd9b5e2178-LM | ALFRED → BRUCE | x2
+#### dd9b5e2178 | ALFRED → BRUCE | x2
 You could use the rest. After all that’s happened...
 
 #### 429bc1ba1b | BRUCE → ALFRED | x4
@@ -67,7 +67,7 @@ How about now?
 #### 1453146f28 | ALFRED → BRUCE | x2
 We need Lucius.
 
-#### 9bbb6e4d13-SM | BRUCE → ALFRED, LUCIUS | x4
+#### 9bbb6e4d13 | BRUCE → ALFRED, LUCIUS | x4
 I know, I know, I’ve called him and he’ll come as soon as he can...just try this one.
 
 #### ab2dfd53df | BRUCE → ALFRED, LUCIUS | x4
@@ -91,7 +91,10 @@ We’re still cut off from the extended network, but it’s a start.
 #### 594743702b | BRUCE → ALFRED | x2
 Well, that sucks.
 
-#### 689d334c1b-LM | ALFRED → BRUCE | x4
+#### 689d334c1b-LM | ALFRED → BRUCE | x6 | listener: male
+You’re disconnected from the primary network, but... some basic functionality seems to remain.
+
+#### 689d334c1b-L? | ALFRED → BRUCE | x6 | listener: unknown
 You’re disconnected from the primary network, but... some basic functionality seems to remain.
 
 #### 692cdff4a2 | BRUCE → ALFRED | x2
@@ -106,25 +109,25 @@ We need to find out what Lady Arkham’s been up to.
 #### 323011ef48 | ALFRED → BRUCE | x2
 N-Not just the physical toll...
 
-#### af0d7dc86a-LM | ALFRED → BRUCE | x2
+#### af0d7dc86a | ALFRED → BRUCE | x2
 Those were men you once trusted. And after finding out what you did about your father...
 
 #### 82df9a728c | ALFRED → BRUCE | x2
 People must seem a great disappointment to you.
 
-#### d7bd4778a1-LM | choice/UI → ALFRED | x4
+#### d7bd4778a1 | choice/UI → ALFRED | x4
 I have you, Alfred.
 
 #### bbd5befdbe | choice/UI → ALFRED | x4
 I haven’t given up hope.
 
-#### c1bc266357-SM | BRUCE → ALFRED | x2
+#### c1bc266357 | BRUCE → ALFRED | x2
 They usually are disappointing. The only person I count on is myself.
 
 #### 9270e706c9 | ALFRED → BRUCE | x4
 Perhaps that’s best, sir.
 
-#### b1edf82c8c-LM | BRUCE → ALFRED | x4
+#### b1edf82c8c | BRUCE → ALFRED | x4
 Not all people. You’ve never disappointed me, Alfred.
 
 #### 898e7b8032 | ALFRED → BRUCE | x4
@@ -136,10 +139,10 @@ Not everyone is like my father or Oswald. And what Harvey became... it wasn’t 
 #### 458d3f1da1 | BRUCE → ALFRED | x4
 Don’t worry, Alfred. I haven’t given up on people.
 
-#### 6577db154c-SM | ALFRED → BRUCE | x6
+#### 6577db154c | ALFRED → BRUCE | x6
 I’m relieved.
 
-#### 184a9a8dfd-LM | ALFRED → BRUCE | x2
+#### 184a9a8dfd | ALFRED → BRUCE | x2
 Lieutenant Gordon will be okay. He’s lucky you arrived when you did.
 
 #### 211ecb88cb | BRUCE → ALFRED | x2
@@ -148,7 +151,7 @@ Commissioner Grogan wasn’t so lucky.
 #### 741012f06c | BRUCE → ALFRED | x2
 Neither were the people Harvey killed.
 
-#### f14544a821-LM | ALFRED → BRUCE | x2
+#### f14544a821 | ALFRED → BRUCE | x2
 You did all that you could.
 
 #### 53b50b9c62 | choice/UI → ALFRED | x2
@@ -160,10 +163,10 @@ He got what he deserved.
 #### 692bebb14f | choice/UI → ALFRED | x2
 I’ll make sure he gets help.
 
-#### efb3a85c98-SM | choice/UI → ALFRED | x2
+#### efb3a85c98 | choice/UI → ALFRED | x2
 He wasn’t the Harvey I knew.
 
-#### 9a9c19af33-SM | BRUCE → ALFRED | x2
+#### 9a9c19af33 | BRUCE → ALFRED | x2
 I put Harvey where he belongs.
 
 #### e886d2abb4 | ALFRED → BRUCE | x2
@@ -187,7 +190,7 @@ He’s not my concern right now.
 #### 428d35b92f | ALFRED → BRUCE, FAIRCHILD | x6
 Perhaps.
 
-#### 1154fc8ba3-SM | BRUCE → ALFRED | x2
+#### 1154fc8ba3 | BRUCE → ALFRED | x2
 But right now I’m worried about someone else...
 
 #### d429bc1c9c | BRUCE → LADYARKHAM | x2
@@ -208,7 +211,7 @@ Isn’t that your motorcycle, sir?
 #### 954dde0bf9 | BRUCE → LUCIUS | x4
 Lucius, where are you?
 
-#### f155c0a10f-SM | LUCIUS → BRUCE | x4
+#### f155c0a10f | LUCIUS → BRUCE | x4
 I was held up at the lab. Literally.
 
 #### 9b360afc78 | LUCIUS → BRUCE | x2
@@ -226,7 +229,7 @@ She’s on one of your bikes. The red one.
 #### d0335967bc | ALFRED → LUCIUS | x2
 Shall I get the car?
 
-#### ef58c94631-SM | LUCIUS → BRUCE | x2
+#### ef58c94631 | LUCIUS → BRUCE | x2
 I was held up at the lab. One of the prototype’s gone missing. I tracked it down to a gas station outside of town. The thief showed up on the cameras. [pause] Selina Kyle.
 
 #### b4d4ccbcbe | BRUCE → LUCIUS | x2
@@ -241,13 +244,13 @@ One more thing. She stole the Ducati.
 #### 028cac32cf | choice/UI → LUCIUS | x2
 It’s better forgotten.
 
-#### 84adce3f8f-SM | choice/UI → LUCIUS | x2
+#### 84adce3f8f | choice/UI → LUCIUS | x2
 I needed to protect Batman.
 
 #### 824048dfb8 | choice/UI → LUCIUS | x2
 I regret it.
 
-#### d8c2bdb752-SM | choice/UI | x2
+#### d8c2bdb752 | choice/UI | x2
 I had to stop Penguin.
 
 #### a020bfa7d6 | choice/UI | x2
@@ -274,9 +277,6 @@ I’m still here, she can’t be finished.
 #### b8f7786220 | choice/UI | x2
 She’s planning something...
 
-#### cd64345da5-L? | choice/UI | x2
-I hope you’re right.
-
 #### f2a5c1b69c | choice/UI | x2
 She must have a reason.
 
@@ -292,13 +292,13 @@ She’s messing with me.
 #### 3c2f4d0b45 | choice/UI → ALFRED | x2
 She’s teasing me.
 
-#### 1fb0dd3c75-LM | ALFRED → BRUCE | x4
+#### 1fb0dd3c75 | ALFRED → BRUCE | x4
 Thought you could use a bit of refreshment. You’ve been at it for a while.
 
-#### 0f72aefec9-SM | ALFRED → BRUCE | x2
+#### 0f72aefec9 | ALFRED → BRUCE | x2
 Your usual tea, and the entire pantry, I’m afraid, didn’t survive the fire. This is from my own personal supply.
 
-#### c06da76f53-SM | BRUCE → ALFRED | x2
+#### c06da76f53 | BRUCE → ALFRED | x2
 I’m honored.
 
 #### 01832be878 | ALFRED → BRUCE | x2
@@ -319,16 +319,16 @@ Well, we did need a new kitchen...
 #### ea681ba46d | BRUCE → ALFRED | x2
 Maybe add a lap pool.
 
-#### 7bc82821e3-SM | ALFRED → BRUCE | x2
+#### 7bc82821e3 | ALFRED → BRUCE | x2
 I quite liked the house the way it was...
 
 #### 5be8e7c68a | ALFRED → BRUCE | x2
 ...though, I suppose there is something to moving on.
 
-#### 868e71f79c-LM | BRUCE → ALFRED | x2
+#### 868e71f79c | BRUCE → ALFRED | x2
 On the bright side, you have always loved a good cleaning challenge.
 
-#### 58c22b9659-LM | ALFRED → BRUCE | x2
+#### 58c22b9659 | ALFRED → BRUCE | x2
 And you have always loved making a mess.
 
 #### d26fabfcad | ALFRED → BRUCE | x2
@@ -340,7 +340,7 @@ I’m only thirty years overdue.
 #### 227b3a32ea | BRUCE → ALFRED | x2
 Harvey left a lot of damage in his wake.
 
-#### e83996c0b4-LM | ALFRED → BRUCE | x2
+#### e83996c0b4 | ALFRED → BRUCE | x2
 You faced an impossible choice, Bruce.
 
 #### e76cb29d35 | ALFRED → BRUCE | x2
@@ -358,10 +358,10 @@ It would have crippled your ability to fight as Batman.
 #### 593cac29e3 | ALFRED → BRUCE | x2
 Batman would have been crippled, perhaps irrevocably.
 
-#### c681cdf936-SM | BRUCE → ALFRED | x2
+#### c681cdf936 | BRUCE → ALFRED | x2
 I needed to protect Batman, no matter the cost. Gotham needs him now more than ever.
 
-#### e74d254347-SM | BRUCE → ALFRED | x2
+#### e74d254347 | BRUCE → ALFRED | x2
 I put the cowl above everything else, including Gordon and the GCPD.
 
 #### c826cf5d01 | BRUCE → ALFRED | x2
@@ -373,13 +373,13 @@ Batman ended Penguin’s reign of terror. You can’t discount that.
 #### dcaf2cd47c | ALFRED → BRUCE | x2
 This city needs Batman.
 
-#### 48942121e6-SM | BRUCE → ALFRED | x2
+#### 48942121e6 | BRUCE → ALFRED | x2
 I had to stop Penguin. He would have destroyed everything: Batman, Wayne Enterprises, Gotham itself.
 
 #### a7b7a60937 | BRUCE → ALFRED | x2
 He had to be taken out.
 
-#### 9b5b43d31f-LM | ALFRED → BRUCE | x2
+#### 9b5b43d31f | ALFRED → BRUCE | x2
 ...you’ve ensured Harvey won’t be hurting anyone else.
 
 #### 9ee8b66f75 | ALFRED → BRUCE | x2
@@ -418,7 +418,7 @@ Fighting as Batman may prove more challenging for now...
 #### 14fc5f37fe | ALFRED → BRUCE | x2
 ...but your sacrifice had positive effects.
 
-#### 759c40bcfa-LM | ALFRED → BRUCE | x2
+#### 759c40bcfa | ALFRED → BRUCE | x2
 You stopped Harvey before he could do any more harm.
 
 #### 49f57b1ffd | ALFRED → BRUCE | x2
@@ -430,7 +430,7 @@ Surely that was worth the cost?
 #### 7e4ad0ba47 | BRUCE → ALFRED | x2
 The city needs good cops like Gordon to restore order.
 
-#### f10abb7354-SM | BRUCE → ALFRED | x2
+#### f10abb7354 | BRUCE → ALFRED | x2
 I’m only happy I could help him, whatever the cost.
 
 #### eeca1d2cee | BRUCE → ALFRED | x2
@@ -439,7 +439,7 @@ I’ll have my work cut out for me without my gadgets.
 #### ea0286735a | BRUCE | x2
 Plus, they’re really cool.
 
-#### 2ed0b288dd-SM | BRUCE → ALFRED | x2
+#### 2ed0b288dd | BRUCE → ALFRED | x2
 I had to stop Harvey.
 
 #### 907190ab17 | BRUCE → ALFRED | x2
@@ -472,7 +472,7 @@ The crimes he committed as Penguin erased any shred of loyalty that I once felt.
 #### ae1d38667c | ALFRED → BRUCE | x2
 A harsh assessment, but true.
 
-#### 53836022b6-SM | ALFRED → BRUCE | x2
+#### 53836022b6 | ALFRED → BRUCE | x2
 There seems to be nothing left of the boy I watched over as a child.
 
 #### f992df2c5d | BRUCE → ALFRED | x2
@@ -532,7 +532,7 @@ We can’t know what’s in the mind of a mad woman.
 #### d337696a28 | ALFRED → BRUCE | x2
 I worry about the toll these last few weeks have taken on you...
 
-#### b0000f3623-SM | BRUCE → ALFRED | x4
+#### b0000f3623 | BRUCE → ALFRED | x4
 Well, the one thing I’ve learned... I can only depend on myself.
 
 #### b13e9c5bb0 | BRUCE → ALFRED | x2
@@ -553,7 +553,7 @@ I know, Bruce, but...
 #### b94bb03f82 | BRUCE → ALFRED | x2
 She must have her reasons.
 
-#### c08b35b852-SM | BRUCE → ALFRED | x2
+#### c08b35b852 | BRUCE → ALFRED | x2
 I was just another mark to her.
 
 #### 22d85d8471 | BRUCE → ALFRED | x2
@@ -589,10 +589,10 @@ She has an unusual sense of humor.
 #### 74baa3a68a | BRUCE → ALFRED | x4
 Get the car ready, Alfred.
 
-#### 664a9acbbb-SM | BRUCE → ALFRED, PENGUIN | x4
+#### 664a9acbbb | BRUCE → ALFRED, PENGUIN | x4
 I think I need to get some answers from Selina.
 
-#### dd7cc25a9c-LM | ALFRED → BRUCE | x4
+#### dd7cc25a9c | ALFRED → BRUCE | x4
 You did what you had to do.
 
 #### ef568e0ffa | BRUCE → ALFRED | x2
@@ -631,7 +631,7 @@ She destroyed what was left of Vicki Vale when she murdered her parents.
 #### 5eca3f3137 | ALFRED → BRUCE | x2
 ...why would she do this?
 
-#### 0da8f8e639-SM | ALFRED → BRUCE | x2
+#### 0da8f8e639 | ALFRED → BRUCE | x2
 I’m sure she does.
 
 #### 3465538d87 | ALFRED → BRUCE | x2
@@ -694,7 +694,7 @@ The device she stole, it’s a prototype.
 #### 0873df99b8 | LUCIUS → ALFRED | x2
 It’s an upgraded version of the bat=computer’s hacking capabilities. A portable version.
 
-#### 5b763674f6-LM | LUCIUS, BRUCE → ALFRED | x4
+#### 5b763674f6 | LUCIUS, BRUCE → ALFRED | x4
 With it, you could hack into almost any system. It makes Swiss cheese out of state-of-the-art security.
 
 #### f4882a28d4 | ALFRED → LUCIUS | x2
@@ -703,7 +703,7 @@ That, combined with Catwoman’s considerable skills...
 #### cd1fe1c8b2 | ALFRED → LUCIUS | x2
 What could she be planning?
 
-#### 082da5a6c4-LM | LUCIUS → BRUCE | x2
+#### 082da5a6c4 | LUCIUS → BRUCE | x2
 With it, you could hack into almost any system. State-of-the-art security is child’s play to it.
 
 #### d7d5ffe927 | BRUCE → ALFRED | x2
@@ -772,7 +772,7 @@ The prototype she stole...
 #### 68d98aff3c | BRUCE → ALFRED | x2
 It’s an upgraded and portable version of the bat-computer’s hacking capabilities.
 
-#### 80851684b4-LM | BRUCE → ALFRED | x2
+#### 80851684b4 | BRUCE → ALFRED | x2
 With it, you could hack into almost any system. State-of-the-art security would be child’s play.
 
 #### bae1843834 | ALFRED → BRUCE | x2
@@ -799,7 +799,7 @@ Maybe that was defeat enough for her.
 #### 98b101a224 | ALFRED → BRUCE | x2
 She may have moved on.
 
-#### 4aeee0de2e-LM | ALFRED → BRUCE | x2
+#### 4aeee0de2e | ALFRED → BRUCE | x2
 But you won’t give up.
 
 #### 24ce13ee4f | ALFRED → BRUCE | x4
@@ -817,13 +817,13 @@ Don’t assume the worst.
 #### 15239d78b7 | choice/UI → ALFRED | x2
 What was that about trusting people?
 
-#### d6e9d83765-LM | BRUCE → ALFRED | x2
+#### d6e9d83765 | BRUCE → ALFRED | x2
 What was that you were saying? About trusting people?
 
-#### aaca9b395e-SM | ALFRED → BRUCE | x2
+#### aaca9b395e | ALFRED → BRUCE | x2
 I spoke too soon.
 
-#### 3544c34c5c-SM | BRUCE → ALFRED | x2
+#### 3544c34c5c | BRUCE → ALFRED | x2
 Selina and Lady Arkham weren’t exactly on the same team, last I checked.
 
 #### 12e21a931a | ALFRED → BRUCE | x2
@@ -886,10 +886,7 @@ Perhaps if you...?
 #### b7b63979af | ALFRED | x2
 Well...?
 
-#### 689d334c1b-L? | ALFRED | x2
-You’re disconnected from the primary network, but... some basic functionality seems to remain.
-
-#### 252f160403-L? | ALFRED | x2
+#### 252f160403 | ALFRED | x2
 Who knows what else Harvey might have done, had you not stopped him.
 
 #### 8acf839713 | ALFRED | x2
@@ -901,10 +898,10 @@ Well, you can’t have everything, Bruce.
 #### 8c7e21435a | ALFRED | x2
 Not only that...
 
-#### af20c8e9a0-L? | ALFRED | x2
+#### af20c8e9a0 | ALFRED | x2
 Yes. Well, I fear you’re right.
 
-#### f2812f4a04-L? | ALFRED | x2
+#### f2812f4a04 | ALFRED | x2
 You made the right choice. Besides...
 
 #### 6ae86c5d7f | ALFRED → BRUCE | x2
@@ -928,7 +925,7 @@ Besides, my feelings are the least of our concerns.
 #### bb047cc813 | BRUCE → ALFRED | x12
 But our work isn’t done...
 
-#### 5f33009017-LM | ALFRED → BRUCE | x2
+#### 5f33009017 | ALFRED → BRUCE | x2
 She lost her staunchest supporter when you defeated Penguin.
 
 #### 3eb2e9d379 | ALFRED → BRUCE | x2
@@ -940,7 +937,7 @@ There’s no time for that.
 #### 9144c45f83 | choice/UI → ALFRED | x2
 Make it quick.
 
-#### f1314ef79d-SM | choice/UI, BRUCE → ALFRED | x4
+#### f1314ef79d | choice/UI, BRUCE → ALFRED | x4
 I could use a break.
 
 #### f722b23e5e | ALFRED, choice/UI → BRUCE | x6
@@ -964,7 +961,7 @@ I can’t stop now.
 #### 70b344dac7 | choice/UI → ALFRED | x2
 [Victoria Arkham Reports]
 
-#### 6c5b4efb76-SM-LM | ALFRED → BRUCE | x2
+#### 6c5b4efb76 | ALFRED → BRUCE | x2
 I thought you could use a little refreshment.
 
 #### d4d2a6686e | ALFRED → BRUCE | x2
@@ -985,13 +982,13 @@ Harvey may be behind bars...
 #### c52809b3ea | ALFRED → BRUCE | x4
 Bruce, you’ve barely slept in days.
 
-#### bf4debaf5a-LM | ALFRED → BRUCE | x2
+#### bf4debaf5a | ALFRED → BRUCE | x2
 You need time to recover.
 
-#### da618d19bf-LM | ALFRED → BRUCE | x2
+#### da618d19bf | ALFRED → BRUCE | x2
 You’re wearing yourself down.
 
-#### 19ad192eb0-LM | ALFRED → BRUCE | x2
+#### 19ad192eb0 | ALFRED → BRUCE | x2
 You can’t save the city if you don’t take care of yourself.
 
 #### 65ed06c390 | ALFRED → BRUCE | x2
@@ -1006,7 +1003,7 @@ I don’t have time to rest, Alfred.
 #### 3d45a9f731 | BRUCE → ALFRED | x2
 She needs to be stopped.
 
-#### b35bc31668-LM | ALFRED → BRUCE | x2
+#### b35bc31668 | ALFRED → BRUCE | x2
 And we won’t be able to stop her if you work yourself to death.
 
 #### 33ebda4201 | BRUCE → ALFRED | x2
@@ -1018,7 +1015,7 @@ All right, all right... just for a moment.
 #### e637bba111 | ALFRED → BRUCE | x2
 At least take a moment...
 
-#### db982c9000-SM | BRUCE → ALFRED | x2
+#### db982c9000 | BRUCE → ALFRED | x2
 I was just thinking the same thing.
 
 #### 1968dfe429 | ALFRED → BRUCE | x2
@@ -1051,7 +1048,7 @@ If you indulge me...
 #### ea9a087b03 | ALFRED → BRUCE | x4
 Very well...
 
-#### 7d0f129482-SM | BRUCE → ALFRED | x2
+#### 7d0f129482 | BRUCE → ALFRED | x2
 I’m sorry, Alfred, but--
 
 #### 319da5c6d2 | ALFRED → BRUCE | x2
@@ -1063,7 +1060,10 @@ What do you suggest?
 #### 50bc934a89 | BRUCE → ALFRED | x2
 We need to figure out her next move.
 
-#### 10c2e9f692-LM | ALFRED → BRUCE | x2
+#### 10c2e9f692-LM | ALFRED → BRUCE | x4 | listener: male
+Now, you were saying?
+
+#### 10c2e9f692-L? | ALFRED → BRUCE | x4 | listener: unknown
 Now, you were saying?
 
 #### 94c2ba8f0f | BRUCE → ALFRED | x2
@@ -1087,7 +1087,7 @@ Everyone but me.
 #### b6ee8ba9f8 | ALFRED → BRUCE | x2
 She does seem determined to make you pay for your father’s crimes...
 
-#### 69773bd369-SM | BRUCE → ALFRED | x2
+#### 69773bd369 | BRUCE → ALFRED | x2
 And there’s no way she’s gonna let that rest. As long as I’m free, she’s not finished.
 
 #### e76da5ca8c | ALFRED → BRUCE | x2
@@ -1144,10 +1144,10 @@ Murderer of the Vales. Alter-ego of Lady Arkham. Leader of the Children of Arkha
 #### 51aa5e30eb | ALFRED → BRUCE | x4
 To think she was here in the manor. She gave nothing away of her true nature then.
 
-#### 6c7124cb01-SM | BRUCE → ALFRED | x2
+#### 6c7124cb01 | BRUCE → ALFRED | x2
 Vicki’s motives were never clear to me. The only thing I understood was her quest for the truth.
 
-#### c922b9c94a-SM | BRUCE → ALFRED | x2
+#### c922b9c94a | BRUCE → ALFRED | x2
 I had no idea how much she’d twisted that ideal.
 
 #### 055126fc38 | BRUCE → ALFRED | x2
@@ -1282,10 +1282,10 @@ She’s a skilled fighter as well. That staff of hers packs a real punch.
 #### ef498443af | ALFRED → BRUCE | x2
 One wonders where she got her hands on such a powerful weapon.
 
-#### bac2c04191-SM | BRUCE → ALFRED | x2
+#### bac2c04191 | BRUCE → ALFRED | x2
 I just need to find her.
 
-#### 65036437e8-SM | BRUCE → ALFRED | x2
+#### 65036437e8 | BRUCE → ALFRED | x2
 I’m ready now. I know what to expect. She won’t win again.
 
 #### 4ec0823959 | BRUCE → ALFRED | x2
@@ -1324,7 +1324,7 @@ It’s my responsibility to put an end to it.
 #### de22583c78 | BRUCE → ALFRED | x2
 Let’s see what Oswald was doing while he sat in my chair...
 
-#### 2c9a7c3be5-LM | ALFRED → BRUCE | x2
+#### 2c9a7c3be5 | ALFRED → BRUCE | x2
 Master Cobblepot’s sense of humor hasn’t changed much since you were boys.
 
 #### 0b7b8dbd53 | BRUCE → ALFRED | x2
@@ -1366,7 +1366,7 @@ His background is completely fabricated.
 #### ea6dae1ba1 | ALFRED → BRUCE | x2
 He was enrolled at... Cambridge?! Ridiculous!
 
-#### 3e62903610-SM | BRUCE → ALFRED | x2
+#### 3e62903610 | BRUCE → ALFRED | x2
 Calm down, Alfred. I’m sure the board realizes now that they were fooled.
 
 #### 861de9b320 | BRUCE → ALFRED | x2
@@ -1375,7 +1375,7 @@ Oswald manipulated my records as well.
 #### 4debdd6ea4 | ALFRED → BRUCE | x2
 It would appear your degree was in...  sociology?
 
-#### 5f4323f1e3-LM | ALFRED → BRUCE | x2
+#### 5f4323f1e3 | ALFRED → BRUCE | x2
 And after you graduated you had a rather unsavory [struggling to find the words] modeling career?
 
 #### ae3b3514e1 | BRUCE → ALFRED | x2
@@ -1393,7 +1393,7 @@ Indeed. [cringe] It appears he’s quite adept with image-editing software.
 #### 8984e02faf | BRUCE → ALFRED | x2
 It’s called Fine Art Photography, Alfred.
 
-#### a431d69eec-LM | ALFRED → BRUCE | x2
+#### a431d69eec | ALFRED → BRUCE | x2
 And after you graduated you had a... modeling career? In... [seeing a racy image] oh my...
 
 #### 10fa23fcf0 | BRUCE → ALFRED | x2
@@ -1603,7 +1603,7 @@ But there’s nothing her linking her to Children of Arkham activity directly.
 #### b5d30111a9 | BRUCE → ALFRED | x2
 Cambridge isn’t to blame.
 
-#### f2f8d3b6bc-SM | ALFRED → BRUCE | x2
+#### f2f8d3b6bc | ALFRED → BRUCE | x2
 I’m sorry Bruce...
 
 #### 00a365ac23 | BRUCE → ALFRED | x2
@@ -1615,7 +1615,7 @@ Unfortunately, I have to agree.
 #### e9f2c0a72c | BRUCE → ALFRED | x2
 That’s not important now. The past is the past.
 
-#### 025ee98b0f-SM | BRUCE → ALFRED | x2
+#### 025ee98b0f | BRUCE → ALFRED | x2
 I need to find Lady Arkham.
 
 #### 2bda1b6e06 | ALFRED → BRUCE | x2
@@ -1627,7 +1627,7 @@ I worry about the toll they’ve taken on you.
 #### 2610099faa | BRUCE → ALFRED | x2
 The only thing we do know is that she moved on from her plan to poison the city.
 
-#### ffb222fa65-SM | LUCIUS → BRUCE | x2
+#### ffb222fa65 | LUCIUS → BRUCE | x2
 I called it the Bat Key.
 
 #### 12b6d08de5 | BRUCE → LUCIUS | x2
@@ -1655,7 +1655,7 @@ And no doubt use that access for ill purposes...
 #### 13cbfe47e0 | ALFRED → BRUCE | x2
 He made you out to be a fraud.
 
-#### b688d5e6f1-LM | ALFRED → BRUCE | x2
+#### b688d5e6f1 | ALFRED → BRUCE | x2
 According to this you bought your college degree.
 
 #### c18f95f16a | BRUCE → ALFRED | x2
@@ -1667,7 +1667,7 @@ Computer, give me a visual.
 #### 1af744e210 | BRUCE → ALFRED | x2
 Computer, visual.
 
-#### bb461a5916-LM | BRUCE, LUCIUS → LUCIUS, BRUCE | x4
+#### bb461a5916 | BRUCE, LUCIUS → LUCIUS, BRUCE | x4
 With it, you could bypass any security system made by Wayne Tech.
 
 #### d758d2be39 | ALFRED → BRUCE | x2
@@ -1676,22 +1676,19 @@ Your administrative access to Wayne Enterprises should have been reinstated by n
 #### f1d2cd68fa | BRUCE → ALFRED | x2
 That should make this easier...
 
-#### 10c2e9f692-L? | ALFRED | x2
-Now, you were saying?
-
-#### b27de3c92e-SM | ALFRED → BRUCE | x4
+#### b27de3c92e | ALFRED → BRUCE | x4
 I blame myself, you know.
 
-#### 5b9a363dfe-SM | ALFRED → BRUCE | x8
+#### 5b9a363dfe | ALFRED → BRUCE | x8
 For what’s happened. I could have stopped it.
 
-#### 21fb52f463-SM | ALFRED → BRUCE | x8
+#### 21fb52f463 | ALFRED → BRUCE | x8
 I could have stopped Thomas.
 
 #### 284dd7503e | ALFRED | x2
 But you should know...
 
-#### e32754dba6-SM | ALFRED → BRUCE | x2
+#### e32754dba6 | ALFRED → BRUCE | x2
 I blame myself for what’s happened...
 
 #### 6c760efede | ALFRED → BRUCE | x2
@@ -1727,7 +1724,7 @@ Even what happened to Harvey...
 #### 8ddd02ba8c | BRUCE → ALFRED | x2
 I don’t blame you for what happened, Alfred.
 
-#### 5abc9d2f18-LM | BRUCE → ALFRED | x2
+#### 5abc9d2f18 | BRUCE → ALFRED | x2
 You did the best you could in an impossible situation.
 
 #### e247570622 | BRUCE → ALFRED | x2
@@ -1736,13 +1733,13 @@ And it helped to make me the man I am today.
 #### 9c627d684e | BRUCE → ALFRED | x2
 You couldn’t have stopped my father...
 
-#### 56e976fba1-LM | BRUCE → ALFRED | x2
+#### 56e976fba1 | BRUCE → ALFRED | x2
 ...and if you’d tried, he would have just killed you.
 
 #### 19b19fd873 | ALFRED → BRUCE | x2
 You’re probably right...
 
-#### 9c00841f9f-SM | BRUCE → ALFRED | x2
+#### 9c00841f9f | BRUCE → ALFRED | x2
 Besides, I need you now.
 
 #### 857570b801 | BRUCE → ALFRED | x2
@@ -1760,13 +1757,13 @@ Whose fault it is doesn’t matter, Alfred.
 #### 48632b8830 | BRUCE → ALFRED | x2
 What does, is that we stop them.
 
-#### 4be30a8662-SM | ALFRED | x2
+#### 4be30a8662 | ALFRED | x2
 And I failed.
 
 #### ff5362e13e | ALFRED | x2
 I suppose I shall have to carry that with me, for the rest of my life.
 
-#### 799ca965e0-SM | choice/UI → ALFRED | x4
+#### 799ca965e0 | choice/UI → ALFRED | x4
 I’m glad you didn’t kill him.
 
 #### f0f6797502 | choice/UI → ALFRED | x2
@@ -1787,25 +1784,25 @@ Vicki Vale Wayne Tech
 #### f2738e5422 | ALFRED | x2
 EVERYTHING that’s happened.
 
-#### 58afed4fce-L? | ALFRED | x2
+#### 58afed4fce | ALFRED | x2
 You told me once that you didn’t hold this against me...
 
 #### 79e358e38c | ALFRED | x2
 But. I wonder now, if perhaps you should.
 
-#### 87edfacfa7-SM | ALFRED | x2
+#### 87edfacfa7 | ALFRED | x2
 I told you, I nearly left--but then he and your mother died.
 
 #### 66f9ff321b | ALFRED → BRUCE | x2
 But now that I know the magnitude of all he did--of all the lives he destroyed, then and now.
 
-#### f433f0b28d-SM | ALFRED → BRUCE | x2
+#### f433f0b28d | ALFRED → BRUCE | x2
 I can’t help but wonder if maybe... I should have stopped him when I had the chance.
 
 #### 2eb4f6220e | ALFRED → BRUCE | x2
 Even if that meant doing the...unthinkable.
 
-#### 1c7632966b-LM | BRUCE → ALFRED | x2
+#### 1c7632966b | BRUCE → ALFRED | x2
 You could have done something. And if you had, things might be different now.
 
 #### bc040d0ca0 | BRUCE → ALFRED | x2
@@ -1817,19 +1814,19 @@ It’s a burden I’ll carry with me, for the rest of my life.
 #### 523fa8aee0 | ALFRED → BRUCE | x2
 And I’ll carry it with me, for the rest of my life.
 
-#### 95f1a5328c-SM | ALFRED → BRUCE | x4
+#### 95f1a5328c | ALFRED → BRUCE | x4
 Everything that happened... I could have stopped it.
 
 #### 6435bda105 | ALFRED → BRUCE | x4
 This, this is my fault. All of it!
 
-#### d56582d842-SM | ALFRED → BRUCE | x4
+#### d56582d842 | ALFRED → BRUCE | x4
 I told you I wanted to leave.
 
-#### 55fea139a6-SM | ALFRED → BRUCE | x4
+#### 55fea139a6 | ALFRED → BRUCE | x4
 But if only I had the guts to do something instead.
 
-#### 8b9337cca2-SM | ALFRED → BRUCE | x4
+#### 8b9337cca2 | ALFRED → BRUCE | x4
 If I’d stopped Thomas--
 
 #### 24a6aa6c22 | ALFRED | x2
@@ -1841,13 +1838,13 @@ Even Harvey...
 #### 19be8dcc8f | ALFRED → BRUCE | x2
 I’ll have to carry that with me for the rest of my life.
 
-#### ebc107c98b-LM | ALFRED → BRUCE | x4
+#### ebc107c98b | ALFRED → BRUCE | x4
 You even forgave me for it...
 
-#### a5fc67f6d9-SM | BRUCE → ALFRED | x2
+#### a5fc67f6d9 | BRUCE → ALFRED | x2
 I’m glad you didn’t try to stop him.
 
-#### 8c4aa04ae2-LM | BRUCE → ALFRED | x2
+#### 8c4aa04ae2 | BRUCE → ALFRED | x2
 You would have had to kill him, and become a murderer yourself.
 
 #### 218c28b345 | BRUCE → ALFRED | x2
@@ -1979,7 +1976,7 @@ All to find...
 #### 88a5e336fe | BRUCE → ALFRED | x2
 This record isn’t complete.
 
-#### f5aaf55df5-LM | ALFRED → BRUCE | x2
+#### f5aaf55df5 | ALFRED → BRUCE | x2
 You’re right. There are notable gaps between entries.
 
 #### 998207fb8c | ALFRED → BRUCE | x2
@@ -2060,7 +2057,7 @@ All mention of her birth name, “Victoria Arkham,“ is completely gone.
 #### 8f66141cfe | ALFRED → BRUCE | x2
 But, I have.
 
-#### a1ea40ebe5-SM | ALFRED → BRUCE | x2
+#### a1ea40ebe5 | ALFRED → BRUCE | x2
 I told you I wanted to leave your father’s employ.
 
 #### 36307923aa | ALFRED → BRUCE | x2
@@ -2090,7 +2087,7 @@ And she used Oswald’s CEO access to hide it.
 #### 7a0436fb52 | BRUCE → ALFRED | x2
 She may have left clues about why she wanted Oswald’s access.
 
-#### f0f54f7634-LM | ALFRED → BRUCE | x2
+#### f0f54f7634 | ALFRED → BRUCE | x2
 You’re right, sir.
 
 #### db0d6d9887 | choice/UI → ALFRED | x2
@@ -2167,7 +2164,7 @@ You can do whatever you want to me, but Lady Arkham’s plans are already in mot
 #### 8bd2cd3c6e | ALFRED → OSWALD, PENGUIN | x2
 Your mother, she wanted that -- wanted to put an end to his crimes.
 
-#### 56c9d56454-SM | ALFRED → OSWALD, PENGUIN | x2
+#### 56c9d56454 | ALFRED → OSWALD, PENGUIN | x2
 If I’d helped her--
 
 #### 39c286e206 | ALFRED → PENGUIN | x2
@@ -2176,7 +2173,7 @@ She had nothing to do with it.
 #### 035c88deb9 | ALFRED → BRUCE | x2
 In fact, once she learned what Thomas was doing she did her best to put an end to it.
 
-#### 0b724ea74e-SM | ALFRED → BRUCE | x2
+#### 0b724ea74e | ALFRED → BRUCE | x2
 Perhaps if I’d helped her...
 
 #### be49795653 | ALFRED → BRUCE | x2
@@ -2191,7 +2188,7 @@ Most of my tech isn’t working. It’s going to take time to get everything up 
 #### 39dac8355b | BRUCE → ALFRED | x2
 Well, at least the batcomputer’s still working, despite Penguin’s best efforts.
 
-#### 834eac6833-SM | BRUCE → ALFRED | x2
+#### 834eac6833 | BRUCE → ALFRED | x2
 It’s a good thing I stopped him when I did.
 
 #### d96b681ccf | ALFRED → BRUCE | x2

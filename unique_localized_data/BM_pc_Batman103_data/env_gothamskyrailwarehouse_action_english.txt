@@ -7,10 +7,10 @@ Nothing suspicious yet.
 #### 99e01caf91 | choice/UI | x2
 Just a bunch of trains.
 
-#### 9678667dff-SM | choice/UI | x2
+#### 9678667dff | choice/UI | x2
 I’m sorry about the debate.
 
-#### 8b727948e7-SM-L? | choice/UI | x2
+#### 8b727948e7 | choice/UI | x2
 I’m so glad you’re okay.
 
 #### 370062f9f4 | choice/UI | x2
@@ -19,13 +19,13 @@ TEMP: Flirty
 #### b5472c9c88 | choice/UI | x2
 It’s been chaos out there.
 
-#### 2ab1cdf49e-SM | choice/UI | x2
+#### 2ab1cdf49e | choice/UI | x2
 I’ve missed you.
 
 #### 2f1d858d3f | choice/UI | x2
 Harvey is worried about you.
 
-#### 96ab18f308-SM | choice/UI | x2
+#### 96ab18f308 | choice/UI | x2
 I’ve got to stop them.
 
 #### 268e3a779f | choice/UI | x2
@@ -46,7 +46,7 @@ Help me!
 #### 51341fd5b8 | choice/UI | x2
 No, I’m not OK.
 
-#### b5fb71bf7a-SM | choice/UI | x2
+#### b5fb71bf7a | choice/UI | x2
 I told you to go after her.
 
 #### 9d8313580e | choice/UI → CATWOMAN | x2
@@ -61,7 +61,7 @@ Set Explosive Charge
 #### 7eb53196c1 | choice/UI → CATWOMAN | x2
 You back to normal?
 
-#### 2014c73556-SF-LF | CATWOMAN → LADYARKHAM | x4
+#### 2014c73556 | CATWOMAN → LADYARKHAM | x4
 (OS) If I’d known you were going to make me lug this thing all the way inside, I would’ve worn more comfortable shoes...
 
 #### 43fd4cfe2b | LADYARKHAM, REGINA → CATWOMAN, ALFRED | x11
@@ -82,7 +82,7 @@ I don’t get nervous.
 #### 24ab6bb49e | CATWOMAN → LADYARKHAM | x2
 And before you go for the obvious joke -- it hasn’t gotten me killed yet, has it?
 
-#### 96e55b94ae-LF | LADYARKHAM → CATWOMAN | x4
+#### 96e55b94ae | LADYARKHAM → CATWOMAN | x4
 Nothing you need{AngryB} to worry about.
 
 #### 06d3798a74 | CATWOMAN → LADYARKHAM | x4
@@ -109,7 +109,7 @@ You haven’t stopped running your mouth since we picked you up.
 #### a703c78430 | LADYARKHAM → CATWOMAN | x2
 Sometimes less is more, you know.
 
-#### 6810f64119-SF-LF | CATWOMAN → LADYARKHAM | x2
+#### 6810f64119 | CATWOMAN → LADYARKHAM | x2
 Hey -- if I’d known you were going to hustle me into a van and come all the way out here, I would’ve brushed up on a couple of conversation topics.
 
 #### cd0ab0ada3 | LADYARKHAM → CATWOMAN | x2
@@ -154,7 +154,7 @@ You can still be on the right side of this war. And make no mistake about it: th
 #### 19766d0258 | CATWOMAN → LADYARKHAM | x2
 Yeah, well. Thanks, but no thanks.
 
-#### ab9d7d1d84-SF-LF | CATWOMAN → LADYARKHAM | x2
+#### ab9d7d1d84 | CATWOMAN → LADYARKHAM | x2
 You said if I did this for you, we’d be square. So: are we?
 
 #### 6837b4c672 | LADYARKHAM → CATWOMAN | x2
@@ -181,10 +181,10 @@ No, no, no, no.
 #### 034e7a3ba2 | LADYARKHAM → CATWOMAN | x2
 The deal’s off!
 
-#### 42326422a1-LF | CATWOMAN → LADYARKHAM | x2
+#### 42326422a1 | CATWOMAN → LADYARKHAM | x2
 What? No, you promised­­
 
-#### f6fb75bffc-LF | LADYARKHAM → CATWOMAN | x2
+#### f6fb75bffc | LADYARKHAM → CATWOMAN | x2
 You promised you’d come alone.
 
 #### db842cd224 | CATWOMAN → LADYARKHAM | x2
@@ -205,7 +205,7 @@ It is a coincidence.
 #### 23258026cb | choice/UI → LADYARKHAM | x2
 Catwoman played us both.
 
-#### 1bbf5c70c6-SM | BATMAN → LADYARKHAM | x2
+#### 1bbf5c70c6 | BATMAN → LADYARKHAM | x2
 She didn’t lead me here. I tracked you myself.
 
 #### d745615747 | LADYARKHAM → BATMAN | x2
@@ -214,7 +214,7 @@ Don’t lie to me! I know you two have been running around together.
 #### bbcd9829d0 | BATMAN → LADYARKHAM | x2
 You’re not the only one she’s tricked.
 
-#### 4db5b0a8b9-SF | LADYARKHAM → BATMAN | x2
+#### 4db5b0a8b9 | LADYARKHAM → BATMAN | x2
 I heard you two had been running around together. What, is there trouble in paradise?
 
 #### ca83fba68b | BATMAN → LADYARKHAM | x2
@@ -226,19 +226,19 @@ No. This is between me and this cesspool of a city.
 #### 77210c2216 | choice/UI → LADYARKHAM | x2
 Of course she  led me here.
 
-#### 4a23842d95-SF | LADYARKHAM → CATWOMAN | x2
+#### 4a23842d95 | LADYARKHAM → CATWOMAN | x2
 I heard you two had been running around together.
 
 #### db9183e5b0 | CATWOMAN → LADYARKHAM | x2
 He’s not involved.
 
-#### 2dc65572b8-LF | LADYARKHAM → CATWOMAN | x2
+#### 2dc65572b8 | LADYARKHAM → CATWOMAN | x2
 Though I suppose I should be thanking you, Catwoman. You brought the Bat straight to my front door.
 
 #### 81937d7fa0 | CATWOMAN → LADYARKHAM | x2
 My mistake, I promise you.
 
-#### f524d6ea39-SF | LADYARKHAM → BATMAN | x2
+#### f524d6ea39 | LADYARKHAM → BATMAN | x2
 I’ve heard so much about you, Batman.
 
 #### ab8c3a2aee | choice/UI → LADYARKHAM | x4
@@ -286,7 +286,7 @@ I protect this city from those who want to destroy it.
 #### 585dc77bd4 | LADYARKHAM → BATMAN | x2
 Sometimes the only way to save something is to let it die and start over again.
 
-#### 854cff72d4-SF | LADYARKHAM → BATMAN | x2
+#### 854cff72d4 | LADYARKHAM → BATMAN | x2
 See? You know I’m right. You can’t even defend your precious Gotham.
 
 #### 71023a2839 | LADYARKHAM → BATMAN | x2
@@ -334,7 +334,7 @@ They could cover entire neighborhoods in minutes.
 #### ed842f5343 | BATMAN → ALFRED | x2
 They’ve installed storage tanks to feed the sprinklers.
 
-#### 83065002c5-SM | ALFRED → BATMAN | x2
+#### 83065002c5 | ALFRED → BATMAN | x2
 It’s worse than I feared.
 
 #### 1b549bbd55 | BATMAN → ALFRED | x2
@@ -349,7 +349,7 @@ Let’s blow their plan to hell.
 #### 9c8d8d421e | BATMAN → ALFRED | x2
 Let’s blow their plan apart.
 
-#### 5ccb9a5585-SF-LM | CATWOMAN → BATMAN, ALFRED | x4
+#### 5ccb9a5585 | CATWOMAN → BATMAN, ALFRED | x4
 If I’d known{AngryA} you were going to make me{DisgustA} lug this thing myself, I would have worn more comfortable {SarcasticA}shoes.
 
 #### 85af2ff780 | BATMAN → ALFRED | x4
@@ -400,7 +400,10 @@ Stop--
 #### 073490b45d | CATWOMAN → LADYARKHAM | x2
 --talking? See. We even finish each other’s sentences.
 
-#### ac36dd4fc6-LF | ALFRED → CATWOMAN | x2
+#### ac36dd4fc6-LF | ALFRED → CATWOMAN, BATMAN | x4 | listener: female
+Have you found out what they’re up to?
+
+#### ac36dd4fc6-LM | ALFRED → CATWOMAN, BATMAN | x4 | listener: male
 Have you found out what they’re up to?
 
 #### 7e00f45514 | ALFRED → BATMAN, BRUCE | x6
@@ -412,7 +415,7 @@ Wait... several individuals are approaching the building.
 #### d97c0adf58 | BATMAN → ALFRED | x2
 It buys me some time to check the building.
 
-#### d40a727ca6-LM | ALFRED → BATMAN | x2
+#### d40a727ca6 | ALFRED → BATMAN | x2
 Just so long as you don’t check yourself into a trap.
 
 #### 5430d4b48f | CATWOMAN → BATMAN | x2
@@ -472,7 +475,7 @@ There are still good people in Gotham. They deserve to be protected.
 #### 922714d9fb | LADYARKHAM → BATMAN | x4
 Soon the masquerade will be over.
 
-#### 44c554086f-SF | LADYARKHAM → BATMAN | x2
+#### 44c554086f | LADYARKHAM → BATMAN | x2
 Out of all the people in this cesspool of a city, I thought you two would understand.
 
 #### 6638a4585d | LADYARKHAM → BATMAN | x2
@@ -499,7 +502,7 @@ Batman! Look out!
 #### a1496e1528 | LADYARKHAM → BATMAN | x2
 The darkness doesn’t scare me, Batman.
 
-#### b8ccae8ff1-SF | LADYARKHAM → CATWOMAN | x2
+#### b8ccae8ff1 | LADYARKHAM → CATWOMAN | x2
 Not bad. I was beginning to think you didn’t have it in you.
 
 #### bccbdeb0a8 | LADYARKHAM → CATWOMAN | x2
@@ -517,7 +520,7 @@ Let me go!
 #### f00ebfd0e3 | CATWOMAN → LADYARKHAM | x2
 Don’t. Ever. Touch. Me. Again.
 
-#### 1454f9d139-LF | LADYARKHAM → CATWOMAN | x2
+#### 1454f9d139 | LADYARKHAM → CATWOMAN | x2
 First you were an annoyance... then a distraction...
 
 #### 2cce4fc42b | LADYARKHAM → CATWOMAN | x2
@@ -526,7 +529,7 @@ Now you’re destroying our work. We can’t allow that behavior to continue.
 #### 7712b8c48a | LADYARKHAM → CATWOMAN | x2
 Maybe a little shock therapy will cure it.
 
-#### 7302a2ac28-LF | LADYARKHAM → CATWOMAN | x2
+#### 7302a2ac28 | LADYARKHAM → CATWOMAN | x2
 All this could have been avoided if you joined us.
 
 #### ac9d780be2 | LADYARKHAM → BATMAN | x2
@@ -559,7 +562,7 @@ What’s it doing here?
 #### 5b68c891c4 | BATMAN → LADYARKHAM | x2
 Using the cars to transport it maybe... hard to tell for sure.
 
-#### c826556dbb-SM | BATMAN → ALFRED | x4
+#### c826556dbb | BATMAN → ALFRED | x4
 Not yet. I’m not{AngryB} finished looking around.
 
 #### fb67eb4a33 | BATMAN → ALFRED | x4
@@ -619,10 +622,10 @@ Enough for every train in Gotham.
 #### fbc3c9c77a | LADYARKHAM → CATWOMAN | x2
 Do you always talk this much when you’re nervous?
 
-#### d66ae43e15-SF-LM | CATWOMAN → BATMAN, ALFRED | x4
+#### d66ae43e15 | CATWOMAN → BATMAN, ALFRED | x4
 Hey, you wanted me to steal{SarcasticA} a thing; I stole the thing.
 
-#### 3d0a37f061-SF-LF | CATWOMAN → LADYARKHAM | x4
+#### 3d0a37f061 | CATWOMAN → LADYARKHAM | x4
 He has {AngryB}nothing to do with our agreement--I{FearA} did what you asked!
 
 #### 70829a3101 | CATWOMAN → LADYARKHAM, BATMAN | x4
@@ -727,13 +730,13 @@ Get used to it.
 #### 62250eaae3 | LADYARKHAM → BATMAN | x2
 Slipping into old habits again, are we?
 
-#### 047f8aa5a6-SM | ALFRED → LADYARKHAM, BATMAN | x4
+#### 047f8aa5a6 | ALFRED → LADYARKHAM, BATMAN | x4
 I thought they were after her.
 
 #### 087afb30ff | BATMAN → LADYARKHAM | x4
 Yeah{AngryB} me too.
 
-#### 71abc8b9cb-SM | BATMAN → LADYARKHAM | x4
+#### 71abc8b9cb | BATMAN → LADYARKHAM | x4
 I’ve got an idea.
 
 #### 707005bda9 | LADYARKHAM → BATMAN | x4
@@ -760,7 +763,7 @@ No{ConfusedA} no no {AngryB}no no. There’s no part{DisgustA} two of this.
 #### abdce880e9 | LADYARKHAM → CATWOMAN | x4
 You {AngryB}don’t want to walk {ConcernedA}away from me.
 
-#### 97dcef6d38-SF-LF | CATWOMAN → LADYARKHAM | x4
+#### 97dcef6d38 | CATWOMAN → LADYARKHAM | x4
 I got you{DoubtfulA} what you wanted. {AngryA}I’m done.
 
 #### 53b0fca05b | CATWOMAN → LADYARKHAM | x4
@@ -772,7 +775,7 @@ We{ThinkingA} have more to talk about.
 #### 6caaa85908 | LADYARKHAM → CATWOMAN | x4
 Your{AngryA} future for one thing.
 
-#### 36efcdd71e-SF | CATWOMAN → LADYARKHAM | x4
+#### 36efcdd71e | CATWOMAN → LADYARKHAM | x4
 I’m {DoubtfulA}not interested in a guidance {SarcasticB}counselor, thanks.
 
 #### bc32f6f11f | CATWOMAN → LADYARKHAM | x4
@@ -790,7 +793,7 @@ You’re{AngryA} stalling.
 #### a0779a9349 | CATWOMAN → LADYARKHAM | x4
 So are {AngryB}we good or not?
 
-#### 560c93880b-SF | CATWOMAN → LADYARKHAM | x4
+#### 560c93880b | CATWOMAN → LADYARKHAM | x4
 I’ve got{AngryA} places to be.
 
 #### 3c4ea1ec57 | LADYARKHAM → CATWOMAN | x4
@@ -802,10 +805,10 @@ You can{AngryA} leave when the{AngryB} job is done.
 #### 24b4c70bcf | CATWOMAN → LADYARKHAM | x4
 I think{MockingA} I’ll stand.
 
-#### 4c2228265e-SF | LADYARKHAM → CATWOMAN | x4
+#### 4c2228265e | LADYARKHAM → CATWOMAN | x4
 I thought{AmusedA} your feet {AmusedB}were tired.
 
-#### d5e55ebb54-LF | LADYARKHAM → CATWOMAN | x4
+#### d5e55ebb54 | LADYARKHAM → CATWOMAN | x4
 But {AngryB}suit yourself.
 
 #### 890e61a6d0 | LADYARKHAM → CATWOMAN | x2
@@ -817,7 +820,7 @@ Just add it to the list of your mistakes.
 #### 08ccbeabca | LADYARKHAM → CATWOMAN | x4
 Must be why you didn’t come through on your last assignment.
 
-#### fd13f27311-SF | LADYARKHAM → CATWOMAN | x4
+#### fd13f27311 | LADYARKHAM → CATWOMAN | x4
 I knew you’d just{AngryB} disappoint me again.
 
 #### bf670aca57 | LADYARKHAM → CATWOMAN | x4
@@ -877,7 +880,7 @@ Those “good people” will get{AngryA} exactly what they deserve soon enough.
 #### eec6c98f46 | LADYARKHAM → COA02 | x4
 Just like{AngryB} Hill and Falcone before them.
 
-#### 4ee0338b7a-L? | LADYARKHAM → COA02 | x4
+#### 4ee0338b7a | LADYARKHAM → COA02 | x4
 Too bad you won’t {AngryA}be around to witness it.
 
 #### f393c53058 | LADYARKHAM → COA02 | x4
@@ -925,7 +928,10 @@ Take this. I’ll distract them.
 #### fd32edae01 | COA02 → LADYARKHAM | x4
 Train’s ready! Move out!
 
-#### 7a3d348708-LF | LADYARKHAM → CATWOMAN | x2
+#### 7a3d348708-LF | LADYARKHAM → CATWOMAN, BATMAN | x4 | listener: female
+Don’t get ahead of yourself.
+
+#### 7a3d348708-LM | LADYARKHAM → CATWOMAN, BATMAN | x4 | listener: male
 Don’t get ahead of yourself.
 
 #### 6c89497d9e | LADYARKHAM → CATWOMAN, BATMAN | x4
@@ -952,16 +958,16 @@ Gotham is mine!
 #### 7b685d9f9c | LADYARKHAM → BATMAN | x2
 You might as well come out, Batman. I know you’re here.
 
-#### 48f3e2e4f8-SF | CATWOMAN → LADYARKHAM | x2
+#### 48f3e2e4f8 | CATWOMAN → LADYARKHAM | x2
 No, no way. I did [stress]not bring him here.
 
-#### 41ad918b41-SF | CATWOMAN → LADYARKHAM | x2
+#### 41ad918b41 | CATWOMAN → LADYARKHAM | x2
 I honored our deal!
 
-#### 7f48b1888f-LF | LADYARKHAM → CATWOMAN | x2
+#### 7f48b1888f | LADYARKHAM → CATWOMAN | x2
 Oh, I know you did. But now you’re a loose end.
 
-#### b34ea765d2-SF-LF | CATWOMAN → LADYARKHAM | x2
+#### b34ea765d2 | CATWOMAN → LADYARKHAM | x2
 I did everything you said.
 
 #### 1484b88ce2 | LADYARKHAM → BATMAN | x2
@@ -970,7 +976,7 @@ Surrender. Unless you’d like to see first-hand what a lethal dose looks like.
 #### 312151e381 | BATMAN → LADYARKHAM | x2
 It’s over. I know what you’re trying to do.
 
-#### 2f5a25d3af-LF | BATMAN → CATWOMAN | x2
+#### 2f5a25d3af | BATMAN → CATWOMAN | x2
 I know what you have planned with the skyrail.
 
 #### fb6f68556f | BATMAN → LADYARKHAM | x2
@@ -1012,7 +1018,7 @@ Really know how to wine and dine a gal, don’t’cha, bats.
 #### 5d6258c3b8 | CATWOMAN → LADYARKHAM | x2
 Leave it to the lady to rescue herself.
 
-#### 3f99020a54-SF | LADYARKHAM → CATWOMAN | x2
+#### 3f99020a54 | LADYARKHAM → CATWOMAN | x2
 Or I could leave her a vegetable.
 
 #### e88a38eaa4 | LADYARKHAM → CATWOMAN | x2
@@ -1051,7 +1057,7 @@ Seems like we did.
 #### 22fb768559 | LADYARKHAM → CATWOMAN | x2
 Seems like we caught ourselves a bat.
 
-#### 3dd30d21c6-SF | LADYARKHAM → COA02 | x2
+#### 3dd30d21c6 | LADYARKHAM → COA02 | x2
 And here I’d heard you spoken of with such high regard.
 
 #### 091d7988e2 | LADYARKHAM → CATWOMAN | x2
@@ -1084,16 +1090,16 @@ You’re here to do a job. Do it.
 #### e5209e6cf1 | LUCIUS, LADYARKHAM → BATMAN, CATWOMAN | x6
 Careful!
 
-#### e56aa49600-LF | CATWOMAN → LADYARKHAM | x2
+#### e56aa49600 | CATWOMAN → LADYARKHAM | x2
 You want it done right, you better do it yourself.
 
-#### e26c7fd1e1-SF | LADYARKHAM → CATWOMAN | x2
+#### e26c7fd1e1 | LADYARKHAM → CATWOMAN | x2
 No! I told you, over there!
 
 #### d1a3e70216 | CATWOMAN → LADYARKHAM | x2
 Yeah, yeah.
 
-#### 882676999d-LM | LADYARKHAM → BATMAN | x2
+#### 882676999d | LADYARKHAM → BATMAN | x2
 You tried so hard, Batman, but your time in Gotham is done.
 
 #### d7b9b01a5f | CATWOMAN → LADYARKHAM | x2
@@ -1102,16 +1108,22 @@ Butterfingers, sorry.
 #### 657cd77105 | CATWOMAN → LADYARKHAM | x2
 It’s not exactly light, you know.
 
-#### 1791e9b1f6-SM | BATMAN → CATWOMAN | x2
+#### 1791e9b1f6 | BATMAN → CATWOMAN | x2
 I’ll be done when I’m dead.
 
 #### 87bc22d239 | LADYARKHAM → CATWOMAN | x2
 So gallant, but that can be arrang--[ed]!
 
-#### 49224698f4-LM | CATWOMAN → BATMAN | x2
+#### 49224698f4-LM | CATWOMAN → LADYARKHAM, BATMAN | x6 | listener: male
 A thank you would be nice!
 
-#### ba09d9ddc5-LM | CATWOMAN → BATMAN | x2
+#### 49224698f4-LF | CATWOMAN → LADYARKHAM, BATMAN | x6 | listener: female
+A thank you would be nice!
+
+#### ba09d9ddc5-LM | CATWOMAN → LADYARKHAM, BATMAN | x6 | listener: male
+A thank you would be nice.
+
+#### ba09d9ddc5-LF | CATWOMAN → LADYARKHAM, BATMAN | x6 | listener: female
 A thank you would be nice.
 
 #### 206cd19fbd | BATMAN → CATWOMAN | x2
@@ -1120,13 +1132,7 @@ Catwoman! Please!
 #### b412c545bd | LADYARKHAM → CATWOMAN | x2
 You think she’s going to help? Catwoman’s in debt to--[me.]
 
-#### 49224698f4-LF | CATWOMAN → LADYARKHAM | x4
-A thank you would be nice!
-
-#### ba09d9ddc5-LF | CATWOMAN → LADYARKHAM | x4
-A thank you would be nice.
-
-#### 468ef416bb-SF | CATWOMAN → LADYARKHAM | x2
+#### 468ef416bb | CATWOMAN → LADYARKHAM | x2
 I’ve said it before, I don’t like debts.
 
 #### a35b6027ef | LADYARKHAM → CATWOMAN | x4
@@ -1147,7 +1153,7 @@ It’s funny. You don’t even realize... Gotham is mine!
 #### aa50e20cf2 | LADYARKHAM → CATWOMAN | x2
 Such brave wor--[ds].
 
-#### 762b0c3144-SF | CATWOMAN → LADYARKHAM | x2
+#### 762b0c3144 | CATWOMAN → LADYARKHAM | x2
 You know, [stress]I thought it was pretty brave.
 
 #### 886f90a950 | LADYARKHAM → CATWOMAN | x2
@@ -1168,10 +1174,10 @@ Get him!
 #### 5dc19e0306 | CATWOMAN | x2
 Get them!
 
-#### 4ca6424575-SF | CATWOMAN | x2
+#### 4ca6424575 | CATWOMAN | x2
 I’ve got this!
 
-#### db1b0e8d59-SF | CATWOMAN | x2
+#### db1b0e8d59 | CATWOMAN | x2
 I’m fine!
 
 #### fc2bbbf6be | CATWOMAN, LADYARKHAM, GCPD01 → GCPD02 | x6

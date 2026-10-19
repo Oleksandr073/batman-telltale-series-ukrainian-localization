@@ -1,4 +1,4 @@
-﻿#### ed20f965a7-SM | choice/UI → ALFRED | x4
+﻿#### ed20f965a7 | choice/UI → ALFRED | x4
 I get why people think I’m involved.
 
 #### 54c0ebfde5 | choice/UI → ALFRED | x4
@@ -19,13 +19,13 @@ We need to move on.
 #### ddc325b622 | choice/UI | x4
 Of course I forgive you.
 
-#### bac94d2589-SM | choice/UI | x4
+#### bac94d2589 | choice/UI | x4
 I wish that I could...
 
 #### 5eb1891d85 | choice/UI | x2
 I have to speak to Lucius.
 
-#### 09244a784a-SM | choice/UI | x2
+#### 09244a784a | choice/UI | x2
 I can find out for myself.
 
 #### 9b13fb265b | choice/UI | x2
@@ -97,7 +97,7 @@ Then who does?
 #### 3d5f43506e | choice/UI | x2
 I’ve been hard on you.
 
-#### 7ce0910508-L? | choice/UI | x2
+#### 7ce0910508 | choice/UI | x2
 You need to move on.
 
 #### 31bac69edd | choice/UI | x2
@@ -115,37 +115,37 @@ Wake up.
 #### 1df444d3e6 | ALFRED → BRUCE | x2
 They’re bloodsuckers, Master Bruce. There’s no stopping them from kicking a good man when he’s down.
 
-#### 45525b99ee-LM | ALFRED → BRUCE | x2
+#### 45525b99ee | ALFRED → BRUCE | x2
 If only they knew the sacrifices you’ve made for them...
 
-#### 25109bacd0-SM | BRUCE → ALFRED | x2
+#### 25109bacd0 | BRUCE → ALFRED | x2
 I get why people think I’m involved. It’s my name, my company. In their eyes, I’ve betrayed their trust. My whole family has.
 
-#### d79631e126-SM | ALFRED → BRUCE | x2
+#### d79631e126 | ALFRED → BRUCE | x2
 None of this is your fault, Master Bruce. Don’t take it to heart. I had hoped for so long that we---that *I*… had buried the past. But now you have to deal with others’ mistakes.
 
 #### 6b7d26e585 | BRUCE → ALFRED | x2
 I don’t deserve this. I’ve been lied to my whole life. All I’ve ever done is serve Gotham.
 
-#### 328fdddc59-SM | ALFRED → BRUCE | x2
+#### 328fdddc59 | ALFRED → BRUCE | x2
 It should be me who has to deal with the fallout, not you. It’s not fair. If only I had been more honest with you, maybe we could have prevented this.
 
 #### 7a92506403 | BRUCE → ALFRED | x2
 I understand why this is news… But how can they implicate me? I’ve done nothing wrong, and nothing to them especially.
 
-#### 626ba35048-SM | ALFRED → BRUCE | x2
+#### 626ba35048 | ALFRED → BRUCE | x2
 I understand what you must be feeling, Master Bruce. I would give anything to take the blame away from you and put it on myself. Where it belongs.
 
-#### 7ea5c02a7f-SM | ALFRED → BRUCE | x2
+#### 7ea5c02a7f | ALFRED → BRUCE | x2
 Don’t take this to heart, Master Bruce. None of this was your doing. I can’t help but wonder if I could have spared you from this, somehow.
 
-#### 9afa68f57c-SM | ALFRED → BRUCE | x2
+#### 9afa68f57c | ALFRED → BRUCE | x2
 Even when I thought I was doing right, letting the past stay in the past, it crept back to find us. I see now that it was a mistake to hide the truth from you. But I should have done more while your parents were alive to set things right.
 
-#### 3d04ecfdd1-SM | BRUCE → ALFRED | x2
+#### 3d04ecfdd1 | BRUCE → ALFRED | x2
 No, Alfred. You can’t take the blame for what my parents did. And I’m sorry I’ve been so hard on you. This hasn’t been easy for you, either.
 
-#### dbad991463-SM | ALFRED → BRUCE | x2
+#### dbad991463 | ALFRED → BRUCE | x2
 Not to be a big softie, Master Bruce… but I’m proud of you. More than I can say.
 
 #### 6d84266e71 | ALFRED → BRUCE | x2
@@ -154,7 +154,7 @@ I warn you against going out to fight Gotham’s battles, yet I never once prote
 #### e3eeeb1525 | BRUCE → ALFRED | x2
 We have to live with the choices we make.
 
-#### 9a26ab7aca-SM | BRUCE → ALFRED | x2
+#### 9a26ab7aca | BRUCE → ALFRED | x2
 I would like to move on, Alfred… Leave it behind. We can only focus on what’s ahead.
 
 #### 9ba5ca6e8d | ALFRED → BRUCE | x2
@@ -166,25 +166,25 @@ Sometimes life doesn’t let you.
 #### 30129d7758 | ALFRED → BRUCE | x2
 I *am* sorry, Master Bruce. I will try to make it up to you---no matter how long it takes.
 
-#### d43e55370c-SM-LM | ALFRED → BRUCE | x2
+#### d43e55370c | ALFRED → BRUCE | x2
 Is there… Is there any way that you could forgive me? There’s nothing I wouldn’t do to make up for the part I’ve played in this mess.
 
-#### 07bc79d63c-LM | BRUCE → ALFRED | x2
+#### 07bc79d63c | BRUCE → ALFRED | x2
 Of course I forgive you. You’ve always looked out for me. You’ve been the best parent any boy could ask for.
 
-#### 2ce8d4f8fb-SM | ALFRED → BRUCE | x2
+#### 2ce8d4f8fb | ALFRED → BRUCE | x2
 Thank you, sir. You’re a better man than I could’ve hoped.
 
-#### fe1227fa33-SM | BRUCE → ALFRED | x2
+#### fe1227fa33 | BRUCE → ALFRED | x2
 I wish I could, but with everything that’s happened… That’s a lot to ask, Alfred.
 
-#### f57fc18cc8-SM | ALFRED → BRUCE | x2
+#### f57fc18cc8 | ALFRED → BRUCE | x2
 I understand. Trust has to be earned. I won’t let you down again.
 
 #### 464bec6233 | BRUCE → ALFRED | x2
 Just let it go, Alfred. I don’t want to hear about it anymore. We need to get back to work. Gotham is what matters now.
 
-#### 599c4751f9-LM | ALFRED → BRUCE | x2
+#### 599c4751f9 | ALFRED → BRUCE | x2
 Perhaps you’re right. I am at your disposal.
 
 #### 173fa99da4 | ALFRED → BRUCE | x2
@@ -193,10 +193,10 @@ I will never stop working to make it right. I have your back, Master Bruce, in w
 #### 5790da8921 | ALFRED → BRUCE | x2
 You know that, don’t you?
 
-#### f6692f119a-LM | BRUCE → ALFRED | x2
+#### f6692f119a | BRUCE → ALFRED | x2
 Have you made any progress analyzing the Voice from the debate?
 
-#### f55981e611-SM | ALFRED → BRUCE | x2
+#### f55981e611 | ALFRED → BRUCE | x2
 I wouldn’t call it progress at this point, but I’m sure I’ll be able to crack it, sir.
 
 #### cf65e209e8 | BRUCE → ALFRED | x2
@@ -211,7 +211,7 @@ This Voice is responsible for the destruction in Gotham. It commands the Childre
 #### 972b7085bd | ALFRED → BRUCE | x2
 Agreed, sir. Protecting Gotham must be our first priority.
 
-#### 28952c1e2d-SM | ALFRED → BRUCE | x2
+#### 28952c1e2d | ALFRED → BRUCE | x2
 I won’t rest until I discover an identity, sir. It’s the least I can do.
 
 #### c378dd094d | ALFRED → BRUCE | x2
@@ -227,7 +227,7 @@ ALFRED [concerned]: What is it, sir?
 #### 6066f379cf | BRUCE → ALFRED | x2
 How has this been kept from me?
 
-#### 08f3fa3c9a-LM | BRUCE → ALFRED | x2
+#### 08f3fa3c9a | BRUCE → ALFRED | x2
 Did you know about this?
 ALFRED [surprised]: No.
 
@@ -237,7 +237,7 @@ I believe you, Alfred. But maybe you’ve forgotten something. It could’ve bee
 #### b4891aee40 | ALFRED → BRUCE | x2
 Thomas and Martha Wayne never so much as hinted at any secret projects or divisions. The only secret department I know about is Research and Development---for obvious reasons.
 
-#### ce433e1a5b-LM | BRUCE → ALFRED | x2
+#### ce433e1a5b | BRUCE → ALFRED | x2
 You kept your own secrets. What else will I find, Alfred?
 
 #### 3b76fef932 | ALFRED → BRUCE | x2
@@ -252,7 +252,7 @@ I don’t know. Whatever this division is, your parents must have kept it close 
 #### d919a0a178 | BRUCE → ALFRED | x2
 My parents didn’t hold back, did they? If I’m going to fix this, I have to know just how deep their corruption goes.
 
-#### 5b80836d93-SM | ALFRED → BRUCE | x2
+#### 5b80836d93 | ALFRED → BRUCE | x2
 I think that’s wise. This one time, I wish I knew more, so I could help you.
 
 #### 1ad36c707e | ALFRED → BRUCE | x2
@@ -261,10 +261,10 @@ If only they knew [what trouble they would cause]...
 #### 53b0b95830 | ALFRED → BRUCE | x2
 You’ll figure this out, Master Bruce. You always do. If there’s anyone who’s able to uncover a secret division within Wayne Enterprises, it’s the man who has one of his own.
 
-#### 782f8ae64b-SM | ALFRED → BRUCE | x2
+#### 782f8ae64b | ALFRED → BRUCE | x2
 It seems there was a lot about your parents that I never knew.
 
-#### c0eb27171c-SM | ALFRED → BRUCE | x2
+#### c0eb27171c | ALFRED → BRUCE | x2
 The one time I did ask Thomas why he insisted on all the secrecy, he grew quite angry. Said it wasn’t a servant’s place to ask about that.
 
 #### 9253a8e07e | ALFRED → BRUCE | x2
@@ -339,13 +339,13 @@ I don’t envy your position. Perhaps it’s best to postpone judgment until you
 #### 108ef0e811 | ALFRED → BRUCE | x2
 Given the current situation?
 
-#### 66f551c981-SM | ALFRED → BRUCE | x2
+#### 66f551c981 | ALFRED → BRUCE | x2
 Lucius is our best resource, with the computer failing. However you decide to proceed, I would advise caution.
 
 #### be71c864d0 | ALFRED → BRUCE | x2
 As an ally, Lucius Fox is formidable. I can’t imagine what kind of enemy he would make.
 
-#### be42df9704-SM | BRUCE → ALFRED | x2
+#### be42df9704 | BRUCE → ALFRED | x2
 I’ll call Lucius and have him meet me at R&D. I need to sit down and hear from him personally what’s happening.
 
 #### 7d0951ac1d | ALFRED → BRUCE | x2
@@ -510,13 +510,13 @@ I’m going to access the Research and Development department mainframe. If ther
 #### 2933c886d1 | BRUCE → ALFRED | x2
 What the...
 
-#### 9a4e99dad1-LM | ALFRED → BRUCE | x2
+#### 9a4e99dad1 | ALFRED → BRUCE | x2
 Perhaps you entered your password incorrectly?
 
 #### 3a9d1b7d90 | BRUCE → ALFRED | x2
 Not now, Alfred.
 
-#### 88e6353647-SM | BRUCE → ALFRED | x2
+#### 88e6353647 | BRUCE → ALFRED | x2
 I’ve never had to hack my own system before. This should be interesting.
 
 #### 473302e9a0 | ALFRED → BRUCE | x2
@@ -546,7 +546,7 @@ What does “invalid block  chain” mean?
 #### e11c14b9a4 | BRUCE → ALFRED | x2
 It means that I can’t find out from here. I have to go into the office.
 
-#### 98c68d2080-SM | BATMAN → ALFRED | x2
+#### 98c68d2080 | BATMAN → ALFRED | x2
 I need to speak with Lucius. See what’s going on down in the office.
 
 #### ea1f465a27 | BATMAN → ALFRED | x2
@@ -561,7 +561,7 @@ He’s been with us since the beginning. I trust him.
 #### a740e62e29 | ALFRED → BATMAN | x2
 I know he’s a close friend. I find it hard to believe he could have malicious intentions.
 
-#### fc07434456-SM | BRUCE → ALFRED | x2
+#### fc07434456 | BRUCE → ALFRED | x2
 I don’t know... but he’ll have answers. Right now, he’s the best lead I’ve got.
 
 #### 2e2be66ce4 | ALFRED → BRUCE | x2
@@ -594,7 +594,7 @@ This is not a coincidence.
 #### 81fdfb145f | BRUCE → ALFRED | x2
 What would you do, Alfred?
 
-#### 898af009fd-SM | ALFRED → BRUCE | x2
+#### 898af009fd | ALFRED → BRUCE | x2
 Me, sir? In my experience, I’ve found it’s never a poor decision to trust a friend. However, it’s always better to trust your gut.
 
 #### 52378188dc | BRUCE → ALFRED | x2
@@ -621,13 +621,13 @@ Of course, Bruce.
 #### c01fd44c8f | BRUCE, BATMAN → ALFRED, LUCIUS | x4
 That doesn’t make sense.
 
-#### b5506f4f68-SM | ALFRED → BRUCE | x2
+#### b5506f4f68 | ALFRED → BRUCE | x2
 Hmph. I’ve always preferred working from home, personally.
 
 #### 73b3adae5a | ALFRED → BRUCE | x2
 I know “riding out the storm” isn’t your forte, sir. But I fear this time, you have no choice.
 
-#### 1ee2a58a83-SM | ALFRED → BRUCE | x2
+#### 1ee2a58a83 | ALFRED → BRUCE | x2
 With all the allegations of corruption and Wayne Enterprises stock prices plummeting, I can’t say that I’m surprised.
 
 #### e4c8f5fe83 | ALFRED → BRUCE | x2
@@ -636,7 +636,7 @@ There are defensive measures in place to *stall* a hostile acquisition... But wi
 #### 79c814574a | BRUCE → ALFRED | x2
 Lucius is a close friend, Alfred. He’s like family.
 
-#### 0fc0be4905-SM | ALFRED → BRUCE | x2
+#### 0fc0be4905 | ALFRED → BRUCE | x2
 Yes, so I’ve heard. There’s not a news channel in Gotham that isn’t running the story on repeat.
 
 #### 13da5fd054 | ALFRED → BRUCE | x4
@@ -645,7 +645,7 @@ You’d think they have nothing else to talk about.
 #### 23ee04bd5b | choice/UI, ALFRED → BRUCE, COA03 | x7
 What are you saying?
 
-#### 797adad4ec-SM | BRUCE → ALFRED | x2
+#### 797adad4ec | BRUCE → ALFRED | x2
 I’m worried about Wayne Enterprises, Alfred. Someone is aggressively buying up shares. We may have a hostile takeover on our hands.
 
 #### d6fee6106c | BRUCE → ALFRED | x2
@@ -672,7 +672,7 @@ A shadow division?
 #### 1ce2dd2ac0 | ALFRED → BRUCE | x2
 The media are really outdoing themselves this time. Rampant speculation, rumors of a hostile takeover...
 
-#### 89feba74aa-SM | ALFRED | x2
+#### 89feba74aa | ALFRED | x2
 You know, I find myself coming down to the Batcave a lot these days. I think it’s because I think more clearly away from the noise upstairs. [Pause] You must have a lot on your mind as well.
 New feeder---Some things are out of our control. You can’t carry the weight of the world.
 
@@ -703,7 +703,7 @@ Lucius.
 #### 72005105db | BRUCE → ALFRED | x2
 We need to stall this takeover and get ourselves enough time to prove Wayne Enterprises is clean.
 
-#### bc203e64f3-LM | ALFRED → BRUCE | x2
+#### bc203e64f3 | ALFRED → BRUCE | x2
 You’re right. You stand a better chance while you’re still in control.
 
 #### b4d58e11a5 | BRUCE → ALFRED | x2
@@ -739,7 +739,7 @@ I”m worried about Harvey. Something’s wrong with him. He’s not acting like
 #### a7b921454c | ALFRED → BRUCE | x2
 You can’t help fix someone who doesn’t want it.
 
-#### 57872b9290-SM | ALFRED → BRUCE | x2
+#### 57872b9290 | ALFRED → BRUCE | x2
 Believe me, I’ve tried.
 
 #### b9988a9f37 | BRUCE → ALFRED | x2
@@ -760,7 +760,7 @@ I agree, Mister Dent is strong-willed, but sometimes that isn’t enough.
 #### 8cc5570c9d | ALFRED → BRUCE | x2
 As Mayor, these... issues he’s having could have dire effects for Gotham.
 
-#### 632e559d4b-SM | BRUCE → ALFRED | x2
+#### 632e559d4b | BRUCE → ALFRED | x2
 With the erratic state he’s currently in, I’m not sure I trust him running Gotham.
 
 #### 681efe05fd | ALFRED → BRUCE | x2
@@ -787,7 +787,7 @@ I don’t disagree.
 #### 48ff264c5b | ALFRED → BRUCE | x2
 I hope he recovers soon, in any case.
 
-#### 5292b63069-SM | ALFRED → BRUCE | x2
+#### 5292b63069 | ALFRED → BRUCE | x2
 He has always stood by you, I won’t deny him that.
 
 #### 0655af81d8 | BRUCE → ALFRED | x2
@@ -808,7 +808,7 @@ The Children of Arkham are dependant on their leader.  Without guidance, they’
 #### cbc090b7fc | ALFRED → BRUCE | x2
 They seem to be aware of that.
 
-#### 63d5931d5e-SM | ALFRED → BRUCE | x2
+#### 63d5931d5e | ALFRED → BRUCE | x2
 I’m sure we are doing everything we can be.  I just can’t help but worry.
 
 #### eb3529eb0a | ALFRED → BRUCE | x2
@@ -832,7 +832,7 @@ Is isn’t just the news is it?
 #### 61b407c67c | BRUCE → ALFRED | x2
 I want to help but he isn’t letting me.
 
-#### df80f8bb46-LM | ALFRED → BRUCE | x2
+#### df80f8bb46 | ALFRED → BRUCE | x2
 He’s lucky to have you as a friend.
 
 #### 475185d75e | BRUCE → ALFRED | x4
@@ -859,7 +859,7 @@ Now that we know the truth...
 #### a9b3232898 | BRUCE → ALFRED | x2
 If I don’t restore Wayne Enterprises, it won’t matter what I do. I’ll be tainted for life.
 
-#### 60d0d952da-SM | BRUCE → ALFRED | x2
+#### 60d0d952da | BRUCE → ALFRED | x2
 I ran into Vicki Vale outside the Mayor’s Office.
 
 #### e61da090bf | ALFRED → BRUCE | x2
@@ -898,7 +898,7 @@ We’ll find them.
 #### 6f61167bad | BRUCE → ALFRED | x2
 Someone’s locked me out of my own system.
 
-#### 9fdc024a22-SM | BRUCE → ALFRED | x2
+#### 9fdc024a22 | BRUCE → ALFRED | x2
 I was accessing the R&D file when it happened.
 
 #### 007fdf4642 | ALFRED → BRUCE | x2
@@ -907,7 +907,7 @@ You don’t think he’s involved... Do you?
 #### bf458e0b67 | ALFRED → BRUCE | x2
 Then maybe he can help us.
 
-#### e7794793d5-LM | ALFRED → BRUCE | x2
+#### e7794793d5 | ALFRED → BRUCE | x2
 Until you’re sure, I just ask that you be cautious.
 
 #### 79312e839e | ALFRED → BRUCE | x2
@@ -964,13 +964,13 @@ The police are in deep trouble.
 #### ce35a3dc5f | choice/UI, GORDON → ALFRED | x6
 He’s a good cop.
 
-#### ff149a21d3-SM | choice/UI → ALFRED | x2
+#### ff149a21d3 | choice/UI → ALFRED | x2
 I’m glad he called me.
 
 #### 8980680566 | choice/UI | x2
 He’ll be a good mayor.
 
-#### b9355594e2-SM | choice/UI | x2
+#### b9355594e2 | choice/UI | x2
 I’m proud of him.
 
 #### fefa1da350 | choice/UI | x2
@@ -982,7 +982,7 @@ Thank you, Alfred.
 #### a81b646832 | choice/UI → HARVEY, CATWOMAN, ALFRED | x15
 Gotham needs Batman.
 
-#### d6644004fd-SM | choice/UI | x2
+#### d6644004fd | choice/UI | x2
 I was happy to help.
 
 #### 2474d6b4f9 | choice/UI → ALFRED | x2
@@ -1015,10 +1015,10 @@ Seems that scrappy District Attorney with big dreams is actually going to make a
 #### 2f52b53104 | ALFRED → BATMAN | x2
 They grow up so fast, don’t they?
 
-#### 0d949eee54-SM | BATMAN → ALFRED | x2
+#### 0d949eee54 | BATMAN → ALFRED | x2
 He’s looking worse. He told me he was fine at the hospital, but I’m not so sure. What Penguin managed to do...
 
-#### 189f56a029-SM | BATMAN → ALFRED | x2
+#### 189f56a029 | BATMAN → ALFRED | x2
 What Penguin did to him at the debate... It’s worse than I thought.
 
 #### 89b404adfc | ALFRED → BRUCE | x4
@@ -1033,10 +1033,10 @@ Proof of what happened to him. Proof of how dangerous the Children of Arkham can
 #### 51f0ace6a5 | ALFRED | x2
 And the city loves him.
 
-#### 27883bde50-SM | ALFRED | x2
+#### 27883bde50 | ALFRED | x2
 I’m sure the public would have understood if he didn’t go through with his address.
 
-#### 8a78db8260-LM | ALFRED → BRUCE | x2
+#### 8a78db8260 | ALFRED → BRUCE | x2
 You did quite a stellar job as well, Bruce.
 
 #### 27fb0fb168 | ALFRED | x2
@@ -1048,7 +1048,7 @@ Oswald’s rally would have certainly turned violent.
 #### 2547109890 | ALFRED | x2
 Oswald’s rally could have easily turned into a riot.
 
-#### b13625d330-SM | ALFRED | x2
+#### b13625d330 | ALFRED | x2
 I’m sure Mayor Dent appreciated your protection against the Children of Arkham.
 
 #### 6a488e565d | ALFRED | x2
@@ -1057,7 +1057,7 @@ Imagine if they had also been armed from that weapons deal at the warehouse.
 #### b8e1970b70 | ALFRED | x2
 As well as all those civilians and police that were in the middle of Oswald’s rally. It could have easily turned violent.
 
-#### 8c6620a9f5-L? | ALFRED | x2
+#### 8c6620a9f5 | ALFRED | x2
 At least you were able to stop that weapons deal at the warehouse before the Children of Arkham could arm themselves.
 
 #### f97f8ead4e | ALFRED | x2
@@ -1072,13 +1072,13 @@ I’d rather not think of what might have happened to Mayor Dent against those C
 #### ec7791dba2 | ALFRED | x2
 And Oswald’s rally would have certainly turned into a riot.
 
-#### 1adf186216-L? | ALFRED | x2
+#### 1adf186216 | ALFRED | x2
 At least you stopped that weapons deal before the Children of Arkham were able to arm themselves.
 
 #### db3585ec5c | ALFRED | x2
 I’d rather not think how Mayor Dent’s confrontation with them may have gone if you weren’t there.
 
-#### 1d3f9040b8-SM | ALFRED | x2
+#### 1d3f9040b8 | ALFRED | x2
 And I’m sure Mayor Dent appreciated your protection against the Children of Arkham.
 
 #### 8edefbcc5d | ALFRED → BATMAN | x2
@@ -1087,7 +1087,7 @@ I’d rather not think what might have happened if you hadn’t stopped that wea
 #### 8850b3a175 | ALFRED → BATMAN | x2
 I know I might not be the most enthusiastic when it comes to your work as Batman.
 
-#### f0894faac6-LM | ALFRED → BATMAN | x2
+#### f0894faac6 | ALFRED → BATMAN | x2
 But this city is lucky to have you.
 
 #### 4fbf9e0e4b | BATMAN → ALFRED | x2
@@ -1108,13 +1108,13 @@ Lately it seems to be more often worth it than not.
 #### c1601678af | ALFRED → BATMAN | x2
 I agree. The city’s never seen a threat quite as big as this one.
 
-#### 4ae4b601e7-SM | BATMAN → ALFRED | x2
+#### 4ae4b601e7 | BATMAN → ALFRED | x2
 All in a day’s work. I’m just glad everyone is safe.
 
 #### 018f1d44e9 | ALFRED → BATMAN | x2
 Be careful Bruce, your modesty is showing.
 
-#### 7864641c0b-SM-LM | ALFRED → BATMAN | x2
+#### 7864641c0b | ALFRED → BATMAN | x2
 I’m glad you were able to stop the Children of Arkham. For a little while, at least.
 
 #### de810a5414 | ALFRED → BATMAN | x2
@@ -1135,7 +1135,7 @@ Gordon’s a good cop. Maybe the best one on the force.
 #### ca1a902d0e | ALFRED → BATMAN | x2
 Then we should try to help him as best as we can.
 
-#### 8a426f1c38-SM | BATMAN → ALFRED | x2
+#### 8a426f1c38 | BATMAN → ALFRED | x2
 I didn’t think a giant spotlight of a bat would actually help. Guess I was wrong.
 
 #### e315003a41 | ALFRED → BATMAN | x2
@@ -1183,7 +1183,7 @@ If the Children of Arkham can hack into one facet of Wayne Enterprises Technolog
 #### 3aa77c6d7f | ALFRED → BATMAN | x2
 But he is the only one we know with the means to do something like this.
 
-#### 2a9d220899-SM | ALFRED → BATMAN | x2
+#### 2a9d220899 | ALFRED → BATMAN | x2
 I don’t think I need to remind you about the{SkepticalA} dangers of reckless driving.
 
 #### 3f38d18ed2 | BATMAN → ALFRED | x2
@@ -1210,7 +1210,7 @@ He’s certainly better than Hill ever was.
 #### c0709e07fa | ALFRED | x2
 But they do rest more quietly at night.
 
-#### 83ff918dbd-LM | ALFRED → BATMAN | x2
+#### 83ff918dbd | ALFRED → BATMAN | x2
 Though I do wish it didn’t sometimes feel that you were the only one doing this city good.
 
 #### fb0722557f | ALFRED → BATMAN | x2
@@ -1282,7 +1282,7 @@ Who would do such a{ThinkingA} thing?
 #### 9febf53715 | ALFRED → BATMAN | x2
 Wayne Enterprises has{SkepticalA} never been at odds with the{ThinkingA} police.
 
-#### bb2e597763-SM | BATMAN → ALFRED | x2
+#### bb2e597763 | BATMAN → ALFRED | x2
 Someone within the company is pulling the strings.{ThinkingA}They were built into the radios. I had to break them{AngryB} open to find it.
 
 #### 63e599eaba | BATMAN → ALFRED | x2
@@ -1294,7 +1294,7 @@ This would’ve been the {AngryA}works long before the Children of Arkham showed
 #### 14915be39b | ALFRED → BATMAN | x4
 Hard to believe the Children of Arkham could’ve gained a {SkepticalA}supporter in Wayne Enterprises.
 
-#### d445d8bf0c-SM-LM | BATMAN → ALFRED | x2
+#### d445d8bf0c | BATMAN → ALFRED | x2
 I would’ve said the same thing if you’d asked me a week ago.
 
 #### d3ff27c0eb | BATMAN → ALFRED | x2
@@ -1315,7 +1315,7 @@ He’s trying to save his own skin.
 #### 752277cc8e | ALFRED → BATMAN | x2
 I’m not doubting you,{SadA} I just... hope there’s some other{AngryA} explanation.
 
-#### a822c3cd56-SM | ALFRED → BATMAN | x2
+#### a822c3cd56 | ALFRED → BATMAN | x2
 I’m not surprised he didn’t support your theory. {SkepticalA}He knows it would reflect poorly on him if true.
 
 #### 86bc5ba8fe | ALFRED → BATMAN | x2
@@ -1336,7 +1336,7 @@ He will have answers.
 #### 334bf65391 | BATMAN → ALFRED | x2
 Lucius has always been on our side, but right now I can’t rule{DisgustA} anyone out. He could’ve been playing us {AngryA}this whole time for all we know.
 
-#### 1c0daed966-LM | ALFRED → BATMAN | x2
+#### 1c0daed966 | ALFRED → BATMAN | x2
 I want to tell you you’re wrong, but after all that’s{SadA} happened... I think you’d better trust your {ConcernedA}gut on this one.
 
 #### df8f8c8f7d | BATMAN → ALFRED | x2
@@ -1348,16 +1348,16 @@ If he’s behind it, wouldn’t he hav{SkepticalA}e bugged your systems as well?
 #### bde2ac5a5d | ALFRED → BATMAN | x2
 He’s methodical to a fault. I doubt{AngryA} it was due to an error on his part.
 
-#### 7d294d9613-SM | BATMAN → ALFRED | x2
+#### 7d294d9613 | BATMAN → ALFRED | x2
 I’m not sure of anything right now, but {AngryA}Lucius will have answers.
 
-#### e8bdf7e25a-SM | ALFRED → BATMAN | x4
+#### e8bdf7e25a | ALFRED → BATMAN | x4
 If this is coming from his department I’m sure he’d want to {ThinkingA}know about it.
 
 #### 44bc44a09c | ALFRED → BATMAN | x2
 In any case...
 
-#### 420b9330f3-SM | BATMAN → ALFRED | x2
+#### 420b9330f3 | BATMAN → ALFRED | x2
 I need to go to Wayne Tower and look into this.
 
 #### a3cafafabb | ALFRED → BATMAN | x2
@@ -1366,7 +1366,7 @@ Yes, I suppose you do.
 #### 0981751b88 | ALFRED → BATMAN | x2
 Every time I think we’ve reached the bottom of the{DisgustA} well, we find there’s still much farther to{AngryB} fall.
 
-#### 249fe1606a-SM | ALFRED → BATMAN | x2
+#### 249fe1606a | ALFRED → BATMAN | x2
 I thought I knew the worst of it, but I am{AngryA} continually proven wrong.
 
 #### 6ab70db159 | ALFRED → BATMAN | x2
@@ -1417,7 +1417,7 @@ Enough proof for you?
 #### b312519b07 | ALFRED → BATMAN | x2
 If he’s turned against us we’re in more {ConcernedA}trouble than we thought.
 
-#### 2da04c6742-LM | ALFRED → BATMAN | x2
+#### 2da04c6742 | ALFRED → BATMAN | x2
 You need to approach this carefully.
 
 #### ffad07be8c | ALFRED → BRUCE | x4
@@ -1456,7 +1456,7 @@ This may not be a new problem.
 #### b248dc61ac | BATMAN → ALFRED | x4
 Alfred, I’m sending over evidence of... [unsure]Some kind of encrypted communications signal.
 
-#### 330bf0d2db-SM | ALFRED → BATMAN | x4
+#### 330bf0d2db | ALFRED → BATMAN | x4
 It’s coming up on my screen now, {ConfusedA}but I’m afraid it looks like a bunch of gibberish to me.
 
 #### 67a659d1a3 | BATMAN → ALFRED | x4
@@ -1489,7 +1489,7 @@ I have Lucius on the line now.
 #### a14aedef36 | BATMAN → ALFRED | x4
 It’s only a matter of time before he screws up. {AngryA}Maniacs like Oswald always make mistakes.
 
-#### 38bc79e7a5-LM | ALFRED → BATMAN | x4
+#### 38bc79e7a5 | ALFRED → BATMAN | x4
 For everyone’s sake, I hope you’re right...
 
 #### e95d4e2c38 | ALFRED → BATMAN | x4
@@ -1498,7 +1498,7 @@ Won’t they be surprised...
 #### 0352591785 | BATMAN → ALFRED | x4
 Oswald’s just one link in their chain.
 
-#### 92e74d4446-SM | ALFRED → BATMAN | x2
+#### 92e74d4446 | ALFRED → BATMAN | x2
 Lock them all up as far as I’m concerned.
 
 #### 524e71ade7 | BATMAN → ALFRED | x4

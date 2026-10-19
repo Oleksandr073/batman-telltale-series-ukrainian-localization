@@ -19,7 +19,7 @@ You start to feel dizzy again, hallucinations kicking in. Joker Thinks this is f
 #### bd0270f536 | NO → YES | x2
 You see an inmate start banging his head against the wall.  It looks similar to things you’ve seen as halucinations thus far.  Joker notices and says “Are you seeing this?!  Crazy!”
 
-#### 25f6db44f7-S? | JOKER LEANS IN → YES | x2
+#### 25f6db44f7 | JOKER LEANS IN → YES | x2
 “Wanna know something funny?  I switched out the drugs!  Everyone was so depressed they dont need downers!  It’s about to be a PARTY!”
 (shanon, Wed Jun 29 16:20:55 2016)
 
@@ -56,7 +56,7 @@ Talk To
 #### fa845330c1 | choice/UI | x6
 Grab Remote
 
-#### afd56f3c66-SM | choice/UI | x2
+#### afd56f3c66 | choice/UI | x2
 I need to see the news.
 
 #### a8c6a59fc6 | choice/UI | x2
@@ -80,13 +80,13 @@ I am NOT my father!
 #### c536652947 | choice/UI | x2
 I’m not answering to a puppet.
 
-#### bd5bdcad11-SM | choice/UI | x2
+#### bd5bdcad11 | choice/UI | x2
 I was drugged as well!
 
 #### f57d7bc780 | choice/UI | x2
 I fight AGAINST corruption!
 
-#### 4266395fba-SM | choice/UI | x2
+#### 4266395fba | choice/UI | x2
 I won’t speak on their behalf.
 
 #### 3aeba2c040 | choice/UI | x2
@@ -98,7 +98,7 @@ I’d rather not.
 #### 34dde7e669 | choice/UI | x2
 There is no excuse for their actions.
 
-#### 9dcc6c7532-SM | choice/UI | x2
+#### 9dcc6c7532 | choice/UI | x2
 I was not involved in their crimes!
 
 #### 64575091f9 | choice/UI | x2
@@ -158,7 +158,7 @@ Sit, please.
 #### 7480017a37 | JOKER → BRUCE | x2
 What are you drawing?
 
-#### cdc5f6923f-LM | BRUCE → JOKER | x2
+#### cdc5f6923f | BRUCE → JOKER | x2
 Either you’re going to tell me -- or you won’t.
 
 #### bd28feb67d | JOKER → BRUCE | x4
@@ -194,16 +194,16 @@ Madness has more of a method than you think.
 #### 48c8b27d9f | JOKER → BRUCE | x2
 Some say it might even be an art.
 
-#### d0f7200134-SM | BRUCE → JOKER | x2
+#### d0f7200134 | BRUCE → JOKER | x2
 I suppose she thought I deserved it.
 
-#### c712d972d3-LM | JOKER → BRUCE | x2
+#### c712d972d3 | JOKER → BRUCE | x2
 No. You think you deserved it.
 
 #### 228df7e7e5 | BRUCE → JOKER | x2
 She wanted me to lose control.
 
-#### 7cc7cbfd0a-LM | JOKER → BRUCE | x2
+#### 7cc7cbfd0a | JOKER → BRUCE | x2
 But you liked it, didn’t you?
 
 #### e977b8cc6e | JOKER → BRUCE | x2
@@ -272,13 +272,13 @@ I’m not going anywhere.
 #### 00325fc97b | JOKER → BRUCE | x2
 There’s enough murder to be done in here.
 
-#### 84c71797a9-LM | JOKER → BRUCE | x2
+#### 84c71797a9 | JOKER → BRUCE | x2
 Tell me. When your mother was shot, did you?
 
 #### 2bca3af708 | BRUCE → JOKER | x4
 I’m really not that interesting.
 
-#### c38d5bc0b3-LM | OSWALD, JOKER → BATMAN, BRUCE | x10
+#### c38d5bc0b3 | OSWALD, JOKER → BATMAN, BRUCE | x10
 That’s where you’re wrong.
 
 #### ff180d306e | JOKER → BRUCE | x6
@@ -305,7 +305,7 @@ You’re a sadist.
 #### 6ddeeee259 | JOKER → BRUCE | x4
 That’s a way of putting it.
 
-#### 637ec7aff7-SM | JOKER → BRUCE | x2
+#### 637ec7aff7 | JOKER → BRUCE | x2
 But I like to think more of myself as
 
 #### f34997d2c5 | BRUCE → JOKER | x2
@@ -317,7 +317,7 @@ I’m really not in the sharing kind of mood.
 #### 42843686ef | JOKER → BRUCE | x2
 Oh, that’s too bad.
 
-#### da3bb8f12e-SM-LM | JOKER → BRUCE | x2
+#### da3bb8f12e | JOKER → BRUCE | x2
 I thought you wanted to know more.
 
 #### 2d5ae44465 | JOKER → BRUCE | x2
@@ -332,7 +332,7 @@ You don’t know anything.
 #### fab0172478 | JOKER → BRUCE | x2
 We are all the Children of Arkham.
 
-#### eb4affaf2f-SM | BRUCE → JOKER | x2
+#### eb4affaf2f | BRUCE → JOKER | x2
 I need to know about their leader.
 
 #### d2a3b734e1 | JOKER → BRUCE | x2
@@ -344,7 +344,7 @@ You know Vicki?
 #### a1466a440c | JOKER → BRUCE | x2
 Very good, Mr. Wayne.
 
-#### e33c8ef89f-LM | JOKER → BRUCE | x2
+#### e33c8ef89f | JOKER → BRUCE | x2
 You’ve got quite the brain.
 
 #### 7da9e2d8db | JOKER → BRUCE | x2
@@ -353,7 +353,7 @@ I’d like to open it up one day and see just how big it really is.
 #### c90c174827 | BRUCE → JOKER | x2
 Tell me where I can find her.
 
-#### 8c64e44cda-LM | BRUCE → JOKER | x2
+#### 8c64e44cda | BRUCE → JOKER | x2
 You’ve had your fun.
 
 #### 928551a8bb | BRUCE → JOKER | x2
@@ -374,7 +374,7 @@ It’s no surprise that she would have targeted you.
 #### b38e32ad25 | JOKER → BRUCE | x8
 Tell me about the night your parents died.
 
-#### 7b8978db4d-L? | JOKER | x2
+#### 7b8978db4d | JOKER → BRUCE | x8
 You witnessed their murder, didn’t you?
 
 #### 3eb577638c | JOKER → BRUCE | x2
@@ -428,13 +428,13 @@ You’re just another crazy.
 #### 25adcd0f57 | BRUCE → JOKER | x2
 My life... it depends on it.
 
-#### 898fd907a0-LM | JOKER → BRUCE | x2
+#### 898fd907a0 | JOKER → BRUCE | x2
 Now you’ve got my attention.
 
 #### 53d9a2fad7 | JOKER → BRUCE | x6
 I’ll tell you what.
 
-#### dbfba33637-SM | JOKER → BRUCE | x2
+#### dbfba33637 | JOKER → BRUCE | x2
 Even if I knew who you’re yapping about -- why would I tell you?
 
 #### 081d39ff00 | JOKER → BRUCE | x2
@@ -446,7 +446,7 @@ You two have a lot in common, you know.
 #### 9a02e48558 | BRUCE → JOKER | x2
 Why would
 
-#### 971dc8d5e7-LM | JOKER → BRUCE | x2
+#### 971dc8d5e7 | JOKER → BRUCE | x2
 You tell me something about yourself and I’ll tell what I know about the Children and Arkham -- and their leader.
 
 #### fef7b52a37 | JOKER → BRUCE | x2
@@ -464,10 +464,10 @@ I can pay you for any information you might have.
 #### 27b1f39ee0 | BRUCE → JOKER | x2
 Anything you want. Just name the price.
 
-#### 8d602ce09b-SM | JOKER → BRUCE | x2
+#### 8d602ce09b | JOKER → BRUCE | x2
 I’m not interested in money.
 
-#### 6c4987b323-LM | BRUCE → JOKER | x2
+#### 6c4987b323 | BRUCE → JOKER | x2
 What are you interested in then?
 
 #### 805a5910dd | JOKER → BRUCE | x2
@@ -494,22 +494,22 @@ What do you want then?
 #### a3a1a9eb9a | JOKER → BRUCE | x2
 I want to know about you.
 
-#### 27433c5ed0-SM | JOKER → BRUCE | x2
+#### 27433c5ed0 | JOKER → BRUCE | x2
 You want me to prove myself.
 
 #### 6fa50ca0b2 | JOKER → BRUCE | x2
 Patience.
 
-#### 595e4f76f9-LM | JOKER → BRUCE | x4
+#### 595e4f76f9 | JOKER → BRUCE | x4
 When you attacked that man on tv, did you enjoy it?
 
-#### 37b5ade923-SM | BRUCE → JOKER | x2
+#### 37b5ade923 | BRUCE → JOKER | x2
 I wasn’t myself.
 
-#### ea31763452-LM | JOKER → BRUCE | x2
+#### ea31763452 | JOKER → BRUCE | x2
 You were being exactly yourself.
 
-#### 1d11c8a1fb-SM | BRUCE, choice/UI → JOKER | x4
+#### 1d11c8a1fb | BRUCE, choice/UI → JOKER | x4
 Yes. I did.
 
 #### 3ee0ef9db1 | BRUCE → JOKER | x2
@@ -521,7 +521,7 @@ We go back.
 #### 46466d9b80 | JOKER → BRUCE | x2
 Victoria Vale was a patient here when she was a teenager.
 
-#### f0f9634045-SM | JOKER → BRUCE | x2
+#### f0f9634045 | JOKER → BRUCE | x2
 I’m happy to see she’s finally come into her own.
 
 #### 1e5d3e00dc | BRUCE → JOKER | x2
@@ -548,7 +548,7 @@ Hear what?
 #### 1e6ed681bd | JOKER → BRUCE | x2
 The screaming of the clock as each second is being slaughtered.
 
-#### 6b81310770-LM | BRUCE → JOKER | x4
+#### 6b81310770 | BRUCE → JOKER | x4
 Trust me. You won’t like what’s underneath.
 
 #### b1d36e6066 | JOKER → BRUCE | x2
@@ -557,7 +557,7 @@ It’s my favorite kind of murder.
 #### 9b21af3054 | BRUCE → JOKER | x4
 This isn’t a suit -- I’m not a suit.
 
-#### 6a30378b12-LM | JOKER → BRUCE | x4
+#### 6a30378b12 | JOKER → BRUCE | x4
 If you won’t be honest with me -- I have no reason to be honest with you.
 
 #### 5a748654d4 | BRUCE → JOKER | x2
@@ -614,9 +614,6 @@ How may I help you, Mr. Wayne?
 #### 6ff3d5e7d6 | JOKER → BRUCE | x4
 No. [emphatic, aggressive] You first.
 
-#### 7b8978db4d-LM | JOKER → BRUCE | x6
-You witnessed their murder, didn’t you?
-
 #### b9056acf63 | JOKER → BRUCE | x2
 What’s the most traumatic thing that ever happened you?
 
@@ -635,7 +632,7 @@ Then we are at an impasse.
 #### 51afcf2009 | JOKER → BRUCE | x2
 Let me get this straight. You want me to -- [mockingly]  take you to their leader?
 
-#### 9c07197dfd-LM | JOKER → BRUCE | x2
+#### 9c07197dfd | JOKER → BRUCE | x2
 Careful what you say. Someone might think you’re crazy.
 
 #### 176636f0f3 | BRUCE → JOKER | x2
@@ -653,7 +650,7 @@ Then I’m in the right place.
 #### c888e6b076 | JOKER → BRUCE | x2
 Good for you. Own it.
 
-#### 295b89630d-LM | JOKER → BRUCE | x2
+#### 295b89630d | JOKER → BRUCE | x2
 I’d keep that kind of talk to yourself before people begin to think you actually belong here.
 
 #### 5f78b42a1e | JOKER → BRUCE | x6
@@ -668,7 +665,7 @@ Yes. I want to hear about that sad tale -- then I’ll tell you what you want to
 #### 232094df89 | JOKER → BRUCE | x2
 I want to know about thing that you’re covering with that shiny Bruce suit.
 
-#### 3dbb464e7a-LM | BRUCE → JOKER | x2
+#### 3dbb464e7a | BRUCE → JOKER | x2
 How did you know that?
 
 #### 931a453708 | JOKER → BRUCE | x4
@@ -689,13 +686,13 @@ Take off that suit of yours -- and I’ll tell you all about little Victoria Val
 #### a2c9eb8cf7 | ENFORCER01, JOKER → BRUCE, PROTESTER02 | x6
 What do you say?
 
-#### cbb7a0e9a6-SM | JOKER → BRUCE | x2
+#### cbb7a0e9a6 | JOKER → BRUCE | x2
 Speaking of games... I’ve got one you’re dying to play.
 
 #### 06848994a3 | JOKER → BRUCE | x2
 Difference is -- I know I’m a lunatic.
 
-#### 5144d019cf-LM | JOKER → BRUCE | x4
+#### 5144d019cf | JOKER → BRUCE | x4
 You witnessed your parents murder when you were a child.
 
 #### fff88bde33 | BRUCE → JOKER | x6
@@ -731,7 +728,7 @@ Everyone! Attention please.
 #### d50daa9363 | JOKER → BRUCE | x2
 We have a new patient.
 
-#### 3302a577ea-LM | JOKER → BILLY | x2
+#### 3302a577ea | JOKER → BILLY | x2
 Would you like to introduce yourself?
 
 #### 8342ca6463 | BILLY → JOKER | x2
@@ -740,7 +737,7 @@ What in the hell is he doing here?!
 #### cd46ce4e81 | JOKER → BRUCE | x2
 Bruce, do you know what everyone is so upset with you?
 
-#### 895728a04b-LM | BRUCE → JOKER | x4
+#### 895728a04b | BRUCE → JOKER | x4
 That was a nice stunt you pulled back there.
 
 #### b5f2e80892 | JOKER → BRUCE | x2
@@ -749,10 +746,10 @@ Someone has to be the entertainment.
 #### 8de26b0d62 | JOKER → BRUCE | x2
 I think you’re in the right place.
 
-#### 253eea674b-SM-LM | JOKER → BRUCE | x2
+#### 253eea674b | JOKER → BRUCE | x2
 I’m glad you appreciated it.
 
-#### 1880587c62-SM | JOKER → BRUCE | x2
+#### 1880587c62 | JOKER → BRUCE | x2
 I would love to continue this conversation -- but we’re out of time.
 
 #### cadc3fdb84 | JOKER → BRUCE | x2
@@ -761,22 +758,22 @@ Too bad we’re out of time.
 #### 58cc46b1b8 | BILLY → BRUCE | x2
 We - we know who you are.
 
-#### ea566b075b-LM | BRUCE → JOKER | x2
+#### ea566b075b | BRUCE → JOKER | x2
 You said something back there. Something about the Children of Arkham.
 
 #### c47a010be5 | BRUCE → JOKER | x2
 What are you making?
 
-#### 53f7cc7460-SM | JOKER → BRUCE | x2
+#### 53f7cc7460 | JOKER → BRUCE | x2
 I’ll show you when I’m done.
 
 #### 1101db25b1 | JOKER → BRUCE | x4
 You’re just wearing him like a suit, whoever you are.
 
-#### 0bbe11cdeb-SM | BRUCE → JOKER | x2
+#### 0bbe11cdeb | BRUCE → JOKER | x2
 I was eight. We were leaving a movie theater.
 
-#### 00903509aa-LM | JOKER → BRUCE | x2
+#### 00903509aa | JOKER → BRUCE | x2
 What did you see?
 
 #### 96c476ba6e | BRUCE → JOKER | x2
@@ -788,7 +785,7 @@ We were walking home.
 #### b3bd74e29b | JOKER → BRUCE | x2
 Bad neighborhood to walk in.
 
-#### 4d79face93-LM | JOKER → BRUCE | x2
+#### 4d79face93 | JOKER → BRUCE | x2
 Did you enjoy it?
 
 #### 2ef2d37baf | BRUCE → JOKER | x2
@@ -809,13 +806,13 @@ We’ll see about that.
 #### 128f9dc561 | choice/UI, BRUCE → ALFRED, JOKER | x6
 I don’t need friends.
 
-#### 320a1344da-LM | JOKER → BRUCE | x2
+#### 320a1344da | JOKER → BRUCE | x2
 You’ve never had a friend like me.
 
 #### 6e0ba3b5ed | JOKER → BRUCE | x6
 She was a patient here in Arkham about ten years ago.
 
-#### b47bec4a66-SM | JOKER → BRUCE | x2
+#### b47bec4a66 | JOKER → BRUCE | x2
 She was just a girl when I knew her.
 
 #### 12ce372fbc | JOKER → BRUCE | x4
@@ -836,7 +833,7 @@ Your parents is why little Vicki Vale is after you.
 #### 0993551d78 | JOKER → BRUCE | x4
 I can tell if you’re lying.
 
-#### 3d6791a10b-SM | BRUCE → JOKER | x4
+#### 3d6791a10b | BRUCE → JOKER | x4
 It was as if I was watching a movie and I was just an actor in a role.
 
 #### 0ace9597c1 | BRUCE → JOKER | x4
@@ -845,10 +842,10 @@ Like Zorro.
 #### 772a206713 | JOKER → BRUCE | x4
 He wears a mask too, you know.
 
-#### d45d17b2ab-LM | JOKER → BRUCE | x4
+#### d45d17b2ab | JOKER → BRUCE | x4
 You’re still filled with it aren’t you?
 
-#### 6e34880ebb-SM | JOKER → BRUCE | x2
+#### 6e34880ebb | JOKER → BRUCE | x2
 I wish I could feel it.
 
 #### 14344bde9f | BRUCE → JOKER | x2
@@ -932,7 +929,7 @@ Boy, oh, boy did she have issues.
 #### ab29856cf2 | CATWOMAN, JOKER, BRUCE, LUCIUS → BATMAN, BRUCE, ALFRED | x12
 Me too.
 
-#### 2f649f848e-SM | BRUCE → JOKER | x2
+#### 2f649f848e | BRUCE → JOKER | x2
 I witnessed my parents death.
 
 #### f3a8da6404 | JOKER → BRUCE | x4
@@ -974,7 +971,7 @@ You’re-- you’re really funny.
 #### d9a3890ece | JOKER → BRUCE, QUINZEL | x14
 I’d like to find that funny bone of yours and cut it out.
 
-#### aa658f8302-LM | JOKER → BRUCE | x4
+#### aa658f8302 | JOKER → BRUCE | x4
 Who did you want to be?
 
 #### cc18bd2e96 | JOKER → BRUCE | x2
@@ -989,7 +986,7 @@ No one?
 #### 8e3976414e | QUINZEL → JOKER | x2
 Playing doctor, again?
 
-#### 16623611b2-LM | QUINZEL → JOKER | x2
+#### 16623611b2 | QUINZEL → JOKER | x2
 You know you’re not supposed
 
 #### b6eba9419c | JOKER, choice/UI → QUINZEL, JOKER | x4
@@ -998,7 +995,7 @@ It was just a joke.
 #### d539201694 | JOKER → QUINZEL | x2
 Oh, come on, Dr. Quinzel. It was just a joke.
 
-#### ffca3116e2-LF | JOKER → QUINZEL | x2
+#### ffca3116e2 | JOKER → QUINZEL | x2
 I’m just following my joy -- like you told me to.
 
 #### 2b4551b6fe | QUINZEL → JOKER | x2
@@ -1034,7 +1031,7 @@ I’m just a product of violence.
 #### ba609de1b9 | JOKER → BRUCE | x2
 In the middle of an identity crisis, ey?
 
-#### 48fce73556-SM | BRUCE → JOKER | x4
+#### 48fce73556 | BRUCE → JOKER | x4
 I wanted to be Zorro.
 
 #### 7566d052db | JOKER → BRUCE | x4
@@ -1049,7 +1046,7 @@ How is she, by the way? What is she up to -- other than being a cult leader?
 #### 3bb4f008b8 | BRUCE → JOKER | x2
 She’s a reporter over at the Gazette.
 
-#### d7139af853-SM | JOKER → BRUCE | x4
+#### d7139af853 | JOKER → BRUCE | x4
 I’m glad to see her finally come into her own.
 
 #### b27c107f51 | JOKER → BRUCE | x2
@@ -1061,7 +1058,7 @@ You *are* delusional.
 #### 8ae9b6757a | JOKER → BRUCE | x2
 Now who’s pursuing who?
 
-#### c8e497b7fd-LM | JOKER → BRUCE | x2
+#### c8e497b7fd | JOKER → BRUCE | x2
 Look within yourself.
 
 #### 68b4ec18f1 | JOKER → BRUCE | x4
@@ -1076,16 +1073,13 @@ I see a predator in you, Bruce -- and I like it.
 #### 5c6617ec9b | BRUCE → JOKER | x2
 Because my parents were.
 
-#### 69c3697221-SM | BRUCE → JOKER | x4
-I did.
-
 #### 5484060032 | BRUCE → JOKER | x4
 I just want to be happy.
 
 #### 661295a958 | JOKER → BRUCE | x2
 Good thing they locked you away in here.
 
-#### 3a977ae7a5-SM | BRUCE → JOKER | x4
+#### 3a977ae7a5 | BRUCE → JOKER | x4
 I’m holding myself back right now.
 
 #### 4982cacd61 | JOKER → BRUCE | x4
@@ -1097,7 +1091,7 @@ Don’t hold your breath.
 #### e9ea953ad2 | BRUCE → JOKER | x2
 Vicki and I -- we have nothing in common.
 
-#### 08cdb212f6-LM | JOKER → BRUCE | x4
+#### 08cdb212f6 | JOKER → BRUCE | x4
 And then you realized that you were just a man.
 
 #### fd62fb01c6 | JOKER → BRUCE | x2
@@ -1109,7 +1103,7 @@ Because I have a game you’re just going to die for.
 #### 24a5504539 | JOKER → BRUCE | x2
 You’re the most interesting thing in this room.
 
-#### ccea320a13-SM | choice/UI → ALFRED, JOKER | x6
+#### ccea320a13 | choice/UI → ALFRED, JOKER | x6
 I blame myself.
 
 #### 364efd799b | choice/UI → JOKER | x2
@@ -1145,7 +1139,7 @@ So... how did a pretty little rich boy like you wind up in a poor little place l
 #### d0f14a363f | BRUCE → JOKER | x2
 I beat a man.
 
-#### de6936d1d1-SM | BRUCE → JOKER | x2
+#### de6936d1d1 | BRUCE → JOKER | x2
 I was framed.
 
 #### 41b421fb28 | JOKER → BRUCE | x2
@@ -1154,10 +1148,10 @@ Well isn’t that poetic.
 #### a07a73f1a3 | JOKER → BRUCE | x2
 With your bare hands.
 
-#### 881adb765d-LM | JOKER → BRUCE | x2
+#### 881adb765d | JOKER → BRUCE | x2
 You liked it didn’t you?
 
-#### a4fa9496d8-L? | JOKER | x2
+#### a4fa9496d8 | JOKER | x2
 Tell me. Did you -- [smiles] enjoy it?
 
 #### 95754113af | JOKER → BRUCE | x6
@@ -1178,10 +1172,10 @@ Let’s start with something easy.
 #### 887ede4e94 | BRUCE → JOKER | x2
 Just you.
 
-#### 60d31a8c83-LM | JOKER → BRUCE | x2
+#### 60d31a8c83 | JOKER → BRUCE | x2
 But you wanted to anyway didn’t you?
 
-#### 2ebaec4186-SM | BRUCE → JOKER | x2
+#### 2ebaec4186 | BRUCE → JOKER | x2
 I’m not interested in your games.
 
 #### 0f2eb03e4b | JOKER → BRUCE | x2
@@ -1202,10 +1196,10 @@ How do you know her name!?
 #### e5ae4b08bf | choice/UI | x2
 How do you
 
-#### 107378d38f-L? | choice/UI | x2
+#### 107378d38f | choice/UI → JOKER | x4
 You said Vicki Vale’s name.
 
-#### 2aad851f9e-L? | choice/UI | x2
+#### 2aad851f9e | choice/UI → JOKER | x4
 You were praising the CoA.
 
 #### eecf59fd44 | choice/UI → JOKER | x4
@@ -1232,7 +1226,7 @@ Please, people are in danger.
 #### c2a3fdbed3 | choice/UI → JOKER | x2
 You win, I’ll talk.
 
-#### 0e7387dbe2-LM | JOKER → BRUCE | x2
+#### 0e7387dbe2 | JOKER → BRUCE | x2
 You wanted to be a hero.
 
 #### b30cf773cc | JOKER → BRUCE | x2
@@ -1370,7 +1364,7 @@ I want to hurt you too.
 #### f3595103ad | BRUCE → JOKER | x2
 The apple -- it doesn’t fall far from the tree.
 
-#### 6d6dbbdfd4-LM | JOKER → BRUCE | x2
+#### 6d6dbbdfd4 | JOKER → BRUCE | x2
 First ask yourself... what drives her?
 
 #### 736df77fda | BRUCE → JOKER | x2
@@ -1421,22 +1415,22 @@ Now. How can I help you?
 #### 8d068ce82e | JOKER → BRUCE | x2
 Focus please.
 
-#### 6e54ae2ada-SM | JOKER → BRUCE | x2
+#### 6e54ae2ada | JOKER → BRUCE | x2
 So, I carved a smile into his face.
 
-#### 4dc5d14c86-LM | JOKER → BBRUCE | x2
+#### 4dc5d14c86 | JOKER → BBRUCE | x2
 If only you could see just how ridiculous you look.
 
 #### eb3e5947b0 | JOKER → BBRUCE | x2
 You really do care, don’t you?
 
-#### cf6427f892-SM | JOKER → BBRUCE | x2
+#### cf6427f892 | JOKER → BBRUCE | x2
 I’ve always found empathy fascinating.
 
 #### c30d4d280a | JOKER → BBRUCE | x2
 If you want to get into her head, you’ll have to let me in yours.
 
-#### 2da4f20427-L? | JOKER | x2
+#### 2da4f20427 | JOKER | x2
 You tell me something about yourself and I’ll tell what I know about Vicki.
 
 #### 19ddb981c3 | JOKER | x2
@@ -1466,12 +1460,6 @@ She knows how to drive people crazy.
 #### fccb221f76 | BRUCE → JOKER | x2
 How do you know her?
 
-#### 107378d38f-LM | choice/UI → JOKER | x2
-You said Vicki Vale’s name.
-
-#### 2aad851f9e-LM | choice/UI → JOKER | x2
-You were praising the CoA.
-
 #### c1e9d14f7a | JOKER → BRUCE | x2
 And what? You think you can save them?
 
@@ -1487,7 +1475,7 @@ I’m. Not. Broken.
 #### 924cfb5169 | JOKER → BRUCE | x6
 You look pretty broken to me.
 
-#### 422027ad1d-LM | JOKER → BRUCE | x4
+#### 422027ad1d | JOKER → BRUCE | x4
 You broke Oswald. You couldn’t even save your parents.
 
 #### 4530aeb576 | JOKER → BRUCE | x4
@@ -1502,7 +1490,7 @@ See -- broken brain.
 #### 76000ccdf7 | JOKER → BRUCE | x4
 Hey Zsasz! Heads up!
 
-#### c1751789ec-LM | JOKER → BRUCE | x2
+#### c1751789ec | JOKER → BRUCE | x4
 You broke Oswald’s body because you wanted to.
 
 #### bbad908aa8 | JOKER → BRUCE | x2
@@ -1541,7 +1529,7 @@ Maybe we can come to some... arrangement.
 #### 42a86d63cf | BRUCE, BATMAN → JOKER, HARVEY | x4
 You don’t want to find out.
 
-#### 8dff8ec02b-LM | JOKER → BRUCE | x2
+#### 8dff8ec02b | JOKER → BRUCE | x2
 If you want to stop her -- you need to get into her head -- the way I’ve gotten into yours.
 
 #### d1c0fcb0b4 | JOKER → BRUCE | x2
@@ -1622,9 +1610,6 @@ Sometimes veracity can be vicious.
 #### 65d2445e1d | JOKER | x2
 The way she exposed you.
 
-#### c1751789ec-L? | JOKER | x2
-You broke Oswald’s body because you wanted to.
-
 #### 6dba119c38 | JOKER | x2
 You will break everything you touch --because you are broken.
 
@@ -1643,7 +1628,7 @@ It would appear so.
 #### b686d9e3df | BRUCE → JOKER | x2
 I’m Sam.
 
-#### c025f4b158-SM | JOKER → BRUCE | x2
+#### c025f4b158 | JOKER → BRUCE | x2
 You actually think I’m interested in you.
 
 #### b5da58c7cc | JOKER → BRUCE | x2
@@ -1661,7 +1646,7 @@ Now let’s see how many heads we can -- take off.
 #### 6c303d353c | JOKER → BRUCE | x2
 Tell me. When she stabbed you with her needle -- what did she expose in you?
 
-#### 363a1657fd-LM | JOKER → BRUCE | x2
+#### 363a1657fd | JOKER → BRUCE | x2
 Tell me, Bruce. When you attacked that man, d
 
 #### dc57f09987 | JOKER | x2
@@ -1673,7 +1658,7 @@ Anything to make you smile.
 #### 22afe3f430 | JOKER | x2
 Be your own man.
 
-#### 7d47de262e-L? | JOKER | x2
+#### 7d47de262e | JOKER | x2
 You broke his body -- because you like to break things.
 
 #### bcf3c1958a | JOKER → BRUCE | x6
@@ -1697,7 +1682,7 @@ How did it feel when she exposed you?
 #### 84518b4b70 | JOKER → BRUCE | x2
 You okay there, Bruce?
 
-#### da607564bd-L? | JOKER | x2
+#### da607564bd | JOKER | x2
 The man you assaulted on the tv -- he was a childhood friend of yours
 
 #### 3eb3dc05d0 | JOKER | x2
@@ -1706,7 +1691,7 @@ You look lost.
 #### ac514a21ba | JOKER | x2
 This way, this way.
 
-#### 2569fda09a-SM | JOKER, LUCIUS → ALFRED | x4
+#### 2569fda09a | JOKER, LUCIUS → ALFRED | x4
 I’m right here.
 
 #### 1dda439039 | JOKER → BRUCE | x2
@@ -1730,7 +1715,7 @@ To... influence him?
 #### 74effb31dd | JOKER → BRUCE | x2
 Is that why you beat that man nearly to death?
 
-#### e475ffdc6c-LM | JOKER → BRUCE | x2
+#### e475ffdc6c | JOKER → BRUCE | x2
 Because you’re crazy?
 
 #### 320ca5ba65 | BRUCE → JOKER | x2
@@ -1772,7 +1757,7 @@ He took your power.
 #### 948d91276c | JOKER → BRUCE | x2
 He took his power from him.
 
-#### 78b7dbde3a-LM | JOKER → BRUCE | x2
+#### 78b7dbde3a | JOKER → BRUCE | x2
 You’ve lost your power.
 
 #### d399cd3d23 | JOKER → BRUCE | x2
@@ -1784,10 +1769,10 @@ That must’ve really pissed you off.
 #### 5ce8795e50 | JOKER → BRUCE | x4
 That must would make anyone lose their mind...
 
-#### 83d146d08a-LM | JOKER → BRUCE | x2
+#### 83d146d08a | JOKER → BRUCE | x2
 Because you were angry?
 
-#### 70fb979094-LM | JOKER → BRUCE | x2
+#### 70fb979094 | JOKER → BRUCE | x2
 No. You wanted to do it.
 
 #### 8108a487f9 | JOKER → BRUCE | x2
@@ -1802,7 +1787,7 @@ Vicki made me do it.
 #### 0c916afcbd | JOKER → BRUCE | x4
 You really think you can save the city from Vicki?
 
-#### c367adae65-LM | JOKER → BRUCE | x2
+#### c367adae65 | JOKER → BRUCE | x2
 What makes you think you can save yourself?
 
 #### 018332a24a | JOKER → BRUCE | x2
@@ -1811,7 +1796,7 @@ She took your sanity.
 #### b715816538 | JOKER | x2
 She made you loose your mind.
 
-#### e2c65a019a-L? | JOKER, choice/UI | x4
+#### e2c65a019a | JOKER, choice/UI | x4
 You’ve lost your mind.
 
 #### a3605be27f | JOKER → BRUCE | x2
@@ -1835,7 +1820,7 @@ You -- you wa
 #### 8ba5e63cfc | JOKER → BRUCE | x4
 No one can fix you.
 
-#### b75553dfe5-SM | BRUCE → JOKER | x4
+#### b75553dfe5 | BRUCE → JOKER | x4
 This time, I won’t fail.
 
 #### 4cbe935944 | JOKER → BRUCE | x4
@@ -1880,19 +1865,19 @@ Vicki seeks the truth in people.
 #### 443f6a2cce | JOKER → BRUCE | x2
 She brings out their true nature.
 
-#### 648dfc1a7e-LM | JOKER → BRUCE | x2
+#### 648dfc1a7e | JOKER → BRUCE | x2
 You beat that man -- because you wanted to.
 
 #### e350524afa | JOKER → BRUCE | x2
 What a rube.
 
-#### f6efc98e5e-SM | BRUCE → HARVEY | x2
+#### f6efc98e5e | BRUCE → HARVEY | x2
 I’m damaged goods.
 
-#### a3ada542aa-SM | choice/UI → JOKER | x2
+#### a3ada542aa | choice/UI → JOKER | x2
 Yes, I admit I lost control.
 
-#### 1c3f6e3dc3-SM | choice/UI → JOKER | x2
+#### 1c3f6e3dc3 | choice/UI → JOKER | x2
 No, I knew what I was doing.
 
 #### d57e7b66ba | choice/UI | x2
@@ -1913,7 +1898,7 @@ Sit
 #### 561d492df6 | choice/UI | x2
 Let’s talk about something else.
 
-#### dc8119be97-SM | choice/UI | x2
+#### dc8119be97 | choice/UI | x2
 I’m sorry, okay?
 
 #### 0ef65892b8 | choice/UI | x2
@@ -1925,13 +1910,13 @@ It makes me angry.
 #### e262266294 | choice/UI | x2
 I feel your pain.
 
-#### e539428d57-SM | choice/UI | x2
+#### e539428d57 | choice/UI | x2
 I said I feel nothing.
 
-#### cc84369fdb-SM | choice/UI | x2
+#### cc84369fdb | choice/UI | x2
 I said I was angry.
 
-#### 5bac3a672f-SM | choice/UI | x2
+#### 5bac3a672f | choice/UI | x2
 I said I sympathize.
 
 #### c1e8de4ccb | choice/UI | x2
@@ -1949,13 +1934,13 @@ I’m not talking to a puppet.
 #### caa7afca30 | choice/UI | x2
 “Nothing.“
 
-#### 9d9b828692-SM | choice/UI | x2
+#### 9d9b828692 | choice/UI | x2
 I had no idea.
 
 #### a7f8076a66 | choice/UI | x2
 I know now.
 
-#### 7a443d6bbe-SM | choice/UI | x2
+#### 7a443d6bbe | choice/UI | x2
 I was just a kid!
 
 #### c7bb469d25 | choice/UI | x2
@@ -1982,7 +1967,7 @@ I use restraint.
 #### e38efc337e | choice/UI | x2
 I don’t enjoy hurting others.
 
-#### dae08c77a6-SM | choice/UI | x2
+#### dae08c77a6 | choice/UI | x2
 I would without hesitation.
 
 #### 7f7dee560c | choice/UI | x2
@@ -2003,10 +1988,10 @@ I can show you first hand
 #### 4a3a342573 | choice/UI | x2
 That wasn’t the real me.
 
-#### 99c7b85ca7-SM | choice/UI | x2
+#### 99c7b85ca7 | choice/UI | x2
 I was drugged
 
-#### 1a5a7c8a22-SM | choice/UI | x2
+#### 1a5a7c8a22 | choice/UI | x2
 Won’t admit I’m crazy
 
 #### ca456ebf8e | choice/UI → HARVEY | x2
@@ -2024,7 +2009,7 @@ This is a trick.
 #### 83db079aec | HARVEY → BRUCE | x2
 These “Children of Arkham” are trying to sell you a false story, ladies and gentlemen.
 
-#### a3e4e7546d-LM | HARVEY → JOKER, ZSASZ | x8
+#### a3e4e7546d | HARVEY → JOKER, LELAND, ZSASZ | x14
 These{FaceAccent} “Children{AngryB} of Arkham”{FaceAccent} would have you believe that {ThinkingB}they{BodyAccent} are the ones who{AngryA} are going to bring Gotham to a new era of prosperity, but all they have done is {AngryB}sow the{BodyAccent} seeds {AngryC}of{FaceAccent}{BodyAccent} chaos!
 
 #### b45d987406 | HARVEY → LELAND, BRUCE, ZSASZ | x10
@@ -2051,13 +2036,13 @@ The staff really {FaceAccent}aren’t supposed{ConfusedC} to let patients{Confus
 #### 668b732c07 | LELAND → BRUCE | x2
 So much {ConfusedC}negative stimulus on the news.
 
-#### abebb5dc5a-LM | LELAND → BRUCE | x2
+#### abebb5dc5a | LELAND → BRUCE | x2
 Especially for... notable patients, such as yourself.
 
 #### 7afc639cb8 | choice/UI → LELAND | x2
 Turn it back on.
 
-#### fa0bb8bd28-SM | BRUCE → LELAND | x2
+#### fa0bb8bd28 | BRUCE → LELAND | x2
 I was trying to{ThinkingA} watch that, doctor.
 
 #### cbbe4cfb22 | LELAND → BRUCE | x2
@@ -2126,19 +2111,19 @@ How about you back off before I knock your teeth in?
 #### e955715111 | BRUCE → ARNOLD | x4
 I’d just... I’d really rather talk about something else.
 
-#### 0073b7ab39-LM | SOCKO → BRUCE | x2
+#### 0073b7ab39 | SOCKO → BRUCE | x2
 Ohhh nonono that’s not how this is going to go. You can talk about whatever you want, Arnold. You’ve waited too long for this.
 
 #### e92c6af707 | BRUCE → ARNOLD | x2
 Like you all come from perfect families?
 
-#### 7f6382915d-SM | BRUCE → ARNOLD | x2
+#### 7f6382915d | BRUCE → ARNOLD | x2
 Look, my father did some bad things, yes... I was a kid when all that happened. I’m not accountable for his actions.
 
 #### fc7fa315d3 | SOCKO → BRUCE | x2
 And he thinks that makes him INNOCENT somehow? Like his lil’ silk footie pajamas didn’t soak up any of those bloodstains?
 
-#### bc5956691f-SM | ARNOLD → SOCKO | x2
+#### bc5956691f | ARNOLD → SOCKO | x2
 I... I’m sorry--
 
 #### 91b006d754 | SOCKO → BRUCE | x2
@@ -2177,7 +2162,7 @@ Please, what do YOU know about being angry?
 #### f0d1bc1066 | BRUCE → PATIENTBILLY | x2
 More than you can imagine.
 
-#### b3093b5856-SM | BRUCE → PATIENTTABOR | x2
+#### b3093b5856 | BRUCE → PATIENTTABOR | x2
 I am so sorry, Arnold. Believe me, I understand the pain.
 
 #### 36d2056e3f | PATIENTBILLY → PATIENTTABOR | x2
@@ -2198,7 +2183,7 @@ Actually, I think it might be more productive if you tell The Puppet... not Arno
 #### 3a68695714 | JOKER → SOCKO | x2
 This is important for both of you.
 
-#### a044271411-SM | BRUCE → JOKER, SOCKO | x4
+#### a044271411 | BRUCE → JOKER, SOCKO | x4
 It’s like I told Arnold, It don’t really feel anything.
 
 #### 593419647d | JOKER → BRUCE | x6
@@ -2207,13 +2192,13 @@ Well... That’s interesting. Very... interesting.
 #### 4efd0c633b | SOCKO → BRUCE | x2
 “Interesting?“ Try “callous.“ “Sociopathic.“
 
-#### c14ab02edb-SM | BRUCE → JOKER | x2
+#### c14ab02edb | BRUCE → JOKER | x2
 It’s like I said, it makes me angry. What happened to him was wrong.
 
 #### 5bc559948e | SOCKO → BRUCE | x2
 Seems to me you’re not as angry as you SHOULD be.
 
-#### 35422a0319-SM | BRUCE → SOCKO | x2
+#### 35422a0319 | BRUCE → SOCKO | x2
 I’m really sorry. I feel terrible he had to live through that.
 
 #### e4d694e724 | SOCKO → BRUCE | x2
@@ -2234,7 +2219,7 @@ Sorry, but I’m not going to talk to a puppet.
 #### 3b4c8565b2 | JOKER → BRUCE | x6
 Please, that’s enough. [To Bruce] But, you really should show a little respect, Bruce.
 
-#### 53d68aff27-LM | SOCKO → JOKER | x4
+#### 53d68aff27 | SOCKO → JOKER | x4
 Ugh. Of course a little richboy like you would give me the cold shoulder. Is this how you acted towards the maids when they wouldn’t wipe your tushy, too?
 
 #### 3af6947a09 | SOCKO → JOKER | x2
@@ -2243,7 +2228,7 @@ Yeah Bruce. Tell *me* how you feel.
 #### de2e265bb6 | SOCKO → ARNOLD | x2
 Does Bwucie have [sniff] so many feewings inside?
 
-#### ec9606d9bb-SM | ARNOLD → SOCKO | x2
+#### ec9606d9bb | ARNOLD → SOCKO | x2
 How am I supposed to trust whether you’re telling the truth or lying?... You’re a *Wayne*!
 
 #### 8f00cbb2d1 | ARNOLD → SOCKO | x2
@@ -2273,7 +2258,7 @@ Would you say that’s true?
 #### 35bb70f83a | JOKER → PATIENTTABOR | x2
 Uncontrollabe desires?
 
-#### 038b4bb522-SM | BRUCE → JOKER | x2
+#### 038b4bb522 | BRUCE → JOKER | x2
 Yes. I admit it - I lost control.
 
 #### 8e9fc383a6 | SOCIALWORKER, JOKER → JOKER, BRUCE | x4
@@ -2282,7 +2267,7 @@ Such wonderful honesty! How refreshing!
 #### aeb0b906d1 | JOKER → BRUCE | x2
 That sort of open, forthcoming behavior will aid you *wonderfully* on the road to recovery. And just remember. We’re all here for you.
 
-#### 15b3c012d5-SM | BRUCE → JOKER | x2
+#### 15b3c012d5 | BRUCE → JOKER | x2
 I know what you’re doing - You want me to admit that I’m crazy. Say I had some sort of psychotic episode.
 
 #### a57180c695 | BRUCE → JOKER | x2
@@ -2291,7 +2276,7 @@ But I’m perfectly sane.
 #### 0400bf19c2 | JOKER → BRUCE | x2
 Hm. Maybe I’ve been doing this too long, but that was a decidely violent-looking flavor of “sanity.“
 
-#### 2f1cdfaab0-SM | BRUCE → JOKER | x2
+#### 2f1cdfaab0 | BRUCE → JOKER | x2
 It wasn’t what it looked like - I lost control, but only because I was drugged.
 
 #### 578e630b5b | SOCKO → JOKER | x2
@@ -2372,7 +2357,7 @@ Sorry doc. Just getting to know the new guy.
 #### d46e669d00 | LELAND → JOKER | x4
 Well, Group is cancelled for the day.
 
-#### 3dd6a260cb-LM | LELAND → BRUCE | x2
+#### 3dd6a260cb | LELAND → BRUCE | x2
 I don’t know what happened here, but it’s not the most auspicious start, Bruce.  If I find out you started this, I’ll recommend that they commit you officially.
 
 #### 9963531d3e | JOKER → LELAND | x2
@@ -2411,16 +2396,16 @@ And you REALLY didn’t know about any of it?
 #### 061c71c009 | JOKER → BRUCE | x2
 Really REALLY didn’t know?THOMPKINS:<<guid:everyone.
 
-#### 7383266968-SM | BRUCE → JOKER | x2
+#### 7383266968 | BRUCE → JOKER | x2
 I really had no idea.
 
-#### 098c89e6de-LM | JOKER → BRUCE | x2
+#### 098c89e6de | JOKER → BRUCE | x2
 Because you could tell me if you did.
 
 #### f3c5dddbd8 | JOKER → BRUCE | x2
 It’ll be our little secret.
 
-#### 8e9fe96bf0-SM | JOKER → BRUCE | x6
+#### 8e9fe96bf0 | JOKER → BRUCE | x6
 Well ain’t that a cryin’ shame. I was hoping to pick up some tips from the Wayne family playbook. [Chuckle]
 
 #### 25d884a9c8 | JOKER → BRUCE | x8
@@ -2432,10 +2417,10 @@ Well I know about it now. The drugs, convincing people they were crazy, thowing 
 #### 52a5fb055c | JOKER → BRUCE | x2
 Yes, expertly done, wasn’t it?
 
-#### 12cf06e88a-SM | BRUCE → JOKER | x2
+#### 12cf06e88a | BRUCE → JOKER | x2
 I didn’t know what my dad was up to because I was just a kid!
 
-#### 9681677359-SM-LM | JOKER → BRUCE | x2
+#### 9681677359 | JOKER → BRUCE | x2
 Yes, I’m sure you really crunched those numbers and gave Wall Street what-for.
 
 #### 048cdd3d63 | JOKER → BRUCE | x2
@@ -2450,28 +2435,28 @@ See, hurting someone’s BODY is easy. I do that all the time. Little knife here
 #### ac258a6e04 | JOKER → BRUCE | x2
 What your DAD did, on the other hand, destroyed people’s MINDS. Mm. Masterful.
 
-#### 95b994969e-LM | JOKER → BRUCE | x2
+#### 95b994969e | JOKER → BRUCE | x2
 And now you’re in here too! All because that violence and *depravity* you inherited from daddy dearest couldn’t stay buried forever.
 
-#### 6bc2aa5bae-SM | BRUCE → JOKER | x2
+#### 6bc2aa5bae | BRUCE → JOKER | x2
 I already told you. I lost --[control]
 
-#### 229c444c6e-LM | JOKER → BRUCE | x2
+#### 229c444c6e | JOKER → BRUCE | x2
 “That you lost control,“ yes yes I know. That drug Miss Vale hit you with really packed a WHALLOP, didn’t it?
 
-#### b780bb6746-SM | BRUCE → JOKER | x2
+#### b780bb6746 | BRUCE → JOKER | x2
 I’m still not going to admit that I’m crazy--
 
 #### fb372cbf2b | JOKER → BRUCE | x2
 Hey! No judgment! That stuff Miss Vale hit you with would drive ANYONE nuts, ha!
 
-#### a8b05a9b61-SM | BRUCE → JOKER | x2
+#### a8b05a9b61 | BRUCE → JOKER | x2
 I already told you. I was --[drugged]
 
 #### 132f689be5 | JOKER → BRUCE | x4
 Drugged! I know! And whadda drug, amirite? That stuff Miss Vale’s slingin’ is SERIOUS business.
 
-#### 4e2b82fd88-SM | BRUCE → JOKER | x2
+#### 4e2b82fd88 | BRUCE → JOKER | x2
 That wasn’t me! I was --[drugged]
 
 #### d197e586cd | BRUCE → JOKER | x2
@@ -2486,7 +2471,7 @@ This is a trick.  You’re trying to get me to talk.  Why?
 #### 5560a1cb22 | JOKER → BRUCE | x2
 Still, that drug... a real “Cocktail du Cuckoo.“ [giggle]
 
-#### 69122ef71d-SM | JOKER → BRUCE | x2
+#### 69122ef71d | JOKER → BRUCE | x2
 Almost a little jealous *I* didn’t have that stuff last time I was on the outside.
 
 #### 17437ab6c9 | JOKER → BRUCE | x2
@@ -2565,7 +2550,7 @@ Wow, look at Mr. Impatient over here. I’m just trying to build up a little, he
 #### ded03fa0ff | JOKER → BRUCE | x10
 The point is that you must have the same darkness, the same “bubbles,“ inside you that your daddy did. He released HIS with those [chuckle] delightful gaslightings.
 
-#### ed9eeef5ba-LM | JOKER → BRUCE | x10
+#### ed9eeef5ba | JOKER → BRUCE | x12
 But how do YOU let the bubbles out?
 
 #### 1a5530eb45 | BRUCE → JOKER | x2
@@ -2577,7 +2562,7 @@ Of course. You twist it just a little, ssssss, until all the bubbles are gone.
 #### 66b5389991 | BRUCE → JOKER | x2
 Yeah. And then you just keep doing that until all the bubbles are gone.
 
-#### 36cc9151db-SM | JOKER → BRUCE | x4
+#### 36cc9151db | JOKER → BRUCE | x4
 “Twist it shut again,“ ha, I always forget that part. (S’how I ended up in here) [Chuckles]
 
 #### 1eab586618 | BRUCE → JOKER | x2
@@ -2586,11 +2571,8 @@ I can’t help but feel like this is some sort of “extended metaphor.“
 #### c6a08a1590 | JOKER → BRUCE | x4
 Ooooh 3 points for the man with the cheekbones and soulful eyes!
 
-#### bbeccfc415-LM | JOKER → BRUCE | x2
+#### bbeccfc415 | JOKER → BRUCE | x2
 Yes, you caught me - It’s a metaphor, trying to explain to you that we all have those, [chuckle] “bubbles of darkness.“
-
-#### ed9eeef5ba-L? | JOKER | x2
-But how do YOU let the bubbles out?
 
 #### c946dc68b7 | JOKER → BRUCE | x4
 Your butler didn’t open all your sodas for you, did he?
@@ -2619,7 +2601,7 @@ I have a very active night life.
 #### 4aa0a792be | choice/UI → JOKER | x4
 I don’t have those “bubbles.“
 
-#### 11114abfa2-SM | choice/UI → JOKER | x4
+#### 11114abfa2 | choice/UI → JOKER | x4
 People tell me I already let them out.
 
 #### e1bcadd281 | BRUCE → JOKER | x4
@@ -2631,13 +2613,13 @@ Oh re-ally. Well that sounds fascinating. [Droll] Like... jogging? Boxing? Polo?
 #### b123012f51 | BRUCE → JOKER | x4
 I don’t care what you say - I don’t have that kind of darkness to work out.
 
-#### 6fd427afa0-LM | JOKER → BRUCE | x4
+#### 6fd427afa0 | JOKER → BRUCE | x4
 Oh Brucie. Denial is just a sad, sad thing to witness this close. Look at what you did to Cobblepot! Drugged or not, that was already inside you just waiting to come out!
 
-#### 8022126b81-LM | JOKER → BRUCE | x2
+#### 8022126b81 | JOKER → BRUCE | x2
 Look at what you did to Cobblepot! Drugged or not, that ferocity - that delicious, delightful *rage* - was already inside you just waiting to come out!
 
-#### f86d1ab456-LM | JOKER → BRUCE | x4
+#### f86d1ab456 | JOKER → BRUCE | x4
 Seeing as you’re not dead or, [chuckle] a raving lunatic, I assume you must’ve let it out periodically in the past even before *Victoria Arkham* drugged ya.
 
 #### 2b49e010a4 | BRUCE → JOKER | x2
@@ -2664,7 +2646,7 @@ Oops!
 #### 0738beef15 | JOKER | x2
 You know. Like *Victoria Arkham did.
 
-#### 0c81145bfa-SM | JOKER → BRUCE | x8
+#### 0c81145bfa | JOKER → BRUCE | x8
 Yeah. I gave you that one for free to see if I could entice you to, you know, play along.
 
 #### dd4d980319 | JOKER → BRUCE | x4
@@ -2679,7 +2661,7 @@ Or do you not want to know more about *Victoria Arkham?*
 #### 863a8e5ec6 | JOKER → BRUCE | x4
 When it all just gets to be too much...
 
-#### efd21c69ba-LM | JOKER → BRUCE | x4
+#### efd21c69ba | JOKER → BRUCE | x4
 What do you do to stop yourself from just hurling that caviar right back in the maid’s face and demanding the duck confit, huh?
 
 #### 30da617b81 | JOKER → BRUCE | x2
@@ -2691,7 +2673,7 @@ Her real name isn’t “Vicki Vale?“
 #### 486599b620 | JOKER → BRUCE | x2
 She still comes by the ol’ family business though. Last time she came ‘round she was asking yours truly for some... real estate tips.
 
-#### e46156c1ac-LM | JOKER → BRUCE | x2
+#### e46156c1ac | JOKER → BRUCE | x2
 Whiiiich I’d be happy to pass along to you as well if you told me, oh I don’t know, about someone you’ve hurt?
 
 #### 715b0ebbc5 | JOKER → BRUCE | x2
@@ -2709,22 +2691,22 @@ People who deserve it.
 #### 9d8d0c0b25 | choice/UI → JOKER | x2
 I do it to protect innocents.
 
-#### b8e8fae5a7-SM | choice/UI → JOKER | x2
+#### b8e8fae5a7 | choice/UI → JOKER | x2
 I hurt my friend Harvey.
 
-#### 74cd2dbd89-SM | BRUCE → JOKER | x2
+#### 74cd2dbd89 | BRUCE → JOKER | x2
 I hurt Oswald Cobblepot pretty bad.
 
 #### be3af1b52a | JOKER → BRUCE | x2
 Oh boo. I already know about that one!
 
-#### 7bb2e8e66f-SM | BRUCE → HARVEY | x2
+#### 7bb2e8e66f | BRUCE → HARVEY | x2
 My friend...Mayor Dent... thinks I betrayed him. Let him down.
 
 #### 3c45d0a559 | BRUCE → JOKER | x2
 ...Slept with a girl he was seeing.
 
-#### 63ea9cbe06-LM | JOKER → BRUCE | x2
+#### 63ea9cbe06 | JOKER → BRUCE | x2
 Did you?
 
 #### 492d2f260d | JOKER → BRUCE | x4
@@ -2736,13 +2718,13 @@ No. But it didn’t look good.
 #### a6d5fa08ea | JOKER → BRUCE | x4
 Heh, those love triangles are as pointy as carving knives, aren’t they?
 
-#### 416d57894e-LM | BRUCE → JOKER | x2
+#### 416d57894e | BRUCE → JOKER | x2
 You never said it had to be someone you didn’t know about.
 
 #### e941330a8c | JOKER → BRUCE | x2
 Hoisted on my own petard, eh? Heh. Still. THAT Bruce Wayne doesn’t deserve to be cooped up in here.
 
-#### b34ef9b9d4-SM | BRUCE → JOKER | x2
+#### b34ef9b9d4 | BRUCE → JOKER | x2
 Remember those “extra-curricular activities” I mentioned before?
 
 #### d1d75e1e74 | BRUCE → JOKER | x2
@@ -2751,7 +2733,7 @@ Okay, so... occasionally I might go out and... fight criminals.
 #### 5a136d9033 | BRUCE → JOKER | x2
 Well occasionally they involve... fighting criminals.
 
-#### 83971df02d-LM | JOKER → BRUCE | x2
+#### 83971df02d | JOKER → BRUCE | x2
 NOW we’re getting somewhere. And you hurt them?
 
 #### b83dec6149 | BRUCE → JOKER | x2
@@ -2760,7 +2742,7 @@ Yeah... Pretty badly sometimes.
 #### 48686162da | JOKER → BRUCE | x2
 Fantastic. See now this Bruce Wayne doesn’t deserve to be cooped up here in Arkham.
 
-#### 4453e33114-LM | JOKER → BRUCE | x2
+#### 4453e33114 | JOKER → BRUCE | x2
 Bruce. Brucie. I like you, but you clearly have a dark, inside-Bruce Wayne you need to let out more often!
 
 #### 300d2f8e22 | JOKER | x2
@@ -2769,13 +2751,13 @@ And, call me crazy [chuckle], but I wanna help you. Make you the most YOU “you
 #### a60e0943b8 | JOKER | x2
 Like ol’ Zsasz over there. Why, he’s not afraid of letting his bubbles out at all. He’s done it allll over Gotham, heh.
 
-#### 588bfffed5-L? | JOKER | x2
+#### 588bfffed5 | JOKER | x2
 Don’t you wish you could be more like him?
 
 #### 9a82bdeca0 | JOKER → BRUCE | x8
 That Bruce Wayne should be flying free! Letting his bubbles out all over Gotham!
 
-#### 79b7fdfc03-L? | JOKER | x2
+#### 79b7fdfc03 | JOKER | x2
 And I bet that’s only the tip of the proverbial iceberg... That’s the Bruce Wayne you need to let out more often.
 
 #### dc41cddfb2 | JOKER → BRUCE | x2
@@ -2784,7 +2766,7 @@ What do you say we loosen his lid right now, eh?
 #### 70aa69cac1 | BRUCE → JOKER | x2
 You’ve seen her? Recently?
 
-#### d410372544-SM-LM | JOKER → BRUCE | x2
+#### d410372544 | JOKER → BRUCE | x2
 Mmmmm I could tell you... but first YOU need to tell ME... [Thinking] tell me about someone you’ve hurt.
 
 #### 3f8ffe8552 | choice/UI → JOKER | x2
@@ -2805,7 +2787,7 @@ What’s your point, “Mr. J?“
 #### a6fe206294 | BRUCE, choice/UI → JOKER | x4
 This is a metaphor, isn’t it?
 
-#### 208862aa68-LM | JOKER → BRUCE | x2
+#### 208862aa68 | JOKER → BRUCE | x2
 Yes, you caught me - It’s a metaphor. [Listing] The bubbles are inner darkness, your dad let his out with his gaslighting scams...
 
 #### fc07ae899d | BRUCE → JOKER | x2
@@ -2829,7 +2811,7 @@ But folks like US, Bruce? You and me? Well we’re much fizzier sodas, aren’t 
 #### b428bca717 | JOKER → BRUCE | x2
 For instance, let’s lay out a scenario.
 
-#### 480f9534f5-LM | JOKER → BRUCE | x2
+#### 480f9534f5 | JOKER → BRUCE | x2
 If there was someone you needed to hurt, THEREOTICALLY, what would you favor - baseball bat or knife?
 
 #### b5ad87144d | choice/UI → JOKER | x2
@@ -2841,7 +2823,7 @@ Knife.
 #### 6408fac84d | choice/UI, BRUCE → JOKER | x4
 Neither.
 
-#### 53c83be238-SM | BRUCE → JOKER | x2
+#### 53c83be238 | BRUCE → JOKER | x2
 If I had to choose? I guess I’d go with a baseball bat.
 
 #### 9f3693a217 | JOKER → BRUCE | x2
@@ -2853,7 +2835,7 @@ I guess a knife.
 #### 7af16ea8bd | JOKER → BRUCE | x2
 Ahh up close and personal - You ever line it up juust right so the artery does that little “misting” thing? You know? Where it gets all over you AND her wheelchair?
 
-#### abb6804f40-SM | JOKER → BRUCE | x2
+#### abb6804f40 | JOKER → BRUCE | x2
 Mmm, I’m right there with you. That first CRACK of the skull, sometimes you even get that hiLARIOUS little [popping sound] if you simultaneously break skin.
 
 #### 4a175fba23 | JOKER → BRUCE | x2
@@ -2880,7 +2862,7 @@ I know, I know, I’d have a hard time choosing too.
 #### ee3ec1f66f | JOKER → BRUCE | x2
 You’re thinking [Mock voice] “Why can’t I have both?“
 
-#### 61aabd4aca-SM | JOKER → BRUCE | x2
+#### 61aabd4aca | JOKER → BRUCE | x2
 “I told ya; can’t hold the bat AND the knife AND their puppy.“ [chuckles]
 
 #### f2bc03f936 | choice/UI → JOKER | x2
@@ -2898,19 +2880,19 @@ Wow, really taking the wind outta my sails there, Bruce.
 #### c7ac14bca1 | JOKER → BRUCE | x2
 The point is, we ALL have those bubbles, Bruce. They’re nothing to be ashamed of.
 
-#### 5c06995422-LM | JOKER → BRUCE | x2
+#### 5c06995422 | JOKER → BRUCE | x2
 You can’t bottle yourself up like that - Those bubbles need to go somewhere.
 
-#### eb396dbd95-LM | JOKER → BRUCE | x4
+#### eb396dbd95 | JOKER → BRUCE | x6
 You know who you could learn some lessons from?
 
-#### df553a25ea-SM | BRUCE → JOKER | x2
+#### df553a25ea | BRUCE → JOKER | x2
 No, that’s not what I meant at all.
 
-#### 729dcee332-LM | JOKER → BRUCE | x2
+#### 729dcee332 | JOKER → BRUCE | x2
 Oh. Then you were just being a fuddy-duddy. Boo, fuddy-duddy.
 
-#### 2ab5f73b94-SM | BRUCE → JOKER | x2
+#### 2ab5f73b94 | BRUCE → JOKER | x2
 Yeah. If I had to answer your question I’d go with “no weapons at all.“
 
 #### ce67960a80 | JOKER → BRUCE | x2
@@ -2921,9 +2903,6 @@ You know who you’d get along GREAT with?
 
 #### 086d88c311 | JOKER | x2
 Nothing? [Long exhale]
-
-#### eb396dbd95-L? | JOKER | x2
-You know who you could learn some lessons from?
 
 #### 633f982491 | JOKER → ZSASZ | x2
 Let’s introduce you!
@@ -2940,7 +2919,7 @@ Alright. Which one of you stinking limp-dicks did that?
 #### 3b5fbc7bd4 | choice/UI → JOKER | x2
 It was him!
 
-#### 6f217e5a60-SM | choice/UI → ZSASZ | x2
+#### 6f217e5a60 | choice/UI → ZSASZ | x2
 I did it.
 
 #### 5000a46502 | choice/UI → JOKER | x2
@@ -2955,7 +2934,7 @@ Wow Bruce. Can’t even own up to your little prank.
 #### 5a7dcc43e2 | ZSASZ → JOKER, BRUCE | x6
 Try’na confuse me, huh? Trying to.. make it confusing? Well I don’t like it.
 
-#### 479401e12f-SM | BRUCE → JOKER | x2
+#### 479401e12f | BRUCE → JOKER | x2
 Yeah. It was me - I threw the bottle.
 
 #### 7760f47664 | JOKER → BRUCE | x2
@@ -2973,13 +2952,13 @@ Beeee a paal, Bruce.
 #### c1bf3d8509 | ZSASZ → JOKER | x2
 Someone better start talking or [struggling sound] I’m gonna start really wanting to hurt someone.
 
-#### 6a00a5337b-LM | JOKER → ZSASZ | x2
+#### 6a00a5337b | JOKER → ZSASZ | x2
 Brucie here just thought you looked parched and thought, you know, as a goof, he would give it to you that way.
 
 #### 57b8cbb0b1 | JOKER → ZSASZ | x2
 Not a great sense of humor. He’s rich.
 
-#### f98d789be8-LM | ZSASZ → JOKER | x2
+#### f98d789be8 | ZSASZ → JOKER | x2
 You better watch yourself. Don’t know if you heard, but patients aren’t supposed to mess with each other in here.
 
 #### d6d26587b6 | ZSASZ → JOKER | x2
@@ -2991,10 +2970,10 @@ Didn’t want it to spray all over you.
 #### 7ec0a9af16 | ZSASZ → BRUCE | x2
 What’re you two talking about anyway?
 
-#### 6d87b3d80c-LM | JOKER → BRUCE | x2
+#### 6d87b3d80c | JOKER → BRUCE | x2
 Sayyy, Zsasz-y. You talked to ol’ Vicki last time she was in here, didn’tcha?
 
-#### 66f92fedb4-LM | JOKER → ZSASZ | x2
+#### 66f92fedb4 | JOKER → ZSASZ | x2
 Of course... Just between us boys, we both know that you’ve hurt some people NON-theoretically, right?
 
 #### 0d70c79c8f | choice/UI → JOKER | x2
@@ -3012,10 +2991,10 @@ I have no idea what you’re talking about. I’m not like you.
 #### 5c50989564 | JOKER → BRUCE | x6
 Brucie! Baby! It’s in your DNA! I’ve already SEEN it on the tee-vee - You wailing on that poncey little Cobblepot kid!
 
-#### 3c9e446aaa-LM | JOKER → BRUCE | x6
+#### 3c9e446aaa | JOKER → BRUCE | x8
 Come on, level with me. Who else have you hurt?
 
-#### eccfbef27c-SM-LM | BRUCE → JOKER | x2
+#### eccfbef27c | BRUCE → JOKER | x2
 Yeah, you’re right. I’ve hurt people.
 
 #### 4b759333e8 | JOKER → BRUCE | x2
@@ -3027,11 +3006,8 @@ Who else?
 #### 6841275679 | BRUCE → JOKER | x2
 I’ve maybe hurt some people before, but not like you’re talking about.
 
-#### 2ed54bc50d-LM | JOKER → BRUCE | x2
+#### 2ed54bc50d | JOKER → BRUCE | x2
 You’ve got “it” in spades!
-
-#### 3c9e446aaa-L? | JOKER | x2
-Come on, level with me. Who else have you hurt?
 
 #### 5f2b1efefa | JOKER → BRUCE | x2
 I see it in you, Bruce.
@@ -3045,16 +3021,16 @@ The joy?
 #### b61b19aa53 | JOKER → BRUCE | x2
 The hunger?
 
-#### 3d68bf8652-LM | JOKER → BRUCE | x2
+#### 3d68bf8652 | JOKER → BRUCE | x2
 I’ve already seen you beating the snot out of that Cobblepot kid so I know you’ve got it in you! After all you are a WAYNE!
 
-#### 8697019e42-SM | BRUCE → JOKER | x2
+#### 8697019e42 | BRUCE → JOKER | x2
 I’ve only hurt criminals who deserved it.
 
 #### 81bd970055 | JOKER → BRUCE | x2
 Ooooh someone’s got a judgment complex. Very nice.
 
-#### d2301cea3c-SM | BRUCE → JOKER | x2
+#### d2301cea3c | BRUCE → JOKER | x2
 When I hurt people, it’s to make sure that innocent people aren’t harmed.
 
 #### 75aa30bc6e | JOKER → BRUCE | x2
@@ -3075,7 +3051,7 @@ Bullseye.
 #### f80a6caebf | JOKER → BRUCE | x2
 Apparently not. [Cheery, to group] Excuse {AmusedB}me please!
 
-#### de714047d5-LM | ZSASZ → JOKER | x2
+#### de714047d5 | ZSASZ → JOKER | x2
 So. Mr. Rich Guy.  You think what you did is funny?
 
 #### 429e9eba85 | choice/UI → ALFRED, JOKER, COA01 | x10
@@ -3087,13 +3063,13 @@ Do you have a problem?
 #### 00e77a28e2 | BRUCE → JOKER | x2
 Hey, come on, it was just a dumb prank.
 
-#### c974405bee-SM | BRUCE → JOKER | x2
+#### c974405bee | BRUCE → JOKER | x2
 No, it definitely wasn’t funny. I’m sorry.
 
 #### 4bbaecb723 | JOKER → ZSASZ | x2
 Oh heyyy, Zsasz!
 
-#### eaed763647-LM | BRUCE → ZSASZ | x2
+#### eaed763647 | BRUCE → ZSASZ | x2
 You got a problem Zsasz?
 
 #### f472764f4a | ZSASZ → BRUCE | x2
@@ -3123,7 +3099,7 @@ Yeah really! Here, let’s show you another one.
 #### f6a7c5f9dd | JOKER → ZSASZ | x2
 If you didn’t like that one, Zsasz-y, let’s see what you think of this!
 
-#### 069de805f7-SM | JOKER → ZSASZ | x2
+#### 069de805f7 | JOKER → ZSASZ | x2
 Sh sh sh, Zsasz. You’re helping me make a point. [Chuckles, to Bruce] See, it’s wordplay because I’ve got a knife poking his liver right now.
 
 #### 0807e81d10 | JOKER → BRUCE | x2
@@ -3135,13 +3111,13 @@ You’re a little... repressed for my taste, Brucie.
 #### 7426659921 | JOKER → ZSASZ | x2
 So I’m gonna help you find her.
 
-#### 2418fc7a65-L? | JOKER | x2
+#### 2418fc7a65 | JOKER | x2
 So, if it helps you let out some bubbles, I’m gonna help you find her.
 
 #### 283687eda5 | JOKER → BRUCE | x2
 There’s only one way to stop me, Bruce! Show me how much you love the violence! Punch me. Repeatedly. Right in the face.
 
-#### 1f09086372-SM | JOKER | x2
+#### 1f09086372 | JOKER | x2
 But first? I had a friend hide a baseball bat behind that seat. I want you to grab it and take a swing.
 
 #### 5585d80753 | JOKER | x2
@@ -3165,10 +3141,10 @@ What are you doing?!
 #### 1b0bb00093 | JOKER → BRUCE | x2
 Bruce, hold this, would you?
 
-#### ea4fd595df-SM | JOKER → BRUCE | x2
+#### ea4fd595df | JOKER → BRUCE | x2
 Much like the knife I handed you.
 
-#### 121917e5ce-LM | JOKER → BRUCE | x2
+#### 121917e5ce | JOKER → BRUCE | x2
 You said you like knives, right?
 
 #### 532108dfc8 | JOKER → BRUCE | x2
@@ -3189,13 +3165,13 @@ Arkham?
 #### f13746fcc1 | JOKER → BRUCE | x2
 Ah ah. Our little game isnt over.  You still haven’t shown me what I want.
 
-#### 9031c9d946-LM | JOKER → BRUCE | x2
+#### 9031c9d946 | JOKER → BRUCE | x2
 I’ll tell you where to look for Vicki Vale, but first you need to show me what you’re *really* made of.
 
 #### 5a84405d90 | JOKER → BRUCE | x2
 Okay everyone, group {FaceAccent}therapy {HappyB}time.  Everyone {BodyAccent}gather up and take a seat.
 
-#### bda9158ec7-SM-LM | JOKER → BRUCE | x2
+#### bda9158ec7 | JOKER → BRUCE | x2
 Mr. Wayne.  I know you’re new, but I did make the annoucenment. I’ll overlook this for now, but I will be noting your indiscretions.
 
 #### 28a26421be | JOKER → ARNOLD | x2
@@ -3204,7 +3180,7 @@ Yes, now that Mr. Wayne finally graced{AmusedB} us, thats everyone.
 #### bce70fe555 | ARNOLD → JOKER | x2
 I wouldn’t expect anything more from a a Wayne.
 
-#### 18ae096597-SM | choice/UI → JOKER | x2
+#### 18ae096597 | choice/UI → JOKER | x2
 I said nothing before.
 
 #### f4aaa3b17e | BRUCE → JOKER | x2
@@ -3231,7 +3207,7 @@ None of your damned business.
 #### 0a51a7f327 | JOKER → BRUCE | x2
 Oooh!  That sounds like guilt to me!
 
-#### b07c6f15ca-LM | LELAND → JOKER | x2
+#### b07c6f15ca | LELAND → JOKER | x2
 You need to be focusing on your health and {ThinkingC}getting well - Hard to do that when you’re fixated on what the {FaceAccent}world thinks of you.
 
 #### 9fb5b12189 | SOCKO → JOKER | x2
@@ -3261,10 +3237,10 @@ Tsk tsk.
 #### 3228b76957 | JOKER → ZSASZ | x2
 There, there, sweet Zsasz.
 
-#### 3a93ed08a4-SM | JOKER → BRUCE | x2
+#### 3a93ed08a4 | JOKER → BRUCE | x2
 Ohh sh sh sh. [To Bruce] Remember how I said he has a tallymark for every person he’s killed?
 
-#### a6a8e0f95f-SM | JOKER → ZSASZ | x2
+#### a6a8e0f95f | JOKER → ZSASZ | x2
 I’ve always wondered... what happens if you give him a tallymark BEFORE he’s killed someone? [Chuckle]
 
 #### 36cf0c2590 | ZSASZ, PATIENTTABOR → JOKER, BRUCE | x4
@@ -3315,10 +3291,10 @@ No no no!
 #### 3a68562fbd | JOKER → ZSASZ | x2
 Brucie.
 
-#### 808fff9d85-LM | ZSASZ → JOKER | x2
+#### 808fff9d85 | ZSASZ → JOKER | x2
 Do you have any idea what the hell you just did?! What I’m gonna have to do?! Oh god.
 
-#### 4891993da9-SM | JOKER → ZSASZ | x2
+#### 4891993da9 | JOKER → ZSASZ | x2
 You. Are. DARK! Just standing there WATCHING as I did that! [Chuckles] That’s sick!
 
 #### 079a02a339 | JOKER → ZSASZ, ORDERLY01 | x4
@@ -3327,7 +3303,7 @@ Come on, pal! Don’t let US have all the fun!
 #### ee71e5495d | ORDERLY02 → JOKER | x2
 What the hell is going on here?!
 
-#### dacea1a142-SM-LM | JOKER → BRUCE | x4
+#### dacea1a142 | JOKER → BRUCE | x4
 I knew you had it in you, Brucie! You’ve earned this...
 
 #### 5579fc5b49 | ORDERLY01 → JOKER | x2
@@ -3342,7 +3318,7 @@ Zsasz attacked me!
 #### 50b8b0ac1b | choice/UI → JOKER | x2
 There’s been an accident.
 
-#### a96d694113-SM | BRUCE → JOKER | x2
+#### a96d694113 | BRUCE → JOKER | x2
 Hey, Zsasz attacked *me*! I had nothing to do with this. I’m innocent!
 
 #### 05a1e0001a | JOKER → BRUCE | x2
@@ -3360,7 +3336,7 @@ Sir, there’s been an accident - This man needs medical attention.
 #### 9dced0bca6 | JOKER → BRUCE | x2
 Stone. Cold. I love it.
 
-#### 1d6604f53c-SM | ZSASZ → JOKER | x2
+#### 1d6604f53c | ZSASZ → JOKER | x2
 I don’t want to... I’m so sorry I’m so sorry.
 
 #### ea1dcbbc9c | ORDERLY01 → JOKER | x2
@@ -3381,7 +3357,7 @@ Wayne. You’re getting a new cell.
 #### e01e0ee757 | BRUCE → JOKER | x2
 Wait! Hngn.
 
-#### 461fce3ca0-LM | LELAND → JOKER | x2
+#### 461fce3ca0 | LELAND → JOKER | x2
 The only one responsible for your being here is {ThinkingA}you.   You need to start{ThinkingC} admitting that to yourself.
 
 #### a735d890c9 | ZSASZ → JOKER | x2
@@ -3390,10 +3366,10 @@ Okay. Hilarious. Which one of you funny, funny guys did that?
 #### 08f76d7f4a | JOKER → LELAND | x2
 Go on, tell him it was you.
 
-#### f5ecf085be-SM | JOKER → ZSASZ, BRUCE | x4
+#### f5ecf085be | JOKER → ZSASZ, BRUCE | x4
 Now, you want to know more about Vicki? I need a taste of that darkness you push deep down.  [Shouted]Show me!!
 
-#### 9af547d028-LM | JOKER → BRUCE | x2
+#### 9af547d028 | JOKER → BRUCE | x2
 If it’ll help you let some bubbles out, I’ll help you find Vicki, but first I’m gonna need you to PROVE that you want it.
 
 #### 447897f517 | choice/UI → JOKER | x2
@@ -3402,7 +3378,7 @@ You’re trying to trick me!
 #### 8dd9255471 | choice/UI → JOKER | x2
 They’ll lock me up!
 
-#### 9ccdbb5897-SM | BRUCE → JOKER | x2
+#### 9ccdbb5897 | BRUCE → JOKER | x2
 I won’t let you manipulate me!
 
 #### 61ffa2ec30 | JOKER → BRUCE | x2
@@ -3411,7 +3387,7 @@ Oh, but you want to hurt me!  I can see it!  Don’t fight it!
 #### ff1f981639 | BRUCE → JOKER | x2
 Just wait!  Stop!  If you do this they’ll lock us both up and throw away the key!
 
-#### 45eecd87bd-LM | JOKER → BRUCE | x2
+#### 45eecd87bd | JOKER → BRUCE | x2
 That wouldn’t be so bad, would it? [Thinks] But you’re right.  You could do WAY more damage on the outside. [smiles] Better stop me then!
 
 #### 2c1a5258e5 | BRUCE, choice/UI → JOKER, ENFORCERMALE | x4
@@ -3429,7 +3405,7 @@ Glad to see Vicki Vale’s drugs loosened you up a bit.
 #### a071e5cc20 | JOKER → BRUCE | x2
 Thought Vicki Vale’s drugs would’ve loosened you up a bit more.
 
-#### 3fd83dbed7-SM | JOKER → BRUCE | x2
+#### 3fd83dbed7 | JOKER → BRUCE | x2
 Sorry to, heh, mislead you back there. The *real* social worker was running late so I thought... “Why not?“ [chuckles]
 
 #### e0670cf600 | choice/UI → JOKER | x2
@@ -3450,7 +3426,7 @@ It’s amazing how if you pop on a badge and pretend you know what you’re doin
 #### 4bbb4ea23f | JOKER → BRUCE | x2
 Crazy stuff. [Chuckle]
 
-#### 0e78bb0d38-SM | BRUCE → JOKER | x2
+#### 0e78bb0d38 | BRUCE → JOKER | x2
 Hey, no problem. I thought it was funny.
 
 #### 8dffbc59c3 | JOKER → BRUCE | x2
@@ -3516,7 +3492,7 @@ I know you’ve been buttering me up to ask me about her, hm?
 #### 050f00311c | ZSASZ → JOKER | x2
 Okay. Seriously. What the hell. I’m over there, I’m minding my own business, we don’t know each other from goddamn Adam and that’s the crap you pull?
 
-#### 80ca81c61a-SM | ZSASZ | x2
+#### 80ca81c61a | ZSASZ | x2
 Because I’ve got a sense of humor. I’d love to talk about it.
 
 #### a3f4f77393 | ZSASZ | x2
@@ -3537,7 +3513,7 @@ Uhhh huh.
 #### 817bf78f46 | ZSASZ | x2
 Damn right! I’ll give you that one, JUST one, strike. Strike out again... and you’ll regret it.
 
-#### 1d6bc10339-SM | ZSASZ → HARVEY | x2
+#### 1d6bc10339 | ZSASZ → HARVEY | x2
 “Do I got...“ Are you serious right now? This is really your angle?
 
 #### e3e8766140 | ZSASZ → HARVEY | x2
@@ -3545,9 +3521,6 @@ Do you actually, legitimately, want to die this morning, is what I’m asking.
 
 #### 874b9431ad | ZSASZ → HARVEY | x2
 Please, get them out of here--
-
-#### a3e4e7546d-LF | HARVEY → LELAND | x6
-These{FaceAccent} “Children{AngryB} of Arkham”{FaceAccent} would have you believe that {ThinkingB}they{BodyAccent} are the ones who{AngryA} are going to bring Gotham to a new era of prosperity, but all they have done is {AngryB}sow the{BodyAccent} seeds {AngryC}of{FaceAccent}{BodyAccent} chaos!
 
 #### 86025b71ec | HARVEY → ARNOLD | x2
 Yes. I {ConfusedA}personally signed the order to admit my {SadA}former{FaceAccent} friend Bruce Wayne to Arkham Asylum. His vicious attack on Oswald{FaceAccent} Cobblepot was extremely out of character{FaceAccent} and, while it may feel like poetic justice to{ConfusedB}{BodyAccent} some, to me it’s the{ConfusedA} best option for Bruce to get the help he obviously{SadA} needs.
@@ -3561,13 +3534,13 @@ And while it may feel like poetic justice to some, to me it’s the best option 
 #### a5105a422b | ARNOLD, GORDON → HARVEY, OSWALD | x4
 Hmph!
 
-#### 19238a156f-SM | BRUCE → HARVEY | x2
+#### 19238a156f | BRUCE → HARVEY | x2
 I spent my life thinking my father was someone he’s not.  I let it define me. So hearing what he did to you and the others like you... it makes me furious.
 
 #### 1679d757ee | PATIENTTABOR → BRUCE | x2
 Yeah, talk to the puppet.  He’s the one in charge anyway.
 
-#### 009a09dd11-SM | BRUCE → JOKER | x2
+#### 009a09dd11 | BRUCE → JOKER | x2
 I wasn’t out of my mind.  I knew what was happening.
 
 #### 10b99173aa | JOKER → BRUCE | x2
@@ -3579,16 +3552,16 @@ Wonderful! Let me try!
 #### a7ac28cb47 | JOKER → BRUCE | x4
 Cuttin’ to the chase!
 
-#### 00cb81c3d9-LM | BRUCE → JOKER | x4
+#### 00cb81c3d9 | BRUCE → JOKER | x4
 What did you say?!
 
 #### 02640885ec | BRUCE → JOKER | x6
 What the hell are you doing?!
 
-#### a690eb8cd3-SM | JOKER → BRUCE | x2
+#### a690eb8cd3 | JOKER → BRUCE | x2
 I knew Vicki’s drug would bring out the best in you!
 
-#### fd77d096b0-SM | JOKER → BRUCE | x2
+#### fd77d096b0 | JOKER → BRUCE | x2
 Cuttin’ to the chase!  I thought Vicki’s drug would’ve loosened you up a bit more! How disapointing!
 
 #### 3c6dcfc8f2 | JOKER → BRUCE | x2
@@ -3597,7 +3570,7 @@ Here we go!
 #### 939fcd8feb | JOKER → BRUCE | x2
 What, is that it?  No retaliation?  No blood?!
 
-#### 287139c9d3-SM | JOKER → BRUCE, SOCKO | x6
+#### 287139c9d3 | JOKER → BRUCE, SOCKO | x6
 I thought Vicki’s drug would’ve loosened you up a bit more! How disappointing!
 
 #### 94c49dd5e2 | JOKER → BRUCE | x2
@@ -3609,7 +3582,7 @@ You’re still feeling it, aren’t you!? When the pressure’s on, things in yo
 #### f1aa4885ec | BRUCE → JOKER | x2
 What do you know about Vicki Vale?!
 
-#### e9b94e72f8-LM | JOKER → BRUCE | x2
+#### e9b94e72f8 | JOKER → BRUCE | x2
 Don’t get yourself all up in a twist, Bruce. Come.  Sit down. Let’s talk.
 
 #### 5e1e35a702 | choice/UI → JOKER | x2
@@ -3633,19 +3606,19 @@ Remember. We’re “getting to know each other” here.
 #### de617e0458 | BRUCE → JOKER | x2
 No. That’s not me. I’m nothing like you.
 
-#### 59dc539326-SM-LM | JOKER → BRUCE | x6
+#### 59dc539326 | JOKER → BRUCE | x6
 Oh that’s definitely not true. I could tell the moment you grabbed me!
 
-#### 7f51c551db-SM | BRUCE → JOKER | x2
+#### 7f51c551db | BRUCE → JOKER | x2
 Okay, yeah, sure. I’ve got some “bubbles of darkness.“
 
-#### 28910d6ec8-LM | JOKER → BRUCE | x2
+#### 28910d6ec8 | JOKER → BRUCE | x2
 See? Doesn’t it feel so good to be honest with yourself?
 
 #### 799022233d | JOKER → BRUCE | x2
 So be honest with me.
 
-#### 5b76e4618e-SM | BRUCE → JOKER | x2
+#### 5b76e4618e | BRUCE → JOKER | x2
 Maybe I’ve got some of these “bubbles of darkness” but I’m not as bad as you.
 
 #### 41df6e2ed6 | JOKER → BRUCE | x2
@@ -3654,7 +3627,7 @@ Oh, I think I do.
 #### 9ab9cff545 | BRUCE → JOKER | x2
 Compared to most people? Yeah. I’m a “fizzier.“
 
-#### 8af37fa567-LM | BRUCE → JOKER | x2
+#### 8af37fa567 | BRUCE → JOKER | x2
 Or you could just shut the bottle and wait for the bubbles to go away naturally.
 
 #### 746d62c4f1 | JOKER → BRUCE | x2
@@ -3681,22 +3654,22 @@ Loosen up, Bruce - I’m a safe space.
 #### 455f42e0a9 | JOKER → BRUCE | x2
 Would you kill that person?
 
-#### 3d06bcb058-LM | JOKER → BRUCE | x2
+#### 3d06bcb058 | JOKER → BRUCE | x2
 I know you’ve got someone in mind.
 
-#### ce27f387e1-SM | choice/UI → JOKER | x2
+#### ce27f387e1 | choice/UI → JOKER | x2
 Yes, I would.
 
 #### 5b213d59b1 | choice/UI → JOKER | x2
 I’d be tempted.
 
-#### c134b72578-SM | BRUCE → JOKER | x2
+#### c134b72578 | BRUCE → JOKER | x2
 No. Of course I wouldn’t. Because *I* would know how I had done it.
 
 #### 95e3349c3f | BRUCE → JOKER | x2
 Yes. Without hesitation.
 
-#### 041d6d13c3-SM | BRUCE → JOKER | x2
+#### 041d6d13c3 | BRUCE → JOKER | x2
 I’d be tempted... But I would resist.
 
 #### f701295fc7 | JOKER → BRUCE | x2
@@ -3711,19 +3684,19 @@ Theoretical scenario for you--
 #### f9dd303fd7 | JOKER | x2
 Tell me. How would you do it?
 
-#### 22ced2968d-L? | JOKER | x2
+#### 22ced2968d | JOKER | x2
 How would you hurt them?
 
-#### 22d7859e6f-L? | JOKER | x2
+#### 22d7859e6f | JOKER | x2
 No? Not even if you knew that they would go on to hurt you again? Hurt the people you care about?
 
-#### e894455835-L? | JOKER | x2
+#### e894455835 | JOKER | x2
 You would deny yourself that retribution? That revenge?
 
-#### 5a006bd87a-L? | JOKER | x2
+#### 5a006bd87a | JOKER | x2
 What if they went on to hurt you again? Or people you cared about?
 
-#### 800b1f36ef-L? | JOKER | x2
+#### 800b1f36ef | JOKER | x2
 You’d really let that happen, all for some pesky “morality?“
 
 #### b30ef68211 | choice/UI → JOKER | x2
@@ -3738,10 +3711,10 @@ Vengeance isn’t the answer.
 #### 4d17168f2d | JOKER | x2
 Excellent. Excellent.
 
-#### 58532a2f27-LM | JOKER → BRUCE | x2
+#### 58532a2f27 | JOKER → BRUCE | x2
 Now, you’re in an alleyway, remember, so your options are limited. There’s... oh maybe a pipe to hit them with... maybe you could throw something... or just your bare fists...
 
-#### 00ff8d98e5-LM | JOKER → BRUCE | x2
+#### 00ff8d98e5 | JOKER → BRUCE | x2
 Or you could throw them against the wall?
 
 #### 18af62f867 | JOKER → BRUCE | x2
@@ -3768,7 +3741,7 @@ I’d attack from a distance.
 #### 2805add1dd | JOKER → BRUCE | x2
 So you’re a thrower!  How very tactical of you.
 
-#### bb8aba177c-SM | BRUCE → JOKER | x2
+#### bb8aba177c | BRUCE → JOKER | x2
 All I would need are my fists.
 
 #### 26b4c575dc | JOKER → BRUCE | x2
@@ -3777,7 +3750,7 @@ Ahh keeping it nice and personal. Draw it out too. I like it.
 #### 378f4bb1f6 | JOKER → BRUCE | x2
 Ohhh come come come Bruce. Don’t clam up on me now. It’s all theoretical, don’t worry.
 
-#### 9abba48154-SM | JOKER → BRUCE | x2
+#### 9abba48154 | JOKER → BRUCE | x2
 See, now THIS is the Bruce Wayne that I saw on TV beating the stuffing out of that poncey Cobblepot kid. THIS is the Bruce Wayne I wanted to meet!
 
 #### 8b3f9b4563 | BRUCE → JOKER | x2
@@ -3786,7 +3759,7 @@ What can I say? I respect the law. If this person is as bad as you say, they’l
 #### de2a9df7ff | JOKER → BRUCE | x2
 Oh how very trite of you.
 
-#### ca7e64cf9f-SM-LM | JOKER → BRUCE | x2
+#### ca7e64cf9f | JOKER → BRUCE | x2
 I know you’re in there. The Bruce Wayne I saw on TV taking out sweet justice on Cobblepot. You’ve hurt people before, I know it. I’ve seen it.
 
 #### 1d60c5799f | BRUCE → JOKER | x2
@@ -3801,7 +3774,7 @@ Economics, politics, *evolution*... it’s all based on REVENGE.
 #### 49d4d3597e | choice/UI → JOKER | x2
 I protect those I care about.
 
-#### 219ec3c4bc-SM | BRUCE → JOKER | x2
+#### 219ec3c4bc | BRUCE → JOKER | x2
 If this person came after people I cared about, I would protect them.
 
 #### 7e15b324b2 | JOKER → BRUCE | x2
@@ -3840,19 +3813,19 @@ Positive
 #### c70827c69d | choice/UI → JOKER | x2
 Negative
 
-#### 651faa8a28-SM | BRUCE → JOKER | x2
+#### 651faa8a28 | BRUCE → JOKER | x2
 I played along.  Now it’s your turn.
 
 #### f850088182 | JOKER → BRUCE | x2
 Fine. Fair is Fair.
 
-#### 9b2d1bf795-SM | JOKER → BRUCE | x4
+#### 9b2d1bf795 | JOKER → BRUCE | x4
 Vicki Vale... I knew her.
 
 #### be8e6dddea | JOKER → BRUCE | x2
 Ah ah. Your turn again.
 
-#### 1edf793b31-SM | JOKER → BRUCE | x2
+#### 1edf793b31 | JOKER → BRUCE | x2
 I knew Vicki.
 
 #### 38d97dcfe1 | JOKER → BRUCE | x2
@@ -3864,7 +3837,7 @@ Hypothetical beatings are fine, but let’s get real!
 #### a1dc1d8700 | JOKER | x2
 Look at you!  Brow furrowed.  Teeth clenched.  Fists all balled up!  You are a man who knows how to cause pain!
 
-#### 2f6c26edc6-LM | JOKER → BRUCE | x2
+#### 2f6c26edc6 | JOKER → BRUCE | x2
 I’m not asking for much. I just want to know... who have you hurt?
 
 #### 3cf1a87252 | JOKER → BRUCE | x2
@@ -3909,13 +3882,13 @@ She sure has a lot of names, dosen’t she?  “Vicki Vale”, “Lady Arkham”
 #### 3433d3a774 | BRUCE → JOKER | x2
 How do you know--
 
-#### 256c2da686-SM-LM | choice/UI → JOKER | x2
+#### 256c2da686 | choice/UI → JOKER | x2
 You saw what I did to Oswald.
 
-#### e260ef8c67-SM-LM | BRUCE → JOKER | x2
+#### e260ef8c67 | BRUCE → JOKER | x2
 I hurt Oswald.  You saw it happen.  Is that what you want to hear.
 
-#### d3fa69bbc4-LM | JOKER → BRUCE | x2
+#### d3fa69bbc4 | JOKER → BRUCE | x2
 Now tell me how much you liked it! Tell me how it feels when you get violent!
 
 #### 2366f5c98c | JOKER → BRUCE | x2
@@ -3924,7 +3897,7 @@ To watch people crumble at your feet.
 #### 16e4391872 | JOKER → BRUCE | x2
 To have them completely in your control.
 
-#### f8cd9d9be1-SM | choice/UI → JOKER | x2
+#### f8cd9d9be1 | choice/UI → JOKER | x2
 I’m done talking about this.
 
 #### 8e9ac809f7 | choice/UI → JOKER | x2
@@ -3936,7 +3909,7 @@ I don’t enjoy it.
 #### 088edd8d7c | BRUCE → JOKER | x2
 No, I’m not answering that question.
 
-#### 16593d8d5e-LM | JOKER → BRUCE | x2
+#### 16593d8d5e | JOKER → BRUCE | x2
 I think you just did.
 
 #### 0f9fa2d650 | BRUCE → JOKER | x2
@@ -3951,31 +3924,31 @@ I don’t like hurting people. Sometimes, it’s necessary.
 #### 13367a4bac | JOKER → BRUCE | x4
 Still afraid to admit it?
 
-#### 2a11669f87-LM | JOKER → BRUCE | x4
+#### 2a11669f87 | JOKER → BRUCE | x4
 I’m starting to think I know you better than you know yourself, Brucie.
 
 #### ba7df17153 | choice/UI → JOKER | x2
 I didn’t do it.
 
-#### 716b4f22a6-SM | choice/UI → JOKER | x2
+#### 716b4f22a6 | choice/UI → JOKER | x2
 I said I didn’t do it.
 
 #### 141932d4aa | choice/UI → JOKER | x2
 Definitely not funny.
 
-#### 6fe162ed8d-SM | BRUCE → JOKER | x2
+#### 6fe162ed8d | BRUCE → JOKER | x2
 I told you I had nothing to do with it!
 
 #### c73d056266 | JOKER → BRUCE | x2
 Oh alright!   It was me. But you gotta admit, it was quite a zinger!
 
-#### 93df45a8c8-LM | ZSASZ → JOKER | x2
+#### 93df45a8c8 | ZSASZ → JOKER | x2
 Zinger? Really?  That’s all you’ve got to say about it?
 
 #### 900238a3a6 | JOKER → BRUCE | x4
 Vicki Vale... her original name was Victoria Arkham.
 
-#### 5025f93e58-LM | JOKER → BRUCE | x4
+#### 5025f93e58 | JOKER → BRUCE | x4
 Want to know more?  Go talk to the Vale’s.  Her foster parents will tell you everything you need to know!
 
 #### 73a827f8eb | BRUCE, choice/UI, LUCIUS → ALFRED, HARVEY | x10
@@ -3984,19 +3957,19 @@ Wait!
 #### cd77f7a4e9 | HARVEY → BRUCE | x2
 Including the{ConfusedA} unfortunate business of bringing the Wayne’s legacy of {FaceAccent}corruption{ConfusedB} to a {BodyAccent}close.
 
-#### 0c023c4883-SM | HARVEY → BRUCE | x2
+#### 0c023c4883 | HARVEY → BRUCE | x2
 Just like I{AngryA} did when I finally brought the Wayne’s{FaceAccent} legacy of {FaceAccent}corruption to a {BodyAccent}{AngryB}close!
 
 #### 3165a65927 | HARVEY → BRUCE | x2
 That{FaceAccent} traitor will not be allowed to get away with the sort of {AngryB}{BodyAccent}terrible violence he imposed on {AngryA}Oswald{FaceAccent} Cobblepot--
 
-#### e9e53383f7-SM | BRUCE → HARVEY | x2
+#### e9e53383f7 | BRUCE → HARVEY | x2
 I {FaceAccent}knew he was {ConcernedB}upset with me but, he’s{AngryA} really crossed{FaceAccent} the line.
 
 #### 036e3abf49 | SOCKO → HARVEY | x2
 If I hadn’t come along he’d be dead in some gutter.
 
-#### d69a607a14-LM | PATIENTBILLY → OSWALD | x2
+#### d69a607a14 | PATIENTBILLY → OSWALD | x2
 Plus, we all saw what you did to Mr. Cobblepot!
 
 #### 54a38336f9 | ARNOLD → SOCKO | x4
@@ -4044,7 +4017,7 @@ It’s... good.
 #### 7a3f0a5ee7 | choice/UI → PATIENTTABOR | x2
 This is sick.
 
-#### 1fb31c5576-LM | BRUCE → PATIENTTABOR | x2
+#### 1fb31c5576 | BRUCE → PATIENTTABOR | x2
 Did you make{ThinkingB} {FaceAccent}this?
 
 #### dc144b506b | PATIENTTABOR → BRUCE | x4
@@ -4053,19 +4026,19 @@ Yeah... really says{FaceAccent} someting about my{AmusedB} inner feelings {FaceA
 #### fb9b24edb9 | BRUCE → PATIENTTABOR | x4
 I guess.
 
-#### 9937f8cf80-SM | PATIENTTABOR → BRUCE | x4
+#### 9937f8cf80 | PATIENTTABOR → BRUCE | x4
 Just screwing with{FaceAccent} ya!  I got sick on this paper and these {AmusedB}morons{FaceAccent} kept it.
 
 #### cd126b3bf6 | BRUCE → PATIENTTABOR | x2
 It’s ...pretty{FaceAccent} good.
 
-#### 4974077d3b-SM | PATIENTTABOR → BRUCE | x2
+#### 4974077d3b | PATIENTTABOR → BRUCE | x2
 Ya think? I made it{FaceAccent} myself.
 
 #### f673341765 | BRUCE → PATIENTTABOR | x2
 They give you{SmugA} paints in here.
 
-#### 2b53487578-SM | PATIENTTABOR → BRUCE | x2
+#### 2b53487578 | PATIENTTABOR → BRUCE | x2
 Nah... I “made it”{HappyB} ...{FaceAccent}myself.
 
 #### 4c67341e20 | BRUCE → PATIENTTABOR | x2
@@ -4077,7 +4050,7 @@ Screw you.  What do {FaceAccent}you know{AngryB} about{BodyAccent} art!
 #### 6f37119e86 | BRUCE → PATIENTTABOR | x2
 Is{BodyAccent} this where the{FaceAccent} group {SkepticalB}therapy takes place?
 
-#### 848e9b12d8-LM | JOKER → PATIENTTABOR | x2
+#### 848e9b12d8 | JOKER → PATIENTTABOR | x2
 Yes. Please {FaceAccent}join us when{HappyB} you’re ready.
 
 #### 2e578fdfb9 | BLOCKBUSTER → BRUCE, ORDERLY02, SANELEWIS | x8
@@ -4125,13 +4098,13 @@ Of course I’m not!
 #### abb4febce9 | choice/UI → PATIENTTABOR | x2
 No..?
 
-#### 5d7c82b924-SM | BRUCE → PATIENTTABOR | x2
+#### 5d7c82b924 | BRUCE → PATIENTTABOR | x2
 What if I was?
 
 #### 331e49f31e | PATIENTTABOR → BRUCE | x2
 Then you’d get cut.
 
-#### 48f5ef71a6-SM | BRUCE → PATIENTTABOR | x2
+#### 48f5ef71a6 | BRUCE → PATIENTTABOR | x2
 All I said was “How’s it going?“ How do you get a threat out of THAT?
 
 #### 105dd86bc5 | PATIENTTABOR → BRUCE | x2
@@ -4149,7 +4122,7 @@ Hey! Break it up over there you two!
 #### ca07728cdb | PATIENTTABOR → BRUCE | x2
 Sorry, sorry.
 
-#### c55278c01e-SM-LM | BRUCE → PATIENTTABOR | x2
+#### c55278c01e | BRUCE → PATIENTTABOR | x2
 No...? Sorry if you thought I was.
 
 #### d01ad76be5 | PATIENTTABOR → ORDERLY01, BRUCE | x4
@@ -4158,10 +4131,10 @@ Goood. Good.
 #### c0e09cac20 | ORDERLY01 → PATIENTTABOR | x2
 You causing trouble over there?
 
-#### e8abd5854b-SM | choice/UI → PATIENTTABOR | x2
+#### e8abd5854b | choice/UI → PATIENTTABOR | x2
 I was just leaving.
 
-#### 6a1bf54475-SM | BRUCE → ORDERLY01 | x2
+#### 6a1bf54475 | BRUCE → ORDERLY01 | x2
 I was... Just leaving, actually.
 
 #### db11198b88 | BRUCE → ORDERLY01 | x2
@@ -4173,7 +4146,7 @@ Hello, Mr. Wayne. You{ConfusedA} better {FaceAccent}hurry to Group if you don’
 #### 27ccd633c0 | ORDERLY01 → BRUCE | x2
 Trust me - {AngryA}You {FaceAccent}shouldn’t be late.
 
-#### f97cb618eb-SM | BRUCE → ORDERLY01 | x2
+#### f97cb618eb | BRUCE → ORDERLY01 | x2
 I was on my {ThinkingA}way. {FaceAccent}Promise.
 
 #### fb65aeb0a8 | choice/UI → ORDERLY01 | x2
@@ -4200,7 +4173,7 @@ It’s over {BodyAccent}there in the{FaceAccent} corner.
 #### 9348923aee | ORDERLY01 → BRUCE, SANELEWIS | x4
 I think they’re waiting{FaceAccent} for you, so why don’t you head{SkepticalB} on{BodyAccent} over?
 
-#### 30ab00036e-SM-L? | SANELEWIS → ORDERLY01 | x2
+#### 30ab00036e | SANELEWIS → ORDERLY01 | x2
 I’m not really {ThinkingB}crazy you know. In case{ConcernedB} you were wondering.
 
 #### 6f04e8684c | choice/UI → ORDERLY01 | x2
@@ -4209,7 +4182,7 @@ Me neither.
 #### fa13a8bd9b | choice/UI → SANELEWIS | x2
 Then why are you in here?
 
-#### a5a6463074-SM | BRUCE → ORDERLY01 | x2
+#### a5a6463074 | BRUCE → ORDERLY01 | x2
 Well, don’t worry. I’m not{AmusedB} crazy{FaceAccent} either.
 
 #### 5f152fb682 | SANELEWIS → BRUCE | x2
@@ -4227,7 +4200,7 @@ I don’t like what you’re {AngryA}insinuating.
 #### 7dc1fddacc | PATIENTBILLY → BRUCE | x2
 I hope you don’t{AngryA} pollute {FaceAccent}Group that with this kind{ThinkingB} of negativity.
 
-#### 3b6cfc3fde-LM | BRUCE → PATIENTBILLY | x2
+#### 3b6cfc3fde | BRUCE → PATIENTBILLY | x2
 If you’re not crazy, then{SkepticalB} why are you in Arkham Aslyum?
 
 #### ee8f340ba7 | PATIENTBILLY → BRUCE | x2
@@ -4263,19 +4236,19 @@ I {FaceAccent}swear to you, the people of {AngryB}Gotham, that I am going to {Fa
 #### 878146a7f0 | HARVEY → ZSASZ | x4
 With the help of my {AngryA}Safety Enforcers, we are keeping an {FaceAccent}eye on the community and making sure that people who are a danger to themselves or {BodyAccent}others are put{FaceAccent} someplace where they can{ThinkingA} get the help they need.
 
-#### 44cb577f57-SM | HARVEY → ZSASZ | x4
+#### 44cb577f57 | HARVEY → ZSASZ | x4
 Like my{SadA} dear friend Bruce Wayne. It was with a {ConfusedA}heavy heart that I signed the order to have him place in Arkham {ThinkingA}Asylum - But I think that if he were of sound mind he would agree that it was{AngryA} the right thing to do.
 
-#### edb3ce3eb1-SM | HARVEY | x2
+#### edb3ce3eb1 | HARVEY | x2
 I promise that I won’t let anything stand in the way of goal to bring {BodyAccent}Gotham{AngryB} into a new era of{FaceAccent} peace.
 
 #### c8b1ac386d | HARVEY → BRUCE | x2
 With my {FaceAccent}Safety{AngryA} Enforcers keeping an eye on the community, you have {FaceAccent}nothing to fear from{AngryB} criminals or violent maniacs. Not even figures like the once{FaceAccent}-respectable Bruce Wayne are {BodyAccent}exempt when it comes to {FaceAccent}justice.
 
-#### 224022521e-SM | HARVEY → BRUCE | x2
+#### 224022521e | HARVEY → BRUCE | x2
 Like my dear friend Bruce Wayne. It was with a heavy heart that I signed the order to have him place in Arkham Asylum - But I think that if he were of sound mind he would agree that it was the right thing to do.
 
-#### 170da014e7-SM | HARVEY → BRUCE | x2
+#### 170da014e7 | HARVEY → BRUCE | x2
 I{ThinkingB} had him placed in Arkham not out of{FaceAccent} spite, but because it was clear he was no longer{BodyAccent} capable of operating in good,{FaceAccent} decent society anymore. If he proves himself capable of reform, {TiredA}well... {FaceAccent}maybe he’ll{ThinkingA} rejoin society again {FaceAccent}one day.
 
 #### 2e1d18a4ad | BRUCE → HARVEY | x2
@@ -4287,7 +4260,7 @@ Yeah, you gotta go. {ConcernedB} Keeps ‘em happy.
 #### 4c5c8c8363 | BRUCE → SANELEWIS | x2
 Uhh...{FaceAccent} sure.
 
-#### fa10d5fbd7-LM | SANELEWIS → PATIENTBILLY | x2
+#### fa10d5fbd7 | SANELEWIS → PATIENTBILLY | x2
 In case{ThinkingA} you were {FaceAccent}wondering.
 
 #### 5ba5ace8fd | PATIENTBILLY → BRUCE | x2
@@ -4296,13 +4269,13 @@ Can you {FaceAccent}not bother {AngryA}me right now.  I’m thinking{ThinkingB} 
 #### 24a99722c1 | PATIENTBILLY → KER | x2
 ...Save it for {AngryA}{FaceAccent}group.
 
-#### 768e750138-LM | PATIENTTABOR → PATIENTBILLY | x2
+#### 768e750138 | PATIENTTABOR → PATIENTBILLY | x2
 What {FaceAccent}about {ConfusedA}you?  You got any cool{ThinkingA} scars?
 
 #### 88301d283a | ZSASZ → PATIENTBILLY | x2
 You?  {BodyAccent}{AngryA}You gotta be{FaceAccent} kiddin me.
 
-#### 0e96816e8a-SM | choice/UI → PATIENTBILLY | x2
+#### 0e96816e8a | choice/UI → PATIENTBILLY | x2
 I’ve got a few.
 
 #### f22c0e94da | choice/UI → PATIENTTABOR | x2
@@ -4311,7 +4284,7 @@ No. Sorry.
 #### 1b809ee80b | choice/UI → PATIENTTABOR | x2
 I don’t get scars. I leave ‘em.
 
-#### be01cd332f-SM | BRUCE → PATIENTTABOR | x2
+#### be01cd332f | BRUCE → PATIENTTABOR | x2
 Yeah, I’ve got a few.
 
 #### 26059fa2a1 | PATIENTTABOR → BRUCE, ZSASZ | x6
@@ -4326,7 +4299,7 @@ I don’t get scars,{AngryA} I leave em.
 #### 9b1850dda5 | PATIENTTABOR → BRUCE | x2
 Is that suposed to be{SkepticalB}{FaceAccent} scary?
 
-#### 5b3a8beab9-LM | PATIENTTABOR → BRUCE | x2
+#### 5b3a8beab9 | PATIENTTABOR → BRUCE | x2
 Have{SkepticalA} you seen this guy?  Think {FaceAccent}he’s afraid of gettin{HappyA} a few{FaceAccent} scars?
 
 #### f4791defd8 | ZSASZ → PATIENTTABOR | x2
@@ -4341,7 +4314,7 @@ Don’t make me call and orderly over!
 #### ebca3c4904 | ZSASZ → BRUCE, PATIENTTABOR | x6
 This{ConcernedA}{BodyAccent} guy wanted to kill himself{AngryA}{FaceAccent} but didn’t have the{AngryB}{FaceAccent} courage...
 
-#### fc8630d727-SM | ZSASZ → BRUCE, PATIENTTABOR | x6
+#### fc8630d727 | ZSASZ → BRUCE, PATIENTTABOR | x6
 All lost souls{AmusedA} that I freed{FaceAccent} from their earthly woes.
 
 #### 82df1c2a64 | ZSASZ → ORDERLY02 | x2
@@ -4377,7 +4350,7 @@ Do{ConcernedA} not be late.
 #### 1328a55999 | LELAND → ORDERLY01 | x2
 In the meantime, feel free to get to know the other{HappyA} patients.  Just {DisgustA}remember the rules.
 
-#### 1145bc9b7e-SM | BRUCE → LELAND | x2
+#### 1145bc9b7e | BRUCE → LELAND | x2
 I’m sorry, alright?
 
 #### 26052976f3 | ARNOLD → LELAND | x2
@@ -4389,16 +4362,16 @@ Much fizzier.
 #### b8adbaeea3 | JOKER → BRUCE | x4
 Let me... propose a scenario.
 
-#### a45deb9aaa-SM | choice/UI → JOKER | x2
+#### a45deb9aaa | choice/UI → JOKER | x2
 I was in a bar fight recently.
 
-#### c21226caa2-SM | BRUCE → JOKER | x2
+#### c21226caa2 | BRUCE → JOKER | x2
 I got in a bar fight recently.  I supose I hurt those guys.
 
 #### c20b8fde96 | BRUCE → JOKER | x2
 ...Also, a fight in the park.
 
-#### 92f49ed5ab-SM | JOKER → BRUCE | x2
+#### 92f49ed5ab | JOKER → BRUCE | x2
 See, I knew there was more to you than your playboy persona!
 
 #### 0fda216d2b | choice/UI → JOKER | x2
@@ -4509,10 +4482,10 @@ See, all that darkness, all that anger... it couldn’t be kept inside forever. 
 #### 219c2c5099 | JOKER | x2
 He went to the hardware store and came back to the office with a nice, big, hammer. [Low chuckle, escalating slightly] He was such a “nice guy,“ none of them ever saw it coming.
 
-#### 12ead73f73-LM | JOKER → BRUCE | x2
+#### 12ead73f73 | JOKER → BRUCE | x2
 His handsome, arrogant coworker, the secretary who wouldn’t stop snapping her damn gum, and his idiot pinhead of a boss... When all of their brains were spilled on the floor you could barely tell one apart from the other. [Chuckle escalating further]
 
-#### 1132f664c8-LM | JOKER → BRUCE | x2
+#### 1132f664c8 | JOKER → BRUCE | x2
 When all of their brains were spilled on the floor you could barely tell one apart from the other.
 
 #### 879e776603 | JOKER → BRUCE | x2
@@ -4575,13 +4548,13 @@ Wouldn’t THAT make you want to give in?
 #### 0b8da049c7 | JOKER | x2
 You’d cut loose, right?
 
-#### bd41955927-L? | JOKER | x2
+#### bd41955927 | JOKER | x2
 And when you hit that sweet spot, oh, the skull just bursts like a bag of chips. [Satisfied chuckle]
 
 #### 35c4da8de6 | JOKER | x2
 Nothing more satisfying than blood on your knuckles - Yours, theirs, all mixing together... Mm.
 
-#### 55cecba8ae-L? | JOKER | x2
+#### 55cecba8ae | JOKER | x2
 You’d let him get away? All his organs intact? His bones, unbroken? His blood, unspilled?!
 
 #### bd4c146ab8 | JOKER | x2
@@ -4590,7 +4563,7 @@ Horrible to lose your dad, but at least he went out in one of hell of a hat tric
 #### c5763d30a9 | JOKER → BRUCE | x2
 That guy killed your dad, plus your mom, AND inflicted doubtless trauma on an innocent kid! [Stifled laugh] That’s good. That’s good.
 
-#### 4217d75ed6-LM | JOKER → BRUCE | x2
+#### 4217d75ed6 | JOKER → BRUCE | x2
 Tell me, did you see brains? Bone shards? Just blood?
 
 #### 61f6f653b7 | JOKER → BRUCE | x2
@@ -4617,10 +4590,10 @@ Yes. They could’ve just shot him in the chest... but they didn’t stop there.
 #### 5e937951db | BRUCE → JOKER | x2
 Just shot them here.
 
-#### e9e1f210cd-SM | JOKER → BRUCE | x2
+#### e9e1f210cd | JOKER → BRUCE | x2
 Pity. I was hoping for something more dramatic. A headshot maybe. Something to really get a good spatter going.
 
-#### f6788e6a07-SM | JOKER → BRUCE | x2
+#### f6788e6a07 | JOKER → BRUCE | x2
 Sorry. I’d just always wondered about my hero’s last moments.
 
 #### 4ebc6b6710 | BRUCE → JOKER | x2
@@ -4632,7 +4605,7 @@ Geez louise, really jumping down my throat there, Bruce.
 #### ab0320f278 | JOKER → BRUCE | x6
 Can’t a guy ask about his hero’s last moments?
 
-#### bd0c351345-SM | JOKER → BRUCE | x2
+#### bd0c351345 | JOKER → BRUCE | x2
 Like I said, I’m a fan! I want to know about his last moments!
 
 #### ff244d3d14 | JOKER | x2
@@ -4686,7 +4659,7 @@ Okay... I’ll give you a freebie.
 #### 4dab1f9d3f | JOKER → BRUCE | x2
 Ooooooh headshot? Very nice, very “professional.“ Bet there was viscera EVERYWHERE. On the walls, on your clothes...
 
-#### c79af0776e-SM | BRUCE → JOKER | x2
+#### c79af0776e | BRUCE → JOKER | x2
 I’ve only hurt people who deserve it.
 
 #### 6d30863f57 | BRUCE → JOKER | x2
@@ -4695,10 +4668,10 @@ I’ll start with you, if you don’t tell me what I want to know.
 #### 798474cdfa | JOKER → BRUCE | x2
 Ah, there it is!  That desire for violence!  You thisrt for it, don’t you? Now, tell me how it feels when you really get to let loose on someone!!
 
-#### 574899bc01-LM | JOKER → BRUCE | x2
+#### 574899bc01 | JOKER → BRUCE | x2
 You refused to play along so I have to up the stakes.
 
-#### 8890c9b545-LM | JOKER → BRUCE | x2
+#### 8890c9b545 | JOKER → BRUCE | x2
 I think that if you just let Arnold punch you, just once, it would be very healthy for him.
 
 #### 7ec9de228a | BRUCE → JOKER | x2
@@ -4722,7 +4695,7 @@ We used to be friends.
 #### 66a3bc213b | choice/UI, HARVEY → JOKER, BATMAN | x4
 He betrayed me!
 
-#### 9f8f213df2-SM | choice/UI → LELAND | x2
+#### 9f8f213df2 | choice/UI → LELAND | x2
 I was never his friend.
 
 #### 60f3b2cfeb | choice/UI → LELAND | x2
@@ -4821,7 +4794,7 @@ Same old speeches, whimpering promises... excuses. Boring.
 #### 90180f54b0 | HARVEY → JOKER | x2
 That includes my former benefactor, Bruce Wayne.
 
-#### 3f2c0715d2-SM | HARVEY → JOKER | x2
+#### 3f2c0715d2 | HARVEY → JOKER | x2
 I had no choice but to send Mr. Wayne to Arkham Asylum after his violent behavior towards Oswald Cobblepot. It was a tough call, but as your mayor it is my duty to ensure he gets the help he so desperately needs.
 
 #### 7d782a34cc | JOKER → HARVEY | x2
@@ -4848,7 +4821,7 @@ You do frown a lot you know.
 #### 734bb411f4 | BRUCE → JOKER | x2
 Harvey was my friend. I can’t believe he’s the one who put me in here.
 
-#### fa8fb4b776-LM | JOKER → BRUCE | x2
+#### fa8fb4b776 | JOKER → BRUCE | x2
 Sounds like you need better friends.
 
 #### 93fcc685a8 | BRUCE → JOKER | x2
@@ -4860,7 +4833,7 @@ Quite the temper on you.
 #### 1327d59d59 | JOKER → BRUCE | x2
 Maybe that’s where the superhuman strength comes from.
 
-#### 0421899f1c-SM-LM | JOKER → BRUCE | x2
+#### 0421899f1c | JOKER → BRUCE | x2
 I saw what you did
 
 #### b15cf30f0d | JOKER | x2
@@ -4869,7 +4842,7 @@ I have one too.
 #### 89fedacd30 | JOKER → BRUCE | x2
 Less so lately, but you know... demons never stray.
 
-#### d1bfed706f-SM | JOKER → BRUCE | x2
+#### d1bfed706f | JOKER → BRUCE | x2
 Slim pickings around here though. I’ve looked.
 
 #### 02aa629c8b | JOKER → BRUCE | x2
@@ -4914,7 +4887,7 @@ But they’d never think to ask.
 #### 2766451819 | BRUCE → JOKER, LELAND | x4
 If you really know so much, why not go to the police?
 
-#### 4ac8839279-SM | BRUCE → JOKER | x2
+#### 4ac8839279 | BRUCE → JOKER | x2
 I’m sure they’d appreciate the tip.
 
 #### 9aecba4bd6 | JOKER → BRUCE | x2
@@ -4971,7 +4944,7 @@ Something juicy!
 #### fce34b5ed5 | BRUCE → JOKER | x2
 I’m not doing anything for your entertainment.
 
-#### 24335c4cfa-SM | JOKER → BRUCE | x2
+#### 24335c4cfa | JOKER → BRUCE | x2
 That’s unfortunate. It really is. I was looking forward to it for a moment there.
 
 #### 447d73f529 | BRUCE → JOKER | x2
@@ -4980,7 +4953,7 @@ That all depends on you. If your information is good, we’ll see.
 #### 6d84f60092 | JOKER → BRUCE | x2
 Oh it’s good. [drawn out]Real good.
 
-#### 1c660926ac-SM | JOKER → BRUCE | x2
+#### 1c660926ac | JOKER → BRUCE | x2
 I knew I liked you.
 
 #### 0bd8ef23a8 | JOKER → BRUCE | x2
@@ -4998,7 +4971,7 @@ Could be interesting. Little Bruce lurking in the shadows.
 #### 17bea95b3f | JOKER → BRUCE | x2
 Though I’ve seen what you can do, Bruce. You’re more than just a little guy.
 
-#### f0e437c2c0-LM | JOKER → BRUCE | x2
+#### f0e437c2c0 | JOKER → BRUCE | x2
 Though... I think we both know you could do more.
 
 #### a8aec5dfec | choice/UI → JOKER | x4
@@ -5016,7 +4989,7 @@ He’s dead to me.
 #### 209597738d | choice/UI | x2
 Just get me out!
 
-#### 2fefcb5a58-L? | choice/UI | x2
+#### 2fefcb5a58 | choice/UI | x2
 You’re sick!
 
 #### 5bb2112b07 | choice/UI → JOKER | x2
@@ -5046,7 +5019,7 @@ That’s not going to happen
 #### 492a9d16ee | JOKER → BRUCE | x2
 So discerning! Love it!
 
-#### 80a86cebf3-SM | JOKER | x2
+#### 80a86cebf3 | JOKER | x2
 Pity. I expected more.
 
 #### 24b613a927 | JOKER | x2
@@ -5115,7 +5088,7 @@ But someone has to carry all those pieces, Bruce.
 #### db4d705b63 | JOKER → BRUCE | x2
 Can’t forget about them.
 
-#### a9162b3545-LM | BRUCE → JOKER | x2
+#### a9162b3545 | BRUCE → JOKER | x2
 There’s nothing funny about it.  You’re really messed up.
 
 #### 1f72a32eca | BRUCE → JOKER | x2
@@ -5148,7 +5121,7 @@ What the hell is going on here?
 #### c4cc5b9d41 | LELAND → JOKER | x4
 John, are you okay?
 
-#### d1a083f727-SM-LF | JOKER → LELAND | x2
+#### d1a083f727 | JOKER → LELAND | x2
 I’m so sorry Dr. Leland. They... they started fighting and you told me to keep Bruce safe so--
 
 #### 928063dde5 | LELAND → JOKER | x2
@@ -5157,7 +5130,7 @@ Fine, just...[to orderly]Get them back to their rooms.
 #### 9d94edb550 | LELAND → JOKER | x2
 Security to the recreation area. Immediately.
 
-#### fd8d0c36e9-LM | LELAND → JOKER | x2
+#### fd8d0c36e9 | LELAND → JOKER | x2
 You need to get back to your rooms.
 
 #### 5221f23fb3 | choice/UI → LELAND | x2
@@ -5262,13 +5235,13 @@ But don’t worry...
 #### bd054f8af4 | choice/UI → JOKER | x2
 Ask to Use the Phone.
 
-#### b1b161e127-LM | choice/UI → JOKER | x2
+#### b1b161e127 | choice/UI → JOKER | x2
 Did you say Ms. Vale?
 
 #### 2becf7e965 | choice/UI → JOKER | x2
 What was that about John Doe?
 
-#### 8033413b20-LM | choice/UI → JOKER | x2
+#### 8033413b20 | choice/UI → JOKER | x2
 You mentioned drugs.
 
 #### 43ca7fcc8b | JOKER → BRUCE | x2
@@ -5292,10 +5265,10 @@ He’s useful.
 #### 705d9da246 | JOKER → BRUCE | x2
 Have a look around if you want.
 
-#### 743e3e093c-LM | JOKER → BRUCE, HARVEY | x4
+#### 743e3e093c | JOKER → BRUCE, ORDERLY01, HARVEY | x6
 When you’re done, you and I have a lot to talk about.
 
-#### ac58cce41b-SM | BRUCE → JOKER | x2
+#### ac58cce41b | BRUCE → JOKER | x2
 I said I’m fine.
 
 #### 11ee0f5d6d | BRUCE → JOKER | x2
@@ -5304,7 +5277,7 @@ He is the reason I am in here. [can’t find the words] I can’t believe he did
 #### ac2ff728d8 | JOKER → BRUCE | x2
 Oh, you’re so brilliant! I guess I don’t need to tell you anything then. Right?
 
-#### c62daf2b2b-SM | BRUCE → JOKER, ALFRED, GORDON | x6
+#### c62daf2b2b | BRUCE → JOKER, ALFRED, GORDON | x6
 What makes you so sure I’m even interested in where they are?
 
 #### 85fd8f7f66 | BRUCE → JOKER | x2
@@ -5346,7 +5319,7 @@ But trust me. That’s not all I know.
 #### d696f4822d | JOKER → BRUCE | x2
 Look at that poker face!
 
-#### beb474b69d-SM | JOKER | x2
+#### beb474b69d | JOKER | x2
 Listen, friend... I’ve got an idea.
 
 #### 23e32af1ac | JOKER → BRUCE | x2
@@ -5358,7 +5331,7 @@ I know you have it in you. I’ve seen it.
 #### 095af5b0b3 | JOKER → BRUCE | x2
 Give us a show.
 
-#### 9dad5703a2-LM | BRUCE → JOKER | x2
+#### 9dad5703a2 | BRUCE → JOKER | x2
 I’m not doing anything for you! You got that?
 
 #### 1ae3acb2ac | JOKER → BRUCE | x4
@@ -5373,7 +5346,7 @@ Little Bruce lurking in the shadows.
 #### e9c999f402 | BRUCE → JOKER | x2
 You want a show, you’ll have it.
 
-#### 7b992b7a0f-SM | BRUCE → JOKER | x2
+#### 7b992b7a0f | BRUCE → JOKER | x2
 I’ll take down Lady Arkham... publicly. I want everyone to know I was the one to end this.
 
 #### ee7ba62ad4 | JOKER → BRUCE | x2
@@ -5394,7 +5367,7 @@ You’d hate the man who killed your parents, wouldn’t you?
 #### 057edbe1d6 | JOKER → BRUCE | x6
 Oops. Touchy subject, huh?
 
-#### 36d12be8e9-LM | BRUCE → JOKER | x2
+#### 36d12be8e9 | BRUCE → JOKER | x2
 Where are the rest of the drugs? You said you knew where to find them.
 
 #### d63b8d8e53 | JOKER → BRUCE | x2
@@ -5409,16 +5382,16 @@ No idea.
 #### 557838a634 | JOKER → BRUCE | x2
 She’s crazier than all of us.
 
-#### 55827280ed-LM | JOKER → BRUCE | x2
+#### 55827280ed | JOKER → BRUCE | x2
 Why do you care anyway, Bruce? As far as you’re concerned her plan’s finished.
 
 #### c3d9af5560 | JOKER → BRUCE | x2
 Take down Bruce Wayne. And here you are!
 
-#### 1bbf04d27e-LM | JOKER → BRUCE | x2
+#### 1bbf04d27e | JOKER → BRUCE | x2
 Why do you care anyway? As far as you’re concerned her plan’s finished.
 
-#### 98a5b4b66b-LM | BRUCE → JOKER | x2
+#### 98a5b4b66b | BRUCE → JOKER | x2
 You said you had answers.
 
 #### 4d4b436fea | JOKER → BRUCE | x2
@@ -5436,7 +5409,7 @@ I hate the man who killed my parents. But he’s dead.
 #### 2517e2f20f | BRUCE → JOKER | x2
 Why punish all of Gotham if she’s mad at my father?
 
-#### c9a4d2117c-LM | JOKER → BRUCE | x2
+#### c9a4d2117c | JOKER → BRUCE | x2
 Throw a rock in Gotham and you hit dead parents.
 
 #### 4e1677da30 | JOKER → BRUCE | x2
@@ -5448,7 +5421,7 @@ I can’t picture it.
 #### b467e27766 | BRUCE → JOKER | x2
 I’m going to destroy them. All of them.
 
-#### e422857690-SM | BRUCE → JOKER | x2
+#### e422857690 | BRUCE → JOKER | x2
 If I can find the drugs, I clear my name, prove I wasn’t responsible for what I did to Oswald Cobblepot.
 
 #### 34c2d9d325 | BRUCE → JOKER | x2
@@ -5460,7 +5433,7 @@ If you’re not gonna play nice, then neither am I.
 #### 605ef8c6bf | JOKER → BRUCE | x2
 Does it really matter what she does now?
 
-#### fe9efce283-LM | JOKER → BRUCE | x2
+#### fe9efce283 | JOKER → BRUCE | x2
 You fell into her trap already.
 
 #### 05602be0a1 | BATMAN, BRUCE, JOKER → LADYARKHAM, BRUCE, VICKI | x16
@@ -5469,10 +5442,10 @@ It’s over.
 #### ac5a1c4ac9 | BRUCE → JOKER | x2
 Vicki hasn’t won yet. I’ll get out of here.
 
-#### c47c1c5683-SM | BRUCE → JOKER | x2
+#### c47c1c5683 | BRUCE → JOKER | x2
 And I need to know what to expect when I do.
 
-#### 831c2b4fb8-SM | BRUCE → JOKER | x2
+#### 831c2b4fb8 | BRUCE → JOKER | x2
 I still care about Gotham. This is my home. I won’t stand by and watch her destroy it.
 
 #### 959c27eed9 | BRUCE → JOKER | x2
@@ -5499,7 +5472,7 @@ I know how to get you that phone call... but it’s gonna come at a price.
 #### f10a855ebc | JOKER → BRUCE | x4
 Something dramatic!
 
-#### 85631989f4-SM | BRUCE → JOKER | x4
+#### 85631989f4 | BRUCE → JOKER | x4
 I need to know more than that if I’m gonna agree to this.
 
 #### 808444c0c3 | JOKER → BRUCE | x4
@@ -5520,7 +5493,7 @@ There’s no way you’re getting out of this room without my help.
 #### 305375a627 | BRUCE → JOKER | x4
 I know what you’re trying to do. You just want something from me, right?
 
-#### 23bcfa9e9b-SM | JOKER → BRUCE | x4
+#### 23bcfa9e9b | JOKER → BRUCE | x4
 I thought we were friends, Bruce.
 
 #### ae910c7307 | JOKER → BRUCE | x4
@@ -5535,7 +5508,7 @@ That’s all you have to do.
 #### 0c1f656e3b | JOKER → BRUCE | x4
 Come on, Bruce! We’ve gotten this far.
 
-#### 57be723008-SM | JOKER → BRUCE | x2
+#### 57be723008 | JOKER → BRUCE | x2
 I could use a little action.
 
 #### ff14314264 | BRUCE → JOKER | x4
@@ -5559,10 +5532,10 @@ It’s you, sir! It’s so good to hear your voice.
 #### a292443269 | ALFRED → BRUCE | x2
 I’ve been trying to contact you but they wouldn’t let me through.
 
-#### 9079faae21-LM | ALFRED → BRUCE | x2
+#### 9079faae21 | ALFRED → BRUCE | x2
 They told me you’d lost your mind.
 
-#### a1f75ca27e-SM | ALFRED → OSWALD | x2
+#### a1f75ca27e | ALFRED → OSWALD | x2
 I saw what happened with Mr. Cobblepot...
 
 #### d0af3e87f5 | ALFRED → BRUCE | x2
@@ -5577,25 +5550,25 @@ Don’t worry, Alfred. I’m completely sane. I can explain later.
 #### f6ae0329cf | ALFRED → BRUCE | x2
 Good. With how you’ve been acting lately, I wasn’t sure.
 
-#### 2f12ce3b9c-SM | BRUCE → ALFRED | x6
+#### 2f12ce3b9c | BRUCE → ALFRED | x6
 I need you to listen to me, okay?
 
-#### 4014cc5891-LM | BRUCE → ALFRED | x2
+#### 4014cc5891 | BRUCE → ALFRED | x2
 You have got to get me out of here.
 
-#### 93c444dbed-SM | BRUCE → ALFRED | x2
+#### 93c444dbed | BRUCE → ALFRED | x2
 It’s not like that, Alfred. I was drugged.
 
 #### 05a72d0495 | ALFRED → BRUCE | x2
 So that’s why--
 
-#### 2beb2d374c-SM | BRUCE → ALFRED | x2
+#### 2beb2d374c | BRUCE → ALFRED | x2
 Why I attacked Oswald, yes.
 
 #### b734490bed | BRUCE → ALFRED | x2
 You know me, Alfred. Do you really think that’s what happened?
 
-#### 4e086017f8-SM-LM | ALFRED → BRUCE | x2
+#### 4e086017f8 | ALFRED → BRUCE | x2
 I thought their must be some explanation, but with the footage... [a breath]You’re right though. I shouldn’t assume it was the whole truth.
 
 #### 43852110ee | ALFRED → BRUCE | x2
@@ -5610,13 +5583,13 @@ It may take some time.
 #### af21b3cde8 | BRUCE → ALFRED | x2
 Hurry, Alfred. I can’t stay in here much longer.
 
-#### 1f348aadf5-LM | ALFRED → BRUCE | x2
+#### 1f348aadf5 | ALFRED → BRUCE | x2
 You won’t. I’ll be there before you know it.
 
-#### b726aa8132-SM | BRUCE → ALFRED | x2
+#### b726aa8132 | BRUCE → ALFRED | x2
 Thank you, Alfred. I knew I could count on you.
 
-#### 391a770228-SM-LM | ALFRED → BRUCE | x2
+#### 391a770228 | ALFRED → BRUCE | x2
 I’m glad you called, Bruce.
 
 #### c61f675657 | ALFRED → BRUCE | x2
@@ -5646,13 +5619,13 @@ GCPD.
 #### 52cad35a2e | BRUCE → GORDON | x2
 Gordon, it’s Bruce Wayne.
 
-#### ad65f85151-LM | GORDON → BRUCE | x2
+#### ad65f85151 | GORDON → BRUCE | x2
 Wayne? Aren’t you supposed to be in Arkham Asylum?
 
 #### 44edc0cdd6 | GORDON → BRUCE | x2
 How’d you get ahold of a phone?
 
-#### c2beccd7e7-LM | GORDON → BRUCE | x2
+#### c2beccd7e7 | GORDON → BRUCE | x2
 You’re supposed to be recovering.
 
 #### dd7505fda0 | GORDON → BRUCE | x2
@@ -5661,7 +5634,7 @@ And I know the regulations over there.
 #### a2bfd0ad3a | GORDON → BRUCE | x2
 You shouldn’t be calling anyone on the outside.
 
-#### f7b0437b07-SM | BRUCE → GORDON | x2
+#### f7b0437b07 | BRUCE → GORDON | x2
 How I did it doesn’t matter right now. I need your help.
 
 #### ee6707ddb8 | GORDON → BRUCE | x2
@@ -5673,7 +5646,7 @@ Yeah well, I may be bending the rules a little bit here.
 #### 761e1e531d | GORDON, BRUCE, SELINA → BRUCE, ENFORCER01, ALFRED | x6
 Is that right?
 
-#### 6b9b951859-SM | BRUCE → GORDON | x2
+#### 6b9b951859 | BRUCE → GORDON | x2
 More like breaking them altogether. The point is, I need your help.
 
 #### fd0f469d78 | BRUCE → GORDON | x2
@@ -5682,7 +5655,7 @@ They made an exception for me. Let me use the phone.
 #### 7332cd9cec | GORDON → BRUCE | x2
 You sure are used to getting your way, aren’t you kid?
 
-#### d698189834-SM | BRUCE → GORDON | x2
+#### d698189834 | BRUCE → GORDON | x2
 Yeah, about that... I need your help.
 
 #### b9c4f761aa | GORDON → BRUCE | x2
@@ -5691,7 +5664,7 @@ You gotta say something, kid.
 #### 2bc29af5bd | GORDON → BRUCE | x2
 What’s going on over there?
 
-#### 347919feab-SM | BRUCE → GORDON | x2
+#### 347919feab | BRUCE → GORDON | x2
 Listen Gordon, I haven’t lost my mind. I was drugged.
 
 #### d1bc1acfeb | BRUCE → GORDON | x2
@@ -5736,7 +5709,7 @@ Be patient.
 #### 45c00695fa | BRUCE → GORDON | x2
 I owe you one, Gordon.
 
-#### 7aa919ea15-LM | GORDON → BRUCE | x2
+#### 7aa919ea15 | GORDON → BRUCE | x2
 Consider us even. I haven’t forgotten about that drive you gave me.
 
 #### b131997721 | GORDON → BRUCE | x2
@@ -5751,10 +5724,10 @@ I’ll send someone to come get you soon.
 #### bae225739e | JOKER → GORDON | x2
 And oh! When I get out of here, you’ll owe me a little favor, alright?
 
-#### 656e1ccb47-SM-LM | JOKER → BRUCE | x4
+#### 656e1ccb47 | JOKER → BRUCE, LELAND | x8
 Just like I did you a favor today.
 
-#### aaab55994a-SM | JOKER → BRUCE | x6
+#### aaab55994a | JOKER → BRUCE | x6
 I need to know I can call on my friend, Bruce...
 
 #### 95ee492d32 | JOKER → BRUCE | x6
@@ -5781,10 +5754,10 @@ Once I get out of here, I don’t want to see you again.
 #### ccca8c9c18 | BRUCE → LELAND | x2
 I don’t think that’s a good idea.
 
-#### 7482c541c0-SM | JOKER → BRUCE | x2
+#### 7482c541c0 | JOKER → BRUCE | x2
 I didn’t-- I didn’t think it was too much to ask. I thought we could go see a movie together. That’s all.
 
-#### 93122d989b-SM | JOKER → BRUCE | x2
+#### 93122d989b | JOKER → BRUCE | x2
 I thought we were getting along.
 
 #### 3857ddd8da | JOKER → BRUCE | x2
@@ -5904,7 +5877,7 @@ Uhh...okay?
 #### 93e4ac2e99 | ARNOLD → BRUCE | x2
 There once was a girl named Vale / Who left her mind out for sale / Until she learned to smother / Like her foes of her mother / With shots that pushed them off the rails.
 
-#### 8eea7cca6d-LM | BRUCE → ARNOLD | x2
+#### 8eea7cca6d | BRUCE → ARNOLD | x2
 Did you say Ms. Vale? Vicki Vale?
 
 #### da8df643e5 | ARNOLD → BRUCE | x2
@@ -5913,7 +5886,7 @@ Ah yes, the little veiled Miss.
 #### 2a41030738 | ARNOLD → BRUCE | x2
 She is not what she seems. But others know more than me.
 
-#### 843d7d9e4d-LM | BRUCE → ARNOLD | x2
+#### 843d7d9e4d | BRUCE → ARNOLD | x2
 You said John Doe…
 
 #### d0b00e09e8 | ARNOLD → BRUCE | x2
@@ -5937,7 +5910,7 @@ John knows something... about the Children of Arkham?
 #### 9be5ae906a | BRUCE → BLOCKBUSTER | x2
 Okay... Good to--[know]
 
-#### 26eb8d795b-LM | ZSASZ → BLOCKBUSTER | x2
+#### 26eb8d795b | ZSASZ → BLOCKBUSTER | x2
 Bruce Wayne. You’ve got quite a reputation around here.
 
 #### 3cf9eaa4ef | ZSASZ → BLOCKBUSTER | x2
@@ -5946,7 +5919,7 @@ Taking your enemies out to stay on top. I like your style, kid.
 #### 7b4eaf2cd3 | BRUCE → ZSASZ | x2
 That wasn’t me. That was my father.
 
-#### 514c2e19b6-SM-LM | ZSASZ → BRUCE | x2
+#### 514c2e19b6 | ZSASZ → BRUCE | x2
 I was talking about what you did to Cobblepot.
 
 #### 8cd774c053 | ZSASZ → BRUCE | x2
@@ -5976,7 +5949,7 @@ Your turn.
 #### a98e28275a | ZSASZ → BRUCE | x2
 Saw you hanging around John Doe. What’s your take on him?
 
-#### 6722d9f5d8-SM | BRUCE → ZSASZ | x2
+#### 6722d9f5d8 | BRUCE → ZSASZ | x2
 I got jumped in my cell. John saved my life.
 
 #### 8b7394ca86 | ZSASZ → BRUCE | x2
@@ -5994,7 +5967,7 @@ Everyone in Arkham is dangerous.
 #### fe731818ab | ZSASZ → BRUCE | x2
 Especially me.
 
-#### da1e184359-SM | BRUCE → ZSASZ | x2
+#### da1e184359 | BRUCE → ZSASZ | x2
 If I can use him to get what I need, that’s all I care about.
 
 #### 9d478640bc | ZSASZ → BRUCE | x2
@@ -6015,7 +5988,7 @@ John Doe’s been here a long time.
 #### 0f6318307b | ZSASZ | x2
 Knows the rules of Arkham better than anyone, knows how to play the game. [warning]Tread lightly.
 
-#### a4de48ae90-SM | ZSASZ → BRUCE | x2
+#### a4de48ae90 | ZSASZ → BRUCE | x2
 Now get out here, Wayne. You’re not a piece I need to sacrifice right now.
 
 #### a29a38537b | ZSASZ | x2
@@ -6039,7 +6012,7 @@ Nice to know even the fine china can have some chips, right?
 #### dc33c43f57 | JOKER → HARVEY, ZSASZ, BRUCE | x8
 Hey there, buddy boy!
 
-#### ebc16f0996-SM | JOKER → ORDERLY02, BRUCE, HARVEY | x6
+#### ebc16f0996 | JOKER → ORDERLY02, BRUCE, HARVEY | x6
 Ya missed me? I missed you.
 
 #### 26deb84c5f | ORDERLY02 → JOKER, BLOCKBUSTER | x4
@@ -6051,7 +6024,7 @@ Staring ain’t gonna get you anywhere.
 #### a6fc3185bc | ORDERLY02 → BRUCE | x2
 Didn’t I tell you to leave?
 
-#### cf8bdd19db-SM | BRUCE → ORDERLY02 | x4
+#### cf8bdd19db | BRUCE → ORDERLY02 | x4
 Uh… hey I was wondering--
 
 #### a15b740568 | ORDERLY02 → BRUCE | x4
@@ -6081,10 +6054,7 @@ Listen, you can’t talk to me like that.
 #### 186dde5993 | ORDERLY02 → BRUCE | x2
 Oh yeah? Or what?
 
-#### 8213d60174-S? | ORDERLY02 → BRUCE | x2
-That’s what I thought.
-
-#### 25d975d454-LM | ORDERLY02 → BRUCE | x2
+#### 25d975d454 | ORDERLY02 → BRUCE | x2
 You’re just lucky John Doe took a shine to you.
 
 #### 44c6a6f23c | ORDERLY02 → BRUCE | x2
@@ -6117,7 +6087,7 @@ It’s not gonna work.
 #### 433e4dc1b2 | ORDERLY02 → BRUCE | x2
 What do you want now?
 
-#### ec31c7a6e5-SM | BRUCE → ORDERLY02 | x4
+#### ec31c7a6e5 | BRUCE → ORDERLY02 | x4
 I was wondering if I could use the phone.
 
 #### ef67098ba7 | ORDERLY02 → BRUCE | x4
@@ -6207,7 +6177,7 @@ God, are you still stuck on that? Come on!
 #### 7b46102c4e | JOKER | x2
 Best thing I’ve seen all year! You should be proud of it if anything.
 
-#### 2cfee0b36f-SM | JOKER | x2
+#### 2cfee0b36f | JOKER | x2
 Trust me I’m very good at it.
 
 #### c484b1ca03 | JOKER | x2
@@ -6246,7 +6216,7 @@ She’s won.
 #### 6745c268cf | JOKER | x2
 Best you can hope for is some revenge.
 
-#### 6bbaaa4556-SM | JOKER | x2
+#### 6bbaaa4556 | JOKER | x2
 Even if I knew what she was up to next... it doesn’t apply to you.
 
 #### 20bb59a8d0 | JOKER | x2
@@ -6258,7 +6228,7 @@ You probably just think it makes you sound good.
 #### 88638e300c | JOKER | x2
 Down but not out!
 
-#### 74bf223c69-L? | JOKER | x2
+#### 74bf223c69 | JOKER | x2
 Don’t look so sad about it! You’re still alive aren’t you?
 
 #### f9b5917188 | JOKER | x2
@@ -6279,7 +6249,7 @@ She wants revenge on the man that had her parents killed.
 #### acfce26c5a | JOKER → BRUCE | x2
 You’re not gonna do anything while you’re stuck in here...
 
-#### d554b68853-LM | JOKER → BRUCE | x8
+#### d554b68853 | JOKER → BRUCE | x8
 You’re a smart guy, Bruce. [leaning in]But you need me.
 
 #### 752cfe74f4 | JOKER | x2
@@ -6354,7 +6324,7 @@ You wanna find Vicki and the drugs? I’ll tell you, if you promise me you’ll 
 #### 32b4d83840 | BRUCE → JOKER | x2
 Tell me what you know--
 
-#### 226c268c18-SM-LM | JOKER → BRUCE | x2
+#### 226c268c18 | JOKER → BRUCE | x2
 Like attacking Cobblepot on live TV?! Now THAT was entertaining. And I could tell you enjoyed it.
 
 #### 981400429b | BRUCE → JOKER | x2
@@ -6408,7 +6378,7 @@ But you can relate,
 #### 20f58170db | BRUCE → JOKER | x2
 My father killed the Vales?
 
-#### 043f344c6a-SM | JOKER → BRUCE | x2
+#### 043f344c6a | JOKER → BRUCE | x2
 I never said he killed the VALES. She was born an Arkham. Victoria Arkham.
 
 #### c833d422cb | BRUCE, COA02 → JOKER, LUCIUS | x4
@@ -6423,16 +6393,16 @@ Tragic really. A child, her parents gunned down in front of her. Giving her an u
 #### 365b4ee9d5 | BRUCE → JOKER | x2
 I’m not like her. I don’t need vengeance.
 
-#### 6706fffb42-LM | JOKER → BRUCE | x2
+#### 6706fffb42 | JOKER → BRUCE | x2
 Sounds to me like you’ve got more in common than you’re willing to admit, Bruce.
 
-#### 7e54f5e262-SM | JOKER → BRUCE | x2
+#### 7e54f5e262 | JOKER → BRUCE | x2
 But! There I go getting ahead of myself again!
 
-#### 83b16ed65a-LM | JOKER → BRUCE | x2
+#### 83b16ed65a | JOKER → BRUCE, Y01 | x4
 Assume I can take care of that - you need to be willing to use some of that money. That influence. Play... dirty.
 
-#### 97fc0b22e5-SM | BRUCE → JOKER | x2
+#### 97fc0b22e5 | BRUCE → JOKER | x2
 I’ve got a friend - One with a special knack for getting in and out of places.
 
 #### ce7a1c6c32 | BRUCE → JOKER | x4
@@ -6450,22 +6420,22 @@ I’d get in touch with my lawyers. They could get me out.
 #### e5e66a9f0b | JOKER → BRUCE | x4
 That might just be the richest-sounding sentence I’ve ever heard.
 
-#### 579c83ae00-LM | JOKER → BRUCE | x4
+#### 579c83ae00 | JOKER → BRUCE | x4
 No judgment! If you’ve got the money to throw at the problem then that is a solid solution.
 
-#### 9479550e22-SM | BRUCE → JOKER | x4
+#### 9479550e22 | BRUCE → JOKER | x4
 I’ve got a friend on the police force who owes me a favor.
 
 #### f7846a1697 | JOKER → BRUCE | x4
 A favor with lots of strings attached, huh? Nice.
 
-#### e93cc580e3-SM | BRUCE → JOKER | x4
+#### e93cc580e3 | BRUCE → JOKER | x4
 I’ve got a friend on the police force. He could help me.
 
 #### cb978ccc59 | JOKER → BRUCE | x4
 Ah, the rich and the police... always so cozy together.
 
-#### d9922d7db2-LM | JOKER → BRUCE | x4
+#### d9922d7db2 | JOKER → BRUCE | x4
 You don’t fool me, Bruce. I know you’ve got someone in mind.
 
 #### c891c3608f | JOKER → BRUCE | x4
@@ -6522,10 +6492,10 @@ Though he has been WAY more entertaining lately. Can’t put my finger on why.
 #### c6ff1311b5 | ORDERLY02 → JOKER | x2
 Dammit Zsasz, stop! Stop!
 
-#### 6300c3ed64-LM | JOKER → ZSASZ | x2
+#### 6300c3ed64 | JOKER → ZSASZ | x2
 Figured you just needed a little push.
 
-#### 0f40c36b5d-SM | ZSASZ → JOKER, ORDERLY02 | x4
+#### 0f40c36b5d | ZSASZ → JOKER, ORDERLY02 | x4
 No! I need it! I need it!
 
 #### 79bd6f0f32 | ORDERLY02 → ZSASZ | x4
@@ -6540,13 +6510,13 @@ Dammit! Call security! Augh!
 #### 068f49ec59 | JOKER → BRUCE | x2
 But! But I bet her parents do.
 
-#### b0f0a27ad3-LM | BRUCE → JOKER | x6
+#### b0f0a27ad3 | BRUCE → JOKER | x6
 You said her parents are dead--
 
 #### d4f97a4d0b | JOKER → BRUCE, LELAND | x6
 Not THOSE parents. [Chuckle, stage whisper]The Vales.
 
-#### 045b62b35e-LM | BRUCE → JOKER | x2
+#### 045b62b35e | BRUCE → JOKER | x2
 But you said--
 
 #### e3a00d4c94 | LELAND → JOKER | x6
@@ -6567,7 +6537,7 @@ Some call it crazy, we call it home.
 #### 7134aa073b | JOKER | x2
 But everyone’s friendly. Mostly.
 
-#### 15b13436c4-L? | JOKER | x2
+#### 15b13436c4 | JOKER | x2
 Just watch yourself around those two.
 
 #### 9bf5260778 | JOKER | x2
@@ -6603,7 +6573,7 @@ Your key, it didn’t work.
 #### 6525015323 | JOKER → BRUCE | x2
 Of course not, that’s not how you get out of here.
 
-#### fddcd07896-SM | JOKER → BRUCE | x4
+#### fddcd07896 | JOKER → BRUCE | x4
 I just wanted you to hang on to it for me.
 
 #### 373f5bdb78 | JOKER → HARVEY | x2
@@ -6621,10 +6591,10 @@ In my Gotham no one’s above the law, including Bruce Wayne.
 #### b589d685fa | JOKER → HARVEY | x2
 You’re famous. [quiet, short giggle]
 
-#### 6ac7c4c472-SM | HARVEY → JOKER | x2
+#### 6ac7c4c472 | HARVEY → JOKER | x2
 After his vicious attack on Oswald Cobblepot I had Mr. Wayne committed to Arkham Asylum where I hope he’ll receive the treatment he so desperately needs.
 
-#### b80e1e0a8f-SM | JOKER → HARVEY | x2
+#### b80e1e0a8f | JOKER → HARVEY | x2
 I thought you and the Mayor were friends?
 
 #### 6ae450d12e | BRUCE → JOKER | x2
@@ -6795,7 +6765,7 @@ Let’s see... on the couch, that’s Sane Lewis.
 #### 05a585bc8a | JOKER → BRUCE | x2
 Oh I know you can.  But let’s save that for later.
 
-#### 91f54b8541-LM | JOKER → BRUCE | x4
+#### 91f54b8541 | JOKER → BRUCE | x4
 You tried it though didn’t you! That’s hilarious!
 
 #### 980d77f883 | JOKER → BRUCE | x2
@@ -6804,13 +6774,13 @@ That new look of his is excellent.
 #### 30a40aa912 | JOKER → BRUCE | x2
 ...The way he’s freaking out over fixing everything wrong with the city!
 
-#### 43ec72fb6c-LM | BRUCE → JOKER | x2
+#### 43ec72fb6c | BRUCE → JOKER | x2
 Ugh. You stopped the attack?
 
-#### 33d3c3b597-LM | JOKER → BRUCE | x2
+#### 33d3c3b597 | JOKER → BRUCE | x2
 I mean, you were supporting his campaign.
 
-#### 94e60e679d-LM | JOKER → BRUCE | x2
+#### 94e60e679d | JOKER → BRUCE | x2
 Oh well... you had a good run, right?
 
 #### 72d1bd0136 | JOKER → BRUCE | x2
@@ -6837,13 +6807,13 @@ If
 #### 3e7db854a5 | JOKER → BRUCE | x2
 She was hiding in plain sight! It was brilliant! That’s how she got so close to you.
 
-#### 3a6e105c18-LM | JOKER → BRUCE | x2
+#### 3a6e105c18 | JOKER → BRUCE | x2
 Is this getting you riled up?
 
-#### 8dd81fe91d-LM | choice/UI → JOKER | x2
+#### 8dd81fe91d | choice/UI → JOKER | x2
 You wanna find Vicki and her drugs huh? I’ll tell you, but you have to promise me you’ll take on Lady Arkham yourself once you’re out of here.
 
-#### 60f25dd0ba-SM | BRUCE → JOKER | x2
+#### 60f25dd0ba | BRUCE → JOKER | x2
 That wasn’t me. I was just pumped full of her drugs!
 
 #### a37549db9c | JOKER → BRUCE | x2
@@ -6861,13 +6831,13 @@ See, I know what you really are...[trimmed]
 #### 7262e2a99d | JOKER → BRUCE | x2
 And that’s why I really want to tell you where Vicki’s moved her drugs.
 
-#### ccc4a21ff1-SM | JOKER → BRUCE | x2
+#### ccc4a21ff1 | JOKER → BRUCE | x2
 But first... I got to know what you’re going to do with them.
 
 #### 3f3fc52c06 | BRUCE, choice/UI → JOKER, GORDON | x6
 That’s none of your business.
 
-#### 4c0d4045c5-SM | choice/UI → JOKER | x2
+#### 4c0d4045c5 | choice/UI → JOKER | x2
 I’ve got a friend in the GCPD
 
 #### 00eea853f4 | JOKER → BRUCE | x2
@@ -6882,7 +6852,7 @@ You make that phone call, and I promise I’ll tell you how to find those missin
 #### b9ca9e4d36 | JOKER → ZSASZ, BRUCE, LELAND | x6
 ...ask her parents.
 
-#### 337c31af9d-SM | JOKER → BRUCE | x6
+#### 337c31af9d | JOKER → BRUCE | x6
 And here I thought we were getting along so well.
 
 #### ff0601a538 | JOKER → BRUCE | x6
@@ -6891,7 +6861,7 @@ Whatever you say, Bruce.
 #### f164a13183 | JOKER → BRUCE | x2
 Good luck on the outside, Bruce! I just know you’re gonna put on quite a show! [giggle builds to laugh]
 
-#### 6677813809-L? | JOKER | x2
+#### 6677813809 | JOKER | x2
 I’d watch yourself around those two.
 
 #### e88b6a1aee | JOKER | x2
@@ -6915,10 +6885,10 @@ I shouldn’t be surprised he did this.
 #### 3dbc7201e2 | JOKER → BRUCE | x2
 That callousness is almost inspiring. Sure it’s not... hiding anything?
 
-#### 4eb03bb456-SM | JOKER → BRUCE | x2
+#### 4eb03bb456 | JOKER → BRUCE | x2
 Because if I were in your shoes, I’d be pretty furious.
 
-#### 72ad59faf5-SM | JOKER → BRUCE | x2
+#### 72ad59faf5 | JOKER → BRUCE | x2
 I saw all sorts of photos of the two of you together.
 
 #### 8a93f62509 | JOKER → BRUCE | x2
@@ -6939,7 +6909,7 @@ Yeah. I can relate to that. Tragedy can be a powerful motivation...
 #### 4428ebb03c | JOKER → BRUCE | x2
 And then you’re going to destroy her, right? Right?!
 
-#### a741f4bcdf-SM | JOKER → BRUCE | x2
+#### a741f4bcdf | JOKER → BRUCE | x2
 Ooooh she’d be enraged. Furious! I would love to see that...
 
 #### b37e8e0d49 | JOKER → BRUCE | x4
@@ -6948,7 +6918,7 @@ Brucie. I’m helping you get out, here. [Chuckle] Don’t box out your buddy.
 #### f59924b52b | JOKER → BRUCE | x4
 There we go. Who are we calling?
 
-#### f48e9cf8ee-SM | BRUCE → JOKER | x4
+#### f48e9cf8ee | BRUCE → JOKER | x4
 Okay fine.  But only because I have to. I need to get out of here.
 
 #### d1985e06e9 | JOKER → BRUCE | x6
@@ -6957,7 +6927,7 @@ But “never” is a very, very long time. [dark, sinister chuckle]
 #### 3a824225f5 | JOKER → BRUCE | x6
 We can keep working on our friendship when we meet again, can’t we?
 
-#### a60b01d35e-SM | JOKER → BRUCE | x2
+#### a60b01d35e | JOKER → BRUCE | x2
 I knew it, I knew it. Very good instincts on this sort of thing.
 
 #### 36d94eba6a | JOKER → BRUCE | x4
@@ -6969,7 +6939,7 @@ Don’t you... trust me?
 #### df663d8f6f | choice/UI → JOKER, ARNOLD, ORDERLY01 | x8
 Use Key
 
-#### 81736b65c1-SM | JOKER → BRUCE | x2
+#### 81736b65c1 | JOKER → BRUCE | x2
 Missed me? I missed you.
 
 #### f65d30eeb3 | choice/UI → ORDERLY01, JOKER, BLOCKBUSTER | x14
@@ -7002,13 +6972,13 @@ It’s my system. How I keep ‘em all straight. We all gotta have a system.
 #### 6c29a9c0a0 | BRUCE → ZSASZ | x2
 Keep what straight, exactly?
 
-#### 5dfc6619d2-SM | ZSASZ → BRUCE, ARNOLD | x4
+#### 5dfc6619d2 | ZSASZ → BRUCE, ARNOLD | x4
 All the people I’ve liberated from the burden of living.
 
 #### 68ed8b34e5 | ZSASZ → BRUCE | x2
 Running out of room.
 
-#### c3b760d0e6-SM | BRUCE → ZSASZ | x2
+#### c3b760d0e6 | BRUCE → ZSASZ | x2
 The guy I walked in here with, what can you tell me about him?
 
 #### 66b6f327bf | ZSASZ → BRUCE | x2
@@ -7017,7 +6987,7 @@ I know enough to stay the hell away from him.
 #### 8ceb7f1b8a | BRUCE → ZSASZ | x2
 Yeah? and why’s that?
 
-#### 083b257dec-SM | ZSASZ → BRUCE | x2
+#### 083b257dec | ZSASZ → BRUCE | x2
 He’s unpredictable.  I heard he once tore off a man’s face just because he didn’t laugh at his joke!
 
 #### 5e1e742675 | ZSASZ → BRUCE | x2
@@ -7074,10 +7044,10 @@ Not this again.
 #### cdf441ba67 | BRUCE → SOCKO | x2
 Wait, not what again?
 
-#### 2256b4c34c-SM | ARNOLD → BRUCE | x2
+#### 2256b4c34c | ARNOLD → BRUCE | x2
 Nothing,  Just go away.  I’m busy here.
 
-#### 2199830b10-LM | SOCKO → BRUCE | x2
+#### 2199830b10 | SOCKO → BRUCE | x2
 You heard him.  Beat it.
 
 #### 1a70addb3b | BRUCE → ZSASZ, ARNOLD | x6
@@ -7089,7 +7059,7 @@ Hm.
 #### 1cdc9fa34f | ALFRED → BRUCE | x2
 Hello, Wayne Residence
 
-#### 9af507753d-LM | GORDON → BRUCE | x2
+#### 9af507753d | GORDON → BRUCE | x2
 How did you get my private number?
 
 #### 29770c2048 | ZSASZ → ORDERLY01 | x2
@@ -7116,7 +7086,7 @@ Look Through
 #### 35aa435160 | ORDERLY01 → GORDON | x2
 I can’t believe this guy’s still alive...
 
-#### ec56daf218-S? | ORDERLY01 → ZSASZ, PATIENTTABOR | x4
+#### ec56daf218 | ORDERLY01 → ZSASZ, PATIENTTABOR | x4
 Sorry, I can’t talk right now.  I’ve got to keep my eye on this guy.[Blockbuster]
 
 #### 6c41e7bb42 | choice/UI → ORDERLY01 | x2
@@ -7127,9 +7097,6 @@ Cabinet
 
 #### c2a69b40c2 | BRUCE → JOKER | x2
 What can you tell me about “John Doe”?
-
-#### 743e3e093c-L? | JOKER → ORDERLY01 | x2
-When you’re done, you and I have a lot to talk about.
 
 #### f34ec391fc | choice/UI → JOKER | x2
 What’s with your scars?
@@ -7149,7 +7116,7 @@ Not the right key for this.
 #### 167e6ec160 | SANELEWIS → BRUCE, JOKER | x4
 ...if that’s the way the cookie crumbles...
 
-#### 2bc35a293c-SM | SANELEWIS → BRUCE, PATIENTBILLY | x4
+#### 2bc35a293c | SANELEWIS → BRUCE, PATIENTBILLY | x4
 H-ha! I’ve cracked it! Yes! Shhh.
 
 #### b8854c6231 | SANELEWIS → BRUCE, JOKER | x4
@@ -7170,7 +7137,7 @@ Ah, but you’re already nuts - Arentch’a Billy? [giggling]
 #### 3070e52fb1 | ORDERLY01 → PATIENTBILLY | x2
 Watch it, Lewis.
 
-#### f78c18b3af-SM | SANELEWIS → PATIENTBILLY | x4
+#### f78c18b3af | SANELEWIS → PATIENTBILLY | x4
 I solved the cookie riddle. NOT you.
 
 #### 5d08c36105 | PATIENTBILLY → ARNOLD | x2
@@ -7221,10 +7188,10 @@ The government is. But don’t worry. They don’t care about our chess game.
 #### 6daac45ba7 | PATIENTTABOR → ZSASZ, RYDER | x4
 I guess that’s a relief.
 
-#### 3bd58a7397-LM | PATIENTBILLY → PATIENTTABOR | x2
+#### 3bd58a7397 | PATIENTBILLY → PATIENTTABOR | x2
 You’ve got a bad case of the mind knives. I can tell. I can tell.
 
-#### d6131f11e3-SM | PATIENTBILLY → PATIENTTABOR | x2
+#### d6131f11e3 | PATIENTBILLY → PATIENTTABOR | x2
 Just shove off, alright? No mind knives for me, I already got my shots.
 
 #### 45d05ad967 | PATIENTTABOR → PATIENTBILLY | x2
@@ -7233,7 +7200,7 @@ He cheats!  Every time, he cheats!
 #### 8395d1ebe7 | PATIENTTABOR → PATIENTBILLY | x2
 Sees what I’m thinking! Mind control!  Cheater!
 
-#### 53af2e2552-SM | ZSASZ → PATIENTTABOR | x2
+#### 53af2e2552 | ZSASZ → PATIENTTABOR | x2
 I told you - If I could read minds, I certainly wouldn’t waste my time on yours.
 
 #### 91586a20d8 | choice/UI → PATIENTTABOR | x2
@@ -7253,12 +7220,6 @@ Looks like a door key.  You shouldn’t have this, I better hang onto it.
 
 #### 9b300d908d | BRUCE → JOKER | x2
 “John” gave me this key. Any idea why?
-
-#### 83b16ed65a-L? | JOKER → Y01 | x2
-Assume I can take care of that - you need to be willing to use some of that money. That influence. Play... dirty.
-
-#### 656e1ccb47-SM-LF | JOKER → LELAND | x4
-Just like I did you a favor today.
 
 #### eab6c596ae | JOKER → LELAND | x2
 When I get out of here you’re going to owe me a favor, okay?
@@ -7329,13 +7290,13 @@ W-ow he really threw you under the bus, huh?
 #### 4b18656b5f | JOKER | x2
 You think so? I can’t wait to see where he goes next.
 
-#### d6ff97d1e7-L? | JOKER | x2
+#### d6ff97d1e7 | JOKER | x2
 You want to find Vicki and her drugs huh? Get your revenge just like you got your revenge on Cobblepot?
 
 #### 04f21164e0 | JOKER | x2
 Ooooh I’d love to see that.
 
-#### 60bf6e73f9-SM-L? | JOKER | x2
+#### 60bf6e73f9 | JOKER | x2
 When you attacked Oswald I could tell you enjoyed it.
 
 #### 180d59650c | JOKER | x2

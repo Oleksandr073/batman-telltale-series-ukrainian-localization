@@ -8,7 +8,7 @@ DR. QUINZEL: I’m here!
 #### 0a8886b48a | ORDERLY01 → LUCIUS | x2
 I might be here!
 
-#### 27947d7e7d-S? | ORDERLY 2 → ALFRED | x2
+#### 27947d7e7d | ORDERLY 2 → ALFRED | x2
 I could be here, too!
 OTHER PATIENTS/THEIR VISITORS: Could be seen here, too!
 
@@ -18,7 +18,10 @@ I think Im here conditionally
 #### 77a29bbea5 | choice/UI, BRUCE → ORDERLY01, ALFRED | x4
 I’m the one who failed you.
 
-#### 8db23ad730-L? | choice/UI → ORDERLY 2 | x2
+#### 8db23ad730-L? | choice/UI, BRUCE → ORDERLY 2, ALFRED | x4 | listener: unknown
+You could never fail me.
+
+#### 8db23ad730-LM | choice/UI, BRUCE → ORDERLY 2, ALFRED | x4 | listener: male
 You could never fail me.
 
 #### b30a158c1d | choice/UI, BRUCE → LUCIUS, ALFRED | x4
@@ -26,9 +29,6 @@ I’m not broken.
 
 #### 99e89b20f7 | choice/UI | x2
 What happened to your trust in me?
-
-#### 1efa30bf4c-L? | choice/UI | x2
-Maybe you’re right.
 
 #### f72436aa64 | choice/UI | x2
 Answer me, damnit!
@@ -51,7 +51,7 @@ Contact Selina Kyle.
 #### a11ea8c27d | choice/UI → ALFRED | x4
 Vicki Vale drugged me.
 
-#### b291b0f952-SM | choice/UI | x4
+#### b291b0f952 | choice/UI | x4
 I attacked Oswald.
 
 #### fd477634b1 | BRUCE, choice/UI → ALFRED | x12
@@ -63,13 +63,13 @@ It was the same drug Montoya was dosed with.
 #### ea3eaa859f | choice/UI, BRUCE → ALFRED | x6
 She set me up.
 
-#### e31f5d78b3-SM | choice/UI | x4
+#### e31f5d78b3 | choice/UI | x4
 I would never do that in public!
 
 #### 80ff190b5d | choice/UI, ORDERLY1 → ALFRED, BRUCE | x6
 No, I don’t.
 
-#### f56170d3bc-SM | choice/UI → ALFRED | x4
+#### f56170d3bc | choice/UI → ALFRED | x4
 I was dosed like Montoya!
 
 #### e0b92f6bba | choice/UI, BRUCE → ALFRED | x8
@@ -81,25 +81,25 @@ I guess I’m to blame.
 #### 111524c73d | ALFRED → QUINZEL | x2
 I can’t bear to see you this way.
 
-#### 112c75a9e6-SM | ALFRED → LUCIUS | x2
+#### 112c75a9e6 | ALFRED → LUCIUS | x2
 I feared it would come to this.
 
-#### cca0789fdd-LM | ALFRED → BRUCE | x2
+#### cca0789fdd | ALFRED → BRUCE | x2
 You need to get out of here and quickly.
 
 #### 0cbc28140d | BRUCE → ALFRED | x2
 Al, what’s wrong?
 
-#### 4f0edec15e-SM | ALFRED → BRUCE | x2
+#### 4f0edec15e | ALFRED → BRUCE | x2
 Sorry. This is harder than I thought it would be -- seeing you like this.
 
 #### 41f49bd477 | BRUCE → ALFRED | x2
 Like what?
 
-#### bf2fdc65eb-SM | ALFRED → BRUCE | x2
+#### bf2fdc65eb | ALFRED → BRUCE | x2
 I’ve failed you.
 
-#### 5303b92991-SM | ALFRED → BRUCE | x2
+#### 5303b92991 | ALFRED → BRUCE | x2
 I failed you -- and I’m sorry.
 
 #### b45000096e | ALFRED → BRUCE | x2
@@ -107,9 +107,6 @@ I just didn’t think it would come so soon.
 
 #### 54bd6f17b3 | BRUCE → ALFRED | x2
 Al... what’s going on?
-
-#### 8db23ad730-LM | BRUCE → ALFRED | x2
-You could never fail me.
 
 #### f6aebc440a | BRUCE → ALFRED | x2
 Al, what are you talking
@@ -132,7 +129,7 @@ You really don’t remember, do you?
 #### 426f7f7767 | ALFRED → BRUCE | x2
 You don’t
 
-#### f86c858123-LM | BRUCE → ALFRED | x2
+#### f86c858123 | BRUCE → ALFRED | x2
 How do you think you’ve failed me?
 
 #### 376a055ea7 | BRUCE → ALFRED | x4
@@ -144,13 +141,13 @@ This is not a game.
 #### fc19e013e6 | ALFRED → BRUCE | x4
 No. No it’s not.
 
-#### a461bd60c2-SM | BRUCE → ALFRED | x4
+#### a461bd60c2 | BRUCE → ALFRED | x4
 Maybe I’m a little confused.
 
 #### 5cb0cc34f7 | BRUCE → ALFRED | x2
 Goddamnit, Al. Answer me.
 
-#### 0be884697b-LM | BRUCE → ALFRED | x2
+#### 0be884697b | BRUCE → ALFRED | x2
 You’ve kept too many of them from me already.
 
 #### 2b509074eb | ALFRED → BRUCE | x2
@@ -159,13 +156,13 @@ I don’t have the heart to tell you.
 #### 48e7446550 | BRUCE → ALFRED | x2
 Alfred... please.
 
-#### eb1c2fe562-SM | BRUCE → ALFRED | x2
+#### eb1c2fe562 | BRUCE → ALFRED | x2
 I need you to tell me where I am.
 
 #### 996d06ac58 | BRUCE → ALFRED | x4
 Help me remember.
 
-#### 156ceb29b6-SM | ALFRED → BRUCE | x2
+#### 156ceb29b6 | ALFRED → BRUCE | x2
 I’m afraid this is the least of your problems.
 
 #### 11a758c05f | ALFRED → BRUCE | x4
@@ -183,16 +180,16 @@ If he can gain access to that, it’s just a matter of time before he finds out 
 #### e576361d18 | BRUCE → BATMAN | x2
 Batman [sighs].
 
-#### 9de4b65159-SM | BRUCE → ALFRED | x8
+#### 9de4b65159 | BRUCE → ALFRED | x8
 I was at the press conference.
 
-#### 3ce492875f-LM | ALFRED → BRUCE | x4
+#### 3ce492875f | ALFRED → BRUCE | x4
 Listen to yourself, Bruce.
 
 #### 058db849d6 | ALFRED → BRUCE | x2
 You sound--
 
-#### 3e59c61b3f-SM | BRUCE → ALFRED, NURSE | x4
+#### 3e59c61b3f | BRUCE → ALFRED, NURSE | x4
 I’m not crazy.
 
 #### 74af5be9aa | ALFRED → BRUCE | x8
@@ -207,7 +204,7 @@ Never repeat that to anybody.
 #### 21035b86b0 | BRUCE → OSWALD | x4
 Oz. He was there.
 
-#### e4e70a87d8-LM | ALFRED → BRUCE | x2
+#### e4e70a87d8 | ALFRED → BRUCE | x2
 Yes, you did.
 
 #### 7c0435f9e0 | BRUCE → ALFRED | x2
@@ -222,7 +219,7 @@ I’ll take care of it.
 #### 0fbcf4aea6 | ALFRED → BRUCE | x2
 What do you mean ‘take care of it’?
 
-#### d2de5b2243-LM | ALFRED → BRUCE | x2
+#### d2de5b2243 | ALFRED → BRUCE | x2
 Then what? You would be a fugitive of the law, Bruce.
 
 #### f9262ddaf9 | ALFRED → BRUCE | x8
@@ -243,10 +240,10 @@ You’re in Arkham. They can keep you for as long as they bloody well want.
 #### 864f86d4e4 | ALFRED → BRUCE | x2
 Oh christ, Bruce.
 
-#### 8a8e227516-SM | ALFRED → BRUCE | x2
+#### 8a8e227516 | ALFRED → BRUCE | x2
 I need you to act as sane as possible.
 
-#### 32d2c609c9-LM | ALFRED → BRUCE | x2
+#### 32d2c609c9 | ALFRED → BRUCE | x2
 I can try to get you out legitmately -- but you need to get your act together and keep it together.
 
 #### 2fb882df93 | BRUCE → ALFRED | x2
@@ -268,7 +265,7 @@ The stress of leading a double-life -- It would break anyone.
 #### f979fe1d37 | ALFRED | x2
 I’m to blame.
 
-#### d723958472-LM | ALFRED → BRUCE | x2
+#### d723958472 | ALFRED → BRUCE | x2
 I guess it was just a matter of time before you ended up here.
 
 #### bea2324515 | ALFRED → BRUCE | x2
@@ -304,43 +301,43 @@ She can bust me out.
 #### df0b774c79 | ALFRED → BRUCE | x2
 There’s no way I’m reaching out to her.
 
-#### 8cc2f036ef-LM | ALFRED → BRUCE | x4
+#### 8cc2f036ef | ALFRED → BRUCE | x4
 You really don’t remember what you did?
 
 #### 1a046a5109 | ALFRED → BRUCE | x4
 Is that all you remember?
 
-#### e54ca2b23e-SM | ALFRED → BRUCE | x2
+#### e54ca2b23e | ALFRED → BRUCE | x2
 I need you to keep it together.
 
-#### 0592fe3cc3-LM | ALFRED → BRUCE | x2
+#### 0592fe3cc3 | ALFRED → BRUCE | x2
 Now, when someone asks you how you got here, what are you going to tell them?
 
 #### 1cdb5fab83 | ALFRED → BRUCE | x2
 He’ll need to get himself out of jail first.
 
-#### cc57fe45c6-SM | BRUCE → ALFRED | x2
+#### cc57fe45c6 | BRUCE → ALFRED | x2
 Forget I mentioned her.
 
 #### b81ed2cf83 | ALFRED → BRUCE | x2
 I’ll try.
 
-#### 64203f2f37-SM | ALFRED → BRUCE | x2
+#### 64203f2f37 | ALFRED → BRUCE | x2
 I would say that things are about to get a lot worse.
 
 #### 9330405b47 | BRUCE → ALFRED | x4
 I guess I finally lost it, huh?
 
-#### 49f6f6d1df-LM | ALFRED → BRUCE | x2
+#### 49f6f6d1df | ALFRED → BRUCE | x2
 Whatever you think you lost -- you better find it.
 
 #### acc94d6dac | ALFRED → BRUCE | x6
 Because the city needs you more than ever.
 
-#### 3012e4054b-SM | BRUCE → ALFRED | x4
+#### 3012e4054b | BRUCE → ALFRED | x4
 Alfred... I’m not crazy.
 
-#### cb4142e3e4-SM | ALFRED → BRUCE | x2
+#### cb4142e3e4 | ALFRED → BRUCE | x2
 They might be able to get you out legitmately -- but I need you to keep it together.
 
 #### fa982e3ccd | ALFRED → BRUCE | x2
@@ -358,7 +355,7 @@ It’s not a matter of faith.
 #### 42dda7529e | BRUCE → ALFRED | x4
 I don’t have a a lot of options.
 
-#### e169d7b6d1-LM | ALFRED → BRUCE | x6
+#### e169d7b6d1 | ALFRED → BRUCE | x6
 I hope you believe that about yourself.
 
 #### 1fa697ee62 | BRUCE → ALFRED | x8
@@ -367,19 +364,19 @@ I’m not giving up on him.
 #### fbf810f3e8 | BRUCE → ALFRED | x2
 I can do that.
 
-#### 585fc05f90-SM | ALFRED → BRUCE | x2
+#### 585fc05f90 | ALFRED → BRUCE | x2
 I’m not sure I should tell you.
 
-#### fe4a5c8de1-SM | ALFRED → BRUCE | x6
+#### fe4a5c8de1 | ALFRED → BRUCE | x6
 I’m not sure I should tell you, given your current condition.
 
-#### 5eff224842-LM | BRUCE → ALFRED | x2
+#### 5eff224842 | BRUCE → ALFRED | x2
 You need to have more faith in me.
 
 #### 04444e1562 | ALFRED → BRUCE | x2
 And it’s not like I can keep this one.
 
-#### 62101df47f-LM | BRUCE → ALFRED | x2
+#### 62101df47f | BRUCE → ALFRED | x2
 You need to stop protecting me.
 
 #### 102586cda0 | ALFRED → BRUCE | x2
@@ -394,7 +391,7 @@ Whatever’s happening -- I can handle it.
 #### 27703714cf | BRUCE | x2
 Christ, Al. I’m not a child.
 
-#### 65d926504d-L? | BRUCE | x2
+#### 65d926504d | BRUCE | x2
 Don’t you think you’ve kept enough secrets from me?
 
 #### fff26df551 | BRUCE → ALFRED | x2
@@ -415,10 +412,10 @@ Just tell
 #### 76ce0da558 | BRUCE → ALFRED | x2
 Speak sense.
 
-#### 6969f1e868-LM | ALFRED → BRUCE | x6
+#### 6969f1e868 | ALFRED → BRUCE | x6
 Just don’t give up on yourself.
 
-#### 795026670e-LM | ALFRED → BRUCE | x2
+#### 795026670e | ALFRED → BRUCE | x2
 You need to act as sane as possible.
 
 #### 74985b3e0c | BRUCE → ALFRED | x4
@@ -427,7 +424,7 @@ She used the same drug that Montoya was dosed with.
 #### a577ffdc6f | BRUCE → ALFRED | x6
 There’s still a good man somewhere left there.
 
-#### bcf96ec4c8-LM | ALFRED → BRUCE | x2
+#### bcf96ec4c8 | ALFRED → BRUCE | x2
 You had him arrested, remember?
 
 #### 2a9f595552 | ALFRED → BRUCE | x2
@@ -457,7 +454,7 @@ That’s all?
 #### c57ad0e63d | BRUCE → ALFRED | x4
 She drugged me.
 
-#### 01658f7ab4-SM | BRUCE → ALFRED | x4
+#### 01658f7ab4 | BRUCE → ALFRED | x4
 I attacked him, didn’t I?
 
 #### d2b3e8139a | BRUCE → ALFRED | x2
@@ -508,7 +505,7 @@ The press is not your enemy.
 #### 97846a1012 | ALFRED → BRUCE | x2
 We both know what that drug does to you.
 
-#### 0c9cdbd09d-LM | ALFRED → BRUCE | x2
+#### 0c9cdbd09d | ALFRED → BRUCE | x2
 You wanted to do it.
 
 #### 24e0a1656c | BRUCE, choice/UI → ALFRED | x4
@@ -550,13 +547,13 @@ Think hard, Bruce. What was the last thing you remember?
 #### 257849a1f9 | ALFRED → BRUCE | x2
 How did that happen?
 
-#### 782c93e68c-SM | BRUCE → ALFRED | x2
+#### 782c93e68c | BRUCE → ALFRED | x2
 You wouldn’t believe me if I told you.
 
-#### 48652c5af2-SM | BRUCE → ALFRED | x2
+#### 48652c5af2 | BRUCE → ALFRED | x2
 You already think I’m crazy enough.
 
-#### c3917f4c31-LM | ALFRED → BRUCE | x2
+#### c3917f4c31 | ALFRED → BRUCE | x2
 How did you get dosed?
 
 #### 3c4d97c30a | BRUCE → ALFRED | x2
@@ -574,10 +571,10 @@ Bruce, they got it on video -- all of it.
 #### 7d7696532a | ALFRED → BRUCE | x4
 Every major network has been playing it on a loop.
 
-#### f2715d638c-LM | ALFRED → BRUCE | x2
+#### f2715d638c | ALFRED → BRUCE | x2
 You’ve made Cobblepot a regular folk hero.
 
-#### 70aff463c1-SM | BRUCE → ALFRED | x2
+#### 70aff463c1 | BRUCE → ALFRED | x2
 I was dosed with that drug. The same one the caused Montoya to kill Falcone.
 
 #### c095f17bd9 | BRUCE → ALFRED | x2
@@ -592,19 +589,19 @@ He just got out of the hospital today.
 #### 672e23b739 | ALFRED → BRUCE | x2
 A few broken bones, a neck brace.
 
-#### 25013978a9-LM | ALFRED → BRUCE | x2
+#### 25013978a9 | ALFRED → BRUCE | x2
 How did you let this happen?
 
-#### b0d55486d5-L? | ALFRED | x2
+#### b0d55486d5 | ALFRED | x2
 How did you just lose control like that?
 
-#### de246e09ef-LM | ALFRED → BRUCE | x2
+#### de246e09ef | ALFRED → BRUCE | x2
 How did you lose control like that?
 
-#### dab92f3308-SM | ALFRED → BRUCE | x2
+#### dab92f3308 | ALFRED → BRUCE | x2
 He will recover. I’m not so sure about you.
 
-#### 15e2e535b2-SM | BRUCE → ALFRED | x2
+#### 15e2e535b2 | BRUCE → ALFRED | x2
 I’m sure he deserved every single punch.
 
 #### b9e42ea314 | ALFRED → BRUCE | x2
@@ -625,10 +622,10 @@ I’ll talk to your lawyers.
 #### 25a892655e | BRUCE → ALFRED | x2
 For how long?
 
-#### 67f10b1265-LM | ALFRED → BRUCE | x2
+#### 67f10b1265 | ALFRED → BRUCE | x2
 You need
 
-#### 6e56d56694-LM | ALFRED → BRUCE | x4
+#### 6e56d56694 | ALFRED → BRUCE | x4
 You need to get your head on straight.
 
 #### c4832f1729 | ALFRED → BRUCE | x2
@@ -640,16 +637,16 @@ What do you mean? What’s going on?
 #### c223f5567b | BRUCE → ALFRED | x4
 Because Vicki Vale is Lady Arkham.
 
-#### 8bda0f14a3-LM | ALFRED → BRUCE | x2
+#### 8bda0f14a3 | ALFRED → BRUCE | x2
 Promise me you won’t repeat that to any one else.
 
-#### 73c5bcc04b-SM | BRUCE → ALFRED | x2
+#### 73c5bcc04b | BRUCE → ALFRED | x2
 I won’t need to, because you will.
 
 #### af4e8a8ebf | ALFRED → BRUCE | x2
 Come again?
 
-#### 6033262529-SM | BRUCE → ALFRED | x2
+#### 6033262529 | BRUCE → ALFRED | x2
 I need you to go to the police, the press, anyone who will listen and tell them that Vicki Vale is Lady Arkham.
 
 #### 4d50c5173e | BRUCE → ALFRED | x2
@@ -679,7 +676,7 @@ Sounds like an excuse.
 #### 3dc4b22f96 | ALFRED → BRUCE | x4
 Can you honestly tell me that you didn’t want to take a hand to Oswald?
 
-#### d88ce42fbe-SM | BRUCE → ALFRED | x2
+#### d88ce42fbe | BRUCE → ALFRED | x2
 I never wanted to hurt him.
 
 #### bab02bf3ed | ALFRED → BRUCE | x2
@@ -691,7 +688,7 @@ It’s Cobblepot.
 #### 3596a2de9d | ALFRED → BRUCE | x2
 He’s using Sanctus to access Wayne Technology.
 
-#### 0a4442143b-SM | BRUCE → ALFRED | x14
+#### 0a4442143b | BRUCE → ALFRED | x14
 I need to get out of here.
 
 #### 2019e464e1 | ALFRED → BRUCE | x4
@@ -724,7 +721,7 @@ I’ve never seen you lose control like that before - attacking{SkepticalA} Mr. 
 #### 80c426cf37 | BRUCE → ALFRED, LELAND | x4
 That wasn’t me.
 
-#### 6af1a66bae-SM | BRUCE → ALFRED | x2
+#### 6af1a66bae | BRUCE → ALFRED | x2
 Is he okay? How bad did I hurt him?
 
 #### 713cc491d7 | ALFRED → BRUCE | x2
@@ -733,7 +730,7 @@ Let’s just say he’s lucky you weren’t wearing your *other* suit.
 #### 9a3ffa5549 | BRUCE → ALFRED | x2
 That slime deserved it. He’s lucky I didn’t do worse.
 
-#### c2b7a355b4-SM | BRUCE → ALFRED | x2
+#### c2b7a355b4 | BRUCE → ALFRED | x2
 I never wanted to hurt someone more.
 
 #### 1921cc8d08 | BRUCE → JOKER, ALFRED, SELINA | x10
@@ -745,10 +742,10 @@ Maimed Harvey.
 #### a528a8e8a2 | BRUCE → ALFRED | x2
 No. Stop him, maybe,{ConcernedB} but I’d never want Oz to get hurt.
 
-#### b385581f83-LM | ALFRED → BRUCE | x2
+#### b385581f83 | ALFRED → BRUCE | x2
 Are you trying to convince me -- or yourself?
 
-#### 2f5eda71cc-SM | ALFRED → BRUCE | x2
+#### 2f5eda71cc | ALFRED → BRUCE | x2
 I’m afraid that excuse won’t pass muster, Bruce. They have it recorded. All of it. Every major network has been playing the footage on a loop.
 
 #### fd3a942979 | BRUCE → ALFRED | x2
@@ -769,13 +766,13 @@ Maybe we are.
 #### 31abcd25dd | ALFRED → BRUCE | x2
 There’s no question that it was you.
 
-#### 40e6fcff33-SM | BRUCE → ALFRED | x2
+#### 40e6fcff33 | BRUCE → ALFRED | x2
 I wasn’t in control of myself.
 
 #### dd07d4a02d | ALFRED → BRUCE | x2
 The family lawyers have already arranged for this evaluation period - If you can pass it I should be able to secure your release.
 
-#### 92b9b03030-SM | ALFRED → BRUCE | x2
+#### 92b9b03030 | ALFRED → BRUCE | x2
 We might be able to get you out legitimately -- but until I can secure your release -- I need you stay out of trouble.
 
 #### 682fed94d6 | ALFRED → BRUCE | x2
@@ -793,7 +790,7 @@ I don’t care what you have to do, {DespairA}just take care of it.
 #### 2212ee38f4 | BRUCE → ALFRED | x2
 Vicki Vale - she drugged me.
 
-#### 717b349df0-LM | ALFRED → BRUCE | x2
+#### 717b349df0 | ALFRED → BRUCE | x2
 She knew you wanted to hurt him.
 
 #### fa802bf512 | BRUCE → ALFRED | x2
@@ -811,7 +808,7 @@ The drug -- we both knows it brings out our... baser desires.
 #### 1308145337 | ALFRED → BRUCE | x4
 And Mayor Dent...
 
-#### a27e23081e-SM | BRUCE → ALFRED | x2
+#### a27e23081e | BRUCE → ALFRED | x2
 I wasn’t in control of myself. It was Vicki Vale. She drugged me.
 
 #### 5adeb7c2f4 | ALFRED → BRUCE | x2
@@ -838,16 +835,16 @@ We can’t afford any missteps.
 #### d5120ef75e | ALFRED | x2
 I guess the stress of leading a double-life has finally taken it’s toll.
 
-#### 13eda502c2-LM | ALFRED → BRUCE | x2
+#### 13eda502c2 | ALFRED → BRUCE | x2
 It was just a matter of time before you became... unhinged.
 
-#### 46bcbfb1b1-LM | ALFRED → BRUCE | x2
+#### 46bcbfb1b1 | ALFRED → BRUCE | x2
 If you thought you had a reason to
 
 #### 3b4578c3d3 | ALFRED → BRUCE | x2
 Don’t deny it.
 
-#### 833c472432-SM | BRUCE → ALFRED | x2
+#### 833c472432 | BRUCE → ALFRED | x2
 I never wanted to
 
 #### 23abc8d0f8 | BRUCE → ALFRED | x2
@@ -859,7 +856,7 @@ Ozwald has recovered from his beating enough to
 #### 6fd5dd2238 | ALFRED → BRUCE | x2
 Yes, you do -- and quickly.
 
-#### e892c8d1c8-SM | BRUCE → ALFRED | x2
+#### e892c8d1c8 | BRUCE → ALFRED | x2
 I’ll keep a low profile. {SkepticalA} All I have to do is keep to myself and{AmusedA} not act crazy.
 
 #### 8516c5fa11 | ALFRED → BRUCE | x2
@@ -895,7 +892,7 @@ Sometimes
 #### 7cdef9ae19 | ALFRED → BRUCE | x2
 That’s my boy.
 
-#### fdc0360209-SM | BRUCE → ALFRED | x2
+#### fdc0360209 | BRUCE → ALFRED | x2
 Of course I wanted to hurt him.
 
 #### 78f053adb5 | BRUCE → ALFRED | x4
@@ -922,7 +919,7 @@ Because that’s who you are.
 #### 38bbff1b77 | ALFRED → BRUCE | x2
 Maybe this is your shot at redemption.
 
-#### fbce494e56-LM | ALFRED → BRUCE | x2
+#### fbce494e56 | ALFRED → BRUCE | x2
 You need to get your head on straight and get out of here.
 
 #### f24e74ec22 | BRUCE → ALFRED | x6
@@ -946,7 +943,7 @@ And I’ll be there to save Gotham.
 #### 23568e21f5 | BRUCE → ALFRED | x2
 The CoA -- they’ve made this personal.
 
-#### cd7dec81f1-LM | ALFRED → BRUCE | x2
+#### cd7dec81f1 | ALFRED → BRUCE | x2
 You need to think beyond your own personal
 
 #### 9cb5509c2a | ALFRED → BRUCE | x2
@@ -961,16 +958,16 @@ You don’t have much time -- and neither does the city.
 #### fb48865512 | LUCIUS, ALFRED, JOKER → BATMAN, BRUCE, OSWALD | x32
 You don’t have much time.
 
-#### 11839c95f9-LM | ALFRED → BRUCE | x2
+#### 11839c95f9 | ALFRED → BRUCE | x2
 If you want to get out of here, you need to get your head on straight.
 
-#### 73bd2b39ab-LM | ALFRED → BRUCE | x6
+#### 73bd2b39ab | ALFRED → BRUCE | x6
 Then what? You would be making yourself a fugitive of the law.
 
 #### 8f0b1bb2dc | ALFRED, JOKER, HARVEY → BRUCE, BATMAN | x14
 I wouldn’t be so sure about that.
 
-#### df0624a606-LM | BRUCE → ALFRED | x2
+#### df0624a606 | BRUCE → ALFRED | x2
 Pay off whoever you need to -- just get me out of here.
 
 #### e21abb0c5a | ALFRED → BRUCE | x2
@@ -985,7 +982,7 @@ Listen to me, Bruce.
 #### 046601634b | ALFRED → BRUCE | x2
 Bruce. Gotham needs you.
 
-#### 6c1746ea3a-LF | ALFRED → LELAND | x2
+#### 6c1746ea3a | ALFRED → LELAND | x2
 You need to listen to me right now.
 
 #### 559e98bf56 | ALFRED → BRUCE | x2
@@ -994,7 +991,7 @@ And do whatever she says.
 #### e92bce3d1e | BRUCE → ALFRED | x2
 Bye, Alfred.
 
-#### 8eede202de-LM | ALFRED → BRUCE | x2
+#### 8eede202de | ALFRED → BRUCE | x2
 Pull yourself together, Bruce, because you’re going to need all your strength to face the days to come.
 
 #### 6b2d402930 | BRUCE → ALFRED | x2
@@ -1006,22 +1003,22 @@ In Arkham Asylum, sir.
 #### b732bd498d | ALFRED → BRUCE | x6
 And neither does the city.
 
-#### ef30c3e220-LM | ALFRED → BRUCE | x2
+#### ef30c3e220 | ALFRED → BRUCE | x2
 I don’t know who you’re trying to convince more. Me -- or yourself?
 
-#### a44e6c16b3-L? | ALFRED | x2
+#### a44e6c16b3 | ALFRED | x2
 You need to pull yourself together.
 
 #### a946554661 | ALFRED | x2
 And maybe they should.
 
-#### 4d05be4a44-LM | ALFRED → BRUCE | x4
+#### 4d05be4a44 | ALFRED → BRUCE | x4
 Vicki Vale? Are you sure you’re not still confused?
 
 #### 05af13af2c | ALFRED → BRUCE | x2
 Gotham still needs you.
 
-#### a1e6ff9b39-LM | BRUCE → ALFRED | x6
+#### a1e6ff9b39 | BRUCE → ALFRED | x6
 Pay off whoever you need to.
 
 #### 1d5a853691 | ALFRED → BRUCE | x2
@@ -1090,13 +1087,13 @@ Batman is being hunted by the GCPD
 #### 8322a83667 | ALFRED → BRUCE | x2
 Then I don’t have much time now, do I?
 
-#### 3131087de2-LM | ALFRED → BRUCE | x6
+#### 3131087de2 | ALFRED → BRUCE | x6
 Then what? You would be making Bruce Wayne a bigger fugitive than you’ve already made Batman.
 
 #### cd720cc6a7 | ALFRED → BRUCE, LELAND | x6
 There would be no where for you to hide.
 
-#### 20ff7720aa-LM | ALFRED → BRUCE | x4
+#### 20ff7720aa | ALFRED → BRUCE | x4
 He’s not the same man you used to be able to count on.
 
 #### 84deabd1b1 | BRUCE → ALFRED | x2
@@ -1117,7 +1114,7 @@ You can depend on me.{HappyA}
 #### c8df5a87da | ALFRED → BRUCE | x2
 I’ll leave you to it then, sir.
 
-#### fd64e40718-LM | LELAND → ALFRED | x2
+#### fd64e40718 | LELAND → ALFRED | x2
 Hope you’re ready for your first day in Arkham.
 
 #### 8e52cf8c41 | BRUCE → ALFRED | x2
@@ -1135,7 +1132,7 @@ To be frank, you’ve given them the case to do it.
 #### c7e6264f8d | ALFRED → BRUCE | x2
 And now you’re proposing to throw it all away.
 
-#### 8f2c637e30-L? | ALFRED | x2
+#### 8f2c637e30 | ALFRED | x2
 You need to pull yourself together and find a way out of here.
 
 #### 6a6405b33e | ALFRED → BRUCE | x2
@@ -1168,13 +1165,13 @@ Give you the lay of the land.
 #### c1ccc33acf | BRUCE → LELAND | x2
 Can Alfred come?
 
-#### 5cea7f3837-SF | LELAND → BRUCE | x2
+#### 5cea7f3837 | LELAND → BRUCE | x2
 I’m afraid it’s going to be just you and I.
 
 #### 4d1b49c0b2 | BRUCE → LELAND | x2
 I guess we better get going then.
 
-#### d1c1a509dd-LM | LELAND → BRUCE | x2
+#### d1c1a509dd | LELAND → BRUCE | x2
 You’ve got a good attitude. I like that.
 
 #### 74911fc7b6 | LELAND → BRUCE | x2
@@ -1183,13 +1180,13 @@ It’s gonna be okay. I promise.
 #### d96dd44426 | ALFRED → BRUCE | x2
 You’ve gone too far this time.
 
-#### 247f62f5be-SM | ALFRED → LELAND | x2
+#### 247f62f5be | ALFRED → LELAND | x2
 I’m afraid it is unquestionably you.
 
-#### 2f9dd3ae6b-SM | BRUCE → ALFRED | x2
+#### 2f9dd3ae6b | BRUCE → ALFRED | x2
 I would only
 
-#### 45224ca525-SM | BRUCE → ALFRED | x2
+#### 45224ca525 | BRUCE → ALFRED | x2
 I would never risk exposing myself like that.
 
 #### 08605f35c3 | ALFRED → BRUCE | x2
@@ -1234,7 +1231,7 @@ But Bruce, Mr. Dent {SkepticalA}*is* the problem.
 #### 63412dad83 | ALFRED → BRUCE | x2
 And this is the price.
 
-#### b5e6653923-SM-LM | ALFRED → BRUCE | x2
+#### b5e6653923 | ALFRED → BRUCE | x2
 When I saw what you did, I couldn’t believe it.
 
 #### 2f1433b79f | ALFRED → BRUCE | x2
@@ -1246,10 +1243,10 @@ What the hell do you want me to do, Al?
 #### 5cbddaf789 | BRUCE → ALFRED | x8
 I can’t exactly save the city while{AngryB} I’m an inmate in Arkham Asylum.
 
-#### 63178e5ddd-LM | ALFRED, SELINA → BRUCE | x4
+#### 63178e5ddd | ALFRED, SELINA → BRUCE | x4
 But you did.
 
-#### d3a5ac6645-LM | ALFRED → BRUCE | x2
+#### d3a5ac6645 | ALFRED → BRUCE | x2
 Bruce - You need to pull yourself together.
 
 #### d835dfd175 | BRUCE → ALFRED | x2
@@ -1270,7 +1267,7 @@ I’ve come to collect you.
 #### 6aea041340 | LELAND → BRUCE | x2
 Good, because we have a schedule to keep.
 
-#### 51b6d05a1d-LM | LELAND → BRUCE | x2
+#### 51b6d05a1d | LELAND → BRUCE | x2
 You’ve got a pretty full plate today.
 
 #### 118285a76f | LELAND → ALFRED | x2
@@ -1309,7 +1306,7 @@ Yes, okay, it was ME, but I mean that I wasn’t in the driver’s seat.
 #### 3866a26ebe | ALFRED → BRUCE | x2
 You usually save that sort of “conflict resolution” for after hours... what happened?
 
-#### 35feb062a6-SM | ALFRED → BRUCE | x2
+#### 35feb062a6 | ALFRED → BRUCE | x2
 I’m not sure if I entirely believe that...
 
 #### 32924e35dc | ALFRED → BRUCE | x2
@@ -1324,28 +1321,28 @@ I completely understand the impulse.
 #### 4f44818243 | ALFRED → BRUCE | x2
 I hope this is getting through to you.
 
-#### 30e1ed020f-LM | LELAND → ALFRED | x2
+#### 30e1ed020f | LELAND → ALFRED | x2
 As a new patient you need to get familiar with the facilities and the rules.
 
-#### 04928e86a0-SM | BRUCE → ALFRED | x2
+#### 04928e86a0 | BRUCE → ALFRED | x2
 I’d never risk exposing myself like that.
 
 #### f4e0723039 | ALFRED → BRUCE | x2
 But he hasn’t beaten you, Bruce. Not yet.
 
-#### db1c523f30-LM | ALFRED → BRUCE | x2
+#### db1c523f30 | ALFRED → BRUCE | x2
 Who are you trying to convince? Me or yourself?
 
-#### d3c9736983-SM | ALFRED → BRUCE | x2
+#### d3c9736983 | ALFRED → BRUCE | x2
 In fact, I was ready to kick his ass myself!
 
-#### f55e68f87a-SM | ALFRED → BRUCE | x4
+#### f55e68f87a | ALFRED → BRUCE | x4
 If I was a younger man, I would’ve kick his ass myself.
 
 #### c7e0717315 | ALFRED → BRUCE | x2
 And she used that against you.
 
-#### fe62e410d7-SM | BRUCE → ALFRED | x2
+#### fe62e410d7 | BRUCE → ALFRED | x2
 I won’t abandon Gotham. Even if I feel like it’s abandoned me...
 
 #### b138a96b29 | ALFRED → BRUCE | x2
@@ -1375,7 +1372,7 @@ Arkham?  They cant put me in here.
 #### 1460a1948b | ALFRED → BRUCE | x2
 They can, and if we’re not careful, they can keep you for as long as they bloody well want.
 
-#### 42b9d09b6d-SM | choice/UI → ALFRED | x2
+#### 42b9d09b6d | choice/UI → ALFRED | x2
 I won’t abandon the people.
 
 #### 7dadb8fb71 | choice/UI → ALFRED | x2
@@ -1399,7 +1396,7 @@ These people are idiots.
 #### 2a151b6b6d | choice/UI → ALFRED | x2
 You believe me, right?
 
-#### 9fdd040883-LM | ALFRED → BRUCE | x2
+#### 9fdd040883 | ALFRED → BRUCE | x2
 But to do that you need to pass this “evaluation period” so they pronounce you safe and sane.
 
 #### 4498ae01bb | choice/UI → ALFRED | x2
@@ -1435,7 +1432,7 @@ Especially with every would-be “journalist” from here to Metropolis already 
 #### de3925889f | ALFRED → BRUCE | x2
 Bruce? Are you still with me?
 
-#### 230fadfce3-SM | ALFRED | x2
+#### 230fadfce3 | ALFRED | x2
 I have worked for the Wayne family my entire life. I feel as though Mr. Cobblepot has robbed me as well.
 
 #### 1a3caa41e8 | ALFRED | x4
@@ -1453,7 +1450,10 @@ I know. We’ll be able to go home as soon as this [disdainful] “observation p
 #### 18b8c989b3 | ALFRED → LELAND | x2
 You can hear me, can’t you?
 
-#### 61574c9319-LF | ALFRED → LELAND | x2
+#### 61574c9319-LF | ALFRED → LELAND, BRUCE | x4 | listener: female
+And the... just horrible things you were saying.{ConfusedA} The threats you were making.
+
+#### 61574c9319-LM | ALFRED → LELAND, BRUCE | x4 | listener: male
 And the... just horrible things you were saying.{ConfusedA} The threats you were making.
 
 #### 01e3e5a348 | BRUCE → ALFRED | x2
@@ -1462,13 +1462,13 @@ Her drugs bring out a person’s... baser desires...
 #### 3ca9f43f93 | ALFRED → BRUCE | x2
 Like your desire to see Mr. Cobblepot hurt.
 
-#### 28e4cc2ac3-SM | ALFRED → BRUCE | x2
+#### 28e4cc2ac3 | ALFRED → BRUCE | x2
 I hope I’m making {ConcernedA}myself clear.
 
 #### a774c31cdb | ALFRED → LELAND | x2
 I hope.
 
-#### 0e90f7e239-SF | LELAND → ALFRED | x2
+#### 0e90f7e239 | LELAND → ALFRED | x2
 I’m sure we’ll be just{ThinkingA}.. just excellent {SmugA}friends soon.
 
 #### ed9a5ca835 | LADYARKHAM → ALFRED | x2
@@ -1477,7 +1477,7 @@ You have to face the truth sometime.
 #### 9965022d41 | VICKI → BRUCE | x2
 Retribution, Bruce!
 
-#### f005712d64-LM | ALFRED → BRUCE | x2
+#### f005712d64 | ALFRED → BRUCE | x2
 Bruce - You’re awake!{ThinkingA}
 
 #### c5eb0fe74b | ALFRED → BRUCE | x2
@@ -1495,25 +1495,22 @@ Bruce - Slow down. {ConcernedA}You’re not making any sense.
 #### 926e6eb6f6 | choice/UI → ALFRED | x2
 Harvey’s jealous.
 
-#### 35c2301ea2-LM | ALFRED → OSWALD | x2
+#### 35c2301ea2 | ALFRED → OSWALD | x2
 You attacked Mr. Cobblepot. {ThinkingA}It was... savage.{SkepticalA} Mayor Dent had you committed for “violent psychotic behavior.“
 
 #### 3c34e7bf5e | BRUCE → ALFRED | x2
 That opportunistic bastard... {SkepticalA}He just wanted me out of the way so he took advantage of the situation.
 
-#### 0d0025d358-LM | choice/UI → ALFRED | x2
+#### 0d0025d358 | choice/UI → ALFRED | x2
 You let this happen?
 
-#### 786eca5f82-LM | BRUCE → ALFRED | x2
+#### 786eca5f82 | BRUCE → ALFRED | x2
 And you just let him commit me?
 
-#### 99541b2b5f-SM | ALFRED → BRUCE | x2
+#### 99541b2b5f | ALFRED → BRUCE | x2
 Bruce, I had no choice.
 
-#### 61574c9319-LM | ALFRED → BRUCE | x2
-And the... just horrible things you were saying.{ConfusedA} The threats you were making.
-
-#### 775e977e04-SM | BRUCE → ALFRED | x2
+#### 775e977e04 | BRUCE → ALFRED | x2
 That wasn’t me. {ThinkingA}I was under the influence of the same drug that the Children of Arkham used on Montoya.{ThinkingA}
 
 #### 61da508d38 | BRUCE → ALFRED | x2
@@ -1525,7 +1522,7 @@ Yes. {AngryA}She’s the leader of the Children of Arkham.
 #### e75ed2fbb0 | ALFRED → BRUCE | x4
 You mean...{ThinkingA}
 
-#### f779e07799-SM | ALFRED → OSWALD | x2
+#### f779e07799 | ALFRED → OSWALD | x2
 My god. I knew you must have had a reason for{ConfusedA}... doing that to{ThinkingA} Mr. Cobblepot,{ConcernedA} but I had never even imagined.
 
 #### f73544438e | BRUCE → ALFRED | x2
@@ -1537,7 +1534,7 @@ Especially with every would-be “journalist”{ThinkingA} from here to Metropol
 #### 3f6644c971 | ALFRED → BRUCE | x2
 I’m not going to argue that point, Bruce, {ConcernedA}but it was incredibly reckless behavior.
 
-#### 9128b93296-SM | ALFRED → BRUCE | x2
+#### 9128b93296 | ALFRED → BRUCE | x2
 I heard he is already up and about again, but it certainly didn’t look good.
 
 #### e8caa617b1 | ALFRED → BRUCE | x2
@@ -1555,7 +1552,7 @@ The Children of Arkham’s drugs bring out people’s baser desires...
 #### 42a3fe6eba | ALFRED → BRUCE | x2
 Your father was responsible for quite a few people being put here in Arkham. {ConcernedA}Having the last name “Wayne” could be... dangerous in here.
 
-#### 49e164746b-LM | ALFRED → BRUCE | x2
+#### 49e164746b | ALFRED → BRUCE | x2
 I’m going to see what I can do to get you out,{ConcernedA} but you need to try and stay out of trouble.
 
 #### accaf8c7ed | choice/UI → ALFRED | x2
@@ -1588,10 +1585,10 @@ He wants Selina for himself.
 #### ed05e91d9c | ALFRED → BRUCE | x2
 I’ve never seen you lose control like that before - attacking Mr. Cobblepot in front of half of Gotham’s press corp.
 
-#### dbd18f7d7b-LM | ALFRED → BRUCE | x2
+#### dbd18f7d7b | ALFRED → BRUCE | x2
 And the... just horrible things you were saying. The threats you were making.
 
-#### 9ae9101ace-SM | BRUCE → ALFRED | x2
+#### 9ae9101ace | BRUCE → ALFRED | x2
 That wasn’t me. {ThinkingA}I was under the influence of the same drug that the {AngryA}Children of Arkham used on Harvey and Montoya.{ThinkingA}
 
 #### 4bc3fd47ab | BRUCE → ALFRED | x2
@@ -1618,10 +1615,10 @@ Let’s get this over with.
 #### 7253e7b476 | choice/UI → ALFRED | x2
 Give us a few minutes.
 
-#### dba2ead326-SM | choice/UI → ALFRED | x2
+#### dba2ead326 | choice/UI → ALFRED | x2
 I’m not crazy!
 
-#### 14f5733c7d-SM | BRUCE → ALFRED | x2
+#### 14f5733c7d | BRUCE → ALFRED | x2
 I’m not crazy, Alfred.
 
 #### 6d095caeb3 | ALFRED → BRUCE | x2
@@ -1648,7 +1645,7 @@ Bring it on!
 #### f2e5151690 | choice/UI | x2
 Someone help me!
 
-#### c789d84f76-SM | choice/UI | x2
+#### c789d84f76 | choice/UI | x2
 No, I’m not okay.
 
 #### 4dc354f2ae | choice/UI | x2
@@ -1732,16 +1729,16 @@ I stand corrected.
 #### f894a45267 | BRUCE → ORDERLYJERK | x2
 This looks... pleasant.
 
-#### da586378b7-SM | BRUCE → ORDERLYJERK | x2
+#### da586378b7 | BRUCE → ORDERLYJERK | x2
 I don’t think I could eat right now anyway.
 
 #### 92a52af2fd | ORDERLYJERK → BRUCE | x2
 You better be decent!
 
-#### a8f539b66f-LM | ORDERLYJERK → BRUCE | x2
+#### a8f539b66f | ORDERLYJERK → BRUCE | x2
 You settled? {SkepticalB}{FaceAccent}Good.
 
-#### 6168496ec4-LM | ORDERLYJERK → BRUCE | x2
+#### 6168496ec4 | ORDERLYJERK → BRUCE | x2
 Anything you need? {ThinkingB}Water? {FaceAccent}Piss? {AngryB}{FaceAccent}{BodyAccent}Rat poison?
 
 #### 3672872635 | BRUCE → ORDERLYJERK | x2
@@ -1768,7 +1765,7 @@ I have{AngryC}{FaceAccent} rights.
 #### 4ff84d4db9 | ORDERLY01 → BRUCE | x2
 Nice try. Loonies don’t get to have rights.
 
-#### 12f4940707-LM | ORDERLYJERK → BRUCE | x2
+#### 12f4940707 | ORDERLYJERK → BRUCE | x2
 And yours were {AngryA}{FaceAccent}revoked after you beat {BodyAccent}Oswald Cobblepot{SkepticalB} within an inch of his {AngryB}life and landed yourself in here.
 
 #### 64a9302097 | ORDERLYJERK → BRUCE | x2
@@ -1804,7 +1801,7 @@ Since you beat Oswald Cobblepot to a bloody pulp.
 #### 70c5550092 | ORDERLYJERK → ORDERLY01 | x2
 I’ve been asked for {ThinkingB}rope before. {FaceAccent}Not really allowed to give it out.
 
-#### 56517c92f3-SM | ORDERLYJERK → ORDERLY01 | x2
+#### 56517c92f3 | ORDERLYJERK → ORDERLY01 | x2
 Of course, I could make an exception for {AngryB}you.
 
 #### c127e2d243 | ORDERLY01 → ORDERLYJERK | x2
@@ -1819,7 +1816,7 @@ Time to meet your{AmusedA}{FaceAccent} neighbors.
 #### 26b59e70a0 | ORDERLY01 → BRUCE | x2
 Welcome to Arkham, pretty boy.
 
-#### 1171b08415-SM | BRUCE → ORDERLYJERK | x2
+#### 1171b08415 | BRUCE → ORDERLYJERK | x2
 Someone! I need help!
 
 #### acfb729c2b | BRUCE → ORDERLY01 | x2
@@ -1831,7 +1828,7 @@ You really {AngryC}don’t want to do this.
 #### 2ced1dfe4d | INMATE01 → BRUCE | x2
 Oh, no. We *really* do.
 
-#### c78b5b1944-SM | BRUCE → INMATE02 | x2
+#### c78b5b1944 | BRUCE → INMATE02 | x2
 I’m serious. You don’t want to get hurt.
 
 #### bc57d0c029 | INMATE02 → INMATE01 | x2
@@ -1858,7 +1855,7 @@ Let’s see if you can put your money where your mouth is.
 #### cf2f89fca9 | INMATE01 → INMATE02 | x2
 Nowhere to run.
 
-#### 527327eedd-LM | INMATE02 → BRUCE | x2
+#### 527327eedd | INMATE02 → BRUCE | x2
 You asked for it!
 
 #### 871553f14a | JOKER → BRUCE | x2
@@ -1873,7 +1870,7 @@ You okay, buddy?
 #### 72a0fa6e9e | JOKER → BRUCE | x2
 Whoa! No need to be jumpy, friend. Just trying to help.
 
-#### 48211d3202-SM | BRUCE → JOKER | x2
+#### 48211d3202 | BRUCE → JOKER | x2
 Does it look {SkepticalB}like I’m okay?
 
 #### cfa2187341 | JOKER → BRUCE | x2
@@ -1882,7 +1879,7 @@ Not one {AmusedA}bit.
 #### 6828d22452 | JOKER → BRUCE | x2
 At least they didn’t scratch that pretty smile of yours.
 
-#### ddfb70101c-SM | BRUCE → JOKER | x2
+#### ddfb70101c | BRUCE → JOKER | x2
 I’m fine. I was taking care of it.
 
 #### efab9deb69 | JOKER → BRUCE | x2
@@ -1918,19 +1915,19 @@ Don’t worry, those pretty blues will get you plenty in here.
 #### d4c33e0266 | JOKER | x2
 On your feet, soldier.
 
-#### ce53442b42-L? | JOKER | x2
+#### ce53442b42-L? | JOKER → LELAND | x4 | listener: unknown
+Look at you! Got up all by yourself!
+
+#### ce53442b42-LF | JOKER → LELAND | x4 | listener: female
 Look at you! Got up all by yourself!
 
 #### db9aa9a83d | JOKER → LELAND | x2
 Lesser men wouldn’t get up at all.
 
-#### ce53442b42-LF | JOKER → LELAND | x2
-Look at you! Got up all by yourself!
-
 #### e5a5e55368 | JOKER → LELAND | x2
 Let’s get you off the floor. Hmm?
 
-#### bb9cde16da-SF | LELAND → BRUCE | x2
+#### bb9cde16da | LELAND → BRUCE | x2
 Mr. Wayne. I’m so sorry about this. This is not the kind of impression I wanted to make.
 
 #### 5e28589c8e | LELAND → JOKER | x2
@@ -1945,7 +1942,7 @@ It’s uh... nice to meet you, Dr. Leland.
 #### 89003026b4 | LELAND → BRUCE | x2
 You too, Bruce.
 
-#### 8e4a961c01-SM | BRUCE → LELAND | x2
+#### 8e4a961c01 | BRUCE → LELAND | x2
 There’s been a mistake. I don’t need a therapist. I’m not crazy.
 
 #### c3a2959d62 | LELAND → BRUCE | x2
@@ -1981,7 +1978,7 @@ It’s been... messy here, to say the least. We’re all trying get things in or
 #### 89baf42cf6 | LELAND → BRUCE | x2
 Thank you, by the way. For funding the facility.
 
-#### bf13e2357c-SF | LELAND → BRUCE | x2
+#### bf13e2357c | LELAND → BRUCE | x2
 Even so, I’m afraid many of the inmates aren’t very fond of you.
 
 #### 0411096657 | LELAND → BRUCE | x2
@@ -1993,25 +1990,25 @@ Well, it doesn’t help when your guard is taking bribes from the inmates.
 #### 8f91eef815 | LELAND → BRUCE | x2
 Great. Not another one.
 
-#### d0deb05cf7-SF-LM | LELAND → BRUCE | x2
+#### d0deb05cf7 | LELAND → BRUCE | x2
 I’m just glad you’re alright. Other patients haven’t been so lucky.
 
 #### a4a73f4f4c | BRUCE → LELAND | x2
 Thank you. {ConcernedA}{FaceAccent}I appreciate the effort.
 
-#### f95a74fe06-SF | LELAND → BRUCE | x2
+#### f95a74fe06 | LELAND → BRUCE | x2
 I’m glad you’re so understanding after what{SadA} just happened.
 
 #### baca3b2c65 | LELAND → BRUCE | x2
 Good thing help wasn’t far away.
 
-#### c78bb10182-SM | BRUCE → LELAND | x2
+#### c78bb10182 | BRUCE → LELAND | x2
 I’m not supposed to be here.
 
 #### 647d926a98 | LELAND → BRUCE | x2
 Huh. That’s so strange.
 
-#### 88004170ef-LM | LELAND → BRUCE | x2
+#### 88004170ef | LELAND → BRUCE | x2
 I haven’t seen this before. It wasn’t in your file when you were admitted.
 
 #### 0d2e3dc120 | LELAND → BRUCE | x2
@@ -2026,7 +2023,7 @@ Well, let’s just say that some of their anger is justified.
 #### b4aad936ed | LELAND → JOKER | x2
 Though of course, their violence isn’t.
 
-#### 3cb9fa4c3d-LM | LELAND → BRUCE | x2
+#### 3cb9fa4c3d | LELAND → BRUCE | x2
 We’ll get you transferred to a new room, Bruce. {ThinkingB}One that doesn’t {DisgustA}have your{DisgustB}... blood {ThinkingA}all over it.
 
 #### 1a2a7980fb | LELAND → JOKER | x2
@@ -2047,7 +2044,7 @@ He’s the one that came to find me.
 #### c42c3098c1 | LELAND → JOKER | x2
 He the one that saved your life.
 
-#### 949ee3a88d-LM | LELAND → JOKER | x2
+#### 949ee3a88d | LELAND → JOKER | x2
 It’s because of my negligence that you were attacked in the first place.
 
 #### 4131690fd3 | JOKER → LELAND | x2
@@ -2071,7 +2068,7 @@ Can’t tell how{BodyAccent} much danger {ThinkingA}they’re in.
 #### e330ebafbb | ORDERLYJERK → INMATE01 | x2
 And boy are you in deep. {AngryA}Beating {BodyAccent}Oswald Cobblepot half to {AngryB}death isn’t something you {FaceAccent}walk {AngryA}away from.
 
-#### 0cfc097bcc-L? | ORDERLYJERK → INMATE01 | x2
+#### 0cfc097bcc | ORDERLYJERK → INMATE01 | x2
 As you were.
 
 #### 8e91d77a54 | INMATE01 → ORDERLYJERK | x2
@@ -2101,10 +2098,10 @@ Don’t get cocky, {AngryB}Wayne.
 #### ede92457a6 | INMATE01 → BRUCE | x2
 You’ll join him{AngryA} soon enough, {AngryB}Wayne.
 
-#### 4fd7ce6bb3-SM | choice/UI → INMATE01 | x2
+#### 4fd7ce6bb3 | choice/UI → INMATE01 | x2
 I’m so sick of this.
 
-#### 5244f4526f-SM | BRUCE → INMATE01 | x2
+#### 5244f4526f | BRUCE → INMATE01 | x2
 I’m so sick of everyone blaming me for what my{AngryC} father did!
 
 #### 8846f473ee | INMATE01 → BRUCE | x2
@@ -2146,10 +2143,10 @@ Means they didn’t break any ribs at least.
 #### d9d9f6312a | LELAND → JOKER | x2
 I’m here to help.
 
-#### 001f8f0995-SM | BRUCE → JOKER | x2
+#### 001f8f0995 | BRUCE → JOKER | x2
 I saw you. You set this up, didn’t you?
 
-#### 5222536745-LM | LELAND → BRUCE | x2
+#### 5222536745 | LELAND → BRUCE | x2
 I try not to use that term, Bruce. And whether you agree or not, you need to be here so that you can get well.
 
 #### 64a93c8d80 | LELAND → JOKER | x2
@@ -2164,7 +2161,7 @@ This joker here... he goes by John Doe.
 #### 52c1d40796 | JOKER → LELAND | x2
 You can call me John.
 
-#### 4bd2f9fcbc-LF | BRUCE → LELAND | x2
+#### 4bd2f9fcbc | BRUCE → LELAND | x2
 How could you let this happen?
 
 #### b2e03b4ddf | BRUCE → LELAND | x2
@@ -2188,7 +2185,7 @@ That isn’t a secret from the staff.
 #### 504121e7af | LELAND → BRUCE | x2
 What I’m saying is, you have a lot of enemies here, Mr. Wayne.
 
-#### a1faedde54-SF | LELAND | x2
+#### a1faedde54 | LELAND | x2
 I’ll do my best to keep you safe, but I need you to be careful.
 
 #### a2421cfbce | LELAND | x2
@@ -2203,13 +2200,13 @@ We’re in the process of sifting through all the old case files now, but it’s
 #### 65269ea175 | LELAND | x2
 But I’m on your side.
 
-#### 286401ac56-SF | LELAND | x2
+#### 286401ac56 | LELAND | x2
 I won’t lie to you. You have a lot of enemies here.
 
 #### 31fda1e253 | LELAND | x2
 Once the new facility gets built we’re planning to hire on a completely new team as part of the agreement with Wayne Enterprises.
 
-#### 63b4bc02dc-SF | LELAND | x2
+#### 63b4bc02dc | LELAND | x2
 I’ll do my best to keep {NormalA}you safe, {FaceAccent}but I {ThinkingB}{BodyAccent}need you to be careful.
 
 #### 7d3b103bc3 | LELAND | x2
@@ -2239,16 +2236,16 @@ Don’t worry. {SmugA}I’m always careful.
 #### 2c15f1b26f | BRUCE → LELAND | x2
 I’m always careful.
 
-#### 239afe2f8a-LM | LELAND → BRUCE | x2
+#### 239afe2f8a | LELAND → BRUCE | x2
 And you seem to be able to defend yourself quite well. {SadA}Still... {AngryA}better to play it safe.
 
-#### 400990e9da-LM | LELAND → BRUCE | x2
+#### 400990e9da | LELAND → BRUCE | x2
 You were lucky help came so quickly.
 
 #### 164a94aec5 | BRUCE → LELAND | x2
 It was just there.
 
-#### 27d9b90903-LM | LELAND → BRUCE | x2
+#### 27d9b90903 | LELAND → BRUCE | x2
 You were lucky help came so {ConcernedA}{BodyAccent}quickly this time.
 
 #### ec6874dc70 | LELAND → BRUCE | x2
@@ -2284,13 +2281,13 @@ Buddy, aw buddy, are you okay?
 #### 3b5a2bfb85 | LELAND → JOKER | x2
 What is going on in here?
 
-#### 630cfc77e0-SM | JOKER → LELAND | x2
+#### 630cfc77e0 | JOKER → LELAND | x2
 It’s like I told you, doctor! These creeps were attacking the new guy!
 
 #### 837fbbbdeb | LELAND → JOKER | x2
 Well who did THAT? Was it you?
 
-#### b865852959-SM | JOKER → LELAND | x2
+#### b865852959 | JOKER → LELAND | x2
 Of course not! It was mostly over by the time I got in. The new guy is tougher than he looks!
 
 #### 2a8b5f6224 | JOKER → LELAND | x2
@@ -2299,7 +2296,7 @@ Right... buddy?
 #### 0078eb2dd8 | LELAND → JOKER | x2
 Bruce, is that really what happened?
 
-#### ad0badda41-SM | choice/UI → JOKER | x2
+#### ad0badda41 | choice/UI → JOKER | x2
 Yeah. I did this.
 
 #### ee2dcd21dd | choice/UI → JOKER | x2
@@ -2314,7 +2311,7 @@ Go on... tell her.
 #### 9ee15fcbc7 | BRUCE → LELAND | x2
 Yeah. Yeah, that’s what happened.
 
-#### 0e0127e9e6-LM | LELAND → JOKER | x2
+#### 0e0127e9e6 | LELAND → JOKER | x2
 We have a very strict no-fighting policy here in Arkham. If you can’t obey that rule... you’re going to find yourself in hot water fast.
 
 #### 3556ee6494 | BRUCE → JOKER | x2
@@ -2329,7 +2326,7 @@ Rude.
 #### 802537c37e | BRUCE → LELAND | x2
 I don’t really know what happened... it was all a blur.
 
-#### 5b03508fad-LM | LELAND → BRUCE | x4
+#### 5b03508fad | LELAND → BRUCE | x4
 Seems like you could have experienced another psychotic episode... we’ll need to keep an eye on that.
 
 #### 62adc16471 | BRUCE → LELAND | x2
@@ -2338,16 +2335,16 @@ The orderly that was here before {BodyAccent}{AngryA}took money from these men{A
 #### 2590f99b00 | LELAND → BRUCE | x2
 No. {SadB}Mr. Wayne, {SurpriseA}{FaceAccent}{BodyAccent}I am so, so sorry.{SadA} {FaceAccent}My god I’ll have {DisgustA}it taken care of.
 
-#### 68abc388f7-SF | LELAND → BRUCE | x2
+#### 68abc388f7 | LELAND → BRUCE | x2
 I knew that {ConcernedA}you coming to Arkham could cause {ThinkingA}some.... {SadA}excitement, but {SurpriseA}I didn’t expect it to happen so {ConcernedA}fast.
 
-#### 50b5b59794-SF | LELAND → BRUCE | x2
+#### 50b5b59794 | LELAND → BRUCE | x2
 This certainly isn’t the first impression I’d hoped to make but... I’m Dr. Joan Leland, head of psychiatry, and I’ll be overseeing your case personally.
 
 #### 4f1e5e763e | LELAND → JOKER | x2
 I’m Dr. Joan Leland, by the way. {NormalA}Head of Psychiatry. {ThinkingA}I’ll be overseeing your case{NormalA} personally.
 
-#### 39f79f0d75-SM | BRUCE → JOKER | x2
+#### 39f79f0d75 | BRUCE → JOKER | x2
 I’m sorry, I don’t think I ever got {ThinkingA}your name--?
 
 #### 8a42846a79 | JOKER → BRUCE | x2
@@ -2374,7 +2371,7 @@ That’s not very neighborly.
 #### 874a969d04 | JOKER → BRUCE | x2
 Oh that’s good. That’s GOOD.
 
-#### cfe4043975-SM | BRUCE → JOKER | x2
+#### cfe4043975 | BRUCE → JOKER | x2
 I’m fine. {DisgustA}Just some bruises.
 
 #### 6ff982e07e | JOKER → BRUCE | x2
@@ -2386,7 +2383,7 @@ Okay, I’m up, I’m up.
 #### 82ab3a1c51 | BRUCE → LELAND | x2
 Safe? And {AngryB}{BodyAccent}how do you plan to do {AngryA}that?
 
-#### 604d959511-SF | LELAND → BRUCE | x2
+#### 604d959511 | LELAND → BRUCE | x2
 You’re hardly the first patient in {AngryA}{FaceAccent}{BodyAccent}Arkham Asylum to be attacked - {DisgustB}{BodyAccent}I’m sure we can figure {DisgustA}{FaceAccent}something out.
 
 #### 80099182fc | LELAND → BRUCE | x2
@@ -2395,10 +2392,10 @@ We just call him {ThinkingA}“John Doe.“
 #### 4dfe789904 | LELAND → ORDERLYJERK | x2
 He’s never given his name out to {ThinkingB}anybody.
 
-#### 358a5d6451-LF | ORDERLYJERK → LELAND | x4
+#### 358a5d6451-LF | ORDERLYJERK → LELAND, JOKER | x6 | listener: female
 Heh, then you turned on the crowd, {AngryA}{FaceAccent}{BodyAccent}screaming that you couldn’t{AngryB}{FaceAccent} stop!
 
-#### 358a5d6451-LM | ORDERLYJERK → JOKER | x2
+#### 358a5d6451-LM | ORDERLYJERK → LELAND, JOKER | x6 | listener: male
 Heh, then you turned on the crowd, {AngryA}{FaceAccent}{BodyAccent}screaming that you couldn’t{AngryB}{FaceAccent} stop!
 
 #### 83cdd573bb | INMATE01 → ORDERLYJERK | x2
@@ -2425,7 +2422,7 @@ You don’t look so good.
 #### 1a2948407f | JOKER | x2
 Those guys were... well pretty savage.
 
-#### 7c1d866f6d-SM | JOKER | x2
+#### 7c1d866f6d | JOKER | x2
 Lucky for you I was just walking by.
 
 #### 3598ca5699 | JOKER → BRUCE | x12

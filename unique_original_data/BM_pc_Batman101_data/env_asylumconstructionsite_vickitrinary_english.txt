@@ -1,4 +1,4 @@
-﻿#### c7c43be384-SM | choice/UI, BRUCE → VICKI, SELINA | x4
+﻿#### c7c43be384 | choice/UI, BRUCE → VICKI, SELINA | x4
 I need an ally.
 
 #### f4223a550b | choice/UI → VICKI | x2
@@ -22,7 +22,7 @@ It’s part of your job.
 #### cba1a791df | choice/UI → VICKI | x2
 Don’t reveal your identity.
 
-#### 3a7a1dadad-SF | VICKI → BRUCE | x2
+#### 3a7a1dadad | VICKI → BRUCE | x2
 If I run this story, I put a price on my head.
 
 #### af7916f186 | BRUCE → VICKI | x2
@@ -37,7 +37,7 @@ Falcone doesn’t like bad press...
 #### 3615ff45b4 | VICKI | x2
 Falcone has a way of *handling* reporters he doesn’t like.
 
-#### afcec75d84-SF | VICKI | x2
+#### afcec75d84 | VICKI | x2
 I could be putting myself in real danger by trying to expose him.
 
 #### 7eacd55164 | VICKI → BRUCE | x2
@@ -52,7 +52,7 @@ This... this is{ThinkingB} big.
 #### 2595089fa4 | BRUCE → VICKI | x2
 I want to turn the{AngryA} entire city against Falcone.
 
-#### d29a2deed5-SM | BRUCE → VICKI | x2
+#### d29a2deed5 | BRUCE → VICKI | x2
 I need an ally in the press.
 
 #### c4e1b9206c | VICKI → BRUCE | x2
@@ -109,7 +109,7 @@ Good. So is our hunt.
 #### 3a5c3378d1 | BRUCE, REGINA → VICKI, ALFRED, OSWALD | x6
 It’s done.
 
-#### 304b47238a-SM | BRUCE → VICKI | x2
+#### 304b47238a | BRUCE → VICKI | x2
 I backed Harvey’s campaign for a reason.
 
 #### 3f36c8f971 | BRUCE → VICKI | x2
@@ -166,7 +166,7 @@ But... thank you, seriously.
 #### fda5f831d2 | VICKI → BRUCE | x2
 After handing me something like this?
 
-#### f78ee0c2ea-LM | VICKI → BRUCE | x2
+#### f78ee0c2ea | VICKI → BRUCE | x2
 I’d say you’ve got one for life.
 
 #### d286f3f3c7 | VICKI → BRUCE | x2
@@ -199,7 +199,7 @@ Sometimes the rest of the force... they have their own agenda.
 #### 2f082d6e5b | VICKI → BRUCE | x2
 Yeah, well I hope that’s enough.
 
-#### ad0b8e2496-LM | VICKI → BRUCE | x2
+#### ad0b8e2496 | VICKI → BRUCE | x2
 It’s a good thing you gave this to me instead of the police.
 
 #### b0d0da0b09 | VICKI → BRUCE | x2
@@ -217,7 +217,7 @@ Well... I can always change in the car.
 #### 7c8d19faf4 | ALFRED → BRUCE, GORDON | x4
 The Drones located Falcone downtown, a place called The Skyline Club.
 
-#### e9fb7ef5aa-LF | ALFRED → VICKI | x2
+#### e9fb7ef5aa | ALFRED → VICKI, GORDON | x4
 Though, you’re not dressed for that kind of party.
 
 #### d43ac5c71a | FALCONE, VICKI → BRUCE | x5
@@ -226,7 +226,7 @@ I’ll be seeing you, Bruce.
 #### 83ab325f79 | VICKI → ALFRED | x2
 Though after my story runs, he might get that too.
 
-#### 081b85aefd-LM | VICKI → ALFRED | x2
+#### 081b85aefd | VICKI → ALFRED | x2
 But you’re a Wayne, you could’ve given it to anyone.
 
 #### 492513dff1 | VICKI | x2

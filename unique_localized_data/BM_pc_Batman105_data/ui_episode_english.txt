@@ -35,7 +35,7 @@ Create an antidote by analyzing the Drug Molecule and your DNA sequence.
 #### 30bb7e103f | choice/UI | x2
 He’s on to you.
 
-#### a380ffd023-L? | choice/UI | x2
+#### a380ffd023 | choice/UI | x2
 You distracted him.
 
 #### 4939d1fc6c | choice/UI | x2
@@ -166,7 +166,7 @@ Logging In...
 #### 9caa850154 | choice/UI | x2
 MORE THAN 6 WEEKS AGO
 
-#### fc3404d146-L? | choice/UI | x2
+#### fc3404d146 | choice/UI | x2
 You’ve discovered a clue to Lady Arkham’s plan.
 
 #### 6b4a3e451f | choice/UI | x2

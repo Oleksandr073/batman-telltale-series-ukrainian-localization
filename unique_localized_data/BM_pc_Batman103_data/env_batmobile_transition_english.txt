@@ -1,7 +1,7 @@
 ﻿#### 1e4e84b32c | ALFRED → BATMAN | x5
 You alright?
 
-#### 6de84271de-SM | BATMAN → ALFRED, MONTOYA, OSWALD | x9
+#### 6de84271de | BATMAN → ALFRED, MONTOYA, OSWALD | x9
 Yeah [beat]How did they know I was coming?
 
 #### 74088495f8 | ALFRED → BATMAN | x7
@@ -67,7 +67,7 @@ Eveybody get down!
 #### 2c53fdba41 | ALFRED → BATMAN, COP02, HARVEY | x16
 Bringing it up now.
 
-#### 9f34e2e73e-SM | BATMAN → ALFRED | x4
+#### 9f34e2e73e | BATMAN → ALFRED | x4
 I need an update on the construction site.
 
 #### a980c98e6b | ALFRED → BATMAN | x4
@@ -106,7 +106,7 @@ Deborah, get down!
 #### 56ba018d13 | ASSISTANT, GOON01, CATWOMAN, COA01 → BATMAN, ALFRED, GORDON | x16
 Look out!
 
-#### 272036a8ef-SM | BATMAN → HARVEY, ALFRED | x4
+#### 272036a8ef | BATMAN → HARVEY, ALFRED | x4
 I need an update on Harvey.
 
 #### f64f16f207 | COP02 → GORDON | x2
@@ -142,7 +142,7 @@ Everybody get down! [aside]Dammit!
 #### f7e1c29657 | GORDON → BATMAN, LADYARKHAM, MONTOYA | x8
 Commissioner, come in! We need back-up! Hello?
 
-#### 61335a60fb-SM | BATMAN → ALFRED, GORDON, HARVEY | x10
+#### 61335a60fb | BATMAN → ALFRED, GORDON, HARVEY | x10
 I need an update on the docks.
 
 #### 432d7f20ba | BATMAN → ALFRED, GOON01 | x6
@@ -163,10 +163,10 @@ Docks
 #### 1035ab3d86 | choice/UI → COMMISSIONER | x4
 Construction Site
 
-#### 4eae1dde15-SM | BATMAN → MONTOYA | x2
+#### 4eae1dde15 | BATMAN → MONTOYA | x2
 Yeah [beat]{ThinkingA}How did they know I was coming?
 
-#### e3de70d0e3-SM | BATMAN → MONTOYA | x2
+#### e3de70d0e3 | BATMAN → MONTOYA | x2
 I need an update on Montoya.
 
 #### c92181b57b | MONTOYA → BATMAN | x2
@@ -181,13 +181,13 @@ No! There’s too many of them! [beat]Behind you!
 #### 7697fc91c9 | HARVEY → MONTOYA | x2
 Get back in the car, Deborah!
 
-#### 5dc66d7f6d-LM | ASSISTANT → HARVEY | x2
+#### 5dc66d7f6d | ASSISTANT → HARVEY | x2
 Mr. Dent! What did you do to him?
 
-#### f87c844ea8-SM | HARVEY → GORDON | x2
+#### f87c844ea8 | HARVEY → GORDON | x2
 I said get back in the car! There’s more of them coming!
 
-#### 17e977810b-SM | BATMAN → HARVEY | x2
+#### 17e977810b | BATMAN → HARVEY | x2
 Yeah. {ThinkingA}But they knew I was coming.
 
 #### 2dc1f02ab8 | GORDON → ALFRED | x2

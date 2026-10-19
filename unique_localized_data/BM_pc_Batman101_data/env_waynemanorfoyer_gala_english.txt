@@ -43,10 +43,10 @@ Together, we will change Gotham.
 #### 571a39c8d0 | HARVEY → FALCONE | x5
 Thank you, thank you again, everyone, for your unwavering support.
 
-#### 3c7732f381-L? | HARVEY | x3
+#### 3c7732f381 | HARVEY | x3
 Now I know this is the biggest mansion in Gotham, but I don’t think you got lost on your way here.
 
-#### 4f81e85da0-LM | HARVEY, choice/UI → BRUCE, JOKER | x5
+#### 4f81e85da0 | HARVEY, choice/UI → BRUCE, JOKER | x5
 Where were you?
 
 #### f8678ab9af | choice/UI → HARVEY | x3
@@ -73,7 +73,7 @@ You are a pillar of this city AND my campaign.
 #### 2b74020ff8 | HARVEY → BRUCE | x3
 It’s called playing the game, Bruce. And tonight, if you haven’t noticed, I’m playing for City Hall.
 
-#### 0e51a79369-LM | BRUCE → HARVEY | x3
+#### 0e51a79369 | BRUCE → HARVEY | x3
 What... a chance to show off your teeth and talk about yourself to a room full of money?
 
 #### 18b3fa9f38 | HARVEY → BRUCE | x3
@@ -151,7 +151,7 @@ That’s alright, I --
 #### 5527d1a4f0 | choice/UI → HARVEY | x3
 [Finish the drink]
 
-#### 9ae2bf9163-SM | BRUCE → HARVEY | x3
+#### 9ae2bf9163 | BRUCE → HARVEY | x3
 I’m flattered, truly, but this night is about getting Harvey Dent elected so he can fix those potholes.
 
 #### e8cb9f3d80 | BOB → HARVEY | x3
@@ -250,7 +250,7 @@ And taking out the criminals who ruin our city.
 #### 7bac18ee17 | BRUCE → BOB | x3
 Though the cape may be a bit much.
 
-#### 4d8413d912-LM | BRUCE → BOB | x3
+#### 4d8413d912 | BRUCE → BOB | x3
 Sometimes you need a person who will go off script.
 
 #### 35eb5b9424 | BOB → BRUCE | x3
@@ -304,16 +304,16 @@ Well, I don’t like to think about “maybes.“
 #### f52193e7e6 | REGINA → HARVEY | x3
 If only that... deranged man... had gotten the right treatment maybe...
 
-#### 866100a41b-SF | REGINA → HARVEY | x3
+#### 866100a41b | REGINA → HARVEY | x3
 And I’m sure you don’t either.
 
 #### c609372eaf | choice/UI, BRUCE → REGINA, ALFRED | x5
 That was a long time ago.
 
-#### a4f130a778-SM | HARVEY → REGINA | x3
+#### a4f130a778 | HARVEY → REGINA | x3
 Not saying I doubted you... but that went better than expected.
 
-#### 0967efa078-SM | HARVEY → REGINA | x3
+#### 0967efa078 | HARVEY → REGINA | x3
 Not how I pictured that going.
 
 #### 924f228205 | HARVEY → VICKI, GALAWOMAN05 | x6
@@ -346,10 +346,10 @@ Actually, I do mind.
 #### 935432a76e | VICKI → BRUCE | x3
 We’ll talk tomorrow then.
 
-#### c3d2ec2272-SM | BRUCE → VICKI | x3
+#### c3d2ec2272 | BRUCE → VICKI | x3
 If you’re not on the list, you’re not here, I’m sorry.
 
-#### d32c6807be-SF | VICKI → BRUCE | x3
+#### d32c6807be | VICKI → BRUCE | x3
 I was just hoping to see what makes Bruce Wayne tick.
 
 #### 6e6ba40af9 | BRUCE → VICKI | x3
@@ -358,13 +358,13 @@ Tonight is strictly off the record.
 #### 07edb86cc8 | VICKI → BRUCE | x3
 Is that... blood?
 
-#### 87ed57a70b-LM | VICKI → BRUCE | x3
+#### 87ed57a70b | VICKI → BRUCE | x3
 Mr. Wayne, you’ve... you’ve got something on your collar.
 
 #### 544101161b | BRUCE → VICKI | x3
 Actually it’s lipstick.
 
-#### 782097e9cd-LM | HARVEY → BRUCE | x3
+#### 782097e9cd | HARVEY → BRUCE | x3
 No wonder you were late.
 
 #### a556dca9e8 | HARVEY, GORDON → BRUCE, BATMAN | x5
@@ -373,7 +373,7 @@ Say no more.
 #### d2d6dd27fc | BRUCE → HARVEY | x3
 Spilled some wine. It’ll come out.
 
-#### 9240fcc60e-SM | BRUCE → HARVEY | x3
+#### 9240fcc60e | BRUCE → HARVEY | x3
 Oh, this? That’s nothing. Just cut myself shaving.
 
 #### 41b3d75c10 | HARVEY → BRUCE | x3
@@ -430,7 +430,7 @@ What you hope Mr. Dent will achieve when he’s elected.
 #### 1cbffa8eb6 | BRUCE → VICKI | x3
 A quote about what?
 
-#### b82d1f227a-SF | VICKI → BRUCE | x3
+#### b82d1f227a | VICKI → BRUCE | x3
 I heard what the Zellerbachs said--people want to know what the Wayne family thinks.
 
 #### 075846f8c6 | choice/UI → VICKI | x3
@@ -505,13 +505,13 @@ But in my experience, there’s the law and there’s doing what’s right.
 #### ef2a14860e | FALCONE → BRUCE | x3
 You understand?
 
-#### a482d42095-SM | BRUCE → FALCONE | x3
+#### a482d42095 | BRUCE → FALCONE | x3
 Unlike most people I’ve met, Harvey actually has integrity.
 
 #### ca9721e6f8 | FALCONE → BRUCE | x3
 So am I. So are you. We all carry this city on our broken backs.
 
-#### 15c81cc52e-SM | BRUCE → FALCONE | x3
+#### 15c81cc52e | BRUCE → FALCONE | x3
 Well I would say you can uphold the law and still do what’s right.
 
 #### ac4c045168 | FALCONE → BRUCE | x3
@@ -523,7 +523,7 @@ Hey. What’s--[going on]
 #### 1cdd0d2270 | THUG01 → FALCONE | x3
 Private audience.
 
-#### c140dd22aa-SM | FALCONE → HARVEY | x3
+#### c140dd22aa | FALCONE → HARVEY | x3
 Gives me indigestion. I got enough of that as is.
 
 #### 869d410101 | FALCONE → BRUCE | x3
@@ -535,7 +535,7 @@ So... let’s talk relationship.
 #### c13efa1bf3 | FALCONE → BRUCE | x3
 I make them all move. And I want to keep everything moving if Harvey gets elected.
 
-#### 04aee9c713-SM | FALCONE → BRUCE | x3
+#### 04aee9c713 | FALCONE → BRUCE | x3
 That’s why I came here tonight, to your lovely home, hoping to make a new friend.
 
 #### a33e649f80 | BRUCE → FALCONE | x3
@@ -544,7 +544,7 @@ Look, I’m only talking to you because Harvey asked.
 #### 77b3954fb2 | HARVEY → FALCONE | x3
 The one that controls enough votes to get me into City Hall.
 
-#### dc325c7ee0-SM | BRUCE → FALCONE | x3
+#### dc325c7ee0 | BRUCE → FALCONE | x3
 I’m sure they’ll find the bar.
 
 #### 065384fde9 | ALFRED → BRUCE | x3
@@ -577,7 +577,7 @@ You’re a respectable man, I hear.
 #### 0d9db7acb8 | HARVEY → FALCONE | x3
 Bruce has been looking forward to meeting you.
 
-#### 7fa193e0d8-LM | HARVEY → FALCONE | x3
+#### 7fa193e0d8 | HARVEY → FALCONE | x3
 Mr. Falcone, glad you could swing by.
 
 #### df233141b5 | HARVEY → FALCONE | x3
@@ -604,7 +604,7 @@ Yeah, I’ll, uh, get a drink or something.
 #### d804626118 | BRUCE → FALCONE | x3
 We talk alone. Just you and me.
 
-#### 240e4aaa32-SM | FALCONE → BRUCE | x3
+#### 240e4aaa32 | FALCONE → BRUCE | x3
 I saw plenty of skirts to keep you busy for a few minutes.
 
 #### 82e99738d2 | FALCONE → HARVEY | x3
@@ -661,7 +661,7 @@ Trusting a friend to know what’s best for Gotham.
 #### e4e5e9f02c | FALCONE → BRUCE | x3
 I can get Harvey the Mayor’s seat... or I can pull it out from under him.
 
-#### 31d44bc844-SM | FALCONE → BRUCE | x3
+#### 31d44bc844 | FALCONE → BRUCE | x3
 I just need to know you’ll play ball.
 
 #### b0cb17cf46 | FALCONE → BRUCE | x3
@@ -793,7 +793,7 @@ Now wait a minute.
 #### 5a539dfb16 | VICKI → HARVEY | x3
 People talk, I listen. It’s a party, Mr. Dent.
 
-#### 7195879052-LF | HARVEY → VICKI | x3
+#### 7195879052 | HARVEY → VICKI | x3
 You were eavesdropping on us?
 
 #### 8e3fad1bca | BRUCE → HARVEY | x3
@@ -847,7 +847,7 @@ So that’s how it’s gonna be.
 #### 7a5308c736 | BRUCE → FALCONE | x3
 Don’t you dare talk about my father.
 
-#### 7acb27c176-SM-LM | FALCONE → BRUCE | x3
+#### 7acb27c176 | FALCONE → BRUCE | x3
 Hell, I knew him longer than you did.
 
 #### df4a686373 | FALCONE → BRUCE | x3
@@ -874,7 +874,7 @@ I’d say it all depends on the man.
 #### dc835db21d | BOB → BRUCE | x3
 A tragedy like that, at such a young age, must have been crippling.
 
-#### 57c81639d9-SM | BRUCE → BOB | x3
+#### 57c81639d9 | BRUCE → BOB | x3
 I’ve moved on.
 
 #### 51d612266c | BOB → BRUCE | x3
@@ -922,7 +922,7 @@ Thank you, thank you both.
 #### 5054e32ece | HARVEY → REGINA | x3
 Together, we’ll help the whole city move on.
 
-#### 1d72c2608e-SF | VICKI → HARVEY | x3
+#### 1d72c2608e | VICKI → HARVEY | x3
 I’m okay with that.
 
 #### c373e67e3e | BRUCE → HARVEY | x3
@@ -985,7 +985,7 @@ We’ve still got time.
 #### 3679f80225 | VICKI → BOB, REGINA | x6
 Okay, so...
 
-#### 446ad57b79-SF | VICKI → HARVEY | x3
+#### 446ad57b79 | VICKI → HARVEY | x3
 I only came for a quick quote--simple as that.
 
 #### d5573acb70 | HARVEY → VICKI | x3
@@ -1036,7 +1036,7 @@ It’s just wine.
 #### 4dd7a7448f | choice/UI | x3
 Maybe it’s lipstick?
 
-#### ac69aed282-SM | choice/UI, BRUCE → GORDON | x7
+#### ac69aed282 | choice/UI, BRUCE → GORDON | x7
 Cut myself shaving.
 
 #### e54c24f367 | choice/UI | x3
@@ -1081,7 +1081,7 @@ Don’t get your hopes up. You’re not his type.
 #### 069369b1fd | GALAWOMAN01 → FALCONE | x3
 Oh, my god. There he is--
 
-#### 55bef00a2f-SF | GALAWOMAN02 → GALAWOMAN01 | x3
+#### 55bef00a2f | GALAWOMAN02 → GALAWOMAN01 | x3
 Huh. I thought he would be taller.
 
 #### b4df8b2525 | GALAWOMAN03 → GALAWOMAN01 | x3
@@ -1096,7 +1096,7 @@ Unemployment, mental health--
 #### 64658cb88c | GALAMAN01 → GALAWOMAN03 | x3
 But who takes responsibility, if not the leader of the city, then who? Harvey Dent has a record of taking on crime head on.
 
-#### 878e7422f7-SF | GALAWOMAN03 → GALAMAN01 | x3
+#### 878e7422f7 | GALAWOMAN03 → GALAMAN01 | x3
 We’re all impressed with Mr. Dent’s solid gold record of convictions, but I’m not convinced that’s the only thing voters care about.
 
 #### 65fce5851a | GALAMAN01 → GALAWOMAN03 | x3
@@ -1129,7 +1129,7 @@ Why are you even here?
 #### 8bc2eb076f | GALAWOMAN03 → GALAWOMAN02 | x3
 That’s easy. The free drinks.
 
-#### 1d8eb8a45b-SF | GALAWOMAN04 → GALAWOMAN02 | x3
+#### 1d8eb8a45b | GALAWOMAN04 → GALAWOMAN02 | x3
 This place... it’s bigger than I thought.
 
 #### 430b8fcee5 | GALAMAN02 → GALAMAN01 | x3
@@ -1180,7 +1180,7 @@ To be fair, it’s a little hard to indict someone -- when you don’t even know
 #### 06068599cc | GALAWOMAN05 → GALAMAN04 | x3
 Justice? More like attempted murder.
 
-#### 6aa17b00c0-SM | GALAMAN04 → GALAWOMAN05 | x3
+#### 6aa17b00c0 | GALAMAN04 → GALAWOMAN05 | x3
 I heard  he was found outside the GCPD, hog-tied, a rag shoved so far down his throat he almost choked on it. Reports say he suffered from blunt-force trauma to the skull. When they tried to get a statement from him -- he was catatonic.
 
 #### f61a699bfa | GALAMAN05 → GALAWOMAN05 | x3
@@ -1198,7 +1198,7 @@ Killed an entire family including a toddler during a home invasion.
 #### d6bbd54298 | GALAWOMAN05 → GALAMAN04 | x3
 Batman is not a police officer, or a judge --- or an executioner. This city has no room for vigilantes.
 
-#### 9404bead00-SM | GALAMAN04 → HARVEY | x3
+#### 9404bead00 | GALAMAN04 → HARVEY | x3
 As far as I’m concerned, Batman couldn’ve done a lot worse to that child-killer. [Scoffs] It’s not like the GCPD is going to protect you -- or your children. At least somebody’s doin’ it.
 
 #### 5131936505 | HARVEY → GALAMAN04 | x3
@@ -1207,25 +1207,25 @@ Thank you... thank you everyone.
 #### 51dcaf0d50 | HARVEY → VICKI | x3
 Even one who cut Gotham’s crime rate in half!
 
-#### 3a2320a350-SM | HARVEY → VICKI | x3
+#### 3a2320a350 | HARVEY → VICKI | x3
 A humble District Attorney like myself is not used to such a ringing endorsement.
 
-#### 01f4317900-SM | BRUCE → HARVEY | x3
+#### 01f4317900 | BRUCE → HARVEY | x3
 I was just working the night shift.
 
-#### c5b2061735-SM | HARVEY → BRUCE | x3
+#### c5b2061735 | HARVEY → BRUCE | x3
 I need you here tuxedo’d and shaking hands.
 
 #### 88e7b8ded7 | HARVEY → BRUCE | x3
 They want to see the Bruce Wayne. Am I right?
 
-#### bbe5b0d655-SM | HARVEY → BRUCE | x3
+#### bbe5b0d655 | HARVEY → BRUCE | x3
 Once I’ve turned this city around as mayor, you’ll be a hero for funding my campaign.
 
 #### 418c7daf60 | HARVEY → BRUCE | x3
 This’ll help you too, Bruce.
 
-#### 4e03bc4e61-SM | HARVEY → BRUCE | x3
+#### 4e03bc4e61 | HARVEY → BRUCE | x3
 Now all I need is a decent slogan.
 
 #### b0b5263e8d | HARVEY → BRUCE | x3
@@ -1240,7 +1240,7 @@ I wish my parents could be here speaking with you too.
 #### 2ff6c4ac2f | BRUCE → HARVEY | x3
 It is a night of ringing endorsements.
 
-#### 279582c19e-SM-LM | HARVEY → BRUCE | x3
+#### 279582c19e | HARVEY → BRUCE | x3
 I was kinda hoping you would mention my campaign... or at least my name.
 
 #### e53559003b | BRUCE → HARVEY | x3
@@ -1291,7 +1291,7 @@ Voted for Mayor Hill last time.
 #### 6fb0e78ce3 | BRUCE → HARVEY, BLOCKBUSTER | x4
 Bob and Regina Zellerbach. I know these two.
 
-#### 03e8122ca1-SM | HARVEY → BOB | x3
+#### 03e8122ca1 | HARVEY → BOB | x3
 I meant what I said--together, you and me, we change Gotham.
 
 #### ccf6fc7af3 | HARVEY → BOB | x3
@@ -1396,10 +1396,10 @@ What do you hope Mr. Dent will achieve when he’s elected?
 #### e829d75a83 | VICKI → HARVEY | x3
 This is quite a
 
-#### 5b62eacc51-SF | VICKI → FALCONE | x3
+#### 5b62eacc51 | VICKI → FALCONE | x3
 I saw you getting paraded around, thought you’d appreciate an interruption.
 
-#### 08c2582b55-LM | VICKI → BRUCE | x3
+#### 08c2582b55 | VICKI → BRUCE | x3
 Quite the guest list you’ve got. 99% of Gotham’s wealth is rubbing elbows in this room.
 
 #### 02ef92355f | BRUCE → VICKI | x3
@@ -1408,7 +1408,7 @@ I keep good company.
 #### 1a327c4d8b | VICKI → BRUCE | x3
 How do you feel about the guest list?
 
-#### 40609fbaab-SF | VICKI → BRUCE | x3
+#### 40609fbaab | VICKI → BRUCE | x3
 I saw Harvey steering you between moneybags, thought you’d appreciate an interruption.
 
 #### 2452ed642a | BRUCE → VICKI | x3
@@ -1441,7 +1441,7 @@ So that makes us the peasants? Loyal subjects?
 #### 8b91d040c0 | BRUCE → VICKI | x3
 Royal court.
 
-#### c8fe24fbbc-SF | VICKI → BRUCE | x3
+#### c8fe24fbbc | VICKI → BRUCE | x3
 Just a day? I would’ve guessed Bruce Wayne has that feeling year round.
 
 #### 7961c49d23 | BRUCE → VICKI | x3
@@ -1459,7 +1459,7 @@ Between us, politics puts me to sleep.
 #### bc112249b4 | BRUCE → VICKI | x3
 The moment campaigns or elections or voter turn-out are brought up... I check out.
 
-#### 0b7fde9a55-LM | VICKI → BRUCE | x3
+#### 0b7fde9a55 | VICKI → BRUCE | x3
 Didn’t think you were the type to get his hands dirty.
 
 #### 3c53b58fc9 | BRUCE → VICKI | x3
@@ -1471,7 +1471,7 @@ Too many words, not enough action.
 #### 27668a48c9 | BRUCE → VICKI | x3
 Just between us -- politics bore the hell outta me.
 
-#### 70c62ab285-LM | VICKI → BRUCE | x3
+#### 70c62ab285 | VICKI → BRUCE | x3
 You’ve earned it a bit of fun after all the work you’ve put into Harvey’s campaign.
 
 #### c11d7fb5c7 | VICKI → BRUCE | x3
@@ -1519,6 +1519,6 @@ Especially when it’s a room full of politicians.
 #### be91f46246 | VICKI | x3
 Before all the champagne runs out.
 
-#### 8eb57d14e4-SF | VICKI → BRUCE | x3
+#### 8eb57d14e4 | VICKI → BRUCE | x3
 I just came to introduce myself, Mr. Wayne--
 

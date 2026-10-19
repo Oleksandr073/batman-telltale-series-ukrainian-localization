@@ -83,8 +83,11 @@ def check(original, genders_path, unique_dir, localized, overrides=None, show=20
             i = info.get(e['id'])
             expected = e['body']
             if i:
-                used.add(i['key'])
-                entry = unique.get(i['key'])
+                # entries are listed by table key only when one English text has several Ukrainian versions;
+                # otherwise by the plain text id (the key without the -S/-L gender ending)
+                k = i['key'] if i['key'] in unique else i['key'].split('-')[0]
+                used.add(k)
+                entry = unique.get(k)
                 if entry is None:
                     problems.append(f"{where}: key {i['key']} not found in {unique_dir} (run the import again)")
                     continue

@@ -37,14 +37,11 @@ Something{ThinkingA}{FaceAccent} spilled here.
 #### acfa8dbaf7 | BATMAN → ALFRED | x2
 The {FaceAccent}{SurpriseA}same drug from the {FaceAccent}{AngryA}debate.
 
-#### 04e0754ef0-SM | ALFRED → BATMAN | x2
+#### 04e0754ef0 | ALFRED → BATMAN | x2
 I feared we hadn’t seen the last of it.
 
 #### fb9ada16de | BATMAN → ALFRED | x2
 Looks like some kind of sprinkler system.
-
-#### ac36dd4fc6-LM | ALFRED → BATMAN | x2
-Have you found out what they’re up to?
 
 #### 01ca31bfbc | ALFRED → CATWOMAN, BATMAN | x4
 Be on your guard.
@@ -76,7 +73,7 @@ They may not have gone far.
 #### cc9ad0715e | ALFRED → BATMAN | x2
 They should be there.
 
-#### ea4c423c10-SM | BATMAN → LADYARKHAM | x2
+#### ea4c423c10 | BATMAN → LADYARKHAM | x2
 Nice toys. I’ve got some of my own.
 
 #### b0fa9df438 | BATMAN → LADYARKHAM | x2
@@ -84,9 +81,6 @@ The people of Gotham are stronger than you think. They won’t let this city fal
 
 #### fc685197aa | CATWOMAN → LADYARKHAM | x2
 No{ConfusedA} no no {AngryB}no. There’s no part{DisgustA} two of this.
-
-#### 7a3d348708-LM | LADYARKHAM → BATMAN | x2
-Don’t get ahead of yourself.
 
 #### caf175631e | BATMAN → LADYARKHAM | x2
 This is the{FaceAccent} {ThinkingA}drug they’ve been using.{AngryA}{FaceAccent} Refined.
@@ -133,7 +127,7 @@ The officer that was taken from the constuction site. Shot in the chest.
 #### 492043c40c | BATMAN → ALFRED | x2
 This train car has been modified.
 
-#### 132ce76a70-SM | BATMAN | x2
+#### 132ce76a70 | BATMAN | x2
 These barrels match the shrapnel that I found at the docks.
 
 #### 916741323d | BATMAN | x2
@@ -352,7 +346,7 @@ There’s a train coming!
 #### 4fa7033fa1 | ALFRED, GCPD01 → BATMAN, GCPD02 | x4
 Take cover!
 
-#### 2cd090a0d2-SM | BATMAN → ALFRED | x2
+#### 2cd090a0d2 | BATMAN → ALFRED | x2
 I need to know what they’re going to do with the drug, exactly how they’re planning on releasing it.
 
 #### d47aefc9f5 | BATMAN → ALFRED | x2
@@ -379,10 +373,10 @@ They could infect the entire city if they had enough.
 #### 3d38ea5e55 | BATMAN → ALFRED | x2
 They haven’t finished making all of the drug yet. I have time to figure this out.
 
-#### e39f57ccdd-SM | BATMAN → ALFRED | x2
+#### e39f57ccdd | BATMAN → ALFRED | x2
 I need to know where these trains will be headed.
 
-#### 8afb1ae05f-SM | BATMAN | x8
+#### 8afb1ae05f | BATMAN | x8
 I need to know where their target is.
 
 #### beb17974b1 | BATMAN | x2
@@ -424,7 +418,7 @@ The drug. {AngryC}The Children of Arkham {BodyAccent}{FaceAccent}must have found
 #### 05752e33ee | BATMAN → ALFRED | x2
 The trains will roll into the the station and the timers will release the drug over the crowd.
 
-#### b90f38874e-LM | ALFRED → BATMAN | x2
+#### b90f38874e | ALFRED → BATMAN | x2
 Good thing you reduced their supply at the construction site.
 
 #### dd5c25b723 | ALFRED → BATMAN | x2
@@ -442,7 +436,7 @@ Traces of both chemicals here.
 #### 86209f63e5 | BATMAN → ALFRED | x2
 They used the modified drug on him.
 
-#### 2806565426-LM | BATMAN → ALFRED | x2
+#### 2806565426 | BATMAN → ALFRED | x2
 Everything you’d{FaceAccent} need to{AngryA} make a {FaceAccent}bomb.
 
 #### 563adae792 | ALFRED → BATMAN | x2

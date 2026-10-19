@@ -1,7 +1,7 @@
 ﻿#### ca9699e8f7 | choice/UI, LUCIUS → BLOCKBUSTER, LUCIUS, COA01 | x18
 Where’s Alfred?
 
-#### 8850cd107f-LM | choice/UI → LUCIUS | x4
+#### 8850cd107f | choice/UI → LUCIUS | x4
 You need help.
 
 #### a97f5b130a | BATMAN → LUCIUS | x4
@@ -49,14 +49,14 @@ Are you joking?
 #### 13a9911915 | LADYARKHAM → BATMAN | x4
 No. That’s the other guy...
 
-#### 1a4f6453e8-SF | LADYARKHAM → BATMAN | x4
+#### 1a4f6453e8 | LADYARKHAM → BATMAN | x4
 You think you have me cornered.  I brought you here for a reason.
 
-#### 25cd6d3ab8-SF-LM | LADYARKHAM → BATMAN | x4
+#### 25cd6d3ab8 | LADYARKHAM → BATMAN | x4
 I’m glad you could be here to bear witness to my final triumph.
 The Children of Arkham have already changed Gotham forever. We brought it out of the shadows. Exposed the hypocrisy. But that’s not our endgame. Now it’s time to free those who wear no masks and have been persecuted for it. The true children of arkham.
 
-#### ff60ca095e-LF | BATMAN → LADYARKHAM | x4
+#### ff60ca095e | BATMAN → LADYARKHAM | x4
 You’re wrong.  You’re not helping anyone.  You’re lashing out.
 
 #### b379a4628e | BATMAN → LADYARKHAM | x4
@@ -83,16 +83,16 @@ Welcome to my playground.
 #### e8770f834f | BATMAN → LADYARKHAM | x4
 Then let’s play.
 
-#### 18b34744b4-SF | LADYARKHAM → BATMAN | x4
+#### 18b34744b4 | LADYARKHAM → BATMAN | x4
 I grew up in these catacombs.
 
-#### ecbd1cf86a-SF | LADYARKHAM → BATMAN | x4
+#### ecbd1cf86a | LADYARKHAM → BATMAN | x4
 This is where I was the happiest.
 
-#### 6cc1c13d4f-SF | LADYARKHAM → BATMAN | x4
+#### 6cc1c13d4f | LADYARKHAM → BATMAN | x4
 Where I was whole.
 
-#### 3e6a863d29-SM | BATMAN → LADYARKHAM | x4
+#### 3e6a863d29 | BATMAN → LADYARKHAM | x4
 I liked your foster home better.
 
 #### ffb65bafac | BATMAN → LADYARKHAM | x8
@@ -119,10 +119,10 @@ Imagine all we could have accomplished.
 #### c0f7661bcb | LADYARKHAM → BATMAN | x4
 Unfortunately for you, I agree.
 
-#### 62c938268b-SF | LADYARKHAM → BATMAN | x4
+#### 62c938268b | LADYARKHAM → BATMAN | x4
 i’ve already won. I’ve changed gotham. I  I don’t feel better.
 
-#### 2cb1304fc4-LF | BATMAN → LADYARKHAM | x4
+#### 2cb1304fc4 | BATMAN → LADYARKHAM | x4
 To surrender yourself.
 
 #### f9cd66c67e | LADYARKHAM → BATMAN | x4
@@ -155,7 +155,7 @@ It’s Lady Arkham.
 #### bfe9a681cf | LADYARKHAM → BATMAN | x4
 It always has been...
 
-#### c2b74d0d3d-SF | LADYARKHAM → BATMAN | x4
+#### c2b74d0d3d | LADYARKHAM → BATMAN | x4
 I’ve always pittied you.  You go out night after night and make no real difference. Yet you still try. So sad.
 
 #### a05d4d4844 | BATMAN → LADYARKHAM | x4
@@ -176,7 +176,7 @@ Hello Master Bruce!
 #### 245be034e9 | LUCIUS → BATMAN | x4
 I’m here too!
 
-#### 8d12c57a7e-SM | BATMAN → LUCIUS | x4
+#### 8d12c57a7e | BATMAN → LUCIUS | x4
 I’ve found Lady Arkham.  She’s sneaking into the asylum. There’s no sign of Alfred. I’m going after her.
 
 #### 8be2c94df0 | LUCIUS → BATMAN | x4
@@ -194,7 +194,7 @@ You’ll pay first.
 #### 87f0676c7c | choice/UI → LUCIUS | x4
 Stop doing this.
 
-#### 2782ba6c33-L? | choice/UI | x4
+#### 2782ba6c33 | choice/UI | x4
 You’re sick.
 
 #### 905b2776ba | choice/UI | x4
@@ -221,13 +221,13 @@ Let’s call a truce.
 #### dd466fb4b0 | WR → LADYARKHAM | x8
 Need an explanation what we’re trying to do here.
 
-#### a37b6e29f5-L? | LADYARKHAM → COA05 | x8
+#### a37b6e29f5 | LADYARKHAM → COA05 | x8
 You’re too late Batman.
 
 #### a55d283c65 | LADYARKHAM → COA06 | x8
 You’re just in time.
 
-#### 99eb8e2e70-SF | LADYARKHAM → WR | x4
+#### 99eb8e2e70 | LADYARKHAM → WR | x4
 I’ve freed the true children of Arkham.
 
 #### 838e390197 | LADYARKHAM → BATMAN | x4
@@ -236,7 +236,7 @@ I’m here to free the true children of Arkham.
 #### 3f353b14c5 | choice/UI → COA01, ALFRED | x6
 Gotham comes first.
 
-#### 6d143909bf-SM | choice/UI → LADYARKHAM | x4
+#### 6d143909bf | choice/UI → LADYARKHAM | x4
 I won’t let you
 
 #### 18190a3fb0 | choice/UI → LADYARKHAM | x4
@@ -263,7 +263,7 @@ You think Arkham is protecting gotham from the inmates.  its actuallyu protectin
 #### 5575a47758 | BATMAN, choice/UI → LADYARKHAM | x24
 Where’s Alfred Pennyworth?
 
-#### 70e4933a68-SF-LM | LADYARKHAM → BATMAN | x4
+#### 70e4933a68 | LADYARKHAM → BATMAN | x4
 And here i thought you were here to protect Arkham.
 
 #### a4517f6b4c | LADYARKHAM → BATMAN | x4
@@ -302,7 +302,7 @@ i’m in scene but probably don’t talk.
 #### c8fccccfac | ORDERLY02 → BATMAN | x4
 I’m in scene but probaby don’t talk.
 
-#### 838fec2fc7-SM | BATMAN → LUCIUS | x16
+#### 838fec2fc7 | BATMAN → LUCIUS | x16
 Lucius, I’ve found Lady Arkham.
 
 #### f6724be9e1 | BATMAN → ORDERLY01, LADYARKHAM, LUCIUS | x12
@@ -326,14 +326,8 @@ What’s she doing up there?
 #### 8b34a6c6ca | LUCIUS → BATMAN | x4
 Where ?
 
-#### 12db183ea8-LM | BATMAN → LUCIUS | x4
-What have you done?
-
 #### fd70c99710 | LADYARKHAM → LUCIUS | x4
 Right beneath us, the true children of Arkham run free.
-
-#### 12db183ea8-LF | BATMAN → LADYARKHAM | x4
-What have you done?
 
 #### 3f361ef19c | choice/UI → LADYARKHAM | x6
 You belong in Arkham.
@@ -368,7 +362,7 @@ Deep in my heart of hearts.
 #### 98ee46eacd | LADYARKHAM → BATMAN | x8
 Nothing to say?
 
-#### a0469fe983-SF | LADYARKHAM → BATMAN | x8
+#### a0469fe983 | LADYARKHAM → BATMAN | x8
 I’ve already made the first move, Dark Knight.
 
 #### 20d27b30fc | BATMAN → LADYARKHAM | x4
@@ -390,7 +384,7 @@ No one else is dying tonight, Arkham.
 No one else is dying tonight,
  Vicki.
 
-#### 4e3f196eb5-SF | LADYARKHAM → BATMAN | x8
+#### 4e3f196eb5 | LADYARKHAM → BATMAN | x8
 Before or after I put him in the punishment hole?
 
 #### c453493005 | BATMAN → LADYARKHAM | x8
@@ -408,7 +402,7 @@ Gotham is a city born out of violence and flowing with corruption.
 #### 5f19095a4e | LADYARKHAM → BATMAN | x4
 You believe in Gotham.
 
-#### 40e0e6d642-SF | LADYARKHAM → BATMAN | x4
+#### 40e0e6d642 | LADYARKHAM → BATMAN | x4
 I gave them one.
 
 #### e80639da2c | BATMAN → LADYARKHAM | x4
@@ -432,13 +426,13 @@ Until the Waynes destroyed my family.
 #### 7d2e4de596 | BATMAN → LADYARKHAM | x4
 Gotham is my city
 
-#### 0c34fbb484-SF-LM | LADYARKHAM → BATMAN | x4
+#### 0c34fbb484 | LADYARKHAM → BATMAN | x4
 I thought you were here to protect Gotham?
 
 #### 903faa6e47 | LADYARKHAM → BATMAN | x4
 Put it out of its misery.
 
-#### 938a3b4ae3-SF | LADYARKHAM → BATMAN | x4
+#### 938a3b4ae3 | LADYARKHAM → BATMAN | x4
 Who was there when I needed help?
 
 #### 5963bc8a56 | LADYARKHAM → BATMAN, LUCIUS | x12
@@ -501,9 +495,6 @@ I’ve given them a choice.
 #### 4f2d271cf0 | LADYARKHAM → BATMAN | x4
 Let me kill it.
 
-#### a34d3d3e79-SF | LADYARKHAM, SELINA → BATMAN | x14
-You know I’m right.
-
 #### 76b4a8dc30 | LADYARKHAM → BATMAN | x16
 Gotham is beyond saving.
 
@@ -519,16 +510,16 @@ He knew what Thomas Wayne was doing and didn’t stop it.
 #### 1323ff2f44 | LADYARKHAM → BATMAN | x12
 He’s as guilty as they are.
 
-#### 2586a3a54b-LF | BATMAN → LADYARKHAM | x8
+#### 2586a3a54b | BATMAN → LADYARKHAM | x8
 You don’t have to do this.  You’ve already destroyed Bruce Wayne and other corrupt families that drove this city to ruin.
 
 #### 6b837deeb8 | LADYARKHAM → BATMAN | x4
 He will atone for his sins tonight.
 
-#### 0f600a4cdf-SF | LADYARKHAM → BATMAN | x4
+#### 0f600a4cdf | LADYARKHAM → BATMAN | x4
 I’m right here Bat Freak.
 
-#### f4ca952050-SF | LADYARKHAM → BATMAN | x8
+#### f4ca952050 | LADYARKHAM → BATMAN | x8
 I won’t stop till Gotham is burnt to the ground.
 
 #### 6f39b8cc78 | LADYARKHAM | x4
@@ -558,10 +549,10 @@ Alfred Pennyworth will be dealt with.
 #### d1929ae118 | LADYARKHAM → ORDERLY01 | x4
 But for now I have more pressing matters.
 
-#### e54b25ee39-S? | ORDERLY01 → LADYARKHAM | x4
+#### e54b25ee39 | ORDERLY01 → LADYARKHAM | x4
 I’m dead!
 
-#### 089a0ae972-S? | ORDERLY02 → LADYARKHAM | x4
+#### 089a0ae972 | ORDERLY02 → LADYARKHAM | x4
 I’m dead, too!
 
 #### 1c48a78526 | LADYARKHAM → ORDERLY01 | x4
@@ -601,7 +592,7 @@ by burning it to the ground.
 #### 4c0c30c14f | LADYARKHAM → BATMAN | x4
 I’m putting it out of it’s misery.
 
-#### c3d4488c1d-LF | BATMAN → LADYARKHAM | x12
+#### c3d4488c1d | BATMAN → LADYARKHAM | x12
 You’ve already destroyed the Waynes, Hills, and Falcones.
 
 #### c74459c4df | BATMAN → LADYARKHAM | x8
@@ -613,16 +604,13 @@ Tell that to your thugs
 #### 151d262a9c | choice/UI → VICKI | x4
 Vicki, it’s over...
 
-#### 8efab31ea5-LF | BATMAN → LADYARKHAM | x4
-Give yourself up.
-
 #### a13db8278c | LADYARKHAM → BATMAN | x4
 I’m not the one who needs help.
 
 #### cfab41cf29 | LADYARKHAM → BATMAN | x4
 I’m going to enjoy ripping the horns out of yoru head devil.
 
-#### d6d78b6fc6-LF | BATMAN → LADYARKHAM | x4
+#### d6d78b6fc6 | BATMAN → LADYARKHAM | x4
 What have you done with Alfred Pennyworth?
 
 #### 11a7ba5850 | LADYARKHAM → BATMAN | x8
@@ -655,7 +643,7 @@ The Wayne Butler?
 #### d40c7e4c45 | LADYARKHAM → BATMAN | x4
 That’s what you care about?
 
-#### 157a6e86b1-SF | LADYARKHAM → DLADYARKHAM | x4
+#### 157a6e86b1 | LADYARKHAM → DLADYARKHAM | x4
 I was the one who was harmed.
 
 #### 5e43c5aa34 | BATMAN → LADYARKHAM | x4
@@ -727,7 +715,7 @@ There’s no reason to keep him.
 #### 4a7ca61cf0 | LADYARKHAM → BATMAN | x4
 Alfred Pennyworth is pawn to make Bruce Wayne suffer.  And pawns must be sacrificed,.
 
-#### 38e8428754-LF | BATMAN → LADYARKHAM | x4
+#### 38e8428754 | BATMAN → LADYARKHAM | x4
 You’ve exposed the corruption in Gotham.
 
 #### 814ae89f1d | LADYARKHAM → BATMAN | x4
@@ -773,7 +761,7 @@ Alfred Pennyworth must atone for his sins and so must Gotham.
 #### 9e88d6061e | LADYARKHAM → BATMAN | x8
 What could he possibly mean to you?
 
-#### 4b67e46cd7-SF-LM | LADYARKHAM → BATMAN | x4
+#### 4b67e46cd7 | LADYARKHAM → BATMAN | x4
 I thought you were here to protect Gotham
 
 #### 05ed776804 | LADYARKHAM → BATMAN | x4
@@ -812,7 +800,7 @@ You know Gotham isn’t worth saving.
 #### 2102665b8e | LADYARKHAM → BATMAN | x4
 And most aren’t worth saving.
 
-#### 4d7e8d8d55-SM-LF | BATMAN → LADYARKHAM | x4
+#### 4d7e8d8d55 | BATMAN → LADYARKHAM | x4
 I won’t let you hurt anyone else.
 
 #### 1ae37b4024 | BATMAN, choice/UI → LADYARKHAM, VICKI | x6
@@ -887,13 +875,13 @@ The system is beyond fixing.
 #### 3fdc4311b7 | LADYARKHAM | x4
 I’m not trying to make things right.
 
-#### afb6b3e4ad-SF | LADYARKHAM → 16, MONTOYA | x8
+#### afb6b3e4ad | LADYARKHAM → 16, MONTOYA | x8
 I want Gotham to suffer, like I’ve suffered.
 
 #### feeec438a8 | LADYARKHAM | x4
 I don’t want to make things right.
 
-#### 6ebb883e64-SF | LADYARKHAM | x4
+#### 6ebb883e64 | LADYARKHAM | x4
 Like I have suffered.
 
 #### 728c5f9f18 | LADYARKHAM | x4
@@ -926,10 +914,10 @@ What the Vales did was wrong.
 #### 0d5fbcaafc | choice/UI | x12
 Give me Alfred, now.
 
-#### 67badf10b3-L? | choice/UI | x4
+#### 67badf10b3 | choice/UI | x4
 You were mistreated.
 
-#### c7b6430f89-L? | choice/UI | x4
+#### c7b6430f89 | choice/UI → VICKI | x6
 You murdered your parents.
 
 #### 4efa18893e | choice/UI | x4
@@ -944,7 +932,7 @@ Good
 #### e389663f48 | choice/UI | x6
 Alfred is innocent.
 
-#### 591e1afb5f-L? | choice/UI | x2
+#### 591e1afb5f | choice/UI | x2
 You’re sick and need help.
 
 #### f532fe784e | choice/UI → 16, LADYARKHAM | x6
@@ -965,7 +953,7 @@ Wayne is already destroyed.
 #### 9a28db6db5 | choice/UI | x2
 Hand him over or suffer.
 
-#### addf981d44-L? | choice/UI | x2
+#### addf981d44 | choice/UI → LADYARKHAM | x4
 I know you were abused.
 
 #### 4fa818a8ed | choice/UI | x4
@@ -980,7 +968,7 @@ Vicki, I understand your pain.
 #### 392dbb5e3f | 16 → LADYARKHAM | x2
 10:13 2016) Camera shifts slightly to reveal that Batman is there in the room with her.
 
-#### 9a19d96153-L? | choice/UI → 16 | x2
+#### 9a19d96153 | choice/UI → 16 | x2
 Your men think you’re crazy.
 
 #### 755549c25c | choice/UI → 16 | x2
@@ -1007,7 +995,7 @@ If you’ve come to stop me, you’re far too late.
 #### 623bf7b864 | BATMAN → LADYARKHAM | x2
 Hand over Alfred. He’s done nothing to you.
 
-#### 2fdf3fa522-SF-LM | LADYARKHAM → BATMAN | x2
+#### 2fdf3fa522 | LADYARKHAM → BATMAN | x2
 Ha! I knew Bruce Wayne had a lot of people in his pocket. But I didn’t think you were one of them.
 
 #### 856b0f67a9 | LADYARKHAM → BATMAN | x2
@@ -1037,13 +1025,10 @@ You’ll see soon enough.
 #### feceb9919d | LADYARKHAM → BATMAN | x2
 That’s why you’re here? You have no idea!
 
-#### addf981d44-LF | choice/UI → LADYARKHAM | x2
-I know you were abused.
-
 #### 31e2980c08 | choice/UI → LADYARKHAM | x2
 Vengeance on the family that tortured you?
 
-#### 5b4d1b73c6-LM | LADYARKHAM → BATMAN | x2
+#### 5b4d1b73c6 | LADYARKHAM → BATMAN | x2
 You’re worried about Bruce Wayne’s butler? He’s just as guilty as Thomas Wayne.
 
 #### 01c0af1212 | LADYARKHAM → BATMAN | x2
@@ -1052,7 +1037,7 @@ You think I’m the danger to Gotham? They’re the real danger!
 #### 5ee4e2c201 | BATMAN → VICKI | x2
 I know who you are, [significant]Vicki.
 
-#### 7c725cf921-SF | LADYARKHAM → BATMAN | x2
+#### 7c725cf921 | LADYARKHAM → BATMAN | x2
 That doesn’t scare me. I always knew. Did Bruce Wayne tell you that? You’ve been talking to Bruce Wayne. So you’d defend scum like him, when you should be helping me. I know what’s best for Gotham.
 
 #### 4680e56a78 | LADYARKHAM → BATMAN | x2
@@ -1061,10 +1046,10 @@ You want to hurt me? I’m not the problem here. People like Bruce Wayne are the
 #### 6e143097f0 | LADYARKHAM → BATMAN | x2
 It’s not me you want to stop. I’m helping Gotham! Exposing people like Bruce Wayne for who they really are!
 
-#### ab4e42adce-SF | LADYARKHAM → BATMAN | x2
+#### ab4e42adce | LADYARKHAM → BATMAN | x2
 You’re here for the butler? I knew Bruce Wayne had half the city in his pocket... but you?
 
-#### 8a19180b47-LM | LADYARKHAM → BATMAN | x2
+#### 8a19180b47 | LADYARKHAM → BATMAN | x2
 If you cared about Gotham at all, you would fight with me. It’s people like Bruce Wayne that will bring our city to the ground.
 
 #### 02aab6fed9 | LADYARKHAM → BATMAN | x2
@@ -1076,16 +1061,16 @@ Did Bruce Wayne tell you? You defend men like him, when you should be helping me
 #### 0d2ab50f71 | BATMAN → LADYARKHAM | x2
 Stop blaming other people for what happened to you.
 
-#### 928a610e2d-LF | BATMAN → LADYARKHAM | x6
+#### 928a610e2d | BATMAN → LADYARKHAM | x6
 You’re sick. You need help. The things you’ve been through--
 
-#### 1f91cdb876-LF | BATMAN → LADYARKHAM | x2
+#### 1f91cdb876 | BATMAN → LADYARKHAM | x2
 I know you killed the Vales because they abused you.
 
 #### 1be0938dd6 | LADYARKHAM → BATMAN | x2
 You think you know anything about what I’ve been through?
 
-#### ae1b17e381-SF | LADYARKHAM → BATMAN | x2
+#### ae1b17e381 | LADYARKHAM → BATMAN | x2
 You know nothing about the pain I’ve suffered!
 
 #### 0449b49956 | BATMAN → LADYARKHAM | x2
@@ -1121,10 +1106,10 @@ You stand there, condemning me.
 #### 4839bdb196 | LADYARKHAM → VICKI | x2
 Pain is all I am, and all I have to give--to Bruce Wayne, and all those that he loves.
 
-#### 87e9106f0a-SF | LADYARKHAM → VICKI | x2
+#### 87e9106f0a | LADYARKHAM → VICKI | x2
 Then you know I’m a survivor. And I won’t give up until Bruce Wayne, and everything that he loves, is gone.
 
-#### 215d7a926e-SF | VICKI → LADYARKHAM, BATMAN | x8
+#### 215d7a926e | VICKI → LADYARKHAM, BATMAN | x8
 I won’t rest until Bruce Wayne-- and everything he loves-- is in ruin.
 
 #### 541e0e961f | LADYARKHAM → COA02 | x2
@@ -1178,7 +1163,7 @@ Save the therapy for Bruce Wayne. He’ll need it when I’m through.
 #### 4cd45d716b | LADYARKHAM → BATMAN | x2
 Oh, but I am. No one else will see this through.
 
-#### 812f66a7cf-SF | LADYARKHAM → BATMAN | x2
+#### 812f66a7cf | LADYARKHAM → BATMAN | x2
 You think I need an excuse to hurt people like Bruce Wayne?!
 
 #### 188954c177 | LADYARKHAM → COA01 | x2
@@ -1229,10 +1214,10 @@ And if Wayne’s coward enough to send you, then it’ll be the old man’s life
 #### 5731d44c8f | LADYARKHAM, BATMAN → LADYARKHAM | x4
 Answer the question!
 
-#### f467decc18-SF | LADYARKHAM | x2
+#### f467decc18 | LADYARKHAM | x2
 I’m sick of your interference.
 
-#### 8a24b6e1a7-L? | LADYARKHAM | x2
+#### 8a24b6e1a7 | LADYARKHAM | x2
 You don’t seem to understand when you’re not wanted.
 
 #### 040e66d5ec | LADYARKHAM → VICKI | x2
@@ -1268,7 +1253,7 @@ I’ve seen your brutality and what you call justice.
 #### 40fa41e357 | LADYARKHAM → BATMAN, COA02, VICKI | x10
 You have no right to judge me!
 
-#### bac2565109-SF | LADYARKHAM | x2
+#### bac2565109 | LADYARKHAM | x2
 I have made a difference!
 
 #### f105ab229d | LADYARKHAM | x2
@@ -1289,7 +1274,7 @@ He deserves to burn. Him and everyone he loves.
 #### 0c69589a2f | LADYARKHAM → BATMAN | x2
 The right thing?
 
-#### c275ca2a44-LF | BATMAN → LADYARKHAM | x2
+#### c275ca2a44 | BATMAN → LADYARKHAM | x2
 Turn yourself in. Get help.
 
 #### 5e29ae5123 | LADYARKHAM → BATMAN | x2
@@ -1301,16 +1286,16 @@ They need to learn that their actions have reprecussions.
 #### 08318052db | LADYARKHAM → BATMAN | x2
 And Wayne still has a lesson to learn.
 
-#### 943888edf9-SF | LADYARKHAM → VICKI | x2
+#### 943888edf9 | LADYARKHAM → VICKI | x2
 The things I’ve endured to become the person I am.
 
-#### 0d8fa1dc1f-SF | LADYARKHAM → BATMAN | x2
+#### 0d8fa1dc1f | LADYARKHAM → BATMAN | x2
 I won’t let you stop me, Batman.
 
 #### 81fdfd4dbd | LADYARKHAM → VICKI | x2
 This is between me and him.
 
-#### 0be7c61f05-SM-LF | BATMAN → LADYARKHAM | x2
+#### 0be7c61f05 | BATMAN → LADYARKHAM | x2
 I saw where you kept Pennyworth.
 
 #### d50afe5359 | LADYARKHAM → BATMAN | x2
@@ -1334,7 +1319,7 @@ I’ve seen your mercy, as if mercy will reform anyone.
 #### bd51f2df66 | LADYARKHAM → COA02 | x2
 I don’t think you’ll really stop me.
 
-#### 574a89720a-LF | choice/UI → LADYARKHAM | x2
+#### 574a89720a | choice/UI → LADYARKHAM | x2
 End it, turn yourself in.
 
 #### 50efc53971 | choice/UI → LADYARKHAM | x2
@@ -1373,7 +1358,7 @@ Tell me where the butler is.
 #### ca3b8e0657 | LADYARKHAM → COA01 | x2
 *That’s* why you’re here?
 
-#### 8319b2be8a-L? | LADYARKHAM → COA02 | x2
+#### 8319b2be8a | LADYARKHAM → COA02 | x2
 I should have known-- all this time, you were nothing but Wayne’s lapdog.
 
 #### a318eaea0b | LADYARKHAM → BATMAN | x2
@@ -1403,9 +1388,6 @@ Wayne will never see his butler again.
 #### 73efd152fc | choice/UI → LADYARKHAM | x8
 You’re doing just what Wayne did.
 
-#### c7b6430f89-LF | choice/UI → VICKI | x2
-You murdered your parents.
-
 #### 52ce6f2abd | choice/UI → VICKI | x2
 You’re just like Thomas Wayne.
 
@@ -1415,7 +1397,7 @@ You’re broken.
 #### c189c95691 | BATMAN → LADYARKHAM | x2
 This isn’t a judgement. Everyone can see what you are.
 
-#### 560010118c-SM | LUCIUS → VICKI | x2
+#### 560010118c | LUCIUS → VICKI | x2
 I’ve got the blueprints for Arkham... they don’t even show the catacombs. You’ll be blind.
 
 #### 6d78f53fea | BATMAN → LUCIUS | x2
@@ -1439,10 +1421,10 @@ No, he’s icing on the cake.
 #### fd1003f82f | BATMAN → LADYARKHAM | x2
 What does that make you? I’ve been one step ahead of you this whole time. Pulling your plans to pieces.
 
-#### 7e9266ecd5-SF-LM | LADYARKHAM → BATMAN | x2
+#### 7e9266ecd5 | LADYARKHAM → BATMAN | x2
 Please, you’ve stopped nothing. I have opened people’s eyes.
 
-#### e2749dd25b-SF | LADYARKHAM → BATMAN | x2
+#### e2749dd25b | LADYARKHAM → BATMAN | x2
 I’ve given this city the truth; I’ve started a revolution.
 
 #### f7a569d09a | BATMAN → LADYARKHAM | x2
@@ -1460,10 +1442,10 @@ There is always corruption.
 #### c4dc6799bc | BATMAN → LADYARKHAM | x2
 You’ve done nothing but threaten and hurt people.
 
-#### 22e229f7d5-SF | LADYARKHAM → BATMAN | x2
+#### 22e229f7d5 | LADYARKHAM → BATMAN | x2
 They’ll remember what I did.
 
-#### 87a45af71b-SF | LADYARKHAM → BATMAN | x2
+#### 87a45af71b | LADYARKHAM → BATMAN | x2
 I’ve exposed the darkness of Gotham’s past.
 
 #### 537c353ccf | BATMAN → LADYARKHAM | x2
@@ -1481,16 +1463,16 @@ The police are arriving.
 #### 94805124a4 | LUCIUS → LADYARKHAM | x2
 Keep pushing her! She can lead us right to Alfred.
 
-#### 8982ed3422-SF | LADYARKHAM → LUCIUS | x2
+#### 8982ed3422 | LADYARKHAM → LUCIUS | x2
 I did what I wanted.
 
-#### b23dedbdf5-SF | LADYARKHAM → LUCIUS | x2
+#### b23dedbdf5 | LADYARKHAM → LUCIUS | x2
 I’ve exposed this city for the lie that it is.
 
-#### d274895369-LF | BATMAN → LADYARKHAM | x2
+#### d274895369 | BATMAN → LADYARKHAM | x2
 No one is going to remember you. You’ve changed nothing at all.
 
-#### d49c0f0bf0-SF | VICKI → BATMAN | x2
+#### d49c0f0bf0 | VICKI → BATMAN | x2
 I’ve made this cesspool pay attention to me!
 
 #### 7539203ec7 | VICKI → BATMAN | x2
@@ -1502,7 +1484,7 @@ Do you really think that people paid you any mind?
 #### d2be7985be | BATMAN → LADYARKHAM | x2
 You’re just another psychopath. They all know it.
 
-#### 9a2bb0690f-SF | LADYARKHAM → BATMAN | x2
+#### 9a2bb0690f | LADYARKHAM → BATMAN | x2
 I brought them something no one else could.
 
 #### 995e4f6fe3 | LADYARKHAM → BATMAN | x2
@@ -1514,7 +1496,7 @@ This can’t end well for you.
 #### bded381dda | LADYARKHAM → BATMAN | x2
 I know that no one who does what you do, [snide]Batman[/snide], is free from their past.
 
-#### 481476da70-SF | LADYARKHAM → BATMAN | x2
+#### 481476da70 | LADYARKHAM → BATMAN | x2
 You tell me I’ve changed nothing and yet I took down the monsters of this city.
 
 #### dbcea0e59e | LADYARKHAM → BATMAN | x2
@@ -1526,7 +1508,7 @@ Calling me crazy, when you use fear to get into people’s heads.
 #### d252c6f5fd | LADYARKHAM → BATMAN | x2
 You stand there and look down on me, I can see it.
 
-#### 8b071b9763-LF | BATMAN → LADYARKHAM | x2
+#### 8b071b9763 | BATMAN → LADYARKHAM | x2
 You murdered your own parents in cold blood.
 
 #### fc94f62064 | LADYARKHAM → BATMAN | x2
@@ -1586,22 +1568,19 @@ The inmates aren’t going anywhere, Vicki.
 #### f567fd623f | LADYARKHAM → BATMAN | x2
 You don’t call me that!
 
-#### f5390cde62-LM | LADYARKHAM → BATMAN | x2
+#### f5390cde62 | LADYARKHAM, ADYARKHAM → BATMAN, LADYARKHAM | x4
 This whole time... you were just stalling me!
 
-#### f5390cde62-LF | ADYARKHAM → LADYARKHAM | x2
-This whole time... you were just stalling me!
-
-#### f14afd20c0-LF | choice/UI → LADYARKHAM | x2
+#### f14afd20c0 | choice/UI → LADYARKHAM | x2
 You’ve changed nothing.
 
-#### a5915fc15b-SM | choice/UI → LADYARKHAM | x2
+#### a5915fc15b | choice/UI → LADYARKHAM | x2
 I’ve stopped you.
 
 #### f8011f08e3 | choice/UI → LADYARKHAM | x2
 I know more than you think.
 
-#### a553ec6867-LM | LADYARKHAM → BATMAN | x2
+#### a553ec6867 | LADYARKHAM → BATMAN | x2
 Pathetic and rude. You should speak when you’re addressed, Batman.
 
 #### a3b089ec52 | LADYARKHAM → ADYARKHAM, COA02 | x4
@@ -1631,7 +1610,7 @@ The security grid reads as off-line-- I’m not going to be much help finding Al
 #### eb5fe716bc | COA01 → COA02 | x2
 ...gonna let out every last one of ‘em.
 
-#### f258ff6183-S? | COA02 → COA01 | x2
+#### f258ff6183 | COA02 → COA01 | x2
 He’s still breathin’ even though I broke his face good.
 
 #### 0bb866cc4b | COA02 → COA01 | x2
@@ -1643,7 +1622,7 @@ Almost ready. Let her know.
 #### 2f1357220d | COA01 → COA02 | x4
 Copy. On our way.
 
-#### 91426d8c20-S? | COA01 → COA02, LUCIUS | x4
+#### 91426d8c20 | COA01 → COA02, LUCIUS | x4
 Go ahead. I got this.
 
 #### d1d40b8507 | BATMAN → VICKI | x2
@@ -1682,10 +1661,10 @@ I’ll tear you down one piece at a time.
 #### 05f7b3a6e4 | LADYARKHAM → BATMAN | x2
 Such confidence. If only you weren’t Wayne’s lapdog I might believe you.
 
-#### 753fbd5b49-SM | choice/UI → LADYARKHAM | x2
+#### 753fbd5b49 | choice/UI → LADYARKHAM | x2
 I’ve stopped you before.
 
-#### 920adecc5f-SM | BATMAN → LADYARKHAM | x2
+#### 920adecc5f | BATMAN → LADYARKHAM | x2
 I’ve stopped you before. I’ll do it again.
 
 #### 6210925dc9 | LADYARKHAM → BATMAN | x2
@@ -1694,10 +1673,10 @@ How *is* your shoulder?
 #### e6a7d0a257 | LADYARKHAM → BATMAN | x2
 The wheels are already in motion.
 
-#### bbe1524224-LM | LADYARKHAM → BATMAN | x2
+#### bbe1524224 | LADYARKHAM → BATMAN | x2
 You’re too late.
 
-#### 6af24ae3c1-LF | BATMAN → LADYARKHAM | x2
+#### 6af24ae3c1 | BATMAN → LADYARKHAM | x2
 You’ve made a habit of lashing out.
 
 #### 4be2e55179 | BATMAN → LADYARKHAM | x2
@@ -1718,13 +1697,13 @@ I do.
 #### 4c40d9c3f3 | LADYARKHAM → BATMAN | x2
 You don’t know anything at all.
 
-#### d19ce976a1-LF | choice/UI → LADYARKHAM | x2
+#### d19ce976a1 | choice/UI → LADYARKHAM | x2
 I know you experienced pain.
 
 #### 48d535f2d1 | choice/UI → LADYARKHAM | x2
 I’d want justice too.
 
-#### 77f8dd094b-SM | BATMAN → LADYARKHAM | x2
+#### 77f8dd094b | BATMAN → LADYARKHAM | x2
 I saw the real basement of the Vale House.
 
 #### df63ff3332 | BATMAN → LADYARKHAM | x2
@@ -1736,7 +1715,7 @@ Has known pain.
 #### 6ff1ce313f | LADYARKHAM → BATMAN | x2
 What? Batman, you-- [shaken, slowly]
 
-#### d64130059d-LF | BATMAN → LADYARKHAM | x2
+#### d64130059d | BATMAN → LADYARKHAM | x2
 They shackled you to a wall. You broke your nails trying to get out.
 
 #### 5f3689ab12 | VICKI, LADYARKHAM → LADYARKHAM, VICKI | x4
@@ -1757,7 +1736,7 @@ I don’t care who sent you!
 #### 25555eb439 | LADYARKHAM → VICKI | x2
 There’s no way you know anything about me.
 
-#### 671f7887cf-SF | LADYARKHAM → VICKI | x2
+#### 671f7887cf | LADYARKHAM → VICKI | x2
 I’ve left my past behind.
 
 #### 82bce95b49 | LADYARKHAM → BATMAN | x2
@@ -1769,7 +1748,7 @@ Arkham will be set free, and Wayne’s man will die.
 #### 6bb4585ad8 | LADYARKHAM → BATMAN | x2
 That life is gone.
 
-#### d79054bb9e-LF | BATMAN → LADYARKHAM | x2
+#### d79054bb9e | BATMAN → LADYARKHAM | x2
 The police know you killed the Vales. That *Vicki* killed the Vales.
 
 #### 42e495cc1f | BATMAN → LADYARKHAM | x2
@@ -1778,7 +1757,7 @@ That Vicki killed the Vales. There’s no more hiding behind your mask.
 #### 0746bb0830 | LADYARKHAM → BATMAN | x2
 Nothing has changed!
 
-#### 18be427d7e-LM | LADYARKHAM → BATMAN | x2
+#### 18be427d7e | LADYARKHAM → BATMAN | x2
 Pull yourself together. What happened as Vicki Vale doesn’t matter-- I am Lady Arkham.
 
 #### 79e9f025ba | choice/UI → LADYARKHAM | x2
@@ -1826,7 +1805,7 @@ What it must have done to your mind, being locked down in that basement.
 #### 6a589bd2be | LADYARKHAM → BATMAN | x2
 And they will.
 
-#### e16e3440b0-SM | BATMAN → LADYARKHAM | x2
+#### e16e3440b0 | BATMAN → LADYARKHAM | x2
 I know more about you than I did last time we met.
 
 #### 1ab2a81af9 | BATMAN → LADYARKHAM | x2
@@ -1859,13 +1838,13 @@ I’ve seen the drawings on the walls.
 #### 27c48da585 | BATMAN → VICKI | x2
 Revenge fantasies of a scared child.
 
-#### 4e09274b15-LF | BATMAN → VICKI | x2
+#### 4e09274b15 | BATMAN → VICKI | x2
 Kept you locked away.
 
 #### 76cbd91814 | BATMAN → LADYARKHAM | x2
 They forced you down there.
 
-#### a04f0156d2-SF | LADYARKHAM → BATMAN | x2
+#### a04f0156d2 | LADYARKHAM → BATMAN | x2
 I made sure of that.
 
 #### e5915170f8 | COA01 → LADYARKHAM | x2
@@ -1901,7 +1880,7 @@ Enough of this!
 #### 6e4b78ae35 | LADYARKHAM → BATMAN | x4
 I’ve been through every kind you can imagine.
 
-#### 131317d18f-LF | BATMAN → LADYARKHAM | x2
+#### 131317d18f | BATMAN → LADYARKHAM | x2
 You took your mother’s eyes out.
 
 #### d59bc98956 | BATMAN → LADYARKHAM | x2
@@ -1928,10 +1907,10 @@ You’ve aleady failed.
 #### 6053de70ad | choice/UI → LADYARKHAM | x4
 Release the butler.
 
-#### d3d0a2abdf-SM | choice/UI → LADYARKHAM | x2
+#### d3d0a2abdf | choice/UI → LADYARKHAM | x2
 I just came to talk.
 
-#### f470f10bc5-LF | choice/UI → LADYARKHAM | x2
+#### f470f10bc5 | choice/UI → LADYARKHAM, GORDON | x4
 You’ve already lost.
 
 #### 59f00e53d8 | choice/UI → LADYARKHAM | x2
@@ -1967,7 +1946,7 @@ Our brothers and sisters will tear through Gotham...
 #### fa25b22544 | COA02 → COA01 | x2
 It will be spectacular.
 
-#### b3235d8392-SF | LADYARKHAM → COA01 | x2
+#### b3235d8392 | LADYARKHAM → COA01 | x2
 Well aren’t you the detective. I’m impressed.
 
 #### 2ab3d60ac5 | LADYARKHAM → COA01, BATMAN | x4
@@ -1985,7 +1964,7 @@ The people of Gotham
 #### ea18103226 | COA02 → LADYARKHAM | x2
 As will Bruce Wayne.
 
-#### 2896e0e69b-S? | COA02 → BATMAN | x2
+#### 2896e0e69b | COA02 → BATMAN | x2
 Shame I won’t get to see it myself.
 
 #### a71e892696 | COA01 → COA02 | x2
@@ -2030,13 +2009,13 @@ What do you hope to achieve?
 #### cbf2199e9c | choice/UI | x2
 I don’t care about your past.
 
-#### 0a1ddbd134-SM | choice/UI | x2
+#### 0a1ddbd134 | choice/UI | x2
 I won’t deny it.
 
-#### 38d0bb28a4-SM | choice/UI | x2
+#### 38d0bb28a4 | choice/UI | x2
 I came to stop you.
 
-#### 51e8bc155c-SM | choice/UI → LADYARKHAM | x2
+#### 51e8bc155c | choice/UI → LADYARKHAM | x2
 I came to protect Gotham.
 
 #### 1c8a56667b | choice/UI → LADYARKHAM | x2
@@ -2096,7 +2075,7 @@ The blood on his hands. The years haven’t washed it off.
 #### 96ac7e8ccd | BATMAN → LADYARKHAM | x2
 Why do you hate Bruce Wayne so much?
 
-#### 38afb6cf93-SF | LADYARKHAM → BATMAN | x2
+#### 38afb6cf93 | LADYARKHAM → BATMAN | x2
 Bruce *Wayne* bought himself out of the justice I arranged for him.
 
 #### 6eccf07a7c | LADYARKHAM → BATMAN | x2
@@ -2117,7 +2096,7 @@ Nothing to add? No threats? I feel cheated.
 #### 352a09c55c | LADYARKHAM → BATMAN | x2
 But the night isn’t over, yet.
 
-#### bf12320e69-SF | LADYARKHAM → BATMAN | x2
+#### bf12320e69 | LADYARKHAM → BATMAN | x2
 I can’t say that I’m surprised.
 
 #### e688c57611 | LADYARKHAM → BATMAN | x2
@@ -2144,7 +2123,7 @@ Gotham needs to open its eyes and learn.
 #### 7cf5d71465 | BATMAN → LADYARKHAM | x2
 Opening the gates of Arkham won’t solve anything.
 
-#### 0b882b80e0-SF | LADYARKHAM | x4
+#### 0b882b80e0 | LADYARKHAM | x4
 And here I thought you’d be trying to out-talk me.
 
 #### 7e12de2c02 | LADYARKHAM | x2
@@ -2156,7 +2135,7 @@ I’ve come too far to let you interfere now.
 #### 8ac85cbc74 | LADYARKHAM | x2
 You can’t talk me down.
 
-#### 6df0a9b1f6-LM | LADYARKHAM → BATMAN | x2
+#### 6df0a9b1f6 | LADYARKHAM → BATMAN | x2
 You won’t talk me down.
 
 #### b18bdb8843 | LADYARKHAM → BATMAN | x6
@@ -2174,13 +2153,13 @@ You talk of my pain as if you know something about it.
 #### 5b814e2208 | LADYARKHAM → BATMAN | x2
 About what
 
-#### f01b2c8927-LF | BATMAN → LADYARKHAM | x2
+#### f01b2c8927 | BATMAN → LADYARKHAM | x2
 No one should have to go through what you did.
 
-#### 5e3758c030-SM-LF | BATMAN → LADYARKHAM | x2
+#### 5e3758c030 | BATMAN → LADYARKHAM | x2
 I’ve been to your home--I saw what you did to the Vales.
 
-#### 537e5e8e8d-LF | BATMAN → LADYARKHAM | x2
+#### 537e5e8e8d | BATMAN → LADYARKHAM | x2
 And I know why you did it.
 
 #### 6fbeca0a5b | LADYARKHAM → BATMAN | x2
@@ -2195,19 +2174,19 @@ Even if they did, no one else needs to die.
 #### dd7523a37f | LADYARKHAM → BATMAN | x2
 Too much to turn back now.
 
-#### 621ae96f66-LF | BATMAN → LADYARKHAM | x2
+#### 621ae96f66 | BATMAN → LADYARKHAM | x2
 How long you spent in that hole. How many times they beat you...
 
 #### 06cf26734a | BATMAN → LADYARKHAM | x2
 I only care about you hurting more people.
 
-#### da20bee62c-SF | LADYARKHAM → BATMAN | x2
+#### da20bee62c | LADYARKHAM → BATMAN | x2
 I’ve only started!
 
 #### d4d6b93e27 | LADYARKHAM → BATMAN | x2
 Knowing what’s coming won’t save you either, Batman.
 
-#### 675fd18c4a-LF | BATMAN → LADYARKHAM | x2
+#### 675fd18c4a | BATMAN → LADYARKHAM | x2
 I know who you were--the childhood spent in Arkham, the abuse when you were a teen.
 
 #### a1136d75a8 | BATMAN → LADYARKHAM | x2
@@ -2225,7 +2204,7 @@ I’m offering you a chance to surrender. End this, now.
 #### 7502feea56 | LADYARKHAM → BATMAN | x2
 But you... [shaken]No one ever cared, then.
 
-#### 924cf3a8c9-LM | LADYARKHAM → BATMAN | x2
+#### 924cf3a8c9 | LADYARKHAM → BATMAN | x2
 You’re too late, Batman.
 
 #### 18456502be | BATMAN → LADYARKHAM | x2
@@ -2240,7 +2219,7 @@ You don’t care about Gotham at all.
 #### 5c3e0b2ae9 | LADYARKHAM → BATMAN | x2
 Here you claim to be Gotham’s protector--
 
-#### ed1feb7e01-LM | LADYARKHAM → BATMAN | x2
+#### ed1feb7e01 | LADYARKHAM → BATMAN | x2
 And yet you came here for the sake of one man.
 
 #### 6edd0720e9 | LADYARKHAM → BATMAN | x2
@@ -2249,7 +2228,7 @@ This is about Wayne’s butler!
 #### 5990eb3dbd | BATMAN → LADYARKHAM | x2
 I’m not going to deny it. I’m here for Alfred Pennyworth.
 
-#### aace801121-LM | LADYARKHAM → BATMAN | x2
+#### aace801121 | LADYARKHAM → BATMAN | x2
 Then perhaps I’ll tell him how very close you came to saving his life.
 
 #### 4b3d46b6dc | LADYARKHAM → BATMAN | x2
@@ -2258,7 +2237,7 @@ Before I kill him.
 #### d7d9dd6003 | BATMAN → LADYARKHAM | x2
 No. I’m here for you.
 
-#### 04aed5b2fa-SF | LADYARKHAM → BATMAN | x2
+#### 04aed5b2fa | LADYARKHAM → BATMAN | x2
 How can you threaten to stop me when you know what I’ve suffered?
 
 #### eacf20ffec | LADYARKHAM → BATMAN | x2
@@ -2273,7 +2252,7 @@ You’re a liar! Just like all the rest.
 #### 7deff8abcc | LADYARKHAM → BATMAN | x2
 Here I am, Batman.
 
-#### 13fc145f2e-SF-LM | LADYARKHAM → BATMAN | x2
+#### 13fc145f2e | LADYARKHAM → BATMAN | x2
 You said you didn’t care who I was--
 
 #### 5a4eeb68d6 | LADYARKHAM → BATMAN | x4
@@ -2297,7 +2276,7 @@ His death will be a heavy blow.
 #### be44173a87 | BATMAN → LADYARKHAM | x2
 I’m here for Gotham’s sake.
 
-#### 94be0e62cc-LF | BATMAN → LADYARKHAM | x2
+#### 94be0e62cc | BATMAN → LADYARKHAM | x2
 To end you and the terror you’ve brought this city.
 
 #### a4ea7a3b4c | LADYARKHAM → BATMAN | x2
@@ -2318,7 +2297,7 @@ Perhaps I can beat the answers from you!
 #### 637f9db85c | LADYARKHAM → BATMAN | x2
 I’m going to make you care.
 
-#### e4b2e0bbb9-SF | LADYARKHAM | x2
+#### e4b2e0bbb9 | LADYARKHAM | x2
 I’m going to make you feel every pain that I did.
 
 #### 33069368cc | LADYARKHAM → BATMAN | x2
@@ -2363,13 +2342,13 @@ This is the only way to make things right.
 #### b9212702e8 | LADYARKHAM → BATMAN | x2
 Through force.
 
-#### 5356551487-SF-LM | LADYARKHAM → BATMAN | x2
+#### 5356551487 | LADYARKHAM → BATMAN | x2
 I’m afraid you won’t save the butler... or Bruce Wayne from the pain that awaits them.
 
 #### 04dfd83e40 | BATMAN → LADYARKHAM | x2
 Surrender or I’ll take you down by force.
 
-#### 2bb7683e90-SF | LADYARKHAM → BATMAN | x2
+#### 2bb7683e90 | LADYARKHAM → BATMAN | x2
 After what I did to the Vales, killing you will be a pleasure.
 
 #### f66cf36149 | LADYARKHAM → BATMAN | x2
@@ -2426,16 +2405,16 @@ I’ve been to your home.
 #### d7e38b84bb | LADYARKHAM → BATMAN | x2
 Then you know they were monsters. That they had it coming.
 
-#### 5e350f6cc3-LM | LADYARKHAM → BATMAN | x2
+#### 5e350f6cc3 | LADYARKHAM, choice/UI → BATMAN | x4
 You’re wrong!
 
-#### 84e83d4c2a-LF | BATMAN → LADYARKHAM | x2
+#### 84e83d4c2a | BATMAN → LADYARKHAM | x2
 And I know why you killed them.
 
 #### 987d02d3c8 | BATMAN → LADYARKHAM | x2
 I’ve seen where the Vales kept you.
 
-#### 5741ba3b2b-LF | BATMAN → LADYARKHAM | x2
+#### 5741ba3b2b | BATMAN → LADYARKHAM | x2
 Why you killed them.
 
 #### 8bdb055b77 | BATMAN → LADYARKHAM | x2
@@ -2465,22 +2444,22 @@ But now I’m gonna
 #### 63918ae486 | LADYARKHAM → BATMAN | x2
 And so has the butler’s.
 
-#### 06e0ec7831-SF | LADYARKHAM → BATMAN | x2
+#### 06e0ec7831 | LADYARKHAM → BATMAN | x2
 I was going to send the butler to Bruce Wayne piece by piece...
 
-#### 6333cd55a3-LF | BATMAN → LADYARKHAM | x2
+#### 6333cd55a3 | BATMAN → LADYARKHAM | x2
 I know you’ve suffered.
 
-#### 4ee6daeedf-LF | BATMAN → LADYARKHAM | x2
+#### 4ee6daeedf | BATMAN → LADYARKHAM | x2
 You were tortured, held captive by the people who were supposed to love you.
 
-#### 14c6edc700-LF | BATMAN → LADYARKHAM | x4
+#### 14c6edc700 | BATMAN → LADYARKHAM | x4
 I don’t know how you survived.
 
-#### a73e8894bd-SF | LADYARKHAM → BATMAN | x2
+#### a73e8894bd | LADYARKHAM → BATMAN | x2
 I survived...
 
-#### d00bb1f429-SF | LADYARKHAM → BATMAN | x2
+#### d00bb1f429 | LADYARKHAM → BATMAN | x2
 Because every night, I dreamed of the revenge I’d take on them...
 
 #### 2a5d99d7dd | LADYARKHAM → BATMAN | x2
@@ -2579,7 +2558,7 @@ When did Gotham look away from you, Vicki?
 #### 75632b4803 | LADYARKHAM → LUCIUS | x2
 You think I believe your false empathy even for a second?
 
-#### 5dc133c816-SF | LADYARKHAM → BATMAN | x2
+#### 5dc133c816 | LADYARKHAM → BATMAN | x2
 You want to know how I survived?
 
 #### d8c3c2f2d0 | BATMAN → LADYARKHAM | x2

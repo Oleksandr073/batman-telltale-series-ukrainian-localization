@@ -1,19 +1,10 @@
-﻿#### 3791cefe37-L? | OSWALD → COA01 | x2
-[pained[ You would just leave me here to suffer...
-
-#### 7da20da22f-S? | COA01 → OSWALD | x2
-He’s on the 15th floor. I got em.
-
-#### 6a7afc487f-L? | PENGUIN → COA02 | x4
-Useless! You are all damned useless!
-
-#### 103501d721 | PENGUIN → BATMAN, COA01 | x4
+﻿#### 103501d721 | PENGUIN → BATMAN, COA01 | x4
 Can’t say I wasn’t expecting you eventually, Bats-
 
-#### ed0f464d91-SM-LM | PENGUIN → BATMAN | x2
+#### ed0f464d91 | PENGUIN → BATMAN | x2
 When you found out I was putting this hardware to real practical use-
 
-#### ddf1b1c451-SM | BATMAN → PENGUIN | x4
+#### ddf1b1c451 | BATMAN → PENGUIN | x4
 I won’t let you weaponize surveillance drones-
 
 #### 585b491efb | PENGUIN → BATMAN | x2
@@ -25,7 +16,7 @@ Cobblepot Tech is going global!
 #### 1018cb3d13 | BATMAN → OSWALD | x4
 The exploit has been shut down, Cobblepot.
 
-#### 226e5f0f36-LM | BATMAN → PENGUIN | x4
+#### 226e5f0f36 | BATMAN → PENGUIN | x4
 You won’t be able to tap in to Wayne Tech anymore.
 
 #### bb755437cc | PENGUIN → BATMAN | x4
@@ -37,16 +28,16 @@ It’s “COBBLEPOT Tech” now!
 #### b608edd347 | PENGUIN → BATMAN | x4
 Much more mellifluous, if you ask me.
 
-#### fa0ce63a04-SM-LM | PENGUIN → BATMAN, OSWALD | x4
+#### fa0ce63a04 | PENGUIN → BATMAN, OSWALD | x4
 I figured you would try to have something high and mighty and superheroic to say about it-
 
-#### 704b4f42a8-SM | PENGUIN → BATMAN, OSWALD | x6
+#### 704b4f42a8 | PENGUIN → BATMAN, OSWALD | x6
 What? Did Wayne tell you I was putting his Tech to practical use-?
 
 #### ac49db14f5 | BATMAN → PENGUIN | x4
 Stop hacking my network, Cobblebot.
 
-#### 28a53966f9-SM | PENGUIN → BATMAN | x4
+#### 28a53966f9 | PENGUIN → BATMAN | x4
 I’m afraid I can’t do that.
 
 #### f04a8d4110 | PENGUIN → BATMAN | x4
@@ -58,10 +49,13 @@ That includes making sure rogue vigilantes are staying out of its business.
 #### 0839d3129a | PENGUIN → BATMAN | x4
 I owe it to the shareholders!
 
-#### 049b7d6d4a-L? | PENGUIN | x2
+#### 049b7d6d4a-L? | PENGUIN → OSWALD | x4 | listener: unknown
 What did you come all the way here to say?
 
-#### 0675161ef5-SM | PENGUIN → OSWALD | x4
+#### 049b7d6d4a-LM | PENGUIN → OSWALD | x4 | listener: male
+What did you come all the way here to say?
+
+#### 0675161ef5 | PENGUIN → OSWALD | x4
 I’m sure it’s gotta be big news.
 
 #### ddf674079b | PENGUIN → BATMAN | x4
@@ -85,40 +79,46 @@ It was his own fault, you know-
 #### 770b08e96d | BATMAN → PENGUIN | x4
 What’s that-?
 
-#### d8d9d61859-SM | PENGUIN → BATMAN | x4
+#### d8d9d61859 | PENGUIN → BATMAN | x4
 I found a sticky bomb Wayne left under the desk.
 
 #### 228be6d351 | PENGUIN → BATMAN | x4
 It was incredible. Next generation art.
 
-#### d95aae33b4-SM | PENGUIN → BATMAN | x4
+#### d95aae33b4 | PENGUIN → BATMAN | x4
 Far more advanced than anything currently being developed at Wayne Tech- and trust me, I looked.
 
 #### 52edff3d30 | PENGUIN | x4
 It got me pondering, what other wonders might he have hidden away...?
 
-#### 003bf612c5-SM | PENGUIN | x4
+#### 003bf612c5 | PENGUIN | x4
 Oh, and what I discovered-
 
 #### 02e2b25f84 | PENGUIN | x4
 Wayne was wasting his best think tank’s efforts on hospital and agricultural tech!
 
-#### e31dc33e01-LM | PENGUIN → BATMAN | x2
+#### e31dc33e01-LM | PENGUIN → BATMAN | x4 | listener: male
 You only wish that you had stuff as good as what they’re making here-
 
-#### b28d6182ba-LM | PENGUIN → BATMAN | x2
+#### e31dc33e01-L? | PENGUIN → BATMAN | x4 | listener: unknown
+You only wish that you had stuff as good as what they’re making here-
+
+#### b28d6182ba-LM | PENGUIN → BATMAN | x4 | listener: male
+You and that utility belt of yours only wish that you had stuff as good as what they’re making here-
+
+#### b28d6182ba-L? | PENGUIN → BATMAN | x4 | listener: unknown
 You and that utility belt of yours only wish that you had stuff as good as what they’re making here-
 
 #### b0316e4448 | PENGUIN → BATMAN | x4
 What a waste!
 
-#### 7a01966da8-SM | BATMAN → PENGUIN | x4
+#### 7a01966da8 | BATMAN → PENGUIN | x4
 I’ll destroy all of it before I let you get your hands on it.
 
-#### 13a4c15bec-SM | PENGUIN → BATMAN | x2
+#### 13a4c15bec | PENGUIN → BATMAN | x2
 I’m afraid you’re not going to get the chance to do that.
 
-#### e9e8421574-SM | PENGUIN → BATMAN | x4
+#### e9e8421574 | PENGUIN → BATMAN | x4
 I’m afraid you’re not going to get the chance to do that, caped crusader.
 
 #### 9cdc70937f | BATMAN → PENGUIN | x4
@@ -160,37 +160,37 @@ Get ‘em, boys!
 #### 987f6367a0 | PENGUIN → BATMAN | x4
 And make it hurt!
 
-#### 27781846bf-L? | PENGUIN | x4
-That all you got?
-
 #### 2dac6bdcfb | PENGUIN → COA01 | x10
 You gotta be faster than that!
 
 #### 9bb7511b66 | PENGUIN | x8
 You gotta be quicker than that, Batboy!
 
-#### ed131f5075-SM | PENGUIN | x8
+#### ed131f5075 | PENGUIN | x8
 You know I used to box, right?
 
-#### 517679f1a0-SM | PENGUIN | x8
+#### 517679f1a0 | PENGUIN | x8
 A writer once said I could teach the Marquess of Queensberry a few things, you know.
 
-#### 8fa150b826-SM | PENGUIN → BATMAN | x4
+#### 8fa150b826 | PENGUIN → BATMAN | x4
 Guess I saw that coming, eh?
 
 #### 5298c7c5db | PENGUIN | x4
 Oh, no! What happened there?!?
 
-#### 9e8b5bf552-SM-L? | PENGUIN | x4
+#### 9e8b5bf552 | PENGUIN | x4
 It’s almost as if I could see what you were planning!
 
-#### 417c96f1fb-SM-LM | PENGUIN → BATMAN | x2
+#### 417c96f1fb-SM-LM | PENGUIN → BATMAN | x4 | speaker: male, listener: male
+It’s almost as if I could see what you were planning,eh!
+
+#### 417c96f1fb-SM-L? | PENGUIN → BATMAN | x4 | speaker: male, listener: unknown
 It’s almost as if I could see what you were planning,eh!
 
 #### d5486c6b56 | PENGUIN → BATMAN | x4
 You should get one of these-
 
-#### 68adfe1060-LM | PENGUIN → BATMAN | x4
+#### 68adfe1060 | PENGUIN → BATMAN | x4
 Then you could’ve seen THIS coming!
 
 #### 59b0995486 | BATMAN → PENGUIN | x4
@@ -202,22 +202,13 @@ DAMMIT! DAMMIT! DAMMIT!
 #### d8d6395226 | COA02 → OSWALD | x2
 No sign of him here.
 
-#### 049b7d6d4a-LM | PENGUIN → OSWALD | x2
-What did you come all the way here to say?
-
 #### a1b7d9af39 | OSWALD → PENGUIN | x2
 You know, Wayne was thinking too small.
 
 #### cbf88fc8ad | PENGUIN → OSWALD | x2
 But, this company, under my expert stewardship, with the technology being developed... we could control nations.
 
-#### e31dc33e01-L? | PENGUIN | x2
-You only wish that you had stuff as good as what they’re making here-
-
-#### b28d6182ba-L? | PENGUIN | x2
-You and that utility belt of yours only wish that you had stuff as good as what they’re making here-
-
-#### eb452d82dd-SM | PENGUIN → BATMAN | x2
+#### eb452d82dd | PENGUIN → BATMAN | x2
 I’m afraid you’re not going to get the chance to do that, mate.
 
 #### 3f2a826e47 | PENGUIN → BATMAN | x2
@@ -226,11 +217,11 @@ And unfortunately, I am going to have to ask you to leave.
 #### 7b0b02cfb1 | PENGUIN → BATMAN | x2
 Ha! It’s a little late for that-
 
-#### a682eee0e0-L? | PENGUIN | x4
+#### a682eee0e0-L? | PENGUIN → BATMAN | x6 | listener: unknown
 Ha! That all you got?
 
-#### 417c96f1fb-SM-L? | PENGUIN | x2
-It’s almost as if I could see what you were planning,eh!
+#### a682eee0e0-LM | PENGUIN → BATMAN | x6 | listener: male
+Ha! That all you got?
 
 #### dfbd7b626b | choice/UI → PENGUIN | x2
 You can’t exploit Wayne Tech anymore!
@@ -238,7 +229,7 @@ You can’t exploit Wayne Tech anymore!
 #### f706886409 | choice/UI → PENGUIN | x2
 You’re trying to hack my network.
 
-#### 43fa7019f7-SM | choice/UI → PENGUIN | x2
+#### 43fa7019f7 | choice/UI → PENGUIN | x2
 I won’t let you weaponize drones.
 
 #### 8708d4c926 | PENGUIN → BATMAN | x2
@@ -249,9 +240,6 @@ It got me pondering... What is it that Bruce Wayne doesn’t want me to see.
 
 #### 023857fcc9 | choice/UI → PENGUIN | x2
 You’ll have to go through me.
-
-#### a682eee0e0-LM | PENGUIN → BATMAN | x2
-Ha! That all you got?
 
 #### 023a71742e | COA01 → PENGUIN | x2
 Hey! It’s the Bat!
@@ -271,7 +259,7 @@ Shut up, Cobblepot!
 #### dbfda6b1b2 | PENGUIN → OSWALD | x2
 Woah woah woah woah!
 
-#### 1361d8686a-SM-LM | OSWALD → PENGUIN | x2
+#### 1361d8686a | OSWALD → PENGUIN | x2
 Although, had you given me more warning I could have prepared some fine canapes.
 
 #### 9b8fe509f8 | PENGUIN → OSWALD | x2
@@ -289,7 +277,7 @@ Wrong. This is just the start!
 #### f2baec40b9 | BATMAN → PENGUIN | x2
 If you want to leave here with both thumbs still attached, you better start talking. What are you and Lady Arkham planning?[cut-MDarin]
 
-#### c0bbbb9d5a-SM-LM | OSWALD → BATMAN | x2
+#### c0bbbb9d5a | OSWALD → BATMAN | x2
 I am GLAD you asked...
 
 #### fbbf9a896b | PENGUIN → OSWALD | x2
@@ -298,7 +286,7 @@ Hall of fame level.
 #### 1b3888c343 | BATMAN → OSWALD | x2
 Spare me the chatter, Cobblepot. Your bluff is thinner than that phony accent of yours.
 
-#### 7b72a5a8fb-SM | PENGUIN → OSWALD | x2
+#### 7b72a5a8fb | PENGUIN → OSWALD | x2
 See, I’d be hurt by that, but I was expecting that sort of short-sighted attitude of yours.
 
 #### 24c37dfaaa | OSWALD → PENGUIN | x2
@@ -316,7 +304,7 @@ Here, let me lay The Plan out for you. You’ll be very impressed.
 #### d3851d33fb | PENGUIN → OSWALD | x2
 Now that I have your full attention, let me tell you allll about my glorious new direction for Wayne-- excuse me -- COBBLEPOT ENTERPRISES.
 
-#### 6f47d36ccd-SM-LM | PENGUIN → BATMAN | x2
+#### 6f47d36ccd | PENGUIN → BATMAN | x2
 Because I need you to APPRECIATE how brilliant I am before I HAVE YOU PUMPED FULL OF LEAD.
 
 #### 59c9dc5dbf | choice/UI → PENGUIN | x2
@@ -388,7 +376,7 @@ And that’s just one of the many new business ventures I’ll be taking this co
 #### 643fd65816 | PENGUIN | x2
 Got another one I’m thinking about -
 
-#### 19ae43c29d-SM | PENGUIN → OSWALD | x2
+#### 19ae43c29d | PENGUIN → OSWALD | x2
 I just had to share - I’m real excited about that one.
 
 #### 9c55c3ac80 | PENGUIN → OSWALD | x2
@@ -424,7 +412,7 @@ Not just for fashion.  It’s very functional.
 #### c6d62a5029 | PENGUIN → OSWALD | x2
 It’s very VERY functional.
 
-#### 2d31b53dfa-SM | OSWALD → BATMAN | x2
+#### 2d31b53dfa | OSWALD → BATMAN | x2
 I was wondering when we’d meet again. Let’s see... last time I was not but a simple club owner, having just inherited the Skyline Club from Falcone.
 
 #### a802c103ab | OSWALD → BATMAN | x2
@@ -451,10 +439,10 @@ You sound pretty confident.
 #### 973fa4b5e6 | choice/UI, BATMAN → OSWALD | x4
 That’s not a smart bet.
 
-#### e8e6b10a24-SM | OSWALD → BATMAN | x2
+#### e8e6b10a24 | OSWALD → BATMAN | x2
 Well, I’ve got a bit of inside information. That gives me the advantage.
 
-#### 0659b80ae5-LM | BATMAN → OSWALD | x2
+#### 0659b80ae5 | BATMAN → OSWALD | x2
 That’s not happening.  You’re outmatched here.  Give up.
 
 #### c695e36b11 | OSWALD → BATMAN | x2
@@ -478,7 +466,7 @@ That’s alright, you don’t got to say anything.
 #### 2a1daedd1c | OSWALD → LUCIUS | x2
 You know, I like your style Batman, I really do.  But you’re really starting to be a pain in the ass.
 
-#### 6ca4e7cbb4-LM | LUCIUS → OSWALD | x2
+#### 6ca4e7cbb4 | LUCIUS → OSWALD | x2
 Keep him talking. Buy yourself some time to plan your attack.
 
 #### 2b29c09949 | OSWALD → BATMAN | x2
@@ -493,7 +481,7 @@ Spare me the chatter, Cobblepot. [You’re bluffing.-trim]
 #### 17253e5724 | OSWALD → BATMAN | x2
 But Lady Arkham, SHE has vision!
 
-#### d85dd3eb3e-SM | OSWALD → BATMAN | x2
+#### d85dd3eb3e | OSWALD → BATMAN | x2
 That’s why she made sure I was put in charge of the company.
 
 #### ac1c93710d | OSWALD → BATMAN | x2
@@ -502,13 +490,13 @@ Why waste our time trying to hack into Wayne Technology when we can own it!
 #### 0e19b7a115 | OSWALD → BATMAN | x2
 And with it, we’ll strike back at the Dent administration... And then the liberation can truly begin!
 
-#### e2a121b66b-LM | OSWALD → BATMAN | x2
+#### e2a121b66b | OSWALD → BATMAN | x2
 Face it, Batman. You’re outmatched!  Without your tech, you’re just a man in a pointy-eared costume.  You can’t stop us.
 
 #### 229b34b468 | BATMAN → OSWALD | x2
 Watch me!
 
-#### 9cba227be1-LM | OSWALD → BATMAN | x2
+#### 9cba227be1 | OSWALD → BATMAN | x2
 Come on, Batman!  Show me what you got!
 
 #### 877a0f3674 | OSWALD → BATMAN | x2

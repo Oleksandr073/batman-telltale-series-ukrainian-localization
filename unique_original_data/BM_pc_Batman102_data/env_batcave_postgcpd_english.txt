@@ -16,7 +16,7 @@ Anything for the most wanted man in Gotham.
 #### 9443ee57f7 | BRUCE → ALFRED | x16
 Any chance we can do this over the phone?
 
-#### cb6f0f2ed4-SM | BRUCE → GORDON | x16
+#### cb6f0f2ed4 | BRUCE → GORDON | x16
 Can’t Selina do it? I’m a little busy right now.
 
 #### 313b000233 | choice/UI → GORDON, HARVEY | x32
@@ -25,7 +25,7 @@ Can’t Selina do it?
 #### 67b254fb4e | BRUCE → GORDON | x16
 Right now... it’s not too convienent for me.
 
-#### 932afc351a-SM | GORDON → BRUCE | x16
+#### 932afc351a | GORDON → BRUCE | x16
 I need you to come down to the station this morning, give a statement.
 
 #### 9a345741da | GORDON, MONTOYA, LELAND → BRUCE | x28
@@ -34,7 +34,7 @@ Mr. Wayne?
 #### ecd7135df8 | BRUCE → GORDON | x16
 That’s me.
 
-#### cef4df2d58-SM | GORDON → BRUCE | x32
+#### cef4df2d58 | GORDON → BRUCE | x32
 Lt. Gordon here. Glad I got you on the line. Sorry for calling so early.
 
 #### e20be6434c | BRUCE → GORDON, ALFRED, OPERATOR | x48
@@ -43,19 +43,19 @@ Bruce, here.
 #### d3e540b6a4 | GORDON → BRUCE | x16
 Mr. Wayne,  I only do house calls for emergencies.
 
-#### e16712a182-SM | GORDON → BRUCE | x16
+#### e16712a182 | GORDON → BRUCE | x16
 So unless you’ve been shot, I need you to come here.
 
 #### a82431e8e6 | HARVEY → BRUCE | x16
 I know this is gonna sound crazy, but this isn’t a prank, I swear.
 
-#### 8bd6da9eaf-SM | HARVEY → GORDON | x16
+#### 8bd6da9eaf | HARVEY → GORDON | x16
 I’ve been arrested and I, well, I need you to bail me out.
 
 #### 209476b25b | OPERATOR → HARVEY, BRUCE | x32
 Do you accept the charges?
 
-#### 714018be8a-LM | HARVEY → BRUCE | x16
+#### 714018be8a | HARVEY → BRUCE | x16
 Bruce, my man. You answered your phone.
 
 #### 36f6c3785d | BRUCE → HARVEY | x48
@@ -88,7 +88,7 @@ You owe me for this.
 #### 430de10758 | HARVEY → BRUCE | x16
 Just add it to my tab.
 
-#### 78e218aaed-SM | HARVEY → BRUCE | x16
+#### 78e218aaed | HARVEY → BRUCE | x16
 I... shit... I can’t believe I’m saying this but.... I need you to bail me out.
 
 #### 676f90463c | GORDON, SELINA → BRUCE, HARVEY | x18
@@ -118,7 +118,7 @@ You have a collect call from--
 #### e9424a0f1c | choice/UI → HARVEY | x16
 My mistake.
 
-#### fb04490583-SM | BRUCE → HARVEY | x16
+#### fb04490583 | BRUCE → HARVEY | x16
 I’m tired of getting these kinds of phone calls from you.
 
 #### 6dbbb5aa52 | HARVEY → BRUCE | x16
@@ -136,7 +136,7 @@ Come on, I’ll be your best friend.
 #### afeb98a7b0 | BRUCE → HARVEY | x16
 Oh, hey. What’s this about?
 
-#### 0597d38775-LM | GORDON → HARVEY | x32
+#### 0597d38775 | GORDON → HARVEY | x32
 I understand you were at the Skyline Lounge last night.
 
 #### c3193fb1ef | OPERATOR → HARVEY | x32
@@ -148,34 +148,34 @@ First things first.
 #### 8e1f4b0c9f | BRUCE → GORDON | x16
 Yeah. I’ll be there as soon as I can.
 
-#### 7b9a14c1c7-SM | HARVEY → BRUCE | x16
+#### 7b9a14c1c7 | HARVEY → BRUCE | x16
 Come on, man. I’m traumatized here.
 
-#### 3438364d30-LM | BRUCE → GORDON, HARVEY | x48
+#### 3438364d30 | BRUCE → GORDON, HARVEY, PATRON | x52
 You got the wrong guy.
 
-#### 4398ebcc07-LM | GORDON → BRUCE | x48
+#### 4398ebcc07 | GORDON → BRUCE | x48
 Don’t bullshit me, Wayne. We’ve got an eyewitness who said you were there.
 
 #### 1fe753858b | GORDON → BRUCE | x16
 We can’t talk at the precint.
 
-#### e23b8b1b41-LM | GORDON → BRUCE | x16
+#### e23b8b1b41 | GORDON → BRUCE | x16
 Don’t know if you heard, but there was a shooting there.
 
-#### 847709a1d9-SM | BRUCE → GORDON | x16
+#### 847709a1d9 | BRUCE → GORDON | x16
 Yeah. I was there.
 
 #### c3d8cf2ba6 | BRUCE, ALFRED, LADYARKHAM, MONTOYA → GORDON, BATMAN, BRUCE | x59
 Who?
 
-#### 5027ac7631-SM | BRUCE → GORDON | x16
+#### 5027ac7631 | BRUCE → GORDON | x16
 I was lucky I got out of there alive.
 
-#### df8616f6a7-LM | GORDON → BRUCE | x48
+#### df8616f6a7 | GORDON → BRUCE | x48
 Sure you were.
 
-#### fc9c121066-SM | BRUCE, choice/UI → GORDON | x80
+#### fc9c121066 | BRUCE, choice/UI → GORDON | x80
 I was just about to call you about that.
 
 #### 6e0f99109b | GORDON → BRUCE | x16
@@ -184,22 +184,22 @@ Twenty minutes.
 #### 392b0b245f | GORDON → BRUCE | x16
 Should only take an hour or so.
 
-#### 8213d60174-SM | GORDON, PENGUIN, HARVEY → BRUCE, HARVEY, THOMAS | x54
+#### 8213d60174 | GORDON, PENGUIN, ORDERLY02, HARVEY → BRUCE, HARVEY, THOMAS | x58
 That’s what I thought.
 
 #### f19c3c599c | GORDON → HARVEY | x16
 We just need to get you on the record and then you can go.
 
-#### f382cd864b-SM | HARVEY → GORDON | x16
+#### f382cd864b | HARVEY → GORDON | x16
 Before you judge... you will never guess how I got here.
 
 #### c2d6c4b7b1 | choice/UI → GORDON | x32
 You’re giving the debate from jail?
 
-#### eb1a64fd21-SM | HARVEY → GORDON | x16
+#### eb1a64fd21 | HARVEY → GORDON | x16
 Needless to say, I got out of there alive.
 
-#### 726995ff9f-SM | BRUCE → HARVEY | x16
+#### 726995ff9f | BRUCE → HARVEY | x16
 Well, it looks like I dodged a bullet.
 
 #### 12373bd821 | HARVEY → BRUCE | x32
@@ -208,7 +208,7 @@ Be careful what you wish for, right?
 #### c4951927fc | HARVEY → BRUCE | x16
 Mother-fucking Batman even showed up.
 
-#### a824f75dc4-LM | SELINA, HARVEY → BRUCE, CHEMTHUG | x35
+#### a824f75dc4 | SELINA, HARVEY → BRUCE, CHEMTHUG | x35
 You were right.
 
 #### f2a7bacf81 | HARVEY → BRUCE | x32
@@ -238,7 +238,7 @@ I doubt it’s changed.
 #### ef89d654c7 | choice/UI, BRUCE → ALFRED, HARVEY | x25
 She’s just doing her job.
 
-#### 7b7f541fb1-SM | choice/UI → ALFRED | x16
+#### 7b7f541fb1 | choice/UI → ALFRED | x16
 If only I could remember what happened.
 
 #### b39fc95631 | choice/UI → ALFRED | x16
@@ -250,7 +250,7 @@ A time machine would be nice.
 #### b19083685c | choice/UI | x16
 I’m not going to let him get hurt again. / I have to protect him.
 
-#### 5e28e2c9e8-SM | choice/UI, BRUCE → ALFRED | x48
+#### 5e28e2c9e8 | choice/UI, BRUCE → ALFRED | x48
 I’m not sure yet.
 
 #### e28c2b7348 | choice/UI | x16
@@ -271,16 +271,16 @@ Maybe he was a hitman.
 #### b793fea326 | choice/UI → ALFRED | x48
 I remember his face better than my parents.
 
-#### 54b72642ef-SM | choice/UI | x32
+#### 54b72642ef | choice/UI | x32
 I wish I had a time machine.
 
-#### 18df1434d9-L? | choice/UI | x16
+#### 18df1434d9 | choice/UI → HARVEY | x32
 You really fucked up, huh?
 
-#### e41bb3052a-LM | BRUCE → ALFRED | x16
+#### e41bb3052a | BRUCE → ALFRED | x16
 Let me guess, you murdered Hill.
 
-#### a1b2505a6d-SM | choice/UI → HARVEY | x16
+#### a1b2505a6d | choice/UI → HARVEY | x16
 I wish I had the
 
 #### a6bd536ecc | choice/UI → HARVEY | x16
@@ -289,13 +289,13 @@ I doubt he would’ve told me the truth.
 #### 78d062357d | choice/UI → HARVEY | x16
 What if he wasn’t the murderer?
 
-#### e330bf6de1-SM | HARVEY → BRUCE | x16
+#### e330bf6de1 | HARVEY → BRUCE | x16
 In the polls maybe. But that was yesterday. Today, I’m afraid I may have just murdered my campaign.
 
-#### 021df62981-SM | BRUCE → HARVEY | x16
+#### 021df62981 | BRUCE → HARVEY | x16
 Do I need a lawyer?
 
-#### 8b928ca3d2-LM | HARVEY → BRUCE | x32
+#### 8b928ca3d2 | HARVEY → BRUCE | x32
 Bruce, my man. You won’t believe where I am.... jail.
 
 #### 144a1c2b7b | BRUCE, choice/UI → HARVEY | x80
@@ -307,13 +307,13 @@ That girl’s phone. She said it’s always going dead, but I think she’s just
 #### 9afa8ee1f7 | HARVEY → BRUCE | x16
 I’ve been trying to get Selina on the horn all night.
 
-#### 568c48c1c6-LM | BRUCE → HARVEY, GORDON | x48
+#### 568c48c1c6 | BRUCE → HARVEY, GORDON | x48
 You really fucked up last night, didn’t you?
 
-#### c0761427df-SM | BRUCE → HARVEY | x48
+#### c0761427df | BRUCE → HARVEY | x48
 Yeah, I heard...
 
-#### dce87bc9c0-LM | HARVEY → BRUCE | x16
+#### dce87bc9c0 | HARVEY → BRUCE | x16
 But at least I have you.
 
 #### df940319b4 | HARVEY → BRUCE | x16
@@ -340,16 +340,16 @@ Not as much as I regret going to the Skyline last night.
 #### 46d270f516 | BRUCE → HARVEY | x32
 You didn’t tell me tomorrow’s debate was...
 
-#### a993533a55-LM | HARVEY → BRUCE | x16
+#### a993533a55 | HARVEY → BRUCE | x16
 Don’t know if you heard, but, I’m, ah, in jail.
 
-#### 493211bc76-LM | HARVEY → BRUCE | x16
+#### 493211bc76 | HARVEY → BRUCE | x16
 You won’t believe where I am. [beat] Jail.
 
 #### 174a4c27b4 | HARVEY → BRUCE | x50
 This is serious, Bruce.
 
-#### c51bf8843f-SM | choice/UI → HARVEY | x16
+#### c51bf8843f | choice/UI → HARVEY | x16
 I broke him, now I have to fix him.
 
 #### 0a0d6b921f | choice/UI → HARVEY | x16
@@ -361,16 +361,16 @@ I’m going to protect him.
 #### 8de468f220 | ALFRED → BRUCE | x16
 Is that how you remember it?
 
-#### 61b2a24b20-LM | ALFRED → BRUCE | x16
+#### 61b2a24b20 | ALFRED → BRUCE | x16
 You were, afterall, the only eye witness.
 
-#### f27a70762a-SM | BRUCE → ALFRED | x16
+#### f27a70762a | BRUCE → ALFRED | x16
 Alfred... what do you remember about the night my parents’ died? Did I say anything to you about... what happened? What I saw?
 
 #### 9da0cccd62 | BRUCE → ALFRED | x32
 How about a time machine?
 
-#### 15031c4e91-SM | BRUCE → ALFRED | x32
+#### 15031c4e91 | BRUCE → ALFRED | x32
 They left out the part where I could’ve saved them.
 
 #### 3e31215800 | BRUCE → ALFRED | x48
@@ -394,16 +394,16 @@ If it wasn’t a robbery, then who was Chill working for?
 #### f649ab8a42 | ALFRED → BRUCE | x112
 No one.
 
-#### c9aa4f2766-SM | ALFRED → BRUCE | x16
+#### c9aa4f2766 | ALFRED → BRUCE | x16
 It’s a night neither of us will ever forget, I’m sure.
 
-#### 432cc91dbd-SM | ALFRED → BRUCE | x16
+#### 432cc91dbd | ALFRED → BRUCE | x16
 I drove you home that night and you
 
-#### d0551bd203-LM | ALFRED → BRUCE | x16
+#### d0551bd203 | ALFRED → BRUCE | x16
 You need to stop blaming yourself.
 
-#### a3391e1fbf-LM | ALFRED → BRUCE | x32
+#### a3391e1fbf | ALFRED → BRUCE | x32
 Bruce, you know there was nothing, *nothing* you could have possibly done to prevent their deaths.
 
 #### c70f0ed6d9 | ALFRED → BRUCE | x32
@@ -439,7 +439,7 @@ No. He’s still out and will probably be out for sometime.
 #### ddd95397c0 | BRUCE → ALFRED | x32
 Funny. I remember his face better than my own parents.
 
-#### 5c0126ecec-LM | BRUCE → ALFRED | x32
+#### 5c0126ecec | BRUCE → ALFRED | x32
 Who were you working for?
 
 #### bdd38a9255 | choice/UI → ALFRED | x16
@@ -475,25 +475,25 @@ I doubt a man like was ever capable of telling the truth.
 #### 9911c4008f | ALFRED → BRUCE | x16
 Headlines.
 
-#### 82f7c32b2f-LM | ALFRED → BRUCE | x16
+#### 82f7c32b2f | ALFRED → BRUCE | x16
 I know you were just a boy, but you were the only eye witness.
 
 #### 3b1449ea17 | ALFRED → BRUCE | x16
 If anyone knows would know what actually happened, it would be you.
 
-#### bd9cf668fe-SM | BRUCE → ALFRED | x64
+#### bd9cf668fe | BRUCE → ALFRED | x64
 She left out the part where I could’ve saved them.
 
 #### 859f437998 | ALFRED → BRUCE | x16
 i can’t imagine Vale’s ridiculous story rings true with you.
 
-#### 8c1d64648c-LM | ALFRED → BRUCE | x16
+#### 8c1d64648c | ALFRED → BRUCE | x16
 You were the only eye witness and she didn’t even interview you.
 
 #### 55b751e579 | ALFRED → BRUCE | x32
 So, if anyone can attest to the accuracy of that police report, it would be you.
 
-#### 0f3578ad5b-L? | ALFRED | x16
+#### 0f3578ad5b | ALFRED → BRUCE | x32
 I know you were just a boy, but you were the only eye witness to their... deaths.
 
 #### 24dc836373 | ALFRED → BRUCE | x32
@@ -502,10 +502,7 @@ So, is that how you remember it, Bruce?
 #### 95080576dd | ALFRED → BRUCE | x32
 So, if anyone can attest to the accuracy of Vale’s story, it would be you.
 
-#### 0f3578ad5b-LM | ALFRED → BRUCE | x16
-I know you were just a boy, but you were the only eye witness to their... deaths.
-
-#### d5915e2af1-LM | ALFRED → BRUCE, HARVEY | x32
+#### d5915e2af1 | ALFRED → BRUCE, HARVEY | x32
 You need to focus on present problems.
 
 #### e5847d9d96 | BRUCE → ALFRED | x32
@@ -517,7 +514,7 @@ I’m trying to stop her from publishing it.
 #### e7687a55db | choice/UI → ALFRED | x16
 I’m trying to stop her from publishing the story.
 
-#### 55b57a3ae3-SM | choice/UI → ALFRED | x16
+#### 55b57a3ae3 | choice/UI → ALFRED | x16
 I need to stop her for doing more damage.
 
 #### 0a1231803a | ALFRED → BRUCE | x32
@@ -550,7 +547,7 @@ We can handle the heat.
 #### 07075ce00b | ALFRED → BRUCE | x16
 It’s just...
 
-#### 6210e6602d-SM | ALFRED → BRUCE | x48
+#### 6210e6602d | ALFRED → BRUCE | x48
 I can handle myself, thank you.
 
 #### 122159cdc0 | BRUCE → ALFRED | x48
@@ -613,13 +610,13 @@ Except for me.
 #### b740f7494e | ALFRED → BRUCE | x16
 My advice..
 
-#### b016eb5f83-LM | ALFRED → BRUCE | x16
+#### b016eb5f83 | ALFRED → BRUCE | x16
 No more torturing yourself.
 
 #### 71dc763ce5 | ALFRED → BRUCE | x16
 You’re the man now dog.
 
-#### 45f903e047-SM | ALFRED | x16
+#### 45f903e047 | ALFRED | x16
 When I came into the station, I found you sitting in the waiting room wearing your father’s coat.
 
 #### 49642ff33d | ALFRED | x16
@@ -628,22 +625,22 @@ But you didn’t sleep that night, didn’t say a word either.
 #### 71344c5c3f | ALFRED → BRUCE | x16
 I suppose it’s a night neither of us will forget.
 
-#### f1a4f3e51e-SM | ALFRED → BRUCE | x16
+#### f1a4f3e51e | ALFRED → BRUCE | x16
 I picked you up, took you home and tucked you in bed.
 
-#### 85aac2df22-SM | ALFRED → BRUCE | x16
+#### 85aac2df22 | ALFRED → BRUCE | x16
 I got the call and rushed over to the police station.
 
 #### 1b3e702dbb | BRUCE → ALFRED | x16
 What do you remember about that night?
 
-#### 7fe79294a8-LM | ALFRED → BRUCE | x16
+#### 7fe79294a8 | ALFRED → BRUCE | x16
 I suppose you were in shock.
 
-#### 0ab3215b92-SM | ALFRED → BRUCE | x16
+#### 0ab3215b92 | ALFRED → BRUCE | x16
 I suppose I was too.
 
-#### af6d07b576-SM | BRUCE → ALFRED | x80
+#### af6d07b576 | BRUCE → ALFRED | x80
 I could’ve saved them.
 
 #### f66f45f0eb | ALFRED → BRUCE | x48
@@ -652,7 +649,7 @@ And what would that be?
 #### b8f89b693e | ALFRED → BRUCE | x48
 Just one?
 
-#### 2176601342-SM | ALFRED → BRUCE | x16
+#### 2176601342 | ALFRED → BRUCE | x16
 I’ve had about enough of that nonsense.
 
 #### ceeb56a044 | ALFRED → BRUCE | x32
@@ -667,7 +664,7 @@ Everyone will be on to the newest, shiniest distraction.
 #### fafb699306 | choice/UI → ALFRED | x16
 She intrigues me.
 
-#### 3db9ea5e5c-SM | BRUCE → ALFRED | x16
+#### 3db9ea5e5c | BRUCE → ALFRED | x16
 I need to talk to her, find out who her sources are.
 
 #### 45b0c1da12 | BRUCE → ALFRED | x32
@@ -679,7 +676,7 @@ You have a point. He’s clearly a danger.
 #### d9b7501e55 | BRUCE → ALFRED, GORDON | x32
 I’m partially to blame for his injuries. I can’t let him get hurt again.
 
-#### 4cae1d63c0-SM | ALFRED → BRUCE | x16
+#### 4cae1d63c0 | ALFRED → BRUCE | x16
 He’s a criminal. That’s the only fact I need.
 
 #### b727d47124 | BRUCE → ALFRED, GORDON | x32
@@ -712,10 +709,10 @@ Is that how you remember it? An common hit job?
 #### bfcc59c8ad | ALFRED → BRUCE | x16
 Is that how you remember it, Bruce? A common hit job?
 
-#### 000534ad93-LM | BRUCE → GORDON, ALFRED | x48
+#### 000534ad93 | BRUCE → GORDON, ALFRED | x48
 You heard right.
 
-#### 67affda7f1-LM | GORDON → BRUCE | x16
+#### 67affda7f1 | GORDON → BRUCE | x16
 Looks like you were right about the list.
 
 #### 356c2571c2 | choice/UI → ALFRED | x16
@@ -730,7 +727,7 @@ Oh, yeah? [scoffs] Which one?
 #### 17c5f693c1 | choice/UI → ALFRED | x16
 This is a present problem.
 
-#### 2eb4ac92dd-LM | BRUCE, choice/UI → ALFRED | x32
+#### 2eb4ac92dd | BRUCE, choice/UI → ALFRED | x32
 You drugged him?
 
 #### 578f40d2e4 | choice/UI, BRUCE → ALFRED | x32
@@ -739,7 +736,7 @@ At least one of us is comfortable.
 #### a7acb0499c | ALFRED → BRUCE | x16
 Bruce...what do you intend on doing with him?
 
-#### fedffda470-SM | ALFRED → BRUCE | x16
+#### fedffda470 | ALFRED → BRUCE | x16
 I gave him several pain killers.
 
 #### 30c9b0e98e | BRUCE → ALFRED | x16
@@ -766,19 +763,19 @@ But with injuries like that, I wouldn’t be surprised if he was out for another
 #### a5a356f8fb | ALFRED → BRUCE | x16
 His condition seems to be stable...
 
-#### cc7dd9453f-LM | ALFRED → BRUCE | x16
+#### cc7dd9453f | ALFRED → BRUCE | x16
 Yes, it’s been a long time since you’ve had a sleepover.
 
 #### 46dbd2f844 | BRUCE → ALFRED | x16
 I am *not* going to let that happen again.
 
-#### 12eaf489cc-SM | BRUCE → ALFRED | x16
+#### 12eaf489cc | BRUCE → ALFRED | x16
 I let those cops beat the shit out of him.
 
 #### e315ded3f7 | BRUCE → ALFRED | x16
 Not until GCPD cleans up its act.
 
-#### 0f84ed5a9f-SM | ALFRED → BRUCE | x16
+#### 0f84ed5a9f | ALFRED → BRUCE | x16
 I won’t lie
 
 #### f06be50fb4 | BRUCE → HARVEY | x32
@@ -796,7 +793,7 @@ I just have so much on my plate... I don’t know where to start.
 #### 1f12195c44 | BRUCE → ALFRED | x16
 How long until he recovers?
 
-#### c488c64002-SM | ALFRED → BRUCE | x32
+#### c488c64002 | ALFRED → BRUCE | x32
 Batman can handle the heat, but I’m not so sure about Bruce Wayne.
 
 #### d1b1a018dc | ALFRED → BRUCE | x16
@@ -814,7 +811,7 @@ I’ll bet you’d like to find out a whole lot more than that, if she’d let y
 #### 45f2b1014c | BRUCE → ALFRED | x32
 I’d like to find out who her sources are.
 
-#### f9004fd13c-LM | ALFRED → BRUCE | x16
+#### f9004fd13c | ALFRED → BRUCE | x16
 Besides, you need to focus on present problems.
 
 #### e24c8a196f | ALFRED → BRUCE | x16
@@ -832,7 +829,7 @@ My advice?
 #### 36ebc41a74 | BRUCE → ALFRED | x16
 I didn’t ask for your advice.
 
-#### 0229c5e609-LM | ALFRED → BRUCE | x16
+#### 0229c5e609 | ALFRED → BRUCE | x16
 I don’t understand why on Earth you gave her that list, when Lt. Gordon could have used it to clean up the GCPD.
 
 #### 7ba0ebefa1 | ALFRED → BRUCE | x16
@@ -847,7 +844,7 @@ That’s enough of that.
 #### 4ee57bfb84 | choice/UI → ALFRED | x16
 Maybe I like her.
 
-#### 1d523c6a97-SM | choice/UI → ALFRED | x16
+#### 1d523c6a97 | choice/UI → ALFRED | x16
 I need to stop her from publishing the story.
 
 #### cb0b98c15e | choice/UI → ALFRED | x16
@@ -868,7 +865,7 @@ Maybe I can stop her from publishing it.
 #### 0a939412cb | BRUCE → ALFRED | x16
 I’ll use my charm.
 
-#### 203d681a31-SM | BRUCE → ALFRED | x16
+#### 203d681a31 | BRUCE → ALFRED | x16
 But I won’t.
 
 #### 49f44125d9 | ALFRED → BRUCE | x16
@@ -919,7 +916,7 @@ Yeah, he’s wanted. Wanted by every single crooked cop in Gotham.
 #### d5a8df4829 | BRUCE → ALFRED | x16
 Handing him over to the GCPD would be a death sentence.
 
-#### 519b81f64c-SM | BRUCE → ALFRED | x16
+#### 519b81f64c | BRUCE → ALFRED | x16
 I let those cops hurt him.
 
 #### bf9ccdab81 | BRUCE → ALFRED | x16
@@ -928,7 +925,7 @@ I can’t let that happen again.
 #### b843bad943 | choice/UI | x16
 You sound like a self-help book.
 
-#### 1ece465932-LM | choice/UI → ALFRED | x16
+#### 1ece465932 | choice/UI → ALFRED | x16
 Keep your advice to yourself.
 
 #### 0d3e82588d | ALFRED → BRUCE | x16
@@ -1000,7 +997,7 @@ I’m more concerned about you getting hurt.
 #### 92de5b38e8 | ALFRED → BRUCE | x16
 Friends from the past... they can be... disappointing.
 
-#### 54a1a51c29-LM | ALFRED → BRUCE | x16
+#### 54a1a51c29 | ALFRED → BRUCE | x16
 You are *not* responsible for anyone but yourself.
 
 #### 598afa21e1 | ALFRED | x16
@@ -1012,13 +1009,13 @@ Bruce, don’t put your faith in the wrong people. You can’t afford it.
 #### 7d4d234d08 | ALFRED → BRUCE | x16
 Is that right? Is that how you remember it?
 
-#### 5d3a685452-SM | ALFRED → BRUCE | x16
+#### 5d3a685452 | ALFRED → BRUCE | x16
 I asked you what happened, but you didn’t say a word.
 
 #### 984f4564a4 | ALFRED → BRUCE | x16
 I’d rather not see that face again.
 
-#### 0b30f38cf6-SM | BRUCE → ALFRED | x16
+#### 0b30f38cf6 | BRUCE → ALFRED | x16
 I guess I won’t be asking him if someone hired him to kill my parents.
 
 #### d16f37ff8b | BRUCE → ALFRED | x32
@@ -1054,46 +1051,46 @@ It’s rubbish, but I will give Ms. Vale one thing, it’s well written rubbish.
 #### 323d8e6b33 | ALFRED → BRUCE | x16
 It’s garbage. But at least it’s well written garbage.
 
-#### 810e6f3489-L? | ALFRED | x32
+#### 810e6f3489 | ALFRED | x32
 I know you don’t like to talk about it,  but you were the only eye witness to their... deaths.
 
-#### 6d4aed6f0d-L? | ALFRED | x16
+#### 6d4aed6f0d | ALFRED | x16
 You never said
 
-#### 706b8ab1ff-L? | ALFRED | x16
+#### 706b8ab1ff | ALFRED → BRUCE | x32
 You said this Ms. Vale had some theory... that they were assasinated?
 
 #### 186e2a707a | ALFRED → BRUCE | x32
 No one has ever made that claim before.
 
-#### e241b668b0-L? | ALFRED | x16
+#### e241b668b0 | ALFRED | x16
 Rather it was so big, it was wearing you. You seemed to be hiding in it.
 
 #### 26a7a7515b | ALFRED → BRUCE | x32
 I think you’ve been lost in it ever since.
 
-#### d72ae0298d-LM | ALFRED → BRUCE | x16
+#### d72ae0298d | ALFRED → BRUCE | x16
 You were... hiding in it.
 
-#### 21cf7bdf7d-LM | ALFRED → BRUCE | x16
+#### 21cf7bdf7d | ALFRED → BRUCE | x16
 God knows you won’t talk to me.
 
-#### 323a6a4965-SM | BRUCE → ALFRED | x16
+#### 323a6a4965 | BRUCE → ALFRED | x16
 I’m responsible for that.
 
-#### a4f01b88fc-LM | ALFRED → BRUCE | x16
+#### a4f01b88fc | ALFRED → BRUCE | x16
 No. I suppose you won’t.
 
-#### 0aa5472c3a-LM | choice/UI → ALFRED, GORDON | x32
+#### 0aa5472c3a | choice/UI → ALFRED, GORDON | x32
 You heard wrong.
 
-#### a621f0b9d1-SM | choice/UI → HARVEY, GORDON | x32
+#### a621f0b9d1 | choice/UI → HARVEY, GORDON | x32
 Yes, I was...
 
 #### 928d921d60 | BRUCE → HARVEY | x16
 Assasinated?
 
-#### 3afac74a94-SM | ALFRED → BRUCE | x48
+#### 3afac74a94 | ALFRED → BRUCE | x48
 I found you sitting in the waiting room wearing your father’s coat.
 
 #### f18e5790c9 | HARVEY → BRUCE | x48
@@ -1144,7 +1141,7 @@ I don’t think that’s true.
 #### 01d5087fc5 | HARVEY → BRUCE | x16
 Got a cute little blue jump suit on and everything. It’s actually pretty comfortable.
 
-#### f3b6580b0f-SM | HARVEY → BRUCE, OPERATOR | x64
+#### f3b6580b0f | HARVEY → BRUCE, OPERATOR | x64
 I’ve sent a lot of people in here, but I’ve never seen the inside of it.
 
 #### d842e3a97a | HARVEY → BRUCE | x32
@@ -1171,7 +1168,7 @@ It’s pretty much the defintion of punishment.
 #### d0ca4426d7 | HARVEY → GORDON, BRUCE | x32
 He won’t stop staring at me.
 
-#### aaf8eb490c-SM | HARVEY → GORDON | x16
+#### aaf8eb490c | HARVEY → GORDON | x16
 I need to get out of here, now.
 
 #### 00d735a90c | HARVEY → BRUCE | x32
@@ -1186,20 +1183,17 @@ Call me the moment Oswald wakes up.
 #### a84ceacaed | ALFRED → BRUCE | x16
 Off to save Harvey, now?
 
-#### 32b8de7db1-LM | ALFRED → BRUCE | x16
+#### 32b8de7db1 | ALFRED → BRUCE | x16
 It was so big, you were... lost in it.
 
 #### 3e5ba584e8 | ALFRED → BRUCE | x64
 Unless, of course you remember otherwise...
 
-#### 613978653f-L? | ALFRED | x32
+#### 613978653f | ALFRED → GORDON, BRUCE | x64
 I know you don’t like to talk about it, but you were the only witness.
 
 #### 1a83a83b70 | ALFRED → BRUCE | x32
 Is that how you remember it Bruce? A botched robbery?
-
-#### 613978653f-LM | ALFRED → GORDON, BRUCE | x32
-I know you don’t like to talk about it, but you were the only witness.
 
 #### 8ec2b32245 | ALFRED → GORDON | x16
 I can’t
@@ -1210,7 +1204,7 @@ I can’t
 #### 172644e6f6 | GORDON → ALFRED | x16
 You’ll know me when you see me.
 
-#### 0389c87f92-SM | HARVEY → ALFRED, BRUCE | x32
+#### 0389c87f92 | HARVEY → ALFRED, BRUCE | x32
 I need to get out of here... now.
 
 #### dcda74c0c3 | HARVEY → ALFRED | x16
@@ -1219,7 +1213,7 @@ What if he recognizes me and wants revenge?
 #### 443a74f19e | ALFRED → HARVEY, BRUCE | x32
 You never do.
 
-#### 8f63d73947-SM | BRUCE → HARVEY, ALFRED | x32
+#### 8f63d73947 | BRUCE → HARVEY, ALFRED | x32
 If I wanted a therapist, I’d hire one.
 
 #### 8c67082c64 | BRUCE → ALFRED, HARVEY | x48
@@ -1231,7 +1225,7 @@ Neither can I.
 #### 7ac88affe2 | BRUCE → ALFRED | x16
 Alfred, you always give the best advice.
 
-#### 4e9326ace5-SM | GORDON → BRUCE, HARVEY | x96
+#### 4e9326ace5 | GORDON → BRUCE, HARVEY | x96
 Glad I got you on the horn so early.
 
 #### 84fb1926f4 | choice/UI → GORDON | x32
@@ -1258,10 +1252,10 @@ Don’t count on it.
 #### 9b977ee6ae | choice/UI, BRUCE → HARVEY, GORDON | x64
 You sound okay to me.
 
-#### 62d7040869-SM | choice/UI → GORDON | x32
+#### 62d7040869 | choice/UI → GORDON | x32
 I am so sorry.
 
-#### 016750273f-LM | BRUCE → GORDON, HARVEY | x64
+#### 016750273f | BRUCE → GORDON, HARVEY | x64
 Actually, you woke me up.
 
 #### 1dfbf780bc | GORDON → BRUCE, HARVEY | x64
@@ -1276,7 +1270,7 @@ Sleep is for the weak.
 #### 800cfb911a | HARVEY → BRUCE | x80
 Good morning, Bruce... and what a beautiful morning it is.
 
-#### 25a0faf58a-LM | BRUCE → GORDON | x16
+#### 25a0faf58a | BRUCE → GORDON | x16
 Who is this and what have you done with Harvey?
 
 #### 2c957405ed | HARVEY → BRUCE | x16
@@ -1288,7 +1282,7 @@ It’s a liitle early for you, isn’t it?
 #### 5d75fe4361 | GORDON, choice/UI, JOKER → BRUCE | x20
 Sorry about that.
 
-#### 42996085dd-LM | BRUCE, choice/UI → GORDON | x32
+#### 42996085dd | choice/UI, BRUCE → GORDON | x48
 You woke me up.
 
 #### 88b7a30892 | GORDON → BRUCE | x16
@@ -1297,13 +1291,13 @@ Gordon, here.
 #### 297f13bd74 | GORDON → BRUCE | x16
 Wasn’t sure if I should call before noon.
 
-#### b6f39f0b87-SM | choice/UI → GORDON | x32
+#### b6f39f0b87 | choice/UI → GORDON | x32
 I’m suprised to hear from you.
 
 #### a839e3be8b | choice/UI → GORDON | x32
 Anything for you.
 
-#### 1ff00a0c2e-SM-LM | GORDON → BRUCE | x32
+#### 1ff00a0c2e | GORDON → BRUCE | x32
 So, I’m flattered you picked up.
 
 #### d727616b96 | GORDON → BRUCE | x16
@@ -1312,10 +1306,10 @@ It’s been awhile since I’ve seen a sunrise.
 #### 7e7b0c705e | BRUCE → GORDON | x32
 Saw it was you, thought it might be important.
 
-#### ee34279565-LM | GORDON → BRUCE | x32
+#### ee34279565 | GORDON → BRUCE | x32
 You were right about that.
 
-#### 2551a32a18-LM | GORDON → BRUCE | x32
+#### 2551a32a18 | GORDON → BRUCE | x32
 Listen, Wayne. I’ve been thinking about that list you gave me yesterday.
 
 #### 72f23d79e0 | GORDON → BRUCE | x16
@@ -1330,13 +1324,13 @@ No, I’m... just suprised to hear from you.
 #### d0c1a9c261 | GORDON, OFFICER01 → BRUCE, DEBORAH | x34
 Is there a problem?
 
-#### f1b2773c0c-SM | choice/UI → GORDON | x32
+#### f1b2773c0c | choice/UI → GORDON | x32
 I’ve already made a donation to GCPD.
 
-#### 4f3ba4004f-SM | GORDON → BRUCE | x32
+#### 4f3ba4004f | GORDON → BRUCE | x32
 Well, I’m suprised to be calling.
 
-#### 7400d221fa-LM | BRUCE → GORDON | x16
+#### 7400d221fa | BRUCE → GORDON | x16
 I think you’ve got the wrong number.
 
 #### 7417fa7319 | BRUCE, choice/UI → GORDON, QUINZEL, ALFRED | x20
@@ -1345,10 +1339,10 @@ Yes it is.
 #### d949e35537 | GORDON → BRUCE | x16
 This is Bruce Wayne, right?
 
-#### 93f77acb50-SM | GORDON → BRUCE | x16
+#### 93f77acb50 | GORDON → BRUCE | x16
 Then I got the man I’m looking for.
 
-#### 42195dbae0-SM-LM | GORDON → BRUCE | x32
+#### 42195dbae0 | GORDON → BRUCE | x32
 But what-the-hell... I gave it a shot and, look, you answered your phone.
 
 #### 2d1ce2f579 | GORDON → BRUCE | x32
@@ -1405,10 +1399,10 @@ Maybe you should sober up first.
 #### a3bff93ee5 | ALFRED → BRUCE | x16
 He’s grown into quite the... Well, he’s gotten bigger.
 
-#### 47094623da-SM | BRUCE → ALFRED | x16
+#### 47094623da | BRUCE → ALFRED | x16
 I know... I need to be more... present.
 
-#### f2c2cfc4d4-SM | BRUCE → ALFRED | x16
+#### f2c2cfc4d4 | BRUCE → ALFRED | x16
 I need to talk to him first, see where his head’s at.
 
 #### c0f89fabdc | ALFRED → BRUCE | x16
@@ -1441,7 +1435,7 @@ Is there somewhere we can meet?
 #### e64b5f50c0 | GORDON → BRUCE | x16
 You and Dent’s.
 
-#### 5ad906f3ee-SM | GORDON, LUCIUS → BRUCE, BATMAN | x18
+#### 5ad906f3ee | GORDON, LUCIUS → BRUCE, BATMAN | x18
 I’m ready.
 
 #### 683b32040c | GORDON → BRUCE | x16
@@ -1459,7 +1453,7 @@ Right, well... I don’t blame you for not wanting to get involved.
 #### 16cd6555ad | BRUCE → GORDON | x16
 Give it to the Dent.
 
-#### 0c8a77fc58-LM | GORDON → BRUCE | x16
+#### 0c8a77fc58 | GORDON → BRUCE | x16
 You started this fire. You can help put it out.
 
 #### a2f5ea32bf | BRUCE → GORDON | x32
@@ -1474,7 +1468,7 @@ What about Batman? Can’t he help?
 #### 1f507f8869 | BRUCE → GORDON | x32
 You’re probably right about that.
 
-#### 3b362b92bc-SM | GORDON → HARVEY, BRUCE | x32
+#### 3b362b92bc | GORDON → HARVEY, BRUCE | x32
 I need you to grab your friend Dent and meet me at Pier 36 in fifteen minutes.
 
 #### 4df0cf70e4 | choice/UI → HARVEY | x32
@@ -1483,13 +1477,13 @@ We can explain what happened last night.
 #### c36fb3248b | HARVEY → GORDON | x16
 I’m giving the list to Lt. Gordon... right now.
 
-#### 0a78b680e1-LM | HARVEY → GORDON, BRUCE | x32
+#### 0a78b680e1 | HARVEY → GORDON, BRUCE | x32
 Sooo, I’ve been walking around this great city all night, thinking about that list you gave me.
 
 #### 130ed29497 | HARVEY → GORDON, BRUCE | x32
 It’s not a slogan... it’s a promise.
 
-#### 78d860a5b7-LM | HARVEY → GORDON | x16
+#### 78d860a5b7 | HARVEY → GORDON | x16
 Since you were the guy who gave it to me.
 
 #### 39d1c836ad | GORDON → HARVEY | x16
@@ -1510,7 +1504,7 @@ We all are.
 #### 4d733afbb5 | BRUCE → HARVEY, GORDON | x32
 Is Harvey in some kind of trouble?
 
-#### 1a36ef083b-SM | HARVEY → BRUCE | x16
+#### 1a36ef083b | HARVEY → BRUCE | x16
 Looks like the debate already happened and I got beat to shit.
 
 #### 4512e3b27b | HARVEY → BRUCE | x64
@@ -1531,7 +1525,7 @@ I’ve been calling her all night.
 #### 3c57d5c34c | HARVEY → BRUCE | x16
 Know who never answers her phone?
 
-#### 5c53e22d16-SM | HARVEY → BRUCE | x32
+#### 5c53e22d16 | HARVEY → BRUCE | x32
 And... and I’ve decided... I’m going to use it to put away those fuckers who took a hand to me last night.
 
 #### 45bd42d055 | BRUCE → HARVEY | x16
@@ -1564,20 +1558,17 @@ They left one thing out...
 #### 15634fb0be | choice/UI → ALFRED | x32
 She left one thing out...
 
-#### 630972aaca-LM | ALFRED → BRUCE | x16
+#### 630972aaca | ALFRED → BRUCE | x16
 No [beat] more like it was wearing you... You seemed to be... hiding in it.
 
 #### 3ae2059ef6 | ALFRED → BRUCE | x16
 I think you’ve been hiding in it ever since.
 
-#### 09fb15e78c-SM-LM | BRUCE → ALFRED | x16
+#### 09fb15e78c | BRUCE → ALFRED | x16
 That night, when you picked me up from the police station, did I tell you anything... about what I saw?
 
 #### d950a6b66a | BRUCE → ALFRED | x18
 I don’t want to get into it.
-
-#### 706b8ab1ff-LM | ALFRED → BRUCE | x16
-You said this Ms. Vale had some theory... that they were assasinated?
 
 #### 4ac206526d | choice/UI | x16
 I’m not in the mood for sharing.
@@ -1630,10 +1621,10 @@ Why do you ask?
 #### d64a53ea30 | ALFRED | x16
 Not a word.
 
-#### c93a35adcb-L? | ALFRED | x16
+#### c93a35adcb | ALFRED | x16
 No [beat] more like it was wearing you... It was so big, you were... lost in it.
 
-#### 62d0eb3506-LM | ALFRED → BRUCE | x16
+#### 62d0eb3506 | ALFRED, choice/UI → BRUCE | x18
 Get it yourself.
 
 #### 13f63ca324 | BRUCE → ALFRED | x16
@@ -1654,7 +1645,7 @@ I suppose we both were.
 #### af8c052761 | ALFRED → BRUCE | x16
 Yes, yes... I know.
 
-#### 20c77b8042-SM | ALFRED → BRUCE | x16
+#### 20c77b8042 | ALFRED → BRUCE | x16
 If I could go back and change what happened that night, I would.
 
 #### ca51057c2f | ALFRED → BRUCE | x16
@@ -1678,7 +1669,7 @@ She says she has evidence that their murder was an assasination.
 #### 503a9df4e7 | ALFRED → BRUCE | x16
 Well that’s a fresh load of rubbish.
 
-#### a51e74abed-LM | ALFRED → BRUCE | x16
+#### a51e74abed | ALFRED → BRUCE | x16
 You were... in shock.
 
 #### f2ca2a1b7b | ALFRED → BRUCE | x16
@@ -1690,7 +1681,7 @@ But, I can’t and neither can you.
 #### c3ed24e5b9 | ALFRED | x16
 Gordon was just a detective at the time but he was the one who found you.
 
-#### b7fdbadc3b-SM-LM | ALFRED → BRUCE | x16
+#### b7fdbadc3b | ALFRED → BRUCE | x16
 When I got to the station to pick you up, you were wearing your father’s coat.
 
 #### 69a97fe981 | ALFRED → BRUCE | x16
@@ -1714,10 +1705,10 @@ Too bad dead men tell no tales.
 #### 9398ecd827 | ALFRED → BRUCE | x16
 Although, I doubt a man like that was ever capable of telling the truth.
 
-#### a726c9cd54-LM | ALFRED → BRUCE | x16
+#### a726c9cd54 | ALFRED → BRUCE | x16
 You could ask him if Vale’s theory is true.
 
-#### ad07da4763-SM | choice/UI → ALFRED | x48
+#### ad07da4763 | choice/UI → ALFRED | x48
 I never got a good look at him.
 
 #### 82941ae9ed | choice/UI, BRUCE → ALFRED | x112
@@ -1726,19 +1717,19 @@ It’s a face I’ll never forget.
 #### 4c8215b65c | BRUCE → ALFRED | x64
 What if they got the wrong man?
 
-#### 8dc98802d2-SM | BRUCE → ALFRED | x32
+#### 8dc98802d2 | BRUCE → ALFRED | x32
 You know, I never did get a good look at the gunman’s face.
 
-#### 4ade1848fe-SM | choice/UI → ALFRED | x64
+#### 4ade1848fe | choice/UI → ALFRED | x64
 I could’ve stopped him.
 
 #### 6c53b60d0f | ALFRED → BRUCE | x16
 I assure you, the evidence against Mr. Chill was overwhelming.
 
-#### deb23c9000-SM | ALFRED | x16
+#### deb23c9000 | ALFRED | x16
 Ah, yes. I believe I got that piece of advice from the best seller: “I’m Okay, You’re an Asshole.“
 
-#### b668212ed4-SM | ALFRED | x16
+#### b668212ed4 | ALFRED | x16
 I gave him some clonazepam and some oxycodone for the pain....
 
 #### 7e2117b22a | ALFRED | x16
@@ -1750,7 +1741,7 @@ Fully? I can’t say.
 #### b1d81fc642 | ALFRED → BRUCE | x16
 Not only was he shot, but he was badly beaten.
 
-#### b5faa1b51c-SM | ALFRED → BRUCE | x16
+#### b5faa1b51c | ALFRED → BRUCE | x16
 I was suprised to see him on his feet.
 
 #### 5930063ae3 | BRUCE, ALFRED → HARVEY, BRUCE, GORDON | x64
@@ -1762,7 +1753,7 @@ Not this kind of press.
 #### 0cb5792dee | BRUCE → ALFRED, GORDON | x32
 This is Bruce.
 
-#### 5a511951d7-SM | HARVEY → BRUCE | x16
+#### 5a511951d7 | HARVEY → BRUCE | x16
 I need you to meet me at the docks, like now.
 
 #### 7d62139632 | BRUCE → HARVEY | x16
@@ -1774,7 +1765,7 @@ Maybe not so good.
 #### 9a594d9908 | HARVEY → BRUCE, GORDON | x32
 Any press is good press, right?
 
-#### e05003d216-SM-LM | HARVEY → BRUCE | x32
+#### e05003d216 | HARVEY → BRUCE | x32
 Since you were the one who gave it to me, I figured you could come, back me up.
 
 #### c431592a04 | HARVEY → BRUCE | x16
@@ -1795,7 +1786,7 @@ Hey, but not nothing ‘ perfect, right?  Not even sunrises.
 #### 14fcddaa31 | ALFRED → HARVEY | x16
 More uplifting reading material?
 
-#### 2cce684556-LM | ALFRED → HARVEY | x16
+#### 2cce684556 | ALFRED → HARVEY | x16
 You could’ve asked him about the veracity of Ms. Vale’s theory.
 
 #### 6c6421f5ca | ALFRED → HARVEY | x16
@@ -1804,7 +1795,7 @@ Now there’s a face I’d hope never to see again.
 #### bdc30f1cfd | ALFRED → BRUCE | x16
 I can’t say that I’ve ever been one for capital punishment.
 
-#### 11db42cd32-SM | ALFRED → BRUCE | x16
+#### 11db42cd32 | ALFRED → BRUCE | x16
 But the day Joseph Chill died... I felt quite relieved.
 
 #### 48f6638652 | BRUCE → ALFRED | x16
@@ -1816,7 +1807,7 @@ I feel weird saying this, but In some strange twisted way, he made me into the m
 #### 24e1504c5f | BRUCE → ALFRED | x48
 I wouldn’t be Batman without him.
 
-#### 0b0242acb4-SM | BRUCE → ALFRED | x48
+#### 0b0242acb4 | BRUCE → ALFRED | x48
 I could’ve of stopped him... but I didn’t.
 
 #### fc2e3ae7d5 | BRUCE → ALFRED | x16
@@ -1825,7 +1816,7 @@ Why didn’t I stop him?
 #### 09cd466daa | ALFRED → BRUCE | x16
 Now, now...
 
-#### c0602b8190-LM | ALFRED → BRUCE | x16
+#### c0602b8190 | ALFRED → BRUCE | x16
 I highly reccommend it. Maybe you could read it to your friend upstairs.
 
 #### 9f48d76541 | ALFRED → BRUCE | x16
@@ -1837,7 +1828,7 @@ You don’t need to go digging up the past to find anymore.
 #### 3e776dcca0 | ALFRED → BRUCE | x16
 He’s grown rather large. It took a larger dose than usual to make him comfortable.
 
-#### 2748b7519f-LM | choice/UI → ALFRED | x16
+#### 2748b7519f | choice/UI → ALFRED | x16
 I can’t believe you drugged him.
 
 #### b2028cfcc7 | BRUCE → ALFRED | x16
@@ -1846,19 +1837,19 @@ When?
 #### adac590138 | HARVEY, BRUCE, PENGUIN, BATMAN → ALFRED, ASSISTANT, BATMAN | x24
 Now.
 
-#### f19198d520-SM | BRUCE → GORDON | x16
+#### f19198d520 | BRUCE → GORDON | x16
 I’m done backing you up.
 
-#### da353aded9-SM | GORDON → BRUCE | x32
+#### da353aded9 | GORDON → BRUCE | x32
 I got something to discuss with him.
 
 #### 0f90ac5a3f | GORDON → HARVEY, BRUCE | x32
 Then I guess this is our oppurtunity.
 
-#### 5dfc636c75-LM | BRUCE, choice/UI → HARVEY, GORDON | x112
+#### 5dfc636c75 | BRUCE, choice/UI → HARVEY, GORDON | x112
 I didn’t know you had spies.
 
-#### 60df52d4c0-SM | HARVEY → BRUCE | x48
+#### 60df52d4c0 | HARVEY → BRUCE | x48
 I’ve got an inside man in the GCPD.
 
 #### 21e258edd5 | HARVEY → BRUCE | x32
@@ -1915,7 +1906,7 @@ I’m one-hundred percent behind this plan.
 #### 1f1649de67 | BRUCE → HARVEY | x32
 Are you sure you’re not just after revenge?
 
-#### d0ac272920-LM | BRUCE → HARVEY | x16
+#### d0ac272920 | BRUCE → HARVEY | x16
 You need to calm down.
 
 #### ed8ec3ba18 | HARVEY → BRUCE | x16
@@ -1996,13 +1987,13 @@ Understood.
 #### 7b851c9f2b | GORDON → ALFRED | x16
 But I can’t do it alone.
 
-#### 1d781e5364-SM | GORDON → BRUCE | x16
+#### 1d781e5364 | GORDON → BRUCE | x16
 I need you and the D.A. to meet me at Pier 36 in fifteen minutes.
 
 #### 39338b15b3 | GORDON → ALFRED | x16
 Meet me at the Pier 36 in fifteen minutes and bring your friend Dent.
 
-#### 54611fc043-SM | GORDON → HARVEY | x16
+#### 54611fc043 | GORDON → HARVEY | x16
 I’m ready to use it.
 
 #### 04b1840eb8 | GORDON → HARVEY | x16
@@ -2062,7 +2053,7 @@ This *cannot* get out.
 #### 6589f7e3db | GORDON | x16
 If anyone gets wind of what were up to, all our lives will be in jeopardy.
 
-#### 04eea3e4d3-SM | GORDON | x16
+#### 04eea3e4d3 | GORDON | x16
 I need you two to meet me at Pier 36 in fifteen minutes.
 
 #### 311b0b90c3 | GORDON | x16
@@ -2077,7 +2068,7 @@ Thanks, Wayne.
 #### 21dca045c8 | GORDON → BRUCE | x16
 Before someone finds out what we’re up to.
 
-#### 3a3b537402-SM | BRUCE → GORDON | x32
+#### 3a3b537402 | BRUCE → GORDON | x32
 Better be. [yawns] I’ve got a couple of girls who want me to come back to bed.
 
 #### 08ba7ef609 | BRUCE → GORDON | x16
@@ -2119,7 +2110,7 @@ Maybe you should be.
 #### de99156c0c | BRUCE → GORDON | x32
 Gunning for a promotion, huh?
 
-#### ab4665cf10-SM | GORDON → BRUCE | x32
+#### ab4665cf10 | GORDON → BRUCE | x32
 I’m not looking to advance myself.
 
 #### 08362e9ce1 | GORDON → BRUCE | x32
@@ -2128,7 +2119,7 @@ Well, let’s just say we’re gonna wind up on a ‘list’ of our own.
 #### ad1ef19149 | BRUCE → GORDON | x48
 We’ll be right there.
 
-#### 5190ac9690-SM | GORDON → BRUCE | x48
+#### 5190ac9690 | GORDON → BRUCE | x48
 Hopefully I won’t have to wait long.
 
 #### b9ea6e7e48 | GORDON → BRUCE | x48
@@ -2143,13 +2134,13 @@ Sure thing.
 #### d2481fc006 | choice/UI → GORDON | x32
 Make an appointment.
 
-#### e32cbc2fd9-LM | BRUCE → GORDON | x32
+#### e32cbc2fd9 | BRUCE → GORDON | x32
 If you want to talk to the D.A., you need to make an appointment like everyone else.
 
 #### 94d6e73450 | GORDON → BRUCE | x32
 I’ll just get right to it...
 
-#### aaca799f52-SM | GORDON → BRUCE | x32
+#### aaca799f52 | GORDON → BRUCE | x32
 That’s what I thought I was doing.
 
 #### eecad735ed | GORDON → BRUCE | x32
@@ -2212,13 +2203,13 @@ They messed with the wrong D.A.
 #### d2b95b5a92 | HARVEY → BRUCE | x32
 And they can foget their pensions.
 
-#### 1d62d3902a-SM | HARVEY | x16
+#### 1d62d3902a | HARVEY | x16
 I told you... I’m not drunk.
 
 #### a5ebbeae33 | HARVEY → BRUCE | x32
 What? Don’t believe me?
 
-#### 0515513dd5-LM | HARVEY → BRUCE | x32
+#### 0515513dd5 | HARVEY → BRUCE | x32
 Oh, shit. You’re right.
 
 #### 6cd6c3f745 | BRUCE → HARVEY, ALFRED | x20
@@ -2245,7 +2236,7 @@ Yeah, sure. I’ll be right there.
 #### cfb7c15e36 | HARVEY, choice/UI → BRUCE, SELINA | x18
 See you soon.
 
-#### a5f0a433ba-LM | BRUCE → HARVEY | x32
+#### a5f0a433ba | BRUCE → HARVEY | x32
 You’re right, I don’t.
 
 #### feabf87996 | HARVEY → BRUCE | x16
@@ -2284,13 +2275,13 @@ I’ve been thinking about it all night.
 #### 402bc90435 | choice/UI | x32
 Their death would at least have meaning.
 
-#### fa275931d7-SM | choice/UI, BRUCE → ALFRED | x48
+#### fa275931d7 | choice/UI, BRUCE → ALFRED | x48
 I might not blame myself.
 
 #### 2e64bb9dce | choice/UI, SELINA, BRUCE → BRUCE, SELINA | x40
 Are you serious?
 
-#### 8d992ad5ce-SM | choice/UI → ALFRED | x32
+#### 8d992ad5ce | choice/UI → ALFRED | x32
 Yes, I could quit.
 
 #### cfd01ec183 | choice/UI → ALFRED | x32
@@ -2305,7 +2296,7 @@ I’ve been running it through my head.
 #### f866491879 | ALFRED → BRUCE | x16
 Something is clearly bothering you.
 
-#### aa609641c5-SM-LM | BRUCE → ALFRED | x32
+#### aa609641c5 | BRUCE → ALFRED | x32
 I thought you said it wasn’t true.
 
 #### 6a23dd0273 | ALFRED → BRUCE | x16
@@ -2323,19 +2314,19 @@ I don’t
 #### 13f080f2bb | BRUCE → ALFRED | x16
 You’re telling me. I’m beginning to think
 
-#### f77ad6ec35-LM | ALFRED → BRUCE | x16
+#### f77ad6ec35 | ALFRED → BRUCE | x16
 I really wish you would use this simulation to simulate something more pleasant.
 
 #### b285b59825 | BRUCE → ALFRED | x16
 Stop there.
 
-#### 405b3b6b99-SM | BRUCE → ALFRED | x16
+#### 405b3b6b99 | BRUCE → ALFRED | x16
 I could see that happening. Me, putting down the cowl--
 
 #### 1b98f490c1 | ALFRED → BRUCE | x16
 --and taking up the bottle?
 
-#### e90f61d5ef-LM | ALFRED → BRUCE | x16
+#### e90f61d5ef | ALFRED → BRUCE | x16
 You wouldn’t last a week before you died of boredom.
 
 #### c61a8929fd | ALFRED → BRUCE | x16
@@ -2371,7 +2362,7 @@ And now?
 #### ae08c2f0ce | HARVEY → BRUCE | x32
 Good morning, Bruce.
 
-#### ea92ddf5a8-LM | HARVEY → BRUCE | x32
+#### ea92ddf5a8 | HARVEY → BRUCE | x32
 Bruce. You answered your phone.
 
 #### 8006b60efa | HARVEY → BRUCE | x16
@@ -2380,7 +2371,7 @@ This city... it’s covered in shit.
 #### 873a223388 | BRUCE → HARVEY | x48
 Harvey... are you still drunk?
 
-#### 39b0fde227-SM | HARVEY → BRUCE | x32
+#### 39b0fde227 | HARVEY → BRUCE | x32
 I’m not drunk, I’m the future of Gotham.
 
 #### 13b7874986 | choice/UI, BRUCE → HARVEY, GORDON, ALFRED | x54
@@ -2392,13 +2383,13 @@ Shouldn’t you be preparing for the debate?
 #### ba9b8594a9 | choice/UI → HARVEY, GORDON | x48
 How are you holding up?
 
-#### d0b1dd8ed7-LM | HARVEY → BRUCE | x16
+#### d0b1dd8ed7 | HARVEY → BRUCE | x16
 Wanna explain where you went to last night?
 
 #### 069fe026b4 | HARVEY → BRUCE | x32
 And you sound like an asshole.
 
-#### 286bf8814a-LM | HARVEY → BRUCE | x16
+#### 286bf8814a | HARVEY → BRUCE | x16
 You left me, man.
 
 #### 16c7bd05f2 | HARVEY → NARRATOR | x16
@@ -2437,7 +2428,7 @@ She’s claiming your parents were assasinated.
 #### 0ee1659e9a | ALFRED → BRUCE | x16
 At least she hasn’t published it yet.
 
-#### 567549bae7-SM | choice/UI, BRUCE → ALFRED | x32
+#### 567549bae7 | choice/UI, BRUCE → ALFRED | x32
 I’m not so sure.
 
 #### ebd87b9794 | BRUCE → ALFRED | x16
@@ -2518,7 +2509,7 @@ Yes, Bruce.
 #### de18a781fe | BRUCE → COMPUTER | x16
 Run simulation, zero-zero-zero.
 
-#### dd31f24a45-SM | BRUCE → COMPUTER | x16
+#### dd31f24a45 | BRUCE → COMPUTER | x16
 I believed them then.
 
 #### c64adb4074 | ALFRED → BRUCE | x32
@@ -2530,7 +2521,7 @@ I don’t think
 #### 4ebca78445 | BRUCE → ALFRED | x32
 At least they would have died for a reason.
 
-#### 1af0811c51-LM | ALFRED → BRUCE | x16
+#### 1af0811c51 | ALFRED → BRUCE | x16
 You were never responsible for their deaths.
 
 #### a485cc9312 | ALFRED → BRUCE | x16
@@ -2581,7 +2572,7 @@ In some weird twisted way, he made me who I am.
 #### 138ce719a3 | BRUCE → ALFRED | x32
 I remember him better than my own parents.
 
-#### 37b42c6315-SM | BRUCE → ALFRED | x16
+#### 37b42c6315 | BRUCE → ALFRED | x16
 I never did get a good look at his face.
 
 #### 845500d0d8 | ALFRED → BRUCE | x32
@@ -2590,10 +2581,10 @@ The evidence against Mr. Chill was overwhelming.
 #### 78b9d87013 | BRUCE, LUCIUS → ALFRED, BRUCE | x34
 Better?
 
-#### 22b1917aa8-LM | ALFRED → BRUCE | x16
+#### 22b1917aa8 | ALFRED → BRUCE | x16
 I’d be better if you would stop this.
 
-#### 214b2893ad-SM | ALFRED → BRUCE | x16
+#### 214b2893ad | ALFRED → BRUCE | x16
 Now there’s a face I could do without seeing.
 
 #### a236a11678 | ALFRED → BRUCE | x16
@@ -2605,22 +2596,16 @@ Look around you, Alfred. All of this was built because of that night.
 #### 3c239bf038 | BRUCE → ALFRED | x16
 All of this was built because of that night.
 
-#### 5602f7c363-SM | HARVEY → BRUCE | x16
+#### 5602f7c363 | HARVEY → BRUCE | x16
 I need you to pick me up.
-
-#### 18df1434d9-LM | choice/UI → HARVEY | x16
-You really fucked up, huh?
 
 #### b0b4424fa4 | choice/UI → HARVEY | x32
 It’s a little early for debate prep.
 
-#### 42996085dd-L? | choice/UI | x16
-You woke me up.
-
 #### be97135927 | BRUCE → GORDON, HARVEY | x32
 Better be.
 
-#### 8e6b861b7d-LM | HARVEY → BRUCE | x16
+#### 8e6b861b7d | HARVEY → BRUCE | x16
 I hope you had a good night... after you left me to die.
 
 #### 7a5e8c952b | HARVEY → BRUCE | x16
@@ -2632,7 +2617,7 @@ Hey, I should use that during the debate.
 #### a576e4fb10 | HARVEY → BRUCE | x16
 He’s meeting us at Pier 36 in fifteen minutes.
 
-#### 15842102ed-SM | HARVEY → GORDON | x16
+#### 15842102ed | HARVEY → GORDON | x16
 I’ve got an inside man at the GCPD.
 
 #### 091bebea1d | HARVEY → BRUCE | x16
@@ -2650,7 +2635,7 @@ Think about it, Bruce.
 #### f04589db52 | HARVEY → BRUCE | x16
 No need to ask me how I’m doing. I’m obviously alive.
 
-#### 01bdc421ac-LM | HARVEY → BRUCE | x16
+#### 01bdc421ac | HARVEY → BRUCE | x16
 Why in the hell did you leave me there?
 
 #### c9c2d3184f | HARVEY | x16
@@ -2662,10 +2647,10 @@ And what a fucked morning it is.
 #### 4aba6f1715 | HARVEY → BRUCE | x16
 But, hey. I’m not bitter.
 
-#### a200b6acd2-SM | choice/UI → HARVEY | x16
+#### a200b6acd2 | choice/UI → HARVEY | x16
 I was scared,
 
-#### e20822f669-SM-LM | choice/UI → HARVEY | x16
+#### e20822f669 | choice/UI → HARVEY | x16
 I figured you could handle yourself.
 
 #### af604ea036 | HARVEY → BRUCE | x16
@@ -2677,7 +2662,7 @@ I didn’t think a bunch of cops would be stupid enough to assualt the D.A.
 #### 0fe51afac2 | HARVEY → BRUCE | x16
 My eye...
 
-#### 549e4c5b24-SM | HARVEY → BRUCE | x16
+#### 549e4c5b24 | HARVEY → BRUCE | x16
 I’m not drunk; I’m the future of Gotham.
 
 #### ab5b7cb232 | ALFRED → BRUCE | x16
@@ -2686,10 +2671,10 @@ Don’t go looking for conspiracies that aren’t there.
 #### 8c5623c1fe | BRUCE → ALFRED | x16
 Computer, turn off simulation.
 
-#### ce8312fe42-LM | ALFRED → BRUCE | x16
+#### ce8312fe42 | ALFRED → BRUCE | x16
 Too bad dead men tell no tales.You could ask him.
 
-#### 65f0c51152-LM | BRUCE → ALFRED | x16
+#### 65f0c51152 | BRUCE → ALFRED | x16
 Why did you kill my parents?
 
 #### b1692b939d | BRUCE → ALFRED | x16
@@ -2728,20 +2713,20 @@ He was found murdered in prison ten years ago, shanked by another inmate.
 #### 5b216021a0 | choice/UI → ALFRED | x16
 Until I am at rest.
 
-#### c661b9e64d-SM | ALFRED → BRUCE | x16
+#### c661b9e64d | ALFRED → BRUCE | x16
 I always thought it was fitting that he died of another random act of violence.
 
-#### 241f65dc9a-LM | ALFRED → BRUCE | x16
+#### 241f65dc9a | ALFRED → BRUCE | x16
 Too bad dead men tell no tales.
 You could ask him if there’s any truth to Vale’s story.
 
-#### 9e61ce36ce-LM | ALFRED → BRUCE | x16
+#### 9e61ce36ce | ALFRED → BRUCE | x16
 You could ask him if there’s any truth to Vale’s story.
 
-#### fb01ba5a6b-SM | ALFRED → BRUCE | x16
+#### fb01ba5a6b | ALFRED → BRUCE | x16
 Now there’s a face I could do without seeing again.
 
-#### 314f840790-SM | ALFRED → BRUCE | x16
+#### 314f840790 | ALFRED → BRUCE | x16
 I’d hoped his death would have given you some closure.
 
 #### c81f7d91d7 | BRUCE → ALFRED | x16
@@ -2750,7 +2735,7 @@ Knowing why he did would he did would help.
 #### e64c646313 | ALFRED → BRUCE | x16
 So, what if she’s right and Chill was a hired gun?
 
-#### 4a030d62de-LM | ALFRED → BRUCE | x16
+#### 4a030d62de | ALFRED → BRUCE | x16
 You wouldn’t last a week before you died of a terminal case of ennui.
 
 #### a18081d2dd | BRUCE → ALFRED | x16
@@ -2783,10 +2768,10 @@ Until I remember exactly what happened.
 #### 7239b18ee1 | ALFRED → BRUCE | x16
 It’s not accurate.
 
-#### 6558b61770-LM | ALFRED → BRUCE | x32
+#### 6558b61770 | ALFRED → BRUCE | x32
 How many times are you going to put yourself through this?
 
-#### e750b8ba88-LM | ALFRED → BRUCE | x16
+#### e750b8ba88 | ALFRED → BRUCE | x16
 I don’t understand why you feel the need to do this to yourself.
 
 #### 671423d604 | ALFRED → BRUCE | x16
@@ -2843,7 +2828,7 @@ Again?
 #### 4a5f814914 | BRUCE → ALFRED | x32
 I just want to see if Vicki’s story lines up with what I remember.
 
-#### 9fbfbf439e-SM-LM | ALFRED → BRUCE | x16
+#### 9fbfbf439e | ALFRED → BRUCE | x16
 I thought you had erased that program.
 
 #### 8688e0b7e4 | ALFRED → BRUCE | x16
@@ -2852,7 +2837,7 @@ Not again.
 #### 6495d5a708 | ALFRED → BRUCE | x16
 With what? A child’s memory?
 
-#### 2bcc87f356-LM | ALFRED → BRUCE | x16
+#### 2bcc87f356 | ALFRED → BRUCE | x16
 I don’t know why you insist on doing this to yourself over and over again.
 
 #### cfcb247d3e | ALFRED → BRUCE | x16
@@ -2864,13 +2849,13 @@ Ask me again after I talk to her.
 #### 37a350fba2 | ALFRED → BRUCE | x16
 Better talk to Vicki.
 
-#### 1332791598-LM | ALFRED → BRUCE | x16
+#### 1332791598 | ALFRED → BRUCE | x16
 I really don’t know why you put yourself through this over and over again.
 
 #### e0bdc5d436 | BRUCE → ALFRED | x32
 Something just doesn’t sit right.
 
-#### 30bc04a2a4-LM | ALFRED → BRUCE | x16
+#### 30bc04a2a4 | ALFRED → BRUCE | x16
 But do you really have to put yourself through this again?
 
 #### a8a10a80a6 | ALFRED → BRUCE | x16
@@ -2894,10 +2879,10 @@ In some strange twisted way, he made me who I am.
 #### 03c97fe8c4 | ALFRED → BRUCE | x16
 I don’t want to hear you talk like that again.
 
-#### 9abbafe063-LM | ALFRED → BRUCE | x16
+#### 9abbafe063 | ALFRED → BRUCE | x16
 You were just a boy, lucky to have survived.
 
-#### 7fb1261ef8-LM | ALFRED → BRUCE | x16
+#### 7fb1261ef8 | ALFRED → BRUCE | x16
 Too bad dead men tell no tales, you could ask him if Vale’s story is true.
 
 #### f580169591 | ALFRED → BRUCE | x16
@@ -2912,7 +2897,7 @@ Even if Vale’s story is true and he was a hired to... do what he did that nigh
 #### e718e26fd9 | ALFRED → BRUCE | x16
 What happened would have still... happened...
 
-#### f2587ba48c-SM | ALFRED → BRUCE | x16
+#### f2587ba48c | ALFRED → BRUCE | x16
 I know. I helped you build it.
 
 #### 7eb4f7da0a | BRUCE → ALFRED | x16
@@ -2967,7 +2952,7 @@ She was pretty vague.
 #### b97c510c27 | ALFRED → BRUCE | x16
 That’s because she doesn’t know what she’s talking about.
 
-#### 57c78988c5-LM | ALFRED → BRUCE | x16
+#### 57c78988c5 | ALFRED → BRUCE | x16
 Are you saying that you would tear this all down and stop being Batman?
 
 #### 0023f8b681 | choice/UI, BRUCE → ALFRED | x32
@@ -2979,7 +2964,7 @@ Maybe they had a double life.
 #### ede53713b1 | choice/UI → ALFRED | x16
 I hope you’re telling me the truth.
 
-#### 11d001b257-SM | ALFRED → BRUCE | x32
+#### 11d001b257 | ALFRED → BRUCE | x32
 I knew your parents, Bruce. They were good people.
 
 #### 6e85279240 | ALFRED → BRUCE | x16
@@ -2991,16 +2976,16 @@ They were loving parents, fine employers.
 #### ddb6a7f7d3 | BRUCE → ALFRED | x16
 That’s why it’s important to find out who Vicki’s sources are, to protect their name, if nothing else.
 
-#### fccfe1003f-LM | BRUCE → ALFRED | x16
+#### fccfe1003f | BRUCE → ALFRED | x16
 Maybe you didn’t know them as well as you thought.
 
-#### 3c27270731-SM | ALFRED → BRUCE | x16
+#### 3c27270731 | ALFRED → BRUCE | x16
 I should know. I was the one cleaning them out.
 
 #### 328b0051eb | BRUCE → ALFRED | x32
 Anyone can keep a double life.
 
-#### 5e241751bc-SM | ALFRED → BRUCE | x16
+#### 5e241751bc | ALFRED → BRUCE | x16
 Not Tom and Martha. I would have known.
 
 #### eb219ee978 | BRUCE → ALFRED | x16
@@ -3021,7 +3006,7 @@ I hope you’re telling the truth.
 #### d3dcb67c38 | ALFRED → BRUCE | x16
 Just what are you getting at?
 
-#### b81ff2fe15-LM | BRUCE → ALFRED | x16
+#### b81ff2fe15 | BRUCE → ALFRED | x16
 You’re very good at keeping other peoples’ secrets.
 
 #### af1bb07b43 | ALFRED → BRUCE | x32
@@ -3042,7 +3027,7 @@ You realize what you remember may not be what happened.
 #### e12a589bba | ALFRED → BRUCE | x16
 If your memory keeps changing then maybe it’s not so reliable.
 
-#### ca942aa5cc-SM | ALFRED | x16
+#### ca942aa5cc | ALFRED | x16
 I thought the point of a memory is that you can experience it in your head...
 
 #### 42c79a289c | ALFRED | x16
@@ -3054,13 +3039,13 @@ Why you built your own personal nightmare is beyond me.
 #### 426dc5d32b | ALFRED → BRUCE | x16
 Not out of it.
 
-#### dc6fb5bfc0-LM | ALFRED → BRUCE | x16
+#### dc6fb5bfc0 | ALFRED → BRUCE | x16
 Why you need to relive this
 
-#### 59df1e71df-SM-LM | ALFRED → BRUCE | x16
+#### 59df1e71df | ALFRED → BRUCE | x16
 I thought you said you deleted that simulation.
 
-#### 886e1d9712-SM | BRUCE → ALFRED | x16
+#### 886e1d9712 | BRUCE → ALFRED | x16
 I said I would think about it.
 
 #### 710e95163d | ALFRED → BRUCE | x16
@@ -3087,7 +3072,7 @@ Too bad dead men tel
 #### fe3507ce79 | ALFRED → BRUCE | x16
 You’re letting her get into your head.
 
-#### 97efbd3edf-LM | ALFRED → BRUCE | x16
+#### 97efbd3edf | ALFRED → BRUCE | x16
 Sometimes I wonder if you’ve built yourself a nightmare rather than a recollection.
 
 #### 4473367cbc | BRUCE → ALFRED | x16
@@ -3096,7 +3081,7 @@ Is there a difference?
 #### 9f6aa4b8a4 | BRUCE, SELINA → ALFRED, SELINA, BRUCE | x24
 Are you sure about that?
 
-#### 5a8bea2922-LM | ALFRED → BRUCE | x16
+#### 5a8bea2922 | ALFRED → BRUCE | x16
 Bruce, I wish you would just let it go. I don’t like seeing you this way.
 
 #### eb8b9f02f5 | BRUCE → ALFRED | x16
@@ -3105,7 +3090,7 @@ Let what go?
 #### 3c2e1904b0 | ALFRED → BRUCE | x16
 What? Are you going to tear this place down and stop being Batman
 
-#### 92f6495240-LM | ALFRED → BRUCE | x16
+#### 92f6495240 | ALFRED → BRUCE | x16
 What are you saying? That you would just tear this place down and stop being Batman, just because your
 parents didn’t live up to your idealized memory of them?
 
@@ -3139,19 +3124,19 @@ She’s slept lo
 #### 4a587acda0 | ALFRED, BRUCE, choice/UI → BRUCE, SELINA, RHONDA | x26
 Where are you going?
 
-#### e7d13ee839-LM | ALFRED → BRUCE | x16
+#### e7d13ee839 | ALFRED → BRUCE | x16
 You were just a child. There was nothing, nothing you could’ve done.
 
 #### 5f4cacb153 | ALFRED → BRUCE | x16
 Reporters. They never think about how their stories affect the people they’re about.
 
-#### 20d5b7f470-LM | ALFRED → BRUCE | x16
+#### 20d5b7f470 | ALFRED → BRUCE | x16
 I haven’t been able to sleep since you told me either.
 
 #### 0224333b50 | ALFRED → BRUCE | x16
 I can’t turn on the television without hearing
 
-#### 9047c98e43-LM | BRUCE, ALFRED → ALFRED, BRUCE | x24
+#### 9047c98e43 | BRUCE, ALFRED → ALFRED, BRUCE | x24
 Why did you do it?
 
 #### d4ba0ff1c9 | BRUCE → ALFRED | x32
@@ -3175,13 +3160,13 @@ He claims they were all involved in some kind of... criminal enterpise... togeth
 #### 4f57788369 | ALFRED → BRUCE | x32
 That’s a load of hot stinking rubbish.
 
-#### 8543a4ba77-LM | ALFRED → BRUCE | x16
+#### 8543a4ba77 | ALFRED → BRUCE | x16
 I’d rather you just let this go.
 
 #### 07b8a83a94 | ALFRED → BRUCE | x16
 I can’t stop thinking about it.
 
-#### baacb1ed54-LM | ALFRED → BRUCE | x16
+#### baacb1ed54 | ALFRED → BRUCE | x16
 Ever since you told me, I haven’t been able to stop thinking about it.
 
 #### b34633f999 | ALFRED | x16
@@ -3247,7 +3232,7 @@ You’ll be fine.
 #### 6f00db1622 | choice/UI | x4
 My life doesn’t revolve around you.
 
-#### 20e72edc2e-SM | choice/UI | x4
+#### 20e72edc2e | choice/UI | x4
 Sorry. I had business.
 
 #### 9a968740fd | choice/UI, BATMANBRUCE → LUCIUS, ASSISTANT, GORDON | x14
@@ -3271,7 +3256,7 @@ Nah.
 #### 6054b02909 | choice/UI → JOKER | x8
 Get to the point.
 
-#### e4a2ec9ce0-L? | choice/UI | x4
+#### e4a2ec9ce0 | choice/UI | x4
 You ashamed of me?
 
 #### 784f9ab147 | choice/UI | x4
@@ -3289,7 +3274,7 @@ It wasn’t his fault.
 #### fb2c14a1c5 | choice/UI | x4
 Good luck in the debate.
 
-#### 3fa00dcb46-SM | choice/UI | x4
+#### 3fa00dcb46 | choice/UI | x4
 I’m innocent though.
 
 #### 5a5ebc8a2b | choice/UI | x4
@@ -3361,7 +3346,7 @@ I want no part.
 #### 8866030850 | HARVEY → BRUCE | x4
 Your chat with Cobblepot and who?
 
-#### 56ebfa5c46-SM | BRUCE → HARVEY | x4
+#### 56ebfa5c46 | BRUCE → HARVEY | x4
 I had a nice little chat with Cobblepot and--
 
 #### 89d7b3b885 | BRUCE → HARVEY | x4
@@ -3376,7 +3361,7 @@ I’ve been trying to get ahold of you all day.
 #### c244aef5ff | HARVEY → BRUCE | x12
 This isn’t the time for jokes, Bruce. My political career -- the very future of Gotham -- hangs in the balance here.
 
-#### d3907270fc-SM | BRUCE → HARVEY | x4
+#### d3907270fc | BRUCE → HARVEY | x4
 I was grabbing a drink... with Selina.
 
 #### d43a605c04 | BRUCE → HARVEY | x4
@@ -3391,25 +3376,25 @@ Don’t ignore me.
 #### 4c562dfcaa | HARVEY → BRUCE | x4
 We need to be working together here, buddy.
 
-#### cff2b03224-SM | HARVEY | x12
+#### cff2b03224 | HARVEY | x12
 I tried to fight back against this whole investigation into Wayne Enterprises.
 
-#### 8873b11ead-SM-LM | HARVEY → BRUCE | x12
+#### 8873b11ead | HARVEY → BRUCE | x12
 I did what you told me, Bruce.
 
-#### 28f95a25a9-SM | HARVEY | x12
+#### 28f95a25a9 | HARVEY | x12
 ...but Hill’s office spun it to seem like I was doing favors for my biggest donor.
 
-#### 1b8220827e-SM | HARVEY | x4
+#### 1b8220827e | HARVEY | x4
 I tried to keep my distance from this whole investigation into Wayne Enterprises, but the press keeps hounding me to weigh in.
 
-#### 97bd170bc3-SM | HARVEY → BRUCE | x4
+#### 97bd170bc3 | HARVEY → BRUCE | x4
 I tried to make this whole investigation into Wayne Enterprises go away...
 
 #### 246bfd2559 | HARVEY → BRUCE | x4
 Showing up here was my last resport.
 
-#### d4c1d3ac21-SM | HARVEY → BRUCE | x4
+#### d4c1d3ac21 | HARVEY → BRUCE | x4
 I left you messages.
 
 #### 21cae77f42 | BRUCE → HARVEY | x4
@@ -3421,7 +3406,7 @@ Then stop makeing it harder for me.
 #### 51ae1cbd9a | BRUCE → HARVEY | x4
 Stick with it, Harvey. Keep a safe distance from me.
 
-#### b976882302-LM | BRUCE → HARVEY | x4
+#### b976882302 | BRUCE → HARVEY | x4
 Don’t muddy yourself.
 
 #### 8033d720c3 | HARVEY → BRUCE | x4
@@ -3430,13 +3415,13 @@ It’s tough, Bruce. Your dirt is getting everywhere.
 #### 3580cf6d8d | BRUCE → HARVEY | x4
 You can do it, Harvey. Make this investigation vanish.
 
-#### 2ee0d31107-SM | HARVEY → BRUCE | x4
+#### 2ee0d31107 | HARVEY → BRUCE | x4
 I’m sorry, Bruce. It’s not going anywhere.
 
 #### e6b3e7f23f | BRUCE → HARVEY | x4
 This is my life we’re talking about.
 
-#### a72f91d519-LM | BRUCE → HARVEY | x4
+#### a72f91d519 | BRUCE → HARVEY | x4
 It’s bigger than getting you elected.
 
 #### 008c22e57d | HARVEY → BRUCE | x4
@@ -3469,7 +3454,7 @@ It’s on YouTube. Half a million views.
 #### bf32668d2f | HARVEY → BRUCE | x4
 All the news stations have it.
 
-#### 58b79dd094-SM | HARVEY → BRUCE | x4
+#### 58b79dd094 | HARVEY → BRUCE | x4
 I’m sure the Gotham Gazette is having a field day.
 
 #### c7d3441148 | choice/UI → HARVEY | x4
@@ -3499,19 +3484,19 @@ You’re starting to talk like these criminals.
 #### eb17c8eeee | choice/UI → HARVEY | x4
 He deserved worse.
 
-#### 8a369a00d6-SM | BRUCE → HARVEY | x4
+#### 8a369a00d6 | BRUCE → HARVEY | x4
 I went easy on him.
 
 #### 9e72b8057f | BRUCE → HARVEY | x4
 The man deserved a lot worse.
 
-#### 5fc975cc1f-LM | HARVEY → BRUCE | x4
+#### 5fc975cc1f | HARVEY → BRUCE | x4
 Are you even listening to yourself?
 
-#### 0ef3ae7dfb-SM | HARVEY → BRUCE | x8
+#### 0ef3ae7dfb | HARVEY → BRUCE | x8
 I expected more from you.
 
-#### 95bc378076-LM | HARVEY → BRUCE | x4
+#### 95bc378076 | HARVEY → BRUCE | x4
 And you had a chat with Oswald Cobblepot?
 
 #### 7c5e51dc8a | HARVEY | x4
@@ -3547,7 +3532,7 @@ Dammit, Bruce. Get it together.
 #### 8e107870b5 | choice/UI → HARVEY | x6
 We were friends.
 
-#### 8aed666f81-SM | BRUCE → HARVEY | x4
+#### 8aed666f81 | BRUCE → HARVEY | x4
 Oz and I were friends as kids... I couldn’t believe he changed so much.
 
 #### 6830b4fc89 | HARVEY → BRUCE | x4
@@ -3562,28 +3547,28 @@ We talked yesterday.
 #### 08e2410079 | BRUCE → HARVEY | x4
 He dared me to stand in his way.
 
-#### b2e164cb5f-LM | HARVEY → BRUCE | x4
+#### b2e164cb5f | HARVEY → BRUCE | x4
 So you ran out to confront him?
 
-#### 5b93f0d2af-L? | HARVEY | x4
+#### 5b93f0d2af | HARVEY | x4
 I can’t believe you were smiling and shaking Falcone’s hand to nights ago...
 
-#### 1f25428354-L? | HARVEY | x4
+#### 1f25428354 | HARVEY | x4
 Two nights ago, you were telling Falcone off...
 
 #### c32746e37c | HARVEY | x4
 ...you wouldn’t even let me in the room during your conversation...
 
-#### 58fe270dbc-L? | HARVEY | x4
+#### 58fe270dbc | HARVEY | x4
 ...and now I hear you were in the room with the man when he died.
 
-#### b3fb4603ae-LM | HARVEY → BRUCE | x4
+#### b3fb4603ae | HARVEY → BRUCE | x4
 What were you even talking about?
 
 #### e33f385b44 | HARVEY → BRUCE | x4
 What was left unsaid after the Gala?
 
-#### 03c9c31dc2-LM | HARVEY → BRUCE | x4
+#### 03c9c31dc2 | HARVEY → BRUCE | x4
 Seems like you were pretty open.
 
 #### 298330ed42 | BRUCE → HARVEY | x4
@@ -3601,7 +3586,7 @@ That conversation was between Falcone and me.
 #### 27c50eac9e | HARVEY → BRUCE | x4
 I don’t know you anymore, Bruce.
 
-#### 8961dfb848-SM | BRUCE → HARVEY | x4
+#### 8961dfb848 | BRUCE → HARVEY | x4
 I never spoke to Falcone.
 
 #### 13f761f51c | HARVEY → BRUCE | x4
@@ -3610,7 +3595,7 @@ I’m the D.A. I hear everything.
 #### 3769756e77 | HARVEY → BRUCE | x4
 Don’t try lying to me.
 
-#### 1b7dd6e3d2-LM | HARVEY → BRUCE | x4
+#### 1b7dd6e3d2 | HARVEY → BRUCE | x4
 You’re very good at keeping everything to yourself, Bruce.
 
 #### 3c0adbc64f | HARVEY | x4
@@ -3625,7 +3610,7 @@ What can I do to help?
 #### a970475ada | HARVEY → BRUCE | x4
 We made a deal... we wanted to save this city together.
 
-#### 6621035c03-LM | HARVEY → BRUCE | x4
+#### 6621035c03 | HARVEY → BRUCE | x4
 Tell me what you need.
 
 #### a817e53d12 | BRUCE → HARVEY | x4
@@ -3646,7 +3631,7 @@ Find Cobblepot and put him behind bars.
 #### b0eab739ab | HARVEY → BRUCE | x4
 Of course. I’ll issue an APB right away.
 
-#### 5e7c12dac7-LM | BRUCE → HARVEY | x4
+#### 5e7c12dac7 | BRUCE → HARVEY | x4
 You need to get as far from me as you can and stay there.
 
 #### 2d98f3c043 | HARVEY → BRUCE | x4
@@ -3664,7 +3649,7 @@ You’re toxic, Bruce.
 #### 8697205743 | HARVEY | x4
 This story about your parents... it’s killing the campaign.
 
-#### 27a6bd6333-SM | HARVEY → BRUCE | x4
+#### 27a6bd6333 | HARVEY → BRUCE | x4
 I’m going to have to distance myself from you... publicly.
 
 #### c2365163ac | HARVEY → BRUCE | x4
@@ -3679,7 +3664,7 @@ That makes perfect sense.
 #### e3808309ce | BRUCE → HARVEY | x4
 We can’t risk everything we’ve built.
 
-#### 6c50b2a368-SM | HARVEY → BRUCE | x4
+#### 6c50b2a368 | HARVEY → BRUCE | x4
 I’m so relieved you agree.
 
 #### f890005641 | HARVEY → BRUCE | x16
@@ -3697,7 +3682,7 @@ You’re a real asshole, Harvey.
 #### 11ba601f98 | HARVEY → BRUCE | x4
 I’m a politician. It’s expected.
 
-#### 03b87284e9-SM | HARVEY → ALFRED | x8
+#### 03b87284e9 | HARVEY → ALFRED | x8
 Even if I distance myself from you publicly, there’s no way I can stay in this race without your support... financially.
 
 #### 03f669c68a | HARVEY → BRUCE, ALFRED | x12
@@ -3754,7 +3739,7 @@ You and me against the corruption.
 #### 1a4ca95028 | BRUCE → HARVEY | x8
 I’ll always support you, Harvey. Even if I can’t do it publiclly.
 
-#### 7a79d07827-LM | HARVEY → BRUCE | x8
+#### 7a79d07827 | HARVEY → BRUCE | x8
 I’ll do exactly what you told me and focus on the debate.
 
 #### f80aa7e0d3 | HARVEY → BRUCE | x8
@@ -3775,7 +3760,7 @@ You handle everything your way. Just let me know how I can help.
 #### 120c7e09a5 | BRUCE → HARVEY | x12
 If you can’t support me, I’m not supporting you.
 
-#### d745458717-SM | HARVEY → BRUCE | x8
+#### d745458717 | HARVEY → BRUCE | x8
 I’m disappointed in you.
 
 #### 84f9f68bf1 | HARVEY → BRUCE | x8
@@ -3784,7 +3769,7 @@ I think I will focus on tonight’s debate.
 #### bd3e6f1377 | HARVEY → BRUCE | x8
 One big topic will be rooting out the corruption in Wayne Enterprises.
 
-#### 7348bc2b6d-SM | HARVEY | x8
+#### 7348bc2b6d | HARVEY | x8
 I’m glad Cobblepot took down Falcone.
 
 #### 4a10b8c154 | HARVEY | x8
@@ -3802,7 +3787,7 @@ Falcone worked for them. He was a pawn.
 #### 978153b635 | HARVEY | x4
 Thomas and Martha were the real criminal masterminds.
 
-#### 2255e6b6a7-L? | HARVEY | x4
+#### 2255e6b6a7 | HARVEY | x4
 Go find out for yourself if you don’t believe me.
 
 #### 25b5ef12b8 | HARVEY | x4
@@ -3811,7 +3796,7 @@ My connections at the Gazette say their source has spilled a lot more about your
 #### 5b0dc7657c | HARVEY | x8
 Thanks for nothing.
 
-#### bd77a7f385-L? | HARVEY | x4
+#### bd77a7f385 | HARVEY | x4
 It can’t be true... but you might want to find out for yourself.
 
 #### 6369bfb911 | HARVEY | x4
@@ -3832,7 +3817,7 @@ My connections at the Gazette say their source spilled a lot more about your par
 #### e406ec926a | choice/UI → HARVEY | x4
 [Call Out]
 
-#### fccb050930-SM | HARVEY → BRUCE | x8
+#### fccb050930 | HARVEY → BRUCE | x8
 Like I was saying, regardless of the allegations against his parents, Bruce Wayne represent everything right about this city.
 
 #### 757fba74ec | HARVEY → BRUCE | x4
@@ -3859,7 +3844,7 @@ Thanks for that.
 #### 662cc8f4f3 | HARVEY → BRUCE | x4
 We were just talking about you.
 
-#### f4ec95178f-SM | HARVEY → BRUCE | x4
+#### f4ec95178f | HARVEY → BRUCE | x4
 My friend here was asking rude questions about your parents, but I was telling him wha ta kind heart you have.
 
 #### 339d1156a4 | BRUCE, SELINA → HARVEY | x6
@@ -3874,10 +3859,10 @@ I think that’s enough!
 #### 486819031d | HARVEY → BRUCE | x4
 Thanks for rushing down here. Sorry about the 9-1-1 text.
 
-#### 066862e351-SM | HARVEY | x8
+#### 066862e351 | HARVEY | x8
 Though I could have done without that stunt.
 
-#### fabfbca712-L? | HARVEY | x4
+#### fabfbca712 | HARVEY | x4
 Didn’t know if you would answer my texts. You haven’t really been a team player lately.
 
 #### 59823a76fd | HARVEY → BRUCE | x4
@@ -3913,16 +3898,16 @@ Is everything alright, Harvey?
 #### 1edce82535 | HARVEY → BRUCE | x4
 I’ll just get to it.
 
-#### 7aa3af3bc9-SM | choice/UI → HARVEY | x4
+#### 7aa3af3bc9 | choice/UI → HARVEY | x4
 I wanted to talk.
 
-#### 7cd9acb3b4-SM | BRUCE → HARVEY | x4
+#### 7cd9acb3b4 | BRUCE → HARVEY | x4
 Actually, I was hoping to talk to you anyway.
 
 #### 0e8ec71552 | HARVEY → BRUCE | x4
 Really? About what?
 
-#### e55579e7e6-SM | choice/UI → HARVEY | x4
+#### e55579e7e6 | choice/UI → HARVEY | x4
 I visited Cobblepot.
 
 #### 201c0334e3 | HARVEY → BRUCE | x4
@@ -3937,13 +3922,13 @@ You know him?
 #### 178a1ca9ae | HARVEY → BRUCE | x4
 I’m the D.A. I have a whole file on Cobblepot.
 
-#### 0afc5dc664-SM | BRUCE → HARVEY | x4
+#### 0afc5dc664 | BRUCE → HARVEY | x4
 I went to visit an old friend of mine: Oswald Cobblepot.
 
 #### b237c8ed38 | choice/UI → HARVEY | x4
 Do you know the Children of Arkham?
 
-#### ccc7bb2b14-LM | BRUCE → HARVEY | x4
+#### ccc7bb2b14 | BRUCE → HARVEY | x4
 Have you heard of the Children of Arkham?
 
 #### 33618d439a | HARVEY → BRUCE | x4
@@ -3952,13 +3937,13 @@ There were rumors of a new group making moves in Gotham.
 #### 2de71867cc | HARVEY → BRUCE | x4
 We heard the name Children of Arkham, but we couldn’t find anything else.
 
-#### bd87d65e44-SM | choice/UI → HARVEY | x4
+#### bd87d65e44 | choice/UI → HARVEY | x4
 I was with Selina.
 
 #### 59c9a36f1b | HARVEY → BRUCE | x4
 No. We don’t have time for stupid jealousy.
 
-#### a6000ad154-SM | BRUCE → HARVEY | x4
+#### a6000ad154 | BRUCE → HARVEY | x4
 I just came from seeing Selina.
 
 #### 5f18780998 | HARVEY, SERGEANT, BRUCE → BRUCE, OFFICER01, SELINA | x8
@@ -3973,7 +3958,7 @@ My office got word that the Gazette is running another story about your parents.
 #### 7c212e921a | HARVEY | x4
 We couldn’t get any specific details, but... word is, it’s pretty horrible.
 
-#### f7132901a2-L? | HARVEY | x4
+#### f7132901a2 | HARVEY | x4
 I didn’t know how to you wanted it handled.
 
 #### 5b2fdae205 | HARVEY | x4
@@ -3991,7 +3976,7 @@ It wouldn’t stop them from publishing.
 #### 86d97f9fe3 | HARVEY → BRUCE | x8
 They say they have evidence to back up everything they’re printing.
 
-#### f791614b55-SM | HARVEY → BRUCE | x4
+#### f791614b55 | HARVEY → BRUCE | x4
 The best I could do is take them to court, and that would take months.
 
 #### 3dcafbdf7d | BRUCE → HARVEY | x4
@@ -4012,7 +3997,7 @@ We can come at them with proof otherwise, but...
 #### 859ab93c10 | choice/UI → HARVEY | x4
 There are bigger problems.
 
-#### a6abffefb4-SM | HARVEY → BRUCE | x4
+#### a6abffefb4 | HARVEY → BRUCE | x4
 I’m so glad you feel that way.
 
 #### bb929a4d34 | HARVEY → BRUCE | x4
@@ -4036,10 +4021,10 @@ The Wayne family name has become... toxic.
 #### 5408978864 | HARVEY | x4
 My association with you is killing me in the polls.
 
-#### de6c63a5a6-L? | HARVEY | x12
+#### de6c63a5a6 | HARVEY | x12
 I can’t have you with me at the debate.
 
-#### 97c11eab07-SM | HARVEY → BRUCE | x4
+#### 97c11eab07 | HARVEY → BRUCE | x4
 I have to distance myself from you publicly.
 
 #### 85caf62cbc | HARVEY → BRUCE | x4
@@ -4069,10 +4054,10 @@ It’s the right move.
 #### bfe335d6af | BRUCE → HARVEY | x4
 Your instincts are right, Harvey.
 
-#### fc12ca06be-LM | HARVEY → BRUCE | x4
+#### fc12ca06be | HARVEY → BRUCE | x4
 You’re smart, Bruce. You’re always thinking three steps ahead.
 
-#### 5c33caea04-SM | HARVEY → BRUCE | x4
+#### 5c33caea04 | HARVEY → BRUCE | x4
 I knew you’d understand.
 
 #### 16d005aa9b | BRUCE → HARVEY | x4
@@ -4084,7 +4069,7 @@ This is cowardice.
 #### 8c37ea7a30 | HARVEY → BRUCE | x4
 Apparently the source of it all was my biggest partner’s parents.
 
-#### 5b1c260cf7-SM | HARVEY → BRUCE | x4
+#### 5b1c260cf7 | HARVEY → BRUCE | x4
 Tough!? I got into this election to fight corruption.
 
 #### 078cf2032b | BRUCE → HARVEY | x4
@@ -4093,25 +4078,25 @@ You’re a coward, Harvey.
 #### 7a64f18d33 | BRUCE → HARVEY | x4
 Turning your back on me when things get tough.
 
-#### ab1d0ee338-SM | HARVEY → BRUCE | x4
+#### ab1d0ee338 | HARVEY → BRUCE | x4
 I knew you’d be disappointed.
 
-#### 5645f21968-SM | HARVEY → BRUCE | x4
+#### 5645f21968 | HARVEY → BRUCE | x4
 I’m disappointed, too.
 
-#### 3e690b3a32-SM | HARVEY → BRUCE | x4
+#### 3e690b3a32 | HARVEY → BRUCE | x4
 You know, Bruce, I struggled with how to tell you this, but you’re making it a lot easier.
 
 #### 8897cbbc4c | HARVEY | x12
 The Wayne name is toxic.
 
-#### 59d32e8bef-SM | HARVEY | x4
+#### 59d32e8bef | HARVEY | x4
 The only way to save my campaign is distance myself, publicly.
 
-#### ca46119c3c-SM | HARVEY | x4
+#### ca46119c3c | HARVEY | x4
 Because even if I distance myself from you publicly, we’re still in this together.
 
-#### 9b63d6cb6b-SM | HARVEY | x4
+#### 9b63d6cb6b | HARVEY | x4
 To keep the campaign going, I still need your support... [hates to say it]financially.
 
 #### c30213b022 | HARVEY | x4
@@ -4126,7 +4111,7 @@ Look, I don’t know what’s going on... with you... with us...
 #### 615c599729 | HARVEY | x4
 But I still want to help fix this city.
 
-#### f8b1fb3edd-SM | HARVEY | x4
+#### f8b1fb3edd | HARVEY | x4
 For that, I still need your support... [hates to say it]financially.
 
 #### 0e962e0cdc | HARVEY → BRUCE | x4
@@ -4150,10 +4135,10 @@ Mayor Hill’s corruption has to end.
 #### 89006525e2 | HARVEY → BRUCE | x4
 Bruce... you’re my hero.
 
-#### fc28f78617-SM | BRUCE → HARVEY | x4
+#### fc28f78617 | BRUCE → HARVEY | x4
 If you’re not willing to support me publicly, how am I supposed to support you privately?
 
-#### 09c1886bf6-SM | HARVEY → BRUCE | x4
+#### 09c1886bf6 | HARVEY → BRUCE | x4
 I don’t know why I expected anything else.
 
 #### 984201fb6d | choice/UI → HARVEY | x4
@@ -4198,7 +4183,7 @@ This is a bridge too far, Harvey.
 #### fff0bbf85e | HARVEY → BRUCE | x4
 Seriously, Burce?
 
-#### 26948210aa-LM | HARVEY → BRUCE | x4
+#### 26948210aa | HARVEY → BRUCE | x4
 You said you were willing to do anything for this city, but then you drop everything to protect your precious family name.
 
 #### 2098c7672e | HARVEY → BRUCE | x4
@@ -4210,7 +4195,7 @@ I can’t believe you’re so... [searches for the word]two-faced.
 #### 3c6dbb1c9c | HARVEY → ALFRED | x8
 But really. Thanks again. [suddenly remembering]Oh!
 
-#### cb7469cf62-SM | HARVEY | x4
+#### cb7469cf62 | HARVEY | x4
 Crap. I’m late for debate prep. I gotta run, but...
 
 #### 374de5fbe3 | HARVEY | x4
@@ -4219,19 +4204,19 @@ She might help you out. I think she’s taken with the whole... you thing.
 #### a0a6a99410 | HARVEY | x4
 If you want to do something about this Gazette story, you should talk to that Vicki Vale.
 
-#### 79bf526219-SM | HARVEY → BRUCE | x4
+#### 79bf526219 | HARVEY → BRUCE | x4
 I won’t let you down, Bruce. I promise.
 
 #### 24aea50e9f | HARVEY → BRUCE | x8
 We’ll get this cleared up soon, Bruce.
 
-#### fc504cb3b5-L? | HARVEY | x4
+#### fc504cb3b5 | HARVEY | x4
 If you’re so worried about your parents, you should go talk to that Vicki Vale.
 
 #### e0498fe29a | HARVEY | x4
 Oh, yeah. Nearly forgot.
 
-#### ae4e0b09fa-SM | HARVEY | x4
+#### ae4e0b09fa | HARVEY | x4
 And I’m late for my debate prep, too. Great.
 
 #### 7cf508a926 | HARVEY | x4
@@ -4243,7 +4228,7 @@ Like you even care.
 #### 779f24e679 | HARVEY → BRUCE | x4
 Whoa, Bruce. It’s just me.
 
-#### b534d0cd96-SM | HARVEY → BRUCE | x4
+#### b534d0cd96 | HARVEY → BRUCE | x4
 I thought it would be better to meet down here. Rather than up in my office.
 
 #### cf99535247 | HARVEY → BRUCE | x4
@@ -4267,7 +4252,7 @@ There are a lot of people in my office. I don’t know who all I can trust.
 #### 210175aa39 | choice/UI → HARVEY | x4
 We’re not out for a stroll.
 
-#### 669796e48d-SM | choice/UI → HARVEY | x4
+#### 669796e48d | choice/UI → HARVEY | x4
 I could use some sun.
 
 #### 41032bdd77 | HARVEY → BRUCE | x4
@@ -4276,7 +4261,7 @@ If I wasn’t in politics...
 #### 4fa8537889 | HARVEY → BRUCE | x4
 I’d imagine with your night life...
 
-#### e900e7d6c2-SM | BRUCE → HARVEY | x4
+#### e900e7d6c2 | BRUCE → HARVEY | x4
 I won’t argue. I’m always happy to get a little more sun.
 
 #### 42835c78e9 | HARVEY → BRUCE | x4
@@ -4297,7 +4282,7 @@ What, you going to pull some moves from your Hip Hop martial arts class?
 #### cc06cba475 | HARVEY → BRUCE | x4
 I can’t even imagine you in a fight.
 
-#### 53a3d44e71-SM | HARVEY | x4
+#### 53a3d44e71 | HARVEY | x4
 I wanted to speak with you away from prying ears.
 
 #### 5aed78f844 | HARVEY | x4
@@ -4315,10 +4300,10 @@ You’ll be glad to know we are releasing everything we know about the drug to t
 #### a186e37533 | HARVEY | x4
 I know you didn’t want to lie, but I hope you can at least check with me before saying anything publicly.
 
-#### 3aeeb87a80-SM | HARVEY | x4
+#### 3aeeb87a80 | HARVEY | x4
 But that’s not why I called you down here...
 
-#### 5b0bdb052a-L? | HARVEY | x4
+#### 5b0bdb052a | HARVEY | x4
 Pretty impressive... everything you discovered about the drug.
 
 #### a4ecd49224 | HARVEY | x4
@@ -4339,7 +4324,7 @@ Well, it helped... a lot.
 #### 5004153f31 | HARVEY → BRUCE | x8
 Maybe the upper class isn’t useless after all.
 
-#### 6045778674-SM | BRUCE → HARVEY | x4
+#### 6045778674 | BRUCE → HARVEY | x4
 I was just pointing out what I saw. Seemed simple enough.
 
 #### b2ee19c9eb | choice/UI → HARVEY | x4
@@ -4351,7 +4336,7 @@ Next thing we know, you’ll be ordering one of those weirdo costumes.
 #### 131005fe0e | HARVEY → BRUCE | x4
 Slow down there, Captain.
 
-#### 7460a54641-SM | BRUCE → HARVEY | x4
+#### 7460a54641 | BRUCE → HARVEY | x4
 Not half bad? I thought it was pretty great.
 
 #### a67d22d1d7 | choice/UI → HARVEY, GORDON | x6
@@ -4378,7 +4363,7 @@ Y
 #### 61dd1dd245 | BRUCE → HARVEY | x4
 Not sure I should let you out of my sight.
 
-#### 108638d05b-LM | ALFRED → BRUCE | x4
+#### 108638d05b | ALFRED → BRUCE | x4
 Then perhaps you should answer the door yourself?
 
 #### b51ad7d8f5 | ALFRED → BRUCE | x4
@@ -4402,7 +4387,7 @@ Shall I greet her?
 #### 1203a5e383 | choice/UI → ALFRED | x4
 The Arkhams killed my parents.
 
-#### 9437c91a9a-LM | choice/UI → ALFRED | x4
+#### 9437c91a9a | choice/UI → ALFRED | x4
 You knew more.
 
 #### a2ef533f4a | choice/UI → ALFRED | x4
@@ -4450,7 +4435,7 @@ Take me there.
 #### 70376458c7 | choice/UI, CATWOMAN, LUCIUS → BRUCE, BATMAN | x8
 Good luck.
 
-#### fa4d44525a-SM | choice/UI | x4
+#### fa4d44525a | choice/UI | x4
 I still need your help.
 
 #### ee563029db | choice/UI | x4
@@ -4486,7 +4471,7 @@ Ahem.
 #### 8646eb8143 | SELINA → ALFRED | x8
 Heard you walking up.
 
-#### 8071dd14e7-SF | SELINA → ALFRED | x4
+#### 8071dd14e7 | SELINA → ALFRED | x4
 I let myself in.
 
 #### ff798c1301 | SELINA → BRUCE | x4
@@ -4516,10 +4501,10 @@ C’mon, where’s your dirty little secret?
 #### 847ef5f79c | BRUCE → SELINA | x4
 So why are you here, Selina?
 
-#### 556db40eb9-SF-LM | SELINA → BRUCE | x4
+#### 556db40eb9 | SELINA → BRUCE | x4
 I decided to do a little digging, like you asked me.
 
-#### 631afcacf9-SF | SELINA → BRUCE | x4
+#### 631afcacf9 | SELINA → BRUCE | x4
 And I managed to find the lab where those chemicals were processed.
 
 #### c5fcb41c8b | SELINA → BRUCE | x4
@@ -4531,19 +4516,19 @@ Had to really work my contacts.
 #### 287b439786 | SELINA → BRUCE | x4
 Bad news is, the drug aren’t there anymore. Cleared out.
 
-#### c06db8b78a-SF | SELINA → BRUCE | x4
+#### c06db8b78a | SELINA → BRUCE | x4
 Good news, I found something else...
 
 #### 9b8dd1983b | BRUCE → SELINA | x4
 And you didn’t call me immediately?
 
-#### db9262b3d0-LF | BRUCE → SELINA | x4
+#### db9262b3d0 | BRUCE → SELINA | x4
 Instead, you came over here and chit-chat?
 
 #### 35e55f5e67 | SELINA → BRUCE | x4
 Relax. The drugs and people were long gone.
 
-#### 592fd6ce7c-SF | SELINA → BRUCE | x12
+#### 592fd6ce7c | SELINA → BRUCE | x12
 But I did find something else...
 
 #### d57c5e6740 | BRUCE → SELINA | x4
@@ -4552,13 +4537,13 @@ Take me there. Now.
 #### 5b9703e9e9 | SELINA → BRUCE | x4
 Don’t get too excited. The drugs and the people were long gone.
 
-#### 1c72b57fff-SM | BRUCE → SELINA | x4
+#### 1c72b57fff | BRUCE → SELINA | x4
 I need your help stopping those drugs.
 
 #### 0da80f61b6 | SELINA → BRUCE | x4
 Hold up. The drugs aren’t there anymore. They cleared out.
 
-#### ffd8e2881b-LF | BRUCE → SELINA | x4
+#### ffd8e2881b | BRUCE → SELINA | x4
 Good luck searching. You won’t find a thing.
 
 #### 948395ed97 | SELINA → BRUCE | x4
@@ -4579,7 +4564,7 @@ It’s not fun what I do.
 #### 996e895d12 | BRUCE → SELINA | x4
 And it’s not something to joke about.
 
-#### 557b653ed7-LM | SELINA → BRUCE | x4
+#### 557b653ed7 | SELINA → BRUCE | x4
 We’ll get you loosened up, Bruce.
 
 #### 3ae8d1d1d0 | SELINA → BRUCE | x4
@@ -4609,7 +4594,7 @@ The way it’s marked up.
 #### 43e45f836b | SELINA | x4
 They definitely plan to use this info.
 
-#### 6c46ec8fbf-SF | SELINA | x4
+#### 6c46ec8fbf | SELINA | x4
 I’ve got to find a way to
 
 #### 8a6e26c0fc | SELINA | x4
@@ -4675,7 +4660,7 @@ I’ll fight smarter.
 #### 1ef958035f | choice/UI | x4
 He’s not invincible.
 
-#### c7ebe3236d-SM | choice/UI → ALFRED | x12
+#### c7ebe3236d | choice/UI → ALFRED | x12
 I need a partner.
 
 #### 9a21efa9a2 | choice/UI → HARVEY | x8
@@ -4735,7 +4720,7 @@ Catwoman slinking across the grounds.
 #### 74652bc784 | choice/UI → ANOTHER SECURITY CAM FEED CATCHES HIS EYE, HARVEY | x16
 Doesn’t matter.
 
-#### f374b515a3-SM | choice/UI → ANOTHER SECURITY CAM FEED CATCHES HIS EYE | x4
+#### f374b515a3 | choice/UI → ANOTHER SECURITY CAM FEED CATCHES HIS EYE | x4
 I’ve got a source.
 
 #### df8c52a61b | choice/UI → HARVEY | x4
@@ -4792,7 +4777,7 @@ It never ends simply.
 #### feabb0f8c5 | choice/UI → ALFRED | x10
 I can’t underestimate him.
 
-#### 8f23520cf8-SM | BRUCE → ALFRED | x10
+#### 8f23520cf8 | BRUCE → ALFRED | x10
 I’ve never fought anyone like him before.
 
 #### 60d0a038e1 | BRUCE → ALFRED | x10
@@ -4855,10 +4840,10 @@ Everything Hill said... about my father...
 #### ab0352aafe | ALFRED → BRUCE | x12
 Experimenting on Arkham patients.
 
-#### b6a05fb03f-SM | ALFRED → BRUCE | x16
+#### b6a05fb03f | ALFRED → BRUCE | x16
 I had no idea, Bruce.
 
-#### aaec5341ea-SM | ALFRED → BRUCE | x16
+#### aaec5341ea | ALFRED → BRUCE | x16
 I... I can’t say I would have continued in their employment if I knew.
 
 #### 676378af9c | choice/UI → ALFRED | x4
@@ -4870,7 +4855,7 @@ Doesn’t seem like either uf os are being completely honest.
 #### 93491f715e | ALFRED → BRUCE | x4
 Are you inferring to what Hill said about your father?
 
-#### 74449b7881-SM | BRUCE → ALFRED | x4
+#### 74449b7881 | BRUCE → ALFRED | x4
 I’m focused on these fanatics terrorizing the city.
 
 #### f5ce8f9f07 | BRUCE → ALFRED | x4
@@ -4906,7 +4891,7 @@ In fact, you’re outright frugal with it.
 #### 5a0c6cb461 | BRUCE → ALFRED | x8
 Who knows how many people the Children of Arkham recruited?
 
-#### 4183883b93-SM | BRUCE → ALFRED | x8
+#### 4183883b93 | BRUCE → ALFRED | x8
 I need a partner to watch my back.
 
 #### cf0856bd76 | ALFRED → BRUCE | x8
@@ -4942,13 +4927,13 @@ That always goes well.
 #### bab736ca4a | BRUCE → ALFRED | x8
 Selina’s on her way.
 
-#### 29e13a73b5-SM | BRUCE → ALFRED | x8
+#### 29e13a73b5 | BRUCE → ALFRED | x8
 If we are going to stop whatever Oswald and the Children have planned, I need to prepare.
 
 #### 388418cee5 | ALFRED → BRUCE | x8
 Far be it from me to stand in your way.
 
-#### 9381bae45f-SM | BRUCE → ALFRED | x6
+#### 9381bae45f | BRUCE → ALFRED | x6
 I’ve upped the voltage for round two.
 
 #### f06fc83ca6 | ALFRED → BRUCE | x10
@@ -5014,7 +4999,7 @@ Young Mr. Cobblepot has definitely escalated his criminal endeavours.
 #### 720e93683e | ALFRED → BRUCE | x8
 This is beyond robbery or racketerring.
 
-#### 4b02d61292-SM | ALFRED → BRUCE | x4
+#### 4b02d61292 | ALFRED → BRUCE | x4
 I would never have expected.
 
 #### 4245186ddf | choice/UI → ALFRED | x8
@@ -5035,7 +5020,7 @@ He’s a maniac now.
 #### 8f1146cd2b | BRUCE → ALFRED | x4
 Even when we were kids, Oswald was never satisfied with enough.
 
-#### 80e49fb111-SM | ALFRED → BRUCE | x4
+#### 80e49fb111 | ALFRED → BRUCE | x4
 I’m afred to imagine how high he’s set his sights.
 
 #### 73f2b6e419 | BRUCE → ALFRED | x8
@@ -5104,10 +5089,10 @@ So that’s how it’s going to be.
 #### edc1edf274 | choice/UI → HARVEY | x4
 I’m not presentable.
 
-#### 586f772c3d-SM | BRUCE → HARVEY | x4
+#### 586f772c3d | BRUCE → HARVEY | x4
 I’m not really dressed for company, Harvey.
 
-#### e9a281e883-LM | HARVEY → BRUCE | x4
+#### e9a281e883 | HARVEY → BRUCE | x4
 You’re not dressed? Do you have a woman in there?
 
 #### b98f55e8f4 | HARVEY → BRUCE | x4
@@ -5122,10 +5107,10 @@ Sorry, Harv. I’m not at the manor.
 #### e5f547e202 | BRUCE → HARVEY | x4
 I’m driving... [making car noises] vroom... vrooom [fake yelling]Use a signal!
 
-#### c491011fb4-SM | HARVEY → BRUCE | x8
+#### c491011fb4 | HARVEY → BRUCE | x8
 I knew it was a longshot, coming out here unannounced...
 
-#### 673590d277-SM | HARVEY → BRUCE | x8
+#### 673590d277 | HARVEY → BRUCE | x8
 But I was getting a little desperate.
 
 #### 7af69c9cd9 | HARVEY | x4
@@ -5146,13 +5131,13 @@ But this whole thing isn’t going away.
 #### 654a438525 | HARVEY | x10
 I didn’t want to do this over the phone.
 
-#### 1182fcdfd0-SM | HARVEY | x8
+#### 1182fcdfd0 | HARVEY | x8
 I’ve got to cut ties with you... publicly.
 
 #### 8ebafe7063 | HARVEY → BRUCE | x4
 Sorry, Bruce. I hope this doesn’t affect our friendship... call me...
 
-#### 92f2e6b018-SM-L? | HARVEY | x2
+#### 92f2e6b018 | HARVEY | x2
 When everything first came out and you told me to distance myself...
 
 #### 3c6bb78beb | HARVEY → BRUCE | x4
@@ -5209,7 +5194,7 @@ Hill is the better candidate.
 #### e83925d9cc | BRUCE → HARVEY | x4
 Hill will walk all over you up there.
 
-#### 275fb39def-LM | BRUCE → HARVEY | x4
+#### 275fb39def | BRUCE → HARVEY | x4
 Save yourself the embarassment.
 
 #### c8929f99d2 | HARVEY → BRUCE | x4
@@ -5227,13 +5212,13 @@ Where are you even getting this information?
 #### da2d2ecdd7 | HARVEY → BRUCE | x4
 Who told you?
 
-#### 60cd5a603a-SM | BRUCE → HARVEY | x4
+#### 60cd5a603a | BRUCE → HARVEY | x4
 I heard it from Mayor Hill himself.
 
 #### c53ac506a0 | choice/UI → HARVEY | x4
 A friend told me.
 
-#### 8bd86fa817-SM | BRUCE → HARVEY | x4
+#### 8bd86fa817 | BRUCE → HARVEY | x4
 I got a warning from a friend.
 
 #### a20ce82571 | BRUCE → HARVEY | x4
@@ -5248,7 +5233,7 @@ It matters to me.
 #### f238adb05a | HARVEY → BRUCE | x4
 This is my career.
 
-#### 998ccc8be4-LM | HARVEY → BRUCE | x4
+#### 998ccc8be4 | HARVEY → BRUCE | x8
 You spoke with Hill...
 
 #### 922e1fadd1 | HARVEY | x8
@@ -5263,13 +5248,10 @@ Apparently he had a visit from the Batman as well.
 #### bdf5ef7724 | HARVEY | x8
 Meanwhile, I drive all the way out here, and I still can’t get a face-to-face.
 
-#### 998ccc8be4-L? | HARVEY | x4
-You spoke with Hill...
-
 #### f3b9f5cef8 | HARVEY | x4
 I’m guessing it was Mayor Hill.
 
-#### 6a67aed641-SM | HARVEY | x4
+#### 6a67aed641 | HARVEY | x4
 I heard you paid him a visit.
 
 #### acee988ee7 | HARVEY → BRUCE | x4
@@ -5278,7 +5260,7 @@ This “friend” of yours...
 #### d0c4c5b501 | HARVEY → BRUCE | x4
 ...wouldn’t be the Batman.
 
-#### 6f7e0fb265-SM | HARVEY → BRUCE | x4
+#### 6f7e0fb265 | HARVEY → BRUCE | x4
 I heard he visited Mayor Hill, too.
 
 #### a90bb27de6 | choice/UI → HARVEY | x4
@@ -5293,7 +5275,7 @@ We have to keep your campaign in the clear.
 #### bcc517ba63 | HARVEY → BRUCE | x7
 Exactly!
 
-#### df20a5276d-SM | HARVEY → BRUCE | x4
+#### df20a5276d | HARVEY → BRUCE | x4
 I’m so glad we’re on the same page.
 
 #### 559bf9707f | BRUCE → HARVEY | x4
@@ -5305,14 +5287,11 @@ It’s an asshole move, Harvey.
 #### d55f2e0ace | HARVEY → BRUCE | x8
 It’s the only move, Bruce.
 
-#### 8343c5fb2c-LM | HARVEY → BRUCE | x4
+#### 8343c5fb2c | HARVEY → BRUCE | x8
 At least the only one you’ve left me with.
 
 #### 28688aace4 | HARVEY → BRUCE | x2
 I know it’s an asshole move.
-
-#### 8343c5fb2c-L? | HARVEY | x4
-At least the only one you’ve left me with.
 
 #### d4c45de0fe | choice/UI → HARVEY | x8
 Timeout
@@ -5335,7 +5314,7 @@ Think about Gotham.
 #### 4d4d93935f | HARVEY | x4
 Seperating your name from the campaign will help...
 
-#### b806c86f5b-SM | HARVEY | x4
+#### b806c86f5b | HARVEY | x4
 But without your money, I’m dead in the water.
 
 #### 4f2d3ad9ef | HARVEY → BRUCE | x8
@@ -5362,7 +5341,7 @@ Oh! I have a present for you. I’ll slide it under the door.
 #### 501439696d | HARVEY → BRUCE | x4
 Let’s talk tomorrow!
 
-#### c6a6a3f8c5-SM | HARVEY → BRUCE | x8
+#### c6a6a3f8c5 | HARVEY → BRUCE | x8
 I’m very disappointed, Bruce.
 
 #### 051869607d | HARVEY → BRUCE, SELINA | x8
@@ -5383,10 +5362,10 @@ What was that all about?
 #### c81219b91a | BRUCE → SELINA | x4
 I didn’t ask.
 
-#### a21bc993d3-SF | SELINA → BRUCE | x4
+#### a21bc993d3 | SELINA → BRUCE | x4
 I thought you two had everything worked out.
 
-#### 1c022fa22c-LM | SELINA → BRUCE | x4
+#### 1c022fa22c | SELINA → BRUCE | x4
 You seemed like a cute couple.
 
 #### 3edab077b4 | BRUCE → SELINA | x4
@@ -5395,7 +5374,7 @@ What is it always about?
 #### 6c4b832749 | BRUCE → SELINA | x4
 Harvey wanted money.
 
-#### ef79aa9102-SF | SELINA → BRUCE | x4
+#### ef79aa9102 | SELINA → BRUCE | x4
 I’m sure you get that a lot.
 
 #### 43d31c57cb | choice/UI → SELINA | x4
@@ -5443,7 +5422,7 @@ Makes my blood run cold.
 #### 86155bf6f9 | BRUCE → ALFRED | x4
 Wait here, I’ll bring the car around.
 
-#### 9d333b5af7-SF-LM | SELINA → BRUCE | x4
+#### 9d333b5af7 | SELINA → BRUCE | x4
 I would have guess you had a person to do that for you.
 
 #### cbcdc0fca2 | SELINA → BRUCE | x4
@@ -5455,7 +5434,7 @@ Mayor Hill said the Children of Arkham wanted to attack him in public.
 #### 8391848096 | BRUCE → SELINA, ALFRED, BATMAN | x12
 The debate... I have to warn Gordon.
 
-#### f61b759fcc-LM | GORDON → BATMAN, BRUCE | x26
+#### f61b759fcc | GORDON → BATMAN, BRUCE | x26
 Who is this? How did you get this number?
 
 #### fa28bc6c5d | BATMAN, BRUCE → GORDON | x34
@@ -5485,7 +5464,7 @@ It’s the Children of Arkham. They’re planning an attack.
 #### e5b309b8cd | BRUCE, BATMAN → GORDON, BATMAN, BRUCE | x34
 Their target is the mayoral debate.
 
-#### 972722eba1-LM | BRUCE, BATMAN → GORDON, BATMAN | x34
+#### 972722eba1 | BRUCE, BATMAN → GORDON, BATMAN | x34
 You need to mobilize the GCPD.
 
 #### 208501c9fd | GORDON → BRUCE, BATMAN | x46
@@ -5494,7 +5473,7 @@ My god. The whole city will be watching.
 #### 7630e1950d | BATMAN → BRUCE, GORDON | x20
 The lives of Harvey Dent and Mayor Hill are in danger.
 
-#### e0d209a621-LM | BATMAN → GORDON | x16
+#### e0d209a621 | BATMAN → GORDON | x16
 You need to mobilize the GCPD and get to the debate.
 
 #### 759f7fab15 | BATMAN → GORDON | x12
@@ -5506,7 +5485,7 @@ But you have to trust me.
 #### 395fe34a17 | BATMAN, BRUCE → BRUCE, GORDON, ALFRED | x28
 Lives are at stake.
 
-#### 5c60cfa64a-SM | BATMAN → BRUCE, GORDON, ALFRED | x20
+#### 5c60cfa64a | BATMAN → BRUCE, GORDON, ALFRED | x20
 I will be there shortly myself.
 
 #### 944afa0e7b | BRUCE → BATMAN | x8
@@ -5521,7 +5500,7 @@ Harvey Dent and Mayor Hill are in danger.
 #### dc6a9b457d | ALFRED → GORDON, BRUCE | x8
 He isn’t completely crazy.
 
-#### d77d9dfc74-SM | HARVEY → ALFRED | x4
+#### d77d9dfc74 | HARVEY → ALFRED | x4
 I need some answers...
 
 #### fd4ca13803 | BRUCE → ALFRED | x4
@@ -5560,7 +5539,7 @@ Maybe I can develop an antidote.
 #### 41d6b45af3 | choice/UI → ALFRED | x8
 They could make an army.
 
-#### a69a4e483d-SM | choice/UI → ALFRED, GORDON | x6
+#### a69a4e483d | choice/UI → ALFRED, GORDON | x6
 I’m impressed.
 
 #### f5d496ef2b | GORDON → ALFRED | x6
@@ -5578,7 +5557,7 @@ If you don’t, people die.
 #### ff81c7265c | choice/UI → ALFRED, GORDON | x6
 You already do.
 
-#### ddaacc68f5-LM | ALFRED → BRUCE | x4
+#### ddaacc68f5 | ALFRED → BRUCE | x4
 The base chemical, which you found at that massacre on the docks.
 
 #### 422cc4f461 | ALFRED, BRUCE → BRUCE, ALFRED | x6
@@ -5614,7 +5593,7 @@ Well, someone in his new crowd knows what they’re doing.
 #### b11e6c5bad | ALFRED → BRUCE | x8
 You’ve been finding beauty in rather dangerous places as of late.
 
-#### 0a78524042-LF | ALFRED → SELINA | x8
+#### 0a78524042 | ALFRED → SELINA | x8
 I believe you had a similar reaction to Ms. Kyle.
 
 #### d22cf2c49f | ALFRED → BRUCE | x6
@@ -5692,7 +5671,7 @@ I’ll prove Hill wrong. or ...
 #### 8840d2ac09 | ALFRED → BRUCE | x8
 For your sake, I hope you don’t find anything.
 
-#### f82ca782ef-LM | ALFRED → BRUCE | x8
+#### f82ca782ef | ALFRED → BRUCE | x8
 Then you won’t have to admit Hill might be telling the truth.
 
 #### 48ab198951 | ALFRED → BRUCE | x8
@@ -5704,7 +5683,7 @@ If it turns out your father is connected to this drug...
 #### a9d1b9ca7b | ALFRED → BRUCE | x8
 At least any information that comes of it will help you stop this horrid concoction.
 
-#### 844e78d5e1-SM | ALFRED → BRUCE | x4
+#### 844e78d5e1 | ALFRED → BRUCE | x4
 A complicated process, I’m sure...
 
 #### efd7ae7d0b | BRUCE → ALFRED | x6
@@ -5716,10 +5695,10 @@ Best put that time to use.
 #### 48ef25c224 | ALFRED → BRUCE | x6
 Even knowing about the drug won’t get you past the people using it.
 
-#### bba3e9c777-LM | ALFRED → BRUCE | x6
+#### bba3e9c777 | ALFRED → BRUCE | x6
 Last time you went up against Cobblepot and his friends didn’t end smoothly.
 
-#### 1334deb830-SM | BRUCE → ALFRED | x6
+#### 1334deb830 | BRUCE → ALFRED | x6
 I had thoughts on that...
 
 #### 2b8d2cf5c5 | choice/UI → ALFRED | x6
@@ -5788,7 +5767,7 @@ They must be planning something soon --
 #### e59c1198ff | BRUCE → ALFRED | x4
 And get Gordon on the line too -- tell him the Children of Arkham are attacking the debate.
 
-#### bee41a6c60-SM | HARVEY → BRUCE | x4
+#### bee41a6c60 | HARVEY → BRUCE | x4
 I hate to press you, Bruce, but I need to know...
 
 #### 543df2e1fb | ALFRED → BRUCE | x4
@@ -5836,19 +5815,19 @@ Good, gives me a chance to identify this symbol.
 #### 3f61cba62e | BRUCE → ALFRED | x4
 I can scan traffic cams and surveillance footage for any matches.
 
-#### d24f9c01f3-SM | BRUCE → ALFRED | x2
+#### d24f9c01f3 | BRUCE → ALFRED | x2
 From what I heard, nobody in the GCPD recognized it.
 
-#### 9d34d6ca4d-LM | ALFRED → BRUCE | x2
+#### 9d34d6ca4d | ALFRED → BRUCE | x2
 I hope you able get what you wanted from Falcone before they succeeded in their plan.
 
 #### 9e14ac4992 | ALFRED → BRUCE | x2
 What did he tell you?
 
-#### fb4e113a32-LM | ALFRED → BRUCE | x2
+#### fb4e113a32 | ALFRED → BRUCE | x2
 I know you wanted the truth.
 
-#### 3a13b69be5-LM | ALFRED → BRUCE | x2
+#### 3a13b69be5 | ALFRED → BRUCE | x2
 Did you get it?
 
 #### 8feae377e2 | choice/UI → ALFRED | x2
@@ -5857,10 +5836,10 @@ He considered my parents family.
 #### 76155e3579 | BRUCE → ALFRED | x2
 Falcone talked about my mother and father like they were family.
 
-#### b7b88284ff-SM | ALFRED → BRUCE | x2
+#### b7b88284ff | ALFRED → BRUCE | x2
 I’m sorry, Bruce. I should have told you earlier about their connection.
 
-#### b7ec5017a5-SM | ALFRED → BRUCE | x2
+#### b7ec5017a5 | ALFRED → BRUCE | x2
 I thought it was best to keep you away from Carmine Falcone.
 
 #### 8a01b82a15 | ALFRED → BRUCE | x2
@@ -5890,7 +5869,7 @@ Or are you simply hiding things from me again?
 #### defe82e2be | ALFRED → BRUCE | x2
 I admit, I haven’t been completely honest in the past.
 
-#### fc6bbafcab-SM | ALFRED → BRUCE | x2
+#### fc6bbafcab | ALFRED → BRUCE | x2
 But I’ve told you everything I know, whether you choose to believe me or not.
 
 #### b047732d92 | ALFRED → BRUCE | x2
@@ -5941,10 +5920,10 @@ A name doesn’t help us much if we don’t know what they’re planning.
 #### 4d2ab497df | ALFRED → BRUCE | x2
 With that drug at their disposal, they could be planning anything.
 
-#### 6594a8c522-SM | BRUCE → ALFRED | x4
+#### 6594a8c522 | BRUCE → ALFRED | x4
 The residue I found on the docks.
 
-#### 51e53d69b1-SM | BRUCE → ALFRED | x6
+#### 51e53d69b1 | BRUCE → ALFRED | x6
 And the residue I scanned on Detective Montoya.
 
 #### 83a436d712 | BRUCE → ALFRED | x6
@@ -5959,7 +5938,7 @@ There must be{ConcernedB} something {SadA}you can do to help her... {SadB}or her
 #### 91c97760fc | BRUCE → ALFRED | x2
 Batman can help by getting to the bottom of this.
 
-#### 80b7cb5784-SM | ALFRED → BRUCE | x2
+#### 80b7cb5784 | ALFRED → BRUCE | x2
 I was thinking an action --well, less masked vigilante {ThinkingA}and more secret benefactor.
 
 #### f327ee2b45 | ALFRED → BRUCE | x2
@@ -5986,7 +5965,7 @@ Hopefully she won’t end up in court -{ThinkingA} but if she does, she’ll be 
 #### 1c9f4b0065 | choice/UI → ALFRED | x4
 Set up a trust for her baby.
 
-#### 56c6dc1f7e-SM | BRUCE → ALFRED | x2
+#### 56c6dc1f7e | BRUCE → ALFRED | x2
 I heard Gordon say Montoya{ConcernedA} and her wife just had a baby.
 
 #### ecd7ef10d9 | BRUCE → ALFRED | x2
@@ -6112,7 +6091,7 @@ I don’t think I am.
 #### 1d3b4e29a8 | BRUCE → ALFRED | x4
 The Skyline Club?
 
-#### ad62db8a63-LM | BRUCE → OSWALD | x4
+#### ad62db8a63 | BRUCE → OSWALD | x4
 Jesus. Didn’t even wait for Falcone’s body to get cold, did you, Oz?
 
 #### e50e09134d | ALFRED → BRUCE | x6
@@ -6124,7 +6103,7 @@ Bruce Wayne already tried talking with Cobblepot.
 #### cbfa9a27ed | BRUCE → ALFRED | x6
 It’s time he met the Batman.
 
-#### c10bf22544-LM | ALFRED → BRUCE | x4
+#### c10bf22544 | ALFRED → BRUCE | x4
 While we wait for those results,{ConcernedA} the analysis of the chemicals you found on Montoya are complete.
 
 #### 1cc7b1dd53 | ALFRED, HARVEY → BRUCE, BATMAN | x10
@@ -6169,7 +6148,7 @@ That’s Cobblepot Park --
 #### eea076c8fd | BRUCE → ALFRED | x4
 Oswald’s not the boy we used to know.
 
-#### c06ab9c39f-SM | BRUCE → ALFRED | x6
+#### c06ab9c39f | BRUCE → ALFRED | x6
 When I met him in the park, he told me himself he wanted Falcone dead.
 
 #### d33b6cea57 | BRUCE → ALFRED | x2
@@ -6178,7 +6157,7 @@ And he wouldn’t let anyone stand in his way.
 #### b9040625e0 | ALFRED → BRUCE | x6
 Well he certainly got his wish.
 
-#### fd24cb4890-SM | BRUCE → ALFRED | x6
+#### fd24cb4890 | BRUCE → ALFRED | x6
 When I met him in the park, he went on a rant about revolution.
 
 #### 5438be45bc | ALFRED → BRUCE | x2
@@ -6244,7 +6223,7 @@ There was something off about him when we met.
 #### 2f36ae6917 | ALFRED → BRUCE | x4
 You don’t suppose Oswald is behind this?
 
-#### e544e65054-SM | BRUCE → ALFRED | x6
+#### e544e65054 | BRUCE → ALFRED | x6
 The way he was ranting, I had a feeling we were going to clash sooner or later.
 
 #### 2ce350fad0 | ALFRED → BRUCE | x2
@@ -6262,7 +6241,7 @@ Well, it looks like he might be getting started.
 #### 2f9d70ae19 | ALFRED → BRUCE | x6
 Well, it looks like it might be sooner.
 
-#### ab809abd08-LM | ALFRED → BRUCE | x6
+#### ab809abd08 | ALFRED → BRUCE | x6
 Did you get a sense he might be trouble?
 
 #### bd43795355 | BRUCE → ALFRED | x4
@@ -6283,7 +6262,7 @@ Throw that up on the monitor.
 #### 6163ea28e5 | BRUCE → ALFRED | x4
 Nothing useful here.
 
-#### 00badc86a8-SM | BRUCE → ALFRED | x4
+#### 00badc86a8 | BRUCE → ALFRED | x4
 I need to look elsewhere.
 
 #### 39cd5845e4 | BRUCE → ALFRED | x4
@@ -6337,13 +6316,13 @@ Falcone deserved it.
 #### 129eed1fc5 | choice/UI | x2
 My father was his friend.
 
-#### dad7bd1495-SM | choice/UI → ALFRED | x2
+#### dad7bd1495 | choice/UI → ALFRED | x2
 I need you to focus, Alfred.
 
 #### 8545c0a233 | BRUCE → ALFRED | x2
 Either Cobblepot drugged Montoya himself, or someone else is using his revolutionary rhetoric.
 
-#### 913efd8ada-SM | BRUCE → ALFRED | x2
+#### 913efd8ada | BRUCE → ALFRED | x2
 Either way, I need to find him. Getting our drones in the air.
 
 #### 241ba89c28 | ALFRED → BRUCE | x2
@@ -6361,7 +6340,7 @@ Falcone got off easy by getting killed. He deserved much worse.
 #### d118f88dc5 | ALFRED → BRUCE | x4
 Whoever did this was judge, jury and executioner -- no one should act as all three.
 
-#### 9d1d1d2953-LM | ALFRED → BRUCE | x2
+#### 9d1d1d2953 | ALFRED → BRUCE | x2
 What did you get out of him?
 
 #### 811f4b11dc | ALFRED → BRUCE | x2
@@ -6400,7 +6379,7 @@ Martha was always gracious -- even to those she despised.
 #### 659e9ff282 | ALFRED → BRUCE | x4
 Fair enough, Master Bruce.
 
-#### 1ed13bd9e0-LM | ALFRED → BRUCE | x4
+#### 1ed13bd9e0 | ALFRED → BRUCE | x4
 But if you learned something about your parents’ murder, I deserve to know.
 
 #### 8d8f722777 | BRUCE → ALFRED | x2
@@ -6409,7 +6388,7 @@ Well, according to Falcone, he was friendly with my father.
 #### 4229d7e65c | BRUCE → ALFRED | x2
 Practically family, he said.
 
-#### 76a9e17783-LM | BRUCE → ALFRED | x2
+#### 76a9e17783 | BRUCE → ALFRED | x2
 He backed up what you told me.
 
 #### dc92009b56 | BRUCE → ALFRED | x2
@@ -6418,7 +6397,7 @@ My father ran the city -- with two of the worst men in it.
 #### 6002754d26 | ALFRED → BRUCE | x4
 You’d think making a gangster rich would buy his protection.
 
-#### e56b1f1424-LM | ALFRED → BRUCE | x2
+#### e56b1f1424 | ALFRED → BRUCE | x2
 I imagine you’ve got a lot on your mind, considering the last few hours.
 
 #### a9a87ce81c | ALFRED → BRUCE | x2
@@ -6487,7 +6466,7 @@ You cause as much pain as he did, eventually it comes back on you.
 #### bb8134e2de | ALFRED → BRUCE | x2
 We should all be mindful of that.
 
-#### c999ab0eff-LM | ALFRED → BRUCE | x2
+#### c999ab0eff | ALFRED → BRUCE | x2
 What did you learn from him?
 
 #### 891fad0b08 | ALFRED → BRUCE | x2
@@ -6529,7 +6508,7 @@ In other news...
 #### 4f69702e68 | RYDER → BRUCE, FAIRCHILD | x6
 Allegations of family corruption continue to swirl around Wayne Enterprises CEO Bruce Wayne. How exactly did his parents, Thomas and Martha Wayne, build their massive fortune? Wayne Enterprises stock took a dive in after hours trading yesterday, dipping nearly twenty percent, amidst mounting evidence that the family had ties to organized crime. Wayne himself continues to remain silent on the issue.
 
-#### 85763c56d9-SM | BRUCE → RYDER | x2
+#### 85763c56d9 | BRUCE → RYDER | x2
 Is similar to the nerve agent I found at the docks.
 
 #### 5fba521405 | BRUCE → RYDER | x2
@@ -6553,7 +6532,7 @@ A small dose strips you of impulse control...
 #### 39c4ab4364 | BRUCE | x2
 Let’s see what we got.
 
-#### 6c2a9b018c-SM | BRUCE | x2
+#### 6c2a9b018c | BRUCE | x2
 The residue I scanned on Montoya...
 
 #### 5efd0d929e | choice/UI | x2
@@ -6587,7 +6566,7 @@ This refined drug is like a weapon. It only took a small injection to strip Mont
 #### d75de49283 | BRUCE | x2
 The reaction was... messy. They were out of control.
 
-#### 3114c3698f-SM | BRUCE → ALFRED | x2
+#### 3114c3698f | BRUCE → ALFRED | x2
 Either way, I need to find him. Let’s put our drones in the air and start a search.
 
 #### 0e3020d32e | BRUCE → ALFRED | x2

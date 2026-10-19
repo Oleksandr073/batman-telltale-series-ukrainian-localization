@@ -28,7 +28,7 @@ That creepy stare thing.
 #### 3d2c8354a2 | HARVEY → SELINA | x2
 What--What are you doing here?
 
-#### 57d3a32d60-SM | choice/UI → HARVEY | x2
+#### 57d3a32d60 | choice/UI → HARVEY | x2
 I came to check on Selina.
 
 #### a460fc8601 | choice/UI → JOKER, HARVEY | x12
@@ -43,7 +43,7 @@ I don’t need to sit down.
 #### 2b2aeb95b1 | HARVEY → BRUCE | x2
 Bruce, tell me what is going on.
 
-#### de26cc8e44-SM | BRUCE → HARVEY | x2
+#### de26cc8e44 | BRUCE → HARVEY | x2
 I just came by to check on Selina.
 
 #### f8095e8ab0 | HARVEY → BRUCE | x2
@@ -73,13 +73,13 @@ Don’t touch me!
 #### a60e2d0df6 | SELINA → HARVEY | x2
 Back off, Harvey.
 
-#### 5eb1b197ed-SM | OSWALD, HARVEY → BRUCE, GORDON, SELINA | x14
+#### 5eb1b197ed | OSWALD, HARVEY → BRUCE, GORDON, SELINA | x14
 I knew it!
 
 #### 8d216a92b1 | SELINA → HARVEY | x2
 Hey, easy.
 
-#### 67d53b201a-LF | HARVEY → SELINA | x2
+#### 67d53b201a | HARVEY → SELINA | x2
 God, I should have known! I should have known that you would do this to me!
 
 #### a3ec602ead | HARVEY → SELINA | x2
@@ -103,10 +103,10 @@ You have no one.
 #### 1810501923 | HARVEY → BRUCE | x2
 The way it should be.
 
-#### 1eb3e294c8-LM | BRUCE → HARVEY | x2
+#### 1eb3e294c8 | BRUCE → HARVEY | x2
 Harvey... you’re talking to yourself.
 
-#### e017a98c3c-SM | BRUCE → HARVEY | x2
+#### e017a98c3c | BRUCE → HARVEY | x2
 Harvey, I need you to sit down.
 
 #### d3863c37a9 | BRUCE → HARVEY | x2
@@ -130,7 +130,7 @@ Nothing happened.
 #### 794fd1c682 | BRUCE → HARVEY | x2
 Look, nothing happened. I swear.
 
-#### bada7a1c7e-SF | SELINA → HARVEY | x2
+#### bada7a1c7e | SELINA → HARVEY | x2
 And it wouldn’t matter if it did. You and I were never-- [together]
 
 #### 6e57f05537 | HARVEY → BRUCE | x2
@@ -142,7 +142,7 @@ Please, not with him!
 #### 75843b4843 | BRUCE, choice/UI → HARVEY | x4
 Who are you talking about?
 
-#### 21caa9e2b8-SM | HARVEY → SELINA | x2
+#### 21caa9e2b8 | HARVEY → SELINA | x2
 Selina, I--I need to talk to you.
 
 #### b73098f64d | HARVEY → SELINA | x3
@@ -169,7 +169,7 @@ We’re not trying to hurt you.
 #### e64361540b | choice/UI → HARVEY, LADYARKHAM | x6
 This isn’t about you.
 
-#### c8deb4feb4-LM | choice/UI → HARVEY | x2
+#### c8deb4feb4 | choice/UI → HARVEY | x2
 You need help, Harvey.
 
 #### 458c4a58ee | BRUCE → HARVEY | x2
@@ -187,7 +187,7 @@ It’s not you.
 #### cc9e84f8f2 | HARVEY → BRUCE | x2
 I know she’d never want me.
 
-#### fdab8e9e27-LM | BRUCE → HARVEY | x2
+#### fdab8e9e27 | BRUCE → HARVEY | x2
 You need to get help. You can’t keep ignoring whatever’s going on with you.
 
 #### e09cefd640 | HARVEY → BRUCE | x2
@@ -205,7 +205,7 @@ I’ll get him some water.
 #### b915abd96a | HARVEY → BRUCE | x2
 I can’t do this, Bruce.
 
-#### b2434098a2-LF | HARVEY → SELINA | x2
+#### b2434098a2 | HARVEY → SELINA | x2
 Is this what you wanted to see?
 
 #### c23ff92d38 | HARVEY → SELINA, BRUCE | x6
@@ -238,7 +238,7 @@ You don’t know what you’re doing. He needs a professional.
 #### 3a866a5947 | ALFRED, BRUCE → BRUCE, SELINA | x6
 Please!
 
-#### e45638e47e-LF | BRUCE → SELINA | x2
+#### e45638e47e | BRUCE → SELINA | x2
 I think maybe you’re right.
 
 #### ea36da6595 | SELINA → BRUCE, HARVEY | x6
@@ -265,7 +265,7 @@ This is giving up.
 #### 5e3e87d60b | choice/UI → HARVEY | x2
 The city will be fine.
 
-#### b55fc39087-LM | BRUCE → HARVEY | x2
+#### b55fc39087 | BRUCE → HARVEY | x2
 You can’t fight this alone, Harvey. You need help.
 
 #### 059eb5bc3e | HARVEY → BRUCE | x2
@@ -277,7 +277,7 @@ It’s not giving up.
 #### 64c8c6677f | HARVEY → BRUCE | x2
 Then why does it feel like it is?
 
-#### bcf36c1687-LM | BRUCE → HARVEY | x2
+#### bcf36c1687 | BRUCE → HARVEY | x2
 You can’t fight this alone, Harvey. That drug did something to you. You need help.
 
 #### a83350f966 | HARVEY → BRUCE | x2
@@ -310,7 +310,7 @@ Better than the alternative.
 #### 81fc04c497 | BRUCE → SELINA | x2
 Let Harvey go, Selina.
 
-#### 7a52860b54-SM-LF | BRUCE → SELINA | x2
+#### 7a52860b54 | BRUCE → SELINA | x2
 I’m sorry. You need to get help. I’m calling the police.
 
 #### 081832fd7e | BRUCE → SELINA | x2
@@ -349,7 +349,7 @@ I hope you know what you’re doing.
 #### 745a112dcf | BRUCE, OSWALD → SELINA, REGINA | x4
 It’s for the best.
 
-#### 69434bc0b1-SM | BRUCE → SELINA | x2
+#### 69434bc0b1 | BRUCE → SELINA | x2
 I’m supposed to “announce my resignation” at a press event today. Somehow try to appear happy that Oswald Cobblepot is taking my job.
 
 #### 2e73e0e5b3 | SELINA → BRUCE | x2
@@ -367,13 +367,13 @@ So use it.
 #### 41c4a8e38f | choice/UI → SELINA | x4
 I’ll expose Oswald!
 
-#### 42820ea14e-SM | choice/UI → SELINA | x4
+#### 42820ea14e | choice/UI → SELINA | x4
 I could expose Sanctus.
 
 #### ef9d5c4ca1 | choice/UI → SELINA | x4
 That’s a bad idea.
 
-#### 9fde2f121d-LF | BRUCE → SELINA | x4
+#### 9fde2f121d | BRUCE → SELINA | x4
 Maybe you’re right. This could be my chance to expose Oswald for who he really is. Let Gotham know he’s a part of the Children of Arkham.
 
 #### 0e269fc04d | BRUCE → SELINA | x4
@@ -382,7 +382,7 @@ I can tell everyone about Sanctus. Get enough media attention to make it harder 
 #### 4a5e41d4da | SELINA → BRUCE | x2
 Or make them angry enough to slip up.
 
-#### 39a5931ef3-SM | BRUCE → SELINA | x4
+#### 39a5931ef3 | BRUCE → SELINA | x4
 No, I need to keep my composure. Bide my time.
 
 #### 1698b795ff | BRUCE → SELINA | x4
@@ -400,10 +400,10 @@ Or, you know, just stand there.
 #### ad0876d2df | SELINA → BRUCE | x2
 Up to you.
 
-#### bc817f5b03-SM | choice/UI → SELINA | x2
+#### bc817f5b03 | choice/UI → SELINA | x2
 I stayed the night.
 
-#### 2ec2c8122e-SM | choice/UI → SELINA, HARVEY | x4
+#### 2ec2c8122e | choice/UI → SELINA, HARVEY | x4
 I’m sorry about this.
 
 #### 68058cd59f | choice/UI → SELINA | x2
@@ -427,10 +427,10 @@ Take.
 #### 38fcb496cb | choice/UI | x2
 Then tell her!
 
-#### f147f36d10-SM | choice/UI, BRUCE → ALFRED | x8
+#### f147f36d10 | choice/UI, BRUCE → ALFRED | x8
 I’m sorry, Alfred.
 
-#### abff13f116-SM | choice/UI | x4
+#### abff13f116 | choice/UI | x4
 I got hurt.
 
 #### d2d98f0a53 | choice/UI | x2
@@ -454,7 +454,7 @@ You’re a great mayor.
 #### b1672a791f | choice/UI | x2
 Batman can handle this.
 
-#### 1b506f3e72-SM | choice/UI → HARVEY | x6
+#### 1b506f3e72 | choice/UI → HARVEY | x6
 I’m terrified too.
 
 #### 2d544aa173 | choice/UI | x2
@@ -469,7 +469,7 @@ What is wrong with you?
 #### 27c7a588ea | BRUCE, choice/UI → SELINA, ALFRED, HARVEY | x10
 Apologize to Selina.
 
-#### ca75b1b8e1-SM | choice/UI → SELINA | x2
+#### ca75b1b8e1 | choice/UI → SELINA | x2
 I won’t help him.
 
 #### 930d3d135c | choice/UI → SELINA | x2
@@ -483,9 +483,6 @@ Come with me.
 
 #### f6703b7012 | choice/UI | x2
 We should do this again sometime.
-
-#### 6a871d2c09-L? | choice/UI | x6
-Take care of yourself.
 
 #### 734393bb85 | choice/UI → SELINA | x2
 Take Back.
@@ -502,7 +499,7 @@ Yeah, me too.
 #### 53865762a8 | SELINA → BRUCE | x2
 Great... go make me something while you’re at it.
 
-#### d4f8689aaf-SF | SELINA → BRUCE | x2
+#### d4f8689aaf | SELINA → BRUCE | x2
 Not quite what I was looking for.
 
 #### be9471e8f9 | SELINA → BRUCE | x2
@@ -532,25 +529,25 @@ Morning, Alfred.
 #### b465241106 | ALFRED → BRUCE | x2
 Oh, thank goodness!
 
-#### 2df027e513-SM | BRUCE → ALFRED | x2
+#### 2df027e513 | BRUCE → ALFRED | x2
 I’m sorry. I didn’t mean to worry you, Alfred.
 
 #### 0fd77a83d9 | ALFRED, GORDON → BRUCE | x8
 Oh?
 
-#### 91d923223b-LM | ALFRED → BRUCE | x2
+#### 91d923223b | ALFRED → BRUCE | x2
 Did you have a good time?  Need me to finally have the bats and the cats conversation with you?
 
 #### 798c347439 | SELINA → BRUCE | x2
 You even know how to work a toaster, rich kid?
 
-#### 95f7265834-SM | BRUCE → ALFRED | x2
+#### 95f7265834 | BRUCE → ALFRED | x2
 I am offended.
 
 #### 77f3599dca | SELINA → ALFRED | x2
 Aww, too bad.
 
-#### c0c2de62cd-SM | ALFRED → SELINA | x2
+#### c0c2de62cd | ALFRED → SELINA | x2
 I was worried.
 
 #### fb26d55fd7 | ALFRED → BRUCE | x2
@@ -559,7 +556,7 @@ I hadn’t heard from you.
 #### 746b46d23e | ALFRED → BRUCE | x2
 I didn’t know what happened.
 
-#### d070fce7db-LM | ALFRED → BRUCE | x2
+#### d070fce7db | ALFRED → BRUCE | x2
 If you were...
 
 #### 3026ce98ec | BRUCE → ALFRED | x2
@@ -571,13 +568,13 @@ Well, when your job involves fighting masked villains at two in the morning, the
 #### 33623b1752 | ALFRED → BRUCE | x2
 I always fear the day you don’t come home, Bruce.
 
-#### aa17dc2a7a-SM-LM | ALFRED → BRUCE | x2
+#### aa17dc2a7a | ALFRED → BRUCE | x2
 I’m just glad you’re okay.
 
 #### d1b6c0f7a5 | BRUCE → ALFRED | x2
 It’s... kind of a long story. I’ll tell you about it when I get back.
 
-#### e771196dce-LM | ALFRED → BRUCE | x2
+#### e771196dce | ALFRED → BRUCE | x2
 The least you could do is say something.
 
 #### 4013d569a0 | BRUCE → ALFRED | x2
@@ -586,7 +583,7 @@ I know, Al.
 #### 0b22c6af0e | ALFRED → BRUCE | x2
 Where are you anyway?
 
-#### 8cbcd2d088-SM | BRUCE → ALFRED | x2
+#### 8cbcd2d088 | BRUCE → ALFRED | x2
 I uh...I stayed at Selina’s last night.
 
 #### 12247e8265 | ALFRED → BRUCE | x2
@@ -598,13 +595,13 @@ Don’t get nosy.
 #### e07fc6fdbf | ALFRED → BRUCE | x2
 I didn’t say anything.
 
-#### 943b128952-LM | BRUCE → ALFRED | x2
+#### 943b128952 | BRUCE → ALFRED | x2
 You said “Oh?“... I know what “Oh?“ means.
 
-#### 0800cef97f-SM | ALFRED → BRUCE | x2
+#### 0800cef97f | ALFRED → BRUCE | x2
 It means exactly what I meant it to mean.
 
-#### bc468291f5-SM | ALFRED → BRUCE | x2
+#### bc468291f5 | ALFRED → BRUCE | x2
 I’m sorry, are you... smiling?
 
 #### b9d8cb58c2 | BRUCE → ALFRED | x2
@@ -613,22 +610,22 @@ You can’t tell if I’m smiling.
 #### 79b0ed8e12 | ALFRED → BRUCE | x2
 I know you, sir.
 
-#### 3be6442b0d-LM | BRUCE → ALFRED | x2
+#### 3be6442b0d | BRUCE → ALFRED | x2
 You got something to say, Alfred?
 
 #### b273e283af | ALFRED → BRUCE | x2
 I’m not judging you.
 
-#### 4c5ac82c30-LM | BRUCE → ALFRED | x2
+#### 4c5ac82c30 | BRUCE → ALFRED | x2
 Sounded like you were.
 
 #### 5c16927568 | ALFRED → BRUCE | x2
 I wouldn’t dream of it.
 
-#### 19c8f5c9bc-LM | ALFRED → BRUCE | x2
+#### 19c8f5c9bc | ALFRED → BRUCE | x2
 Though you still could’ve called, you know.
 
-#### bf1bfac189-SM | ALFRED → BRUCE | x2
+#### bf1bfac189 | ALFRED → BRUCE | x2
 I never said it did.
 
 #### b8e8cb9d7b | ALFRED → BRUCE | x2
@@ -637,7 +634,7 @@ While you’re there... this might be a good opportunity to learn more about Mis
 #### 651de88c35 | ALFRED → BRUCE | x2
 After all, we really don’t know anything about her.
 
-#### ba2d57c3b6-SM | choice/UI → ALFRED | x2
+#### ba2d57c3b6 | choice/UI → ALFRED | x2
 I won’t spy on her.
 
 #### 821d2a83de | choice/UI → ALFRED | x2
@@ -667,10 +664,10 @@ She let me into her home, I’m not gonna go snooping around in her personal bel
 #### 47b80d61af | ALFRED → BRUCE | x2
 I understand. Merely a suggestion.
 
-#### 67661f2bcb-SM | BRUCE → ALFRED | x2
+#### 67661f2bcb | BRUCE → ALFRED | x2
 I trust her, Alfred. That’s all I need to know.
 
-#### 5eb821bb20-LM | ALFRED → BRUCE | x2
+#### 5eb821bb20 | ALFRED → BRUCE | x2
 If you’re sure.
 
 #### 93fd17dc00 | ALFRED → BRUCE | x2
@@ -682,7 +679,7 @@ That might be harder than you think. She doesn’t share your love of organizati
 #### dfd02fb5cc | ALFRED → BRUCE | x2
 Yes, well I’ll see you back at home, Bruce.
 
-#### d57f58af86-SM | HARVEY → BRUCE | x2
+#### d57f58af86 | HARVEY → BRUCE | x2
 Hey. I-- I brought breakfast. Can I come in?
 
 #### 6e303692e5 | SELINA → HARVEY | x2
@@ -691,16 +688,16 @@ I don’t know if that’s such a good idea.
 #### 5bb7335700 | HARVEY → SELINA | x2
 Right. “You’ll be the first to know”, huh?
 
-#### 51eb5dbf0b-LF | HARVEY → SELINA | x2
+#### 51eb5dbf0b | HARVEY → SELINA | x2
 You said you hadn’t heard from her.
 
-#### af8cc17894-SM | BRUCE → HARVEY | x2
+#### af8cc17894 | BRUCE → HARVEY | x2
 I spent the night here. That’s it.
 
 #### b7db892858 | HARVEY → BRUCE | x2
 You... you...
 
-#### 07a067ad6c-SM | HARVEY → BRUCE | x2
+#### 07a067ad6c | HARVEY → BRUCE | x2
 I thought I would come here and--
 
 #### b1c950d329 | HARVEY → BRUCE | x2
@@ -745,7 +742,7 @@ I don’t have to answer to either of you.
 #### d2cda449d5 | BRUCE → HARVEY | x2
 What are you talking about, Harvey? You two were never a couple to begin with.
 
-#### 823e5f7303-LF | HARVEY → SELINA | x2
+#### 823e5f7303 | HARVEY → SELINA | x2
 But you knew!
 
 #### a205439466 | SELINA → BRUCE | x2
@@ -760,7 +757,7 @@ None of this is about you, Harvey.
 #### b001686774 | HARVEY → SELINA | x2
 What? So I’m just making this up?!
 
-#### 9382c3e02d-SM | BRUCE → HARVEY | x2
+#### 9382c3e02d | BRUCE → HARVEY | x2
 Harvey, I’m sorry.
 
 #### 9dba35b0d5 | SELINA → BRUCE | x2
@@ -802,13 +799,13 @@ Just...get out of here, Harvey.
 #### dc5abe3d1d | HARVEY → SELINA | x2
 What happens when the Children of Arkham come for him?
 
-#### 46fd8b4b75-LF | HARVEY → SELINA | x2
+#### 46fd8b4b75 | HARVEY → SELINA | x2
 You think you won’t get caught in the crossfire?
 
 #### 4f5439df05 | choice/UI → HARVEY | x2
 She’ll be fine.
 
-#### 02d211bfd7-LM | choice/UI, BATMAN → HARVEY | x4
+#### 02d211bfd7 | choice/UI, BATMAN → HARVEY | x4
 You need to leave.
 
 #### 61c01979d6 | HARVEY → SELINA | x2
@@ -832,13 +829,13 @@ Everything Harvey couldn’t.
 #### 4ecdbee93a | HARVEY → BRUCE | x2
 He thinks he’s so much better!
 
-#### 4eea74c9d9-SM | BRUCE → HARVEY | x2
+#### 4eea74c9d9 | BRUCE → HARVEY | x2
 I may go down for what my father did, but I won’t take her down with me. She’ll be fine.
 
 #### 987342ddc8 | HARVEY → BRUCE | x2
 Oh, funny. Thinking you have a choice. Thinking you can save the people around you.
 
-#### 5cdb5fde06-LM | HARVEY → BRUCE | x2
+#### 5cdb5fde06 | HARVEY → BRUCE | x2
 Thinking you could do what Harvey couldn’t!
 
 #### 4cbf89857d | BRUCE → HARVEY | x2
@@ -859,7 +856,7 @@ Even he sees the truth in it.
 #### 66a954621a | SELINA → HARVEY | x2
 I’m only gonna ask one more time.
 
-#### db0cfcab85-SM | HARVEY → SELINA | x2
+#### db0cfcab85 | HARVEY → SELINA | x2
 The truth is, I’m terrified...
 
 #### 9ef6691102 | HARVEY | x2
@@ -919,7 +916,7 @@ Batman is a fraud!
 #### e92c7e50b8 | HARVEY → BRUCE | x2
 He’s not going to save this city. I am!
 
-#### 768b8bd9c7-SM | BRUCE → HARVEY | x2
+#### 768b8bd9c7 | BRUCE → HARVEY | x2
 Harvey, listen... I’m scared too.
 
 #### db34c2b785 | BRUCE → HARVEY | x2
@@ -952,10 +949,10 @@ Embrace it!
 #### 5a08b4d935 | HARVEY → SELINA | x2
 No, No!
 
-#### b986c35c2b-LM | HARVEY → BRUCE | x2
+#### b986c35c2b | HARVEY → BRUCE | x2
 Oh God, this is what you wanted to see, isn’t it, huh?
 
-#### 367086fb70-LM | SELINA → HARVEY | x2
+#### 367086fb70 | SELINA → HARVEY | x2
 Alright, now you’ve got two seconds!
 
 #### e147d4a0fa | choice/UI → HARVEY | x4
@@ -976,7 +973,7 @@ Harvey, you are our friend. We don’t want to fight you!
 #### cf4353444e | BRUCE → HARVEY, SELINA | x4
 This isn’t you. Just calm down!
 
-#### de6cbbccc2-SM | HARVEY → BRUCE | x2
+#### de6cbbccc2 | HARVEY → BRUCE | x2
 When I’m finished!
 
 #### f02c8e003d | HARVEY → BRUCE | x6
@@ -1006,7 +1003,7 @@ Since the debate... something’s different. I can’t hold it in.
 #### e5b3b7aaff | SELINA → HARVEY | x2
 I don’t want an apology. I just want you to leave.
 
-#### d3710d230e-SM | HARVEY, GORDON → BRUCE, SELINA | x6
+#### d3710d230e | HARVEY, GORDON → BRUCE, SELINA | x6
 I’m... I’m sorry.
 
 #### 2a63bd855c | BRUCE → SELINA | x2
@@ -1018,7 +1015,7 @@ I can’t say I blame you.
 #### 841ea25534 | HARVEY → SELINA | x2
 She’s right.
 
-#### 1cee91fdd6-SM | HARVEY → SELINA | x2
+#### 1cee91fdd6 | HARVEY → SELINA | x2
 I need you to call the police. Press charges... have them lock me up.
 
 #### a46041bf8b | HARVEY → SELINA | x2
@@ -1036,7 +1033,7 @@ You want to call the cops here? Really?
 #### 7e8a75abd7 | SELINA → HARVEY | x2
 You don’t think they’re gonna notice a few things.
 
-#### 360773f4e9-SF | SELINA → HARVEY | x2
+#### 360773f4e9 | SELINA → HARVEY | x2
 I’m wanted for assault.
 
 #### 5afe6c5eb2 | BRUCE → SELINA | x2
@@ -1045,7 +1042,7 @@ Catwoman is.
 #### 625c6a0eab | SELINA → HARVEY | x2
 You don’t think they’re gonna notice a few things?
 
-#### 8c0e99b93e-SM | HARVEY → SELINA | x2
+#### 8c0e99b93e | HARVEY → SELINA | x2
 I won’t be a victim.
 
 #### 6770131092 | HARVEY → SELINA | x2
@@ -1060,13 +1057,13 @@ I’ll get him downstairs.
 #### 8b693c710f | SELINA → BRUCE | x2
 Well, part of him. The other part seemed... relieved.
 
-#### 75b713f10b-LM | SELINA → BRUCE | x2
+#### 75b713f10b | SELINA → BRUCE | x2
 Well you won’t be getting a thank you card anytime soon.
 
 #### 56ae443237 | BRUCE → SELINA | x2
 That mad?
 
-#### fc05c0c76c-SF | SELINA → BRUCE | x2
+#### fc05c0c76c | SELINA → BRUCE | x2
 Well I’ve got a mess to clean up. [beat]Sounds like you do too.
 
 #### 234462065b | SELINA → BRUCE | x2
@@ -1078,7 +1075,7 @@ You think The Children of Arkham will be there?
 #### a7ed3c0d55 | SELINA → BATMAN | x2
 Just my guess.
 
-#### c848e7adf4-SM | BATMAN → ALFRED | x2
+#### c848e7adf4 | BATMAN → ALFRED | x2
 Alfred, I need you to locate the Children of Arkham’s leader.
 
 #### 3a9eb77f9c | BATMAN → BRUCE | x2
@@ -1093,7 +1090,7 @@ Vacation spots? Or just marks on her burglary checklist?
 #### c9946702a3 | BRUCE → BATMAN | x2
 Looks alright to me. Nothing growing at least.
 
-#### ba3e7ef536-SM | BRUCE → ALFRED | x2
+#### ba3e7ef536 | BRUCE → ALFRED | x2
 I was wrong. Definitely stale.
 
 #### e5f3974b23 | BRUCE | x2
@@ -1132,22 +1129,25 @@ Scarlet Pimpernel, Much Ado About Nothing, Petrarch. [a little laugh]Didn’t ta
 #### 72530256f4 | BRUCE | x2
 What’s this one? Oh! The Gita Govinda. [embarassed]That’s....academic.
 
-#### a93c693ec3-SM | BRUCE → SELINA | x2
+#### a93c693ec3 | BRUCE → SELINA | x2
 I uh... took a bit of a beating when I ran into the Children of Arkham--
 
 #### 06f4d38b61 | BRUCE → HARVEY | x2
 You weird thing.
 
-#### 08af4cbd6b-LM | choice/UI → HARVEY | x2
+#### 08af4cbd6b-LM | choice/UI → HARVEY | x4 | listener: male
 You’re not alone.
 
-#### 40235c344a-LM | BRUCE → HARVEY | x2
+#### 08af4cbd6b-L? | choice/UI → HARVEY | x4 | listener: unknown
+You’re not alone.
+
+#### 40235c344a | BRUCE → HARVEY | x2
 You’re not alone. We’re right here.
 
 #### 1271512ef4 | HARVEY → BRUCE | x2
 I am. [a beat]I am...I am...
 
-#### 1f17e95ad1-LM | choice/UI, BRUCE → HARVEY | x4
+#### 1f17e95ad1 | choice/UI, BRUCE → HARVEY | x4
 You need to get help.
 
 #### 980067646d | HARVEY → BRUCE | x2
@@ -1168,7 +1168,7 @@ Don’t be their puppet.
 #### 5278688790 | SELINA → BRUCE | x2
 You think they’ll be there?
 
-#### a09543751a-SM | BRUCE → ALFRED | x2
+#### a09543751a | BRUCE → ALFRED | x2
 Alfred, send out the drones. I need complete coverage around Wayne Enterprises.
 
 #### 949333be28 | SELINA → BRUCE | x2
@@ -1192,10 +1192,10 @@ Up until now Harvey has been weak. He’s been afraid.
 #### a991968852 | HARVEY → BRUCE | x2
 This is the monster they all know you are.
 
-#### 6973f247e4-LM | HARVEY → BRUCE | x2
+#### 6973f247e4 | HARVEY → BRUCE | x2
 This is what you wanted to see, isn’t it?
 
-#### 83065932c5-LM | SELINA → HARVEY | x2
+#### 83065932c5 | SELINA → HARVEY | x2
 Alright, now you got two seconds.
 
 #### 38a86fca23 | HARVEY → SELINA | x2
@@ -1216,10 +1216,10 @@ The call’s already been made!
 #### d981959e06 | HARVEY → SELINA | x2
 NO!!!
 
-#### bfa52e58e8-SM | choice/UI → HARVEY | x2
+#### bfa52e58e8 | choice/UI → HARVEY | x2
 I need to warn Gotham.
 
-#### 9a00ee3ce5-SM | choice/UI → HARVEY | x2
+#### 9a00ee3ce5 | choice/UI → HARVEY | x2
 I won’t abandon him.
 
 #### 8d8b3aecd2 | HARVEY → SELINA | x2
@@ -1234,7 +1234,7 @@ Go off with your tail between your legs.
 #### f26e4851b5 | HARVEY | x2
 No one will get hurt.
 
-#### 1d2da12116-L? | HARVEY | x2
+#### 1d2da12116 | HARVEY | x2
 They will... and you won’t be there to stop them.
 
 #### 6ef806de18 | HARVEY → BRUCE | x4
@@ -1243,7 +1243,7 @@ Looks like we’ve got our answer.
 #### b5cccbf4f2 | HARVEY → BRUCE | x2
 Gotta get back to work, sweetheart.
 
-#### bc0005bbe2-SM | BRUCE → HARVEY | x2
+#### bc0005bbe2 | BRUCE → HARVEY | x2
 I need to warn everybody about the Children of Arkham. They have big plans for Gotham.
 
 #### 76926b4f52 | SELINA → HARVEY | x2
@@ -1306,7 +1306,7 @@ Okay, I’ll leave soon.
 #### 414c620700 | BRUCE → SELINA | x2
 Well, you know...It doesn’t have to be the last time.
 
-#### cba9a8afd7-LM | SELINA → BRUCE | x2
+#### cba9a8afd7 | SELINA → BRUCE | x2
 Don’t get me wrong, Bruce. That was fun... but you showed me where we stood back at the debate.
 
 #### ce7bbaa995 | SELINA → BRUCE | x2
@@ -1321,10 +1321,10 @@ Well, don’t worry. I’m leaving.
 #### bb5dab801b | BRUCE → SELINA | x2
 Well, it meant something to me, Selina.
 
-#### be1940a526-SF | SELINA → BRUCE | x2
+#### be1940a526 | SELINA → BRUCE | x2
 Oh. I’m sorry. But that’s not what this is.
 
-#### a4893e8aa9-SM | BRUCE → SELINA | x2
+#### a4893e8aa9 | BRUCE → SELINA | x2
 I thought...
 
 #### c4c29aea96 | SELINA → BRUCE | x2
@@ -1339,7 +1339,7 @@ I don’t think we really wanna go down that road.
 #### 305abeedd0 | SELINA | x2
 Trust me, okay?
 
-#### 7a1a3f3d91-LM | SELINA → HARVEY | x2
+#### 7a1a3f3d91 | SELINA → HARVEY | x2
 There are bagels in the fridge, if you’re hungry.
 
 #### c0969ebefd | SELINA → HARVEY | x2
@@ -1348,7 +1348,7 @@ No need to rush out on an empty stomach...
 #### 8a33b7fd6f | SELINA → HARVEY | x2
 I don’t need you to stay and hold my hand.
 
-#### 2224580517-LF | HARVEY → SELINA | x2
+#### 2224580517 | HARVEY → SELINA | x2
 You were just using me, weren’t you? Both of you!
 
 #### 1eb2f3dc6a | HARVEY → SELINA | x2
@@ -1408,7 +1408,7 @@ Yes. You are.
 #### 55691f9051 | SELINA → HARVEY | x2
 Two.
 
-#### 01fbcbc30c-SF | SELINA → BRUCE | x2
+#### 01fbcbc30c | SELINA → BRUCE | x2
 Or I could just throw you out myself.
 
 #### 2ec2fd33a4 | SELINA, BATMAN → BRUCE, LADYARKHAM | x4
@@ -1435,7 +1435,7 @@ They both deserve it. One way or another.
 #### 7b7a14fb42 | HARVEY → SELINA | x2
 Harvey’s best friend. Pretended to be. Nothing but a liar in the end.
 
-#### 90046bf2a1-LF | HARVEY → SELINA | x2
+#### 90046bf2a1 | HARVEY → SELINA | x2
 But you... claimed you liked Harvey. Played him. Didn’t even care. No hospital visits for you.
 
 #### d0b6dc3ef3 | SELINA → HARVEY | x2
@@ -1489,10 +1489,10 @@ I’m not gonna hurt him.
 #### cbc23e0d7a | SELINA → BRUCE | x2
 That won’t work.
 
-#### 9d323216e6-LF | BRUCE → SELINA | x2
+#### 9d323216e6 | BRUCE → SELINA | x2
 Harvey! You need to calm down!
 
-#### b070636bed-SM | BRUCE → SELINA | x2
+#### b070636bed | BRUCE → SELINA | x2
 I’ve had enough. Let’s take him out.
 
 #### d92dbbefcc | SELINA → BRUCE | x2
@@ -1504,7 +1504,7 @@ End this.
 #### ca5a5c3921 | SELINA → BRUCE | x2
 He’s had his fun.
 
-#### 119e140687-SF | SELINA → BRUCE | x2
+#### 119e140687 | SELINA → BRUCE | x2
 I’m done messing around. We need to put him down. Now.
 
 #### 563857700e | BRUCE → SELINA | x2
@@ -1525,10 +1525,10 @@ You walk out that door right now, and I don’t have to hurt you.
 #### b395a6d462 | HARVEY → BRUCE, SELINA | x4
 No going back now.
 
-#### 5db52fe76a-LM | BRUCE → HARVEY | x2
+#### 5db52fe76a | BRUCE → HARVEY | x2
 You are done, Harvey! I’m putting you down.
 
-#### dc2164a571-LM | SELINA → BRUCE | x2
+#### dc2164a571 | SELINA → BRUCE | x2
 Have you lost your mind?!
 
 #### 9d99b54869 | SELINA → HARVEY | x2
@@ -1567,7 +1567,7 @@ So much for this place.
 #### 5f5aa6909d | SELINA | x2
 I’m not gonna stick around and wait for him to come back.
 
-#### 88f0e4d907-SF | SELINA → BRUCE | x2
+#### 88f0e4d907 | SELINA → BRUCE | x2
 Thought it would be a while before I had to move again.
 
 #### ca792ca0a8 | SELINA → BRUCE | x2
@@ -1582,7 +1582,7 @@ You’re running away?
 #### 3a8dd4816a | choice/UI → SELINA | x2
 You can handle him.
 
-#### 8d1acf8124-LF | BRUCE → SELINA | x2
+#### 8d1acf8124 | BRUCE → SELINA | x2
 Yeah, you’re right. It’s not safe to stay here.
 
 #### f3bc85f12c | BRUCE → SELINA | x2
@@ -1615,7 +1615,7 @@ You don’t need to be afraid of Harvey. You can handle him.
 #### 2e59cb895f | SELINA → BRUCE | x2
 So it’s my fault if he does, is that it?
 
-#### 402e3ca338-SF | SELINA → BRUCE | x2
+#### 402e3ca338 | SELINA → BRUCE | x2
 Just because I can fight him off doesn’t mean I’m safe.
 
 #### 19695f2821 | BRUCE → SELINA | x2
@@ -1666,7 +1666,7 @@ Selina, I think you should get out of Gotham.
 #### dae96734e7 | BRUCE → SELINA | x7
 It’s not just Harvey. The Children of Arkham are after you. It’s not safe right now.
 
-#### a4a853a7df-LM | SELINA → BRUCE | x7
+#### a4a853a7df | SELINA → BRUCE | x7
 Yeah... maybe you’re right.
 
 #### 6a5c30041a | SELINA → BRUCE | x2
@@ -1678,7 +1678,7 @@ Guest room, huh?
 #### 278874aed0 | SELINA | x2
 Thanks, but I’ll be fine on my own.
 
-#### a1adeaec12-SF | SELINA | x2
+#### a1adeaec12 | SELINA | x2
 I never lived in a manor before.
 
 #### 8f0f6d4531 | SELINA | x2
@@ -1690,7 +1690,7 @@ More good news?
 #### ff3b11eae4 | SELINA → BRUCE | x4
 You’d better get going.
 
-#### eba8555cfc-SF | SELINA | x2
+#### eba8555cfc | SELINA | x2
 I’ve got some packing to do.
 
 #### 7199cfda95 | SELINA → BRUCE | x2
@@ -1738,7 +1738,7 @@ It’s okay, Bruce... I’ll go...
 #### 4509ba0bb3 | HARVEY → SELINA, BRUCE | x4
 I don’t deserve your help{SurpriseA}.
 
-#### 9db45f8671-SM | HARVEY → BRUCE | x2
+#### 9db45f8671 | HARVEY → BRUCE | x2
 I know I messed it all up. You don’t have to..{SurpriseA}.
 
 #### 4ee667aae8 | BRUCE → HARVEY | x2
@@ -1768,7 +1768,7 @@ Relax, Harvey! Okay? It’s gonna be okay.
 #### a38bad1783 | HARVEY → SELINA | x4
 Just for a minute.
 
-#### da365bb800-SM | HARVEY → SELINA | x4
+#### da365bb800 | HARVEY → SELINA | x4
 I really need to talk to you.
 
 #### fa354f784d | HARVEY → SELINA | x4
@@ -1777,13 +1777,13 @@ If you still want me to go, I’ll go.
 #### 9d60fb9c85 | HARVEY → BRUCE, SELINA | x4
 But, I have to get this out.
 
-#### 3a4bbc06e1-LF | HARVEY → SELINA | x2
+#### 3a4bbc06e1 | HARVEY → SELINA | x2
 He thought you were a friend too. Thought you’d liked him. But you didn’t even care, really. No hospital visits for you. Isn’t that right, Selina?
 
 #### 525828ac39 | BRUCE → HARVEY | x2
 For someone who risks her life to steal all of this, she sure doesn’t take care of it.
 
-#### 2b80d39eec-SM | BRUCE → HARVEY | x2
+#### 2b80d39eec | BRUCE → HARVEY | x2
 This was an exhibit at the Gotham Museum of Art. I helped raise the funds for it.
 
 #### e4d5c03437 | BRUCE → HARVEY | x2
@@ -1813,7 +1813,7 @@ Guarding her loot, I guess.
 #### cb68c06668 | BRUCE → SELINA | x2
 If she’s not keeping any of this in there, what does she need the safe for?
 
-#### 657bd4dbcd-LF | BRUCE → SELINA | x2
+#### 657bd4dbcd | BRUCE → SELINA | x2
 Plenty of backups. Didn’t know you could break crowbars that easily.
 
 #### 51e22f06f8 | BRUCE → SELINA | x2

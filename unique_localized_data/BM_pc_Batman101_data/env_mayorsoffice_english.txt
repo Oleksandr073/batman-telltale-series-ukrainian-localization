@@ -16,7 +16,7 @@ Gotta admit it though--you give a good chase.
 #### f05086703d | CATWOMAN → BATMAN | x4
 One day you might actually catch me.
 
-#### ac7adb9e48-LM | CATWOMAN → BATMAN | x2
+#### ac7adb9e48 | CATWOMAN → BATMAN | x2
 But you won’t.
 
 #### 118e5b3282 | BATMAN → CATWOMAN | x2
@@ -49,13 +49,13 @@ Stand down!
 #### e7b70a5d0a | GCPD03 → GORDON | x2
 Oh shit! Are we takin’ bets, ‘cause my money’s on the Bat.
 
-#### 56f4ae7144-SM | GORDON → GCPD03 | x2
+#### 56f4ae7144 | GORDON → GCPD03 | x2
 I said don’t shoot!
 
 #### 5f096855fb | GORDON → CATWOMAN | x2
 Goddammit!
 
-#### 246ccc8fab-SF | CATWOMAN → GORDON | x2
+#### 246ccc8fab | CATWOMAN → GORDON | x2
 Guess I was wrong about you catching me.
 
 #### c8e2ab17e8 | BATMAN → CATWOMAN | x2
@@ -67,10 +67,10 @@ But that’s what you crave--the struggle.
 #### d5a44ee1d0 | CATWOMAN → BATMAN | x2
 Wouldn’t have landed on my feet this time.
 
-#### 0f8868a089-SM | BATMAN → CATWOMAN | x2
+#### 0f8868a089 | BATMAN → CATWOMAN | x2
 Answer me or I let go--
 
-#### 0368868746-S? | GCPD02 → CATWOMAN | x2
+#### 0368868746 | GCPD02 → CATWOMAN | x2
 I’ve got her!
 
 #### 0148801a0f | GORDON, HARVEY, GCPD03, LUCIUS → BRUCE, BOY, CATWOMAN | x11
@@ -124,7 +124,7 @@ My my, you’re a big one aren’t you?
 #### bb5a83bf11 | CATWOMAN → BRUCE | x2
 Payday.
 
-#### df7b4e2062-SF | CATWOMAN → BRUCE | x2
+#### df7b4e2062 | CATWOMAN → BRUCE | x2
 I was wondering if we’d cross paths.
 
 #### ab6d860d56 | BATMAN → CATWOMAN | x2
@@ -136,7 +136,7 @@ Oh, cut the shit.
 #### e6f73f737b | CATWOMAN → BATMAN | x2
 Don’t tell me that’s why you do all... this.
 
-#### 5aa9001c92-LF | BATMAN → CATWOMAN | x2
+#### 5aa9001c92 | BATMAN → CATWOMAN | x2
 You broke the law. Here I am.
 
 #### 7adc391ea9 | CATWOMAN → BATMAN | x2
@@ -280,7 +280,7 @@ Until you’ve been shot out of the sky.
 #### 5c2e76dd84 | ALFRED → CATWOMAN | x2
 Bruce... you..you can’t keep doing this.
 
-#### 4674fcaede-LM | BRUCE → ALFRED | x2
+#### 4674fcaede | BRUCE → ALFRED | x2
 Sometimes you need a monster.
 
 #### 26c9f7352c | ALFRED → BRUCE | x2
@@ -304,7 +304,7 @@ But, be careful you don’t turn into a monster.
 #### 327bb1cac9 | ALFRED → BRUCE | x2
 I know you’re trying to create a myth.
 
-#### 728b122950-LM | ALFRED → BRUCE | x2
+#### 728b122950 | ALFRED → BRUCE | x2
 Every drop of blood, everything you’ve sacrificed... this city is safer now.
 
 #### 197c798df5 | ALFRED → BRUCE | x2
@@ -346,7 +346,7 @@ The rest in body bags.
 #### e9afdd5fda | THUG04 → THUG03 | x2
 No wonder the cops want him dead.
 
-#### 59bce503e3-SM | THUG03 → THUG04 | x2
+#### 59bce503e3 | THUG03 → THUG04 | x2
 I heard stories, you know.
 
 #### f59965bfa6 | THUG03 → THUG04 | x2
@@ -355,7 +355,7 @@ What?! No, Hell no.
 #### 77ec2cbcc6 | THUG03 → THUG04 | x2
 Dyin’ to get a chance to clip his wings, that’s all--
 
-#### 691a18cfc9-LM | THUG04 → THUG03 | x2
+#### 691a18cfc9 | THUG04 → THUG03 | x2
 Don’t tell me you’re scared of the big bad bat...
 
 #### 86198bc4a5 | THUG02 → THUG03 | x2
@@ -385,7 +385,7 @@ The hell is this...?
 #### fd72bfa165 | GORDON, HARVEY, GALAMAN03, ALFRED → BRUCE, FALCONE, GALAMAN04 | x14
 Christ.
 
-#### 4395afb9bf-LM | THUG02 → GORDON | x2
+#### 4395afb9bf | THUG02 → GORDON | x2
 You scared of a freak in a costume?
 
 #### efe825c3fd | THUG01 → GORDON | x2
@@ -412,7 +412,7 @@ Stay focused.
 #### 372e15efc3 | choice/UI → THUGBOSS | x2
 Satchel Catwoman
 
-#### dfc3de3407-LM | BRUCE → THUGBOSS | x2
+#### dfc3de3407 | BRUCE → THUGBOSS | x2
 You need a monster.
 
 #### aaedbdf6cb | GORDON → THUGBOSS | x2
@@ -424,7 +424,7 @@ Don’t need it.
 #### 370d45d6df | GCPD02 → CATWOMAN | x2
 Hey! There he is!
 
-#### fb4a8e9e9e-SF | CATWOMAN → GORDON | x2
+#### fb4a8e9e9e | CATWOMAN → GORDON | x2
 Took you long enough. I was getting bored.
 
 #### 526f0bb8be | CATWOMAN → BATMAN | x2
@@ -475,13 +475,13 @@ And be Bruce Wayne tonight.
 #### 1de5a78b98 | BATMAN → CATWOMAN | x2
 I do this for the thrill of it.
 
-#### 8572ae7fb6-LF | BRUCE → CATWOMAN | x2
+#### 8572ae7fb6 | BRUCE → CATWOMAN | x2
 Sometimes... you need a monster.
 
 #### 23df31b6e5 | CATWOMAN → ALFRED | x2
 Oh, shut up.
 
-#### 3bb8c947a7-S? | GCPD02 → THUGBOSS | x2
+#### 3bb8c947a7 | GCPD02 → THUGBOSS | x2
 I’ve got him!
 
 #### 25135c9abc | GUARD → THUGBOSS | x2
@@ -490,7 +490,13 @@ Hey! What’re you--[doing]
 #### a24ed6fd36 | THUGBOSS, choice/UI → CATWOMAN, ALFRED | x4
 Where are you?
 
-#### 862d39150e-L? | THUGBOSS, choice/UI → GCPD02 | x4
+#### 862d39150e-L? | choice/UI, THUGBOSS, FALCONE, BATMAN → VICKI, GCPD02, ALFRED | x12 | listener: unknown
+Show yourself!
+
+#### 862d39150e-LM | choice/UI, THUGBOSS, FALCONE, BATMAN → VICKI, GCPD02, ALFRED | x12 | listener: male
+Show yourself!
+
+#### 862d39150e-LF | choice/UI, THUGBOSS, FALCONE, BATMAN → VICKI, GCPD02, ALFRED | x12 | listener: female
 Show yourself!
 
 #### 20cb10e1a9 | THUGBOSS → GUARD | x2

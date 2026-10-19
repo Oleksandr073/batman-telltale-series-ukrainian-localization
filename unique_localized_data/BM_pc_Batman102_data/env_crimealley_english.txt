@@ -1,4 +1,4 @@
-﻿#### 8d05815b94-SM | choice/UI | x2
+﻿#### 8d05815b94 | choice/UI | x2
 I saw a picture.
 
 #### d0c7043cd3 | choice/UI | x2
@@ -7,7 +7,7 @@ Falcone was convincing.
 #### ab72e3e22d | choice/UI | x2
 I remember their murder.
 
-#### 10a31997d2-LM | choice/UI → THOMAS | x2
+#### 10a31997d2 | choice/UI → THOMAS | x2
 You were my father’s right hand.
 
 #### 69562b9993 | choice/UI → THOMAS | x2
@@ -19,31 +19,31 @@ Bruce…
 #### 90d73f2e73 | ALFRED → THOMAS | x2
 You have to take a break.  Eat something, for God’s sake.
 
-#### 9109792371-SM | choice/UI → ALFRED | x2
+#### 9109792371 | choice/UI → ALFRED | x2
 I lost my appetite.
 
 #### 16a9c91d6c | ALFRED → BRUCE | x2
 You do realize there are some things you can’t fix in a workshop.
 
-#### c26189820c-SM | BRUCE → ALFRED | x2
+#### c26189820c | BRUCE → ALFRED | x2
 I’m only too aware.
 
 #### 0988c9fc94 | ALFRED → BRUCE | x2
 Done with what?
 
-#### 8d6995b9d6-SM | BRUCE → ALFRED | x2
+#### 8d6995b9d6 | BRUCE → ALFRED | x2
 I took damage at the Skyline. My suit. My cape.
 
-#### 39af943f71-SM | ALFRED → BRUCE | x2
+#### 39af943f71 | ALFRED → BRUCE | x2
 I thought I’d made myself clear. There’s nothing to know.
 
-#### 7094d20b23-LM | BRUCE → ALFRED | x2
+#### 7094d20b23 | BRUCE → ALFRED | x2
 You were my father’s right hand. You must have seen something!
 
 #### 042c8d663a | BRUCE → ALFRED | x2
 Alfred, be honest…
 
-#### bcb6fddbe2-SM | BRUCE → ALFRED | x2
+#### bcb6fddbe2 | BRUCE → ALFRED | x2
 So I can eat it when I’m done.
 
 #### 28832a85bb | BRUCE → ALFRED | x2
@@ -52,22 +52,22 @@ Leave it on the side.
 #### f9981ea3c9 | ALFRED → BRUCE | x2
 So it can get cold and go to waste?
 
-#### 86d002fcd3-LM | BRUCE, choice/UI → ALFRED | x4
+#### 86d002fcd3 | BRUCE, choice/UI → ALFRED | x4
 How much did you know?
 
 #### dafc90b704 | choice/UI → ALFRED | x2
 We don’t keep secrets.
 
-#### 26d56a0811-LM | ALFRED → BRUCE | x2
+#### 26d56a0811 | ALFRED → BRUCE | x2
 You had Carmine Falcone in the bloody parlor! Anyone could have snapped a photo of the two of you.
 
-#### 8f1e052a42-SM | BRUCE → ALFRED | x2
+#### 8f1e052a42 | BRUCE → ALFRED | x2
 I saw a picture, Alfred. My parents, Falcone….
 
 #### 3d172ab629 | BRUCE → ALFRED | x2
 Do you have an explanation?
 
-#### 9e58544a05-LM | BRUCE → ALFRED | x2
+#### 9e58544a05 | BRUCE → ALFRED | x2
 Did you know my parents were criminals?
 
 #### 3af5410c68 | ALFRED → BRUCE | x2
@@ -76,7 +76,7 @@ Your mother and father were good people, Bruce.
 #### d2b7e46827 | ALFRED → BRUCE | x2
 Does that make you guilty!?
 
-#### b2c87b0882-SM | choice/UI → ALFRED | x2
+#### b2c87b0882 | choice/UI → ALFRED | x2
 I saw your expression.
 
 #### a7cb7ba7bf | choice/UI → ALFRED | x2
@@ -103,7 +103,7 @@ It’s only making me angrier.
 #### d30b77bbbf | BATMAN, BRUCE, LUCIUS → ALFRED, BATMAN | x24
 Alfred?
 
-#### 4bc1a5255b-LM | ALFRED → BRUCE | x2
+#### 4bc1a5255b | ALFRED → BRUCE | x2
 If I didn’t know better, I’d say you enjoyed taking bullets. Look at the state of your cape.
 
 #### 01a4ea1a51 | choice/UI → ALFRED | x2
@@ -124,7 +124,7 @@ You really should learn to take better care of your things.
 #### 360c9de0b0 | choice/UI → ALFRED | x2
 I demand the truth.
 
-#### d7a37dfab9-LM | BRUCE → ALFRED | x2
+#### d7a37dfab9 | BRUCE → ALFRED | x2
 But you were my father’s right hand!
 
 #### b907afb3d1 | BRUCE → ALFRED | x6
@@ -136,13 +136,13 @@ Then why are you acting like there is!
 #### 776aea9cdf | BRUCE → ALFRED | x2
 We’re like family. You can’t keep secrets from me.
 
-#### edad13d76c-SM | ALFRED → BRUCE | x4
+#### edad13d76c | ALFRED → BRUCE | x4
 If I’d caught a whiff of anything rotten, I’d have told you.
 
-#### e3e3483e59-SM | BRUCE → ALFRED | x2
+#### e3e3483e59 | BRUCE → ALFRED | x2
 I need to know the truth.
 
-#### 592d1ae337-LM | BRUCE → ALFRED | x2
+#### 592d1ae337 | BRUCE → ALFRED | x2
 Did you know?
 
 #### a8e47cfe5d | BRUCE → ALFRED | x2
@@ -160,7 +160,7 @@ You know I’ll find out. One way or another.
 #### d3ae86db4a | ALFRED → BRUCE | x2
 Why would you ever doubt that?!
 
-#### 063781f5ba-SM | BRUCE → ALFRED | x2
+#### 063781f5ba | BRUCE → ALFRED | x2
 I saw your face, Alfred!
 
 #### 9018c6271d | ALFRED → BRUCE | x2
@@ -175,13 +175,13 @@ Forget the cape, Alfred. It’s not important.
 #### 67775a2856 | BRUCE → ALFRED | x2
 I know what you’re doing. It won’t work.
 
-#### 2d280525db-SM | ALFRED → BRUCE | x2
+#### 2d280525db | ALFRED → BRUCE | x2
 I wasn’t aware that I was doing anything other than fixing your gear.
 
 #### aaf0a0786c | ALFRED → BRUCE | x2
 No matter what that dyed in the wool criminal told you.
 
-#### 875e05d2ac-SM | BRUCE → ALFRED | x2
+#### 875e05d2ac | BRUCE → ALFRED | x2
 I saw his eyes, Alfred! Falcone was telling the truth.
 
 #### d86ade140b | ALFRED → BRUCE | x2
@@ -220,7 +220,7 @@ Don’t make me do something I’ll regret.
 #### 5682d7c9fb | BRUCE → ALFRED | x2
 Just like you’d never lie to me.
 
-#### 76c5c49cb9-LM | ALFRED → BRUCE | x2
+#### 76c5c49cb9 | ALFRED → BRUCE | x2
 You’d never hurt me. I know that.
 
 #### 6f5742d3fe | ALFRED → BRUCE | x2
@@ -229,7 +229,7 @@ If you must know, the topic makes me uncomfortable.
 #### 99bbf559ad | BRUCE → ALFRED | x2
 Because there’s truth to it?
 
-#### 4ce5b25aac-SM | ALFRED → BRUCE | x2
+#### 4ce5b25aac | ALFRED → BRUCE | x2
 Because it cheapens the memory of two people I loved.
 
 #### db8d50047f | BRUCE → ALFRED | x2
@@ -271,28 +271,28 @@ I hope I can count on you for the truth.
 #### fe14911839 | ALFRED → BRUCE | x2
 My face?! The world’s greatest detective must have something better than that.
 
-#### 0da7dd215d-LM | ALFRED → BRUCE | x2
+#### 0da7dd215d | ALFRED → BRUCE | x2
 Knowing that you would has kept me awake at night for two decades.
 
-#### 94b52b3c18-LM | BRUCE → ALFRED | x2
+#### 94b52b3c18 | BRUCE → ALFRED | x2
 Did you know my parents’ were assassinated?
 
 #### 2ca7977ce7 | BRUCE → ALFRED | x2
 Tell me what you know!!
 
-#### 3a071df78c-SM | ALFRED → BRUCE | x2
+#### 3a071df78c | ALFRED → BRUCE | x2
 I never wanted to believe it...
 
-#### 676d8dd4ee-SM | ALFRED → BRUCE | x2
+#### 676d8dd4ee | ALFRED → BRUCE | x2
 But I was never convinced your parents were killed over a wallet and pearls.
 
 #### 8cbb1bd19a | BRUCE → ALFRED | x2
 You’re saying they were assassinated? That Joe Chill was hired and paid?
 
-#### 7276d1a880-SM | BRUCE → ALFRED | x2
+#### 7276d1a880 | BRUCE → ALFRED | x2
 It was all the proof I needed.
 
-#### 09f69a5518-SM | ALFRED → BRUCE | x2
+#### 09f69a5518 | ALFRED → BRUCE | x2
 I never had proof.
 
 #### 314ce2509f | ALFRED → BRUCE | x2
@@ -304,19 +304,19 @@ Who ordered it?!
 #### 45b444f1f9 | choice/UI → ALFRED | x2
 Falcone told the truth.
 
-#### 3449eefd8a-SM | BRUCE → ALFRED | x2
+#### 3449eefd8a | BRUCE → ALFRED | x2
 Who wanted them dead!? I thought my parents were loved!
 
 #### 2c819e163b | BRUCE → ALFRED | x2
 So Falcone was telling the truth.
 
-#### a8003f417f-LM | BRUCE → ALFRED | x2
+#### a8003f417f | BRUCE → ALFRED | x2
 You kept this from me for all these years? Why!?
 
-#### 9c25218e45-LM | ALFRED → BRUCE | x2
+#### 9c25218e45 | ALFRED → BRUCE | x2
 Or because you insulted him at the gala?
 
-#### 9df0cc6655-SM-LM | ALFRED → BRUCE | x2
+#### 9df0cc6655 | ALFRED → BRUCE | x2
 This is exactly why I never told you.  I was afraid it’d make you less than yourself.
 
 #### 67fc209093 | ALFRED → BRUCE | x2
@@ -340,16 +340,19 @@ That I don’t know.
 #### 3a396820f9 | ALFRED → BRUCE | x2
 And no amount of threatening is going to change my
 
-#### b18bd30615-LM | choice/UI → ALFRED | x4
+#### b18bd30615-LM | choice/UI → ALFRED, SELINA | x6 | listener: male
+You betrayed me.
+
+#### b18bd30615-LF | choice/UI → ALFRED, SELINA | x6 | listener: female
 You betrayed me.
 
 #### c2c21cb8b0 | ALFRED → BRUCE | x2
 Torture me all you like, I simply don’t have the answers.
 
-#### ef52682b01-SM | choice/UI → ALFRED | x2
+#### ef52682b01 | choice/UI → ALFRED | x2
 Sorry I overreacted.
 
-#### 823f47efdc-SM-LM | choice/UI → ALFRED | x2
+#### 823f47efdc | choice/UI → ALFRED | x2
 I’m glad you told me.
 
 #### b9d99f1d5d | BRUCE → ALFRED | x2
@@ -373,7 +376,7 @@ Everything I do is to right injustice. To avenge the wrongs against the innocent
 #### 32490dd5a3 | BRUCE → ALFRED | x2
 If my parents were no better than the people I’ve been fighting... what does that mean for Batman?
 
-#### 08a8661aec-LM | ALFRED → BRUCE | x2
+#### 08a8661aec | ALFRED → BRUCE | x2
 Only what you let it mean.
 
 #### 83425c633a | ALFRED → BRUCE | x2
@@ -403,7 +406,7 @@ I wouldn’t go that far.
 #### 1f3417dca3 | ALFRED → BRUCE | x2
 But, in the last years of their lives... they kept some shady company.
 
-#### c3d2e30b90-SM | BRUCE → ALFRED | x2
+#### c3d2e30b90 | BRUCE → ALFRED | x2
 They were the reason I started dressing up as a bat.
 
 #### 1c89dde690 | BRUCE → ALFRED | x2
@@ -418,34 +421,34 @@ Gotham still needs a protector.
 #### dfe34376b0 | BRUCE → ALFRED | x2
 Joe Chill spoke to them as if he knew them. It never made sense until now.
 
-#### e669d14120-SM | BRUCE → ALFRED | x2
+#### e669d14120 | BRUCE → ALFRED | x2
 I was there the night of their murder.
 
 #### 0a42ce855c | BRUCE → ALFRED | x2
 But the memory is still fresh.
 
-#### 442bb507ba-LM | ALFRED → BRUCE | x2
+#### 442bb507ba | ALFRED → BRUCE | x2
 That was a long time ago. You were just a child.
 
 #### 94b1730862 | BRUCE → ALFRED | x4
 So it’s true.
 
-#### 4ae84a25c7-LM | ALFRED → BRUCE | x2
+#### 4ae84a25c7 | ALFRED → BRUCE | x2
 Unless you let it.
 
-#### f6eb8f76b5-SM | BRUCE → ALFRED | x2
+#### f6eb8f76b5 | BRUCE → ALFRED | x2
 Call Harvey... tell him I need ten minutes with Falcone. He’ll need to pull some strings with Gordon to get me past the police guard.
 
 #### 58a18e2da7 | ALFRED → BRUCE | x2
 He’s in police custody.
 
-#### 70aad4c52a-SM | BRUCE → ALFRED | x2
+#### 70aad4c52a | BRUCE → ALFRED | x2
 Falcone must have answers. I need to see him.
 
 #### ab96edaeb3 | ALFRED → BRUCE | x2
 The news said he was under police guard at the Gotham General Hospital.
 
-#### 4578d76eb3-LM | ALFRED → BRUCE | x2
+#### 4578d76eb3 | ALFRED → BRUCE | x2
 Apparently they were able to keep him alive, despite all the damage you did.
 
 #### 6fbf7d88ea | ALFRED → BRUCE | x2
@@ -496,7 +499,7 @@ So it is true?
 #### 5c94a5a4f8 | BRUCE → ALFRED | x2
 Then tell me!
 
-#### 62bc67979f-LM | ALFRED → BRUCE | x2
+#### 62bc67979f | ALFRED → BRUCE | x2
 Are you sure you’re ready to hear it?
 
 #### 4762569cce | ALFRED → BRUCE | x2
@@ -505,19 +508,19 @@ All I’ve ever done is out of care for you.
 #### a8a107c15c | ALFRED → BRUCE | x2
 I don’t know. I honestly don’t have all the answers.
 
-#### a07e9a36e5-SM-LM | BRUCE → ALFRED | x2
+#### a07e9a36e5 | BRUCE → ALFRED | x2
 But I’m glad you told me.
 
 #### 117a6d7cb2 | BRUCE → ALFRED | x2
 This is a terrible thing to hear.
 
-#### b5d4e08a79-SM | ALFRED → BRUCE | x2
+#### b5d4e08a79 | ALFRED → BRUCE | x2
 I was trying to protect you!
 
 #### 1ee08750c1 | BRUCE → ALFRED | x2
 How could you keep this from me?
 
-#### 1338469df7-SM | ALFRED → BRUCE | x2
+#### 1338469df7 | ALFRED → BRUCE | x2
 You have to understand... I never knew for sure.
 
 #### be5153acb9 | BRUCE → ALFRED | x2
@@ -526,10 +529,10 @@ By keeping me in the dark.
 #### ae5bf7197b | BRUCE → ALFRED | x2
 And Alfred... please never lie to me again.
 
-#### e2dbabb36e-LM | ALFRED → BRUCE | x2
+#### e2dbabb36e | ALFRED → BRUCE | x2
 After all the damage you did.
 
-#### c25b68dd54-LM | choice/UI → ALFRED | x2
+#### c25b68dd54 | choice/UI → ALFRED | x2
 You were in that picture, too.
 
 #### 7cfdf01034 | choice/UI → ALFRED | x2
@@ -550,7 +553,7 @@ Is all my money dirty?
 #### 5c89f6995f | choice/UI → ALFRED | x4
 Sorry doesn’t fix it.
 
-#### c456af808a-SM | choice/UI → ALFRED | x4
+#### c456af808a | choice/UI → ALFRED | x4
 I’m sorry, too.
 
 #### 2dd5065c67 | choice/UI, BRUCE → ALFRED, SELINA, LUCIUS | x16
@@ -559,7 +562,7 @@ I don’t want to talk about it.
 #### fa5c0eb98a | choice/UI → ALFRED | x4
 That was sweet of her.
 
-#### dd7c6c1888-SM | choice/UI → ALFRED | x6
+#### dd7c6c1888 | choice/UI → ALFRED | x6
 I was a lucky kid.
 
 #### 69c1f03e2d | choice/UI → ALFRED | x6
@@ -568,7 +571,7 @@ Talk about a silver spoon.
 #### 8ab11c6bab | choice/UI | x4
 I can’t see him as a criminal.
 
-#### e9892721d1-SM | choice/UI | x4
+#### e9892721d1 | choice/UI | x4
 I learned that from him.
 
 #### 65d407157a | choice/UI | x2
@@ -580,7 +583,7 @@ I’d ask him why.
 #### 9a7c8d8423 | choice/UI | x2
 He’d be dead.
 
-#### eb419b8b5f-SM | choice/UI → ALFRED | x4
+#### eb419b8b5f | choice/UI → ALFRED | x4
 I’d put him back in jail.
 
 #### 203755bc22 | choice/UI, BRUCE → ALFRED | x14
@@ -598,22 +601,22 @@ How could you keep this from me?!
 #### d9bf36b985 | choice/UI | x2
 That can’t be true!
 
-#### a56af25aee-L? | choice/UI | x4
+#### a56af25aee | choice/UI | x4
 You lied to me!
 
 #### c60c4b9fc3 | choice/UI → ALFRED | x4
 “Nothing will ever change that”..?!
 
-#### 6b0b5b8a25-SM | choice/UI → ALFRED | x4
+#### 6b0b5b8a25 | choice/UI → ALFRED | x4
 I could have handled it!
 
-#### 5069f751ae-SM | choice/UI → ALFRED | x4
+#### 5069f751ae | choice/UI → ALFRED | x4
 Because I trusted you!
 
 #### 3411ce8a8f | choice/UI → ALFRED | x4
 It hurts more now!
 
-#### 82c521e58b-LM | choice/UI → ALFRED | x4
+#### 82c521e58b | choice/UI → ALFRED | x4
 So you lied to me?!
 
 #### 1c3c707588 | choice/UI → ALFRED | x4
@@ -622,7 +625,7 @@ My parents were good people!
 #### fcfc59670a | choice/UI → ALFRED | x4
 There must be more to this!
 
-#### ae364c2cf3-SM-LM | ALFRED → BRUCE | x2
+#### ae364c2cf3 | ALFRED → BRUCE | x2
 I’ve never tried to keep things from you, Bruce. You would have seen right through me.
 
 #### 9b9ebd259e | ALFRED → BRUCE | x2
@@ -631,10 +634,10 @@ Your parents loved you. They were wonderful parents and nothing will ever change
 #### 3eb0e870fc | ALFRED → BRUCE | x2
 But Falcone wasn’t wrong. And you should know that.
 
-#### 895c22cc75-SM | ALFRED → BRUCE | x4
+#### 895c22cc75 | ALFRED → BRUCE | x4
 Perhaps I was also in denial? It took me a long time to accept that good people I knew weren’t perfect.
 
-#### f3eae20638-LM | BRUCE → ALFRED | x4
+#### f3eae20638 | BRUCE → ALFRED | x4
 There were so many times you could have told me. But instead you lied!
 
 #### f6bd87f1e4 | ALFRED → BRUCE | x2
@@ -658,7 +661,7 @@ But it will never change the warm feelings you remember about them.
 #### 30b694d200 | ALFRED → BRUCE | x2
 From a low-life like Carmine Falcone.
 
-#### 930ccd15ce-SM-L? | ALFRED | x4
+#### 930ccd15ce | ALFRED | x4
 I’m so sorry you had to find out this way.
 
 #### c33d67eaa3 | ALFRED → BRUCE | x4
@@ -667,7 +670,7 @@ It doesn’t help anything to stand there and bottle everything up.
 #### 61869b7753 | ALFRED → BRUCE | x6
 Save your glowering and silent rage for the thugs you chase every night.
 
-#### 90dbbeb40c-SM | choice/UI, BATMAN → ALFRED, OSWALD | x4
+#### 90dbbeb40c | choice/UI, BATMAN → ALFRED, OSWALD | x4
 I could have handled it.
 
 #### b479c680dc | ALFRED → BRUCE | x2
@@ -676,13 +679,13 @@ Was I going to tell a child who’d just been orphaned?
 #### 869b932a94 | ALFRED → BRUCE | x2
 Why? Just to break his heart?
 
-#### 7a6d72c2ed-LM | BRUCE → ALFRED | x2
+#### 7a6d72c2ed | BRUCE → ALFRED | x2
 You kept this from me my whole life!
 
-#### 6a2944d9db-SM | BRUCE → ALFRED | x2
+#### 6a2944d9db | BRUCE → ALFRED | x2
 I was a tough kid. I could have handled it.
 
-#### 9f8ab2a9d8-LM | ALFRED → BRUCE | x2
+#### 9f8ab2a9d8 | ALFRED → BRUCE | x2
 No, you needed peace. You still do.
 
 #### 36a82293fe | BRUCE → ALFRED | x2
@@ -691,7 +694,7 @@ You don’t get to decide for me, Alfred!
 #### 36107170a6 | ALFRED → BRUCE | x2
 It was done with love. Perhaps misguided. But my intentions were pure, I assure you.
 
-#### 5b9445ee3e-SM | BRUCE → ALFRED | x2
+#### 5b9445ee3e | BRUCE → ALFRED | x2
 I put all my trust in you, Alfred!
 
 #### 2ec07e1ed1 | BRUCE → ALFRED | x2
@@ -700,10 +703,10 @@ Look where we’re standing, damn it!
 #### 3eefe5efab | BRUCE → ALFRED | x2
 And you betray me?
 
-#### 9c6fce64f0-SM-LM | ALFRED → BRUCE | x2
+#### 9c6fce64f0 | ALFRED → BRUCE | x2
 You’re not alone in this. I felt just as hurt and betrayed when I found out.
 
-#### 52696b7e0b-LM | BRUCE → ALFRED | x2
+#### 52696b7e0b | BRUCE → ALFRED | x2
 So you let it fester for decades. And now it hurts even more.
 
 #### fa427fb4a6 | BRUCE → ALFRED | x2
@@ -712,7 +715,7 @@ There was no good time to hear it.
 #### 6065e9ab34 | ALFRED → BRUCE | x2
 How would it have helped anything?
 
-#### a9190d8213-LM | ALFRED → BRUCE | x2
+#### a9190d8213 | ALFRED → BRUCE | x2
 You were so young. And had so much to deal with already.
 
 #### 6978482c60 | choice/UI → ALFRED, VICKI | x6
@@ -721,10 +724,10 @@ Who are you to judge?
 #### a57a3cd282 | ALFRED → BRUCE | x2
 Your parents were billionaires, Bruce. You can’t amass wealth like that without making certain moral compromises.
 
-#### d12284a7af-LM | ALFRED → BRUCE | x2
+#### d12284a7af | ALFRED → BRUCE | x2
 You put on that suit and beat on criminals every night. I’ll let you answer your own question.
 
-#### 44fa566258-LM | BRUCE → ALFRED | x4
+#### 44fa566258 | BRUCE → ALFRED | x4
 How can you pass judgement on my parents when you kept their secrets even after they died?
 
 #### 9ee6bda68a | ALFRED → BRUCE | x8
@@ -736,7 +739,7 @@ You want to start insulting my family, Alfred, you can go to hell.
 #### 24d3d6cf91 | BRUCE → ALFRED | x4
 So you’re saying all of this was built on blood money?
 
-#### 6ad705f8d0-LM | ALFRED → BRUCE | x4
+#### 6ad705f8d0 | ALFRED → BRUCE | x4
 Your parents did what they did. You’ve forged your own path. And that’s all that should matter.
 
 #### cdc572cf0c | ALFRED → BRUCE | x8
@@ -745,7 +748,7 @@ They gave a lot to charity.
 #### fd138937fc | ALFRED → BRUCE | x8
 But some of that was because of guilt.
 
-#### 8d363e1790-SM | ALFRED → THOMAS | x2
+#### 8d363e1790 | ALFRED → THOMAS | x2
 Please understand I was only trying to protect you.
 
 #### dfcd1e031c | ALFRED → BRUCE | x2
@@ -763,19 +766,28 @@ Bruce? Bruce, where are you going?
 #### c3bce92883 | NEWSCASTER → ALFRED, BRUCE | x6
 ...Waynes gunned down...
 
-#### 545eb0f2c0-SM | ALFRED → GCPD02, NEWSCASTER, THOMAS | x6
+#### 545eb0f2c0 | ALFRED → GCPD02, NEWSCASTER, THOMAS | x6
 I thought we could travel together.
 
-#### 1618c2ad37-SM | choice/UI, ALFRED, HARVEY → BRUCE, HARVEY, THOMAS | x18
+#### 1618c2ad37-SM | choice/UI, ALFRED, ENFORCERCOLLEEN, ASSISTANT → BRUCE, GORDON, HARVEY | x27 | speaker: male
 I’m so sorry.
 
-#### 3f8539001b-LM | ALFRED → BRUCE | x4
+#### 1618c2ad37-S? | choice/UI, ALFRED, ENFORCERCOLLEEN, ASSISTANT → BRUCE, GORDON, HARVEY | x27 | speaker: unknown
+I’m so sorry.
+
+#### 1618c2ad37-SF | choice/UI, ALFRED, ENFORCERCOLLEEN, ASSISTANT → BRUCE, GORDON, HARVEY | x27 | speaker: female
+I’m so sorry.
+
+#### 3f8539001b-LM | ALFRED → BRUCE, NEWSCASTER | x6 | listener: male
 But I think it’s better you had a moment with them. Alone.
 
-#### 5f7988ee6e-SM | BRUCE → ALFRED | x2
+#### 3f8539001b-L? | ALFRED → BRUCE, NEWSCASTER | x6 | listener: unknown
+But I think it’s better you had a moment with them. Alone.
+
+#### 5f7988ee6e | BRUCE → ALFRED | x2
 You’re all the family I’ve got, Alfred.
 
-#### 14dfa233d3-SM | BRUCE → ALFRED | x2
+#### 14dfa233d3 | BRUCE → ALFRED | x2
 I’m sorry I took it out on you.
 
 #### 856d64d220 | ALFRED, choice/UI → BRUCE | x4
@@ -796,43 +808,43 @@ I see my mistakes now.
 #### 014423cf29 | BRUCE → ALFRED | x4
 Except what happened here.
 
-#### 0cba30c9c3-SM | BRUCE → ALFRED | x2
+#### 0cba30c9c3 | BRUCE → ALFRED | x2
 Everything I thought I knew about them... it’s changed now.
 
 #### 5bf8bd9d26 | choice/UI | x2
 Wish he’d been honest, too.
 
-#### a8f9d081b9-SM | choice/UI → ALFRED | x2
+#### a8f9d081b9 | choice/UI → ALFRED | x2
 I wouldn’t trust myself.
 
-#### 36e174e3ae-SM | BRUCE → ALFRED | x4
+#### 36e174e3ae | BRUCE → ALFRED | x4
 I loved that movie. Saw it countless times at that theater. How long did it play there?
 
-#### c9cedc7f97-LM | ALFRED → BRUCE | x4
+#### c9cedc7f97 | ALFRED → BRUCE | x4
 Only when you wanted to see it, Bruce. Your mother arranged the special screenings personally.
 
-#### 51a2fa4615-SM | BRUCE → ALFRED | x4
+#### 51a2fa4615 | BRUCE → ALFRED | x4
 I never realized that.
 
 #### cd71773e72 | BRUCE → ALFRED | x2
 She was always sweet with me.
 
-#### ca3902b134-SM | BRUCE → ALFRED | x4
+#### ca3902b134 | BRUCE → ALFRED | x4
 I knew I was lucky to have her.
 
 #### 55d526fd01 | ALFRED → BRUCE | x4
 Perhaps. But it balanced out the horror that came later.
 
-#### 4788e7f50e-SM | BRUCE → ALFRED | x2
+#### 4788e7f50e | BRUCE → ALFRED | x2
 My own personal movie theater. Maybe I was spoiled.
 
 #### 4a70bd2a36 | ALFRED → BRUCE | x4
 Martha was always so thoughtful and tender.
 
-#### d35d28e69e-LM | ALFRED → BRUCE | x4
+#### d35d28e69e | ALFRED → BRUCE | x4
 That movie came out long before you were born.
 
-#### 4e9859d760-SM | ALFRED → BRUCE | x4
+#### 4e9859d760 | ALFRED → BRUCE | x4
 And I’m not sure it’s played there since that night.
 
 #### e7eceae7e4 | BRUCE → ALFRED | x4
@@ -847,10 +859,10 @@ Criminals are a superstitious and cowardly lot.
 #### db6d114c04 | BRUCE → ALFRED | x2
 It’s too bad he wasn’t honest, too.
 
-#### fc64126f30-LM | ALFRED → BRUCE | x2
+#### fc64126f30 | ALFRED → BRUCE | x2
 And you are. They would be so proud to see what you’ve made of yourself.
 
-#### 64b45e0758-SM | BRUCE → ALFRED | x2
+#### 64b45e0758 | BRUCE → ALFRED | x2
 I always wanted to be brave like he was.
 
 #### 656fb0081e | ALFRED → BRUCE | x4
@@ -862,7 +874,7 @@ I just... I can’t picture him as a criminal.
 #### dd49457d95 | ALFRED → BRUCE | x4
 Your mother was brave as well.
 
-#### 65e0494acc-LM | ALFRED → BRUCE | x6
+#### 65e0494acc | ALFRED → BRUCE | x6
 They would be so proud to see what you’ve made of yourself.
 
 #### 97a2d66be3 | ALFRED → BRUCE | x4
@@ -871,7 +883,7 @@ He thought he was invincible.
 #### 2e1cc714b8 | ALFRED → BRUCE | x4
 Sadly, he was mistaken.
 
-#### 0af17b7830-SM | choice/UI → ALFRED | x6
+#### 0af17b7830 | choice/UI → ALFRED | x6
 I wish I could forget it all.
 
 #### 85b5eca062 | choice/UI → ALFRED, JOECHILL | x6
@@ -901,7 +913,7 @@ My parents could have given him anything.
 #### f343abb0e7 | BRUCE → ALFRED | x4
 Why would he just shoot them?
 
-#### 06d2634ef9-SM | BRUCE → ALFRED | x4
+#### 06d2634ef9 | BRUCE → ALFRED | x4
 I wouldn’t trust myself around him.
 
 #### 528ec5f0c0 | ALFRED → BRUCE | x4
@@ -910,10 +922,10 @@ Batman doesn’t kill.
 #### bf54c45c7a | ALFRED → BRUCE | x4
 The possibilities are frightening.
 
-#### 0665cb5b3a-SM | ALFRED → BRUCE | x4
+#### 0665cb5b3a | ALFRED → BRUCE | x4
 Though I’m curious to hear.
 
-#### a57bd52112-SM | BRUCE → ALFRED | x4
+#### a57bd52112 | BRUCE → ALFRED | x4
 That’s why I wouldn’t trust myself.
 
 #### b77092996d | ALFRED → BRUCE | x4
@@ -937,7 +949,7 @@ Memory is not as fixed as you think, Bruce.
 #### 4113d7e473 | ALFRED → BRUCE | x6
 Sometimes it forgets things for you.
 
-#### 9ff6c3e768-SM | BRUCE → ALFRED | x6
+#### 9ff6c3e768 | BRUCE → ALFRED | x6
 I wish I could forget everything about that night. But I can’t.
 
 #### 625a2fc718 | ALFRED → BRUCE | x6
@@ -952,7 +964,7 @@ It’s very tricky that way.
 #### 335c5563b6 | ALFRED → BRUCE | x4
 You might say memory has a mind of its own.
 
-#### 6273a2c56a-LM | ALFRED → BRUCE | x2
+#### 6273a2c56a | ALFRED → BRUCE | x2
 You came here to face something, Bruce.
 
 #### 1d8e3fa2f5 | ALFRED → BRUCE | x4
@@ -976,7 +988,7 @@ Shut it.
 #### 512b85afb0 | JOECHILL → THOMAS | x2
 Just a robbery, kid. Nothing to see here.
 
-#### 531b17277c-LM | JOE CHILL → BRUCE, THOMAS | x4
+#### 531b17277c | JOE CHILL → BRUCE, THOMAS | x4
 Nothing personal. They told me you had it coming.
 
 #### 31f4099a61 | BRUCE → THOMAS, JOECHILL, ALFRED | x7
@@ -1018,7 +1030,7 @@ Good. Bad. Surely not indifferent.
 #### 30fafb4eda | ALFRED → BRUCE | x2
 Go back to Crime Alley.
 
-#### 9637247fd6-LM | ALFRED → BRUCE | x2
+#### 9637247fd6 | ALFRED → BRUCE | x2
 Then get out of the house. Return to the one place you’ve never looked.
 
 #### 13d7d21981 | BRUCE → ALFRED | x2
@@ -1033,7 +1045,7 @@ Your mind sees what it’s ready to accept. Perhaps now you will see more.
 #### 24b30dfab8 | BRUCE → ALFRED | x2
 But I’ve been through my parents’ things countless times.
 
-#### 782a721b3f-LM | ALFRED → BRUCE | x2
+#### 782a721b3f | ALFRED → BRUCE | x2
 Then go back to the one place you’ve never looked at.
 
 #### 07985e1994 | ALFRED → BRUCE | x4
@@ -1042,13 +1054,13 @@ Look closer. The past isn’t as far away as you think.
 #### f35754ad62 | BRUCE → ALFRED | x2
 That will never change.
 
-#### a420515f7c-SM | BRUCE → ALFRED | x2
+#### a420515f7c | BRUCE → ALFRED | x2
 Everything I thought I knew about my parents is changing, Alfred. Except for their murder.
 
 #### 410bf23a3f | ALFRED, choice/UI, LUCIUS → BRUCE, HARVEY, ORDERLY01 | x27
 Are you sure?
 
-#### bbc3ecfa1a-SM | ALFRED → BRUCE | x4
+#### bbc3ecfa1a | ALFRED → BRUCE | x4
 I only wanted to protect you, Bruce. It’s all I’ve ever wanted.
 
 #### e653b1177a | ALFRED → BRUCE | x2
@@ -1066,7 +1078,7 @@ Faced with the same dilemma again, I wouldn’t change a thing.
 #### e6994f96de | ALFRED → BRUCE | x4
 So go ahead and vent your anger on me.
 
-#### e2159facb7-SM | ALFRED → BRUCE | x4
+#### e2159facb7 | ALFRED → BRUCE | x4
 But I’m comfortable with the decisions I’ve made.
 
 #### 7b7069780e | BRUCE → ALFRED | x4
@@ -1075,10 +1087,10 @@ I’m not a child anymore, Alfred. You don’t get to decide what I hear anymore
 #### c32ecf10f1 | ALFRED → BRUCE | x4
 Yes, I fully acknowledge that.
 
-#### acc88182d3-LM | BRUCE → ALFRED | x4
+#### acc88182d3 | BRUCE → ALFRED | x4
 You could have saved them. But you didn’t.
 
-#### cea548b97e-SM | ALFRED → BRUCE | x2
+#### cea548b97e | ALFRED → BRUCE | x2
 I explained my reasoning. There’s really not much else I can say.
 
 #### dbbbdce78b | BRUCE → ALFRED | x4
@@ -1093,10 +1105,13 @@ I’m not going to presume your silence means forgiveness.
 #### 4314478a7d | ALFRED → BRUCE | x4
 But perhaps a momentary truce.
 
-#### cf4b91c066-SM | BRUCE → ALFRED | x6
+#### cf4b91c066 | BRUCE → ALFRED | x6
 If I forgot anything about that night, it was for a good reason.
 
-#### 92551577c8-LM | JOE CHILL → ALFRED | x2
+#### 92551577c8-LM | JOE CHILL, JOECHILL → ALFRED, MARTHA | x4 | listener: male
+Listen carefully, kid. Your folks got killed in a robbery. You got lucky. Remember that.
+
+#### 92551577c8-LF | JOE CHILL, JOECHILL → ALFRED, MARTHA | x4 | listener: female
 Listen carefully, kid. Your folks got killed in a robbery. You got lucky. Remember that.
 
 #### afb0be9d13 | MARTHA → JOECHILL, THOMAS | x14
@@ -1108,7 +1123,7 @@ Tell Falcone... he’s making a mistake...
 #### 530026fc5f | THOMAS → ALFRED | x2
 Stay away from... my family...
 
-#### 1ba6156875-SM | ALFRED → THOMAS, BRUCE | x4
+#### 1ba6156875 | ALFRED → THOMAS, BRUCE | x4
 I suspected there was something amiss. I showed one too many shady characters into Thomas’ study.
 
 #### d4051f9d98 | ALFRED → THOMAS | x2
@@ -1126,13 +1141,16 @@ Tell Falcone he’s messing with the wrong-[interrupted by a gunshot]
 #### 60dbdd0894 | MARTHA → ALFRED | x2
 You worthless-- I’ll -- I’ll kill your whole damn--
 
-#### 3ba5c149ef-SM | ALFRED → THOMAS, BRUCE | x4
+#### 3ba5c149ef | ALFRED → THOMAS, BRUCE | x4
 But then I suddenly became your guardian. I had to think like a parent. Like your parent.
 
-#### 5342f97707-LM | ALFRED → THOMAS | x2
+#### 5342f97707 | ALFRED → THOMAS | x2
 And the reality of what your parents were gave way to the fear of what you could grow up to be.
 
-#### 4ef43d9d6c-LF | ALFRED → MARTHA | x2
+#### 4ef43d9d6c-LF | ALFRED → MARTHA, BRUCE | x4 | listener: female
+If you learned your father was corrupt at a young age, would it send you down the same path?
+
+#### 4ef43d9d6c-LM | ALFRED → MARTHA, BRUCE | x4 | listener: male
 If you learned your father was corrupt at a young age, would it send you down the same path?
 
 #### e0d4bcb9cf | BRUCE → ALFRED | x4
@@ -1144,13 +1162,16 @@ Undoubtedly. And I expect you’ll try to get to the bottom of it.
 #### 5e55807d22 | ALFRED → BRUCE | x6
 I haven’t judged what they did, only explained.
 
-#### fa44225c5b-SM | ALFRED → BRUCE | x8
+#### fa44225c5b | ALFRED → BRUCE | x8
 And I have never absolved myself from the guilt.
 
-#### d9387a263e-SM-LM | ALFRED → BRUCE | x2
+#### d9387a263e-SM-LM | ALFRED → BRUCE | x4 | speaker: male, listener: male
 Did you know I was supposed to pick you up from the theater that night?
 
-#### 04bbe0aac8-SM | ALFRED → BRUCE | x4
+#### d9387a263e-SM-L? | ALFRED → BRUCE | x4 | speaker: male, listener: unknown
+Did you know I was supposed to pick you up from the theater that night?
+
+#### 04bbe0aac8 | ALFRED → BRUCE | x4
 I was delayed. Maybe if I’d arrived on time, things would have turned out differently.
 
 #### 432a81ecb2 | ALFRED → BRUCE | x4
@@ -1159,13 +1180,13 @@ I’ll always regret what happened. But I don’t regret keeping the ugly detail
 #### c03f1e53bc | BRUCE, HARVEY, GOON02, GORDON → ALFRED, BRUCE, PENGUIN | x27
 No...
 
-#### 7bb40fb0b4-SM | ALFRED → BRUCE | x4
+#### 7bb40fb0b4 | ALFRED → BRUCE | x4
 I never talked to you about that night, because I knew it would lead to my own guilt.
 
 #### d1cc7d1ba9 | ALFRED → BRUCE | x4
 I’m so, so sorry.
 
-#### da59558cf1-LM | ALFRED → BRUCE | x2
+#### da59558cf1 | ALFRED → BRUCE | x2
 Now that you know Falcone was involved with your parents, maybe there was some clue you overlooked that night in Crime Alley?
 
 #### 0f4d6c0514 | BRUCE → ALFRED | x4
@@ -1186,12 +1207,6 @@ Maybe Crime Alley, the site of your parents’ murder, could still hold some sec
 #### 3771db05e7 | ALFRED → BRUCE | x4
 It might be worth a second look.
 
-#### 4ef43d9d6c-LM | ALFRED → BRUCE | x2
-If you learned your father was corrupt at a young age, would it send you down the same path?
-
-#### d9387a263e-SM-L? | ALFRED | x2
-Did you know I was supposed to pick you up from the theater that night?
-
 #### 5e703e9725 | ALFRED → BRUCE | x2
 Your parents were billionaires, Bruce.
 
@@ -1200,9 +1215,6 @@ Save your rage for the thugs you chase every night.
 
 #### a4f15d8401 | ALFRED → BRUCE | x2
 True. But your father had an unsavory side. Anyone close to him could sense it.
-
-#### 3f8539001b-L? | ALFRED → NEWSCASTER | x2
-But I think it’s better you had a moment with them. Alone.
 
 #### 033ca2f8d1 | BRUCE → ALFRED | x4
 Not the kind I deal with.
@@ -1213,19 +1225,19 @@ There’s nothing to learn here.
 #### 22fb24aa0f | BRUCE → ALFRED | x4
 I come here all the time. But I don’t know what this place should mean to me anymore.
 
-#### 20056242cb-LM | ALFRED → BRUCE | x4
+#### 20056242cb | ALFRED → BRUCE | x4
 That’s something you’ll have to figure out for yourself.
 
 #### 6a8ae15e79 | THOMAS → ALFRED | x2
 ...You... you don’t have to do this...
 
-#### 5aa7f591fe-LM | choice/UI → ALFRED | x4
+#### 5aa7f591fe | choice/UI → ALFRED | x4
 You hid it from me!
 
 #### 178452aa2b | choice/UI → ALFRED | x4
 I wish it would.
 
-#### 20cc502d21-SM | BRUCE → ALFRED | x4
+#### 20cc502d21 | BRUCE → ALFRED | x4
 So you’re saying all I’ve accomplished was built on dirty money?
 
 #### 08fcc51664 | ALFRED → BRUCE | x4
@@ -1234,7 +1246,7 @@ Your parents did what they did.
 #### 6df28ffd4d | BRUCE → ALFRED | x4
 You want to insult my family, Alfred, you can go to hell!
 
-#### 94b6d0a3fa-LM | BRUCE → ALFRED | x4
+#### 94b6d0a3fa | BRUCE → ALFRED | x4
 Who are you to judge my parents? You kept their secrets even after they died.
 
 #### ca09324358 | ALFRED → BRUCE | x2
@@ -1255,13 +1267,13 @@ I know it was a mugging.
 #### 6f4ac8750b | choice/UI → ALFRED | x4
 Say what you mean.
 
-#### 2864fe8f91-SM | choice/UI → ALFRED | x4
+#### 2864fe8f91 | choice/UI → ALFRED | x4
 I need answers.
 
 #### a493055e18 | choice/UI, BATMAN → MONTOYA, ALFRED | x6
 I forgive you.
 
-#### 8ce73ed1d6-SM | ALFRED → BRUCE | x8
+#### 8ce73ed1d6 | ALFRED → BRUCE | x8
 I thought I might find you here.
 
 #### e0e16547ee | ALFRED → BRUCE | x2
@@ -1273,25 +1285,28 @@ I k
 #### 7b2e3b7fc9 | ALFRED | x6
 Another article on your family. More allegations about their ties to the underworld.
 
-#### 9f5099b2e4-SM | ALFRED | x2
+#### 9f5099b2e4 | ALFRED | x2
 And I’m sorry to say, the story appears to be accurate.
 
 #### 38d61a869c | ALFRED → BRUCE | x6
 This isn’t going to end anytime soon.
 
-#### 90a41c9325-SM-LM | ALFRED → BRUCE | x4
+#### 90a41c9325-SM-LM | ALFRED → BRUCE | x6 | speaker: male, listener: male
+I’m sorry you had to find out this way.
+
+#### 90a41c9325-SM-L? | ALFRED → BRUCE | x6 | speaker: male, listener: unknown
 I’m sorry you had to find out this way.
 
 #### 8e24f9068f | ALFRED → BRUCE | x6
 It’s all so public and messy.
 
-#### 4c767badc2-LM | BRUCE → ALFRED | x4
+#### 4c767badc2 | BRUCE → ALFRED | x4
 You could have told me at any time. But instead you hid it!
 
-#### 445888559a-SM | ALFRED → BRUCE | x4
+#### 445888559a | ALFRED → BRUCE | x4
 I did what I thought was best!
 
-#### b62a461054-SM | ALFRED → BRUCE | x2
+#### b62a461054 | ALFRED → BRUCE | x2
 It’s not like I have all the answers, anyway. Just bits and pieces of what I observed.
 
 #### 5416c7e702 | BRUCE → ALFRED | x2
@@ -1309,7 +1324,7 @@ I can tell you what I know. But it isn’t much.
 #### 79b6fdb95b | BRUCE → ALFRED | x4
 It’s a nightmare, Alfred.
 
-#### 4c9a824c92-SM | ALFRED → BRUCE | x4
+#### 4c9a824c92 | ALFRED → BRUCE | x4
 It’s why I kept this from you for so long. Perhaps that was a mistake.
 
 #### 174c18bd25 | ALFRED → BRUCE | x4
@@ -1330,19 +1345,19 @@ They were quite successful. Because no one dared to stand in their way.
 #### 89743db85e | ALFRED → BRUCE | x2
 That’s everything I know.
 
-#### 86a09163eb-SM | BRUCE → ALFRED | x2
+#### 86a09163eb | BRUCE → ALFRED | x2
 You shouldn’t have kept this from me, Alfred! I could have handled it.
 
 #### 7bc413374c | ALFRED → BRUCE | x2
 Your anger leads me to believe otherwise.
 
-#### be4420a8b1-SM | BRUCE → ALFRED | x2
+#### be4420a8b1 | BRUCE → ALFRED | x2
 I appreciate your honesty, Alfred. I need time to process this and figure out what I’m doing next.
 
-#### 7648ca61e2-LM | ALFRED → BRUCE | x2
+#### 7648ca61e2 | ALFRED → BRUCE | x2
 Take all the time you need. But please, don’t lock your feelings away.
 
-#### eae798bb81-SM-LM | BRUCE → ALFRED | x2
+#### eae798bb81 | BRUCE → ALFRED | x2
 I trusted you. I trusted them. And all of you betrayed me.
 
 #### 56fa22e51f | ALFRED → BRUCE | x2
@@ -1351,10 +1366,10 @@ My guilt over this will never go away. But I hope we can find a way to move past
 #### 07cb1a6227 | BRUCE → ALFRED | x2
 I don’t know who to trust anymore.
 
-#### 793292594d-SM | ALFRED → BRUCE | x2
+#### 793292594d | ALFRED → BRUCE | x2
 I did it with the best of intentions.
 
-#### 2fc67a560d-SM | ALFRED → BRUCE | x8
+#### 2fc67a560d | ALFRED → BRUCE | x8
 I was only trying to protect you.
 
 #### 58caf93cd7 | ALFRED → BRUCE | x2
@@ -1369,7 +1384,7 @@ Since the night the police called me here to collect you.
 #### 40b813344c | ALFRED → BRUCE | x4
 I confess, I’d been dreading that call.
 
-#### 55b33bc245-LM | BRUCE → ALFRED | x4
+#### 55b33bc245 | BRUCE → ALFRED | x4
 Dreading? You mean, you were expecting it?
 
 #### 46317e52d2 | ALFRED → BRUCE | x4
@@ -1378,13 +1393,16 @@ Not necessarily that night.
 #### 032fb80e1d | BRUCE → ALFRED | x4
 If you have something to say, Alfred, say it!
 
-#### 72f93640e9-SM | ALFRED → BRUCE | x4
+#### 72f93640e9 | ALFRED → BRUCE | x4
 I’ve always had my doubts your parents were the victims of a random mugging.
 
-#### 76015dc675-LM | ALFRED → BRUCE | x4
+#### 76015dc675 | ALFRED → BRUCE | x4
 But that was what you told the police.
 
-#### ca911551b5-LM | ALFRED → BRUCE | x8
+#### ca911551b5-LM | ALFRED → BRUCE | x10 | listener: male
+You’ve never wavered from your story in twenty years.
+
+#### ca911551b5-L? | ALFRED → BRUCE | x10 | listener: unknown
 You’ve never wavered from your story in twenty years.
 
 #### 88b84d08a4 | ALFRED → BRUCE | x10
@@ -1393,7 +1411,7 @@ Who was I to say any different?
 #### 6713535c68 | BRUCE → ALFRED | x4
 You don’t think my parents were the victims of a random mugging?
 
-#### 37b295b6de-SM | ALFRED → BRUCE | x10
+#### 37b295b6de | ALFRED → BRUCE | x10
 I’ve always had doubts.
 
 #### 93bc0f7b48 | ALFRED → BRUCE | x8
@@ -1402,16 +1420,13 @@ It was you who told the police it was a robbery.
 #### f6aeea45a8 | ALFRED → BRUCE | x4
 If it didn’t happen in this alley, it would have happened someplace else.
 
-#### b3f1b297d0-SM | BRUCE → ALFRED | x4
+#### b3f1b297d0 | BRUCE → ALFRED | x4
 No, I know what I saw that night. It was a random mugging.
 
-#### ca911551b5-L? | ALFRED | x2
-You’ve never wavered from your story in twenty years.
-
-#### b0f927a7ca-SM | ALFRED → BRUCE | x4
+#### b0f927a7ca | ALFRED → BRUCE | x4
 I’ve always had doubts you parents were the victims of a mugging.
 
-#### 1a706bf3b3-LM | ALFRED → BRUCE | x4
+#### 1a706bf3b3 | ALFRED → BRUCE | x4
 But that’s what you told police.
 
 #### df82b655ce | BRUCE → ALFRED | x2
@@ -1444,10 +1459,10 @@ I don’t believe it.
 #### 7079c89fea | choice/UI → ALFRED | x2
 I should have known.
 
-#### 48be9d191e-LM | BRUCE → ALFRED | x2
+#### 48be9d191e | BRUCE → ALFRED | x2
 How do you know all this? You were just the butler.
 
-#### c9f6212b36-SM | ALFRED → BRUCE | x2
+#### c9f6212b36 | ALFRED → BRUCE | x2
 I saw quite a bit. Pieced together the rest.
 
 #### cd420e760c | BRUCE → ALFRED | x2
@@ -1486,7 +1501,10 @@ I’ll... be delicate.
 #### 2b0c835691 | BATMAN, choice/UI → HILL, ALFRED | x10
 How do you know them?
 
-#### 215a67cc71-L? | choice/UI | x2
+#### 215a67cc71-L? | choice/UI, BATMAN, BRUCE → HILL, ALFRED | x12 | listener: unknown
+What did you do to them?
+
+#### 215a67cc71-LM | choice/UI, BATMAN, BRUCE → HILL, ALFRED | x12 | listener: male
 What did you do to them?
 
 #### 81cfa50280 | choice/UI | x6
@@ -1516,13 +1534,16 @@ Remember, this is your doing.
 #### a465fad03a | choice/UI | x4
 [Let Hill talk]
 
-#### 6850d29bc1-L? | choice/UI | x8
+#### 6850d29bc1-L? | choice/UI → HILL | x10 | listener: unknown
+No, you need protection from me.
+
+#### 6850d29bc1-LM | choice/UI → HILL | x10 | listener: male
 No, you need protection from me.
 
 #### ed3fd95ee5 | choice/UI → SELINA, HILL, PATRON01 | x16
 Brutal
 
-#### 4488a97294-SM | choice/UI | x6
+#### 4488a97294 | choice/UI | x6
 I just wanted an excuse to hurt you.
 
 #### 2a238f0ecd | choice/UI → ALFRED | x6
@@ -1531,7 +1552,10 @@ You’ll talk. I promise.
 #### 678ea3fea2 | choice/UI | x10
 Falcone squealed, so will you.
 
-#### 3f41a789ad-L? | choice/UI | x2
+#### 3f41a789ad-L? | choice/UI → ALFRED, HILL | x8 | listener: unknown
+Did you know?!
+
+#### 3f41a789ad-LM | choice/UI → ALFRED, HILL | x8 | listener: male
 Did you know?!
 
 #### e2030dba54 | choice/UI → HILL | x8
@@ -1561,7 +1585,7 @@ TELL ME WHAT I WANT TO KNOW!
 #### 54d1df772e | choice/UI → ALFRED | x10
 Don’t make me laugh.
 
-#### fe3a655ba9-SM | ALFRED → BATMAN, JOECHILL, HILL | x8
+#### fe3a655ba9 | ALFRED → BATMAN, JOECHILL, HILL | x8
 I never thought I would echo Ms. Kyle’s advice, but remember...
 
 #### ba194d2188 | ALFRED → HILL, BATMAN | x6
@@ -1579,7 +1603,7 @@ The city will thank me later if Hill gives up a clue to the Children’s plans.
 #### 620c5e729e | BATMAN → ALFRED, BRUCE | x6
 Don’t worry, Al...
 
-#### 91d65600ea-SM | BATMAN → BRUCE, HILL | x6
+#### 91d65600ea | BATMAN → BRUCE, HILL | x6
 I’m a light touch. When I need to be.
 
 #### 109b4ab8aa | BATMAN, BRUCE → ALFRED | x18
@@ -1588,7 +1612,7 @@ Alfred...
 #### 181c32030e | BATMAN → ALFRED | x6
 I’m not in the mood for a lecture.
 
-#### 2faab844a1-SM | BRUCE, BATMAN → ALFRED | x6
+#### 2faab844a1 | BRUCE, BATMAN → ALFRED | x6
 I got it, Alfred.
 
 #### 67e86ee3f5 | ALFRED → BATMAN, HILL | x6
@@ -1597,13 +1621,13 @@ Batman has the public trust after taking down Falcone.
 #### dd1836131b | ALFRED → BATMAN, HILL | x6
 Try not to throw it away by going overboard on Hill.
 
-#### db128dd820-LM | ALFRED → HILL, BATMAN | x8
+#### db128dd820 | ALFRED → HILL, BATMAN | x8
 ...the whole city is already afraid of the Batman after what you did to Falcone.
 
 #### c99b942f3f | ALFRED → HILL, BATMAN | x6
 Try not to make things worse by going overboard on Hill.
 
-#### e4577d1084-SM | HILL → ALFRED | x4
+#### e4577d1084 | HILL → ALFRED | x4
 Deborah, you incompetent! Where in hell are those files on mental health? Dent’s up in the polls -- I need to crucifiy him in the debate or we can kiss relection-- and your menial, yet somehow overwhelming job--  goodbye.
 
 #### bf22218b59 | HILL → BATMAN, ALFRED | x16
@@ -1627,9 +1651,6 @@ W-what exactly do you want to know?
 #### 05cefda2c3 | HILL → BATMAN | x8
 Security!? Security?!
 
-#### 215a67cc71-LM | BATMAN, BRUCE, choice/UI → HILL, ALFRED | x10
-What did you do to them?
-
 #### d9096148d0 | HILL → BATMAN | x36
 Oh, God in heaven --
 
@@ -1639,13 +1660,13 @@ Why are they targeting you!?
 #### bc5c3a3182 | HILL → BATMAN | x8
 You’re nothing but a vigilante -- a common thug! I don’t have to answer to you!
 
-#### b5f9cb248f-LM | HILL → BATMAN | x8
+#### b5f9cb248f | HILL → BATMAN | x8
 You’re wrong if you think I’ll let you do me like Falcone --
 
 #### e04bc0208b | HILL → BATMAN | x4
 You and that Catlady are nothing more than freaks -- running amok over Gotham.
 
-#### ccdf581d81-SM | BATMAN → HILL | x8
+#### ccdf581d81 | BATMAN → HILL | x8
 I was hoping you might feel that way.
 
 #### 0e578ea864 | BATMAN → HILL | x8
@@ -1723,13 +1744,13 @@ Anything we wanted. We took it all.
 #### 8f98d28700 | HILL → BATMAN | x6
 That’s why they want us all dead.
 
-#### 58139af827-LM | HILL → BATMAN | x6
+#### 58139af827 | HILL → BATMAN | x6
 You said you’d protect me!
 
-#### 3832f93be2-SM | BATMAN → HILL | x6
+#### 3832f93be2 | BATMAN → HILL | x6
 I said I’d consider it.
 
-#### 5b2ef80c26-LM | HILL → BATMAN | x6
+#### 5b2ef80c26 | HILL → BATMAN | x6
 You knew Wayne...? He never mentioned --
 
 #### eb7fb182d5 | BATMAN → HILL | x6
@@ -1738,7 +1759,7 @@ Whatever the Children of Arkham have planned for you, it’s not bad enough.
 #### a1dcae81a5 | HILL → BATMAN, SECURITY01 | x6
 They plan to expose all of it -- to humuliate me -- on election night.
 
-#### 7d540e558f-SM | HILL → BATMAN, SECURITY01 | x6
+#### 7d540e558f | HILL → BATMAN, SECURITY01 | x6
 But I won’t go down easy. I didn’t get here by running from a fight.
 
 #### f9fe399888 | HILL → BATMAN, SECURITY02 | x6
@@ -1753,7 +1774,7 @@ Johnson’s down. He killed Johnson.
 #### 5cc48e45dc | SECURITY03 → ALFRED | x4
 Get the Mayor out of here.
 
-#### 0b47c15fc7-SM | ALFRED → BRUCE | x8
+#### 0b47c15fc7 | ALFRED → BRUCE | x8
 I heard everything, Master Bruce.
 
 #### 8f25f42bbf | ALFRED → BRUCE | x6
@@ -1765,10 +1786,10 @@ But you have to move
 #### 62a192888a | ALFRED → BATMAN | x8
 Come back home. We can still foil the Children of Arkham’s plans.
 
-#### e815f5dd13-SM | BATMAN → ALFRED | x8
+#### e815f5dd13 | BATMAN → ALFRED | x8
 Calm down, Alfred. I’m fine.
 
-#### 9f94b1a9bf-SM | ALFRED → BATMAN, BRUCE | x10
+#### 9f94b1a9bf | ALFRED → BATMAN, BRUCE | x10
 Well, I’m glad one of us is.
 
 #### 0d64ff184f | BATMAN → ALFRED | x4
@@ -1780,7 +1801,7 @@ Well get a grip and do it quickly. Gotham needs you. And I know you Bruce -- the
 #### 3fdfb37089 | ALFRED → BRUCE | x12
 Bruce..?
 
-#### 381e4ef447-LM | BATMAN, BRUCE → ALFRED | x8
+#### 381e4ef447 | BATMAN, BRUCE → ALFRED | x8
 Is this something else you didn’t tell me?! Did you know any of this?
 
 #### 53d862567e | ALFRED → BATMAN, BRUCE | x6
@@ -1810,7 +1831,7 @@ I just want to wake up and for it all be gone.
 #### 5d46028a23 | BRUCE → ALFRED | x4
 My parents, Carmine Falcone...
 
-#### 576d723868-LM | BRUCE → ALFRED | x4
+#### 576d723868 | BRUCE → ALFRED | x4
 Who are you to judge my father? You kept his secrets even after he died.
 
 #### eac0a13a2c | ALFRED → BRUCE | x8
@@ -1822,7 +1843,10 @@ Your parents. Carmine Falcone. Mayor Hill.
 #### 1d28371bc0 | ALFRED → BRUCE | x4
 Your father did what he did.
 
-#### 5baf15eefa-LM | ALFRED → BRUCE | x2
+#### 5baf15eefa-LM | ALFRED → BRUCE | x4 | listener: male
+You’ve forged your own path. And that’s all that should matter.
+
+#### 5baf15eefa-L? | ALFRED → BRUCE | x4 | listener: unknown
 You’ve forged your own path. And that’s all that should matter.
 
 #### 512e22e782 | ALFRED → BRUCE | x2
@@ -1837,10 +1861,10 @@ She was good to me.
 #### c2ea66ea5d | BRUCE → ALFRED | x2
 She was always so good to me.
 
-#### a9a352bc0f-SM | BRUCE → ALFRED | x4
+#### a9a352bc0f | BRUCE → ALFRED | x4
 I never knew that.
 
-#### c19be24848-SM | BRUCE → ALFRED | x2
+#### c19be24848 | BRUCE → ALFRED | x2
 My own personal movie theater? Maybe I was spoiled.
 
 #### a9221d1da8 | BRUCE → ALFRED | x2
@@ -1849,13 +1873,13 @@ It’s just too bad he wasn’t honest, as well.
 #### e7a2d555a7 | ALFRED → BRUCE | x2
 He had his flaws, yes. But you more than anyone should be able to appreciate that he was a complicated man.
 
-#### 1dd16d349d-SM | BRUCE → ALFRED | x2
+#### 1dd16d349d | BRUCE → ALFRED | x2
 I always wanted to be brave. Just like him.
 
 #### bdcb5620a4 | ALFRED → BRUCE | x2
 And you are.
 
-#### 45bb94c561-SM | choice/UI → ALFRED | x2
+#### 45bb94c561 | choice/UI → ALFRED | x2
 I wanted to be like him.
 
 #### c5c1202925 | choice/UI → ALFRED | x2
@@ -1879,14 +1903,11 @@ I’d take him to jail. Just like any other criminal.
 #### 255dd9f8d4 | BRUCE → ALFRED | x2
 I’d only want to ask him one question. Why?
 
-#### 9645e943a6-LM | ALFRED → BRUCE | x2
+#### 9645e943a6 | ALFRED → BRUCE | x2
 You came here to confront something, Bruce.
 
 #### b4930047a5 | MARTHA → BRUCE | x6
 Bruce... Bruce...
-
-#### 92551577c8-LF | JOECHILL → MARTHA | x2
-Listen carefully, kid. Your folks got killed in a robbery. You got lucky. Remember that.
 
 #### 183b1a1b10 | MARTHA → JOECHILL, THOMAS | x6
 Thomas!
@@ -1906,7 +1927,7 @@ Placard
 #### b236945345 | ALFRED → THOMAS, BRUCE | x8
 I know the news was upsetting... for both of us. But you should see this.
 
-#### bfafb0b3d5-LM | BRUCE → ALFRED | x4
+#### bfafb0b3d5 | BRUCE → ALFRED | x4
 You -- you hid this from me, all these years!
 
 #### 678984795d | ALFRED → THOMAS | x2
@@ -1924,7 +1945,7 @@ Your father used that to his advantage.
 #### f9120bbfeb | BRUCE → ALFRED | x4
 And I’ll get those answers.
 
-#### 07edfbfb25-SM | ALFRED → BRUCE | x2
+#### 07edfbfb25 | ALFRED → BRUCE | x2
 Please -- forgive me for not telling you sooner. I was only trying to protect you.
 
 #### 0534dc88e1 | ALFRED → BRUCE | x2
@@ -1933,7 +1954,7 @@ Like you’re handling it now?
 #### 794f100e49 | ALFRED → BRUCE | x2
 They took land, assets, money
 
-#### fd1f45b3d8-SM | ALFRED → BRUCE | x2
+#### fd1f45b3d8 | ALFRED → BRUCE | x2
 Out of love for the boy I was charged to care for.
 
 #### 70fed95cc2 | ALFRED → BRUCE | x2
@@ -1945,7 +1966,7 @@ Think back to that night -- as hard as it might be to do so.
 #### f4474ea58a | BRUCE → ALFRED | x2
 He just wanted to protect us.
 
-#### 699f180863-LM | ALFRED → BRUCE | x2
+#### 699f180863 | ALFRED → BRUCE | x2
 He would be so proud to see that you took a different path.
 
 #### e00640faa9 | ALFRED → BRUCE | x2
@@ -1960,7 +1981,10 @@ There must be some detail that escaped you.
 #### 7c71efb677 | JOECHILL → MARTHA, ALFRED, THOMAS | x12
 Just business.
 
-#### 0c90cd853d-LM | JOECHILL → YOUNGBRUCE | x2
+#### 0c90cd853d-LM | JOECHILL → MARTHA, YOUNGBRUCE | x12 | listener: male
+They told me you had it coming.
+
+#### 0c90cd853d-LF | JOECHILL → MARTHA, YOUNGBRUCE | x12 | listener: female
 They told me you had it coming.
 
 #### 9134c35555 | ALFRED → YOUNGBRUCE | x2
@@ -1975,13 +1999,10 @@ I understand your need for solitude.
 #### bccfd68bae | choice/UI → ALFRED | x2
 This can’t be true.
 
-#### 5baf15eefa-L? | ALFRED | x2
-You’ve forged your own path. And that’s all that should matter.
-
 #### e32cc2119a | choice/UI → ALFRED | x2
 I’m not corrupt.
 
-#### 1217bda8ba-LM | choice/UI → ALFRED | x2
+#### 1217bda8ba | choice/UI → ALFRED | x2
 You knew all of this?!
 
 #### db3cb43c5a | choice/UI → ALFRED | x2
@@ -1990,7 +2011,7 @@ They worked together?
 #### 7f869a564f | choice/UI → ALFRED | x2
 And I’m the last to find out.
 
-#### c56be669eb-LM | choice/UI → ALFRED | x2
+#### c56be669eb | choice/UI → ALFRED | x2
 You never told me.
 
 #### fd3cd39ac7 | ALFRED → BRUCE | x2
@@ -2035,7 +2056,7 @@ I want to hear it from you, Alfred.
 #### 2ef8f05fc9 | ALFRED → BRUCE | x2
 Right alongside you.
 
-#### 37fcf76ce0-LM | ALFRED → BRUCE | x4
+#### 37fcf76ce0 | ALFRED → BRUCE | x4
 You were a child!
 
 #### c4a50d9ff7 | ALFRED → BRUCE | x2
@@ -2044,7 +2065,7 @@ I’ve been dreading this moment for two decades.
 #### 0cab5ef14b | BRUCE → ALFRED | x2
 People are throwing stones at my family, Alfred.
 
-#### bcdf4bfd39-SM | BRUCE → ALFRED | x2
+#### bcdf4bfd39 | BRUCE → ALFRED | x2
 I need to understand why.
 
 #### b5d8c5d202 | ALFRED → BRUCE | x2
@@ -2059,7 +2080,7 @@ The truth.
 #### a8655e517a | BRUCE → ALFRED | x2
 I’m living proof you can.
 
-#### 2f329de75b-SM | ALFRED → BRUCE | x2
+#### 2f329de75b | ALFRED → BRUCE | x2
 And I’m proud of you.
 
 #### ca9da0c281 | ALFRED → BRUCE | x2
@@ -2083,10 +2104,10 @@ But you’re hardly the norm.
 #### aa8e1aa1ee | BRUCE → ALFRED | x2
 Who the hell are you to judge?
 
-#### 721d71b698-SM | ALFRED → BRUCE | x2
+#### 721d71b698 | ALFRED → BRUCE | x2
 And I have never -- never -- absolved myself of the guilt.
 
-#### bca28d8487-SM | ALFRED → BRUCE | x2
+#### bca28d8487 | ALFRED → BRUCE | x2
 I know I’m guilty, too. I’ve never absolved myself of any of it.
 
 #### 9f032607bd | ALFRED → BRUCE | x2
@@ -2134,16 +2155,16 @@ Everyone knew about this but me...
 #### 3e4c750926 | ALFRED → BRUCE | x2
 People will use this to bring you down, Bruce.
 
-#### 1ed62090d1-LM | BRUCE → ALFRED | x2
+#### 1ed62090d1 | BRUCE → ALFRED | x2
 You knew all that...
 
 #### 5dc70de6fa | BRUCE → ALFRED | x2
 Working with Falcone? And Hill?
 
-#### 5d6788bb9a-SM | BRUCE → ALFRED | x2
+#### 5d6788bb9a | BRUCE → ALFRED | x2
 I expected irregular accounting.
 
-#### 3128911ac7-SM | ALFRED → BRUCE | x2
+#### 3128911ac7 | ALFRED → BRUCE | x2
 I said I suspected!
 
 #### 30bd277291 | ALFRED → BRUCE | x2
@@ -2155,19 +2176,16 @@ Nothing happened in Gotham without them knowing.
 #### 404bc505f7 | ALFRED | x2
 Could you keep a civil tone please?
 
-#### 243e63abe9-SM | ALFRED | x2
+#### 243e63abe9 | ALFRED | x2
 I was trying to protect you.
-
-#### 90a41c9325-SM-L? | ALFRED | x2
-I’m sorry you had to find out this way.
 
 #### 34ced5f4a7 | ALFRED | x2
 They made an obscene amount of money together.
 
-#### 8d7a8808f8-SM | ALFRED | x4
+#### 8d7a8808f8 | ALFRED | x4
 Property schemes, to start with. But I suspected much more.
 
-#### 2c9544fedd-SM | ALFRED → BRUCE | x2
+#### 2c9544fedd | ALFRED → BRUCE | x2
 You’re behaving like I was part of the conspiracy.
 
 #### 266a957ce6 | ALFRED → BRUCE | x2
@@ -2182,10 +2200,10 @@ We can’t let that happen.
 #### da1be6ed66 | BRUCE → ALFRED | x4
 Not a pact with the devil.
 
-#### 35857ff32f-SM | ALFRED → BRUCE | x2
+#### 35857ff32f | ALFRED → BRUCE | x2
 I told you what I know.
 
-#### faba216488-SM | ALFRED → BRUCE | x2
+#### faba216488 | ALFRED → BRUCE | x2
 Look Bruce -- I was going to quit.
 
 #### 118a573e06 | choice/UI → ALFRED | x2
@@ -2209,10 +2227,10 @@ My father had enemies.
 #### cdfdf766ba | choice/UI → ALFRED | x2
 Someone got careless.
 
-#### 1fecc2cf3c-LM | BRUCE → ALFRED | x2
+#### 1fecc2cf3c | BRUCE → ALFRED | x2
 There’s so much you could h
 
-#### 9044f3c967-LM | BRUCE → ALFRED | x2
+#### 9044f3c967 | BRUCE → ALFRED | x2
 And you never let on!?
 
 #### e05da4a121 | ALFRED → BRUCE | x2
@@ -2236,7 +2254,7 @@ Then my mother -- crying out... crying my name.
 #### 0573915fd1 | ALFRED → BRUCE | x2
 There are considerable gaps in that recollection.
 
-#### d72a3c7ba4-SM | BRUCE → ALFRED | x2
+#### d72a3c7ba4 | BRUCE → ALFRED | x2
 I was wrong, Alfred. And now I’m afraid to look.
 
 #### 451a3b7010 | ALFRED → BRUCE | x2
@@ -2251,7 +2269,7 @@ Please Alfred.
 #### 1888c438ae | BRUCE → ALFRED | x2
 Tell me all of this is a lie.
 
-#### 539b03a173-SM | ALFRED → BRUCE | x2
+#### 539b03a173 | ALFRED → BRUCE | x2
 I wish I could!
 
 #### 2eb4df0b35 | ALFRED → BRUCE | x2
@@ -2269,7 +2287,7 @@ It’s my family, too. Don’t forget that.
 #### da4af057c4 | ALFRED → BRUCE | x2
 I’ve been dreading this day for nearly two decades.
 
-#### 8595b698d8-SM | ALFRED → BRUCE | x2
+#### 8595b698d8 | ALFRED → BRUCE | x2
 I... I hoped it would never come.
 
 #### 36e85d51f4 | BRUCE → ALFRED | x2
@@ -2296,7 +2314,7 @@ I want the truth!
 #### 889325c4f0 | BRUCE → ALFRED | x2
 I want to hear it from you.
 
-#### e1f5fbd42c-LM | BRUCE → ALFRED | x2
+#### e1f5fbd42c | BRUCE → ALFRED | x2
 You kept their secrets for them.
 
 #### ac544e7330 | ALFRED → BRUCE | x2
@@ -2311,16 +2329,16 @@ I’m trying to help you understand.
 #### 553b49c235 | ALFRED → BRUCE | x2
 Thomas was a good man in many ways, but he was not immune to temptation.
 
-#### 63ae5e1118-SM | ALFRED → BRUCE | x2
+#### 63ae5e1118 | ALFRED → BRUCE | x2
 I was kept in the dark, so I don’t know much.
 
-#### 41aaff7876-SM | ALFRED | x2
+#### 41aaff7876 | ALFRED | x2
 I told you what I know. Can we please move past it?
 
 #### 2f1c9aca6e | ALFRED | x2
 Your father was a good man in many ways, but this was his undoing.
 
-#### df6145bf88-SM | ALFRED | x2
+#### df6145bf88 | ALFRED | x2
 When the police called me to collect you, I thought they’d finally arrested your father.
 
 #### f016e3a5fb | ALFRED | x2
@@ -2368,7 +2386,7 @@ Life has a way of cutting you down to size.
 #### 9bd4a0c83f | ALFRED → BRUCE | x2
 Whether you’re a kingpin or a gnat.
 
-#### 70dd73f767-LM | ALFRED → BRUCE | x2
+#### 70dd73f767 | ALFRED → BRUCE | x2
 You always said it was a simple mugging.
 
 #### 6d1998e7de | BRUCE, ALFRED → ALFRED, BRUCE | x4
@@ -2377,7 +2395,7 @@ That’s how I remember it.
 #### dea18b4bf8 | BRUCE → ALFRED | x2
 Every moment of that night, I recall in vivid detail.
 
-#### cab0f6e5ca-SM | BRUCE → ALFRED | x2
+#### cab0f6e5ca | BRUCE → ALFRED | x2
 So I need to look again.
 
 #### d62216145c | BRUCE → ALFRED | x2
@@ -2392,7 +2410,7 @@ Every moment of that night I can recall in vivid detail.
 #### 1d2eab862a | BRUCE → ALFRED | x2
 But maybe that’s wrong.
 
-#### f8abccd4b9-LM | ALFRED → BRUCE | x2
+#### f8abccd4b9 | ALFRED → BRUCE | x2
 In twenty years, you’ve never wavered from that story.
 
 #### 00e5d148fc | BRUCE → ALFRED | x4
@@ -2401,7 +2419,7 @@ I can recall every moment of that night in vivid detail.
 #### 9c52afcd40 | ALFRED → BRUCE | x2
 You don’t think...
 
-#### 7642e79a84-SM | BRUCE → ALFRED | x2
+#### 7642e79a84 | BRUCE → ALFRED | x2
 Maybe there was some detail I overlooked.
 
 #### 41dd7b8daf | ALFRED → BRUCE | x2
@@ -2413,13 +2431,13 @@ It doesn’t quite add up.
 #### 31c74dc504 | ALFRED → BRUCE, THOMAS | x4
 I know it’s a lot to take in.
 
-#### d5486572df-SM | ALFRED | x2
+#### d5486572df | ALFRED | x2
 Everything I did, I did out of love for you.
 
-#### 46848d8b32-SM | ALFRED | x2
+#### 46848d8b32 | ALFRED | x2
 Everything I did, I did to protect you.
 
-#### 7b0e35c639-SM | ALFRED | x2
+#### 7b0e35c639 | ALFRED | x2
 I want you to know, I had my suitcases ready.
 
 #### f21be0299a | ALFRED | x2
@@ -2431,13 +2449,13 @@ I hope you can forgive me.
 #### ecd2c5654f | ALFRED → BRUCE | x2
 I couldn’t stand to be around your father anymore.
 
-#### 30b56cc29e-LM | ALFRED → BRUCE | x2
+#### 30b56cc29e | ALFRED → BRUCE | x2
 And you were all alone. And I just couldn’t walk out the door.
 
-#### 70377c4829-LM | choice/UI → HARVEY, ALFRED | x5
+#### 70377c4829 | choice/UI → HARVEY, ALFRED | x5
 You let me down.
 
-#### a453f57af5-SM | choice/UI → ALFRED | x2
+#### a453f57af5 | choice/UI → ALFRED | x2
 I’m not ready.
 
 #### 87486eaf71 | BRUCE → ALFRED | x2
@@ -2446,25 +2464,25 @@ I understand, Alfred.
 #### 677f235025 | BRUCE → ALFRED | x2
 Just... give me some time to think it through, okay?
 
-#### 48773c3421-SM | ALFRED → BRUCE | x2
+#### 48773c3421 | ALFRED → BRUCE | x2
 Everything I did -- everything I’ve ever done -- was out of love for you.
 
 #### 129e5f8d17 | ALFRED → BRUCE | x2
 Everything I will ever do.
 
-#### 63de263d4c-SM | BRUCE → ALFRED | x2
+#### 63de263d4c | BRUCE → ALFRED | x2
 How could I hold this against you? You’re all I’ve got, Alfred.
 
-#### 5d15079658-SM | ALFRED → BRUCE | x2
+#### 5d15079658 | ALFRED → BRUCE | x2
 I won’t let you down again.
 
-#### bc85f842bd-LM | BRUCE → ALFRED | x2
+#### bc85f842bd | BRUCE → ALFRED | x2
 You really let me down, Alfred. I don’t know if I can.
 
 #### d249743fdc | ALFRED → BRUCE | x4
 Just know, I’m not going anywhere.
 
-#### 1fd751f638-L? | ALFRED | x2
+#### 1fd751f638 | ALFRED | x2
 Take whatever you need.
 
 #### 68fcf22513 | ALFRED | x2
@@ -2485,22 +2503,19 @@ Your recollection seems spotty.
 #### e5dd7764ad | choice/UI → ALFRED | x2
 We’re still family.
 
-#### 0c90cd853d-LF | JOECHILL → MARTHA | x10
-They told me you had it coming.
-
 #### f2e6e96599 | BRUCE → THOMAS | x2
 Maybe. But do I really want to know?
 
 #### 4c9258f6d7 | BRUCE → YOUNGBRUCE | x2
 Wouldn’t Chill just run when he recognized him?
 
-#### e0092f0610-LF | choice/UI → MARTHA | x2
+#### e0092f0610 | choice/UI → MARTHA | x2
 You hid this from me!
 
 #### 30529f8880 | choice/UI → THOMAS | x2
 They’re trashing my family.
 
-#### b8a9f50fd0-LF | choice/UI → MARTHA | x2
+#### b8a9f50fd0 | choice/UI → MARTHA | x2
 You kept their secrets.
 
 #### a1e6d36a29 | choice/UI | x2

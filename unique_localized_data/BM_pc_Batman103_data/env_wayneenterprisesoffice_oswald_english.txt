@@ -34,9 +34,6 @@ At least until this whole mess gets cleaned up.
 #### cf82bece2f | BRUCE → REGINA | x2
 I get it. My name isn’t great for business lately.
 
-#### 3dab2bf483-SF | REGINA → BRUCE | x6
-I’m sorry, Bruce.
-
 #### 265b2a24cd | REGINA → BRUCE | x2
 You have to step down.
 
@@ -94,7 +91,7 @@ Now Bruce--
 #### 212317d6b1 | OSWALD → REGINA | x2
 It’s alright, Regina.
 
-#### 883ea124d7-LF | BRUCE → REGINA | x2
+#### 883ea124d7 | BRUCE → REGINA | x2
 Funny, you never mentioned a business degree.
 
 #### f2a190f02f | OSWALD → REGINA | x2
@@ -106,7 +103,7 @@ This isn’t the best way for Wayne Enterprises to handle this.
 #### 6558d58ccc | REGINA → BRUCE | x2
 Well as that may be, Bruce, it’s no longer your problem to worry about. The board has complete confidence in Mr. Cobblepot.
 
-#### 0109895217-SM | OSWALD → BRUCE | x2
+#### 0109895217 | OSWALD → BRUCE | x2
 I wanted to prove I could do it on my own.
 
 #### d15b595d8e | BRUCE → OSWALD | x2
@@ -115,7 +112,7 @@ Well, then I guess congratulations are in order.
 #### a2dae56ff6 | BRUCE → OSWALD | x2
 It’s nice to know you’ll be the one trapped in this tiny office all day.
 
-#### 23b99a29a6-SM | OSWALD → BRUCE | x2
+#### 23b99a29a6 | OSWALD → BRUCE | x2
 Oh I’m sure it’s bigger than it looks.
 
 #### bb7fdb4985 | OSWALD → BRUCE | x2
@@ -130,13 +127,13 @@ Can’t be easy seeing your toys taken away one by one.
 #### 9e7c951892 | OSWALD → REGINA | x2
 I’ll let that one go.
 
-#### 3cd294f422-SF-LM | REGINA → OSWALD | x2
+#### 3cd294f422 | REGINA → OSWALD | x2
 I’m afraid you won’t be able to take anything with you.
 
 #### cbbe7c1c82 | OSWALD → REGINA | x2
 Now, if you don’t mind.
 
-#### 6784191daa-SF | REGINA → OSWALD | x2
+#### 6784191daa | REGINA → OSWALD | x2
 I’m afraid we need you to leave the building immediately. We’ll have your personal effects sent to you.
 
 #### 148d70741e | OSWALD → BRUCE | x2
@@ -187,7 +184,7 @@ Please don’t do this.
 #### 8423afe8d3 | REGINA → OSWALD | x2
 The board has voted.
 
-#### 10b8632540-LF | BRUCE → REGINA | x2
+#### 10b8632540 | BRUCE → REGINA | x2
 You could’ve picked anyone else. Why him?
 
 #### 60e03b21bd | REGINA → BRUCE | x2
@@ -211,7 +208,7 @@ Please, don’t do this.
 #### f99938e7dd | REGINA → BRUCE | x2
 You didn’t leave us any choice, Mr. Wayne.
 
-#### 5b0fa698d0-LM | REGINA → BRUCE | x2
+#### 5b0fa698d0 | REGINA → BRUCE | x2
 Until these allegations blow over we can’t have you at the head of the company anymore. It makes us look irresponsible.
 
 #### d09a74b167 | REGINA → BRUCE | x2
@@ -226,10 +223,10 @@ I’d like to talk to Oswald. In private.
 #### 25f7add75d | OSWALD → REGINA | x2
 It’s fine, Regina.
 
-#### 54f2368f28-LM | choice/UI → OSWALD | x2
+#### 54f2368f28 | choice/UI → OSWALD | x2
 You won’t win.
 
-#### c4deb37479-LM | choice/UI → OSWALD | x2
+#### c4deb37479 | choice/UI → OSWALD | x2
 You got what you wanted.
 
 #### f92b7817c4 | OSWALD → BRUCE | x2
@@ -241,7 +238,7 @@ Me in your office...
 #### 9ae0abada7 | OSWALD → REGINA | x2
 Taking your job.
 
-#### c3020657e2-LM | OSWALD → BRUCE | x2
+#### c3020657e2 | OSWALD → BRUCE | x2
 Bet you always imagined you’d end up on top, eh Bruce?
 
 #### 733ba0ac78 | BRUCE → OSWALD | x2
@@ -253,7 +250,7 @@ You keep thinking that, mate.
 #### b9276d41a7 | REGINA → BRUCE | x10
 Time to go, Bruce.
 
-#### c5fc46a6c4-LM | BRUCE → OSWALD | x2
+#### c5fc46a6c4 | BRUCE → OSWALD | x2
 You must be real proud of yourself. You got exactly what you wanted.
 
 #### 81e3ab6a9d | OSWALD → REGINA | x2
@@ -268,7 +265,7 @@ You’re dumber than you look.
 #### a46fe9eaaf | REGINA → OSWALD | x2
 Call security!
 
-#### 9c81ccd5c4-LM | REGINA → OSWALD | x2
+#### 9c81ccd5c4 | REGINA → OSWALD | x2
 Bruce, you’re done.
 
 #### b3d965ca6d | BRUCE → REGINA | x2
@@ -319,7 +316,7 @@ Congratulations, Oswald.
 #### aca9aeffbf | choice/UI → OSWALD | x2
 He’s a criminal!
 
-#### 69c93f15a2-SM | OSWALD → REGINA | x2
+#### 69c93f15a2 | OSWALD → REGINA | x2
 I’m sure we can make an exception.
 
 #### e69b0157b9 | choice/UI → OSWALD | x2
@@ -328,7 +325,7 @@ Pick that up!
 #### d2283d95af | choice/UI → OSWALD | x2
 Sorry, my mistake.
 
-#### 1b21b726e6-LM | choice/UI → OSWALD | x2
+#### 1b21b726e6 | choice/UI → OSWALD | x2
 You won’t win in the end.
 
 #### 3b5125c7ae | choice/UI → REGINA | x4
@@ -342,9 +339,6 @@ You’ll get yours.
 
 #### 237aff8bc1 | choice/UI → REGINA | x2
 I know what you really are.
-
-#### 672327db92-L? | choice/UI | x2
-You won’t get away with this.
 
 #### 30fcc1238b | choice/UI | x2
 They just did.
@@ -361,10 +355,10 @@ Come work for me.
 #### abb5e3eb92 | OSWALD → BRUCE | x4
 Oh, Bruce.
 
-#### f144a3d73b-LF | OSWALD → REGINA | x2
+#### f144a3d73b-LF | OSWALD → REGINA, BRUCE | x4 | listener: female
 You dropped this.
 
-#### f144a3d73b-LM | OSWALD → BRUCE | x2
+#### f144a3d73b-LM | OSWALD → REGINA, BRUCE | x4 | listener: male
 You dropped this.
 
 #### 6a1b645804 | BRUCE → OSWALD, REGINA | x4
@@ -382,7 +376,7 @@ Yes. It did.
 #### 67f0e6fb35 | OSWALD → REGINA | x2
 So consider it... reparations.
 
-#### a59a9e50bc-LM | BRUCE → OSWALD | x2
+#### a59a9e50bc | BRUCE → OSWALD | x2
 You have got to be joking.
 
 #### 00508b42ab | OSWALD → BRUCE | x2
@@ -394,7 +388,7 @@ The time for jokes has passed, I assure you.
 #### e794e7a975 | BRUCE → REGINA | x2
 Regina, I want to make this right more than anyone. I should be the one to fix what my parents did.
 
-#### fe64820e86-SF | REGINA → OSWALD | x2
+#### fe64820e86 | REGINA → OSWALD | x2
 I’m sorry, but no. Any move you make right now isn’t going to look genuine considering the circumstances.
 
 #### 1cf0c5b3cf | REGINA → BRUCE | x2
@@ -433,13 +427,13 @@ Ah, this is more like it. The display of pride for work well-done. All the hard-
 #### f2ff5555c7 | REGINA → OSWALD | x2
 Perhaps so, Mr. Cobblepot, but that doesn’t mean that we should disrespect the dead.
 
-#### 52b29aec2c-SM | OSWALD → REGINA | x2
+#### 52b29aec2c | OSWALD → REGINA | x2
 Ah, mum. Of course. I knew them personally, you know. Spent a lot of time beneath the feet of Mr and Mrs Wayne when Bruce and I were boys playing war.
 
 #### 57eb49ab93 | OSWALD → REGINA | x2
 Or was that cops and robbers?
 
-#### 8616420cb2-LM | BRUCE → OSWALD | x2
+#### 8616420cb2 | BRUCE → OSWALD | x2
 You always did want to be the robber, Oz.
 
 #### c9bb650f2c | OSWALD → BRUCE | x2
@@ -493,7 +487,7 @@ Not to mention all of his references.
 #### 7a91138d06 | REGINA → OSWALD | x2
 Mr Cobblepot has more than convinced the board that he is fit for this position.
 
-#### 053673fe3a-LM | REGINA → OSWALD | x2
+#### 053673fe3a | REGINA → OSWALD | x2
 You need to prove to the board that you can be trusted in the seat. [beat]Just lie low, don’t cause a scene... it’ll turn out.
 
 #### ccf134c13c | OSWALD → BRUCE | x2
@@ -529,7 +523,7 @@ Well, then. I’ll help you out with that.
 #### 934206011f | REGINA → BRUCE | x3
 Bruce--!
 
-#### f221d966a6-SF | REGINA → OSWALD | x2
+#### f221d966a6 | REGINA → OSWALD | x2
 I need security in here! Right now!
 
 #### 37b2264610 | choice/UI → REGINA | x2
@@ -571,13 +565,13 @@ I’m no different than you, mate. Just a hard-working citizen, looking out for 
 #### 79f964e2f4 | BRUCE → OSWALD | x2
 I doubt that.
 
-#### f1b2b6cf71-SM | OSWALD → BRUCE | x2
+#### f1b2b6cf71 | OSWALD → BRUCE | x2
 Oh, oh, is that a threat? I’m terrified.
 
 #### 093ad0788b | BRUCE → OSWALD | x2
 I don’t need to threaten you.
 
-#### f51d87a858-SM | BRUCE → OSWALD | x2
+#### f51d87a858 | BRUCE → OSWALD | x2
 I won’t be gone long.
 
 #### 8774d7918e | OSWALD → BRUCE | x2
@@ -601,7 +595,7 @@ And different artwork, of course.
 #### 77a22f35cf | OSWALD → REGINA | x2
 Your taste is a little too discreet for me.
 
-#### 6cf1bbb9ab-LF | OSWALD → REGINA | x2
+#### 6cf1bbb9ab | OSWALD → REGINA | x2
 Which I’m pretty sure you won’t.
 
 #### 1245442e9e | LUCIUS → BRUCE | x4
@@ -625,7 +619,7 @@ Oswald--
 #### 358b42ba60 | BRUCE → OSWALD | x2
 Cobblepot. Yes.
 
-#### 688694d261-SM | BRUCE → LUCIUS | x2
+#### 688694d261 | BRUCE → LUCIUS | x2
 At least I got the last word.
 
 #### 0334d61978 | BRUCE → LUCIUS | x2
@@ -685,7 +679,7 @@ Kicking Bruce Wayne out of Wayne Enterprises.
 #### bdbc999cb5 | LUCIUS → BRUCE | x2
 They should be ashamed of themselves.
 
-#### 53f483702d-SM | LUCIUS → BRUCE | x2
+#### 53f483702d | LUCIUS → BRUCE | x2
 I can’t work for these people, I won’t.
 
 #### 691fd506fb | LUCIUS → BRUCE | x3
@@ -700,13 +694,13 @@ I’m quitting. Right now.
 #### dc8e99051d | LUCIUS → BRUCE, REGINA | x4
 And if I’m here I can’t... help you out there. No tech, no repairs.
 
-#### 03dc74ca2e-SM | BRUCE → LUCIUS | x3
+#### 03dc74ca2e | BRUCE → LUCIUS | x3
 No, Lucius. I need you to stay here.
 
 #### eb71254ce1 | LUCIUS, GORDON → BRUCE | x5
 But--
 
-#### 03ad1bf825-SM | BRUCE → LUCIUS | x4
+#### 03ad1bf825 | BRUCE → LUCIUS | x4
 You’re the one ally I have in this building. It’s important. I need you to be my eyes and ears.
 
 #### 4d4b87b965 | LUCIUS → BRUCE | x4
@@ -757,16 +751,16 @@ Yeah right.
 #### 1ca0391143 | REGINA → BRUCE | x2
 Effective immediately.
 
-#### 6f56393e9b-SF | REGINA → BRUCE | x2
+#### 6f56393e9b | REGINA → BRUCE | x2
 We were out of options, I’m afraid.
 
 #### e37860f996 | REGINA → BRUCE | x2
 Well that’s entirely up to you, Bruce.
 
-#### 19770f6bd6-SF | REGINA → BRUCE | x2
+#### 19770f6bd6 | REGINA → BRUCE | x2
 I tried to fight for you...
 
-#### 43cd678394-LM | REGINA → BRUCE | x2
+#### 43cd678394 | REGINA → BRUCE | x2
 But that scene you caused at the groundbreaking didn’t help matters.
 
 #### 0ad003e5de | BRUCE → REGINA | x2
@@ -775,7 +769,7 @@ Well, you should’ve fought harder. The board would’ve listened to you.
 #### abf04fbf3d | REGINA → BRUCE | x2
 They’d already made up their minds.
 
-#### 6aef0b66ea-SF | REGINA → BRUCE | x2
+#### 6aef0b66ea | REGINA → BRUCE | x2
 I did what I could. You have to trust me on that.
 
 #### 73e57b9e72 | REGINA → BRUCE | x2
@@ -829,10 +823,10 @@ The board thought having me step in would be a good PR move.
 #### 57eebd17b7 | REGINA → OSWALD | x2
 What better way to show Gotham that Wayne Enterprises is committed to righting the wrongs of the past?
 
-#### 3f459bed68-LM | choice/UI → OSWALD | x2
+#### 3f459bed68 | choice/UI → OSWALD | x2
 You’re not qualified.
 
-#### 255f0259d1-LM | BRUCE → OSWALD | x2
+#### 255f0259d1 | BRUCE → OSWALD | x2
 This is a joke, right? You’re not qualified to run a company.
 
 #### 34f077d802 | OSWALD → BRUCE | x2
@@ -841,13 +835,13 @@ Now, Bruce. Is that any way to treat an old friend?
 #### 7aa279332b | OSWALD → BRUCE | x2
 I’m just trying to help.
 
-#### 8b08e200e4-SM | BRUCE → OSWALD | x2
+#### 8b08e200e4 | BRUCE → OSWALD | x2
 I don’t need your help. I can fix this myself.
 
 #### 99624a8183 | OSWALD → BRUCE | x2
 That’s admirable but your name is tarnished, Bruce.
 
-#### ff5b4d8ac2-LM | OSWALD → BRUCE | x2
+#### ff5b4d8ac2 | OSWALD → BRUCE | x2
 You need me.
 
 #### b8d00b7ab7 | REGINA → BRUCE | x2
@@ -856,7 +850,7 @@ Unfortunately he’s right. Any move from you, no matter how genuine, would appe
 #### 831dc42323 | REGINA → OSWALD | x2
 The Board has complete confidence in Mr. Cobblepot.
 
-#### 1e1abb19bb-SM | choice/UI → OSWALD | x2
+#### 1e1abb19bb | choice/UI → OSWALD | x2
 I’m sure you are.
 
 #### c91dabfe7f | BRUCE → REGINA | x2
@@ -865,7 +859,7 @@ You sure you can handle it?
 #### 51b4b351b7 | BRUCE → REGINA | x2
 It’s not an easy job. The politics... people always wanting to stab you in the back.
 
-#### be928b70c0-SF | REGINA → BRUCE | x2
+#### be928b70c0 | REGINA → BRUCE | x2
 As I’m sure you know, his business endeavours in England have been quite successful. He’s more than capable.
 
 #### 0443a550f6 | REGINA → BRUCE | x2
@@ -883,7 +877,7 @@ You might want to have more confidence in your own board.
 #### 0a4e3da48b | REGINA → BRUCE | x2
 His resume checks out. And his references were all glowing.
 
-#### 9602edf5dc-LF | OSWALD → REGINA | x2
+#### 9602edf5dc | OSWALD → REGINA | x2
 You’re quite welcome to call them yourself.
 
 #### fc4ebcffbe | REGINA → OSWALD | x2
@@ -913,19 +907,19 @@ Oh, how sweet. [to Bruce]Graduation present?
 #### f1eb2a5545 | OSWALD → BRUCE | x2
 Right Bruce?
 
-#### 3207ce0bd5-SM | OSWALD → BRUCE | x4
+#### 3207ce0bd5 | OSWALD → BRUCE | x4
 Looks broken I’m afraid.
 
 #### 423ef3105b | OSWALD → BRUCE | x4
 Not a good sign, is it.
 
-#### 3b1d566b09-LM | BRUCE → OSWALD | x2
+#### 3b1d566b09 | BRUCE → OSWALD | x2
 Careful cleaning that up, Oz. You might cut yourself.
 
 #### faa8d4d4eb | OSWALD → BRUCE | x2
 Ugh! What was that for??
 
-#### f4653e6a55-LF | OSWALD → REGINA | x2
+#### f4653e6a55 | OSWALD → REGINA | x2
 You’ve lost your bloody mind!
 
 #### f7100af550 | REGINA → OSWALD | x2
@@ -934,7 +928,7 @@ This is a disaster.
 #### 023e7146cf | BRUCE → OSWALD | x2
 You can go to hell!
 
-#### b4ec8f8353-SM | OSWALD → REGINA | x2
+#### b4ec8f8353 | OSWALD → REGINA | x2
 Well, I’m sure I’ll see you there, mate.
 
 #### 051c15c656 | OSWALD → REGINA | x2
@@ -943,10 +937,10 @@ Same to you, friend.
 #### b0fb11827c | REGINA, LELAND → OSWALD, ALFRED | x4
 One moment.
 
-#### 774d528f50-SF-LM | REGINA → OSWALD | x2
+#### 774d528f50 | REGINA → OSWALD | x2
 I’m so sorry. This will get you set up. You’ll have access to everything you need.
 
-#### 8d913ee9cb-SF | REGINA → OSWALD | x4
+#### 8d913ee9cb | REGINA → OSWALD | x4
 I’m so sorry, Mr. Cobblepot. I’ll go fetch the medic.
 
 #### c534bbce21 | OSWALD → REGINA | x2
@@ -961,7 +955,7 @@ How are you not mad about this?
 #### 106799a017 | LUCIUS → BRUCE | x2
 I’ll go up to Regina’s office right now.
 
-#### 537795a3d6-SM | LUCIUS → BRUCE | x2
+#### 537795a3d6 | LUCIUS → BRUCE | x2
 I’m done.
 
 #### eaa06c7297 | BRUCE → LUCIUS | x7
@@ -973,10 +967,10 @@ Come work for me. It won’t be what you have here but at least we can keep pace
 #### a6bdb65a1b | OSWALD → BRUCE, LUCIUS | x4
 Don’t worry, now. I’m gonna take good care of this place.
 
-#### 3b96f82d6e-LM | REGINA → OSWALD | x2
+#### 3b96f82d6e | REGINA → OSWALD | x2
 But they know you went to see Mayor Hill before he was murdered. Your connection to him didn’t help make your case.
 
-#### 53da580ee5-LM | LUCIUS → OSWALD | x2
+#### 53da580ee5 | LUCIUS → OSWALD | x2
 You’re right... this isn’t over.
 
 #### 2fa6353c95 | LUCIUS → REGINA | x2
@@ -994,7 +988,7 @@ The company basically runs itself at this point. The CEO is mostly a figurehead.
 #### 7681627f72 | LUCIUS → BRUCE | x2
 The entrance--
 
-#### 5f3aa1a9d8-SM | BRUCE → REGINA | x2
+#### 5f3aa1a9d8 | BRUCE → REGINA | x2
 I took care of it.
 
 #### 65afdeafd1 | choice/UI → REGINA, OSWALD | x4
@@ -1006,7 +1000,7 @@ Here we are.
 #### c1117bd214 | BRUCE → LUCIUS, ALFRED | x4
 CEO Bruce Wayne... but for how much longer...
 
-#### 08a47e7363-SM | BRUCE | x2
+#### 08a47e7363 | BRUCE | x2
 Belonged to my father... though I always thought he kept it for show. I never saw him smoke.
 
 #### 171abc5404 | BRUCE | x4
@@ -1030,7 +1024,7 @@ Did my father really build this all on the backs of others?
 #### 4ce113b9e7 | BRUCE → OSWALD, REGINA | x8
 My father had the Gottingen Manuscript memorized. He’d recite parts of it to me before every game we started.
 
-#### 1618061924-SM | BRUCE → OSWALD, ALFRED | x8
+#### 1618061924 | BRUCE → OSWALD, ALFRED | x8
 I wonder how I would fare against him now.
 
 #### 7f231025d2 | BRUCE | x4
@@ -1069,7 +1063,7 @@ Surprised he didn’t just have “tempus fugit” engraved on it.
 #### 151c699751 | BRUCE | x2
 “...couldn’t be prouder of you...“ Alfred always has a way of getting to the real importance of things.
 
-#### ed1b8f1d96-SM | BRUCE | x2
+#### ed1b8f1d96 | BRUCE | x2
 All I could think when this came out was how proud my parents would have been.
 
 #### e9cec2d98f | BRUCE → HARVEY | x2
@@ -1087,7 +1081,7 @@ Bruce, it’s Harvey. Where are you?
 #### 16ba72b203 | BRUCE → HARVEY | x2
 Just leaving the office. What’s going on?
 
-#### 10e4c3ba27-SM | HARVEY → BRUCE | x2
+#### 10e4c3ba27 | HARVEY → BRUCE | x2
 I’m sorry to call so early, but I really need to see you.
 
 #### 5991a3bea2 | BRUCE → HARVEY | x2
@@ -1102,13 +1096,13 @@ But, no. I think in person is best. And as soon as possible.
 #### 5562d231a4 | BRUCE → HARVEY | x2
 Sounds urgent. Is everything okay?
 
-#### fa42cefef6-SM | HARVEY → BRUCE | x2
+#### fa42cefef6 | HARVEY → BRUCE | x2
 I’m fine, no worries. I just really need to see you, in person.
 
 #### 31daaf1b8b | BRUCE → HARVEY | x2
 That’s fine. I don’t mind.
 
-#### 8cd4700bef-LM | HARVEY → BRUCE | x2
+#### 8cd4700bef | HARVEY → BRUCE | x2
 Of course you don’t. You’re used to partying all night long.
 
 #### 594683839e | HARVEY → BRUCE | x2
@@ -1130,13 +1124,13 @@ hat
 #### 684539c1c7 | HARVEY → BRUCE | x2
 Best to tell you in person. Come down to the office -- offically Mayor now, you know.
 
-#### b21ff5bc4f-SM | BRUCE → HARVEY | x2
+#### b21ff5bc4f | BRUCE → HARVEY | x2
 I heard. Congratulations.
 
 #### f6493f5561 | HARVEY → BRUCE | x2
 Thanks. But. [grave]Don’t take your time, okay?
 
-#### 64be5bf419-SM-LM | BRUCE → HARVEY | x2
+#### 64be5bf419 | BRUCE → HARVEY | x2
 I’m sure you’re just delighted, aren’t you Oswald?
 
 #### c41ddd1c74 | OSWALD → BRUCE | x2
@@ -1145,7 +1139,7 @@ I try to look on the bright side of things.
 #### c88e1e5267 | choice/UI → OSWALD | x2
 What about your revolution?
 
-#### 7caf47d253-LM | BRUCE → OSWALD | x2
+#### 7caf47d253 | BRUCE → OSWALD | x2
 I hear you’ve been keeping yourself pretty busy, Oswald. You sure you can handle this?
 
 #### c1f9f31dae | BRUCE → OSWALD | x2
@@ -1220,25 +1214,25 @@ Mug
 #### edc1eebc85 | OSWALD → BRUCE | x4
 What a chilly greeting.
 
-#### f7369a7151-LF | BRUCE → REGINA | x2
+#### f7369a7151 | BRUCE → REGINA | x2
 Wasn’t there a revolution that you had to handle?
 
-#### b1a9153a4a-SF-LM | REGINA → BRUCE | x2
+#### b1a9153a4a | REGINA → BRUCE | x2
 I thought maybe you’d left.
 
 #### 301ff192cd | BRUCE → REGINA | x2
 Not while this is still my company.
 
-#### 0e363ec871-SF | REGINA → BRUCE | x2
+#### 0e363ec871 | REGINA → BRUCE | x2
 I asked to slow all this down, but...[sighs]
 
 #### 6b37f98928 | REGINA → BRUCE | x2
 Of course. I’m on your side in this.
 
-#### 6241fa54cc-SF | REGINA → BRUCE | x2
+#### 6241fa54cc | REGINA → BRUCE | x2
 They already had a candidate in mind. I thought it was--[not the best choice.]
 
-#### 669c7303b9-SF | REGINA → BRUCE | x2
+#### 669c7303b9 | REGINA → BRUCE | x2
 I was outvoted.
 
 #### d9542d0a4b | REGINA → BRUCE | x2
@@ -1256,7 +1250,7 @@ As his resume goes into great detail... his endeavours in England have been quit
 #### 07dccf8120 | REGINA → OSWALD | x2
 But you cozying up to Falcone didn’t help matters.
 
-#### 40c9b4b8d7-L? | REGINA → SECURITY01 | x2
+#### 40c9b4b8d7 | REGINA → SECURITY01 | x2
 But the statements you’ve made to the press didn’t help matters.
 
 #### 6f41252689 | REGINA → BRUCE | x2
@@ -1268,13 +1262,13 @@ They’ve brought him in as a consultant of sorts. He’ll use your office while
 #### 365b8f6088 | REGINA → OSWALD | x4
 So sorry, Mr. Cobblepot. The medic will be right up.
 
-#### 8130dd1dde-LM | REGINA → LUCIUS | x2
+#### 8130dd1dde | REGINA → LUCIUS | x2
 I.T. will be right up to get you settled.
 
 #### 8be4dcb85b | BRUCE → LUCIUS | x2
 This isn’t over yet, Lucius.
 
-#### 8b49593bb8-LM | LUCIUS → BRUCE | x2
+#### 8b49593bb8 | LUCIUS → BRUCE | x2
 You disabled it, right?
 
 #### 24113977ec | LUCIUS → BRUCE | x2
@@ -1310,19 +1304,19 @@ There are ways they could get in.
 #### 7a34e5603e | LUCIUS → BRUCE | x2
 What if it’s not enough.
 
-#### e7f4da65ee-SM | BRUCE → LUCIUS, VICKI | x3
+#### e7f4da65ee | BRUCE → LUCIUS, VICKI | x3
 Lucius...I need to know there’s someone I can trust on the inside.
 
 #### 4092aa0c34 | LUCIUS → BRUCE | x2
 No, I can’t.
 
-#### 20db4f2445-LM | LUCIUS → BRUCE | x3
+#### 20db4f2445 | LUCIUS → BRUCE | x3
 If I stay I’ll have to stop working on our [careful phrasing]side project. That means no new tech, no repairs if you need them.
 
-#### 3ca1373667-SM | LUCIUS → BRUCE | x2
+#### 3ca1373667 | LUCIUS → BRUCE | x2
 I could keep an eye on things for you. Let you know what they’re up to, feed you what information I can.
 
-#### 1923b2f0dd-SM | LUCIUS | x2
+#### 1923b2f0dd | LUCIUS | x2
 I could quit though. Work outside the lab.
 
 #### 2e7fce5951 | LUCIUS, SELINA → BRUCE | x4
@@ -1340,7 +1334,7 @@ What’s gotten into you?!
 #### cb67318004 | REGINA → LUCIUS | x2
 This isn’t helping!
 
-#### 9e30942eca-LF | BRUCE → REGINA | x2
+#### 9e30942eca | BRUCE → REGINA | x2
 This is insane! You’re not qualified to run a company, much less Wayne Enterprises!
 
 #### 900b7fe7b3 | BRUCE → OSWALD | x2

@@ -1,10 +1,10 @@
-﻿#### 862b7e8089-SM | choice/UI, BATMAN → ALFRED, VICKI | x4
+﻿#### 862b7e8089 | choice/UI, BATMAN → ALFRED, VICKI | x4
 But I did.
 
 #### 6f6820eb21 | ALFRED → BATMAN | x4
 No! Batman!
 
-#### 72974fd563-LM | VICKI → ALFRED | x2
+#### 72974fd563 | VICKI → ALFRED | x2
 Maybe it didn’t matter at all. Maybe you just wanted someone to punch.
 
 #### 2ed823cce8 | choice/UI → ALFRED | x2
@@ -46,7 +46,7 @@ You’re... serious.
 #### 4524965f32 | choice/UI → VICKI | x2
 [Remove Cowl]
 
-#### 13b45bb54a-LM | VICKI → BATMAN | x2
+#### 13b45bb54a | VICKI → BATMAN | x2
 Maybe it didn’t matter at all. Maybe you just wanted someone to hurt.
 
 #### 9dc95e857c | BATMAN → VICKI | x2
@@ -55,7 +55,7 @@ Everything I do is for the good of Gotham.
 #### bfe35642e4 | BATMAN → VICKI | x2
 He was a criminal. He used only ever used people.
 
-#### 1516aaa264-SM | BATMAN → VICKI | x2
+#### 1516aaa264 | BATMAN → VICKI | x2
 I’ve devoted my life to helping them.
 
 #### 20712bdbd7 | VICKI → BATMAN | x4
@@ -67,13 +67,13 @@ It’s called compassion.
 #### b02e2aa63a | choice/UI → VICKI | x2
 Release him and we can talk.
 
-#### b1bb33a57c-SM | choice/UI → VICKI | x2
+#### b1bb33a57c | choice/UI → VICKI | x2
 I won’t show mercy to you!
 
 #### 62e9e9fff0 | choice/UI → VICKI, ALFRED | x4
 I can’t change the past.
 
-#### 57978028b6-LF | choice/UI, BRUCE → VICKI | x4
+#### 57978028b6 | choice/UI, BRUCE → VICKI | x4
 You’re right about my father.
 
 #### 2ecc82793d | VICKI → BATMAN | x2
@@ -85,7 +85,7 @@ So familiar?
 #### e5c5f5d117 | VICKI → BATMAN | x2
 So concerned.
 
-#### 015ddbc86f-LM | VICKI → BATMAN | x2
+#### 015ddbc86f | VICKI → BATMAN | x2
 For someone you’ve never met before.
 
 #### c4abd0e29a | BATMAN → VICKI | x2
@@ -184,13 +184,13 @@ A true Wayne!
 #### 4a70dcb374 | VICKI | x2
 There’s nothing heroic about you!
 
-#### 811e690816-SF | VICKI | x2
+#### 811e690816 | VICKI | x2
 I thought so...
 
 #### 7de05e5b35 | VICKI | x2
 You’re just like him. Just as guilty!
 
-#### 2cb4a87177-SF | VICKI | x2
+#### 2cb4a87177 | VICKI | x2
 You don’t know how I suffered!
 
 #### 0176b269ce | VICKI | x2
@@ -199,7 +199,7 @@ But you will.
 #### e4aba9c3fa | VICKI → BRUCE | x2
 Your voice! All of it!
 
-#### 6d9556b35b-SF | VICKI → BRUCE | x2
+#### 6d9556b35b | VICKI → BRUCE | x2
 You’ll know how I suffered. I will show you.
 
 #### a3661a390f | VICKI → BRUCE | x2
@@ -256,7 +256,7 @@ I am Vengeance
 #### 96c36c12fe | choice/UI | x2
 Batman is my mask
 
-#### 955f255a95-SM | choice/UI | x2
+#### 955f255a95 | choice/UI | x2
 I shared my secret.
 
 #### 228ee0ec66 | choice/UI → ALFRED | x2
@@ -274,22 +274,19 @@ Can you walk? We need to get you out of here.
 #### 00dc2e6264 | BATMAN → VICKI | x2
 If you want to hurt someone, hurt me, not him.
 
-#### e1f6cc4350-LM | VICKI → BATMAN | x2
+#### e1f6cc4350 | VICKI → BATMAN | x2
 You’d sacrifice yourself for this man? He doesn’t deserve your pity.
 
-#### a55086b9fd-SM | choice/UI → VICKI | x2
+#### a55086b9fd | choice/UI → VICKI | x2
 I took down a close friend because of you!
 
-#### 9ce1cff946-LF | choice/UI → VICKI | x2
+#### 9ce1cff946 | choice/UI → VICKI | x2
 You twisted Oswald’s mind.
 
 #### 96f042596d | choice/UI → VICKI | x2
 Your worst nightmare.
 
-#### 40fa97ffd7-LF | BATMAN → VICKI | x2
-Did you see her?
-
-#### eb27e58b2b-SF | VICKI → BATMAN | x2
+#### eb27e58b2b | VICKI → BATMAN | x2
 After all that we’ve been through, I’m glad this will end here.
 
 #### dc134ffd68 | BATMAN → VICKI | x2
@@ -301,7 +298,7 @@ Is that the best you can offer?
 #### 8bac1bde2a | VICKI → BATMAN | x2
 His death-- and Bruce’s pain-- is *mine.*
 
-#### 523b2102b5-SF | VICKI → BATMAN | x2
+#### 523b2102b5 | VICKI → BATMAN | x2
 Besides. I’m sure there’s time enough to hurt you both.
 
 #### 0dab13fd4e | VICKI | x2
@@ -316,7 +313,7 @@ It’s fitting, I suppose.
 #### 29a8dacb0d | VICKI → BATMAN | x2
 Killing you here.
 
-#### e25e3d1dc3-LF | BATMAN → VICKI | x2
+#### e25e3d1dc3 | BATMAN → VICKI | x2
 You’re wrong, Vicki.
 
 #### 6982f6e1c3 | ALFRED → BRUCE | x4
@@ -325,13 +322,13 @@ No, Bruce...
 #### 2d22251dce | VICKI → BATMAN | x2
 Of course...
 
-#### f886bdbaf1-SF-LM | VICKI → BATMAN | x2
+#### f886bdbaf1 | VICKI → BATMAN | x2
 All this time! I gave you the chance to prove you were better than the others--
 
-#### 71f708f56a-SF | VICKI → BATMAN | x2
+#### 71f708f56a | VICKI → BATMAN | x2
 I gave *both* of you the chance.
 
-#### bd798a880d-LF | BATMAN → VICKI | x2
+#### bd798a880d | BATMAN → VICKI | x2
 You wanted Bruce Wayne. Here I am.
 
 #### 7202319e92 | BATMAN → VICKI | x2
@@ -346,7 +343,7 @@ Apart from Alfred, you’re the only one who knows who I am.
 #### 95aeb09aac | VICKI → BATMAN | x2
 Then I can hardly be expected to be allowed to walk away, can I?
 
-#### 82182c4050-LM | VICKI → BATMAN | x2
+#### 82182c4050 | VICKI → BATMAN | x2
 You just proved my point!
 
 #### f5123b8acd | BATMAN → VICKI | x2
@@ -355,7 +352,7 @@ Bruce Wayne is my mask. Batman is who I really am.
 #### aa010b99a0 | BATMAN → VICKI | x2
 I don’t believe it has to end that way, Vicki.
 
-#### 40588bf267-LM | VICKI → BATMAN | x2
+#### 40588bf267 | VICKI → BATMAN | x2
 You show me this and have nothing to say for yourself?!
 
 #### 60b87b10eb | VICKI → BATMAN | x2
@@ -364,19 +361,19 @@ Because you understand what a liar you are.
 #### 1f95e6046d | VICKI → BATMAN | x2
 Both lie!
 
-#### a25063d71c-SM | ALFRED → VICKI | x2
+#### a25063d71c | ALFRED → VICKI | x2
 No. I could only hear her talking to you.
 
-#### d6f78c7112-SF-LM | VICKI → ALFRED | x2
+#### d6f78c7112 | VICKI → ALFRED | x2
 I watched as you took out Oswald.
 
-#### a10200910a-SF | VICKI → ALFRED | x4
+#### a10200910a | VICKI → ALFRED | x4
 I had thought Batman was just... on a crusade.
 
-#### 9d69bc3ef6-LM | VICKI → ALFRED, BRUCE | x4
+#### 9d69bc3ef6 | VICKI → ALFRED, BRUCE | x4
 But you knew him.
 
-#### 265eb106e8-SF-L? | VICKI | x2
+#### 265eb106e8 | VICKI | x2
 I heard how you took out Dent.
 
 #### 9addf9aa89 | VICKI → BRUCE | x2
@@ -388,7 +385,7 @@ Supported him.
 #### d632f4f337 | BRUCE → VICKI | x2
 I can’t change what happened in the past.
 
-#### 272f722b89-SM-LF | BRUCE → VICKI | x2
+#### 272f722b89 | BRUCE → VICKI | x2
 I would have fought for you, Vicki. No one should have to suffer the way that you did.
 
 #### bc9e2d6938 | VICKI → BRUCE | x2
@@ -406,7 +403,10 @@ Pretending to be an ally.
 #### c08983a03d | VICKI | x2
 Only to betray...
 
-#### ee2b4e036a-L? | VICKI | x4
+#### ee2b4e036a-L? | VICKI → BATMAN | x6 | listener: unknown
+I almost believed that you were telling the truth.
+
+#### ee2b4e036a-LM | VICKI → BATMAN | x6 | listener: male
 I almost believed that you were telling the truth.
 
 #### cca070eb78 | VICKI → BATMAN | x6
@@ -415,7 +415,7 @@ But this is all another face, isn’t it? Another mask.
 #### 5d6e01498e | VICKI | x2
 You’re only a piece in the bigger game, but...
 
-#### df89772c2d-SF | VICKI → BATMAN | x2
+#### df89772c2d | VICKI → BATMAN | x2
 You’re the only piece I have left.
 
 #### 02a133b1ad | VICKI → BATMAN | x2
@@ -427,7 +427,7 @@ And maybe give you a little ease as well.
 #### ff49234f92 | BATMAN → VICKI | x2
 I am vengeance.
 
-#### 0c40a82469-LF | BATMAN → VICKI | x2
+#### 0c40a82469 | BATMAN → VICKI | x2
 I answer the call of all the people you’ve harmed.
 
 #### a0f004197f | VICKI → BATMAN | x2
@@ -451,10 +451,10 @@ You think the Vales were bad? You have no idea what I can do.
 #### 7b9db3f116 | VICKI → BATMAN | x2
 I’ll kill you for that.
 
-#### 39d397f5c7-LM | VICKI → ALFRED | x2
+#### 39d397f5c7 | VICKI → ALFRED | x2
 I don’t need an answer. I’ll pry that hood off when you’re dead.
 
-#### 8a2e90a3c4-LM | VICKI → BATMAN | x2
+#### 8a2e90a3c4 | VICKI → BATMAN | x2
 You weren’t lying when you said you knew what the Vales did.
 
 #### d380f43e7f | VICKI → BATMAN | x2
@@ -493,13 +493,13 @@ And I’ll never stop.
 #### 00edb1ff68 | BATMAN → VICKI | x4
 Grogan’s blood is on your hands.
 
-#### e9606741b4-LF | BATMAN → VICKI | x2
+#### e9606741b4 | BATMAN → VICKI | x2
 He wanted what was best for Gotham and you had the Penguin throw him off a roof.
 
 #### 8d3e9a35fe | VICKI → BATMAN | x2
 He was standing in the way. A casuality.
 
-#### 12228c9391-LF | BATMAN → VICKI | x4
+#### 12228c9391 | BATMAN → VICKI | x4
 You’re blinded by your revenge.
 
 #### fbb30e7cff | BATMAN → VICKI | x2
@@ -514,7 +514,7 @@ But I do. Falcone, Hill, Wayne-- they stole my life from me.
 #### c50dd1ed81 | VICKI → BATMAN | x2
 They *made* me who I am.
 
-#### 1da19a1110-LF | BATMAN → VICKI | x2
+#### 1da19a1110 | BATMAN → VICKI | x2
 You pushed Dent too far and he lashed out, he’s hurt this city because of you.
 
 #### d6f861af39 | BATMAN → VICKI | x2
@@ -526,7 +526,7 @@ Dent’s his own man-- you can’t blame me for his actions.
 #### f88918fbbd | BATMAN → VICKI | x2
 Even though you blame Alfred?
 
-#### 2b32c5c3c1-LF | BATMAN → VICKI | x2
+#### 2b32c5c3c1 | BATMAN → VICKI | x2
 You’re responsible for your own actions.
 
 #### 8164f15074 | BATMAN → VICKI | x2
@@ -535,7 +535,7 @@ Every person is important to Gotham.
 #### 44f254f1bf | BATMAN → VICKI | x2
 Every life. They are the ones that can fix this city.
 
-#### 2049944da8-SF | VICKI → BATMAN | x2
+#### 2049944da8 | VICKI → BATMAN | x2
 I can’t believe that I looked up to you.
 
 #### 8d1cd8dbe2 | VICKI → BATMAN | x2
@@ -547,7 +547,7 @@ This is owed to me!
 #### 9f8b382a99 | VICKI → FALCONE | x2
 Falcone, Hill and Wayne took my life!
 
-#### 9d7eadf814-SF | VICKI → BATMAN | x2
+#### 9d7eadf814 | VICKI → BATMAN | x2
 My family was taken away-- I was given to people who hated my entire existence!
 
 #### a923bf3786 | BATMAN → VICKI | x2
@@ -601,10 +601,10 @@ The Arkhams died in a car accident.
 #### b27331419d | VICKI → BATMAN | x2
 It was no accident!
 
-#### 1b72d23968-SF | VICKI → BATMAN | x2
+#### 1b72d23968 | VICKI → BATMAN | x2
 I found out the truth from the hired thug who ran them off the road.
 
-#### 4941c46d42-SF | VICKI → BATMAN | x2
+#### 4941c46d42 | VICKI → BATMAN | x2
 Before I killed him...
 
 #### 6c9826f3f6 | VICKI → BATMAN | x2
@@ -634,10 +634,10 @@ So why wear the mask?
 #### 2abf413ec5 | BATMAN → VICKI | x2
 To protect those close to me. But sometimes it doesn’t work.
 
-#### d26a41f42e-LM | VICKI → BATMAN | x2
+#### d26a41f42e | VICKI → BATMAN | x2
 You were right. Gotham did almost destroy me.
 
-#### fbb06f0371-LM | VICKI → BATMAN | x2
+#### fbb06f0371 | VICKI → BATMAN | x2
 You had your chance, but you didn’t...
 
 #### 2498b0f2fd | VICKI → BATMAN | x2
@@ -651,9 +651,6 @@ Another victim in a cell.
 
 #### e61334b7fa | choice/UI → VICKI | x2
 I do what has to be done.
-
-#### ee2b4e036a-LM | VICKI → BATMAN | x2
-I almost believed that you were telling the truth.
 
 #### c808e27f6b | BATMAN → VICKI | x2
 You want to end this?
@@ -697,7 +694,7 @@ Batman... Bruce Wayne. They’re the same.
 #### c774923bac | BATMAN → VICKI | x2
 I only wear the mask to protect those I care about.
 
-#### f910401437-SM | BATMAN → VICKI | x2
+#### f910401437 | BATMAN → VICKI | x2
 I’ve failed.
 
 #### 37e34f1a92 | VICKI → BATMAN | x2
@@ -715,16 +712,16 @@ He’s as dishonest as his father.
 #### 42866b6905 | BATMAN → VICKI | x2
 What happened to Harvey was your fault!
 
-#### 55e80ec30e-LF | BATMAN → VICKI | x2
+#### 55e80ec30e | BATMAN → VICKI | x2
 What you did to him broke him.
 
 #### 6032549906 | BATMAN → VICKI | x2
 What happened to Oswald was your fault!
 
-#### b99dd2e86b-LF | BATMAN → VICKI | x2
+#### b99dd2e86b | BATMAN → VICKI | x2
 You twisted the truth so that he’d turn on me.
 
-#### 22d649c3ae-SM | BATMAN → VICKI | x2
+#### 22d649c3ae | BATMAN → VICKI | x2
 I’ve never told you anything but the truth.
 
 #### 91a0fa23f4 | BATMAN → VICKI | x2
@@ -739,10 +736,10 @@ It’s a little late to convince me we’re on the same side.
 #### 310cc77aa6 | VICKI → BATMAN | x2
 More lies!
 
-#### 79b417e10b-LM | VICKI → BATMAN | x2
+#### 79b417e10b | VICKI → BATMAN | x2
 You think I don’t see right through your feeble attempts to save yourself?
 
-#### 125683baf1-SF | VICKI → BATMAN | x2
+#### 125683baf1 | VICKI → BATMAN | x2
 You really think I’m worth saving? Because I was a victim?
 
 #### bd7f4761d6 | VICKI → BATMAN | x2
@@ -808,37 +805,40 @@ Then we’ll talk.
 #### d2951ce6b8 | VICKI → BATMAN | x2
 Do you really care?
 
-#### 7d05557a79-LF | BATMAN → VICKI | x2
+#### 7d05557a79-LF | BATMAN → VICKI, ALFRED | x4 | listener: female
 You’re done.
 
-#### 68e2c43c49-LM | BRUCE → BATMAN, ALFRED | x4
+#### 7d05557a79-LM | BATMAN → VICKI, ALFRED | x4 | listener: male
+You’re done.
+
+#### 68e2c43c49 | BRUCE → BATMAN, ALFRED | x4
 You’re done!
 
 #### e709a87507 | BATMAN → ALFRED | x2
 Don’t worry. I don’t feel anything like that for you.
 
-#### 8fdc768317-LM | ALFRED → BATMAN | x2
+#### 8fdc768317 | ALFRED → BATMAN | x2
 You, you...you came. You came for me.
 
-#### 6cd1f5b757-LM | BATMAN → ALFRED | x2
+#### 6cd1f5b757 | BATMAN → ALFRED | x2
 Have you seen Vicki?
 
 #### 15262752af | ALFRED → BATMAN | x2
 Above you!
 
-#### 207987ebf3-LM | ALFRED → BATMAN | x2
+#### 207987ebf3 | ALFRED → BATMAN | x2
 After what you said...
 
 #### e4c061a03a | ALFRED | x2
 ...back in the cave...
 
-#### 3fad2b3f5d-SM | ALFRED | x2
+#### 3fad2b3f5d | ALFRED | x2
 I knew you’d come.
 
-#### 8d61ddf241-SM | ALFRED | x2
+#### 8d61ddf241 | ALFRED | x2
 The man, the man I-I made you...
 
-#### 9c4334141b-L? | ALFRED | x2
+#### 9c4334141b | ALFRED | x2
 You... you stopped them...
 
 #### c9cbae85fe | ALFRED | x2
@@ -850,7 +850,7 @@ I... I wasn’t sure you’d come...
 #### 05d6ee333f | ALFRED → BATMAN | x2
 I don’t deserve... deserve it...
 
-#### 39d56b1e4d-SM | ALFRED → BATMAN | x2
+#### 39d56b1e4d | ALFRED → BATMAN | x2
 No... No, I just heard her... talking to you.
 
 #### 631db443c0 | BATMAN → ALFRED | x6
@@ -862,13 +862,13 @@ What did she do to you?
 #### 1fa2b75d11 | BATMAN → ALFRED | x2
 I’m getting you out of here.
 
-#### b899f37bfd-SM | ALFRED → BATMAN | x2
+#### b899f37bfd | ALFRED → BATMAN | x2
 The man... the man I raised...
 
-#### b57ee6fd53-LM | BATMAN → ALFRED | x2
+#### b57ee6fd53 | BATMAN → ALFRED | x2
 Did you see where she went?
 
-#### f1f215c8d1-SM | ALFRED → BATMAN | x2
+#### f1f215c8d1 | ALFRED → BATMAN | x2
 No. I could... I could hear her though.
 
 #### d87186924e | ALFRED → BATMAN | x2
@@ -876,7 +876,4 @@ Talking to you...
 
 #### e62365ef31 | ALFRED → BATMAN | x2
 She just... dis-disappeared.
-
-#### 7d05557a79-LM | BATMAN → ALFRED | x2
-You’re done.
 

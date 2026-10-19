@@ -13,8 +13,8 @@ with the text replaced).
 | `translation_table.xlsx` | **The translation table**: one row per unique text (~44 000 rows). Type Ukrainian in the yellow column. The *Help* sheet explains every column. |
 | `original_data/` | English game text (222 files). **Never edit.** `BM_*` = normal mode, `BAT_*` = Shadows/Noir mode. |
 | `localized_data/` | The same 222 files with Ukrainian text — the final result for the game. Written only by the script below — don't edit by hand. |
-| `unique_original_data/` | Every unique English text once (the same ~44 000 texts as the table), in files named like the game files. Read-only. |
-| `unique_localized_data/` | The same, with the Ukrainian from the table (untranslated texts stay English). Written by the script. |
+| `unique_original_data/` | Every unique English text once (~43 900), in files named like the game files, built from `original_data/` only, never from the gender file. Each entry shows who speaks → to whom (guessed from the scene) and how many times the text is used. Read-only: the import only checks it. |
+| `unique_localized_data/` | The same entries with the Ukrainian from the table (untranslated texts stay English). Written by the script. The ~230 texts that need separate male/female Ukrainian versions appear once per version, marked e.g. `listener: female`. |
 | `reference/speaker_genders.xlsx` | Gender of each speaker (M / F / ?), used for Ukrainian verb/adjective forms. |
 | `reference/speakers.md` | Who talks to whom, with ти/ви decisions. |
 | `reference/scenes/` | Read-only copies of every game file in conversation order (all lines, with repeats) — for reading the context around a line. Not in git; see command 4. |
@@ -40,8 +40,8 @@ Run all commands from this folder (the repo root). **Close the Excel files befor
 python .claude/skills/telltale-batman-localization/scripts/apply_translations.py original_data reference/speaker_genders.xlsx translation_table.xlsx localized_data --unique unique_original_data unique_localized_data
 ```
 
-It writes the Ukrainian from the table into `unique_localized_data/` (each unique text once) and into all 222 files in
-`localized_data/`. Rows with an empty Ukrainian cell stay English. Then it checks itself, and the end of the output
+It checks that `unique_original_data/` still matches `original_data/` (it never writes it), then writes the Ukrainian from the
+table into `unique_localized_data/` (each unique text once) and into all 222 files in `localized_data/`. Rows with an empty Ukrainian cell stay English. Then it checks itself, and the end of the output
 must say `0 error(s)` and `0 mismatch(es)`:
 - **Validation:** every final file has the same structure as the English one (line count, header lines, tags,
   encoding).
@@ -71,6 +71,13 @@ python .claude/skills/telltale-batman-localization/scripts/check_consistency.py 
 ```
 python .claude/skills/telltale-batman-localization/scripts/build_tm.py original_data reference/speaker_genders.xlsx translation_table.xlsx
 ```
+
+A gender change can split a text into separate male/female rows. Then run command 1 again;
+`unique_localized_data/` shows the new versions. `unique_original_data/` never changes because of genders.
+
+(`unique_original_data/` is created from the English files with
+`build_tm.py ... --unique-original unique_original_data`. This only needs to run again if `original_data/` itself
+changes.)
 
 **4. Create the context views in `reference/scenes/`:**
 

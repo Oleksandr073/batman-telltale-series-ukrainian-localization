@@ -13,7 +13,7 @@ In the lobby -- the Commissioner --
 #### a32daa170d | GCPD01 → GORDON, BATMAN | x5
 They can’t hold out much longer...
 
-#### f466a77c25-SM | BATMAN → GORDON | x4
+#### f466a77c25 | BATMAN → GORDON | x4
 I’m sorry, Jim.
 
 #### 81cd67a94e | BATMAN → GORDON | x4
@@ -28,7 +28,7 @@ Believe me, Jim -- Dent will pay for this!
 #### 5bc85bdaeb | GORDON → BATMAN | x4
 It’s that bastard Dent’s!
 
-#### cf9f438f1f-SM | COMMISSIONER, GORDON, GROGAN → BATMAN | x6
+#### cf9f438f1f | COMMISSIONER, GORDON, GROGAN → BATMAN | x6
 I was wrong, Batman...
 
 #### e3494235a5 | GORDON → BATMAN | x4
@@ -76,10 +76,10 @@ Not you too, old friend --
 #### 6326c5b681 | GORDON → GCPD03, BATMAN | x4
 Goddamn it, give me a moment!
 
-#### ef18401f5d-SM | GORDON → BATMAN | x2
+#### ef18401f5d | GORDON → BATMAN | x2
 I’m sorry, Batman. I--  this is a blow.
 
-#### 1592b8d64f-SM | GORDON → GCPD03 | x2
+#### 1592b8d64f | GORDON → GCPD03 | x2
 If you don’t take him down, I’ll tear him apart myself.
 
 #### 04fecca11e | GCPD03 → GORDON | x2
@@ -115,7 +115,7 @@ This city... needs you...
 #### 5c20acc3c3 | COMMISSIONER, GORDON, GROGAN → BATMAN, GROGAN, HARVEY | x6
 You have to...  stop Dent...
 
-#### ccd22f15eb-SM | BATMAN → GORDON | x4
+#### ccd22f15eb | BATMAN → GORDON | x4
 I’m sorry, Lieutenant.
 
 #### 884974e252 | BATMAN → GORDON | x4
@@ -124,7 +124,7 @@ Keep it together, Jim. Your men will be looking to you to lead.
 #### 2d00b00655 | BATMAN → GORDON | x2
 Believe me, Lieutenant -- Dent will pay for this!
 
-#### bffed9b534-SM | choice/UI → GORDON | x2
+#### bffed9b534 | choice/UI → GORDON | x2
 I’m sorry Gordon.
 
 #### d20ca6856f | choice/UI → GORDON | x2
@@ -142,7 +142,7 @@ I’ll let the coin decide...
 #### 77bd21a6bd | GORDON → BATMAN | x2
 The commissioner, is he...
 
-#### 40c1d67081-SM | GORDON → BATMAN | x2
+#### 40c1d67081 | GORDON → BATMAN | x2
 I’m sorry, Batman. I--  This is a blow.
 
 #### f3c4bd772f | BATMAN → GORDON | x2
@@ -151,7 +151,7 @@ Believe me, Lieutenant. Dent will pay for this!
 #### 131d7ed99e | BATMAN → GORDON | x2
 Believe me, Jim. Dent will pay for this!
 
-#### cdbee138c8-SM | GORDON → BATMAN | x2
+#### cdbee138c8 | GORDON → BATMAN | x2
 If you don’t take him down,{AngryB} I’ll tear him apart myself.
 
 #### 1d5d876cf9 | GORDON → BATMAN | x2
@@ -181,13 +181,13 @@ Commissioner!
 #### 57740f83b0 | GORDON → BATMAN | x2
 Argh.
 
-#### 91a12adede-LM | BATMAN → GORDON | x2
+#### 91a12adede | BATMAN → GORDON | x2
 Get yourself to a hospital, Lieutenant.
 
 #### 6bf39003ef | GORDON → BATMAN | x2
 I know, I just--
 
-#### c5855ea90f-LM | BATMAN → GORDON | x2
+#### c5855ea90f | BATMAN → GORDON | x2
 You need to get yourself patched up, Lieutenant.
 
 #### 1484ff726d | GORDON → BATMAN | x2

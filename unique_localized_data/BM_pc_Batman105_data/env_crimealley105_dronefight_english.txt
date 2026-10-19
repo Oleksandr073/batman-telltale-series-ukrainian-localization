@@ -4,7 +4,7 @@ Come to gloat?
 #### 0249e789ac | choice/UI → ALFRED | x2
 You must be bored.
 
-#### 8623a7aef3-LM | choice/UI → ALFRED | x2
+#### 8623a7aef3 | choice/UI → ALFRED | x2
 You’ve made a huge mistake.
 
 #### 797a96d7d3 | ALFRED → BATMAN | x2
@@ -19,7 +19,7 @@ We lost Commissioner Grogan...
 #### d4db8a306d | OSWALD → BATMAN | x2
 Life off the grid must be treating you well, eh!
 
-#### 2ca60ebe4e-LM | OSWALD → BATMAN | x2
+#### 2ca60ebe4e | OSWALD → BATMAN | x2
 I bet you’re learning about yourself, in all sorts of brilliant and unexpected ways.
 
 #### 96fe6d22ae | OSWALD → BATMAN | x2
@@ -28,13 +28,13 @@ Getting in touch with nature and all that.
 #### a0200e2f1d | BATMAN → PENGUIN | x2
 Here to gloat, Penguin?
 
-#### 3289657475-SM | OSWALD → BATMAN | x2
+#### 3289657475 | OSWALD → BATMAN | x2
 I won’t lie -- it’s fun watching you flop about like a crippled bird.
 
 #### 11f310edb1 | OSWALD → BATMAN | x2
 But that’s not why I’m here.
 
-#### 688cfcf7b9-LM | BATMAN → PENGUIN | x2
+#### 688cfcf7b9 | BATMAN → PENGUIN | x2
 You’ve made a huge mistake, Penguin.
 
 #### cfb7558f3c | OSWALD → BATMAN | x2
@@ -49,7 +49,7 @@ Must be boring in Wayne Tower if you’re stalking me, Penguin.
 #### be056c2516 | OSWALD → BATMAN | x2
 Round ‘an round. The endless merry-go-round of bat and bird.
 
-#### 2dfbefb410-LM | OSWALD → BATMAN | x2
+#### 2dfbefb410 | OSWALD → BATMAN | x2
 It’s like you’ve had your wings clipped!
 
 #### 3c3202fa16 | BATMAN, OSWALD → OSWALD, ALFRED | x4
@@ -145,7 +145,7 @@ Because my tech failed.
 #### 449a38693f | ALFRED → BATMAN | x2
 Well, now we know where to find him.
 
-#### ea2fedfb6f-SM | BATMAN → ALFRED | x2
+#### ea2fedfb6f | BATMAN → ALFRED | x2
 Besides. I won’t be going alone.
 
 #### 286b66245a | BATMAN → OSWALD | x2
@@ -160,7 +160,7 @@ My point is you’re at the end of your rope.
 #### 57f428600c | BATMAN → OSWALD | x2
 What’s your point?
 
-#### c3fcc46289-LM | OSWALD → BATMAN | x2
+#### c3fcc46289 | OSWALD → BATMAN | x2
 Just turn yourself over to my goons.
 
 #### f292672565 | OSWALD → BATMAN | x2
@@ -187,7 +187,7 @@ I don’t need toys to deal with the likes of you.
 #### c88580b477 | OSWALD → BATMAN | x2
 Those are just words, Batman.
 
-#### af16107532-LM | OSWALD → BATMAN | x2
+#### af16107532 | OSWALD → BATMAN | x2
 What you need is armor and bullets!
 
 #### 5f4db0379b | BATMAN → PENGUIN | x4
@@ -280,7 +280,7 @@ Impressive as ever!
 #### 98e8ee19d6 | OSWALD → BATMAN | x2
 Life must be ever so difficult now that we’ve taken your tech.
 
-#### 4383856a37-LM | ALFRED → BATMAN | x2
+#### 4383856a37 | ALFRED → BATMAN | x2
 He gave his life... so that you could continue fighting.
 
 #### e2f1f212b5 | BATMAN → OSWALD | x2
@@ -301,7 +301,7 @@ Penguin is going to pay for this.
 #### 70696c2c13 | BATMAN | x2
 The Commissioner will be avenged.
 
-#### 8df3dda7ba-SM | BATMAN → OSWALD | x2
+#### 8df3dda7ba | BATMAN → OSWALD | x2
 I need to get back to the batcave...
 
 #### 442620cf31 | BATMAN → OSWALD | x2
@@ -316,7 +316,7 @@ Your poor little wings clipped...
 #### b66cd2d378 | OSWALD, PENGUIN → BATMAN | x6
 Lord! Will he ever get a sense of humor?
 
-#### 9e0dfbb320-LM | OSWALD → ALFRED | x2
+#### 9e0dfbb320 | OSWALD → ALFRED | x2
 Just turn yourself over to my men.
 
 #### a555ae8b8b | OSWALD → ALFRED | x4
@@ -334,7 +334,7 @@ He died a hero.
 #### f9531c3466 | BATMAN → ALFRED | x2
 I’m going to end this.
 
-#### 363b441f4b-LM | ALFRED → BATMAN | x4
+#### 363b441f4b | ALFRED → BATMAN | x4
 He knew you could stop Penguin.
 
 #### 1a06006e40 | ALFRED → BATMAN | x2
@@ -370,19 +370,19 @@ I’ll be the perfect hostage.
 #### 418e6600d5 | BATMAN → ALFRED | x2
 Penguin wants hostages to bait Batman.
 
-#### bc980d2a49-SM | BATMAN → ALFRED | x2
+#### bc980d2a49 | BATMAN → ALFRED | x2
 and I would be the perfect hostage.
 
 #### 243ca3d114 | choice/UI → ALFRED | x2
 It’ll throw him off.
 
-#### 32aab29361-SM | BATMAN → ALFRED | x2
+#### 32aab29361 | BATMAN → ALFRED | x2
 Wish I could say the same.
 
 #### 6461491fad | ALFRED → BATMAN | x2
 Bruce -- this is a dangerously unsecure connection.
 
-#### 049f6362b3-SM | ALFRED → BATMAN | x2
+#### 049f6362b3 | ALFRED → BATMAN | x2
 Are you alright sir? I saw on the news-
 
 #### fffc9fdc83 | ALFRED → BATMAN | x2
@@ -403,7 +403,7 @@ I always fear the worst.
 #### 0bcad8eba7 | BATMAN → ALFRED | x2
 He died protecting me.
 
-#### 7147c51eee-LM | ALFRED → BATMAN | x2
+#### 7147c51eee | ALFRED → BATMAN | x2
 Then, he gave his life... so that you could continue fighting.
 
 #### 30ca5598ec | ALFRED → OSWALD | x2
@@ -439,13 +439,13 @@ You’d also be the perfect victim.
 #### e13d77557c | ALFRED | x2
 That overconfidence may be his undoing.
 
-#### 78f5ab43e8-L? | ALFRED | x2
+#### 78f5ab43e8 | ALFRED | x2
 But I’m confident you won’t let that happen.
 
 #### 368583d524 | ALFRED | x2
 We don’t have much choice.
 
-#### a696e26c45-SM | ALFRED | x2
+#### a696e26c45 | ALFRED | x2
 I’m sure you’ll find a way to turn the situation to your advantage.
 
 #### 6ca86e8e95 | ALFRED | x2
@@ -505,7 +505,7 @@ Tell him that Bruce Wayne will meet him there.
 #### eb88e2a562 | OSWALD → BATMAN | x2
 You sure about that, Batman?
 
-#### 89deb3954b-LM | OSWALD → BATMAN | x2
+#### 89deb3954b | OSWALD → BATMAN | x2
 Because from the look of it, you could use a little help.
 
 #### 2dbaad4bde | OSWALD → BATMAN | x2
@@ -565,7 +565,7 @@ I don’t need toys.
 #### 03f45e46ce | choice/UI | x2
 You’ll pay for Grogan.
 
-#### a2f6f6464b-L? | choice/UI, BATMAN | x4
+#### a2f6f6464b | choice/UI, BATMAN | x4
 I think you’re scared.
 
 #### 913de0ae33 | choice/UI | x2

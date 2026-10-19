@@ -415,7 +415,7 @@ Account Exists
 #### cb7cce3a8e | choice/UI | x2
 Invalid Email
 
-#### 121d62e53f-L? | choice/UI | x2
+#### 121d62e53f | choice/UI | x2
 You entered an invalid email.
 
 #### 5f23370780 | choice/UI | x2
@@ -450,7 +450,7 @@ Please re-enter your Password so that they match in the confirmation box.
 #### 82ffef9f84 | choice/UI | x2
 Re-enter Email or Password
 
-#### 81e17981bb-L? | choice/UI | x2
+#### 81e17981bb | choice/UI | x2
 You Are Signed In
 
 #### f8492cc1de | choice/UI | x2
@@ -468,7 +468,7 @@ ACCOUNT
 #### a4d4ed7e65 | choice/UI | x2
 Incorrect Password
 
-#### 56538eac43-L? | choice/UI | x2
+#### 56538eac43 | choice/UI | x2
 The password you entered did not match our records. Please double-check and try again.
 
 #### 77aed43cc3 | choice/UI | x2
@@ -480,7 +480,7 @@ An unknown error occurred.
 #### ae43a9e731 | choice/UI | x2
 Unknown Email
 
-#### b4ad92d569-L? | choice/UI | x2
+#### b4ad92d569 | choice/UI | x2
 The email you entered is not registered. Please try again.
 
 #### 15d4851b08 | choice/UI | x2
@@ -574,7 +574,7 @@ The host could not be resolved.
 #### 4dc65c092b | choice/UI | x6
 NETWORK UNAVAILABLE
 
-#### 532b5be7d2-L? | choice/UI | x6
+#### 532b5be7d2 | choice/UI | x6
 You need to be signed into Xbox Live to access Xbox Live features.
 
 #### 12b90aa636 | choice/UI | x6
@@ -1046,7 +1046,7 @@ Are you sure you want to restart the demo?
 #### 9a6cc44916 | choice/UI | x2
 Settings Changed
 
-#### 012eb9a2a3-L? | choice/UI | x2
+#### 012eb9a2a3 | choice/UI | x2
 You have changed your settings.  Save these changes?
 
 #### a735da1d32 | choice/UI | x2
@@ -1076,7 +1076,7 @@ Downloading from server...
 #### 796f9716ed | choice/UI | x2
 Purchasing content...
 
-#### 0483247b1c-L? | choice/UI | x2
+#### 0483247b1c | choice/UI | x2
 Uninstalling episodes frees up your HD space, but doesn’t delete your saves. As long as you don’t delete the app, you won’t lose your saves.
 
 #### 30d1376765 | choice/UI | x2
@@ -1306,10 +1306,10 @@ Disable
 #### 4a111b0665 | choice/UI | x2
 Reset Password?
 
-#### 11207876d2-L? | choice/UI | x2
+#### 11207876d2 | choice/UI | x2
 If you wish to reset your password, we will send you a link, to the email address that you registered with, that will allow you to create a new password.
 
-#### a0b932900a-SM | choice/UI | x2
+#### a0b932900a | choice/UI | x2
 I forgot my password...
 
 #### 3fb75e3bfe | choice/UI | x2
@@ -1462,7 +1462,7 @@ SELECT A BAT-TECH COLOR
 #### 5dc9d4d3f4 | choice/UI | x2
 Your Bat-tech color determines the look of Batman’s gadgets, gear and UI.
 
-#### 96d40d92b6-L? | choice/UI | x2
+#### 96d40d92b6 | choice/UI | x2
 You are Logged In
 
 #### 94e104b9c0 | choice/UI | x2

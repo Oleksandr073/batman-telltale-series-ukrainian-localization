@@ -55,7 +55,7 @@ You definitely got your licks in...
 #### 5d711e71f7 | BRUCE | x2
 Without my Bat Tech, I have no way of knowing if this is Alfred’s blood.
 
-#### fa63dcda0f-L? | BRUCE | x2
+#### fa63dcda0f | BRUCE | x2
 How much of a fight did you put up Alfred?
 
 #### cbfa249648 | BRUCE | x2
@@ -109,7 +109,7 @@ Alfred must have barricaded{AngryA} himself in here.
 #### 11531bedea | BRUCE | x2
 That would take quite a swing.
 
-#### cd3e92f07a-LM | BRUCE → ALFRED | x4
+#### cd3e92f07a | BRUCE → ALFRED | x4
 How much of a fight did you put up, Alfred?
 
 #### 9a7acd2c05 | BRUCE | x6
@@ -301,7 +301,7 @@ We need to act while the trail is still hot.
 #### bd73bab401 | BRUCE → LUCIUS | x4
 The more time that passes, the harder it will be to locate Alfred.
 
-#### 463b373d55-LM | LUCIUS → BRUCE | x2
+#### 463b373d55 | LUCIUS → BRUCE | x2
 Not that you can’t handle this yourself...
 
 #### c8e484b93b | LUCIUS → BRUCE | x2
@@ -313,7 +313,7 @@ The GCPD have enough on their plate.
 #### bd910e0a66 | BRUCE → LUCIUS | x2
 Time is of the essence.
 
-#### 6fed3b4ff7-SM | BRUCE → LUCIUS | x2
+#### 6fed3b4ff7 | BRUCE → LUCIUS | x2
 I wanted to see for myself first.
 
 #### ea18e189a7 | BRUCE → LUCIUS | x2
@@ -325,7 +325,7 @@ No. Yours...
 #### fbdd843029 | BRUCE | x2
 That would take tremendous force.
 
-#### 00ff032e4d-L? | BRUCE | x4
+#### 00ff032e4d | BRUCE | x4
 You put up one hell of a fight, didn’t you?
 
 #### 73f3c97590 | BRUCE | x2
@@ -455,7 +455,7 @@ So Alfred grabs the nearest thing to defend himself with...
 #### d10053b85e | BRUCE | x2
 Lady Arkham wanted me to find this...
 
-#### de7f6ae621-L? | BRUCE | x2
+#### de7f6ae621 | BRUCE | x2
 You wanted me to find this...
 
 #### 7365e1c2a4 | LUCIUS → BRUCE | x2
@@ -524,7 +524,7 @@ I want him alive!
 #### 96f629d41a | COA01 → BRUCE | x2
 Sonovabitch!
 
-#### 7b8613c702-SM | ALFRED → LADYARKHAM | x2
+#### 7b8613c702 | ALFRED → LADYARKHAM | x2
 I’m not afraid of you.
 
 #### 1c475279da | COA02 → ALFRED | x2
@@ -587,13 +587,13 @@ Please be okay Alfred.
 #### 6397c0aab6 | BRUCE | x4
 Looks like one hell of a fight.
 
-#### 65b94fcd8b-L? | BRUCE | x2
+#### 65b94fcd8b | BRUCE | x2
 I just hope you’re okay.
 
 #### 81229f6454 | BRUCE | x2
 We have to find Alfred before the trail goes cold.
 
-#### b58a56e111-L? | BRUCE | x2
+#### b58a56e111 | BRUCE | x2
 Where are you Alfred?
 
 #### 9d747c5f1f | BRUCE | x2

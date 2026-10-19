@@ -37,7 +37,7 @@ Thanks for your help.
 #### 8f721930c2 | BRUCE → NEWSCASTER | x2
 I don’t want anything to do with Falcone.
 
-#### 7128af1d99-SM | BRUCE → ALFRED | x2
+#### 7128af1d99 | BRUCE → ALFRED | x2
 I had everything under control.
 
 #### 7e22395fbf | BRUCE → ALFRED | x2
@@ -58,7 +58,7 @@ Not much to find, apparently.
 #### 1391e30eff | ALFRED → BRUCE | x2
 You might try under that name.
 
-#### 7d32ab4394-SM | BRUCE → ALFRED | x2
+#### 7d32ab4394 | BRUCE → ALFRED | x2
 I stay out of sight when I need to.
 
 #### 9e7a6db8e5 | BRUCE → ALFRED | x2
@@ -70,19 +70,19 @@ Batman isn’t hiding from anybody.
 #### d71eaf65fc | BRUCE → ALFRED | x2
 I don’t like{AngryA} being compared to a common criminal.
 
-#### 33ac037179-LM | ALFRED → BRUCE | x4
+#### 33ac037179 | ALFRED → BRUCE | x4
 You could learn a thing or two from her.
 
 #### 1720fabdc6 | ALFRED → BRUCE | x2
 Define “need to.“
 
-#### 9551b9ecbb-SM | ALFRED → BRUCE | x2
+#### 9551b9ecbb | ALFRED → BRUCE | x2
 I was talking about Bruce.
 
 #### 6c46bf09a9 | ALFRED → BRUCE | x2
 I think you’re missing the point.
 
-#### 27e623b480-LM | ALFRED → BRUCE | x4
+#### 27e623b480 | ALFRED → BRUCE | x4
 You have to admit you’ve been drawing{SkepticalA} a lot of attention to yourself.
 
 #### 7c87ae2ba5 | BRUCE → ALFRED | x2
@@ -91,7 +91,7 @@ No one’s gonna figure it out, Al. Trust me.
 #### 4881abfe01 | ALFRED → BRUCE | x2
 I don’t mean to beat a dead argument but--
 
-#### 766c298547-SM | choice/UI → ALFRED | x2
+#### 766c298547 | choice/UI → ALFRED | x2
 I’ve got it covered.
 
 #### 7c732008bc | ALFRED → BRUCE | x2
@@ -100,7 +100,7 @@ If they put it together with the incident at the Mayor’s Office...
 #### 537598792d | choice/UI → ALFRED | x2
 This city needs me.
 
-#### 774a7c6532-LM | BRUCE, choice/UI → ALFRED | x6
+#### 774a7c6532 | BRUCE, choice/UI → ALFRED | x6
 You’re right, Alfred.
 
 #### c502eaf68c | ALFRED → BRUCE | x2
@@ -109,7 +109,7 @@ You’re in the spotlight more than ever.
 #### d4b9e8c642 | ALFRED, choice/UI, LUCIUS → BRUCE, GORDON, BATMAN | x6
 You have to be careful.
 
-#### e0f95bc67e-SM | BRUCE → ALFRED | x2
+#### e0f95bc67e | BRUCE → ALFRED | x2
 I’ve had to cover for mysterious injuries before.
 
 #### 0c36ef3422 | ALFRED → BRUCE | x2
@@ -121,7 +121,7 @@ Or I’m just a really good liar.
 #### cef9ac7d08 | BRUCE → ALFRED | x2
 I have a job to do, okay, {AngryA}a responsibility to this city.
 
-#### cc63efea9a-LM | BRUCE → ALFRED | x2
+#### cc63efea9a | BRUCE → ALFRED | x2
 You’re right, you’re right. I should’ve canceled the event.
 
 #### 33362e1d7e | ALFRED → BRUCE | x2
@@ -190,16 +190,16 @@ The notorious Batman was on the scene, {ThinkingA}but failed to secure the stole
 #### 2be105c97a | BRUCE → ALFRED | x4
 Encrypted.
 
-#### 7c75ae286b-SM | ALFRED → RYDER, BRUCE | x4
+#### 7c75ae286b | ALFRED → RYDER, BRUCE | x4
 I saved you what I could.
 
-#### d0f7267791-SM | ALFRED → RYDER, FAIRCHILD | x4
+#### d0f7267791 | ALFRED → RYDER, FAIRCHILD | x4
 The same couldn’t be said for the bar--{AmusedA}I had to literally pry Mrs. Zellerbach away.
 
 #### 0c68766f15 | ALFRED → BRUCE | x2
 It wasn’t for you, Bruce.
 
-#### 1a7d64ac7b-SM | ALFRED → BRUCE | x2
+#### 1a7d64ac7b | ALFRED → BRUCE | x2
 I was worried he might drink all my good Scotch.
 
 #### fddbe457cb | ALFRED → BRUCE | x2
@@ -247,7 +247,7 @@ It’s our gift and our curse.
 #### 7cb2bfa388 | ALFRED → BRUCE | x2
 One more for the list.
 
-#### 90fddb31eb-SM | BRUCE → ALFRED | x2
+#### 90fddb31eb | BRUCE → ALFRED | x2
 I thought I saw Oz. {ThinkingA}It’s been what, 20 years?
 
 #### dbe9b7e062 | ALFRED → BRUCE | x2
@@ -295,10 +295,10 @@ A little too much sometimes.
 #### a7b21da330 | ALFRED → BRUCE | x2
 Because you’re generous.
 
-#### ef3c549cdf-SM | choice/UI → ALFRED | x2
+#### ef3c549cdf | choice/UI → ALFRED | x2
 I won’t play his game.
 
-#### aa456348be-SM | choice/UI → ALFRED | x2
+#### aa456348be | choice/UI → ALFRED | x2
 I played him.
 
 #### 829f5d41f1 | ALFRED → BRUCE | x2
@@ -436,7 +436,7 @@ Wayne Manor has seven bedrooms, two kitchens, a library, a gymnasium, a basketba
 #### 449eb5e26b | ALFRED → BRUCE | x4
 The dusting is murder.
 
-#### b1c91607d8-LM | ALFRED → BRUCE | x4
+#### b1c91607d8 | ALFRED → BRUCE | x4
 Well, then you won’t mind if I skip cleaning the rest.
 
 #### 583122f50a | ALFRED → BRUCE | x2
@@ -481,7 +481,7 @@ I agree--it isn’t normal work.
 #### d56c0e5920 | BRUCE → ALFRED | x2
 Yeah... well, good deeds usually go unnoticed.
 
-#### f75e6178ec-LM | ALFRED → BRUCE | x2
+#### f75e6178ec | ALFRED → BRUCE | x2
 Did you find out what that... cat woman... tried to steal?
 
 #### d00b27f89e | ALFRED → BRUCE | x2
@@ -583,16 +583,16 @@ We are now on day three of the factory fire that will not end. Crews have given 
 #### dfad5a6303 | FAIRCHILD → RYDER | x2
 And if you can believe it... now you can’t even trust the valets.
 
-#### 94c47fb3df-SM-LM | ALFRED → BRUCE | x2
+#### 94c47fb3df | ALFRED → BRUCE | x2
 I was impressed you played it cool so long.
 
-#### 4c01caf818-SM | ALFRED → BRUCE | x2
+#### 4c01caf818 | ALFRED → BRUCE | x2
 I would have been tempted to be far less... polite.
 
-#### 4afe6af004-SM-LM | ALFRED → BRUCE | x2
+#### 4afe6af004 | ALFRED → BRUCE | x2
 When I arrived, you looked ready to stab him with the pool cue.
 
-#### ad29274480-SM | BRUCE → ALFRED | x2
+#### ad29274480 | BRUCE → ALFRED | x2
 Last time I saw him... we were in grade school.
 
 #### 4bf4cf4921 | ALFRED → BRUCE | x2
@@ -610,7 +610,7 @@ I should see if I can refine the edge. Could be sharper.
 #### 8570d42507 | BRUCE → ALFRED | x2
 Spare grapple.
 
-#### c1d011dd3d-SM | BRUCE → ALFRED | x2
+#### c1d011dd3d | BRUCE → ALFRED | x2
 Can’t believe I let her take that.
 
 #### 426a720661 | ALFRED → BRUCE | x2
@@ -643,7 +643,7 @@ Let me see what we’ve got in the Codex.
 #### e9ee828a0f | BRUCE → RYDER | x2
 In the process.
 
-#### 4091c7e902-SM | BRUCE → ALFRED | x2
+#### 4091c7e902 | BRUCE → ALFRED | x2
 I already checked the Codex.
 
 #### 80a91e946d | BRUCE → ALFRED | x2
@@ -703,7 +703,7 @@ Random stabbings are the latest headache for the riders of Gotham’s overcrowde
 #### f0c85c2afe | RYDER → BRUCE | x2
 Two more patients have gone missing from Arkham Asylum, bringing the total number of escapees from the half-prison, half-mental hospital to fifteen this year. Only three have been caught to date, but all the escapes highlight the rough, some would say inhumane conditions, at the aging Asylum. The latest, 44-year-old twin brother and sister Leon and Valerie Muldoon, should be considered dangerous if found. Authorities are asking that you do not approach and call police immediately.
 
-#### 3786ef1d7a-LM | FAIRCHILD → RYDER | x2
+#### 3786ef1d7a | FAIRCHILD → RYDER | x2
 Mayor Hill’s Gotham Beautiful Act takes effect today, making it possible for landlords to evict tenants immediately and without cause. The new law was created in order to allow Gotham City’s biggest property owners greater ability to modify and improve the city’s aging buildings, some of which have been occupied by families for decades. So if you come home from work tonight and find all your stuff on the street, don’t worry. It probably isn’t anything you did wrong.
 
 #### 790f6215da | BRUCE → RYDER | x2

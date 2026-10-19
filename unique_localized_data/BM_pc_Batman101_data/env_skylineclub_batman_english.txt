@@ -52,9 +52,6 @@ The white rose. Falcone’s symbol.
 #### cec81ff3a4 | BATMAN → FALCONE | x2
 A red rose, after tonight.
 
-#### 862d39150e-LM | FALCONE → ALFRED | x2
-Show yourself!
-
 #### 348cee5fa5 | FALCONE → ALFRED | x2
 Goddamn circus freak.
 
@@ -73,7 +70,7 @@ Get your goddamn hands off of my suit!
 #### 51b7533094 | BATMAN → FALCONE | x4
 It’s over, Falcone.
 
-#### 0c607a41c8-LM | FALCONE → BATMAN | x4
+#### 0c607a41c8 | FALCONE → BATMAN | x4
 You got a lot to learn, kid.
 
 #### a6e6c754d6 | ALFRED → FALCONE | x2
@@ -106,7 +103,7 @@ Do you know who my lawyers... my lawyers are?!
 #### ce99969696 | FALCONE → BATMAN | x2
 For you.
 
-#### db4696632d-SM | BATMAN → FALCONE | x2
+#### db4696632d | BATMAN → FALCONE | x2
 I found your calling card at the docks.
 
 #### 5ac3ee4d47 | BATMAN → FALCONE | x2
@@ -130,7 +127,7 @@ Let’s find Falcone.
 #### 17187cd843 | HARVEY, BATMAN, SELINA, GORDON → VICKI, FALCONE, HARVEY | x15
 Alright.
 
-#### 72d8852354-LM | ALFRED → FALCONE | x2
+#### 72d8852354 | ALFRED → FALCONE | x2
 Have you formulated your plan of attack?
 
 #### 5b109d9dcb | FALCONE → BATMAN | x2
@@ -145,7 +142,7 @@ You can’t do this to me!
 #### 99c9b0a716 | FALCONE | x2
 I’m a respectable businessman!
 
-#### b58c31700b-L? | FALCONE | x2
+#### b58c31700b | FALCONE | x2
 You broke into my club!
 
 #### c0da0b2ac3 | FALCONE | x2
@@ -160,10 +157,10 @@ I’m gonna light up this whole fucking place!
 #### 3b81e6f713 | FALCONE, GORDON → OSWALD | x4
 Heh.
 
-#### 72e8a8cdd6-SM | FALCONE | x2
+#### 72e8a8cdd6 | FALCONE | x2
 I got rights to defend myself.
 
-#### 6bf2eb9e00-LF | FALCONE → MOBLADY02 | x2
+#### 6bf2eb9e00 | FALCONE → MOBLADY02 | x2
 You got no goddamn right to be here!
 
 #### be65b9e347 | BRUCE, HARVEY, SELINA, LUCIUS → BRUCE, VICKI, BATMAN | x124
@@ -232,7 +229,7 @@ All it took was a couple of c-notes this time.
 #### ad59f79ff7 | MOBSTER02 → MOBSTER01 | x2
 Nice and easy.
 
-#### 6391c6d969-LM | MOBSTER01 → MOBSTER02 | x2
+#### 6391c6d969 | MOBSTER01 → MOBSTER02 | x2
 Nice and easy, my ass. [hushed] I know you burned powder tonight. The whole city can smell it.
 
 #### c43765afc7 | MOBSTER02 → MOBSTER01 | x2
@@ -265,7 +262,7 @@ Politics, it ain’t horse racing. Whoever wins, there’s consequences that are
 #### 00963d5627 | MOBSTER01 → MOBSTER02 | x2
 I don’t know... my wallet’s pretty damn big.
 
-#### 34cc8cef12-LM | MONBSTER02 → MOBSTER01 | x2
+#### 34cc8cef12 | MONBSTER02 → MOBSTER01 | x2
 I’ll remember you said that when I’m peelin’ your face of one of Falcone’s friers.
 
 #### 881dbf5601 | MOBSTERO1 → ALFRED | x2
@@ -370,7 +367,7 @@ Keep looking. I imagine Falcone’s office is well-protected.
 #### 9ed9b3d5d4 | ALFRED → BATMAN | x2
 Let’s get back on track.
 
-#### 52d7f11324-SM | BATMAN → ALFRED | x2
+#### 52d7f11324 | BATMAN → ALFRED | x2
 I’m sure Falcone’s office is on this floor.
 
 #### 612bf979cb | BATMAN → ALFRED | x2
@@ -379,7 +376,7 @@ Hmm. I see a couple of options for taking this guy down...
 #### 186e692e43 | ALFRED → BATMAN | x2
 This one might be tricky.  Any ideas?
 
-#### 1748711488-SM | BATMAN → ALFRED | x2
+#### 1748711488 | BATMAN → ALFRED | x2
 I’ve got it covered, Al.
 
 #### 516981711c | ALFRED → BATMAN | x2
@@ -391,7 +388,7 @@ Don’t make me hurt you.
 #### bcd9c05d91 | choice/UI → ALFRED | x2
 TALK!
 
-#### ecae71297e-LM | choice/UI → FALCONE | x2
+#### ecae71297e | choice/UI → FALCONE | x2
 You’ve lost, Falcone!
 
 #### e6620876fc | ALFRED → BATMAN | x2
@@ -421,7 +418,7 @@ I’ll talk.
 #### d5640e28fb | FALCONE → BATMAN | x2
 You wouldn’t--
 
-#### 380bbe7526-LM | BATMAN → FALCONE | x2
+#### 380bbe7526 | BATMAN → FALCONE | x2
 Spare yourself the pain, old man.
 
 #### 0075e111a1 | FALCONE → BATMAN | x2
@@ -433,10 +430,10 @@ Okay, alright, I’ll talk!
 #### 2c8f3be7d2 | FALCONE → BATMAN | x2
 What? You throwin’ in the towel already?
 
-#### d2d695dbe7-SM | FALCONE → BATMAN | x2
+#### d2d695dbe7 | FALCONE → BATMAN | x2
 I could go a few more rounds.
 
-#### 1a813ff84b-LM | BATMAN → FALCONE | x2
+#### 1a813ff84b | BATMAN → FALCONE | x2
 You fought well, but it’s over.
 
 #### 8b9b4df691 | FALCONE → BATMAN | x2
@@ -463,10 +460,10 @@ The chemicals!
 #### 44e66a6574 | BATMAN → FALCONE | x2
 Where are they?!
 
-#### 03c92d8c77-LM | FALCONE → BATMAN | x2
+#### 03c92d8c77 | FALCONE → BATMAN | x2
 Those chemicals you’re so riled up about--they’re mine, alright?
 
-#### 31339c5781-SM | FALCONE → BATMAN | x2
+#### 31339c5781 | FALCONE → BATMAN | x2
 But someone’s tryin’ to cut me out of the deal, because I did not make that mess at the docks.
 
 #### 50c6b66671 | FALCONE → BATMAN | x2
@@ -517,7 +514,7 @@ Oh my god...
 #### 5c6584a6d6 | ALFRED → MONTOYA | x2
 I’ll watch the fireworks from here.
 
-#### 49070dcea4-SM | FALCONE → MONTOYA | x2
+#### 49070dcea4 | FALCONE → MONTOYA | x2
 You think I wanted to lead YOU here?
 
 #### a6457ab4f3 | BATMAN → FALCONE | x2
@@ -568,7 +565,7 @@ Stay down, Falcone.
 #### 0d63179485 | BATMAN → FALCONE | x4
 We can end this now.
 
-#### 5770f1faa3-LM | BATMAN → FALCONE | x2
+#### 5770f1faa3 | BATMAN → FALCONE | x2
 You’ve lost, Falcone.
 
 #### 4e25f2597c | BATMAN → FALCONE | x2
@@ -607,7 +604,7 @@ Your turn to be an unwelcome guest in his house.
 #### 96d5e6cd0d | ALFRED → BATMAN, BRUCE | x8
 Very good, sir.
 
-#### a26b30f6f6-SM | BATMAN → ALFRED | x2
+#### a26b30f6f6 | BATMAN → ALFRED | x2
 I planned for the hard way.
 
 #### 723cc53c1c | BATMAN → ALFRED | x2

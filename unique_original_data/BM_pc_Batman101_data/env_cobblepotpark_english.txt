@@ -34,7 +34,7 @@ My old mate and I have some catching up to do...
 #### ebdbced18e | OSWALD → BRUCE | x2
 Woo! That was a right little {AngryB}scrap, eh?
 
-#### 96adf24f7e-LM | OSWALD → BRUCE | x2
+#### 96adf24f7e | OSWALD → BRUCE | x2
 Ha, oh hey Bruce, {DisgustA}you’ve got a little...{SadB}
 
 #### c79f25c298 | OSWALD | x2
@@ -43,7 +43,7 @@ There. Good as {HappyB}new!
 #### a0ac7efeb1 | OSWALD | x2
 Besides, someone needed to deal with the {AngryB}rubbish {DisgustB}situation here.
 
-#### b5d5cc818f-SM | OSWALD | x2
+#### b5d5cc818f | OSWALD | x2
 Right now, I’m tryin’ to recognize{AngryB} the little Bruce I used to run ‘round this {DisgustB}place with.
 
 #### 5470c6d798 | OSWALD | x2
@@ -55,7 +55,7 @@ S’funny, huh?
 #### 71ed3dd04a | OSWALD | x2
 Used to run in the same circles, {HappyA}we did.
 
-#### d2eff92479-SM | OSWALD → BRUCE | x2
+#### d2eff92479 | OSWALD → BRUCE | x2
 Sorry, mate. {HappyB}This reunion got a lot more grim than I planned!
 
 #### 2b9cf42f44 | OSWALD → BRUCE | x2
@@ -67,7 +67,7 @@ When this whole thing starts... {DisgustA}make sure you’re on the {DisgustB}ri
 #### 37a321b296 | BRUCE → OSWALD | x2
 Thanks for the backup.
 
-#### eb41fa6d8a-SM | BRUCE → OSWALD | x2
+#### eb41fa6d8a | BRUCE → OSWALD | x2
 Hey, I could have handled {AngryB}that myself.
 
 #### 247d029c0a | BRUCE → OSWALD | x2
@@ -79,7 +79,7 @@ Well, those were better days.
 #### 4a4a40f15a | OSWALD → BRUCE | x2
 That they were, {AngryA}yeah.
 
-#### f19a32add5-SM | OSWALD → BRUCE | x2
+#### f19a32add5 | OSWALD → BRUCE | x2
 Thought we’d grow up to be {DisgustA}kings, I did.
 
 #### 71390139b7 | BRUCE → OSWALD | x2
@@ -100,7 +100,7 @@ The last thing my parents {DisgustB}ever built...
 #### 17fe708bd8 | OSWALD → BRUCE | x2
 Both of us...
 
-#### 16f00e78af-SM | BRUCE → OSWALD | x2
+#### 16f00e78af | BRUCE → OSWALD | x2
 I’m sorry, Oz.
 
 #### 90a4a96acb | OSWALD → BRUCE | x2
@@ -131,13 +131,13 @@ Try and take it.
 #### ca9300a7f2 | choice/UI → DRUGDEALER1 | x2
 Just walk away.
 
-#### 65c480247a-SM | choice/UI, BRUCE → DRUGDEALER1 | x4
+#### 65c480247a | choice/UI, BRUCE → DRUGDEALER1 | x4
 I’ve got nothing.
 
 #### f3e553da9c | BRUCE, choice/UI → DRUGDEALER1, ALFRED | x4
 You’re making a mistake.
 
-#### bb12bee84e-LM | DRUGDEALER1 → BRUCE | x2
+#### bb12bee84e | DRUGDEALER1 → BRUCE | x2
 You already made one comin’ here.
 
 #### 278296c8ea | DRUGDEALER1 → BRUCE | x2
@@ -155,7 +155,7 @@ That’s very thoughtful of you.
 #### 8de17a01bc | OSWALD → BRUCE | x2
 ‘Least I can do is make sure you {HappyB}don’t get shanked.
 
-#### 45baf49eb2-SM | OSWALD → BRUCE | x2
+#### 45baf49eb2 | OSWALD → BRUCE | x2
 I yanked you away from your bloody {AngryB}ivory tower, {AngryA}Bruce.
 
 #### bee641bb00 | OSWALD → BRUCE | x2
@@ -182,7 +182,7 @@ Others don’t get the message unless {HappyA}it’s beaten{AngryB} into them.
 #### fcbd62d9b0 | BRUCE → OSWALD | x2
 And you know what, I haven’t been mugged {SmugB}once that entire {HappyA}time.
 
-#### e5175014f0-SM | OSWALD → BRUCE | x2
+#### e5175014f0 | OSWALD → BRUCE | x2
 That wasn’t why I {ThinkingA}brought you here, {AngryA}mate.
 
 #### e3f9c6eb5b | OSWALD → BRUCE | x2
@@ -197,7 +197,7 @@ Mum and Dad, they put so {ThinkingA}much work in here.
 #### ac0361cb1c | OSWALD | x2
 A place that was safe for kids, {ThinkingA}for families...
 
-#### 59c18f4005-LM | HARVEY, BRUCE, choice/UI, ENFORCERCOLLEEN → BATMAN, BRUCE, OSWALD | x24
+#### 59c18f4005 | choice/UI, HARVEY, BRUCE, ENFORCERCOLLEEN → BATMAN, BRUCE, SELINA | x34
 You’re right.
 
 #### d31d71c21f | choice/UI → OSWALD | x2
@@ -218,7 +218,7 @@ Gave you {DisgustB}the good life.
 #### 70085b0d1b | OSWALD → BRUCE | x2
 Same place that ground my family {AngryB}to dust...
 
-#### d256de8977-SM | choice/UI, BRUCE → OSWALD | x4
+#### d256de8977 | choice/UI, BRUCE → OSWALD | x4
 I’m sorry, Oswald.
 
 #### 86b80f93e3 | HARVEY, VICKI, OSWALD, GORDON → BRUCE | x28
@@ -227,16 +227,16 @@ Thanks, Bruce.
 #### 892f64de8f | BRUCE → OSWALD | x2
 No one should have to go {ConcernedA}through that.
 
-#### 8c05faf2d0-SM | choice/UI → OSWALD, GORDON | x4
+#### 8c05faf2d0 | choice/UI → OSWALD, GORDON | x4
 I lost my parents too.
 
 #### 246b3dee42 | BRUCE → OSWALD | x2
 My parents are gone too, {ConcernedB}Oz.
 
-#### 5695ae8b4a-SM | OSWALD → BRUCE | x2
+#### 5695ae8b4a | OSWALD → BRUCE | x2
 I know, Bruce. {AngryA}And I’m sorry for it.
 
-#### 2885bade98-SM | OSWALD → BRUCE | x2
+#### 2885bade98 | OSWALD → BRUCE | x2
 But I had my own funerals {DisgustB}to attend.
 
 #### b2de4bb3e2 | BRUCE → OSWALD | x2
@@ -251,7 +251,7 @@ Falcone was an uninvited guest--{ThinkingB}that’s it.
 #### 5e1a01dc1e | BRUCE → OSWALD | x2
 I never want to see his face {AmusedA}again.
 
-#### 11ce177b4b-SM | BRUCE → OSWALD | x2
+#### 11ce177b4b | BRUCE → OSWALD | x2
 No-no-no, no, no...I only agreed to meet him because of {ThinkingA}Harvey.
 
 #### 1cf8d562a4 | OSWALD → BRUCE | x2
@@ -272,7 +272,7 @@ Falcone’s made a stack of cash and {AngryA}corpses a mile high ruining {AngryB
 #### 490ecacf1b | OSWALD | x2
 All he needs a little push {ThinkingB}and...
 
-#### 75844d4472-SM | choice/UI → OSWALD | x2
+#### 75844d4472 | choice/UI → OSWALD | x2
 I could give you money.
 
 #### 22614df110 | choice/UI → OSWALD | x2
@@ -293,7 +293,7 @@ No handouts required.
 #### 8bd8732efa | BRUCE → OSWALD | x2
 Let’s cut through all {ConcernedA}this, Oz.
 
-#### 5cfccdeec1-LM | BRUCE → OSWALD | x2
+#### 5cfccdeec1 | BRUCE → OSWALD | x2
 You need some cash {ConcernedB}to get back on your feet.
 
 #### 1dae63e14f | OSWALD → BRUCE | x2
@@ -311,7 +311,7 @@ They’re usually hiding a {DisgustB}forked tongue.
 #### d10b5b1969 | OSWALD → BRUCE | x2
 But Falcone’s in my crosshairs. {AngryB}Not yours.
 
-#### f0b0139d98-LM | BRUCE → OSWALD | x2
+#### f0b0139d98 | BRUCE → OSWALD | x2
 So you came back {AmusedB}to fix Gotham.
 
 #### 4165104efd | OSWALD → BRUCE | x2
@@ -338,7 +338,7 @@ Don’t know how much that meant to you, {ThinkingB}but it meant loads to me.
 #### f0db63b14d | OSWALD → DRUGDEALER2 | x2
 Which is why I’m warning you...
 
-#### e75ce55485-SM | OSWALD → BRUCE | x2
+#### e75ce55485 | OSWALD → BRUCE | x2
 I have got great affection for you, {ThinkingB}Bruce, I really do.
 
 #### 6b33117019 | DRUGDEALER2 → OSWALD | x2
@@ -368,7 +368,7 @@ Let him choke on it.
 #### 90fbe46648 | OSWALD | x2
 Made himself right at home, {AngryB}that oily f--.
 
-#### 96043536f7-SM | OSWALD | x2
+#### 96043536f7 | OSWALD | x2
 Wish I could’ve punched {AngryA}that grin into the {DisgustB}back of his throat.
 
 #### a5d3fe78ca | OSWALD → DRUGDEALER2 | x2
@@ -380,7 +380,7 @@ Hard to keep those gremlins {AngryA}under lock and key, eh?!
 #### 6b13d0b33a | OSWALD → DRUGDEALER2 | x2
 A revolution is knocking on Gotham’s door... {HappyA}and I’m here to let it in.
 
-#### 43e86ddb16-LM | DRUGDEALER2 → OSWALD | x2
+#### 43e86ddb16 | DRUGDEALER2 → OSWALD | x2
 Hey, you heard him, man.
 
 #### d476e3e874 | DRUGDEALER2 → OSWALD | x2
@@ -419,7 +419,7 @@ But when my revolution starts, {AngryA}we’re going to smash windows and{AngryB
 #### f0f161e43b | OSWALD → BRUCE | x2
 As the “rich and powerful” go, {DisgustA}you top Gotham’s list.
 
-#### 3ca2d54c5e-SM | OSWALD → BRUCE | x2
+#### 3ca2d54c5e | OSWALD → BRUCE | x2
 Like I said, it’s not gonna be pretty... {DisgustA}it’s gonna be beautiful.
 
 #### 04204afe7a | OSWALD → BRUCE | x2
@@ -446,25 +446,25 @@ It was beautiful once.
 #### 904e261ec8 | BRUCE → OSWALD | x2
 I know, Alfred told me.
 
-#### 8493f721db-SM | OSWALD → BRUCE | x2
+#### 8493f721db | OSWALD → BRUCE | x2
 Y’know when I saw you at the party last night I thought...
 
 #### 3e508f0b55 | OSWALD → BRUCE | x2
 Bruce Wayne... {AngryA}hasn’t changed a bit.
 
-#### 1f23f25f6e-SM | OSWALD → BRUCE | x2
+#### 1f23f25f6e | OSWALD → BRUCE | x2
 But maybe I was wrong.
 
-#### e7b3ed535c-SM | OSWALD | x2
+#### e7b3ed535c | OSWALD | x2
 Shouldnt’ve been a surprise when I saw you with Carmine Falcone.
 
 #### f46d9f42d1 | OSWALD → BRUCE | x2
 Good to know you haven’t changed, Bruce.
 
-#### e5e8ad453f-LM | OSWALD → BRUCE | x2
+#### e5e8ad453f | OSWALD → BRUCE | x2
 You still care about something more than just yourself.
 
-#### b0f408882d-SM | OSWALD → BRUCE | x2
+#### b0f408882d | OSWALD → BRUCE | x2
 Although I was surprised to see Carmine Falcone at your party last night.
 
 #### ba2533170d | choice/UI → OSWALD | x2
@@ -476,10 +476,10 @@ It’s... politics, Oz.
 #### ee3249e58a | BRUCE → OSWALD | x2
 That’s how the game is played.
 
-#### 8576aef98c-SM-LM | OSWALD → BRUCE | x2
+#### 8576aef98c | OSWALD → BRUCE | x2
 I thought you had more integrity than that.
 
-#### 6651bad5c9-LM | OSWALD → BRUCE | x2
+#### 6651bad5c9 | OSWALD → BRUCE | x2
 What? You got nothing to say?
 
 #### 5fc0ec2556 | choice/UI, ENFORCERLUKE → OSWALD, JOKER, BRUCE | x10
@@ -488,7 +488,7 @@ Is that a threat?
 #### 93f288df9b | choice/UI, BRUCE → OSWALD, SELINA | x4
 I’m not your enemy.
 
-#### c5a36d9394-LM | choice/UI → OSWALD | x2
+#### c5a36d9394 | choice/UI → OSWALD | x2
 You won’t win that battle.
 
 #### 47caa956c3 | BRUCE → OSWALD | x2
@@ -503,10 +503,10 @@ I’m not your enemy, Oz.
 #### ad0e5b1575 | OSWALD → BRUCE | x2
 That remains to be seen, don’t it?
 
-#### 7c8ba26120-LM | BRUCE → OSWALD | x2
+#### 7c8ba26120 | BRUCE → OSWALD | x2
 That’s a battle you won’t win, Oz.
 
-#### 6303fec20b-SM | OSWALD → BRUCE | x2
+#### 6303fec20b | OSWALD → BRUCE | x2
 No? I’ve learned a thing or three since we were kids.
 
 #### acd6a06d52 | OSWALD → BRUCE | x2
@@ -515,13 +515,13 @@ Am I getting through to you, Bruce?
 #### 80611d50cf | choice/UI → OSWALD | x2
 That’s how things are.
 
-#### 960d841140-SM | choice/UI, BATMAN → OSWALD, ALFRED | x6
+#### 960d841140 | choice/UI, BATMAN → OSWALD, ALFRED | x6
 I had it handled.
 
 #### 2e19a176ac | choice/UI → OSWALD, GORDON | x4
 Thanks for the help.
 
-#### bba86906c5-LM | choice/UI → OSWALD | x6
+#### bba86906c5 | choice/UI → OSWALD | x10
 You went too far.
 
 #### f2ec233785 | HOMELESSMAN, RYDER → OSWALD, BRUCE | x4
@@ -536,7 +536,7 @@ And you’re ruinin’ the moment!
 #### c92ad27ec6 | OSWALD → HOMELESSMAN | x2
 This city... chews right through people.
 
-#### fd5d7fe91d-SM | OSWALD → BRUCE | x2
+#### fd5d7fe91d | OSWALD → BRUCE | x2
 Now all I’ve got is this park...
 
 #### 5ebb89fb29 | BATMAN, OSWALD, SELINA, GCPD02 → PENGUIN, BRUCE, GCPD03 | x12
@@ -551,7 +551,7 @@ It’s been what... two decades?
 #### e536ea530a | OSWALD → DRUGDEALER2 | x2
 It’s my only inheritance.
 
-#### f0f7f2f066-SM | OSWALD → BRUCE | x2
+#### f0f7f2f066 | OSWALD → BRUCE | x2
 Good seeing you, Bruce, but I’ve got some rocks to collect. Cheers.
 
 #### cb5c22e9c2 | DRUGDEALER2, COP02 → OSWALD, ALFRED | x4

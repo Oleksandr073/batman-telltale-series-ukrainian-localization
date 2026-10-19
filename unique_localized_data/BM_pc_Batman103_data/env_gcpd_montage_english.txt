@@ -58,7 +58,7 @@ The boss’ll be here soon. Just shut up and wait for the shipment.
 #### 94550f8b51 | COP01 → GOON01, BATMAN | x4
 It’s not looking good down here.
 
-#### 2c049b1506-SM | GORDON → COP01 | x2
+#### 2c049b1506 | GORDON → COP01 | x2
 You’re not gonna get back-up for a while, Jenson. I need you to handle it.
 
 #### f71355e90d | COP01 → GOON01 | x2
@@ -82,7 +82,7 @@ You report for duty tonight or you can take retirement tomorrow!
 #### a8619c94eb | COA01 → BATMAN | x2
 ... Fifty crates of rifles, tonight. They said twenty crates of mags, too.
 
-#### b793c282e7-SM | BATMAN → ALFRED | x2
+#### b793c282e7 | BATMAN → ALFRED | x2
 I’m headed to the docks.
 
 #### c625e62f73 | BATMAN → ALFRED | x2
@@ -127,22 +127,22 @@ It’s a little obvious.
 #### a5dd84ac8d | GORDON → BATMAN | x6
 Says the man dressed like a bat.
 
-#### 74fa81f5ba-LM | BATMAN → GORDON | x2
+#### 74fa81f5ba | BATMAN → GORDON | x2
 Aren’t you worried about people knowing you’re working with me?
 
-#### 59d51823cb-LM | GORDON → BATMAN | x2
+#### 59d51823cb | GORDON → BATMAN | x2
 ‘Course I am-- especially when you pull stunts like you did at the Monarch.
 
 #### dcf12cb330 | GORDON → BATMAN | x2
 You flying solo?
 
-#### 1e6882ec3e-SM-LM | GORDON → BATMAN | x2
+#### 1e6882ec3e | GORDON → BATMAN | x2
 Last time you and I saw each other, you showed up with that cat... woman.
 
-#### 295e38b01f-SM | GORDON → BATMAN | x2
+#### 295e38b01f | GORDON → BATMAN | x2
 She put a bunch of my guys on the injured list. I need to know.
 
-#### d1debdcf92-SM | GORDON → BATMAN | x2
+#### d1debdcf92 | GORDON → BATMAN | x2
 I’m just curious to know if I always get two for the price of one.
 
 #### 189c46e4ef | choice/UI, BATMAN → GORDON | x8
@@ -205,13 +205,13 @@ With the election and everything, my guys have been playing catch-up all night.
 #### b07cbf9913 | GORDON → BATMAN | x2
 We’re two steps behind everything the Children of Arkham are doing.
 
-#### c4ed208b6e-LM | GORDON → BATMAN | x2
+#### c4ed208b6e | GORDON → BATMAN | x2
 But the bottom line is that you’ve got those...
 
 #### 6104fcab07 | BATMAN → GORDON | x2
 Drones.
 
-#### 58fc2ab471-SM | GORDON → BATMAN | x2
+#### 58fc2ab471 | GORDON → BATMAN | x2
 Yeah. And I need all the resources that I can get right now.
 
 #### 4f59d2c1cc | choice/UI → GORDON | x2
@@ -223,7 +223,7 @@ You’re outside the law.
 #### a6b099b63b | GORDON → BATMAN | x2
 And honestly, you’re a grown man dressing like a bat.
 
-#### 47da94ddac-SM | GORDON | x2
+#### 47da94ddac | GORDON | x2
 I’ve got calls from all over; the Children of Arkham are out of control.
 
 #### b213ca8b76 | GORDON → BATMAN | x2
@@ -256,10 +256,10 @@ Come the day we’re not on the same side anymore, I want to feel good about thr
 #### 9d272ce0b6 | BATMAN → GORDON | x2
 What are we looking at, Gordon?
 
-#### 3e33caae4e-SM | BATMAN → GORDON | x2
+#### 3e33caae4e | BATMAN → GORDON | x2
 I’m headed over to Dent.
 
-#### da5bd730a1-LM | COP02 → GORDON | x2
+#### da5bd730a1 | COP02 → GORDON | x2
 You heard the Commissioner. We’re not getting any back up. This is on us.
 
 #### 40f5e85737 | HARVEY → COP02 | x2
@@ -274,13 +274,13 @@ Then let Gotham see it!
 #### d29d29e637 | ASSISTANT → HARVEY | x2
 Is that --[car following us?]
 
-#### a785d3ec87-SM | HARVEY → ASSISTANT | x2
+#### a785d3ec87 | HARVEY → ASSISTANT | x2
 No, I told you it’s fine!
 
 #### 1d7f7377da | ASSISTANT → HARVEY | x2
 No! No, I mean. That car behind us, it’s pretty close.
 
-#### 5e3e932879-LM | HARVEY → GORDON | x2
+#### 5e3e932879 | HARVEY → GORDON | x2
 Yeah, you’re right... who is that?
 
 #### 38486c6163 | GORDON → HARVEY | x2
@@ -304,7 +304,7 @@ And thank god for that. You’re more trouble than you’re worth.
 #### d80db23e34 | GORDON | x2
 Half hoping you wouldn’t show.
 
-#### 447bb3d42a-SM | GORDON | x2
+#### 447bb3d42a | GORDON | x2
 That was the best thing I could come up with on short notice to get your attention.
 
 #### 6d4f753599 | GORDON → BATMAN | x2
@@ -328,7 +328,7 @@ Small favors for both of us -- I’d hate to be your boss.
 #### 96b2e15d87 | BATMAN → GORDON | x4
 The light has a bat on it.
 
-#### f368dfd859-SM | GORDON → BATMAN | x2
+#### f368dfd859 | GORDON → BATMAN | x2
 I’m just glad it got your attention.
 
 #### f41ff6cdfd | GORDON → BATMAN | x2
@@ -343,16 +343,16 @@ Guess you do.
 #### 2b3a8b341a | GORDON → BATMAN | x2
 You wouldn’t get half my good will from the next guy in line for this desk.
 
-#### 0768f7872c-SM | GORDON → BATMAN | x2
+#### 0768f7872c | GORDON → BATMAN | x2
 Look. I made it because as much as it galls me, I need your help.
 
-#### 9ba35d5662-SM | GORDON → BATMAN | x2
+#### 9ba35d5662 | GORDON → BATMAN | x2
 I made it because I need your help. It might not be the best option...
 
-#### b8cc8c96ab-SM | GORDON → BATMAN | x2
+#### b8cc8c96ab | GORDON → BATMAN | x2
 But it’s the only one I got.
 
-#### 437d34e079-SM | GORDON → BATMAN | x2
+#### 437d34e079 | GORDON → BATMAN | x2
 I made it because I need your help.
 
 #### 71aab0d832 | GORDON → BATMAN | x2
@@ -370,7 +370,7 @@ Fine, damnit. You help me tonight and I owe you a favor.
 #### 4d10db7676 | GORDON → BATMAN | x2
 You help me out tonight and whatever I can do for you, I’m more than happy to do it.
 
-#### 9d43237f56-LM | BATMAN → GORDON | x6
+#### 9d43237f56 | BATMAN → GORDON | x6
 Tell me what you need me to do.
 
 #### 66bd769766 | GORDON → BATMAN | x2
@@ -379,7 +379,7 @@ Didn’t think it would be that easy.
 #### 39cc910c07 | BATMAN → GORDON | x2
 You and I don’t see eye to eye, but that won’t stop me from helping Gotham.
 
-#### 5149142fa6-SM | GORDON → BATMAN | x2
+#### 5149142fa6 | GORDON → BATMAN | x2
 I’m glad you feel that way.
 
 #### 662e50fc6d | BATMAN → GORDON | x6
@@ -430,7 +430,7 @@ That’s life. Suck it up.
 #### dd3d896b67 | BATMAN → GORDON | x2
 That doesn’t mean that we can’t work together.
 
-#### 6504356cc5-SM | GORDON → BATMAN | x2
+#### 6504356cc5 | GORDON → BATMAN | x2
 But you’re all that I got.
 
 #### 297828f2de | GORDON → BATMAN | x2
@@ -445,7 +445,7 @@ I generally work alone.
 #### 6d0a0125cb | GORDON → BATMAN | x4
 Good to know. I don’t need another liability on my hands.
 
-#### 162bc66c62-SM | GORDON → BATMAN | x2
+#### 162bc66c62 | GORDON → BATMAN | x2
 Not if we’re working together. I need to know my resources.
 
 #### 91efd390a3 | BATMAN → GORDON | x2
@@ -469,7 +469,7 @@ What the hell is this city coming to?
 #### 36d73a7518 | BATMAN → GORDON | x2
 What she did wasn’t her fault. She was drugged.
 
-#### 61a2a66baf-SM | GORDON → BATMAN | x2
+#### 61a2a66baf | GORDON → BATMAN | x2
 I don’t know her from the next vigilante -- but I saw what that stuff did to Montoya.
 
 #### 75dfa6f2ab | GORDON → BATMAN | x2
@@ -499,7 +499,7 @@ Doesn’t exactly help me out.
 #### a9ecf0e545 | BATMAN → GORDON | x2
 It’s the best I can do.
 
-#### 1601a0bab5-SM | BATMAN → GORDON | x2
+#### 1601a0bab5 | BATMAN → GORDON | x2
 If I told you, I’d have to kill you.
 
 #### b6d49227a5 | GORDON → BATMAN | x2
@@ -523,7 +523,7 @@ It’s all thanks to charitible donations.
 #### 03545a1523 | GORDON → BATMAN | x2
 You know jokes don’t work with that mask, right?
 
-#### 5ae8869eaf-SM | GORDON → BATMAN | x2
+#### 5ae8869eaf | GORDON → BATMAN | x2
 It would probably just get me in trouble anyway. Last thing I need is to be booked as an accomplice.
 
 #### 99867ab082 | GORDON → BATMAN | x2
@@ -535,7 +535,7 @@ Flying... whatever the hell those were.
 #### 6587c11166 | GORDON → COP01 | x2
 A nicer car than I’ve ever driven, that’s for sure.
 
-#### bf34ba2fdb-L? | GORDON → COP01 | x2
+#### bf34ba2fdb | GORDON → COP01 | x2
 How did they know you were there?
 
 #### cef35c20aa | COP01 → GORDON | x2
@@ -550,7 +550,7 @@ I’m working on something. Gordon out.
 #### d7f4eb271f | BATMAN → GORDON | x2
 The light.
 
-#### 3aaa667db2-SM | GORDON → BATMAN | x2
+#### 3aaa667db2 | GORDON → BATMAN | x2
 I thought you might be too busy to show.
 
 #### edd8cc765b | choice/UI → GORDON | x2
@@ -568,7 +568,7 @@ It’s pretty obvious.
 #### 2ad693ec23 | GORDON → BATMAN | x6
 Says the man dressed like a giant bat.
 
-#### a16dfd9584-SM | GORDON → BATMAN | x2
+#### a16dfd9584 | GORDON → BATMAN | x2
 Probably a mistake, but it was the best thing I could come up with.
 
 #### 787b03491a | GORDON → BATMAN | x2
@@ -586,7 +586,7 @@ I don’t have time for stunts like this.
 #### 4a55b28aaa | GORDON → BATMAN | x4
 Well make time. Tonight this is bigger than both of us.
 
-#### 9c738643b6-SM | GORDON → BATMAN | x2
+#### 9c738643b6 | GORDON → BATMAN | x2
 I don’t like you, but tonight I need you.
 
 #### ced2071ea2 | GORDON → BATMAN | x2
@@ -646,16 +646,16 @@ Yeah, well. Function over form, I guess. It got the job done.
 #### b0d938ebf7 | BATMAN → GORDON | x2
 It’s a little bit... obvious.
 
-#### d1055ec97b-LM | GORDON → BATMAN | x2
+#### d1055ec97b | GORDON → BATMAN | x2
 You haven’t looked in the mirror lately, have you.
 
-#### 5c5d224490-SM | GORDON → BATMAN | x2
+#### 5c5d224490 | GORDON → BATMAN | x2
 Look, it was meant to be obvious. I needed you here.
 
 #### 581e72f91b | GORDON → BATMAN | x2
 I apologize for steppin’ on your toes, but it was important.
 
-#### 822d2e6474-SM | GORDON | x2
+#### 822d2e6474 | GORDON | x2
 I needed to get your attention and this is what I could come up with on short notice.
 
 #### 79f7475d9d | GORDON | x2
@@ -667,7 +667,7 @@ But you’re the best bet I have right now.
 #### 2376ca101d | GORDON → BATMAN | x2
 The only bet.
 
-#### d378681b56-SM | GORDON → BATMAN | x2
+#### d378681b56 | GORDON → BATMAN | x2
 I may not always agree with your methods, but I need your help.
 
 #### 31f3b89dad | GORDON → BATMAN | x2
@@ -712,7 +712,7 @@ But good. I’m asking you for help tonight, not her.
 #### 8224504c3d | GORDON | x2
 But better for you -- she caused a real mess at the debate.
 
-#### c918b56b64-SM | GORDON | x2
+#### c918b56b64 | GORDON | x2
 Glad to hear it. I called you and you alone tonight.
 
 #### 0b49f4f216 | GORDON → BATMAN | x2
@@ -751,7 +751,7 @@ What is it with you people and animals?
 #### 712243e474 | GORDON → BATMAN | x2
 It’s weird.
 
-#### 93533f2e38-SM | GORDON | x2
+#### 93533f2e38 | GORDON | x2
 I’m glad to hear that.
 
 #### 918e71851e | GORDON | x2
@@ -781,7 +781,7 @@ No one’s going to tell him.
 #### 45c003b7c0 | GORDON → BATMAN | x2
 But it’s too much of the latter. It’s like they’re trying to wear us down.
 
-#### be2e103572-SM | GORDON → BATMAN | x2
+#### be2e103572 | GORDON → BATMAN | x2
 Considering that I’ve got the Commissioner breathing down my neck and he does not like vigilantes.
 
 #### 49f15d3614 | BATMAN → GORDON | x2
@@ -793,13 +793,13 @@ You kidding? I like my job -- and he’s a good guy and a good cop. I’d rather
 #### 9ebd3ce7d9 | GORDON → BATMAN | x2
 So let’s make this fast.
 
-#### 9b2bc1f71a-SM | GORDON → BATMAN | x2
+#### 9b2bc1f71a | GORDON → BATMAN | x2
 I need you to go in and back up the cops.
 
 #### ce5be2a718 | choice/UI → GORDON | x2
 It’s not a good plan.
 
-#### 5c4108a075-SM | choice/UI → GORDON | x2
+#### 5c4108a075 | choice/UI → GORDON | x2
 I could back her up.
 
 #### 9e5d340547 | choice/UI → GORDON | x2
@@ -817,7 +817,7 @@ All their momentum will fall apart.
 #### 89d3cb3318 | BATMAN → GORDON | x2
 Together we’ll keep the people safe.
 
-#### 81670a293c-LM | BATMAN → GORDON | x2
+#### 81670a293c | BATMAN → GORDON | x2
 I’m no one’s backup. You need to tell your men to stay out of my way.
 
 #### 796f858930 | GORDON → BATMAN | x2
@@ -853,7 +853,7 @@ Attacks are scattered all over the city, but I think I see where they’re going
 #### d240a4d12b | GORDON | x2
 You’ll have to narrow it down.
 
-#### ef2bc7a3d6-SM | GORDON → BATMAN | x4
+#### ef2bc7a3d6 | GORDON → BATMAN | x4
 So here’s what we got. While I was waiting for you, I was listening to the radio.
 
 #### 6dcacb7439 | GORDON → BATMAN | x2
@@ -862,13 +862,13 @@ Attacks are scattered all over the city, but we can’t get our men in there for
 #### 73f6a4de48 | LUCIUS, BATMAN, choice/UI → BATMAN, GORDON, BRUCE | x20
 I’m on it.
 
-#### 8aa051ef19-SM | BATMAN → ALFRED | x2
+#### 8aa051ef19 | BATMAN → ALFRED | x2
 Launch the drones. I need eyes on the city.
 
 #### 480eb69911 | ALFRED → BATMAN | x2
 Lucius has made some upgrades. I’ll let him explain.
 
-#### d4eccc511a-SM | LUCIUS → ALFRED | x2
+#### d4eccc511a | LUCIUS → ALFRED | x2
 The original drones were entirely visual in design, but I thought that audio might be helpful as well.
 
 #### 4ab3ed2c9f | choice/UI, BATMAN, MONTOYA → ALFRED, COMMISSIONER, BATMAN | x8
@@ -880,7 +880,7 @@ Now you’ll be able to pick up conversations as well as display. The complete A
 #### 41702bc367 | GORDON → LUCIUS | x2
 Mind telling me where you get the funding for all this stuff?
 
-#### 8379d4e8ce-SM | BATMAN → GORDON | x6
+#### 8379d4e8ce | BATMAN → GORDON | x6
 Not a bad idea. I’m impressed.
 
 #### 9e2ee81c97 | BATMAN → GORDON | x2
@@ -901,7 +901,7 @@ Shaken
 #### 3ad465ce2b | choice/UI | x2
 Broken
 
-#### 2119bc1b86-L? | choice/UI | x2
+#### 2119bc1b86 | choice/UI | x2
 You wanted help.
 
 #### 6ae38b1168 | choice/UI, BATMAN → GORDON | x4
@@ -910,7 +910,7 @@ My butler.
 #### 93c0cd452b | choice/UI → GORDON | x2
 None of your concern.
 
-#### 15e1c85d9f-SM | choice/UI → GORDON | x2
+#### 15e1c85d9f | choice/UI → GORDON | x2
 Just what I needed.
 
 #### 59f623b40c | choice/UI → GORDON | x2
@@ -934,7 +934,7 @@ Batman gives Gordon a steely-bat glare.
 #### d26725dd19 | BATMAN → GORDON | x2
 That’s none of your concern, Gordon.
 
-#### a4c73a90ff-SM | GORDON → BATMAN | x2
+#### a4c73a90ff | GORDON → BATMAN | x2
 Don’t know why I thought I’d get an answer.
 
 #### aeb3cb80ce | ALFRED → BATMAN | x2
@@ -952,7 +952,7 @@ Nice work, Lucius.
 #### 5dcd17267e | LUCIUS → BATMAN | x2
 Thanks. I’ll talk to you soon.
 
-#### 9ad5811a8e-SM | BATMAN → LUCIUS | x2
+#### 9ad5811a8e | BATMAN → LUCIUS | x2
 Thank you, Lucius. This is just what I needed.
 
 #### 98a1dd1749 | LUCIUS → BATMAN | x2
@@ -976,7 +976,7 @@ Which I guess I’ll get back to.
 #### 80b239df33 | LUCIUS | x2
 Yeah, you’re welcome.
 
-#### e4856fe247-LM | LUCIUS → BATMAN | x2
+#### e4856fe247 | LUCIUS → BATMAN | x2
 Just keep in mind it’s a limited directional cone, so you need to point the microphone exactly at what you want to hear.
 
 #### b33bb382cb | LUCIUS → BATMAN | x2
@@ -985,10 +985,10 @@ Over and out.
 #### a080bf90b6 | LUCIUS → GORDON | x2
 Other than that, you’ll be good.
 
-#### 2d78421111-SM | BATMAN → LUCIUS | x2
+#### 2d78421111 | BATMAN → LUCIUS | x2
 Can’t say I’m surprised. Not many people like vigilantes.
 
-#### e487ee1820-LM | GORDON → LUCIUS | x2
+#### e487ee1820 | GORDON → LUCIUS | x2
 But to tell you the truth you’ve started to change my mind.
 
 #### d43d7440c6 | GORDON → LUCIUS | x2
@@ -1060,7 +1060,7 @@ So, here we are.
 #### 9e59ae902b | GORDON → BATMAN | x2
 I have good ones every now and then.
 
-#### eca3218098-LM | GORDON → BATMAN | x2
+#### eca3218098 | GORDON → BATMAN | x2
 I’d rather have you arrested than come to you for help, but the truth is we’re desperate.
 
 #### 61b7b27062 | GORDON → BATMAN | x2
@@ -1093,7 +1093,7 @@ We can’t keep up like this.
 #### ed9b19184a | GORDON | x2
 So I’m asking for your help.
 
-#### 915f87a25f-SM | GORDON | x2
+#### 915f87a25f | GORDON | x2
 I respect your judgment. I won’t question you now.
 
 #### 68b136d796 | GORDON | x2
@@ -1102,13 +1102,13 @@ Fine. I owe you a favor. If that’s what it takes for you to help Gotham.
 #### af403156df | GORDON → BATMAN | x2
 But I have my limits, Batman.
 
-#### 5d83099be9-L? | GORDON | x2
+#### 5d83099be9 | GORDON | x2
 Fine. Whatever you need, I’m more than happy to do it.
 
 #### 9c4c768f39 | GORDON | x2
 Don’t make me beg, alright?
 
-#### 02b473a928-L? | GORDON | x2
+#### 02b473a928 | GORDON | x2
 You’re good at what you do. We need you.
 
 #### 6888a1068d | GORDON | x2
@@ -1153,7 +1153,7 @@ And I don’t like hiding things from him.
 #### 8f64319e90 | GORDON → BATMAN | x2
 I didn’t either.
 
-#### d56df363ef-SM | GORDON → BATMAN | x2
+#### d56df363ef | GORDON → BATMAN | x2
 I won’t lie to you. We’re in way over our heads with this one.
 
 #### 1b54b4fffc | BATMAN → GORDON | x2
@@ -1180,7 +1180,7 @@ Do what you have to, but their safety comes first. Always.
 #### 8aeb5f9c4c | GORDON | x2
 It took a lot just to convince them not to shoot you.
 
-#### 4b8ee4819d-L? | GORDON | x2
+#### 4b8ee4819d | GORDON | x2
 You got a whole team or something?
 
 #### 95001636b6 | GORDON → LUCIUS | x2
@@ -1189,10 +1189,10 @@ I guess you’re not gonna give me a name then huh.
 #### 7ae38af50f | GORDON → LUCIUS | x2
 Yeah, hilarious.
 
-#### f8ac2acff0-SM | GORDON → LUCIUS | x2
+#### f8ac2acff0 | GORDON → LUCIUS | x2
 Yeah that’s what I thought you’d say.
 
-#### 5f71cb875b-SM-LM | LUCIUS → GORDON | x2
+#### 5f71cb875b | LUCIUS → GORDON | x2
 The first model was only equipped for visual surveillance, but seeing how you used them at the Skyline... I thought you’d need an audio feed as well.
 
 #### 9a0a004efc | LUCIUS → GORDON | x2
@@ -1237,7 +1237,7 @@ And now this Voice is out there, organizing them...
 #### 7fd6743832 | BATMAN → GORDON | x2
 Tell me where the hotspots are.
 
-#### 1a35f9ad3b-SM | GORDON → BATMAN | x2
+#### 1a35f9ad3b | GORDON → BATMAN | x2
 We’ve got some activity down at the new Wayne Hospital construction site. I’ve got two cops on the ground, but they can’t get close.
 
 #### 63095f46be | GORDON → BATMAN | x2
@@ -1288,7 +1288,7 @@ Sqaud three, pick up.
 #### 6b5d15ee1e | COP01 → GORDON | x2
 Gordon, you there?
 
-#### b801d4f22e-L? | GORDON → COP01 | x2
+#### b801d4f22e | GORDON → COP01 | x2
 Yeah. You’ve got help incoming. Fall back and regroup with squad two.
 
 #### 8e8217f88e | COA01 → COP01 | x2
@@ -1303,7 +1303,7 @@ No... thank you. I’ll handle it.
 #### 5a4a4fefab | COMMISSIONER → COA01 | x2
 Commissioner Grogan.
 
-#### 5219b4119d-SM | COMMISSIONER → BATMAN | x2
+#### 5219b4119d | COMMISSIONER → BATMAN | x2
 Only way I could think of to get your attention.
 
 #### a433f6fa45 | choice/UI → COMMISSIONER | x2
@@ -1315,7 +1315,7 @@ Not very subtle.
 #### 1bface48bc | choice/UI, JOKER, SELINA → BRUCE, COMMISSIONER | x6
 I like it.
 
-#### d0ec49bd6f-LM | BATMAN → COMMISSIONER | x2
+#### d0ec49bd6f | BATMAN → COMMISSIONER | x2
 You didn’t call me down here to see the view did you?
 
 #### 2e519d87b8 | BATMAN → COMMISSIONER | x2
@@ -1327,7 +1327,7 @@ That’s Commissioner to you.
 #### f2f325e6a9 | COMMISSIONER → BATMAN | x2
 And I didn’t have a lot of time. Obvious is better than nothing.
 
-#### 692106b7fd-SM | COMMISSIONER → BATMAN | x2
+#### 692106b7fd | COMMISSIONER → BATMAN | x2
 No... I’ve got a problem.
 
 #### d82eb1d56e | COMMISSIONER → BATMAN | x2
@@ -1345,7 +1345,7 @@ Not much of a talker are you?
 #### 7c35d96c23 | COMMISSIONER → BATMAN | x2
 Listen, Gordon’s gone missing.
 
-#### fbe274525a-SM | COMMISSIONER → BATMAN | x2
+#### fbe274525a | COMMISSIONER → BATMAN | x2
 I put him on desk duty after that disaster at the debate, but he keeps talking about going after the Children of Arkham, clearing Montoya’s name...
 
 #### def4768890 | COMMISSIONER → BATMAN | x2
@@ -1357,10 +1357,10 @@ I haven’t seen him.
 #### 6a4329c980 | choice/UI → COMMISSIONER | x2
 Why wait to tell me?
 
-#### bd50c7f8e2-LM | choice/UI → COMMISSIONER | x2
+#### bd50c7f8e2 | choice/UI → COMMISSIONER | x2
 You waited DAYS?
 
-#### ba049c5840-SM | BATMAN → COMMISSIONER | x2
+#### ba049c5840 | BATMAN → COMMISSIONER | x2
 This is just what I needed. Thank you.
 
 #### 6cfd7acd64 | GORDON → BATMAN | x2
@@ -1375,7 +1375,7 @@ Right. Renee Montoya. One of my officers.
 #### 91517e7dde | GORDON → BATMAN | x2
 She’s supposed to be on leave, but she got a tip on the Children of Arkham’s chemical stash. Went rogue.
 
-#### 3f766a4dd2-SM | GORDON → BATMAN | x2
+#### 3f766a4dd2 | GORDON → BATMAN | x2
 I told her to wait, but this is personal.
 
 #### 035b3d81c9 | GORDON | x2
@@ -1417,7 +1417,7 @@ I’ll find her. We’ll take down the Children of Arkham together.
 #### 655271f459 | GORDON → BATMAN | x2
 [PI
 
-#### da5198e4de-SM | GORDON → COP02 | x2
+#### da5198e4de | GORDON → COP02 | x2
 Please. We need your help. I need your help.
 
 #### a5f3db7230 | GORDON → COP02 | x2
@@ -1435,7 +1435,7 @@ Christ! One more crisis I can’t deal with right now!
 #### 7621fc4063 | GORDON → COP02, HARVEY | x3
 We’ve gotta keep both Montoya and Dent safe. [unsure how to do it]Somehow.
 
-#### ec7eb532ef-SM | GORDON → COP02 | x2
+#### ec7eb532ef | GORDON → COP02 | x2
 I heard Montoya say she was headed to the Wayne Hospital construction site.
 
 #### 7f5ea2a10e | BATMAN → GORDON | x2
@@ -1456,13 +1456,13 @@ Harvey’s in transit. He’s going to need your help.
 #### 9d6874a570 | GORDON → BATMAN | x4
 I’ll do what I can.
 
-#### 5ffbf0eeaa-LM | BATMAN → GORDON | x2
+#### 5ffbf0eeaa | BATMAN → GORDON | x2
 You better send whoever you’ve got to Montoya.
 
 #### 4283c2bf40 | BATMAN → GORDON | x2
 Getting their leader is my first priority.
 
-#### afff43be82-SM | GORDON → BATMAN | x2
+#### afff43be82 | GORDON → BATMAN | x2
 Thought I could count on you. But maybe I was mistaken.
 
 #### 7b8d74b784 | GORDON → HARVEY | x2
@@ -1474,7 +1474,7 @@ What do you keep looking at?
 #### 338d471fb9 | ASSISTANT → HARVEY | x4
 That car’s been behind us since the hospital.
 
-#### eb6e3fd014-SM | HARVEY → GORDON | x2
+#### eb6e3fd014 | HARVEY → GORDON | x2
 You don’t think I already noticed that?
 
 #### bce7592ba1 | ASSISTANT → HARVEY | x2
@@ -1483,7 +1483,7 @@ Are we in danger?
 #### a4f62a2fc1 | HARVEY → GORDON | x2
 Just drive faster.
 
-#### 1547b1baa5-LM | GORDON → HARVEY | x2
+#### 1547b1baa5 | GORDON → HARVEY | x2
 Commissioner Grogan wants you arrested and I’d do it, but the truth is we’re desperate.
 
 #### 07da43fc84 | GORDON → BATMAN | x2
@@ -1519,7 +1519,7 @@ Cobblepot? I’ll bring him in for questioning.
 #### 8f384dec98 | choice/UI → GORDON | x2
 It’s Thomas Wayne’s fault.
 
-#### 48e0178beb-LM | BATMAN → GORDON | x2
+#### 48e0178beb | BATMAN → GORDON | x2
 You saw the video from Arkham Asylum. The whole city did.
 
 #### 9ff437b79b | GORDON → BATMAN | x2
@@ -1534,10 +1534,10 @@ Focus on ending them.
 #### 7091f28608 | BATMAN → GORDON | x2
 Nevermind how this began. We have to focus on ending it.
 
-#### 1acdbacd0a-LM | GORDON → BATMAN | x2
+#### 1acdbacd0a | GORDON → BATMAN | x2
 If you’ve got any bright ideas how to do that, I’m all ears.
 
-#### df1a5c0a46-SM | GORDON → BATMAN | x2
+#### df1a5c0a46 | GORDON → BATMAN | x2
 I {TiredA}never heard of them before.
 
 #### b41ebda7e0 | GORDON → BATMAN | x2
@@ -1552,10 +1552,10 @@ I wasn’t expecting all the answers now.
 #### f3e80620d7 | GORDON | x2
 But an answer would have been nice.
 
-#### abbe426f4c-SM | GORDON → COA01 | x2
+#### abbe426f4c | GORDON → COA01 | x2
 I’ll round up what officers I can. Gonna have to head out there myself too.
 
-#### 4528dbdd5d-SM | GORDON → COA01 | x2
+#### 4528dbdd5d | GORDON → COA01 | x2
 I heard Montoya say she was headed to a construction site.
 
 #### e13d66c662 | GORDON → COA01 | x2
@@ -1576,7 +1576,7 @@ I know, but hear me out...
 #### 019a173249 | BATMAN → GORDON | x2
 She went rogue and you didn’t try to stop her?
 
-#### 3ae2e85e13-SM | GORDON → BATMAN | x2
+#### 3ae2e85e13 | GORDON → BATMAN | x2
 I did what I could, all right?
 
 #### f7a25dc460 | COP02 → GORDON | x2
@@ -1585,7 +1585,7 @@ We got a problem with the mayor, sir.
 #### 8f0cf3a8c4 | GORDON → BATMAN | x2
 What happened? Is he okay?
 
-#### 66ac3f952f-SM | BATMAN → GORDON | x2
+#### 66ac3f952f | BATMAN → GORDON | x2
 I’ll answer your questions when I’m not busy.
 
 #### e6ff221f86 | BATMAN → GORDON | x2
@@ -1603,7 +1603,7 @@ What’s caused this to happen?
 #### 309afe5a42 | BATMAN → GORDON | x2
 Thomas Wayne caused this mess.
 
-#### 40594835a0-LM | GORDON → BATMAN | x2
+#### 40594835a0 | GORDON → BATMAN | x2
 You’re right. Keep moving forward.
 
 #### 0c64e9d6d6 | GORDON → BATMAN | x2
@@ -1642,7 +1642,7 @@ Nine Adam Three Seven come in.
 #### 60f0fba259 | COP01 → GORDON | x2
 Nine Adam Three Seven, here.
 
-#### f34bc6132b-SM | BATMAN → GORDON | x2
+#### f34bc6132b | BATMAN → GORDON | x2
 I got your message.
 
 #### f937449f2d | GORDON → BATMAN | x2
@@ -1669,7 +1669,7 @@ A little busy at the moment, Jim.
 #### 27e381aea8 | BATMAN → GORDON | x2
 Any leads?
 
-#### abc9beb39e-L? | choice/UI → COP03 | x2
+#### abc9beb39e | choice/UI → COP03 | x2
 You let her go rogue!
 
 #### d697174841 | LUCIUS, choice/UI → GORDON, BRUCE | x6

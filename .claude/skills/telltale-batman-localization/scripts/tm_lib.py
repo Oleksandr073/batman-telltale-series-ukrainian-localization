@@ -12,6 +12,7 @@ Speaker gender comes from reference/speaker_genders.xlsx; the listener is guesse
 """
 import collections
 import hashlib
+import os
 import sys
 import re
 
@@ -337,6 +338,133 @@ def read_table(path):
     with open(path, encoding='utf-8-sig') as fh:
         header = fh.readline().rstrip('\r\n').split('\t')
         return [dict(zip(header, line.rstrip('\r\n').split('\t'))) for line in fh if line.strip()]
+
+
+# --- unique-text folders (unique_original_data / unique_localized_data) ----------------------------------
+# unique_original_data is built from the English game files ONLY (no genders, no guesses): every unique English
+# text once, in the file named after the game file where it first appears:
+#   #### <text id> | <who speaks, from the header lines> → <spoken to, guessed from the scene> | x<times used>
+# ("spoken to" comes from [to X] notes, names used in direct address and neighbouring speakers - all from the
+#  English files, never from the genders file)
+#   <text lines>
+#   <empty line>
+# unique_localized_data has the same entries with the Ukrainian from the table (untranslated = English). Only when
+# one English text needs several Ukrainian versions (male/female forms) does the entry appear once per version,
+# with the table key and a label, e.g. "#### f156de4535-LF | BRUCE | x4 | listener: female".
+
+def file_order(rel):
+    """Default mode first (episode 101 -> 105, menus), then Noir; used for table rows and unique files."""
+    folder = rel.split('/')[0]
+    mode = 0 if folder.startswith('BM_') else 1
+    m = re.search(r'(10[1-5])', folder)
+    grp = m.group(1) if m else {'Menu': '200', 'Boot': '300', 'Project': '400'}.get(
+        next((g for g in ('Menu', 'Boot', 'Project') if g in folder), ''), '900')
+    return mode, grp, rel
+
+
+def english_unique(root):
+    """Every unique English text of the game files, in table order: {text id: entry}. Uses no genders."""
+    from landb_txt import read_records, txt_files
+    out = {}
+    for rel in sorted(txt_files(root), key=file_order):
+        recs = read_records(os.path.join(root, rel))[0]
+        info = analyze_records(recs, {})
+        for r in sorted(recs, key=lambda x: x['id']):
+            if r['id'] not in info:
+                continue
+            tid = info[r['id']]['key'].split('-')[0]
+            e = out.get(tid)
+            if e is None:
+                e = out[tid] = {'cores': info[r['id']]['cores'], 'file': rel,
+                                'speakers': collections.Counter(), 'listeners': collections.Counter(), 'count': 0}
+            e['count'] += 1
+            e['speakers'][r['spk'] or 'choice/UI'] += 1
+            if info[r['id']]['listener']:
+                e['listeners'][info[r['id']]['listener']] += 1
+    return out
+
+
+def _head(tid, e):
+    who = ', '.join(s for s, _ in e['speakers'].most_common(4))
+    to = ', '.join(s for s, _ in e['listeners'].most_common(3))
+    return f"#### {tid} | {who}{' → ' + to if to else ''} | x{e['count']}"
+
+
+GENDER_WORD = {'M': 'male', 'F': 'female', '?': 'unknown'}
+
+
+def unique_files(root, rows=None):
+    """-> ({relative path: [lines]}, rows with a wrong ¶ count). rows=None: English folder.
+    rows = table rows: Ukrainian folder."""
+    eng = english_unique(root)
+    variants = collections.defaultdict(list)
+    for row in rows or []:
+        variants[row['key'].split('-')[0]].append(row)
+    files = collections.defaultdict(list)
+    bad = 0
+    for tid, e in eng.items():
+        if rows is None or len(variants.get(tid, [])) <= 1:
+            text = e['cores']
+            row = variants[tid][0] if rows is not None and variants.get(tid) else None
+            if row and row.get('ukrainian'):
+                tr = split_translation(row['ukrainian'], len(e['cores']))
+                if tr is None:
+                    bad += 1
+                else:
+                    text = tr
+            files[e['file']].extend([_head(tid, e)] + text + [''])
+            continue
+        for row in variants[tid]:                          # several Ukrainian versions of one English text
+            label = ', '.join(f'{who}: {GENDER_WORD.get(g, g)}' for who, g in
+                              (('speaker', row.get('speaker_gender')), ('listener', row.get('listener_gender'))) if g)
+            text = e['cores']
+            if row.get('ukrainian'):
+                tr = split_translation(row['ukrainian'], len(e['cores']))
+                if tr is None:
+                    bad += 1
+                else:
+                    text = tr
+            files[e['file']].extend([_head(row['key'], e) + f' | {label}'] + text + [''])
+    return files, bad
+
+
+def _unique_folder_files(d):
+    """All files in d. Exits if d holds anything that is not a unique-text file (protects other folders)."""
+    from landb_txt import read_raw
+    found = []
+    for dp, _, fn in os.walk(d):
+        for f in fn:
+            path = os.path.join(dp, f)
+            ok = f.endswith('.txt') and read_raw(path)[:20].decode('utf-8', 'replace').lstrip('﻿').startswith('#### ')
+            if not ok:
+                sys.exit(f'{d} contains {os.path.relpath(path, d)}, which is not a unique-text file - '
+                         f'refusing to touch this folder. Check the folder name.')
+            found.append(os.path.relpath(path, d).replace(os.sep, '/'))
+    return found
+
+
+def write_unique(files, d):
+    """Rewrite folder d with files from unique_files(). Only unique-text files are ever deleted."""
+    from landb_txt import write_lines
+    for rel in _unique_folder_files(d):
+        if rel not in files:
+            os.remove(os.path.join(d, rel))
+    for rel, lines in files.items():
+        write_lines(os.path.join(d, rel), lines)
+    return len(files)
+
+
+def compare_unique(root, d):
+    """Is folder d exactly the English unique folder of root? -> list of problems (empty = yes)."""
+    from landb_txt import read_raw, split_lines
+    files, _ = unique_files(root)
+    have = set(_unique_folder_files(d)) if os.path.isdir(d) else set()
+    problems = [f'missing: {rel}' for rel in sorted(set(files) - have)]
+    problems += [f'not from the English files: {rel}' for rel in sorted(have - set(files))]
+    for rel in sorted(set(files) & have):
+        if split_lines(read_raw(os.path.join(d, rel)))[0] != files[rel]:
+            problems.append(f'differs: {rel}')
+    return problems
 
 
 def escape_cell(s):

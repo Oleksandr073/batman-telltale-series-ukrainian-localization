@@ -4,7 +4,7 @@ Strange place to hang out.
 #### d8c88f0421 | choice/UI | x2
 Not going to jump, are you?
 
-#### 8cd3354c73-SM | choice/UI | x2
+#### 8cd3354c73 | choice/UI | x2
 I’ll do whatever I need to.
 
 #### bd5bfcc279 | choice/UI | x2
@@ -31,7 +31,7 @@ I don’t make exceptions.
 #### 9389100163 | choice/UI | x2
 Cut the high and mighty act.
 
-#### 43fbd0eb50-SM | choice/UI | x2
+#### 43fbd0eb50 | choice/UI | x2
 I prefered the old Harvey.
 
 #### b5829e0e6a | choice/UI | x2
@@ -64,19 +64,19 @@ You can’t do that!
 #### 28899d8676 | choice/UI → HARVEY | x2
 Our alliance is over.
 
-#### eaf67f331e-LM | choice/UI → HARVEY | x2
+#### eaf67f331e | choice/UI → HARVEY | x2
 You just made an enemy, Dent.
 
-#### ca917378b1-L? | HARVEY | x2
+#### ca917378b1 | HARVEY | x2
 I’m telling you Harv, {AngryB}{FaceAccent}you did the right thing. You did the right thing.
 
-#### b89392df9c-LM | HARVEY → BATMAN | x2
+#### b89392df9c | HARVEY → BATMAN | x2
 God,{SadA}{FaceAccent} I just hope you’re right...
 
 #### 7b58818dfe | HARVEY → BATMAN | x4
 I don’t know if that was the right thing to do.{ConfusedB}{FaceAccent} Why did I do that?
 
-#### ae1c82fd10-LM | HARVEY → BATMAN | x2
+#### ae1c82fd10 | HARVEY → BATMAN | x2
 I’m telling you, Harvey, {AngryB}{FaceAccent}you can’t keep second-guessing yourself. {ThinkingB}{FaceAccent}Go with your gut. It’s done.{AngryB}{FaceAccent} Over. Kaput.
 
 #### c8767ca61a | BATMAN → HARVEY | x2
@@ -88,7 +88,7 @@ Dangerous place to stand.
 #### e485374ef4 | BATMAN → HARVEY | x2
 I’m not interrupting anything, am I?
 
-#### 3bc62b0ba4-SM | HARVEY → BATMAN | x2
+#### 3bc62b0ba4 | HARVEY → BATMAN | x2
 Ah, I just can’t... just can’t {SadA}{FaceAccent}second-guess myself.
 
 #### 896085cc22 | HARVEY → BATMAN, GOON01 | x6
@@ -97,7 +97,7 @@ Oh - Batman.
 #### f52a627faa | HARVEY → BATMAN | x2
 What a surprise to see you on my roof.
 
-#### bfb9357e30-LM | HARVEY → BATMAN | x2
+#### bfb9357e30 | HARVEY → BATMAN | x2
 Oh, you scared the hell out of me, but it is good to see you.
 
 #### cb6474e2b0 | BATMAN → HARVEY | x2
@@ -172,7 +172,7 @@ Don’t make me ask twice. It won’t end well for you.
 #### 70c31e44a5 | HARVEY → BATMAN | x2
 Sounds like you’re threatening me.
 
-#### 4809ace17d-LM | choice/UI → HARVEY | x2
+#### 4809ace17d | choice/UI → HARVEY | x2
 To save yourself.
 
 #### 7772928ece | BATMAN → HARVEY | x2
@@ -187,7 +187,7 @@ You’ll know when I’m threatening you.
 #### 53cfef01c8 | HARVEY → BATMAN | x2
 So it seems...
 
-#### 9486b9c263-SM | HARVEY → BATMAN | x2
+#### 9486b9c263 | HARVEY → BATMAN | x2
 I was a lawyer for years, Batman.{AngryB}{FaceAccent} The silent trick only works for so long.
 
 #### c2bf8f6723 | HARVEY → BATMAN | x2
@@ -196,7 +196,7 @@ Tell you what. I’ll reconsider the whole mess with Wayne. Maybe I’ll just le
 #### 62909643ed | HARVEY → BATMAN | x2
 In case you haven’t noticed, you’re on MY turf, Batman. I don’t intimidate that easily.
 
-#### 40a6a18f8c-SM-LM | HARVEY → BATMAN | x2
+#### 40a6a18f8c | HARVEY → BATMAN | x2
 Politics aside, I’m glad you came by. Our last encounter... didn’t go like I’d hoped.
 
 #### 91b2e0c71d | HARVEY → BATMAN | x2
@@ -205,10 +205,10 @@ Now that that unpleasantness is out of the way, I’m actually glad to see you h
 #### 399d12a26a | HARVEY → BATMAN | x2
 Gotham is going through some... Growing pains. The Children of Arkham, upsets at Wayne Enterprises, unrest at the GCPD...
 
-#### 0cbb9c3073-SM | HARVEY → BATMAN | x2
+#### 0cbb9c3073 | HARVEY → BATMAN | x2
 A tough time to step into the mayoral office. And, well, I was nervous at first.
 
-#### 576add65ef-SM | HARVEY → BATMAN | x2
+#### 576add65ef | HARVEY → BATMAN | x2
 But ever since the Children of Arkham’s little... attack, I’ve had a lot of new clarity in my life.
 
 #### 0f56ce9782 | HARVEY → BATMAN | x2
@@ -223,13 +223,13 @@ A Harvey that isn’t afraid to be a little... bad.
 #### 0336ff0b2e | BATMAN → HARVEY | x2
 Personally I prefer the *old* Harvey.
 
-#### 6a8792cb7c-LM | HARVEY → BATMAN | x2
+#### 6a8792cb7c | HARVEY → BATMAN | x2
 Of course you would.
 
 #### 975f2a87f4 | HARVEY → BATMAN | x2
 He was... a people-pleaser.
 
-#### 2ca26faa81-LM | BATMAN → HARVEY | x2
+#### 2ca26faa81 | BATMAN → HARVEY | x2
 You’re being delusional, Dent. You need to get it together.
 
 #### ccf223fb31 | HARVEY → BATMAN | x2
@@ -265,19 +265,19 @@ That means finding allies, eliminating enemies... And identifying which is which
 #### 456cc530bc | HARVEY → BATMAN | x2
 You gonna be my ally in that war, Batman?
 
-#### 7b29a01be2-SM | BATMAN → HARVEY | x2
+#### 7b29a01be2 | BATMAN → HARVEY | x2
 I could be that ally.  If your willing to see reason.
 
 #### 20d9e18bec | BATMAN → HARVEY | x2
 I’m looking out for *Gotham*, Dent. If you’re really willing to be the city’s ally, then I’ll be your ally too.
 
-#### c5202b97a0-SM-LM | BATMAN → HARVEY | x2
+#### c5202b97a0 | BATMAN → HARVEY | x2
 Once I thought we were on the same side - But you’ve changed, Dent. I don’t think I can be the ally you want anymore.
 
-#### 93c9ccfc93-SM | HARVEY → BATMAN | x2
+#### 93c9ccfc93 | HARVEY → BATMAN | x2
 I’m glad to hear that. I really am.
 
-#### 0797566991-SM | HARVEY → BATMAN | x2
+#### 0797566991 | HARVEY → BATMAN | x2
 I’m glad because you have way bigger concerns than ME to worry about.
 
 #### f5136d9944 | HARVEY → BATMAN | x2
@@ -304,10 +304,10 @@ I’ll consider it.
 #### 0dbe045425 | BATMAN → HARVEY | x2
 You can cut the pleading, Dent. I’m not buying this Pious Mayor act for a second.
 
-#### d2b760f6d6-SM | HARVEY → BATMAN | x4
+#### d2b760f6d6 | HARVEY → BATMAN | x4
 Well, don’t say I never tried to do anything nice for you.
 
-#### addf8af189-LM | HARVEY → BATMAN | x2
+#### addf8af189 | HARVEY → BATMAN | x2
 Y’know, Batman, I’m not your enemy. You’ve got waay bigger concerns to deal with than me.
 
 #### 85001d7679 | HARVEY → BATMAN | x2
@@ -337,19 +337,19 @@ Let’s hope, for all our sakes.
 #### b0fc6e5af7 | HARVEY | x2
 I guess I’m a bit easier of a target to harass though, aren’t I?
 
-#### 1411ea6c6b-SM | HARVEY → BATMAN | x2
+#### 1411ea6c6b | HARVEY → BATMAN | x2
 I’m glad we could talk about this, mano a mano.
 
-#### 83125752c8-SM | HARVEY → BATMAN | x2
+#### 83125752c8 | HARVEY → BATMAN | x2
 I’m still{body-HandsHips}{BodyAccent} not sure about you Batman... {AngryB}{FaceAccent}But I’m glad we’ve had this chance to chat.
 
-#### 3212de0f95-SM-LM | HARVEY → BATMAN | x2
+#### 3212de0f95 | HARVEY → BATMAN | x2
 When you came slinking out of the shadows, I was so sure it was going to be about Gordon.
 
 #### a95f577da6 | BATMAN → HARVEY | x2
 “Gordon?“
 
-#### b3a92dda7e-SM | HARVEY → BATMAN | x2
+#### b3a92dda7e | HARVEY → BATMAN | x2
 Ah, so you haven’t heard. That little lieutenant friend of yours has been a pain in my ass ever since I got into office - Internal affairs, upsetting the chain of command...
 
 #### 614af77972 | HARVEY → BATMAN | x2
@@ -376,13 +376,13 @@ You can’t do that, Dent. It’s abusing your authority.
 #### f7b32e7bb4 | HARVEY → BATMAN | x2
 If people would *respect* that authority I wouldn’t have to abuse it.
 
-#### c2054c3e85-LM | HARVEY → BATMAN | x4
+#### c2054c3e85 | HARVEY → BATMAN | x4
 In a position like mine you need to be able to look a few moves ahead to identify the flies most likely to land in your ointment.
 
 #### 8aebe1936b | HARVEY → BATMAN | x2
 Oh don’t look at me like that, Batman.
 
-#### 6977da38da-L? | HARVEY | x2
+#### 6977da38da | HARVEY | x2
 In a position like mine you need to look a few moves ahead to identify the flies most likely to land in your ointment.
 
 #### 903e704d75 | HARVEY → BATMAN | x2
@@ -442,13 +442,13 @@ Say hi to Gordon for me.
 #### 08e0d57299 | BATMAN → HARVEY | x2
 This alliance is over.
 
-#### 1c5f5a8bca-LM | BATMAN → HARVEY | x2
+#### 1c5f5a8bca | BATMAN → HARVEY | x2
 You just made a dangerous enemy, Dent.
 
 #### df345bed83 | HARVEY → BATMAN | x2
 I appreciate the warning.
 
-#### 4b2ba485c5-LM | HARVEY → BATMAN | x2
+#### 4b2ba485c5 | HARVEY → BATMAN | x2
 You think that even{body-HandsUp}{BodyAccent}{AngryB}{FaceAccent} comes close to what{AngryC}{FaceAccent} you let happen to my face?!
 
 #### 80c3d2bc01 | BATMAN → HARVEY | x4
@@ -466,7 +466,7 @@ He lied to my face while sneaking around behind my back!
 #### 77fd2f7b1a | HARVEY → BATMAN | x2
 Yeah, Harvey and Bruce were like{AngryA}{FaceAccent} two peas in a pod, eh?
 
-#### f50d13b204-SM | HARVEY → BATMAN | x2
+#### f50d13b204 | HARVEY → BATMAN | x2
 I’m just trying to give the people what they want, but...{body-A}{BodyAccent} Maybe I could cut him some slack.
 
 #### 20695fadd7 | BATMAN → HARVEY | x2
@@ -514,7 +514,7 @@ So you want to talk about Bruce Wayne...
 #### 0526baf5fc | choice/UI → HARVEY | x2
 Hope in Harvey
 
-#### ae57190a3c-SM-LM | HARVEY → BATMAN | x2
+#### ae57190a3c | HARVEY → BATMAN | x2
 See,{body-HandsUp}{BodyAccent}{SmugA}{FaceAccent}{body-HandsUp}{BodyAccent} here I thought{AngryA}{FaceAccent} you showed up as payback for Gordon.
 
 #### 0dc53423d4 | HARVEY → BATMAN | x2
@@ -562,7 +562,7 @@ The problem isn’t you, Batman.{AngryB}{FaceAccent} It’s Gotham.{body-HandsUp
 #### 40edbde896 | HARVEY → BATMAN | x2
 It’s Gotham. It just can’t help itself.
 
-#### 6aee6106ab-LM | BATMAN → HARVEY | x2
+#### 6aee6106ab | BATMAN → HARVEY | x2
 What about the platform you ran under?{AngryA}{body-X}{BodyAccent} “Put a Dent in Crime?“
 
 #### 7f42035015 | HARVEY → BATMAN | x2
@@ -583,7 +583,7 @@ You{body-X}{BodyAccent}promised to give Gotham a new face. What happened to that
 #### f5c055481b | HARVEY → BATMAN | x2
 So far all of the{body-HandsUp}{BodyAccent} “new faces” have been psychopaths covered in masks.
 
-#### bdb7d73067-LM | BATMAN → HARVEY | x2
+#### bdb7d73067 | BATMAN → HARVEY | x2
 Dent, {body-X}{BodyAccent}you{AngryA}{FaceAccent} need to remember the platform you were running under - “We Put Our Hope In Harvey.“ That’s who the people elected.
 
 #### 655f833bca | HARVEY → BATMAN | x2
@@ -601,19 +601,19 @@ Dent, {body-X}{BodyAccent}I’m out here trying to protect Gotham {AngryA}{FaceA
 #### 1dad62d651 | BATMAN → HARVEY | x2
 We’re{body-X}{BodyAccent} both on the same side. {AngryA}{FaceAccent}Gotham’s side.
 
-#### b86d4eb1a3-LM | HARVEY → BATMAN | x2
+#### b86d4eb1a3 | HARVEY → BATMAN | x2
 I... I suppose you’re right.{ThinkingA}{FaceAccent} Gotham is what’s important here.
 
-#### cb05585963-LM | BATMAN → HARVEY | x2
+#### cb05585963 | BATMAN → HARVEY | x2
 You’re {body-X}the mayor, Dent,{AngryA}{FaceAccent}{body-X} {BodyAccent}and you need to start acting like it.
 
 #### 1bc8d24590 | BATMAN → HARVEY | x2
 If you don’t,{body-A}{BodyAccent}{AngryB} {BodyAccent}you’ll have me waiting to remind you again.
 
-#### 841e0a0331-LM | HARVEY → BATMAN | x2
+#### 841e0a0331 | HARVEY → BATMAN | x2
 See{body-HandsUp}{BodyAccent}{AngryB}{FaceAccent} this is why I don’t understand you, Batman.{ThinkingA}{FaceAccent}{body-HandsHips} {BodyAccent}One minute you want to talk reasonably, the next {ConfusedB}{body-HandsUp}you’re right back to threats.
 
-#### 841190cda9-LM | HARVEY → BATMAN | x4
+#### 841190cda9 | HARVEY → BATMAN | x4
 No... {body-HandsUp}No but you’re right. {ThinkingA}{FaceAccent}That’s a good reminder.
 
 #### 97a465d2da | BATMAN → HARVEY | x2
@@ -622,7 +622,7 @@ Perhaps a poor choice of words.
 #### eddc62a533 | BATMAN → HARVEY | x2
 None taken.
 
-#### d1c62954ce-LM | HARVEY → BATMAN | x2
+#### d1c62954ce | HARVEY → BATMAN | x2
 You’re right though.... {body-HandsHips}{BodyAccent}That’s a good reminder.
 
 #### 1268c86f6d | HARVEY → BATMAN | x2
@@ -634,7 +634,7 @@ I’m finally starting to understand... {body-A}{SadA}to see just how sick Gotha
 #### 5a4e7c0d36 | HARVEY → BATMAN | x2
 A fever burns out the flu to save the body...
 
-#### 4702846912-SM | HARVEY → BATMAN | x2
+#### 4702846912 | HARVEY → BATMAN | x2
 To save Gotham I{body-HandsUp}{BodyAccent}{AngryB}{FaceAccent} need to do some bad before it gets better.
 
 #### 0b0b8eb3c5 | HARVEY → BATMAN | x2
@@ -658,10 +658,10 @@ Don’t leave it as scarred as you.
 #### 0414633826 | HARVEY → BATMAN | x2
 I’ll burn Gotham to the ground if I have to!{SmugA}{FaceAccent}{body-HandsUp}{BodyAccent} And then I’ll rebuild it from the ashes.
 
-#### 0c068a083c-SM | BATMAN → HARVEY | x2
+#### 0c068a083c | BATMAN → HARVEY | x2
 Dent, doing that will only tear Gotham apart. {DisgustA}{FaceAccent}I saved you to give you a chance{NormalA}{FaceAccent} to save the city!
 
-#### 57719d81f5-LM | BATMAN → HARVEY | x2
+#### 57719d81f5 | BATMAN → HARVEY | x2
 You won’t get the chance to do that, Dent.{AngryB}{FaceAccent} Because I’ll be there to stop you.
 
 #### 411f59c07b | HARVEY → BATMAN | x2
@@ -679,7 +679,7 @@ If you wanna save the city, this is how you have to do it.
 #### 66c2f93a1c | BATMAN → HARVEY | x6
 TELL ME WHERE HE IS, NOW!
 
-#### e5e7ed50eb-LM | HARVEY → BATMAN | x10
+#### e5e7ed50eb | HARVEY → BATMAN | x10
 You’re too late Batman. {SarcasticB}{FaceAccent}By now he’s just another corpse in Crime Alley.
 
 #### 5093fe14ef | BATMAN → HARVEY | x2
@@ -703,13 +703,13 @@ Heh! Let’s take a ride, gentlemen.
 #### f00632034c | choice/UI → HARVEY | x2
 That’s a dangerous road.
 
-#### abc26ba05f-LM | choice/UI → HARVEY | x2
+#### abc26ba05f | choice/UI → HARVEY | x2
 You need to step down.
 
-#### 56feb62aa5-LM | BATMAN → HARVEY | x2
+#### 56feb62aa5 | BATMAN → HARVEY | x2
 You’re not well, Harvey.{DisgustA}{FaceAccent} You need to step down.
 
-#### 040348f2b9-SM | HARVEY → BATMAN | x2
+#### 040348f2b9 | HARVEY → BATMAN | x2
 On the contrary, Batman... {body-HandsHips}{BodyAccent}{SmugA}{FaceAccent}I’m starting to realize I need to step UP.
 
 #### 24852f0ee2 | BATMAN → HARVEY | x2
@@ -718,13 +718,13 @@ Careful, Dent.{DisgustA}{FaceAccent} That’s a dangerous road to start down.
 #### 75a8330ac8 | HARVEY → BATMAN | x2
 Don’t worry.{body-HandsHips}{BodyAccent}{SmugA}{FaceAccent}I know what I’m doing.
 
-#### b36d1ef20f-LM | BATMAN → HARVEY | x2
+#### b36d1ef20f | BATMAN → HARVEY | x2
 You’re wrong. {DisgustA}{FaceAccent}{body-A}{BodyAccent}More bad is never the answer.
 
 #### 348170dd93 | HARVEY → BATMAN | x2
 What? {body-HandsHips}{BodyAccent}{ThinkingA}{FaceAccent}You know what I’m talking about.
 
-#### cd7526c4e9-SM | HARVEY → BATMAN | x2
+#### cd7526c4e9 | HARVEY → BATMAN | x2
 I need to get firmer.{body-HandsUp}{BodyAccent}{AngryA}{FaceAccent} Get a tighter grip on the city.
 
 #### 46c66473e8 | HARVEY → GOON01 | x2
@@ -739,7 +739,7 @@ We both want what’s best for Gotham.
 #### f3bfc4e5ad | choice/UI → HARVEY | x2
 You’re the mayor- Act like it!
 
-#### 57f6c55728-SM | BRUCE, choice/UI → HARVEY | x6
+#### 57f6c55728 | BRUCE, choice/UI → HARVEY | x6
 I won’t let you.
 
 #### a1bcd1a773 | choice/UI → HARVEY | x2
@@ -754,13 +754,13 @@ Ready to go.
 #### 0aec3ece06 | HARVEY → GOON01 | x4
 Speaking of which...
 
-#### e8f8d38301-SM | HARVEY → BATMAN, GOON01 | x6
+#### e8f8d38301 | HARVEY → BATMAN, GOON01 | x6
 I destroyed Lady Arkham’s drugs.
 
-#### 20663a04b9-LM | HARVEY → BATMAN | x2
+#### 20663a04b9 | HARVEY → BATMAN | x2
 I feel like I should thank you, seeing as you did give Gordon that tip.
 
-#### 01914d2cee-LM | choice/UI → HARVEY | x2
+#### 01914d2cee | choice/UI → HARVEY | x2
 You’ve crossed the line.
 
 #### 004ca6681e | choice/UI → HARVEY | x2
@@ -769,7 +769,7 @@ That tip was for Gordon, not you!
 #### 67b0d2ba04 | choice/UI → HARVEY | x2
 There were other ways!
 
-#### e4399db6e4-SM | HARVEY → BATMAN | x2
+#### e4399db6e4 | HARVEY → BATMAN | x2
 I was just telling someone how much I’d love to get you on my payroll...
 
 #### 3e0e4f13be | HARVEY → BATMAN | x2
@@ -778,7 +778,7 @@ Funny. Would’ve thought that this Wayne situation would be a little... beneath
 #### b5f5dfaa49 | HARVEY → BATMAN | x2
 After everything Bruce has done, why should I do anything for him?
 
-#### 9b8b357a98-SM | HARVEY → BATMAN | x2
+#### 9b8b357a98 | HARVEY → BATMAN | x2
 I’ll admit I’m surprised to see you helping Wayne. Seems kind of... small potatoes for you.
 
 #### 0df550480e | HARVEY → BATMAN | x2
@@ -799,7 +799,7 @@ Wayne is just another curveball this stupid city threw my way.
 #### 83d3c4b3f4 | HARVEY → BATMAN | x2
 Hill and his goons, the Waynes, the Children of Arkham,[ you... -trim]
 
-#### 2cc6698150-LM | choice/UI, BATMAN → HARVEY | x4
+#### 2cc6698150 | choice/UI, BATMAN → HARVEY | x4
 You’ve lost your way.
 
 #### 23a3d13cda | choice/UI → HARVEY | x2
@@ -823,7 +823,7 @@ I am fighting for Gotham, Batman! It’s just... it’s Gotham trying to pit us 
 #### b0571706c9 | BATMAN → HARVEY | x2
 That list of enemies is only going to get longer if you keep doing this.
 
-#### 4036fba695-LM | BATMAN → HARVEY | x2
+#### 4036fba695 | BATMAN → HARVEY | x2
 You need to start crafting alliances instead.
 
 #### 851299317a | BATMAN → HARVEY | x2
@@ -856,19 +856,19 @@ Why can’t anything in this crazy city just be... simple.
 #### d47f9ad1bb | HARVEY → BATMAN | x2
 To get rid of Lady Arkham’s drugs.
 
-#### 156164effd-SM-LM | HARVEY → BATMAN | x4
+#### 156164effd | HARVEY → BATMAN | x4
 I, I had heard that you were the one who supplied the location. Right?
 
-#### 6148be3696-LM | BATMAN → HARVEY | x2
+#### 6148be3696 | BATMAN → HARVEY | x2
 You’ve crossed the line, Dent. Think of all the innocent lives you just destroyed!
 
 #### 05522c4bfc | HARVEY → BATMAN | x4
 Seems like a pretty small price to pay for stopping Lady Arkham’s plans once and for all.
 
-#### 99b93b1ec2-SM | HARVEY → BATMAN | x2
+#### 99b93b1ec2 | HARVEY → BATMAN | x2
 I... Oh god. I know, I know, but how else was I going to stop her? I had to! Don’t you understand? Dammit I had to!
 
-#### 3a838beae8-SM | BATMAN → HARVEY | x2
+#### 3a838beae8 | BATMAN → HARVEY | x2
 I gave that information to *Gordon*, not you.
 
 #### e0e16065cc | HARVEY → BATMAN | x2
@@ -877,10 +877,10 @@ Chain of command, Batman. Anything Gordon has, belongs to me.
 #### f8be9977db | HARVEY → BATMAN | x4
 I know, I know, but Grogan said he heard about it, and it seemed like a good opportunity!
 
-#### d475c15710-LM | BATMAN → HARVEY | x2
+#### d475c15710 | BATMAN → HARVEY | x2
 You got rid of Lady Arkham’s drugs by blowing up a city block?! There were other ways, Dent!
 
-#### 1064899c1f-SM | HARVEY → BATMAN | x2
+#### 1064899c1f | HARVEY → BATMAN | x2
 It’s what I had to do, Batman.
 
 #### 295f23acc1 | HARVEY → BATMAN | x2
@@ -889,7 +889,7 @@ It... It wasn’t an easy decision to make.
 #### b42b26bdcc | BATMAN → HARVEY | x2
 When the police find out what you’ve done--
 
-#### 71d950ef40-LM | HARVEY → BATMAN | x2
+#### 71d950ef40 | HARVEY → BATMAN | x2
 “Find out--?“ Batman. I don’t know if you’ve noticed, but *I’m* running things now.
 
 #### 62a515f714 | HARVEY → BATMAN | x2
@@ -898,7 +898,7 @@ This is how we’re achieving
 #### a935554935 | HARVEY → BATMAN | x2
 The police? The smart ones already answer to me. Otherwise...
 
-#### b8126ab669-SM | HARVEY → BATMAN | x2
+#### b8126ab669 | HARVEY → BATMAN | x2
 Like Gordon - He really wasn’t happy when I went over his head to get the location of the drug stockpile... But I had him taken care of.
 
 #### 3b3b9a9a7c | HARVEY → BATMAN | x2
@@ -910,13 +910,13 @@ Now hang on, Batman, hang on. [Trim - ( MDarin )If it really means that much to 
 #### 3b27388b14 | BATMAN → HARVEY | x6
 I should tear you apart right here.
 
-#### b29a81e64f-LM | HARVEY → BATMAN | x4
+#### b29a81e64f | HARVEY → BATMAN | x4
 You could, but that wouldn’t bring him back. By now he’s already another corpse in Crime Alley.
 
 #### 135c2265ec | HARVEY → BATMAN | x2
 You’re welcome to
 
-#### 64df81cc8b-SM | HARVEY → BATMAN | x2
+#### 64df81cc8b | HARVEY → BATMAN | x2
 Batman- Batman please! If it’s really that important to you, I sent him to Crime Alley! If you hurry--
 
 #### 939b16e01f | HARVEY → BATMAN | x2
@@ -946,10 +946,10 @@ That’s what you should be worried about.
 #### 6bd2a75e80 | ALFRED → BRUCE | x4
 Bruce! Bruce! I’m seeing reports of a massive explosion - It looks like it was Vale Heating & Oil! The estimated casualities-- my god... so many people--!
 
-#### 12fe60c877-LM | BATMAN → HARVEY | x2
+#### 12fe60c877 | BATMAN → HARVEY | x2
 Do you know how many innocent lives you just destroyed?!
 
-#### 7039e448a0-LM | BATMAN → ALFRED, HARVEY | x8
+#### 7039e448a0 | BATMAN → ALFRED, HARVEY | x8
 What did you do?!
 
 #### 841d5b50b3 | BATMAN → HARVEY | x4
@@ -958,7 +958,7 @@ But the casualties--!
 #### 9898294e89 | HARVEY → BATMAN | x6
 --were a small price to pay.
 
-#### 4e657e49bb-SM | HARVEY → BATMAN | x6
+#### 4e657e49bb | HARVEY → BATMAN | x6
 I did what I had to do! I had to make the choice about what sacrifices to make!
 
 #### 1a40adfc9d | choice/UI → HARVEY | x2
@@ -982,7 +982,7 @@ I don’t care what your end goal was; even one innocent life is too high a cost
 #### c9ae548d75 | HARVEY → BATMAN | x2
 Then you’re thinking too small.
 
-#### cc12f0546d-LM | BATMAN → HARVEY | x2
+#### cc12f0546d | BATMAN → HARVEY | x2
 Turn yourself in now - The police will never let you get away with this.
 
 #### 98975906c9 | HARVEY → BATMAN | x2
@@ -991,7 +991,7 @@ Oh don’t you give me that look - You’re just as bad as the cowards at the GC
 #### 2ace3563b9 | HARVEY → BATMAN | x6
 Oh please. The police answer to ME now.
 
-#### 804fbfd596-SM | HARVEY → BATMAN | x2
+#### 804fbfd596 | HARVEY → BATMAN | x2
 It’s just like I tried to explain to the police...
 
 #### 641320e719 | HARVEY → BATMAN | x2
@@ -1000,13 +1000,13 @@ Well I think Gordon is already a perfect example of what happens to the not-so-s
 #### a2acafc4c6 | HARVEY → BATMAN | x2
 There has been some conflict with the police, that’s true...
 
-#### cd33f81901-LM | BATMAN → HARVEY | x2
+#### cd33f81901 | BATMAN → HARVEY | x2
 What did you say about Gordon?
 
 #### 048adeaea3 | BATMAN → HARVEY | x2
 Where is he?!
 
-#### 2aa95c7ba0-SM | HARVEY → BATMAN | x2
+#### 2aa95c7ba0 | HARVEY → BATMAN | x2
 I... I had him sent to Crime Alley.
 
 #### af26314a87 | choice/UI → HARVEY | x2
@@ -1015,25 +1015,25 @@ Gordon’s on our side, Harvey!
 #### 1be88d05a6 | choice/UI → HARVEY | x4
 Gordon’s death helps no one.
 
-#### 00d88a2ec8-SM | HARVEY → BATMAN | x2
+#### 00d88a2ec8 | HARVEY → BATMAN | x2
 I had to make an example of him.
 
 #### c8c611372d | HARVEY → BATMAN | x2
 To get people to respect me.
 
-#### 4348a883a6-SM | HARVEY → BATMAN | x8
+#### 4348a883a6 | HARVEY → BATMAN | x8
 Batman. I’m sorry, it’s like I told you--
 
 #### 943bd57815 | BATMAN → HARVEY | x4
 Gordon is on Gotham’s side,{AngryB}{FaceAccent} Harvey! He’s fighting for this city too!
 
-#### 374b07c634-SM | HARVEY → BATMAN | x2
+#### 374b07c634 | HARVEY → BATMAN | x2
 And here I thought we could work together...
 
 #### 68a9d58f5f | HARVEY → BATMAN | x2
 Good of you to give Gordon that tip on the location.
 
-#### ab079559a6-LM | choice/UI → HARVEY | x2
+#### ab079559a6 | choice/UI → HARVEY | x2
 You just killed innocent people!
 
 #### 06dc294a3a | choice/UI → HARVEY | x2
@@ -1045,25 +1045,25 @@ That information wasn’t yours.
 #### f890ae8784 | BATMAN → HARVEY | x12
 But the innocent people--!
 
-#### 7e4e9f750a-SM | HARVEY → BATMAN | x2
+#### 7e4e9f750a | HARVEY → BATMAN | x2
 Bet he wishes he had just handed over the location of the drug stockpile when I asked.
 
 #### 95b6f77b97 | HARVEY → BATMAN | x2
 I owe you that much at least!
 
-#### f675beb530-LM | choice/UI → HARVEY | x2
+#### f675beb530 | choice/UI → HARVEY | x2
 You won’t get away with it!
 
 #### 2c0368a56e | BATMAN → HARVEY, BRUCE | x4
 Gordon’s death does no one any good.  Nothing will improve by increasing Gotham’s body count.
 
-#### 9b4116c8da-LM | BRUCE → HARVEY, BATMAN | x6
+#### 9b4116c8da | BRUCE → HARVEY, ENFORCER01, BATMAN | x8
 What the hell did you do?
 
 #### 2c9ac1b948 | HARVEY → ENFORCER01, BATMAN | x8
 Are Lady Arkham’s drugs destroyed?
 
-#### 7a9ba927e8-LM | ENFORCER01 → HARVEY | x4
+#### 7a9ba927e8 | ENFORCER01 → HARVEY | x4
 Aw man, but ...that blast was way bigger than you said. We must have taken out a whole city block with it.
 
 #### 1dad123bf3 | ENFORCER01 → HARVEY | x6

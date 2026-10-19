@@ -4,7 +4,7 @@ Strange place to meet.
 #### c3c6574800 | BATMAN → VICKI | x4
 This area is dangerous. You shouldn’t be out here alone.
 
-#### ce91a2ca2c-SF | VICKI → BATMAN | x2
+#### ce91a2ca2c | VICKI → BATMAN | x2
 I just interviewed a known terrorist, I think I can handle myself.
 
 #### 00cb50e6a2 | VICKI → BATMAN | x2
@@ -19,7 +19,7 @@ And you do?
 #### ba595c49e5 | choice/UI → VICKI | x2
 That’s not why I’m here.
 
-#### 2dab9e5c96-SM | BATMAN → VICKI | x2
+#### 2dab9e5c96 | BATMAN → VICKI | x2
 That’s what I need to talk to you about.
 
 #### 909af9b84b | VICKI → BATMAN | x2
@@ -43,7 +43,7 @@ The Voice... who is he?
 #### dfb87fd5bb | VICKI → BATMAN | x2
 Now you know I can’t tell you that.
 
-#### cd6ed8b8fb-SM | BATMAN → VICKI | x2
+#### cd6ed8b8fb | BATMAN → VICKI | x2
 I need to know where I can find them. Their base of operations...
 
 #### 8dfae02f71 | VICKI → BATMAN | x2
@@ -55,7 +55,7 @@ What did they tell you?
 #### 6330256de9 | choice/UI, BATMAN → VICKI | x4
 How did they contact you?
 
-#### cc440f81c7-LF | choice/UI → VICKI | x2
+#### cc440f81c7 | choice/UI → VICKI | x2
 Where did you meet?
 
 #### cd78bbaa4d | VICKI → BATMAN | x2
@@ -67,22 +67,22 @@ Honestly it was just a lot of posturing and grandoise monologuing.
 #### 14345838e8 | BATMAN → VICKI | x2
 What else did they tell you? Anything at all.
 
-#### fe344b9ef8-LM | VICKI → BATMAN | x2
+#### fe344b9ef8 | VICKI → BATMAN | x2
 You read the story I assume.
 
 #### 48e2d48883 | VICKI → BATMAN | x2
 That’s about it. Nothing specific.
 
-#### 6eb9de126f-SF | VICKI → BATMAN | x2
+#### 6eb9de126f | VICKI → BATMAN | x2
 They’re big on secrecy. I’m sure you understand.
 
-#### b31c96e704-LF | BATMAN → VICKI | x2
+#### b31c96e704 | BATMAN → VICKI | x2
 How did you get into contact with the Voice?
 
-#### 2616a53671-LM | VICKI → BATMAN | x2
+#### 2616a53671 | VICKI → BATMAN | x2
 They contacted me actually. Same way you did.
 
-#### ae0d7ab54c-SF | VICKI → BATMAN | x2
+#### ae0d7ab54c | VICKI → BATMAN | x2
 I’m sorry. That’s all I can tell you.
 
 #### 9068fc3eea | choice/UI → VICKI | x2
@@ -178,7 +178,7 @@ You really think they’d just tell me that?
 #### ba9eaf7a2d | choice/UI → VICKI | x2
 I’m not a fan of their message.
 
-#### c4b4ecb7d1-SF | VICKI → BATMAN | x4
+#### c4b4ecb7d1 | VICKI → BATMAN | x4
 They didn’t say. They’re really into the secret identity thing. I’m sure you understand.
 
 #### 56373b7ca0 | VICKI → BATMAN | x2
@@ -193,19 +193,19 @@ You sold out.
 #### 3a36bb9862 | choice/UI → VICKI | x2
 Stop hiding the truth.
 
-#### c218302b44-SF-LM | VICKI → BATMAN | x2
+#### c218302b44 | VICKI → BATMAN | x2
 Same way you did. And after the debate… I was stuck between a rock and a hard place. It’s not like I could refuse.
 
-#### 5a9b5d58cf-SM | choice/UI → VICKI | x2
+#### 5a9b5d58cf | choice/UI → VICKI | x2
 I’m sorry about what happened.
 
-#### a669d6c5cf-LF | choice/UI → VICKI | x2
+#### a669d6c5cf | choice/UI → VICKI | x2
 You got lucky at the debate.
 
 #### 41ab91412e | choice/UI → VICKI | x2
 That must be how they heard of you.
 
-#### 8356509158-SM-LF | BATMAN → VICKI | x2
+#### 8356509158 | BATMAN → VICKI | x2
 I’m sorry. You went through a lot.
 
 #### 1a7d919a8c | VICKI → BATMAN | x2
@@ -256,10 +256,10 @@ There’s a video of Vicki Vale’s interview with The Voice. I’m heading back
 #### 9af26307d4 | ALFRED → BATMAN | x2
 Would you like me to have anything ready for your return?
 
-#### 76813717b6-SM | BATMAN → ALFRED | x2
+#### 76813717b6 | BATMAN → ALFRED | x2
 Yeah. Pull up the Gotham Gazette’s hard drive. I’ve got an idea.
 
-#### 01b35ebf79-LF | BATMAN → VICKI | x2
+#### 01b35ebf79 | BATMAN → VICKI | x2
 They must have told you something! Where did you meet?
 
 #### 309dba6646 | VICKI → BATMAN | x2
@@ -271,7 +271,7 @@ Stop asking about Bruce Wayne!
 #### af8be78169 | choice/UI → VICKI | x2
 Leave Catwoman out of this.
 
-#### 2f2183d956-SM-LF | BATMAN → VICKI | x4
+#### 2f2183d956 | BATMAN → VICKI | x4
 I thought you were his friend. You’ve been defending him in the press.
 
 #### 13880c183c | VICKI → BATMAN | x4
@@ -289,13 +289,13 @@ Give me the video.
 #### ed68e4486f | choice/UI → VICKI | x2
 How convenient.
 
-#### b04a8b11ca-LF | choice/UI → VICKI | x2
+#### b04a8b11ca | choice/UI → VICKI | x2
 Yet you met me in a park...
 
 #### 6c0ec96b88 | choice/UI → VICKI | x2
 What a weird rumor.
 
-#### 8bd183a689-SM | choice/UI → VICKI | x2
+#### 8bd183a689 | choice/UI → VICKI | x2
 I’ve heard that too...
 
 #### 462fc3433e | VICKI → BATMAN | x2
@@ -319,7 +319,7 @@ You’re probably used to swinging around high rises. Nice views of the city. Be
 #### e5d844e9df | BATMAN → VICKI | x2
 Is that your professional opinion? That they’re terrorists?
 
-#### fc4751b2ff-SF | VICKI → BATMAN | x2
+#### fc4751b2ff | VICKI → BATMAN | x2
 If the boot fits. I’ve heard firsthand what this Voice thinks about Gotham.
 
 #### 04369ff911 | VICKI → BATMAN | x2
@@ -331,19 +331,19 @@ I don’t doubt you, Miss Vale. You’re incredibly competent.
 #### 0b294dd017 | VICKI → BATMAN | x2
 A compliment from the Batman? Didn’t think it was possible. Thanks.
 
-#### 0f82a1ae2c-SF | VICKI → BATMAN | x2
+#### 0f82a1ae2c | VICKI → BATMAN | x2
 I’m used to danger, living in a city like this. It’s why I wanted to get an exclusive with the Voice.
 
 #### f657e546ee | BATMAN → VICKI | x2
 You seem to be a glutton for danger.
 
-#### a138ccd043-LM | VICKI → BATMAN | x2
+#### a138ccd043 | VICKI → BATMAN | x2
 When you’re a reporter in Gotham, you need to like the danger. It’s what drives me.
 
-#### dd2734fa63-SF | VICKI → BATMAN | x2
+#### dd2734fa63 | VICKI → BATMAN | x2
 It’s why I wanted to get an exclusive with the Voice.
 
-#### e50bcbc66b-SF | VICKI → BATMAN | x2
+#### e50bcbc66b | VICKI → BATMAN | x2
 I’m used to the danger. It’s an occupational hazard. And when it comes to danger, this Voice certainly qualifies.
 
 #### a3f6016ee3 | VICKI → BATMAN | x2
@@ -355,7 +355,7 @@ Who is it? Underneath the mask?
 #### 7e1e8fa397 | BATMAN → VICKI | x2
 Well, I’m not a fan of them. Or their message.
 
-#### 5e99b2206a-SF-LM | VICKI → BATMAN | x2
+#### 5e99b2206a | VICKI → BATMAN | x2
 I’m sure you’re not. I saw how you beat up those Children of Arkham at the debate. You made your opinion of them very clear.
 
 #### 515663b3d9 | VICKI → BATMAN | x2
@@ -367,7 +367,7 @@ You’re only helping them. Giving them an outlet to promote their anarcy.
 #### 884117aba3 | VICKI → BATMAN | x2
 I’m reporting the truth. There’s no slant for or against them. What people take away from it is their own perogative.
 
-#### 3e1debc7dd-SM-LF | BATMAN → VICKI | x2
+#### 3e1debc7dd | BATMAN → VICKI | x2
 And I’m sure you made a profit. Hope it was worth it.
 
 #### 33f1c37dd0 | VICKI → BATMAN | x2
@@ -388,19 +388,19 @@ The word is getting out.
 #### c92e2dcda1 | VICKI → BATMAN | x2
 Let’s just hope the people get the right message.
 
-#### 2791d58adb-SF | VICKI → BATMAN | x2
+#### 2791d58adb | VICKI → BATMAN | x2
 All I did was write it down.
 
 #### 0ff48181c6 | VICKI → BATMAN | x2
 At least, I hope so. I’d hate to have stuck my neck out for nothing.
 
-#### 2145b1f094-LF | BATMAN → VICKI | x2
+#### 2145b1f094 | BATMAN → VICKI | x2
 At least you’re still alive. Not everyone at the debate was as lucky as you.
 
-#### b8072951ca-LF | BATMAN → VICKI | x2
+#### b8072951ca | BATMAN → VICKI | x2
 You moderated the debate. That’s probably how the Children of Arkham thought to contact you.
 
-#### fea997ef15-SF | VICKI → BATMAN | x2
+#### fea997ef15 | VICKI → BATMAN | x2
 I thought the same thing. I guess it’s the only good that came out of that nightmare.
 
 #### fb53870091 | VICKI → BATMAN | x2
@@ -409,7 +409,7 @@ I... I don’t know if I’ll ever be over it.
 #### a42276c08a | VICKI → BATMAN | x2
 You think I don’t realize that? It’s not like I’m looking for pity.
 
-#### 23db96fe42-SF-LM | VICKI → BATMAN | x2
+#### 23db96fe42 | VICKI → BATMAN | x2
 But I’m glad you reached out to me. Investigative journalism requires me to report both sides.
 
 #### 6ad488658d | VICKI → BATMAN | x2
@@ -427,7 +427,7 @@ Really? That’s a bit of controversial stance to take.
 #### 789d1aed36 | BATMAN → VICKI | x2
 I’m helping the GCPD.
 
-#### f178edfbeb-LM | VICKI → BATMAN | x2
+#### f178edfbeb | VICKI → BATMAN | x2
 So they have you on their payroll?
 
 #### c271d08e42 | BATMAN → VICKI | x2
@@ -445,7 +445,7 @@ They’re a danger to this city. And I’m going to take care of them.
 #### e6d73dafeb | VICKI → BATMAN | x2
 Hey, you’re the one who offered up this interview. You gotta give me something.
 
-#### 9eaf15a08a-SF | VICKI → BATMAN | x2
+#### 9eaf15a08a | VICKI → BATMAN | x2
 I’ve had nightmares ever since that night. But the Children of Arkham don’t seem to care. They say “jump,“ and you ask “how high?“
 
 #### 525e2ff186 | BATMAN → VICKI | x2
@@ -466,7 +466,7 @@ Bruce Wayne is innocent. He’s not responsible for what his father did.
 #### 46a402e189 | BATMAN → VICKI | x2
 He doesn’t need my protection.
 
-#### e31a9c6ed8-LM | VICKI → BATMAN | x2
+#### e31a9c6ed8 | VICKI → BATMAN | x2
 You said you were on his side.
 
 #### e72d052a76 | BATMAN → VICKI | x2
@@ -478,7 +478,7 @@ Too bad for him, I guess.
 #### b425f734c1 | BATMAN → VICKI | x2
 I’m not here to talk about Bruce Wayne.
 
-#### 3526687e10-SF-LM | VICKI → BATMAN | x2
+#### 3526687e10 | VICKI → BATMAN | x2
 I thought a guy like you saw the world in black and white.
 
 #### fb8fa98cf9 | VICKI → BATMAN | x2
@@ -508,7 +508,7 @@ We’re not talking about Catwoman.
 #### a9f297dfa7 | VICKI → BATMAN | x2
 Interesting. What’s the deal with her? She’s against you at City Hall, then she’s with you at the debate--
 
-#### ed22fcd5ce-SM | BATMAN → VICKI | x2
+#### ed22fcd5ce | BATMAN → VICKI | x2
 I said drop it.
 
 #### 1e8633d7e9 | BATMAN → VICKI | x2
@@ -532,22 +532,22 @@ I don’t have it anymore.
 #### bbd1865b84 | BATMAN → VICKI | x2
 How convenient. No names, no important information...
 
-#### 24fd02adcb-SF | VICKI → BATMAN | x2
+#### 24fd02adcb | VICKI → BATMAN | x2
 I’m sorry they didn’t spill their evil plan to me. Like I said. They’re a fan of secrecy.
 
-#### 4fefc04a96-SF | VICKI → BATMAN | x2
+#### 4fefc04a96 | VICKI → BATMAN | x2
 I did everything by the book. I’m not going to put my job or my life on the line to help out the Batman.
 
 #### ea27f2e29c | BATMAN → VICKI | x2
 You interview them in secrecy, but you meet me at a public park.
 
-#### 7a095b2e38-LM | VICKI → BATMAN | x2
+#### 7a095b2e38 | VICKI → BATMAN | x2
 They’re the ones who told me when and where. And to be honest, I wasn’t sure you were going to show.
 
 #### 60b238a33e | VICKI → BATMAN | x2
 But secrecy is much more akin to villains than heroes, don’t you think?
 
-#### ec6c9fc2a4-SF | VICKI → BATMAN | x2
+#### ec6c9fc2a4 | VICKI → BATMAN | x2
 It was dark... the most I could see was their leader’s mask. Hard to miss, you know?
 
 #### 1320f36a2c | BATMAN → VICKI | x2
@@ -556,7 +556,7 @@ Then where is it?
 #### bc293826ea | VICKI → BATMAN | x2
 It’s property of the Gazette now. I’m not high enough on the paygrade to access it.
 
-#### aa0ea6eaf4-LF | BATMAN → VICKI | x2
+#### aa0ea6eaf4 | BATMAN → VICKI | x2
 Awful strange rumor you heard, Miss Vale.
 
 #### eb536d0b49 | VICKI → BATMAN | x2
@@ -565,16 +565,16 @@ I guess the aftermath of the debate isn’t going well on his end either.
 #### 51c68acdea | VICKI → BATMAN | x2
 As strange as a reporter talking to a guy in a bat costume. At this point, I take very little with a grain of salt.
 
-#### 34bf8efced-SM | BATMAN → VICKI | x2
+#### 34bf8efced | BATMAN → VICKI | x2
 I’ve heard the same.
 
 #### c058f5f338 | VICKI → BATMAN | x4
 If Mayor Dent wants to keep to his promises and change this city, he’s going to need to snap out of it.
 
-#### 00118294c8-SF | VICKI → BATMAN | x2
+#### 00118294c8 | VICKI → BATMAN | x2
 I’m not sure you know who I am. Vicki Vale. Reporter. I’m paid to sell papers.
 
-#### 7d2adadb69-L? | VICKI | x2
+#### 7d2adadb69 | VICKI | x2
 Wasn’t sure you were gonna show.
 
 #### 89323043d6 | choice/UI → VICKI | x2
@@ -595,7 +595,7 @@ I always keep my word.
 #### dff9d00c40 | HARVEY, VICKI, SELINA → BATMAN, BRUCE | x8
 Good to know.
 
-#### fb3eba2cc0-SM | BATMAN → VICKI | x2
+#### fb3eba2cc0 | BATMAN → VICKI | x2
 I need some information from you.
 
 #### 80db6d814e | VICKI → BATMAN | x2
@@ -637,7 +637,7 @@ I’ll skip the obvious question.
 #### 10d56e1d8f | VICKI → BATMAN | x2
 In your opinion.
 
-#### e68b41f526-LF | BATMAN → VICKI | x2
+#### e68b41f526 | BATMAN → VICKI | x2
 You saw what they did at the debate. They’re terrorizing Gotham.
 
 #### 9c415ae462 | VICKI → BATMAN | x2
@@ -664,7 +664,7 @@ Sort of like you, then.
 #### 5ee41e175f | BATMAN → VICKI | x2
 I don’t want this conversation recorded.
 
-#### 1de5c9515a-SF | VICKI → BATMAN | x2
+#### 1de5c9515a | VICKI → BATMAN | x2
 I thought we were here for an interview.
 
 #### 0a75268500 | BATMAN, choice/UI → VICKI, HARVEY | x4
@@ -673,7 +673,7 @@ Turn it off.
 #### b3a8ec8f54 | VICKI → BATMAN | x2
 Will you talk now?
 
-#### ae438ba847-LF | BATMAN → VICKI | x2
+#### ae438ba847 | BATMAN → VICKI | x2
 You interviewed their leader. The Voice.
 
 #### 0d8ae4d270 | BATMAN → VICKI | x2
@@ -685,13 +685,13 @@ The Children of Arkham...
 #### 46009656eb | VICKI → BATMAN | x2
 Do you consider them biggest danger to Gotham?
 
-#### e9639708d4-SF | VICKI | x2
+#### e9639708d4 | VICKI | x2
 I’m sure you understand.
 
-#### 2f600c177c-SF | VICKI | x2
+#### 2f600c177c | VICKI | x2
 They’re really into the secret identity thing. I’m sure you understand.
 
-#### 806c7372b7-SF-L? | VICKI | x2
+#### 806c7372b7 | VICKI | x2
 You’ve made that very clear. Though I’m not sure the rest of Gotham agrees with you.
 
 #### 6bc84347c4 | VICKI | x2
@@ -712,7 +712,7 @@ It was a lot of posturing and grandiose monologuing, really. “We’re going to
 #### 0ce6a149e0 | VICKI | x2
 Sounded a lot like Harvey Dent actually.
 
-#### cf66f44a48-LM | VICKI → BATMAN | x2
+#### cf66f44a48 | VICKI → BATMAN | x2
 If that’s the only reason you called me you should really just read it yourself.
 
 #### 66d446d11f | VICKI → BATMAN | x2
@@ -721,10 +721,10 @@ They aren’t trying to hide their motivations.
 #### bba64c3062 | VICKI → BATMAN | x2
 It’s all out there, clear as day.
 
-#### 7b29f0402d-LF | BATMAN → VICKI | x2
+#### 7b29f0402d | BATMAN → VICKI | x2
 You gave them a platform to promote themselves. You’re helping them get what they want.
 
-#### f0cbdf0c0b-SF | VICKI → BATMAN | x2
+#### f0cbdf0c0b | VICKI → BATMAN | x2
 What they want is an end to corruption. Something I’ve heard you claim to support as well.
 
 #### a85f49ccaa | VICKI → BATMAN | x2
@@ -733,7 +733,7 @@ Unless that’s all just a rumor.
 #### ab97a3d4af | VICKI → BATMAN | x2
 So whose side is Batman on?
 
-#### fefbd5a689-LF | BATMAN → VICKI | x4
+#### fefbd5a689 | BATMAN → VICKI | x4
 Where did you meet? How did they contact you?
 
 #### ae87ffeb24 | VICKI → BATMAN | x4
@@ -760,7 +760,7 @@ The circumstances of that meeting are confidential.
 #### 77ad4f6c9f | VICKI | x2
 Just like this one.
 
-#### 220fb1a199-SF | VICKI | x2
+#### 220fb1a199 | VICKI | x2
 I’m sure you wouldn’t want me telling everyone how to get ahold of you.
 
 #### 621998daf9 | VICKI → BATMAN | x2
@@ -805,19 +805,19 @@ Don’t think people haven’t noticed.
 #### d07d06658b | VICKI → BATMAN | x2
 They have a right to be angry.
 
-#### e83619671e-SM | BATMAN → VICKI | x2
+#### e83619671e | BATMAN → VICKI | x2
 I thought you didn’t take sides.
 
-#### 9d966360e3-SF | VICKI → BATMAN | x4
+#### 9d966360e3 | VICKI → BATMAN | x4
 Look, I came here to meet you. I didn’t have to do that.
 
-#### 184dbbefc1-LM | VICKI → BATMAN | x2
+#### 184dbbefc1-LM | VICKI → BATMAN | x4 | listener: male
 The least you could do is answer a few questions.
 
-#### 184dbbefc1-L? | VICKI | x2
+#### 184dbbefc1-L? | VICKI → BATMAN | x4 | listener: unknown
 The least you could do is answer a few questions.
 
-#### a7d1dda860-SF | VICKI | x2
+#### a7d1dda860 | VICKI | x2
 I’m not stupid. I know you have some connection with him.
 
 #### 30cfb31279 | VICKI | x2
@@ -835,7 +835,7 @@ Whether he intended to or not his family has been stealing from innocent people 
 #### 0fa786537f | choice/UI → VICKI | x2
 Reporters aren’t supposed to take sides.
 
-#### a335d170b4-SM | BATMAN → VICKI | x2
+#### a335d170b4 | BATMAN → VICKI | x2
 I thought reporters didn’t take sides.
 
 #### eba2a04b4d | VICKI → BATMAN | x2
@@ -883,10 +883,10 @@ If you wanna stand by and watch, that’s up to you.
 #### 1d6d5420a9 | VICKI → BATMAN | x2
 I gotta get this to my editor.
 
-#### dd9236f13a-SF | VICKI → BATMAN | x2
+#### dd9236f13a | VICKI → BATMAN | x2
 Not that I got anything more than “turn it off”.
 
-#### 6972bb8a8a-LM | VICKI → BATMAN | x2
+#### 6972bb8a8a | VICKI → BATMAN | x2
 Not that you gave me much to work with.
 
 #### ae987c13be | BATMAN → VICKI | x2
@@ -898,7 +898,7 @@ We’re not done!
 #### e11d7d040f | BATMAN → VICKI | x4
 We are not done!
 
-#### d1950da813-LM | VICKI → BATMAN | x2
+#### d1950da813 | VICKI → BATMAN | x2
 Like you said, this interview is over.
 
 #### 1f80d79048 | VICKI → BATMAN | x2
@@ -910,13 +910,13 @@ What are you gonna do with that?
 #### 2d8f9aa315 | BATMAN → VICKI | x2
 What’s your editor gonna do with that recording?
 
-#### 49c9ccdc99-SF | VICKI → BATMAN | x2
+#### 49c9ccdc99 | VICKI → BATMAN | x2
 I was hoping for a story.
 
 #### a65d8e8344 | VICKI → BATMAN | x2
 Sounds like this one’ll likely pick up dust on the server instead.
 
-#### ac8aff25ef-SF | VICKI → BATMAN | x6
+#### ac8aff25ef | VICKI → BATMAN | x6
 I have work to do. I’m not interested in bits of nothing that will only pick up dust on the company server.
 
 #### 1db11c2f12 | BATMAN → VICKI | x2
@@ -928,10 +928,10 @@ Too bad.
 #### 58800ef035 | BATMAN → VICKI | x2
 Please, Miss Vale.
 
-#### 505fc6d3f5-SM | BATMAN → VICKI | x2
+#### 505fc6d3f5 | BATMAN → VICKI | x2
 I need to find the Children of Arkham before they hurt anyone else.
 
-#### cc4ba66fcd-SM | BATMAN → VICKI | x2
+#### cc4ba66fcd | BATMAN → VICKI | x2
 Think what you want about Bruce Wayne, but I need to find the Children of Arkham before they hurt anyone else.
 
 #### c8b4be5e4d | VICKI → BATMAN | x2
@@ -940,7 +940,7 @@ I’m not gonna hear the end of it.
 #### 232938e1e1 | VICKI → BATMAN | x2
 Goodbye, Batman.
 
-#### be19b45ab7-SF | VICKI → BATMAN | x2
+#### be19b45ab7 | VICKI → BATMAN | x2
 If you’re as good as they{ConfusedA} say you are,{SmugA} I’m sure you’ll find a way.
 
 #### 06ab394750 | ALFRED → VICKI | x2
@@ -982,10 +982,10 @@ Doesn’t change anything.
 #### 34c7ad2197 | BATMAN → VICKI | x2
 I agree with you.
 
-#### ed34b93c54-LF | BATMAN → VICKI | x2
+#### ed34b93c54 | BATMAN → VICKI | x2
 You’re right. His fortune was built on lies and corruption. And he’ll stand accountable for that.
 
-#### 98aebc8fa0-SF | VICKI → BATMAN | x2
+#### 98aebc8fa0 | VICKI → BATMAN | x2
 Couldn’t have said it better myself.
 
 #### 984f75dcee | VICKI → BATMAN | x2
@@ -1024,22 +1024,22 @@ This is your fault.
 #### 4c8c27d5a3 | choice/UI → VICKI | x2
 You’re next on their list.
 
-#### d28dfe88e6-SM | BATMAN → VICKI | x2
+#### d28dfe88e6 | BATMAN → VICKI | x2
 I could make you talk.
 
-#### 8167e5ce9a-SF-LM | VICKI → BATMAN | x2
+#### 8167e5ce9a | VICKI → BATMAN | x2
 I’m sure you{FearA} could.
 
 #### 27c7a8a935 | VICKI → BATMAN | x2
 Let me{AngryA} by.
 
-#### 4d3e2cd481-SF | VICKI → BATMAN | x2
+#### 4d3e2cd481 | VICKI → BATMAN | x2
 I told you I can’t help you.
 
 #### 18fc964d0e | BATMAN → VICKI | x2
 You’re obstructing justice. If I have to I’ll get the police involved.
 
-#### 9027d6fe3b-LF | BATMAN → VICKI | x2
+#### 9027d6fe3b | BATMAN → VICKI | x2
 Whatever happens next, whatever the Children of Arkham do to this city... remember that you had the chance to stop it.
 
 #### 1f6edae836 | BATMAN → VICKI | x2
@@ -1051,7 +1051,7 @@ Tell me what you know and you can walk away.
 #### df73135e1a | VICKI → BATMAN | x2
 ...Okay. Okay.
 
-#### ce247583c9-LM | VICKI → BATMAN | x2
+#### ce247583c9 | VICKI → BATMAN | x2
 Y- Yeah. You’re right.
 
 #### 3222b4b29e | BATMAN → VICKI | x2
@@ -1066,20 +1066,17 @@ I- I didn’t realize.
 #### c8651830c4 | VICKI → BATMAN | x2
 You’re not gonna let me go are you?
 
-#### 4e3787eb8e-SF | VICKI → BATMAN | x2
+#### 4e3787eb8e | VICKI → BATMAN | x2
 I could lose my job for this, but...
 
 #### 78754ce700 | VICKI → BATMAN | x2
 This is where we met for the interview.
 
-#### 3e8899149e-SF | VICKI → BATMAN | x2
+#### 3e8899149e | VICKI → BATMAN | x2
 Please. Don’t tell anyone I gave this to you.
 
 #### ce92660681 | BATMAN → VICKI | x2
 The Skyrail Depot?
-
-#### 59c18f4005-LF | choice/UI, BRUCE → SELINA, VICKI, CATWOMAN | x8
-You’re right.
 
 #### efc48b9b46 | VICKI → BATMAN | x2
 Okay, you want my{BodyAccent} source, you’re gonna{AngryA} have to tell me what’s{FaceAccent} really{ThinkingA} going on here.
@@ -1096,7 +1093,7 @@ Sounds good.
 #### 604965956e | VICKI → BATMAN | x2
 I’ll tell you where{ConcernedA} to find the {FaceAccent}Children of Arkham.
 
-#### 05a1225cac-SF | VICKI → BATMAN | x2
+#### 05a1225cac | VICKI → BATMAN | x2
 But I {DisgustA}need something from you.
 
 #### 86e82add34 | VICKI → BATMAN | x2
@@ -1114,7 +1111,7 @@ There’s nothing to tell. This isn’t some grand{AngryA} conspiracy, Miss Vale
 #### 130985780c | VICKI → BATMAN | x2
 Then this should be easy{SmugA} for you then.
 
-#### fecceaff8a-SM | BATMAN → VICKI | x2
+#### fecceaff8a | BATMAN → VICKI | x2
 I’ll tell you what I{FaceAccent} can.{AngryA} But I need that{ThinkingA} information.
 
 #### ef0f6ed5f2 | VICKI → BATMAN | x2
@@ -1177,16 +1174,16 @@ You’re-- you’re really going to{AngryA} threaten me?
 #### 01e6a422ef | VICKI → BATMAN | x2
 Then you should’ve taken my deal.
 
-#### 05dffe9947-SF | VICKI → BATMAN | x2
+#### 05dffe9947 | VICKI → BATMAN | x2
 I tried to help you. You didn’t {DisgustA}want to play.
 
 #### 29b6de0006 | VICKI | x2
 If you think I’m{DisgustA} upholding our deal now.
 
-#### cd7b428786-LM | VICKI → BATMAN | x4
+#### cd7b428786 | VICKI → BATMAN | x4
 You’re right. You upheld{ThinkingB} your end...
 
-#### fa0cd352f5-SM | BATMAN → VICKI | x2
+#### fa0cd352f5 | BATMAN → VICKI | x2
 I said I’d be here didn’t I?
 
 #### 1b1a705e19 | VICKI → BATMAN | x2
@@ -1204,7 +1201,7 @@ That’s all there is to it.
 #### 9b39206ad9 | BATMAN → VICKI | x2
 The Children of Arkham have done horrible things.
 
-#### 2738911b03-SM | BATMAN → VICKI | x2
+#### 2738911b03 | BATMAN → VICKI | x2
 I need to know everything they told you.
 
 #### 5991dfed56 | VICKI → BATMAN | x2
@@ -1216,7 +1213,7 @@ So much for journalistic integrity.
 #### 8fd55834b7 | VICKI → BATMAN | x2
 Integrity is for those who can afford it. I still gotta make a living.
 
-#### 47b80bd086-SM-LF | BATMAN → VICKI | x2
+#### 47b80bd086 | BATMAN → VICKI | x2
 I thought you were a journalist with integrity.
 
 #### ae34ec6fa9 | BATMAN → VICKI | x2
@@ -1225,7 +1222,7 @@ Didn’t expect you to abandon your integrity for a story.
 #### 6b39daae33 | BATMAN → VICKI | x2
 The Children of Arkham hurt you at the debate too. They don’t deserve your protection.
 
-#### a45e6847f7-LF | BATMAN → VICKI | x2
+#### a45e6847f7 | BATMAN → VICKI | x2
 They’ll have you arrested.
 
 #### 25504da53f | choice/UI, HARVEY, BATMAN → VICKI, BRUCE, BOY | x6

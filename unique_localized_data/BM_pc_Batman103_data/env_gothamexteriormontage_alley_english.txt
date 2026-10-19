@@ -1,4 +1,7 @@
-﻿#### 618206f815-SM | HEROGOON | x2
+﻿#### 618206f815-SM | HEROGOON, COA03 → GOON04 | x4 | speaker: male
+You think I’m scared of you?
+
+#### 618206f815-S? | HEROGOON, COA03 → GOON04 | x4 | speaker: unknown
 You think I’m scared of you?
 
 #### 87e34b663b | HEROGOON, COA03, SPENCER, HARVEY → BRUCE, COA04 | x8
@@ -7,7 +10,7 @@ What are you gonna do?
 #### 55ae77100c | COA04, HEROGOON → COA03 | x6
 Costumed freak...
 
-#### 433fd7dca7-LM | HEROGOON → BATMAN | x2
+#### 433fd7dca7 | HEROGOON → BATMAN | x2
 How does it feel, huh? Knowin’ you failed.
 
 #### 2dc339f020 | HEROGOON, GOON04 → BATMAN, CIVILIAN02, HARVEY | x8
@@ -16,7 +19,10 @@ And the night’s not over yet.
 #### 170c9f4b1c | BATMAN → HEROGOON | x4
 Tell me where your leader is. [shoving him]What are you planning?
 
-#### 18e882dc33-SM | HEROGOON, GOON04 → BATMAN, COA03 | x6
+#### 18e882dc33-SM | HEROGOON, GOON04, COA04 → BATMAN, COA03 | x8 | speaker: male
+Sworn to secrecy, I’m afraid.
+
+#### 18e882dc33-S? | HEROGOON, GOON04, COA04 → BATMAN, COA03 | x8 | speaker: unknown
 Sworn to secrecy, I’m afraid.
 
 #### 6359c2f64c | HEROGOON, GOON04, COA04 → BATMAN, COA03 | x8
@@ -37,7 +43,10 @@ You should be.
 #### 36527e4a1a | HEROGOON, GOON04, COA03 → BATMAN, HARVEY, COA04 | x6
 Oh, should I?
 
-#### 54d9158951-LM | CIVILIAN01 → HEROGOON | x4
+#### 54d9158951-LM | CIVILIAN01 → HEROGOON, CIVILIAN02 | x8 | listener: male
+Did you see him?
+
+#### 54d9158951-L? | CIVILIAN01 → HEROGOON, CIVILIAN02 | x8 | listener: unknown
 Did you see him?
 
 #### 611f2973e4 | CIVILIAN02 → HEROGOON, BATMAN, CIVILIAN01 | x8
@@ -48,9 +57,6 @@ I’m not going to let you people ruin Gotham! This ends now.
 
 #### 699cfce971 | HEROGOON, GOON04 → CIVILIAN01, COA03 | x4
 Ha! You think --
-
-#### 54d9158951-L? | CIVILIAN01 → CIVILIAN02 | x4
-Did you see him?
 
 #### cf07cb95b2 | BATMAN, HEROGOON, GOON04, COA03 → LADYARKHAM, CIVILIAN01, COA03 | x10
 Ah!
@@ -79,7 +85,7 @@ And we’ll be ready for him.  Take him down before the Mayor pulls through.
 #### d71a80d165 | COA03 → COA04 | x2
 What about us? What if he--
 
-#### 7c39311f7a-L? | COA04 → COA03 | x2
+#### 7c39311f7a | COA04 → COA03 | x2
 You scared or something? What the hell is wrong with you?
 
 #### d5e9b26da4 | GOON03 → COA04 | x2
@@ -88,7 +94,7 @@ Get out of the car!
 #### e6188441b8 | HARVEY → GOON03 | x2
 What the hell is going on?
 
-#### 9c03104d39-LM | GOON03 → HARVEY | x2
+#### 9c03104d39 | GOON03 → HARVEY | x2
 You heard me. Get the HELL out of the car!
 
 #### 946bf9db7e | GOON04 → GOON03 | x2
@@ -106,7 +112,7 @@ We don’t have to make this anymore difficult than it needs to be. Just turn yo
 #### 485e87be17 | BATMAN → COA03 | x2
 Night night.
 
-#### c58163ed8e-L? | COA03 → COA04 | x2
+#### c58163ed8e | COA03 → COA04 | x2
 You’re right, he ain’t got nothing on us.
 
 #### 0fe9e460ab | COA04 → COA03 | x2
@@ -124,7 +130,7 @@ Mr. Dent, don’t--
 #### 2d7ce6d9f4 | HARVEY → COA04 | x4
 Stay behind me, Deborah. [To Goons]Just let us through. Haven’t you done enough harm as it is?
 
-#### fdf294b52f-L? | COA04 → ASSISTANT, COA03 | x4
+#### fdf294b52f | COA04 → ASSISTANT, COA03 | x4
 Boss doesn’t think so. Seeing as you still got the Mayor’s seat.
 
 #### 3a61a41363 | ASSISTANT → HARVEY | x2
@@ -145,13 +151,13 @@ Christ. You two! Go check it out. I’ll deal with Dent here.
 #### e89c055351 | GOON04 → COA04 | x2
 Christ. The car’s pulling up.
 
-#### 952877cf0e-SM | GOON04 → COA04 | x2
+#### 952877cf0e | GOON04 → COA04 | x2
 You two! Go check on Marty. I’ve got the Mayor.
 
 #### 70a76aed8e | GOON04, COA04, COA03 → COA04, COA03 | x6
 Christ. The car’s coming.
 
-#### 305647f2a7-SM | GOON04 → HARVEY | x2
+#### 305647f2a7 | GOON04 → HARVEY | x2
 You two! Go check on Nikki. I’ve got the Mayor.
 
 #### ae5178c973 | GOON04, COA04 → HARVEY | x4
@@ -160,7 +166,10 @@ Hey! Out of the car, Dent!
 #### 77440567e4 | HARVEY → GOON04 | x2
 What the hell’s going on.
 
-#### 7ada2c9f8d-LM | GOON04 → HARVEY | x2
+#### 7ada2c9f8d-LM | GOON04, COA04 → HARVEY, COA03 | x4 | listener: male
+You heard me! Get the hell out of the car!
+
+#### 7ada2c9f8d-L? | GOON04, COA04 → HARVEY, COA03 | x4 | listener: unknown
 You heard me! Get the hell out of the car!
 
 #### d19018240d | GOON04, COA04 → HARVEY, COA03 | x4
@@ -178,28 +187,28 @@ Dammit--
 #### b811418261 | GOON03, COA03 → HARVEY, COA04 | x4
 It’s the Batman!
 
-#### 448748164c-LM | HARVEY → GOON04 | x2
+#### 448748164c | HARVEY → GOON04 | x2
 This is the second time you’ve helped me.
 
-#### ba6297250c-SM | HARVEY → GOON03 | x2
+#### ba6297250c | HARVEY → GOON03 | x2
 I misjudged you, and I’m sorry. I’d looked at you like a vigilante and not an ally.
 
-#### 4c5abb6766-LM | HARVEY → GOON03 | x2
+#### 4c5abb6766 | HARVEY → GOON03 | x2
 Sounds like you’ve got your plate full tonight. You better go.
 
-#### 7a54608d24-LM | HARVEY → BATMAN | x2
+#### 7a54608d24 | HARVEY → BATMAN | x2
 Hope you won’t mind keeping an eye out for any Children of Arkham at my speech. Could really use the backup.
 
 #### fa18ab707c | choice/UI, LUCIUS → BATMAN, HARVEY, GORDON | x12
 Be careful.
 
-#### 62968acc3e-LM | choice/UI → HARVEY | x2
+#### 62968acc3e | choice/UI → HARVEY | x2
 Gotham’s lucky to have you.
 
-#### 9bddf0a326-SM | choice/UI → HARVEY | x2
+#### 9bddf0a326 | choice/UI → HARVEY | x2
 I’ve got your back.
 
-#### 7c52b696d5-LM | BATMAN → HARVEY | x4
+#### 7c52b696d5 | BATMAN → HARVEY | x4
 Be careful. The Children of Arkham still have you in their sights.
 
 #### 65ee8ddd91 | HARVEY → BATMAN | x2
@@ -217,7 +226,7 @@ Just watch my back at the speech--I don’t know if I can handle a surprise atta
 #### 2cf3833714 | BATMAN → HARVEY | x2
 Don’t worry. I’ll keep an eye out for you.
 
-#### 562c590f2e-SM | HARVEY → BATMAN | x2
+#### 562c590f2e | HARVEY → BATMAN | x2
 And I’m glad. But I can take care of myself.
 
 #### 4301676616 | HARVEY → BATMAN | x2
@@ -229,7 +238,7 @@ It’s absolute chaos out there.
 #### 577fa0bdd4 | HARVEY → HEROGOON | x2
 What the hell do you think you’re doing here?
 
-#### 6b9d67a323-SM | HARVEY → HEROGOON | x2
+#### 6b9d67a323 | HARVEY → HEROGOON | x2
 Last time I checked, I didn’t need your god damn help, bat freak!
 
 #### 50b27657ef | HEROGOON, GOON04, COA04 → HARVEY, COA04 | x6
@@ -259,10 +268,7 @@ Go screw youself, Batman. Or the next guy that’s getting decked is you.
 #### 8ecf760c3c | HARVEY → GOON04 | x2
 What did I say? Get out of here!
 
-#### 618206f815-S? | COA03 → GOON04 | x2
-You think I’m scared of you?
-
-#### 84955f0fb0-S? | COA03 → GOON04 | x2
+#### 84955f0fb0 | COA03 → GOON04 | x2
 No, I’m fine.
 
 #### af9fd7a348 | LELAND, COA04, BRUCE, JOKER → JOKER, BATMAN, LUCIUS | x12
@@ -271,14 +277,11 @@ Come on!
 #### 0e11f5bcc1 | COA03, COA04 → BATMAN, ASSISTANT | x4
 Come on out!
 
-#### d29a8cb045-SM | BATMAN → COA04 | x2
+#### d29a8cb045 | BATMAN → COA04 | x2
 I’m not sorry about the headache you’ll have later.
 
-#### 15473d2dd1-S? | COA04 → GOON04 | x2
+#### 15473d2dd1 | COA04 → GOON04 | x2
 You two! Go check on Nicky. I’ve got the Mayor.
-
-#### 7ada2c9f8d-L? | COA04 → COA03 | x2
-You heard me! Get the hell out of the car!
 
 #### f0866d256d | COA03 → COA04 | x2
 So soon?
@@ -286,10 +289,7 @@ So soon?
 #### fe7f1e87b8 | COA03 → COA04 | x2
 The night’s not even over yet.
 
-#### 18e882dc33-S? | COA04 → COA03 | x2
-Sworn to secrecy, I’m afraid.
-
-#### 22896b5db7-LM | BATMAN → HARVEY | x2
+#### 22896b5db7 | BATMAN → HARVEY | x2
 Gotham is lucky to have you as mayor.
 
 #### 9c7224717e | HARVEY, GORDON → COA04, BRUCE | x4
@@ -319,10 +319,10 @@ Starting with people like you.
 #### 62ba121c8b | BATMAN → HARVEY | x2
 I know you’ll be a good mayor for Gotham.
 
-#### 6a0484d4e0-LM | HARVEY → BATMAN | x2
+#### 6a0484d4e0 | HARVEY → BATMAN | x2
 If you thought that, you should have helped me at the debate.
 
-#### 77fa8bb0d0-SM | HARVEY → BATMAN | x2
+#### 77fa8bb0d0 | HARVEY → BATMAN | x2
 I was hospitalized.
 
 #### 21f80aea9c | HARVEY → BATMAN | x2
@@ -364,7 +364,7 @@ Nicky?
 #### 640b00cd96 | COA03, OSWALD → COA04 | x4
 Where the hell is he?
 
-#### 02bd62b26c-S? | COA04 → ASSISTANT | x2
+#### 02bd62b26c | COA04 → ASSISTANT | x2
 I said get out of the car!
 
 #### 782e49f735 | COA04 → ASSISTANT | x2
@@ -391,22 +391,22 @@ Gotham does not need you taking matters into your own hands.
 #### 0b940e1680 | HARVEY → ASSISTANT | x2
 You make these freaks think it’s okay!
 
-#### 5c08551f74-LM | HARVEY → BATMAN | x2
+#### 5c08551f74 | HARVEY → BATMAN | x2
 Yeah well, no thanks to you. You left me for dead once before.
 
-#### 2419aaef4e-L? | HARVEY → ASSISTANT | x2
+#### 2419aaef4e | HARVEY → ASSISTANT | x2
 You showed me where you stood back at the debate.
 
 #### f53d3fa0ca | ASSISTANT → HARVEY | x2
 Hey, c’mon. Let’s go. I’ll call us a cab.
 
-#### 6acfc07442-SM | choice/UI → HARVEY | x2
+#### 6acfc07442 | choice/UI → HARVEY | x2
 I just saved your life!
 
-#### 2ddb248974-SM | BATMAN → HARVEY | x2
+#### 2ddb248974 | BATMAN → HARVEY | x2
 I just saved your life. Show a little gratitude.
 
-#### f4cd7e0c23-LM | HARVEY → BATMAN | x2
+#### f4cd7e0c23 | HARVEY → BATMAN | x2
 This doesn’t make up for what you did at the debate. You left me for de
 
 #### cdb1106b1d | HARVEY → BATMAN | x2
@@ -418,7 +418,7 @@ You might have a mole.
 #### 879282aa49 | choice/UI → HARVEY, OSWALD | x4
 You’ve been hacked.
 
-#### b5abef86ba-SM | BATMAN → HARVEY | x2
+#### b5abef86ba | BATMAN → HARVEY | x2
 Thanks. But I’ve got my own.
 
 #### 1311277508 | LADYARKHAM → HARVEY | x2
@@ -547,7 +547,7 @@ There’s no time for self-pity, Gordon. Suck it up and fight.
 #### 89c1f53299 | GORDON → BATMAN | x4
 I’m doing everything I can!
 
-#### 2ea47dac88-LM | BATMAN → GORDON | x4
+#### 2ea47dac88 | BATMAN → GORDON | x4
 You can’t blame yourself. No one saw this coming.
 
 #### 16bbbacfe5 | GORDON → BATMAN | x4
@@ -595,7 +595,7 @@ I better call this in.
 #### 4461dc3c55 | GORDON → COA03, BATMAN | x4
 I’ll see what I can dig up on my end.
 
-#### a1d4728671-LM | BATMAN → GORDON | x4
+#### a1d4728671 | BATMAN → GORDON | x4
 Here. Use this if you need to get in contact.
 
 #### 9895a39dc4 | GORDON → BATMAN | x6
@@ -604,7 +604,7 @@ We got our{AngryA}{FaceAccent} asses handed to us.
 #### 475aa13ec8 | GORDON → BATMAN | x2
 They almost got to Harvey...
 
-#### a15743b60e-LM | BATMAN → GORDON | x6
+#### a15743b60e | BATMAN → GORDON | x6
 They knew you were coming.
 
 #### 985381b4e5 | GROGAN → GORDON | x4
@@ -625,7 +625,7 @@ w
 #### 2b7ee9ba21 | choice/UI → COA03 | x2
 He would’ve wished for death.
 
-#### 1afec4a247-SM | choice/UI → COP02 | x2
+#### 1afec4a247 | choice/UI → COP02 | x2
 I would’ve arrested him!
 
 #### 7dab32faf0 | COP02 → COA03 | x2
@@ -637,7 +637,7 @@ New mayor’s pretty tough, turns out. Killed one of those guys attacking him wi
 #### 176b27fc29 | BATMAN → COP02, MONTOYA | x3
 Dent did that?
 
-#### d9c934bb2d-LM | COP02 → BATMAN | x2
+#### d9c934bb2d | COP02 → BATMAN | x2
 Guess the fella’s lucky Dent got to him before you did, huh?
 
 #### 943948b650 | COP02 → BATMAN | x2
@@ -658,7 +658,7 @@ We all know how you operate.
 #### e9158b84eb | BATMAN → COP02 | x2
 I’d have put him in jail.
 
-#### 987aec3175-SM | BATMAN → COP02 | x2
+#### 987aec3175 | BATMAN → COP02 | x2
 So unless you’re making a comment on the justice system, I’m afraid you’ve been misinformed.
 
 #### 9155454ec6 | COP02 → BATMAN | x2
@@ -676,28 +676,28 @@ They’re not dead, but they wish they were.
 #### a8833e4be0 | COP02 → BATMAN | x8
 At least this one died quick.
 
-#### 8b6ce01e0c-L? | BATMAN → COP02 | x2
+#### 8b6ce01e0c | BATMAN → COP02 | x2
 You’re wrong about me.
 
 #### 841bb73510 | COP02 → BATMAN | x2
 You think any of us are buying this recent nice guy routine? We’ve all heard the stories about you.
 
-#### 8d3c859677-LM | COP02 → BATMAN | x2
+#### 8d3c859677 | COP02 → BATMAN | x2
 Yeah they get around to us eventually, but you hurt them first, don’t you?
 
 #### a296dbe393 | COP02 → BATMAN | x2
 They beg for mercy but you never give it.
 
-#### 1e9b2f14c1-L? | BATMAN → COP02 | x2
+#### 1e9b2f14c1 | BATMAN → COP02 | x2
 You’re right. [beat]I wouldn’t have let him off that easy.
 
 #### ce693bfe7d | COP02 → BATMAN | x2
 ‘Course you woudn’t.
 
-#### ad27b95e00-S? | COP02 → BATMAN | x2
+#### ad27b95e00 | COP02 → BATMAN | x2
 You may not kill, but I’ve heard stories about you.
 
-#### e43e990ecd-S? | COP02 → CHEMTHUG | x2
+#### e43e990ecd | COP02 → CHEMTHUG | x2
 And I thought Gotham was rough before.
 
 #### c558e63326 | COP02 → CHEMTHUG | x2

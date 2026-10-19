@@ -4,9 +4,6 @@ Inmate vs. Orderly
 #### 5052234027 | choice/UI → GORDON | x2
 Release him and fight me.
 
-#### f470f10bc5-LM | choice/UI → GORDON | x2
-You’ve already lost.
-
 #### 46ceaf2287 | choice/UI → GORDON | x2
 [signal Gordon to strike]
 
@@ -16,7 +13,7 @@ This is madness.
 #### 6005b2351c | BATMAN → GORDON | x2
 Stay close, Jim.
 
-#### 36138140a9-SM | GORDON → BATMAN | x2
+#### 36138140a9 | GORDON → BATMAN | x2
 I always wondered...
 
 #### 6e5eb711f1 | BATMAN → GORDON | x2
@@ -25,7 +22,7 @@ Wondered what?
 #### 988ffbf4a3 | GORDON → BATMAN | x2
 What it must feel like to be Batman.
 
-#### 9e96ef74ab-LM | ZSASZ → BATMAN | x4
+#### 9e96ef74ab | ZSASZ → BATMAN | x4
 How many lives have you taken away from me?
 
 #### 2c6e49feb9 | ZSASZ → BATMAN | x4
@@ -34,7 +31,7 @@ Aargh! Batman!
 #### 94cd0ade90 | ZSASZ → BATMAN, GORDON | x4
 Now all I want is yours.
 
-#### fbabceb584-SM | ZSASZ → JOKER, GORDON | x6
+#### fbabceb584 | ZSASZ → JOKER, GORDON | x6
 I’ve saved this patch of skin above my heart for you.
 
 #### fde09b2ad3 | GORDON → ZSASZ | x2
@@ -73,7 +70,7 @@ Next I’m gonna visit your children.
 #### cee7a5e060 | ZSASZ, ALFRED → GORDON, BRUCE | x4
 Gah!
 
-#### a7a93dfbb4-SM | GORDON, BATMAN → ZSASZ, LUCIUS | x4
+#### a7a93dfbb4 | GORDON, BATMAN → ZSASZ, LUCIUS | x4
 I’m alright.
 
 #### e981328534 | MONTOYA → GORDON | x4
@@ -145,7 +142,7 @@ I’m giving you a gift. A way out of all this pointless chaos... [is punched]
 #### f639e755cd | ZSASZ → LADYARKHAM | x2
 One for you, one for me.
 
-#### ab9814cd23-LF | ZSASZ → LADYARKHAM | x2
+#### ab9814cd23 | ZSASZ → LADYARKHAM | x2
 Have you ever seen the true color of blood?
 
 #### 459fd5d6f9 | ZSASZ → LADYARKHAM | x2
@@ -238,7 +235,7 @@ Batman’s got that one!
 #### a1b8203d91 | GCPD05 → GCPD04 | x2
 It’s all clear!
 
-#### 13284df50b-L? | GCPD06 → GCPD05 | x2
+#### 13284df50b | GCPD06 → GCPD05 | x2
 You heard Gordon!
 
 #### d76b3f3333 | GCPD06 → GCPD05 | x2
@@ -250,7 +247,7 @@ We need backup!
 #### 4d83569ebb | GCPD05 → GCPD06 | x2
 More are coming!
 
-#### 01c3413613-L? | GCPD03 → ORDERLY01 | x2
+#### 01c3413613 | GCPD03 → ORDERLY01 | x2
 You heard the lieutenant!
 
 #### f3efbb91ed | ORDERLY02 → ORDERLY01 | x2
@@ -268,7 +265,7 @@ Out of my way!
 #### db82d7619d | ZSASZ → BATMAN | x2
 I’m going to slice you open, Batman.
 
-#### 3c18881796-LF | ZSASZ → VICKI | x2
+#### 3c18881796 | ZSASZ → VICKI | x4
 I’ll make you bleed.
 
 #### 395fbf4c88 | ZSASZ → VICKI, JOKER | x4
@@ -316,7 +313,7 @@ I don’t die easy.
 #### 780984708b | BATMAN → GORDON | x4
 Don’t get your hopes up.
 
-#### a7d5638e37-SM | GORDON → BATMAN | x4
+#### a7d5638e37 | GORDON → BATMAN | x4
 Hope’s all I’ve got.
 
 #### 2d0230838c | BATMAN → GORDON | x4
@@ -465,7 +462,4 @@ Impressive, Batman!
 
 #### ae94b7e027 | choice/UI → ZSASZ | x2
 Sorry, I don’t take orders.
-
-#### 3c18881796-L? | ZSASZ | x2
-I’ll make you bleed.
 

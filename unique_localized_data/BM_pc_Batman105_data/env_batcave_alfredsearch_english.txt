@@ -4,7 +4,7 @@ I’m in this scene (via hologram)
 #### 1e084e4cb7 | COA01, COA02, LADYARKHAM → ALFRED | x6
 I’m in this scene! (via hologram)
 
-#### d5b8942825-LM | choice/UI → ALFRED | x2
+#### d5b8942825 | choice/UI → ALFRED | x2
 You’re right
 
 #### 59266808ad | choice/UI → COA02 | x2
@@ -28,7 +28,7 @@ Try harder!
 #### 89badc57fd | choice/UI | x2
 I’ll find him no matter what.
 
-#### fe1c6ab343-SM | choice/UI → LUCIUS | x4
+#### fe1c6ab343 | choice/UI → LUCIUS | x4
 I’m responsible.
 
 #### bdd3d0c0eb | choice/UI | x2
@@ -76,7 +76,7 @@ Of course it’s a trap.
 #### 3610b4f7d9 | BATMAN, choice/UI → ALFRED | x6
 I have no choice.
 
-#### 6ae2e2c6a4-SM | ALFRED → COA01 | x2
+#### 6ae2e2c6a4 | ALFRED → COA01 | x2
 My name is Alfred J. Pennyworth and I have worked for the Wayne family for decades. No longer.
 
 #### 48cc708547 | ALFRED → LUCIUS | x2
@@ -85,7 +85,7 @@ I come before you to renounce the Waynes as the cancer that is destroying Gotham
 #### cf4b492b6b | ALFRED → LUCIUS | x2
 Together, we must erase their corrupt influence from our city and rebuild it as something better. Bruce Wayne must pay for his sins.
 
-#### e44c56f028-SM | LUCIUS → ALFRED | x2
+#### e44c56f028 | LUCIUS → ALFRED | x2
 I’ve already processed the video, trying to trace it back to the place of origin.
 
 #### bf6daa2a42 | LUCIUS → ALFRED | x2
@@ -115,7 +115,7 @@ We can run the audio through a filters to detect background noise and juice the 
 #### 29c7634af0 | LUCIUS → BRUCE | x2
 Bruce, he’s going to be okay.
 
-#### 0d04d858df-SM | BATMAN → LUCIUS | x2
+#### 0d04d858df | BATMAN → LUCIUS | x2
 I let him go out there. I should have anticipated the danger.
 
 #### 393abeacb4 | LUCIUS → BATMAN | x2
@@ -133,7 +133,7 @@ I’m trying to stay positive.
 #### 68df08b7cf | BATMAN → LUCIUS | x2
 Save your positive thoughts for later, Lucius. That’s not going to save him.
 
-#### 4211552b77-LM | LUCIUS → BATMAN | x2
+#### 4211552b77 | LUCIUS → BATMAN | x2
 You’re right. Let’s get to work.
 
 #### 5bf2956bdd | BATMAN → LUCIUS | x2
@@ -145,10 +145,10 @@ Lucius, let’s see this in more detail.
 #### c7118e07d2 | BATMAN → LUCIUS | x2
 It’s the Vale house. That’s where she’s got him.
 
-#### fd9adb63c8-SM | LUCIUS → BATMAN | x2
+#### fd9adb63c8 | LUCIUS → BATMAN | x2
 Her foster parents? But I thought they died in a fire.
 
-#### 5280914700-SM | BATMAN → LUCIUS | x2
+#### 5280914700 | BATMAN → LUCIUS | x2
 They did. Seems there’s more uncover there than I assumed.
 
 #### 974d8fad3a | LUCIUS → BATMAN | x2
@@ -226,7 +226,7 @@ I want nothing from you.
 #### b87f82de61 | LADYARKHAM | x2
 I’ll take my pound of flesh off teh only thing you do care for in thsi world.  your man servant.
 
-#### bd34454789-L? | LADYARKHAM | x2
+#### bd34454789 | LADYARKHAM | x2
 If you won’t atone for your sins then your man-servant will.
 
 #### bea54077e4 | LADYARKHAM → BRUCE | x2
@@ -241,7 +241,7 @@ But don’t worry.
 #### 862ed845d2 | BRUCE → LADYARKHAM | x2
 Play it again.
 
-#### 4ee69fd454-SM | LUCIUS → BRUCE | x2
+#### 4ee69fd454 | LUCIUS → BRUCE | x2
 Bruce, I got here as fast as I could. {SurpriseA}I -
 
 #### 1f638d891e | BRUCE → LADYARKHAM, LUCIUS | x4
@@ -316,10 +316,10 @@ he’s gonna
 #### fa80380690 | ALFRED → LADYARKHAM | x2
 It doesn’t matter what you or I say.
 
-#### 7d0ca6a213-SM | ALFRED → BRUCE | x2
+#### 7d0ca6a213 | ALFRED → BRUCE | x2
 I’m so sorry Master Bruce.
 
-#### 0d86f2278e-SM | BRUCE → ALFRED | x2
+#### 0d86f2278e | BRUCE → ALFRED | x2
 Why would I blame myself?
 
 #### 3a744e3875 | BRUCE, LUCIUS → ALFRED, BATMAN | x4
@@ -394,10 +394,10 @@ Filter out what sounds you can.
 #### ba723d2f43 | BRUCE → LUCIUS | x2
 Alfred was taken thirty-five minutes ago.
 
-#### 948e2daffd-SM | BRUCE → LUCIUS | x2
+#### 948e2daffd | BRUCE → LUCIUS | x2
 i got the video seven.
 
-#### 43281e9cdd-SM | BRUCE → LUCIUS | x2
+#### 43281e9cdd | BRUCE → LUCIUS | x2
 I received the video in the last seven minutes.
 
 #### 00352aa44d | BRUCE → LUCIUS | x2
@@ -418,10 +418,10 @@ We just have to find it.
 #### 21fc3502a0 | BRUCE → LUCIUS | x2
 Using the Bat computer I can recreate the room Alfred’s being held in off the reflection on his glasses.
 
-#### b78d64ffe5-LM | LUCIUS → BRUCE | x2
+#### b78d64ffe5 | LUCIUS → BRUCE | x2
 You created?
 
-#### 8026abd19e-SM | BRUCE → LUCIUS | x2
+#### 8026abd19e | BRUCE → LUCIUS | x2
 I got to do something during the day besides train and sleep.
 
 #### ee3900d534 | LUCIUS → BRUCE | x2
@@ -463,7 +463,7 @@ Get down to the ambient noise surrounding them.
 #### a956ee71e1 | BRUCE → LUCIUS | x2
 The city will help us find Alfred.
 
-#### 140d831eee-SM | BRUCE → LUCIUS | x2
+#### 140d831eee | BRUCE → LUCIUS | x2
 I’ve narrowed it down to two possible regions within the search radius.
 
 #### fa2d4904df | LUCIUS → BRUCE | x2
@@ -649,7 +649,7 @@ X marks the spot.
 #### ef451e636e | BRUCE → LUCIUS | x2
 This house belonged to the Vales.
 
-#### 93c5a15e6b-SM | LUCIUS → BRUCE | x2
+#### 93c5a15e6b | LUCIUS → BRUCE | x2
 But I thought...
 
 #### 216364f4a8 | BRUCE → LUCIUS | x2
@@ -706,7 +706,7 @@ Your father took away my family.
 #### ca47a527a6 | LADYARKHAM → BATMAN | x2
 Now I’ll take away what’s left of yours.
 
-#### 7fb726d444-LM | LADYARKHAM → BRUCE | x2
+#### 7fb726d444 | LADYARKHAM → BRUCE | x2
 You can’t buy your way out of my vengeance the way you used your wealth and influence to escape Arkham Asylum.
 
 #### 0dba5de66e | LADYARKHAM | x2
@@ -820,7 +820,7 @@ It might not have all the tech and gadgets.
 #### 62b731514d | LUCIUS → BRUCE | x2
 But it should still scare the crap out of criminals.
 
-#### 55c3a9cee2-SM | LUCIUS → BRUCE | x2
+#### 55c3a9cee2 | LUCIUS → BRUCE | x2
 I was always fond of this design.
 
 #### 3c6552e696 | LUCIUS → BATMAN | x2
@@ -847,7 +847,7 @@ Tell him how much you love him, Alfred.
 #### cb4e19da49 | LADYARKHAM → BRUCE, ALFRED | x4
 This could be your last chance.
 
-#### 9f04c32049-SM | ALFRED → BRUCE | x4
+#### 9f04c32049 | ALFRED → BRUCE | x4
 I’m so sorry, Master Bruce...
 
 #### c7ccb54e85 | LADYARKHAM → ALFRED | x2
@@ -883,7 +883,7 @@ Nothing we can’t handle.
 #### 20ce98b614 | choice/UI → ALFRED | x2
 As bad as it gets.
 
-#### 3cd641b356-SM | ALFRED → BRUCE | x2
+#### 3cd641b356 | ALFRED → BRUCE | x2
 I’m sorry Master Bruce.
 
 #### 64bfa30191 | BRUCE → ALFRED | x2
@@ -919,7 +919,7 @@ But you’ll never be free of my vengeance.
 #### c3635bf215 | LADYARKHAM → BRUCE | x2
 So run and try to hide like the coward you are.
 
-#### 8f1592fdad-LF | LUCIUS → LADYARKHAM | x2
+#### 8f1592fdad | LUCIUS → LADYARKHAM | x2
 What did you find out?
 
 #### 070e433843 | BRUCE → LADYARKHAM | x2
@@ -940,7 +940,7 @@ This is as bad as it gets.
 #### d5a2f60fd9 | LUCIUS → BRUCE | x2
 I know how important Alfred is to you, Bruce.
 
-#### 1cd8301d40-LM | LUCIUS → BRUCE | x2
+#### 1cd8301d40 | LUCIUS → BRUCE | x2
 You’re not alone here.
 
 #### 2cc917ba5f | LUCIUS → BRUCE | x2
@@ -1045,7 +1045,7 @@ I feel responsible.
 #### efe02edc39 | BRUCE → LUCIUS | x2
 There’s no time to waste.
 
-#### 62462a7436-SM | LUCIUS → LADYARKHAM | x2
+#### 62462a7436 | LUCIUS → LADYARKHAM | x2
 It doesn’t protect much more than your {AmusedA}identity, I’m afraid.
 
 #### c2599c47ec | LADYARKHAM → LUCIUS | x2
@@ -1063,7 +1063,7 @@ Hide like the coward you are.
 #### 235cc3b326 | LADYARKHAM → LUCIUS | x2
 So run and hide like the Wayne coward you are.
 
-#### b1b5d5d073-SF | LADYARKHAM → LUCIUS | x2
+#### b1b5d5d073 | LADYARKHAM → LUCIUS | x2
 Anything I could want from you.
 
 #### 01803126a4 | LADYARKHAM → LUCIUS | x2
@@ -1087,7 +1087,7 @@ Why would Lady Arkham do this to Alfred?
 #### 8c4956ac34 | BRUCE → LUCIUS | x2
 She’s trying to punish me.
 
-#### e712978a24-SM | BRUCE → LUCIUS | x2
+#### e712978a24 | BRUCE → LUCIUS | x2
 Vicki is furious I got out of Arkham Asylum.
 
 #### 9f0fb9b1d5 | BRUCE → LUCIUS | x2
@@ -1129,7 +1129,7 @@ She has to deal with Gotham first.
 #### f83aa2fdd8 | BRUCE | x2
 She wants me out of the way, because she not’s done with me yet.
 
-#### 25d5d84fc5-SM | BRUCE → LUCIUS | x2
+#### 25d5d84fc5 | BRUCE → LUCIUS | x2
 Tonight I put an end to Lady Arkham.
 
 #### 818dfb9b2d | BRUCE → LUCIUS | x2
@@ -1180,7 +1180,7 @@ In no way is this your fault.
 #### a121bab698 | LUCIUS | x2
 I just want you to know...
 
-#### dc67cf88dc-L? | LUCIUS | x2
+#### dc67cf88dc | LUCIUS | x2
 I hope you don’t blame yourself....
 
 #### da39a0018f | LUCIUS | x2
@@ -1207,10 +1207,10 @@ Alfred knows the risks...
 #### 35b4c3135a | BRUCE → LUCIUS | x2
 He believed in The Batman when even I didn’t think it was possible.
 
-#### 16052ca5bd-LM | LUCIUS → BRUCE | x2
+#### 16052ca5bd | LUCIUS → BRUCE | x2
 I think Alfred would have helped you no matter what path you chose.
 
-#### d0182ca33f-SM | BRUCE → LUCIUS | x2
+#### d0182ca33f | BRUCE → LUCIUS | x2
 Even if I did feel guilty, there’s no time.
 
 #### d92a7b6183 | BRUCE → LUCIUS | x2
@@ -1222,22 +1222,22 @@ That’s the only thing that matters now.
 #### ce87ee3225 | LUCIUS → BRUCE | x2
 I’ll help you however I can...
 
-#### 6910bb4925-SM | BRUCE → LUCIUS | x2
+#### 6910bb4925 | BRUCE → LUCIUS | x2
 I could have stopped Lady Arkham back at the skyrail.
 
-#### 44b1db1b69-SM | BRUCE → LUCIUS | x2
+#### 44b1db1b69 | BRUCE → LUCIUS | x2
 If only I had figured out Lady Arkham was Vicki Vale sooner....
 
 #### 83ba4c85f1 | BRUCE → LUCIUS | x2
 Alfred would never have gotten hurt....
 
-#### 685505238b-LM | LUCIUS → BRUCE | x2
+#### 685505238b | LUCIUS → BRUCE | x2
 You cannot beat yourself up.
 
 #### 2be77f268f | LUCIUS → BRUCE | x2
 That won’t help us get Alfred back...
 
-#### a7febeb194-LM | BRUCE → LUCIUS | x2
+#### a7febeb194 | BRUCE → LUCIUS | x2
 You’re right...
 
 #### 35e3250bb8 | LUCIUS → BRUCE | x2
@@ -1330,7 +1330,7 @@ We’re getting him back alive.
 #### d0c2fae85f | BRUCE → LUCIUS | x2
 End of discussion.
 
-#### bf69ef35f9-SM | LUCIUS → BRUCE | x2
+#### bf69ef35f9 | LUCIUS → BRUCE | x2
 Bruce, I’m sorry...
 
 #### fe0d69407d | LUCIUS → BRUCE | x2
@@ -1348,7 +1348,7 @@ We’ll make sure it doesn’t come to that.
 #### dba19b7cb1 | LUCIUS → BRUCE | x2
 I didn’t mean to upset you, Bruce.
 
-#### 4c4a763731-SM | LUCIUS → BRUCE | x2
+#### 4c4a763731 | LUCIUS → BRUCE | x2
 Sorry I even brought it up.
 
 #### a862291e9c | LUCIUS → BRUCE | x2
@@ -1360,10 +1360,10 @@ It would destroy me.
 #### 9502d08cb1 | BRUCE → LUCIUS | x2
 Alfred has been the one constant in my entire life.
 
-#### fec9a313c5-SM | BRUCE → LUCIUS | x2
+#### fec9a313c5 | BRUCE → LUCIUS | x2
 To lose him like I lost my parents...
 
-#### 0a70fe9d72-SM | BRUCE → LUCIUS | x2
+#### 0a70fe9d72 | BRUCE → LUCIUS | x2
 I’m not sure what I would do...
 
 #### c429ac44fa | LUCIUS → BRUCE | x2
@@ -1375,7 +1375,7 @@ I have something to help you out.
 #### 74f56349db | BRUCE → LUCIUS | x2
 What is {ConfusedA}that?
 
-#### c70189bdf4-SM-LM | LUCIUS → BRUCE | x2
+#### c70189bdf4 | LUCIUS → BRUCE | x2
 Since you were able to keep Penguin out of the batcomputer, I had the resources to make some upgrades to your suit.
 
 #### 3e074b99ec | LUCIUS → BRUCE | x2
@@ -1414,13 +1414,13 @@ Don’t worry.  {AmusedA}There’s a stealth mode.
 #### 20f509cba9 | BRUCE → LUCIUS | x2
 Wow.{SmugA}
 
-#### a3a0148f30-LM | BRUCE → LUCIUS | x2
+#### a3a0148f30 | BRUCE → LUCIUS | x2
 You’ve really outdone yourself Lucius.
 
 #### ef42d002a8 | LUCIUS → BRUCE | x2
 Wait till you try it.
 
-#### 5e80d5b8ae-SM | LUCIUS → BRUCE | x2
+#### 5e80d5b8ae | LUCIUS → BRUCE | x2
 I’ve made a few modifications.
 
 #### aeb1186b50 | LUCIUS → BRUCE | x2
@@ -1444,7 +1444,7 @@ Holo-Vision and the like.
 #### bb247ad416 | LUCIUS → BRUCE | x2
 But otherwise it’s quite limited.
 
-#### 0fd6aec3b8-SM | LUCIUS → BATMAN | x2
+#### 0fd6aec3b8 | LUCIUS → BATMAN | x2
 It doesn’t protect much more than your identity, I’m afraid.
 
 #### 640cb4468f | BATMAN → LUCIUS | x2
@@ -1714,7 +1714,7 @@ how are we going to find Alfred?
 #### f0e710c2fa | LUCIUS → BATMAN, BRUCE | x6
 What are you going to do when you find Lady Arkham?
 
-#### 80930b2330-SM | BRUCE → LUCIUS | x2
+#### 80930b2330 | BRUCE → LUCIUS | x2
 I’m not afraid of a trap.
 
 #### 1ec9f6c68e | BRUCE → LUCIUS | x2
@@ -1765,7 +1765,7 @@ Don’t despair, Lucius.
 #### a550060c8f | LADYARKHAM → LUCIUS | x2
 You deserve pain.
 
-#### a6d3369b21-LF | LADYARKHAM → ADYARKHAM | x2
+#### a6d3369b21 | LADYARKHAM → ADYARKHAM | x2
 But instead of accepting the fate you deserve, you used bribery and corrupt authority to deny it.
 
 #### a9ca3d1135 | LADYARKHAM → ADYARKHAM | x2
@@ -1774,7 +1774,7 @@ You deserve suffering.
 #### 963a6cd62f | LADYARKHAM | x2
 You should be rotting in a padded cell.
 
-#### 4bfc192d63-L? | LADYARKHAM | x2
+#### 4bfc192d63 | LADYARKHAM | x2
 But instead of accepting the fate you deserve, you used your stolen wealth and influence to deny it.
 
 #### 952967d80e | LADYARKHAM | x2
@@ -1828,7 +1828,7 @@ We have to keep a cool head, {ThinkingA}Lucius.
 #### 9a05f2dc18 | BRUCE → LUCIUS | x2
 Worrying isn’t going to help Alfred. We need to {AngryB}focus.
 
-#### 9ac988295a-LM | LUCIUS → BRUCE | x4
+#### 9ac988295a | LUCIUS → BRUCE | x4
 You’re right. Let’s get started.
 
 #### 1cf6cbb56e | BRUCE → LUCIUS | x2
@@ -1849,7 +1849,7 @@ But I trust you.
 #### 8cb09c4db5 | BRUCE → LUCIUS | x2
 Alfred was taken a little less than an hour ago.
 
-#### 4a705df964-SM | BRUCE → LUCIUS | x2
+#### 4a705df964 | BRUCE → LUCIUS | x2
 I received the video in the last ten minutes.
 
 #### 29c92a34a8 | LUCIUS → BRUCE | x2
@@ -1891,13 +1891,13 @@ I didn’t know he served.
 #### 0223e65f87 | BRUCE → LUCIUS | x2
 He doesn’t talk about it much. It was before he became my family’s butler.
 
-#### 79c4274b3e-SM | LUCIUS → BRUCE | x2
+#### 79c4274b3e | LUCIUS → BRUCE | x2
 The man does have a remarkable calmness. I always just thought it was was from serving rich people, not from serving in the military.
 
 #### 72d703a9b9 | LUCIUS → BRUCE | x2
 I’d believe he’s seen some things in his day.
 
-#### d6038649d6-SM | BRUCE → LUCIUS | x2
+#### d6038649d6 | BRUCE → LUCIUS | x2
 Lucius--I’m worried too--
 
 #### ab8384d9e6 | BRUCE → LUCIUS | x2
@@ -1933,13 +1933,13 @@ Something I almost didn’t get to finish {SkepticalA}because of Penguin...
 #### 4c9d9c9c14 | LUCIUS → BRUCE | x2
 Upgrades to your suit.
 
-#### a1943447a4-LM | LUCIUS → BRUCE | x2
+#### a1943447a4 | LUCIUS → BRUCE | x2
 But since you stopped him...
 
 #### c019db29d9 | BRUCE → LUCIUS | x2
 If I don’t have any other choice...
 
-#### 8f9be36903-LM | LUCIUS → BRUCE | x2
+#### 8f9be36903 | LUCIUS → BRUCE | x2
 I’d tell you if you did.
 
 #### 5698d31146 | choice/UI → LUCIUS | x2
@@ -2023,7 +2023,7 @@ It shouldn’t take long.
 #### e029e17a8c | BRUCE → LUCIUS | x2
 Lady Arkham thinks she holds all the cards.
 
-#### 772d3fa623-SM-LM | LUCIUS → BRUCE | x2
+#### 772d3fa623 | LUCIUS → BRUCE | x2
 At least you won’t have to worry about Lady Arkham attacking you with drones--I’ve made sure of that.
 
 #### ad46489536 | BRUCE → LUCIUS | x2
@@ -2101,7 +2101,7 @@ This is my fault, Lucius.
 #### 60e9bd1cac | BRUCE, choice/UI → LUCIUS | x3
 Alfred is strong.
 
-#### bf891063c3-SM | BRUCE → LUCIUS | x2
+#### bf891063c3 | BRUCE → LUCIUS | x2
 I’m responsible for this.
 
 #### 1f2a333a3a | LUCIUS → BRUCE | x2
@@ -2113,7 +2113,7 @@ Alfred is paying for the things my family has done.
 #### 8a6520f015 | BRUCE → LUCIUS | x2
 This is my responsibility.
 
-#### a5c03ef0a9-SM | BRUCE → LUCIUS | x2
+#### a5c03ef0a9 | BRUCE → LUCIUS | x2
 He’ll hold out, but I need to find him.
 
 #### 34ed07b5f4 | LUCIUS → BRUCE | x2
@@ -2263,7 +2263,7 @@ The feed is still offline.
 #### 5638ed1988 | BRUCE | x2
 Alfred’s trying to look at things that might give us a clue to where he’s being held.
 
-#### 70c4a80d6c-SM | BRUCE | x2
+#### 70c4a80d6c | BRUCE | x2
 Lady Arkham will have no idea what I’ve got up these sleeves…
 
 #### ef0e86b030 | BRUCE → LUCIUS | x2

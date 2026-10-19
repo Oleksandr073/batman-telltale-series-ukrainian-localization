@@ -28,10 +28,10 @@ Then I’ll make my move.
 #### a194887245 | BATMAN → ALFRED | x2
 Their lives are the priority now.
 
-#### 253f5dc1d2-LM | ALFRED → BATMAN | x2
+#### 253f5dc1d2 | ALFRED → BATMAN | x2
 You’ll be handing yourself up on a platter.
 
-#### a4c6f17f53-LM | ALFRED → BATMAN | x2
+#### a4c6f17f53 | ALFRED → BATMAN | x2
 I sincerely hope you’re right...
 
 #### 20e256ba03 | ALFRED → BRUCE | x2
@@ -49,7 +49,7 @@ Understood, Bruce.
 #### cee1c48993 | BATMAN → ALFRED | x2
 Alfred -- are you safe?
 
-#### 911240a0e1-SM | ALFRED → BATMAN | x2
+#### 911240a0e1 | ALFRED → BATMAN | x2
 Yes. I’m barricaded in the batcave.
 
 #### 420f2fcecf | ALFRED → BATMAN | x2
@@ -103,7 +103,7 @@ In any case, it’s not a risk I’m willing to take.
 #### 61e3ea3c22 | ALFRED → BATMAN | x2
 But it might be your best chance.
 
-#### 0b3429bebd-SM | ALFRED → BATMAN | x2
+#### 0b3429bebd | ALFRED → BATMAN | x2
 I heard gunshots but then Harvey’s men disabled the cameras.
 
 #### 4fe6f13db9 | ALFRED → BATMAN | x2
@@ -145,7 +145,7 @@ Perhaps there’s a way to turn it to your advantage?
 #### c1fe3a7b48 | ALFRED | x2
 AAAAA
 
-#### 3242d85a3f-L? | ALFRED | x2
+#### 3242d85a3f | ALFRED | x2
 Well. I assume you’ve thought of something.
 
 #### b0386976ec | ALFRED | x2
@@ -157,7 +157,7 @@ You can certainly overpower mister Dent, should it come to that.
 #### 285e8477f6 | ALFRED → BATMAN | x2
 It may be your best chance.
 
-#### 6a556f962a-LM | ALFRED → BATMAN | x2
+#### 6a556f962a | ALFRED → BATMAN | x2
 I’ll be standing by if you need me.
 
 #### c4c1ab31fa | BATMAN → ALFRED | x2

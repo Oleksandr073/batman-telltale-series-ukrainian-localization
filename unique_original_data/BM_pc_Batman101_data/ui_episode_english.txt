@@ -89,13 +89,13 @@ Falcone will remember that.
 #### 50d670e7f5 | choice/UI | x10
 Gotham will hear of this.
 
-#### 0c2593e356-L? | choice/UI | x8
+#### 0c2593e356 | choice/UI | x8
 You let Vicki stay.
 
 #### 12d6751bfa | choice/UI | x10
 Vicki will remember that.
 
-#### 5e1a15754f-L? | choice/UI | x8
+#### 5e1a15754f | choice/UI | x8
 You let Harvey off the hook.
 
 #### 75caf5df73 | choice/UI | x10

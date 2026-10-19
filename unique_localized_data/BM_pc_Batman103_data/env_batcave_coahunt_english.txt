@@ -199,10 +199,10 @@ Gotham Courthouse. Sanctus is able to hear anything--case files, material witnes
 #### 0d823509d6 | ALFRED → BRUCE | x2
 How did it get this bad? What began as a land grab is now manipulating nearly every aspect of Gotham life.
 
-#### 2e6f1c9bc0-LM | BRUCE → ALFRED | x2
+#### 2e6f1c9bc0 | BRUCE → ALFRED | x2
 You bear some of the responsibility here, hiding what you knew.
 
-#### 80338ef5b5-LM | BRUCE → ALFRED | x2
+#### 80338ef5b5 | BRUCE → ALFRED | x2
 There’s no way that you could have known what it would become.
 
 #### 6118b5f549 | choice/UI → ALFRED | x2
@@ -217,7 +217,7 @@ Some people will do anything for money.
 #### 06b76b375b | ALFRED → BRUCE | x2
 Bruce, your parents--[loved you.]
 
-#### ca6587b68d-SM | BRUCE → ALFRED | x2
+#### ca6587b68d | BRUCE → ALFRED | x2
 None of their reasons matter now, Alfred. I need to fix what they put into motion.
 
 #### 04ebae91df | BRUCE → ALFRED | x2
@@ -232,7 +232,7 @@ We need to figure out what the Children of Gotham could do with Sanctus.
 #### 7d8b085693 | ALFRED → BRUCE | x2
 Perhaps locating them would be a start.
 
-#### 90be81cff9-SM | BRUCE → ALFRED | x2
+#### 90be81cff9 | BRUCE → ALFRED | x2
 I’m sure that I could find one of them to shake down...
 
 #### 872379f55a | ALFRED → BRUCE | x2
@@ -256,7 +256,7 @@ Until now. I have to stop this.
 #### e63c6e5989 | ALFRED → BRUCE | x2
 Bruce, your father was--
 
-#### 2d4011308a-SM | BRUCE → ALFRED | x2
+#### 2d4011308a | BRUCE → ALFRED | x2
 A criminal, Alfred. He may have loved me, and he may have thought I would take over for him, but to call him anything other than a criminal would be dishonest.
 
 #### 745171c858 | BRUCE → ALFRED | x2
@@ -265,7 +265,7 @@ Sanctus was his legacy, and mine to dismantle.
 #### 9541379f47 | ALFRED → BRUCE | x2
 That fact does not resolve an old man of guilt, Bruce.
 
-#### 99758dd035-LM | BRUCE → ALFRED | x2
+#### 99758dd035 | BRUCE → ALFRED | x2
 Then let me. You were protecting me, and I will fight this.
 
 #### 09e005432e | ALFRED → BRUCE | x2
@@ -274,7 +274,7 @@ And I feel the weight of it, seeing this.
 #### 85c527b064 | BRUCE → ALFRED | x2
 You should have told me, Alfred.
 
-#### 93c921a925-SM | ALFRED → BRUCE | x2
+#### 93c921a925 | ALFRED → BRUCE | x2
 I chose my path, Bruce.
 
 #### e9b08c1e25 | ALFRED → BRUCE | x2
@@ -289,52 +289,52 @@ Oswald stole my company.
 #### 91ccd7d56b | choice/UI → ALFRED | x2
 It’s my fault.
 
-#### b2b5368181-LM | choice/UI → ALFRED | x2
+#### b2b5368181 | choice/UI → ALFRED | x2
 You’re right, Alfred
 
-#### cf0f058817-SM | choice/UI → ALFRED | x2
+#### cf0f058817 | choice/UI → ALFRED | x2
 I’m still responsible
 
-#### c757f3fadf-SM | choice/UI → ALFRED | x2
+#### c757f3fadf | choice/UI → ALFRED | x2
 I could’ve done something.
 
-#### 5fcc2b4370-LM | ALFRED → BRUCE | x2
+#### 5fcc2b4370 | ALFRED → BRUCE | x2
 Bruce, it’s all over the news-- you stepped down?
 
 #### 12edd897e9 | ALFRED → BRUCE | x2
 That’s ludicrious.
 
-#### b4b0c0be68-SM | BRUCE → ALFRED | x2
+#### b4b0c0be68 | BRUCE → ALFRED | x2
 Maybe if I’d talked to Oswald more, been on his side.
 
-#### 8139117f10-SM | BRUCE → ALFRED | x2
+#### 8139117f10 | BRUCE → ALFRED | x2
 I could have prevented this from happening.
 
 #### be5efc60fd | ALFRED → BRUCE | x2
 His mind was made up from the beginning.
 
-#### 67fa916df1-SM | BRUCE → ALFRED | x2
+#### 67fa916df1 | BRUCE → ALFRED | x2
 If I’d disagreed with Oswald, pushed back.
 
 #### 7a7e577a0d | BRUCE → ALFRED | x2
 Maybe things would have been different.
 
-#### 6e8274c83e-LM | BRUCE → ALFRED | x2
+#### 6e8274c83e | BRUCE → ALFRED | x2
 You’re right. He’s part of the Children and came back to Gotham for a reason.
 
-#### b7c6334eb2-LM | ALFRED → BRUCE | x2
+#### b7c6334eb2 | ALFRED → BRUCE | x2
 Nothing you could have said would have shifted his agenda.
 
 #### ecf6546461 | BRUCE → ALFRED | x2
 The responsibilty is still mine. I couldn’t stop him and now he has my company.
 
-#### 3914e577f9-SM | ALFRED → BRUCE | x2
+#### 3914e577f9 | ALFRED → BRUCE | x2
 I’m sure that his time in your chair is limited.
 
 #### efa0b8fdab | BRUCE → ALFRED | x2
 The things they’ve been doing...
 
-#### 3c2152ebc0-SM | choice/UI → ALFRED | x2
+#### 3c2152ebc0 | choice/UI → ALFRED | x2
 I found Sanctus.
 
 #### f59a48163d | choice/UI → ALFRED | x2
@@ -358,13 +358,13 @@ We’ll discuss... after the break.
 #### 374d9d3cff | REPORTER01 → ALFRED | x2
 Coming up next, we go in-depth on the recent article by Gotham Gazette reporter Vicki Vale. She claims something sinister is lurking within Wayne Enterprises. With the investigation underway, what do we expect to find?
 
-#### 8939842dae-LM | ALFRED → REPORTER01 | x2
+#### 8939842dae | ALFRED → REPORTER01 | x2
 Seems there are a few things you forgot to mention.
 
-#### b016c85b05-LM | ALFRED → REPORTER01 | x2
+#### b016c85b05 | ALFRED → REPORTER01 | x2
 The reports say you were forcibly removed from the building.
 
-#### 118b2c5c99-LM | ALFRED → REPORTER01 | x2
+#### 118b2c5c99 | ALFRED → REPORTER01 | x2
 The reports say you’ve stepped down.
 
 #### 1385a41bc2 | ALFRED → BRUCE | x2
@@ -382,13 +382,13 @@ You mean?
 #### e652ee94ba | BRUCE → ALFRED | x2
 He’s the new CEO of Wayne Enterprises.
 
-#### baecc91b19-SM | BRUCE → ALFRED | x2
+#### baecc91b19 | BRUCE → ALFRED | x2
 Well, the good news is I found the shadow organization.
 
 #### 0b241c5a06 | BRUCE → ALFRED | x2
 It’s called Sanctus.
 
-#### 49d494db45-SM | ALFRED → BRUCE | x2
+#### 49d494db45 | ALFRED → BRUCE | x2
 If that’s the good news, I’m not sure I want to hear the bad.
 
 #### e9886fc075 | ALFRED → BRUCE | x2
@@ -526,7 +526,7 @@ The GCPD is the only thing that keeps this city together. Imagine the carnage if
 #### 7d9965869a | GORDON → BRUCE | x2
 -- finish your math homework?
 
-#### f5addab77a-LM | GORDON → ALFRED | x2
+#### f5addab77a | GORDON → ALFRED | x2
 Good girl. Did you get your test back today?
 
 #### 7a7bdeeb87 | GORDON → BRUCE | x2
@@ -535,10 +535,10 @@ Well, we’ll have to have that discussion with your teachers--
 #### e4bb81dbee | BRUCE → GORDON | x2
 The Children of Arkham were able to hack and broadcast the debate to every television channel in Gotham. False credentials would be easy for them.
 
-#### 5e12b397e8-LM | ALFRED → GORDON, BRUCE | x4
+#### 5e12b397e8 | ALFRED → GORDON, BRUCE | x4
 Well, before you were...
 
-#### d911452350-LM | ALFRED → BRUCE | x4
+#### d911452350 | ALFRED → BRUCE | x4
 Before you stepped down, were you able to find what you were looking for?
 
 #### f04cb16431 | BRUCE → ALFRED | x4
@@ -607,7 +607,7 @@ They’ve created the perfect monster.
 #### 0c03063c21 | BRUCE → ALFRED | x2
 One capable of outliving all of them. They have eyes and ears in every nook and cranny of Gotham.
 
-#### b60a2feb84-SM | ALFRED → BRUCE | x2
+#### b60a2feb84 | ALFRED → BRUCE | x2
 Their leader is exceptional. I tried to remove the modulation from their voice, but there are too many layers to sort through. They took every precaution to make sure they were never identified. However--
 
 #### ccae7f7ea1 | BRUCE → ALFRED | x2
@@ -619,13 +619,13 @@ There. That’s where they’re going.
 #### 5ebf950bf7 | ALFRED → BRUCE | x2
 The Skyrail Depot.
 
-#### dce887ca31-SM | BATMAN → ALFRED | x2
+#### dce887ca31 | BATMAN → ALFRED | x2
 I need you to monitor from here, Alfred. Let me know if anything changes at the depot before I get there.
 
 #### f330767dbb | ALFRED → BRUCE | x2
 I don’t need to remind you to be careful, do I?
 
-#### 789f0f34e3-SM | BRUCE → ALFRED | x2
+#### 789f0f34e3 | BRUCE → ALFRED | x2
 With Lucius’ help I uncovered Sanctus, but we had to break the firewall around the information.
 
 #### ba11b2d93a | BRUCE → ALFRED | x2
@@ -649,7 +649,7 @@ I suppose dealing with Sanctus will require more than your normal methods.
 #### 358fb8143b | BRUCE → ALFRED | x6
 He won’t. At least not yet.
 
-#### 3902a0991a-LM | ALFRED → BRUCE | x2
+#### 3902a0991a | ALFRED → BRUCE | x2
 Lucky you were able to get this out of there.
 
 #### 3890d6c603 | ALFRED → BRUCE | x2
@@ -667,7 +667,7 @@ If he gets hold of this information...
 #### 312c06cbfa | BRUCE → ALFRED | x2
 This was hidden behind a pretty robust firewall.
 
-#### fe45eeb6fb-SM | BRUCE → ALFRED | x2
+#### fe45eeb6fb | BRUCE → ALFRED | x2
 Lucius and I were able to circumvent it, but I doubt Oswald is even aware it exits.
 
 #### 132c93cfd5 | ALFRED → BRUCE | x2
@@ -697,7 +697,7 @@ Sanctus has control of the security cameras.
 #### 0a8aadc2c5 | BRUCE → ALFRED | x2
 Cameras are all Wayne Tech. Phones, police scanners... that’s how they’re getting in.
 
-#### 491b989307-SM | choice/UI → ALFRED | x2
+#### 491b989307 | choice/UI → ALFRED | x2
 I need to warn Gordon.
 
 #### d5f1506e1e | choice/UI → ALFRED | x2
@@ -742,16 +742,16 @@ I have to warn Jim.
 #### f35d0e0a5b | ALFRED → GORDON | x2
 If he’s being watched, you’ll need to be cautious.
 
-#### 94ebde4dec-SM | GORDON → ALFRED | x2
+#### 94ebde4dec | GORDON → ALFRED | x2
 I’m not sure. I --
 
-#### e7bf104246-SM | GORDON → BRUCE | x2
+#### e7bf104246 | GORDON → BRUCE | x2
 I’m sorry, Babs. I have to go.
 
 #### c0f79a072e | ALFRED, BATMAN → BRUCE, HARVEY | x4
 What about Gordon?
 
-#### 9455caacb2-SM | BRUCE → GORDON | x2
+#### 9455caacb2 | BRUCE → GORDON | x2
 I’m not sure if I can trust him. For now, this stays between us.
 
 #### e5dc2eb525 | BRUCE → ALFRED | x4
@@ -823,7 +823,7 @@ Not a Sanctus location at least. But the land is held by Wayne Enterprises.
 #### 7aabba6333 | BRUCE → ALFRED | x2
 With Oswald in charge, they’re putting their plan in motion.
 
-#### 9c97b7594b-SM | BRUCE → ALFRED | x2
+#### 9c97b7594b | BRUCE → ALFRED | x2
 I could kiss you, Alfred.
 
 #### 4be2ebb04b | BRUCE → ALFRED | x2
@@ -841,7 +841,7 @@ Here they are.
 #### 5e4b4478ae | BRUCE → ALFRED | x2
 This is the site of the new Mental Health Facility.
 
-#### 6b197fa854-SM | BRUCE → ALFRED | x2
+#### 6b197fa854 | BRUCE → ALFRED | x2
 I was told the land was vacant.
 
 #### 93b9336839 | ALFRED → BRUCE | x2
@@ -892,10 +892,10 @@ This must have been how the Children of Arkham were able to compromise the GCPD�
 #### 80e0cd673d | ALFRED → BRUCE | x2
 Because Sanctus has control over all the surveillance.
 
-#### 35fc067160-SM | BRUCE → GROGAN | x2
+#### 35fc067160 | BRUCE → GROGAN | x2
 So Gordon and I were right all along. At least now we have a name to go after.
 
-#### e78589f25a-SM | COMMISSIONER → BRUCE | x2
+#### e78589f25a | COMMISSIONER → BRUCE | x2
 Look, I need all this tech cleared out by midnight tonight. If we’re being bugged we need a full sweep of everything.
 
 #### ba8c491476 | GROGAN → GORDON | x2
@@ -919,7 +919,7 @@ If it’s got a god damn “W” on it, it goes in the dumpster.
 #### 07bbd4ecf1 | CIVILIAN01 → COMMISSIONER | x2
 Account #4561892. Deposit of $50,000. Account #3287055. Deposit of $22,000.
 
-#### fb44d93e07-L? | CIVILIAN02 → CIVILIAN01 | x2
+#### fb44d93e07 | CIVILIAN02 → CIVILIAN01 | x2
 Hey, did you get the new passcode for the vaults? My computer is on the fritz.
 
 #### c576aba8da | CIVILIAN01 → CIVILIAN02 | x2
@@ -943,28 +943,28 @@ Who needs to break in when you can just listen in for the vault passcodes?
 #### 5fa1409a15 | HARVEY → BRUCE | x2
 The whole thing was a disaster!
 
-#### 7a9e8e6aec-S?-LM | ASSISTANT → HARVEY | x2
+#### 7a9e8e6aec | ASSISTANT → HARVEY | x2
 No, no! I thought you looked great, Mister Dent!
 
 #### 04062d076c | HARVEY → ASSISTANT | x2
 Don’t coddle me!
 
-#### 31b917db4d-SM | HARVEY → ASSISTANT | x2
+#### 31b917db4d | HARVEY → ASSISTANT | x2
 Oh god. I’m sorry Deborah. I didn’t mean to...
 
 #### 74d8bc3a06 | ASSISTANT → HARVEY | x2
 It’s... it’s okay, Mister Dent. Maybe you should head home early.
 
-#### 8630806ec4-SM | HARVEY → ASSISTANT | x2
+#### 8630806ec4 | HARVEY → ASSISTANT | x2
 No, no. I’m fine. Can you connect me to that cell number I gave you?
 
 #### 55d16ba8a1 | HARVEY → SELINA | x2
 Hi, Selina? It’s Harvey. I just... I just haven’t talked to you in a while and I...
 
-#### 161df67df7-SM | HARVEY → ASSISTANT | x2
+#### 161df67df7 | HARVEY → ASSISTANT | x2
 It’s just been rough. With the Mayor’s Seat and these Children of Arkham... well, that’s nothing for you to worry about. I was just...
 
-#### 2022d2ec5c-SM | HARVEY → REGINA | x2
+#### 2022d2ec5c | HARVEY → REGINA | x2
 I was hoping to see you. For coffee maybe? Gimme a call back. I... I’d really like to hear your voice.
 
 #### 874076b8b2 | REGINA → HARVEY | x2
@@ -988,7 +988,7 @@ He’s a smart kid. But he should’ve put his intelligence into this company in
 #### 97e39a90ae | ALFRED → BOB | x2
 Bob Zellerbach is a little too prickly for my tastes. But Regina has always had a soft spot for you.
 
-#### 85fb406669-LM | REGINA → BOB | x2
+#### 85fb406669 | REGINA → BOB | x2
 Don’t say that. I know you were fond of him.
 
 #### 8f8a22b44f | BOB → ALFRED | x2
@@ -997,7 +997,7 @@ Of course I’m fond of him. But we can’t change what’s happened. We have to
 #### b12dde6b1f | ASSISTANT → ALFRED | x2
 Yes, sir. Sorry.
 
-#### 5ed991b40e-SM | ALFRED → BRUCE | x2
+#### 5ed991b40e | ALFRED → BRUCE | x2
 I was able to pinpoint the frequency they used to hijack the debate coverage, and...
 
 #### 004044e0ad | choice/UI → REGINA | x2
@@ -1054,7 +1054,7 @@ And it seems there’s no end to the secrets he hid from you.
 #### 8283d59174 | choice/UI → ALFRED | x2
 I don’t want easy.
 
-#### 78ca18ea33-LM | choice/UI → ALFRED | x2
+#### 78ca18ea33 | choice/UI → ALFRED | x2
 At least I have you.
 
 #### eed728b956 | choice/UI → ALFRED | x2
@@ -1066,7 +1066,7 @@ I don’t know, having it easy... sounds a little boring.
 #### af53bba951 | ALFRED → BRUCE | x2
 Perhaps that’s why you never take a vacation.
 
-#### 7c804ff0bb-SM-LM | BRUCE → ALFRED | x2
+#### 7c804ff0bb | BRUCE → ALFRED | x2
 That’s why I’m glad I have you, Al.
 
 #### e5eebbb8bd | BRUCE → ALFRED | x2
@@ -1075,7 +1075,10 @@ Yeah, I wouldn’t mind easy for a change.
 #### 2c8ed63529 | ALFRED → BRUCE | x2
 Someday.
 
-#### 3dab2bf483-SM | ALFRED, HARVEY, LUCIUS → BRUCE | x17
+#### 3dab2bf483-SM | ALFRED, REGINA, HARVEY, LUCIUS → BRUCE | x23 | speaker: male
+I’m sorry, Bruce.
+
+#### 3dab2bf483-SF | ALFRED, REGINA, HARVEY, LUCIUS → BRUCE | x23 | speaker: female
 I’m sorry, Bruce.
 
 #### 27fe66f68d | choice/UI → ALFRED | x2
@@ -1084,7 +1087,7 @@ We have a job to do.
 #### f811517046 | BRUCE → ALFRED | x2
 We have a job to do, Alfred.
 
-#### 9516aa8118-LM | ALFRED → BRUCE | x2
+#### 9516aa8118 | ALFRED → BRUCE | x2
 You said you thought you knew how to find the Voice.
 
 #### 7f16a625e1 | BRUCE → ALFRED | x2
@@ -1093,7 +1096,7 @@ Vicki was recording our conversation. I’m willing to bet she did the same with
 #### aa97a88fde | BRUCE → ALFRED | x2
 Maybe there’s something there.
 
-#### fcb2eccf55-SM | ALFRED → BRUCE | x2
+#### fcb2eccf55 | ALFRED → BRUCE | x2
 I’m surprised she wouldn’t just tell you.
 
 #### fdd5e7a933 | BRUCE → ALFRED | x2
@@ -1126,13 +1129,13 @@ I know the evidence against me looks bad, but she’s still on our side. She’s
 #### b51c2e6549 | ALFRED → BRUCE | x2
 That’s the best we can hope for.
 
-#### a6d1ad66aa-LM | ALFRED → BRUCE | x2
+#### a6d1ad66aa | ALFRED → BRUCE | x2
 I guess you’re not surprised then.
 
 #### a2da75c13b | ALFRED → BRUCE | x2
 So how do you plan to find the interview?
 
-#### 7c31018b8f-SM | BRUCE → ALFRED | x2
+#### 7c31018b8f | BRUCE → ALFRED | x2
 She mentioned handing it off to her editor. If I can access their files I’m sure I can find it.
 
 #### 67e16e7612 | ALFRED → BRUCE | x2
@@ -1186,10 +1189,10 @@ This... doesn’t feel right. Knowing what this was built to do...
 #### 2666bde50e | ALFRED → BRUCE | x2
 If there’s anyone I trust with something like this, it’s you.
 
-#### 4a5cf41960-SM | ALFRED → BRUCE | x2
+#### 4a5cf41960 | ALFRED → BRUCE | x2
 Not really it’s intended purpose, I’m sure.
 
-#### b289943fad-SM | ALFRED → BRUCE | x2
+#### b289943fad | ALFRED → BRUCE | x2
 Well I’m glad we could find a way to make some good come from this.
 
 #### 610dfc04ed | BRUCE → ALFRED | x2
@@ -1228,7 +1231,7 @@ One less problem to deal with.
 #### 2e2503de2b | BRUCE → HARVEY | x2
 Or it could be used to plan an escape.
 
-#### 3655e6a259-SM | HARVEY → SELINA | x2
+#### 3655e6a259 | HARVEY → SELINA | x2
 Hey, Selina... Look, I’m sorry. For the other day...
 
 #### 9c7671c7d3 | HARVEY → BRUCE | x2
@@ -1300,7 +1303,7 @@ Look.
 #### 805bfc283f | BRUCE → ALFRED | x2
 This is Vicki’s interview with Batman.
 
-#### a6f79d7a9f-LM | ALFRED → BRUCE | x2
+#### a6f79d7a9f | ALFRED → BRUCE | x2
 She didn’t get much from you did she?
 
 #### e4e8fe754c | ALFRED → BRUCE | x2
@@ -1336,7 +1339,7 @@ Wonder if anyone was listening in that night.
 #### c893644928 | ALFRED → BRUCE | x2
 The debate...
 
-#### 8027e93b0a-SM | BRUCE → ALFRED | x2
+#### 8027e93b0a | BRUCE → ALFRED | x2
 I need to find the Children of Arkham and figure out what they’re planning.
 
 #### ab1ab7adaa | ALFRED → BRUCE | x2
@@ -1375,7 +1378,7 @@ But it was over the phone.
 #### cb7daa9e09 | ALFRED → BRUCE | x2
 Sounds like you’re not the only one running on fumes and a prayer.
 
-#### 6370b9ef04-LM | BRUCE → ALFRED | x2
+#### 6370b9ef04 | BRUCE → ALFRED | x2
 That why you brought me coffee? It’s usually tea.
 
 #### fd35c475e0 | ALFRED → BRUCE | x2
@@ -1390,7 +1393,7 @@ I have work to do.
 #### dfc57b5d98 | ALFRED → ATTORNEY | x2
 You have work to do.
 
-#### 2bd55dbc09-S? | ATTORNEY → BRUCE | x2
+#### 2bd55dbc09 | ATTORNEY → BRUCE | x2
 Look, I need Section 9 witness statements against Paul Dekker.
 
 #### 6a8191a163 | ATTORNEY → JANITOR | x2
@@ -1405,7 +1408,7 @@ God, that’s a lot of blood. [calling out]Jim get the hell out here!
 #### 7d63851b9b | JANITOR → ATTORNEY | x2
 This is gonna take all damn day.
 
-#### 05b3d5b857-S? | DOCTOR → JANITOR | x2
+#### 05b3d5b857 | DOCTOR → JANITOR | x2
 The drug in her system... I can’t find anything about it in our records. I even started looking in the old undigitized files. Nothing.
 
 #### 67d9b70d89 | ORDERLY02 → DOCTOR | x2
@@ -1420,7 +1423,7 @@ Need another cup of coffee?
 #### 659db68e23 | DOCTOR → ORDERLY02 | x2
 If there’s any left. I think I drank it all.
 
-#### 9605ba5565-S?-L? | ORDERLY02 → DOCTOR | x2
+#### 9605ba5565 | ORDERLY02 → DOCTOR | x2
 I’ve got you covered.
 
 #### 6a3e39ec7c | ORDERLY01 → ORDERLY02 | x2
@@ -1432,7 +1435,7 @@ Not after what happened.
 #### 6d87a4e5b5 | ORDERLY01 → ORDERLY02 | x2
 Yeah, who’s gonna risk opening a new hospital with Thomas Wayne’s name on it.
 
-#### 5605a62c98-L? | ORDERLY01 → ORDERLY02 | x2
+#### 5605a62c98 | ORDERLY01 → ORDERLY02 | x2
 You got that discharge for Wesker?
 
 #### 3667ef42d3 | ORDERLY02 → ORDERLY01 | x2
@@ -1537,7 +1540,7 @@ And they could find the perfect moment to attack him again.
 #### cf2154b03c | BRUCE → ALFRED | x2
 I’ve seen enough.
 
-#### 7747dea703-SM | HARVEY → BRUCE | x2
+#### 7747dea703 | HARVEY → BRUCE | x2
 Deborah! Get the Commissioner on the phone, please. I need an update on that task force.
 
 #### 69fbab0f54 | choice/UI → HARVEY | x4
@@ -1576,7 +1579,7 @@ Gotham Hall of Justice. All public records pass through this place.
 #### 9c902d3c59 | BATMAN, BRUCE → LADYARKHAM, ALFRED | x6
 To what end?
 
-#### 096281f7dd-LM | ALFRED → BRUCE | x2
+#### 096281f7dd | ALFRED → BRUCE | x2
 Lieutenant Gordon got in touch while you were out.
 
 #### 951e9eb89c | ALFRED → BRUCE | x2
@@ -1708,10 +1711,10 @@ Access.
 #### 37211ffada | choice/UI → COMMISSIONER | x2
 Check Lucius’s Drive.
 
-#### 80816b1776-SM | COMMISSIONER → BRUCE | x2
+#### 80816b1776 | COMMISSIONER → BRUCE | x2
 The understatement of the century, considering I’ve got at least one of my guys in the ER.
 
-#### 54d2310f50-SM | GROGAN → COMMISSIONER | x2
+#### 54d2310f50 | GROGAN → COMMISSIONER | x2
 Well that’s the understatement of the century, considering I’ve got at least one of my guys in the ER.
 
 #### 625a628c52 | GROGAN → COMMISSIONER | x2

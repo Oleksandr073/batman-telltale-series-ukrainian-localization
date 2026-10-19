@@ -4,7 +4,7 @@ Bad
 #### 18282db8f1 | choice/UI → GOON01 | x2
 He needs medical treatment
 
-#### 8d94f2b636-LM | GOON01 → GORDON | x2
+#### 8d94f2b636 | GOON01 → GORDON | x2
 You’re done, Gordon!
 
 #### f91e0e0fdd | GOON01 → GORDON | x2
@@ -16,7 +16,7 @@ Sounds like an over-reach of municipal power.
 #### 779f882f4b | GORDON → BATMAN | x4
 Just in time, Batman.
 
-#### 20980bc1d7-SM | GORDON → GOON01, BATMAN | x4
+#### 20980bc1d7 | GORDON → GOON01, BATMAN | x4
 I knew I could count on you.
 
 #### f3d59478da | GORDON → BATMAN | x2

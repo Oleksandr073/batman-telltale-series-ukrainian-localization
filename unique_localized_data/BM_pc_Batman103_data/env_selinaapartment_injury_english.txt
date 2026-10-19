@@ -7,7 +7,7 @@ Stay here, okay? Just don’t move.
 #### f54c8cd46e | BRUCE, choice/UI → CATWOMAN, SELINA | x6
 Don’t leave.
 
-#### 70d1547513-SM | choice/UI → CATWOMAN | x2
+#### 70d1547513 | choice/UI → CATWOMAN | x2
 I need to get back out there!
 
 #### 45b5fd311c | choice/UI → CATWOMAN | x2
@@ -16,7 +16,7 @@ Thanks for saving me.
 #### 4ec86151c7 | CATWOMAN → BRUCE | x2
 I’m just getting something from the other room.
 
-#### 119a8bf332-SM | BRUCE → CATWOMAN | x2
+#### 119a8bf332 | BRUCE → CATWOMAN | x2
 I’m fine. I need to get back out--
 
 #### ac5020b587 | CATWOMAN → BRUCE | x2
@@ -49,13 +49,13 @@ Wouldn’t you?
 #### 97a0af4785 | choice/UI → CATWOMAN | x4
 It has to stop.
 
-#### 23f95d21fe-SF | CATWOMAN → BRUCE | x2
+#### 23f95d21fe | CATWOMAN → BRUCE | x2
 I had it handled, you know.
 
-#### bd8d32c786-LM | CATWOMAN → BRUCE | x2
+#### bd8d32c786 | CATWOMAN → BRUCE | x2
 You didn’t have to take her on by yourself.
 
-#### cf5328c3f1-SM | BRUCE → CATWOMAN | x2
+#### cf5328c3f1 | BRUCE → CATWOMAN | x2
 What else was I supposed to do?
 
 #### 5621287bb2 | CATWOMAN → BRUCE | x2
@@ -85,7 +85,7 @@ So where does that leave me?
 #### 3a203a579f | CATWOMAN → BRUCE | x2
 What kind of a question is that?
 
-#### d03af4ffe8-LM | CATWOMAN → BRUCE | x2
+#### d03af4ffe8 | CATWOMAN → BRUCE | x2
 You’re right where you always were.
 
 #### c95f920179 | CATWOMAN → BRUCE | x2
@@ -127,28 +127,28 @@ Don’t get me wrong, it was{ThinkingB} one hell of a fight.
 #### f7031da3a7 | CATWOMAN → BRUCE | x2
 Just not one I want to clean up after.
 
-#### 7a7795b521-SM | BRUCE → CATWOMAN | x2
+#### 7a7795b521 | BRUCE → CATWOMAN | x2
 I’ve lost everything. My job, my reputation, my parents...
 
-#### d2dd09a738-SM | BRUCE → CATWOMAN | x2
+#### d2dd09a738 | BRUCE → CATWOMAN | x2
 I lost my job, my reputation... and I find out my parents-- [cuts himself off]
 
-#### f72038a82a-LM | CATWOMAN → BRUCE | x2
+#### f72038a82a | CATWOMAN → BRUCE | x2
 You lost them a long time ago, Bruce.
 
-#### 8d06d79216-SM | BRUCE → CATWOMAN | x2
+#### 8d06d79216 | BRUCE → CATWOMAN | x2
 I always thought their deaths were a result of petty crime... an injustice they didn’t deserve.
 
-#### 0b70f3b86f-LM | CATWOMAN → BRUCE | x2
+#### 0b70f3b86f | CATWOMAN → BRUCE | x2
 Maybe you need to rethink your definition.
 
 #### fc68d646a5 | CATWOMAN → BRUCE | x2
 I’m just saying maybe things aren’t as black and white as you want them to be.
 
-#### 982df86665-SM | BRUCE → CATWOMAN | x2
+#### 982df86665 | BRUCE → CATWOMAN | x2
 I swore to fight for people like them, to protect them.... that’s why I did all of this.
 
-#### bdcc5dc213-SM | BRUCE → CATWOMAN | x2
+#### bdcc5dc213 | BRUCE → CATWOMAN | x2
 I always thought their deaths were some... horrible
 
 #### 2128afeb0f | BRUCE → CATWOMAN | x2
@@ -178,10 +178,10 @@ Does it make a difference?
 #### b3e64a627e | CATWOMAN → BRUCE | x2
 That’s why you don’t kill, isn’t it.
 
-#### f2337bc6e8-LM | CATWOMAN → BRUCE | x2
+#### f2337bc6e8 | CATWOMAN → BRUCE | x2
 Even the worst of them. You let them live.
 
-#### 3eb8ed1624-SM | BRUCE → CATWOMAN | x2
+#### 3eb8ed1624 | BRUCE → CATWOMAN | x2
 It didn’t just happen to them, though. My life changed that night. They were gone, and I was left to deal with... everything.
 
 #### 721bc7da37 | CATWOMAN → BRUCE | x2
@@ -238,7 +238,7 @@ Aren’t they?
 #### 2af41d0cec | CATWOMAN → BRUCE | x2
 Look, I’m not judging you. I wouldn’t give it up either.
 
-#### a2085fe6db-LM | CATWOMAN → BRUCE | x2
+#### a2085fe6db | CATWOMAN → BRUCE | x2
 Just don’t pretend like you’re not twisted up in the same crap they are.
 
 #### 92342cffed | BRUCE → CATWOMAN | x4
@@ -298,7 +298,7 @@ That’s your life, Bruce.
 #### 29f8deacec | CATWOMAN → BRUCE | x4
 That’s who you are.
 
-#### 5dc4de0274-LM | CATWOMAN → BRUCE | x4
+#### 5dc4de0274 | CATWOMAN → BRUCE | x4
 Would you let them take that away?
 
 #### 8f5819ef66 | BRUCE → CATWOMAN | x2
@@ -346,7 +346,7 @@ I don’t think she likes you.
 #### 069c837ca5 | choice/UI → CATWOMAN | x2
 No one likes me.
 
-#### 0932a4eb54-LF | BRUCE → CATWOMAN | x2
+#### 0932a4eb54 | BRUCE → CATWOMAN | x2
 Yeah, well you’ve got most of Gotham behind you on that.
 
 #### ce4bdaa54a | CATWOMAN → BRUCE | x2
@@ -385,7 +385,7 @@ Mabye there’s a way to
 #### d62d5be030 | CATWOMAN | x6
 Nothing’s ever as black and white as you want it to be.
 
-#### e5e40dde9f-L? | CATWOMAN | x2
+#### e5e40dde9f | CATWOMAN | x2
 But you have to ask yourself, who are you trying to save?
 
 #### 835584fc2b | CATWOMAN | x2
@@ -421,7 +421,7 @@ I wouldn’t hurt people to keep it.
 #### 973e24a747 | BRUCE → CATWOMAN | x2
 I’d fight to keep it, but I draw the line at hurting other people to do it.
 
-#### 9b1c8e5580-SM | BRUCE → CATWOMAN | x2
+#### 9b1c8e5580 | BRUCE → CATWOMAN | x2
 I won’t do what my parents did.
 
 #### ce8e281b34 | CATWOMAN → BRUCE | x4
@@ -451,11 +451,8 @@ This life isn’t easy.
 #### f30f22db49 | choice/UI | x2
 You’re more than that.
 
-#### f462324bd0-SM | choice/UI | x2
+#### f462324bd0 | choice/UI | x2
 I’m not sure I trust you.
-
-#### 08af4cbd6b-L? | choice/UI | x2
-You’re not alone.
 
 #### 2a8bf8bec6 | choice/UI | x2
 I like it here.
@@ -508,7 +505,7 @@ You’re gonna be okay, Bruce.
 #### af658ebaa4 | CATWOMAN → BRUCE | x2
 You know that was stupid, right?
 
-#### 5d8373c92f-SF-LM | CATWOMAN → BRUCE | x2
+#### 5d8373c92f | CATWOMAN → BRUCE | x2
 I had it covered back there until you showed up.
 
 #### d857f0ab45 | CATWOMAN → BRUCE | x2
@@ -529,7 +526,7 @@ Any worse and you’d be sent home in a body bag.
 #### 79d45fe430 | CATWOMAN → BRUCE | x4
 I didn’t need you waltzing in trying to be the hero.
 
-#### 5db1663378-SF | CATWOMAN | x2
+#### 5db1663378 | CATWOMAN | x2
 I had a plan.
 
 #### 01cf8623b2 | CATWOMAN → BRUCE | x2
@@ -544,31 +541,31 @@ Keep your bat nose out of it.
 #### 56dab79319 | choice/UI → CATWOMAN | x2
 Didn’t know you’d be there.
 
-#### 6cf1b1e746-LF | choice/UI → CATWOMAN | x2
+#### 6cf1b1e746 | choice/UI → CATWOMAN | x2
 Thought you were on their side.
 
-#### 4a0772c23b-SM | choice/UI → CATWOMAN | x2
+#### 4a0772c23b | choice/UI → CATWOMAN | x2
 I was trying to help you.
 
 #### 8100df0155 | BRUCE → CATWOMAN | x2
 You think everything’s about you.
 
-#### d9ed5109a4-SM | BRUCE → CATWOMAN | x2
+#### d9ed5109a4 | BRUCE → CATWOMAN | x2
 I was there tracking the Children of Arkham. I had no idea you’d be there.
 
 #### 7ceaf4b62f | CATWOMAN → BRUCE | x2
 Must’ve been quite the surprise.
 
-#### d70788ef8c-SM | BRUCE → CATWOMAN | x2
+#### d70788ef8c | BRUCE → CATWOMAN | x2
 I wasn’t there to save you. I thought you’d gone back over to their side.
 
-#### d4f1e77f8f-LM | CATWOMAN → BRUCE | x2
+#### d4f1e77f8f | CATWOMAN → BRUCE | x2
 You thought you were gonna take me out, did you?
 
-#### 6c88c08d18-SM | BRUCE → CATWOMAN | x2
+#### 6c88c08d18 | BRUCE → CATWOMAN | x2
 If I had to.
 
-#### 0feed1cc01-SM | BRUCE → SELINA | x2
+#### 0feed1cc01 | BRUCE → SELINA | x2
 I was just trying to help you, Selina.
 
 #### 55b64fb463 | CATWOMAN → BRUCE | x2
@@ -592,7 +589,7 @@ Just leave town.
 #### d480216a39 | choice/UI → CATWOMAN | x2
 Help me take them out.
 
-#### c16c97a154-SM | choice/UI → CATWOMAN | x2
+#### c16c97a154 | choice/UI → CATWOMAN | x2
 Sorry I messed it up.
 
 #### f5399de002 | CATWOMAN | x2
@@ -607,7 +604,7 @@ Guess we’re in the same boat though.
 #### 0654162f96 | CATWOMAN → BRUCE | x2
 Thanks again, bats.
 
-#### 10849a7877-LF | BRUCE → CATWOMAN | x2
+#### 10849a7877 | BRUCE → CATWOMAN | x2
 Why even stay in Gotham? You could just leave.
 
 #### 59bc398b74 | CATWOMAN → BRUCE | x2
@@ -628,10 +625,10 @@ Wouldn’t that be cute.
 #### aa5166a700 | CATWOMAN → BRUCE | x2
 The dynamic duo. Fighting crime.
 
-#### 5fe166c342-SM | BRUCE → CATWOMAN | x2
+#### 5fe166c342 | BRUCE → CATWOMAN | x2
 I’m sorry I messed things up for you back there.
 
-#### df42a84887-SF | CATWOMAN → BRUCE | x2
+#### df42a84887 | CATWOMAN → BRUCE | x2
 I’m used to it anyway.
 
 #### fb0e69e43e | CATWOMAN → BRUCE | x2
@@ -652,7 +649,7 @@ No such thing as a fresh start anyway.
 #### 1c33d7ebf6 | CATWOMAN → BRUCE | x2
 Just trying to be optimistic.
 
-#### 30f9517e6c-SM | BRUCE → CATWOMAN | x2
+#### 30f9517e6c | BRUCE → CATWOMAN | x2
 I lost my company, my reputation...
 
 #### 482a68f718 | CATWOMAN → BRUCE | x4
@@ -685,7 +682,7 @@ Lucius can make another.
 #### d2e65201e3 | CATWOMAN → BRUCE | x2
 Hmm. Must be nice.
 
-#### b19a014c0d-SM | BRUCE → CATWOMAN | x2
+#### b19a014c0d | BRUCE → CATWOMAN | x2
 I lost my company, my reputation, and I found out my father... [doesn’t want to talk about it anymore]
 
 #### 29f011812f | CATWOMAN → BRUCE | x2
@@ -757,13 +754,13 @@ Never thought of it that way.
 #### d65c3fd2e4 | CATWOMAN → BRUCE | x2
 Can’t say the world really *needs* Catwoman.
 
-#### d40d21777b-SM | BRUCE → CATWOMAN | x2
+#### d40d21777b | BRUCE → CATWOMAN | x2
 I don’t know. With everything going on... what I’ve learned about my parents...
 
 #### a8329bc8de | BRUCE → CATWOMAN | x2
 Batman isn’t an act. Bruce is.
 
-#### 98a7e3b4bd-SF | CATWOMAN → BRUCE | x2
+#### 98a7e3b4bd | CATWOMAN → BRUCE | x2
 I’ve thought about it too.
 
 #### a13eda70b2 | CATWOMAN → BRUCE | x2
@@ -775,7 +772,7 @@ And which are you now?
 #### 374ee58fa6 | BRUCE → CATWOMAN | x2
 Depends.
 
-#### 904b0186c5-SM | BRUCE → CATWOMAN | x4
+#### 904b0186c5 | BRUCE → CATWOMAN | x4
 I lost my company, my reputation, and I find out my father was-- [doesn’t know what to say]
 
 #### e0087343e0 | CATWOMAN → BRUCE | x2
@@ -805,13 +802,13 @@ There’s always something...
 #### e3047fb1c1 | CATWOMAN → BRUCE | x2
 Just beneath the surface.
 
-#### cd142b9e38-LF | BRUCE → CATWOMAN | x2
+#### cd142b9e38 | BRUCE → CATWOMAN | x2
 You’re wrong. There are good people out there. Honest people.
 
 #### 702673e9e7 | BRUCE → SELINA | x2
 So what is it you’re hiding, Selina?
 
-#### 8f7769f19b-SM | BRUCE → CATWOMAN | x2
+#### 8f7769f19b | BRUCE → CATWOMAN | x2
 I’m starting to see that for myself.
 
 #### ff98dad3dd | CATWOMAN → BRUCE | x2
@@ -826,7 +823,7 @@ At least that’s what they tell me.
 #### ea30bbefa3 | CATWOMAN | x2
 All kinds of things.
 
-#### 9f133027b1-L? | CATWOMAN | x2
+#### 9f133027b1 | CATWOMAN | x2
 You either admit it to yourself or you learn it the hard way.
 
 #### 8060642e58 | CATWOMAN → BRUCE | x4
@@ -841,7 +838,7 @@ You don’t trust me?
 #### ecc4f183e0 | choice/UI → CATWOMAN | x2
 My secret doesn’t hurt anybody.
 
-#### aba8235aac-SM | choice/UI → CATWOMAN | x2
+#### aba8235aac | choice/UI → CATWOMAN | x2
 I’m honest with you.
 
 #### 243e00b06c | CATWOMAN → BRUCE | x2
@@ -862,7 +859,7 @@ The difference is, my secret doesn’t hurt anybody.
 #### 4f4d6ca08c | BRUCE → CATWOMAN | x2
 I don’t have any secrets from you.
 
-#### 1000a72359-SF | CATWOMAN → BRUCE | x2
+#### 1000a72359 | CATWOMAN → BRUCE | x2
 You know, I’ve heard that a thousand times...
 
 #### a70db3c89c | CATWOMAN → BRUCE | x2
@@ -898,10 +895,10 @@ No, I’m really not.
 #### db35b0c987 | BRUCE → CATWOMAN | x2
 That’s not all you are. I think that’s just what you want people to believe.
 
-#### 261a73fb4b-LM | CATWOMAN → BRUCE | x2
+#### 261a73fb4b | CATWOMAN → BRUCE | x2
 You put a lot of faith in someone who doesn’t deserve it.
 
-#### c3f9d1f1da-SM | BRUCE → CATWOMAN | x2
+#### c3f9d1f1da | BRUCE → CATWOMAN | x2
 I’m never really sure if I can trust you.
 
 #### 95b08fd749 | CATWOMAN → BRUCE | x2
@@ -943,7 +940,7 @@ The high is nice, but it wears off.
 #### b9862a45f7 | CATWOMAN → BRUCE | x2
 Then you look around and see... nothing.
 
-#### a200f6e9c8-LF | BRUCE → CATWOMAN | x2
+#### a200f6e9c8 | BRUCE → CATWOMAN | x2
 You’re not alone, okay. I’m here for you.
 
 #### 4f97dd34a8 | CATWOMAN → BATMAN | x2
@@ -958,7 +955,7 @@ You’re not a mess.
 #### 17ad5b306a | BRUCE → CATWOMAN | x2
 Well, your apartment is, but you’re not.
 
-#### 13f050cfc2-SM | BRUCE → CATWOMAN | x2
+#### 13f050cfc2 | BRUCE → CATWOMAN | x2
 I could get you something better. A place in the city...
 
 #### dd5dd5c0ee | BRUCE → CATWOMAN | x2
@@ -1000,13 +997,16 @@ I think you may have misinterpreted things.
 #### a886a11108 | CATWOMAN, BRUCE → BRUCE, BLOCKBUSTER, HARVEY | x7
 Oh. Sorry.
 
-#### b9d79ddecc-SF | CATWOMAN → BRUCE | x2
+#### b9d79ddecc | CATWOMAN → BRUCE | x2
 I thought... nevermind.
 
-#### 33bd8c656c-LM | CATWOMAN → BRUCE | x6
+#### 33bd8c656c | CATWOMAN → BRUCE | x6
 Did you mean to say that out loud?
 
-#### 98569f7219-SM | BRUCE → CATWOMAN | x2
+#### 98569f7219-SM | BRUCE, SELINA → CATWOMAN, BRUCE | x4 | speaker: male
+Of course I did.
+
+#### 98569f7219-SF | BRUCE, SELINA → CATWOMAN, BRUCE | x4 | speaker: female
 Of course I did.
 
 #### 9e9394eadd | CATWOMAN → BRUCE | x2
@@ -1018,7 +1018,7 @@ Selina, stop.
 #### 7b9b76eef9 | CATWOMAN, SELINA, LUCIUS → BRUCE, BATMAN | x14
 What’s wrong?
 
-#### 66df5775ef-SF | CATWOMAN → BRUCE | x2
+#### 66df5775ef | CATWOMAN → BRUCE | x2
 I need to know if you want this.
 
 #### a1f2b5dde9 | BRUCE → CATWOMAN | x2
@@ -1036,7 +1036,7 @@ Tell me you want this.
 #### 784a911f58 | CATWOMAN → BRUCE | x2
 Do you want this?
 
-#### 89d16b47a7-SF | CATWOMAN → BRUCE | x2
+#### 89d16b47a7 | CATWOMAN → BRUCE | x2
 Do I have to do all the work myself?
 
 #### 33fdf8cd44 | CATWOMAN → BRUCE | x2
@@ -1126,7 +1126,7 @@ Just water.
 #### bb9155e21f | choice/UI → CATWOMAN | x2
 Got something stronger?
 
-#### 709398fab4-SM | BRUCE → CATWOMAN | x2
+#### 709398fab4 | BRUCE → CATWOMAN | x2
 No, I’m fine. Thanks.
 
 #### 9214e62944 | BRUCE → CATWOMAN | x2
@@ -1150,7 +1150,7 @@ What kind of girl do you think I am?
 #### 72ee523875 | CATWOMAN → BRUCE | x2
 To better weeks ahead.
 
-#### 8fc16efeb7-LM | CATWOMAN → BRUCE | x2
+#### 8fc16efeb7 | CATWOMAN → BRUCE | x2
 You’re lucky you were wearing that suit.
 
 #### 980aff8e26 | CATWOMAN → BRUCE | x2
@@ -1159,7 +1159,7 @@ Not that I owe you anything. After the{SmugA} debate, I’d say we’re even.
 #### 9c6935affd | BRUCE → CATWOMAN | x2
 Remind me to thank Lucius next time I see him.
 
-#### 4f4816ea98-LM | CATWOMAN → BRUCE | x2
+#### 4f4816ea98 | CATWOMAN → BRUCE | x2
 You made your priorities very clear back at the debate.
 
 #### 91633de6bb | BRUCE → SELINA, CATWOMAN | x4
@@ -1171,16 +1171,19 @@ It’s fine. You can{ThinkingA} have the couch until morning.
 #### 4bad6f0b37 | CATWOMAN → BRUCE | x2
 Feel like I owe you anyway... that’s twice now. {SmugA}You just keep adding things to my list, don’t you?
 
-#### 3539e3f97b-SF | CATWOMAN → BRUCE | x2
+#### 3539e3f97b | CATWOMAN → BRUCE | x2
 I told you I don’t like owing people.
 
-#### 40aa3eb035-SF | CATWOMAN → BRUCE | x2
+#### 40aa3eb035 | CATWOMAN → BRUCE | x2
 I told you I don’t like owing people.{HappyA}
 
-#### 2456a26a88-SF | CATWOMAN → BRUCE | x2
+#### 2456a26a88 | CATWOMAN → BRUCE | x2
 Then I’m done owing you favors.
 
-#### 60b8c95923-LM | CATWOMAN → BRUCE | x2
+#### 60b8c95923-LM | CATWOMAN → BRUCE | x4 | listener: male
+I think you’ve got the wrong idea, here.
+
+#### 60b8c95923-L? | CATWOMAN → BRUCE | x4 | listener: unknown
 I think you’ve got the wrong idea, here.
 
 #### 699d33695f | CATWOMAN → BRUCE | x2
@@ -1189,7 +1192,7 @@ I thin
 #### c8f23bf9cd | CATWOMAN → BRUCE | x4
 I wasn’t trying anything, I promise.
 
-#### 60cec9cff2-LM | CATWOMAN → BRUCE | x4
+#### 60cec9cff2 | CATWOMAN → BRUCE | x4
 Well now you’ve ruined it.
 
 #### 28ed1b9a14 | BRUCE → CATWOMAN | x4
@@ -1201,7 +1204,7 @@ It’s fine.
 #### ca0a619d26 | CATWOMAN → BRUCE | x4
 You can relax.
 
-#### aa69eb3c8d-SF | CATWOMAN → BRUCE | x6
+#### aa69eb3c8d | CATWOMAN → BRUCE | x6
 I’m not interested.
 
 #### 04caeccb29 | CATWOMAN | x2
@@ -1213,7 +1216,7 @@ Just don’t want you getting the wrong idea.
 #### 90be67a73b | CATWOMAN → BRUCE | x4
 It’s late.
 
-#### 927b81a76a-SF | CATWOMAN → BRUCE | x4
+#### 927b81a76a | CATWOMAN → BRUCE | x4
 I was hoping for something more than that.
 
 #### c5fc7e993b | choice/UI → CATWOMAN | x4
@@ -1228,19 +1231,19 @@ Really didn’t need you swooping{AngryA} in and messing it up.
 #### 90b8083383 | choice/UI → CATWOMAN | x2
 Harvey needed me more.
 
-#### c435a8477a-SM | BRUCE → CATWOMAN | x2
+#### c435a8477a | BRUCE → CATWOMAN | x2
 I know I left you hanging back there, but I’ll make it up to you.
 
 #### 3a46d6df77 | CATWOMAN → BRUCE | x2
 I’d like to see you try.
 
-#### 49bed13e96-SM-LF | BRUCE → CATWOMAN | x2
+#### 49bed13e96 | BRUCE → CATWOMAN | x2
 Look, Harvey needed my help more than you did. I figured you could handle yourself.
 
 #### c2652eacf5 | CATWOMAN, GORDON → BRUCE | x4
 I appreciate the vote of confidence.
 
-#### 2a7b3b2062-SM | BRUCE → CATWOMAN | x2
+#### 2a7b3b2062 | BRUCE → CATWOMAN | x2
 I’m sorry. I don’t know what else to say.
 
 #### e8117e63f8 | CATWOMAN → BRUCE | x2
@@ -1255,10 +1258,10 @@ I wasn’t going to abandon you.
 #### 35195e566f | CATWOMAN → BRUCE | x14
 It’s better. No strings.
 
-#### 93712ba358-L? | CATWOMAN | x6
+#### 93712ba358-L? | CATWOMAN → BRUCE | x14 | listener: unknown
 You showed me where you stood back in that debate hall, and I know I don’t fit into the picture.
 
-#### 93712ba358-LM | CATWOMAN → BRUCE | x8
+#### 93712ba358-LM | CATWOMAN → BRUCE | x14 | listener: male
 You showed me where you stood back in that debate hall, and I know I don’t fit into the picture.
 
 #### 12113d2ee0 | choice/UI → CATWOMAN | x2
@@ -1282,7 +1285,7 @@ Never run into anyone else who did this, you know?
 #### 6ce1d971ff | CATWOMAN | x2
 What do you do when you take off the mask?
 
-#### 71885e4cae-SM | choice/UI → CATWOMAN | x2
+#### 71885e4cae | choice/UI → CATWOMAN | x2
 Maybe I need a hobby?
 
 #### 6f8c01f3ff | CATWOMAN → BRUCE | x2
@@ -1297,13 +1300,13 @@ I never stop being Batman.
 #### 3d4980e702 | choice/UI → CATWOMAN | x2
 This is pretty standard.
 
-#### 50b5f95232-SM | BRUCE → CATWOMAN | x2
+#### 50b5f95232 | BRUCE → CATWOMAN | x2
 I guess I could use a hobby. Any advice?
 
 #### 2d51bff45c | CATWOMAN → BRUCE | x2
 Not sure I’d be the right one to give it.
 
-#### c6292c1d12-SF | CATWOMAN → BRUCE | x2
+#### c6292c1d12 | CATWOMAN → BRUCE | x2
 Got a few books I could loan you.
 
 #### 4e7c776e64 | BRUCE → CATWOMAN | x2
@@ -1312,7 +1315,7 @@ I never really stop being Batman. At this point I’m more him than Bruce Wayne.
 #### c112d1123d | BRUCE → CATWOMAN | x2
 You never feel that way?
 
-#### f7f99ac8f7-SF | CATWOMAN → BRUCE | x2
+#### f7f99ac8f7 | CATWOMAN → BRUCE | x2
 I guess I just never saw them as different to begin with. Me and Catwoman... it’s the same thing.
 
 #### 28ee6c2316 | choice/UI → CATWOMAN | x2
@@ -1333,10 +1336,13 @@ Must be nice.
 #### 3cfa15d1b0 | BRUCE → CATWOMAN | x2
 You don’t have anyone like that?
 
-#### 69c3697221-SF | CATWOMAN → BRUCE | x2
+#### 69c3697221-SF | BRUCE, CATWOMAN → JOKER, BRUCE | x6 | speaker: female
 I did.
 
-#### 23c04c3afd-SM | BRUCE → CATWOMAN | x4
+#### 69c3697221-SM | BRUCE, CATWOMAN → JOKER, BRUCE | x6 | speaker: male
+I did.
+
+#### 23c04c3afd | BRUCE → CATWOMAN | x4
 Hey, I read.
 
 #### bfdf8d5d04 | CATWOMAN → BRUCE | x2
@@ -1369,9 +1375,6 @@ Maybe not for you.
 #### 94c8cc295c | CATWOMAN → BRUCE | x2
 What kind of a girl do you think I am?
 
-#### 60b8c95923-L? | CATWOMAN | x2
-I think you’ve got the wrong idea, here.
-
 #### 5b4fdc9d97 | choice/UI → CATWOMAN | x2
 I think you have the wrong idea...
 
@@ -1393,7 +1396,7 @@ I can respect that.
 #### c85bc1c42e | CATWOMAN → BRUCE | x2
 I get it. I can respect that.
 
-#### 760976f58c-SF | CATWOMAN → SELINA | x2
+#### 760976f58c | CATWOMAN → SELINA | x2
 I think maybe I misjudged you.
 
 #### 436a512455 | BRUCE → CATWOMAN | x2
@@ -1402,10 +1405,10 @@ You’re just listing all the things I like about you.
 #### 18daabfdf9 | SELINA → BRUCE | x2
 You know, you’re a good guy, Bruce. You look out for other people. Like with Harvey. I should probably learn how to do that.
 
-#### bcc944afa7-SF | SELINA → CATWOMAN | x2
+#### bcc944afa7 | SELINA → CATWOMAN | x2
 You know, maybe uncomplicated is better. I got enough complications in my life.
 
-#### 619ecb75f9-SF | SELINA → BRUCE | x2
+#### 619ecb75f9 | SELINA → BRUCE | x2
 You know... I could probably use a few more friends in my life.
 
 #### e9a07f2d3a | SELINA | x2
@@ -1417,7 +1420,7 @@ To friendship.
 #### 8e06cd5380 | SELINA | x2
 To keeping things simple.
 
-#### ee669c72b1-LM | SELINA → BRUCE | x2
+#### ee669c72b1 | SELINA → BRUCE | x2
 Now you’ve ruined it.
 
 #### be65733aa3 | BRUCE → SELINA | x2

@@ -1,4 +1,4 @@
-﻿#### 60598e56da-L? | choice/UI | x1
+﻿#### 60598e56da | choice/UI | x1
 Did you keep Catwoman from getting away with the loot?
 
 #### f006aaf3ee | choice/UI | x1
@@ -7,13 +7,13 @@ You and {percent}% of players prevented Catwoman from getting away with the loot
 #### 75763d54d8 | choice/UI | x1
 You and {percent}% of players failed to keep Catwoman from escaping with the loot.
 
-#### 16a5f6ae79-L? | choice/UI | x2
+#### 16a5f6ae79 | choice/UI | x2
 Did you stick up for Harvey in front of Falcone?
 
-#### 8d2e4d219c-L? | choice/UI | x2
+#### 8d2e4d219c | choice/UI | x2
 Did you shake Carmine Falcone’s hand?
 
-#### 522752a7e0-L? | choice/UI | x1
+#### 522752a7e0 | choice/UI | x1
 Did you tell Oswald his family park should be bulldozed?
 
 #### 9bb9feb00d | choice/UI | x1
@@ -43,7 +43,7 @@ You and {percent}% of players took a controversial stand and defended Batman’s
 #### 7d4d00b929 | choice/UI | x1
 You and {percent}% of players used Bruce’s name and influence to condemn Batman before the press.
 
-#### c68863bbe7-L? | choice/UI | x1
+#### c68863bbe7 | choice/UI | x1
 Did you interrupt the press conference to answer Alfred’s text?
 
 #### a28d3d9373 | choice/UI | x1
@@ -55,7 +55,7 @@ You and {percent}% of players did not respond to Alfred’s texts and continued 
 #### 2a77e7a3ea | choice/UI | x1
 You and {percent}% of players predicted that the new hospital could spell the end of the Batman’s crusade.
 
-#### c050ce2d42-L? | choice/UI | x2
+#### c050ce2d42 | choice/UI | x2
 Did you provide a quote for Vicki’s story?
 
 #### d7d5e39644 | choice/UI | x1
@@ -70,13 +70,13 @@ Did you provide a quote for Vicki’s story?
 #### 29419c8c58 | choice/UI | x1
 ^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players gave Vicki a quote for her story, issuing a threat to those who spread lies about the Wayne family.
 
-#### 002502a547-L? | choice/UI | x1
+#### 002502a547 | choice/UI | x1
 Did you break the docks shooter’s arm?
 
 #### ae2fb55e5f | choice/UI | x1
 ^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players brutally broke the docks shooter’s arm, ensuring that he’d never hold a gun straight again.
 
-#### 6861e699ed-L? | choice/UI | x2
+#### 6861e699ed | choice/UI | x2
 Did you talk to Gordon or fade into the shadows?
 
 #### fadd267899 | choice/UI | x1
@@ -85,7 +85,7 @@ You and {percent}% of players faded into the shadows when Gordon arrived at the 
 #### f8d16f4bba | choice/UI | x1
 You and {percent}% of players stayed to talk about the docks massacre with Gordon.
 
-#### 00d189120e-L? | choice/UI | x1
+#### 00d189120e | choice/UI | x1
 Who did you give the Falcone data to?
 
 #### b3db498e2d | choice/UI | x1
@@ -103,7 +103,7 @@ How did Batman deal with Falcone at the end?
 #### 7663c0438e | choice/UI | x1
 ^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and {percent}%^^ of players showed restraint, and handed Falcone over to the police safe and sound.
 
-#### 0bae4da222-L? | choice/UI | x2
+#### 0bae4da222 | choice/UI | x2
 Did you save or destroy the theater tickets?
 
 #### d8e175b495 | choice/UI | x1
@@ -196,7 +196,7 @@ Stood by Harvey.
 #### 6572173d1d | choice/UI | x1
 Told Harvey to wait outside.
 
-#### 3c18d0c5dc-L? | choice/UI | x1
+#### 3c18d0c5dc | choice/UI | x1
 Were you kind or callous to Oswald?
 
 #### ac65246814 | choice/UI | x1
@@ -217,7 +217,7 @@ Quoted to Vicki that the Waynes have never had any connections to organized crim
 #### 24631fb6bb | choice/UI | x1
 Quoted to Vicki a threat to anyone spreading malicious rumors about the Waynes.
 
-#### a0b5bfed8e-L? | choice/UI | x1
+#### a0b5bfed8e | choice/UI | x1
 Who did you give the USB to?
 
 #### d6ed7b3868 | choice/UI | x1
@@ -256,7 +256,7 @@ Burned that painful reminder of the death of Bruce’ parents.
 #### 3d62d78085 | choice/UI | x1
 ^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^{percent}%^^ of players showed mercy in your interrogation of the docks shooter.
 
-#### 303ca82f7b-L? | choice/UI | x2
+#### 303ca82f7b | choice/UI | x2
 Did you ease Falcone’s pain or make him suffer?
 
 #### b8610186fe | choice/UI | x1
@@ -271,7 +271,7 @@ Did you ease Falcone’s pain or make him suffer?
 #### d13a5e600d | choice/UI | x1
 ^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players made Falcone suffer.
 
-#### 6298117527-L? | choice/UI | x2
+#### 6298117527 | choice/UI | x2
 Did you kiss Selina?
 
 #### 465c2af48d | choice/UI | x1
@@ -286,7 +286,7 @@ Did you kiss Selina?
 #### 0b8f85df3a | choice/UI | x1
 ^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players didn’t try to kiss Selina.
 
-#### 7f6ea810ff-L? | choice/UI | x1
+#### 7f6ea810ff | choice/UI | x1
 Did you visit Mayor Hill as Bruce or Batman?
 
 #### da5ed97623 | choice/UI | x1
@@ -301,7 +301,7 @@ Did you visit Mayor Hill as Bruce or Batman?
 #### aa14fb5b82 | choice/UI | x1
 ^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players chose to visit Mayor Hill as Batman.
 
-#### a555996560-L? | choice/UI | x2
+#### a555996560 | choice/UI | x2
 Did you withdraw your funding for Harvey’s campaign?
 
 #### ca769ea050 | choice/UI | x1
@@ -316,7 +316,7 @@ Did you withdraw your funding for Harvey’s campaign?
 #### b3fae28fb5 | choice/UI | x1
 ^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players withdrew your funding from Harvey’s campaign.
 
-#### 6efffaac95-L? | choice/UI | x1
+#### 6efffaac95 | choice/UI | x1
 Did you save Selina or Harvey?
 
 #### e57965e0fa | choice/UI | x1
@@ -331,7 +331,7 @@ Did you save Selina or Harvey?
 #### 8b63e6a4aa | choice/UI | x1
 ^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players saved Harvey over Selina.
 
-#### 90e0928b0b-L? | choice/UI | x2
+#### 90e0928b0b | choice/UI | x2
 Did you forgive Alfred?
 
 #### 80e5e4c630 | choice/UI | x2
@@ -340,16 +340,16 @@ You and {percent}% of players forgave Alfred.
 #### d95fd5f2e0 | choice/UI | x2
 You and {percent}% of players have not yet forgiven Alfred.
 
-#### 5cb13f586b-L? | choice/UI | x2
+#### 5cb13f586b | choice/UI | x2
 Did you tell Harvey why you needed to see Falcone?
 
-#### a7c3d3cdde-L? | choice/UI | x2
+#### a7c3d3cdde | choice/UI | x2
 You and {percent}% of players told Harvey why you needed to see Falcone.
 
-#### 0b55ef1bba-L? | choice/UI | x2
+#### 0b55ef1bba | choice/UI | x2
 You and {percent}% of players refused to tell Harvey why you needed to see Falcone.
 
-#### fcf6b2bf4d-L? | choice/UI | x1
+#### fcf6b2bf4d | choice/UI | x1
 Did you give up Montoya’s name to the press?
 
 #### 1c20ed045b | choice/UI | x2
@@ -358,10 +358,10 @@ You and {percent}% of players gave up Montoya’s name to Vicki Vale.
 #### 5db7f1076d | choice/UI | x2
 You and {percent}% of players withheld Montoya’s name from Vicki Vale.
 
-#### cc5d18a7cb-L? | choice/UI | x1
+#### cc5d18a7cb | choice/UI | x1
 Did you tell Mayor Hill you would join his side?
 
-#### f52522dbf1-L? | choice/UI | x2
+#### f52522dbf1 | choice/UI | x2
 You and {percent}% of players told Mayor Hill you would cut Harvey loose.
 
 #### 2180fe5394 | choice/UI | x2
@@ -391,25 +391,25 @@ Forgave Alfred.
 #### 434fe73221 | choice/UI | x1
 Refused to forgive Alfred.
 
-#### e72d05ce32-L? | choice/UI | x1
+#### e72d05ce32 | choice/UI | x1
 Told Harvey why you needed to see Falcone.
 
-#### 6cacaa3f06-L? | choice/UI | x1
+#### 6cacaa3f06 | choice/UI | x1
 Refused to tell Harvey why you needed to see Falcone.
 
-#### 77051f6cd6-L? | choice/UI | x1
+#### 77051f6cd6 | choice/UI | x1
 Did you help Montoya or Mayor Dent?
 
-#### c18ab2e8e3-L? | choice/UI | x1
+#### c18ab2e8e3 | choice/UI | x1
 Did you ask Lucius to stay at Wayne Enterprises or come work for you?
 
-#### 29e7807108-L? | choice/UI | x1
+#### 29e7807108 | choice/UI | x1
 Did you romance Selina?
 
-#### 9da934d544-L? | choice/UI | x1
+#### 9da934d544 | choice/UI | x1
 Did you beat up Harvey or take it easy on him?
 
-#### ed62c68555-L? | choice/UI | x1
+#### ed62c68555 | choice/UI | x1
 Did you ask Selina to stay or leave Gotham?
 
 #### bc5be0e596 | choice/UI | x1
@@ -466,7 +466,7 @@ You and {percent}% of players believed that Selina would only be safe if she lef
 #### d8f1033575 | choice/UI | x2
 You and {percent}% of players asked Selina to stay with you in Gotham.
 
-#### 55226fb517-L? | choice/UI | x1
+#### 55226fb517 | choice/UI | x1
 Did you punch Oswald?
 
 #### 0cded0ddde | choice/UI | x1
@@ -481,13 +481,13 @@ Did you punch Oswald?
 #### 2d5f70e4ec | choice/UI | x1
 ^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}% of players kept their composure when provoked by Oswald.
 
-#### d69b4c0b91-L? | choice/UI | x2
+#### d69b4c0b91 | choice/UI | x2
 Did you accept to keep Harvey’s secret?
 
-#### 4925f7fc46-L? | choice/UI | x2
+#### 4925f7fc46 | choice/UI | x2
 Did you give Vicki an official statement as Batman?
 
-#### ffbf80288d-L? | choice/UI | x1
+#### ffbf80288d | choice/UI | x1
 Did you hide from Harvey at Selina’s apartment?
 
 #### 9dfdf58147 | choice/UI | x1
@@ -529,19 +529,19 @@ You and {percent}% of players hid from Harvey when he arrived at Selina’s apar
 #### 8ac808cd65 | choice/UI | x2
 You and {percent}% of players confronted Harvey when he arrived at Selina’s apartment.
 
-#### 91707e3766-L? | choice/UI | x1
+#### 91707e3766 | choice/UI | x1
 How did you react when provoked by Oswald?
 
-#### b17c367da1-L? | choice/UI | x1
+#### b17c367da1 | choice/UI | x1
 Did you hurt the Children of Arkham member chasing Harvey?
 
-#### 20d744aaff-L? | choice/UI | x1
+#### 20d744aaff | choice/UI | x1
 Did you ask Lucius to work with you or stay at Wayne Enterprises?
 
-#### a3e6e9a18c-L? | choice/UI | x1
+#### a3e6e9a18c | choice/UI | x1
 Did you ask Selina to stay with you?
 
-#### 5fb9718e02-L? | choice/UI | x1
+#### 5fb9718e02 | choice/UI | x1
 Did you fight Harvey or go easy on him?
 
 #### 01128eda64 | choice/UI | x1
@@ -595,7 +595,7 @@ Told Oswald to pick up his mess.
 #### 261bd5f339 | choice/UI | x1
 Chose not to advise Lucius at all.
 
-#### ab18e97de9-L? | choice/UI | x1
+#### ab18e97de9 | choice/UI | x1
 Did you go along with Joker’s Plan?
 
 #### 033a3ea476 | choice/UI | x1
@@ -658,19 +658,19 @@ Did you go along with Joker’s Plan?
 #### b9a91069f1 | choice/UI | x1
 ^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players chose to stop Oswald from destroying your tech and risked Harvey destroying your home.
 
-#### afc8e7737e-L? | choice/UI | x2
+#### afc8e7737e | choice/UI | x2
 Did you promise Joker a favor?
 
-#### c388c9b885-L? | choice/UI | x2
+#### c388c9b885 | choice/UI | x2
 How did you get past the Enforcer Baricade?
 
-#### 2f27e97a14-L? | choice/UI | x2
+#### 2f27e97a14 | choice/UI | x2
 Did you deal with Harvey as Bruce or Batman?
 
-#### 316a4c69c7-L? | choice/UI | x2
+#### 316a4c69c7 | choice/UI | x2
 Did you stop Harvey or Oswald?
 
-#### 6f6fa61300-L? | choice/UI | x1
+#### 6f6fa61300 | choice/UI | x1
 How did you get out of Arkham?
 
 #### c11d214d04 | choice/UI | x1
@@ -697,16 +697,16 @@ Agreed to owe Joker a favor.
 #### 33ad0df298 | choice/UI | x1
 Denied Joker a favor.
 
-#### b31ab93a27-L? | choice/UI | x1
+#### b31ab93a27 | choice/UI | x1
 Did you go along with Joker’s story?
 
-#### 115a900acd-L? | choice/UI | x1
+#### 115a900acd | choice/UI | x1
 Where did you send Harvey?
 
 #### a50200010a | choice/UI | x1
 What were your last words to Selina?
 
-#### d2d1fcb1f3-L? | choice/UI | x1
+#### d2d1fcb1f3 | choice/UI | x1
 How did you interact with the boy?
 
 #### f89becdf43 | choice/UI | x2
@@ -748,7 +748,7 @@ You and {percent}% of players pressed the boy for useful information instead of 
 #### 85d1ac6437 | choice/UI | x2
 You and {percent}% of players
 
-#### 1ae37607c7-L? | choice/UI | x2
+#### 1ae37607c7 | choice/UI | x2
 How did you respond to Selina?
 
 #### d0addb072e | choice/UI | x1
@@ -799,16 +799,16 @@ How did you respond to Selina?
 #### 5449a1bd8c | choice/UI | x1
 ^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#9e1e1e^{percent}%^^ of players showed up to Gordon’s address as Batman.
 
-#### 190a68700d-L? | choice/UI | x1
+#### 190a68700d | choice/UI | x1
 What did you do with Harvey’s coin?
 
-#### 9c893732b4-L? | choice/UI | x2
+#### 9c893732b4 | choice/UI | x2
 Did you take off the cowl?
 
-#### af4bbcc281-L? | choice/UI | x2
+#### af4bbcc281 | choice/UI | x2
 Did you attend Gordon’s address as Bruce or Batman?
 
-#### a42427f9bc-L? | choice/UI | x1
+#### a42427f9bc | choice/UI | x1
 Did you successfully distract Penguin?
 
 #### aa74a6ba2f | choice/UI | x1
@@ -823,7 +823,7 @@ Did you successfully distract Penguin?
 #### 0ac5fb3fb4 | choice/UI | x1
 ^glyphScale:1.1^^font:MenuDisplaySmall.font^^color:#24c246^You and  {percent}%^^ of players could not keep Penguin distracted long enough for Gordon.
 
-#### d2347d6d0a-L? | choice/UI | x2
+#### d2347d6d0a | choice/UI | x2
 Did you blame Alfred for his involvement with Thomas Wayne?
 
 #### 8edfc4d3b4 | choice/UI | x1
@@ -874,7 +874,7 @@ Took the cowl off.
 #### 321708b4d1 | choice/UI | x1
 Kept the cowl on.
 
-#### 2c1538ccc0-L? | choice/UI | x1
+#### 2c1538ccc0 | choice/UI | x1
 How did you respond to Lady Arkham’s tape?
 
 #### 2ea71a032b | choice/UI | x1
@@ -892,10 +892,10 @@ You and {percent}% of players told Oswald goodbye.
 #### 759f3d87a5 | choice/UI | x2
 You and {percent}% of players told Oswald to enjoy prison.
 
-#### 984f3692c9-L? | choice/UI | x1
+#### 984f3692c9 | choice/UI | x1
 How did you react to Commissioner Grogan’s death?
 
-#### 3c74dd00f4-L? | choice/UI | x2
+#### 3c74dd00f4 | choice/UI | x2
 You and {percent}% of players told Gordon you would avenge Grogan’s death.
 
 #### f032fb1116 | choice/UI | x2
@@ -907,13 +907,13 @@ You and {percent}% of players told Gordon there wasn’t time to grieve.
 #### a68286b49a | choice/UI | x8
 You and {percent}% of players were silent.
 
-#### da24f62f3c-L? | choice/UI | x1
+#### da24f62f3c | choice/UI | x1
 How did you relate to Lady Arkham’s pain?
 
-#### f11838e29b-L? | choice/UI | x2
+#### f11838e29b | choice/UI | x2
 You and {percent}% of players told Lady Arkham that you understood her pain.
 
-#### 12d0fd59e0-L? | choice/UI | x2
+#### 12d0fd59e0 | choice/UI | x2
 You and {percent}% of players told Lady Arkham that you understood her need for justice.
 
 #### 047c565a98 | choice/UI | x2

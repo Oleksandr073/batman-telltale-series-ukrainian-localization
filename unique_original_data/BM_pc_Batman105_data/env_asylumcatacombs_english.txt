@@ -4,9 +4,6 @@ Welcome to the birthplace of Arkham.
 #### cc268ab428 | choice/UI → VICKI | x2
 This twisted place suits you.
 
-#### 862d39150e-LF | choice/UI, BATMAN → VICKI | x6
-Show yourself!
-
 #### 6428928d8c | choice/UI → VICKI | x2
 The Vales didn’t deserve that.
 
@@ -40,7 +37,7 @@ Perhaps you shouldn’t throw stones.
 #### 9e98a1b51a | BATMAN → VICKI | x2
 Enough of these games!
 
-#### 5800ba38b2-LM | VICKI → BATMAN | x2
+#### 5800ba38b2 | VICKI → BATMAN | x2
 After all, it may be your own grave that you hit.
 
 #### c3d87b4dce | VICKI → BATMAN | x2
@@ -91,7 +88,7 @@ You try to stop me, but you accomplish nothing by throwing men in jail.
 #### b3ea776300 | VICKI | x2
 Gotham has never done anything but enable it’s own destruction.
 
-#### 5a161cd3d9-SF | VICKI → BATMAN | x2
+#### 5a161cd3d9 | VICKI → BATMAN | x2
 I used to be like you, Batman. I recognize your idealism.
 
 #### bf07cfd7a0 | VICKI → BATMAN | x2
@@ -112,19 +109,19 @@ No, he’s not-- he stood by Thomas Wayne’s side and did nothing to stop him!
 #### f010925d4d | VICKI → BATMAN | x2
 Playing dumb isn’t going to save you.
 
-#### 8abca5bc21-SM | BATMAN → VICKI | x2
+#### 8abca5bc21 | BATMAN → VICKI | x2
 I saw the proof of how awful they were to you.
 
 #### 8b3af844fd | VICKI → BATMAN | x2
 Yes! No one else saw because of their smiles.
 
-#### 45c7e279c1-LF | BATMAN → VICKI | x2
+#### 45c7e279c1 | BATMAN → VICKI | x2
 You used Vicki Vale to get close to people.
 
 #### 773bc5c78d | BATMAN → VICKI | x2
 *You’re* the hypocrite.
 
-#### 4354f21e12-SF | VICKI → BATMAN | x2
+#### 4354f21e12 | VICKI → BATMAN | x2
 I was always honest about what I wanted.
 
 #### 1abb04733d | BATMAN → VICKI | x2
@@ -163,13 +160,13 @@ Oh, almost a shame, Batman.
 #### 4c275d3d3c | VICKI | x2
 We have to rid the world of people like him.
 
-#### 3d8b6086c4-L? | VICKI | x2
+#### 3d8b6086c4 | VICKI | x2
 You said yourself Wayne should be held accountable.
 
 #### 9b325fb196 | VICKI | x2
 You know what the Vales did to me, you agree that Bruce Wayne should be accountable--
 
-#### 93728d69ec-L? | VICKI | x2
+#### 93728d69ec | VICKI | x2
 If only you understood that death is sometimes the only way.
 
 #### b7b1bd683d | VICKI | x2
@@ -193,7 +190,7 @@ They’re all mine.
 #### c5c70830a0 | BATMAN → VICKI | x2
 Vicki! These games are beneath you.
 
-#### 28d474b2be-LF | BATMAN → VICKI | x4
+#### 28d474b2be | BATMAN → VICKI | x4
 Vicki! Show yourself!
 
 #### acc0fbe00b | BATMAN → VICKI | x6
@@ -232,10 +229,10 @@ Falcone and Hill... they *had* to die, to put things right.
 #### 6eff07aec2 | VICKI | x2
 Now he’ll live with the same pain. I want him to feel it, every day.
 
-#### 019fc8fc03-L? | VICKI | x2
+#### 019fc8fc03 | VICKI | x2
 You said yourself, there was no one else for me.
 
-#### defe199037-SF | VICKI → BATMAN | x2
+#### defe199037 | VICKI → BATMAN | x2
 I won’t let you interfere.
 
 #### d5acbc7463 | VICKI → BATMAN | x2
@@ -268,16 +265,16 @@ Just like you.
 #### 400fcfabc6 | BATMAN, choice/UI → LUCIUS, VICKI | x10
 The Vales were monsters.
 
-#### c95b655426-LF | BATMAN → VICKI | x2
+#### c95b655426 | BATMAN → VICKI | x2
 Just like you used Vicki Vale.
 
-#### a20912d7eb-SF | VICKI → BATMAN | x4
+#### a20912d7eb | VICKI → BATMAN | x4
 I lost the people I loved because of Bruce Wayne’s family.
 
-#### e764f496e9-LF | BATMAN → VICKI | x4
+#### e764f496e9 | BATMAN → VICKI | x4
 Giving yourself up is your only way out of this.
 
-#### 6f425d22c3-LF | choice/UI → VICKI | x2
+#### 6f425d22c3 | choice/UI → VICKI | x2
 Are you scared of me?
 
 #### 7c3d714f55 | VICKI → BATMAN | x4
@@ -310,7 +307,7 @@ Why the theatrics, Vicki?
 #### a55279211f | BATMAN → VICKI | x2
 Are you afraid to face me?
 
-#### 8e9a1299e3-SF | VICKI → BATMAN | x2
+#### 8e9a1299e3 | VICKI → BATMAN | x2
 I’m not afraid, but I’m also no fool.
 
 #### 991200efef | VICKI → BATMAN | x2
@@ -358,7 +355,7 @@ I’m just here to stop you, whatever it takes.
 #### f9aceb8ec6 | VICKI → BATMAN | x2
 That isn’t going to happen.
 
-#### 2811caf7b1-LF | BATMAN → VICKI | x2
+#### 2811caf7b1 | BATMAN → VICKI | x2
 You’ve suffered, Vicki.
 
 #### b3209a87a9 | BATMAN → VICKI | x2
@@ -400,13 +397,13 @@ Until there’s nothing left.
 #### 94ca541c9c | BATMAN → VICKI | x2
 I know this city nearly destoyed you.
 
-#### 03123ec458-LF | BATMAN → VICKI | x2
+#### 03123ec458 | BATMAN → VICKI | x2
 When you needed help, no one was there for you.
 
-#### 22ccc7fd8b-LF | BATMAN → VICKI | x2
+#### 22ccc7fd8b | BATMAN → VICKI | x2
 You were just a child--
 
-#### dae7b4aa9f-SF | VICKI → BATMAN | x2
+#### dae7b4aa9f | VICKI → BATMAN | x2
 And yet I survived. Because I knew that one day, I would bring this city to its knees.
 
 #### 091bc9db7e | BATMAN → VICKI | x2
@@ -430,7 +427,7 @@ But holding to ideals like that--it only makes you weak--
 #### 2ecfef7f44 | VICKI | x2
 --afraid to make hard choices.
 
-#### 6fa32ec527-SF | VICKI → BATMAN | x2
+#### 6fa32ec527 | VICKI → BATMAN | x2
 I’m not afraid. I’m going to make Wayne suffer.
 
 #### b3b0b69969 | VICKI → BATMAN | x2
@@ -442,16 +439,16 @@ But his guilt is in his blood.
 #### f19fd0f140 | BATMAN → VICKI | x2
 But his butler is innocent.
 
-#### b0b0fe829c-LM | VICKI → BATMAN | x2
+#### b0b0fe829c | VICKI → BATMAN | x2
 You would have seen the fallacy of what you protect.
 
-#### 95b36a3816-SF | VICKI → BATMAN | x2
+#### 95b36a3816 | VICKI → BATMAN | x2
 I would have torn the city’s false face away...
 
 #### 5b18256f0c | VICKI → BATMAN | x2
 And the Vales--they all wore masks, pretty faces that hid their ugly souls!
 
-#### 81537a4f4c-SF | VICKI → BATMAN | x2
+#### 81537a4f4c | VICKI → BATMAN | x2
 Even as Vicki--I fought to reveal the truth!
 
 #### 6296ce9a1f | choice/UI → VICKI | x2
@@ -514,19 +511,16 @@ You don’t scare me.
 #### f72216f556 | choice/UI → VICKI | x2
 I’ve come to help you.
 
-#### 5e350f6cc3-L? | choice/UI | x2
-You’re wrong!
-
 #### c65ae77a20 | choice/UI | x2
 I know Gotham hurt you.
 
 #### 77f995e584 | choice/UI | x2
 That’s how a terrorists thinks.
 
-#### e1db47f54b-L? | choice/UI | x2
+#### e1db47f54b | choice/UI | x2
 You’ve already lost!
 
-#### 831c48a5b4-LF | choice/UI → VICKI | x2
+#### 831c48a5b4 | choice/UI → VICKI | x2
 You’re sick, Vicki, you need help.
 
 #### 121b4a2b18 | choice/UI | x2
@@ -568,7 +562,7 @@ Mask protects who I am.
 #### e2dbb16286 | BATMAN → VICKI | x6
 Vicki!
 
-#### 35dfb40d59-LF | BATMAN → VICKI | x2
+#### 35dfb40d59 | BATMAN → VICKI | x2
 You’ve already lost, Vicki!
 
 #### 5111260436 | BATMAN → VICKI | x2
@@ -577,7 +571,7 @@ Come out and surrender!
 #### 1fa63dd1be | BATMAN → VICKI | x2
 You’re not well, Vicki.
 
-#### e144f28f41-LF | BATMAN → VICKI | x2
+#### e144f28f41 | BATMAN → VICKI | x2
 You need professional help.[PKUP]
 
 #### 9e762e16de | VICKI → BATMAN | x2
@@ -619,7 +613,7 @@ Why should I trust you’ll keep your word?
 #### 21e2f1f48d | VICKI → BATMAN | x2
 Because -- my mask is off now, Batman.
 
-#### 3a86f8263f-SF | VICKI → BATMAN | x2
+#### 3a86f8263f | VICKI → BATMAN | x2
 I won’t lie.
 
 #### 0a5a7f8054 | BATMAN → VICKI | x2
@@ -652,7 +646,7 @@ The same thing I’ll do to his butler.
 #### 8021ba3594 | BATMAN → VICKI | x2
 You can’t stop me, Vicki.
 
-#### 697b94aa7c-SM-LF | BATMAN → VICKI | x2
+#### 697b94aa7c | BATMAN → VICKI | x2
 I won’t let you hurt Pennyworth.
 
 #### e45a6a1fd2 | VICKI → BATMAN | x2
@@ -667,7 +661,7 @@ I’ve done great things for Gotham!
 #### 90834faa50 | VICKI → HARVEY | x2
 Falcone, Hill, Dent? None of them are problems anymore!
 
-#### 397b8c24db-SF | VICKI → HILL | x2
+#### 397b8c24db | VICKI → HILL | x2
 Falcone, Hill? Evil men -- and I stopped them.
 
 #### 912fa3bbd2 | VICKI → BATMAN | x2
@@ -691,7 +685,7 @@ You and I--we can’t act judge, jury and executioner.
 #### f86d79e392 | BATMAN → VICKI | x2
 Those men deserved their day in court, just like everyone else.
 
-#### b820e2d19e-LM | VICKI → BATMAN | x2
+#### b820e2d19e | VICKI → BATMAN | x2
 You’re wrong. The justice you deliver is weak. It fails, time and time again.
 
 #### a3a371c9e3 | VICKI → BATMAN | x2
@@ -706,7 +700,7 @@ Falcone, Hill? They would have been back on the streets within a month.
 #### 44b78a305a | VICKI → BATMAN | x2
 My justice is right.
 
-#### 8ab24259bf-SM | BATMAN → VICKI | x2
+#### 8ab24259bf | BATMAN → VICKI | x2
 I won’t argue. Falcone and Hill got what they deserved.
 
 #### 696946b59d | VICKI → BATMAN | x2
@@ -751,7 +745,7 @@ The mask is who I am.
 #### c1b7023f4b | BATMAN → VICKI | x2
 He’s the person I must be, to put things right.
 
-#### ed0f2d84f2-LM | VICKI → BATMAN | x2
+#### ed0f2d84f2 | VICKI → BATMAN | x2
 If that’s what you believe, you’re lying to yourself.
 
 #### ea0772c85a | VICKI → BATMAN | x2
@@ -763,19 +757,19 @@ So no one can judge the man beneath!
 #### d024210594 | BATMAN → VICKI | x2
 The mask is just a tool.
 
-#### adfc9a15be-SM | BATMAN → VICKI | x2
+#### adfc9a15be | BATMAN → VICKI | x2
 I could never do my job if people knew who I really was.
 
 #### 837fd7efa5 | VICKI → BATMAN | x2
 I understand...
 
-#### 4b14b231db-SF | VICKI → BATMAN | x2
+#### 4b14b231db | VICKI → BATMAN | x2
 When I first saw it, I found it... inspiring.
 
 #### 16b4aec0b7 | VICKI → BATMAN | x2
 Fine. Take your secrets to the grave.
 
-#### aeb7babcf3-LM | VICKI → BATMAN | x2
+#### aeb7babcf3 | VICKI → BATMAN | x2
 And once you’re dead, I’m going to mount that mask on my wall!
 
 #### 460e24fc4b | VICKI → BATMAN | x2
@@ -784,7 +778,7 @@ The symbol. The tool. The real man.
 #### 90c06d28b7 | VICKI → BATMAN | x2
 But first, I’ll see the man beneath.
 
-#### c2a1b488f7-LF | BATMAN → VICKI | x2
+#### c2a1b488f7 | BATMAN → VICKI | x2
 You’re getting ahead of yourself, Vicki.
 
 #### a47de7ead1 | VICKI → BATMAN | x4
@@ -808,7 +802,7 @@ The butler is paying for Bruce Wayne’s sins.
 #### 1e3aaca83a | BATMAN → VICKI | x2
 Vicki! Stop playing games!
 
-#### 53229b78a4-SM-LF | BATMAN → VICKI | x2
+#### 53229b78a4 | BATMAN → VICKI | x2
 I won’t let you hurt him.
 
 #### 85c028c2dd | VICKI → BATMAN | x2
@@ -829,19 +823,19 @@ You shouldn’t be defending him!
 #### d57c214152 | VICKI → BATMAN | x6
 I know why I wear the mask.
 
-#### b8cb3fccad-SF | VICKI → BATMAN | x6
+#### b8cb3fccad | VICKI → BATMAN | x6
 It’s who I am, who I was always meant to be.
 
-#### d7dcfd3533-SF | VICKI → BATMAN | x6
+#### d7dcfd3533 | VICKI → BATMAN | x6
 I’m curious, Batman--
 
-#### 8aa248bd07-SF | VICKI → BATMAN | x6
+#### 8aa248bd07 | VICKI → BATMAN | x6
 Vicki Vale was my mask... Lady Arkham is who I am. Who I was always meant to be...
 
-#### 61364122f9-SM | BATMAN → VICKI | x2
+#### 61364122f9 | BATMAN → VICKI | x2
 Who I need to be, to do what must be done.
 
-#### 6e7b7a9b43-SF | VICKI → BATMAN | x2
+#### 6e7b7a9b43 | VICKI → BATMAN | x2
 Well I was hoping for something a little more interesting.
 
 #### dd9255ca5f | VICKI → BATMAN | x2
@@ -859,7 +853,7 @@ The butler is paying for the Wayne family’s sins.
 #### ceaa7613cc | VICKI | x2
 Falcone and Hill deserved to die.
 
-#### 550a46eb8b-SF-L? | VICKI | x2
+#### 550a46eb8b | VICKI | x2
 If anything, I did you a favor!
 
 #### 5d68d7a2f5 | VICKI → BATMAN | x2

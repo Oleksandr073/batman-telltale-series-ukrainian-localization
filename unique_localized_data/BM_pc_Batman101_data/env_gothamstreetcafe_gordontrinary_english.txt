@@ -1,4 +1,4 @@
-﻿#### 4312919f7f-LM | GORDON → BRUCE | x2
+﻿#### 4312919f7f | GORDON → BRUCE | x2
 I don’t even want to know where you {FaceAccent} got this.
 
 #### ddd6818fe5 | GORDON → BRUCE | x2
@@ -31,22 +31,22 @@ Don’t want this to proceed under any false pretenses.
 #### 22f6a3cd66 | BRUCE → GORDON | x2
 I’m a businessman. {FaceAccent}I build relationships.
 
-#### 582b7574d7-LM | GORDON → BRUCE | x2
+#### 582b7574d7 | GORDON → BRUCE | x2
 I’ll just assume you were drawn to my {FaceAccent}{BodyAccent}effervescent personality.
 
-#### 2df615a012-SM-LM | BRUCE → GORDON | x2
+#### 2df615a012 | BRUCE → GORDON | x2
 I heard you were the {ThinkingA}{BodyAccent}last honest man on the {AngryA}force.
 
 #### 4c45d3c582 | GORDON → BRUCE | x2
 I wouldn’t exactly say that -- {AngryA}but yeah I’ve seen him -- {ThinkingA}around.
 
-#### 1473ddcd67-SM | BRUCE → GORDON | x2
+#### 1473ddcd67 | BRUCE → GORDON | x2
 I heard that you... {ConcernedA}{FaceAccent}{BodyAccent}work with the {AngryA}Batman sometimes.
 
 #### 85d1ac5329 | GORDON → BRUCE | x2
 Men that {FaceAccent}powerful -- they tend to be{FaceAccent} dangerous.
 
-#### b919b313a2-SM | GORDON → BRUCE | x2
+#### b919b313a2 | GORDON → BRUCE | x2
 Yeah. He’s probably the only guy out there I would trust with my life.
 
 #### 74e8778729 | BRUCE → GORDON | x2
@@ -70,7 +70,7 @@ This isn’t about {AngryA}politics.
 #### 0421991d87 | BRUCE → GORDON | x2
 Gotham is {SkepticalA}{BodyAccent}safer with Falcone {ConcernedA}{FaceAccent}off the streets.
 
-#### a2cdf1a746-LM | GORDON → BRUCE | x2
+#### a2cdf1a746 | GORDON → BRUCE | x2
 I’ve seen your house. Your cars. I know you’ve got the wallet for it...
 
 #### 481a0739aa | BRUCE → GORDON | x2
@@ -79,7 +79,7 @@ Well, he could{ConcernedA} protect you.
 #### db7f2c88c1 | GORDON → BRUCE | x2
 He’s not as much of a{TiredA} hero as you think.
 
-#### af06e4c6f4-SM | choice/UI → GORDON | x2
+#### af06e4c6f4 | choice/UI → GORDON | x2
 I’m sure you can handle it.
 
 #### 4fca6341cd | choice/UI → GORDON | x2
@@ -94,7 +94,7 @@ Men as powerful as you... they don’t usually trust so easy.
 #### ae794c78db | BRUCE, GORDON → ALFRED, BRUCE | x18
 I gotta go.
 
-#### db1ea75e18-SM | GORDON → BRUCE | x2
+#### db1ea75e18 | GORDON → BRUCE | x2
 I came straight from a crime scene and I {AngryA}haven’t been home yet.
 
 #### 709d42f19a | GORDON → BRUCE | x2
@@ -118,7 +118,7 @@ Don’t get me wrong--I appreciate the hell outta this.
 #### 220ed1e0e9 | GORDON → BRUCE | x2
 It’s a first step in the marathon to {determined}fix this city.
 
-#### 97392b37a7-SM | GORDON → BRUCE | x2
+#### 97392b37a7 | GORDON → BRUCE | x2
 I’ve got enough {AngryB}{FaceAccent}{BodyAccent}cancer coming my way as it is.
 
 #### 242bca36d8 | GORDON → BRUCE | x2
@@ -127,7 +127,7 @@ We wouldn’t want {FaceAccent}{BodyAccent}Falcone to know what’s coming.
 #### 51e373017a | GORDON → BRUCE | x2
 Thanks for the vote of confidence.
 
-#### a2def63e67-LM | BRUCE → GORDON | x2
+#### a2def63e67 | BRUCE → GORDON | x2
 Don’t put {ConcernedA}yourself in harm’s way.
 
 #### 0eff721b03 | GORDON → BRUCE | x2
@@ -157,7 +157,7 @@ But I’m not for sale.
 #### 772b554f78 | BRUCE → GORDON | x2
 What you’re holding... {SadA}will make walking it much safer.
 
-#### 291bc00ef8-SM | GORDON → BRUCE | x2
+#### 291bc00ef8 | GORDON → BRUCE | x2
 I’m tired of staring at his mugshot.
 
 #### 29815134eb | choice/UI → GORDON | x4
@@ -190,7 +190,7 @@ And it doesn’t hurt to have one with the GCPD.
 #### e3876483dd | GORDON → BRUCE | x2
 But this grants you an invitation for life.
 
-#### 7cf8596db8-LM | GORDON → BRUCE | x2
+#### 7cf8596db8 | GORDON → BRUCE | x2
 If you wanted to attend one of my famous barbecues, all you had to do was ask.
 
 #### 9e1bb68fdd | GORDON → BRUCE | x2
@@ -208,7 +208,7 @@ The guys who joined the force to make a difference... and those who just wanted 
 #### 07c1a8bc86 | GORDON → BRUCE | x2
 She’s why I go out there, night after night.
 
-#### e7932dc852-SM | GORDON → BRUCE | x2
+#### e7932dc852 | GORDON → BRUCE | x2
 I’ve got a daughter... Barbara.
 
 #### f2e1314474 | GORDON | x2
@@ -226,7 +226,7 @@ I do it so others won’t have to, simple as that.
 #### 9d2562b327 | GORDON → BRUCE | x2
 That’s the job, Mr. Wayne.
 
-#### df72cc9fc1-LM | BRUCE → GORDON | x2
+#### df72cc9fc1 | BRUCE → GORDON | x2
 Not many heroes like you left, Lieutenant.
 
 #### ccc6e7db11 | GORDON → BRUCE | x2
@@ -234,9 +234,6 @@ It’s alright, I wouldn’t expect you to understand.
 
 #### 98ee8bfca7 | GORDON → BRUCE | x2
 Cops, we got a screw loose, but I don’t regret a single moment of sticking my neck out for this city.
-
-#### e9fb7ef5aa-LM | ALFRED → GORDON | x2
-Though, you’re not dressed for that kind of party.
 
 #### 0acacb51e6 | GORDON → ALFRED | x2
 You know, as much as I appreciate you callin’ me here, I gotta make one thing crystal...
@@ -256,7 +253,7 @@ Hey, stick to “Jim.“
 #### 5e4b71c808 | BRUCE → GORDON | x2
 Well, Lieutenant.
 
-#### 5236509508-SM | GORDON → BRUCE | x2
+#### 5236509508 | GORDON → BRUCE | x2
 “Lieutenant” makes me sound old and I got plenty of asskickin’ left to do.
 
 #### 65c2021502 | ALFRED, BRUCE → BRUCE, GORDON | x8

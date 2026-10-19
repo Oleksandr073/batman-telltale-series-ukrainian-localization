@@ -30,7 +30,7 @@ He risked his reputation with the GCPD to let me keep working, unimpeded. Though
 
 He’s a good, by-the-book cop in a department that doesn’t trust Batman. He was recently tapped to lead the major crimes task force. An impressive promotion, so he’s doing something right. I think he could be a trustworthy and reliable source of info, but I’ll need to cultivate that relationship. He’s a family man, so he’s not willing to take necessary risks on the street. That’s fine. I’ll take the risks.
 
-#### 9962c7c0d9-SM | choice/UI → GORDON | x2
+#### 9962c7c0d9 | choice/UI → GORDON | x2
 Lieutenant, GCPD Major Crimes Unit
 Associates - Barbara Gordon (Daughter)
 
@@ -53,7 +53,7 @@ It turns out he’s back in town looking to restore his family name. And he’s 
 
 He was a childhood friend, but he’s almost a stranger to me now. Just like me, his family fell apart here in Gotham. He went off to boarding school in England and there our paths diverged. He seems to have fallen into a life of crime. The last two decades gave him a lengthy rap sheet and a strange nickname. “The Penguin?“ What happened to you, Oz?
 
-#### a8270ecc72-SM | choice/UI | x2
+#### a8270ecc72 | choice/UI | x2
 Investigative Journalist, Gotham Gazette
 
 -----------------------------------
@@ -63,7 +63,7 @@ I gave her all the evidence she needs to expose Falcone’s operations to the wo
 
 One of the Gazette’s most ambitious and competent reporters. I’ve read her stuff. Some of it can be a bit tabloid, but her passion for the truth is undeniable. She’s been with the paper for awhile, covered all kinds of beats. Someone like that has the kind of access others would kill for. She might even hear more about what’s going on in Gotham than I do. One day, I may need to find out what she knows.
 
-#### e6f4566d09-SM | choice/UI | x2
+#### e6f4566d09 | choice/UI | x2
 Investigative Journalist, Gotham Gazette
 
 -----------------------------------------
@@ -74,7 +74,7 @@ I gave her a quote to help defend my family’s name via the media. That’s the
 
 One of the Gazette’s most ambitious and competent reporters. I’ve read her stuff. Some of it can be a bit tabloid, but her passion for the truth is undeniable. She’s been with the paper for awhile, covered all kinds of beats. Someone like that has the kind of access others would kill for. She might even hear more about what’s going on in Gotham than I do. One day, I may need to find out what she knows.
 
-#### 84caf4888b-SM | choice/UI | x2
+#### 84caf4888b | choice/UI | x2
 Investigative Journalist, Gotham Gazette
 
 ---------------------------------------
@@ -96,7 +96,7 @@ Falcone claimed my family is responsible for the downfall of Gotham. That they w
 
 My parents. Dad was a physician, mom was a philanthropist. They worked tirelessly to help the less fortunate, setting up numerous charities and expending their vast resources to improve this city and its citizens. Murdered in an attempted robbery by a man known as “Joe Chill” (deceased).
 
-#### 5cc584e4fb-SM | choice/UI | x2
+#### 5cc584e4fb | choice/UI | x2
 Wayne Family Butler
 
 -------------------------
@@ -107,7 +107,7 @@ He never lets me forget the memory of my parents. They’re the reason I do ever
 
 Faithful, patient, ever-helpful Alfred. He’s been a part of the family my whole life. He raised me when my parents were murdered and guided me when I thought I was lost. He’s my butler, my confidante and the most secret weapon in my arsenal. He complains frequently about my nightly activities. But he’s still there to patch me up when I need it.
 
-#### 99d41154d3-SM | choice/UI | x2
+#### 99d41154d3 | choice/UI | x2
 Wayne Family Butler
 
 ----------------------
@@ -129,7 +129,7 @@ Falcone mentioned some kind of criminal involvement between the Falcones, the Hi
 
 Exhibit A in what’s wrong with this city. Hill should have been thrown out of office years ago, but he’s got his hands wrapped around Gotham’s government in a death grip. He’s been suspected of numerous crimes, but there’s never been enough to make any of it stick. He’s rotten to the core and one day this city will realize it. Harvey’s out there doing his best and, hopefully, this upcoming election will be the end of Hill’s corrupt administration.
 
-#### 9c8ea05314-SM | choice/UI → GORDON | x2
+#### 9c8ea05314 | choice/UI → GORDON | x2
 Lieutenant, GCPD Major Crimes Unit
 Associates - Barbara Gordon (Daughter)
 
@@ -141,7 +141,7 @@ My aggressive interrogation tactics at the docks may be straining his trust in m
 
 He’s a good, by-the-book cop in a department that doesn’t trust Batman. He was recently tapped to lead the major crimes task force. An impressive promotion, so he’s doing something right. I think he could be a trustworthy and reliable source of info, but I’ll need to cultivate that relationship. He’s a family man, so he’s not willing to take necessary risks on the street. That’s fine. I’ll take the risks.
 
-#### f707a20b67-SM | choice/UI → FALCONE | x4
+#### f707a20b67 | choice/UI → FALCONE | x4
 Skyline Club Owner, Head of Falcone Crime Family
 
 -------------------------------------
@@ -155,7 +155,7 @@ Founders of Wayne Enterprises
 
 My parents. Dad was a physician, mom was a philanthropist. They worked tirelessly to help the less fortunate, setting up numerous charities and expending their vast resources to improve this city and its citizens. Murdered in an attempted robbery by a man known as “Joe Chill” (deceased).
 
-#### 3b94d3ea7c-SM | choice/UI | x2
+#### 3b94d3ea7c | choice/UI | x2
 Wayne Family Butler
 
 Faithful, patient, ever-helpful Alfred. He’s been a part of the family my whole life. He raised me when my parents were murdered and guided me when I thought I was lost. He’s my butler, my confidante and the most secret weapon in my arsenal. He complains frequently about my nightly activities, but he’s still there to patch me up when I need it.
@@ -170,12 +170,12 @@ Mayor of Gotham City
 
 Exhibit A in what’s wrong with this city. Hill should have been thrown out of office years ago, but he’s got his hands wrapped around Gotham’s government in a death grip. He’s been suspected of numerous crimes, but there’s never been enough to make any of it stick. He’s rotten to the core and one day this city will realize it. Harvey’s out there doing his best and, hopefully, this upcoming election will be the end of Hill’s corrupt administration.
 
-#### 6ff1dc7a60-SM | choice/UI | x2
+#### 6ff1dc7a60 | choice/UI | x2
 CRIMES - Burglary, Petty Larceny
 
 New criminal on the scene, tied to several recent break-ins. She’s effective and doesn’t leave many clues behind. Currently, the GCPD has no leads. I wish I knew more about her.
 
-#### 7c1169b6b3-SM | choice/UI | x2
+#### 7c1169b6b3 | choice/UI | x2
 CRIMES - Mayor’s Office Break-In, Burglary, Petty Larceny
 
 Thief for hire. Beyond that, I don’t know much about her, not even who she’s working for. I wish I did because she’s good at what she does. She caught me off guard during the break-in at the mayor’s office. That was a mistake I won’t let happen again, but I don’t think she’s a threat to be put down. Yet. I need to find out more about her.
@@ -186,17 +186,17 @@ Associates - Barbara Gordon (Daughter)
 
 He’s a good, by-the-book cop in a department that doesn’t trust Batman. He was recently tapped to lead the major crimes task force. An impressive promotion, so he’s doing something right. I think he could be a trustworthy and reliable source of info, but I’ll need to cultivate that relationship. He’s a family man, so he’s not willing to take necessary risks on the street. That’s fine. I’ll take the risks.
 
-#### 3ea8e95111-SM | choice/UI | x2
+#### 3ea8e95111 | choice/UI | x2
 Investigative Journalist, Gotham Gazette
 
 One of the Gazette’s most ambitious and competent reporters. I’ve read her stuff. Some of it can be a bit tabloid, but her passion for the truth is undeniable. She’s been with the paper for awhile, covered all kinds of beats. Someone like that has the kind of access others would kill for. She might even hear more about what’s going on in Gotham than I do. One day, I may need to find out what she knows.
 
-#### 4899e45a54-SM | choice/UI | x2
+#### 4899e45a54 | choice/UI | x2
 Skyline Club Owner, Head of Falcone Crime Family
 
 The worst kind of gangster -- one who tries to mingle with high society. He seems to have his hands in everything, including smuggling, real estate, bribery and fraud. I could haul him to jail, but he’d walk the next day. I could shut down one operation, but two would pop up in its place. His empire is vast and multi-layered -- finding hard, admissible evidence is required for a conviction.
 
-#### 75cc57b986-SM | choice/UI | x2
+#### 75cc57b986 | choice/UI | x2
 CRIMES - Mayor’s Office Break-in, Burglary, Petty Larceny
 
 ---------------------------------------
@@ -207,7 +207,7 @@ It turns out her real name is Selina Kyle and she’s friends with Harvey. But m
 
 Thief for hire. Beyond that, I don’t know much about her, not even who she’s working for. I wish I did because she’s good at what she does. She caught me off guard during the break-in at the mayor’s office. That was a mistake I won’t let happen again, but I don’t think she’s a threat to be put down. Yet. I need to find out more about her.
 
-#### 05219f2cfd-SM | choice/UI | x2
+#### 05219f2cfd | choice/UI | x2
 Skyline Club Owner, Head of Falcone Crime Family
 
 -------------------------------------
@@ -216,7 +216,7 @@ Falcone’s goons acquired explosive chemicals in a heist at the docks. After an
 
 The worst kind of gangster -- one who tries to mingle with high society. He seems to have his hands in everything, including smuggling, real estate, bribery and fraud. I could haul him to jail, but he’d walk the next day. I could shut down one operation, but two would pop up in its place. His empire is vast and multi-layered -- finding hard, admissible evidence is required for a conviction.
 
-#### 0093af9d5a-SM | choice/UI → GORDON | x2
+#### 0093af9d5a | choice/UI → GORDON | x2
 Lieutenant, GCPD Major Crimes Unit
 Associates - Barbara Gordon (Daughter)
 
@@ -241,12 +241,12 @@ Established November 1921
 
 Gotham City’s only maximum security psychiatric hospital… for now. Outdated in every way: building is falling apart, equipment is antiquated, and the staff’s methodology leaves much to be desired. When the Thomas and Martha Wayne Memorial Hospital opens, these patients will finally get the treatment they need.
 
-#### 24bc59d08a-SM | choice/UI | x2
+#### 24bc59d08a | choice/UI | x2
 Established 1870
 
 Multinational corporation founded by my ancestors, covering all manner of manufacturing and finance. I inherited a majority stake from my father, but I’m not involved in the day-to-day operations. However the R&D resources have been helpful in pursuing my private interests.
 
-#### e03005794a-SM | choice/UI | x2
+#### e03005794a | choice/UI | x2
 Park Row, Gotham City
 
 The spot where my parents were assassinated. The alley across from the Monarch Theatre is the place my childhood ended and the rest of my life began -- violently. Despite the fact that I installed a plaque there to honor them, I’ve made sure the alley has looked the same as the night my parents were shot. Why should I attempt to erase what can never be forgotten? Instead, I need to understand why they died.
@@ -269,7 +269,7 @@ James Gordon
 #### 8fac7c5681 | choice/UI | x2
 Gotham City
 
-#### 06cf42b48a-SM | choice/UI | x2
+#### 06cf42b48a | choice/UI | x2
 Established 1870
 
 ------------------------------------------
@@ -282,7 +282,7 @@ Multinational corporation founded by my ancestors, covering all manner of manufa
 #### 6e420c62e4 | choice/UI | x2
 Crime Alley
 
-#### 723c10c93d-SM | choice/UI → GORDON | x2
+#### 723c10c93d | choice/UI → GORDON | x2
 Lieutenant, GCPD Major Crimes Unit
 Associates - Barbara Gordon (Daughter)
 
@@ -310,7 +310,7 @@ Carmine Falcone denied any involvement in my parents’ murder. More than that, 
 
 My parents. Dad was a physician, mom was a philanthropist. They worked tirelessly to help the less fortunate, setting up numerous charities and expending their vast resources to improve this city and its citizens. Murdered by a man known as “Joe Chill” (deceased) in a planned assassination.
 
-#### 7b7c7a336d-SM | choice/UI | x2
+#### 7b7c7a336d | choice/UI | x2
 Founders of Wayne Enterprises
 
 ------------------------
@@ -332,7 +332,7 @@ The more I hear about my father’s life, the worse it gets. It’s bad enough h
 
 My parents. Dad was a physician, mom was a philanthropist. They worked tirelessly to help the less fortunate, setting up numerous charities and expending their vast resources to improve this city and its citizens. Murdered by a man known as “Joe Chill” (deceased) in a planned assassination.
 
-#### 0dc8a29399-SM | choice/UI | x2
+#### 0dc8a29399 | choice/UI | x2
 Wayne Family Butler
 
 ----------------------
@@ -343,7 +343,7 @@ After all these years, Alfred revealed things to me about my parents I’d never
 
 Faithful, patient, ever-helpful Alfred. He’s been a part of the family my whole life. He raised me when my parents were murdered and guided me when I thought I was lost. He’s my butler, my confidante and the most secret weapon in my arsenal. He complains frequently about my nightly activities. But he’s still there to patch me up when I need it.
 
-#### 053e14092b-SM | choice/UI | x2
+#### 053e14092b | choice/UI | x2
 Gotham City District Attorney, Mayoral Candidate
 
 ----------------------------
@@ -353,7 +353,7 @@ Thankful that Harvey was able to pull strings to get me access to Falcone, despi
 
 A new friend and the best district attorney Gotham City has seen in years. His political ambitions have always been as big as his ego and now he’s hoping to become mayor. He’s got so many great ideas for how to save this city -- I think he’ll be good for Gotham, but I have to steer him down the right path to get there. He’s too easily swayed by anyone with power, regardless of their murky morality.
 
-#### 89505084aa-SM | choice/UI | x2
+#### 89505084aa | choice/UI | x2
 Gotham City District Attorney, Mayoral Candidate
 
 ----------------------------
@@ -363,7 +363,7 @@ The strain of recent events is starting to take its toll on our relationship. Ha
 
 A new friend and the best district attorney Gotham City has seen in years. His political ambitions have always been as big as his ego and now he’s hoping to become mayor. He’s got so many great ideas for how to save this city -- I think he’ll be good for Gotham, but I have to steer him down the right path to get there. He’s too easily swayed by anyone with power, regardless of their murky morality.
 
-#### e3590964fc-SM | choice/UI | x2
+#### e3590964fc | choice/UI | x2
 Gotham City District Attorney, Mayoral Candidate
 
 ----------------------------
@@ -373,7 +373,7 @@ The corruption stories about my family are wreaking havoc on Harvey’s campaign
 
 A new friend and the best district attorney Gotham City has seen in years. His political ambitions have always been as big as his ego and now he’s hoping to become mayor. He’s got so many great ideas for how to save this city -- I think he’ll be good for Gotham, but I have to steer him down the right path to get there. He’s too easily swayed by anyone with power, regardless of their murky morality.
 
-#### 4015fb5e79-SM | choice/UI | x2
+#### 4015fb5e79 | choice/UI | x2
 Skyline Club Owner, Head of Falcone Crime Family
 
 -------------------------------------
@@ -395,7 +395,7 @@ After what happened inside GCPD’s own headquarters, it’s apparent that Gordo
 
 He’s a good, by-the-book cop in a department that doesn’t trust Batman. He was recently tapped to lead the major crimes task force. An impressive promotion, so he’s doing something right. I think he could be a trustworthy and reliable source of info, but I’ll need to cultivate that relationship. He’s a family man, so he’s not willing to take necessary risks on the street. That’s fine. I’ll take the risks.
 
-#### e18c9b575e-SM | choice/UI | x2
+#### e18c9b575e | choice/UI | x2
 CRIMES - Mayor’s Office Break-in, Burglary, Petty Larceny
 
 ---------------------------------------
@@ -406,7 +406,7 @@ I rushed to warn Selina that Penguin was coming after her and ended up trying to
 
 Thief for hire. Beyond that, I don’t know much about her. I wish I did, because she’s good at what she does. She’s caught up in whatever Penguin’s involved in, but they’re not on the same side. That’s a relief.
 
-#### ed0afa2d22-SM | choice/UI | x2
+#### ed0afa2d22 | choice/UI | x2
 CRIMES - Mayor’s Office Break-in, Burglary, Petty Larceny
 
 ---------------------------------------
@@ -417,7 +417,7 @@ Selina and I fought off a squad of Penguin’s goons. I have to admit, we worked
 
 Thief for hire. Beyond that, I don’t know much about her. I wish I did, because she’s good at what she does. She’s caught up in whatever Penguin’s involved in, but they’re not on the same side. That’s a relief.
 
-#### c47175d463-SM | choice/UI | x4
+#### c47175d463 | choice/UI | x4
 CRIMES - Arms Dealing, Illegal Boxing Matches, Receiving Stolen Property
 
 -------------------------------
@@ -438,7 +438,7 @@ I didn’t think much of it when Oz was rambling on about a revolution in Gotham
 
 He was a childhood friend, but he’s almost a stranger to me now. Just like me, his family fell apart here in Gotham. He went off to boarding school in England and there our paths diverged. He seems to have fallen into a life of crime. The last two decades gave him a lengthy rap sheet and a strange nickname. “The Penguin?“ What happened to you, Oz?
 
-#### f5bf57472a-SM | choice/UI | x2
+#### f5bf57472a | choice/UI | x2
 Mayor of Gotham City
 
 ------------------------------
@@ -448,7 +448,7 @@ The Batman paid the mayor a visit. He folded like I knew he would, but what he r
 
 Exhibit A in what’s wrong with this city. Hill should have been thrown out of office years ago, but he’s got his hands wrapped around Gotham’s government in a death grip. He’s been suspected of numerous crimes, but there’s never been enough to make any of it stick. He’s rotten to the core and one day this city will realize it. Harvey’s out there doing his best and, hopefully, this upcoming election will be the end of Hill’s corrupt administration.
 
-#### e9e94b046f-SM | choice/UI | x2
+#### e9e94b046f | choice/UI | x2
 Mayor of Gotham City
 
 ------------------------------
@@ -459,7 +459,7 @@ I confronted Hill, but the only way to get him to talk was to betray Harvey. He 
 
 Exhibit A in what’s wrong with this city. Hill should have been thrown out of office years ago, but he’s got his hands wrapped around Gotham’s government in a death grip. He’s been suspected of numerous crimes, but there’s never been enough to make any of it stick. He’s rotten to the core and one day this city will realize it. Harvey’s out there doing his best and, hopefully, this upcoming election will be the end of Hill’s corrupt administration.
 
-#### d604bd452d-SM | choice/UI | x2
+#### d604bd452d | choice/UI | x2
 Mayor of Gotham City
 
 ------------------------------
@@ -470,7 +470,7 @@ I confronted Hill. He confirmed the rumors about my father, including that he st
 
 Exhibit A in what’s wrong with this city. Hill should have been thrown out of office years ago, but he’s got his hands wrapped around Gotham’s government in a death grip. He’s been suspected of numerous crimes, but there’s never been enough to make any of it stick. He’s rotten to the core and one day this city will realize it. Harvey’s out there doing his best and, hopefully, this upcoming election will be the end of Hill’s corrupt administration.
 
-#### 0b01ffbf19-SM | choice/UI | x2
+#### 0b01ffbf19 | choice/UI | x2
 Investigative Journalist, Gotham Gazette
 
 ----------------------------------
@@ -480,7 +480,7 @@ Vale is relentless. And she definitely has a nose for news. She was at the stati
 ----------------------------------
 One of the Gazette’s most ambitious and competent reporters. I’ve read her stuff. Some of it can be a bit tabloid, but her passion for the truth is undeniable. She’s been with the paper for while, covered all kind of beats. Someone like that has the kind of access others would kill for. She might even hear more about what’s going on in Gotham than I do. One day, I may need to find out what she knows.
 
-#### ceca2d9d4b-SM | choice/UI | x2
+#### ceca2d9d4b | choice/UI | x2
 Investigative Journalist, Gotham Gazette
 
 ----------------------------------
@@ -499,7 +499,7 @@ Head of Wayne Enterprises Research and Development Division.
 
 He’s the only person I trust to develop all of the tech for Batman while maintaining a low profile. He built the backdoor into Wayne Enterprises’ system for the benefit of Batman. But now the Children of Arkham have found that door and can exploit the same information. Luckily, Lucius increased the security measures on Batman’s signal, so they won’t be able to get into our system.
 
-#### ea2b1c2908-SM | choice/UI | x4
+#### ea2b1c2908 | choice/UI | x4
 The masked leader of the Children of Arkham. There’s no indication as to who it might be, but it looks like he’s the one pulling the strings in the whole operation. Even Penguin was taking orders from him. I just wish I knew what they’re really after, so I can stop it.
 
 #### 1c43d5496b | choice/UI | x2
@@ -508,13 +508,13 @@ Children of Arkham Leader
 #### ad990d5e34 | choice/UI | x2
 They officially revealed themselves at the debate, but the Children of Arkham have been lurking around for a while. The heist at City Hall, the stolen chemicals at the docks, Falcone’s murder. They all link back to the Children of Arkham. Penguin’s one of them, but I’m more worried about their mysterious leader.
 
-#### bba230724c-SM | choice/UI | x2
+#### bba230724c | choice/UI | x2
 Wayne Enterprises is a corporate conglomerate, and Wayne Tech handles our telecommunications branch, through phones, computers, and other technological devices. Lucius built a backdoor into the Wayne Tech system for Batman, so I could monitor the city and keep Gotham safe. But the Children of Arkham have found a way to access the same information, and while they can’t spy on Batman, it won’t stop them from spying on the rest of the city.
 
 #### e9e0658e28 | choice/UI | x2
 Wayne Tech
 
-#### 469edfaffe-SM | choice/UI | x2
+#### 469edfaffe | choice/UI | x2
 Founders of Wayne Enterprises
 
 ------------------------
@@ -525,7 +525,7 @@ My father built Wayne Enterprises on stolen land, built his fortune on the backs
 
 My parents. Dad was a physician, mom was a philanthropist. They worked tirelessly to help the less fortunate, setting up numerous charities and expending their vast resources to improve this city and its citizens. Murdered by a man known as “Joe Chill” (deceased) in a planned assassination.
 
-#### 25cc38abcb-SM | choice/UI | x2
+#### 25cc38abcb | choice/UI | x2
 Wayne Family Butler
 
 ----------------------
@@ -536,7 +536,7 @@ I’ve never had a reason to doubt Alfred until recently, but he’s still the o
 
 Faithful, patient, ever-helpful Alfred. He’s been a part of the family my whole life. He raised me when my parents were murdered and guided me when I thought I was lost. He’s my butler, my confidante and the most secret weapon in my arsenal. He complains frequently about my nightly activities. But he’s still there to patch me up when I need it.
 
-#### 7f73cc3fe1-SM | choice/UI | x2
+#### 7f73cc3fe1 | choice/UI | x2
 Mayor of Gotham City
 
 ------------------------------
@@ -550,7 +550,7 @@ Exhibit A in what’s wrong with this city. Hill should have been thrown out of 
 #### 2f6fd2428b | choice/UI | x2
 Hamilton Hill (DECEASED)
 
-#### bcf86ee95f-SM | choice/UI | x2
+#### bcf86ee95f | choice/UI | x2
 CRIMES - Arms Dealing, Illegal Boxing Matches, Receiving Stolen Property
 
 -------------------------------
@@ -560,7 +560,7 @@ I didn’t realize how dangerous the Penguin could be until the debate. He shot 
 ------------------------------
 I don’t even recognize my old friend Oswald anymore -- all I see is the Penguin. When he reappeared in Gotham City, I was a fool to dismiss his ramblings about revenge and revolution. He is central to whatever conspiracy is unfolding in Gotham. The pieces are all there: the psychoactive chemicals, Falcone’s murder and the investigation of my father and Mayor Hill. I have to figure out what the Penguin is up to before he makes good on the rest of his promises.
 
-#### 46186af1c5-SM | choice/UI | x2
+#### 46186af1c5 | choice/UI | x2
 Investigative Journalist, Gotham Gazette
 
 ----------------------------------
@@ -582,7 +582,7 @@ Montoya decided to go up against the Children of Arkham herself. I admire her st
 
 Jim Gordon says she’s a good cop. “True blue” were his words. Yet someone got her to murder Carmine Falcone in cold blood, turning her into a pawn to further a mysterious “revolution.“ Unless I figure out who’s really behind the killing and why, she’ll unfairly take the fall.
 
-#### e963c2a1f4-SM | choice/UI → FALCONE | x2
+#### e963c2a1f4 | choice/UI → FALCONE | x2
 POPULATION - 10 million
 
 -------------------------------------
@@ -593,7 +593,7 @@ Looks like Hill, Falcone, and my father were closer than I thought. They were ru
 
 This city is like a living creature. It’s always growing, outward and upward. The people who live here are survivors -- they have to be -- and they deserve better than the corruption that infests this place.
 
-#### 20cb2ea262-SM | choice/UI | x2
+#### 20cb2ea262 | choice/UI | x2
 Established 1870
 
 ------------------------------------------
@@ -604,7 +604,7 @@ My own company’s been stripped away, and now the Penguin of all people sits at
 
 Multinational corporation founded by my ancestors, covering all manner of manufacturing and finance. I inherited a majority stake from my father, but I’m not involved in the day-to-day operations. However the R&D resources have been helpful in pursuing my private interests.
 
-#### 8ff38204a1-SM | choice/UI | x2
+#### 8ff38204a1 | choice/UI | x2
 Head of Wayne Enterprises Research and Development Division.
 
 ----------------------------------------------
@@ -615,7 +615,7 @@ I told Lucius to stay at Wayne Enterprises. I know it’s not ideal, but it’s 
 
 He’s the only person I trust to develop all of the tech for Batman while maintaining a low profile. He built the backdoor into Wayne Enterprises’ system for the benefit of Batman. But now the Children of Arkham have found that door and can exploit the same information. Luckily, Lucius increased the security measures on Batman’s signal, so they won’t be able to get into our system.
 
-#### 5f2055266b-SM | choice/UI | x2
+#### 5f2055266b | choice/UI | x2
 Head of Wayne Enterprises Research and Development Division.
 
 ----------------------------------------------
@@ -637,7 +637,7 @@ Lucius quit his job at Wayne Enterprises so he can continue developing tech for 
 
 He’s the only person I trust to develop all of the tech for Batman while maintaining a low profile. He built the backdoor into Wayne Enterprises’ system for the benefit of Batman. But now the Children of Arkham have found that door and can exploit the same information. Luckily, Lucius increased the security measures on Batman’s signal, so they won’t be able to get into our system.
 
-#### 00cf3be2ba-SM | choice/UI → GORDON | x2
+#### 00cf3be2ba | choice/UI → GORDON | x2
 Lieutenant, GCPD Major Crimes Unit
 Associates - Barbara Gordon (Daughter)
 
@@ -649,7 +649,7 @@ Jim and I are on rocky ground--I haven’t been delicate with the Children of Ar
 
 He’s a good, by-the-book cop in a department that doesn’t trust Batman. He was recently tapped to lead the major crimes task force. An impressive promotion, so he’s doing something right. I think he could be a trustworthy and reliable source of info, but I’ll need to cultivate that relationship. He’s a family man, so he’s not willing to take necessary risks on the street. That’s fine. I’ll take the risks.
 
-#### 1de483ef02-SM | choice/UI → GORDON | x2
+#### 1de483ef02 | choice/UI → GORDON | x2
 Lieutenant, GCPD Major Crimes Unit
 Associates - Barbara Gordon (Daughter)
 
@@ -661,7 +661,7 @@ Jim has placed a lot of trust in me recently, and I don’t intend to break that
 
 He’s a good, by-the-book cop in a department that doesn’t trust Batman. He was recently tapped to lead the major crimes task force. An impressive promotion, so he’s doing something right. I think he could be a trustworthy and reliable source of info, but I’ll need to cultivate that relationship. He’s a family man, so he’s not willing to take necessary risks on the street. That’s fine. I’ll take the risks.
 
-#### e38202a5b8-SM | choice/UI | x2
+#### e38202a5b8 | choice/UI | x2
 CRIMES - Mayor’s Office Break-in, Burglary, Petty Larceny
 
 ---------------------------------------
@@ -672,7 +672,7 @@ Selina was a true asset during the debate. She’s one of the smartest people I�
 
 Thief for hire. Beyond that, I don’t know much about her. I wish I did, because she’s good at what she does. She’s caught up in whatever Penguin’s involved in, but they’re not on the same side. That’s a relief.
 
-#### 51b3976996-SM | choice/UI | x2
+#### 51b3976996 | choice/UI | x2
 CRIMES - Mayor’s Office Break-in, Burglary, Petty Larceny
 
 ---------------------------------------
@@ -683,7 +683,7 @@ Selina has proved herself as one of the most resourceful people I’ve encounter
 
 Thief for hire. Beyond that, I don’t know much about her. I wish I did, because she’s good at what she does. She’s caught up in whatever Penguin’s involved in, but they’re not on the same side. That’s a relief.
 
-#### e56eef5588-SM | choice/UI | x2
+#### e56eef5588 | choice/UI | x2
 Gotham City District Attorney, Mayoral Candidate
 
 ----------------------------
@@ -694,7 +694,7 @@ I wonder how Harvey would react if he knew it wasn’t just Catwoman I saved at 
 
 A new friend and the best district attorney Gotham City has seen in years. His political ambitions have always been as big as his ego and now he’s hoping to become mayor. He’s got so many great ideas for how to save this city -- I think he’ll be good for Gotham, but I have to steer him down the right path to get there. He’s too easily swayed by anyone with power, regardless of their murky morality.
 
-#### e9efaf2217-SM | choice/UI | x2
+#### e9efaf2217 | choice/UI | x2
 Gotham City District Attorney, Mayoral Candidate
 
 ----------------------------
@@ -705,7 +705,7 @@ Harvey certainly wasn’t shown any mercy at the debate, though he deserved it. 
 
 A new friend and the best district attorney Gotham City has seen in years. His political ambitions have always been as big as his ego and now he’s hoping to become mayor. He’s got so many great ideas for how to save this city -- I think he’ll be good for Gotham, but I have to steer him down the right path to get there. He’s too easily swayed by anyone with power, regardless of their murky morality.
 
-#### 8f78da3c58-SM | choice/UI | x2
+#### 8f78da3c58 | choice/UI | x2
 CRIMES - Arms Dealing, Illegal Boxing Matches, Receiving Stolen Property
 
 -------------------------------
@@ -715,7 +715,7 @@ I can’t even begin to imagine the terrible things Oswald is doing to Wayne Ent
 ------------------------------
 I don’t even recognize my old friend Oswald anymore -- all I see is the Penguin. When he reappeared in Gotham City, I was a fool to dismiss his ramblings about revenge and revolution. He is central to whatever conspiracy is unfolding in Gotham. The pieces are all there: the psychoactive chemicals, Falcone’s murder and the investigation of my father and Mayor Hill. I have to figure out what the Penguin is up to before he makes good on the rest of his promises.
 
-#### c6b629074e-SM | choice/UI | x2
+#### c6b629074e | choice/UI | x2
 CRIMES - Arms Dealing, Illegal Boxing Matches, Receiving Stolen Property
 
 -------------------------------
@@ -728,7 +728,7 @@ I don’t even recognize my old friend Oswald anymore -- all I see is the Pengui
 #### ae6e4d1209 | choice/UI | x6
 John Doe
 
-#### 84894b48e2-SM | choice/UI | x2
+#### 84894b48e2 | choice/UI | x2
 Wayne Family Butler
 
 ----------------------
@@ -739,7 +739,7 @@ My reputation has been ruined and my name is worthless, but somehow Alfred remai
 
 Faithful, patient, ever-helpful Alfred. He’s been a part of the family my whole life. He raised me when my parents were murdered and guided me when I thought I was lost. He’s my butler, my confidante and the most secret weapon in my arsenal. He complains frequently about my nightly activities. But he’s still there to patch me up when I need it.
 
-#### 2447b53721-SM | choice/UI | x2
+#### 2447b53721 | choice/UI | x2
 Mayor of Gotham City
 
 ----------------------------
@@ -750,7 +750,7 @@ My money helped get him there, but now I have to admit that Gotham city has a mo
 
 A new friend and the best district attorney Gotham City has seen in years. His political ambitions have always been as big as his ego and now he’s hoping to become mayor. He’s got so many great ideas for how to save this city -- I think he’ll be good for Gotham, but I have to steer him down the right path to get there. He’s too easily swayed by anyone with power, regardless of their murky morality.
 
-#### dac0b133d4-SM | choice/UI | x2
+#### dac0b133d4 | choice/UI | x2
 CRIMES - Mayor’s Office Break-in, Burglary, Petty Larceny
 
 ---------------------------------------
@@ -761,7 +761,7 @@ I convinced Selina to stay with me for a bit, but Harvey’s latest round of cra
 
 Thief for hire. Beyond that, I don’t know much about her. I wish I did, because she’s good at what she does. She’s caught up in whatever Penguin’s involved in, but they’re not on the same side. That’s a relief.
 
-#### a3573423f4-SM | choice/UI | x2
+#### a3573423f4 | choice/UI | x2
 CRIMES - Mayor’s Office Break-in, Burglary, Petty Larceny
 
 ---------------------------------------
@@ -772,7 +772,7 @@ Selina may have wanted out of Gotham, but she’s still keeping an eye out for m
 
 Thief for hire. Beyond that, I don’t know much about her. I wish I did, because she’s good at what she does. She’s caught up in whatever Penguin’s involved in, but they’re not on the same side. That’s a relief.
 
-#### 76adb6f461-SM | choice/UI → GORDON | x2
+#### 76adb6f461 | choice/UI → GORDON | x2
 Lieutenant, GCPD Major Crimes Unit
 Associates - Barbara Gordon (Daughter)
 
@@ -784,7 +784,7 @@ I wasn’t in Arkham Asylum long and already the city is worse than I left it. I
 
 He’s a good, by-the-book cop in a department that doesn’t trust Batman. He was recently tapped to lead the major crimes task force. An impressive promotion, so he’s doing something right. I think he could be a trustworthy and reliable source of info, but I’ll need to cultivate that relationship. He’s a family man, so he’s not willing to take necessary risks on the street. That’s fine. I’ll take the risks.
 
-#### 7597e2976b-SM | choice/UI → GORDON | x2
+#### 7597e2976b | choice/UI → GORDON | x2
 Lieutenant, GCPD Major Crimes Unit
 Associates - Barbara Gordon (Daughter)
 
@@ -796,7 +796,7 @@ I thought I could handle everything on my own, but Jim Gordon has proven me wron
 
 He’s a good, by-the-book cop in a department that doesn’t trust Batman. He was recently tapped to lead the major crimes task force. An impressive promotion, so he’s doing something right. I think he could be a trustworthy and reliable source of info, but I’ll need to cultivate that relationship. He’s a family man, so he’s not willing to take necessary risks on the street. That’s fine. I’ll take the risks.
 
-#### 92f20156a4-SM | choice/UI → GORDON | x2
+#### 92f20156a4 | choice/UI → GORDON | x2
 Lieutenant, GCPD Major Crimes Unit
 Associates - Barbara Gordon (Daughter)
 
@@ -808,7 +808,7 @@ I was too late to do anything to help the Vales, but luckily I was able to give 
 
 He’s a good, by-the-book cop in a department that doesn’t trust Batman. He was recently tapped to lead the major crimes task force. An impressive promotion, so he’s doing something right. I think he could be a trustworthy and reliable source of info, but I’ll need to cultivate that relationship. He’s a family man, so he’s not willing to take necessary risks on the street. That’s fine. I’ll take the risks.
 
-#### c758d76a45-SM | choice/UI | x2
+#### c758d76a45 | choice/UI | x2
 Investigative Journalist, Gotham Gazette
 
 ----------------------------------
@@ -820,7 +820,7 @@ Vicki Vale, as I thought I knew her, is gone. She has ceased to exist. Her real 
 
 One of the Gazette’s most ambitious and competent reporters. I’ve read her stuff. Some of it can be a bit tabloid, but her passion for the truth is undeniable. She’s been with the paper for while, covered all kind of beats. Someone like that has the kind of access others would kill for. She might even hear more about what’s going on in Gotham than I do. One day, I may need to find out what she knows.
 
-#### b7e2ce9363-SM | choice/UI | x2
+#### b7e2ce9363 | choice/UI | x2
 Investigative Journalist, Gotham Gazette
 
 ----------------------------------
@@ -842,16 +842,16 @@ I’m battling Oswald with my fists while Lucius tries to stop him in cyberspace
 
 He’s the only person I trust to develop all of the tech for Batman while maintaining a low profile. He built the backdoor into Wayne Enterprises’ system for the benefit of Batman. But now the Children of Arkham have found that door and can exploit the same information. Luckily, Lucius increased the security measures on Batman’s signal, so they won’t be able to get into our system.
 
-#### a21ffeacf6-SM | choice/UI | x2
+#### a21ffeacf6 | choice/UI | x2
 She’s known as Lady Arkham among her followers, but now I know her real name: Victoria Arkham. Her Vicki Vale persona seems to be gone forever. I can’t believe I let her into my home. I can’t believe I never figured out who she was or what she was doing. But now that I know, there’s nothing that will stop me from taking her and her followers down.
 
-#### 31979afffc-SM | choice/UI | x2
+#### 31979afffc | choice/UI | x2
 Ever since I stopped their plot to spray the citizens of Gotham with their drug, the Children of Arkham have been quiet. If I hadn’t been in Arkham, I would have immediately tracked them all down. But it seems Mayor Dent has taken up the fight in my absence. He’ll crush them and anyone who tries to stand up to his authoritarian tactics.
 
-#### 9d399328dc-SM | choice/UI | x2
+#### 9d399328dc | choice/UI | x2
 My time in Arkham was short, but one patient in particular left a big impression on me. I didn’t catch his name, but I won’t ever forget his face. Or his laugh. He’s like some kind of creepy circus clown. However, he did provide invaluable help in tracking down Vicki and her missing drug stash. For that, I agreed to grant him a favor. What’s one favor to a man who’ll never see the outside of Arkham Asylum?
 
-#### 6d0b51cb73-SM | choice/UI | x2
+#### 6d0b51cb73 | choice/UI | x2
 My time in Arkham was short, but one patient in particular left a big impression on me. I didn’t catch his name, but I won’t ever forget his face. Or his laugh. He’s like some kind of creepy circus clown. He gave me invaluable assistance in uncovering Vicki’s true identity and her missing drug stash, but there’s something about him so unsettling I couldn’t bring myself to agree to granting him a favor. Yes, it would have been an empty promise, but the very idea of owing him anything is not a pleasant thought.
 
 #### 6f61aca992 | choice/UI | x2
@@ -860,7 +860,7 @@ The Vale Family (DECEASED)
 #### 2048478a91 | choice/UI | x2
 The Vales seem like a typical all-American family. Dad’s a business owner. Mom watches after the kids. They help the community through foster parenting. How could they have raised a child as monstrous as Vicki Vale? Something happened between them to cause Vicki to murder them so brutally. Their other foster child didn’t have much to say, but I know I haven’t gotten the full story yet.
 
-#### 350e7853e6-SM | choice/UI | x2
+#### 350e7853e6 | choice/UI | x2
 Established November 1921
 
 -------------------------------
@@ -869,7 +869,7 @@ I knew when I wrote the check for a new hospital that Gotham needed a better men
 
 Gotham City’s only maximum security psychiatric hospital… for now. Outdated in every way: building is falling apart, equipment is antiquated, and the staff’s methodology leaves much to be desired. When the Thomas and Martha Wayne Memorial Hospital opens, these patients will finally get the treatment they need.
 
-#### d5a79472be-SM | choice/UI | x2
+#### d5a79472be | choice/UI | x2
 Established 1870
 
 ------------------------------------------
@@ -894,18 +894,18 @@ This city is like a living creature. It’s always growing, outward and upward. 
 #### 44e027faca | choice/UI | x2
 Peter Grogan
 
-#### ee2d14f55a-SM | choice/UI | x2
+#### ee2d14f55a | choice/UI | x2
 Gotham City Police Commissioner
 
 --------------------------------------------
 As if my relationship with the police wasn’t complicated enough, now I’ve got to contend with Lt. Gordon’s boss. Usually the top brass stays out of the mess of day-to-day investigations, but this Grogan character seems intent on getting involved. More signs of Harvey’s meddling? It seems like it to me.
 
-#### 93bfef1fea-SM | choice/UI | x2
+#### 93bfef1fea | choice/UI | x2
 With Oswald in control of Wayne Enterprises, it’s only a matter of time before he controls all tech in the city. And not just Wayne Tech. It’s possible he could take control of my private crime fighting technology. That is, unless Lucius can stop him in cyberspace.
 ----------------------
 Wayne Enterprises is a corporate conglomerate, and Wayne Tech handles our telecommunications branch, through phones, computers, and other technological devices. Lucius built a backdoor into the Wayne Tech system for Batman, so I could monitor the city and keep Gotham safe. But the Children of Arkham have found a way to access the same information, and while they can’t spy on Batman, it won’t stop them from spying on the rest of the city.
 
-#### 5e963d0e47-SM | choice/UI | x2
+#### 5e963d0e47 | choice/UI | x2
 Wayne Family Butler
 
 ----------------------
@@ -916,7 +916,7 @@ Oswald compromised my networks and rendered my gadgets and gear useless. But Alf
 
 Faithful, patient, ever-helpful Alfred. He’s been a part of the family my whole life. He raised me when my parents were murdered and guided me when I thought I was lost. He’s my butler, my confidante and the most secret weapon in my arsenal. He complains frequently about my nightly activities. But he’s still there to patch me up when I need it.
 
-#### 6d5e37a559-SM | choice/UI | x2
+#### 6d5e37a559 | choice/UI | x2
 Wayne Family Butler
 
 ----------------------
@@ -927,7 +927,7 @@ Oswald compromised my networks and rendered my gadgets and gear useless. But Alf
 
 Faithful, patient, ever-helpful Alfred. He’s been a part of the family my whole life. He raised me when my parents were murdered and guided me when I thought I was lost. He’s my butler, my confidante and the most secret weapon in my arsenal. He complains frequently about my nightly activities. But he’s still there to patch me up when I need it.
 
-#### cec1049b35-SM | choice/UI | x2
+#### cec1049b35 | choice/UI | x2
 Wayne Family Butler
 
 ----------------------
@@ -938,7 +938,7 @@ Oswald compromised my networks and rendered my gadgets and gear useless. But Alf
 
 Faithful, patient, ever-helpful Alfred. He’s been a part of the family my whole life. He raised me when my parents were murdered and guided me when I thought I was lost. He’s my butler, my confidante and the most secret weapon in my arsenal. He complains frequently about my nightly activities. But he’s still there to patch me up when I need it.
 
-#### 269057443c-SM | choice/UI | x2
+#### 269057443c | choice/UI | x2
 Wayne Family Butler
 
 ----------------------
@@ -949,7 +949,7 @@ The manor is in ruins, yet Alfred still finds a way to brew me a cup of tea. Thi
 
 Faithful, patient, ever-helpful Alfred. He’s been a part of the family my whole life. He raised me when my parents were murdered and guided me when I thought I was lost. He’s my butler, my confidante and the most secret weapon in my arsenal. He complains frequently about my nightly activities. But he’s still there to patch me up when I need it.
 
-#### 3259708352-SM | choice/UI | x2
+#### 3259708352 | choice/UI | x2
 Wayne Family Butler
 
 ----------------------
@@ -960,7 +960,7 @@ The manor is in ruins, yet Alfred still finds a way to brew me a cup of tea. Thi
 
 Faithful, patient, ever-helpful Alfred. He’s been a part of the family my whole life. He raised me when my parents were murdered and guided me when I thought I was lost. He’s my butler, my confidante and the most secret weapon in my arsenal. He complains frequently about my nightly activities. But he’s still there to patch me up when I need it.
 
-#### 1117fe81b6-SM | choice/UI | x2
+#### 1117fe81b6 | choice/UI | x2
 Wayne Family Butler
 
 ----------------------
@@ -971,7 +971,7 @@ The manor is in ruins, yet Alfred still finds a way to brew me a cup of tea. Thi
 
 Faithful, patient, ever-helpful Alfred. He’s been a part of the family my whole life. He raised me when my parents were murdered and guided me when I thought I was lost. He’s my butler, my confidante and the most secret weapon in my arsenal. He complains frequently about my nightly activities. But he’s still there to patch me up when I need it.
 
-#### 9b455e2a5e-SM | choice/UI | x2
+#### 9b455e2a5e | choice/UI | x2
 Wayne Family Butler
 
 ----------------------
@@ -982,7 +982,7 @@ Alfred is gone. Lady Arkham has taken him and I have to get him back. I cannot f
 
 Faithful, patient, ever-helpful Alfred. He’s been a part of the family my whole life. He raised me when my parents were murdered and guided me when I thought I was lost. He’s my butler, my confidante and the most secret weapon in my arsenal. He complains frequently about my nightly activities. But he’s still there to patch me up when I need it.
 
-#### 35896a062e-SM | choice/UI | x2
+#### 35896a062e | choice/UI | x2
 Mayor of Gotham City
 
 ----------------------------
@@ -993,7 +993,7 @@ I chose to stop Harvey instead of going after Oswald, so now I have to live with
 
 A new friend and the best district attorney Gotham City has seen in years. His political ambitions have always been as big as his ego and now he’s hoping to become mayor. He’s got so many great ideas for how to save this city -- I think he’ll be good for Gotham, but I have to steer him down the right path to get there. He’s too easily swayed by anyone with power, regardless of their murky morality.
 
-#### 7863e2c2ac-SM | choice/UI | x2
+#### 7863e2c2ac | choice/UI | x2
 Mayor of Gotham City
 
 ----------------------------
@@ -1004,7 +1004,7 @@ Harvey Dent’s long, bloody campaign to save Gotham from itself ends not with a
 
 A new friend and the best district attorney Gotham City has seen in years. His political ambitions have always been as big as his ego and now he’s hoping to become mayor. He’s got so many great ideas for how to save this city -- I think he’ll be good for Gotham, but I have to steer him down the right path to get there. He’s too easily swayed by anyone with power, regardless of their murky morality.
 
-#### 61d963ef61-SM | choice/UI | x2
+#### 61d963ef61 | choice/UI | x2
 CRIMES - Mayor’s Office Break-in, Burglary, Petty Larceny
 
 ---------------------------------------
@@ -1015,7 +1015,7 @@ It seems like Selina’s always got one more trick up her sleeve, and once again
 
 Thief for hire. Beyond that, I don’t know much about her. I wish I did, because she’s good at what she does. She’s caught up in whatever Penguin’s involved in, but they’re not on the same side. That’s a relief.
 
-#### 4fab551c59-SM | choice/UI | x2
+#### 4fab551c59 | choice/UI | x2
 CRIMES - Mayor’s Office Break-in, Burglary, Petty Larceny
 
 ---------------------------------------
@@ -1026,7 +1026,7 @@ It seems like Selina’s always got one more trick up her sleeve, and once again
 
 Thief for hire. Beyond that, I don’t know much about her. I wish I did, because she’s good at what she does. She’s caught up in whatever Penguin’s involved in, but they’re not on the same side. That’s a relief.
 
-#### c369e8e0ec-SM | choice/UI | x2
+#### c369e8e0ec | choice/UI | x2
 CRIMES - Arms Dealing, Illegal Boxing Matches, Receiving Stolen Property
 
 -------------------------------
@@ -1036,7 +1036,7 @@ Even with my own Wayne Tech working against me, I was able to finally bring Oswa
 ------------------------------
 I don’t even recognize my old friend Oswald anymore -- all I see is the Penguin. When he reappeared in Gotham City, I was a fool to dismiss his ramblings about revenge and revolution. He is central to whatever conspiracy is unfolding in Gotham. The pieces are all there: the psychoactive chemicals, Falcone’s murder and the investigation of my father and Mayor Hill. I have to figure out what the Penguin is up to before he makes good on the rest of his promises.
 
-#### 85b0b063fb-SM | choice/UI | x2
+#### 85b0b063fb | choice/UI | x2
 CRIMES - Arms Dealing, Illegal Boxing Matches, Receiving Stolen Property
 
 -------------------------------
@@ -1070,7 +1070,7 @@ Jim Gordon is an invaluable ally. Even without my Batsuit, he backed me up in co
 
 He’s a good, by-the-book cop in a department that doesn’t trust Batman. He was recently tapped to lead the major crimes task force. An impressive promotion, so he’s doing something right. I think he could be a trustworthy and reliable source of info, but I’ll need to cultivate that relationship. He’s a family man, so he’s not willing to take necessary risks on the street. That’s fine. I’ll take the risks.
 
-#### 4718193f7b-SM | choice/UI → GORDON | x2
+#### 4718193f7b | choice/UI → GORDON | x2
 Lieutenant, GCPD Major Crimes Unit
 Associates - Barbara Gordon (Daughter)
 
@@ -1082,7 +1082,7 @@ How strange to fight alongside Jim Gordon through the halls of Gotham City polic
 
 He’s a good, by-the-book cop in a department that doesn’t trust Batman. He was recently tapped to lead the major crimes task force. An impressive promotion, so he’s doing something right. I think he could be a trustworthy and reliable source of info, but I’ll need to cultivate that relationship. He’s a family man, so he’s not willing to take necessary risks on the street. That’s fine. I’ll take the risks.
 
-#### 889fd7e832-SM | choice/UI | x2
+#### 889fd7e832 | choice/UI | x2
 Sergeant, Gotham City Police Department
 
 ----------------------------------
@@ -1093,14 +1093,14 @@ She’s back on the force, and I’m glad to see that. There’s a lot of work a
 
 Jim Gordon says she’s a good cop. “True blue” were his words. Yet someone got her to murder Carmine Falcone in cold blood, turning her into a pawn to further a mysterious “revolution.“ Unless I figure out who’s really behind the killing and why, she’ll unfairly take the fall.
 
-#### 53b2d9d564-SM | choice/UI | x2
+#### 53b2d9d564 | choice/UI | x2
 Vicki lost her top lieutenant when I put Oswald behind bars. But she’s been quiet. Where is she? What is she planning now? This isn’t over yet. Not by a long shot.
 
 -------------------------------------------------
 
 She’s known as Lady Arkham among her followers, but now I know her real name: Victoria Arkham. Her Vicki Vale persona seems to be gone forever. I can’t believe I let her into my home. I can’t believe I never figured out who she was or what she was doing. But now that I know, there’s nothing that will stop me from taking her and her followers down.
 
-#### 151336a18e-SM | choice/UI | x2
+#### 151336a18e | choice/UI | x2
 Gotham City Police Commissioner
 
 --------------------------------------------
@@ -1110,7 +1110,7 @@ The Commissioner and I had our differences, but when things got serious, he prov
 
 As if my relationship with the police wasn’t complicated enough, now I’ve got to contend with Lt. Gordon’s boss. Usually the top brass stays out of the mess of day-to-day investigations, but this Grogan character seems intent on getting involved. More signs of Harvey’s meddling? It seems like it to me.
 
-#### d64f5ea015-SM | choice/UI | x2
+#### d64f5ea015 | choice/UI | x2
 Gotham City Police Commissioner
 
 --------------------------------------------
@@ -1131,7 +1131,7 @@ My city has been torn up and turned upside down. Yet somehow, its buildings stil
 
 This city is like a living creature. It’s always growing, outward and upward. The people who live here are survivors -- they have to be -- and they deserve better than the corruption that infests this place.
 
-#### c9ed7b43a9-SM | choice/UI | x2
+#### c9ed7b43a9 | choice/UI | x2
 Established 1870
 
 ------------------------------------------
@@ -1142,17 +1142,17 @@ With Oswald out of the picture, I finally have control of Wayne Enterprises agai
 
 Multinational corporation founded by my ancestors, covering all manner of manufacturing and finance. I inherited a majority stake from my father, but I’m not involved in the day-to-day operations. However the R&D resources have been helpful in pursuing my private interests.
 
-#### b7fc042ecb-SM | choice/UI | x2
+#### b7fc042ecb | choice/UI | x2
 I suppose I should write Oswald a thank you note one day, since he did such a masterful job of demonstrating just how vulnerable my technologies were to hacking. The problems have been noted and these sorts of oversights will never happen again.
 ----------------------
 Wayne Enterprises is a corporate conglomerate, and Wayne Tech handles our telecommunications branch, through phones, computers, and other technological devices. Lucius built a backdoor into the Wayne Tech system for Batman, so I could monitor the city and keep Gotham safe. But the Children of Arkham have found a way to access the same information, and while they can’t spy on Batman, it won’t stop them from spying on the rest of the city.
 
-#### 02fddfc283-SM | choice/UI | x2
+#### 02fddfc283 | choice/UI | x2
 Just when I thought all the holes in my control of Wayne Tech had been patched, Selina shows me one I forgot about. Lucius designed an electronic skeleton key for me -- a backdoor into all of my Wayne Tech. Good in theory, but not so great when someone can break into my office and steal it. This is a can of worms I need to confront head on one day.
 ----------------------
 Wayne Enterprises is a corporate conglomerate, and Wayne Tech handles our telecommunications branch, through phones, computers, and other technological devices. Lucius built a backdoor into the Wayne Tech system for Batman, so I could monitor the city and keep Gotham safe. But the Children of Arkham have found a way to access the same information, and while they can’t spy on Batman, it won’t stop them from spying on the rest of the city.
 
-#### ddd6721d0f-SM | choice/UI | x2
+#### ddd6721d0f | choice/UI | x2
 Head of Wayne Enterprises Research and Development Division.
 
 ----------------------------------------------
@@ -1166,7 +1166,7 @@ He’s the only person I trust to develop all of the tech for Batman while maint
 #### 070f793de8 | choice/UI | x2
 Vicki murdered her own foster parents in order to hide her supply of the drug. It seems cold and calculated on the surface, but there’s something about the brutality of the crime that still haunts me. That wasn’t just a move to further her plans and goals. It was personal. It felt like revenge.
 
-#### c68cc6ae1e-SM | choice/UI | x2
+#### c68cc6ae1e | choice/UI | x2
 Investigative Journalist, Gotham Gazette
 
 ----------------------------------
@@ -1184,7 +1184,7 @@ Carmine Falcone
 #### c994b99c9b | choice/UI | x4
 Peter Grogan (DECEASED)
 
-#### d36aecdacd-SM | choice/UI | x2
+#### d36aecdacd | choice/UI | x2
 Wayne Family Butler
 
 ----------------------
@@ -1195,7 +1195,7 @@ The manor is in ruins, yet Alfred is untouched. The man is indestructible. I reg
 
 Faithful, patient, ever-helpful Alfred. He’s been a part of the family my whole life. He raised me when my parents were murdered and guided me when I thought I was lost. He’s my butler, my confidante and the most secret weapon in my arsenal. He complains frequently about my nightly activities. But he’s still there to patch me up when I need it.
 
-#### e587fb08ce-SM | choice/UI | x2
+#### e587fb08ce | choice/UI | x2
 Wayne Family Butler
 
 ----------------------

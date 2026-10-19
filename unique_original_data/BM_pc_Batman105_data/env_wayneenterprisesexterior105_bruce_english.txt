@@ -7,10 +7,10 @@ It means a{HappyA} lot for me to be{BodyAccent} here.
 #### 8fd9eed3d9 | GORDON → BRUCE | x2
 To be honest, I didn’t think you’d{FaceAccent} come.
 
-#### 30f6d629b3-SM | BRUCE → GORDON | x2
+#### 30f6d629b3 | BRUCE → GORDON | x2
 I loved my father, but {FaceAccent}nothing can excuse what{ThinkingB} he did.
 
-#### db981ccb81-SM | choice/UI → GORDON | x2
+#### db981ccb81 | choice/UI → GORDON | x2
 It’s time I took responsibility.
 
 #### a0f185eb05 | choice/UI → GORDON | x2
@@ -43,10 +43,10 @@ I’ll show them that the Waynes care.
 #### 6bae2114be | BRUCE → GORDON | x2
 Gotham doesn’t have to like me, but I do hope they’ll hear me out.
 
-#### 4f08259616-SM | BRUCE | x2
+#### 4f08259616 | BRUCE | x2
 I need to take responsibility for what my parents did.
 
-#### 6a43084c7c-SM | BRUCE | x2
+#### 6a43084c7c | BRUCE | x2
 It’s time I owned{FaceAccent} my family’s {ThinkingA}past.
 
 #### f3c8b4d160 | BRUCE → MONTOYA | x2
@@ -73,16 +73,16 @@ I’ll help put an end to corruption.
 #### c842385bb5 | choice/UI → GORDON | x2
 I will be Gotham’s servant
 
-#### f08c1c3cb4-SM | choice/UI → GORDON | x2
+#### f08c1c3cb4 | choice/UI → GORDON | x2
 It’s time I started paying back.
 
-#### 739b88bd95-SM | GORDON → BRUCE | x2
+#### 739b88bd95 | GORDON → BRUCE | x2
 After that{FaceAccent} business at Cobblepot Park, I thought you might be {BodyAccent}off on a {NormalA}yacht somewhere, recuperating.
 
 #### b60db581e4 | GORDON → BRUCE | x4
 And I wouldn’t{TiredA} blame{FaceAccent} you.
 
-#### 9a6afc078e-SM | GORDON → MONTOYA | x2
+#### 9a6afc078e | GORDON → MONTOYA | x2
 My wife wanted me to {BodyAccent}postpone this {TiredA}address, to do some recuperating myself.
 
 #### 6f172d18cf | BRUCE → GORDON | x2
@@ -91,25 +91,25 @@ How are you{FaceAccent} feeling?
 #### 7717e11bda | GORDON → BRUCE | x2
 I’ve{NormalA} taken worse hits. But {FaceAccent}thanks for asking.
 
-#### cdd5cadc7e-SM | GORDON → BRUCE | x2
+#### cdd5cadc7e | GORDON → BRUCE | x2
 That said, I thought we made a pretty good {FaceAccent}team back there, and I hoped that{ThinkingA} could continue.
 
 #### e34324d96b | BRUCE → GORDON | x2
 I feel the {FaceAccent}same.
 
-#### fb5acb7700-LM | GORDON → BRUCE | x2
+#### fb5acb7700 | GORDON → BRUCE | x2
 What you did is no{FaceAccent} secret...
 
 #### ca3b124c29 | GORDON → BRUCE | x2
 After that nasty{FaceAccent} business at your manor...
 
-#### fb3f0c0f94-SM-LM | GORDON → BRUCE | x2
+#### fb3f0c0f94 | GORDON → BRUCE | x2
 I know{SadA} Harvey was a good friend of{BodyAccent} yours. A loss like that... I would have{TiredA} understood{FaceAccent} if you turned me down.
 
-#### 2f231ad79a-L? | GORDON | x2
+#### 2f231ad79a | GORDON | x2
 I wish it could have{FaceAccent} ended better... but several of his hostages made it{ThinkingA} out alive, and I have you{FaceAccent} to{NormalA} thank for that.
 
-#### 0b71ce9510-L? | GORDON | x2
+#### 0b71ce9510 | GORDON | x2
 But you showed {FaceAccent}true courage that night, saved a lot of lives. I--and{FaceAccent} all{NormalA} those people--owe you a{BodyAccent} debt of gratitude.
 
 #### 2f578f992b | GORDON → BRUCE | x2
@@ -130,16 +130,16 @@ Well, I look forward to knowing the real Bruce Wayne as well.
 #### 13fb21071b | BRUCE → GORDON | x2
 I just want to help this city--in whatever way I can.
 
-#### d057a7e2d4-SM-LM | GORDON → BRUCE | x2
+#### d057a7e2d4 | GORDON → BRUCE | x2
 I’m glad you came, Bruce.
 
-#### d026b0a614-SM-LM | GORDON → BRUCE | x2
+#### d026b0a614 | GORDON → BRUCE | x2
 I’m glad you came.
 
-#### bd44e77e23-L? | GORDON | x2
+#### bd44e77e23 | GORDON | x2
 It’s good that you came.
 
-#### 1a9405543c-SM | GORDON | x2
+#### 1a9405543c | GORDON | x2
 That can’t be easy. But I’m glad that you’re here.
 
 #### 97dc8ac5d1 | GORDON → BRUCE | x2
@@ -148,7 +148,7 @@ It looks like Batman is a no-show.
 #### a2c54fc038 | GORDON → BRUCE | x2
 I’ll admit, I wasn’t incredibly{TiredB} optimistic he’d come.
 
-#### e9847e1f9e-SM | GORDON → BRUCE | x2
+#### e9847e1f9e | GORDON → BRUCE | x2
 But {BodyAccent}still... I was {SadA}hoping.
 
 #### 38ada7ac83 | BRUCE → GORDON | x2
@@ -181,7 +181,7 @@ Yeah?{FaceAccent} Hmph.
 #### 4aa1654e8c | GORDON → BRUCE | x2
 Well, he’s not{TiredA} much of a {FaceAccent}talker.
 
-#### 685f61469a-LM | GORDON → BRUCE | x2
+#### 685f61469a | GORDON → BRUCE | x2
 Though maybe you could trade{NormalA} notes on{BodyAccent}expensive cars.
 
 #### 0de4fbd9e8 | GORDON | x2
@@ -199,7 +199,7 @@ Thank you, {FaceAccent}Commissioner Gordon.
 #### 40b8364ddf | BRUCE → GORDON | x2
 Tough act{AmusedB} to follow...{ConcernedA}
 
-#### dc9765f6c2-LM | BRUCE → GORDON | x2
+#### dc9765f6c2 | BRUCE → GORDON | x2
 I’m here today to {SternA}not only show my support for{FaceAccent} our Acting Commissioner, but also for this{ThinkingA} city. Many of you have {BodyAccent}suffered terrible losses.
 
 #### 3604b6a110 | BRUCE | x2
@@ -211,7 +211,7 @@ I want to take this opportunity to {FaceAccent}apologize...
 #### 2e8620dece | BRUCE | x2
 ...to tell you how sorry{ThinkingB} I am for the pain the {FaceAccent}Wayne family has caused this{BodyAccent} community.
 
-#### 97ee375dc9-SM | BRUCE | x2
+#### 97ee375dc9 | BRUCE | x2
 And I’m sorry that I {BodyAccent}haven’t been a very{FaceAccent} good member of this community{DespairA} before now.
 
 #### 173325595a | BRUCE → GORDON | x2
@@ -244,7 +244,7 @@ It’s time to{AngryA} put an {BodyAccent}end to that.
 #### 677b35a207 | BRUCE | x2
 I’ll do{SternA} everything in my power to ensure {FaceAccent}Gotham is freed from the spectres of {DisgustA}Carmine Falcone, Hamilton Hill, and my{ThinkingB} own {FaceAccent}father.
 
-#### e178825b08-SM | BRUCE → GORDON | x4
+#### e178825b08 | BRUCE → GORDON | x4
 I need to be more than just the{SkepticalB} shallow subject of gossip{FaceAccent} magazines. {SternA}I need to {BodyAccent}contribute.
 
 #### 15d4272db4 | BRUCE → COA03, RYDER | x4
@@ -271,10 +271,10 @@ Partnering with the GCPD.
 #### 99af9d626e | BRUCE → GORDON | x2
 Thank you for having me, {AmusedA}{FaceAccent}Commissioner.
 
-#### 91090caf33-SM | GORDON → COA03 | x2
+#### 91090caf33 | GORDON → COA03 | x2
 To be honest, I was {FaceAccent}surprised{SadA} to get your call.
 
-#### 823111a001-SM | GORDON → COA03 | x2
+#### 823111a001 | GORDON → COA03 | x2
 I was half-hoping {FaceAccent}Batman might show up too.
 
 #### f809bdd843 | GORDON → BRUCE | x2
@@ -322,7 +322,7 @@ We {AngryB}won’t let{FaceAccent} them win.
 #### aadfd0a182 | GORDON → BRUCE | x2
 Not while I have{AngryB} breath{FaceAccent} in my body.
 
-#### f7545632af-LM | GORDON → BRUCE | x4
+#### f7545632af | GORDON → BRUCE | x4
 What happened was a{SadA} terrible tragedy... but {BodyAccent}lives were saved too--and{ThinkingA} I have you{FaceAccent} to thank for that.
 
 #### 2f676a2dc8 | GORDON → BRUCE | x2
@@ -379,7 +379,7 @@ My barber got a little too eager with the clippers.
 #### 71441e6700 | GORDON → BRUCE | x2
 I’ll say.
 
-#### e790507a5f-LM | GORDON → BRUCE | x2
+#### e790507a5f | GORDON → BRUCE | x2
 I can recommend a guy if you need a new one.
 
 #### 1aa48f9aa5 | GORDON → BRUCE | x2
@@ -400,10 +400,7 @@ No excuse for my father.
 #### b5e0a8cca9 | choice/UI → GORDON | x2
 I will be Gotham’s servant.
 
-#### 2302aa42f2-SM | choice/UI → GORDON | x2
-I was mugged.
-
-#### e1d898c0e7-SM | BRUCE → GORDON | x2
+#### e1d898c0e7 | BRUCE → GORDON | x2
 I was mugged...
 
 #### 8e05f3e4e8 | GORDON → BRUCE | x2

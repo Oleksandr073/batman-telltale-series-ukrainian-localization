@@ -69,7 +69,7 @@ Here in Gotham City, we all saw it: the shaky news chopper footage of Batman att
 
 In the 19th century, Mr. Banks and other like-minded Gotham citizens might well have raised a mob to dispense justice, complete with torches and pitchforks. In the 21st century, a single man with the latest technology can save us the trouble. Progress, indeed.
 
-#### 2f5fe469b4-SM | choice/UI | x1
+#### 2f5fe469b4 | choice/UI | x1
 <ui_batComputer_feedImageFalconeA.d3dtx>
 Gothamites have been patiently waiting for mob boss Carmine Falcone’s incarceration for decades. For some, that patience is wearing thin.
 
@@ -204,7 +204,7 @@ Batman even went so far as to save his feline companion after she was cornered b
 #### a2b298de0e | choice/UI | x1
 INSIDE THE CHILDREN OF ARKHAM: AN INTERVIEW WITH THEIR LEADER
 
-#### 3b4d3c7095-LM | choice/UI → HILL | x1
+#### 3b4d3c7095 | choice/UI → HILL | x1
 <ui_batComputer_feedImageFalconeMurder.d3dtx>
 VICKI VALE: The citizens of Gotham are in a panic over the motives of the Children of Arkham. Do you have a statement you would like to offer those who may be afraid of your group?
 CHILDREN OF ARKHAM: The citizens of Gotham have no reason to fear us. We only want to tear the masks off the liars of Gotham, the ones that stole land from innocent citizens and incarcerating others. They are the root of the corruption that lives in Gotham.
@@ -231,7 +231,7 @@ The origins of the compound remain unknown, but recent shipping logs from the wa
 #### ba135d5e8e | choice/UI | x1
 FRUSTRATION AND RELIEF OVER MAYORAL ELECTION
 
-#### 5d519064df-SM | choice/UI | x1
+#### 5d519064df | choice/UI | x1
 <ui_batComputer_feedImageHarvey.d3dtx>
 After Harvey Dent was elected to the Mayoral seat of Gotham, following his now unopposed bid for the position, many citizens of Gotham expressed their support as well as their concerns over the new Mayor.
 

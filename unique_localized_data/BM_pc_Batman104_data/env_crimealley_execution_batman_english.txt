@@ -25,7 +25,7 @@ We have to arrest Harvey.
 #### 2520e23ee7 | BATMAN, choice/UI → HARVEY | x6
 You don’t want to do this.
 
-#### 8210c92ba1-L? | choice/UI | x2
+#### 8210c92ba1 | choice/UI | x2
 Don’t you think for yourself?
 
 #### 50fe952f1d | choice/UI | x2
@@ -70,22 +70,22 @@ This isn’t your fault.
 #### d7da3cab26 | choice/UI | x4
 You are part of the problem.
 
-#### 3dea93d146-SM | choice/UI → ENFORCERLUKE, GORDON | x6
+#### 3dea93d146 | choice/UI → ENFORCERLUKE, GORDON | x6
 I got lucky.
 
 #### ed74105900 | choice/UI → ENFORCERLUKE, GORDON | x6
 You’re better off not knowing.
 
-#### 4f0319a313-SM | choice/UI → ENFORCERLUKE | x2
+#### 4f0319a313 | choice/UI → ENFORCERLUKE | x2
 I put my trust in her.
 
-#### 8e52aea6e1-LM | choice/UI → ENFORCERLUKE | x4
+#### 8e52aea6e1 | choice/UI → ENFORCERLUKE | x4
 You showed up.
 
 #### fc6fa760db | ENFORCERLUKE → ENFORCERCOLLEEN, BRUCE | x4
 C’mon, let’s keep it moving.
 
-#### 4fdef514e2-SF | ENFORCERCOLLEEN → ENFORCERLUKE | x4
+#### 4fdef514e2 | ENFORCERCOLLEEN → ENFORCERLUKE | x4
 Yeah, I got it.  I believe in what the Mayor’s trying to do-
 
 #### 84f68b5b78 | ENFORCERLUKE → ENFORCERCOLLEEN, BRUCE, SXF | x10
@@ -94,7 +94,7 @@ Finally we have a mayor who’s not afraid.
 #### 3c6f8d360e | ENFORCERCOLLEEN → ENFORCERLUKE | x4
 Maybe I should keep the black and white running...?
 
-#### db05a8b47a-LF | ENFORCERLUKE → ENFORCERCOLLEEN | x2
+#### db05a8b47a | ENFORCERLUKE → ENFORCERCOLLEEN | x2
 No- lock it down. Dent gave us orders- and WE are following them, you got me?
 
 #### 3862d8e816 | ENFORCERLUKE → ENFORCERCOLLEEN | x8
@@ -134,7 +134,7 @@ bri
 #### d6bfacc2ad | BRUCE → ENFORCERLUKE | x4
 What kind of good cop does the bidding of the people tearing this city apar-?[interrupted]
 
-#### 9f02783e48-LM | ENFORCERLUKE → BRUCE | x4
+#### 9f02783e48 | ENFORCERLUKE → BRUCE | x4
 -stifle yourself!
 
 #### 2b3f13d7a1 | BRUCE → ENFORCERLUKE | x4
@@ -155,7 +155,7 @@ Less talking, more shutting up.
 #### f5ad424190 | BRUCE → ENFORCERLUKE | x2
 Dent’s lost his mind-
 
-#### 62f1c81b5f-LM | BRUCE → ENFORCERLUKE | x4
+#### 62f1c81b5f | BRUCE → ENFORCERLUKE | x4
 And you’ve got to be crazier than him to be following his orders-
 
 #### c6349a73d7 | ENFORCERLUKE → BRUCE | x2
@@ -164,7 +164,7 @@ Is that right?  We’re *you* the one recently in Arkham Asylum?
 #### d99b2d362d | ENFORCERCOLLEEN → BRUCE, GORDON | x4
 Just keep moving.
 
-#### 755e8a7c60-LM | BRUCE → ENFORCERLUKE | x2
+#### 755e8a7c60 | BRUCE → ENFORCERLUKE | x2
 You’re not thinking for yourself, are you?
 
 #### 1710acf340 | BRUCE → ENFORCERLUKE | x2
@@ -251,7 +251,7 @@ He will find you.
 #### b9998a12b7 | ENFORCERCOLLEEN → BRUCE | x2
 Yes, it will- it has to-
 
-#### 410139b34b-LF | BATMAN, BRUCE → ENFORCERCOLLEEN | x4
+#### 410139b34b | BATMAN, BRUCE → ENFORCERCOLLEEN | x4
 You’re just fooling yourself.
 
 #### 7d606e422b | BRUCE → BATMAN | x2
@@ -275,11 +275,8 @@ Put it down, officer!
 #### 068832a158 | GORDON → ENFORCERCOLLEEN, BRUCE | x8
 What the blazes is going on here?!?
 
-#### 831086f9af-SF | ENFORCERCOLLEEN → GORDON | x4
+#### 831086f9af | ENFORCERCOLLEEN → GORDON | x4
 What’s going on... is... that I’m turning myself in.
-
-#### 1618c2ad37-SF | ENFORCERCOLLEEN → GORDON, ENFORCERMALE | x6
-I’m so sorry.
 
 #### 605a4edf4d | ENFORCERCOLLEEN → BRUCE | x2
 Mayor Dent ordered us to kill Mr. Wayne. For the good of Gotham.
@@ -317,7 +314,10 @@ Good God-!
 #### 273bcee7e5 | BRUCE → GORDON | x2
 The Mayor ordered these two to kill me.
 
-#### 2ee9a90a31-LM | GORDON → BRUCE | x2
+#### 2ee9a90a31-LM | GORDON → BRUCE, COP01, TUB | x6 | listener: male
+How the hell did you survive all this while you were cuffed?
+
+#### 2ee9a90a31-L? | GORDON → BRUCE, COP01, TUB | x6 | listener: unknown
 How the hell did you survive all this while you were cuffed?
 
 #### ad044bdb38 | BRUCE → GORDON | x6
@@ -329,19 +329,19 @@ Yeah... you might just be right about that, eh?
 #### 04681abf41 | BRUCE → GORDON, ENFORCERLUKE | x4
 These two screwed up- if they’d killed me quicker... well, I’d be dead right now.
 
-#### 5b866b6b5d-LM | GORDON → BRUCE | x4
+#### 5b866b6b5d | GORDON → BRUCE | x4
 Yeah, you got lucky-
 
-#### ed688c6af0-SM | BRUCE → GORDON | x4
+#### ed688c6af0 | BRUCE → GORDON | x4
 Not lucky, I had a friend looking out for me- thank you.
 
-#### 2c8599da7b-SM | BRUCE → GORDON | x2
+#### 2c8599da7b | BRUCE → GORDON | x2
 I put my faith in this officer.  Bet she still had some decency left in her heart.
 
-#### 2d7afdc3fb-LM | GORDON → BRUCE | x4
+#### 2d7afdc3fb | GORDON → BRUCE | x4
 You got lucky: That’s not such a safe bet in Gotham City these days.
 
-#### d590d07655-SM | BRUCE → GORDON | x6
+#### d590d07655 | BRUCE → GORDON | x6
 I only survived because of your timely appearance, Lieutenant.
 
 #### 5c23899f9c | BRUCE → GORDON | x6
@@ -359,13 +359,13 @@ Yeah, I guess so.
 #### 67e3addc06 | GORDON → BRUCE | x6
 Yeah... I guess some things just defy explanation.
 
-#### c915a1487f-SM | GORDON → BRUCE | x2
+#### c915a1487f | GORDON → BRUCE | x2
 I thought I understood cops taking padding their pockets to look the other way from time to time but these so-called “enforcer squads” are just are gestapos with a more polite name.
 
 #### 9a06e38922 | BATMAN → GORDON | x4
 They’re wearing GCPD uniforms.
 
-#### b623298661-SM | GORDON → BATMAN | x2
+#### b623298661 | GORDON → BATMAN | x2
 Mayor Dent asked for volunteers for a special task force.  It sounded good on paper. Then I saw what these “enforcers” were doing in the name of the law-
 
 #### 6923906c46 | GORDON → BATMAN, BRUCE | x4
@@ -392,7 +392,7 @@ And call me Bruce.
 #### ad8cd9f99a | BATMAN → GORDON | x2
 Lieutenant you’re clearly a good cop - one of the best. A man like you can make a lot of difference.
 
-#### 11aaea94cf-LM | BATMAN → BRUCE | x2
+#### 11aaea94cf | BATMAN → BRUCE | x2
 You need to help the GCPD reform from the inside. Gotham needs a good man like you trying to fix things.
 
 #### df589c8aa5 | GORDON → BATMAN | x2
@@ -404,7 +404,7 @@ Call me Bruce.
 #### a3d3402fd1 | BATMAN, BRUCE → GORDON | x4
 Lieutenant, if the system’s not working for you... maybe it’s time to go around it.
 
-#### 2e533baa55-SM | GORDON → BRUCE | x2
+#### 2e533baa55 | GORDON → BRUCE | x2
 The law is the one thing in this messed-up world that I’m sure of. Going around it... I don’t know if I can do that.
 
 #### 06a2744e4b | BATMAN → GORDON | x2
@@ -416,7 +416,7 @@ You may be more right than I’d like to admit.
 #### 9b9867227e | GORDON → BATMAN, BRUCE | x4
 Whole city’s going to hell... Just hope I can find my way.
 
-#### 6f6f90d15a-LM | BATMAN, BRUCE → GORDON | x4
+#### 6f6f90d15a | BATMAN, BRUCE → GORDON | x4
 You could have stopped it- you knew what they were up to-
 
 #### 3ccf10539a | GORDON → BATMAN | x2
@@ -431,7 +431,7 @@ You might be right- You. Dent. The Commissioner. They’ve all changed Gotham, h
 #### 9a8f8019e9 | GORDON → HARVEY | x4
 You might be right- Batman. Dent. The Commissioner. They’ve each changed Gotham.
 
-#### 9c1bfe8cb9-LM | BATMAN → GORDON | x2
+#### 9c1bfe8cb9 | BATMAN → GORDON | x2
 You have to arrest Mayor Dent. You have all the evidence you need for a conspiracy to commit murder charge.  This has to stop.
 
 #### e7a236b10d | GORDON → BATMAN | x2
@@ -455,7 +455,7 @@ Along with everything else? You can’t take on all the crime in the city.
 #### 1b4f04e1b3 | BATMAN → GORDON | x4
 I will if I have to.
 
-#### c4a7254bc6-SM | GORDON → BATMAN | x2
+#### c4a7254bc6 | GORDON → BATMAN | x2
 Yeah, I’m sure you will.
 
 #### 61ed964950 | GORDON → BATMAN | x2
@@ -476,7 +476,10 @@ This is Gordon... okay...
 #### ffeb3ad747 | GORDON → BRUCE | x4
 There’s been a large, sudden increase in violent Children of Arkham activity- officers are being deployed all over Gotham-
 
-#### 3fc25e0b27-LM | GORDON → BRUCE, BATMAN | x6
+#### 3fc25e0b27-LM | GORDON → BRUCE, BATMAN | x8 | listener: male
+You better make yourself scarce.
+
+#### 3fc25e0b27-L? | GORDON → BRUCE, BATMAN | x8 | listener: unknown
 You better make yourself scarce.
 
 #### a7d7c81654 | GORDON → BRUCE, BATMAN | x10
@@ -485,7 +488,10 @@ I’ll clean up this mess.
 #### 998787962e | BATMAN, BRUCE → GORDON | x4
 Okay.  Thank you.
 
-#### 6de067881a-LM | GORDON → BRUCE | x2
+#### 6de067881a-LM | GORDON → BRUCE | x12 | listener: male
+And hey... About what you said...
+
+#### 6de067881a-L? | GORDON → BRUCE | x12 | listener: unknown
 And hey... About what you said...
 
 #### 1e923c91c2 | BRUCE → GORDON | x4
@@ -512,7 +518,7 @@ I’m on my way-
 #### 27d28aec30 | ALFRED → BATMAN | x6
 I don’t think he intends to leave anything to take.
 
-#### b366e4f3a3-SM | ALFRED → BRUCE, GORDON | x8
+#### b366e4f3a3 | ALFRED → BRUCE, GORDON | x8
 I am sorry to report that the C.O.A’s attempts to breach the cave’s security is nearly through our final firewalls-
 
 #### dfb6b52ba4 | ALFRED → BRUCE, BATMAN | x6
@@ -521,7 +527,7 @@ Lucius was pretty clear, you’d have to go to Wayne Tower to stop him...
 #### bbeff055e3 | LUCIUS → ALFRED | x2
 Nothing yet.  But I can only keep him out for maybe an hour at best.
 
-#### 54c667f631-SM | ALFRED → BRUCE, LUCIUS | x6
+#### 54c667f631 | ALFRED → BRUCE, LUCIUS | x6
 Yes, sir - I’m afraid not even you can handle both threats at the same time.
 
 #### 849db3cba7 | ALFRED → BRUCE | x6
@@ -530,13 +536,13 @@ How do you want to proceed?
 #### 2bc86e335c | BRUCE → ALFRED | x6
 I’m coming home, Alfred.
 
-#### e021f57540-SM | BRUCE → ALFRED | x6
+#### e021f57540 | BRUCE → ALFRED | x6
 I’m headed home, Alfred.
 
 #### 4abaa25d0f | ALFRED → BRUCE | x6
 Very well, sir. I’ll prepare for your arrival.
 
-#### 290bc20236-SM | BRUCE → ALFRED | x6
+#### 290bc20236 | BRUCE → ALFRED | x6
 I’m sorry, Alfred, I’m going to have to ask you to hold the house for as long as you can-
 
 #### 0a79a23177 | BRUCE → ENFORCERLUKE, ALFRED, GORDON | x6
@@ -566,7 +572,7 @@ Yes, it will- {AngryA}it has to-
 #### 0cfa6d58f7 | ENFORCERCOLLEEN → BATMAN, BRUCE | x4
 Wha-?
 
-#### 244121120b-SM | choice/UI → ENFORCERCOLLEEN | x2
+#### 244121120b | choice/UI → ENFORCERCOLLEEN | x2
 I said to stand down.
 
 #### e38b9abf35 | ENFORCERLUKE → ENFORCERCOLLEEN, BRUCE | x4
@@ -593,7 +599,7 @@ Batman![Don’t do it!]
 #### 4b956ce541 | ENFORCERCOLLEEN → GORDON | x2
 The Mayor is right...
 
-#### a592958185-LF | GORDON → ENFORCERCOLLEEN | x2
+#### a592958185 | GORDON → ENFORCERCOLLEEN | x2
 You’re supposed to uphold the law! Protect the people!
 
 #### a2fe827574 | ENFORCERCOLLEEN → GORDON | x2
@@ -608,7 +614,7 @@ Come back to the GCPD with me.  We can get this sorted out.
 #### 8c2b927d52 | BATMAN → GORDON | x2
 You’re in control, you can stop this anytime.
 
-#### d544ad13e4-LF | GORDON → ENFORCERCOLLEEN | x2
+#### d544ad13e4 | GORDON → ENFORCERCOLLEEN | x2
 Dent’s got you brainwashed.
 
 #### 94df0f0cf8 | GORDON → ENFORCERCOLLEEN | x2
@@ -629,19 +635,19 @@ Think about what you’re doing. You can’t win this.
 #### 8e2a76e386 | GORDON → ENFORCERCOLLEEN, ENFORCERLUKE, BRUCE | x6
 Until you’re on the other side of it.
 
-#### f6b4137797-SM | GORDON → BRUCE | x4
+#### f6b4137797 | GORDON → BRUCE | x4
 You know, {BodyAccent}I thought I understood cops padding their pockets to look the other way sometimes,{ThinkingB} but these so-called “enforcer squads”--
 
 #### fa3ce6a460 | BRUCE → GORDON | x4
 “Enforcer squads?“
 
-#### f28b29e2e7-SM | GORDON → BRUCE | x4
+#### f28b29e2e7 | GORDON → BRUCE | x4
 Mayor Dent asked for volunteers for a special task force. Grogan approved it. {ThinkingA}It sounded good on paper. {AngryA}Then I saw what these “enforcers” were doing in the name of the law-
 
 #### 6899be1d89 | GORDON → BRUCE | x6
 Grogan’s still blindly following the orders of an unstable Mayor because that’s “the chain of command.“
 
-#### a9b5b22dc4-LM | GORDON → BATMAN | x2
+#### a9b5b22dc4 | GORDON → BATMAN | x2
 You saw how he acted at the Vale house...
 
 #### ac27296db2 | GORDON → BATMAN, BRUCE | x4
@@ -656,9 +662,6 @@ And hey...
 #### 90383d5ead | GORDON → LUCIUS | x8
 Maybe it is time I break the chain.
 
-#### 6de067881a-L? | GORDON | x10
-And hey... About what you said...
-
 #### 39bb72897f | GORDON → LUCIUS | x8
 Maybe there is some room to go around the system.
 
@@ -671,7 +674,7 @@ Maybe there’s still a way I can make changes from the inside.  I’m not givin
 #### 9b13cba27f | BATMAN, BRUCE → LUCIUS, NEIGHBOR | x28
 Lucius?
 
-#### 2649775219-SM | LUCIUS → BATMAN | x6
+#### 2649775219 | LUCIUS → BATMAN | x6
 I just saw!
 
 #### b0ffa10bb9 | BATMAN → LUCIUS | x6
@@ -680,7 +683,7 @@ What can Oswald access?
 #### e4f00249b3 | BATMAN → LUCIUS | x6
 Meanwhile Wayne Manor is under siege.
 
-#### 41b20f424d-LM | LUCIUS → BATMAN | x2
+#### 41b20f424d | LUCIUS → BATMAN | x2
 You need to get to Wayne Tower and destroy that Black Box!
 
 #### 41b853c4ec | BATMAN → LUCIUS, ALFRED | x8
@@ -698,7 +701,7 @@ The anger... {SadA}The hatred...
 #### 2be14558a6 | ENFORCERCOLLEEN → GORDON, BRUCE | x8
 The mayor just wants to bring back order.
 
-#### f021eb899d-SM | GORDON → ENFORCERCOLLEEN | x2
+#### f021eb899d | GORDON → ENFORCERCOLLEEN | x2
 Lieutenant Gordon, I got a call to come down...
 
 #### d34d20e825 | ENFORCERLUKE → ENFORCERCOLLEEN | x2
@@ -719,7 +722,7 @@ Yeah-
 #### 72d113d9fe | ENFORCERLUKE → GORDON | x2
 -you are.
 
-#### 0b622ce6eb-SM | GORDON → ENFORCERLUKE | x2
+#### 0b622ce6eb | GORDON → ENFORCERLUKE | x2
 I suspected Helmuth was a bad egg but you, Colleen?
 
 #### 03605e7f6b | GORDON → ENFORCERLUKE | x2
@@ -758,13 +761,16 @@ They’re just gestapos with a more polite name.
 #### 6f5e2c5ed4 | BRUCE → GORDON | x14
 Take care, Jim.
 
-#### 35a475f184-LM | GORDON → BRUCE | x10
+#### 35a475f184-LM | GORDON → BRUCE | x16 | listener: male
+And hey... {ThinkingA}About what you said...
+
+#### 35a475f184-L? | GORDON → BRUCE | x16 | listener: unknown
 And hey... {ThinkingA}About what you said...
 
 #### 2432a53940 | LUCIUS, ALFRED → BATMAN, GORDON | x12
 Even Batman can’t be in two places at once.
 
-#### b8d712af31-SM | LUCIUS → BATMAN, GORDON | x8
+#### b8d712af31 | LUCIUS → BATMAN, GORDON | x8
 I wish I could be more help, but you’re on your own for this.
 
 #### b747bddf1c | BATMAN → LUCIUS | x6
@@ -785,7 +791,10 @@ He’s put together a computer--a “Black Box” device--for the express purpos
 #### 3ae392af85 | LUCIUS → BATMAN, ENFORCERCOLLEEN | x6
 Nothing yet. But I can’t keep him out much longer. Maybe an hour, at best.
 
-#### d3395a518a-LF | LUCIUS → ENFORCERCOLLEEN | x2
+#### d3395a518a-LF | LUCIUS → BATMAN, ENFORCERCOLLEEN | x6 | listener: female
+I’m going to keeping routing him, but you need to get to Wayne Tower and destroy that Black Box!
+
+#### d3395a518a-LM | LUCIUS → BATMAN, ENFORCERCOLLEEN | x6 | listener: male
 I’m going to keeping routing him, but you need to get to Wayne Tower and destroy that Black Box!
 
 #### d8ea21d819 | ENFORCERCOLLEEN → LUCIUS | x2
@@ -806,17 +815,14 @@ Mayor Dent’s been traumatized, but that doesn’t make him wrong!
 #### 8bf152a45f | ENFORCERCOLLEEN → BATMAN | x2
 Yeah... there’s really nothing more to say, is there, Batman?
 
-#### b11e106847-SM | GORDON → ENFORCERCOLLEEN | x2
+#### b11e106847 | GORDON → ENFORCERCOLLEEN | x2
 You know, I thought I understood cops padding their pockets to look the other way sometimes, but these so-called “enforcer squads”--
 
-#### be12bc5b6c-SM | GORDON → ENFORCERCOLLEEN | x2
+#### be12bc5b6c | GORDON → ENFORCERCOLLEEN | x2
 Mayor Dent asked for volunteers for a special task force. Grogan approved it. It sounded good on paper. Then I saw what these “enforcers” were doing in the name of the law-
 
 #### 6ed62ab83c | GORDON | x2
 Whole city’s going to hell... Just hope I can find my way so it doesn’t take me with it.
-
-#### 3fc25e0b27-L? | GORDON | x2
-You better make yourself scarce.
 
 #### fdf9a66868 | GORDON | x2
 Maybe there is still a way I can make changes from the inside.  I’m not giving up.
@@ -878,10 +884,10 @@ Lowered Gun
 #### 3d385c0a6d | ENFORCERFEMALE → ORNOTES | x2
 But... it was an order.
 
-#### 8983858705-LF | BATMAN → ENFORCERFEMALE | x2
+#### 8983858705 | BATMAN → ENFORCERFEMALE | x2
 Start thinking for yourself. You were just about to murder a good man.
 
-#### 2970f6fa47-L? | ENFORCERFEMALE → ORNOTES | x2
+#### 2970f6fa47 | ENFORCERFEMALE → ORNOTES | x2
 Oh god. You’re right.
 
 #### 12fb2f04e1 | ENFORCERFEMALE → BATMAN | x2
@@ -893,7 +899,7 @@ You’re just a thug vigilante!
 #### bf57dd7ad9 | ENFORCERFEMALE → GORDON | x2
 Please... I just want to go home.
 
-#### 2ff2f5f891-SF | ENFORCERFEMALE → GORDON | x2
+#### 2ff2f5f891 | ENFORCERFEMALE → GORDON | x2
 I thought I was doing the right thing--
 
 #### 335c012c0c | choice/UI → ENFORCERFEMALE | x2
@@ -935,7 +941,7 @@ What a mess...
 #### e6fa1deb0f | GORDON → BATMAN | x2
 Thank you, Batm--[an.][Gets cut off]
 
-#### 366f329c2e-SM | GORDON → BATMAN | x2
+#### 366f329c2e | GORDON → BATMAN | x2
 I just couldn’t make myself belive that I’d be turned against.
 
 #### 19ae21c60d | BATMAN → GORDON | x2
@@ -953,7 +959,7 @@ You should have tried harder.
 #### 5f2ba8b6c2 | choice/UI → GORDON | x2
 Grogan needs to be stopped.
 
-#### 5404140364-SM | BATMAN → GORDON | x2
+#### 5404140364 | BATMAN → GORDON | x2
 I tried talking to him. He wouldn’t listen.
 
 #### cfe95e8162 | GORDON → BATMAN | x2
@@ -962,19 +968,19 @@ Ordering murders.
 #### 3b2f1d2193 | GORDON → BATMAN | x2
 It’s way too far.
 
-#### f986499ea0-LM | GORDON → BATMAN | x2
+#### f986499ea0 | GORDON → BATMAN | x2
 Not the first time you’ve pulled me out of the fire.
 
 #### 2f8aa3b00c | GORDON → BATMAN | x2
 Ah, hell. You know what I mean.
 
-#### cff563b288-SM | GORDON → BATMAN | x2
+#### cff563b288 | GORDON → BATMAN | x2
 I’m just glad to know you’re on my side.
 
-#### fcafcd9cc5-SM | BATMAN → GORDON | x2
+#### fcafcd9cc5 | BATMAN → GORDON | x2
 I watched a city block explode.
 
-#### d46413a07d-SM | BATMAN → GORDON | x2
+#### d46413a07d | BATMAN → GORDON | x2
 I just watched a warehouse explode.
 
 #### 6010d35bae | GORDON → BATMAN | x2
@@ -983,7 +989,7 @@ This is all going off the rails. The drugs--
 #### b677734912 | GORDON → BATMAN | x2
 Damnit!
 
-#### 2354da1ae5-SM | GORDON → BATMAN | x2
+#### 2354da1ae5 | GORDON → BATMAN | x2
 I got pushed out; Grogan gave it to Dent!
 
 #### 3a714ac026 | GORDON → BATMAN | x2
@@ -992,7 +998,7 @@ I didn’t have the power to stop it.
 #### 3ef8dfe897 | BATMAN → GORDON | x2
 This is turning into a war. You can’t back down now.
 
-#### cca44c0c7c-LM | GORDON → BATMAN | x2
+#### cca44c0c7c | GORDON → BATMAN | x2
 You’re right. Christ, you’re right.
 
 #### ad0593659b | BATMAN → GORDON | x2
@@ -1016,19 +1022,19 @@ Take back the GCPD.
 #### 7ad27ed221 | choice/UI → GORDON | x2
 Stop Lady Arkham.
 
-#### 5e1a8a4f3b-LM | choice/UI → GORDON | x2
+#### 5e1a8a4f3b | choice/UI → GORDON | x2
 You told Dent!
 
 #### 8dad54e458 | choice/UI | x2
 Then who did?!
 
-#### 5e9922c1a8-SM | choice/UI | x2
+#### 5e9922c1a8 | choice/UI | x2
 I trusted you!
 
-#### a1ad76f7a2-L? | choice/UI | x2
+#### a1ad76f7a2 | choice/UI | x2
 You dropped the ball.
 
-#### 19506decb0-L? | choice/UI | x2
+#### 19506decb0 | choice/UI | x2
 You got people hurt!
 
 #### 3a1b39e252 | choice/UI | x2
@@ -1052,13 +1058,13 @@ It’s not my job to save him.
 #### ff014fe31a | BATMAN → GORDON | x2
 Gordon! Down!
 
-#### 6419140ccb-SM | BATMAN → GORDON | x2
+#### 6419140ccb | BATMAN → GORDON | x2
 Save it for after you explain why I just watched half a city block go up in flames.
 
-#### 15fa978c1d-SM | BATMAN → GORDON | x2
+#### 15fa978c1d | BATMAN → GORDON | x2
 Dent took out the warehouse with the drugs. The location that I gave to you.
 
-#### d4cac89631-SM | BATMAN → GORDON | x2
+#### d4cac89631 | BATMAN → GORDON | x2
 Save the thanks and explain to me why I just watched half a city block go up in flames.
 
 #### 8a5284fe51 | GORDON → BATMAN | x2
@@ -1073,13 +1079,13 @@ Calm down, he says! Two of my own officers were just about to execute me.
 #### 2d2fcf88f0 | GORDON → BATMAN | x2
 A whole department of rats and you’re pointing a finger at me!
 
-#### add7e800c2-SM-LM | BATMAN → GORDON | x2
+#### add7e800c2 | BATMAN → GORDON | x2
 I only told you. Dent knows, so someone you talked to, told him.
 
 #### 8bd346e599 | GORDON → BATMAN | x2
 So stop leaning on me and let’s figure out what happened.
 
-#### cdd42c647e-LM | BATMAN → GORDON | x2
+#### cdd42c647e | BATMAN → GORDON | x2
 Or maybe you could calm down and tell me what happened.
 
 #### c43fd78970 | BATMAN → GORDON | x2
@@ -1088,13 +1094,13 @@ Tell me everything
 #### 0f035e0da3 | BATMAN → GORDON | x2
 People got hurt-- on your watch.
 
-#### 2fe986e24b-SM | GORDON → BATMAN | x2
+#### 2fe986e24b | GORDON → BATMAN | x2
 Yeah, and I was almost one of them!
 
 #### 94551efa44 | GORDON → BATMAN | x2
 I can’t believe you’re going to lay this on me now.
 
-#### bc0436ce2f-SM | GORDON → BATMAN | x4
+#### bc0436ce2f | GORDON → BATMAN | x4
 Yeah, that’s what I thought.
 
 #### 1c60ecb4cc | GORDON → BATMAN | x2
@@ -1106,7 +1112,7 @@ Let’s hear it.
 #### 50c91728a9 | GORDON → BATMAN | x2
 In case you didn’t notice the gun to my face.
 
-#### 24d5eced79-SM | GORDON → BATMAN | x2
+#### 24d5eced79 | GORDON → BATMAN | x2
 By the time I got back to the precinct, Dent already had the information.
 
 #### d165dbcaa4 | GORDON → BATMAN | x2
@@ -1121,10 +1127,10 @@ There were other cops at that crime scene.
 #### 072a953478 | GORDON → BATMAN | x2
 Any one of them could have been working for Dent.
 
-#### 2ab44b8717-SM | GORDON → BATMAN | x2
+#### 2ab44b8717 | GORDON → BATMAN | x2
 I didn’t even have the time to scratch my ass before I got hauled out here.
 
-#### f9abcec4f4-SM | GORDON → BATMAN | x2
+#### f9abcec4f4 | GORDON → BATMAN | x2
 I didn’t even have the time to scratch my nose before I got hauled out here.
 
 #### 992316369f | BATMAN → GORDON | x2
@@ -1142,7 +1148,7 @@ Executions and martial law.
 #### dacd2de4a1 | GORDON → BATMAN | x2
 There’s no saving him this time, Batman.
 
-#### 8a47a2c48b-SM | GORDON → BATMAN | x2
+#### 8a47a2c48b | GORDON → BATMAN | x2
 I always considered him my friend.
 
 #### 168e6c37bc | GORDON → BATMAN | x2
@@ -1151,7 +1157,7 @@ But he’s past saving.
 #### 30817ea5bd | BATMAN → GORDON | x2
 I don’t believe that. Everyone can be saved.
 
-#### 7cc5e37213-LM | BATMAN → GORDON | x2
+#### 7cc5e37213 | BATMAN → GORDON | x2
 You said it yourself-- he’s trying to help Gotham. He’s just lost.
 
 #### c02f654305 | GORDON → BATMAN | x2
@@ -1199,7 +1205,7 @@ Guess I’m technically dead.
 #### a91e46b79e | BATMAN → GORDON | x2
 Use it.
 
-#### f351e2fdac-SM | GORDON → BATMAN | x2
+#### f351e2fdac | GORDON → BATMAN | x2
 Aside from the fact that I’m supposed to be dead-- I’m not sure where to start.
 
 #### 539643cf58 | BATMAN → GORDON | x2
@@ -1217,7 +1223,7 @@ Maybe Grogan can help us? [Cut Dent’s reach into the police pool. Oppose City 
 #### 0b380c4544 | GORDON → BATMAN | x2
 Hey-- Dent’s still the Mayor, and Grogan’s a by-the-book cop.
 
-#### 9416536c81-LM | BATMAN → GORDON | x2
+#### 9416536c81 | BATMAN → GORDON | x2
 Make him listen to you. You’re smart.
 
 #### 758c563696 | BATMAN → GORDON | x2
@@ -1238,7 +1244,7 @@ You make it sound easy.
 #### c5aae9ba0b | BATMAN → GORDON | x2
 No. It won’t be-- but if anyone can do it, it’s you.
 
-#### 9eadd2f776-LM | BATMAN → GORDON | x2
+#### 9eadd2f776 | BATMAN → GORDON | x2
 You’re trusted.
 
 #### c654f77cc2 | BATMAN → GORDON | x2
@@ -1274,7 +1280,7 @@ This is my job.
 #### 321d254b57 | BATMAN → GORDON | x2
 We will get through this, Jim.
 
-#### d416e6573c-SM | GORDON → BRUCE | x2
+#### d416e6573c | GORDON → BRUCE | x2
 I’m glad we’re on the same side.
 
 #### 5135a499d5 | GORDON → BRUCE | x2
@@ -1286,7 +1292,7 @@ Thanks Jim. For everything.
 #### 213b9c2666 | GORDON → BRUCE | x2
 This damn alley...
 
-#### 9079b77c22-SM | LUCIUS → BRUCE | x2
+#### 9079b77c22 | LUCIUS → BRUCE | x2
 Bruce! I figured out how Cobblepot is disrupting your Bat Tech!
 
 #### a188776ae7 | LUCIUS → BRUCE | x4
@@ -1301,7 +1307,10 @@ And it gets worse - He’s using it like a wrecking ball on the Bat Computer’s
 #### 76433f9b8d | BRUCE → LUCIUS | x4
 If he gets through those firewalls... he’ll have access to *everything.* How do I stop it?
 
-#### d2a3257f56-LM | LUCIUS → BRUCE | x2
+#### d2a3257f56-LM | LUCIUS → BRUCE, ENFORCERFEMALE | x4 | listener: male
+The device’s signal is coming from Wayne Tower. You need to find the Black Box... and destroy it. If you don’t - Your identity, your technology... Penguin will have it all.
+
+#### d2a3257f56-LF | LUCIUS → BRUCE, ENFORCERFEMALE | x4 | listener: female
 The device’s signal is coming from Wayne Tower. You need to find the Black Box... and destroy it. If you don’t - Your identity, your technology... Penguin will have it all.
 
 #### 69e143c397 | GORDON → BRUCE | x2
@@ -1310,7 +1319,7 @@ Gotta handle this first, though.
 #### 0e2e83a3e1 | BATMAN → LUCIUS | x2
 Go.
 
-#### 261b1062e5-SM | LUCIUS → BATMAN | x2
+#### 261b1062e5 | LUCIUS → BATMAN | x2
 I figured it out. I know how Cobblepot is disrupting our tech.
 
 #### df75883d64 | LUCIUS → BATMAN | x2
@@ -1337,7 +1346,7 @@ Where’s the signal coming from?
 #### b4328e15b2 | BATMAN, LUCIUS → LUCIUS, BATMAN | x8
 Wayne Tower.
 
-#### c6ab2d6eea-LM | LUCIUS → BATMAN | x2
+#### c6ab2d6eea | LUCIUS → BATMAN | x2
 You need to find the thing that’s emitting it and destroy it. Or else--
 
 #### 5c14163631 | BATMAN → LUCIUS | x2
@@ -1373,7 +1382,7 @@ Everything is such a goddamn mess.
 #### 4d45461549 | BATMAN → GORDON | x2
 Following the letter of the law is only going to get more people killed.
 
-#### 0a182f6274-LM | BATMAN → LUCIUS | x2
+#### 0a182f6274 | BATMAN → LUCIUS | x2
 Grogan respects you. You’re smart. Make him listen.
 
 #### 894f1878c6 | LUCIUS → BATMAN | x2
@@ -1385,7 +1394,7 @@ It’s causing a feedback loop in your equipment.
 #### c2874212a0 | LUCIUS → GORDON | x2
 It’s the thing causing the feedback loop in your equipment.
 
-#### 425fdf4e1d-LM | LUCIUS → GORDON | x2
+#### 425fdf4e1d | LUCIUS → GORDON | x2
 You need to find that Black Box and destroy it. Or else--
 
 #### 352d6448b9 | GORDON → LUCIUS, BRUCE | x4
@@ -1394,13 +1403,13 @@ He’s supposedly trying to stop the Children of Arkham, but now he’s become a
 #### 63eaccc2ad | GORDON → LUCIUS, BRUCE | x4
 The amount of blood on his hands... he and Lady Arkham might be neck and neck on body count by this point.
 
-#### a200188607-LM | GORDON → LUCIUS | x2
+#### a200188607-LM | GORDON → LUCIUS | x4 | listener: male
 Dent’s got you brainwashed!
 
-#### 083777ad29-L? | GORDON | x2
+#### a200188607-L? | GORDON → LUCIUS | x4 | listener: unknown
+Dent’s got you brainwashed!
+
+#### 083777ad29 | GORDON | x2
 <<guid:{6B6A40C7-6B04-45B3-AF28-208E4EDA1B86}
 >><<id:378675794>>Dent’s got you brainwashed!
-
-#### a200188607-L? | GORDON | x2
-Dent’s got you brainwashed!
 

@@ -58,7 +58,7 @@ Put him down!
 #### 44b9439ac5 | LADYARKHAM → BATMAN | x2
 There’s nothing you can do, Batman!
 
-#### 839b43ed86-SF-L? | LADYARKHAM → COP03 | x2
+#### 839b43ed86 | LADYARKHAM → COP03 | x2
 I told you-- you’re too late.
 
 #### 29f97ebd02 | LADYARKHAM → BATMAN, INMATE01 | x4
@@ -76,7 +76,7 @@ Freedom is yours! The only one standing in your way...
 #### f2cee19e5a | BRUCE, LADYARKHAM → ALFRED, BATMAN, INMATE02 | x10
 ...is Batman.
 
-#### ce75454783-SM | BATMAN → LADYARKHAM | x2
+#### ce75454783 | BATMAN → LADYARKHAM | x2
 I need to follow her.
 
 #### 3bc37365b8 | INMATE02 → LADYARKHAM, INMATE01 | x4
@@ -94,7 +94,7 @@ The entire security system is offline!
 #### 791e0cc1db | ORDERLY01 → INMATE02 | x2
 Every inmate is loose!
 
-#### 356beb4a21-L? | BATMAN → ORDERLY01 | x2
+#### 356beb4a21 | BATMAN → ORDERLY01 | x2
 The Children of Arkham leader? Did you see her?
 
 #### c03381afb9 | ORDERLY01 → LUCIUS | x2

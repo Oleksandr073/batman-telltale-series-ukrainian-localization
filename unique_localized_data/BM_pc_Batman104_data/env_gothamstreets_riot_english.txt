@@ -13,7 +13,7 @@ ALT -- [Punch him]
 #### 257284a987 | choice/UI | x2
 It just keeps getting worse...
 
-#### b735f203a9-SM | choice/UI | x2
+#### b735f203a9 | choice/UI | x2
 I need to stop this.
 
 #### 10dc41128c | choice/UI | x2
@@ -49,7 +49,7 @@ It just keeps on getting worse.  And worse.  And worse.  Everything.
 #### 37ba0a4ce0 | BRUCE → ALFRED | x2
 Maybe it’s crazy to think one man can make a difference.
 
-#### 6a43263c64-SM | BRUCE → ALFRED | x2
+#### 6a43263c64 | BRUCE → ALFRED | x2
 I need to stop all this.
 
 #### 8936c8f4d9 | BRUCE → GORDON | x2
@@ -64,7 +64,7 @@ Why aren’t the police doing anything to help?
 #### 31d0b38d52 | BRUCE → ALFRED | x2
 The city is falling apart and Dent’s just standing by, letting it happen?
 
-#### 52b9a5dd53-LM | ALFRED → BRUCE | x2
+#### 52b9a5dd53 | ALFRED → BRUCE | x2
 That’s it, sir, just take it easy.  You need to build your strength.
 
 #### 76b848e86c | ALFRED → BRUCE | x2
@@ -91,10 +91,10 @@ Ram the barricade!
 #### 553924ae94 | ALFRED → BRUCE | x2
 Sir, we are not in the Batmobile-
 
-#### f3c26d9aa4-SM | BRUCE → ALFRED | x2
+#### f3c26d9aa4 | BRUCE → ALFRED | x2
 I SAID RAM IT, ALFRED.
 
-#### 0b21084dd5-SM | ALFRED → BRUCE | x2
+#### 0b21084dd5 | ALFRED → BRUCE | x2
 I’m afraid we are stuck-
 
 #### 1f332bcb00 | ALFRED → BRUCE | x2
@@ -115,7 +115,7 @@ I’ll drive the car past-
 #### 7cedb34212 | RIOTER01 → ALFRED | x2
 Is that Bruce freakin’ Wayne?!?
 
-#### ecb4b90b7e-S?-LM | RIOTER02 → BRUCE | x2
+#### ecb4b90b7e | RIOTER02 → BRUCE | x2
 I thought you were supposed to be locked in Arkham were you belong!
 
 #### 1fe27f91d3 | RIOTER03 → BRUCE | x2
@@ -190,7 +190,7 @@ Those thugs’ll live.
 #### 264aee2b78 | BRUCE → ALFRED | x2
 Yes, I suppose they will.
 
-#### 40244d00ce-SM | BRUCE → ALFRED | x2
+#### 40244d00ce | BRUCE → ALFRED | x2
 Though not very comfortably for the foreseeable future, I would imagine.
 
 #### c7dadcdb8f | BRUCE → ALFRED | x2
@@ -223,7 +223,7 @@ Exiting the car may not be safe option at the moment, sir.
 #### 5dad45611c | BRUCE → ALFRED | x2
 Then be quick and keep your head down.
 
-#### d2e19a005f-L? | ALFRED → NEWSCASTER | x2
+#### d2e19a005f | ALFRED → NEWSCASTER | x2
 I’ll be here if you need me, sir.
 
 #### f405090a34 | POLICEOFFICER → ALFRED | x2
@@ -241,7 +241,7 @@ There’s nothing you can do about it right now, Master Bruce.
 #### bb52f81962 | ALFRED → BRUCE | x2
 Please try to relax.
 
-#### 4695047643-SM | BRUCE → ALFRED | x2
+#### 4695047643 | BRUCE → ALFRED | x2
 The city needs me, Alfred... I need to stop this.
 
 #### 31398bf7d6 | BRUCE → ALFRED | x2
@@ -346,7 +346,7 @@ Tell them to let our car through-
 #### 08012b9fd7 | ALFRED → POLICEOFFICER | x2
 I will tell them it is an emergency, sir.
 
-#### f398695567-SM | ALFRED → BRUCE | x2
+#### f398695567 | ALFRED → BRUCE | x2
 I’m sure we will know what the hold-up is soon enough...
 
 #### 00fabc8cba | POLICEOFFICER → BRUCE | x2
@@ -361,10 +361,13 @@ Why is the area blocked?
 #### 2bbab3020e | POLICE OFFICER, POLICEOFFICER → POLICEOFFICER, POLICE OFFICER | x4
 Didn’t you hear me say “Mayor Dent’s orders?!?“
 
-#### 4a45db61bd-LM | POLICE OFFICER → BRUCE | x2
+#### 4a45db61bd-LM | POLICE OFFICER, POLICEOFFICER → BRUCE, ENFORCER01 | x4 | listener: male
 That’s all you got to know!
 
-#### b9880eee8a-SM | BRUCE → POLICE OFFICER | x2
+#### 4a45db61bd-L? | POLICE OFFICER, POLICEOFFICER → BRUCE, ENFORCER01 | x4 | listener: unknown
+That’s all you got to know!
+
+#### b9880eee8a | BRUCE → POLICE OFFICER | x2
 I need to get past, it’s an emergency.
 
 #### a05a06a94c | POLICE OFFICER → BRUCE, ALFRED | x4
@@ -382,7 +385,7 @@ I don’t got all day.
 #### 2977bdaff6 | POLICE OFFICER → BRUCE | x4
 What are ya, deaf or something?
 
-#### 7ba1136ecf-S? | POLICE OFFICER → ALFRED, ENFORCER | x4
+#### 7ba1136ecf | POLICE OFFICER → ALFRED, ENFORCER | x4
 I told you to move along.
 
 #### fbd4535bdf | BRUCE → POLICE OFFICER | x2
@@ -412,7 +415,7 @@ Ram the barricade.
 #### 79df242bdb | ALFRED → PROTESTER2 | x2
 This {FaceAccent}isn’t the Batmobile...
 
-#### 0d53083b24-S? | PROTESTER01 → ALFRED | x2
+#### 0d53083b24 | PROTESTER01 → ALFRED | x2
 I think I heard that cop say it’s Bruce Wayne!
 
 #### c993cc2f49 | PROTESTER2 → BRUCE | x2
@@ -427,7 +430,7 @@ Alright, stop.  Stay in your cars.
 #### 5d1fb0318a | BRUCE → ALFRED | x2
 Just do it, Alfred!
 
-#### 2f1e1daa5b-L? | BRUCE → ENFORCER01 | x2
+#### 2f1e1daa5b | BRUCE → ENFORCER01 | x2
 Officer, while I have you here, can I make a donation to the Police Officers’ Fund?
 
 #### 5667c39f51 | BRUCE → ENFORCER01 | x2
@@ -481,20 +484,17 @@ Together we will finally put an end to the {AngryA}kind of {FaceAccent}elitism a
 #### ce7019ed43 | HARVEY → PROTESTER2 | x2
 Not even old friends... {ConfusedB}like {FaceAccent}Bruce Wayne.
 
-#### 5a35a70735-SM | BRUCE → HARVEY | x2
+#### 5a35a70735 | BRUCE → HARVEY | x2
 Well I need to get past. {FaceAccent} Please let me through.
 
 #### 22de983223 | ENFORCER01 → POLICE OFFICER | x2
 Sorry, pal: {FaceAccent}not that easy...
 
-#### 5d22b4240f-SM | BRUCE → POLICE OFFICER | x2
+#### 5d22b4240f | BRUCE → POLICE OFFICER | x2
 I’m sorry, do you{FaceAccent} know who I am?
 
 #### 10727fbb00 | ENFORCER, ENFORCER01 → POLICE OFFICER, POLICEOFFICER | x4
 You’re a guy who throws money at your problems.
-
-#### 4a45db61bd-L? | POLICEOFFICER → ENFORCER01 | x2
-That’s all you got to know!
 
 #### 34c458ca18 | choice/UI → POLICEOFFICER | x2
 Please, let me through.
@@ -529,7 +529,7 @@ Make them stop harassing me.  It’s your job.
 #### c4b083cbf0 | PROTESTER01 → BRUCE | x2
 Hey,your father committed innocent people to Arkham and made sure they stayed there for the rest of their lives.
 
-#### 5b5204f78d-L? | PROTESTER01 → SPENCER | x2
+#### 5b5204f78d | PROTESTER01 → SPENCER | x2
 You got out in less than forty-eight hours.
 
 #### dfd90f958c | ENFORCER01 → PROTESTER01, ALFRED | x4
@@ -544,10 +544,10 @@ Here!
 #### 828e1c0a05 | ENFORCER01 → BRUCE | x2
 Yeah, sure.  {FaceAccent}Take it {DisgustA}up with city hall.
 
-#### 6ccc952f90-S? | ENFORCER01 → BRUCE | x2
+#### 6ccc952f90 | ENFORCER01 → BRUCE | x2
 That’s what I heard.
 
-#### 6be3f33f83-SM | HARVEY → ENFORCER01 | x2
+#### 6be3f33f83 | HARVEY → ENFORCER01 | x2
 I’m sorry to inform you that {ConfusedA}earlier today, my {FaceAccent}FORMER friend, Bruce Wayne, {AngryA}pulled enough strings to get himself released- {FaceAccent}AGAINST DOCTORS’ ADVICE- {ThinkingA}from Arkham Asylum...
 
 #### e72d96ebcd | HARVEY → ENFORCER01 | x2
@@ -568,7 +568,7 @@ Search all you like, the {FaceAccent}car’s clean-
 #### fe60fc0a2f | ENFORCER01 → BRUCE | x2
 Sure- Sure-Sure- {FaceAccent}of course it is...(but)
 
-#### dea60ff59d-S? | ENFORCER01 → BRUCE | x2
+#### dea60ff59d | ENFORCER01 → BRUCE | x2
 Of course. {FaceAccent}I read the papers...
 
 #### c8150d206b | ENFORCER01 → BRUCE | x2
@@ -667,13 +667,13 @@ Hey, hey. Keep back, if you know what’s good for you!
 #### 6eefc00d44 | ENFORCER01 → PROTESTER01 | x2
 Get out of here!
 
-#### 6ce39f6ffd-L? | PROTESTER01 → ENFORCER01 | x2
+#### 6ce39f6ffd | PROTESTER01 → ENFORCER01 | x2
 Did you say {FaceAccent}”“Bruce”? {AngryA}As in{FaceAccent} Bruce Wayne? {AngryB}That guy’s {BodyAccent}a menace!
 
 #### 602eb97857 | PROTESTER01 → ENFORCER01 | x2
 Look at that car!  It’s gotta be Bruce Wayne.
 
-#### 33f66493de-L? | ENFORCER01 → PROTESTER01 | x2
+#### 33f66493de | ENFORCER01 → PROTESTER01 | x2
 Alright, get {BodyAccent}back to your car before I {FaceAccent}have you arrested.
 
 #### 810890072d | ALFRED → ENFORCER01 | x2
@@ -718,7 +718,7 @@ Armed goons won’t help
 #### 027f103127 | choice/UI | x2
 You’re making a big mistake.
 
-#### ca4db8e707-L? | choice/UI | x2
+#### ca4db8e707 | choice/UI | x2
 You just made a big mistake.
 
 #### 79efae1d86 | choice/UI | x2
@@ -727,7 +727,7 @@ I don’t want trouble.
 #### 1839486c89 | choice/UI | x2
 They certainly tried.
 
-#### 6e784c152b-SM | choice/UI → SELINA | x4
+#### 6e784c152b | choice/UI → SELINA | x4
 I missed you.
 
 #### 9876b6dba4 | choice/UI, BRUCE → RYDER | x6
@@ -745,10 +745,13 @@ Keeping tabs on it?
 #### 3c84d3f9f7 | choice/UI | x2
 That’s not funny.
 
-#### 1b190b750d-L? | choice/UI | x2
+#### 1b190b750d | choice/UI | x2
 Thought you would visit.
 
-#### b465bd780b-L? | choice/UI | x2
+#### b465bd780b-L? | choice/UI → HARVEY | x4 | listener: unknown
+Glad you left?
+
+#### b465bd780b-LM | choice/UI → HARVEY | x4 | listener: male
 Glad you left?
 
 #### c6eaf02967 | choice/UI | x2
@@ -772,7 +775,7 @@ Keep me out of it.
 #### 7971ba9b9d | choice/UI | x2
 Dick
 
-#### 4742daf185-L? | choice/UI | x2
+#### 4742daf185 | choice/UI | x2
 You need to let it go.
 
 #### c6dc8b0b68 | choice/UI | x2
@@ -790,7 +793,7 @@ You looking for a fight?
 #### 20bb999cb6 | choice/UI | x2
 Get out of my face!
 
-#### 082b3dac7e-L? | choice/UI | x2
+#### 082b3dac7e | choice/UI | x2
 You took your time!
 
 #### fea52f3236 | choice/UI → ALFRED | x2
@@ -805,7 +808,7 @@ I’ve been gone two days and Penguin’s already remaking the city how he wants
 #### 4a942c2aa6 | BRUCE → ALFRED | x2
 Drive faster, Alfred.
 
-#### bbce0d0116-SM | ALFRED → BRUCE | x2
+#### bbce0d0116 | ALFRED → BRUCE | x2
 I could speed. Probably run over a few Children of Arkham thugs while I’m at it.
 
 #### 7ba37806bf | BRUCE → ALFRED | x2
@@ -913,10 +916,10 @@ Hello Harvey.
 #### b16af0d01f | HARVEY → SELINA | x2
 I can’t believe it. Weaseled your way out already.
 
-#### e24a596661-SM-LF | HARVEY → SELINA | x2
+#### e24a596661 | HARVEY → SELINA | x2
 But I wanted you to know you’ve made a mistake.
 
-#### ec42ecebb3-LM | HARVEY → BRUCE | x2
+#### ec42ecebb3 | HARVEY → BRUCE | x2
 Can’t believe you used Gordon to weasel your way out of Arkham. Must be nice to have a cop in your pocket.
 
 #### 0d40e31ddb | HARVEY → BRUCE | x2
@@ -925,13 +928,13 @@ It must be nice to have a cop in your pocket.
 #### 1365e1ae32 | HARVEY → BRUCE | x2
 You disgust me, Bruce.
 
-#### 3433d143b9-LM | HARVEY → BRUCE | x2
+#### 3433d143b9 | HARVEY → BRUCE | x2
 Don’t you think it’s a little unseemly; Flashing daddy’s cash to get yourself out of Arkham?
 
 #### 849e557a67 | BRUCE → HARVEY | x4
 What do you want, Harvey?
 
-#### 579b6bdd72-SM | HARVEY → BRUCE, FAIRCHILD | x4
+#### 579b6bdd72 | HARVEY → BRUCE, FAIRCHILD | x4
 You should have stayed in the asylum where I put you.
 
 #### 8400f6db34 | HARVEY → BRUCE | x2
@@ -943,34 +946,34 @@ You’ll figure that out... eventually.
 #### a1e302c768 | HARVEY | x2
 It’s unseemly.
 
-#### 21e61b7fdc-L? | HARVEY | x2
+#### 21e61b7fdc | HARVEY | x2
 You were safe in the asylum.
 
 #### 04304058ef | HARVEY | x2
 Gotham’s going to hell and you’re not exactly everyone’s favorite guy right now.
 
-#### ad764acb65-LM | HARVEY → BRUCE | x2
+#### ad764acb65 | HARVEY → BRUCE | x2
 You could have stayed in there forever.
 
-#### 8a898816d5-SM | HARVEY → BRUCE | x2
+#### 8a898816d5 | HARVEY → BRUCE | x2
 Right where I put you.
 
-#### 03105026ea-LM | HARVEY → BRUCE | x2
+#### 03105026ea | HARVEY → BRUCE | x2
 But you wanted to be difficult.
 
-#### 78ff8176ae-SM | BRUCE → HARVEY | x2
+#### 78ff8176ae | BRUCE → HARVEY | x2
 I’ll be fine, Harvey.  I can handle myself.
 
 #### 341193c6fd | HARVEY → BRUCE | x2
 I don’t think you understand the danger you’re in.
 
-#### 893f56f182-SM | BRUCE → HARVEY | x2
+#### 893f56f182 | BRUCE → HARVEY | x2
 I’m innocent, Harvey. And you know it.
 
-#### 3891664ac7-LM | HARVEY → BRUCE | x6
+#### 3891664ac7 | HARVEY → BRUCE | x6
 You call yourself “innocent” after what you did to Cobblepot? That was savage.
 
-#### a35a1103be-SM | BRUCE → HARVEY | x6
+#### a35a1103be | BRUCE → HARVEY | x6
 I was drugged, Harvey. The same stuff they used on you.
 
 #### 761d1d1c8d | HARVEY → BRUCE | x4
@@ -982,7 +985,7 @@ The voters want to feel safe. They don’t want more maniacs out there.
 #### 831f23f16a | BRUCE → HARVEY | x2
 Just leave me the hell alone, Harvey. Trust me, it’ll be easier for you in the long run.
 
-#### 003be6f138-SM | HARVEY → BRUCE | x2
+#### 003be6f138 | HARVEY → BRUCE | x2
 I was doing you a favor, Bruce. If you want to get ugly...
 
 #### 72f8a03b18 | PENGUIN, HARVEY → BATMAN, BRUCE | x8
@@ -994,22 +997,22 @@ Why are you being... so... DIFFICULT?
 #### a28eff4c19 | HARVEY | x2
 This whole mess is because of YOU and your stupid family.
 
-#### c04e829afd-LM | HARVEY → BRUCE | x2
+#### c04e829afd | HARVEY → BRUCE | x2
 The least you could do is GO AWAY while I fix it.
 
-#### 10e57968fc-SM | HARVEY → BRUCE | x2
+#### 10e57968fc | HARVEY → BRUCE | x2
 The last thing I need is you traipsing around Gotham.
 
-#### a67b72e9a7-LM | HARVEY → BRUCE | x2
+#### a67b72e9a7 | HARVEY → BRUCE | x2
 Reminding everyone of how you fooled them for years!
 
-#### 9044ba27d4-LM | BRUCE → HARVEY | x2
+#### 9044ba27d4 | BRUCE → HARVEY | x2
 Would you listen to yourself! You sound insane!
 
 #### bfb8a45c7e | HARVEY → BRUCE, FAIRCHILD | x4
 No. I’m just a man who’s done letting assholes like you run the world and take whatever they want.
 
-#### 699d483479-SM | BRUCE → HARVEY | x2
+#### 699d483479 | BRUCE → HARVEY | x2
 You’re only mayor because I put you there.
 
 #### cecace4409 | BRUCE → HARVEY | x2
@@ -1030,7 +1033,7 @@ You’re a joke.
 #### 95fe5bb2f6 | BRUCE → HARVEY | x2
 Not without my help.
 
-#### 3e361f4304-SM | HARVEY → BRUCE | x2
+#### 3e361f4304 | HARVEY → BRUCE | x2
 I thought I could appeal to your sense of decency. But you’re out of control!
 
 #### bce6e0f171 | HARVEY → BRUCE | x2
@@ -1045,13 +1048,13 @@ No one dies while I’m mayor.
 #### ddabd44a34 | HARVEY → BRUCE | x2
 No one who doesn’t already deserve it.
 
-#### acfe117041-LM | BRUCE → HARVEY | x2
+#### acfe117041 | BRUCE → HARVEY | x2
 You need to let that situation go, Harvey. You have way bigger problems on your plate.
 
-#### c4d9bc40c0-LM | HARVEY → BRUCE | x2
+#### c4d9bc40c0 | HARVEY → BRUCE | x2
 Of course you would think that.
 
-#### 373a20c40c-SM | BRUCE → HARVEY | x2
+#### 373a20c40c | BRUCE → HARVEY | x2
 Selina’s gone, Harvey. I told her to pack her bags and got out of town.
 
 #### 3ea3d8b1a7 | BRUCE → HARVEY | x2
@@ -1114,7 +1117,7 @@ What do you think you’re doing, Wayne? You should be locked up!
 #### e501803d18 | BRUCE → PROTESTER01 | x2
 YOU DON’T TALK TO ME LIKE THAT!
 
-#### 700b46ba32-SM | BRUCE → PROTESTER01 | x2
+#### 700b46ba32 | BRUCE → PROTESTER01 | x2
 I COULD CRUSH YOU!
 
 #### b199567e3c | ALFRED → BRUCE | x6
@@ -1126,7 +1129,7 @@ SHUT UP, ALFRED!
 #### 758bbdee66 | BRUCE → ALFRED | x2
 BACK UP NOW BEFORE I BASH YOUR HEAD IN!
 
-#### 3d8c028548-LM | BRUCE → ALFRED | x2
+#### 3d8c028548 | BRUCE → ALFRED | x2
 YOU WANT TROUBLE? YOU JUST FOUND IT!
 
 #### bd795207b2 | ALFRED → BRUCE | x2
@@ -1138,7 +1141,7 @@ Whoa! What’s wrong with him?
 #### d5325318cd | PROTESTER03 → BRUCE | x2
 Throw him back in Arkham! He deserves it!
 
-#### 357d8c7023-SM | BRUCE → ALFRED | x2
+#### 357d8c7023 | BRUCE → ALFRED | x2
 I’m sorry. I couldn’t stop it.
 
 #### 7e01ae696a | ARUCE → BRUCE | x2
@@ -1159,7 +1162,7 @@ Yes...thank you. I appreciate the help.
 #### 8991ca3821 | ENFORCER01 → BRUCE | x2
 You bet.
 
-#### 87d20057fd-SM | BRUCE → ENFORCER01 | x2
+#### 87d20057fd | BRUCE → ENFORCER01 | x2
 I had it handled. I don’t run from fights.
 
 #### b43aae3cb4 | ENFORCER01 → BRUCE | x2
@@ -1183,19 +1186,19 @@ Are you guys kidding me? He’s a monster!
 #### ec0e58a4e3 | ENFORCER01 → BRUCE | x2
 Everybody take a step back!
 
-#### 85619a7348-SM | BRUCE → HARVEY | x2
+#### 85619a7348 | BRUCE → HARVEY | x2
 Or I won’t hold back this time.
 
 #### 4c94ad0ad1 | BRUCE → HARVEY | x2
 Penguin’s already remaking the city how he wants.
 
-#### 6e8d216e67-SM | HARVEY → BRUCE | x2
+#### 6e8d216e67 | HARVEY → BRUCE | x2
 You should have stayed where I put you.
 
 #### b7034195fe | HARVEY → BRUCE | x2
 But by then it’ll be too late.
 
-#### a6c433fa2e-LM | HARVEY → BRUCE | x2
+#### a6c433fa2e | HARVEY → BRUCE | x2
 Damn it, Bruce. You’ve got to say something.
 
 #### 2dec47790a | HARVEY → SELINA | x2
@@ -1204,13 +1207,13 @@ I can hear you breathing!
 #### 4fd202b14f | SELINA → HARVEY | x2
 All bad people came out to play.
 
-#### f458bb5171-LM | HARVEY → BRUCE | x2
+#### f458bb5171 | HARVEY → BRUCE | x2
 I’M in charge now. You need to get that through your skull.
 
 #### 1bbb275ffa | HARVEY → BRUCE | x2
 No more double standards for the wealthy and powerful.
 
-#### 3caa9aa1b8-SM | BRUCE → HARVEY | x2
+#### 3caa9aa1b8 | BRUCE → HARVEY | x2
 Remember Selina’s place? I won’t hold back next time.
 
 #### 2ee0a15925 | BRUCE → HARVEY | x2
@@ -1219,19 +1222,19 @@ Remember Selina’s place? I’ll beat you down all over again.
 #### bf12250cd7 | PROTESTER01 → BRUCE | x2
 Why’s a rich prick like you blocking up my streets?
 
-#### d951247d97-LM | ENFORCER01 → BRUCE | x2
+#### d951247d97 | ENFORCER01 → BRUCE | x2
 Or maybe you’re happy to wait right here.
 
-#### ce441ee595-SM | BRUCE → PROTESTER01 | x2
+#### ce441ee595 | BRUCE → PROTESTER01 | x2
 I’ve got a lead on Lady Arkham.
 
-#### 26340a8c4f-SM | BRUCE → PROTESTER01 | x2
+#### 26340a8c4f | BRUCE → PROTESTER01 | x2
 I’ve got to get back out there.
 
-#### 53fcca6541-SM | BRUCE → ENFORCER01 | x2
+#### 53fcca6541 | BRUCE → ENFORCER01 | x2
 I’ve got a lead on Vicki.
 
-#### 2fc321348a-SM | BRUCE → HARVEY | x4
+#### 2fc321348a | BRUCE → HARVEY | x4
 Because I bought it for you!
 
 #### 628aac7c56 | HARVEY → BRUCE | x4
@@ -1243,7 +1246,7 @@ Hey there, Bruce.
 #### f20c18d9f1 | BRUCE → HARVEY | x2
 Selina? Is she what this is all about?
 
-#### e233521f08-LM | HARVEY → BRUCE | x2
+#### e233521f08 | HARVEY → BRUCE | x2
 What you did was a low blow, Bruce.
 
 #### 1b6dc5150f | HARVEY → BRUCE | x2
@@ -1258,16 +1261,13 @@ A real man wouldn’t have done that.
 #### 8f69c057ef | HARVEY → BRUCE | x2
 A friend wouldn’t have done that.
 
-#### b465bd780b-LM | choice/UI → HARVEY | x2
-Glad you left?
-
-#### f29417b94a-SM | choice/UI → HARVEY | x2
+#### f29417b94a | choice/UI → HARVEY | x2
 ::I could use your help::
 
 #### d6ec535ab5 | choice/UI → HARVEY | x2
 ::Thanks for checking in::
 
-#### c0270c5b8b-SM | choice/UI → SELINA | x2
+#### c0270c5b8b | choice/UI → SELINA | x2
 Am I supposed to salute?
 
 #### 17dc90156b | choice/UI → SELINA | x2
@@ -1276,16 +1276,16 @@ Am I supposed to salute?
 #### 1b4046b05f | choice/UI → SELINA | x2
 ::Yep. Still crazy::
 
-#### 80be365514-LM | SELINA → HARVEY | x2
+#### 80be365514 | SELINA → HARVEY | x2
 Just Glad you’re safe.  See ya when ya get back.
 
 #### d2b4c48ee4 | HARVEY → SELINA, FAIRCHILD | x4
 The streets of Gotham are a dangerous place for someone like you right now.
 
-#### f1d5e46c15-SM-LF | HARVEY → SELINA | x2
+#### f1d5e46c15 | HARVEY → SELINA | x2
 You knew I was interested in Selina.
 
-#### 62acd8f743-SM | choice/UI → SELINA | x2
+#### 62acd8f743 | choice/UI → SELINA | x2
 I’m sorry it happened that way.
 
 #### 77bc796492 | choice/UI → HARVEY | x2
@@ -1363,7 +1363,7 @@ Well... it certainly hasn’t gotten any better.
 #### 501523542f | BRUCE → ALFRED | x4
 I don’t care about “public opinion,” and neither should you Al.
 
-#### 02c4825277-SM | ALFRED → BRUCE | x4
+#### 02c4825277 | ALFRED → BRUCE | x4
 I wish I could agree with you, but the more people call out for you to receive justice, the harder your... other job could become.
 
 #### 3daffa8f30 | BRUCE → ALFRED | x4
@@ -1372,13 +1372,13 @@ Yeah, well, that’s why it’s Batman’s turn now...
 #### 1206deacd4 | ALFRED → BRUCE | x4
 True, I suppose public opinion doesn’t affect him much.
 
-#### 4f1312ea63-LM | ALFRED → BRUCE | x4
+#### 4f1312ea63 | ALFRED → BRUCE | x4
 Though if the people protesting to have you thrown back in Arkham get their way... that could put a damper on things.
 
 #### 863e7e7cad | BRUCE → ALFRED | x4
 So many people angry at me... the entire family... I just hope I can turn it around.
 
-#### 6a94812959-SM | ALFRED → BRUCE | x8
+#### 6a94812959 | ALFRED → BRUCE | x8
 I’m sure you’ll figure something out. You always do.
 
 #### 9ef52f4f2d | BRUCE → ALFRED | x2
@@ -1390,7 +1390,7 @@ Speaking of home...
 #### 36a4e11ee6 | STU → BRUCE | x2
 BB:(mkirkbride, Fri Oct  7 12:44:44 2016) Selina texts-- Can’t. Got a thing.
 
-#### 75b34f0fda-LM | BRUCE → HARVEY | x2
+#### 75b34f0fda | BRUCE → HARVEY | x2
 They’re only dangerous because you made them dangerous! Armed guards on every street corner?
 
 #### 030d87009d | BRUCE → HARVEY | x2
@@ -1402,7 +1402,7 @@ With the Children of Arkham sneaking around everywhere, those armed guards are t
 #### 89f502eab7 | HARVEY → BRUCE | x2
 Maybe you haven’t heard, but the Children of Arkham have gone underground. Obviously plotting some sort of attack, and people are scared. Panicking.
 
-#### f170146ba4-SM | HARVEY → BRUCE | x2
+#### f170146ba4 | HARVEY → BRUCE | x2
 I needed to show them that my resolve hasn’t weakened, that Gotham is still strong, so I gave them an enemy - You and your family’s filthy corruption.
 
 #### 19b50b026c | HARVEY → BRUCE | x2
@@ -1411,7 +1411,7 @@ Can’t let you keep running around scot-free, Bruce. [Growl] It’s the will of
 #### 48aac23d45 | BRUCE → HARVEY | x2
 You can spare me your “will of the people” crap, Harvey. I know this is personal.
 
-#### 4e95a44e2d-SM | BRUCE → HARVEY | x2
+#### 4e95a44e2d | BRUCE → HARVEY | x2
 That isn’t how I wanted things to go down either, Harvey, and I’m really sorry they did, but that’s no excuse for this ridiculous crusade against me!
 
 #### 0c015ef62c | BRUCE → HARVEY | x2
@@ -1444,10 +1444,10 @@ Shut up, Alfred! I can HANDLE THIS!
 #### ec3a7528ea | BRUCE → ALFRED | x2
 You can still leave.
 
-#### 4be721c598-SM | BRUCE → ALFRED | x2
+#### 4be721c598 | BRUCE → ALFRED | x2
 And I would take advantage of that while both your kneecaps are still attached correctly.
 
-#### f50f1c6318-SM | BRUCE → ALFRED | x2
+#### f50f1c6318 | BRUCE → ALFRED | x2
 I am tired. I am hungry. I haven’t showered in three days.
 
 #### 4ee9e4a43a | BRUCE → ALFRED | x2
@@ -1468,13 +1468,13 @@ Someone else saw that, right? This psycho tried to get out of the car and attack
 #### f75389ed17 | PROTESTER01 → BRUCE | x2
 Someone else heard that, right? This psycho just threatened me!
 
-#### 2f5122906a-S? | PROTESTER02 → ALFRED, PROTESTER01 | x4
+#### 2f5122906a | PROTESTER02 → ALFRED, PROTESTER01 | x4
 Yeah, I filmed the whole thing!
 
 #### e457f10118 | PROTESTER03 → PROTESTER01 | x2
 They should lock you up!
 
-#### 14ea62e4c3-SM | BRUCE → ALFRED | x2
+#### 14ea62e4c3 | BRUCE → ALFRED | x2
 Oh god... [to alfred] Alfred, I’m sorry. I don’t--
 
 #### b1bf520c0e | ALFRED → PROTESTER03 | x2
@@ -1513,10 +1513,10 @@ Aw come on now. Don’t make this any more difficult than it has to be.
 #### b9b71bfdea | ENFORCER01 → BRUCE, ALFRED | x4
 Alright, now the way I see it, there are two ways we can do this, [smarmy emphasis] Bruce Wayne.
 
-#### 39114cd917-S? | ENFORCER01 → BRUCE, ALFRED | x4
+#### 39114cd917 | ENFORCER01 → BRUCE, ALFRED | x4
 Either I let these people at you and see how you handle mob justice...
 
-#### 31ffccf129-LM | ENFORCER01 → BRUCE, ALFRED | x4
+#### 31ffccf129 | ENFORCER01 → BRUCE, ALFRED | x4
 Or, you could make a little donation to me and my boys to help us stay well-funded. And well-armed.
 
 #### 243791426a | BRUCE → ENFORCER01 | x2
@@ -1546,13 +1546,13 @@ I bet
 #### 17301c8365 | choice/UI → HARVEY | x2
 + I hear Harv is out for blood
 
-#### 220b957cb0-LM | choice/UI → HARVEY | x2
+#### 220b957cb0 | choice/UI → HARVEY | x2
 Heard you got out. Still crazy?
 
 #### 5e9fe625bf | choice/UI → HARVEY | x2
 Can’t. Busy w something else
 
-#### a25578ed0f-L? | choice/UI | x2
+#### a25578ed0f | choice/UI | x2
 Glad to hear you got out of Arkham.  See ya when ya get back
 
 #### b11ad70951 | choice/UI | x4
@@ -1564,7 +1564,7 @@ Harv’s dangerous
 #### 41d42aa62a | choice/UI | x2
 Could use a partner again
 
-#### 9a065ef72b-SM | choice/UI | x2
+#### 9a065ef72b | choice/UI | x2
 I’ve handled way worse than Harv
 
 #### 8673acb924 | choice/UI | x2
@@ -1573,7 +1573,7 @@ kk, tough guy
 #### 8fb2f6b11c | choice/UI | x2
 You should know that
 
-#### f84a1ce01f-SM | choice/UI | x2
+#### f84a1ce01f | choice/UI | x2
 I saw what happened with Oz. Just wanted to make sure you’re ok.
 
 #### 07e9f6d1bc | choice/UI | x2

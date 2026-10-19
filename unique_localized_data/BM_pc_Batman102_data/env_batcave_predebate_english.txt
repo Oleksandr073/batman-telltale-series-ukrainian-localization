@@ -1,10 +1,10 @@
 ﻿#### d458184eed | HARVEY | x4
 With all the allegations... and now that Falcone’s dead...
 
-#### e4c7a0e0a9-L? | HARVEY | x4
+#### e4c7a0e0a9 | HARVEY | x4
 I can’t have you beside me here at the debate.
 
-#### fc7330088f-SM-L? | HARVEY | x2
+#### fc7330088f | HARVEY | x2
 When everything first came out about your parents... you told me to distance myself...
 
 #### 8019885bfe | choice/UI → HARVEY | x2
@@ -46,7 +46,7 @@ This threat won’t wait.
 #### 240e0a2144 | ALFRED → BRUCE | x2
 Hill’s
 
-#### 506986b6b8-SM | ALFRED → BRUCE, BATMAN, HARVEY | x6
+#### 506986b6b8 | ALFRED → BRUCE, BATMAN, HARVEY | x6
 At least, I found them so.
 
 #### 014f539989 | choice/UI → ALFRED | x8
@@ -91,7 +91,7 @@ He lies so much, I bet he even believes himself.
 #### 44b24a4017 | ALFRED → BRUCE | x4
 He’s not the only person who can give you answers.
 
-#### beb35617e6-SM | BRUCE → ALFRED | x2
+#### beb35617e6 | BRUCE → ALFRED | x2
 The Children of Arkham will hit the debate - I’m certain of it.
 
 #### b781465874 | LFRED → ALFRED | x2
@@ -149,7 +149,7 @@ Defending against an assassin is difficult enough...
 #### 461182a6ce | ALFRED → BRUCE | x4
 Instead, we don’t know what we’re defending against.
 
-#### 73009bcfbc-SM | ALFRED → BRUCE | x4
+#### 73009bcfbc | ALFRED → BRUCE | x4
 I’m sure these Children of Arkham will be sending everything they have.
 
 #### 91058e62c8 | BRUCE → ALFRED | x4
@@ -182,7 +182,7 @@ Hello?
 #### 28fc86ea8a | HARVEY → BRUCE | x2
 Oh, well... it’s about the debate...
 
-#### b9050e4721-LM | choice/UI → HARVEY | x2
+#### b9050e4721 | choice/UI → HARVEY | x2
 You’re not safe.
 
 #### 43192b43eb | BRUCE → HARVEY | x2
@@ -206,7 +206,7 @@ I didn’t mean to call.
 #### cc956e1270 | BRUCE → SELINA, HARVEY | x6
 It was a mistake.
 
-#### b53ad75fe3-SM-LM | HARVEY → BRUCE | x2
+#### b53ad75fe3 | HARVEY → BRUCE | x2
 I’m glad you did.
 
 #### 997b702410 | HARVEY → BRUCE | x4
@@ -242,7 +242,7 @@ Look, I have to go. The make up person is here.
 #### 85903c24a8 | HARVEY → BRUCE | x6
 Guess they have to put on my face.
 
-#### 2c30464956-SM | HARVEY → ALFRED | x2
+#### 2c30464956 | HARVEY → ALFRED | x2
 I’m sorry we couldn’t work this out.
 
 #### cd71d16cb8 | HARVEY → BRUCE | x6
@@ -251,10 +251,10 @@ I’m going to have to say... unflattering things about you tonight, Bruce.
 #### 0b8fdd1354 | HARVEY → ALFRED, BRUCE | x6
 But I hope after this is all over, we can find a way to still be friends.
 
-#### ed42b77f49-SM | ALFRED → HARVEY | x2
+#### ed42b77f49 | ALFRED → HARVEY | x2
 I informed Gordon of the threat. He trippled security at the debate.
 
-#### c1a6e46177-SM | ALFRED → HARVEY | x2
+#### c1a6e46177 | ALFRED → HARVEY | x2
 Bruce - I conveyed the gravity of the situation to Lieutenant Gordon --
 
 #### 5da0f94cb4 | ALFRED → HARVEY | x2
@@ -269,13 +269,13 @@ That’s not going to be enough to stop the Children of Arkham.
 #### 7a60de6b89 | ALFRED → BRUCE | x4
 Hopefully the police can keep them at bay until you get there.
 
-#### aae5be2148-SM | BRUCE → ALFRED | x4
+#### aae5be2148 | BRUCE → ALFRED | x4
 I knew I could count on Gordon.
 
 #### c28fcdf2fa | ALFRED → BRUCE | x4
 Hopefully he can can keep the Children of Arkham at bay until you get there.
 
-#### 5f21c5bef8-SM | BRUCE → ALFRED | x4
+#### 5f21c5bef8 | BRUCE → ALFRED | x4
 There’s no time to waste, Alfred. I need to gear up and get there as soon as I can.
 
 #### 32306e8e77 | ALFRED → BRUCE | x4
@@ -290,7 +290,7 @@ Hill’s... details about your father -- they must have been quite upsetting.
 #### 3f09a0fca1 | BATMANBRUCE → ALFRED | x8
 To be honest, Alfred, nothing can shock me anymore.
 
-#### d3fd1d3f46-SM | ALFRED → BATMAN | x8
+#### d3fd1d3f46 | ALFRED → BATMAN | x8
 I wish I felt the same way.
 
 #### e1c31a1b84 | BRUCE → ALFRED | x8
@@ -299,7 +299,7 @@ Everything I do -- all this [batcave, batsuit] was because of my parents.
 #### bb573a54f4 | BATMANBRUCE → ALFRED | x8
 To hear their crimes detailed, first by Falcone, then by a snake like Hill --
 
-#### f8316acfe0-SM | BATMANBRUCE → ALFRED | x8
+#### f8316acfe0 | BATMANBRUCE → ALFRED | x8
 It makes me question myself.
 
 #### 9b34d16ff2 | ALFRED → BRUCE | x8
@@ -353,7 +353,7 @@ But I suppose no good can come from wallowing - the city needs you now more than
 #### f1e9fe174f | ALFRED → BRUCE | x4
 What do you suppose they have planned?
 
-#### aadabf3784-L? | ALFRED | x4
+#### aadabf3784 | ALFRED | x4
 That schematic you found --
 
 #### 7e7df7edc3 | ALFRED → BRUCE | x4
@@ -389,7 +389,7 @@ You’d better be prepared.
 #### aa9b1a8b35 | ALFRED, LUCIUS → BRUCE | x4
 Good luck, Bruce.
 
-#### 631af9d503-L? | ALFRED | x2
+#### 631af9d503 | ALFRED | x2
 And -- try not to get yourself hurt.
 
 #### 167305d67e | ALFRED → BRUCE | x2
@@ -407,7 +407,10 @@ Hey, Bruce.
 #### 1bbd0ed697 | HARVEY → BRUCE | x4
 Something’s come up.
 
-#### 627e9f1bd0-SM-L? | HARVEY | x2
+#### 627e9f1bd0-SM-L? | HARVEY → ALFRED | x4 | speaker: male, listener: unknown
+Man, I’m glad you called -- I needed to talk to you, actually.
+
+#### 627e9f1bd0-SM-LM | HARVEY → ALFRED | x4 | speaker: male, listener: male
 Man, I’m glad you called -- I needed to talk to you, actually.
 
 #### 3326a1f1bd | choice/UI → HARVEY | x17
@@ -425,7 +428,7 @@ A little bit of overkill if you ask me.
 #### 8d7c5fe0cd | HARVEY → BRUCE | x4
 Uh, look, Bruce. I didn’t want to do this over the phone.
 
-#### 66dfded28c-SM | HARVEY | x4
+#### 66dfded28c | HARVEY | x4
 But, my advisors are telling me I need to... that I need to distance myself from you.
 
 #### b43121073f | HARVEY → BRUCE | x4
@@ -467,7 +470,7 @@ It’s crazy - security is on high alert for this Children of Arkham threat.
 #### 960cfefad3 | BRUCE → HARVEY | x4
 Why, what happened? Are you alright?
 
-#### 48776b8de1-SM | HARVEY → BRUCE | x4
+#### 48776b8de1 | HARVEY → BRUCE | x4
 Me? Oh yeah, I’m fine.
 
 #### 0e154d9766 | HARVEY → BRUCE | x4
@@ -485,7 +488,7 @@ I get it, it’s the smart move.  But let’s talk about it later --
 #### 147fad24b8 | BRUCE → HARVEY | x2
 But let’s talk about it later --
 
-#### 9912191543-LM | BRUCE, BATMAN → HARVEY | x8
+#### 9912191543 | BRUCE, BATMAN → HARVEY | x8
 I don’t care, Harvey -- you need to get out of there!
 
 #### 1bc2822f7a | HARVEY → BRUCE | x2
@@ -497,13 +500,16 @@ I hate you.
 #### a244619713 | BRUCE, BATMAN → HARVEY | x6
 Ouch, Harvey. Talk about a sucker punch.
 
-#### 4365a987a3-SM | HARVEY → BRUCE | x4
+#### 4365a987a3 | HARVEY → BRUCE | x4
 I’m glad you see it that way.
 
 #### b0bdc8de3d | choice/UI → HARVEY | x4
 Hill can’t be mayor.
 
-#### 756ba10da9-LM | choice/UI → HARVEY | x2
+#### 756ba10da9-LM | choice/UI → HARVEY | x6 | listener: male
+You’ve got some nerve.
+
+#### 756ba10da9-L? | choice/UI → HARVEY | x6 | listener: unknown
 You’ve got some nerve.
 
 #### 6db944b7d6 | choice/UI → HARVEY | x4
@@ -515,7 +521,7 @@ I may have to blast you publicly...
 #### 97a5668ab0 | HARVEY → BRUCE | x4
 ...but we’ll know the truth about our friendship.
 
-#### b7ed3aea1f-SM | HARVEY | x4
+#### b7ed3aea1f | HARVEY | x4
 Listen, I hate to push you, but I need to know...
 
 #### 3024076b76 | HARVEY → BRUCE | x4
@@ -524,10 +530,10 @@ Can I count on your money, Bruce?
 #### 07c7be4655 | HARVEY → BRUCE | x4
 Right... well look, I have to go. The makeup person is here.
 
-#### 99b34de51e-SM | HARVEY → BRUCE | x4
+#### 99b34de51e | HARVEY → BRUCE | x4
 Listen, I’m sorry we couldn’t make this work out, Bruce.
 
-#### 981f94270c-SM | HARVEY → BRUCE | x4
+#### 981f94270c | HARVEY → BRUCE | x4
 I’m sorry, Bruce. The make up person is here.
 
 #### dae72936a7 | HARVEY → BRUCE | x4
@@ -554,28 +560,28 @@ No, Harvey. You can forget it.
 #### 943e57d9bf | BRUCE, BATMAN → HARVEY | x8
 No matter what, we need a new mayor.
 
-#### eab0eddad5-SM | HARVEY → BRUCE | x4
+#### eab0eddad5 | HARVEY → BRUCE | x4
 I knew you’d see it that way.
 
-#### c3abbc5a2d-LM | BRUCE → HARVEY | x4
+#### c3abbc5a2d | BRUCE → HARVEY | x4
 You’ve got some nerve, Harvey. Either we’re a team, or we’re not.
 
 #### 8cdaffc9ce | HARVEY → BRUCE | x6
 Of course we’re a team, Bruce, of course we are. Just not in front of the press.
 
-#### 232e1665f1-LM | BRUCE → HARVEY | x4
+#### 232e1665f1 | BRUCE → HARVEY | x4
 Forget your campaign for a minute - the money won’t matter if you’re dead.
 
-#### 50ae2d61d6-SM | HARVEY → BRUCE | x4
+#### 50ae2d61d6 | HARVEY → BRUCE | x4
 But here’s the thing, Bruce. Without your money, I am dead in the water.
 
-#### af6cd3d5c0-SM | HARVEY | x4
+#### af6cd3d5c0 | HARVEY | x4
 I know this is a delicate topic -- but I need you to keep the funds flowing.
 
 #### 69049cb88c | HARVEY → BRUCE | x6
 I can’t leave now -- think of the message that would send to the voters.
 
-#### efd2654666-SM | HARVEY → BRUCE | x2
+#### efd2654666 | HARVEY → BRUCE | x2
 I’m sorry, Bruce. But with the allegations in the press, and now this mess with Falcone...
 
 #### eacfea9ff3 | HARVEY → BRUCE | x2
@@ -593,7 +599,7 @@ You’re a liability.
 #### 3e155012ec | BRUCE, BATMAN → HARVEY | x6
 Hill needs to be removed.
 
-#### 7bd9919df0-SM | HARVEY → BRUCE | x6
+#### 7bd9919df0 | HARVEY → BRUCE | x6
 Bruce, I’m ahead in the polls -- a win tonight and I could take the election!
 
 #### 7b9b554d4b | HARVEY → BRUCE | x2
@@ -614,7 +620,7 @@ Call Harvey
 #### efd2f3c8d6 | choice/UI → ALFRED | x4
 That won’t be enough.
 
-#### 6b1fa5241e-SM | choice/UI → ALFRED | x4
+#### 6b1fa5241e | choice/UI → ALFRED | x4
 I need to hurry.
 
 #### 727f284cd2 | choice/UI → ALFRED | x4
@@ -631,12 +637,6 @@ Let’s not and say we did.
 
 #### 63f24ae7c7 | choice/UI → ALFRED | x2
 Security Cameras
-
-#### 627e9f1bd0-SM-LM | HARVEY → ALFRED | x2
-Man, I’m glad you called -- I needed to talk to you, actually.
-
-#### 756ba10da9-L? | choice/UI | x4
-You’ve got some nerve.
 
 #### 6ef13a4d9e | choice/UI, BATMAN, BBRUCE → LADYARKHAM, HARVEY, JOKER | x18
 I don’t care.
@@ -662,7 +662,7 @@ Oh, you mean because of this Penguin threat.
 #### 484049fa7a | HARVEY → BATMAN | x2
 Because of Penguin and his thugs?
 
-#### 509230b44a-LM | BATMAN → HARVEY | x2
+#### 509230b44a | BATMAN → HARVEY | x2
 Harvey, you need to listen to me. Stay away from the debate.
 
 #### 6378b7caa5 | BATMAN → HARVEY | x2
@@ -671,7 +671,7 @@ What happened? Are you alright?
 #### e6b795ac74 | BRUCE → HARVEY | x2
 It’s NOT overkill, Harvey. There’s a very real [threat]--“
 
-#### 614f4303a4-SM | HARVEY → BATMAN | x2
+#### 614f4303a4 | HARVEY → BATMAN | x2
 Please -- I need to get this off my chest...
 
 #### 97b7e3df08 | BATMAN, BRUCE → BRUCE, BATMAN | x4
@@ -689,7 +689,7 @@ I -- I know.
 #### d77989c1e3 | BATMAN, LUCIUS, HARVEY, GORDON → BATMAN, BRUCE, PENGUIN | x24
 Why?
 
-#### d0706d7e03-SM | BRUCE → HARVEY | x2
+#### d0706d7e03 | BRUCE → HARVEY | x2
 Because all that money I was giving you? I’m giving it to Hill.
 
 #### e04b9830b7 | BRUCE, BATMAN → HARVEY | x4
@@ -707,13 +707,13 @@ You’re joking. Please tell me that you’re joking.
 #### dba8449a65 | BATMAN, BRUCE → HARVEY | x4
 No Harvey. Forget it.
 
-#### d2b5245bac-SM | BATMAN, BRUCE → HARVEY | x4
+#### d2b5245bac | BATMAN, BRUCE → HARVEY | x4
 Because all that money I was giving you?
 
 #### 1dd4544ce4 | BATMAN, BRUCE → HARVEY | x4
 Because you don’t deserve my help.
 
-#### 54d46d27b3-SM | HARVEY → BATMAN | x2
+#### 54d46d27b3 | HARVEY → BATMAN | x2
 I thought you might feel that way.
 
 #### 3c5135e60d | HARVEY → BATMAN | x2
@@ -725,7 +725,7 @@ Yeah, I get it. You don’t owe me an explanation.
 #### e579af0c11 | BATMAN → HARVEY | x2
 Just get out of there, Harvey. Please --
 
-#### 252e9f1bd2-LM | BATMAN → HARVEY | x2
+#### 252e9f1bd2 | BATMAN → HARVEY | x2
 You’ve got a nerve, Harvey. Either we’re a team, or we’re not.
 
 #### 32c47d362e | BATMAN | x2
@@ -746,7 +746,7 @@ Sorry we couldn’t work this out.
 #### f26789ca34 | BATMAN → HARVEY | x2
 It’s the smart move.  But this isn’t the time --
 
-#### 0c464837e3-SM | HARVEY → BATMAN | x2
+#### 0c464837e3 | HARVEY → BATMAN | x2
 I know this is a delicate topic -- but I need you to keep me afloat.
 
 #### 93d8b552ce | choice/UI → ALFRED | x2
@@ -773,7 +773,7 @@ Your instinct that these... [trying it out] Children of Arkham are attacking the
 #### e200a25c7a | ALFRED → BRUCE | x2
 Your instinct that Penguin and his thugs are attacking the debate - it has to be right.
 
-#### 6a701f8377-LM | ALFRED → BRUCE | x2
+#### 6a701f8377 | ALFRED → BRUCE | x2
 This blueprint you found--
 
 #### c48825b004 | ALFRED → BATMAN | x2
@@ -785,13 +785,13 @@ Hmmm.
 #### 502aeccf74 | ALFRED, BATMANBRUCE → BATMAN, ALFRED | x4
 --the auditorium where the debate’s being held.
 
-#### 266853de2f-SM | BATMANBRUCE → ALFRED | x2
+#### 266853de2f | BATMANBRUCE → ALFRED | x2
 I hacked into the image feeds from the security cameras at the auditorium.
 
 #### c5b212f98b | ALFRED, BATMANBRUCE, BRUCE → BATMAN, ALFRED | x6
 Just to be safe.
 
-#### 5e7bb6202c-LM | ALFRED → BRUCE | x2
+#### 5e7bb6202c | ALFRED → BRUCE | x2
 Bruce, what you said to me after you left Hill’s office...
 
 #### 46bd42a167 | ALFRED → BATMAN | x2
@@ -812,7 +812,7 @@ It wasn’t.
 #### 009b9ba02d | ALFRED → BATMAN | x2
 If Hill spoke about your parents, his relationship with your father...
 
-#### 41962b7db6-LM | ALFRED → BATMAN | x4
+#### 41962b7db6 | ALFRED → BATMAN | x4
 ...you’re allowed to be upset about it.
 
 #### 8c80ab35f0 | ALFRED → BATMAN | x2
@@ -854,7 +854,7 @@ Bruce -- your visit with Hill...
 #### b1ecf33ff0 | ALFRED → BATMAN | x2
 I gather from your mood that his message to Penguin wasn’t the only thing discussed.
 
-#### cc5ca40ac0-LM | ALFRED → BATMAN | x2
+#### cc5ca40ac0 | ALFRED → BATMAN | x2
 But whatever Hill said about your father, you’re allowed to be upset by it.
 
 #### c70514a183 | ALFRED → BATMAN | x2
@@ -872,7 +872,7 @@ Gotham district attorney Harvey Dent appears to be hitting some potholes on his 
 #### 67b7911433 | RYDER → BATMAN | x2
 Nobody goes to Gotham’s dive bars expecting a quiet night out, but police say a brawl tonight at the Stacked Deck bar in Otisburg was the rowdiest one in recent memory. Reports say multiple arrests were made, with all the suspects taken into custody while unconscious. Police are seeking an unidentified man and woman who were seen in conversation with the assailants shortly before the fight.
 
-#### 23fe4c09e5-SM | ALFRED → BATMAN | x2
+#### 23fe4c09e5 | ALFRED → BATMAN | x2
 I  just hacked into the image feeds from the security cameras at the auditorium.
 
 #### 53b49ce98a | BATMANBRUCE → FAIRCHILD | x2

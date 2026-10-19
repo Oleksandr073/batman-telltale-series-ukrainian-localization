@@ -28,16 +28,16 @@ We leak this to the press.
 #### 2a7ca16157 | choice/UI | x2
 I don’t want to hear it.
 
-#### c2c038f156-SM | choice/UI → ALFRED | x2
+#### c2c038f156 | choice/UI → ALFRED | x2
 I did what I had to do.
 
 #### ded37e9f41 | BATMAN, choice/UI → REGINA, ALFRED | x8
 He’s still alive.
 
-#### d425c23387-SM | BRUCE → ALFRED | x2
+#### d425c23387 | BRUCE → ALFRED | x2
 I’ve heard this before, Alfred.
 
-#### 616e8da051-SM | BRUCE → ALFRED | x2
+#### 616e8da051 | BRUCE → ALFRED | x2
 Look, I did--
 
 #### 04e085aab3 | ALFRED → BRUCE | x2
@@ -97,7 +97,7 @@ There used to be a difference between Batman and the criminals he locked up in A
 #### a3460d631b | ALFRED | x2
 That difference is shrinking.
 
-#### e5770d45b7-LM | ALFRED → BRUCE | x2
+#### e5770d45b7 | ALFRED → BRUCE | x2
 What you had to.
 
 #### c503e95f11 | ALFRED → BRUCE | x2
@@ -115,7 +115,7 @@ You’re a good man, Bruce -- {ConcernedB}good just like your parents.
 #### d879cf0843 | choice/UI, GORDON → ALFRED, BATMAN | x6
 It’s not that easy.
 
-#### 86c738065b-SM | choice/UI → ALFRED | x2
+#### 86c738065b | choice/UI → ALFRED | x2
 Trust me, I won’t.
 
 #### efa24564f7 | ALFRED → BRUCE | x2
@@ -154,7 +154,7 @@ A wise decision, sir.
 #### b7f6812a11 | ALFRED → BRUCE | x2
 We’ll attack Falcone on two fronts tonight.
 
-#### 029bad42ec-SM | BRUCE → ALFRED | x2
+#### 029bad42ec | BRUCE → ALFRED | x2
 I won’t forget.
 
 #### 2fe143378a | ALFRED → BRUCE | x2
@@ -163,13 +163,13 @@ Neither will I.
 #### 7f821d778e | BRUCE → ALFRED | x2
 I have to move on.
 
-#### cc6be2d575-SM | BRUCE → ALFRED | x2
+#### cc6be2d575 | BRUCE → ALFRED | x2
 Trust me, I won’t lose my way.
 
-#### 3ec49bbea7-SM | BRUCE → ALFRED | x2
+#### 3ec49bbea7 | BRUCE → ALFRED | x2
 I could never match that.
 
-#### 7680e0ea79-LM | ALFRED → BRUCE | x2
+#### 7680e0ea79 | ALFRED → BRUCE | x2
 You won’t.
 
 #### 118a329fcb | ALFRED → BRUCE | x2
@@ -181,7 +181,7 @@ Who my parents were... {SadA}the life they led...
 #### f943f2c9f2 | BRUCE → ALFRED | x2
 Gotham revered them.
 
-#### 71d6658a03-LM | ALFRED → BRUCE | x2
+#### 71d6658a03 | ALFRED → BRUCE | x2
 I suppose you did whatever you thought was necessary.
 
 #### 4ede0e6bae | BRUCE → ALFRED | x2
@@ -223,13 +223,13 @@ My thoughts exactly every time you leave this cave.
 #### 27ccac564f | ALFRED → BRUCE | x4
 That is your gift and your curse.
 
-#### b7770de678-SM | BRUCE → ALFRED | x2
+#### b7770de678 | BRUCE → ALFRED | x2
 Sometimes I wish I could.
 
 #### 7f6e7e52a7 | ALFRED → BRUCE | x2
 Being Batman can allow you to turn back the tide of treachery that’s reached this city’s shores... or drown you in its sorrow.
 
-#### d2e0b64e48-LM | ALFRED → BRUCE | x2
+#### d2e0b64e48 | ALFRED → BRUCE | x2
 When you doubt your fate, remember why you started all this.
 
 #### 2aeb3e6831 | ALFRED → BRUCE | x2
@@ -265,7 +265,7 @@ Shall we?
 #### c03b4e1698 | BRUCE → ALFRED | x2
 Looks like that egg finally cracked.
 
-#### e308bbef05-SM | BRUCE → ALFRED | x2
+#### e308bbef05 | BRUCE → ALFRED | x2
 More than I could’ve imagined...
 
 #### 2ac537fb28 | BRUCE → ALFRED | x2
@@ -334,7 +334,7 @@ Bat Computer
 #### a201580172 | BRUCE → ALFRED | x2
 This is it, Alfred.
 
-#### 7e36c34401-SM | BRUCE → ALFRED | x2
+#### 7e36c34401 | BRUCE → ALFRED | x2
 Every illegal operation, every mafia connection... this is what I need.
 
 #### 5fc0dada51 | BRUCE → ALFRED | x2

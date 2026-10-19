@@ -1,19 +1,19 @@
 ﻿#### 4e0eca8893 | choice/UI | x2
 Killing me won’t solve anything.
 
-#### d4bec55afb-SM | choice/UI → OSWALD | x2
+#### d4bec55afb | choice/UI → OSWALD | x2
 I’m so sorry, Oz.
 
 #### 3f3603dc94 | choice/UI → GORDON, OSWALD | x6
 Show some dignity.
 
-#### 768d581135-LM | choice/UI → OSWALD | x2
+#### 768d581135 | choice/UI → OSWALD | x2
 Take care of yourself, Oz.
 
 #### 1ccf167a4b | choice/UI → GORDON, OSWALD | x6
 Hope you enjoy prison.
 
-#### b15465a6ab-LM | choice/UI → OSWALD, GORDON | x6
+#### b15465a6ab | choice/UI → OSWALD, GORDON | x6
 Sorry you got hurt.
 
 #### fb32a4eaeb | choice/UI → GORDON | x2
@@ -28,13 +28,13 @@ I know you two were pals as kids... but the Penguin’s a maniac. A killer.
 #### 3c7ee41dc8 | GORDON | x2
 But the Penguin’s a maniac. A killer.
 
-#### 9fa6afefbd-LM | GORDON → BRUCE | x6
+#### 9fa6afefbd | GORDON → BRUCE | x6
 You’ve got stones, Wayne. I’ll give you that.
 
 #### 4c4fb6ad7b | GORDON → BRUCE | x6
 Your info checks out -- Oswald Cobblepot is the Penguin.
 
-#### 0be4cdae5d-L? | GORDON | x6
+#### 0be4cdae5d | GORDON | x6
 And you’re right this is the safest way to stop him.
 
 #### 49a1e8f06f | GORDON → BRUCE | x4
@@ -43,13 +43,13 @@ Why risk your life to stop him?
 #### 65e5c6657b | GORDON | x2
 Your info adds up. Oswald Cobblepot has to be the Penguin.
 
-#### 464cb4fec7-LM | GORDON → BRUCE | x2
+#### 464cb4fec7 | GORDON → BRUCE | x2
 You’ve got some stones, Wayne. I’ll give you that.
 
 #### 52f40a4995 | GORDON | x2
 I know you two were pals as kids...
 
-#### f570e97194-LM | GORDON → BRUCE | x2
+#### f570e97194 | GORDON → BRUCE | x2
 And you’re right this is the only way to stop him. I send a squad in there, it’ll be costly -- and the city will pay the price.
 
 #### c5e4ce7c29 | GORDON → BRUCE | x2
@@ -70,7 +70,7 @@ Goodbye, Oz.
 #### e2f9eaa02c | choice/UI → OSWALD | x4
 I didn’t do this for thanks.
 
-#### d58f6d5bf2-SM-L? | choice/UI | x2
+#### d58f6d5bf2 | choice/UI | x2
 I’m sorry you got hurt.
 
 #### db082e4023 | BRUCE → GORDON | x4
@@ -79,7 +79,7 @@ Gotham is my home, Jim.
 #### 95e770b201 | BRUCE → GORDON | x6
 I’d do anything to protect it.
 
-#### 8b7756f3d1-SM | BRUCE → GORDON | x2
+#### 8b7756f3d1 | BRUCE → GORDON | x2
 Can’t say that’s what I expected from playboy billionaire Bruce Wayne.
 
 #### 19461c809b | BRUCE → GORDON | x6
@@ -88,10 +88,10 @@ Oswald stabbed me in the back and stole my company.
 #### 9627657f84 | BRUCE → GORDON | x6
 I’m simply taking back what’s mine.
 
-#### e82355a730-SM | GORDON → BRUCE | x4
+#### e82355a730 | GORDON → BRUCE | x4
 I figured. Even so, Gotham will thank you if we pull it off.
 
-#### 53d4047941-SM-LM | GORDON → BRUCE | x8
+#### 53d4047941 | GORDON → BRUCE | x8
 I used to think all you cared about was a good time.
 
 #### ad03732516 | BRUCE → GORDON | x4
@@ -154,7 +154,7 @@ Gordon’s nearly at the rear of the park.
 #### 6f53460eea | BRUCE → GORDON | x2
 Good. Now I just have to hope Oz is still sensitive about his past.
 
-#### 3fac8d1ccc-LM | ALFRED → BRUCE | x8
+#### 3fac8d1ccc | ALFRED → BRUCE | x8
 I hope you’re right, Bruce.
 
 #### 487a95122f | BRUCE → ALFRED | x2
@@ -172,16 +172,16 @@ I’m here to stop you from destroying Gotham.
 #### 0d8e4f6c67 | OSWALD → BRUCE | x2
 You’re funnier than I remember, Bruce.
 
-#### 3f38ed45c0-SM | OSWALD → BRUCE | x2
+#### 3f38ed45c0 | OSWALD → BRUCE | x2
 You and I have said about all there is to say.
 
 #### 57788b9146 | OSWALD → BRUCE | x4
 I’ve taken so very many things from you, I wouldn’t know where to start.
 
-#### 6e709ac2a9-LM | OSWALD → BRUCE | x2
+#### 6e709ac2a9 | OSWALD → BRUCE | x2
 Oh... You’re serious. Well, you did escape the loony bin...
 
-#### 2656f86a65-SM | OSWALD → BRUCE | x4
+#### 2656f86a65 | OSWALD → BRUCE | x4
 I’m shocked the asylum would let such a dangerous maniac out on the streets!
 
 #### 9c668f1db5 | BRUCE → OSWALD | x4
@@ -208,7 +208,7 @@ Your plan failed, Os. They couldn’t keep me there.
 #### 9c5107bae4 | OSWALD → BRUCE | x4
 I fear for my personal safety just being around you!
 
-#### 2febfad3a3-LM | OSWALD → BRUCE | x4
+#### 2febfad3a3 | OSWALD → BRUCE | x4
 After you went for my throat... on live television!
 
 #### aeefefc2dc | OSWALD → BRUCE | x4
@@ -241,7 +241,7 @@ Oh that’s all utter crap. Anyone can see THAT...
 #### 1b3d7e4750 | OSWALD → BRUCE | x6
 My motives are all very personal.
 
-#### 3fbe0d2ca7-LM | OSWALD → BRUCE | x6
+#### 3fbe0d2ca7 | OSWALD → BRUCE | x6
 Oh, did you figure that out when she stuck you with a needle full of drugs?!
 
 #### d0812feb9e | OSWALD → BRUCE | x4
@@ -256,10 +256,10 @@ Me? But I’m the head honcho, Bruce! The CEO! The first citizen!
 #### 7eddcc38b2 | OSWALD → BRUCE | x2
 You... you’re pitiful.
 
-#### f750802b02-SM | OSWALD → BRUCE | x2
+#### f750802b02 | OSWALD → BRUCE | x2
 I already knocked you off the board!  I’m waiting for a much bigger player. The last piece standing in Lady Arkham’s way.
 
-#### 62f7fe7399-SM | OSWALD → BRUCE | x4
+#### 62f7fe7399 | OSWALD → BRUCE | x4
 You -- you’re no longer relevant. I already knocked you off my board!
 
 #### fb1762b04d | OSWALD | x2
@@ -289,10 +289,10 @@ As in, personally, I get to keep the cash.
 #### 7b5af14564 | OSWALD → BRUCE | x4
 You’re clearly not all there, or you wouldn’t be here.
 
-#### 223152191d-L? | OSWALD | x2
+#### 223152191d | OSWALD | x2
 Oh... You’re serious.
 
-#### 60247a999b-L? | OSWALD | x2
+#### 60247a999b | OSWALD | x2
 Well, you did escape the loony bin...
 
 #### f8759f7f98 | OSWALD → BRUCE, GORDON | x6
@@ -301,7 +301,7 @@ All our words have already been said!
 #### 5d8bb2e82c | OSWALD → BRUCE | x4
 You stop me? I’m the liberator not the destroyer.
 
-#### 6e996d0ea0-SM | OSWALD → BRUCE | x4
+#### 6e996d0ea0 | OSWALD → BRUCE | x4
 I freed the city from the tyrrany of corrupt, insane Bruce Wayne!
 
 #### fa58573693 | OSWALD → BRUCE | x4
@@ -313,7 +313,7 @@ But at least it got you out of the way.
 #### 80f769cbaa | OSWALD | x2
 It’s all about to kick off.
 
-#### a26af00a64-SM | OSWALD | x2
+#### a26af00a64 | OSWALD | x2
 I did alright for myself out of all this.
 
 #### bf89356c50 | OSWALD | x4
@@ -322,7 +322,7 @@ Weren’t so long ago you and me met in this very park.
 #### d6891f2eca | OSWALD | x4
 Night and day, innit?
 
-#### c743aa3675-SM | OSWALD → BRUCE | x2
+#### c743aa3675 | OSWALD → BRUCE | x2
 I did alright out of all this.
 
 #### b9e60a675c | OSWALD → BRUCE | x4
@@ -337,16 +337,16 @@ You didnt earn this, Oz. Lady Arkham lifted you up.
 #### 73f16b4a64 | OSWALD → BRUCE | x4
 This from the Grand Duke of Inherited Wealth! What total bollocks!
 
-#### 30329c5bda-SM | OSWALD → BRUCE | x4
+#### 30329c5bda | OSWALD → BRUCE | x4
 I saw an oppotunity and I took it. Which is more than you ever had to do.
 
-#### 8702731e11-SM | BRUCE → OSWALD | x4
+#### 8702731e11 | BRUCE → OSWALD | x4
 I never looked down on you, Oz. I always treated you with respect.
 
-#### 38b4d57f56-SM-LM | OSWALD → BRUCE | x4
+#### 38b4d57f56 | OSWALD → BRUCE | x4
 Respect!? You only learned the word after I tossed you out of your own company.
 
-#### 2c6f31dbe9-LM | BRUCE → OSWALD | x4
+#### 2c6f31dbe9 | BRUCE → OSWALD | x4
 So you have everything you wanted. Why not quit while you’re ahead?!
 
 #### d66053f16a | OSWALD → BRUCE | x6
@@ -361,13 +361,13 @@ Exactly my plan. Just a few loose ends to tie up first.
 #### 4999e66b05 | OSWALD → BRUCE | x4
 The air’s a lot cleaner up here.
 
-#### 3a666200a5-SM | OSWALD → BRUCE | x4
+#### 3a666200a5 | OSWALD → BRUCE | x4
 I beat the odds, Bruce. Everything I dreamed about, I got.
 
 #### e0265c804e | OSWALD → BRUCE | x4
 There’s just one last thing on my list.
 
-#### efaa4ff697-L? | OSWALD | x2
+#### efaa4ff697 | OSWALD → BRUCE | x4
 But then you knew that.
 
 #### ba55f2e877 | OSWALD → BRUCE | x4
@@ -382,7 +382,7 @@ I wouldn’t move. The sensor’s a little over-sensitive.
 #### 9df16f0916 | OSWALD → BRUCE | x4
 We don’t want to accidentally lose your last words!
 
-#### 51cc31dbb3-SM | OSWALD → BRUCE | x2
+#### 51cc31dbb3 | OSWALD → BRUCE | x2
 It’s funny. I thought I’d want to get this over with.
 
 #### 235e80f3a0 | OSWALD → BRUCE | x2
@@ -394,7 +394,7 @@ Oz, come on. There’s no need for violence.
 #### 43daff6161 | BRUCE → OSWALD | x6
 Killing me won’t make you happy, Oz.
 
-#### 5e7e4db34d-LM | BRUCE → OSWALD | x4
+#### 5e7e4db34d | BRUCE → OSWALD | x4
 The things you lost -- a family, a home. My death won’t bring them back.
 
 #### f4aec16b8f | BRUCE → OSWALD | x4
@@ -418,7 +418,7 @@ Oh I know you plenty well, ‘old friend’
 #### d1ffee9666 | OSWALD → STUCE | x2
 Oh, this is it, then.
 
-#### 89a97343d5-SM | OSWALD → STUCE | x4
+#### 89a97343d5 | OSWALD → STUCE | x4
 I thought it’d be easier.
 
 #### 1c480ed9e3 | OSWALD → BRUCE | x4
@@ -427,7 +427,7 @@ We were in nappies together, Bruce!
 #### 045eff6151 | OSWALD → BRUCE | x4
 Maybe not. But it’ll make me feel warm and tingly for at least ten minutes.
 
-#### 4185d875f1-LM | OSWALD → BRUCE | x2
+#### 4185d875f1 | OSWALD → BRUCE | x4
 You didn’t bring your mates, did you?
 
 #### 131bb0f09b | BRUCE → OSWALD | x4
@@ -439,13 +439,13 @@ Always the loner, Bruce. Never did have much time for friends.
 #### 0849c3c444 | BRUCE → OSWALD | x4
 I don’t need help to bring you down.
 
-#### dacb0b5776-LM | BRUCE → OSWALD | x2
+#### dacb0b5776 | BRUCE → OSWALD | x2
 Where’s your backup, Oswald? Seems like you’re all alone.
 
-#### 314da7b995-LM | OSWALD → BRUCE | x4
+#### 314da7b995 | OSWALD → BRUCE | x4
 You’re no scarier now than you were then.
 
-#### 557b009410-SM | OSWALD → BRUCE | x4
+#### 557b009410 | OSWALD → BRUCE | x4
 I was thinking you want a friend to collect your remains.
 
 #### a1bdbd67b6 | OSWALD → BRUCE | x2
@@ -457,10 +457,10 @@ I can hardly believe we were friends once.
 #### 8bc4128471 | OSWALD → BRUCE | x2
 Brothers.
 
-#### b4376ce186-LM | OSWALD → BRUCE | x2
+#### b4376ce186 | OSWALD → BRUCE | x4
 Except you never saved me a seat at the top.
 
-#### 07538ccaba-LM | OSWALD → BRUCE | x2
+#### 07538ccaba | OSWALD → BRUCE | x2
 You had everything... but you abandoned me out in the cold.
 
 #### 9e7f6c5701 | BRUCE → OSWALD | x4
@@ -469,25 +469,25 @@ I wish things could have been different.
 #### c2a4264cf3 | BRUCE → OSWALD | x2
 You don’t deserve my friendship, Oswald.
 
-#### 10424c0894-LM | BRUCE → OSWALD | x4
+#### 10424c0894 | BRUCE → OSWALD | x4
 You made friendship impossible!
 
-#### dbaba0363d-SM | OSWALD → BRUCE | x4
+#### dbaba0363d | OSWALD → BRUCE | x4
 I had good reason!
 
-#### 8810daef52-SM | BRUCE → OSWALD | x4
+#### 8810daef52 | BRUCE → OSWALD | x4
 That I could have been there for you.
 
 #### 6ffd225708 | BRUCE → OSWALD | x2
 Let me make it up to you.
 
-#### fc3cb37fd6-LM | OSWALD → BRUCE | x4
+#### fc3cb37fd6 | OSWALD → BRUCE | x4
 Just like I didn’t think you had the balls to to this yourself.
 
-#### a7fe4daded-SM | OSWALD → BRUCE | x4
+#### a7fe4daded | OSWALD → BRUCE | x4
 Exactly as I expected. I never trusted you.
 
-#### 86d9bcf2e1-SM | OSWALD → BRUCE | x2
+#### 86d9bcf2e1 | OSWALD → BRUCE | x2
 When I got shipped off to blighty.
 
 #### b072206d86 | OSWALD → BRUCE | x4
@@ -529,7 +529,7 @@ Gordon!?
 #### 8d6405a6e1 | OSWALD → BRUCE | x2
 You’re always dodging the truth...
 
-#### 068d9bffb0-SM | BRUCE → OSWALD | x4
+#### 068d9bffb0 | BRUCE → OSWALD | x4
 I’m sorry, Oswald. I know the pain of losing family.
 
 #### 3c99d9bd6c | BRUCE → OSWALD | x2
@@ -568,7 +568,7 @@ I know you probably won’t, but...
 #### e1087eb0c7 | BRUCE → OSWALD | x6
 Take care, Oz.
 
-#### 81f91bbd73-LM | BRUCE → GORDON, OSWALD | x8
+#### 81f91bbd73 | BRUCE → GORDON, OSWALD | x8
 Even if you never had it in victory.
 
 #### d219b53776 | GORDON → BRUCE, OSWALD | x12
@@ -580,7 +580,7 @@ Tough bird.
 #### 32f29a366d | GORDON → BRUCE | x4
 With Penguin off the streets, the city will be safer. At least until Lady Arkham shows herself again...
 
-#### 41a1dc69e8-L? | GORDON | x4
+#### 41a1dc69e8 | GORDON → BRUCE | x8
 Gotta admit, you surprised me. Didn’t know you had that in you.
 
 #### 3cc046dbd8 | GORDON → BRUCE | x8
@@ -588,9 +588,6 @@ The city owes you a debt, Bruce.
 
 #### a29fa3b187 | GORDON → BRUCE | x4
 The city’ll be safer with the Penguin off the streets. Even if I nearly lost a limb doing it.
-
-#### 41a1dc69e8-LM | GORDON → BRUCE | x4
-Gotta admit, you surprised me. Didn’t know you had that in you.
 
 #### 076388746e | BRUCE → OSWALD | x6
 Enjoy prison, Cobblepot.
@@ -625,10 +622,10 @@ She was insane! She wasn’t fit to be walking the streets...
 #### 1b37303083 | OSWALD → BRUCE | x8
 I’LL KILL YOU!!! I’LL KILL YOU GOD DAMNED -
 
-#### cabaa760c2-SM | BRUCE → OSWALD | x4
+#### cabaa760c2 | BRUCE → OSWALD | x4
 I’m right here. You want me, then do it!
 
-#### 116ef639be-SM | OSWALD → BRUCE | x8
+#### 116ef639be | OSWALD → BRUCE | x8
 I never took you for a martyr.
 
 #### 5cf58dbcba | OSWALD → BRUCE, GORDON | x10
@@ -670,7 +667,7 @@ It’s not right....
 #### ee1403ed44 | YOUNGOSWALD → OIRSWALD, OSWALD, BRUCE | x6
 It’s not right...
 
-#### 55492711e7-SM | YOUNGOSWALD → BRUCE | x6
+#### 55492711e7 | YOUNGOSWALD → BRUCE | x6
 People in this city are awful, Bruce. I wish I could burn it all down.
 
 #### 54ce878b35 | YOUNGOSWALD → BRUCE, OSWALD, YOUNGBRUCE | x6
@@ -691,7 +688,7 @@ When you’ve been fighting crime in Gotham as long as I have, you take your tha
 #### 9ca5e498ff | BRUCE → GORDON | x6
 You and me both, Jim.
 
-#### 06c54843bc-SM | GORDON → BRUCE, OSWALD | x6
+#### 06c54843bc | GORDON → BRUCE, OSWALD | x6
 I won’t argue there.
 
 #### f9c82f4e3f | choice/UI → GORDON | x2
@@ -700,13 +697,13 @@ Gotham owes us both.
 #### 0c58fc756c | BRUCE → GORDON | x4
 You too. Sorry you didn’t get away unscathed.
 
-#### 10cf79bf7d-SM | GORDON → BRUCE | x4
+#### 10cf79bf7d | GORDON → BRUCE | x4
 I’ve had worse. It’s worth it to put that menace behind bars.
 
 #### f4b9a975e9 | GORDON → OSWALD, BRUCE | x6
 And I’m going to make sure it knows it.
 
-#### ad32d0b797-LM | BRUCE → OSWALD | x2
+#### ad32d0b797 | BRUCE → OSWALD | x2
 Where’s YOUR backup, Oswald? Seems like you’re all alone.
 
 #### d2f165f73a | OSWALD → BRUCE | x2
@@ -718,32 +715,23 @@ Easy to say that when you’re facing the barrel of a gun!
 #### 4f5d7ad69a | BRUCE → OSWALD | x2
 You’re my enemy, Oswald.  Whatever bond we used to have, it’s long gone.
 
-#### 429d3f446a-LM | BRUCE → OSWALD | x2
+#### 429d3f446a | BRUCE → OSWALD | x2
 You rolled into town and proceeded to ruin my life.
 
-#### 09dc76b42d-SM | OSWALD → BRUCE | x2
+#### 09dc76b42d | OSWALD → BRUCE | x2
 I was left in the dirt when my parents died. When I got shipped off to blighty.
 
 #### b33ac8c350 | OSWALD → BRUCE | x2
 Friends. You and me were that once. Funny to think of it now.
 
-#### 9de8269daa-SM | OSWALD | x2
+#### 9de8269daa | OSWALD | x2
 I imagined us growing up side by side. Fancied us rulers of the world.
 
-#### b4376ce186-L? | OSWALD | x2
-Except you never saved me a seat at the top.
-
-#### 941429bd51-L? | OSWALD | x2
+#### 941429bd51 | OSWALD | x2
 You had it all... but you left me standing, out in the cold.
-
-#### 4185d875f1-L? | OSWALD | x2
-You didn’t bring your mates, did you?
 
 #### c52c3799ee | OSWALD | x2
 ...this is it, then.
-
-#### efaa4ff697-LM | OSWALD → BRUCE | x2
-But then you knew that.
 
 #### d445248556 | OSWALD → BRUCE | x2
 Talk!? It’s a bit late in the day to natter on.
@@ -838,7 +826,7 @@ We’ll get him out.
 #### 62e1401a52 | GORDON → GCPD01 | x2
 You-- you just hang in there.
 
-#### fd526cee03-S? | GCPD01 → GORDON | x2
+#### fd526cee03 | GCPD01 → GORDON | x2
 I saw-- a command interface--
 A black box-- little glowing screen...
 
@@ -860,13 +848,13 @@ This is a disaster --
 #### 559bccdb2c | GORDON → BRUCE | x2
 My men just got torn apart by Wayne Enterprises weapons.
 
-#### f41db86291-SM | choice/UI → GORDON | x2
+#### f41db86291 | choice/UI → GORDON | x2
 I did warn you.
 
 #### 33b1e0f264 | choice/UI → GORDON | x2
 I should have warned you.
 
-#### 5d6353e9f9-SM | choice/UI → GORDON | x2
+#### 5d6353e9f9 | choice/UI → GORDON | x2
 I said we should try talking.
 
 #### fe071f6aa7 | choice/UI → GORDON | x2
@@ -887,7 +875,7 @@ Penguin’s using Wayne Tech drones.
 #### ea33713e3c | BRUCE → LUCIUS | x2
 Maybe twenty of them.
 
-#### 32c04c5a66-SM | BRUCE → LUCIUS | x2
+#### 32c04c5a66 | BRUCE → LUCIUS | x2
 I need to know how to disable them and fast.
 
 #### cb5bc9366f | LUCIUS → BRUCE | x2
@@ -953,7 +941,7 @@ Give us room!
 #### 23345b5c8e | GORDON → GCPD01 | x2
 You just hang in there.
 
-#### 64ec1d17f5-SM | BRUCE → GORDON | x2
+#### 64ec1d17f5 | BRUCE → GORDON | x2
 I did warn you to call the attack off.
 
 #### 228d59bd61 | GORDON → BRUCE | x2
@@ -998,13 +986,13 @@ A two foot box-- with an antenna...
 #### 6f0cd5ac0e | GCPD01 → GORDON | x2
 Maybe you’ll have a chance --
 
-#### 6f537e1412-SM | GORDON → GCPD01 | x2
+#### 6f537e1412 | GORDON → GCPD01 | x2
 I’ve got to try and disable that control box.
 
 #### 8249924274 | GCPD05 → GORDON | x2
 Hey, give us room.
 
-#### f5b9c282ee-SM | GORDON → GCPD01 | x2
+#### f5b9c282ee | GORDON → GCPD01 | x2
 I’m going to have to sneak in and disable that control box myself.
 
 #### 27351b0577 | GORDON → GCPD05 | x2
@@ -1052,7 +1040,7 @@ Not just any civilian.
 #### bde140e59a | BRUCE → GORDON | x2
 A little trip down memory lane can buy you at least a couple minutes.
 
-#### 8eaa049860-SM | BRUCE → GORDON | x2
+#### 8eaa049860 | BRUCE → GORDON | x2
 Oswald and I grew up together.
 
 #### 498898e498 | GORDON → BRUCE, OSWALD | x6
@@ -1088,7 +1076,7 @@ You can’t expect him to lose his cool simply because you show your face.
 #### 75562eda35 | GORDON → BRUCE | x2
 You gotta get under his skin, or there’s no chance of this working.
 
-#### 648dfa5c5c-L? | GORDON | x2
+#### 648dfa5c5c | GORDON | x2
 But you’re right. I’m going to need a distraction.
 
 #### 32482e376e | GORDON | x2
@@ -1100,7 +1088,7 @@ But I suppose we’re low on options.
 #### 2adb7872c6 | GORDON | x2
 Just try and push his buttons, long enough for me to circle round for a shot.
 
-#### 6a72f596c1-SM | GORDON → OSWALD | x2
+#### 6a72f596c1 | GORDON → OSWALD | x2
 I’ve got enough problems,
 
 #### cb7353567e | GORDON → OSWALD | x2
@@ -1172,7 +1160,7 @@ This isn’t your responsibility.
 #### 281c79f71d | GORDON | x2
 The Penguin’s a maniac. A killer.
 
-#### 6f4c056b7f-L? | GORDON | x2
+#### 6f4c056b7f | GORDON | x2
 Why’re you putting yourself at risk?
 
 #### 172f566fb7 | GORDON → BRUCE | x2
@@ -1184,7 +1172,7 @@ Because there are lives at stake -- including an injured cop.
 #### 91d77850bf | GORDON → BRUCE | x2
 We all want revenge on this guy, for one thing or another.
 
-#### c6c7b5261d-SM | BRUCE → GORDON | x2
+#### c6c7b5261d | BRUCE → GORDON | x2
 He’s more dangerous than I thought.
 
 #### 5449a8c247 | GORDON → BRUCE | x2
@@ -1205,7 +1193,7 @@ Your company? Your tower? Your precious reputation?
 #### fb6d716450 | GORDON → OSWALD | x2
 No matter how much you want revenge for Commissioner Grogan.
 
-#### 7481efe1d6-SM-LM | OSWALD → BRUCE | x2
+#### 7481efe1d6 | OSWALD → BRUCE | x2
 Still, I’m chuffed you popped by.
 
 #### d4e464ae86 | OSWALD → GORDON | x2
@@ -1217,13 +1205,13 @@ They paid for sticking their snouts in where they don’t belong!
 #### 0373dbafd9 | OSWALD | x2
 But now you’re here, I have the perfect lure!
 
-#### e01b60b1c3-SM | OSWALD | x2
+#### e01b60b1c3 | OSWALD | x2
 You know, I’m surprised Batman’s not already here to save you.
 
 #### 11ea37b942 | OSWALD | x2
 He’s usually so on top of everything.
 
-#### 299771da17-SM | OSWALD → BRUCE | x2
+#### 299771da17 | OSWALD → BRUCE | x2
 Maybe I need to cause a few more screams.
 
 #### 0de132c3b2 | choice/UI → OSWALD | x2
@@ -1238,7 +1226,7 @@ You’re not worth his effort.
 #### 3953b7e4f3 | OSWALD → BRUCE | x2
 Is this some trick?!
 
-#### a508f75003-SM | OSWALD → BRUCE | x2
+#### a508f75003 | OSWALD → BRUCE | x2
 You’re the last person I expected to see.
 
 #### 0c2812028c | BRUCE → OSWALD | x2
@@ -1274,7 +1262,7 @@ Everyone knows you’re only Lady Arkham’s lackey.
 #### ba95ed811e | OSWALD → BRUCE | x2
 Oh, we’d know it if he was!
 
-#### 215fa957a4-SM | OSWALD → BRUCE | x2
+#### 215fa957a4 | OSWALD → BRUCE | x2
 I’ve arranged quite the sound and light show for his arrival.
 
 #### 740882b444 | OSWALD → BRUCE | x2
@@ -1286,7 +1274,7 @@ And Batman will show.
 #### 7b14ace38f | OSWALD → BRUCE | x4
 He just can’t help himself when lives are at stake.
 
-#### 5a66f9766e-SM | OSWALD → BRUCE | x2
+#### 5a66f9766e | OSWALD → BRUCE | x2
 I’m sure he’ll swing by eventually, ha!
 
 #### ad7150a4b4 | BRUCE → OSWALD | x2
@@ -1316,10 +1304,10 @@ All I see is a thief.
 #### b6079ce870 | OSWALD → BRUCE | x2
 This from the Grand Duke of Inherited Wealth!
 
-#### 744a11f213-SM | OSWALD → BRUCE | x2
+#### 744a11f213 | OSWALD → BRUCE | x2
 I saw an opportunity and I took it.
 
-#### e0a3c98bf6-SM | BRUCE → OSWALD | x2
+#### e0a3c98bf6 | BRUCE → OSWALD | x2
 I never looked down on you, Oz.
 
 #### 20f61d18ce | OSWALD → BRUCE | x2
@@ -1346,7 +1334,7 @@ You’d hardly recogize us, would you?
 #### 7970a68aaf | OSWALD | x2
 It weren’t so long ago that you and me met in this very park.
 
-#### fd68b4fe2e-LM | BRUCE → OSWALD | x2
+#### fd68b4fe2e | BRUCE → OSWALD | x2
 You have everything you wanted.
 
 #### ef04d8e0a5 | OSWALD → GORDON | x2
@@ -1415,7 +1403,7 @@ Which is more than you ever had to do!
 #### 040584ab98 | PER → OSWALD | x2
 NGUIN:Careful now.
 
-#### c174ac5f1c-SM | BRUCE → OSWALD | x2
+#### c174ac5f1c | BRUCE → OSWALD | x2
 I always treated you with respect, Oz.
 
 #### cf543feb24 | BRUCE → OSWALD | x2
@@ -1424,7 +1412,7 @@ Just quit while you’re ahead.
 #### 31322905a7 | OSWALD → BRUCE | x2
 Just a few loose ends to tie up first.
 
-#### 90bc677494-SM-LM | OSWALD → BRUCE | x2
+#### 90bc677494 | OSWALD → BRUCE | x2
 You only learned the word after I tossed you out of your company!
 
 #### 09e177b892 | BRUCE → OSWALD | x2
@@ -1436,19 +1424,19 @@ What’s your game?
 #### 93abb4efb1 | OSWALD → BRUCE | x2
 We’re done with the nostalgia!
 
-#### f4ea8f6b04-LM | OSWALD → BRUCE | x2
+#### f4ea8f6b04 | OSWALD → BRUCE | x2
 You’ve crossed a line, you bastard!
 
-#### de0815bd1b-LM | BRUCE → OSWALD | x2
+#### de0815bd1b | BRUCE → OSWALD | x2
 You heard me, she was insane! Unfit to walk the streets...
 
 #### 84b8df072c | BRUCE → OSWALD | x2
 Your parents must be rolling in their graves.
 
-#### ff84470788-LM | BRUCE → OSWALD | x2
+#### ff84470788 | BRUCE → OSWALD | x2
 You came from a great family, Cobblepot.
 
-#### 5f1a3683ab-SM | BRUCE → OSWALD | x2
+#### 5f1a3683ab | BRUCE → OSWALD | x2
 You know I had nothing to do with that.
 
 #### d5ad32bc78 | BRUCE → OSWALD | x2
@@ -1469,10 +1457,10 @@ I-- I wouldn’t wish it on anyone.
 #### 3666ed06a9 | BRUCE → OSWALD | x2
 That man...
 
-#### 474207af93-SM | OSWALD → BRUCE | x2
+#### 474207af93 | OSWALD → BRUCE | x2
 I was always going to murder you, Wayne.
 
-#### cebe0496a3-LM | GORDON → OSWALD, BRUCE | x4
+#### cebe0496a3 | GORDON → OSWALD, BRUCE | x6
 Didn’t know you had that in you, Mr Wayne.
 
 #### c5bd940562 | GORDON → OSWALD | x2
@@ -1487,13 +1475,13 @@ With Penguin off the streets, the city will be safer.
 #### 4338361743 | GORDON, MONTOYA → OSWALD, BRUCE | x8
 Gotham owes you a debt.
 
-#### f40007a62a-LM | GORDON → BRUCE, OSWALD | x4
+#### f40007a62a | GORDON → BRUCE, OSWALD | x4
 I gotta admit, you surprised me.
 
 #### 291f3e1873 | GORDON → BRUCE | x2
 When you’ve been fighting crime in Gotham as long as I have, you take your thanks where you can get them.
 
-#### 2d39c5dcfb-SM | GORDON → BRUCE | x2
+#### 2d39c5dcfb | GORDON → BRUCE | x2
 Ah, I’ve had worse.
 
 #### c3f36ce06b | BRUCE → GORDON | x2
@@ -1538,16 +1526,16 @@ Assuming I don’t murder you straight away.
 #### 1284e43de1 | BRUCE → OSWALD | x2
 Whatever bond we used to have, it’s long gone.
 
-#### 5f027694ec-LM | choice/UI → OSWALD | x2
+#### 5f027694ec | choice/UI → OSWALD | x2
 You’ve had your revenge.
 
 #### 55dbe47a55 | choice/UI → OSWALD | x2
 Let’s fight like men.
 
-#### fd75ffd7af-SM | OSWALD → BRUCE | x2
+#### fd75ffd7af | OSWALD → BRUCE | x2
 I thought I had everything I wanted, Bruce.
 
-#### 0853539860-SM | OSWALD → BRUCE | x2
+#### 0853539860 | OSWALD → BRUCE | x2
 Then I stumbled on your R and D lab!
 
 #### 190df87680 | OSWALD → BRUCE | x2
@@ -1559,7 +1547,7 @@ You want to hurt me, Oswald?
 #### 8dfe9305a1 | OSWALD → BRUCE | x2
 It was only then it occured to me...
 
-#### 6fa0bf7fc6-LM | BRUCE → OSWALD | x2
+#### 6fa0bf7fc6 | BRUCE → OSWALD | x2
 The things you lost -- a family, a home.
 
 #### 9f405ae56b | HARVEY, OSWALD → BRUCE | x6
@@ -1574,10 +1562,10 @@ My death won’t bring them back.
 #### d1c1029039 | OSWALD → BRUCE | x2
 It’s the cherry on the sundae.
 
-#### e78a522550-LM | BRUCE → OSWALD | x2
+#### e78a522550 | BRUCE → OSWALD | x2
 You took my company-- had me committed!
 
-#### 5e47d64e27-LM | BRUCE → OSWALD | x2
+#### 5e47d64e27 | BRUCE → OSWALD | x2
 Haven’t you had your revenge?
 
 #### 730b23acef | OSWALD → BRUCE | x2
@@ -1604,7 +1592,7 @@ Give me a minute and I’ll get back to you.
 #### 15e8083f8d | BRUCE → OSWALD | x2
 You haven’t exactly been subtle.
 
-#### 11c8cfaea0-SM | OSWALD → BRUCE | x2
+#### 11c8cfaea0 | OSWALD → BRUCE | x2
 I thought we were going to take over the world together.
 
 #### 06a7cc3ad3 | OSWALD → BRUCE | x2
@@ -1613,7 +1601,7 @@ Make it up to me?!
 #### cc3d1a3692 | OSWALD → BRUCE | x2
 We’re way beyond that and you know it!
 
-#### 8b6e4dfc44-SM | OSWALD → BRUCE | x2
+#### 8b6e4dfc44 | OSWALD → BRUCE | x2
 You think I’m stupid?!
 
 #### 33d3bb6532 | OSWALD → BRUCE | x2
@@ -1631,7 +1619,7 @@ You’ve done nothing but harm.
 #### 9a431cfbc6 | OSWALD → BRUCE | x2
 But you’re the only one left..
 
-#### 2d8bfa1816-SM | OSWALD → BRUCE | x2
+#### 2d8bfa1816 | OSWALD → BRUCE | x2
 I was left in the dirt when my parents died.
 
 #### 2d51362a61 | OSWALD → BRUCE | x2
@@ -1640,7 +1628,7 @@ And you’re the only one left to answer.
 #### 821d13c73f | OSWALD | x2
 Careful now.
 
-#### 9255b62a96-LM | OSWALD → BRUCE | x2
+#### 9255b62a96 | OSWALD → BRUCE | x2
 That’s right. You’ve got no bloody excuse!
 
 #### 943cda0e58 | OSWALD → BRUCE | x2
@@ -1655,13 +1643,13 @@ I can’t be judged for my father’s crimes.
 #### 064f3e8eef | BRUCE → OSWALD | x2
 I know the pain of losing family.
 
-#### ff425ce16e-SM | OSWALD → BRUCE | x2
+#### ff425ce16e | OSWALD → BRUCE | x2
 I’m not interested in hearing you avoid blame.
 
-#### 9097cc503b-SM | BRUCE → OSWALD | x2
+#### 9097cc503b | BRUCE → OSWALD | x2
 I was a child, Oz.
 
-#### a73d1938ae-SM | OSWALD → BRUCE | x2
+#### a73d1938ae | OSWALD → BRUCE | x2
 I’ve heard all your excuses before.
 
 #### 68498bac59 | OSWALD → BRUCE | x2
@@ -1676,7 +1664,7 @@ You trying to get me all shaken up?
 #### 225e1978ab | OSWALD | x2
 It’s time to bury the past for good.
 
-#### 380fdbdd57-L? | OSWALD | x2
+#### 380fdbdd57 | OSWALD | x2
 You were always going to die.
 
 #### b9e32bb929 | OSWALD → BRUCE | x2
@@ -1697,19 +1685,19 @@ Carried a noble name.
 #### 8fa7395716 | OSWALD → BRUCE | x2
 But now I’m going to make it slow.
 
-#### 078b389b43-SM | OSWALD → BRUCE | x2
+#### 078b389b43 | OSWALD → BRUCE | x2
 I was always going to murder you...
 
 #### 069196623d | OSWALD → BRUCE | x2
 Now I’m going to make it slow.
 
-#### 30adcf601d-SM | OSWALD → GORDON | x2
+#### 30adcf601d | OSWALD → GORDON | x2
 Funny - I never thought you’d be the type to go quietly.
 
 #### 44c31743af | GORDON → PENGUIN | x2
 It is for you, Penguin.
 
-#### ee94e0dea6-LM | GORDON → OSWALD | x2
+#### ee94e0dea6 | GORDON → OSWALD | x2
 You’ve got a lot to answer for.
 
 #### 4c8b097d28 | GORDON → BRUCE | x8
@@ -1721,7 +1709,7 @@ Oh you bloody pigs! How’s this for an answer!?
 #### 9237d8c607 | GORDON → BRUCE | x2
 I didn’t see a thing.
 
-#### 4b8ed3b7a8-SM | GORDON → OSWALD | x2
+#### 4b8ed3b7a8 | GORDON → OSWALD | x2
 I would have done
 
 #### ee7ef955bb | GORDON → OSWALD | x2
@@ -1733,7 +1721,7 @@ It’s where you’re going to spend the rest of your life.
 #### 881bfccad4 | GORDON | x2
 This is a serious blow to the Children of Arkham.
 
-#### 87adca1cea-L? | GORDON | x2
+#### 87adca1cea | GORDON | x2
 Didn’t know you had that in you.
 
 #### 6cb454563e | GORDON | x2
@@ -1793,7 +1781,7 @@ Because they say she’s crazy.
 #### 9e3b7b4bf4 | YOUNGOSWALD → OSWALD | x2
 I’ll smash all their damn faces!
 
-#### 194b6d1b81-LM | OSWALD → YOUNGOSWALD | x2
+#### 194b6d1b81 | OSWALD → YOUNGOSWALD | x2
 You’ve walked right into what’s about to be war zone.
 
 #### 022794f856 | OSWALD → YOUNGOSWALD | x2
@@ -1808,7 +1796,7 @@ Once he’s out of the picture, there’ll be nothing left in our way.
 #### d93de6ede2 | BRUCE → GORDON | x2
 You can’t do it alone, Lieutenant.
 
-#### ef4472950b-SM-LM | GORDON → BRUCE | x2
+#### ef4472950b | GORDON → BRUCE | x2
 You’re not the man I thought you were, Wayne.
 
 #### fab233ef95 | GORDON → OSWALD | x2
@@ -1877,7 +1865,7 @@ You and me both, Lieutenant.
 #### 0b16430337 | BRUCE → GORDON | x2
 I didn’t do this for gratitude, Lieutenant.
 
-#### 47f0c07b0b-LM | choice/UI → OSWALD | x2
+#### 47f0c07b0b | choice/UI → OSWALD | x2
 You picked the wrong fight.
 
 #### 86e775b4ec | choice/UI | x2
@@ -1898,13 +1886,13 @@ Your plan failed, Oz!
 #### 25d27f524f | choice/UI | x2
 You’re the crazy one.
 
-#### cd27e2d131-SM | choice/UI | x2
+#### cd27e2d131 | choice/UI | x2
 I came alone.
 
 #### 3a0293efcc | choice/UI | x2
 I can handle you.
 
-#### fec0f9d56d-L? | choice/UI | x2
+#### fec0f9d56d | choice/UI | x2
 You scared of Batman?
 
 #### f088899e44 | choice/UI | x2
@@ -1931,9 +1919,6 @@ I’ll make sure the people know what you’ve done here.
 #### fce209caf4 | GORDON → BRUCE | x4
 You’re rewriting the Wayne legacy.
 
-#### cebe0496a3-L? | GORDON | x2
-Didn’t know you had that in you, Mr Wayne.
-
 #### 79a0354e6e | GORDON → OSWALD | x4
 The Wayne name has had a lot of mud flung at it recently—but you’ve shown that you’re not your father.
 
@@ -1949,7 +1934,7 @@ You weren’t invited to this party.
 #### 3d45aa6517 | OSWALD | x2
 And you...
 
-#### 76ef57d77e-L? | OSWALD | x2
+#### 76ef57d77e | OSWALD | x2
 You never gave a damn about me!
 
 #### e0d15b9e60 | OSWALD → BRUCE | x4
@@ -1970,7 +1955,7 @@ I get them all retribution, right here, right now!
 #### 87a2f2ad9e | OSWALD | x2
 Everything I ever cared about.
 
-#### da9dea9324-SM | OSWALD | x2
+#### da9dea9324 | OSWALD | x2
 Then I let these drones loose.
 
 #### dd2c46508a | OSWALD → GORDON | x2
@@ -2009,13 +1994,13 @@ Not that this team minds a fight.
 #### 89c5e19f13 | GORDON → BRUCE | x2
 These are some of my best officers --
 
-#### 8d6d03a47c-S? | GCPD01 → GORDON | x2
+#### 8d6d03a47c | GCPD01 → GORDON | x2
 I saw-- some kind of transmitter.
 
 #### b3a9bd19d4 | GORDON → GCPD01 | x2
 A transmitter?
 
-#### 4719290a36-SM | GORDON → GCPD01 | x2
+#### 4719290a36 | GORDON → GCPD01 | x2
 I need to get in there and destroy that transmitter.
 
 #### 52aced3054 | GORDON → GCPD01 | x2
@@ -2072,7 +2057,7 @@ I’ll make him so mad the only thing he’ll see is red.
 #### e316748b19 | GORDON → BRUCE | x2
 But how to do it without Penguin noticing?
 
-#### 8b18f818e8-LM | BRUCE → GORDON | x2
+#### 8b18f818e8 | BRUCE → GORDON | x2
 Lieutenant, you need a distraction.
 
 #### e61144519e | OSWALD → BRUCE | x2
@@ -2111,16 +2096,16 @@ And you don’t give a damn about me now!
 #### 4fda2b4c2b | OSWALD | x2
 A fattened tick! Living off your inheritance.
 
-#### 818625751e-SM | OSWALD | x2
+#### 818625751e | OSWALD | x2
 When I came back to Gotham, you know...
 
 #### c71f99d172 | OSWALD | x2
 I actually thought about asking you to join the cause.
 
-#### ef40c59466-SM | OSWALD | x2
+#### ef40c59466 | OSWALD | x2
 But when I met you in this park, saw what you’d become...
 
-#### 70c4f0ffca-SM | OSWALD | x2
+#### 70c4f0ffca | OSWALD | x2
 I realized-
 
 #### c773be2db5 | OSWALD | x2
@@ -2150,7 +2135,7 @@ Not that you’ve been much of a friend. Just sitting by w
 #### 2f7ed8ebf2 | OSWALD | x2
 Not that you’ve ever been much of a friend.
 
-#### 679eb5b36d-SM | OSWALD | x2
+#### 679eb5b36d | OSWALD | x2
 Even though I’d heard nary a peep from you in twenty years.
 
 #### eb53eb9174 | OSWALD | x2
@@ -2162,7 +2147,7 @@ You don’t know anything!
 #### d092e49c04 | OSWALD → GORDON | x2
 I’m finally getting retribution.
 
-#### c5c2066392-LM | OSWALD → GORDON | x2
+#### c5c2066392 | OSWALD → GORDON | x2
 For my mum, my dad, everything you took away from me.
 
 #### da5e3cc179 | choice/UI → OSWALD | x2
@@ -2189,7 +2174,7 @@ I’m not waiting any longer.
 #### ad1466492b | OSWALD → GORDON | x2
 We could never go back to how we were.
 
-#### 17d394c95e-LM | choice/UI → OSWALD | x2
+#### 17d394c95e | choice/UI → OSWALD | x2
 You’re right. It’s my fault!
 
 #### 681cbac003 | choice/UI → OSWALD | x2
@@ -2198,7 +2183,7 @@ We’re not done talking!
 #### 25bd997439 | BRUCE → OSWALD | x2
 You want to hurt someone?
 
-#### 5a9b030dac-SM | BRUCE → OSWALD | x2
+#### 5a9b030dac | BRUCE → OSWALD | x2
 I’m right here!
 
 #### 1f8e27988f | BRUCE → OSWALD | x2
@@ -2228,13 +2213,13 @@ It’s all my fault!
 #### 9d1bda3334 | BRUCE → OSWALD | x2
 Everything bad that happened to your family, to you.
 
-#### 28bafa23fd-SM | BRUCE → OSWALD | x2
+#### 28bafa23fd | BRUCE → OSWALD | x2
 I was part of it.
 
 #### c08fd143a4 | BRUCE → OSWALD | x2
 The Wayne name was more important to me than our friendship.
 
-#### bedbd7e782-SM | BRUCE | x2
+#### bedbd7e782 | BRUCE | x2
 And I’ve benefitted from everything my father did. I turned a blind eye.
 
 #### d6ab9be75d | BRUCE → OSWALD | x2
@@ -2255,7 +2240,7 @@ Well then. If you want to pay for your family’s sins...
 #### 2fc6f9b57c | OSWALD → BRUCE | x2
 Then you can be the first to die.
 
-#### 0584dd33d5-SM | OSWALD → BRUCE | x2
+#### 0584dd33d5 | OSWALD → BRUCE | x2
 To what I KNEW all along.
 
 #### 06d9eaaff5 | BRUCE → OSWALD | x2
@@ -2276,10 +2261,10 @@ Rot in hell, you bastard!
 #### 396cad659f | choice/UI → OSWALD | x2
 That isn’t my fault.
 
-#### a3b4cf0541-SM | choice/UI → OSWALD | x2
+#### a3b4cf0541 | choice/UI → OSWALD | x2
 I treated you with respect.
 
-#### 2f2718d10f-LM | choice/UI → OSWALD | x2
+#### 2f2718d10f | choice/UI → OSWALD | x2
 Sounds like you won.
 
 #### 688cb1b260 | choice/UI → OSWALD | x2
@@ -2300,7 +2285,7 @@ Alright, fine. It’s my fault, Oz!
 #### 6d8d92ee46 | OSWALD → BRUCE | x2
 What, now?
 
-#### 18adf628b3-LM | BRUCE → OSWALD | x2
+#### 18adf628b3 | BRUCE → OSWALD | x2
 You’re right. Everything that happened, everything you’ve gone through...
 
 #### a2b12517f5 | BRUCE → OSWALD | x2
@@ -2324,14 +2309,11 @@ DT Was Your parents would be ashamed
 #### d6d3b03023 | GORDON → OSWALD | x2
 Wayne.
 
-#### 845e380c50-LM | GORDON → OSWALD | x2
+#### 845e380c50 | GORDON → OSWALD | x2
 I don’t know where the hell you get your information... but you were right. Penguin’s here.
 
-#### 291d44884c-L? | GORDON → DES | x2
+#### 291d44884c | GORDON → DES | x2
 But you need to stay back, now. My team can handle this.
-
-#### 6a217df91e-SM | BRUCE → GORDON | x2
-Glad I could help.
 
 #### 2f540c3099 | GORDON → BRUCE | x2
 Skinny little pr--[ick][cutting himself off, he grunts]
@@ -2366,7 +2348,7 @@ Yeah--[cough]
 #### f7b0431b1b | BRUCE → GORDON | x2
 If you can destroy the transmitter, Oswald loses control of the drones.
 
-#### c43dc4f13c-LM | GORDON → BRUCE | x2
+#### c43dc4f13c | GORDON → BRUCE | x2
 There’s no way to get to it. You heard Martinez!
 
 #### dda9919f79 | GORDON → BRUCE | x2
@@ -2420,7 +2402,7 @@ I am *actually* happy to see you.
 #### 7cc4e8d435 | OSWALD → YOUNGOSWALD | x2
 I get a bat and a Wayne in one blow!
 
-#### cb5bd29c2f-SM | OSWALD | x2
+#### cb5bd29c2f | OSWALD | x2
 So not that I’m upset, but...
 
 #### f02232894f | OSWALD | x2
@@ -2435,7 +2417,7 @@ Could be Batman, huh? Coming to the rescue!
 #### 12acd998c8 | OSWALD → GORDON | x2
 I hope he tries. Think he’ll show?
 
-#### c1e6fa204a-SM | OSWALD → GORDON | x2
+#### c1e6fa204a | OSWALD → GORDON | x2
 I thought maybe, just maybe, me and Bruce, we could pick up where we left off.
 
 #### b01761e339 | OSWALD → GORDON | x2
@@ -2453,10 +2435,10 @@ And their compatriots outside the park, too, whada’ya say?
 #### c54e7a5d8a | OSWALD → BRUCE | x2
 You as well, Bruce.
 
-#### c2af68d16e-LM | GORDON → OSWALD | x2
+#### c2af68d16e | GORDON → OSWALD | x2
 You were right about this one.
 
-#### 89ef86d923-SM | GORDON → OSWALD | x4
+#### 89ef86d923 | GORDON → OSWALD | x4
 The GCPD does, too. I won’t forget it.
 
 #### 3ea5794fed | GORDON → BRUCE | x2
@@ -2471,7 +2453,7 @@ She’s not going to stand for this.
 #### 91ce4e36f8 | BRUCE → GORDON | x2
 No, she isn’t.
 
-#### 9bb0ab6f1c-SM | GORDON → BRUCE | x2
+#### 9bb0ab6f1c | GORDON → BRUCE | x2
 I never thought I’d say this, but...
 
 #### 581a6310a1 | GORDON → BRUCE | x2
@@ -2480,7 +2462,7 @@ I hope to god that Batman has a better idea of where she is than we do.
 #### e3c4917b3f | BRUCE → GORDON | x2
 Lieutenant!
 
-#### 859c84c0f3-S? | GCPD02 → OSWALD | x2
+#### 859c84c0f3 | GCPD02 → OSWALD | x2
 I can’t go! I’m pinned down!
 
 #### 9e7c72d1b2 | GORDON → OSWALD | x2
@@ -2504,10 +2486,10 @@ I dearly hope he shows, considering the fireworks I have waiting for him. What d
 #### cf63def6cd | OSWALD → BRUCE | x2
 I’ll kill you!
 
-#### b989d565f5-LM | BRUCE → OSWALD | x2
+#### b989d565f5 | BRUCE → OSWALD | x2
 No, you won’t.
 
-#### 95f2eb9bcb-LM | GORDON → OSWALD | x2
+#### 95f2eb9bcb | GORDON → OSWALD | x2
 You’ve got a lot to answer for, Cobblepot.[stress on name, because everyone knows who the Penguin is now!]
 
 #### 8f0d44acb4 | OSWALD → BRUCE | x2
@@ -2519,7 +2501,7 @@ You bastard!
 #### 26fee622bf | OSWALD → GORDON | x2
 Your father locked my mum in Arkham Asylum... to steal our fortune.
 
-#### c19ae5c442-SM | OSWALD | x2
+#### c19ae5c442 | OSWALD | x2
 Not after I learned the truth.
 
 #### 83c783fa8d | OSWALD | x2
@@ -2531,7 +2513,7 @@ Get the word out, eh? All the channels.
 #### 469783006c | OSWALD → GORDON | x2
 The Penguin’s got a Wayne, in Cobblepot Park.
 
-#### fdcae4f2dd-LM | OSWALD → GORDON | x2
+#### fdcae4f2dd | OSWALD → GORDON | x2
 Now, I really am chuffed you popped by!
 
 #### 9d449d7f25 | OSWALD → GORDON | x2
@@ -2567,7 +2549,7 @@ This wouldn’t be some kind of plan, would it?
 #### 3ca2ddc284 | OSWALD | x2
 You working with the Bat?
 
-#### c56f65f58e-LM | OSWALD → BRUCE | x2
+#### c56f65f58e | OSWALD → BRUCE | x2
 Did you really come here all alone, Bruce?
 
 #### ebb4cebcdd | OSWALD | x2
@@ -2588,7 +2570,7 @@ I don’t need Batman’s help to bring you down.
 #### b946c6ea4d | OSWALD → BATMAN | x2
 Woo-hoo! [loudly] You hear that, Batman?
 
-#### 39acf1afad-LM | BRUCE → OSWALD | x2
+#### 39acf1afad | BRUCE → OSWALD | x2
 Why, Oz? Are you scared of Batman?
 
 #### 9630c20702 | OSWALD → BRUCE | x2
@@ -2597,25 +2579,25 @@ Might be. If I weren’t so certain of my upper hand...
 #### 7a17dca536 | OSWALD → BRUCE | x2
 ...as it were.
 
-#### ff090b88cb-LM | OSWALD → BRUCE | x2
+#### ff090b88cb | OSWALD → BRUCE | x2
 Not that I don’t think you can handle yourself.
 
 #### 8ec6d12f70 | OSWALD | x2
 You certainly do pack a punch.
 
-#### 565a5731e0-LM | OSWALD → BRUCE | x2
+#### 565a5731e0 | OSWALD → BRUCE | x2
 Felt like you were working out some issues there, hey, Bruce?
 
 #### 17e379a42f | OSWALD → BRUCE | x2
 I mean, the drug only reveals your true feelings.
 
-#### 174498857e-LM | OSWALD → BRUCE | x2
+#### 174498857e | OSWALD → BRUCE | x2
 Just what were you trying to express?
 
 #### 69faf8e588 | choice/UI → OSWALD | x2
 It was just the drug.
 
-#### b7b45182ed-LM | choice/UI → OSWALD | x2
+#### b7b45182ed | choice/UI → OSWALD | x2
 You pissed me off!
 
 #### fc04aa4eb1 | BRUCE → OSWALD | x2
@@ -2639,10 +2621,10 @@ Well, you should care!
 #### 3df3ead85a | OSWALD → BRUCE | x2
 Systemic indifference.
 
-#### 087eedc1eb-LM | BRUCE → OSWALD | x2
+#### 087eedc1eb | BRUCE → OSWALD | x2
 You pissed me off, Oz...
 
-#### 33b215d636-LM | BRUCE → OSWALD | x2
+#### 33b215d636 | BRUCE → OSWALD | x2
 ...so you got what was coming to you.
 
 #### dd7f1c206f | OSWALD → BRUCE | x2
@@ -2660,7 +2642,7 @@ Time to give up the ghost, Bruce.
 #### 881d1796d5 | OSWALD → GORDON | x2
 They’ll make mutton out of you and all the lawmen round this park.
 
-#### 7fb342729e-LM | GORDON → OSWALD | x2
+#### 7fb342729e | GORDON → OSWALD | x2
 Is that all you got?
 
 #### e41b37eb73 | GORDON | x2
@@ -2669,16 +2651,16 @@ Sure looks like it.
 #### 602507a93d | GORDON | x2
 I’m gonna make sure that bastard never sees the light of day.
 
-#### a1523966be-SM | GORDON | x2
+#### a1523966be | GORDON | x2
 I need to look after my officers.
 
-#### 79569f0ae8-LM | GORDON → BRUCE | x2
+#### 79569f0ae8 | GORDON → BRUCE | x2
 You helped here, Mr. Wayne.
 
 #### 1411ed23ef | GORDON → BRUCE | x2
 Gotham, and the GCPD, owe you.
 
-#### 160e163dfa-SM | BRUCE → GORDON | x2
+#### 160e163dfa | BRUCE → GORDON | x2
 I’m sorry that people got hurt...
 
 #### de3f91dd91 | BRUCE → GORDON | x2
@@ -2687,7 +2669,7 @@ I’m sorry that people got hurt...
 #### e92b945b9c | GORDON → BRUCE | x2
 One of the hardest parts.
 
-#### 74d99d7533-LM | GORDON → BRUCE | x2
+#### 74d99d7533 | GORDON → BRUCE | x2
 You did your best here, Mr. Wayne.
 
 #### 8ed69b69d3 | GORDON | x2
@@ -2702,7 +2684,7 @@ God knows, she’s not going to be happy we took down her top man.
 #### 3c65159713 | OSWALD → GORDON | x2
 Can’t really say the same for you.
 
-#### f61a150853-LM | OSWALD → GORDON | x2
+#### f61a150853 | OSWALD → GORDON | x2
 You’ve got to appreciate the turnabout though.
 
 #### 65cc4dee44 | OSWALD → GORDON | x2
@@ -2747,7 +2729,7 @@ Never did have much time for friends.
 #### 8c5d22d5f4 | OSWALD | x2
 Might have something to do with your temperament.
 
-#### 73fa8cad16-L? | OSWALD | x2
+#### 73fa8cad16 | OSWALD | x2
 Not that you can’t look after yourself...
 
 #### 73d8861d27 | OSWALD → BRUCE | x2
@@ -2756,7 +2738,7 @@ Always the loner, Bruce.
 #### 485e7f7cff | OSWALD → BRUCE | x2
 You certainly do know how to beat down an unarmed man.
 
-#### 7c1d0521e9-LM | BRUCE → OSWALD | x2
+#### 7c1d0521e9 | BRUCE → OSWALD | x2
 You made me angry, Oswald.
 
 #### d4885a0849 | OSWALD → BRUCE | x2
@@ -2843,16 +2825,16 @@ Rot in hell.
 #### 172cca52b0 | BRUCE → OSWALD | x2
 I’m truly sorry... for, you know, the [indicating] face.
 
-#### efa8735417-SM | BRUCE → GORDON | x2
+#### efa8735417 | BRUCE → GORDON | x2
 I know. I went a little overboard, but...
 
-#### 4ea2392cf6-SM | BRUCE → OSWALD | x2
+#### 4ea2392cf6 | BRUCE → OSWALD | x2
 ...but you know I was drugged.
 
 #### c8cc8b9c7f | BRUCE → OSWALD | x2
 I’m truly sorry for what happened, Oz.
 
-#### 2b8783a743-SM | BRUCE → GORDON | x2
+#### 2b8783a743 | BRUCE → GORDON | x2
 I never meant to hurt you so badly. I was drugged and...
 
 #### 34b5def776 | choice/UI | x2
