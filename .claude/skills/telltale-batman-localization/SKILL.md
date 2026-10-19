@@ -144,8 +144,9 @@ validates them. Rules for the table:
 - Leading `{tags}` and `[notes]` (`{AngryA}[pickup][ALT]`) and a trailing `[alt]` are **not** in the table; they are
   put back automatically. Everything else in the `english` cell (mid-line `{tags}`, `^..^`, `<icons>`, `[beat]`,
   bracket-only choices like `[Ignore]`) follows the markup rules in section 3.
-- Multi-line texts are joined with ` ¶ `. Keep exactly the same number of `¶`. A wrong count leaves that record
-  in English and is reported.
+- Multi-line texts are joined with ` ¶ `. Keep exactly the same number of lines; `¶` and an Excel line break
+  (Alt+Enter) both count as a line separator. One-line texts must not contain a line break. A wrong number of lines
+  leaves that table row in English and is reported once with its `#` row number, before anything is written.
 - Tabs are written as `\t`. Empty `ukrainian` = stays English.
 - Left out on purpose (they stay English): writers' notes, texts without letters, and subtitles that are only
   `[sighs]`-type notes (not shown in game).

@@ -190,10 +190,12 @@ def analyze_records(recs, genders):
 
 
 def split_translation(cell, n_lines):
-    """Table cell -> list of n_lines core lines, or None if the ¶ count is wrong."""
+    """Table cell -> list of n_lines core lines, or None if the number of lines is wrong.
+    Lines are separated by " ¶ " or by a line break typed in Excel (Alt+Enter) - both work."""
     cell = unescape_cell(cell)
+    cell = re.sub(r' *(?:\r\n|\r|\n) *', LINE_SEP, cell)   # Excel line break = ¶
     if n_lines == 1:
-        return [cell]
+        return None if '¶' in cell else [cell]
     parts = cell.split(LINE_SEP)               # exact " ¶ " keeps spaces inside lines
     if len(parts) != n_lines:
         parts = re.split(r' ?¶ ?', cell)       # editor trimmed a space somewhere
@@ -238,7 +240,9 @@ HELP = [
     'Who speaks / To whom - characters. "choice/UI" = a choice option or menu text (Bruce says choices).',
     '    "To whom" is a guess from the scene.',
     'Where - first place this text appears. Open ai_context/scenes/<that file> to read the whole conversation.',
-    'Notes - "keep N ¶": the text has several lines joined with " ¶ " - keep the same number of ¶.',
+    'Notes - "keep N ¶": the text has several lines joined with " ¶ " - keep the same number of lines: type ¶',
+    '    between them, or press Alt+Enter for a line break (both work). A text without ¶ is ONE line in the game:',
+    '    never put a line break in it (the import skips such rows and tells you the row number).',
     '    "near-copy of <key>": almost the same as another row - reuse that translation.',
     '    "listener guessed - check scene": the gender of the listener is a guess.',
     '    "credits: people’s names stay in Latin".',
@@ -430,25 +434,26 @@ def unique_files(root, rows=None):
 
 def _unique_folder_files(d):
     """All files in d. Exits if d holds anything that is not a unique-text file (protects other folders)."""
-    from landb_txt import read_raw
+    from landb_txt import _long, read_raw
     found = []
-    for dp, _, fn in os.walk(d):
+    base = _long(d)
+    for dp, _, fn in os.walk(base):
         for f in fn:
             path = os.path.join(dp, f)
-            ok = f.endswith('.txt') and read_raw(path)[:20].decode('utf-8', 'replace').lstrip('﻿').startswith('#### ')
-            if not ok:
-                sys.exit(f'{d} contains {os.path.relpath(path, d)}, which is not a unique-text file - '
+            head = read_raw(path)[:20].decode('utf-8', 'replace').lstrip(chr(0xFEFF))
+            if not (f.endswith('.txt') and head.startswith('#### ')):
+                sys.exit(f'{d} contains {os.path.relpath(path, base)}, which is not a unique-text file - '
                          f'refusing to touch this folder. Check the folder name.')
-            found.append(os.path.relpath(path, d).replace(os.sep, '/'))
+            found.append(os.path.relpath(path, base).replace(os.sep, '/'))
     return found
 
 
 def write_unique(files, d):
     """Rewrite folder d with files from unique_files(). Only unique-text files are ever deleted."""
-    from landb_txt import write_lines
+    from landb_txt import _long, write_lines
     for rel in _unique_folder_files(d):
         if rel not in files:
-            os.remove(os.path.join(d, rel))
+            os.remove(_long(os.path.join(d, rel)))
     for rel, lines in files.items():
         write_lines(os.path.join(d, rel), lines)
     return len(files)

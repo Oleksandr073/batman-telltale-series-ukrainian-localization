@@ -56,7 +56,28 @@ def main():
     check_root(txt_files(a.en), a.en)
     genders = load_genders(a.genders)
     rows = read_table(a.table)
-    table = {r['key']: r.get('ukrainian', '') for r in rows if r.get('key')}
+    # Check every filled row first: a wrong number of lines (¶ or Alt+Enter line breaks) is reported once, with the
+    # table row number, and that row is treated as untranslated so no file gets broken.
+    table, row_problems = {}, []
+    for r in rows:
+        if not r.get('key'):
+            continue
+        cell = r.get('ukrainian', '')
+        n = r['english'].count('¶') + 1
+        if cell and split_translation(cell, n) is None:
+            got = cell.count('¶') + cell.count('\n') + 1
+            row_problems.append(f"table row #{r.get('row', '?')}: the English has {n} line(s) but the Ukrainian has "
+                                f"{got} - {'remove the line break' if n == 1 else 'use exactly ' + str(n - 1) + ' ¶ or line break(s)'}. "
+                                f"English: {r['english'][:60]!r}")
+            cell = ''
+            r['ukrainian'] = ''
+        table[r['key']] = cell
+    if row_problems:
+        print(f'{len(row_problems)} table row(s) have a wrong number of lines and were left in English:')
+        for p in row_problems[:30]:
+            print('  ' + p)
+        if len(row_problems) > 30:
+            print(f'  ... {len(row_problems) - 30} more')
     if a.unique:
         stale = compare_unique(a.en, a.unique[0])
         if stale:
@@ -136,7 +157,10 @@ def main():
     if a.unique and not a.only:
         print(f'\nComparing {a.out} with {a.unique[1]}...')
         mismatches = check_consistency.check(a.en, a.genders, a.unique[1], a.out, a.overrides)
-    sys.exit(1 if errors or problems or mismatches else 0)
+    if row_problems:
+        print(f'\n{len(row_problems)} table row(s) were skipped because of a wrong number of lines (see the top of '
+              f'the output). Fix them in the table and run the import again.')
+    sys.exit(1 if errors or problems or mismatches or row_problems else 0)
 
 
 if __name__ == '__main__':

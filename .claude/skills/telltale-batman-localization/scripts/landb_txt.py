@@ -81,12 +81,13 @@ def write_lines(path, lines):
 
 def txt_files(root):
     out = []
-    for dp, dn, fn in os.walk(root):
+    base = _long(root)          # long-path form, so files deeper than 260 characters are not missed on Windows
+    for dp, dn, fn in os.walk(base):
         # skip hidden folders and the ai_context/ output (scene views are .txt too)
         dn[:] = [d for d in dn if not d.startswith('.') and d not in ('analysis', 'reference', 'ai_context')]
         for f in fn:
             if f.lower().endswith('.txt'):
-                out.append(os.path.relpath(os.path.join(dp, f), root).replace(os.sep, '/'))
+                out.append(os.path.relpath(os.path.join(dp, f), base).replace(os.sep, '/'))
     return sorted(out)
 
 

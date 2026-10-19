@@ -91,7 +91,9 @@ The full commands behind each shortcut are in `package.json`.
 - Translate only the yellow **Ukrainian** column. Never change *English* or *key*, and never delete rows.
 - Copy tags inside the text unchanged: `{SmugA}`, `^font:…^`, `^^`, `<ui_…d3dtx:-15>`, `{percent}`. Tags at the
   start of a line (`{AngryA}`, `[pickup]`, `[ALT]`) are already removed and are put back automatically.
-- Multi-line texts are joined with ` ¶ `. Keep the same number of `¶`.
+- Multi-line texts are joined with ` ¶ `. Keep the same number of lines: type `¶` or press Alt+Enter between them.
+  A text without `¶` is one line in the game: no line breaks (Alt+Enter) in its translation. The import skips such
+  rows and names their row number (`#` column).
 - Choices like `[Ignore]` are shown in the game: translate inside the brackets and keep the brackets.
 - Keep `...`, `--` and the ending punctuation as in the English text.
 - Follow `ai_context/style_guide.md`. Names come from `ai_context/glossary.md`, ти/ви from `ai_context/speakers.md`, and gender forms follow the *Speaker gender* /
