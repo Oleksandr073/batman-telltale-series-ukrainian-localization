@@ -84,21 +84,23 @@ def main():
                 row['guessed'] += 1
 
     first_loose = {}
-    for key in order:
+    for num, key in enumerate(order, 1):          # num = the row number shown in the table's # column
         row = rows[key]
         lk = (loose_text(row['english']), row['speaker_gender'], row['listener_gender'])
         if lk[0] and lk in first_loose:
-            row['notes'].append(f'near-copy of {first_loose[lk]}')
+            row['notes'].append(f'same as row #{first_loose[lk]} (almost)')
         else:
-            first_loose.setdefault(lk, key)
+            first_loose.setdefault(lk, num)
 
     # rows translated earlier whose gender was "?" and is now known (or the reverse) keep their translation
     def parts(k):
         m = re.match(r'^([0-9a-f]+)(?:-S([MF?]))?(?:-L([MF?]))?$', k)
         return (m.group(1), m.group(2) or '', m.group(3) or '') if m else (k, '', '')
+    def has_work(v):                              # what people typed: translation and/or translator notes
+        return v.get('ukrainian') or v.get('translator_notes')
     old_by_hash = collections.defaultdict(list)
     for k, v in old.items():
-        if v.get('ukrainian'):
+        if has_work(v):
             old_by_hash[parts(k)[0]].append((k, v))
     used_old = set()
 
@@ -106,19 +108,21 @@ def main():
     out_rows = []
     for key in order:
         row = rows[key]
-        if key in old and old[key].get('ukrainian'):
-            row['ukrainian'] = old[key]['ukrainian']
+        if key in old and has_work(old[key]):
+            row['ukrainian'] = old[key].get('ukrainian', '')
+            row['translator_notes'] = old[key].get('translator_notes', '')
             used_old.add(key)
-            kept += 1
+            kept += bool(row['ukrainian'])
         else:
             h, sg, lg = parts(key)
             for ok, ov in old_by_hash.get(h, []):
                 _, osg, olg = parts(ok)
                 if osg in ('?', '', sg) and olg in ('?', '', lg) or sg in ('?', '') and lg in ('?', ''):
-                    row['ukrainian'] = ov['ukrainian']
+                    row['ukrainian'] = ov.get('ukrainian', '')
+                    row['translator_notes'] = ov.get('translator_notes', '')
                     row['notes'].append(f'translation taken from {ok} - check gender forms')
                     used_old.add(ok)
-                    kept += 1
+                    kept += bool(row['ukrainian'])
                     break
         if row['guessed']:
             row['notes'].append('listener guessed - check scene')
@@ -130,12 +134,14 @@ def main():
         write_table(out, out_rows)
     except PermissionError:
         sys.exit(f'Cannot write {out} - close it in Excel / LibreOffice first.')
-    lost = [k for k, v in old.items() if v.get('ukrainian') and k not in rows and k not in used_old]
+    lost = [k for k, v in old.items() if has_work(v) and k not in rows and k not in used_old]
     lost_path = re.sub(r'(\.\w+)$', r'.lost\1', out)
     if lost:
         write_table(lost_path, [old[k] for k in lost])
     words = sum(len(unescape_cell(rows[k]['english']).split()) for k in order)
-    print(f'{len(order)} rows ({words} English words) -> {out}. Kept {kept} existing translation(s).')
+    n_notes = sum(1 for r in out_rows if r.get('translator_notes'))
+    print(f'{len(order)} rows ({words} English words) -> {out}. Kept {kept} existing translation(s)'
+          + (f' and {n_notes} translator note(s).' if n_notes else '.'))
     if unique_dir:
         files, _ = unique_files(root)
         nfiles = write_unique(files, unique_dir)

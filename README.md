@@ -72,7 +72,7 @@ All shortcuts are defined in `package.json` (`scripts`), like in any Node projec
 | `npm run review:all` | Shows every place in the 222 game files where the text was replaced. | Optional |
 | `npm run check` | Checks again that the 222 files match the unique texts — changes nothing. | Optional, e.g. after a git merge |
 | `npm run validate` | Checks the structure of the 222 files (line count, headers, tags, encoding) — changes nothing. | Optional |
-| `npm run rebuild` | Rebuilds `translation_table.xlsx` from the English files and `speaker_genders.xlsx`. Translations are kept. | After editing `speaker_genders.xlsx` |
+| `npm run rebuild` | Rebuilds `translation_table.xlsx` from the English files and `speaker_genders.xlsx`. Translations and translator notes are kept; everything else in the table is recreated. | After editing `speaker_genders.xlsx` |
 | `npm run scenes` | Creates `ai_context/scenes/` (conversation-order views, not in git). | After a fresh clone |
 | `npm run unique-original` | Recreates `data/unique_original_data/` from the English files. | Only if `data/original_data/` changes |
 | `npm run setup` | Installs the Excel package for Python. | Once per computer |
@@ -89,6 +89,8 @@ The full commands behind each shortcut are in `package.json`.
 ## Translation rules in short
 
 - Translate only the yellow **Ukrainian** column. Never change *English* or *key*, and never delete rows.
+- The blue **Translator notes** column is free space for people (questions, doubts, "check in game"). Scripts
+  never use it. Other columns are rewritten on `npm run rebuild`, so write notes only there.
 - Copy tags inside the text unchanged: `{SmugA}`, `^font:…^`, `^^`, `<ui_…d3dtx:-15>`, `{percent}`. Tags at the
   start of a line (`{AngryA}`, `[pickup]`, `[ALT]`) are already removed and are put back automatically.
 - Multi-line texts are joined with ` ¶ `. Keep the same number of lines: type `¶` or press Alt+Enter between them.

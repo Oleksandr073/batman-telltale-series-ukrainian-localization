@@ -215,6 +215,7 @@ TABLE_COLUMNS = [
     ('english', 'English', 60),
     ('ukrainian', 'Ukrainian  ✎ (type here)', 60),
     ('lines', 'Lines', 7),
+    ('translator_notes', 'Translator notes  ✎ (for people only)', 35),
     ('speaker_gender', 'Speaker gender', 9),
     ('listener_gender', 'Listener gender', 9),
     ('speakers', 'Who speaks', 18),
@@ -235,6 +236,8 @@ HELP = [
     'English - the text to translate. Tags at the start of a line ({AngryA}, [pickup], [ALT]) are already removed;',
     '    the script puts them back. Tags still inside the text ({SmugA}, ^font..^, <icon.d3dtx:-15>) must be copied',
     '    unchanged into the translation.',
+    'Translator notes (blue) - free notes for people: questions, doubts, "check in game", ideas. Scripts never',
+    '    use them; they are kept when the table is rebuilt, like the translations.',
     'Lines - how many lines the text has in the game. Your translation must have the same number (separate lines',
     '    with ¶ or Alt+Enter). The Ukrainian cell turns red while the number of lines is wrong.',
     'Speaker gender - filled only if the Ukrainian words depend on who speaks: M = male (бачив, певен),',
@@ -246,7 +249,7 @@ HELP = [
     'Notes - "keep N ¶": the text has several lines joined with " ¶ " - keep the same number of lines: type ¶',
     '    between them, or press Alt+Enter for a line break (both work). A text without ¶ is ONE line in the game:',
     '    never put a line break in it (the import skips such rows and tells you the row number).',
-    '    "near-copy of <key>": almost the same as another row - reuse that translation.',
+    '    "same as row #N (almost)": nearly the same text as row N - reuse that translation.',
     '    "listener guessed - check scene": the gender of the listener is a guess.',
     '    "credits: people’s names stay in Latin".',
     'key - technical id that links the row to the game files. Never edit it, never delete rows.',
@@ -299,17 +302,23 @@ def write_table(path, rows):
             head.border = box
             head.alignment = wrap
         ucol = names.index('ukrainian') + 1
+        tcol = names.index('translator_notes') + 1
+        blue = PatternFill('solid', fgColor='DDEBF7')
         for r in ws.iter_rows(min_row=2):
             for cell in r:
                 cell.border = box
-                cell.alignment = wrap if cell.column in (2, ucol, len(names) - 1) else top
+                cell.alignment = wrap if cell.column in (2, ucol, tcol, len(names) - 1) else top
                 if cell.column not in (1, names.index('count') + 1, names.index('lines') + 1):
                     cell.data_type = 's'           # never a formula, even if text starts with = or --
             u = r[ucol - 1]
             u.fill = yellow
             u.number_format = '@'
+            t = r[tcol - 1]
+            t.fill = blue
+            t.number_format = '@'
             r[-1].font = grey
         ws.cell(row=1, column=ucol).fill = yellow
+        ws.cell(row=1, column=tcol).fill = blue
         # the Ukrainian cell turns red while its number of lines (¶ or Alt+Enter line breaks) differs from "Lines"
         from openpyxl.formatting.rule import FormulaRule
         u, ln = ws.cell(row=2, column=ucol).column_letter, ws.cell(row=2, column=names.index('lines') + 1).column_letter

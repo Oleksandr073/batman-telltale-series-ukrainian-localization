@@ -150,7 +150,9 @@ validates them. Rules for the table:
 - Tabs are written as `\t`. Empty `ukrainian` = stays English.
 - Left out on purpose (they stay English): writers' notes, texts without letters, and subtitles that are only
   `[sighs]`-type notes (not shown in game).
-- `notes` column: `near-copy of <key>` (reuse that translation), `keep markup inside`, `N lines: keep N-1 ¶`,
+- `Translator notes` column (blue): free notes for people, kept on rebuild like the translations; scripts never
+  read it. Write your own questions/doubts there, never in other columns (they are recreated).
+- `notes` column: `same as row #N (almost)` (reuse that translation), `keep markup inside`, `N lines: keep N-1 ¶`,
   `credits: people’s names stay in Latin`, `listener guessed - check scene`.
 - Rows are in conversation order (episode → file → record number). Translate top to bottom, and open
   `ai_context/scenes/<same path>` to read the surrounding scene.
