@@ -8,10 +8,11 @@ Core text: each text line is split into  prefix + core + suffix.
 
 Ukrainian gender: a core is split into separate table rows by speaker gender when it has first-person
 past tense / "I'm sure"-type words, and by listener gender when it has "you" + past tense / adjective.
-Speaker gender comes from analysis/speaker_genders.tsv; the listener is guessed (see guess_listeners).
+Speaker gender comes from analysis/speaker_genders.xlsx; the listener is guessed (see guess_listeners).
 """
 import collections
 import hashlib
+import sys
 import re
 
 NOTE = re.compile(r'^\(\w[\w .]*, \w{3} \w{3}')          # writers' timestamped notes
@@ -51,15 +52,29 @@ _VOC_RE = {k: re.compile(rf'(?:^|[,!?.]\s*|--\s*)(?:{v})(?:\s*[,!?.]|\s*--|\s*$)
 _TO_RE = re.compile(r'\[(?:[^\]]*;\s*)?to ([A-Za-z .’\-]+?)\s*[;\]]', re.I)
 
 
+def check_root(files, root):
+    """Stop early if EN_ROOT is not the folder that directly contains the BM_* / BAT_* folders."""
+    if not files or not all(f.startswith(('BM_', 'BAT_')) for f in files):
+        sys.exit(f'{root} must be the folder that directly contains the BM_* and BAT_* folders '
+                 f'(here: original_data). Found e.g.: {files[:1]}')
+
+
 def load_genders(path):
-    g = {}
-    with open(path, encoding='utf-8-sig') as fh:
-        next(fh)
-        for line in fh:
-            parts = line.rstrip('\r\n').split('\t')
-            if len(parts) >= 2 and parts[0]:
-                g[parts[0]] = parts[1].strip().upper() or '?'
-    return g
+    """speaker_id -> 'M' / 'F' / '?'  from speaker_genders.xlsx (or .tsv)."""
+    rows = []
+    if path.lower().endswith('.xlsx'):
+        _openpyxl()
+        from openpyxl import load_workbook
+        wb = load_workbook(path, read_only=True)
+        it = wb.worksheets[0].iter_rows(values_only=True)
+        next(it)
+        rows = [[('' if v is None else str(v)) for v in r[:2]] for r in it]
+        wb.close()
+    else:
+        with open(path, encoding='utf-8-sig') as fh:
+            next(fh)
+            rows = [line.rstrip('\r\n').split('\t') for line in fh]
+    return {r[0].strip(): (r[1].strip().upper() or '?') for r in rows if len(r) >= 2 and r[0].strip()}
 
 
 def norm_speaker(s):
@@ -188,6 +203,132 @@ def loose_text(s):
     """Lower-case letters/digits only - for spotting near-identical rows."""
     s = re.sub(r'\{[^}]*\}|\[[^\]]*\]|\^[^^]*\^|<[^>]*>', '', s).replace('’', "'").lower()
     return re.sub(r'[^a-z0-9]+', ' ', s).strip()
+
+
+# --- translation table files: .xlsx (for people) or .tsv (plain text) ------------------------------------
+# (internal name, column title in Excel, width)
+TABLE_COLUMNS = [
+    ('row', '#', 7),
+    ('english', 'English', 60),
+    ('ukrainian', 'Ukrainian  ✎ (type here)', 60),
+    ('speaker_gender', 'Speaker gender', 9),
+    ('listener_gender', 'Listener gender', 9),
+    ('speakers', 'Who speaks', 18),
+    ('listeners', 'To whom (guess)', 18),
+    ('count', 'Used (times)', 8),
+    ('first_seen', 'Where (file : line)', 45),
+    ('notes', 'Notes', 40),
+    ('key', 'key (do not edit)', 16),
+]
+HELP = [
+    'How to use this file',
+    '',
+    'Type the Ukrainian translation into the yellow column "Ukrainian". Do not change any other column.',
+    'One row = one text. It is used in every place the game shows it ("Used (times)" says how many).',
+    'Empty Ukrainian cell = the game keeps the English text.',
+    '',
+    'Columns',
+    'English - the text to translate. Tags at the start of a line ({AngryA}, [pickup], [ALT]) are already removed;',
+    '    the script puts them back. Tags still inside the text ({SmugA}, ^font..^, <icon.d3dtx:-15>) must be copied',
+    '    unchanged into the translation.',
+    'Speaker gender - filled only if the Ukrainian words depend on who speaks: M = male (бачив, певен),',
+    '    F = female (бачила, певна), ? = unknown, check the scene. Empty = gender does not matter here.',
+    'Listener gender - same, for the person spoken to ("Did you see?" -> бачив / бачила).',
+    'Who speaks / To whom - characters. "choice/UI" = a choice option or menu text (Bruce says choices).',
+    '    "To whom" is a guess from the scene.',
+    'Where - first place this text appears. Open analysis/scenes/<that file> to read the whole conversation.',
+    'Notes - "keep N ¶": the text has several lines joined with " ¶ " - keep the same number of ¶.',
+    '    "near-copy of <key>": almost the same as another row - reuse that translation.',
+    '    "listener guessed - check scene": the gender of the listener is a guess.',
+    '    "credits: people’s names stay in Latin".',
+    'key - technical id that links the row to the game files. Never edit it, never delete rows.',
+    '',
+    'Rules',
+    '- Keep "...", "--" and the ending punctuation the same as in the English text.',
+    '- Bracket-only choices like [Ignore] are visible in game: translate inside the brackets, keep the brackets.',
+    '- Use names exactly as in glossary.md, and ти/ви as in analysis/speakers.md.',
+    '- Turn off AutoCorrect if it changes "..." into "…" or "--" into a dash.',
+    '- The Ukrainian column is formatted as Text, so lines starting with -- or = are safe to type.',
+    '- You can sort and filter, but save as .xlsx (not .csv).',
+]
+
+
+def _openpyxl():
+    try:
+        import openpyxl
+        return openpyxl
+    except ImportError:
+        sys.exit('Excel files need the openpyxl package. Install it once with:  python -m pip install openpyxl')
+
+
+def write_table(path, rows):
+    """rows: list of dicts with internal column names."""
+    names = [c[0] for c in TABLE_COLUMNS]
+    if path.lower().endswith('.xlsx'):
+        _openpyxl()
+        from openpyxl import Workbook
+        from openpyxl.styles import Alignment, Font, PatternFill
+        wb = Workbook()
+        ws = wb.active
+        ws.title = 'Translate'
+        ws.append([c[1] for c in TABLE_COLUMNS])
+        wrap = Alignment(wrap_text=True, vertical='top')
+        top = Alignment(vertical='top')
+        yellow = PatternFill('solid', fgColor='FFF2B3')
+        grey = Font(color='999999', size=8)
+        for n, row in enumerate(rows, 1):
+            ws.append([n if c == 'row' else row.get(c, '') for c in names])
+        for idx, (name, title, width) in enumerate(TABLE_COLUMNS, 1):
+            letter = ws.cell(row=1, column=idx).column_letter
+            ws.column_dimensions[letter].width = width
+            ws.cell(row=1, column=idx).font = Font(bold=True)
+        ucol = names.index('ukrainian') + 1
+        for r in ws.iter_rows(min_row=2):
+            for cell in r:
+                cell.alignment = wrap if cell.column in (2, ucol, len(names) - 1) else top
+                if cell.column != 1 and cell.column != names.index('count') + 1:
+                    cell.data_type = 's'           # never a formula, even if text starts with = or --
+            u = r[ucol - 1]
+            u.fill = yellow
+            u.number_format = '@'
+            r[-1].font = grey
+        ws.cell(row=1, column=ucol).fill = yellow
+        ws.freeze_panes = 'C2'
+        ws.auto_filter.ref = ws.dimensions
+        hs = wb.create_sheet('Help')
+        hs.column_dimensions['A'].width = 120
+        for line in HELP:
+            hs.append([line])
+        hs['A1'].font = Font(bold=True, size=14)
+        wb.save(path)
+    else:
+        with open(path, 'w', encoding='utf-8-sig', newline='\r\n') as fh:
+            fh.write('\t'.join(n for n in names if n != 'row') + '\n')
+            for row in rows:
+                fh.write('\t'.join(str(row.get(n, '')) for n in names if n != 'row') + '\n')
+
+
+def read_table(path):
+    """-> list of row dicts with internal column names (from .xlsx or .tsv)."""
+    if path.lower().endswith('.xlsx'):
+        _openpyxl()
+        from openpyxl import load_workbook
+        wb = load_workbook(path, read_only=True, data_only=False)
+        ws = wb['Translate'] if 'Translate' in wb.sheetnames else wb.worksheets[0]
+        it = ws.iter_rows(values_only=True)
+        titles = [str(t or '') for t in next(it)]
+        by_title = {c[1]: c[0] for c in TABLE_COLUMNS}
+        cols = [by_title.get(t, t) for t in titles]
+        rows = []
+        for vals in it:
+            row = {c: ('' if v is None else str(v)) for c, v in zip(cols, vals)}
+            if row.get('key'):
+                rows.append(row)
+        wb.close()
+        return rows
+    with open(path, encoding='utf-8-sig') as fh:
+        header = fh.readline().rstrip('\r\n').split('\t')
+        return [dict(zip(header, line.rstrip('\r\n').split('\t'))) for line in fh if line.strip()]
 
 
 def escape_cell(s):

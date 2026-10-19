@@ -1,13 +1,14 @@
 """Build the translation table: one row per unique text to translate, for all files of both modes.
 
 Usage:
-  python build_tm.py EN_ROOT GENDERS_TSV OUT_TSV
+  python build_tm.py EN_ROOT GENDERS OUT_TABLE
 
   EN_ROOT      folder with the English BM_* and BAT_* folders
-  GENDERS_TSV  analysis/speaker_genders.tsv (speaker_id, gender M/F/?)
-  OUT_TSV      table to write. If it already exists, filled-in "ukrainian" cells are kept (matched by key).
+  GENDERS  analysis/speaker_genders.xlsx (speaker_id, gender M/F/?)
+  OUT_TABLE    table to write: .xlsx (Excel/LibreOffice/Google Sheets, with a Help sheet) or .tsv.
+               If it already exists, filled-in Ukrainian cells are kept (matched by key). Close it in Excel first.
 
-Columns: key, english, ukrainian, speaker_gender, listener_gender, count, speakers, listeners, first_seen, notes
+Columns: #, English, Ukrainian, Speaker gender, Listener gender, Who speaks, To whom, Used, Where, Notes, key
 - Translate only the "ukrainian" column. Leave it empty to keep English.
 - Multi-line texts are joined with " ¶ " - keep exactly the same number of ¶ in the translation.
 - Leading {tags} and [notes] such as [ALT] are NOT in the table; they are put back automatically.
@@ -25,10 +26,8 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from landb_txt import exists, read_records, txt_files  # noqa: E402
-from tm_lib import LINE_SEP, analyze_records, escape_cell, load_genders, loose_text, unescape_cell  # noqa: E402
-
-COLS = ['key', 'english', 'ukrainian', 'speaker_gender', 'listener_gender', 'count', 'speakers', 'listeners',
-        'first_seen', 'notes']
+from tm_lib import (LINE_SEP, analyze_records, check_root, escape_cell, load_genders, loose_text, read_table,  # noqa: E402
+                    unescape_cell, write_table)
 
 
 def file_order(rel):
@@ -40,17 +39,8 @@ def file_order(rel):
     return mode, grp, rel
 
 
-def read_table(path):
-    rows = {}
-    if not exists(path):
-        return rows
-    with open(path, encoding='utf-8-sig') as fh:
-        header = fh.readline().rstrip('\r\n').split('\t')
-        for line in fh:
-            row = dict(zip(header, line.rstrip('\r\n').split('\t')))
-            if row.get('key'):
-                rows[row['key']] = row
-    return rows
+def load_old(path):
+    return {r['key']: r for r in read_table(path)} if exists(path) else {}
 
 
 def main():
@@ -58,8 +48,9 @@ def main():
         sys.exit(__doc__)
     root, gpath, out = sys.argv[1:]
     genders = load_genders(gpath)
-    old = read_table(out)
+    old = load_old(out)
 
+    check_root(txt_files(root), root)
     rows, order = {}, []
     for rel in sorted(txt_files(root), key=file_order):
         recs = read_records(os.path.join(root, rel))[0]
@@ -111,40 +102,41 @@ def main():
     used_old = set()
 
     kept = 0
-    with open(out, 'w', encoding='utf-8-sig', newline='\r\n') as fh:
-        fh.write('\t'.join(COLS) + '\n')
-        for key in order:
-            row = rows[key]
-            if key in old and old[key].get('ukrainian'):
-                row['ukrainian'] = old[key]['ukrainian']
-                used_old.add(key)
-                kept += 1
-            else:
-                h, sg, lg = parts(key)
-                for ok, ov in old_by_hash.get(h, []):
-                    _, osg, olg = parts(ok)
-                    if osg in ('?', '', sg) and olg in ('?', '', lg) or sg in ('?', '') and lg in ('?', ''):
-                        row['ukrainian'] = ov['ukrainian']
-                        row['notes'].append(f'translation taken from {ok} - check gender forms')
-                        used_old.add(ok)
-                        kept += 1
-                        break
-            if row['guessed']:
-                row['notes'].append('listener guessed - check scene')
-            row['speakers'] = ', '.join(s for s, _ in row['speakers'].most_common(4))
-            row['listeners'] = ', '.join(s for s, _ in row['listeners'].most_common(3))
-            row['notes'] = '; '.join(row['notes'])
-            fh.write('\t'.join(str(row[c]) for c in COLS) + '\n')
+    out_rows = []
+    for key in order:
+        row = rows[key]
+        if key in old and old[key].get('ukrainian'):
+            row['ukrainian'] = old[key]['ukrainian']
+            used_old.add(key)
+            kept += 1
+        else:
+            h, sg, lg = parts(key)
+            for ok, ov in old_by_hash.get(h, []):
+                _, osg, olg = parts(ok)
+                if osg in ('?', '', sg) and olg in ('?', '', lg) or sg in ('?', '') and lg in ('?', ''):
+                    row['ukrainian'] = ov['ukrainian']
+                    row['notes'].append(f'translation taken from {ok} - check gender forms')
+                    used_old.add(ok)
+                    kept += 1
+                    break
+        if row['guessed']:
+            row['notes'].append('listener guessed - check scene')
+        row['speakers'] = ', '.join(s for s, _ in row['speakers'].most_common(4))
+        row['listeners'] = ', '.join(s for s, _ in row['listeners'].most_common(3))
+        row['notes'] = '; '.join(row['notes'])
+        out_rows.append(row)
+    try:
+        write_table(out, out_rows)
+    except PermissionError:
+        sys.exit(f'Cannot write {out} - close it in Excel / LibreOffice first.')
     lost = [k for k, v in old.items() if v.get('ukrainian') and k not in rows and k not in used_old]
+    lost_path = re.sub(r'(\.\w+)$', r'.lost\1', out)
     if lost:
-        with open(out + '.lost.tsv', 'w', encoding='utf-8-sig', newline='\r\n') as fh:
-            fh.write('\t'.join(COLS) + '\n')
-            for k in lost:
-                fh.write('\t'.join(old[k].get(c, '') for c in COLS) + '\n')
+        write_table(lost_path, [old[k] for k in lost])
     words = sum(len(unescape_cell(rows[k]['english']).split()) for k in order)
     print(f'{len(order)} rows ({words} English words) -> {out}. Kept {kept} existing translation(s).')
     if lost:
-        print(f'WARNING: {len(lost)} translated row(s) no longer match any text - saved to {out}.lost.tsv')
+        print(f'WARNING: {len(lost)} translated row(s) no longer match any text - saved to {lost_path}')
 
 
 if __name__ == '__main__':

@@ -1,10 +1,10 @@
 # Speakers, gender and ти/ви — Batman S1 (Ukrainian)
 
 Files in `analysis/`:
-- `speaker_genders.tsv` — gender of every speaker ID (M/F/?). **Edit it**, then rebuild the translation table.
+- `speaker_genders.xlsx` — gender of every speaker ID (M/F/?). **Edit it**, then rebuild the translation table.
 - `speaker_stats.tsv` — lines per speaker, and how many need the speaker’s / listener’s gender in Ukrainian.
 - `pairs.tsv` — every speaker → listener pair with line counts and examples.
-- `translation_table.tsv` — one row per unique text to translate.
+- `translation_table.xlsx` — one row per unique text to translate.
 - `scenes/` — read-only views of every file sorted by record number (conversation order).
 
 How the listener is guessed: a `[to Alfred]` note, else a name used in direct address ("Alfred, …"), else the
@@ -14,7 +14,7 @@ from neighbours, so treat it as a strong hint. Choice options are spoken by Bruc
 ## Speakers whose gender is unknown but matters
 
 Number = lines where their gender changes the Ukrainian text. Listen in game, then set M/F in
-`speaker_genders.tsv` and rebuild the table (existing translations are kept, marked "check gender forms"):
+`speaker_genders.xlsx` and rebuild the table (existing translations are kept, marked "check gender forms"):
 
 REPORTER04 (8), REPORTER03 (8), ASSISTANT (28), SPENCER (1), ENFORCER01 (9), ORDERLY02 (8), ORDERLY01 (7), GCPD01 (6), COA01 (3), COA02 (2), COP02 (2), COA03 (2), BOUNCER (2), ORDERLY1 (6), COA04 (3), PROTESTER01 (1), PATRON (1), INMATE02 (1), POLICE OFFICER (2), GCPD02 (3), INMATE03 (1), PROTESTER02 (2), ORDERLY2 (1), RIOTER02 (1), CAFEPATRON2 (1), ATTORNEY (1), DOCTOR (1), ORDERLY 2 (1)
 

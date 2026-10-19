@@ -138,7 +138,7 @@ so every file uses the same form. Speaker IDs in headers and the people in the c
 ## 9. Ukrainian workflow: translation table, context, gender, ти/ви
 
 **Main way to translate: the translation table, not the game files.**
-`analysis/translation_table.tsv` has one row per unique text for both modes: ~44 200 rows, ~373 000 words, built
+`analysis/translation_table.xlsx` (Excel; a Help sheet explains every column; type only in the yellow column) has one row per unique text for both modes: ~44 200 rows, ~373 000 words, built
 from ~185 000 records. Fill only the `ukrainian` column. Then `apply_translations.py` writes all 222 game files and
 validates them. Rules for the table:
 - Leading `{tags}` and `[notes]` (`{AngryA}[pickup][ALT]`) and a trailing `[alt]` are **not** in the table; they are
@@ -164,7 +164,7 @@ Ukrainian form depends on gender:
   listener is guessed (a `[to X]` note, a name used in direct address, or the neighbouring speaker), so check the
   scene when the note says so.
 Values: `M`, `F`, `?` (unknown: decide from the scene). Choice options are spoken by Bruce (M).
-Speaker genders live in `analysis/speaker_genders.tsv`. After editing it, run `build_tm.py` again; existing
+Speaker genders live in `analysis/speaker_genders.xlsx`. After editing it, run `build_tm.py` again; existing
 translations are kept and rows whose gender changed are marked "check gender forms".
 
 **ти/ви.** Decisions per character pair are in `analysis/speakers.md` (suggested values plus line counts; the user
@@ -174,18 +174,22 @@ confirms them). Apply them consistently. Talking to several people is always в�
 neighbouring records are copies. Sorted by record number (the order lines were written), only 1.5% are, and each
 conversation reads together. Branching answers sit next to each other, so it isn't perfectly linear.
 
-## 10. Tools (`scripts/`, Python 3, no dependencies)
+## 10. Tools (`scripts/`, Python 3)
+
+The Excel files (`.xlsx`) need the `openpyxl` package once: `python -m pip install openpyxl`. Everything else
+uses only standard Python. The English files live in `original_data/` (the folder that directly contains the BM_* and
+BAT_* folders); the scripts stop with a clear message if they are pointed at the wrong folder.
 
 Translation table (run from the repo root):
 ```
-python .claude/skills/telltale-batman-localization/scripts/build_tm.py . analysis/speaker_genders.tsv analysis/translation_table.tsv
-python .claude/skills/telltale-batman-localization/scripts/apply_translations.py . analysis/speaker_genders.tsv analysis/translation_table.tsv OUT_FOLDER [--overrides overrides.tsv] [--only BM_]
-python .claude/skills/telltale-batman-localization/scripts/scene_view.py . analysis/scenes
+python .claude/skills/telltale-batman-localization/scripts/build_tm.py original_data analysis/speaker_genders.xlsx analysis/translation_table.xlsx
+python .claude/skills/telltale-batman-localization/scripts/apply_translations.py original_data analysis/speaker_genders.xlsx analysis/translation_table.xlsx OUT_FOLDER [--overrides overrides.tsv] [--only BM_]
+python .claude/skills/telltale-batman-localization/scripts/scene_view.py original_data analysis/scenes
 ```
 `build_tm.py` rebuilds the table and keeps filled translations (unmatched ones are saved to
-`translation_table.tsv.lost.tsv`, never silently dropped). `apply_translations.py` never changes the English files;
+`translation_table.lost.xlsx`, never silently dropped). `apply_translations.py` never changes the English files;
 it writes OUT_FOLDER and validates every file. `scene_view.py` writes the read-only conversation-order views.
-Speaker statistics: `python analysis/tools/speakers.py . analysis/speaker_genders.tsv analysis`, then
+Speaker statistics: `python analysis/tools/speakers.py original_data analysis/speaker_genders.xlsx analysis`, then
 `python analysis/tools/make_speakers_md.py`.
 
 Validate a translation against the English originals (single file or whole folder tree):

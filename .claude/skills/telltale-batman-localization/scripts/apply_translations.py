@@ -1,11 +1,11 @@
 """Put translations from the table back into the game files (both modes), then validate them.
 
 Usage:
-  python apply_translations.py EN_ROOT GENDERS_TSV TABLE_TSV OUT_ROOT [--overrides OVERRIDES_TSV] [--only PREFIX]
+  python apply_translations.py EN_ROOT GENDERS TABLE_TSV OUT_ROOT [--overrides OVERRIDES_TSV] [--only PREFIX]
 
   EN_ROOT        English BM_* and BAT_* folders (never modified)
-  GENDERS_TSV    analysis/speaker_genders.tsv - must be the same file the table was built with
-  TABLE_TSV      table from build_tm.py with the "ukrainian" column (partly) filled
+  GENDERS    analysis/speaker_genders.xlsx - must be the same file the table was built with
+  TABLE          table from build_tm.py (.xlsx or .tsv) with the "Ukrainian" column (partly) filled
   OUT_ROOT       where translated files are written (same folder structure as EN_ROOT)
   --overrides    optional TSV with columns: file, id, ukrainian[, comment]
                  a translation for one specific record (file = path like BM_pc_Batman101_data/x_english.txt),
@@ -23,7 +23,7 @@ import types
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from landb_txt import read_records, txt_files, write_lines  # noqa: E402
-from tm_lib import analyze_records, load_genders, split_line, split_translation  # noqa: E402
+from tm_lib import analyze_records, check_root, load_genders, read_table, split_line, split_translation  # noqa: E402
 import validate  # noqa: E402
 
 
@@ -43,8 +43,9 @@ def main():
     ap.add_argument('--only', default='')
     a = ap.parse_args()
 
+    check_root(txt_files(a.en), a.en)
     genders = load_genders(a.genders)
-    table = {r['key']: r.get('ukrainian', '') for r in read_tsv(a.table) if r.get('key')}
+    table = {r['key']: r.get('ukrainian', '') for r in read_table(a.table) if r.get('key')}
     overrides = {}
     if a.overrides:
         for r in read_tsv(a.overrides):
