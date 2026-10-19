@@ -82,7 +82,8 @@ def write_lines(path, lines):
 def txt_files(root):
     out = []
     for dp, dn, fn in os.walk(root):
-        dn[:] = [d for d in dn if not d.startswith('.')]
+        # skip hidden folders and the analysis/ output (scene views are .txt too)
+        dn[:] = [d for d in dn if not d.startswith('.') and d != 'analysis']
         for f in fn:
             if f.lower().endswith('.txt'):
                 out.append(os.path.relpath(os.path.join(dp, f), root).replace(os.sep, '/'))

@@ -1,0 +1,1770 @@
+﻿speaker	listener	lines	by_note	by_name	by_neighbour	examples_with_you
+HARVEY	BRUCE	6742	40	678	6024	Please keep your questions on topic, people. | Please keep your questions on topic, people. | Hey Bruce, you mind if we swap cars?
+ALFRED	BRUCE	6455	6	471	5978	Bruce! I’ve been trying to reach you. | Bruce! I’ve been trying to reach you. | You need to get back here.
+BRUCE	ALFRED	5265	5	315	4945	You’re right, you’re right. I should’ve canceled the event. | Do you think he’s looking for a handout? | Do you think he might know something about the break in?
+BRUCE	HARVEY	4634	3	501	4130	I think you should check your source. | He came to learn about Harvey Dent, your next mayor. | He came to learn about Harvey Dent, your next mayor.
+SELINA	BRUCE	1938	4	113	1821	You do look... familiar. | Don’t worry about your friend. | I don’t need career advice from you, Mr. Wayne.
+GORDON	BRUCE	1894	6	208	1680	I don’t even want to know where you  got this. | So, you should know this  isn’t a gonna change a thing about the investigation of your fam | Gonna pretend you’re all clear on that now.
+BRUCE/BATMAN (choice)	ALFRED	1633	0	25	1608	Thanks for your help. | You’re right, Alfred. | Don’t make me hurt you.
+BRUCE/BATMAN (choice)	HARVEY	1506	0	31	1475	Don’t struggle, you’ll fall. | I’m trusting you, Harvey. | You sound okay to me.
+BRUCE	SELINA	1253	0	96	1157	Who hired you to break into the Mayor’s office? | So what do you do for a living? | What do you want with Harvey?
+BRUCE	GORDON	1247	0	62	1185	I heard you were the last honest man on the force. | I heard that you... work with the Batman sometimes. | That you two are... friends.
+JOKER	BRUCE	1193	8	120	1065	At least they didn’t scratch that pretty smile of yours. | Yeah, you sure had them quivering in their hospital shoes. | You’re welcome, by the way.
+LUCIUS	BRUCE	1060	0	84	976	I’ve been better. Glad it’s you. | Bruce. Bruce Wayne. What can I do for you? | Bruce, you look-- What happened?
+VICKI	BRUCE	913	0	120	793	You cut off one criminal’s head-- | You drop a bomb like this... there’s going to be fallout-- | You don’t know how much I appreciate it.
+BRUCE	LUCIUS	867	3	65	799	No, Lucius. I need you to stay here. | You’re the one ally I have in this building. It’s important. I need you to be my eyes and  | Come work for me. It won’t be what you have here, but we can’t afford to halt progress on 
+BRUCE	VICKI	865	0	63	802	I’ll protect you. I promise. | If you’re not on the list, you’re not here, I’m sorry. | Very thoughtful of you, but no rescuing required.
+LUCIUS	BATMAN	850	0	9	841	Bruce, are you there? I’m looking at this data Alfred sent me. It’s... messy. | It’s a tough one... But I should have it cracked soon, if you can meet me at Wayne Tower. | It’s a tough one... But I should have it cracked soon, if you can meet me at Wayne Tower.
+HILL	BRUCE	825	2	56	767	As you can see, I’m in the middle of a meeting. | If you want to wait... | Bruce, I’m not sure what you’re talking about.
+GORDON	BATMAN	817	3	53	761	It’s how you got it I’m worried about. | I wish you had waited for us. | After that stung with the mayor, you’re public enemy number one.
+HARVEY	BATMAN	792	0	74	718	Oh, you mean because of this Penguin threat. | You’re joking. Please tell me that you’re joking. | I thought you might feel that way.
+BATMAN	LUCIUS	784	6	50	728	Thank you, Lucius. This is just what I needed. | Grogan respects you. You’re smart. Make him listen. | Lucius, are you there?
+BATMAN	ALFRED	649	13	71	565	You want to hear what I have to say. | Don’t make me add your corpse to this graveyard. | That doesn’t belong to you.
+LADYARKHAM	BATMAN	649	3	30	616	It is time you learned the truth. | Show Gotham your true selves. Tell them your true feelings about the city you pretend to l | Hurry up! I don’t have time to babysit you!  The rest of you, form up!
+OSWALD	BATMAN	637	7	28	602	Come upstairs. I’ll show you the office area. | Happy to answer all your questions. But please, call me Penguin. | Good question! But you’re chasing down the wrong fox.
+BRUCE/BATMAN (choice)	GORDON	635	0	22	613	Won’t Batman protect you? | I’m sure you can handle it. | You’re giving the debate from jail?
+BATMAN	GORDON	608	5	81	522	Good to see you too, Gordon. | You already have one. | You need to mobilize the GCPD and get to the debate.
+ALFRED	BATMAN	585	0	4	581	For once, I’m glad you arrived *after* the heist. | Have you put it together? | Have you located the shooter?
+HARVEY	VICKI	573	0	24	549	Harvey Dent, Gotham’s next mayor and eager to know you. | Well, you can ask me whatever you want at the press conference tomorrow. | Yes, one you weren’t invited to.
+OSWALD	BRUCE	556	2	79	475	Ha, oh hey Bruce, you’ve got a little... | Which brings me to you, Bruce. | When this whole thing starts... make sure you’re on the right side.
+BRUCE	JOKER	549	0	6	543	I... thank you. I appreciate the help. | I saw you. You set this up, didn’t you? | I’m sorry, I don’t think I ever got your name--?
+PENGUIN	BATMAN	501	0	23	478	Apologies, ladies and gents. As you might have guessed, there’s been a change to tonight’s | Rule one! Talk when I say talk. Shut your gob when I say shut your gob. Easy. | If you lie, Penguin will know. He can see into your fibbin’ heart.
+VICKI	BATMAN	498	3	25	470	Why? I mean, why do you do it? | Can I quote you on that? | Do you really think Bruce Wayne is worth protecting?
+VICKI	HARVEY	485	1	7	477	You can’t blame a gal for trying. | You can’t blame a gal for trying. | The anonymous source that gave the Gazette all the information about your parents included
+BATMAN	HARVEY	456	0	94	362	Harvey, you need to listen to me. Stay away from the debate. | What happened? Are you alright? | I don’t care, Harvey -- you need to get out of there!
+LELAND	BRUCE	413	5	83	325	I can show you around some of the facilities you’ll be using. | Give you the lay of the land. | I’m afraid it’s going to be just you and I.
+BATMAN	LADYARKHAM	386	1	2	383	You don’t know me very well. | You have to stay focused. | What do you want from me?
+BATMAN	OSWALD	382	0	43	339	You would have been safer there. | A cop killer like you should have stayed in jail. | Quiet or I’ll break your other arm.
+BRUCE	HILL	379	0	23	356	No, Hill. This problem is all yours. | You and Falcone have been smuggling dangerous drugs into the city. | And you used my company as a cover.
+BRUCE/BATMAN (choice)	VICKI	376	0	10	366	It’s part of your job. | Don’t reveal your identity. | Better, now that you’re here.
+BRUCE/BATMAN (choice)	SELINA	347	0	9	338	You’ll find another client. | What happened to your eye? | What brings you to town?
+BRUCE	OSWALD	334	0	103	231	You didn’t need to take it so far. | That’s very thoughtful of you. | And you know what, I haven’t been mugged once that entire time.
+BATMAN	VICKI	329	1	51	277	This area is dangerous. You shouldn’t be out here alone. | That’s what I need to talk to you about. | What else did they tell you? Anything at all.
+GORDON	HARVEY	314	4	11	299	I understand you were at the Skyline Lounge last night. | We just need to get you on the record and then you can go. | No one is above the law, not the D.A., not Batman and certainly not you.
+CATWOMAN	BRUCE	302	0	15	287	My my, you’re a big one aren’t you? | That might work on your butler, but I’m not buying that crap. Stay there. | This really hasn’t been your week, has it?
+BRUCE/BATMAN (choice)	OSWALD	289	0	19	270	It’s not what you think. | I could give you money. | You want help with Falcone.
+BATMAN	PENGUIN	287	0	11	276	Don’t let the odds get to your head, you’ll make mistakes. | You’re right. The odds are against it. | Keep your heads down. Make for the police line.
+REPORTER01	BRUCE	284	0	66	218	I’m wondering what inspires you to continue giving even after your family has given so muc | So you refuse to comment? | Can I quote you on that?
+HILL	BATMAN	284	1	9	274	Get away, you-- you freak! What d-do you want? | W-what exactly do you want to know? | You’re nothing but a vigilante -- a common thug! I don’t have to answer to you!
+BRUCE	REPORTER01	278	0	0	278	You’re joking, right? | This is obviously a political attack. If I were you I’d question your source. | My father in bed with the mafia? You know who you’re talking about, don’t you?
+BRUCE/BATMAN (choice)	LUCIUS	269	0	5	264	You should’ve stopped this! | Thank you for trying. | I’ll take care of you.
+HARVEY	GORDON	244	1	16	227	I’ve been arrested and I, well, I need you to bail me out. | Before you judge... you will never guess how I got here. | But, hey, atleast you’re taking my calls.
+HARVEY	ALFRED	240	2	3	235	Maybe he can change your mind. | I know you’re in shock. | We’re going to change this city for the better. You and me.
+HARVEY	SELINA	232	0	14	218	No, no. Just glad you made it. | I should’ve called you a car. | We should just be thankful you got away with a black-eye.
+BRUCE	LELAND	226	2	17	207	You have to keep this to yourself, Doctor. | It’s uh... nice to meet you, Dr. Leland. | Well, it doesn’t help when your guard is taking bribes from the inmates.
+ALFRED	HARVEY	214	0	12	202	You need to get back here. | Ms. Vale noticed your injuries. So did Mr. Dent. | You need to focus on present problems.
+BRUCE/BATMAN (choice)	JOKER	213	0	0	213	You’re probably right. | How do you know her name!? | Leave and I break you.
+BATMAN	HILL	212	0	21	191	What did you do to them? | How do you know them? | Why are they targeting you!?
+SELINA	HARVEY	204	1	24	179	Don’t worry. I’m not going to expose you... yet. | You’re an excellent tour guide, Harv. | And I thought you were on some noble crusade against crime.
+REGINA	BRUCE	184	0	61	123	Good morning, Bruce. We’ve prepared a brief damage control statement for you. | And please, Bruce. Try to be on your best behavior. | Thank you for being so cooperative about all this, Bruce. It really is for the best...
+BRUCE/BATMAN (choice)	HILL	182	0	2	180	You can’t hide from me! | Falcone’s dead. You’re scared. | You’re trying to change the subject.
+CATWOMAN	BATMAN	171	0	12	159	Gotta admit it though--you give a good chase. | One day you might actually catch me. | But that’s what you crave--the struggle.
+BRUCE	REPORTER02	167	0	0	167	This new facility can help you. | This is obviously a political attack. If I were you I’d question your source. | My father in bed with the mafia? You know who you’re talking about, don’t you?
+MONTOYA	BATMAN	164	5	10	149	You have the right to remain silent. | Who? Who tried to kill you? | If you say another word, I will shoot you.
+FALCONE	BRUCE	162	0	7	155	So am I. So are you. We all carry this city on our broken backs. | That’s why I came here tonight, to your lovely home, hoping to make a new friend. | I saw plenty of skirts to keep you busy for a few minutes.
+BATMANBRUCE	LUCIUS	160	0	10	150	You could’ve told him about R & D wing. | I just wanted to see if you had any theories. | I see. You were just looking out for me.
+REPORTER02	BRUCE	159	0	14	145	Hey Bruce, you think you could sign something for me? | Well, technically, you’d be co-signing. | James Allen, Random Lengths. You think you could sign something for me, Bruce?
+REPORTER01	HARVEY	156	0	20	136	You never stop campaigning eh Harvey? | You oughta think about politics an answer like that. | Someone from your office.
+BRUCE	CATWOMAN	155	0	0	155	Sometimes... you need a monster. | It’s a pleasure to meet you. | You... look familar. Have we met?
+REPORTER03	BRUCE	149	0	26	123	You never stop campaigning eh Harvey? | So you refuse to comment? | Can I quote you on that?
+HARVEY	COUNCILWOMAN	149	0	0	149	Please keep your questions on topic, people. | You don’t seem to be sweating it of course. | Must have set you back some coin.
+HARVEY	REPORTER01	144	0	0	144	Seriously guys. Call it naive if you will, but if being naive means a healthier and safer  | Either you’ve been demoted or someone tipped you off. | You get in any trouble, call on Barry, he’s a friend.
+BRUCE/BATMAN (choice)	CATWOMAN	143	0	13	130	Don’t struggle, you’ll fall. | You can’t escape this. | I’m putting my faith in you.
+BRUCE/BATMAN (choice)	LADYARKHAM	138	0	4	134	You should ask Gordon. | Because you want to destroy it. | You’re hiding behind a mask!
+REPORTER04	BRUCE	137	0	26	111	One on your left. Your other left. | Did you know about this, Bruce? | Did you know about this, Bruce?
+BRUCE	REPORTER04	135	0	0	135	You better have something to back it up. | You’re joking, right? | My father in bed with the mafia? You know who you’re talking about, don’t you?
+BRUCE/BATMAN (choice)	REPORTER01	134	0	0	134	You have to be joking. | I’d check your sources | This is for my legacy, not for you.
+BATMAN	MONTOYA	133	0	6	127	You’re making a mistake, Detective. | You want to hear what I have to say. | It will when you hear what I have to say.
+LADYARKHAM	CATWOMAN	128	1	3	124	Tell the people of Gotham how you really feel! | Show Gotham your true selves! Tell them what you really think about the city you pretend t | We are here to open your eyes.
+BATMAN	CATWOMAN	125	0	2	123	Who put you up to this? | Don’t struggle or you’ll fall. | You broke the law. Here I am.
+MONTOYA	BRUCE	125	0	11	114	I just wanted to say, some of us police support you. Despite what the media is saying. | Your family made a difference in my life. Forget about the mud people sling. | Doc, we just need your help making sure Gordon’s okay.
+BRUCE	REPORTER03	120	0	0	120	Okay, okay, pretty sure you have enough photos, guys. | Hey, text that one to me, will you? | It’s obviously a political attack. If I were you I’d question your source.
+BRUCE/BATMAN (choice)	MONTOYA	117	0	4	113	I know you can do it. | I need you to trust me. | I know you can do it.
+GORDON	MONTOYA	117	0	16	101	What did you do to him? | You wanna tell me what the hell this is all about? | How do you know that?
+BATMAN	BOY	114	0	0	114	What are you doing in here? | It’s okay.. I’m not going to hurt you. | Well hi there. Didn’t expect to find you in here.
+OSWALD	REGINA	113	1	5	107	Yes... if not for your own good, at least for your parents’ sake. | Bruce, what’s your opinion of the shiner? Regina wanted me to cover it up with makeup. She | Soon enough, it’ll be “Cobblepot Industries,“ “Cobblepot Medical” and “Cobblepot Tech” on 
+CATWOMAN	LADYARKHAM	112	1	0	111	Smart. Let someone else do your dirty work. | You know what I want. | You know what I want.
+MONTOYA	GORDON	111	1	16	94	Now put up your hands! Don’t move! | We’re bringing you in, you son of a bitch. | Let’s get into that later. What exactly do you remember?
+REGINA	OSWALD	108	0	16	92	After that, you can you can hand it over to Oswald- | This current situation is not how Gotham should remember your parents, not after all they  | Right now, your family’s reputation-- the entire Wayne legacy-- depends on your cooperatio
+BRUCE	MONTOYA	102	2	9	91	You’re definitely in a minority. | You can’t believe everything you read in the paper. | I’ll be in and out before you know it.
+BATMAN	CHEMTHUG	101	0	0	101	You didn’t do this alone. | I did what you couldn’t. | You’re making a mistake, Detective.
+BRUCE	BATMAN	101	0	9	92	You need to mobilize the GCPD. | You need to mobilize the GCPD. | You need to mobilize the GCPD.
+BRUCE	FALCONE	100	0	32	68	Well, you couldn’t afford it. | Well I would say you can uphold the law and still do what’s right. | Look, I’m only talking to you because Harvey asked.
+BRUCE	REGINA	100	0	12	88	I haven’t had a say in any of this, and you expect me to cooperate? I won’t do it. | You’re right, this is my legacy--and the only reason I’m putting up with this charade. | Yeah, it shows off just how delightfully punchable that face of yours really is.
+COUNCILWOMAN	HARVEY	99	0	0	99	We dedicate this facility to Martha and Thomas Wayne and I ask for your observance of a mo | We dedicate this facility to Martha and Thomas Wayne and I ask for your observance of a mo | We dedicate this facility to Martha and Thomas Wayne and I ask for your observance of a mo
+JOKER	LELAND	96	0	3	93	Look at you! Got up all by yourself! | Let’s get you off the floor. Hmm? | You know where I think the term ‘basketcase’ comes from?
+BRUCE/BATMAN (choice)	REPORTER02	90	0	0	90	Did Harvey put you up to this? | This new facility can help you. | Did Harvey put you up to this?
+RHONDA	BRUCE	88	0	0	88	You got it, James Bond. | While you still have your wallet, what can I get you? | I don’t know if you noticed, but this isn’t a very happy place.
+CHEMTHUG	BATMAN	87	0	0	87	You, you can’t make me talk. | What are you waiting for?! | I ain’t tellin’ you jack.
+SPENCER	BRUCE	86	0	13	73	This morning, the Globe received evidence of an off-shore bank account managed by Carmine  | Is all your money dirty? | Well, you’ll hear about it on the news just like everyone else in Gotham.
+ASSISTANT	BRUCE	85	1	13	71	I’m sorry, the mayor’s busy. Do you have an appointment? | I will if you’ll wait- | I’m sorry, the mayor’s busy. Do you have an appointment?
+BOY	BATMAN	85	0	0	85	Are you... Are you friends with her? | Thank you. For saving me, I mean. | I.. I heard you out there and I was scared you were friends with her.
+LELAND	JOKER	84	0	7	77	He the one that saved your life. | It’s because of my negligence that you were attacked in the first place. | Even you have to see that your recent actions have been cause for concern.
+GORDON	ALFRED	83	0	0	83	You know, as much as I appreciate you callin’ me here, I gotta make one thing crystal... | You’ll know me when you see me. | Meet me at the Pier 36 in fifteen minutes and bring your friend Dent.
+PENGUIN	OSWALD	83	0	0	83	Remember when I told you that we wanted the same things? | Let’s see how you like these raptors. | Something you would know nothing about.
+LUCIUS	ALFRED	82	0	3	79	Where did you this one? | You knew that when you asked me to come with you. | Besides, if I wasn’t here -- I couldn’t give you this.
+BRUCE/BATMAN (choice)	LELAND	81	0	10	71	You’ll regret this, Doctor. | Focus on your real patients. | You should stay here.
+REPORTER04	REPORTER01	80	0	0	80	One on your left. Your other left. | Earlier this morning the Standard came into possession of evidence suggesting a fifteen ye | know you don’t comment on rumors, but...
+OSWALD	PENGUIN	79	0	2	77	Oh please. The Cobblepot name means nothing in this city anymore. If I have to call you Ba | Oh please. The Cobblepot name means nothing in this city anymore. If I have to call you Ba | Why can’t you just give into it like the rest of us?
+ALFRED	LUCIUS	79	0	1	78	Do you think he’ll be okay? | I wish you would show more sensitivity. | These are trying times. You need to keep your inner circle small if you want to survive.
+ALFRED	GORDON	78	0	0	78	Though, you’re not dressed for that kind of party. | I know you don’t like to talk about it, but you were the only witness. | Young Mr. Cobblepot has definitely escalated his criminal endeavours.
+RHONDA	SELINA	77	8	15	54	While you still have your wallet, what can I get you? | Where did you find this one, Selina? | Just watch out for this one. She’ll take you for whatever you’ve got.
+OSWALD	GORDON	75	0	1	74	You’re the one who’s corrupt and criminally insane! | Funny - I never thought you’d be the type to go quietly. | Oh you bloody pigs! How’s this for an answer!?
+BRUCE	SPENCER	73	0	0	73	Are you accusing my family of corruption? | What exactly are you implying? | You want to find out?
+BRUCE	RHONDA	73	0	0	73	If you count all my off-shore accounts. | Where are you going to go? | If you count all my off-shore accounts.
+JOKER	ZSASZ	69	0	5	64	Wow Bruce. Can’t even own up to your little prank. | Wow Bruce. Can’t even own up to your little prank. | Wow Bruce. Can’t even own up to your little prank.
+BRUCE/BATMAN (choice)	REPORTER04	68	0	0	68	You have to be joking. | You have to be joking. | You have to be joking.
+HARVEY	REPORTER03	68	0	0	68	I see you. I see you. | Either you’ve been demoted or someone tipped you off. | I’m not taking any questions today...this is Bruce’s thing. If you have questions you can 
+BATMANBRUCE	ALFRED	67	0	5	62	I just wanted to see if you had any theories. | At least I had you to raise me.  I don’t know what I would have done without you. | How can you be so sure he hasn’t found.. everything else?
+BRUCE/BATMAN (choice)	PENGUIN	67	0	11	56	At least I’m on your side. | You’re finished, Penguin. | You need to be strong
+BRUCE/BATMAN (choice)	FALCONE	65	0	21	44	You’ve lost, Falcone! | I’d never sell to you. | I say you can do both.
+REPORTER01	REPORTER04	64	0	0	64	My sources say that you welcomed Carmine Falcone into your home. | You even shook his hand. | I know you don’t comment on rumors, but...
+LADYARKHAM	BRUCE	63	0	0	63	Choose your leaders wisely. | You have nothing to fear. | Just what your family did to their rivals.
+SELINA	ALFRED	62	0	0	62	Heard you walking up. | Heard you walking up. | People look up to big, strong Batman after how you handled Falcone.
+ALFRED	LELAND	62	0	5	57	You need to listen to me right now. | You can depend on me. | There would be no where for you to hide.
+RYDER	BRUCE	61	0	4	57	Two more patients have gone missing from Arkham Asylum, bringing the total number of escap | Or will it be perceived as a desperate attempt from a flailing campaign to take down one o | But you saved far more than my life today.
+SELINA	RHONDA	61	0	0	61	If I were you, I’d sue whoever was running that story. | What? People richer and more handsome than you? | First your sorry for giving me a black eye.
+LELAND	ALFRED	61	1	8	52	Hope you’re ready for your first day in Arkham. | As a new patient you need to get familiar with the facilities and the rules. | Ah. You’re going to be one of THOSE patients.
+BATMAN	BRUCE	59	0	1	58	But you have to trust me. | But you have to trust me. | But you have to trust me.
+ALFRED	SELINA	58	0	13	45	I believe you had a similar reaction to Ms. Kyle. | I believe you had a similar reaction to Ms. Kyle. | I believe you had a similar reaction to Ms. Kyle.
+HARVEY	REPORTER02	57	0	0	57	Um... yes, you there-- | So he’ll comment about the hospital. What’s the matter with you? | God, what’s the matter with you?
+REPORTER03	HARVEY	57	0	0	57	Hey, the public loves you. | Someone from your office. | You oughta think about politics an answer like that.
+GORDON	OSWALD	55	0	2	53	Oswald, thank you. Now get behind the barricade, go! | No matter how much you want revenge for Commissioner Grogan. | Didn’t know you had that in you, Mr Wayne.
+REPORTER02	HARVEY	53	0	0	53	Do you remember Falcone or any of his associates being at Wayne Manor? | So you refuse to comment? | You might want to hold your thanks.
+BRUCE/BATMAN (choice)	REGINA	51	0	2	49	I know about your secret. | The Children gave you this. | I know what you really are.
+BRUCE	ASSISTANT	51	0	0	51	Nope. So you better tell him I’m coming. | Nope. So you better tell him I’m coming. | Will be fine. And if he fires you, just come work for me.
+VICKI	ALFRED	50	6	0	44	But you’re a Wayne, you could’ve given it to anyone. | Did you see the pictures? Everyone’s up in arms about what the Batman did to Falcone. | I’ve been waiting for you...
+BRUCE/BATMAN (choice)	CHEMTHUG	50	0	0	50	You didn’t do this alone. | Talk and I’ll spare you. | Why aren’t you in jail?
+REPORTER04	HARVEY	49	0	0	49	Can I quote you on that? | You and Harvey even spoke with him behind closed doors. | I know you thought it was absurd, but...
+BRUCE/BATMAN (choice)	BOY	49	0	0	49	I asked you a question. | Tell me what you saw. | I’m sorry I scared you.
+LADYARKHAM	LUCIUS	49	0	0	49	You think I believe your false empathy even for a second? | But your kind of justice would be a jail cell. | I want nothing from you.
+FALCONE	HARVEY	48	0	1	47	You’re a respectable man, I hear. | You’ll be fine out there, Harvey. | A nice guy like you should have a nice place to live.
+TONY	SELINA	48	0	7	41	I didn’t figure you for a gold-digger, Selina. | I turn around for five fucking minutes and you’ve already got your claws into -- | Oh, but it is your problem, Selina.
+BRUCE	LADYARKHAM	47	0	6	41	Why don’t you ask the Lieutenant? | What -- what did you do to me? | How, how did you get get in here?
+ZSASZ	JOKER	47	0	3	44	Alright. Which one of you stinking limp-dicks did that? | You better watch yourself. Don’t know if you heard, but patients aren’t supposed to mess w | So. Mr. Rich Guy.  You think what you did is funny?
+ENFORCERCOLLEEN	ENFORCERLUKE	47	0	0	47	You know this is a lot higher profile than “usual,“ right? Maybe we should check to make s | It is a big deal-! This is wrong- and you know it-! | -it isn’t just about you.  The Mayor is making the hard choices necessary to fix this city
+PENGUIN	LUCIUS	46	0	6	40	I thought you were a hero. | But I guess you’re just a hypocrite. | You make these, Mr. Fox?
+FALCONE	BATMAN	45	0	0	45	You got a lot to learn, kid. | You got a lot to learn, kid. | And a masked monster like you is not gonna stop me.
+MONTOYA	HARVEY	45	1	1	43	They’re waiting for you in hell!! | You’re not getting away with it! Not this time! | You... searched me. While I was asleep.
+ENFORCERLUKE	ENFORCERCOLLEEN	45	0	0	45	No- lock it down. Dent gave us orders- and WE are following them, you got me? | If you’re gonna make chage, you have to take drastic steps. | You wouldn’t understand.
+BRUCE	RYDER	44	0	0	44	Well, I’ll tell you, my tech has come a long way, but Bruce Wayne and Batman still can’t b | You can write me an IOU. | I hope you remember that the next time you’re on air.
+GORDON	GCPD01	44	0	0	44	I want Penguin alive, so keep yourselves in check -- | You-- you just hang in there. | We’re getting you help, Sergeant.
+HILL	ALFRED	44	0	0	44	Deborah, you incompetent! Where in hell are those files on mental health? Dent’s up in the | Get away, you-- you freak! What on earth d-do you want? | Deborah, you incompetent! Where in hell are those files on mental health? Dent’s up in the
+HARVEY	REPORTER04	44	0	0	44	You know where that comes from don’t you? | You and I are going to have words. We’re not here to speculate about unsubstantiated newsr | So he’ll comment about the hospital. What’s the matter with you?
+ALFRED	FAIRCHILD	43	0	0	43	I doubt she’d be tender towards your father’s killer. | No offense intended toward your recent time there, of course. | You sacrificed your identity for my safety.
+FAIRCHILD	ALFRED	42	0	0	42	We are now on day three of the factory fire that will not end. Crews have given up trying 
+LADYARKHAM	VICKI	42	0	0	42	You can’t. I’m not even here. | But you knew that already. | You’re never getting out of here.
+GCPD01	GORDON	41	0	2	39	You need to come see this, Sir. | You need to come see this, Sir. | You need to come see this, Sir.
+ALFRED	<<ID	40	0	0	40	This isn’t the first conspiracy theory about the death of your parents and it won’t be the | Ah, yes. Another young lady for you to *help.* | Leave the past where it belongs... behind you...
+HILL	GCPD01	40	0	0	40	You don’t have to help me. Hell, I know you were just a kid when most of this happened. | As you can see, I’ve got my hands full at the moment. | We can break for now. I’ll contact you with any follow-ups after the debate.
+HARVEY	FALCONE	39	0	4	35	Bruce has been looking forward to meeting you. | Mr. Falcone, glad you could swing by. | You should know, Mr. Falcone, my analysts say we’re raising triple what Mayor Hill has--
+CATWOMAN	HARVEY	39	0	7	32	Whose voice is that? I thought your father was dead.. | Now aren’t you glad I’m here? | Now aren’t you glad I’m here?
+GORDON	ENFORCERCOLLEEN	39	0	0	39	You mean getting in the way of blowing up a city block?! The Mayor’s lost his mind! | You’re supposed to uphold the law! Protect the people! | Dent’s got you brainwashed.
+ALFRED	OSWALD	38	0	15	23	How certain are you that Oswald’s involved? | Very good, sir. And will you be meeting them? | Very good, sir. And will you be meeting them?
+HARVEY	MONTOYA	38	0	2	36	Getting you in to see Falcone like this -- I don’t have to tell you how many rules we’re b | Getting you in to see Falcone like this -- I don’t have to tell you how many rules we’re b | Don’t get me wrong. I’m always here for you.
+BRUCE/BATMAN (choice)	COUNCILWOMAN	37	0	0	37	This is about the hospital, not you. | This is about the hospital, not you. | This is about the hospital, not you.
+ALFRED	VICKI	37	0	5	32	Though, you’re not dressed for that kind of party. | That Gotham Gazette reporter, Ms. Vale, already offered you her support. | When your parents died, they left me as caretaker... of their estate... their son... and t
+ALFRED	HILL	37	0	6	31	Your father, Hill, and Falcone would have balanced each other out. | Your father. Carmine Falcone. Mayor Hill. | ...the whole city is already afraid of the Batman after what you did to Falcone.
+BATMANBRUCE	BRUCE	37	0	0	37	You’re not authorized to make decisions like that. | Ask me before you do anything like that again. | I need you to keep this all up and running. Without you -- there is no Batcave.
+TONY	BRUCE	37	0	1	36	No wonder you didn’t call me back. | Hey, Wayne. You’re in my seat. | What the fuck are you doing in my bar?
+COUNCILWOMAN	BRUCE	36	0	0	36	It is my honor and privelage to introduce to you the next Mayor of Gotham, District Attorn | We dedicate this facility to Martha and Thomas Wayne and I ask for your observance of a mo | But I bet you won’t get an answer.
+BRUCE/BATMAN (choice)	REPORTER03	36	0	0	36	Is that what you really think? | Is that what you really think? | Is that what you really think?
+ASSISTANT	HARVEY	36	0	7	29	No, no! I thought you looked great, Mister Dent! | It’s... it’s okay, Mister Dent. Maybe you should head home early. | Mr. Dent! What did you do to him?
+ZSASZ	BRUCE	36	0	1	35	What’re you two talking about anyway? | The goddamn stones on you, man. Coming in here, not knowing any of the ropes, and that’s h | “Prank?“ If you’re gonna do that kind of schoolyard crap at least ‘fess up when you’re cau
+BRUCE	ENFORCERLUKE	36	0	0	36	You’ll do the right thing- I have faith in humanity and decency- | You two do *not* want to do this. | And you’ve got to be crazier than him to be following his orders-
+BRUCE	ENFORCERCOLLEEN	35	0	0	35	This is exactly what the Children of Arkham wants you to do- bri | You know what Batman’s going to do, right? If you go through with this? | Why aren’t you shooting? Don’t you always follow orders?
+ENFORCERCOLLEEN	BRUCE	35	0	2	33	-it isn’t just about you.  The Mayor is making the hard choices necessary to fix this city | Mayor Dent ordered us to kill you. For the good of Gotham, he said. | Mayor Dent ordered us to kill you. For the good of Gotham, he said.
+PENGUIN	HARVEY	34	0	8	26	And in the right -- a man whose always smiling to your face - our despicable District Atto | I can tell by your applause you feel sooo much love for these two gentlemen. | I can tell by your applause you feel sooo much love for these two gents.
+HARVEY	ASSISTANT	34	0	0	34	No, no. I’m fine. Can you connect me to that cell number I gave you? | It’s just been rough. With the Mayor’s Seat and these Children of Arkham... well, that’s n | No, I told you it’s fine!
+ORDERLY01	BRUCE	34	0	6	28	Nobody’s coming for you, Wayne. | I can always tell the ones who belong here -- and you’re one of them. | I can always tell the ones who belong here -- and you’re one of them.
+ORDERLY02	BRUCE	34	0	6	28	Well, then you and I are gonna have a problem.  And that’s a bigger problem for you than i | Well, then you and I are gonna have a problem.  And that’s a bigger problem for you than i | Why don’t you get familiar with the other inmates, Mr. Wayne.
+ENFORCERLUKE	BRUCE	34	0	3	31	You and the Dalai Lama- | Is that right?  We’re *you* the one recently in Arkham Asylum? | You and the Dalai Lama-
+ENFORCERCOLLEEN	GORDON	34	0	0	34	Sometimes you have to start from scratch!
+ENFORCER01	BRUCE	34	2	0	32	Tell you what, Mr. W... | You’re a guy used to putting your money to good use-whose time is valuable- | For a small toll fee, I can move you right into the express lane-
+BATMAN	FALCONE	33	0	9	24	I found your calling card at the docks. | Answers! Now! Or you fall. | Spare yourself the pain, old man.
+HARVEY	CATWOMAN	33	0	0	33	You really want to hear what I think? | You really want to hear what I think? | You and me Bruce. Together, we change this city.
+LUCIUS	LADYARKHAM	32	0	1	31	I’d say be careful, but you’re Batman | Until they arrive-- you should see if you can find Alfred. | Wait. You’re coming back, aren’t you?
+FALCONE	GORDON	31	0	0	31	I figured you finally worked it out. You and me, we’re practically blood. | Still, took half the media to bust a gut before you got a clue. | How much of your old man is in you?
+BRUCE	TONY	31	0	0	31	You gonna help me with this guy? | You’ve got the wrong guy? | Take your hand off her.
+SPENCER	ALFRED	31	0	0	31	You didn’t answer the question! | This isn’t just going to go away -- no matter how hard you try to ignore it. | Inside sources say that you also viciously attacked another inmate.
+HARVEY	ENFORCER01	31	0	0	31	I guess that little stay in Arkham helped you after all. | Glad to see you’ve got that rage of yours under control. | I guess that little stay in Arkham helped you after all.
+BRUCE/BATMAN (choice)	SPENCER	30	0	0	30	Are you accusing my family of corruption? | I doubt your “evidence”.
+SELINA	TONY	30	0	0	30	You’re making a fool out of yourself, Tony. | You’re the hero -- not me. | God. My reputation in this town is almost as bad as yours.
+BRUCE	QUINZEL	30	0	0	30	I know you told me to stay out of trouble -- but I couldn’t. | You know what would be really theraputic? | But I still managed to stay out of trouble -- just like you told me to do.
+ALFRED	SPENCER	30	0	0	30	I’m the one who’s getting you out. | That doesn’t sound like you. | You’ve never been one to stand idly by, sir.
+OSWALD	BLOCKBUSTER	29	0	0	29	Since so many people in this city prefer nicknames, you should call me Penguin. | The cause could use a scary bloke like you. | You can think about it if you like.
+RYDER	HARVEY	29	0	0	29	But you saved far more than my life. | We can never repay you. | I-- I owe you so much.
+QUINZEL	BRUCE	29	0	4	25	It’s the patients that had to be protected from you! | I am not. I’m trying to help you. | I am not. I’m trying to help you.
+LELAND	NURSE	29	0	0	29	Hm. I think I’d prefer you focus on “getting well.“ | I don’t know whether this denial is for your benefit or mine, but it’s definitely somethin | I’m sure that must be frightening, but it’s very helpful to know. Thank you Bruce.
+OSWALD	ALFRED	28	0	0	28	-- And don’t you go making -- or I’ll ---  Alright? | I’d hate to see you turn into another costumed disappointment like that Catwoman. | Well, well. I’ve heard you’re nobody in this town until you’ve gotten a personal visit fro
+BRUCE/BATMAN (choice)	ASSISTANT	28	0	0	28	You’re a back-stabber! | You’re a back-stabber! | Congrats on your speech.
+LADYARKHAM	ALFRED	28	0	2	26	Hurry up! I don’t have time to babysit you!  The rest of you, form up! | You can’t protect Gotham from itself. | You can’t protect Gotham from itself.
+HARVEY	RYDER	28	0	0	28	Neither can I, but it might be good for both of us. To... you know. | No matter what lies you try and peddle me. | He was a fool for believing in you!!!
+LUCIUS	OSWALD	28	0	6	22	You’re right... this isn’t over. | I’m putting my life on the life for you here. | If you don’t detonate the servers simultaneously -- a backup copy of the system will be up
+BRUCE/BATMAN (choice)	FAIRCHILD	27	0	0	27	You can’t say that and then not respond! | You’ll be the death of me.
+NURSE	LELAND	27	0	0	27	I can’t wait to tell Vicki that I saw you here. | Vicki sure did a bang up job on you. | Just look at yourself.
+GORDON	CATWOMAN	26	0	1	25	I’ll try and give you as much time as possible. | Listen… I value what you’ve done for the city. | I just had the Mayor in my ear about your... visit. And after what you did to Falcone --
+GCPD01	HILL	26	0	0	26	You’re starting to create a bad reputation. | A lot of people on the force think Gordon’s covering for you. | You’re starting to create a bad reputation.
+ALFRED	LADYARKHAM	26	0	6	20	You’d better get down there. | That’s their leader. You’d better get down there. | He’s going to put a stop to you.
+BOUNCER	BRUCE	25	1	2	22	I’m not an idiot. I know who you are, Mr. Wayne. | And I also know you’re not a regular. | Why don’t you take your chances else where. This deck is full.
+ENFORCER01	HARVEY	25	0	0	25	Aw man, but ...that blast was way bigger than you said. We must have taken out a whole cit | Aw man, but ...that blast was way bigger than you said. We must have taken out a whole cit | Security checkpoint, sir. Looking for weapons, drugs, you know-
+OPERATOR	HARVEY	24	0	0	24	Do you accept the charges? | Do you accept the charges? | Do you accept the charges?
+OPERATOR	BRUCE	24	0	0	24	You have a collect call from-- | You have a collect call from-- | Do you accept the charges?
+BRUCE/BATMAN (choice)	COA01	24	0	0	24	I don’t care about your pain. | What do you hope to achieve here? | You need to face justice.
+VICKI	REPORTER01	24	0	0	24	Looks like your lucky day Bruce. | There are so many worthy ways to spend your money. | Looks like your lucky day Bruce.
+PATIENTTABOR	BRUCE	24	0	0	24	Please, what do YOU know about being angry? | Screw you.  What do you know about art! | Screw you.  What do you know about art!
+CATWOMAN	GORDON	23	0	2	21	Guess I was wrong about you catching me. | Not sure if it was for my sake... or yours. | Took you long enough. I was getting bored.
+BOB	BRUCE	23	0	1	22	Your name is your legacy. | You have our support. | A tragedy like that, at such a young age, must have been crippling.
+RYDER	GORDON	23	0	0	23	You can’t be in here. You -- | You can’t do this, you- !
+BUTCHIE	BRUCE	23	0	4	19	You aren’t her type, Mr. Wayne. | Best try your luck elsewhere. | I’m not an idiot. I know who you are, Mr. Wayne.
+BRUCE	ORDERLY01	23	0	0	23	What did you just say? | What did you just say? | You’ve got me mixed up with somebody else.
+OSWALD	LUCIUS	23	0	0	23	Few more minutes... All your secrets are mine. | You absolute, bastard! | That’s alright, you don’t got to say anything.
+JOKER	HARVEY	23	0	0	23	This isn’t going to be any fun if you just sit there. | I thought you and the Mayor were friends? | Ya missed me? I missed you.
+BRUCE	COUNCILWOMAN	22	0	0	22	You know, when I was nine years old, my parents took me to see a movie about a hero in a m | I think you should check your source.
+BRUCE/BATMAN (choice)	RYDER	22	0	0	22	I think you know best.
+BRUCE	BOB	22	0	0	22	Well thank you, we’re all here tonight because we want to make a difference. | I have to say I side with your wife on this, Mr. Zellerbach. | Sometimes you need a person who will go off script.
+OSWALD	CONTRACTOR	22	0	0	22	Warren, forget Rocko! I’ve got something else for you. | You’re lucky I don’t toss you out this hole! | Warren, forget Rocko! I’ve got something else for you.
+COP01	BRUCE	22	0	0	22	-or I’ll put you right back to sleep. | Now you’re going to die just like dear ol’ mom and dad- | I shoulda known you’d be soft.
+PENGUIN	HILL	21	0	3	18	Where’s Bruce Wayne? Your biggest supporter, and he didn’t even turn up for the show. | You’ll have to answer for his crimes instead. | You could never  do enough--
+PENGUIN	CATWOMAN	21	0	0	21	And in the right -- a man whose always smiling to your face - our despicable District Atto | I can tell by your applause you feel sooo much love for these two gentlemen. | Rule three! Always, always tell the truth. Even if it hurts. It’ll hurt worse if you don’t
+ARNOLD	BRUCE	21	0	0	21	Socko says he’d like to cheer you up. Says you don’t look so good. Do you want him to sing | Fine. He didn’t want to sing for you anyway. | What’s that, Socko? You’d rather kill him instead?
+BRUCE	ZSASZ	21	0	0	21	Didn’t want it to spray all over you. | You got a problem Zsasz? | So what’s your style?
+BRUCE	ENFORCER01	21	0	0	21	Officer, while I have you here, can I make a donation to the Police Officers’ Fund? | Search all you like, the car’s clean- | You know, he’s a personal friend of mine-
+PENGUIN	BOB	21	0	0	21	I won’t -- as long as you’re honest with me. | Now is just as good of time as any for you. | Now, let’s see how well they smash your face.
+FAIRCHILD	BRUCE	20	0	0	20	
+GORDON	FALCONE	20	0	1	19	Arms up. Gotta pat you down. | Alright... you got ten minutes and ten minutes only. | I hope you find out what you need to know.
+FALCONE	ALFRED	20	0	0	20	You can’t sneak up on me... | Get your goddamn hands off of my suit! | Do you know who my lawyers... my lawyers are?!
+VICKI	LADYARKHAM	20	0	0	20	I heard you were asking about me -- so I came by. | Oh, cute. You actually think you’ll find my... little present. | All of this fancy equipment... bought with money your father stole...
+BLOCKBUSTER	OSWALD	20	3	0	17	What are you doing? Keep up! | What are you doing? Keep up! | Shut it, shitbird, or I toss you out the window.
+COP02	BATMAN	20	0	0	20	Guess the fella’s lucky Dent got to him before you did, huh? | You don’t kill, but... | Sometimes you do worse, don’t you?
+COUNCILWOMAN	VICKI	20	0	0	20	And you should ask Mayor Hill why he hasn’t already condemned Arkham Asylum, which we all  | And you should ask Mayor Hill why he hasn’t already condemned Arkham Asylum, which we all  | And you should ask Mayor Hill why he hasn’t already condemned Arkham Asylum, which we all 
+ENFORCERCOLLEEN	BATMAN	20	0	2	18	
+LUCIUS	PENGUIN	20	0	0	20	If you get a chance, stop by my office. LUCIUS | You’re going to have to take the entire system down. | Now you can deal with Cobblepot man-to-man.
+SARA	BRUCE	19	0	0	19	Of course. Anything you need. | You have to move quick.
+PATRON	BRUCE	19	1	0	18	Wait a minute! I know you! | It looks like it found you. | You got some nerve coming in here---
+COA02	BATMAN	19	1	1	17	She figure’d you show up. | What? You gonna tie my wrists a little tighter? | If you can find anything at all.
+NURSE	BRUCE	19	0	2	17	She’ll be so happy to hear what a good boy you’re being. | You didn’t mind breaking the rules when you broke Oswald’s face. | But I suppose you’re gonna say that Vicki made you do it.
+HARVEY	JOKER	19	0	0	19	These “Children of Arkham” would have you believe that they are the ones who are going to  | I had no choice but to send Mr. Wayne to Arkham Asylum after his violent behavior towards  | Effective immediately the city is on lock down. My enforcers will be patrolling the street
+BRUCE	ARNOLD	19	0	0	19	You don’t want to cause a scene. | How about you back off before I knock your teeth in? | Like you all come from perfect families?
+OSWALD	DRUGDEALER2	18	0	0	18	You see... that’s where you’re mistaken. | Don’t know how much that meant to you, but it meant loads to me. | Which is why I’m warning you...
+HARVEY	PENGUIN	18	0	0	18	Birdmask guy-- whatever your name is-- | Penguin then. We’ll play your game-- just, please, let these people out of here. | Birdmask guy-- whatever your name is--
+HILL	ASSISTANT	18	0	0	18	Leave us. And close the door behind you. | Leave us. And close the door behind you.
+GORDON	LUCIUS	18	0	0	18	Mind telling me where you get the funding for all this stuff? | But to tell you the truth you’ve started to change my mind. | Doesn’t mean I’m not still keeping my eye on you.
+BRUCE	NURSE	18	0	0	18	What did you just say? | What did you just say? | What did you just say?
+BRUCE/BATMAN (choice)	ENFORCER01	18	0	0	18	How much do you want? | I won’t allow you to weaponize drones. | I won’t allow you to weaponize drones.
+VICKI	GORDON	17	0	0	17	I can help you get the right kind of attention. | You can’t afford to be associated with another scandal. | Once this gets out, it’s going to make the allegations against you parents much more concr
+HILL	PENGUIN	17	0	0	17	I know who you are-- and-- and what you want... | I know who you are-- and-- and what you want... | We had a d--deal -- I gave you what you wanted -- ooof--
+BRUCE/BATMAN (choice)	RHONDA	17	0	0	17	Selina’s going to kick your ass.
+BRUCE	PATRON	17	0	0	17	I saw. If I were you, I’d go back to playing it. | I think you have the wrong guy. | Your face is all over the TV!
+GORDON	NEWSCASTER	17	0	0	17	--goddamnit, I don’t care what’s wrong with you! | You report for duty tonight or you can take retirement tomorrow! | You know, I always wanted this--to be commissioner someday.
+BRUCE/BATMAN (choice)	ORDERLY01	17	0	0	17	I’m the one who failed you. | I appreciate your concern.
+LELAND	THOMPKINS	17	0	0	17	Until then, just follow the rules -- and you’ll be fine. | You think you can comply? | This is for your safety.
+BRUCE	PATIENTTABOR	17	0	0	17	They give you paints in here. | All I said was “How’s it going?“ How do you get a threat out of THAT? | I’ll just... leave you alone then.
+ZSASZ	BATMAN	17	2	4	11	How many lives have you taken away from me? | Now all I want is yours. | I look forward to wearing your face.
+GORDON	VICKI	16	0	0	16	The warrant covers your place, pardon me, places of residence. | For all our sakes, I pray you’ve got nothing to hide. | Enjoy tonight, because tomorrow, when you press charges against Montoya, you’ll lose the s
+BRUCE	COMPUTER	16	0	0	16	
+BRUCE	OPERATOR	16	0	0	16	
+BRUCE/BATMAN (choice)	ANOTHER SECURITY CAM FEED CATCHES HIS EYE	16	0	0	16	
+GORDON	PENGUIN	16	0	1	15	Damn. You guys got all the gadgets, huh... | Just so we’re clear. After tonight, you and I are done. | Hold your fire, dammit!
+CATWOMAN	PENGUIN	16	0	0	16	You really know how to pep a girl up. | Speak for yourself, Bat. | Hope you’ve got another trick in that belt of yours.
+LADYARKHAM	HARVEY	16	0	1	15	And you, Mr. Dent? What makes you think you deserve the public trust? | Candidates! Take off your masks! | Candidates! Take off your masks!
+LADYARKHAM	PENGUIN	16	0	0	16	Show Gotham your true selves. Tell them your true feelings about the city you pretend to l | We are here to open your eyes. | But tonight, you wake.
+PENGUIN	LADYARKHAM	16	0	0	16	I warned you about lying! | You’ve been wonderful, but your candidates-- well, they just don’t have the words. | You made a pact with the devil!
+BRUCE	BOUNCER	16	0	0	16	Can you make an exception this one time? Please. | If you know Selina, then you should know not to keep her waiting. | They didn’t... hurt you, did they?
+BRUCE	ORDERLY02	16	0	0	16	Good thing I don’t need your protection. | Listen, you can’t talk to me like that.
+LADYARKHAM	COA01	16	0	0	16	You’ll deal with whoever I tell you to. | You’ll deal with whoever I tell you to. | You’ll deal with whoever I tell you to.
+GORDON	COP01	16	0	0	16	You’re not gonna get back-up for a while, Jenson. I need you to handle it. | Christ. The idea of that thing was not for you to give me a heart attack. | How did they know you were there?
+COA01	COA02	16	0	0	16	They said they wanted it done tonight. So it’s gotta be done. You wanna argue with them be
+COA02	COA01	16	0	0	16	
+COA04	COA03	16	0	0	16	You scared or something? What the hell is wrong with you? | You heard me! Get the hell out of the car! | You better listen, Mister Mayor. Wouldn’t want that pretty face to take another beating, w
+VICKI	REPORTER02	16	0	0	16	
+REPORTER02	VICKI	16	0	0	16	
+REPORTER03	REPORTER01	16	0	0	16	Are you aware of rumors circulating that Mr. Dent was behind the break in at city hall? | Are you aware of rumors circulating that Mr. Dent was behind the break in at city hall? | Are you aware of rumors circulating that Mr. Dent was behind the break in at city hall?
+REPORTER01	REPORTER02	16	0	0	16	You calling her a liar? | It’s been alleged that both your father and grandfather had ties to organized crime, speci | It’s been alleged that both your father and grandfather had ties to organized crime, speci
+QUINZEL	ALFRED	16	0	0	16	Must be nice to throw around your money like that. Most people here never get that chance.
+ORDERLY1	BRUCE	16	0	0	16	Lose your mind, did ya? | That Vicki Vale -- she must have really scrambled your brain. | You’re a man of means.
+RAMARQUE	BRUCE	15	0	4	11	You even shook his hand. | But the Board of Directors released a statement stating they couldn’t recommend your relea | You’re not concerned about allegations of bribery?
+CATWOMAN	ALFRED	15	0	0	15	You’re not that kinda guy. | You know what I want. | If I’d known you were going to make me lug this thing myself, I would have worn more comfo
+ALFRED	THOMAS	15	0	0	15	You have to take a break.  Eat something, for God’s sake. | Please understand I was only trying to protect you. | He had flaws, yes. But you more than anyone should be able to appreciate that he was a com
+GORDON	RYDER	15	0	0	15	He’s lucky, you know. Could have been much worse if the Batman hadn’t been there. | You deadbeats have gone too far... | We’ve had our differences in the past, but you’re the only one that can help us now.
+OSWALD	LADYARKHAM	15	0	0	15	I’m no different than all of you! My family was ruined! Mother and father killed, land sto | You heard your orders. | You heard your orders.
+MONTOYA	SARA	15	0	0	15	You’re saying this drug forced Gordon to kill Falcone. | It’s not a falcon, if that’s what you’re thinking.
+BRUCE/BATMAN (choice)	COMMISSIONER	15	0	0	15	Tell me what you want.
+LUCIUS	GORDON	15	0	0	15	Other than that, you’ll be good. | Nothing you can’t do with these guys. | You’re like... Big Brother.
+COA03	BATMAN	15	0	1	14	Including every time Gordon uses you as his errand boy. | Hurt me all you want. | That all depends on you, Batman.
+ORDERLYJERK	BRUCE	15	0	0	15	You better be decent! | Anything you need? Water? Piss? Rat poison? | Oswald Cobblepot. You beat him to a bloody pulp. Nearly killed him.
+ORDERLY02	LELAND	15	0	2	13	You’re not going to give us any trouble are you? | I’m here to help if you have any problems. | I’m sure Dr. Leland has gone over the rules with you.
+SOCKO	JOKER	15	0	1	14	Ohh nono Arnold ol’ pal. You aren’t gonna let him walk away from this. | “Puppet,“ huh? “Puppet?!“ Howzabout you bring that spoiled richboy face a little closer an | Ugh. Of course a little richboy like you would give me the cold shoulder. Is this how you 
+ENFORCERFEMALE	GORDON	15	0	0	15	Thank you. Both of you.
+BRUCE	COP01	15	0	0	15	You got the key for these things? | Any chance either of you officers might have any hand lotion on you? Perhaps a travel-size | You know I can pay you-
+BRUCE	RAMARQUE	14	0	0	14	I just finished telling you about my parents’ murder and you accuse them of being, what, c
+RYDER	BATMAN	14	0	1	13	
+BRUCE	FAIRCHILD	14	0	0	14	
+LADYARKHAM	GORDON	14	0	0	14	You have nothing to fear. | Hurry up! I don’t have time to babysit you!  The rest of you, form up! | You underestimate the true children of Arkham.
+SELINA	BATMAN	14	0	10	4	Or maybe you’re a pussy magnet, Batman. Ever think of that? | Don’t worry, Bats. I’m not going to forget you. | Don’t worry, Bats. I’m not going to forget you.
+GORDON	LADYARKHAM	14	0	1	13	Put down your weapons! | Put down your weapons! | Put down your weapons!
+BOB	HILL	14	6	0	8	You won’t always get everything you want. | You seem... not well. | You won’t always get everything you want.
+MONTOYA	FALCONE	14	0	4	10	I’m the one who should be thanking you. | You want the truth -- I hope someone gets to him. I can’t bear to see that scumbag get off | You can’t get out of this one!
+BRUCE	BUTCHIE	14	0	0	14	Why are you making this personal? | If you know Selina, then you should know not to keep her waiting. | Touch me and I’ll have your job.
+COA03	COA04	14	0	0	14	You’re right, he ain’t got nothing on us. | You talking about a promotion? | What are you gonna do?
+HARVEY	GOON01	14	0	0	14	O-oh god! Oh jesus! What did I- you- do?! You just killed him! For no reason! | Everything I’ve done, everything I am... wouldn’t be possible without you.
+LADYARKHAM	COA02	14	0	0	14	And here I’d heard you spoken of with such high regard. | Too bad you won’t be around to witness it. | You have no idea what I’m capable of.
+THOMPKINS	LELAND	14	0	0	14	Do you have any questions before we start your treatment? | You’ll have to overcome it if you want to make a full recovery. | We met a couple of days ago when you were admitted.
+JOKER	SOCKO	14	0	0	14	Actually, I think it might be more productive if you tell The Puppet... not Arnold. | This is important for both of you. | Bruce!  That kind of rudeness will be noted on your evaluation.
+ENFORCERFEMALE	BRUCE	14	0	0	14	I knew you didn’t have the stones for this - | I knew you didn’t have the stones for this.
+ALFRED	FALCONE	13	0	3	10	But you’ll be pleased to hear everyone has left, including Mr. Falcone. | But you’ll be pleased to hear everyone has left, including Mr. Falcone. | Have you formulated your plan of attack?
+HARVEY	BOB	13	0	0	13	You disagree, right Bruce? | I meant what I said--together, you and me, we change Gotham.
+MONTOYA	CATWOMAN	13	0	0	13	How do you know that? | I can buy you about half an hour. After that, we’re storming the building. | Especially after what you did to Falcone at the Skyline.
+HARVEY	LADYARKHAM	13	0	0	13	Batman -- you left me... | After that news about your father sending innocent people to Arkham... the whole city want | After that news about your father sending innocent people to Arkham... the whole city want
+GCPD01	BRUCE	13	0	8	5	I could arrest you right now, Mr. Wayne. | Watch yourself, Mr. Wayne. | Watch yourself, Mr. Wayne.
+BRUCE/BATMAN (choice)	SARA	13	0	0	13	You have to be careful | You’ve seen this before? | Keep this to yourself.
+SARA	MONTOYA	13	0	0	13	
+OSWALD	FALCONEGOON	13	0	0	13	‘Sides, she was doing you a favor, wasn’t she. | ‘Sides, she was doing you a favor, wasn’t she. | You can help me. Or you can join Falcone in the dirt.
+BOUNCER	SELINA	13	0	0	13	He’s too good for you. | The problem with people like you is that people like me are forced to make exceptions for  | Everyone knows who you are. It’s us you don’t know.
+CHEMTHUG	BRUCE	13	0	0	13	If you care about your own skin... | You’ll get the hell out.
+BRUCE	CHEMTHUG	13	0	0	13	STUB:(Emily Garrison, Wed Apr 27 16:05:25 2016) Bruce stands, and puts his hands up. I’m w | I think YOU need to leave. | Remember Penguin? Because he sure as hell remembers you.
+COMMISSIONER	BATMAN	13	0	2	11	Only way I could think of to get your attention. | That’s Commissioner to you. | You have to...  stop Dent...
+HEROGOON	BATMAN	13	0	0	13	How does it feel, huh? Knowin’ you failed.
+ORDERLY02	JOKER	13	1	0	12	You may have her fooled, but we all know who you are. Don’t think you’re special just beca | And don’t expect us to protect you if the inmates recognize you. | Yeah, keep telling yourself that.
+SOCKO	BRUCE	13	0	1	12	Ohhhh nonono Arnold, old pal. You don’t have to take that from this pampered jackass - You | Ohhh nonono that’s not how this is going to go. You can talk about whatever you want, Arno | No! You do NOT apologize to that trust fund enema, Arnold ol’ pal. After everything you’ve
+BRUCE/BATMAN (choice)	PATIENTTABOR	13	0	0	13	What do you know about “John”?
+BRUCE/BATMAN (choice)	ENFORCERLUKE	13	0	0	13	You’re better off not knowing.
+BATMAN	ENFORCERCOLLEEN	13	0	0	13	You’re a disgrace to your badge. | You’re clearly not hearing it. | How far would you go?
+BRUCE	ENFORCERFEMALE	13	0	0	13	Look at what you’re doing - This is wrong and you know it. | I don’t know how you think this is going to end; but trust me you will regret this. | You’re cops! You’re supposed to protect people, keep them safe...
+BOY	GORDON	13	0	0	13	Why do you do this stuff? | Why do you do this stuff? | Thank you. For saving me, I mean.
+GORDON	BOY	13	0	0	13	Come on son, maybe we can hit a drive-thru on the way to the station. You like fries, righ | Come on son, maybe we can hit a drive-thru on the way to the station. You like fries, righ | First things first, son, let’s get you to the station so we can clean you up, huh?
+MARTHA	BRUCE	12	0	9	3	This isn’t your fight... | I-- I miss you, baby.
+CATWOMAN	MONTOYA	12	0	0	12	Really? You’re going to drag out that dead horse? | You don’t want to do that. You come rushing in, everyone will die. | I’d keep that   holstered if I were you.
+OSWALD	CHEMTHUG	12	0	0	12	Come upstairs. I’ll show you the office area. | Unfortunately, when the revolution begins, you’ll be too late to stop us.
+ASSISTANT	HILL	12	0	0	12	You have a visitor. He says it’s urgent... | It seems you do have an appointment, Mr Wayne... Silly me.
+BRUCE	SARA	12	0	0	12	You’ve seen this before? | The best thing you can do right now is find an antidote.
+SELINA	BUTCHIE	12	0	0	12	You want to use me, huh? | What are you gonna do? Tell on me.
+COP01	COP02	12	0	0	12	
+BATMAN	COA01	12	0	0	12	Al, come in. Can you hear me? Where are you? | Alfred, come in. Can you hear me?
+COA01	LADYARKHAM	12	0	0	12	You’re dealing with us now. The Children of Arkham are taking over. | You’re dealing with us now. The Children of Arkham are taking over.
+COA02	LADYARKHAM	12	0	0	12	
+REPORTER01	COUNCILWOMAN	12	0	0	12	Earlier this morning, the Globe came into possession of evidence suggesting Thomas and Mar | Earlier this morning, the Globe came into possession of evidence suggesting Thomas and Mar | Earlier this morning, the Globe came into possession of evidence suggesting Thomas and Mar
+REPORTER01	VICKI	12	0	0	12	Last night you hosted a fundraiser at your home for Harvey Dent’s campaign. Is it true Car | Last night you hosted a fundraiser at your home for Harvey Dent’s campaign. Is it true Car | Last night you hosted a fundraiser at your home for Harvey Dent’s campaign. Is it true Car
+VICKI	COUNCILWOMAN	12	0	0	12	Sounds like you’re looking for a secretary Bruce. | I have it on good authority that while they were alive, your Parents had a longstanding re | Sounds like you’re looking for a secretary Bruce.
+COUNCILWOMAN	REPORTER01	12	0	0	12	
+VICKI	OSWALD	12	0	0	12	Look at him up there, taking everything that should belong to you. | Mocking you, the smug, insignificant bastard! | I’m the Voice in your head...
+BRUCE	ORDERLYJERK	12	0	0	12	You can tell me why I’m in Arkham Asylum, for a start. | Do you have any idea who I am?
+BRUCE	GUARD	12	0	0	12	Stop ignoring me or I swear I’ll make you regret it!
+ENFORCERMALE	BRUCE	12	0	0	12	Sometimes you need to do a little bad to do a lot of good. | Sometimes you need to do a little bad to do a lot of good.
+GROGAN	BATMAN	12	2	4	6	Not anymore you’re not.  I’m taking over this investigation. | I can’t risk you allowing your good friend Batman to show up. | I can’t risk you allowing Batman to contaminate our crime scene again.
+PENGUIN	REGINA	12	0	3	9	Now, Regina, are you the one who’s been developing Batman’s toys? | Now, Regina, are you the one who’s been developing Batman’s toys? | Now, Regina, are you the one who’s been developing Batman’s toys?
+BRUCE/BATMAN (choice)	RAMARQUE	11	0	0	11	
+GORDON	GCPD03	11	0	0	11	Not you too, old friend -- | If you don’t take him down, I’ll tear him apart myself.
+FALCONE	MONTOYA	11	0	0	11	You think I wanted to lead YOU here? | You’re no killer. It’s why you were kept in the dark. | The only one that ever had a hold on your father.
+BOB	REGINA	11	0	3	8	Regina? Can you hear me? | Regina? Can you hear me? | Regina? Can you hear me?
+FAIRCHILD	HARVEY	11	0	0	11	If you’ve noticed the streets of Gotham have been a lot quieter recently, you’re not alone
+THOMAS	BRUCE	11	0	11	0	
+CONTRACTOR	OSWALD	11	0	0	11	
+OSWALD	GOON01	11	0	0	11	[pained[ You would just leave me here to suffer... | You’re not going to help me? | [pained[ You would just leave me here to suffer...
+SELINA	CHEMTHUG	11	0	0	11	Rhonda? You didn’t tell me you had a problem with rats. | I know you’re better than that. | Off your game, rich boy?
+COA01	BATMAN	11	0	0	11	Hey, boss. The guests you requested -- they’ve arrived.
+BRUCE/BATMAN (choice)	GOON01	11	0	0	11	
+BRUCE	BLOCKBUSTER	11	0	0	11	Hey. Hey Blockbuster. You in there? | You can’t fool me. I know you’re faking this. | If you’re in there, I hope you know that you deserve this.
+LUCIUS	REGINA	11	0	0	11	And if I’m here I can’t... help you out there. No tech, no repairs. | I trust you remember the way in.
+ALFRED	QUINZEL	11	0	0	11	I can’t bear to see you this way. | You’re observation period is up. | Come then, let’s get you home.
+QUINZEL	LELAND	11	0	0	11	Is there something you want to tell me? | Are you seeing things? | What are you looking at?
+PATIENTBILLY	BRUCE	11	0	0	11	You wanna step back a little bit? You are making me INCREDIBLY nervous right now. | I don’t like what you’re insinuating. | I hope you don’t pollute Group that with this kind of negativity.
+BRUCE	ENFORCERMALE	11	0	0	11	Is this really what your badge stands for? | Any way you cut this, this is murder. Is that what you want? | I know that when you put that uniform on in the morning you do it because you want to help
+PROTESTER01	BRUCE	11	0	1	10	Hey,your father committed innocent people to Arkham and made sure they stayed there for th | So, you admit it. You bought your way out! | What do you think you’re doing, Wayne? You should be locked up!
+BATMAN	COA02	11	0	0	11	Get your men over to the Vale house. And be careful, there’s a rigged bomb. | I swear, if you’ve hurt him... | What? You gonna call the cops on me?
+RYDER	ALFRED	10	0	0	10	The family and friends of Mayor Hamilton Hill, who was killed in a recent terror attack by
+ALFRED	CATWOMAN	10	0	0	10	And people will keep you in the crosshairs... | Don’t let tombstones be your family legacy. | Bruce... you..you can’t keep doing this.
+OSWALD	HARVEY	10	0	0	10	
+BOB	HARVEY	10	0	1	9	That’s how you get creeps like this... Bat-Man. | If you believe in Dent, we believe in you. | You’re preaching, dear.
+BRUCE/BATMAN (choice)	THOMAS	10	0	0	10	Don’t make me hurt you. | You were my father’s right hand. | You’re acting strange.
+HARVEY	FAIRCHILD	10	0	0	10	No matter what I have to say tonight, remember, you are always my friend. | You should have stayed in the asylum where I put you. | The streets of Gotham are a dangerous place for someone like you right now.
+JOECHILL	MARTHA	10	0	0	10	Listen carefully, kid. Your folks got killed in a robbery. You got lucky. Remember that. | They told me you had it coming. | They told me you had it coming.
+MARTHA	JOECHILL	10	0	0	10	Take whatever you want. | Take whatever you want. | Take whatever you want.
+PENGUIN	GORDON	10	0	0	10	You’ll have to answer for his crimes instead. | I had a feeling you’d be stopping by.
+LADYARKHAM	HILL	10	0	1	9	For too long, the rich and powerful have lulled you to sleep with their lies. | Candidates! Take off your masks! | Show Gotham your true selves. Tell them your true feelings about the city you pretend to l
+PATRON01	BRUCE	10	1	0	9	Aren’t you that rich guy on the news? | Wrong guy? Your face is all over the TV. | The-- the hell you say?!
+COA01	BRUCE	10	0	1	9	We didn’t forget about you, Wayne! | Lady Arkham hasn’t forgotten you!
+GROGAN	GORDON	10	0	7	3	This is ridiculous, Gordon. Do you know how much all this equipment costs? We don’t have t | Gordon! Gordon, come in! Do you copy? | Gordon! Gordon, come in! Do you copy?
+COP01	GORDON	10	0	1	9	
+GOON04	HARVEY	10	0	2	8	We don’t have to make this anymore difficult than it needs to be. Just turn your car aroun | You two! Go check on Nikki. I’ve got the Mayor. | You heard me! Get the hell out of the car!
+BRUCE/BATMAN (choice)	QUINZEL	10	0	0	10	You have to be stopped. | You don’t want to know.
+LELAND	QUINZEL	10	0	0	10	We could teach you healthier ways to express your inner rage. | It was the patients that had to be protected from you! | You can start with a smile.
+LELAND	PATIENT1	10	0	0	10	It would mean a lot to me to see you try. | And it would mean a lot to me to see you do it. | I know it may sound corny to you, but the physical act of smiling is proven to improve moo
+LELAND	ORDERLY02	10	0	0	10	You can start with a smile. | Yes, we’re all here to help you. | Alright Bruce, let’s get you acquainted with the other patients.
+INMATE03	INMATE02	10	0	0	10	Questions, questions, questions. You ask too many questions. But you don’t want my answers | It wasn’t a dream. It wasn’t. It never was. They lied to you. Sister lied. | You saw them. You know you did. Right in front of you! Don’t listen to her!
+HARVEY	LELAND	10	0	0	10	These “Children of Arkham” would have you believe that they are the ones who are going to  | As your mayor, I swear that I will continue to prune the weeds and tear up the rot that is | These “Children of Arkham” would have you believe that they are the ones who are going to 
+BRUCE	SOCKO	10	0	0	10	
+ENFORCER01	ALFRED	10	0	0	10	If we find anything tying you to the Children of Arkham, including drugs, weapons, or any  | Either I let these people at you and see how you handle mob justice... | Or, you could make a little donation to me and my boys to help us stay well-funded. And we
+PENGUIN	GOON02	10	0	0	10	You should have just come work from me. | Useless! You are all bloody useless! | Useless! You are all damned useless!
+BRUCE/BATMAN (choice)	COA02	10	0	0	10	
+ORDERLY01	BATMAN	10	0	0	10	
+LADYARKHAM	ORDERLY01	10	0	0	10	
+GOON01	GORDON	10	0	5	5	Give up your badge and we’ll let you live. | Now we gotta nail your tongue to the prencinct door. By order of City Hall. | You should’ve known better, Gordon!
+REPORTER02	REPORTER03	9	0	0	9	The Tribune also received documents, showing your father met with Carmen Falcone...  no le | The Tribune also received documents, showing your father met with Carmen Falcone...  no le | The Tribune also received documents, showing your father met with Carmen Falcone...  no le
+FAIRCHILD	RYDER	9	0	0	9	And if you can believe it... now you can’t even trust the valets. | Mayor Hill’s Gotham Beautiful Act takes effect today, making it possible for landlords to  | If you’ve noticed the streets of Gotham have been a lot quieter recently, you’re not alone
+GORDON	CHEMTHUG	9	0	0	9	How? We’ve been using a secure channel... You sayin’ we got a leak? | The GCPD has orders to take you in. After tonight, I can’t stand in their way anymore. | Just so we’re clear. You and me -- we’re on shaky ground.
+BRUCE/BATMAN (choice)	BOB	9	0	0	9	The problem is yours! | The problem is yours!
+REGINA	BOB	9	0	0	9	Oh, Bobby, regarding “golden age” it seems you’re getting cranky in yours. | Don’t say that. I know you were fond of him.
+RYDER	FAIRCHILD	9	0	0	9	
+THOMAS	ALFRED	9	0	0	9	...You don’t have to do this... | You... you don’t have to do this! | ...You don’t have to do this...
+HARVEY	HILL	9	0	1	8	You really want to hear what I think?
+BRUCE/BATMAN (choice)	BLOCKBUSTER	9	0	0	9	I know you’re faking.
+LADYARKHAM	OSWALD	9	0	0	9	Squad cars 324, 325, and 393 en route to the warehouse. 394 deployed. Get your guys over h | Squad cars 324, 325, and 393 en route to Dent. 394 deployed. Get your guys over there.
+SELINA	BOUNCER	9	0	0	9	What did you say to me? | What did you say to me? | You need to calm down. Now.
+ORDERLY02	ORDERLY01	9	0	0	9	
+GOON01	GOON02	9	0	0	9	They said they wanted it done tonight. So it’s gotta be done. You wanna argue with them be | They said they wanted it done tonight. So it’s gotta be done. You wanna argue with them be
+COP03	GORDON	9	0	0	9	
+HARVEY	GOON03	9	0	0	9	I misjudged you, and I’m sorry. I’d looked at you like a vigilante and not an ally. | Sounds like you’ve got your plate full tonight. You better go. | You know what those are?!
+BATMAN	GOON03	9	0	0	9	Al, come in. Can you hear me? Where are you? | Alfred, come in. Can you hear me? | Al, come in. Can you hear me? Where are you?
+REPORTER02	ALFRED	9	0	0	9	How long’ve you been dealing with Falcone? | How long’ve you been dealing with Falcone? | How long’ve you been dealing with Falcone?
+GUARD	BRUCE	9	0	4	5	Relax, Mr. Wayne. They’re doing your paperwork now. | Relax, Mr. Wayne. They’re doing your paperwork now. | Looks like someone sprung you out.
+BRUCE	ORDERLY1	9	0	0	9	What did you just say? | You’ve got me mixed up with somebody else. | What did you just say?
+BRUCE/BATMAN (choice)	ZSASZ	9	0	2	7	What would your mother think, Victor?
+ARNOLD	SOCKO	9	0	0	9	How am I supposed to trust whether you’re telling the truth or lying?... You’re a *Wayne*!
+SOCKO	ARNOLD	9	0	0	9	You don’t know what it’s REALLY like out there you poncy little spoiled brat. | You low-life, sheltered, narcissistic prick! | Listen, pal, Arnold’s had a tough time in here and he doesn’t need bullies like you making
+ZSASZ	PATIENTTABOR	9	0	0	9	Bet you’re the type who goes into a panic over a hangnail. | Wait, that’s the move you’re gonna make? | For the last time, Tabor. I’m not mind-controlling you.
+GORDON	ENFORCERFEMALE	9	0	0	9	Tell me I don’t have to put you in handcuffs for this.
+POLICE OFFICER	BRUCE	9	0	0	9	That’s all you got to know! | Go have your emergency somewhere else. | Go have your emergency somewhere else.
+ENFORCER01	PROTESTER01	9	0	0	9	Alright, come on buddy, you know how the world works. | Hey, you people, back off! | Hey, hey. Keep back, if you know what’s good for you!
+BRUCE	PROTESTER01	9	0	0	9	Don’t you know who I am? | YOU DON’T TALK TO ME LIKE THAT! | What is your problem?
+THUG	PENGUIN	9	0	0	9	
+BOB	PENGUIN	9	0	0	9	
+BATMAN	REGINA	9	0	0	9	
+OSWALD	ENFORCER01	9	0	0	9	You -- you let them have me and -- and I’m as good as dead. | You -- you let them have me and -- and I’m as good as dead. | You -- you let them have me and -- and I’m as good as dead.
+BATMAN	ZSASZ	9	0	1	8	The police are here. You’re not walking out of this building. | I don’t take orders from you, remember?
+ZSASZ	GORDON	9	3	0	6	I’ve saved this patch of skin above my heart for you. | Next I’m gonna visit your children. | I’ll honor you properly, don’t worry.
+GORDON	ZSASZ	9	0	0	9	
+RYDER	GROGAN	9	0	0	9	
+JOKER	RHONDA	9	0	0	9	
+ALFRED	RYDER	8	0	0	8	I saved you what I could. | Even though you and young Master Cobblepot used to be close... | And so your Bat Stunner just... didn’t work?
+BRUCE/BATMAN (choice)	DRUGDEALER1	8	0	0	8	Running Late. Meet you by the statue.
+GCPD03	GORDON	8	0	1	7	
+REGINA	HARVEY	8	0	1	7	You have our support, Mr. Dent. Go get ‘em! | And I’m sure you don’t either. | Old families like ours should flock together, you know. Like birds.
+<<ID	ALFRED	8	0	0	8	
+HARBEY	BRUCE	8	0	0	8	
+HARVEY	NARRATOR	8	0	0	8	I hope you’re having a better morning than I am. | I hope you’re having a better morning than I am. | I hope you’re having a better morning than I am.
+NARRATOR	HARVEY	8	0	0	8	How can you trust someone who speaks from two sides of his mouth? | How can you trust someone who speaks from two sides of his mouth? | How can you trust someone who speaks from two sides of his mouth?
+NARRATOR	BRUCE	8	0	0	8	
+BRUCE	NARRATOR	8	0	0	8	
+COMPUTER	BRUCE	8	0	8	0	
+HARVEY	OPERATOR	8	0	0	8	
+THOMAS	JOECHILL	8	0	0	8	I’ll destroy you. No- | You... you don’t have to do this! | You... you don’t have to do this!
+JOECHILL	THOMAS	8	0	0	8	
+HILL	HARVEY	8	0	0	8	
+YOUNGHILL	THOMAS	8	0	0	8	You had your chance. You should have made the deal we offered you. | Are you stupid! We’re not a charity -- take everything they own! | Lawyer gives you any trouble, call Carmine. Get him to crack his head...
+SELINA	RYDER	8	0	0	8	
+HILL	FALCONE	8	0	8	0	Falcone?  I don’t believe you. | Me, Falcone... and your father. | Falcone?  I don’t believe you.
+BRUCE	GCPD01	8	0	0	8	Don’t worry about him now-- just-- you just hang in there. | We’ll get him out alive -- you just hang in there.
+HILL	OSWALD	8	0	2	6	
+BUTCHIE	SELINA	8	0	1	7	I *do* know Selina -- and she wouldn’t be hanging around with the likes of you. | You know this guy, Selina? | Time is money and you’ve got plenty of both -- so go spend it somewhere else.
+SELINA	PATRON	8	0	0	8	Face it, Frank, you suck at pool. Why are you starting trouble over it? | You’re starting to bore me.
+PATRON01	SELINA	8	0	0	8	Didn’t you see the game here, asshole? | Are you blind or something? | Wait a minute! I know you!
+GOON02	GOON01	8	0	0	8	
+COP02	COP01	8	0	0	8	
+BRUCE/BATMAN (choice)	COP01	8	0	0	8	Go ahead, I dare you. | You’re suposed to be a cop.
+GORDON	COP02	8	0	0	8	Please. We need your help. I need your help. | We’re almost there. Hold your fire!
+GORDON	COP03	8	0	0	8	Is it them? Can you confirm? | Nine Adam Three Seven, I haven’t forgotten you.  Dealing with situations all over the city | Is it the Children of Arkham? Can you confirm?
+HARVEY	COA04	8	0	0	8	Stay behind me, Deborah.  Just let us through. Haven’t you done enough harm as it is? | I appreciate your vote of confidence. | The Mayor’s on your side.
+COA01	HARVEY	8	0	0	8	You’ll... find... out... | But you can bet they’re gonna tear this city apart. | You’re gonna die for your parents’ crimes!
+REPORTER04	REPORTER02	8	0	0	8	
+REPORTER03	VICKI	8	0	0	8	
+REPORTER03	REPORTER02	8	0	0	8	Well, for a start, wouldn’t it mean that everything with your family’s name on it, from th | Well, for a start, wouldn’t it mean that everything with your family’s name on it, from th | Well, for a start, wouldn’t it mean that everything with your family’s name on it, from th
+REPORTER02	REPORTER04	8	0	0	8	It’s been alleged that both your father and grandfather had ties to organized crime, speci | How long’ve you been dealing with Falcone? | It’s been alleged that both your father and grandfather had ties to organized crime, speci
+REPORTER02	REPORTER01	8	0	0	8	The Tribune also received documents, showing your father met with Carmen Falcone...  no le | Do you remember Falcone or any of his associates being at Wayne Manor? | The Tribune also received documents, showing your father met with Carmen Falcone...  no le
+REGINA	LUCIUS	8	0	3	5	Fall asleep in your office? | I.T. will be right up to get you settled. | What’s gotten into you?!
+LUCIUS	FAIRCHILD	8	0	0	8	If it gets taken away, you’ll be saving Gotham in suits with tears and bullet holes. | Bruce, before you head out, I’ve got something for you. | If you hadn’t, I wouldn’t have been able to give you this...
+HARVEY	LUCIUS	8	0	0	8	
+BRUCE/BATMAN (choice)	GUARD	8	0	0	8	Are you talking to me? | What do you mean “for now”?
+THOMPKINS	BRUCE	8	0	2	6	I am not. I’m trying to help you. | I am not. I’m trying to help you. | So, you consider this normal behavior?
+INMATE02	INMATE03	8	0	0	8	You call this room service?! Get the hotel manager. This is not what I ordered! | This is not a dream -- but you are sleeping.
+QUINZEL	JOKER	8	0	0	8	You know you’re not supposed | Why don’t you follow your joy over here... | And you. Just what do you think you’re doing?
+PATIENTTABOR	ZSASZ	8	0	0	8	You better not be mind-controlling me. Doctor says that’s against the rules.
+BRUCE/BATMAN (choice)	ENFORCERCOLLEEN	8	0	0	8	Dent got into your head. | Dent got into your head. | You’re going to rot in jail.
+ENFORCERLUKE	GORDON	8	0	0	8	Is that right?  Weren’t *you* the one recently in Arkham Asylum? | You’re gonna drink this.  All of it. The papers will report it as just another dead, drunk | If you’re gonna make chage, you have to take drastic steps.
+ENFORCERMALE	ENFORCERFEMALE	8	0	0	8	Not personal. Mayor Dent says you’re getting in the way. | You’re right... Oh god I was about to... I’m sorry-- | You’re right... Oh god I was about to... I’m sorry--
+ALFRED	ENFORCER01	8	0	0	8	This is turning ugly, sir- what would you like to do? | This isn’t your “other” car.
+PROTESTER01	ENFORCER01	8	0	0	8	Did you say ”“Bruce”? As in Bruce Wayne? That guy’s a menace!
+ENFORCER01	OSWALD	8	0	0	8	
+ORDERLY02	BATMAN	8	0	0	8	
+LUCIUS	COA01	8	0	0	8	If you can find Alfred, maybe you can get him outta there before all hell breaks loose. | Until they arrive-- you should see if you can find Alfred. | Maybe you can find Alfred before things get too hairy--get him to safety.
+YOUNGOSWALD	YOUNGBRUCE	8	0	0	8	That’s right! Run! I dare you to come back!
+YOUNGOSWALD	BRUCE	8	0	4	4	
+GORDON	GOON01	8	0	0	8	I knew I could count on you.
+RYDER	GOON01	8	0	0	8	Hey... You can’t be in here. | struggling; off camera] Hey, you can’t do this! Hey! Let me go! Hey, hey! Stop!
+HARVEY	GCPD04	8	0	0	8	Weakling! Who are you to spare anyone? | Ooh...not your lucky day. | You’re right! This isn’t me...
+BRUCE	DRUGDEALER1	7	0	0	7	You’re making a mistake.
+DRUGDEALER1	BRUCE	7	0	0	7	Or this goes through you. | You already made one comin’ here. | The next one kills you.
+CHEMTHUG	MONTOYA	7	0	0	7	
+BRUCE/BATMAN (choice)	MARTHA	7	0	0	7	You hid this from me! | You kept their secrets.
+HILL	CATWOMAN	7	0	0	7	If you ask me, the real problem with this city is the poor --
+FAIRCHILD	LADYARKHAM	7	0	0	7	
+ALFRED	REGINA	7	0	0	7	You don’t think someone at Wayne Enterprises is involved?
+REGINA	ALFRED	7	0	0	7	You are the topic of discussion for the board. They want to decide what your future at thi | You are the topic of discussion for the board. They want to decide what your future at thi | You were fascinated with every little bauble you could get your hands on.
+DENT	GORDON	7	0	1	6	
+BRUCE	PATRON01	7	0	0	7	You got the wrong guy. | That’s great. You should also know that I can break your face. | I saw. If I were you, I’d go back to playing it.
+CHEMTHUG	SELINA	7	0	0	7	
+NEWSCASTER	GORDON	7	0	0	7	
+COP04	GORDON	7	0	0	7	Hands above your heads!
+BATMAN	HEROGOON	7	0	0	7	Tell me where your leader is.  What are you planning? | I’m not going to let you people ruin Gotham! This ends now. | This can get so much worse for you.
+BRUCE/BATMAN (choice)	COA03	7	0	0	7	
+GORDON	COA03	7	0	0	7	To be honest, I was surprised to get your call.
+BATMAN	COP02	7	0	0	7	If you have something to say then say it. | So unless you’re making a comment on the justice system, I’m afraid you’ve been misinforme | You’re wrong about me.
+GOON01	HARVEY	7	0	0	7	
+MONTOYA	COA01	7	0	0	7	Seeing someone you care about turn like that -- it’s gotta hurt.
+SECURITY01	BRUCE	7	0	7	0	Take your seat, Mr. Wayne. | Take your seat, Mr. Wayne. | Take your seat, Mr. Wayne.
+INMATE01	INMATE02	7	0	0	7	Heard about your little stunt with Cobblepot. | Let’s see if you can put your money where your mouth is.
+JOKER	INMATE01	7	0	0	7	
+NURSE	ORDERLY1	7	0	0	7	You’re the one who’s mixed up. | That Vicki Vale -- she must have really scrambled your brain. | That Vicki Vale -- she must have really scrambled your brain.
+ORDERLY1	NURSE	7	0	0	7	Holy crap. You’re Bruce Wayne. | Hey, listen. I’m really sorry this has happened you -- but I want you to know that there’s | You must be the most famous man in Arkham.
+JOKER	ORDERLY02	7	0	0	7	I got shivers. How do you do that with your voice?  Terrifying. | I think you better let him by. He’s crazy. Didn’t you hear? | Aye, aye, sir! You won’t even know we’re here...
+JOKER	QUINZEL	7	0	0	7	I’d like to find that funny bone of yours and cut it out. | I’m just following my joy -- like you told me to. | Can we play doctor in your room?
+RYDER	LUCIUS	7	0	0	7	
+DEBORAH	BRUCE	7	0	2	5	Uh, hello, Mr. Wayne. Do you need anything? | Sir? Did you hear me? | Hello, Mr. Wayne... can we help you?
+GORDON	ENFORCERLUKE	7	0	0	7	I suspected Helmuth was a bad egg but you, Colleen? | Until you’re on the other side of it.
+ENFORCERFEMALE	BATMAN	7	0	0	7	You don’t follow the law! | Who are you to stand here and tell me what to do?
+ENFORCERFEMALE	ENFORCERMALE	7	0	0	7	Shut up!   You just don’t get it - You don’t understand! That’s why we need to take you ou | I knew you didn’t have the stones for this.
+OSWALD	COA01	7	0	0	7	[pained[ You would just leave me here to suffer... | You’re not going to help me?
+COA01	LUCIUS	7	0	0	7	
+YOUNGOSWALD	OSWALD	7	0	0	7	That’s right! Run! I dare you to come back!
+YOUNGBRUCE	YOUNGOSWALD	7	0	0	7	
+HARVEY	COA01	7	0	0	7	You don’t know the new one at all!
+DRUGDEALER2	OSWALD	6	0	0	6	This don’t concern you, twerp! | The hell’re you waiting for? | Hey, you heard him, man.
+MONTOYA	CHEMTHUG	6	0	0	6	
+FALCONE	VICKI	6	0	0	6	Your father knew which hands to shake! | We’re all being played here, including you!
+VICKI	REGINA	6	0	0	6	What do you hope Mr. Dent will achieve when he’s elected?
+REGINA	VICKI	6	0	0	6	After all your parents did for this city... to be killed in a botched robbery in some alle
+BRUCE	THOMAS	6	0	0	6	
+NEWSCASTER	ALFRED	6	0	0	6	
+HILL	LADYARKHAM	6	0	0	6	
+THOMAS	YOUNGHILL	6	0	0	6	You were warned, Esther. You know I always get what I want.
+HILL	BOB	6	0	0	6	Or call me later. You know my number. | Or call me later. You know my number.
+LADYARKHAM	REGINA	6	0	0	6	
+PATRON	SELINA	6	0	0	6	Are you blind or something? | You think I’m dumb? Your face is all over the TV! | Or you trying to lay low?
+BRUCE	PENGUIN	6	0	4	2	One of them -- Penguin -- he put a price on your head. | One of them -- Penguin -- he’s after your head.
+REPORTER01	ALFRED	6	0	0	6	You may claim your parents were on the level, but my sources say *you* welcomed Carmine Fa | You may claim your parents were on the level, but my sources say *you* welcomed Carmine Fa | You may claim your parents were on the level, but my sources say *you* welcomed Carmine Fa
+ORDERLY01	ORDERLY02	6	0	0	6	You think they’re still gonna close this place down? | You got that discharge for Wesker? | You might want to watch your back around here.  These guys know who you are... They’re not
+COA01	ALFRED	6	0	0	6	You’re dealing with us now. The Children of Arkham are taking over. | If you want to keep your head on your shoulders, he better... | You’re supposed to be in Arkham!
+GOON04	COA04	6	0	0	6	We warned you! Now you’ll see what happens when you don’t listen to the Children of Arkham | You two! Go check on Marty. I’ve got the Mayor.
+GOON04	COA03	6	0	0	6	
+COA03	ALFRED	6	0	0	6	Okay, you two. Get these mixed and loaded onto the train. | You want us to hook this up? | You know your orders!
+COUNCILWOMAN	SELINA	6	0	0	6	Thank you. Now… I’m sure you all have noticed there are three shovels up here today. And t | Thank you. Now… I’m sure you all have noticed there are three shovels up here today. And t | Thank you. Now… I’m sure you all have noticed there are three shovels up here today. And t
+OSWALD	VICKI	6	0	0	6	... so thank you for coming. | Start talking, or I’ll call security to haul you off!
+FAIRCHILD	LUCIUS	6	0	0	6	
+ORDERLYJERK	ORDERLY01	6	0	0	6	Exactly where you belong. | Of course, I could make an exception for you. | Might as well get comfortable. This is your home now.
+INMATE02	INMATE01	6	0	0	6	
+INMATE02	JOKER	6	0	0	6	...You see that phone, don’t ya? Ring ring ...ring ring ...ring ring ...ring ring
+BRUCE	REPORTER05	6	0	0	6	You’re beggining to piss me off too.
+LELAND	ORDERLY01	6	0	0	6	I’m Dr. Leland. I’ll be serving as your supervising physician during your stay at Arkham A | In order to make progress, you’ll need to answer me honestly, even if it makes you uncomfo | Would you say that you’re experiencing hallucinations? Seeing things?
+ORDERLY01	JOKER	6	2	0	4	C’mon, chuckles. You’re getting the jacket. | C’mon, chuckles. You’re getting the jacket. | All of you - Don’t move.
+ORDERLY1	LELAND	6	0	0	6	You don’t have to listen to her. | Oh yeah? Whatcha gonna do? Beat me up like you beat up Cobblepot?
+BRUCE	PATIENTBILLY	6	0	0	6	More than you can imagine. | Are you sure about that? | If you’re not crazy, then why are you in Arkham Aslyum?
+HARVEY	ZSASZ	6	0	0	6	As your mayor, I swear that I will continue to prune the weeds and tear up the rot that is | These “Children of Arkham” would have you believe that they are the ones who are going to  | I swear to you, the people of Gotham, that I am going to continue my campaign to eradicate
+SANELEWIS	PATIENTBILLY	6	0	0	6	In case you were wondering. | Ah, but you’re already nuts - Arentch’a Billy? | I solved the cookie riddle. NOT you.
+JOKER	RYDER	6	0	0	6	You two... are a lot alike you know. | Now she’s trying to get it back. Putting you in here with us. Calling herself “Lady Arkham
+JOKER	FAIRCHILD	6	0	0	6	Ahhh tut tut tut. You’re not the only one who’s had a run-in with those maniacs. | Let me tell you how to find Vicki’s stash of missing drugs. | He really threw you under the bus.
+LUCIUS	RYDER	6	0	0	6	It’s sort of like the system sporadically rebooting itself - You’ll probably experience mo | I’ll do everything I can - I promise you that. | Thank you - Least I can do after you invited me to come work in the Batcave with you.
+HARLEEN	ALFRED	6	0	0	6	Yes... I see what you’re thinking... | With a few incisions, you can detach the tech and safely extract it. | You are very adept with your hands.
+PENGUIN	THUG	6	0	0	6	That was sly of you, Mister Fox. | That was sly of you, Mister Fox. | That was sly of you, Mister Fox.
+BATMAN	BOB	6	0	0	6	
+BOB	BATMAN	6	0	0	6	
+REGINA	BATMAN	6	0	0	6	
+PENGUIN	COA01	6	0	0	6	What? Did Wayne tell you I was putting his Tech to practical use? | Can’t say I wasn’t expecting you eventually, Bats- | You gotta be faster than that!
+PENGUIN	COA02	6	0	0	6	You should have just come work from me. | Useless! You are all bloody useless! | Useless! You are all damned useless!
+BATMAN	ORDERLY02	6	0	0	6	
+OSWALD	YOUNGOSWALD	6	0	0	6	What the hell are you doing here? | You’ve walked right into what’s about to be war zone.
+GROGAN	RYDER	6	0	0	6	This city needs you... | It’s up to you... to save Gotham.
+RYDER	OSWALD	6	0	0	6	
+HARVEY	HTIMEY	6	0	0	6	...but sometimes, you have to make your own luck.
+HARVEY	DEBORAH	6	0	0	6	I wasn’t sure you’d come.
+BATMAN	RYDER	5	0	0	5	What have you been hiding from me?
+BRUCE/BATMAN (choice)	NEWSCASTER	5	0	0	5	
+HARVEY	OSWALD	5	0	0	5	
+MOBSTER02	MOBSTER01	5	0	0	5	
+MOBSTER01	MOBSTER02	5	0	0	5	Nice and easy, my ass.   I know you burned powder tonight. The whole city can smell it.
+HARVEY	REGINA	5	0	0	5	Not saying I doubted you... but that went better than expected. | Thank you, thank you both. | I was hoping to see you. For coffee maybe? Gimme a call back. I... I’d really like to hear
+GALAMAN01	GALAWOMAN03	5	0	0	5	
+ALFRED	JOECHILL	5	0	0	5	Trauma can cause you to forget things. | There must be some detail that escaped you.
+THOMAS	MARTHA	5	0	0	5	You... you don’t have to do this!
+YOUNGHILL	ESTHER	5	0	0	5	Are you stupid! We’re not a charity -- take everything they own! | Lawyer gives you any trouble, call Carmine. Get him to crack his head... | Lawyer gives you any trouble, call Carmine, get him to crack his head...
+HILL	SECURITYGUY	5	0	0	5	
+RENEE	BRUCE	5	0	0	5	Of course, don’t let me keep you. | I just wanted to let you know...
+GCPD02	GORDON	5	0	0	5	
+BRUCE/BATMAN (choice)	BATMAN	5	0	5	0	
+BUTCHIE	BOUNCER	5	0	0	5	The problem with people like you is that people like me are forced to make exceptions for 
+COP02	SELINA	5	0	0	5	
+BRUCE/BATMAN (choice)	PATRON01	5	0	0	5	
+SELINA	PATRON01	5	0	0	5	No, but he knows them. Unless you know where to find the Children of Arkham, he’s the only | Face it Frank, you suck at pool. Why you starting trouble over it? | Damn Bruce -- I thought you’d be keeping a low profile.
+DEALER	LADYARKHAM	5	0	0	5	
+COP02	GORDON	5	0	1	4	We need you down here, Gordon!  Gordon?! | You heard the Commissioner. We’re not getting any back up. This is on us.
+NEWSCASTER	BATMAN	5	0	0	5	
+BATMAN	COMMISSIONER	5	0	0	5	You didn’t call me down here to see the view did you? | Not one for subtlety are you, Grogan? | This is just what I needed. Thank you.
+COA04	ASSISTANT	5	0	0	5	Boss doesn’t think so. Seeing as you still got the Mayor’s seat.
+PENGUIN	COP01	5	0	0	5	This is your city! They’ve tried to take it from you! | Even now they try to stop you!
+REPORTER04	ALFRED	5	0	0	5	You may claim your parents were on the level, but my sources say *you* welcomed Carmine Fa | You may claim your parents were on the level, but my sources say *you* welcomed Carmine Fa | You may claim your parents were on the level, but my sources say *you* welcomed Carmine Fa
+HARVEY	ENOTES	5	0	0	5	Are you mocking us? Nobody makes fun of Harvey Dent. Nobody!
+ORDERLY01	ORDERLYJERK	5	0	0	5	Yeah... keep quiet. That’s how you can tell who’s really off their rocker. | And boy, are you in some deep water. | Since you beat Oswald Cobblepot to a bloody pulp.
+INMATE01	BRUCE	5	0	4	1	You don’t know a damn thing about me, Wayne! | You’ll join him soon enough, Wayne. | Maybe not... but you’re the next best thing, Wayne.
+REPORTER05	BRUCE	5	0	1	4	Bruce!? Why did you do it?! | Why did you attack Oswald Cobblepot? | Did you do it because he took your campany?
+ORDERLY01	LELAND	5	0	1	4	You don’t have to listen to her. | You don’t have to listen to her.
+LELAND	ORDERLY1	5	0	0	5	Listen. I know this can’t be easy for someone like you -- but if you want to make a succes
+LELAND	ORDERLY2	5	0	0	5	Listen. I know this can’t be easy for someone like you -- but our treatment plan works --  | Did you know that smiling actually improves your mood?
+ORDERLY1	ORDERLY01	5	0	0	5	I got something to ask you. | Holy crap! It is you -- You’re Bruce Wayne.
+JOKER	ARNOLD	5	0	0	5	
+JOKER	PATIENTTABOR	5	0	0	5	Would you say that’s true? | Yes. Please join us when you’re ready. | Let me tell you how to find Vicki’s missing drugs.
+ZSASZ	HARVEY	5	0	0	5	“Do I got...“ Are you serious right now? This is really your angle? | Do you actually, legitimately, want to die this morning, is what I’m asking. | You mind, pal? Tryin’ to have a private conversation here. Rude.
+PATIENTBILLY	SANELEWIS	5	0	0	5	I’m gonna get going to Group. Don’t wanna be late. See you there. | Lewis, I swear if you don’t shut up I will come over there and shut you up. | Lewis, I swear if you don’t shut up I will come over there and shut you up.
+ARNOLD	RYDER	5	0	0	5	
+FAIRCHILD	JOKER	5	0	0	5	
+ALFRED	HARLEEN	5	0	0	5	I won’t attempt to talk you out of this... | But if your vitals go critical, I’m shutting the entire thing down. | The object has broken loose... it’s in your bloodstream.
+BATMAN	ENFORCERFEMALE	5	0	0	5	You’d kill Gordon. Who’s next-- a child? A friend? Where do you draw the line? | Dent’s brainwashed you. | Start thinking for yourself. You were just about to murder a good man.
+ALFRED	POLICE OFFICER	5	0	0	5	
+PROTESTER02	ENFORCER01	5	0	0	5	Arrested? You should be locking *him* up! | Yeah, just pay your way out of trouble again. | Why don’t you arrest him?!?
+ENFORCER01	PROTESTER02	5	0	0	5	Okay, that’s enough. Get back to you cars. | I don’t think this does cover it... seeing as you’re a billionaire, it makes sense you’d p | Well, well, well... Bruce Wayne. You really must’ve done something to piss the Mayor off s
+PROTESTER02	PROTESTER01	5	0	0	5	Careful, or you’ll be the next Cobblepot.
+ENFORCER01	PROTESTER1	5	0	0	5	Or we could just sit here all day.  Up to you. | -so right now, YOU are my only problem-
+PENGUIN	BOY	5	0	0	5	Well if it ain’t the biggest, bleedin’, pleasure to see your sour mug again. | Well if it ain’t the biggest, bleedin’, pleasure to see your sour mug again.
+BATMAN	GROGAN	5	0	0	5	I’m here to keep you safe.
+GORDON	GROGAN	5	0	0	5	You have to...  stop Dent...
+COA02	LUCIUS	5	0	0	5	
+BATMAN	ORDERLY01	5	0	0	5	The Children of Arkham leader? Did you see her?
+BRUCE/BATMAN (choice)	16	5	0	0	5	You’re foolish and reckless. | This won’t go well for you. | You’re a scared child.
+JOKER	BATMAN	5	0	3	2	It’s obvious that’s why Vicki hates you.
+LADYARKHAM	INMATE01	5	0	0	5	Freedom is yours! The only one standing in your way... | Freedom is yours! The only one standing in your way...
+NEWSCASTER	RHONDA	5	0	0	5	
+RHONDA	JOKER	5	0	0	5	
+MONTOYA	RYDER	5	0	0	5	I remember when you two were at the precinct.
+RAMARQUE	SPENCER	4	0	0	4	How long has your family been dealing with Falcone? | My sources say that you welcomed alleged mob-boss Carmine Falcone into your home. | You even spoke with him behind closed doors.
+BRUCE	NEWSCASTER	4	0	0	4	
+CHEMTHUG	GORDON	4	0	0	4	
+CAFEPATRON2	CAFEPATRON1	4	0	0	4	You can fit a lot of skeletons into one of those massive walk-in closets.
+GALAWOMAN03	GALAMAN01	4	0	0	4	
+VICKI	FALCONE	4	0	1	3	I saw you getting paraded around, thought you’d appreciate an interruption. | I’m glad you didn’t give this to the police.
+GORDON	MARTHA	4	0	0	4	
+ALFRED	NEWSCASTER	4	0	0	4	But I think it’s better you had a moment with them. Alone. | I’ll be here if you need me, sir.
+ALFRED	YOUNGBRUCE	4	0	0	4	Look around the alley. Maybe some forgotten detail will come back to you. | There must be some detail that escaped you.
+LADYARKHAM	MONTOYA	4	0	0	4	
+BRUCE/BATMAN (choice)	YOUNGHILL	4	0	0	4	I trust your judgment. | You mean the man you shot?
+ESTHER	YOUNGHILL	4	0	0	4	Please-- I’ll sell you the land.  Please don’t do this-- | Please... I’ll sell you the land... you don’t have to do this... I have a boy... | Please-- I’ll sell you the land.  Please don’t do this--  I have a boy.
+SELINA	CATWOMAN	4	0	0	4	‘t that make you quite the pussy magnet. | What’s the matter, cat got you’re toungue? | You know, maybe uncomplicated is better. I got enough complications in my life.
+PENGUIN	VICKI	4	0	1	3	Come on you! You have to give both candidates equal time - | You know what? Forget it -- More trouble than you’re worth... | Bruce Wayne!?  Theyin’ to get some revenge on your old pal, Vicki?  You won’t find her her
+PENGUIN	THOMAS	4	0	0	4	Go on love. You know what to do.
+PENGUIN	BLOCKBUSTER	4	0	0	4	You’re just his lap dog, aren’t you? | So sorry, ladies and gents. As you might have guessed, there’s been a change to tonight’s 
+BLOCKBUSTER	PENGUIN	4	0	0	4	
+BRUCE/BATMAN (choice)	MODERATOR	4	0	0	4	
+RYDER	SELINA	4	0	0	4	
+HILL	GUARD	4	0	0	4	
+ASSISTANT	ALFRED	4	0	0	4	I’m sorry, the mayor’s busy. Do you have an appointment? | Sorry, the Mayor’s busy. Do you have an appointment?
+DENT	BRUCE	4	0	0	4	How did you find that out?
+VICKI	MONTOYA	4	0	0	4	Let me help you break this story the right way.
+GORDON	SARA	4	0	0	4	You don’t have to be an example to anybody.
+CATWOMAN	OSWALD	4	0	0	4	Don’t you know not to corner a wild animal? | Don’t you know not to corner a wild animal?
+CHEMTHUG	OSWALD	4	0	0	4	
+BATMAN	BLOCKBUSTER	4	0	0	4	Take a long look. You won’t get a view like that in prison.
+FALCONEGOON	OSWALD	4	0	1	3	If Falcone finds out I helped you, he’ll kill me!
+COP01	SELINA	4	0	0	4	
+BRUCE	COA01	4	0	0	4	
+COMMISSIONER	GORDON	4	0	3	1	This city... needs you...
+CIVILIAN01	CIVILIAN02	4	0	0	4	
+ASSISTANT	BATMAN	4	0	0	4	Yeah. You?  Sorry dumb question.
+GOON01	BATMAN	4	0	0	4	
+GOON03	HARVEY	4	0	0	4	You heard me. Get the HELL out of the car!
+BATMAN	COA03	4	0	0	4	
+HARVEY	GOON04	4	0	0	4	This is the second time you’ve helped me.
+LADYARKHAM	COA03	4	0	0	4	
+COA05	GORDON	4	0	0	4	
+COA03	LADYARKHAM	4	0	0	4	Give up! You’re through!
+MAYA	NOHR	4	0	0	4	
+NOHR	MAYA	4	0	0	4	
+PETRA	MAYA	4	0	0	4	
+AIDEN	MAYA	4	0	0	4	
+GILL	NOHR	4	0	0	4	
+BRUCE	PETRA	4	0	0	4	
+OLIVIA	AIDEN	4	0	0	4	
+AXEL	GILL	4	0	0	4	
+HARVEY	OLIVIA	4	0	0	4	
+REPORTER02	AXEL	4	0	0	4	
+REPORTER04	REPORTER03	4	0	0	4	One on your left. Your other left. | One on your left. Your other left. | One on your left. Your other left.
+COUNCILWOMAN	REPORTER04	4	0	0	4	
+REPORTER02	COUNCILWOMAN	4	0	0	4	
+COUNCILWOMAN	REPORTER02	4	0	0	4	Okay, uh...that’s it. Thank you for coming. | Okay, uh...that’s it. Thank you for coming. | Okay, uh...that’s it. Thank you for coming.
+DENNIS	REPORTER02	4	0	0	4	I hear you’re doing a lot more than looking. | I hear you’re doing a lot more than looking. | I hear you’re doing a lot more than looking.
+REPORTER01	REPORTER03	4	0	0	4	
+OSWALD	SECURITY01	4	0	0	4	When I get there I’ll say hello to your parents.
+ORDERLY01	LUCIUS	4	0	0	4	
+INMATE01	ORDERLYJERK	4	0	0	4	You look just like him. | Your father ever tell you about me? How he sent me here? Left me to ROT in this goddamn he
+JOKER	INMATE02	4	0	0	4	
+UNSEENINMATE01	UNSEENINMATE02	4	0	0	4	I LOVE YOU! DO YOU LOVE ME?! SAY YOU LOVE ME!
+UNSEENINMATE03	UNSEENINMATE02	4	0	0	4	I just want to open your head and see what’s inside. An inside suprise. | Watch you back, watch you back, watch your back -- watch your front side too -- you’re goo
+JOKER	ORDERLY01	4	0	0	4	When you’re done, you and I have a lot to talk about.
+ORDERLY2	LELAND	4	0	0	4	I’m sure Dr. Leland has gone over the rules with you.
+BRUCE/BATMAN (choice)	ORDERLY1	4	0	0	4	
+ORDERLY01	ORDERLY1	4	0	0	4	Holy crap! It is you -- You’re Bruce Wayne. | I just want to shake your hand. | I could tell you how to secure your release -- and you could help me.
+BRUCE/BATMAN (choice)	INMATE02	4	0	0	4	
+JOKER	BBRUCE	4	0	0	4	If only you could see just how ridiculous you look. | You really do care, don’t you? | If you want to get into her head, you’ll have to let me in yours.
+BLOCKBUSTER	BRUCE	4	0	0	4	
+ORDERLY01	PATIENTTABOR	4	0	0	4	Hey! Break it up over there you two! | You causing trouble over there?
+SANELEWIS	BRUCE	4	0	0	4	Yeah right.  You wouldn’t be here if you weren’t
+ZSASZ	ORDERLY02	4	0	0	4	Don’t you have somewhere else to be?
+ORDERLY02	ZSASZ	4	0	2	2	
+RYDER	JOKER	4	0	0	4	
+ARNOLD	ZSASZ	4	0	0	4	Oh that’s just nasty! You are nasty!
+LUCIUS	UNSEENINMATE02	4	0	0	4	There’UNSEENINMATE02:    This is not a dream -- but you are sleeping.
+BRUCE/BATMAN (choice)	OFFICER01	4	0	0	4	I’ve always supported you! | I’m trying to help you!
+POLICEOFFICER	BRUCE	4	0	0	4	The lady asked you a question. | So you should answer her. | You’re gonna hafta turn this thing around.  This whole area’s gotta be blocked off.
+BRUCE/BATMAN (choice)	ENFORCERFEMALE	4	0	0	4	You know this is wrong!
+BRUCE/BATMAN (choice)	TUB	4	0	0	4	Then shoot me, you coward. | You aren’t even listening to reason.
+BRUCE	POLICE OFFICER	4	0	0	4	I’m sorry, do you know who I am?
+POLICE OFFICER	ALFRED	4	0	0	4	I told you to move along. | Go have your emergency somewhere else.
+PROTESTER01	ALFRED	4	0	0	4	Must be nice to be so rich you can buy your way out of Arkham!
+GOON03	BATMAN	4	0	0	4	Hey, boss. The guests you requested -- they’ve arrived. | Hey, boss. The guests you requested -- they’ve arrived.
+PENGUIN	GOON03	4	0	0	4	What? Did Wayne tell you I was putting his Tech to practical use? | What? Did Wayne tell you I was putting his Tech to practical use?
+GOON02	PENGUIN	4	0	0	4	Whatever you do -- don’t let him get through. | Whatever you do -- don’t let him get through.
+PENGUIN	GOON01	4	0	0	4	
+COA01	PENGUIN	4	0	0	4	
+HARVEY	THRVEA	4	0	0	4	You’re what I USED to be! Someone caught in the middle, not able to commit! | You run around scaring punks, pretending you’re making a change!
+COA06	LADYARKHAM	4	0	0	4	
+WR	LADYARKHAM	4	0	0	4	
+LADYARKHAM	COA05	4	0	0	4	You’re too late Batman. | You’re too late Batman. | You’re too late Batman.
+LADYARKHAM	COA06	4	0	0	4	
+ORDERLY01	LADYARKHAM	4	0	0	4	
+LADYARKHAM	DLADYARKHAM	4	0	0	4	
+LADYARKHAM	ATMAN	4	0	0	4	
+LADYARKHAM	16	4	0	0	4	
+LADYARKHAM	WRLADYARKHAM	4	0	0	4	
+VICKI	ZSASZ	4	0	2	2	Take your time, Zsasz. | Take your time, Zsasz.
+LADYARKHAM	INMATE02	4	0	0	4	You can’t touch me here. | --then you should know that you can’t possibly win here. | You underestimate the true children of Arkham.
+LADYARKHAM	COP03	4	0	0	4	I told you-- you’re too late.
+GORDON	YOUNGOSWALD	4	0	0	4	Be careful. If he suspects you before those drones are off-line -- we’re probably both dea
+OSWALD	RYDER	4	0	0	4	
+RHONDA	NEWSCASTER	4	0	0	4	
+JOKER	PATRON01	4	0	0	4	
+HARVEY	HOSTAGE01	4	0	0	4	Useless pansy. I’m your only chance! | I see through you Wayne.
+RYDER	MONTOYA	4	0	0	4	
+SPENCER	HARVEY	3	0	0	3	What aren’t you telling us? | What aren’t you telling us?
+REPORTER03	SPENCER	3	0	0	3	
+NEWSCASTER	RYDER	3	0	0	3	
+NEWSCASTER	BRUCE	3	0	0	3	
+SELINA	REPORTER01	3	0	0	3	If you are THE Batman...   then you can call me Catwoman. | I’m more interested in how I can use you.
+GCPD01	CATWOMAN	3	0	0	3	
+THUG03	THUG04	3	0	0	3	I heard stories, you know.
+THUG02	BATMAN	3	0	0	3	
+GORDON	THUG02	3	0	0	3	
+THUG02	GORDON	3	0	0	3	You scared of a freak in a costume?
+CATWOMAN	GCPD01	3	0	0	3	But that’s what you crave--the struggle, the chase.
+THUGBOSS	BATMAN	3	0	0	3	Why’re you hiding, huh?!
+MOBLADY03	MOBLADY02	3	0	0	3	
+MOBSTER04	MOBLADY01	3	0	0	3	
+MOBLADY01	MOBSTER04	3	0	0	3	
+ALFRED	MONTOYA	3	0	0	3	He’ll be found. Will you be visiting as-is or is this a more... formal visit?
+GALAWOMAN02	GALAWOMAN01	3	0	0	3	
+GALAWOMAN05	GALAMAN04	3	0	0	3	To be fair, it’s a little hard to indict someone -- when you don’t even know their name.
+GCPD02	ALFRED	3	0	0	3	
+JOE CHILL	THOMAS	3	0	0	3	Nothing personal. They told me you had it coming.
+MARTHA	THOMAS	3	0	0	3	Take whatever you want. | Take whatever you want.
+SECURITY01	HILL	3	0	0	3	
+PENGUIN	MONTOYA	3	0	0	3	I told you I want the truth! Not that sterile on-message rubbish!
+THOMAS	BATMAN	3	0	0	3	
+CATWOMAN	HILL	3	0	0	3	
+CATWOMAN	SELINA	3	0	0	3	Not that I needed your help or anything, but you had my back. | I think maybe I misjudged you.
+MODERATOR	BLOCKBUSTER	3	0	0	3	And it’s also important for you, the citizens of Gotham, who will soon head to the polls t
+GORDON	MODERATOR	3	0	0	3	
+BATMAN	CONTRACTOR	3	0	0	3	I’m going to break you in half. | I’m going to break you in half. | Don’t think I forgot about you.
+GOON01	SELINA	3	0	3	0	
+GCPD02	GCPD01	3	0	0	3	
+LADYARKHAM	SELINA	3	0	0	3	
+GUARD	HILL	3	0	0	3	
+ALFRED	SECURITY01	3	0	0	3	I can’t blame you for hitting him -- but Gotham won’t like it.
+SARA	GORDON	3	0	0	3	You’re risking all our lives right now.
+MONTOYA	GCPD04	3	0	0	3	
+BATMAN	SELINA	3	0	0	3	Alfred, I’m sending you the contents of a smartphone. There’s got to be something I can us
+BLOCKBUSTER	BATMAN	3	0	0	3	
+BRUCE/BATMAN (choice)	NASH	3	0	0	3	
+COP02	BRUCE	3	0	0	3	
+RHONDA	PATRON01	3	0	0	3	You lost? ‘Cuz I don’t have time for tourists. | Looks like you walked into the wrong bar. | Flash money like that in here, you better be ready to fight.
+COA01	SELINA	3	0	1	2	You’re coming with us.
+SELINA	HILL	3	0	0	3	Looks like your friends have arrived.
+PATRON	PATRON03	3	0	0	3	Hey, don’t I know you? | The cops take all your fancy clothes?
+ALFRED	REPORTER01	3	0	0	3	Seems there are a few things you forgot to mention. | The reports say you were forcibly removed from the building. | The reports say you’ve stepped down.
+GROGAN	COMMISSIONER	3	0	0	3	And you think going into situations completely blind is any better?
+CIVILIAN02	CIVILIAN01	3	0	0	3	Hey, did you get the new passcode for the vaults? My computer is on the fritz. | Thanks! You’re a doll!
+ORDERLY02	DOCTOR	3	0	0	3	I’ve got you covered.
+BRUCE/BATMAN (choice)	GROGAN	3	0	0	3	
+COA03	GORDON	3	0	0	3	
+COA04	HARVEY	3	0	2	1	
+GORDON	DEALER	3	0	0	3	
+ALFRED	COA02	3	0	0	3	
+COP01	BATMAN	3	0	0	3	
+GORDON	COA01	3	0	0	3	
+GORDON	COP04	3	0	0	3	
+CIVILIAN01	HEROGOON	3	0	0	3	
+COA04	GOON04	3	0	0	3	Hey Nicky! You see anything? | Christ. You two! Go check it out. I’ll deal with Dent here. | You two! Go check on Nicky. I’ve got the Mayor.
+HARVEY	HEROGOON	3	0	0	3	What the hell do you think you’re doing here? | Last time I checked, I didn’t need your god damn help, bat freak!
+BATMAN	ASSISTANT	3	0	0	3	Start talking and I’ll hand you over to the police in one piece.
+COA03	CHEMTHUG	3	0	0	3	Keep working with the pigs and we’ll know all your secrets. | What are you gonna do without your protector?
+COP02	CHEMTHUG	3	0	0	3	You’ve been trying this nice guy routine lately, but I don’t buy it for a second.
+OSWALD	COA05	3	0	0	3	I’m no different than all of you! My family was ruined! Mother and father killed, land sto
+GOON01	OSWALD	3	0	0	3	
+COA05	LADYARKHAM	3	0	0	3	
+COA01	MONTOYA	3	0	0	3	You-- idiots think you’re safe.
+COA04	COA01	3	0	0	3	
+SELINA	VICKI	3	0	0	3	You boys ready to go? | You boys ready to go? | You boys ready to go?
+PENGUIN	BRUCE	3	0	0	3	So sorry, ladies and gents. As you might have guessed, there’s been a change to tonight’s  | So sorry, ladies and gents. As you might have guessed, there’s been a change to tonight’s  | You can do whatever you want to me, but Lady Arkham’s plans are already in motion!
+BRUCE	INMATE01	3	0	0	3	You really don’t want to do this. | What are you waiting for?
+INMATE02	LELAND	3	0	0	3	They say if you chase your dreams long enough -- they’ll turn into your nightmares. | Then your dreams -- they chase you!
+BRUCE	ORDERLY	3	0	0	3	
+ORDERLY	BRUCE	3	0	0	3	
+ALFRED	REPORTER05	3	0	0	3	That couldn’t have been easy for you.
+UNSEENINMATE02	ORDERLY01	3	0	0	3	
+RIDDLER	UNSEENINMATE02	3	0	0	3	
+MADHATTER	UNSEENINMATE03	3	0	0	3	Are you MAD, sir?!   The best people usually are... | “Twinkle, twinkle, little bat! How I wonder when you’ll SPLAT! Up above the world you fly,
+BRUCE/BATMAN (choice)	PROFESSORPYG	3	0	0	3	
+PATIENT1	LELAND	3	0	0	3	Hey... you. Over here. | There’s something I want to tell you.
+LELAND	INMATE02	3	0	0	3	
+JOKER	INMATE03	3	0	0	3	Hope you can... play along. | There’s actually something you can help me with. A puzzle that’s missing a few pieces.
+INMATE01	JOKER	3	0	0	3	
+JOKER	RE JOKER	3	0	0	3	She stuck you with her needle and found out the truth in you, didn’t she? | When you beat your fr | You have plenty to hide.
+ARNOLD	JOKER	3	0	0	3	“Wayne?“ Ohhh no no no. I will not participate in Group with a WAYNE! Your father was the 
+PATIENTBILLY	PATIENTTABOR	3	0	0	3	Yeahh right. You’re just saying what Arnie wants to hear. | You’ve got a bad case of the mind knives. I can tell. I can tell.
+PATIENTTABOR	JOKER	3	0	0	3	Yeah! Tell the man how all that makes you feel!
+HARVEY	ARNOLD	3	0	0	3	As your mayor, I swear that I will continue to improve this city.
+ZSASZ	ORDERLY01	3	0	0	3	How the hell should I know? Get that away thing from me! I don’t want to get involved in w
+ZSASZ	PATIENTBILLY	3	0	0	3	You?  You gotta be kiddin me.
+PATIENTTABOR	PATIENTBILLY	3	0	0	3	What about you?  You got any cool scars?
+RYDER	ORDERLY02	3	0	0	3	
+ARNOLD	ORDERLY01	3	0	0	3	Oh that’s just nasty! You are nasty!
+ZSASZ	ARNOLD	3	0	0	3	Wait, that’s the move you’re gonna make?
+RYDER	PATIENTTABOR	3	0	0	3	
+LUCIUS	HARVEY	3	0	0	3	To take it down you’d need to find a way to fry the entire system.
+HARLEEN	JOKER	3	0	0	3	Have you tried a big old smile? | Careful. IF you’re off a millimeter, you could sever your spinal column. What use is Batma
+JOKER	HARLEEN	3	0	0	3	Performing surgery on your own spine? And they call me insane.
+BRUCE	POLICEOFFICER	3	0	0	3	
+DEBORAH	HARVEY	3	0	1	2	Do you have an appointment?
+BATMAN	ENFORCERLUKE	3	0	0	3	
+GORDON	ENFORCER	3	0	0	3	
+RIOTER02	BRUCE	3	0	0	3	I thought you were supposed to be locked in Arkham were you belong!
+BRUCE	RIOTER01	3	0	0	3	Just hold your horses. | I haven’t take anything of yours, gentlemen. | -but I’m about to rob you wastes of life of your ability to stand-up straight.
+BRUCE	RIOTER02	3	0	0	3	What the hell do you morons want?!? | If you commit crimes, you deserve to be treated like criminals-
+RIOTER03	RIOTER02	3	0	0	3	To bust your face in, pretty boy!
+RIOTER02	RIOTER03	3	0	0	3	You think he’s pretty? Really? That why you want to bust his face in-? | And maybe we should start with whatever’s in your wallet-!
+BRUCE/BATMAN (choice)	RIOTER01	3	0	0	3	
+HARVEY	PROTESTER2	3	0	0	3	Together we will finally put an end to the kind of elitism and chaos that plagues this cit
+PROTESTER01	SPENCER	3	0	0	3	“Shouldn’t have been in there?“ You know how many others have been in Arkham for WAY less? | You got out in less than forty-eight hours.
+SPENCER	PROTESTER01	3	0	0	3	*You* used your money and influence to get out in less than forty-eight hours. | Your father committed innocent people to Arkham and made sure they stayed there for the re | Your money enabled you to dodge a bullet that would’ve put any one else away for years.
+PROTESTER01	HARVEY	3	0	0	3	Showing your face in public like this? | Go back to Arkham, you damn maniac!
+PROTESTER01	PROTESTER02	3	0	0	3	I hope you rot in hell!!
+BOY	PENGUIN	3	0	0	3	Thank you. For saving me I mean.
+ALFRED	BOY	3	0	0	3	I’ll alert Gordon. Keep me posted of your progress.
+BOY	ALFRED	3	0	0	3	Why did you save me? It was dangerous. You could have died too.
+BOY	GROGAN	3	0	0	3	
+THUG	BRUCE	3	0	0	3	
+BRUCE/BATMAN (choice)	THUG	3	0	0	3	
+BATMAN	THUG	3	0	0	3	
+THUG04	BATMAN	3	0	0	3	
+REGINA	PENGUIN	3	0	0	3	
+BOB	OSWALD	3	0	0	3	
+LUR	BATMAN	3	0	3	0	
+BATMAN	LUR	3	0	0	3	
+LUCIUS	ENFORCER01	3	0	0	3	
+LUCIUS	GOON01	3	0	0	3	
+GOON01	LUCIUS	3	0	0	3	
+COA01	OSWALD	3	0	0	3	
+ENFORCER02	HARVEY	3	0	0	3	
+HARVEY	HARVRV	3	0	0	3	Haven’t you heard the news?
+SELINA	RUCE	3	0	0	3	I don’t no if you’ve noticed but -- | It’s only a matter of time before he comes for you.
+LADYARKHAM	ADYARKHAM	3	0	0	3	But instead of accepting the fate you deserve, you used bribery and corrupt authority to d | You deserve suffering.
+ZSASZ	VICKI	3	0	0	3	
+ZSASZ	LADYARKHAM	3	0	0	3	One for you, one for me. | Have you ever seen the true color of blood?
+LADYARKHAM	ZSASZ	3	0	0	3	
+LADYARKHAM	JOKER	3	0	0	3	
+JOKER	LADYARKHAM	3	0	0	3	Aww, put your back into it!
+GCPD01	GCPD02	3	0	0	3	
+VICKI	ORDERLY02	3	0	0	3	
+COP03	LADYARKHAM	3	0	0	3	
+INMATE01	BATMAN	3	0	3	0	
+BRUCE	YOUNGOSWALD	3	0	0	3	You should let me talk to him first.
+OSWALD	GROGAN	3	0	0	3	
+GROGAN	OSWALD	3	0	0	3	
+RYDER	CIVILIAN01	3	0	0	3	
+MONTOYA	NEWSCASTER	3	0	0	3	
+JOKER	NEWSCASTER	3	0	0	3	
+BATMAN	NEIGHBOR	3	0	0	3	
+BRUCE/BATMAN (choice)	NEIGHBOR	3	0	0	3	
+BATMAN	QUINZEL	3	0	0	3	
+BRUCE	COA03	3	0	0	3	
+HARVEY	I VEY	3	0	0	3	
+RAMARQUE	ALFRED	2	0	0	2	How long has your family been dealing with Falcone? | Sources say you circumvented the law to secure a premature release.
+RYDER	NEWSCASTER	2	0	0	2	
+NEWSCASTER	HARVEY	2	0	0	2	With over two-hundred successful convictions, District Attorney Harvey Dent just might be  | He believes that together we can make a ‘dent’ in Gotham’s crime. But it starts with you.
+BRUCE/BATMAN (choice)	DRUGDEALER2	2	0	0	2	
+DRUGDEALER1	OSWALD	2	0	0	2	
+OSWALD	DRUGDEALER1	2	0	0	2	Low lives like you don’t belong
+OSWALD	HOMELESSMAN	2	0	0	2	And you’re ruinin’ the moment!
+BRUCE	CAFEPATRON1	2	0	0	2	
+CAFEPATRON1	BRUCE	2	0	0	2	
+CAFEPATRON1	CAFEPATRON2	2	0	0	2	
+REPORTER01	SELINA	2	0	0	2	
+REPORTER01	GORDON	2	0	0	2	
+GORDON	REPORTER01	2	0	0	2	
+GCPD02	CATWOMAN	2	0	0	2	
+BRUCE/BATMAN (choice)	THUGBOSS	2	0	0	2	
+THUG02	THUGBOSS	2	0	0	2	
+THUGBOSS	THUG01	2	0	0	2	
+THUG01	THUG02	2	0	0	2	
+THUG03	CATWOMAN	2	0	0	2	
+THUG03	THUG01	2	0	0	2	
+THUG04	THUG03	2	0	0	2	Don’t tell me you’re scared of the big bad bat...
+BATMAN	THUG02	2	0	0	2	
+FALCONE	MOBLADY02	2	0	0	2	You got no goddamn right to be here!
+MOBLADY02	MOBLADY03	2	0	0	2	
+MOBLADY04	MOBLADY03	2	0	0	2	
+MONTOYA	ALFRED	2	0	0	2	
+FALCONE	BOB	2	0	0	2	
+GALAWOMAN01	FALCONE	2	0	0	2	Don’t get your hopes up. You’re not his type.
+GALAMAN04	GALAWOMAN05	2	0	0	2	
+THOMAS	GORDON	2	0	0	2	You.. you don’t have to do this!
+ANOTHER SECURITY CAM FEED CATCHES HIS EYE	BRUCE	2	0	0	2	
+BATMANBRUCE	RYDER	2	0	0	2	
+BRUCE	JOECHILL	2	0	0	2	
+JOE CHILL	ALFRED	2	0	0	2	Listen carefully, kid. Your folks got killed in a robbery. You got lucky. Remember that.
+MARTHA	ALFRED	2	0	0	2	You worthless-- I’ll -- I’ll kill your whole damn--
+BRUCE/BATMAN (choice)	JOECHILL	2	0	0	2	
+SECURITY02	BATMAN	2	0	2	0	
+SECURITY03	ALFRED	2	0	0	2	
+ALFRED	SECURITY03	2	0	0	2	
+JOECHILL	ALFRED	2	0	0	2	
+BATMAN	THOMAS	2	0	0	2	
+MONTOYA	PENGUIN	2	0	0	2	
+YOUNGHILL	BATMAN	2	0	0	2	You had your chance. You should have made the deal we offered you.
+THOMAS	PENGUIN	2	0	0	2	Subject Nine... Esther Cobblepot. You’ve been declared criminally insane...
+THOMAS	ESTHER	2	0	0	2	
+ESTHER	CATWOMAN	2	0	0	2	
+CATWOMAN	BLOCKBUSTER	2	0	0	2	
+RAMARQUE	RYDER	2	0	0	2	
+SELINA	LADYARKHAM	2	0	0	2	They’re not gonna stop until they get what they want from you.
+HILL	GORDON	2	0	2	0	
+HILL	SECURITY01	2	0	0	2	
+GORDON	FAIRCHILD	2	0	0	2	I’m asking for your help.
+REGINA	LADYARKHAM	2	0	0	2	They want to decide what your future at this company will be.
+RENEE	GORDON	2	0	1	1	You got it, Lieutenant. | I only wanted to thank you.
+FALCONE	FLACONE	2	0	0	2	No, you’re not. That’s why you were kept in the dark.
+FALCONE	HILL	2	0	2	0	Your father. Hill. And me. We ran this city. Still do.
+BRUCE/BATMAN (choice)	GCPD01	2	0	0	2	We’ll get your man out.
+MONTOYA	LADYARKHAM	2	0	0	2	
+BRUCE/BATMAN (choice)	GCPD02	2	0	0	2	
+MONTOYA	VICKI	2	0	0	2	Listen, you have to believe me.
+GORDON	GCPD02	2	0	0	2	
+GOON01	CATWOMAN	2	0	0	2	
+VICKI	CATWOMAN	2	0	0	2	
+CHEMTHUG	ALFRED	2	0	0	2	Man, I told you everything I know. What more you want from me?
+BRUCE/BATMAN (choice)	CONTRACTOR	2	0	0	2	
+BOUNCER	BUTCHIE	2	0	0	2	
+BRUCE/BATMAN (choice)	BUTCHIE	2	0	0	2	
+PATRON02	BRUCE	2	0	0	2	I didn’t figure you for a gold-digger.
+TONY	TIRONY	2	0	0	2	Someone said you were here -- but I guess I had to see it to believe it. | Who do you think you are, turning off my favorite show? Bruce-goddman-Wayne?
+PATRON01	RHONDA	2	0	0	2	But didn’t he send you a check for the damages?
+SELINA	COA01	2	0	0	2	Rhonda? You didn’t tell me you had a problem with rats.
+PATRON03	PATRON	2	0	0	2	You really think he’d show up here? | Did you hear? The cops raided his house. Sorry, his “manor.“
+BRUCE	GROGAN	2	0	0	2	
+COMMISSIONER	BRUCE	2	0	0	2	
+COP01	COMMISSIONER	2	0	0	2	
+ATTORNEY	JANITOR	2	0	0	2	
+JANITOR	ATTORNEY	2	0	0	2	
+DOCTOR	ORDERLY02	2	0	0	2	
+BRUCE	EIR	2	0	0	2	
+BRUCE	COMMISSIONER	2	0	0	2	
+COMMISSIONER	GROGAN	2	0	0	2	
+COP01	ALFRED	2	0	0	2	
+COP01	GOON01	2	0	0	2	
+NEWSCASTER	COP01	2	0	0	2	
+GORDON	ASSISTANT	2	0	0	2	
+COMMISSIONER	COA01	2	0	0	2	No... thank you. I’ll handle it.
+HEROGOON	CIVILIAN01	2	0	0	2	
+CIVILIAN02	HEROGOON	2	0	0	2	
+COA03	GOON04	2	0	0	2	You think I’m scared of you?
+DEALER	ALFRED	2	0	0	2	Yeah, sure. You got the guns you wanted, anyway.
+ASSISTANT	COA04	2	0	0	2	
+CHEMTHUG	COA03	2	0	0	2	
+COA02	HARVEY	2	0	2	0	
+COP02	COA03	2	0	0	2	
+CHEMTHUG	COP02	2	0	0	2	
+NEWSCASTER	PENGUIN	2	0	0	2	The people are rioting. Please, stay away. For your own safety. Stay away!
+ALFRED	PENGUIN	2	0	0	2	
+COP01	PENGUIN	2	0	0	2	
+GOON01	LADYARKHAM	2	0	0	2	
+LADYARKHAM	COP01	2	0	0	2	
+COA05	OSWALD	2	0	0	2	
+COP02	ALFRED	2	0	0	2	
+COA06	COP02	2	0	0	2	
+GORDON	COA05	2	0	0	2	Put down your weapons!
+CATWOMAN	COA02	2	0	0	2	
+FALCONE	THOMAS	2	0	0	2	He protected his own, but if you got on his bad side… | He protected his own, but if you got on his bad side…
+FALCONE	YOUNGBRUCE	2	0	0	2	Still... made us all rich. Including you. | Still... made us all rich. Including you.
+MONTOYA	OSWALD	2	0	0	2	
+OSWALD	MONTOYA	2	0	0	2	We helped you with Falcone. | We helped you with Falcone.
+OSWALD	HILL	2	0	0	2	
+HILL	SELINA	2	0	0	2	How do you think your family got the land for Wayne Tower? | How do you think your family got the land for Wayne Tower?
+THOMAS	HARVEY	2	0	0	2	
+SELINA	THOMAS	2	0	0	2	
+PENGUIN	FALCONE	2	0	0	2	We need a new moderator. You there! Yes! You! Thank you for volunteering! | We need a new moderator -- You there! Yes -- you! Thank you for volunteering --
+BLOCKBUSTER	FALCONE	2	0	0	2	You’ll do. Get out here. | You’ll do. Get out here.
+COUNCILWOMAN	CATWOMAN	2	0	0	2	Thank you. Now… I’m sure you all have noticed there are three shovels up here today. And t
+SECURITY01	OSWALD	2	0	0	2	
+REGINA	SECURITY01	2	0	0	2	But the statements you’ve made to the press didn’t help matters.
+BRUCE	INMATE02	2	0	0	2	I’m serious. You don’t want to get hurt.
+ORDERLYJERK	INMATE01	2	0	0	2	And boy are you in deep. Beating Oswald Cobblepot half to death isn’t something you walk a
+INMATE01	ORDERLY01	2	0	0	2	I want your daddy to see what I do to you.
+ORDERLYJERK	LELAND	2	0	0	2	Heh, then you turned on the crowd, screaming that you couldn’t stop! | Heh, then you turned on the crowd, screaming that you couldn’t stop!
+JOKER	ORDERLYJERK	2	0	0	2	
+BRUCE/BATMAN (choice)	ORDERLY03	2	0	0	2	
+BRUCE/BATMAN (choice)	ORDERLY04	2	0	0	2	
+LADYARKHAM	QUINZEL	2	0	0	2	Because you were too weak to stop me! | I’m still inside you. In your head... under your skin.
+BRUCE/BATMAN (choice)	MEANREPORTER	2	0	0	2	
+ORDERLY01	GUARD	2	0	0	2	
+REPORTER05	ALFRED	2	0	0	2	Did you do it because he took your campany? | Are you going to apologize?
+ALFRED	RAMARQUE	2	0	0	2	
+ORDERLY01	UNSEENINMATE02	2	0	0	2	Now, stop struggling. You don’t want the vice again -- do ya?
+UNSEENINMATE02	UNSEENINMATE03	2	0	0	2	They say if you chase your dreams long enough -- they’ll turn into your nightmares.
+UNSEENINMATE02	UNSEENINMATE01	2	0	0	2	Then they’ll chase you...
+UNSEENINMATE02	RIDDLER	2	0	0	2	
+UNSEENINMATE02	MADHATTER	2	0	0	2	
+POISONIVY	RATCATCHER	2	0	0	2	
+RATCATCHER	POISONIVY	2	0	0	2	It used to to be my job to kill you all.  The city hired me to keep your populations down.
+PROFESSORPYG	RATCATCHER	2	0	0	2	Pain is the beginning of perfection- AND PYG WILL MAKE YOU ALL PERFECT! | LET ME OUT OR PYG WILL EAT YOUR LUNGS!
+ORDERLY	JOKER	2	0	1	1	
+JOKER	ALFRED	2	0	0	2	See you around, Bruce Wayne!
+BRUCE/BATMAN (choice)	ORDERLY02	2	0	0	2	
+ORDERLY1	QUINZEL	2	0	0	2	You better get that stick outta your rear.
+BRUCE	THOMPKINS	2	0	0	2	
+ORDERLY1	ORDERLY02	2	0	0	2	She’ll be so happy to see you here. | I help you -- you help me.
+BRUCE/BATMAN (choice)	NURSE	2	0	0	2	
+LELAND	UNSEEN INMATE1	2	0	0	2	Please do not disregard our rules.  It will count against your evaluation.
+UNSEEN INMATE1	LELAND	2	0	0	2	
+ORDERLY01	INMATE02	2	0	0	2	Come on. You’ve got to eat. Just take another bite. One for me?
+INMATE03	JOKER	2	0	0	2	There’s too many white tiles. One, two..there’s not enough black tiles. You hear me? There
+LELAND	INMATE03	2	0	0	2	
+ORDERLY02	INMATE01	2	0	0	2	
+PATIENTBILLY	ARNOLD	2	0	0	2	
+PATIENTTABOR	SOCKO	2	0	0	2	
+ER	JOKER	2	0	0	2	
+JOKER	ER	2	0	0	2	
+ORDERLY01	SANELEWIS	2	0	0	2	I think they’re waiting for you, so why don’t you head on over?
+BRUCE/BATMAN (choice)	SANELEWIS	2	0	0	2	Then why are you in here?
+BRUCE	SANELEWIS	2	0	0	2	
+RYDER	ARNOLD	2	0	0	2	
+ZSASZ	BLOCKBUSTER	2	0	0	2	Bruce Wayne. You’ve got quite a reputation around here. | Taking your enemies out to stay on top. I like your style, kid.
+ORDERLY01	ZSASZ	2	0	0	2	
+BRUCE/BATMAN (choice)	SOCKO	2	0	0	2	
+BRUCE/BATMAN (choice)	Y01	2	0	0	2	
+SANELEWIS	JOKER	2	0	0	2	
+PATIENTTABOR	RYDER	2	0	0	2	You better not be mind-controlling me. Doctor says that’s against the rules.
+BATMANBRUCE	PENGUIN	2	0	2	0	
+ALFRED	AAFLFDRED	2	0	0	2	
+UNSEENINMATE02	LUCIUS	2	0	0	2	They say if you chase your dreams long enough -- they’ll turn into your nightmares. | They say if you chase your dreams long enough -- they’ll turn into your nightmares.
+BRUCE/BATMAN (choice)	BATMANBT	2	0	0	2	I needed your help here.
+BATMANBRUCE	HARVEY	2	0	0	2	
+PENGUIN	HARLEEN	2	0	0	2	All it needs to do is lodge in your brain and cause an anurism...
+MARTHA	HARLEEN	2	0	0	2	
+MARTHA	BATMAN	2	0	0	2	
+OFFICER01	SERGEANT	2	0	0	2	
+BRUCE	DEBORAH	2	0	0	2	
+HARVEY	IR	2	0	0	2	
+HARVEY	HARVEDY	2	0	0	2	And after they find your dead body it will all make sense. | All the shame you’ve suffered was just too much for you to bear. Your family’s history. Ge
+ENFORCERLUKE	BATMAN	2	0	0	2	
+LUCIUS	ENFORCERCOLLEEN	2	0	0	2	I’m going to keeping routing him, but you need to get to Wayne Tower and destroy that Blac
+ENFORCERFEMALE	ORNOTES	2	0	0	2	Oh god. You’re right.
+GORDON	TUB	2	0	0	2	How the hell did you survive all this while you were cuffed?
+ENFORCERLUKE	SXF	2	0	0	2	
+BRUCE/BATMAN (choice)	ENFORCERMALE	2	0	0	2	You’re going to regret this.
+ENFORCERFEMALE	LUCIUS	2	0	0	2	
+DEBORAH	GORDON	2	0	0	2	
+RIOTER03	BRUCE	2	0	0	2	Lucky running into you... since we’re taking back what’s ours! | To bust your hoity-toity head open!
+RIOTER01	BRUCE	2	0	0	2	
+POLICEOFFICER	ALFRED	2	0	0	2	
+PROTESTER2	BRUCE	2	0	0	2	
+POLICE OFFICER	HARVEY	2	0	0	2	Sure, I do.  You’re a guy who throws money at your problems.
+HARVEY	POLICE OFFICER	2	0	0	2	
+POLICE OFFICER	ENFORCER	2	0	0	2	I told you to move along.
+ENFORCER	POLICE OFFICER	2	0	0	2	You’re a guy who throws money at your problems.
+BRUCE/BATMAN (choice)	POLICEOFFICER	2	0	0	2	Do you know who I am?
+ENFORCER01	POLICEOFFICER	2	0	0	2	You’re a guy who throws money at your problems.
+PROTESTER03	ENFORCER01	2	0	0	2	
+PROTESTER02	ALFRED	2	0	0	2	
+PROTESTER03	PROTESTER01	2	0	0	2	They should lock you up!
+MONTOYA	REGINA	2	0	0	2	
+REGINA	MONTOYA	2	0	0	2	
+BATMAN	RUCE	2	0	0	2	When I was a kid, not much older than you... Someone took my parents from me too.
+GOON01	PENGUIN	2	0	0	2	
+BATMAN	GOON02	2	0	0	2	
+GOON02	LUCIUS	2	0	0	2	
+GOON03	PENGUIN	2	0	0	2	
+COA02	PENGUIN	2	0	0	2	Whatever you do -- don’t let him get through.
+OSWALD	GCPD01	2	0	0	2	
+SELINA	DRIRE	2	0	0	2	
+COA05	COA02	2	0	0	2	
+LADYARKHAM	WR	2	0	0	2	
+COA04	LADYARKHAM	2	0	0	2	
+COA02	COA06	2	0	0	2	
+BRUCE/BATMAN (choice)	WR	2	0	0	2	
+ORDERLY02	LADYARKHAM	2	0	0	2	
+DLADYARKHAM	LADYARKHAM	2	0	0	2	
+ATMAN	VICKI	2	0	2	0	You’ve proven your point, Vicki. | You’ve proven your point, Vicki.
+LUCIUS	VICKI	2	0	1	1	I’ve got the blueprints for Arkham... they don’t even show the catacombs. You’ll be blind.
+ADYARKHAM	LADYARKHAM	2	0	0	2	This whole time... you were just stalling me! | You may have used your wealth and influence to escape Arkham Asylum.
+GCPD03	GCPD02	2	0	0	2	
+GCPD04	GCPD03	2	0	0	2	
+GCPD05	GCPD04	2	0	0	2	
+GCPD06	GCPD05	2	0	0	2	
+VICKI	HILL	2	0	2	0	
+SELINA	SECURITY01	2	0	0	2	If I wanted to see you, I would have called. | You assume I wanted to see you. How boy billionaire of you.
+INMATE02	LADYARKHAM	2	0	0	2	
+LUCIUS	ORDERLY01	2	0	0	2	
+LUCIUS	COA02	2	0	0	2	
+COA02	ALFRED	2	0	0	2	
+OSWALD	STUCE	2	0	0	2	
+GCPD05	GORDON	2	0	1	1	
+YOUNGOSWALD	GORDON	2	0	0	2	
+RYDER	COA01	2	0	0	2	
+OSWALD	CIVILIAN01	2	0	0	2	
+GORDON	COMMISSIONER	2	0	0	2	
+OSWALD	JOKER	2	0	0	2	You can do whatever you want to me, but Lady Arkham’s plans are already in motion!
+NEWSCASTER	JOKER	2	0	0	2	
+NEIGHBOR	BATMAN	2	0	0	2	
+GORDON	COA02	2	0	0	2	
+COA03	BRUCE	2	0	1	1	Shut your lying mouth!
+BRUCE	37	2	0	0	2	
+HARVEY	WEVEY	2	0	0	2	
+HARVEY	GCPDO4	2	0	0	2	
+BRUCE	RUCE	2	0	0	2	You’re no better than the Children of Arkham.
+HARVEY	HARVEY	2	2	0	0	There’s nothing he can do for you!
+HARVEY	SPENCER	1	0	0	1	I’ll be fielding your questions from here on out.
+ALFRED	REPORTER03	1	0	0	1	
+COUNCILWOMAN	SPENCER	1	0	0	1	
+HARVEY	NEWSCASTER	1	0	0	1	
+BRUCE	DRUGDEALER2	1	0	0	1	
+HOMELESSMAN	OSWALD	1	0	0	1	
+CHEMTHUG	CATWOMAN	1	0	1	0	
+CAFEPATRON2	HARVEY	1	0	0	1	
+HARVEY	CAFEPATRON2	1	0	0	1	
+REPORTER02	SELINA	1	0	0	1	
+BATMAN	REPORTER01	1	0	0	1	
+REPORTER01	GCPD01	1	0	0	1	
+GCPD03	CATWOMAN	1	0	0	1	
+GORDON	THUG03	1	0	0	1	
+BATMAN	GCPD01	1	0	0	1	
+BRUCE/BATMAN (choice)	THUG02	1	0	0	1	
+THUGBOSS	BRUCE	1	0	0	1	
+THUG01	THUGBOSS	1	0	0	1	
+THUG02	THUG01	1	0	0	1	
+THUG04	THUG01	1	0	0	1	
+BRUCE	THUG04	1	0	0	1	
+BRUCE	THUG03	1	0	0	1	
+THUG01	THUG03	1	0	0	1	You think he’s gonna show?
+THUG02	THUG03	1	0	0	1	
+THUG01	GORDON	1	0	0	1	No man! I just...you know, heard things.
+THUG03	THUG02	1	0	0	1	
+THUG04	THUG02	1	0	0	1	
+THUGBOSS	THUG03	1	0	0	1	
+THUGBOSS	THUG04	1	0	0	1	
+THUGBOSS	THUG02	1	0	0	1	
+BRUCE	THUGBOSS	1	0	0	1	
+GORDON	THUGBOSS	1	0	0	1	
+CATWOMAN	GCPD02	1	0	0	1	Didn’t your mother teach you to knock?
+GCPD02	THUGBOSS	1	0	0	1	
+GUARD	THUGBOSS	1	0	0	1	
+THUGBOSS	CATWOMAN	1	0	0	1	
+THUGBOSS	GCPD02	1	0	0	1	
+THUGBOSS	GUARD	1	0	0	1	You think you can stop us?
+BATMAN	THUGBOSS	1	0	0	1	
+ALFRED	THUGBOSS	1	0	0	1	
+CATWOMAN	THUGBOSS	1	0	0	1	
+MOBSTER01	ALFRED	1	0	0	1	
+MOBSTER02	ALFRED	1	0	0	1	
+MOBSTER01	FALCONE	1	0	0	1	You make your rounds?
+ALFRED	MOBSTER01	1	0	0	1	
+MOBLADY02	FALCONE	1	0	0	1	
+MOBLADY03	MOBLADY04	1	0	0	1	
+MOBSTER06	MOBLADY04	1	0	0	1	
+MOBSTER05	MOBLADY04	1	0	0	1	
+MOBLADY04	MOBLADY01	1	0	0	1	
+MOBLADY01	MOBLADY04	1	0	0	1	
+MOBLADY02	MOBLADY01	1	0	0	1	
+MOBSTER02	MOBLADY01	1	0	0	1	
+MOBSTER05	MOBSTER02	1	0	0	1	
+MOBSTERO1	MOBSTER02	1	0	0	1	Tell your bookie I’m puttin’ down 5-g on Dent to win.
+MOBSTER02	MOBSTERO1	1	0	0	1	Politics, it ain’t horse racing. Whoever wins, there’s consequences that are bigger than y
+MONBSTER02	MOBSTER01	1	0	0	1	I’ll remember you said that when I’m peelin’ your face of one of Falcone’s friers.
+MOBSTERO1	ALFRED	1	0	0	1	
+BRUCE/BATMAN (choice)	MOBSTER02	1	0	0	1	
+BRUCE/BATMAN (choice)	MOBSTER01	1	0	0	1	
+BRUCE/BATMAN (choice)	MONBSTER02	1	0	0	1	
+BRUCE/BATMAN (choice)	MOBSTERO1	1	0	0	1	
+THUG01	FALCONE	1	0	0	1	
+FALCONE	THUG01	1	0	0	1	
+BOB	FALCONE	1	0	0	1	After all, whoever you support is a reflection on you.
+REGINA	FALCONE	1	0	0	1	And we trust someone like you to lead this city to greatness.
+VICKI	BOB	1	0	0	1	
+FALCONE	GALAWOMAN01	1	0	0	1	
+GALAWOMAN03	GALAWOMAN01	1	0	0	1	To be fair, you can’t blame the crime rate on Mayor Hill alone.
+GALAWOMAN01	GALAMAN01	1	0	0	1	
+GALAWOMAN02	GALAWOMAN03	1	0	0	1	Do you think he’s single?
+GALAWOMAN02	GALAMAN01	1	0	0	1	
+GALAMAN01	GALAWOMAN02	1	0	0	1	Why are you even here?
+GALAWOMAN03	GALAWOMAN02	1	0	0	1	
+GALAWOMAN04	GALAWOMAN02	1	0	0	1	
+GALAMAN02	GALAMAN01	1	0	0	1	How many bedrooms do you think he has?
+GALAWOMAN02	GALAMAN02	1	0	0	1	
+GALAWOMAN01	GALAMAN02	1	0	0	1	
+GALAMANO3	GALAMAN02	1	0	0	1	
+GALAMAN04	GALAWOMAN01	1	0	0	1	
+WAITER	GALAWOMAN01	1	0	0	1	
+GALAWOMAN05	GALAWOMAN01	1	0	0	1	
+GALAWOMAN01	GALAMAN04	1	0	0	1	
+GALAWOMAN01	GALAWOMAN02	1	0	0	1	
+GALAMAN02	GALAWOMAN01	1	0	0	1	
+GALAWOMANO1	GALAWOMAN01	1	0	0	1	If there is, you don’t have it.
+GALAWOMAN04	GALAWOMAN05	1	0	0	1	
+GALAMAN05	GALAWOMAN05	1	0	0	1	
+GALAMAN04	GALAMAN05	1	0	0	1	
+GALAMAN03	GALAMAN04	1	0	0	1	
+GALAMAN05	GALAMAN04	1	0	0	1	
+GALAMAN04	GALAMAN03	1	0	0	1	
+GALAMAN04	HARVEY	1	0	0	1	As far as I’m concerned, Batman couldn’ve done a lot worse to that child-killer.   It’s no
+HARVEY	GALAMAN04	1	0	0	1	Thank you... thank you everyone.
+HARVEY	GALAWOMAN05	1	0	0	1	
+WAITER	HARVEY	1	0	0	1	
+GORDON	THOMAS	1	0	0	1	
+MARTHA	GORDON	1	0	0	1	Take whatever you want!
+LFRED	ALFRED	1	0	0	1	
+FAIRCHILD	BATMAN	1	0	0	1	
+BATMANBRUCE	FAIRCHILD	1	0	0	1	
+ALFRED	GCPD02	1	0	0	1	
+JOE CHILL	BRUCE	1	0	0	1	Nothing personal. They told me you had it coming.
+ALFRED	MARTHA	1	0	0	1	If you learned your father was corrupt at a young age, would it send you down the same pat
+BRUCE	MARTHA	1	0	0	1	
+JOECHILL	YOUNGBRUCE	1	0	0	1	They told me you had it coming.
+BRUCE	YOUNGBRUCE	1	0	0	1	
+BRUCE/BATMAN (choice)	YOUNGBRUCE	1	0	0	1	
+HOSTAGE01	BATMAN	1	0	1	0	Thanks, Batman. God-- God bless you.
+DENT	LADYARKHAM	1	0	0	1	
+DENT	PENGUIN	1	0	0	1	
+HILL	YOUNGHILL	1	0	0	1	
+YOUNGHILL	PENGUIN	1	0	0	1	
+CATWOMAN	YOUNGHILL	1	0	0	1	
+BATMAN	YOUNGHILL	1	0	0	1	
+VICKI	PENGUIN	1	0	0	1	
+VICKI	THOMAS	1	0	0	1	
+THOMAS	VICKI	1	0	0	1	
+THOMAS	LADYARKHAM	1	0	0	1	
+LADYARKHAM	THOMAS	1	0	0	1	Now you know. Now you will see.
+LADYARKHAM	YOUNGHILL	1	0	0	1	Now you know. Now you will see.
+BATMAN	ESTHER	1	0	0	1	
+ESTHER	BATMAN	1	0	0	1	
+HILL	ESTHER	1	0	0	1	
+CATWOMAN	ESTHER	1	0	0	1	
+BLOCKBUSTER	CATWOMAN	1	0	0	1	
+HARVEY	BLOCKBUSTER	1	0	0	1	I won’t let you kill anyone else!
+YOUNGHILL	GORDON	1	0	0	1	You had your chance. You should have taken the deal.
+BLOCKBUSTER	HARVEY	1	0	0	1	
+LADYARKHAM	BLOCKBUSTER	1	0	0	1	
+BLOCKBUSTER	LADYARKHAM	1	0	0	1	You’ll do. Get out here.
+BLOCKBUSTER	MODERATOR	1	0	0	1	
+MODERATOR	GORDON	1	0	0	1	
+MODERATOR	HILL	1	0	1	0	So let’s begin. Mr. Mayor, the first question goes to you...
+RYDER	BLOCKBUSTER	1	0	0	1	
+FAIRCHILD	BLOCKBUSTER	1	0	0	1	
+RYDER	RAMARQUE	1	0	0	1	
+LADYARKHAM	RYDER	1	0	0	1	We are the Children of Arkham. And we have opened your eyes.
+RYDER	GCPD01	1	0	0	1	
+GCPD01	RYDER	1	0	0	1	
+GCPD01	LADYARKHAM	1	0	0	1	
+LADYARKHAM	GCPD02	1	0	0	1	
+LADYARKHAM	GCPD01	1	0	0	1	
+SECURITY02	HILL	1	0	0	1	
+SECURITY01	ALFRED	1	0	0	1	
+HILL	SECURITY02	1	0	0	1	
+SECURITYGUY	HILL	1	0	0	1	
+WRI	BRUCE	1	0	0	1	
+FAIRCHILD	SELINA	1	0	0	1	
+BATMAN	FAIRCHILD	1	0	0	1	I won’t let you do this.
+SELINA	FAIRCHILD	1	0	0	1	
+FLACONE	FALCONE	1	0	0	1	Apple didn’t fall far, did it? You got that Wayne streak.
+GCPD01	FALCONE	1	0	0	1	
+GCPD02	FALCONE	1	0	0	1	
+RENEE	HARVEY	1	0	0	1	We know the media’s biased against people like you.
+OPERATOR	GORDON	1	0	0	1	
+MONTOYA	LELAND	1	0	1	0	Doctor, you getting all this?
+SARA	PENGUIN	1	0	1	0	
+GCPD02	VICKI	1	0	0	1	
+GCPD03	VICKI	1	0	0	1	
+HARVEY	GCPD02	1	0	0	1	
+GCPD04	MONTOYA	1	0	0	1	
+GCPD04	GORDON	1	0	0	1	
+GORDON	GCPD04	1	0	0	1	
+OSWALD	CATWOMAN	1	0	0	1	When this whole thing starts... make sure you’re on the right side.
+VICKI	CHEMTHUG	1	0	0	1	I’m glad you didn’t give this to the police.
+ALFRED	CHEMTHUG	1	0	0	1	Hello? Did I lose you?
+1 20	OSWALD	1	0	0	1	
+OSWALD	1 20	1	0	0	1	‘Sides, she was doing you a favor, wasn’t she.
+BRUCE/BATMAN (choice)	BOUNCER	1	0	0	1	
+NASH	BRUCE	1	0	0	1	
+RHONDA	BOUNCER	1	0	0	1	
+GUTTERPUNK	BOUNCER	1	0	0	1	Hey, you got a dollar?
+BOUNCER	GUTTERPUNK	1	0	0	1	
+BOUNCER	RHONDA	1	0	0	1	
+MEANPATRON1	BRUCE	1	0	0	1	Oh, you like to be spanked.
+BUTCHIE	TONY	1	0	0	1	
+TONY	BUTCHIE	1	0	0	1	I’d rather you just be on your way now.
+TIRONY	TONY	1	0	0	1	Who do you think you are, turning off my favorite show? Bruce-goddman-Wayne?
+PATRON02	TONY	1	0	0	1	
+ELINA	RHONDA	1	0	0	1	
+PATRON02	SELINA	1	0	0	1	
+SELINA	PATRON02	1	0	0	1	
+PATRON	PATRON01	1	0	0	1	What did you say? You got some nerve--
+FRANK	SELINA	1	0	0	1	
+COA01	CHEMTHUG	1	0	0	1	
+BRUCE/BATMAN (choice)	PATRON	1	0	0	1	
+COA	SELINA	1	0	0	1	
+ALFRED	PATRON03	1	0	0	1	
+PATRON02	PATRON03	1	0	0	1	
+SELINA	NEWSCASTER	1	0	0	1	
+NEWSCASTER	SELINA	1	0	0	1	
+NEWSCASTER	HILL	1	0	1	0	Joining me live is Mayor Hamilton Hill. Mr. Mayor, you said earlier today that in light of
+HILL	NEWSCASTER	1	0	0	1	
+FAIRCHILD	HILL	1	0	0	1	
+HILL	RYDER	1	0	0	1	
+COMMISSIONER	COP01	1	0	0	1	
+CIVILIAN01	COMMISSIONER	1	0	0	1	
+ALFRED	CIVILIAN01	1	0	0	1	
+BRUCE	CIVILIAN01	1	0	0	1	
+ALFRED	BOB	1	0	0	1	Bob Zellerbach is a little too prickly for my tastes. But Regina has always had a soft spo
+BOB	ALFRED	1	0	0	1	
+ALFRED	ATTORNEY	1	0	0	1	
+ATTORNEY	BRUCE	1	0	0	1	
+DOCTOR	JANITOR	1	0	0	1	
+EIR	BRUCE	1	0	0	1	
+ALFRED	COP02	1	0	0	1	
+BATMAN	NEWSCASTER	1	0	0	1	
+GOON02	BATMAN	1	0	0	1	
+GOON01	COP01	1	0	0	1	
+COP01	NEWSCASTER	1	0	0	1	
+NEWSCASTER	COP02	1	0	0	1	
+COP02	HARVEY	1	0	0	1	
+HARVEY	COP02	1	0	0	1	
+COA01	COP01	1	0	0	1	
+COA01	COMMISSIONER	1	0	0	1	
+COA01	GORDON	1	0	0	1	You just keep an eye out for that cop.
+COP03	BATMAN	1	0	0	1	
+BRUCE/BATMAN (choice)	COP03	1	0	0	1	You let her go rogue!
+ASSISTANT	GORDON	1	0	0	1	
+CIVILIAN02	BATMAN	1	0	0	1	
+BRUCE/BATMAN (choice)	CIVILIAN01	1	0	0	1	
+BRUCE/BATMAN (choice)	CIVILIAN02	1	0	0	1	You should be scared.
+HEROGOON	CIVILIAN02	1	0	0	1	
+BRUCE/BATMAN (choice)	HEROGOON	1	0	0	1	
+GOON03	COA04	1	0	0	1	
+GOON04	GOON03	1	0	0	1	You’d better listen to us, Mister Mayor. Wouldn’t want to hurt your pretty face anymore, w
+GOON03	GOON04	1	0	0	1	You want us to screw up your face even more? Is that what you want?
+GOON03	ASSISTANT	1	0	0	1	You want us to screw up your face even more? Is that what you want?
+HEROGOON	HARVEY	1	0	0	1	
+BATMAN	GOON04	1	0	0	1	You should turn your car around. Don’t give your speech tonight.
+BATMAN	DEALER	1	0	0	1	
+COA04	BATMAN	1	0	0	1	
+BATMAN	COA04	1	0	0	1	I’m not sorry about the headache you’ll have later.
+COA04	GORDON	1	0	0	1	
+BATMAN	COP04	1	0	0	1	
+COA03	COA02	1	0	0	1	
+HARVEY	COA02	1	0	0	1	
+CHEMTHUG	HARVEY	1	0	0	1	
+COA03	GROGAN	1	0	0	1	
+COA03	COP02	1	0	0	1	What are you gonna do without your protector?
+BRUCE/BATMAN (choice)	COP02	1	0	0	1	
+PENGUIN	NEWSCASTER	1	0	0	1	We’ve taken out Falcone! We’ve taken down Hill! You know who’s next!
+LADYARKHAM	GOON01	1	0	0	1	
+COP02	OSWALD	1	0	1	0	Mr. Cobblepot, I’ll see you home.
+COP01	OSWALD	1	0	0	1	
+GOON01	ALFRED	1	0	0	1	
+BATMAN	GOON01	1	0	0	1	
+GOON03	ALFRED	1	0	0	1	
+BRUCE/BATMAN (choice)	GOON04	1	0	0	1	
+COA05	GOON01	1	0	0	1	
+COP02	GOON01	1	0	0	1	
+ALFRED	COA06	1	0	0	1	You’d better get down there.
+BATMAN	COA06	1	0	0	1	
+COP02	COA06	1	0	0	1	
+BATMAN	COP01	1	0	0	1	
+DEALER	COA01	1	0	0	1	
+DEALER	COA05	1	0	0	1	
+COA05	DEALER	1	0	0	1	
+MONTOYA	COMMISSIONER	1	0	0	1	
+COA01	CATWOMAN	1	0	0	1	
+LADYARKHAM	COA04	1	0	0	1	
+COA02	CATWOMAN	1	0	0	1	
+ALFRED	COA03	1	0	0	1	
+ON THE TELEPROMPTER SCREEN	BRUCE	1	0	0	1	
+BRUCE	SECURITY01	1	0	0	1	
+UL 19 18	BRUCE	1	0	0	1	
+ENOTES	HARVEY	1	0	0	1	
+ASSISTANT	FALCONE	1	0	1	0	
+HILL	REGINA	1	0	0	1	
+CATWOMAN	VICKI	1	0	0	1	You boys ready to go?
+SECURITY01	REGINA	1	0	0	1	
+BRUCE/BATMAN (choice)	BRU	1	0	0	1	
+BRU	BRUCE	1	0	0	1	
+IR	BRUCE	1	0	0	1	
+ORDERLY 2	ALFRED	1	0	0	1	
+QUINZEL	LUCIUS	1	0	0	1	
+BRUCE/BATMAN (choice)	ORDERLY 2	1	0	0	1	You could never fail me.
+ALFRED	ORDERLY 2	1	0	0	1	
+INMATE02	BRUCE	1	0	0	1	
+BRUCE/BATMAN (choice)	INMATE01	1	0	0	1	
+LELAND	INMATE01	1	0	0	1	
+INMATE01	LELAND	1	0	0	1	This feel good? You like this?
+LELAND	ORDERLYJERK	1	0	0	1	
+ORDERLYJERK	JOKER	1	0	0	1	Heh, then you turned on the crowd, screaming that you couldn’t stop!
+ORDERLY03	BRUCE	1	0	0	1	
+ORDERLY04	VICKI	1	0	0	1	
+QUINZEL	VICKI	1	0	0	1	
+QUINZEL	LADYARKHAM	1	0	0	1	
+ORDERLY01	ALFRED	1	0	0	1	
+ALFRED	ORDERLY01	1	0	0	1	What are you talking about?
+MEANREPORTER	BRUCE	1	0	0	1	
+RAMARQUE	LELAND	1	0	0	1	Is it true that you used your power and influence to get out of Arkham?
+THOMPKINS	ALFRED	1	0	0	1	
+GUARD	ORDERLY01	1	0	0	1	Someone has sprung you out.
+ALFRED	REPORTER04	1	0	0	1	
+REPORTER04	SPENCER	1	0	0	1	Sounds like you’re planning a temporary insanity plea.
+REPORTER06	BRUCE	1	0	0	1	Do you plan on making a public apology?
+BRUCE	REPORTER06	1	0	0	1	Oswald... I just want you to know -- I’ll do whatever it takes to make things right betwee
+REPORTER04	OSWALD	1	0	1	0	Now that you’ve been released -- do you plan on making a public apology to Mr. Cobblepot?
+BRUCE/BATMAN (choice)	REPORTER05	1	0	0	1	
+REPORTER03	RAMARQUE	1	0	0	1	
+RAMARQUE	REPORTER03	1	0	0	1	How do you answer to allegations that you used your power and influence to circumvent the 
+REPORTER05	SPENCER	1	0	0	1	Did you do it because he took your campany?
+SPENCER	REPORTER05	1	0	0	1	*You* used your money and influence to get out in less than forty-eight hours.
+LELAND	SPENCER	1	0	0	1	
+LELEND	LELAND	1	0	0	1	
+SPENCER	OSWALD	1	0	1	0	Or what? You gonna shut it for me just like you did your friend Mr. Cobblepot?
+REPORTER03	LELAND	1	0	0	1	You belong in Arkham! They should lock you up!
+SFUNSEEN INMATE 1	BRUCE	1	0	0	1	
+MRFREEZE	BRUCE	1	0	0	1	
+UNSEENINMATE02	LELAND	1	0	0	1	This is not a dream -- but you are sleeping.
+LELAND	MRFREEZE	1	0	0	1	Although with your flippant attitude in the hallway perhaps I shouldn’t be surprised.
+LELAND	UNSEENINMATE02	1	0	0	1	Despite starting off so well, this has to be reported on your evaluation.
+UNSEENINMATE01	LELAND	1	0	0	1	
+UNSEENINMATE03	LELAND	1	0	0	1	You smell... fresh. Fresh meat is the best meat to eat.
+UNSEENINMATE08	UNSEENINMATE03	1	0	0	1	
+UNSEENINMATE03	RIDDLER	1	0	0	1	
+UNSEENINMATE01	UNSEENINMATE03	1	0	0	1	End for you if you don’t shut your trap.
+UNSEENINMATE03	MADHATTER	1	0	0	1	If you don’t shut your trap, I’ll SEW it shut with a needle and some thread!
+MADHATTER	UNSEENINMATE01	1	0	0	1	I’d like to take off your head -- and play a game of crouqet with it.
+MADHATTER	MRFREEZE	1	0	0	1	
+MADHATTER	UNSEENINMATE02	1	0	0	1	
+MRFREEZE	MADHATTER	1	0	0	1	
+UNSEENINMATE02	MRFREEZE	1	0	0	1	
+UNSEENINMATE03	POISONIVY	1	0	0	1	You smell... fresh. Fresh meat is the best meat to eat.
+CALENDARMAN	RATCATCHER	1	0	0	1	
+THEPHAROH	PROFESSORPYG	1	0	0	1	
+BRUCE/BATMAN (choice)	THEPHAROH	1	0	0	1	
+BRUCE	PROFESSORPYG	1	0	0	1	
+ORDERLY03	QUINZEL	1	0	0	1	
+ORDERLY04	QUINZEL	1	0	0	1	
+QUINZEL	ORDERLY02	1	0	0	1	
+ORDERLY02	QUINZEL	1	0	0	1	You’re not going to give us any trouble are you?
+ORDERLY2	QUINZEL	1	0	0	1	
+ORDERLY1	THOMPKINS	1	0	0	1	No one will believe I saw you here. .
+ORDERLY1	VICKI	1	0	1	0	
+THOMPKINS	QUINZEL	1	0	0	1	
+QUINZEL	THOMPKINS	1	0	0	1	
+ORDERLY01	THOMPKINS	1	0	0	1	You don’t have to listen to her.
+BRUCE	ORDERLY2	1	0	0	1	
+ORDERLY1	PATIENT1	1	0	0	1	Lose your mind, did ya?
+PATIENT1	ORDERLY1	1	0	0	1	
+ORDERLY02	ORDERLY1	1	0	0	1	
+NURSE	ORDERLY02	1	0	0	1	
+NURSE	ORDERLY01	1	0	0	1	That Vicki Vale -- she must have really scrambled your brain.
+BLOCKBUSTER	ORDERLY1	1	0	0	1	
+ORDERLY1	BLOCKBUSTER	1	0	0	1	I could tell you how to secure your release -- and you could help me.
+IR	NURSE	1	0	0	1	
+NURSE	IR	1	0	0	1	She must have really scrambled your brain.
+ELANOTES	LELAND	1	0	0	1	
+NDNOTES	LELAND	1	0	0	1	
+ORDERLY2	NURSE	1	0	0	1	I’m here to help if you have any problems.
+ORDERLY2	ORDERLY02	1	0	0	1	
+UNSEEN INMATE2	UNSEEN INMATE1	1	0	0	1	I’ll eat your face.  I’ll eat all your faces!
+INMATE03	UNSEEN INMATE1	1	0	0	1	
+UNSEENINMATE07	UNSEEN INMATE1	1	0	0	1	“Twinkle, twinkle little bat -- how I wonder when you’ll SPLAT!“
+UNSEENINMATE03	UNSEEN INMATE2	1	0	0	1	
+UNSEENINMATE02	INMATE02	1	0	0	1	
+ORDERLY02	INMATE02	1	0	0	1	
+UNSEENINMATE09	UNSEENINMATE01	1	0	0	1	
+UNSEENINMATE07	UNSEENINMATE01	1	0	0	1	“Will you walk into my parlour, said a Spider to a Fly. It is the prettiest parlour that e
+UNSEENINMATE01	INMATE02	1	0	0	1	Charlie. Charlie. Come in. Can you hear me? I’ve been captured by the enemy. I can’t talk 
+UNSEENINMATE01	UNSEENINMATE09	1	0	0	1	Charlie. Charlie. Come in. Can you hear me? I’ve been captured by the enemy. I can’t talk 
+UNSEENINMATE01	UNSEENINMATE07	1	0	0	1	BOOOOoooommmmmmmmm! Rattataktak! Can you hear that? We’re under attack!
+INMATE03	UNSEENINMATE01	1	0	0	1	If you are not like everybody else, everybody else, then you’re not normal, not normal. An
+INMATE02	UNSEENINMATE01	1	0	0	1	
+UNSEENINMATE08	INMATE02	1	0	0	1	
+LELELAND	LELAND	1	0	0	1	
+UNSEENINMATE03	INMATE03	1	0	0	1	
+JOKER	UNSEENINMATE03	1	0	0	1	
+INMATE03	LELAND	1	0	0	1	
+INMATE01	ORDERLY02	1	0	0	1	No no...you need to let me go! I have to warn the president! They’re trying to kill me!!!
+ORDERLY03	JOKER	1	0	0	1	Come on, you don’t know the president!
+JOKER	ORDERLY03	1	0	0	1	They don’t like it when you try to use the phone.
+VICKI	QUINZEL	1	0	0	1	
+PATIENT	ORDERLY	1	0	0	1	
+YES	FALCONE	1	0	0	1	You start to feel dizzy again, hallucinations kicking in. Joker Thinks this is funny.
+NO	YES	1	0	0	1	You see an inmate start banging his head against the wall.  It looks similar to things you
+JOKER LEANS IN	YES	1	0	0	1	
+YES	JOKER	1	0	0	1	You start to feel dizzy again, hallucinations kicking in. Joker Thinks this is funny.
+BRUCE/BATMAN (choice)	NO	1	0	0	1	
+BRUCE/BATMAN (choice)	JOKER LEANS IN	1	0	0	1	What would your mother
+JOKER	BILLY	1	0	0	1	Would you like to introduce yourself?
+BILLY	JOKER	1	0	0	1	
+BILLY	BRUCE	1	0	0	1	We - we know who you are.
+RE JOKER	JOKER	1	0	0	1	You’re not taking this very *seriously*
+BBRUCE	JOKER	1	0	0	1	
+LELAND	HARVEY	1	0	0	1	
+PATIENTTABOR	ARNOLD	1	0	0	1	
+PATIENTBILLY	JOKER	1	0	0	1	
+SOCIALWORKER	JOKER	1	0	0	1	
+JOKER	SOCIALWORKER	1	0	0	1	
+LELAND	SOCIALWORKER	1	0	0	1	Break it up! Break it up immediately!   We’ve TALKED about you impersonating staff.
+ZSASZ	ER	1	0	0	1	“Prank?“ If you’re gonna do that kind of schoolyard crap at least ‘fess up when you’re cau
+ARNOLD	HARVEY	1	0	0	1	
+SOCKO	HARVEY	1	0	0	1	
+PATIENTBILLY	OSWALD	1	0	1	0	Plus, we all saw what you did to Mr. Cobblepot!
+ORDERLY	PATIENTBILLY	1	0	0	1	
+PATIENTTABOR	ORDERLY01	1	0	0	1	
+SANELEWIS	ORDERLY01	1	0	0	1	I’m not really crazy you know. In case you were wondering.
+SANELEWIS	HARVEY	1	0	0	1	Yeah, you gotta go.  Keeps ‘em happy.
+KER	BRUCE	1	0	0	1	
+PATIENTBILLY	KER	1	0	0	1	
+BRUCE/BATMAN (choice)	PATIENTBILLY	1	0	0	1	
+PATIENTTABOR	ORDERLY02	1	0	0	1	
+ORDERLY	LELAND	1	0	0	1	
+ARNOLD	LELAND	1	0	0	1	
+GORDON	JOKER	1	0	0	1	I’ll send someone to come get you soon.
+JOKER	GORDON	1	0	0	1	And oh! When I get out of here, you’ll owe me a little favor, alright?
+ORDERLY02	RYDER	1	0	0	1	If those inmates did their job right, you’d be where you really belong.
+JOKERER	JOKER	1	0	0	1	You wanna find Vicki and the drugs? I’ll tell you, if you promise me you’ll do something..
+JOKER	VICKI	1	0	1	0	
+ORDERLY02	BLOCKBUSTER	1	0	0	1	
+BLOCKBUSTER	ORDERLY02	1	0	0	1	
+ZSASZ	SOCKO	1	0	0	1	
+BRUCE/BATMAN (choice)	ARNOLD	1	0	0	1	
+SOCKO	ORDERLY01	1	0	0	1	So.. What do you want?
+ORDERLY01	GORDON	1	0	0	1	
+HARVEY	ORDERLY01	1	0	0	1	
+BLOCKBUSTER	SANELEWIS	1	0	0	1	
+PATIENTBILLY	ORDERLY01	1	0	0	1	
+ORDERLY01	PATIENTBILLY	1	0	0	1	
+ARNOLD	SANELEWIS	1	0	0	1	
+ARNOLD	PATIENTBILLY	1	0	0	1	
+ORDERLY01	ARNOLD	1	0	0	1	
+SANELEWIS	ARNOLD	1	0	0	1	Hm? What? That wasn’t me. I’m Sane Lewis and that was   that was CRAZY Lewis, you see...
+PATIENTBILLY	ZSASZ	1	0	0	1	
+Y01	BRUCE	1	0	0	1	Looks like a door key.  You shouldn’t have this, I better hang onto it.
+JOKER	Y01	1	0	0	1	Assume I can take care of that - you need to be willing to use some of that money. That in
+SANELEWIS	ZSASZ	1	0	0	1	Hm? What? That wasn’t me. I’m Sane Lewis and that was   that was CRAZY Lewis, you see...
+ZSASZ	SANELEWIS	1	0	0	1	For the last time, Tabor. I’m not mind-controlling you.
+BLOCKBUSTER	ZSASZ	1	0	0	1	
+ARNOLD	BLOCKBUSTER	1	0	0	1	
+RYDER	ZSASZ	1	0	0	1	
+BDES	BRUCE	1	0	0	1	
+UCENOTES	BRUCE	1	0	0	1	
+T	BRUCE	1	0	0	1	Did you talk to child services?
+AAFLFDRED	ALFRED	1	0	0	1	
+BRRUCE	BRUCE	1	0	0	1	Sorry -- I almost lost your signal.
+LS	BRUCE	1	0	0	1	
+BATMANBT	BATMAN	1	0	0	1	Did you talk to child services?
+LADY ARKHAM ADDRESSES THE PEOPLE OF GOTHA	BRUCE	1	0	0	1	
+CRIT PATH NEWS INCLUDES	BRUCE	1	0	0	1	
+BRUCE/BATMAN (choice)	LADY ARKHAM ADDRESSES THE PEOPLE OF GOTHA	1	0	0	1	I’m no one without you.
+BRUCE/BATMAN (choice)	CRIT PATH NEWS INCLUDES	1	0	0	1	
+BRUCE	LADY ARKHAM ADDRESSES THE PEOPLE OF GOTHA	1	0	0	1	
+HARLEEN	PENGUIN	1	0	0	1	
+HARLEEN	MARTHA	1	0	0	1	
+BATMAN	MARTHA	1	0	0	1	
+RIOTER1	HARVEY	1	0	0	1	
+BRUCE	RIOTER1	1	0	0	1	
+RIOTER1	ALFRED	1	0	0	1	
+R	BRUCE	1	0	0	1	
+DIB	ALFRED	1	0	0	1	
+BALFER ED	BRUCE	1	0	0	1	I can help you if you wish.
+SOC	BRUCE	1	0	0	1	There should be a callback, especially if you gave her the evidence in 101.
+SERGEANT	OFFICER01	1	0	0	1	
+OFFICER01	DEBORAH	1	0	0	1	
+ALFRED	DEBORAH	1	0	0	1	
+IR	HARVEY	1	0	0	1	BRUCE:That’s why you took my house? My assets?
+HARVEDY	HARVEY	1	0	0	1	
+ENFORCERCOLLEEN	ENFORCERFEMALE	1	0	0	1	-it isn’t just about you.  The Mayor is making the hard choices necessary to fix this brok
+ENFORCERCOLLEEN	LUCIUS	1	0	0	1	
+ENFORCER	GORDON	1	0	0	1	Not personal. Mayor Dent says you’re getting in the way.
+RCERCOLLEEN	ENFORCERFEMALE	1	0	0	1	
+ENFORCERFEMALE	RCERCOLLEEN	1	0	0	1	You have no right to say that!
+ORNOTES	ENFORCERFEMALE	1	0	0	1	
+ENFORCERMALE	BATMAN	1	0	0	1	Mayor Dent says you’re getting in the way of protecting the city.
+TUB	GORDON	1	0	0	1	
+SXF	ENFORCERLUKE	1	0	0	1	
+ENFORCERCOLLEEN	ENFORCERMALE	1	0	0	1	
+LUCIUS	ENFORCERFEMALE	1	0	0	1	The device’s signal is coming from Wayne Tower. You need to find the Black Box... and dest
+ENFORCERMALE	GORDON	1	0	0	1	Mayor Dent says you’re getting in the way of protecting the city.
+RIOTER01	ALFRED	1	0	0	1	
+BRUCE	RIOTER03	1	0	0	1	You worthless leeches.
+HARVEY	RIOTER01	1	0	0	1	
+ALFRED	POLICEOFFICER	1	0	0	1	
+POLICE OFFICER	POLICEOFFICER	1	0	0	1	Didn’t you hear me say “Mayor Dent’s orders?!?“
+ALFRED	PROTESTER2	1	0	0	1	
+POLICE OFFICER	ENFORCER01	1	0	0	1	
+PROTESTER01	POLICE OFFICER	1	0	0	1	
+PROTESTER1	POLICE OFFICER	1	0	0	1	
+PROTESTER2	HARVEY	1	0	0	1	
+ENFORCER01	POLICE OFFICER	1	0	0	1	
+POLICEOFFICER	POLICE OFFICER	1	0	0	1	Didn’t you hear me say “Mayor Dent’s orders?!?“
+POLICEOFFICER	ENFORCER01	1	0	0	1	That’s all you got to know!
+PROTESTER1	ENFORCER01	1	0	0	1	
+DESSELINA	SELINA	1	0	0	1	
+PROTESTER03	BRUCE	1	0	0	1	
+ARUCE	BRUCE	1	0	1	0	LFRED: Don’t worry, Bruce. You’ll be okay.
+STU	BRUCE	1	0	0	1	
+PROTESTER02	BRUCE	1	0	0	1	Careful, or you’ll be the next Cobblepot.
+ALFRED	PROTESTER03	1	0	0	1	You’ll be fine. We just need to get out of this mess.
+ENFORCER02	PROTESTER01	1	0	0	1	Get back to your car.
+ENFORCER02	ENFORCER01	1	0	0	1	Get back to your car.
+COP02	MONTOYA	1	0	0	1	
+MONTOYA	COA03	1	0	0	1	
+MRVALE	BATMAN	1	0	0	1	
+BAR	GORDON	1	0	0	1	
+BRUCE/BATMAN (choice)	BAR	1	0	0	1	
+BADIR	GORDON	1	0	0	1	
+YNOTES	GORDON	1	0	0	1	
+BRUCE/BATMAN (choice)	YNOTES	1	0	0	1	
+BRUOY	BATMAN	1	0	0	1	
+BRUCE/BATMAN (choice)	BRUOY	1	0	0	1	
+RUCE	BATMAN	1	0	0	1	
+GROGAN	BOY	1	0	0	1	Not anymore you’re not.  I’m taking over this investigation.
+GROGAN	MONTOYA	1	0	0	1	I can’t risk you allowing your good friend Batman to show up.
+BRUCE/BATMAN (choice)	GOON02	1	0	0	1	
+OFFICER01	PENGUIN	1	0	0	1	
+ENFORCER01	BATMAN	1	0	0	1	
+COA02	OSWALD	1	0	0	1	
+GCPD01	OSWALD	1	0	0	1	
+THRVEA	HARVEY	1	0	0	1	ts why the city needs me.  You’re just a half measure afraid to do what’s neccessary! I’m 
+ENFORCER03	HARVEY	1	0	0	1	
+BRUCE/BATMAN (choice)	ENFORCER02	1	0	0	1	That’s exactly what YOU’RE doing!
+BRUCE/BATMAN (choice)	ENFORCER03	1	0	0	1	
+HAYRVEY	BATMAN	1	0	1	0	Please, Batman. I’m sure you can convince the GCPD to do-- to do the right thing?
+HE	ALFRED	1	0	1	0	
+DIE	ALFRED	1	0	1	0	
+THUG01	HARVEY	1	0	0	1	
+THUG03	HARVEY	1	0	0	1	
+HARVRV	HARVEY	1	0	0	1	
+BATMAN	HARVRV	1	0	0	1	
+GORDON	ENFORCER02	1	0	0	1	
+GORDON	ENFORCER01	1	0	0	1	
+HARVEY	ENFORCER02	1	0	0	1	
+HARRVEY	BATMAN	1	0	0	1	
+HARVEY	HARRVEY	1	0	0	1	
+DRIRE	SELINA	1	0	0	1	
+RUCE	SELINA	1	0	0	1	I need your help to reel him back in.
+16	LADYARKHAM	1	0	0	1	
+LADYARKHAM	FALCONE	1	0	1	0	
+COA02	BRUCE	1	0	1	0	
+WRLADYARKHAM	LADYARKHAM	1	0	0	1	
+INMATE03	GCPD01	1	0	0	1	
+INMATE01	INMATE03	1	0	0	1	
+GCPD01	INMATE03	1	0	0	1	
+GCPD02	GCPD03	1	0	0	1	
+GCPD04	GCPD05	1	0	0	1	
+GCPD05	GCPD06	1	0	0	1	
+GCPD03	ORDERLY01	1	0	0	1	You heard the lieutenant!
+ORDERLY02	VICKI	1	0	0	1	
+MONTOYA	JOKER	1	0	0	1	
+JOKER	MONTOYA	1	0	0	1	Such a pleasure to see your work in person!
+VICKI	GEXCHANGE	1	0	0	1	
+GEXCHANGE	VICKI	1	0	0	1	
+SECURITY01	SELINA	1	0	0	1	
+BATMAN	COP03	1	0	0	1	
+LADYARKHAM	COP04	1	0	0	1	--then you should know that you can’t possibly win here.
+COP04	BATMAN	1	0	1	0	We got your back, Batman!
+INMATE02	COP04	1	0	0	1	
+INMATE03	LADYARKHAM	1	0	0	1	
+LADYARKHAM	INMATE03	1	0	0	1	
+INMATE01	LADYARKHAM	1	0	0	1	
+ORDERLY	BATMAN	1	0	1	0	
+ORDERLY01	INMATE03	1	0	0	1	
+THUG01	ALFRED	1	0	0	1	
+THUG02	ALFRED	1	0	0	1	
+THUG03	LUCIUS	1	0	0	1	
+ALFRED	THUG01	1	0	0	1	
+ALFRED	COA01	1	0	0	1	
+DIOR	BRUCE	1	0	0	1	
+RNOTES	BRUCE	1	0	0	1	
+UCNOTES	BRUCE	1	0	0	1	
+TUBNOTES	LUCIUS	1	0	0	1	
+BRUCE/BATMAN (choice)	TUBNOTES	1	0	0	1	
+STUCE	OSWALD	1	0	0	1	B:(Kent Mudle, Mon Sep 12 16:35:50 2016) Oz- Oh I know you plenty well, ‘old friend’
+HE	OSWALD	1	0	0	1	
+OIRSWALD	YOUNGOSWALD	1	0	0	1	
+YOUNGOSWALD	OIRSWALD	1	0	0	1	
+ALFRED	YOUNGOSWALD	1	0	0	1	
+GCPD03	GCPD01	1	0	0	1	
+MEDIC	GORDON	1	0	0	1	
+GCPDO2	GORDON	1	0	0	1	
+MEDIC	GCPD01	1	0	0	1	
+GORDON	GCPD05	1	0	0	1	
+YOUNGOSWALD	ALFRED	1	0	0	1	That’s right! Run! I dare you to come back!
+PER	OSWALD	1	0	0	1	
+YOUNGBRUCE	OSWALD	1	0	1	0	
+DES	OSWALD	1	0	0	1	DT Was Your parents would be ashamed
+GORDON	DES	1	0	0	1	But you need to stay back, now. My team can handle this.
+GCPD02	OSWALD	1	0	0	1	
+OSWALD	GCPD02	1	0	0	1	
+GOON04	BATMAN	1	0	0	1	
+GOON01	RYDER	1	0	0	1	You shoulda known better than to speak out against Mayor Dent.
+GORDON	DEBORAH	1	0	0	1	
+CIVILIAN01	THUG01	1	0	0	1	
+THUG01	CIVILIAN01	1	0	0	1	
+THUG01	GROGAN	1	0	0	1	
+GCPD05	GROGAN	1	0	0	1	
+BATMAN	GCPD05	1	0	0	1	
+COA01	GROGAN	1	0	0	1	
+GROGAN	ALFRED	1	0	0	1	
+CIVILIAN01	RYDER	1	0	0	1	
+CIVILIAN01	BATMAN	1	0	1	0	Th- Thank you, Batman!
+CIVILIAN01	OSWALD	1	0	0	1	
+COA01	CIVILIAN01	1	0	0	1	
+PENGUIN	CIVILIAN01	1	0	0	1	
+GROGAN	HARVEY	1	0	0	1	You have to...  stop Dent...
+HARVEY	GROGAN	1	0	0	1	
+GCPD01	BATMAN	1	0	0	1	
+ENFORCER01	GORDON	1	0	0	1	
+JOKER	OSWALD	1	0	0	1	
+JOKER	SELINA	1	0	0	1	Your dad helped bump off her parents!
+PATRON01	NEWSCASTER	1	0	0	1	But didn’t he send you a check for the damages?
+PATRON01	JOKER	1	0	0	1	But didn’t Wayne send you a check for the damages?
+RYDER	RHONDA	1	0	0	1	
+COA02	GORDON	1	0	0	1	
+BARTMAN	LUCIUS	1	0	0	1	
+BATMAN	BARTMAN	1	0	0	1	
+QUINZEL	BATMAN	1	0	0	1	
+NEWSCASTER	MONTOYA	1	0	0	1	
+FAIRCHILD	GORDON	1	0	0	1	
+LADYARKHAM	FAIRCHILD	1	0	0	1	
+22 15	ALFRED	1	0	0	1	
+WLFRI	ALFRED	1	0	0	1	(Writer’s Room, Thu Sep  1 15:40:34 2016) (Writer’s Room, Thu Sep  1 15:40:34 2016) (Write
+ALFRED	WLFRI	1	0	0	1	I haven’t brought it up before, but, I wanted to thank you.
+37	BRUCE	1	0	0	1	
+11 17	BRUCE	1	0	0	1	
+BRUCE	11 17	1	0	0	1	
+HOSTAGE01	HARVEY	1	0	0	1	
+WEVEY	HARVEY	1	0	0	1	
+VEYEXCHANGE	BRUCE	1	0	0	1	
+HTIMEY	HARVEY	1	0	0	1	
+GCPDO4	HARVEY	1	0	0	1	
+GCPD04	BRUCE	1	0	0	1	Th- Thank you for sparing me.
+RUCE	BRUCE	1	0	0	1	
+BRUCE/BATMAN (choice)	RUCE	1	0	0	1	
+I VEY	HARVEY	1	0	0	1	
+GCPD04	HARVEY	1	0	0	1	Th- Thank you for sparing me.

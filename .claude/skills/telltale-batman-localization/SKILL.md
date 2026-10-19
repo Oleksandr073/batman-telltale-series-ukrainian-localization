@@ -112,7 +112,7 @@ Noir is **not** a lightly edited copy. It is a re-export from the later LCG Ente
 - Present only in default: `env_previouslyonbat104`, `env_policelobbyinfirmary105`, `BM_pc_Project_data/*` (stats, ui_media, ui_text).
 - Noir duplicates: `BAT_pc_PC_Noir_Batman10x_compressed/*` and `BAT_pc_BatmanNoir10x_data/*` contain the same files. Translate them identically.
 
-**Workflow:** translate BM_* only. Then run `scripts/sync_noir.py`. It fills ~95 000 Noir records automatically and lists the ~383 that need work (mostly LCG credits).
+**Workflow:** the translation table (section 9) covers both modes at once, because Noir-only texts are extra rows at the end. If you translate files by hand instead, translate BM_* only, then run `scripts/sync_noir.py`. It fills ~95 000 Noir records automatically and lists the ~383 that need work (mostly LCG credits).
 
 ## 6. Known corrupt characters in the source
 
@@ -135,7 +135,58 @@ text, with counts, plus source typos and what they should be. **Before translati
 `Translation` column for every name. When you translate a name that isn't filled in yet, add it to the glossary first**,
 so every file uses the same form. Speaker IDs in headers and the people in the credits are not translated.
 
-## 9. Tools (`scripts/`, Python 3, no dependencies)
+## 9. Ukrainian workflow: translation table, context, gender, ти/ви
+
+**Main way to translate: the translation table, not the game files.**
+`analysis/translation_table.tsv` has one row per unique text for both modes: ~44 200 rows, ~373 000 words, built
+from ~185 000 records. Fill only the `ukrainian` column. Then `apply_translations.py` writes all 222 game files and
+validates them. Rules for the table:
+- Leading `{tags}` and `[notes]` (`{AngryA}[pickup][ALT]`) and a trailing `[alt]` are **not** in the table; they are
+  put back automatically. Everything else in the `english` cell (mid-line `{tags}`, `^..^`, `<icons>`, `[beat]`,
+  bracket-only choices like `[Ignore]`) follows the markup rules in section 3.
+- Multi-line texts are joined with ` ¶ `. Keep exactly the same number of `¶`. A wrong count leaves that record
+  in English and is reported.
+- Tabs are written as `\t`. Empty `ukrainian` = stays English.
+- Left out on purpose (they stay English): writers' notes, texts without letters, and subtitles that are only
+  `[sighs]`-type notes (not shown in game).
+- `notes` column: `near-copy of <key>` (reuse that translation), `keep markup inside`, `N lines: keep N-1 ¶`,
+  `credits: people’s names stay in Latin`, `listener guessed - check scene`.
+- Rows are in conversation order (episode → file → record number). Translate top to bottom, and open
+  `analysis/scenes/<same path>` to read the surrounding scene.
+- One row = one translation everywhere. If one scene needs a different wording, put it in an overrides TSV
+  (`file`, `id`, `ukrainian`, `comment`) passed with `--overrides`.
+
+**Gender (Ukrainian verbs and adjectives).** The same English text is split into separate rows when the
+Ukrainian form depends on gender:
+- `speaker_gender` is set when the line has first-person past tense or "I'm sure / glad / ready…" (бачив/бачила,
+  певен/певна);
+- `listener_gender` is set when it has "you" + past tense or adjective ("Did you see?" → бачив/бачила). The
+  listener is guessed (a `[to X]` note, a name used in direct address, or the neighbouring speaker), so check the
+  scene when the note says so.
+Values: `M`, `F`, `?` (unknown: decide from the scene). Choice options are spoken by Bruce (M).
+Speaker genders live in `analysis/speaker_genders.tsv`. After editing it, run `build_tm.py` again; existing
+translations are kept and rows whose gender changed are marked "check gender forms".
+
+**ти/ви.** Decisions per character pair are in `analysis/speakers.md` (suggested values plus line counts; the user
+confirms them). Apply them consistently. Talking to several people is always ви.
+
+**Context order [VERIFIED].** File order is NOT conversation order: the exporter groups identical texts, so 26% of
+neighbouring records are copies. Sorted by record number (the order lines were written), only 1.5% are, and each
+conversation reads together. Branching answers sit next to each other, so it isn't perfectly linear.
+
+## 10. Tools (`scripts/`, Python 3, no dependencies)
+
+Translation table (run from the repo root):
+```
+python .claude/skills/telltale-batman-localization/scripts/build_tm.py . analysis/speaker_genders.tsv analysis/translation_table.tsv
+python .claude/skills/telltale-batman-localization/scripts/apply_translations.py . analysis/speaker_genders.tsv analysis/translation_table.tsv OUT_FOLDER [--overrides overrides.tsv] [--only BM_]
+python .claude/skills/telltale-batman-localization/scripts/scene_view.py . analysis/scenes
+```
+`build_tm.py` rebuilds the table and keeps filled translations (unmatched ones are saved to
+`translation_table.tsv.lost.tsv`, never silently dropped). `apply_translations.py` never changes the English files;
+it writes OUT_FOLDER and validates every file. `scene_view.py` writes the read-only conversation-order views.
+Speaker statistics: `python analysis/tools/speakers.py . analysis/speaker_genders.tsv analysis`, then
+`python analysis/tools/make_speakers_md.py`.
 
 Validate a translation against the English originals (single file or whole folder tree):
 ```
@@ -150,9 +201,11 @@ python .claude/skills/telltale-batman-localization/scripts/sync_noir.py --en EN_
 ```
 It writes BAT_* files using the English BAT structure (headers, line counts, BOM, CRLF) plus your translations, and creates `noir_todo.txt` listing every record still in English.
 
-## 10. Checklist when translating a file
+## 11. Checklist when translating
 
 - [ ] Names translated exactly as in `glossary.md` (new names added there first).
+- [ ] Gender forms match `speaker_gender` / `listener_gender`; ти/ви match `analysis/speakers.md`.
+- [ ] In the table: same number of ` ¶ ` as the English cell; `apply_translations.py` reports 0 errors.
 - [ ] Header lines untouched (copy them; translate only text lines).
 - [ ] Same number of text lines in every record; empty lines stay empty.
 - [ ] Every `{…}`, `^…^`, `^^`, `<…>`, `<<…>>` present and unchanged; `{percent}%` intact.
