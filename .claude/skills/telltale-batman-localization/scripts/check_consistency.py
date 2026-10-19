@@ -4,7 +4,7 @@ Usage:
   python check_consistency.py ORIGINAL GENDERS UNIQUE_LOCALIZED LOCALIZED [--overrides OVERRIDES_TSV]
 
   ORIGINAL          original_data            (English game files)
-  GENDERS           analysis/speaker_genders.xlsx (same file the table was built with)
+  GENDERS           reference/speaker_genders.xlsx (same file the table was built with)
   UNIQUE_LOCALIZED  unique_localized_data    (each unique text once, "#### key | ..." entries)
   LOCALIZED         localized_data           (final game files)
 

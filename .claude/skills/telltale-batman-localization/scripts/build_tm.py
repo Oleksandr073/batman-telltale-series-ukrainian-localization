@@ -4,7 +4,7 @@ Usage:
   python build_tm.py EN_ROOT GENDERS OUT_TABLE
 
   EN_ROOT      folder with the English BM_* and BAT_* folders
-  GENDERS  analysis/speaker_genders.xlsx (speaker_id, gender M/F/?)
+  GENDERS  reference/speaker_genders.xlsx (speaker_id, gender M/F/?)
   OUT_TABLE    table to write: .xlsx (Excel/LibreOffice/Google Sheets, with a Help sheet) or .tsv.
                If it already exists, filled-in Ukrainian cells are kept (matched by key). Close it in Excel first.
 

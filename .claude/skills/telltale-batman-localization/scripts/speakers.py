@@ -1,6 +1,6 @@
 """Speaker / listener statistics for Ukrainian gender and ти/ви decisions (default-mode BM_* files).
 
-Usage: python analysis/tools/speakers.py ROOT GENDERS_TSV OUT_DIR
+Usage: python .claude/skills/telltale-batman-localization/scripts/speakers.py ROOT GENDERS_TSV OUT_DIR
 Writes OUT_DIR/speaker_stats.tsv and OUT_DIR/pairs.tsv.
 Uses the same listener guessing as the translation table (tm_lib.py).
 """
@@ -9,8 +9,7 @@ import os
 import re
 import sys
 
-sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..',
-                                '.claude', 'skills', 'telltale-batman-localization', 'scripts'))
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from landb_txt import read_records, txt_files  # noqa: E402
 from tm_lib import LISTENER_GENDERED, SPEAKER_GENDERED, analyze_records, load_genders, spoken  # noqa: E402
 

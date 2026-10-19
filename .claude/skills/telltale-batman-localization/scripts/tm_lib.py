@@ -8,7 +8,7 @@ Core text: each text line is split into  prefix + core + suffix.
 
 Ukrainian gender: a core is split into separate table rows by speaker gender when it has first-person
 past tense / "I'm sure"-type words, and by listener gender when it has "you" + past tense / adjective.
-Speaker gender comes from analysis/speaker_genders.xlsx; the listener is guessed (see guess_listeners).
+Speaker gender comes from reference/speaker_genders.xlsx; the listener is guessed (see guess_listeners).
 """
 import collections
 import hashlib
@@ -236,7 +236,7 @@ HELP = [
     'Listener gender - same, for the person spoken to ("Did you see?" -> бачив / бачила).',
     'Who speaks / To whom - characters. "choice/UI" = a choice option or menu text (Bruce says choices).',
     '    "To whom" is a guess from the scene.',
-    'Where - first place this text appears. Open analysis/scenes/<that file> to read the whole conversation.',
+    'Where - first place this text appears. Open reference/scenes/<that file> to read the whole conversation.',
     'Notes - "keep N ¶": the text has several lines joined with " ¶ " - keep the same number of ¶.',
     '    "near-copy of <key>": almost the same as another row - reuse that translation.',
     '    "listener guessed - check scene": the gender of the listener is a guess.',
@@ -246,7 +246,7 @@ HELP = [
     'Rules',
     '- Keep "...", "--" and the ending punctuation the same as in the English text.',
     '- Bracket-only choices like [Ignore] are visible in game: translate inside the brackets, keep the brackets.',
-    '- Use names exactly as in glossary.md, and ти/ви as in analysis/speakers.md.',
+    '- Use names exactly as in reference/glossary.md, and ти/ви as in reference/speakers.md.',
     '- Turn off AutoCorrect if it changes "..." into "…" or "--" into a dash.',
     '- The Ukrainian column is formatted as Text, so lines starting with -- or = are safe to type.',
     '- You can sort and filter, but save as .xlsx (not .csv).',
@@ -267,7 +267,7 @@ def write_table(path, rows):
     if path.lower().endswith('.xlsx'):
         _openpyxl()
         from openpyxl import Workbook
-        from openpyxl.styles import Alignment, Font, PatternFill
+        from openpyxl.styles import Alignment, Border, Font, PatternFill, Side
         wb = Workbook()
         ws = wb.active
         ws.title = 'Translate'
@@ -275,16 +275,24 @@ def write_table(path, rows):
         wrap = Alignment(wrap_text=True, vertical='top')
         top = Alignment(vertical='top')
         yellow = PatternFill('solid', fgColor='FFF2B3')
+        header_fill = PatternFill('solid', fgColor='E7E6E6')
         grey = Font(color='999999', size=8)
+        line = Side(style='thin', color='BFBFBF')
+        box = Border(left=line, right=line, top=line, bottom=line)  # fills hide Excel's gridlines
         for n, row in enumerate(rows, 1):
             ws.append([n if c == 'row' else row.get(c, '') for c in names])
         for idx, (name, title, width) in enumerate(TABLE_COLUMNS, 1):
             letter = ws.cell(row=1, column=idx).column_letter
             ws.column_dimensions[letter].width = width
-            ws.cell(row=1, column=idx).font = Font(bold=True)
+            head = ws.cell(row=1, column=idx)
+            head.font = Font(bold=True)
+            head.fill = header_fill
+            head.border = box
+            head.alignment = wrap
         ucol = names.index('ukrainian') + 1
         for r in ws.iter_rows(min_row=2):
             for cell in r:
+                cell.border = box
                 cell.alignment = wrap if cell.column in (2, ucol, len(names) - 1) else top
                 if cell.column != 1 and cell.column != names.index('count') + 1:
                     cell.data_type = 's'           # never a formula, even if text starts with = or --

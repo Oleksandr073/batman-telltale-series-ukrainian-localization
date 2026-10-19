@@ -1,6 +1,6 @@
 # Speakers, gender and ти/ви — Batman S1 (Ukrainian)
 
-Files in `analysis/`:
+Files in `reference/`:
 - `speaker_genders.xlsx` — gender of every speaker ID (M/F/?). **Edit it**, then rebuild the translation table.
 - `speaker_stats.tsv` — lines per speaker, and how many need the speaker’s / listener’s gender in Ukrainian.
 - `pairs.tsv` — every speaker → listener pair with line counts and examples.

@@ -130,7 +130,7 @@ Noir is **not** a lightly edited copy. It is a re-export from the later LCG Ente
 
 ## 8. Names glossary
 
-`glossary.md` (next to this file) lists every character, place, organisation, gadget and nickname found in the visible
+`reference/glossary.md` lists every character, place, organisation, gadget and nickname found in the visible
 text, with counts, plus source typos and what they should be. **Before translating, read it and use the
 `Translation` column for every name. When you translate a name that isn't filled in yet, add it to the glossary first**,
 so every file uses the same form. Speaker IDs in headers and the people in the credits are not translated.
@@ -138,7 +138,7 @@ so every file uses the same form. Speaker IDs in headers and the people in the c
 ## 9. Ukrainian workflow: translation table, context, gender, ти/ви
 
 **Main way to translate: the translation table, not the game files.**
-`analysis/translation_table.xlsx` (Excel; a Help sheet explains every column; type only in the yellow column) has one row per unique text for both modes: ~44 200 rows, ~373 000 words, built
+`translation_table.xlsx` (Excel; a Help sheet explains every column; type only in the yellow column) has one row per unique text for both modes: ~44 200 rows, ~373 000 words, built
 from ~185 000 records. Fill only the `ukrainian` column. Then `apply_translations.py` writes all 222 game files and
 validates them. Rules for the table:
 - Leading `{tags}` and `[notes]` (`{AngryA}[pickup][ALT]`) and a trailing `[alt]` are **not** in the table; they are
@@ -152,7 +152,7 @@ validates them. Rules for the table:
 - `notes` column: `near-copy of <key>` (reuse that translation), `keep markup inside`, `N lines: keep N-1 ¶`,
   `credits: people’s names stay in Latin`, `listener guessed - check scene`.
 - Rows are in conversation order (episode → file → record number). Translate top to bottom, and open
-  `analysis/scenes/<same path>` to read the surrounding scene.
+  `reference/scenes/<same path>` to read the surrounding scene.
 - One row = one translation everywhere. If one scene needs a different wording, put it in an overrides TSV
   (`file`, `id`, `ukrainian`, `comment`) passed with `--overrides`.
 
@@ -164,10 +164,10 @@ Ukrainian form depends on gender:
   listener is guessed (a `[to X]` note, a name used in direct address, or the neighbouring speaker), so check the
   scene when the note says so.
 Values: `M`, `F`, `?` (unknown: decide from the scene). Choice options are spoken by Bruce (M).
-Speaker genders live in `analysis/speaker_genders.xlsx`. After editing it, run `build_tm.py` again; existing
+Speaker genders live in `reference/speaker_genders.xlsx`. After editing it, run `build_tm.py` again; existing
 translations are kept and rows whose gender changed are marked "check gender forms".
 
-**ти/ви.** Decisions per character pair are in `analysis/speakers.md` (suggested values plus line counts; the user
+**ти/ви.** Decisions per character pair are in `reference/speakers.md` (suggested values plus line counts; the user
 confirms them). Apply them consistently. Talking to several people is always ви.
 
 **Context order [VERIFIED].** File order is NOT conversation order: the exporter groups identical texts, so 26% of
@@ -182,15 +182,15 @@ BAT_* folders); the scripts stop with a clear message if they are pointed at the
 
 Translation table (run from the repo root):
 ```
-python .claude/skills/telltale-batman-localization/scripts/build_tm.py original_data analysis/speaker_genders.xlsx analysis/translation_table.xlsx
-python .claude/skills/telltale-batman-localization/scripts/apply_translations.py original_data analysis/speaker_genders.xlsx analysis/translation_table.xlsx localized_data --unique unique_original_data unique_localized_data [--overrides overrides.tsv] [--only BM_]
-python .claude/skills/telltale-batman-localization/scripts/scene_view.py original_data analysis/scenes
+python .claude/skills/telltale-batman-localization/scripts/build_tm.py original_data reference/speaker_genders.xlsx translation_table.xlsx
+python .claude/skills/telltale-batman-localization/scripts/apply_translations.py original_data reference/speaker_genders.xlsx translation_table.xlsx localized_data --unique unique_original_data unique_localized_data [--overrides overrides.tsv] [--only BM_]
+python .claude/skills/telltale-batman-localization/scripts/scene_view.py original_data reference/scenes
 ```
 `build_tm.py` rebuilds the table and keeps filled translations (unmatched ones are saved to
 `translation_table.lost.xlsx`, never silently dropped). `apply_translations.py` never changes the English files;
 it writes `localized_data/` and validates every file. `scene_view.py` writes the read-only conversation-order views.
-Speaker statistics: `python analysis/tools/speakers.py original_data analysis/speaker_genders.xlsx analysis`, then
-`python analysis/tools/make_speakers_md.py`.
+Speaker statistics: `python .claude/skills/telltale-batman-localization/scripts/speakers.py original_data reference/speaker_genders.xlsx analysis`, then
+`python .claude/skills/telltale-batman-localization/scripts/make_speakers_md.py`.
 
 Validate a translation against the English originals (single file or whole folder tree):
 ```
@@ -215,15 +215,15 @@ table row once, English and Ukrainian, in files that mirror the game folders (ea
 English record with its text lines replaced by the matching `unique_localized_data` entry (records not in the unique
 folder must be unchanged English). It reads only the folders, not the table, and catches hand edits and missed
 records [VERIFIED with deliberate mistakes]. Run it on its own any time:
-`python .claude/skills/telltale-batman-localization/scripts/check_consistency.py original_data analysis/speaker_genders.xlsx unique_localized_data localized_data`.
+`python .claude/skills/telltale-batman-localization/scripts/check_consistency.py original_data reference/speaker_genders.xlsx unique_localized_data localized_data`.
 `localized_data/` started as an exact copy, so `git diff localized_data`
 shows exactly which lines were replaced (`git diff --word-diff=plain` is easiest to read), and untranslated files stay byte-identical. An import
 with an empty table changes nothing [VERIFIED]. `.gitattributes` forces CRLF for both folders on every computer.
 
 ## 11. Checklist when translating
 
-- [ ] Names translated exactly as in `glossary.md` (new names added there first).
-- [ ] Gender forms match `speaker_gender` / `listener_gender`; ти/ви match `analysis/speakers.md`.
+- [ ] Names translated exactly as in `reference/glossary.md` (new names added there first).
+- [ ] Gender forms match `speaker_gender` / `listener_gender`; ти/ви match `reference/speakers.md`.
 - [ ] In the table: same number of ` ¶ ` as the English cell; `apply_translations.py` reports 0 errors.
 - [ ] Header lines untouched (copy them; translate only text lines).
 - [ ] Same number of text lines in every record; empty lines stay empty.
