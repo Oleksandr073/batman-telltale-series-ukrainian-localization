@@ -76,6 +76,7 @@ All shortcuts are defined in `package.json` (`scripts`), like in any Node projec
 | `npm run rebuild` | Rebuilds `translation_table.xlsx` from the English files and `speaker_genders.xlsx`. Translations and translator notes are kept; everything else in the table is recreated. | After editing `speaker_genders.xlsx` |
 | `npm run scenes` | Creates `ai_context/scenes/` (conversation-order views, not in git). | After a fresh clone |
 | `npm run unique-original` | Recreates `data/unique_original_data/` from the English files. | Only if `data/original_data/` changes |
+| `npm run test` | Self-test of the whole flow on random scenes in a temporary copy (fake Ukrainian, every record of the 222 files checked, rebuilds, gender change, deliberate mistakes). Changes nothing in the repo; ~5 min. Repeat a run with `npm run test -- --seed N`. | After changing the scripts |
 | `npm run setup` | Installs the Excel package for Python. | Once per computer |
 
 The steps in which to use them are in **Localization flow** above.

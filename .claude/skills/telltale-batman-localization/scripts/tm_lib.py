@@ -193,7 +193,9 @@ def split_translation(cell, n_lines):
     """Table cell -> list of n_lines core lines, or None if the number of lines is wrong.
     Lines are separated by " ¶ " or by a line break typed in Excel (Alt+Enter) - both work."""
     cell = unescape_cell(cell)
-    cell = re.sub(r' *(?:\r\n|\r|\n) *', LINE_SEP, cell)   # Excel line break = ¶
+    # Excel line break = ¶. Spaces next to the break are kept: a line may really start with a space
+    # (e.g. " More info at ..." in ui_menu) and that space is part of the game layout.
+    cell = re.sub(r'\r\n|\r|\n', LINE_SEP, cell)
     if n_lines == 1:
         return None if '¶' in cell else [cell]
     parts = cell.split(LINE_SEP)               # exact " ¶ " keeps spaces inside lines

@@ -11,6 +11,7 @@
     "validate": "python .claude/skills/telltale-batman-localization/scripts/validate.py data/original_data data/localized_data",
     "rebuild": "python .claude/skills/telltale-batman-localization/scripts/build_tm.py data/original_data speaker_genders.xlsx translation_table.xlsx --order ai_context/play_order.txt",
     "scenes": "python .claude/skills/telltale-batman-localization/scripts/scene_view.py data/original_data ai_context/scenes",
-    "unique-original": "python .claude/skills/telltale-batman-localization/scripts/build_tm.py data/original_data speaker_genders.xlsx translation_table.xlsx --order ai_context/play_order.txt --unique-original data/unique_original_data"
+    "unique-original": "python .claude/skills/telltale-batman-localization/scripts/build_tm.py data/original_data speaker_genders.xlsx translation_table.xlsx --order ai_context/play_order.txt --unique-original data/unique_original_data",
+    "test": "python .claude/skills/telltale-batman-localization/scripts/selftest.py"
   }
 }

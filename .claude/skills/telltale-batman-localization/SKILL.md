@@ -188,7 +188,7 @@ uses only standard Python. The English files live in `data/original_data/` (the 
 BAT_* folders); the scripts stop with a clear message if they are pointed at the wrong folder.
 
 **Shortcuts:** `package.json` in the repo root defines `npm run import | review | review:all | check | validate |
-rebuild | scenes | unique-original | setup` for the commands below. Prefer them; extra arguments go after `--`
+rebuild | scenes | unique-original | test | setup` for the commands below. Prefer them; extra arguments go after `--`
 (e.g. `npm run import -- --overrides overrides.tsv`).
 
 Translation table (run from the repo root):
@@ -230,6 +230,10 @@ records [VERIFIED with deliberate mistakes]. Run it on its own any time:
 `data/localized_data/` started as an exact copy, so `git diff data/localized_data`
 shows exactly which lines were replaced (`git diff --word-diff=plain` is easiest to read), and untranslated files stay byte-identical. An import
 with an empty table changes nothing [VERIFIED]. `.gitattributes` forces CRLF for both folders on every computer.
+
+**After changing any script, run `npm run test`** (`selftest.py`): it fills random scenes with fake Ukrainian in a
+temporary copy, runs build/import, checks every record of the 222 files independently, rebuild/gender-change
+preservation and that deliberate mistakes are reported. It must end with `ALL PASSED`.
 
 ## 10b. Style decisions
 
