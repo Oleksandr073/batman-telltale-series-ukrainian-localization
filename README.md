@@ -20,7 +20,6 @@ with the text replaced).
 | `ai_context/speakers.md` | Who talks to whom, with the confirmed ти/ви decisions. |
 | `ai_context/scenes/` | Read-only copies of every game file in conversation order (all lines, with repeats) — for reading the context around a line. Not in git; see command 4. |
 | `ai_context/glossary.md` | Names of characters, places and gadgets — translate them the same way everywhere. |
-| `ai_context/` (other files) | Statistics behind the tables above (`pairs.tsv`, `speaker_stats.tsv`). |
 | `.claude/skills/telltale-batman-localization/` | Format rules (`SKILL.md`) and the scripts. |
 
 ## Setup (once)

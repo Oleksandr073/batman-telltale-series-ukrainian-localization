@@ -2,8 +2,6 @@
 
 Files in `ai_context/`:
 - `speaker_genders.xlsx` (repo root) — gender of every speaker ID (M/F/?). **Edit it**, then rebuild the translation table.
-- `speaker_stats.tsv` — lines per speaker, and how many need the speaker’s / listener’s gender in Ukrainian.
-- `pairs.tsv` — every speaker → listener pair with line counts and examples.
 - `translation_table.xlsx` — one row per unique text to translate.
 - `scenes/` — read-only views of every file sorted by record number (conversation order).
 

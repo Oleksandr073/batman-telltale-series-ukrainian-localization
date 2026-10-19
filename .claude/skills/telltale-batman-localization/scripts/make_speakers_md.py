@@ -1,4 +1,5 @@
 """Write ai_context/speakers.md (ти/ви decision sheet) from ai_context/pairs.tsv and speaker_stats.tsv.
+Needs ai_context/pairs.tsv and speaker_stats.tsv: create them first with speakers.py (they are not kept in git).
 Usage: python .claude/skills/telltale-batman-localization/scripts/make_speakers_md.py   (run from the repo root after speakers.py)"""
 import collections
 import csv
@@ -70,8 +71,6 @@ out = [
     '# Speakers, gender and ти/ви — Batman S1 (Ukrainian)', '',
     'Files in `ai_context/`:',
     '- `speaker_genders.xlsx` (repo root) — gender of every speaker ID (M/F/?). **Edit it**, then rebuild the translation table.',
-    '- `speaker_stats.tsv` — lines per speaker, and how many need the speaker’s / listener’s gender in Ukrainian.',
-    '- `pairs.tsv` — every speaker → listener pair with line counts and examples.',
     '- `translation_table.xlsx` — one row per unique text to translate.',
     '- `scenes/` — read-only views of every file sorted by record number (conversation order).', '',
     'How the listener is guessed: a `[to Alfred]` note, else a name used in direct address ("Alfred, …"), else the',
