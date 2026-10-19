@@ -214,6 +214,7 @@ TABLE_COLUMNS = [
     ('row', '#', 7),
     ('english', 'English', 60),
     ('ukrainian', 'Ukrainian  ✎ (type here)', 60),
+    ('lines', 'Lines', 7),
     ('speaker_gender', 'Speaker gender', 9),
     ('listener_gender', 'Listener gender', 9),
     ('speakers', 'Who speaks', 18),
@@ -234,6 +235,8 @@ HELP = [
     'English - the text to translate. Tags at the start of a line ({AngryA}, [pickup], [ALT]) are already removed;',
     '    the script puts them back. Tags still inside the text ({SmugA}, ^font..^, <icon.d3dtx:-15>) must be copied',
     '    unchanged into the translation.',
+    'Lines - how many lines the text has in the game. Your translation must have the same number (separate lines',
+    '    with ¶ or Alt+Enter). The Ukrainian cell turns red while the number of lines is wrong.',
     'Speaker gender - filled only if the Ukrainian words depend on who speaks: M = male (бачив, певен),',
     '    F = female (бачила, певна), ? = unknown, check the scene. Empty = gender does not matter here.',
     'Listener gender - same, for the person spoken to ("Did you see?" -> бачив / бачила).',
@@ -285,7 +288,8 @@ def write_table(path, rows):
         line = Side(style='thin', color='BFBFBF')
         box = Border(left=line, right=line, top=line, bottom=line)  # fills hide Excel's gridlines
         for n, row in enumerate(rows, 1):
-            ws.append([n if c == 'row' else row.get(c, '') for c in names])
+            n_lines = row['english'].count('¶') + 1
+            ws.append([n if c == 'row' else n_lines if c == 'lines' else row.get(c, '') for c in names])
         for idx, (name, title, width) in enumerate(TABLE_COLUMNS, 1):
             letter = ws.cell(row=1, column=idx).column_letter
             ws.column_dimensions[letter].width = width
@@ -299,13 +303,22 @@ def write_table(path, rows):
             for cell in r:
                 cell.border = box
                 cell.alignment = wrap if cell.column in (2, ucol, len(names) - 1) else top
-                if cell.column != 1 and cell.column != names.index('count') + 1:
+                if cell.column not in (1, names.index('count') + 1, names.index('lines') + 1):
                     cell.data_type = 's'           # never a formula, even if text starts with = or --
             u = r[ucol - 1]
             u.fill = yellow
             u.number_format = '@'
             r[-1].font = grey
         ws.cell(row=1, column=ucol).fill = yellow
+        # the Ukrainian cell turns red while its number of lines (¶ or Alt+Enter line breaks) differs from "Lines"
+        from openpyxl.formatting.rule import FormulaRule
+        u, ln = ws.cell(row=2, column=ucol).column_letter, ws.cell(row=2, column=names.index('lines') + 1).column_letter
+        count = f'LEN(${u}2)-LEN(SUBSTITUTE(SUBSTITUTE(${u}2,"¶",""),CHAR(10),""))+1'
+        ws.conditional_formatting.add(f'{u}2:{u}{ws.max_row}', FormulaRule(
+            formula=[f'AND(${u}2<>"",{count}<>${ln}2)'],
+            # Excel reads a conditional solid fill from bgColor (normal cells use fgColor) - set both
+            fill=PatternFill(fill_type='solid', start_color='FF9999', end_color='FF9999', bgColor='FF9999'),
+            font=Font(color='9C0006', bold=True)))
         ws.freeze_panes = 'C2'
         ws.auto_filter.ref = ws.dimensions
         hs = wb.create_sheet('Help')
