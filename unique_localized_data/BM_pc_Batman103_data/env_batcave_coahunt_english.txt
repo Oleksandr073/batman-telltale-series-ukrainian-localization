@@ -1,0 +1,1749 @@
+﻿#### 2f0adca4ed | choice/UI | x2
+Wayne Enterprises is a front.
+
+#### 20163f9ce0 | choice/UI | x2
+It’s part of Falcone’s criminal empire.
+
+#### c769550e37 | choice/UI | x2
+It’s tied to Hill’s political corruption.
+
+#### 5906820443 | choice/UI | x2
+He’s a Children of Arkham plant.
+
+#### 9d7eeb4b30 | choice/UI | x2
+This is his revenge.
+
+#### 849d50b6cb | choice/UI | x2
+They think I’m corrupt.
+
+#### 72bc68a872 | choice/UI | x2
+Bad time to be a Wayne...
+
+#### dd60e9b867 | choice/UI | x2
+It was a PR move.
+
+#### 94ac222ae6 | choice/UI | x2
+Wayne Enterprises cleaned the dirt off.
+
+#### 6229a142a0 | choice/UI | x2
+Sanctus works in the shadows.
+
+#### 26b9f47461 | choice/UI | x2
+My parents created this.
+
+#### 093f13a7bc | choice/UI | x2
+Change the legacy.
+
+#### 8eae25afa6 | choice/UI | x2
+Reinvent themselves.
+
+#### 8fff039853 | choice/UI → REPORTER04, OSWALD | x20
+YES
+
+#### a0509b7780 | choice/UI → REPORTER02 | x10
+NO
+
+#### 5461e5fb51 | BRUCE → ALFRED | x2
+The board voted me out.
+
+#### 0290c3268e | BRUCE → ALFRED | x2
+Oswald thinks he’s owed something. This is revenge -- he blames me for what my father did and he’ll lie and cheat to bring me down.
+
+#### 3fbc128cb2 | BRUCE → ALFRED | x2
+Oswald turned my own company against me. He faked his resume, his entire past, and my board voted him in.
+
+#### 8499231a4d | ALFRED → BRUCE | x2
+Oswald is a criminal. I can’t imagine that he’ll be in your seat for very long.
+
+#### 1b795e86be | BRUCE → ALFRED | x2
+Illegal experiments, cheap phamacuetical tests. Human test subjects.
+
+#### 42145ff8f0 | BRUCE → ALFRED | x2
+They wrongfully imprisoned people in order to seize their bank accounts, to take them out as players in Gotham.
+
+#### 673ed9914a | ALFRED → BRUCE | x2
+Something like this... existing inside of Wayne Enterprises...
+
+#### 605582da95 | BRUCE → ALFRED | x2
+The reach is enormous. Sanctus touches everything.
+
+#### a62ff81aab | BRUCE → ALFRED | x2
+They think that I’m as corrupt as my parents. The apple, apparently, can never fall far from the tree.
+
+#### 54f926a551 | BRUCE → ALFRED | x2
+It’s a bad time to be a part of this family. The name means nothing anymore.
+
+#### c79268721e | ALFRED → BRUCE | x2
+Meaning Oswald Cobblepot can find Sanctus.
+
+#### c66d411ea8 | BRUCE → ALFRED | x2
+*If* he knows to look for it, yes. And if Oswald gets his hands on this, then the Children of Arkham will have it.
+
+#### 5a08e574ee | ALFRED → BRUCE | x2
+Surely Lucius will try to keep him away from it.
+
+#### 8cda4b5600 | BRUCE → ALFRED | x2
+He’s trying, but he’s only one man.
+
+#### cc5dcd1c10 | ALFRED → BRUCE | x2
+And with Lucius here with us...
+
+#### 00abca87d9 | BRUCE → ALFRED | x2
+We’ll just have to tackle the problem ourselves.
+
+#### 09068b8844 | BRUCE → ALFRED | x2
+Let me pull up the map of Gotham.
+
+#### 77f52cf51f | BRUCE → ALFRED | x2
+Now I can filter the data from the Sactus file.
+
+#### 0aa44c9434 | ALFRED → BRUCE | x2
+This... this covers almost half of Gotham. How could this happen?
+
+#### eb94aa188a | BRUCE → ALFRED | x2
+My company is responsible. We built the structure to protect Batman and it allowed Wayne Enterprises access to cover its tracks.
+
+#### 9554630dc1 | BRUCE → ALFRED | x2
+Sanctus did this. I know from experience that people don’t tend to look into the shadows.
+
+#### f7b088d5cf | BRUCE → ALFRED | x2
+My father started this. The very land that Wayne Enterprises sits on was stolen.
+
+#### 0388b87021 | ALFRED → BRUCE | x2
+If this got into the wrong hands...
+
+#### 5943e6959b | ALFRED → BRUCE | x2
+If Oswald does manage to find the information...
+
+#### 6e839e46c3 | ALFRED → BRUCE | x2
+Gotham is going to be in trouble.
+
+#### 08901794eb | BRUCE → ALFRED | x2
+Everything that was being done under the umbrella of Sanctus... it was all to amass land. Businesses. Wealth.
+
+#### 1aea3dd2ab | ALFRED → BRUCE | x2
+Stealing it.
+
+#### ba86b34347 | BRUCE → ALFRED | x2
+A piece at a time until they have everything.
+
+#### 5a1483c396 | ALFRED → BRUCE | x2
+We’re treading dark water here, Bruce. We can’t let this information fall into the wrong hands.
+
+#### 542b814a21 | BRUCE → ALFRED | x2
+You carry the burden of your parents. I know.
+
+#### e941aeddcd | BRUCE → ALFRED | x2
+They have an opportunity to change their legacy.
+
+#### 09ca06dc6a | BRUCE → ALFRED | x2
+They’ll have to start from nothing and make a new name for themselves.
+
+#### 01aa8fbe85 | ALFRED → BRUCE | x2
+Now that we have the information, perhaps we can make sure that their lives are different.
+
+#### 7a2965d56a | BRUCE → ALFRED | x2
+There are names here... old families. Gates. Arkham.
+
+#### e1259fae0c | BRUCE → OSWALD | x2
+Cobblepot.
+
+#### 411ebf4da2 | BRUCE → ALFRED | x2
+My parents authored the fall of the Cobblepot family.
+
+#### 4f7c565b12 | BRUCE → ALFRED | x2
+There’s a list of pay-offs by Mayor Hill.
+
+#### ae45587aa7 | BRUCE → ALFRED | x2
+He was connected to illegal warrants and seizures... forging arrest records.
+
+#### ec8993dd4a | ALFRED → BRUCE | x2
+The children from the seizures must have ended up at Saint Mark’s.
+
+#### 5142b47476 | ALFRED, BRUCE → OSWALD | x8
+Oswald.
+
+#### 9468c0f9d8 | ALFRED → BRUCE | x2
+Oswald had been sent to boarding school. He missed getting thrown into the system.
+
+#### 67ac7db3e6 | ALFRED → BRUCE | x2
+The original families-- Oswald’s parents had sent him to boarding school. He missed getting thrown into the system.
+
+#### 31ab559d2c | BRUCE → ALFRED | x2
+Not suprised to see the Skyline Club on here. [reading]All of Falcone’s operations were run out of this building, everything he had his hands in. Docks... transportation... utilities.
+
+#### 31ca652ed7 | BRUCE → ALFRED | x2
+Blue Plains Medical Facility.
+
+#### 6de4e707a8 | ALFRED → BRUCE | x2
+The municipal hospital near the water?
+
+#### 8d47127fe8 | BRUCE → ALFRED | x2
+Yes. This is where the experiments were being performed. This is awful, Alfred. Trial pharmaceutical runs... genome tests...
+
+#### 0952c6badc | BRUCE → ALFRED | x2
+The youngest children from the hunted families were sent to the orphanage-- but the older ones, the ones who could understand... they were sent here.
+
+#### a375714a64 | ALFRED → BRUCE | x2
+And then sent out again via the train tunnels to the funeral home for...
+
+#### cece79a5c9 | BRUCE → ALFRED | x4
+Disposal.
+
+#### 5aeddc8292 | ALFRED → BRUCE | x2
+The test subjects who didn’t make it must have been taken to the funeral home for...
+
+#### 550bc51812 | BRUCE → ALFRED | x2
+Gotham Courthouse. Sanctus is able to hear anything--case files, material witnesses, jury selection...
+
+#### 0d823509d6 | ALFRED → BRUCE | x2
+How did it get this bad? What began as a land grab is now manipulating nearly every aspect of Gotham life.
+
+#### 2e6f1c9bc0-LM | BRUCE → ALFRED | x2
+You bear some of the responsibility here, hiding what you knew.
+
+#### 80338ef5b5-LM | BRUCE → ALFRED | x2
+There’s no way that you could have known what it would become.
+
+#### 6118b5f549 | choice/UI → ALFRED | x2
+Money is a strong motivator.
+
+#### 3c2ad55452 | choice/UI → ALFRED | x2
+Absolute power.
+
+#### 43dcabe0d1 | BRUCE → ALFRED | x2
+Some people will do anything for money.
+
+#### 06b76b375b | ALFRED → BRUCE | x2
+Bruce, your parents--[loved you.]
+
+#### ca6587b68d-SM | BRUCE → ALFRED | x2
+None of their reasons matter now, Alfred. I need to fix what they put into motion.
+
+#### 04ebae91df | BRUCE → ALFRED | x2
+Power corrupts. The only motivation here was to gain control over Gotham.
+
+#### b2974bfd72 | ALFRED → BRUCE | x2
+A silly question, I suppose...
+
+#### db053f7dea | BRUCE → ALFRED | x2
+We need to figure out what the Children of Gotham could do with Sanctus.
+
+#### 7d8b085693 | ALFRED → BRUCE | x2
+Perhaps locating them would be a start.
+
+#### 90be81cff9-SM | BRUCE → ALFRED | x2
+I’m sure that I could find one of them to shake down...
+
+#### 872379f55a | ALFRED → BRUCE | x2
+I have better news--the recording of the voice from the debate.
+
+#### 1c2f7283f1 | ALFRED → BRUCE | x2
+This was never the intention--
+
+#### 57091b7bd4 | BRUCE → ALFRED | x2
+For us? No.
+
+#### 8ea04b34ac | BRUCE → ALFRED | x2
+But whoever ran Sanctus in the years since my parents died... they’ve been planning something different.
+
+#### 5343385383 | ALFRED → BRUCE | x2
+Only too true. They’ve made no waves, so no one noticed.
+
+#### 59840cbf2a | BRUCE → ALFRED | x2
+Until now. I have to stop this.
+
+#### e63c6e5989 | ALFRED → BRUCE | x2
+Bruce, your father was--
+
+#### 2d4011308a-SM | BRUCE → ALFRED | x2
+A criminal, Alfred. He may have loved me, and he may have thought I would take over for him, but to call him anything other than a criminal would be dishonest.
+
+#### 745171c858 | BRUCE → ALFRED | x2
+Sanctus was his legacy, and mine to dismantle.
+
+#### 9541379f47 | ALFRED → BRUCE | x2
+That fact does not resolve an old man of guilt, Bruce.
+
+#### 99758dd035-LM | BRUCE → ALFRED | x2
+Then let me. You were protecting me, and I will fight this.
+
+#### 09e005432e | ALFRED → BRUCE | x2
+And I feel the weight of it, seeing this.
+
+#### 85c527b064 | BRUCE → ALFRED | x2
+You should have told me, Alfred.
+
+#### 93c921a925-SM | ALFRED → BRUCE | x2
+I chose my path, Bruce.
+
+#### e9b08c1e25 | ALFRED → BRUCE | x2
+But what they’re doing...
+
+#### dbd202d1e7 | BRUCE → ALFRED | x2
+It’s disgusting. And it needs to be stopped.
+
+#### e79f69474c | choice/UI → ALFRED | x2
+Oswald stole my company.
+
+#### 91ccd7d56b | choice/UI → ALFRED | x2
+It’s my fault.
+
+#### b2b5368181-LM | choice/UI → ALFRED | x2
+You’re right, Alfred
+
+#### cf0f058817-SM | choice/UI → ALFRED | x2
+I’m still responsible
+
+#### c757f3fadf-SM | choice/UI → ALFRED | x2
+I could’ve done something.
+
+#### 5fcc2b4370-LM | ALFRED → BRUCE | x2
+Bruce, it’s all over the news-- you stepped down?
+
+#### 12edd897e9 | ALFRED → BRUCE | x2
+That’s ludicrious.
+
+#### b4b0c0be68-SM | BRUCE → ALFRED | x2
+Maybe if I’d talked to Oswald more, been on his side.
+
+#### 8139117f10-SM | BRUCE → ALFRED | x2
+I could have prevented this from happening.
+
+#### be5efc60fd | ALFRED → BRUCE | x2
+His mind was made up from the beginning.
+
+#### 67fa916df1-SM | BRUCE → ALFRED | x2
+If I’d disagreed with Oswald, pushed back.
+
+#### 7a7e577a0d | BRUCE → ALFRED | x2
+Maybe things would have been different.
+
+#### 6e8274c83e-LM | BRUCE → ALFRED | x2
+You’re right. He’s part of the Children and came back to Gotham for a reason.
+
+#### b7c6334eb2-LM | ALFRED → BRUCE | x2
+Nothing you could have said would have shifted his agenda.
+
+#### ecf6546461 | BRUCE → ALFRED | x2
+The responsibilty is still mine. I couldn’t stop him and now he has my company.
+
+#### 3914e577f9-SM | ALFRED → BRUCE | x2
+I’m sure that his time in your chair is limited.
+
+#### efa0b8fdab | BRUCE → ALFRED | x2
+The things they’ve been doing...
+
+#### 3c2152ebc0-SM | choice/UI → ALFRED | x2
+I found Sanctus.
+
+#### f59a48163d | choice/UI → ALFRED | x2
+Carry the burden.
+
+#### 5a9561849e | BRUCE → REPORTER01 | x2
+But with the firwall breached, anyone with the CEO clearances will have access to it.
+
+#### f0686766a5 | choice/UI | x2
+He turned my company against me.
+
+#### fb360f9c09 | choice/UI → REPORTER01, OSWALD, GORDON | x16
+yes
+
+#### f93c3ad4d2 | REPORTER01 → BRUCE | x2
+Coming up next, we go in-depth on the recent interview with Mayor Harvey Dent. Gotham Gazette reporter, Vicki Vale claims there may be something more sinister hiding behind that smile. Is she right?
+
+#### d8f8b75383 | REPORTER01 → BRUCE, ALFRED | x4
+We’ll discuss... after the break.
+
+#### 374d9d3cff | REPORTER01 → ALFRED | x2
+Coming up next, we go in-depth on the recent article by Gotham Gazette reporter Vicki Vale. She claims something sinister is lurking within Wayne Enterprises. With the investigation underway, what do we expect to find?
+
+#### 8939842dae-LM | ALFRED → REPORTER01 | x2
+Seems there are a few things you forgot to mention.
+
+#### b016c85b05-LM | ALFRED → REPORTER01 | x2
+The reports say you were forcibly removed from the building.
+
+#### 118b2c5c99-LM | ALFRED → REPORTER01 | x2
+The reports say you’ve stepped down.
+
+#### 1385a41bc2 | ALFRED → BRUCE | x2
+Wayne Enterprises is your company.
+
+#### 9b0221e23f | ALFRED → BRUCE | x2
+I don’t understand.
+
+#### 1415c7cd38 | BRUCE → ALFRED | x2
+Oswald’s behind this. He orchestrated this whole thing to get me out of my position.
+
+#### 015e867930 | ALFRED → BRUCE | x2
+You mean?
+
+#### e652ee94ba | BRUCE → ALFRED | x2
+He’s the new CEO of Wayne Enterprises.
+
+#### baecc91b19-SM | BRUCE → ALFRED | x2
+Well, the good news is I found the shadow organization.
+
+#### 0b241c5a06 | BRUCE → ALFRED | x2
+It’s called Sanctus.
+
+#### 49d494db45-SM | ALFRED → BRUCE | x2
+If that’s the good news, I’m not sure I want to hear the bad.
+
+#### e9886fc075 | ALFRED → BRUCE | x2
+Knowing you, this couldn’t have been voluntary.
+
+#### da20128507 | BRUCE → ALFRED | x2
+Oswald told me the Children of Arkham were going to target me next.
+
+#### ee9930eaa6 | BRUCE → ALFRED | x2
+Now they’ve got him sitting in my chair... who knows what they’re planning.
+
+#### 4b601f4f1d | LUCIUS, ALFRED → OSWALD | x8
+Oswald?
+
+#### f639e04d16 | BRUCE → ALFRED | x2
+Afraid so.
+
+#### fecb200a7f | BRUCE → ALFRED | x2
+It’s clearly a PR move. They’re trying to distance themselves from the Wayne name.
+
+#### 82a4c01d54 | BRUCE → ALFRED | x2
+St. Mark’s orphanage. These names... they’re all elite Gotham families.
+
+#### 723fd60d37 | ALFRED → BRUCE | x2
+St. Mark’s was notorious for misplacing files and losing children to the system.
+
+#### 62c3faef9e | BRUCE → ALFRED | x2
+The parents were shipped off  to Arkham Asylum.
+
+#### 91de2a6665 | ALFRED → BRUCE | x2
+Leaving the children to be sent to the orphanage.
+
+#### ae546ab2d0 | BRUCE → ALFRED | x2
+I can’t -- I can’t help but think if circumstances were different... it would have been me in that orphange.
+
+#### 4032270cf5 | ALFRED → BRUCE | x2
+Thinking like that helps nothing, Bruce.
+
+#### 73966d9d14 | ALFRED → BRUCE | x2
+Run by Penguin now.
+
+#### c5aca83b22 | BRUCE → ALFRED | x2
+Falcone got most of his arms shipments through the docks.
+
+#### 259f1af0ac | ALFRED → BRUCE | x2
+And now Penguin controls that as well.
+
+#### fa7ebafb2a | BRUCE → ALFRED | x2
+Children of Arkham have been using it to run their own shipments.
+
+#### d24a0ab471 | BRUCE → ALFRED | x2
+The Union is one that’s willing to look the other way if money’s involved.
+
+#### 18bbaf7506 | BRUCE → ALFRED | x2
+Patients committed to Arkham, going back twenty years.
+
+#### 68e5f5365c | ALFRED → BRUCE | x2
+A rather extensive list.
+
+#### a9a743b73f | BRUCE → ALFRED | x2
+Napier, Wesker, Fugit...
+
+#### c2855bf88e | ALFRED → BRUCE | x2
+If Penguin finds the same log, he would look for his parents first.
+
+#### 9c88eaf2d0 | BRUCE → ALFRED | x2
+My father orchestrated the false diagnoses, and had all of them shipped to Arkham.
+
+#### 14495505d1 | ALFRED → BRUCE | x2
+He must have been very careful, as to not raise suspicion.
+
+#### f4a4d9ceb1 | BRUCE → ALFRED | x2
+They have the same doctor listed as overseeing their transfers.
+
+#### e3c776069d | ALFRED → BRUCE | x2
+Thomas Wayne.
+
+#### 007f2e042b | BRUCE → ALFRED | x2
+There’s a list of his patients. Lots of high level people here...
+
+#### 7b859dd70c | BRUCE → ALFRED | x2
+These are the same patients that were sent off to Arkham.
+
+#### b99cf8a178 | ALFRED → BRUCE | x2
+With Thomas Wayne’s signature, giving the transfer legitimacy.
+
+#### 04fca51b6c | BRUCE → ALFRED | x2
+Falsified medical records implying insanity. Made it easy to get rid of all of his patients.
+
+#### 0ebbd5d463 | ALFRED → BRUCE | x2
+And made it easy to seize their estates.
+
+#### 35fcf3e440 | ALFRED → BRUCE | x2
+It used to be the botanical gardens.
+
+#### 48bc87dd97 | ALFRED → BRUCE | x2
+They’d be able to access everything. Records, evidence, the GCPD arsenal...
+
+#### 3e22442596 | choice/UI → ALFRED | x2
+Gotham becomes a police state.
+
+#### 384dae7560 | BRUCE → ALFRED | x2
+If they control the GCPD, there’s nothing stopping them from turning Gotham into a police state.
+
+#### 12a597673d | ALFRED → BRUCE | x2
+That would certainly give the public reason to revolt.
+
+#### ba08788642 | BRUCE → ALFRED | x4
+Which is exactly what they want.
+
+#### 1a1f97905c | choice/UI → ALFRED | x2
+They can hold the GCPD hostage.
+
+#### 721176703c | BRUCE → ALFRED | x2
+They would be able to hold the entire GCPD hostage. No police means no order.
+
+#### 8fc6127487 | ALFRED → BRUCE | x2
+Which means chaos in the streets.
+
+#### 41d4c4543e | choice/UI → ALFRED | x2
+They can release dangerous criminals.
+
+#### 7b2a01b0b2 | BRUCE → ALFRED | x2
+Sanctus could shut off the Wayne Tech inside the GCPD. Releasing every criminal currently in GCPD’s lockup.
+
+#### e934bbcc90 | ALFRED → BRUCE | x2
+Causing pure pandemonium. The carnage would be astronomical.
+
+#### ea5225cc42 | BRUCE → ALFRED | x2
+Exactly what the Children of Arkham wants.
+
+#### addf5b859f | ALFRED → BRUCE | x2
+The GCPD is the only thing that keeps this city together. Imagine the carnage if the Children of Arkham shuts it down through Sanctus.
+
+#### 7d9965869a | GORDON → BRUCE | x2
+-- finish your math homework?
+
+#### f5addab77a-LM | GORDON → ALFRED | x2
+Good girl. Did you get your test back today?
+
+#### 7a7bdeeb87 | GORDON → BRUCE | x2
+Well, we’ll have to have that discussion with your teachers--
+
+#### e4bb81dbee | BRUCE → GORDON | x2
+The Children of Arkham were able to hack and broadcast the debate to every television channel in Gotham. False credentials would be easy for them.
+
+#### 5e12b397e8-LM | ALFRED → GORDON, BRUCE | x4
+Well, before you were...
+
+#### d911452350-LM | ALFRED → BRUCE | x4
+Before you stepped down, were you able to find what you were looking for?
+
+#### f04cb16431 | BRUCE → ALFRED | x4
+The shadow organization definitely exists. It’s called Sanctus.
+
+#### 76da11aae2 | ALFRED → BRUCE | x2
+And now Sanctus has become even more dangerous. Imagine if Penguin gets hold of this information.
+
+#### b869c06397 | BRUCE → HILL | x2
+My father, Hill, and Falcone have been controlling the city through Sanctus. They’ve been able to work in the shadows because they used Wayne Enterprises as a front.
+
+#### 46be5cd68c | ALFRED → BRUCE | x2
+Giving them legitimacy.
+
+#### c27708cb91 | BRUCE → ALFRED | x2
+Hamilton Hill was able to falsify records and arrest warrants to seize the land of Gotham elites -- then my father helped cover it up by using Wayne Enterprises to legitimize it.
+
+#### c1a684fe30 | BRUCE → ALFRED | x2
+Sanctus is practically an extension of Falcone’s criminal empire. Both Mayor Hill and my father contributed to it.
+
+#### 03a46692a8 | ALFRED → BRUCE | x2
+And now The Penguin sits at the head of Wayne Enterprises. If he gets hold of this information...
+
+#### a954665b4d | ALFRED → BRUCE | x2
+And now that you’ve been taken from your own company, you can’t do anything about Sanctus.
+
+#### df68d47e83 | BRUCE → ALFRED | x2
+It’ll only be worse if my replacement finds it.
+
+#### 5cc95a5811 | ALFRED → BRUCE | x2
+Your replacement?
+
+#### 9816b283dd | BRUCE → ALFRED | x2
+Any shady dealings involving City Hall, Sanctus had a hand in it.
+
+#### 3c2bea80e0 | ALFRED → BRUCE | x2
+We’re limited in the actions we can take against Sanctus, especially without your position as CEO.
+
+#### d9a9f45328 | ALFRED → BRUCE | x2
+Have they at least announced a replacement? One we can trust?
+
+#### d1e3662d3a | BRUCE → ALFRED | x2
+I wouldn’t put “trust” and Oswald Cobblepot in the same sentence.
+
+#### 1052984a71 | BRUCE → ALFRED | x2
+Yeah, and I don’t see them welcoming me back with open arms anytime soon.
+
+#### 5fc14998f5 | BRUCE → ALFRED | x2
+My father’s login still had administrative access, so someone’s been using it to run Sanctus even now.
+
+#### b9a481d948 | BRUCE → ALFRED | x2
+With a well respected company like Wayne Enterprises acting as a front, they could let Sanctus grow and fester.
+
+#### d00fc3f385 | ALFRED → BRUCE | x2
+And no one would be the wiser.
+
+#### 960e9e9efd | BRUCE → ALFRED | x2
+My family name made it easy to clean the dirt off.
+
+#### 170c03b18e | BRUCE → ALFRED | x2
+Sanctus is ingrained within the city, through Wayne Tech, through Falcone’s criminal empire...
+
+#### 7f369f7b8a | ALFRED → BRUCE | x2
+They’ve created the perfect monster.
+
+#### 0c03063c21 | BRUCE → ALFRED | x2
+One capable of outliving all of them. They have eyes and ears in every nook and cranny of Gotham.
+
+#### b60a2feb84-SM | ALFRED → BRUCE | x2
+Their leader is exceptional. I tried to remove the modulation from their voice, but there are too many layers to sort through. They took every precaution to make sure they were never identified. However--
+
+#### ccae7f7ea1 | BRUCE → ALFRED | x2
+Perhaps we can use the underlying noise to pinpoint her location.
+
+#### e067317668 | BRUCE → ALFRED | x2
+There. That’s where they’re going.
+
+#### 5ebf950bf7 | ALFRED → BRUCE | x2
+The Skyrail Depot.
+
+#### dce887ca31-SM | BATMAN → ALFRED | x2
+I need you to monitor from here, Alfred. Let me know if anything changes at the depot before I get there.
+
+#### f330767dbb | ALFRED → BRUCE | x2
+I don’t need to remind you to be careful, do I?
+
+#### 789f0f34e3-SM | BRUCE → ALFRED | x2
+With Lucius’ help I uncovered Sanctus, but we had to break the firewall around the information.
+
+#### ba11b2d93a | BRUCE → ALFRED | x2
+These are names and specific addresses. If I add a new layer onto the map...
+
+#### 2eb5b43565 | BRUCE → ALFRED | x2
+Then let’s get a closer look, and we can figure out how deep this goes. We need to find out what Sanctus is running before Oz does.
+
+#### a0b01b7344 | ALFRED → BRUCE | x2
+I can’t believe the board would agree to this.
+
+#### da7b4d07d6 | ALFRED → BRUCE | x2
+How could they do this to you?
+
+#### 537502bf98 | ALFRED → BRUCE | x2
+Your own company.
+
+#### 49c7c97039 | ALFRED → BRUCE | x4
+I suppose dealing with Sanctus will require more than your normal methods.
+
+#### 358fb8143b | BRUCE → ALFRED | x6
+He won’t. At least not yet.
+
+#### 3902a0991a-LM | ALFRED → BRUCE | x2
+Lucky you were able to get this out of there.
+
+#### 3890d6c603 | ALFRED → BRUCE | x2
+What is all this?
+
+#### fdaa1a8569 | BRUCE → ALFRED | x2
+The board made it very clear I’m not welcome there.
+
+#### 4991dfc0bd | ALFRED → BRUCE | x2
+Without you, what’s to stop The Penguin from gaining access to Sanctus?
+
+#### c8db42276a | ALFRED → BRUCE | x2
+If he gets hold of this information...
+
+#### 312c06cbfa | BRUCE → ALFRED | x2
+This was hidden behind a pretty robust firewall.
+
+#### fe45eeb6fb-SM | BRUCE → ALFRED | x2
+Lucius and I were able to circumvent it, but I doubt Oswald is even aware it exits.
+
+#### 132c93cfd5 | ALFRED → BRUCE | x2
+I take it Lucius wasn’t involved then.
+
+#### a62ede1975 | BRUCE → ALFRED | x2
+He had no idea what it was.
+
+#### a44d27f894 | BRUCE → ALFRED | x2
+But now we do.
+
+#### a63916c91b | ALFRED → BRUCE | x2
+All of this...?
+
+#### 0ab3ee1041 | BRUCE → ALFRED, HARVEY | x4
+It’s Sanctus.
+
+#### c5eefcdae6 | BRUCE → ALFRED | x2
+He’s been busy alright.
+
+#### 6066d453c2 | BRUCE → ALFRED | x2
+The GCPD?
+
+#### 84cf577ae7 | BRUCE → ALFRED | x2
+Sanctus has control of the security cameras.
+
+#### 0a8aadc2c5 | BRUCE → ALFRED | x2
+Cameras are all Wayne Tech. Phones, police scanners... that’s how they’re getting in.
+
+#### 491b989307-SM | choice/UI → ALFRED | x2
+I need to warn Gordon.
+
+#### d5f1506e1e | choice/UI → ALFRED | x2
+The police are dirty.
+
+#### e0576ffc99 | choice/UI → ALFRED | x2
+Sanctus is spying on them.
+
+#### 5fb6514196 | ALFRED → BRUCE | x2
+What does this mean?
+
+#### fb8082296b | choice/UI → ALFRED | x2
+Someone inside gave Sanctus access.
+
+#### 0e0f17cc05 | BRUCE → ALFRED | x2
+The police must be in on it. They’re working with Sanctus.
+
+#### 457709bcc3 | BRUCE → ALFRED | x2
+They must have no idea. Sanctus is keeping track of their every move.
+
+#### 19f897e0e1 | BRUCE → ALFRED | x2
+Someone within the GCPD must’ve given them access. They’re working with Sanctus somehow.
+
+#### c8d4c31cc2 | choice/UI → ALFRED | x2
+I can’t trust Gordon.
+
+#### 9c51b69292 | ALFRED → BRUCE | x2
+The implications are... dizzying.
+
+#### ed354636f8 | ALFRED → BRUCE | x2
+This must’ve been going on for years.
+
+#### 12d105e36a | ALFRED → BRUCE | x2
+Who would do such a thing?
+
+#### 51f12be986 | ALFRED → BRUCE | x2
+Do you think they know?
+
+#### 03df7d6754 | BRUCE → ALFRED | x2
+I have to warn Jim.
+
+#### f35d0e0a5b | ALFRED → GORDON | x2
+If he’s being watched, you’ll need to be cautious.
+
+#### 94ebde4dec-SM | GORDON → ALFRED | x2
+I’m not sure. I --
+
+#### e7bf104246-SM | GORDON → BRUCE | x2
+I’m sorry, Babs. I have to go.
+
+#### c0f79a072e | ALFRED, BATMAN → BRUCE, HARVEY | x4
+What about Gordon?
+
+#### 9455caacb2-SM | BRUCE → GORDON | x2
+I’m not sure if I can trust him. For now, this stays between us.
+
+#### e5dc2eb525 | BRUCE → ALFRED | x4
+City Hall...
+
+#### 8bfbfc371c | BRUCE → ALFRED | x2
+Record of Gotham Mayors.
+
+#### e2f8896737 | ALFRED → BRUCE | x2
+Hill had been in office for so long it’s hard to remember a time when he wasn’t mayor.
+
+#### 394c93c4b8 | BRUCE → ALFRED | x4
+Theodore Cobblepot.
+
+#### b3288663db | ALFRED → BRUCE | x2
+Oswald’s grandfather I believe.
+
+#### daf7e0eeaa | BRUCE → ALFRED | x2
+Deceased. Two weeks before the election.
+
+#### 2e3741a995 | BRUCE → ALFRED | x2
+My father got rid of him so Hill would win.
+
+#### 831a514501 | BRUCE → ALFRED | x2
+My father used to work in this building.
+
+#### bff911c82b | BRUCE → OSWALD | x2
+Nygma, Arkham... Cobblepot.
+
+#### 7387371890 | ALFRED → BRUCE | x2
+Esther?
+
+#### 71a4c54d56 | BRUCE → ALFRED | x2
+And her husband, Nathan. All diagnosed with mental disorders and sent to Arkham Asylum.
+
+#### 049e812d13 | BRUCE → OSWALD | x2
+T. Cobblepot.
+
+#### fc7b5b80c9 | BRUCE → ALFRED | x2
+There’s another one here, “T. Cobblepot”. In good health for years until he suddenly died of a heart attack during a routine check-up.
+
+#### d9c853886e | ALFRED → BRUCE | x2
+Seems strange doesn’t it?
+
+#### b3247fd110 | ALFRED → BRUCE | x2
+Hill’s predecessor.
+
+#### c317b80b06 | BRUCE → ALFRED | x2
+The timing is too much to be coincidence.
+
+#### c6af1e8d2d | BRUCE → ALFRED | x2
+This can’t be a coincidence.
+
+#### 3fde1c4985 | BRUCE → ALFRED | x2
+He was killed so Hill could take office.
+
+#### 5d81179bc3 | ALFRED → BRUCE | x2
+We can’t let the Children of Arkham find out about this. Especially not with Oswald in prime position to take it over.
+
+#### e185c02ebc | BRUCE → ALFRED | x2
+Where are we with tracking down their leader? We need to know what they’re up to and if they have any idea Sanctus exists.
+
+#### eea8129c12 | ALFRED → BRUCE | x2
+Good news on that front.
+
+#### 51de860a0c | ALFRED → BRUCE | x2
+Not a Sanctus location at least. But the land is held by Wayne Enterprises.
+
+#### 7aabba6333 | BRUCE → ALFRED | x2
+With Oswald in charge, they’re putting their plan in motion.
+
+#### 9c97b7594b-SM | BRUCE → ALFRED | x2
+I could kiss you, Alfred.
+
+#### 4be2ebb04b | BRUCE → ALFRED | x2
+It feels strange to spy on my own company.
+
+#### ba787ccde8 | ALFRED → BRUCE | x2
+Stranger to know others have been spying on it for years.
+
+#### d5d6a0ac62 | ALFRED → BRUCE | x4
+As it will be awfully hard to punch a company.
+
+#### a4297994b1 | BRUCE → ALFRED | x2
+Here they are.
+
+#### 5e4b4478ae | BRUCE → ALFRED | x2
+This is the site of the new Mental Health Facility.
+
+#### 6b197fa854-SM | BRUCE → ALFRED | x2
+I was told the land was vacant.
+
+#### 93b9336839 | ALFRED → BRUCE | x2
+It appears it wasn’t.
+
+#### fce043d41c | BRUCE → FAIRCHILD | x2
+They were able to work in the shadows, and all their dealings were completely legitimate under the Wayne name.
+
+#### 53f8eb5ab5 | BRUCE → FAIRCHILD | x2
+It’s how Falcone was able to control it so easily.
+
+#### 3c8c1cb4e2 | FAIRCHILD → BRUCE | x2
+Up next we discuss the recent interview with the Children of Arkham’s leader, for now only known as “The Voice”...
+
+#### 8d3815baaa | FAIRCHILD → BRUCE | x2
+More on that in a moment.
+
+#### cad0291f8e | FAIRCHILD → BRUCE | x2
+The masked leader sat down with Gotham Gazette reporter Vicki Vale to discuss their cause and what they hope to achieve in Gotham.
+
+#### 4cf702c5b4 | BRUCE → FAIRCHILD | x2
+In the wrong hands, someone could easily make any critical witness in a court case disappear.
+
+#### e63117ee10 | ALFRED → BRUCE | x2
+Or stack the witness log in the defendent’s favor.
+
+#### 501785ba17 | BRUCE → ALFRED | x2
+Harvey’s still not doing well. And Sanctus has direct access into City Hall.
+
+#### d60f97f9dc | ALFRED → BRUCE | x2
+Keeping an eye out on who’s in the Mayor’s seat and what they’re doing. No wonder Hill stayed in office for so long.
+
+#### 1db5096eb5 | BRUCE → ALFRED | x2
+Sanctus was helping him keep his seat.
+
+#### a471e9d310 | BRUCE → ALFRED | x2
+Eyes and ears on everyone, apparently. Even in Arkham Asylum.
+
+#### 3cd8b27b0b | ALFRED → BRUCE | x2
+Perhaps to keep an eye on all your father’s patients after they were committed.
+
+#### f34454f68e | GORDON → BRUCE | x2
+It’s a risk we’ve got to take, Commissioner. If the Children of Arkham can hack into our systems, we’re completely ineffective.
+
+#### 2fbc9348b0 | BRUCE → ALFRED | x2
+This must have been how the Children of Arkham were able to compromise the GCPD’s tech.
+
+#### 80e0cd673d | ALFRED → BRUCE | x2
+Because Sanctus has control over all the surveillance.
+
+#### 35fc067160-SM | BRUCE → GROGAN | x2
+So Gordon and I were right all along. At least now we have a name to go after.
+
+#### e78589f25a-SM | COMMISSIONER → BRUCE | x2
+Look, I need all this tech cleared out by midnight tonight. If we’re being bugged we need a full sweep of everything.
+
+#### ba8c491476 | GROGAN → GORDON | x2
+This is ridiculous, Gordon. Do you know how much all this equipment costs? We don’t have the budget to replace it all.
+
+#### 5968ea48d5 | GROGAN → COMMISSIONER | x2
+And you think going into situations completely blind is any better?
+
+#### 9e3b8c5211 | COP01 → COMMISSIONER | x2
+Everything, sir?
+
+#### 23a8736c80 | COMMISSIONER → GORDON | x2
+Did I stutter, Lieutenant?
+
+#### 975f0f78aa | COP01 → COMMISSIONER | x2
+No sir. Just...even the computers?
+
+#### cefc904e12 | COMMISSIONER → COP01 | x2
+If it’s got a god damn “W” on it, it goes in the dumpster.
+
+#### 07bbd4ecf1 | CIVILIAN01 → COMMISSIONER | x2
+Account #4561892. Deposit of $50,000. Account #3287055. Deposit of $22,000.
+
+#### fb44d93e07-L? | CIVILIAN02 → CIVILIAN01 | x2
+Hey, did you get the new passcode for the vaults? My computer is on the fritz.
+
+#### c576aba8da | CIVILIAN01 → CIVILIAN02 | x2
+Sure, let me check.
+
+#### 5720c0204a | CIVILIAN01 → CIVILIAN02 | x2
+It’s B5674PMJ.
+
+#### 4779939644 | CIVILIAN02 → CIVILIAN01 | x2
+Thanks! You’re a doll!
+
+#### d00685b4de | ALFRED → CIVILIAN01 | x2
+Gotham City Bank. It’s the most secure bank in the entire city. Their vaults are impenatrable.
+
+#### 2dabf070eb | BRUCE → CIVILIAN01 | x2
+Not if someone got hold of this.
+
+#### 48ca3224bf | BRUCE → HARVEY | x2
+Who needs to break in when you can just listen in for the vault passcodes?
+
+#### 5fa1409a15 | HARVEY → BRUCE | x2
+The whole thing was a disaster!
+
+#### 7a9e8e6aec-S?-LM | ASSISTANT → HARVEY | x2
+No, no! I thought you looked great, Mister Dent!
+
+#### 04062d076c | HARVEY → ASSISTANT | x2
+Don’t coddle me!
+
+#### 31b917db4d-SM | HARVEY → ASSISTANT | x2
+Oh god. I’m sorry Deborah. I didn’t mean to...
+
+#### 74d8bc3a06 | ASSISTANT → HARVEY | x2
+It’s... it’s okay, Mister Dent. Maybe you should head home early.
+
+#### 8630806ec4-SM | HARVEY → ASSISTANT | x2
+No, no. I’m fine. Can you connect me to that cell number I gave you?
+
+#### 55d16ba8a1 | HARVEY → SELINA | x2
+Hi, Selina? It’s Harvey. I just... I just haven’t talked to you in a while and I...
+
+#### 161df67df7-SM | HARVEY → ASSISTANT | x2
+It’s just been rough. With the Mayor’s Seat and these Children of Arkham... well, that’s nothing for you to worry about. I was just...
+
+#### 2022d2ec5c-SM | HARVEY → REGINA | x2
+I was hoping to see you. For coffee maybe? Gimme a call back. I... I’d really like to hear your voice.
+
+#### 874076b8b2 | REGINA → HARVEY | x2
+It feels so empty, with Bruce gone. Like this place is full of ghosts.
+
+#### 3421bdf3bf | BOB → REGINA | x2
+He’s not dead, dear.
+
+#### a47a7f6998 | REGINA → BOB | x2
+I know. But the company--[was important to him]
+
+#### 4b85abf3f5 | BOB → REGINA | x2
+Bruce Wayne barely showed his face in the office to begin with. Too busy driving his fancy cars and escorting women at his parties.
+
+#### 937600c433 | REGINA → BOB | x2
+Bob, don’t be insensitive. Bruce is a wonderful man.
+
+#### 0879b21f0b | BOB → REGINA | x2
+He’s a smart kid. But he should’ve put his intelligence into this company instead of throwing it away.
+
+#### 97e39a90ae | ALFRED → BOB | x2
+Bob Zellerbach is a little too prickly for my tastes. But Regina has always had a soft spot for you.
+
+#### 85fb406669-LM | REGINA → BOB | x2
+Don’t say that. I know you were fond of him.
+
+#### 8f8a22b44f | BOB → ALFRED | x2
+Of course I’m fond of him. But we can’t change what’s happened. We have to keep moving forward.
+
+#### b12dde6b1f | ASSISTANT → ALFRED | x2
+Yes, sir. Sorry.
+
+#### 5ed991b40e-SM | ALFRED → BRUCE | x2
+I was able to pinpoint the frequency they used to hijack the debate coverage, and...
+
+#### 004044e0ad | choice/UI → REGINA | x2
+I’ll use it to protect Gotham.
+
+#### 5004c3b9b3 | choice/UI → BOB | x2
+We’ll beat them at their own game.
+
+#### a909db1f07 | choice/UI → ASSISTANT | x2
+This feels wrong...
+
+#### 27227d83b3 | choice/UI → ALFRED | x2
+She’s playing with fire.
+
+#### 785584124b | choice/UI → ALFRED | x2
+She’s a fine journalist.
+
+#### 3c8f0a5f4a | choice/UI → ALFRED | x2
+Vicki is an asset.
+
+#### 36636cb88c | BRUCE → ALFRED | x2
+Back when my father started working with Hill and Falcone, it was about land acquisition. It’s grown much bigger than that.
+
+#### dfaacad025 | ALFRED → BRUCE | x2
+She’s been more than helpful in the past.
+
+#### 830853e70b | BRUCE → ALFRED | x2
+She’s in over her head. Protecting your sources is one thing, but these people are criminals... terrorists.
+
+#### 38325b1f9f | FAIRCHILD → BRUCE | x2
+Bruce Wayne will speak on the issue at a press event tomorrow morning, where we’ll learn more about his decision to step down.
+
+#### e4f15b7fd0 | ALFRED → BRUCE | x4
+I still can’t believe it.
+
+#### 3d57bddd3e | BRUCE → ALFRED | x2
+Which part?
+
+#### 6d2beb7806 | ALFRED → BRUCE | x2
+I wish life were easier for you, Bruce.
+
+#### d3714d02fb | ALFRED → BRUCE | x2
+It’s just one thing after another.
+
+#### 8535c9cae0 | ALFRED → BRUCE | x2
+Losing your parents...
+
+#### efe823f290 | ALFRED → BRUCE | x2
+The truth about your father...
+
+#### 5d9c16b563 | ALFRED → BRUCE | x2
+And it seems there’s no end to the secrets he hid from you.
+
+#### 8283d59174 | choice/UI → ALFRED | x2
+I don’t want easy.
+
+#### 78ca18ea33-LM | choice/UI → ALFRED | x2
+At least I have you.
+
+#### eed728b956 | choice/UI → ALFRED | x2
+I’d like that too.
+
+#### 38a788bd27 | BRUCE → ALFRED | x2
+I don’t know, having it easy... sounds a little boring.
+
+#### af53bba951 | ALFRED → BRUCE | x2
+Perhaps that’s why you never take a vacation.
+
+#### 7c804ff0bb-SM-LM | BRUCE → ALFRED | x2
+That’s why I’m glad I have you, Al.
+
+#### e5eebbb8bd | BRUCE → ALFRED | x2
+Yeah, I wouldn’t mind easy for a change.
+
+#### 2c8ed63529 | ALFRED → BRUCE | x2
+Someday.
+
+#### 3dab2bf483-SM | ALFRED, HARVEY, LUCIUS → BRUCE | x17
+I’m sorry, Bruce.
+
+#### 27fe66f68d | choice/UI → ALFRED | x2
+We have a job to do.
+
+#### f811517046 | BRUCE → ALFRED | x2
+We have a job to do, Alfred.
+
+#### 9516aa8118-LM | ALFRED → BRUCE | x2
+You said you thought you knew how to find the Voice.
+
+#### 7f16a625e1 | BRUCE → ALFRED | x2
+Vicki was recording our conversation. I’m willing to bet she did the same with her other subjects.
+
+#### aa97a88fde | BRUCE → ALFRED | x2
+Maybe there’s something there.
+
+#### fcb2eccf55-SM | ALFRED → BRUCE | x2
+I’m surprised she wouldn’t just tell you.
+
+#### fdd5e7a933 | BRUCE → ALFRED | x2
+If she’s not careful she’s gonna get hurt.
+
+#### 61b1944f29 | ALFRED → BRUCE | x2
+Maybe this is her way of protecting herself.
+
+#### 7853a90107 | ALFRED → BRUCE | x2
+Keep your enemies close as they say.
+
+#### 3eeb732caf | ALFRED → BRUCE | x2
+Though I suppose that was to Bruce Wayne...
+
+#### 9dfc817377 | ALFRED → BRUCE | x2
+Not Batman.
+
+#### 00bbdd29e4 | BRUCE → ALFRED | x2
+She’s just doing her job. Protecting her sources.
+
+#### 0a848ef21d | BRUCE → ALFRED | x2
+She’s a good journalist.
+
+#### 8e3375a2fd | ALFRED → BRUCE | x2
+As long as that same protection applies to you as well.
+
+#### 10de6ca69c | BRUCE → ALFRED | x2
+I know the evidence against me looks bad, but she’s still on our side. She’s trying to find the truth.
+
+#### b51c2e6549 | ALFRED → BRUCE | x2
+That’s the best we can hope for.
+
+#### a6d1ad66aa-LM | ALFRED → BRUCE | x2
+I guess you’re not surprised then.
+
+#### a2da75c13b | ALFRED → BRUCE | x2
+So how do you plan to find the interview?
+
+#### 7c31018b8f-SM | BRUCE → ALFRED | x2
+She mentioned handing it off to her editor. If I can access their files I’m sure I can find it.
+
+#### 67e16e7612 | ALFRED → BRUCE | x2
+You plan to hack into their server?
+
+#### 0f319852fa | ALFRED → BRUCE | x2
+Does Oswald know about this?
+
+#### 2fd1b4539e | BRUCE → ALFRED | x2
+They had access to the GCPD, but it doesn’t look like they were keyed into anything else.
+
+#### a0699cdc8d | BRUCE → ALFRED | x2
+I don’t think they know how far Sanctus goes.
+
+#### 8fd72e92af | ALFRED → BRUCE | x2
+Hopefully we can keep it that way.
+
+#### d575d5a732 | ALFRED → BRUCE | x2
+If the Children of Arkham get ahold of this...
+
+#### 0fbec39691 | BRUCE → ALFRED | x2
+They’d control Gotham... just like my father did.
+
+#### b3de8bd609 | ALFRED → BRUCE | x2
+Nice to see Sanctus is at least useful.
+
+#### b96b2ef523 | BRUCE → ALFRED | x2
+They’re on the skyrail.
+
+#### 033d486952 | ALFRED → BRUCE | x2
+It helped us find the Children of Arkham.
+
+#### 76a592e121 | BRUCE → ALFRED | x2
+It may have been built for all the wrong reasons, but we can use it to protect Gotham.
+
+#### f157b8af84 | BRUCE → ALFRED | x2
+We can stay one step ahead of the Children of Arkham.
+
+#### afe90ad186 | ALFRED → BRUCE | x2
+Hard to argue with that.
+
+#### 943cce5950 | BRUCE → ALFRED | x2
+We’re beating the Children of Arkham at their own game. And they have no idea we’re watching.
+
+#### caa5b496f3 | ALFRED → BRUCE | x2
+Let’s use our advantage while we have it.
+
+#### da577664a9 | BRUCE → ALFRED | x2
+This... doesn’t feel right. Knowing what this was built to do...
+
+#### 2666bde50e | ALFRED → BRUCE | x2
+If there’s anyone I trust with something like this, it’s you.
+
+#### 4a5cf41960-SM | ALFRED → BRUCE | x2
+Not really it’s intended purpose, I’m sure.
+
+#### b289943fad-SM | ALFRED → BRUCE | x2
+Well I’m glad we could find a way to make some good come from this.
+
+#### 610dfc04ed | BRUCE → ALFRED | x2
+They know exactly who is in the building at any given time. Look at this.
+
+#### a6895b9fad | ALFRED → BRUCE | x2
+Information like this in the wrong hands...
+
+#### aa13fe2d64 | BRUCE → ALFRED | x2
+If they wanted to attack the company they’d be able to plan the perfect moment.
+
+#### 590ce31cef | BRUCE → ALFRED | x2
+Didn’t really help, did it.
+
+#### 33329026f7 | BRUCE → ALFRED | x2
+Look at this. Oswald’s public record.
+
+#### 534d301413 | BRUCE → ALFRED | x2
+None of this is right.
+
+#### d625ad3680 | ALFRED → BRUCE | x2
+This is what the Children of Arkham were using.
+
+#### 45a7e03f38 | BRUCE → ALFRED | x2
+Wonder if they’ve cleared out all the Wayne Tech.
+
+#### 68da2bf8e5 | GORDON → BRUCE | x2
+Considering the alternative? Yes.
+
+#### c58317d97b | ALFRED → BRUCE | x4
+Sounds like they’ve got the situation under control.
+
+#### a633b2bc9d | BRUCE → ALFRED, HARVEY | x4
+One less problem to deal with.
+
+#### 2e2503de2b | BRUCE → HARVEY | x2
+Or it could be used to plan an escape.
+
+#### 3655e6a259-SM | HARVEY → SELINA | x2
+Hey, Selina... Look, I’m sorry. For the other day...
+
+#### 9c7671c7d3 | HARVEY → BRUCE | x2
+I know we left things in a weird place, but can we meet for coffee or something? Let me know... bye.
+
+#### 14556b4b6b | BRUCE → HARVEY | x2
+Good way to get blackmail.
+
+#### 3a6498f7f2 | ALFRED → HARVEY | x2
+Was Hill aware his office was bugged?
+
+#### db646ede1b | BRUCE → HARVEY | x2
+Could’ve been for his own protection... or my father wanted to keep him in line.
+
+#### e4a2818d8f | HARVEY → BRUCE | x2
+So desperate.
+
+#### 74a906222f | HARVEY → BRUCE | x2
+Stop.
+
+#### eb55ab1372 | ALFRED → BRUCE | x2
+Or there was never one there to begin with.
+
+#### b5a80a0c00 | BRUCE → HARVEY | x2
+My father must’ve disabled it.
+
+#### 3a725ef52d | BRUCE → ALFRED | x2
+The couryard was build on top of what was supposed to be Cobblepot Manor.
+
+#### c0049b95be | ALFRED → BRUCE | x2
+The family planned to start construction not long after Esther was put away in Arkham Asylum.
+
+#### cab8d257d5 | BRUCE → ALFRED | x2
+Then my father stole the land for himself.
+
+#### de2523596f | ALFRED → BRUCE | x2
+His whole criminal history doesn’t exist as far as the rest of the world is concerned.
+
+#### 64e3d69bbf | BRUCE → ALFRED | x2
+This must be what the board saw.
+
+#### 194adaae46 | ALFRED → BRUCE | x2
+Not a blemish in sight.
+
+#### 0bcb335078 | BRUCE → ALFRED | x2
+Sounds empty.
+
+#### ce23e1b6b4 | ALFRED → BRUCE | x2
+Probably cleared out of there once Batman showed up.
+
+#### 1dd54a3bf4 | BRUCE → ALFRED | x2
+Smarter than he looks.
+
+#### b4f4be0d25 | BRUCE → ALFRED | x2
+Looks like Sanctus had someone on their payroll.
+
+#### 199f0d493c | ALFRED → BRUCE | x2
+Miss Vale seems to have kept her nose clean.
+
+#### d85c8326a2 | BRUCE → ALFRED | x2
+This all started before she started working there anyway. This information goes back years.
+
+#### 9cf01c4ad0 | ALFRED → BRUCE | x2
+Private e-mails, contact information... Sanctus has access to everything on their server.
+
+#### cd5c9dd329 | BRUCE → ALFRED | x2
+Look.
+
+#### 805bfc283f | BRUCE → ALFRED | x2
+This is Vicki’s interview with Batman.
+
+#### a6f79d7a9f-LM | ALFRED → BRUCE | x2
+She didn’t get much from you did she?
+
+#### e4e8fe754c | ALFRED → BRUCE | x2
+Anything else uploaded from the same location?
+
+#### df8e5b05c0 | BRUCE → ALFRED | x2
+Way ahead of you.
+
+#### 08cc8203da | ALFRED → BRUCE | x2
+Good thing we scrambled the call.
+
+#### 897c3edc3a | ALFRED → BRUCE | x2
+Think you can trace it?
+
+#### 9f3a44b695 | BRUCE → ALFRED | x2
+They did the interview remotely. Over a secure line.
+
+#### 7ab68b8aa7 | BRUCE → ALFRED | x2
+Including all the personal computers.
+
+#### 5f67e74f25 | BRUCE → ALFRED | x2
+That’s the Voice!
+
+#### e1a2d91fae | ALFRED → BRUCE | x2
+You’re going out there? {SadA}Bruce, you haven’t slept.
+
+#### 18ce77830f | BRUCE → ALFRED | x2
+I have to do this, Alfred.
+
+#### 4a88cf2f5f | BRUCE → ALFRED | x2
+Wonder if anyone was listening in that night.
+
+#### c893644928 | ALFRED → BRUCE | x2
+The debate...
+
+#### 8027e93b0a-SM | BRUCE → ALFRED | x2
+I need to find the Children of Arkham and figure out what they’re planning.
+
+#### ab1ab7adaa | ALFRED → BRUCE | x2
+Sanctus was built to maintain absolute control over Gotham.
+
+#### cd3f95cda4 | ALFRED → BRUCE | x2
+Information is power.
+
+#### 60ab78732e | ALFRED → BRUCE | x2
+So few can be trusted to wield it.
+
+#### 559e892fbe | ALFRED | x2
+They cannot be allowed to gain control of Sanctus.
+
+#### 61c30047da | ALFRED | x2
+Thomas assured Sanctus would be nearly impossible to destroy.
+
+#### dc942466e1 | ALFRED | x2
+At least not without dismantling Wayne Enterprises in the process.
+
+#### e52e9ae16a | ALFRED → BRUCE | x2
+Wayne Enterprises is a complex web... built to hide secrets... secrets like yours.
+
+#### afa0020795 | ALFRED → BRUCE | x2
+And secrets like your father’s.
+
+#### b235707d22 | ALFRED → BRUCE | x2
+Only way to know for sure is to find them... see what they know.
+
+#### e55933e8d0 | BRUCE → ALFRED | x2
+The Voice used a phone. If I can locate where it is now...
+
+#### a1afadb97d | BRUCE → ALFRED | x2
+But it was over the phone.
+
+#### cb7daa9e09 | ALFRED → BRUCE | x2
+Sounds like you’re not the only one running on fumes and a prayer.
+
+#### 6370b9ef04-LM | BRUCE → ALFRED | x2
+That why you brought me coffee? It’s usually tea.
+
+#### fd35c475e0 | ALFRED → BRUCE | x2
+...there’s a lot going on.
+
+#### e29aff8741 | BRUCE → ALFRED | x2
+There’s a lot going on...
+
+#### ead4713de9 | BRUCE → ALFRED | x2
+I have work to do.
+
+#### dfc57b5d98 | ALFRED → ATTORNEY | x2
+You have work to do.
+
+#### 2bd55dbc09-S? | ATTORNEY → BRUCE | x2
+Look, I need Section 9 witness statements against Paul Dekker.
+
+#### 6a8191a163 | ATTORNEY → JANITOR | x2
+Can they corroborate with the evidence pulled from the scene?
+
+#### ebfa33de05 | ATTORNEY → JANITOR | x2
+Make it happen, okay. [beat]No. I don’t care. Just do it.
+
+#### fdef2bfd6e | JANITOR → ATTORNEY | x2
+God, that’s a lot of blood. [calling out]Jim get the hell out here!
+
+#### 7d63851b9b | JANITOR → ATTORNEY | x2
+This is gonna take all damn day.
+
+#### 05b3d5b857-S? | DOCTOR → JANITOR | x2
+The drug in her system... I can’t find anything about it in our records. I even started looking in the old undigitized files. Nothing.
+
+#### 67d9b70d89 | ORDERLY02 → DOCTOR | x2
+Want me to call Ms. Montoya in again?
+
+#### d4579708cb | DOCTOR → ORDERLY02 | x2
+No, no... I’ll find something. [yawn]She’s been through enough.
+
+#### e902782f09 | ORDERLY02 → DOCTOR | x2
+Need another cup of coffee?
+
+#### 659db68e23 | DOCTOR → ORDERLY02 | x2
+If there’s any left. I think I drank it all.
+
+#### 9605ba5565-S?-L? | ORDERLY02 → DOCTOR | x2
+I’ve got you covered.
+
+#### 6a3e39ec7c | ORDERLY01 → ORDERLY02 | x2
+You think they’re still gonna close this place down?
+
+#### acd74dffaf | ORDERLY02 → ORDERLY01 | x2
+Not after what happened.
+
+#### 6d87a4e5b5 | ORDERLY01 → ORDERLY02 | x2
+Yeah, who’s gonna risk opening a new hospital with Thomas Wayne’s name on it.
+
+#### 5605a62c98-L? | ORDERLY01 → ORDERLY02 | x2
+You got that discharge for Wesker?
+
+#### 3667ef42d3 | ORDERLY02 → ORDERLY01 | x2
+No... cancelled.
+
+#### 8048dd5fb7 | ORDERLY01 → BRUCE | x2
+I’ll go tell him. It’s my turn to do the rounds anyway.
+
+#### 324d889c0f | BRUCE → ORDERLY01 | x2
+Sanctus... it’s about absolute control.
+
+#### 215578f8ed | BRUCE → ORDERLY02 | x2
+Whoever controls Sanctus controls Gotham.
+
+#### dd41e1b272 | BRUCE → ORDERLY01 | x2
+It’s about controlling information. Manipulating people to get what they want.
+
+#### 0a1920f740 | BRUCE | x2
+My father used this system to hide what he did... to keep people under his thumb.
+
+#### 7569404629 | BRUCE → FALCONE | x2
+Hill, Falcone, and my father... they used this system to hide what they were doing.
+
+#### 7926c3eb0e | BRUCE → ALFRED | x2
+Now someone else is keeping it alive.
+
+#### 803a80e113 | BRUCE → ALFRED | x2
+The Children of Arkham can’t find out about this.
+
+#### a182e6cfa2 | choice/UI | x2
+GCPD
+
+#### 9b6867fb35 | choice/UI → ALFRED, HARVEY | x8
+View Records.
+
+#### 34610e51cd | choice/UI → ALFRED | x10
+View Records
+
+#### 4ccd55450f | choice/UI | x4
+Listen To.
+
+#### ae8d09d195 | choice/UI | x2
+Examine Clue
+
+#### 4f62594cc2 | choice/UI | x2
+Court House
+
+#### 9750b26272 | choice/UI | x2
+Wayne Tower
+
+#### 764ad7b60a | choice/UI | x2
+Cobblepot Manor
+
+#### e344fe00de | choice/UI | x2
+City Hall
+
+#### 361c745204 | choice/UI | x2
+Doctors Office
+
+#### 0188738ad9 | choice/UI | x4
+Arkham Asylum
+
+#### 2223ca931f | choice/UI | x2
+Botanical Gardens
+
+#### f9a5474422 | choice/UI → HARVEY | x4
+Gazette
+
+#### 9e89988cc3 | choice/UI → ALFRED | x2
+Bank
+
+#### 6168b49b9d | BRUCE → ALFRED | x2
+Harvey has no idea...
+
+#### 1eac1b2308 | ALFRED → BRUCE | x2
+Any action he takes against the Children of Arkham, they’d see it coming.
+
+#### fe83147f58 | BRUCE → ALFRED | x4
+I have to warn him.
+
+#### 6961570dd1 | ALFRED → BRUCE | x2
+His phone lines will be compromised.
+
+#### 5cbbd3fe57 | BRUCE → ALFRED | x2
+Then I’ll do it in person.
+
+#### 79e78df507 | ALFRED → BRUCE | x2
+Are you done here, sir?
+
+#### eb97e2f84f | choice/UI, BRUCE → ALFRED | x4
+I have to go warn Harvey.
+
+#### 1d7c0cf41e | choice/UI, BRUCE → ALFRED, HARVEY | x4
+Give me a minute.
+
+#### 81af9a1c5f | ALFRED → BRUCE | x2
+I’ll keep an eye on things from here.
+
+#### 67b87063ca | BRUCE → ALFRED | x2
+And they could find the perfect moment to attack him again.
+
+#### cf2154b03c | BRUCE → ALFRED | x2
+I’ve seen enough.
+
+#### 7747dea703-SM | HARVEY → BRUCE | x2
+Deborah! Get the Commissioner on the phone, please. I need an update on that task force.
+
+#### 69fbab0f54 | choice/UI → HARVEY | x4
+Warn Harvey
+
+#### 4b8ef66714 | EIR → BRUCE | x2
+map. These are all locations tied to the CoA exploit in some way.
+
+#### 3c32dc12ab | BRUCE → HARVEY | x2
+Bring up a searchable network of all possible electronic traffic related to Wayne Enterprises.
+
+#### cde0c594d8 | BRUCE → EIR, RYDER | x4
+If the Children of Arkham are in our system, all of this is potentially accessible.
+
+#### 5901c34067 | BRUCE → EIR, RYDER | x4
+Lucius was very thorough.
+
+#### 9785555068 | BRUCE → ALFRED | x2
+It means that they could have eyes and ears into almost everything in Gotham-- just like Batman.
+
+#### 1b3cc4084f | BRUCE → ALFRED, COMMISSIONER | x4
+They had access to the GCPD, we know that. The real question is what else they’d be interested in.
+
+#### 899c91725c | ALFRED → BRUCE | x2
+What are the chances that they began and ended with the police department?
+
+#### 076594b17a | BRUCE → ALFRED | x2
+After we shut down the precinct’s equipment? I’d say slim.
+
+#### 3c07761e97 | BRUCE → ALFRED, GROGAN | x4
+Filter for possible targets based on known Children of Arkham activity.
+
+#### 5480a2698b | BRUCE → ALFRED | x2
+Gotham Hall of Justice. All public records pass through this place.
+
+#### 9c902d3c59 | BATMAN, BRUCE → LADYARKHAM, ALFRED | x6
+To what end?
+
+#### 096281f7dd-LM | ALFRED → BRUCE | x2
+Lieutenant Gordon got in touch while you were out.
+
+#### 951e9eb89c | ALFRED → BRUCE | x2
+He said that there’s nothing to be done about Oswald Cobblepot-- all of his records are spotless. He needs proof to dig further.
+
+#### 98dfde546a | ALFRED → BRUCE | x2
+He needs proof.
+
+#### 50cdb8daa9 | BRUCE → ALFRED | x2
+Penguin’s slippery alright.
+
+#### 9908556762 | ALFRED → BRUCE | x2
+They could rig a jury, listen to witnesses...
+
+#### d4e33db3ae | BRUCE → ALFRED | x2
+Gotham Courthouse. All public records pass through this place.
+
+#### a124dd9725 | BRUCE → ALFRED | x2
+Keep an eye on this, Alfred, and have Lucius look into it as well.
+
+#### 432a3e27b5 | BRUCE → ALFRED | x2
+We need to find a way to lock them out.
+
+#### 8312db4c61 | BRUCE → ALFRED | x2
+With my father’s signature as the transferring doctor.
+
+#### bab72038ef | BRUCE, choice/UI → ALFRED, HARVEY | x4
+Security footage.
+
+#### 9f37207634 | ALFRED → BRUCE | x2
+These date back decades.
+
+#### 6fbbc9260b | BRUCE → ALFRED | x2
+Alfred, the video at the debate... it’s real.
+
+#### d0913c840f | BRUCE → ALFRED | x2
+This is how they found their evidence.
+
+#### 80aff47a72 | ALFRED → HARVEY | x2
+However damning for Hill, it doesn’t prove that the Children of Arkham are using the system.
+
+#### 40a3bf1138 | HARVEY → ALFRED | x2
+Commissioner, hello, good to hear from you. Any new details?
+
+#### e3d2686a1f | HARVEY → BRUCE | x2
+Already armed is good. It’s good.
+
+#### 70cccd4c78 | HARVEY → ALFRED | x2
+No, I-- yes. Yes, I know it takes time, but...
+
+#### 245176633e | HARVEY | x2
+Yes. Just, please let me know when it happens. The Children of Arkham aren’t going to wait on us.
+
+#### e351940a92 | HARVEY | x2
+Now he probably thinks I’m sitting around doing nothing.
+
+#### 6d2fe06636 | HARVEY | x2
+Stupid!
+
+#### 96edbfc5b6 | HARVEY → BRUCE | x2
+Soft, too soft!
+
+#### f5030a6775 | HARVEY → BRUCE | x4
+It’s not his fault...
+
+#### cbbde6cabe | BRUCE → HARVEY | x2
+It’s impossible to tell if the Children of Arkham have access to this, but if they do, any action he takes against them... they’ll see coming.
+
+#### dbefa2e0b0 | choice/UI → HARVEY | x2
+Ace Chemicals
+
+#### 170172d0f0 | choice/UI | x2
+View records
+
+#### bb40b6145a | choice/UI | x2
+View Security
+
+#### 0df59fa633 | BRUCE → RYDER | x2
+At least now I know the truth.
+
+#### d58505e56d | BRUCE → RYDER | x2
+Something Hill did gave them access.
+
+#### ba6661be35 | BRUCE → RYDER | x2
+The assets Hill gave them... that’s how they got in.
+
+#### 80286f8938 | RYDER → BRUCE | x2
+Gotham is still reeling after the Children of Arkham, including the criminal known as the Penguin, killed former Mayor Hamilton Hill and [drugged/disfigured] newly appointed Mayor Harvey Dent.
+
+#### f1a21e9cc6 | RYDER → BRUCE | x2
+Dent has been uncharacteristically quiet since the events of the debate, causing some Gothamites to worry about his overall health.
+
+#### 81c7e04036 | RYDER → BRUCE | x2
+An investigation into the mayoral debate has begun, and an APB has been issued for the Penguin, but authorities remain tightlipped on how they expect to catch the masked man.
+
+#### 4f1166a380 | RYDER | x2
+The leader of the Children of Arkham finally revealed himself to the citizens of Gotham at the recent mayoral debate.
+
+#### dfac90ca22 | RYDER | x2
+The Leader condemned Thomas Wayne for wrongfully committing several victims to Arkham Asylum, with the help of the late Hamilton Hill and Carmine Falcone.
+
+#### 2341c236b7 | RYDER | x2
+While there is truth to the Leader’s allegations against Thomas Wayne, citizens of Gotham are not keen to rise up in support of the Children of Arkham, especially following the very public murder of former Mayor Hill.
+
+#### f1668ef6fd | RYDER | x2
+The whirlwind race for the Mayor’s seat has come to an end, after Harvey Dent cemented himself as the nominee.
+
+#### bd4c524067 | RYDER | x2
+Dent finished his campaign unopposed after former Mayor Hamilton Hill was killed by the Children of Arkham at last week’s debate.
+
+#### afeb660eef | RYDER → BRUCE | x2
+Harvey Dent has just recently been released from Gotham General Hospital, where he has been recuperating since the attack, but representatives for Dent have confirmed that the new Mayor is eager to begin work.
+
+#### 460b49c8a9 | RYDER → BRUCE | x2
+The fire that has been burning for over a week at the Otisburg processing center has been contained for now.
+
+#### acf23edb07 | RYDER → BRUCE | x2
+The Gotham City Fire Department is optimistic they will be able to settle the blaze, but while they have prevented the fire from spreading further, there remains no indication the flames will be extinguished anytime soon.
+
+#### 16f2ae397e | BRUCE → RYDER | x2
+With the Children of Arkham acessing Wayne Tech... [shakes his head]I have to figure out what their next move is.
+
+#### 4af6d78b49 | BRUCE → COMMISSIONER | x2
+It means that they could have eyes and ears into almost everything in Gotham--just like Batman.
+
+#### c88469df0a | choice/UI → LUCIUS, ALFRED | x16
+Access.
+
+#### 37211ffada | choice/UI → COMMISSIONER | x2
+Check Lucius’s Drive.
+
+#### 80816b1776-SM | COMMISSIONER → BRUCE | x2
+The understatement of the century, considering I’ve got at least one of my guys in the ER.
+
+#### 54d2310f50-SM | GROGAN → COMMISSIONER | x2
+Well that’s the understatement of the century, considering I’ve got at least one of my guys in the ER.
+
+#### 625a628c52 | GROGAN → COMMISSIONER | x2
+Suppose I can understand the truth of that.
+
+#### 39288f0480 | COMMISSIONER → GROGAN | x2
+Things used to be easy. No people in tights. No lunatics trying to run the streets.
+
+#### 404321f79b | COMMISSIONER → GROGAN | x2
+Now look at us.
+
+#### 96604bdf89 | choice/UI → GROGAN | x4
+Audio Feed
+
+#### 4b9487a9eb | choice/UI → COMMISSIONER | x2
+GCPD Records
+
+#### cb05de418c | choice/UI → COMMISSIONER | x2
+Recorded XX:XX:XX
+
+#### 79beec807e | choice/UI → COMMISSIONER | x2
+Public Records
+
+#### 6d085bfd83 | choice/UI | x2
+Patient Records
+
+#### 46a05a678d | choice/UI | x2
+Election History
+
+#### d7445ee04a | choice/UI | x2
+Yeah, sure. Come by the office
+
+#### 9bdddac1fe | choice/UI | x2
+Need to talk to you
+

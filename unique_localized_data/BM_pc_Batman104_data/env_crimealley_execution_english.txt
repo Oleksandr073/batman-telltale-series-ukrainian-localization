@@ -1,0 +1,1366 @@
+﻿#### 02722a84eb | choice/UI → ALFRED | x4
+[Protect Wayne Manor]
+
+#### 36c84a1957 | choice/UI → ALFRED | x4
+[Assault Wayne Enterprises]
+
+#### 42b2d8a1fd | choice/UI | x2
+I wish you weren’t in this position.
+
+#### ac2a819ee7-SM-L? | choice/UI | x2
+I only survived because you showed up.
+
+#### f9efaabad4 | choice/UI | x2
+You can be a symbol.
+
+#### 1bbc05cf42 | choice/UI | x2
+One match lights a wildfire.
+
+#### 3dfd748a83 | choice/UI | x2
+Keep gathering allies.
+
+#### 82777ca28d | choice/UI | x2
+Undermine Grogan’s support.
+
+#### d65f690b33 | choice/UI | x2
+Denounce the Mayor’s actions.
+
+#### 610a2a26ec | choice/UI | x2
+Out Penguin as Oswald Cobblepot.
+
+#### 01326a8416 | choice/UI → GORDON | x4
+Let me know if I can help.
+
+#### 0c646b4771 | choice/UI | x2
+You’ll make the right choice.
+
+#### 9301d918b1 | choice/UI | x2
+Batman will always back you up.
+
+#### 2a1c3503b1 | choice/UI | x2
+You don’t know who you’re screwing with.
+
+#### 2058d80ad9 | choice/UI | x2
+Stop the car immediately.
+
+#### 20a2c1f48f-SM | choice/UI | x2
+Thought I smelled bacon.
+
+#### 8141380953 | choice/UI | x2
+I’ll break your faces.
+
+#### da52adf9d4 | choice/UI | x2
+Care for a hefty bribe?
+
+#### 57cf990c39 | choice/UI | x2
+Lt. Gordon is a personal friend.
+
+#### f931b4a719-L? | choice/UI | x2
+You got a key for these?
+
+#### 1097ea3dbf | choice/UI | x2
+These things really chafe.
+
+#### 9f8eae75c0 | choice/UI → COP01 | x2
+Breaking out.
+
+#### 6fa16650e8 | choice/UI → COP01 | x2
+Please don’t shoot.
+
+#### 969e56baf0 | choice/UI → COP01 | x2
+Go ahead, I dare you.
+
+#### 34d26c1caa-L? | choice/UI → COP01 | x2
+You’re suposed to be a cop.
+
+#### d48d8a7db1 | COP01 → COP02 | x2
+Yeah- slow down... The street’s coming up on the right...
+
+#### 00bd160ff7 | COP01 → COP02 | x2
+Right up there, see? “Park Row.“
+
+#### 364f8acc99 | COP02 → COP01 | x2
+Yeah, I see it.
+
+#### cf7fc7d3cc | COP02 → COP01 | x2
+Look- I just want to get this over with, okay?
+
+#### c9bd96b710 | COP02 → COP01 | x2
+Are we almost there?
+
+#### b39d0e9387 | COP01 → COP02 | x2
+So calm down already.
+
+#### 7aa4b6cbb2 | COP01 → COP02 | x2
+Don’t worry.  It’ll all be over soon.
+
+#### 5206d16ed7 | COP01 | x2
+What do you think you’re doing?!?
+
+#### fb85910b8f | COP01 | x2
+What the hell do you think you’re doing?!?
+
+#### 313ed2e983 | COP01 → BRUCE | x2
+Cut that out-
+
+#### 6a027d04e0 | COP01 → BRUCE | x2
+Sit still.
+
+#### 79b52bcdc4 | COP01 → BRUCE | x2
+Stop moving-
+
+#### 99881bb4b7-L? | BRUCE → COP01 | x2
+You got the key for these things?
+
+#### 683181e444 | COP01 → BRUCE | x2
+What-?
+
+#### 4a90274596 | BRUCE → COP01 | x2
+It would just make this go much easier-
+
+#### 8e26ff6a5a | BRUCE → COP01 | x2
+These things seriously chafe.
+
+#### 20afb03129 | COP01 → BRUCE | x2
+Well, tough.
+
+#### 6087dbb4b4 | BRUCE → COP01 | x2
+Any chance either of you officers might have any hand lotion on you? Perhaps a travel-size container?
+
+#### 763d95649c | BRUCE → COP01 | x2
+I’m breaking out of here-
+
+#### a86068a24c | BRUCE → COP01 | x2
+I don’t get any points for honesty?
+
+#### 202ad86e45 | COP01 → BRUCE | x2
+Cut it out!
+
+#### 728c6bdcc5 | COP01 → BRUCE | x2
+-or I’ll put you right back to sleep.
+
+#### 66f03b2371 | COP01 → BRUCE | x2
+He’s loose!
+
+#### e5ff60929a | COP01 → COP02 | x2
+Sonuvabitch!
+
+#### 3c4c5593e2 | COP02 → COP01 | x2
+He’s trying to crash the-[interrupted]
+
+#### cdb49a20d1 | COP01 → COP02 | x2
+Hey! Don’t move.
+
+#### 70e2689f56 | COP01 → BRUCE | x2
+You dumb bastard!
+
+#### 47ba543736 | COP01 → BRUCE | x2
+You stupid idiot!
+
+#### 3e57eafac4 | BRUCE → COP01 | x2
+Don’t shoot me.  Please.
+
+#### cf227eb866 | BRUCE → COP01 | x2
+You know I can pay you-
+
+#### 4b35ec20bb | BRUCE → COP01 | x2
+I dare you to.
+
+#### e32192d1c8 | BRUCE → COP01 | x2
+Guys like you are why people fear the police.
+
+#### ffd43107f2 | COP01 → BRUCE | x2
+Don’t got any smart-ass last words, do ya?
+
+#### 62dcd5031d | COP01 → BRUCE | x2
+Now you’re going to die just like dear ol’ mom and dad-
+
+#### e0562e96b0 | COP01 → BRUCE | x2
+I guess the apple didn’t fall far from the tree, eh?
+
+#### 2ee9a90a31-L? | GORDON → COP01, TUB | x4
+How the hell did you survive all this while you were cuffed?
+
+#### ea0b1628a6 | GORDON → BRUCE | x2
+Yeah- I guess you’d have to be.
+
+#### d47c17bd2e-SM | BRUCE → GORDON | x2
+Except, of course, you know, the last time I was here.
+
+#### 4961ccb5ea-LM | GORDON → BRUCE | x2
+You should make yourself scarce.
+
+#### 0e92f04e96 | GORDON → BRUCE | x2
+And, thanks for the advice!
+
+#### 61a85f993e | ALFRED → BRUCE | x4
+Mr. Den’t is pulling up to the manor as we speak!
+
+#### c18b31edfa | BRUCE → ALFRED | x4
+Harvey’s threatened to -
+
+#### 61663b3ee0 | BRUCE → ALFRED | x4
+He’s already there?!?
+
+#### 0229167312 | ALFRED → BRUCE | x4
+Sir-! That’s not all-
+
+#### e243d31193 | BRUCE → ALFRED | x4
+-while Wayne Manor is under siege.
+
+#### fbf16843d4 | ALFRED → BRUCE | x2
+Yes, sir- there’s no way you can be in both places at once.
+
+#### 553075657b | COP02 → COP01 | x2
+It’s kinda twisted that Mayor Dent insist we do this in Crime Alley.
+
+#### 2d70a299e5 | COP01 → ALFRED | x2
+Who the hell knows?
+
+#### 4b63018032 | COP01 → BRUCE | x2
+He’s just sentimental, I guess.
+
+#### 7a0358d163 | COP01 → COP02 | x2
+“Easier” than what?
+
+#### e6bf843082 | BRUCE → COP01 | x2
+THIS.
+
+#### b4330f66ff | BRUCE → COP01 | x2
+This is where I’ll get out-
+
+#### d99032d2fa | COP01 → BRUCE | x2
+HEY!
+
+#### f0c9b6bdda | COP01 → BRUCE | x2
+I shoulda known you’d be soft.
+
+#### ba80890b3b | BRUCE → GORDON | x4
+I guess I have your one-man crusade for justice to thank for keeping alive.
+
+#### 85f1612a81 | GORDON → COP01 | x2
+I’ve been keeping my eye on the Mayor.
+
+#### 854aca66fb | GORDON → COP01 | x2
+My crusade against corruption.
+
+#### 30de169304 | GORDON → BRUCE | x4
+“Crusade for Justice,“ ha. I’ve been keeping my eye on Dent. Figured he’d put together his own personal squad of corrupt cops.
+
+#### 991efa673a-SM | GORDON → BRUCE | x2
+And I knew he’d put together his own personal squad of corrupt cops- or, at least, ones willing to follow any order he gives-
+
+#### 272d4e36df | GORDON → BRUCE | x2
+The rest of the force isn’t much better-
+
+#### ed48a875ee | BRUCE → GORDON | x6
+Yeah. We met.
+
+#### f2c33711b4 | GORDON → BRUCE | x4
+What exactly does that mean, Mr. Wayne?
+
+#### 988f7eb7dc | choice/UI → GORDON | x4
+Yeah we met.
+
+#### e0f1835481 | choice/UI → GORDON | x4
+Doesn’t sound like you approve.
+
+#### 6cb4328d32 | choice/UI → GORDON | x4
+What about the Commissioner?
+
+#### 45f417b7d1 | GORDON → BRUCE | x4
+Try not to judge everyone by these sleazebags, Mr. Wayne.
+
+#### 0a784fba73 | BRUCE → GORDON | x4
+Doesn’t sound like you approve, Lieutenant.
+
+#### 70b68e0cc5 | GORDON → BRUCE | x4
+Of course I don’t. Can hardly find anyone I *do* approve of right now.
+
+#### 2e3bd154c0 | BRUCE → GORDON | x4
+Where does Commissioner Grogan stand? He can’t be in Dent’s pocket, right?
+
+#### 5b406547bf | GORDON → BRUCE | x4
+God no, of course not.
+
+#### 7159a88c57 | GORDON → BRUCE | x4
+They’re all too “by the book” for their own good.
+
+#### 4acbcf7e95-L? | GORDON | x2
+You got these corrupt bastards, and the ones that aren’t corrupt are too “By-the-book” for their own good.
+
+#### b3a8bf7f0c | GORDON → BRUCE | x4
+If it’s not one thing, it’s another...
+
+#### 4acbcf7e95-LM | GORDON → BRUCE | x6
+You got these corrupt bastards, and the ones that aren’t corrupt are too “By-the-book” for their own good.
+
+#### dbe123b4d1 | GORDON → BRUCE | x4
+Or, at least, cops willing to do whatever he asks.
+
+#### cc022d522b | GORDON → BRUCE | x4
+Like his own personal Goon Patrol. Feh.
+
+#### 4a59c3f2e3-SM | GORDON → BRUCE | x2
+Mr. Wayne, the law is the one thing in this messed-up world that I’m sure of. Going around it... I don’t know if I can do that.
+
+#### 92235f83be | BRUCE → GORDON | x2
+If this city keeps going the way it’s going, you might not have a choice soon.
+
+#### 6ee2692864 | BRUCE → GORDON | x2
+Lieutenant you’re clearly a good cop - I imagine one of the best. A man like you can make a lot of difference.
+
+#### d0dd05a725-LM | BRUCE → GORDON | x2
+You need to help the GCPD reform from the inside. Because if there’s a good man like you trying to fix things... maybe I don’t have to give up on this city just yet.
+
+#### 44f8c0a88a | GORDON → BRUCE | x2
+I’ve been trying, there are just so many obstacles--
+
+#### 3e52244994 | BRUCE → GORDON | x2
+Then don’t let them stop you. Because if there’s a good man like you trying to fix things... maybe I don’t have to give up on this city just yet.
+
+#### 926b2a4426 | GORDON → BRUCE | x4
+That means a lot, Mr. Wayne.
+
+#### ae7994317a | GORDON → BRUCE | x4
+I’ll keep that in mind, Mr. Wayne.
+
+#### c9ff5e03b2 | GORDON → BRUCE | x4
+And hey. Thanks for the advice, Bruce.
+
+#### e608d2750a | choice/UI → GORDON | x2
+[Remove Handcuffs]
+
+#### e9ed025019 | choice/UI → GORDON | x2
+[Kick Car Door]
+
+#### e402059c1f | choice/UI → COP01 | x2
+[Attack Cop]
+
+#### 772c56e667 | COP01 → BRUCE | x2
+Just sit down and shut up.  We’re almost there.
+
+#### 39ac59cf43 | COP01 → BRUCE | x2
+Not one damn muscle.
+
+#### 325d474ed9 | BRUCE → COP01 | x2
+Go ahead!  Shoot me!
+
+#### 572484f856 | BRUCE → COP01 | x2
+There’s no way this is gonna look like a suicide anymore.
+
+#### d8ac625b82 | BRUCE, COP01, LUCIUS → LUCIUS, BRUCE, BATMAN | x10
+Dammit.
+
+#### e0d486d5db | COP01 → BRUCE | x2
+Sorry, orders are orders.
+
+#### dbe688e936-L? | BRUCE → COP01 | x2
+You’re suposed to uphold the law.  Start acting like a cop!
+
+#### 54e126491b | COP01 → GORDON | x2
+I have orders from the Mayor! He’ll kill me if I don’t follow through!
+
+#### 77ad4df2ba | GORDON → BRUCE | x4
+Bruce!  You okay?
+
+#### a107171103 | choice/UI → GORDON | x2
+There’s no reason to kill me!
+
+#### fc56794bca | choice/UI → GORDON | x2
+I can pay you.
+
+#### 37d776e192 | choice/UI → GORDON | x2
+Don’t mess with me.
+
+#### 228455cd63 | choice/UI | x2
+You’re worse than
+
+#### 389685289c | choice/UI | x2
+Batman will hunt you down.
+
+#### 6a5547145b | choice/UI → TUB | x2
+But Harvey Dent is wrong!
+
+#### 0067953693 | choice/UI → TUB | x2
+My death won’t solve anything.
+
+#### f29c7e18d1 | choice/UI → TUB | x2
+Then shoot me, you coward.
+
+#### 0d472d6c92 | choice/UI → TUB | x2
+You aren’t even listening to reason.
+
+#### cb015d5559 | TUB → GORDON | x2
+Notes: she shoots
+
+#### cf29ec254e | choice/UI → GORDON | x2
+Would you execute anyone?
+
+#### ac2a819ee7-SM-LM | choice/UI → GORDON | x2
+I only survived because you showed up.
+
+#### 99ebbc7164-SM | GORDON → BRUCE | x2
+Mr. Wayne, the law is the one thing in this messed-up world that I’m sure of. {ThinkingB}Going around it... I don’t know if I can do that.
+
+#### 02c140f43c | BRUCE → GORDON | x2
+Lieutenant, if the system’s not working for you... {AmusedA}maybe it’s time to go around it.
+
+#### 17a6b08524 | BRUCE → GORDON | x2
+Sounds to me like it’s time to break that chain,{AmusedA} Lieutenant.
+
+#### 406ca5aff5 | BRUCE → GORDON | x2
+Lieutenant you’re clearly a good cop -{AmusedA} I imagine one of the best. A man like you can make a lot of difference.
+
+#### 438d58993a-LM | BRUCE → GORDON | x2
+You need to help the GCPD reform from the inside.{ThinkingA} Because if there’s a good man like you trying to fix things... {AmusedA}maybe I don’t have to give up on this city just yet.
+
+#### 0576a15719 | BRUCE → GORDON | x2
+If this city keeps going the way it’s going,{AngryA} you might not have a choice soon.
+
+#### e4ef7d8d34 | BRUCE → GORDON | x2
+Right.  {AmusedA}Thank you.
+
+#### 3de74941b3 | ENFORCERLUKE → ENFORCERCOLLEEN | x2
+We’re here. {AngryA} Okay, let’s do this.
+
+#### 01f9cf7eab | ENFORCERCOLLEEN → ENFORCERLUKE | x4
+Yeah... right...{AngryA} let’s get it over with.
+
+#### 98465242cb | ENFORCERLUKE → ENFORCERCOLLEEN | x2
+C’mon, rich boy,{AngryA} get moving.
+
+#### 6c2530c57d-LF | ENFORCERLUKE → ENFORCERCOLLEEN | x2
+Mayor Dent gave us orders- {BodyAccent}and WE are following them, {AngryB}you got me?
+
+#### 21a18a6aed | BRUCE → ENFORCERLUKE | x2
+I am not a threat to you two.
+
+#### 207f87d07c | BRUCE → ENFORCERLUKE | x2
+Dent has lost his mind!
+
+#### 73508609ea-LM | BRUCE → ENFORCERLUKE | x2
+You’re not thinking for yourself are you!?
+
+#### 8381eebe55 | BRUCE → ENFORCERLUKE | x2
+You know this doesnt feel right!
+
+#### 44e5baaea1 | ENFORCERLUKE → BRUCE | x6
+Shut up! Keep moving!
+
+#### 5b188af1ef | ENFORCERLUKE → BRUCE, ENFORCERCOLLEEN | x6
+Hey, shut up, rich boy.
+
+#### 4024139877 | ENFORCERCOLLEEN → ENFORCERLUKE | x2
+Don’t make this harder than it has to be-
+
+#### 90cdbc5123 | BRUCE → ENFORCERCOLLEEN | x2
+You know what Batman’s going to do, right?{AngryA} If you go through with this?
+
+#### e05e922864 | ENFORCERCOLLEEN → BRUCE | x2
+What? {ThinkingA}He’ll never find out- {AngryA}no one will.
+
+#### d841484839 | BRUCE → ENFORCERCOLLEEN | x2
+Of course, he will. {ConcernedA}That’s what he does.
+
+#### b78e5569b9 | BRUCE → ENFORCERCOLLEEN | x2
+My death does no one any good. {ConcernedA} Nothing will improve by increasing Gotham’s body count.
+
+#### 265b1fbb7e | BRUCE → ENFORCERCOLLEEN | x2
+Then just do it.  {FaceAccent}{AngryA}You coward!
+
+#### 89e73db1a4 | BRUCE → ENFORCERCOLLEEN | x2
+Why aren’t you shooting?{AngryA} Don’t you always follow orders?
+
+#### 56d1fa4a55 | ENFORCERLUKE → ENFORCERCOLLEEN | x2
+Really? {SkepticalB}No last words?
+
+#### 088d6f5c06 | BRUCE → ENFORCERCOLLEEN | x2
+You’re in control,{ConcernedB} you can stop this anytime-
+
+#### 66810c7ac3 | ENFORCERCOLLEEN → BRUCE | x2
+Stop! [trying to convince herself]{ConcernedA}I don’t know...
+
+#### c9b903783e | BRUCE → ENFORCERCOLLEEN | x2
+Would you execute anybody they told you to?
+
+#### ba1af7af65 | BRUCE → ENFORCERCOLLEEN | x2
+What about a child? {SkepticalA}Your mother? {AngryA}How far is too far?
+
+#### bcf28e7555 | ENFORCERCOLLEEN → BRUCE | x2
+I-
+
+#### 130e8c5246 | BRUCE → ENFORCERCOLLEEN | x2
+The Mayor is wrong!
+
+#### f99ff9c6a9-SM | BRUCE → ENFORCERCOLLEEN | x2
+I’m done trying to reason with you.
+
+#### 49bfa25fe6 | ENFORCERLUKE → BRUCE | x2
+Goodbye, Mr. Wayne.
+
+#### afcd5b44cb | GORDON → ENFORCERCOLLEEN | x4
+OFFICER, DROP YOUR WEAPON!
+
+#### 5f232d1ca1 | ENFORCERCOLLEEN → GORDON | x2
+Lieutenant?
+
+
+
+drops the gun. She looks ashamed.
+
+#### 681d7b76f5 | ENFORCERCOLLEEN → GORDON | x2
+That’s not what the Mayor says.
+
+#### f76ffff71e | ENFORCERLUKE → GORDON | x2
+Is that right?  Weren’t *you* the one recently in Arkham Asylum?
+
+#### 9e0f6cc4b0 | ENFORCERCOLLEEN → ENFORCERLUKE | x2
+This is Gotham, nothing ever feels right.
+
+#### 63e38e19e8-SM | choice/UI → ENFORCERLUKE | x2
+I put my trust in him.
+
+#### 2fcc998de0 | choice/UI | x2
+Harvey is a cancer to Gotham.
+
+#### 99366c3128 | choice/UI | x2
+Harvey needs to be arrested for this.
+
+#### 5476a582d2 | choice/UI → GORDON | x2
+Batman will deal with these enforcers.
+
+#### 1985e00f10 | BRUCE → ENFORCERLUKE | x2
+It’s good to have friends, eh?
+
+#### 09ecced6c6 | BRUCE → GORDON | x2
+I guess it’s good to have friends, eh?
+
+#### b50c68d5c5-SM | BRUCE → GORDON | x2
+I put my faith in this officer.
+
+#### 53d408f62a | GORDON → BRUCE | x2
+This is Gotham, Bruce. There’s not much one man can do-
+
+#### 98a0ee8cd1 | GORDON → BATMAN | x2
+The Commissioner. Batman. Dent. They’ve each changed Gotham, haven’t they?  Why not me?
+
+#### 1ddfc7e862-LM | BRUCE → GORDON | x2
+You have to arrest Harvey. You have all the evidence you need for a conspiracy to commit murder charge. This has to stop.
+
+#### 664567e3a8 | LUCIUS, GORDON → BATMAN, BRUCE | x8
+It won’t be easy.
+
+#### 2a46016bd3 | BRUCE → GORDON | x2
+Harvey’s an immediate threat!
+
+#### 54142cdc0f | BRUCE → GORDON | x2
+Batman will deal with the enforcers.
+
+#### 3df4425f38 | GORDON → BRUCE | x2
+Batman’s going to take on Dent’s Enforcers AND the Children of Arkham? He can’t do all that-
+
+#### 57ba7528ee | BRUCE → GORDON | x2
+If he has to, he will-
+
+#### 50e7c6583a | GORDON → ENFORCERCOLLEEN | x2
+So I guess I owe it to him to back him up.
+
+#### 1dcdd09a03 | GORDON → ENFORCERCOLLEEN | x2
+What a flaming crap sandwich this whole thing has turned into- with the Commissioner fanning the flames...
+
+#### e68613b78b | ENFORCERCOLLEEN → BRUCE | x2
+Mayor Dent ordered us to kill Mr. Wayne. {SadA}For the good of Gotham.
+
+#### eb04617032 | BRUCE → ENFORCERCOLLEEN | x2
+This isn’t your fault. {AngryA}Mayor Dent is *very* good at convincing people that he’s right.
+
+#### db5346c09a | BRUCE → ENFORCERCOLLEEN | x2
+You’re the problem. It’s people like you who are turning Gotham into a cesspit.
+
+#### bf58da3671-LF | BRUCE → ENFORCERCOLLEEN | x2
+The city you vowed to protect.
+
+#### be45b9aefa | BRUCE → ENFORCERCOLLEEN | x2
+Because we all have to fight together. {ConcernedB}That’s the only way to pull Gotham out of the cesspool.
+
+#### afd4c8cce9-SF | ENFORCERCOLLEEN → BRUCE | x2
+Wish I had thought of that sooner.
+
+#### 8f53a3b30f | GORDON → ENFORCERCOLLEEN | x2
+You okay?
+
+#### 917c08ca55 | BRUCE → GORDON | x2
+Mayor Dent ordered these two to kill me.
+
+#### 2d815f7535 | ENFORCERLUKE → ENFORCERCOLLEEN | x2
+Don’t let him get in your head.
+
+#### 56b9cdd00b | ENFORCERFEMALE, ENFORCERLUKE → BRUCE, ENFORCERCOLLEEN | x6
+Stand over there.
+
+#### 142419f43b | ENFORCERLUKE → GORDON | x2
+You’re gonna drink this.  All of it. The papers will report it as just another dead, {AngryB}drunk scumbag in crime alley.
+
+#### c770df9f91 | SXF → ENFORCERLUKE | x2
+THUNK of a thick glass bottle hitting a head!
+
+#### bdde9546c3 | BRUCE → GORDON | x2
+When the people can’t trust the police, {AngryA}then everyone becomes an enemy.
+
+#### 130116ed82 | GORDON → BRUCE | x2
+She’ll live.
+
+#### 0c4913e49e | GORDON → BRUCE | x4
+And the sonofabitch brought you to this alley to do it.{AngryA}  Of course.
+
+#### 71a8233413 | GORDON → ENFORCERCOLLEEN | x2
+That sonofabitch.
+
+#### 58073c7820 | GORDON → ENFORCERCOLLEEN | x2
+Some friend he turned out to be.
+
+#### 443c2fe665 | GORDON → ENFORCERLUKE | x2
+Never trust a politician.
+
+#### eab6089db0-SM | GORDON → BRUCE | x4
+I’m sorry, Bruce. {ThinkingA}I know this place must hold a lot of meaning for you.
+
+#### 94aae94ec8 | GORDON → ENFORCERLUKE | x2
+I know it was a long time ago...
+
+#### a9d18becb5-SM-LM | GORDON → BRUCE | x2
+I’m glad you’ve found a way to deal with the grief.
+
+#### 63a8d5d1d6 | GORDON → BRUCE | x2
+But something like that never goes away.
+
+#### 769be076fb | choice/UI → GORDON | x2
+This is where I first met you.
+
+#### cc653d0e71-LM | BRUCE → GORDON | x2
+The day my parents died,{ConcernedA} you were there for me.
+
+#### 00a1109b4b | BRUCE → GORDON | x2
+Right here on this spot, {ConcernedB}telling me that everything was going to be okay.
+
+#### 45c041ab41 | GORDON → BRUCE | x2
+Yeah, well, what else can you say to a kid?
+
+#### a2b21a89d3 | BRUCE → GORDON | x2
+It meant a lot.  {AmusedA}Thank you.
+
+#### a75fc37b62 | BRUCE → GORDON | x2
+This alley will live in my nightmares forever.
+
+#### 5e7aaa8547 | BRUCE → GORDON | x2
+They say that the pain fades over time,{ConcernedA} but that’s not true...
+
+#### 016491d9ba-SM | BRUCE → GORDON | x2
+I’ve gone over that night a thousand times in my head. {ConcernedA} Every time it’s a little different. {AngryA} Since then I’ve learned new things, my perspective has shifted...
+
+#### 073b48ff74 | BRUCE → GORDON | x2
+But the pain... that never changes.
+
+#### 3f5d919f00 | GORDON → BRUCE | x2
+I know. {ThinkingA}God I know.
+
+#### 5279194778 | BRUCE → GORDON | x2
+It just digs in a little deeper.
+
+#### 438f1bea82 | BRUCE → GORDON | x2
+It does, but...
+
+#### eba055c6a1 | BRUCE → GORDON | x2
+It’s different now.
+
+#### 0b78e395c3 | GORDON → BRUCE | x2
+Well, you seem to have turned out alright.
+
+#### 35a475f184-L? | GORDON | x6
+And hey... {ThinkingA}About what you said...
+
+#### f533578f56-LM | ENFORCERLUKE → GORDON | x2
+You volunteered for this,{ConcernedA} same as the rest of us.
+
+#### 3d90c5cc80 | ENFORCERCOLLEEN → GORDON | x2
+Yeah, but {ConcernedA}I didn’t think it meant doing something like...
+
+#### 292e5561fd | ENFORCERLUKE → GORDON | x2
+It does. And we’re doing it.
+
+#### c4a7730236 | ENFORCERCOLLEEN → ENFORCERLUKE | x2
+Yeah, but I didn’t think it meant doing something like... murdering Bruce Wayne.
+
+#### a7cf73ab29 | BRUCE → ENFORCERCOLLEEN | x2
+You mean besides the fact Harvey wants me dead?
+
+#### 38d79568bf | BRUCE → GORDON | x2
+Shoot an unarmed man!
+
+#### 8f1d17aebe | choice/UI → GORDON | x2
+Crime Alley will haunt me forever.
+
+#### d3395a518a-LM | LUCIUS → BATMAN | x4
+I’m going to keeping routing him, but you need to get to Wayne Tower and destroy that Black Box!
+
+#### b9c62cbf0d | choice/UI → ENFORCERLUKE | x2
+Attack Luke
+
+#### 1b61b07880 | ENFORCERLUKE → BATMAN | x2
+Let him fall.
+
+#### 8c4e476802 | ENFORCERLUKE → ENFORCERCOLLEEN | x2
+He’s not gonna be worried about anything at all.
+
+#### 3b6a64f68c | ENFORCERLUKE → ENFORCERCOLLEEN | x2
+In a couple minutes, bruises are gonna be the least of his worries.
+
+#### 175404bd82 | BRUCE → ENFORCERLUKE | x2
+That’s right, I am rich. And I can pay you double whatever Dent’s paying you.
+
+#### a42c4cc9f8 | ENFORCERCOLLEEN → BRUCE | x2
+Triple.
+
+#### e0206424aa | ENFORCERLUKE → BRUCE | x2
+Forget it. Keep your dirty money, Wayne.
+
+#### 10b8f6eb75 | ENFORCERCOLLEEN → BRUCE | x2
+Gotta follow orders.
+
+#### 5718dae2ee | BRUCE → ENFORCERCOLLEEN | x2
+This is your only warning. Don’t mess with me.
+
+#### 1e3b9faa1f | ENFORCERLUKE → ENFORCERCOLLEEN | x2
+Or you’ll do what? It’s too late for threats.
+
+#### d30d4baec5 | ENFORCERLUKE → BRUCE | x2
+Look around, Wayne. Crime Alley. Seem familiar to you?
+
+#### 2fc18fb876 | ENFORCERLUKE → BRUCE | x2
+Bring back any memories?
+
+#### fde6053e0f | ENFORCERLUKE → BRUCE | x2
+I hear you’re a regular visitor.
+
+#### 4f689605a1 | choice/UI → ENFORCERLUKE | x2
+Reminds me of murder.
+
+#### f7be758d4f | choice/UI → ENFORCERLUKE | x2
+Trying to frighten me?
+
+#### 68e4ae4eef | BRUCE → ENFORCERLUKE | x2
+Of course I know this place.
+
+#### fb20d856f9 | BRUCE → ENFORCERLUKE | x2
+You’re trying to upset me, but it won’t work.
+
+#### 4e9ddc4220-SM | BRUCE → ENFORCERLUKE | x2
+This is nothing compared to the pain I’ve faced.
+
+#### b40fdbddf9 | BRUCE | x2
+You bring me to the place my parents were murdered? Why?
+
+#### af0dcc7f6a | BRUCE → ENFORCERLUKE | x2
+To torture me? You’re disgusting.
+
+#### 4592a0d97e | BRUCE → ENFORCERLUKE | x2
+This is the place my parents were murdered.
+
+#### c69aab0a4b | BRUCE → ENFORCERLUKE | x2
+Makes sense murderers would bring me here.
+
+#### 650f61019e | ENFORCERLUKE → BRUCE | x2
+Give up?
+
+#### cffac79d26 | ENFORCERLUKE → BRUCE | x2
+It’s the alley where your parents died.
+
+#### dda661d6bc | ENFORCERLUKE → ENFORCERCOLLEEN | x2
+And now you’re gonna join ‘em.
+
+#### 2bce46f5cb | ENFORCERCOLLEEN → ENFORCERLUKE | x2
+Enough. Let’s just get this done.
+
+#### d29d87a2dd | ENFORCERCOLLEEN → ENFORCERLUKE | x6
+It’s nothing personal.
+
+#### 29b91460e5 | ENFORCERCOLLEEN | x2
+We’re only doing what we have to.
+
+#### 1987a0b4c6 | ENFORCERCOLLEEN → ENFORCERLUKE | x2
+Quiet. That’s enough out of you.
+
+#### 2ed42a2d51 | ENFORCERCOLLEEN → ENFORCERLUKE | x2
+Stop looking at me!
+
+#### bb36b8c3a4 | ENFORCERCOLLEEN → ENFORCERLUKE | x2
+Close your eyes or something!
+
+#### 2cd468bc07 | ENFORCERLUKE → ENFORCERCOLLEEN | x2
+Don’t let him get under your skin.
+
+#### fc4b85f11e | ENFORCERLUKE → ENFORCERCOLLEEN | x2
+He’s just another rotten Wayne.
+
+#### 4641c54a36 | choice/UI → ENFORCERLUKE | x2
+[Look away]
+
+#### 7add411f5d | ENFORCERLUKE → BRUCE | x2
+Look right at me instead. And keep on looking until she turns your lights off.
+
+#### 1d639fade2 | choice/UI → ENFORCERLUKE | x2
+Make me.
+
+#### 6b27309157-SM | BRUCE → ENFORCERLUKE | x2
+I’ve got the guts to face my attacker.
+
+#### 63dab6ddd5 | BRUCE, VICKI → ENFORCERLUKE, BATMAN | x4
+It doesn’t have to be like this.
+
+#### 28cbe2ceac | choice/UI → ENFORCERLUKE | x2
+Having second thoughts?
+
+#### 5475bc17c2 | BRUCE → ENFORCERLUKE | x2
+It’s harder to kill someone than you think. Maybe you’re having second thoughts?
+
+#### a1ea0bc594 | BRUCE → ENFORCERCOLLEEN | x2
+But do you have the guts to pull the trigger?
+
+#### 53f8f247e4 | ENFORCERLUKE → ENFORCERCOLLEEN | x2
+Don’t worry. If she doesn’t, I do.
+
+#### c3c0c1f168 | ENFORCERCOLLEEN → ENFORCERLUKE | x2
+You really want to force this, huh?
+
+#### 669a1950eb | ENFORCERLUKE → ENFORCERCOLLEEN | x2
+You’re gonna drink this. All of it.
+
+#### ae4ebdd3e3 | GORDON → ENFORCERCOLLEEN | x2
+I hate to hit a cop. Even a dirty one.
+
+#### cc7c2d7a74 | choice/UI → ENFORCERCOLLEEN | x4
+Dent got into your head.
+
+#### 2f42daca60-SF | ENFORCERCOLLEEN → GORDON, BRUCE | x4
+I was just following his command.
+
+#### 4e4a2b0b05 | choice/UI → GORDON, ENFORCERCOLLEEN | x4
+You’re going to rot in jail.
+
+#### ac27f7b61a | BRUCE → GORDON | x2
+This mess isn’t your fault.
+
+#### f37baf768b | BRUCE → GORDON, ENFORCERCOLLEEN | x4
+Mayor Dent is out of his mind.
+
+#### ada95635de-SM | GORDON → BRUCE | x4
+She won’t be the last, I’m afraid.
+
+#### faa6179a6a | BRUCE → GORDON, ENFORCERCOLLEEN | x4
+You’re going to jail. For a long time.
+
+#### b8f0eb5f81 | choice/UI → GORDON, ENFORCERCOLLEEN | x4
+You can make this right.
+
+#### 942d88f234 | BRUCE → GORDON | x2
+I know what’s best for Gotham. And it isn’t paid thugs like you.
+
+#### ef8fb3226b | BRUCE → GORDON, ENFORCERCOLLEEN | x4
+You can still make this right.
+
+#### 4c4c83eb36 | BRUCE → GORDON, ENFORCERCOLLEEN | x4
+Fight the real criminals.
+
+#### cb0e915433-LM | BRUCE → GORDON | x2
+Yeah, you really showed up in the nick of time.
+
+#### 716a525b7a | GORDON → BRUCE | x2
+But it looks like your best friend Dent wants you dead.
+
+#### 06dab923f2 | GORDON → BRUCE | x2
+I don’t know about you, but that would mess me up for at least an afternoon.
+
+#### 81dbc0d5e8 | GORDON → BRUCE | x2
+Probably longer.
+
+#### 3070081339 | choice/UI → GORDON | x2
+Harvey needs help.
+
+#### 33915efa8c | choice/UI → GORDON | x2
+This is war.
+
+#### 73385d7b18 | choice/UI → GORDON | x2
+I’m running out of friends.
+
+#### 33227c84fb | BRUCE → GORDON | x2
+Harvey’s damaged. He needs help.
+
+#### 3f0fc9c0ba | GORDON → BRUCE | x2
+I don’t disagree, but who’s gonna tell him?
+
+#### 25b91c36ed | BRUCE → GORDON | x2
+Harvey may have declared war on me. But I’m going to finish it.
+
+#### c1d6377908 | GORDON → BRUCE | x2
+This is bigger than your feud.
+
+#### 37038b6670 | BRUCE → GORDON | x2
+Harvey’s not my friend.
+
+#### 0d9fca0ba3 | BRUCE → GORDON | x2
+A guy like me can’t afford to have friends.
+
+#### a20821619e | GORDON → BRUCE | x2
+Well, I’m still here.[beat]Just don’t annoy me.
+
+#### e12ee10d63 | GORDON → BRUCE | x2
+Sorry. Didn’t mean to pry.
+
+#### cc2db559eb-LM | GORDON → BRUCE | x2
+You’re lucky I’ve been keeping tabs on you.
+
+#### 4d0c68d33b | GORDON | x2
+He’s left the rest of the force scrambling to keep order.
+
+#### 1f97e34cbd | GORDON | x2
+Blowing up a city block? It’s madness.
+
+#### 72b75a6094 | GORDON → BRUCE | x2
+I don’t know what’s worse, the Children of Arkham or the mayor.
+
+#### 35e3dfdc35 | GORDON → BRUCE | x2
+Before all this is over, they may have to lock *me* up.
+
+#### a1dcaf3e9c | GORDON → BRUCE | x2
+Trying to figure out what the hell Dent is up to.
+
+#### b739064404 | BRUCE → GORDON | x2
+You can’t fight him, but you can’t get too close.
+
+#### 993eb850b2-LM | GORDON → BRUCE | x2
+You? No offense, but you would have been dead here if I hadn’t shown up.
+
+#### 5f5e5c52b3 | GORDON → BRUCE | x2
+She used to be a good cop.
+
+#### c7e47c3b6b | GORDON → BRUCE, RYDER | x4
+Someone’s got to stop him.
+
+#### be5bd3ed6d | GORDON → BRUCE | x2
+There’s a lot of lives at stake here. Don’t ever forget that.
+
+#### f81caa3e18 | GORDON → BRUCE | x2
+Better leave it to the pros.
+
+#### b556848292 | choice/UI → GORDON | x2
+No one better than you.
+
+#### 81e8f200f0 | BRUCE → GORDON | x2
+There’s no one better than you.
+
+#### 673a046a5f | BRUCE → GORDON | x2
+Take him down and the people will cheer. They need to see someone like you triumph.
+
+#### 2734388219 | GORDON → BRUCE | x2
+I’ll do that. Even if it kills me.
+
+#### 93369ab365 | GORDON → BRUCE | x2
+Dent’s gotta be stopped through proper channels.
+
+#### 7c01cf9703 | choice/UI → GORDON | x2
+You have to quit.
+
+#### c0b7c18821 | BRUCE → GORDON | x2
+Walk away. Dent will destroy anything close to him.
+
+#### 5034f6d860 | GORDON → BRUCE | x2
+If we wait much longer, he could blow up half the city.
+
+#### adbe0ef173 | GORDON → BRUCE | x2
+Eh, it’s not your problem, I guess.
+
+#### 8d087155a6-LM | GORDON → BRUCE | x2
+If you need me to drive you somewhere, I can.
+
+#### a59c78e39a-LM | GORDON → BRUCE | x2
+You need a ride or what?
+
+#### 4fb5099106 | BRUCE → GORDON | x2
+Go on. I think I’ll walk.
+
+#### dd63840f35 | ENFORCERLUKE → BRUCE | x2
+The papers are gonna report how Bruce Wayne just couldn’t live with the guilt anymore.
+
+#### 5dfe741d92 | ENFORCERCOLLEEN → BRUCE | x4
+Mayor Dent ordered us to kill you. For the good of Gotham, he said.
+
+#### cf9260b433 | BRUCE → ENFORCERLUKE, ENFORCERCOLLEEN | x4
+And it seems like he messed up your head, too.
+
+#### bd99ec460b | BRUCE → ENFORCERLUKE, ENFORCERCOLLEEN | x4
+And I’m going to forget you even exist.
+
+#### d2bbcec4e5 | BRUCE → GORDON | x2
+Add Harvey to my list of former friends.
+
+#### 4ea386b1b6 | BRUCE → GORDON | x2
+It’s getting longer every day.
+
+#### a5e77cb939 | GORDON → BRUCE | x2
+Dent’s out of control. Trying to kill you.
+
+#### dc9c0d3b6c | GORDON → BRUCE | x2
+And blowing up a city block? It’s madness.
+
+#### 135414d25b-SM | GORDON → BRUCE | x2
+How am I supposed to serve a guy like that?
+
+#### 910a98a1ea | BRUCE → GORDON | x2
+Just be very
+
+#### fe99212000 | BRUCE → GORDON | x2
+You have to be very careful.
+
+#### 413e757f98 | GORDON → BRUCE | x2
+I’ll just keep my head down. Even though that makes me sick.
+
+#### 75ed6a8472 | BRUCE → GORDON | x2
+Fight his insanity. Rally the force to your side.
+
+#### 863bd4b987 | GORDON → BRUCE | x2
+Easier said than done. I happen to love this town.
+
+#### c7ed45c4ac | GORDON → BRUCE | x2
+And I’m going down with it, one way or the other.
+
+#### 5da9f92a3e | ENFORCERFEMALE → BRUCE | x4
+Come on, keep walking.
+
+#### b26c732620 | BRUCE → GORDON | x2
+Wait-- just wait I...
+
+#### de117f6e58 | ENFORCERMALE → BRUCE | x2
+Shut up. Just keep moving.
+
+#### 6081a2a5da | choice/UI → ENFORCERFEMALE | x2
+You know this is wrong!
+
+#### 6cf7b8c662 | choice/UI → ENFORCERMALE | x2
+Cops protect people!
+
+#### c8d4a80a21 | choice/UI | x2
+You’re not helping Gotham.
+
+#### 0e33d4ab57 | choice/UI | x2
+You sound brainwashed!
+
+#### 2206404211 | choice/UI | x2
+Harvey’s lost his mind!
+
+#### 2b4bcb2050 | choice/UI | x2
+Think for yourselves!
+
+#### 18ed39d83b | BRUCE → ENFORCERCOLLEEN | x2
+Listen to me...
+
+#### e8236be9a8 | choice/UI → ENFORCERCOLLEEN | x2
+Let Batman handle Dent.
+
+#### 89ba1377b7-LF | choice/UI → ENFORCERCOLLEEN | x2
+You need to clean up the GCPD.
+
+#### 6b6d16778d | BRUCE → ENFORCERCOLLEEN | x2
+Please - Why are you doing this?
+
+#### eb1fe85740 | ENFORCERFEMALE → BRUCE | x6
+Hey. He said shut up!
+
+#### 0a03b7f0f1 | BRUCE → ENFORCERFEMALE | x2
+Look at what you’re doing - This is wrong and you know it.
+
+#### cab4c8544f | BRUCE → ENFORCERFEMALE | x2
+I don’t know how you think this is going to end; but trust me you will regret this.
+
+#### cf61ec4fa7-LF | BRUCE → ENFORCERFEMALE | x2
+You’re cops! You’re supposed to protect people, keep them safe...
+
+#### 5d4b33700e | BRUCE → ENFORCERMALE | x2
+Is this really what your badge stands for?
+
+#### c211e9740c | ENFORCERMALE → BRUCE | x2
+This is how we’re keeping people safe!
+
+#### baf4a9239e | BRUCE → ENFORCERMALE | x2
+Any way you cut this, this is murder. Is that what you want?
+
+#### cdcd365d47-LM | ENFORCERMALE → BRUCE | x4
+Sometimes you need to do a little bad to do a lot of good.
+
+#### 18ca1e27a3 | ENFORCERMALE → BRUCE | x2
+This is our “little bad.“
+
+#### 7cf165e07b-LM | BRUCE → ENFORCERMALE | x2
+I know that when you put that uniform on in the morning you do it because you want to help Gotham.
+
+#### 7db3801cfd | BRUCE → ENFORCERMALE | x2
+You are better than this! This is not how you help the city!
+
+#### 1e1d596d26 | ENFORCERMALE → BRUCE | x2
+The Children of Arkham are trying to tear the city apart - We’re saving it.
+
+#### 55f590138b | ENFORCERFEMALE → ENFORCERMALE | x2
+Yeah. We’ve finally got a leader who wants results. [One who’s letting us fight force with force.-trim]
+
+#### a476273732-LF | BRUCE → ENFORCERFEMALE | x2
+Listen to yourself, you sound brainwashed!
+
+#### b3aa2856df-LM | BRUCE → ENFORCERMALE | x2
+Harvey knows you’re scared and he’s using that against you to make you do exactly what he wants!
+
+#### 3b02cc25c6 | ENFORCERMALE → BRUCE | x2
+No, he hasn’t brainwashed us. We’re helping him. We’re doing the right thing--
+
+#### dd20f36ebc | ENFORCERFEMALE → BRUCE, LUCIUS, GORDON | x10
+The Mayor’s the only one brave enough to take real action against our enemies.
+
+#### 163476db7b | BRUCE → ENFORCERMALE | x4
+Come on. This is not the same Harvey that first started running for mayor - He’s lost his mind!
+
+#### 7197bf914a | ENFORCERMALE → BRUCE, ENFORCERFEMALE | x6
+He’s... He’s just had to get more firm in the face of the Children of Arkham. He’s still got the city’s best interests at heart.
+
+#### d50901258d-LF | BRUCE → ENFORCERFEMALE | x4
+You got to see it - What the Penguin did to him... it changed him.
+
+#### 7b5daf41de-LF | BRUCE → ENFORCERFEMALE | x2
+You had to see it - When Lady Arkham drugged him... He changed.
+
+#### a14d430cef | BRUCE → ENFORCERMALE | x2
+Harvey’s not going to save Gotham - He’s going to destroy it!
+
+#### 8b8af9bbea | BRUCE → ENFORCERFEMALE | x2
+Your Mayor just blew up a city block!
+
+#### 254c666c69 | ENFORCERMALE → BRUCE | x2
+Sometimes to help the greater good, there’s a price to pay--
+
+#### 78692cb748 | BRUCE → ENFORCERFEMALE | x2
+People DIED - Innocent. People.
+
+#### 19d7fa92f0 | ENFORCERMALE → ENFORCERFEMALE | x2
+I-- But...
+
+#### 911fb675bc | BRUCE → ENFORCERMALE | x2
+And if you think that’s where he’s going to stop, you’re just as crazy as he is!
+
+#### 18087b9a2f-SF | ENFORCERFEMALE → BRUCE | x2
+I knew you didn’t have the stones for this -
+
+#### 4e2e463f88 | ENFORCERFEMALE → ENFORCERMALE | x2
+Shut up! [Back to Bruce] You just don’t get it - You don’t understand! That’s why we need to take you out.
+
+#### f13c9373e2 | BRUCE → ENFORCERFEMALE | x2
+If you really think that killing me is the way to save Gotham, then go ahead and do it.
+
+#### 7f67a84f03-SF | ENFORCERFEMALE → BRUCE, ENFORCERMALE | x4
+I knew you didn’t have the stones for this.
+
+#### 641595430f-SM-LF | ENFORCERMALE → ENFORCERFEMALE | x4
+You’re right... Oh god I was about to... I’m sorry--
+
+#### 0bd9c19624 | BRUCE → ENFORCERFEMALE | x2
+You know I’m telling the truth and I know you’re hearing me.
+
+#### 9cde060e1c | BRUCE → ENFORCERFEMALE | x2
+Just think for yourselves! You’re not Harvey’s puppets, you are more than that!
+
+#### 615341a8b6 | ENFORCERFEMALE → ENFORCERMALE, BRUCE | x4
+This isn’t about the Mayor - This is about protecting the city.
+
+#### 7b485a848b | ENFORCERFEMALE → ENFORCERMALE | x4
+And that’s why we are not afraid to do what it takes.
+
+#### b13354cfaf | ENFORCERMALE → ENFORCERFEMALE | x2
+Maybe... Well...
+
+#### 0769836b66 | ENFORCERFEMALE → ENFORCERMALE | x2
+“Maybe” what?
+
+#### bfe7ea3ae2 | ENFORCERMALE → ENFORCERFEMALE | x2
+I... nothing.
+
+#### e9306d455f | BRUCE → ENFORCERMALE | x2
+How’d you even find me? Dent just blew up a whole city block!
+
+#### 8dd490fd26 | GORDON → BRUCE | x2
+I know - The man’s gone insane! I’ve never seen something so misguided, so- so...
+
+#### 91af71ad5d | GORDON → BRUCE | x2
+Grogan tasked me with cracking down on which officers helped Dent pull it off.
+
+#### 0eaee28f47 | choice/UI → GORDON | x2
+Can’t you arrest him?
+
+#### babeb55108 | choice/UI → GORDON | x2
+We need to stop him!
+
+#### ef1031603a | choice/UI → GORDON | x2
+How could this happen?
+
+#### b84eaa53ee-LM | BRUCE → GORDON | x2
+You got to be able to arrest him after this, right?
+
+#### 3267e6f923 | GORDON → BRUCE | x2
+We’re doing what we can, Bruce, but there aren’t a whole lot of contigency plans for what to do when your mayor starts blowing up the city!
+
+#### 497e6f1f44 | BRUCE → GORDON | x2
+Dent needs to be stopped, Jim. Now. Or that block won’t be the last thing that gets destroyed.
+
+#### ddec402b69 | GORDON → BRUCE | x2
+Oh, we’ll stop him. But it ain’t going to be easy... it’s a mess out there.
+
+#### 46fcd625fd | BRUCE → GORDON | x2
+I just don’t understand how this could happen - He’s not emperor, he’s just mayor.
+
+#### b10a09b77f | GORDON → BRUCE | x2
+He’s declared martial law - Basically whatever he says goes if he believes it’s for the good of the city.
+
+#### 836705fa99 | GORDON → BRUCE | x2
+Never seen a city go to hell so fast...
+
+#### bd98c85045 | GORDON → BRUCE | x2
+I’m trying to figure out what I can do to help, but I feel like my hands are tied every direction I turn.
+
+#### e5c5b138ef | BRUCE → GORDON | x2
+Harvey’s power comes from abusing the system - Maybe you should let someone outside of the system take care of him.
+
+#### 5968263c0c | BRUCE → GORDON | x2
+Doesn’t seem like he lets that stuff stop him.
+
+#### 57cf8ecee9 | GORDON → BRUCE | x2
+I’m going to pretend I didn’t hear that.
+
+#### 26af3e3c20 | GORDON → BRUCE | x2
+But... noted.
+
+#### 1ac2a76a2d | BRUCE → GORDON | x2
+Sounds to me like you’re already on the right path - Weeding the bad seeds out of the Department, cutting down the “Enforcers”...
+
+#### bc06d678db | GORDON → BRUCE | x2
+Yeah, I just hope it’ll be enough.
+
+#### 9e9485cfc2 | BRUCE → GORDON | x2
+All that red tape and legal hassle is just proof that the system is broken.
+
+#### 3dfc152b8e-SM | GORDON → BRUCE | x2
+Hey - I swore an oath to uphold the law above all else.
+
+#### 58d89063ec-LM | BRUCE → GORDON | x2
+Dent’s power comes from bending the law to work around you - Maybe you need to do the same.
+
+#### fb8dd917cc-LM | GORDON → BRUCE | x2
+But you are right that with Dent changing the rules... we might need to update our playbook too.
+
+#### 88ede0b4c4-SM | GORDON → BRUCE | x2
+I’ve never felt this frustrated with the system in my entire career.
+
+#### 017aad02ed | GORDON → BRUCE | x2
+But it’s like my hands are tied.
+
+#### bcf55ed1de | GORDON → BRUCE | x2
+Sorry, just thinking outloud - You’ve probably already got enough to worry about.
+
+#### 6324848bfb | GORDON → BRUCE | x2
+I’m going to keep trying to rally the people that actually care about Gotham... see if I c
+
+#### 2316052b70 | BRUCE → GORDON | x2
+Lucius. [To Gordon, gesturing w/phone] Jim, I actually have to take this..
+
+#### d32d57f7a3 | GORDON → BRUCE | x2
+Sure sure. I’ll be right here.
+
+#### fdf2d34212-SM | LUCIUS → BRUCE | x2
+Bruce! I figured out how Cobblepot is causing the feedback loop.
+
+#### 25cf909063 | LUCIUS → BRUCE | x2
+Everything. Yes. The signal is coming from Wayne Tower -
+
+#### d2a3257f56-LF | LUCIUS → ENFORCERFEMALE | x2
+The device’s signal is coming from Wayne Tower. You need to find the Black Box... and destroy it. If you don’t - Your identity, your technology... Penguin will have it all.
+
+#### 9e6524c418 | ENFORCERFEMALE → LUCIUS | x2
+This city is at war.  Sometimes casualities are the cost of winning the war.
+
+#### 7a84eb0105 | ENFORCERFEMALE → GORDON | x2
+No he won’t.
+
+#### b694d391a6 | GORDON → ENFORCERFEMALE | x2
+A terrorist with half the city’s support behind him.
+
+#### 62b3c4d50b | GORDON → ENFORCERFEMALE | x2
+Grogan’s out for Batman’s head - As soon as he can figure out a way to do it.
+
+#### a2bea22b32 | choice/UI → ENFORCERFEMALE | x2
+Ok, Then pull the trigger.
+
+#### 1ded94f00c | BRUCE → GORDON | x2
+People died - your fellow officers DIED!
+
+#### e1b5ddf572 | BRUCE → GORDON | x2
+Look at what he’s already done tonight! Do you think that’s going to be the last city block he blows up to get his way?
+
+#### ece1641989 | ENFORCERMALE → BRUCE | x2
+No, no-no-no... he won’t.
+
+#### 3bd0f4b7fa | ENFORCERMALE → BRUCE | x2
+I.. hadn’t thought about it that way.
+
+#### e20b4a9c03 | ENFORCERFEMALE → BRUCE | x2
+Hey. Don’t listen to his crap.
+
+#### 942977ae3f | ENFORCERMALE → ENFORCERFEMALE | x2
+I... [to enforcerfemale] Maybe he has a point--
+
+#### cb977aa20f | BRUCE → ENFORCERMALE | x2
+Go on then. Pull the trigger.
+
+#### 97594d6b87 | ENFORCERFEMALE → GORDON | x2
+Shouldn’t have had to do that...
+
+#### ae6f5ecf4e | GORDON → BRUCE | x2
+I know, I know. The reports I’m hearing are... just awful. Dent’s gone way, way too far.
+
+#### e611824339 | GORDON → BRUCE | x2
+I can’t help but feel guilty... Batman gave me the information on where to find Lady Arkham’s drug stockpile.
+
+#### d2eb6e8ee1 | GORDON → BRUCE | x2
+I hand it into my superiors and... god, this happens.
+
+#### 18ef49dde1 | BRUCE → GORDON | x2
+Like Batman.
+
+#### 09bb51d312-SM | GORDON → BRUCE | x2
+Maybe... Maybe I need to start taking things into my own hands.
+
+#### 3dc16cc6fd-LM | BRUCE → GORDON | x2
+You need to rally those that actually care about Gotham - see if you can get enough people together to stand up to Harvey and the Children of Arkham.
+
+#### 1981b787ec-SM | GORDON → BRUCE | x2
+I need to get back to the station right away.
+
+#### 8fd97f1dfc-LM | GORDON → BRUCE | x2
+Do you need a ride?
+
+#### b07d769c88-SM | BRUCE → GORDON | x2
+Thanks, but I’ve got it taken care of.
+
+#### eb0e9787a4 | choice/UI → GORDON | x2
+This is murder!
+
+#### 04ea2a827d | choice/UI → GORDON | x2
+He’ll destroy Gotham!
+
+#### 7ffea0b550 | DEBORAH → GORDON | x2
+If silent, we skip the next set of questions.
+

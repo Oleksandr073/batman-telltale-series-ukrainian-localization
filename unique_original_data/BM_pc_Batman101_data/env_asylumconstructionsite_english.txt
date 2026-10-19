@@ -1,0 +1,643 @@
+﻿#### 492c9b15c9 | REPORTER02 → HARVEY, COUNCILWOMAN, REPORTER03 | x20
+Over here. Right here.
+
+#### 9541e43171 | REPORTER03 → BRUCE | x11
+Mr. Wayne... Bruce... Bruce…
+
+#### 31084b2475 | REPORTER04 → REPORTER03, REPORTER01, BRUCE | x20
+One on your left. Your other left.
+
+#### 002bb63b01 | COUNCILWOMAN → HARVEY, VICKI, BRUCE | x20
+One of those options, Arkham Asylum, remains the dangerous relic of an outdated system of mental healthcare. Due to Mayor Hill’s negligence, the facility has jeopardized the well-being for Gotham’s most troubled citizens.
+
+#### d37b68f65d | choice/UI → COUNCILWOMAN, REPORTER03 | x11
+Reporter
+
+#### f70d0b19c1 | choice/UI → VICKI, HILL, REPORTER04 | x21
+Vicki Vale
+
+#### b1c130c96b | choice/UI → REPORTER01, REPORTER04, VICKI | x24
+Check your source.
+
+#### 4fcc9291fc | choice/UI → REPORTER01, REPORTER04, HARVEY | x58
+My parents weren’t criminals.
+
+#### 8f295cb072 | choice/UI → HARVEY, VICKI | x4
+This conference is over.
+
+#### 05207a65f6 | BRUCE, choice/UI → HARVEY, REPORTER03, REPORTER02 | x109
+Next question.
+
+#### 3f53a30096 | BRUCE → HARVEY, REPORTER02 | x40
+I don’t comment on rumors.
+
+#### 050cdbf76c | HARVEY → BRUCE, REPORTER01, ALFRED | x69
+Please keep your questions on topic, people.
+
+#### 8059fa56a1 | HARVEY → REPORTER01, REPORTER04, BRUCE | x58
+Mr. Falcone showed up unannounced, but Bruce--being the gracious host he is--allowed him a brief chat about billiards.
+
+#### 3b4ef50d3a | HARVEY → REPORTER01, REPORTER04, BRUCE | x58
+No skeletons in the closet there, folks.
+
+#### cd463d2682 | REPORTER04 → HARVEY | x2
+Just a few more questions. Please.
+
+#### a4c7656cb8 | HARVEY → BRUCE, REPORTER02 | x60
+We’re here about the hospital, remember?
+
+#### 7ca79b38f2 | choice/UI → HARVEY, ALFRED | x6
+Falcone’s no friend.
+
+#### 820ce81518 | REPORTER01, VICKI, SPENCER → BRUCE, COUNCILWOMAN, REPORTER04 | x35
+Care to comment?
+
+#### f156de4535 | BRUCE → HARVEY, COUNCILWOMAN | x4
+I think you should check your source.
+
+#### b8c0217ec9 | BRUCE → HARVEY | x4
+It sounds to me like an intern is finally{SmugA} putting their creative writing minor to good use.
+
+#### d36b4d1306 | choice/UI → VICKI, SPENCER | x11
+:: Not now ::
+
+#### 4c040529a3 | choice/UI → VICKI, HARVEY | x11
+:: Whats up? ::
+
+#### b0fa8a3183 | choice/UI → HARVEY, REPORTER04, REPORTER01 | x31
+[Read text]
+
+#### 2948b672ee | choice/UI → REPORTER04, REPORTER01, HARVEY | x31
+[Ignore]
+
+#### 4c9a165224 | COUNCILWOMAN → REPORTER01, HARVEY | x11
+Today, the Thomas and Martha Wayne Foundation makes an unprecedented commitment to the future of our city.
+
+#### 658ae75bee | COUNCILWOMAN → HARVEY | x11
+Gotham is no stranger to the ravages if mental illness: Homelessness, crime, broken homes, abuse in the workplace, inside the family -- and inside ourselves.
+
+#### 2757db8185 | COUNCILWOMAN → HARVEY | x11
+In collaboration with Gotham’s medical and social justice communities, we are taking the first step towards bringing mental health care firmly into the 21st century with the Thomas and Martha Wayne Memorial Psychiatric Hospital.
+
+#### 28fc189f86 | COUNCILWOMAN | x2
+Pay attention to that name: Criminally [beat] Insane.
+
+#### b57f2775c1 | COUNCILWOMAN | x11
+Each of us have been touched by it in some way.
+
+#### 362152b85a | COUNCILWOMAN → SPENCER | x4
+Mental illness is not a crime; it’s a disease!
+
+#### 8f14c036a2 | COUNCILWOMAN | x2
+We need to stop treat the least of us like criminals -- and more like patients who can and will recover!
+
+#### 962c4e4b1f | COUNCILWOMAN | x2
+Gotham took it’s first step towards dealing with this issue with the founding of the Elizabeth Arkham Asylum for the Criminally Insane in 1922.
+
+#### 03b0a9663a | COUNCILWOMAN | x2
+And that’s exactly what the Thomas and Martha Wayne Psychiatric Hospital will do!
+
+#### 7265574274 | COUNCILWOMAN | x11
+A disease -- that with the right facilities and care -- we can overcome!
+
+#### bc0d00880e | COUNCILWOMAN | x11
+No more labeling patients as monsters and throwing them into the shadows of an archiac prison -- to be forgotten... or worse.
+
+#### a2f82dbdce | COUNCILWOMAN | x11
+From this day forward we pledge to provide the most humane, state-of-the-art treatment program in the nation to Gotham’s mentally ill.
+
+#### 7ef28ee6e0 | COUNCILWOMAN | x11
+It’s shaped our lives, our city -- our way of life.
+
+#### 8c8844921f | COUNCILWOMAN | x11
+We will lead the nation. We will lead the world.
+
+#### 69fa2c146c | COUNCILWOMAN → BRUCE | x2
+But first, let’s hear from two of Gotham’s most visionary leaders.
+
+#### 1a0e0dc4e5 | COUNCILWOMAN → BRUCE | x20
+It is my honor and privelage to introduce to you the next Mayor of Gotham, District Attorney Harvey Dent --
+
+#### f0e2f228cb | COUNCILWOMAN → BRUCE, VICKI | x20
+And Gotham’s most famous son: Bruce Wayne!
+
+#### acf2d09133 | choice/UI → COUNCILWOMAN | x2
+Need to talk.
+
+#### e457149073 | choice/UI → COUNCILWOMAN | x4
+Not now
+
+#### 6a6c58ca63 | BRUCE, choice/UI → HARVEY, COUNCILWOMAN | x27
+What’s up?
+
+#### 3c812b76c0 | choice/UI → HARVEY, COUNCILWOMAN | x11
+Call me ASAP.
+
+#### a11e37229d | choice/UI | x2
+Urgent!
+GCPD is here.
+
+#### 1b0dc15bee | choice/UI → HARVEY, VICKI | x11
+Get my good side.
+
+#### 157ce4953e | choice/UI → VICKI | x2
+Enough photos.
+
+#### 8ef059e20a | choice/UI → SPENCER, VICKI, REPORTER05 | x12
+[Ignore Them]
+
+#### 74d3b25a84-SM | BRUCE → COUNCILWOMAN | x4
+You know, when I was{ThinkingA} nine years old, my parents took me to{HappyA} see a movie about a hero in a mask.
+
+#### 7ce073093b | VICKI → BRUCE | x11
+With the opening of this new hospital, what does this mean for Arkham Asylum?
+
+#### d3a5b97502 | REPORTER02 → HARVEY | x11
+Smile for the Tribune!
+
+#### 4518ab7fa4 | HARVEY → BRUCE | x2
+In the meantime... are there any more questions?
+
+#### dd6909c814 | HARVEY → BRUCE | x11
+I’m making a career out of waiting on Mr. Wayne,{HappyB} but he already *has* a butler.
+
+#### 666b43cc45 | HARVEY → REPORTER02 | x11
+Um... yes, you there--
+
+#### e16ee98e6f | REPORTER01, SPENCER → BRUCE | x11
+Mr. Wayne! Over here! Right here!
+
+#### f5b31ceb27 | REPORTER03 → BRUCE | x11
+Bruce! Bruce!
+
+#### 4e196afcf2 | BRUCE → HARVEY | x2
+Get my good side, okay?
+
+#### d6578d929c | BRUCE → REPORTER03 | x2
+Okay, okay, pretty sure you have enough photos, guys.
+
+#### 643303f897 | BRUCE → REPORTER03 | x2
+Hey, text that one to me, will you?
+
+#### 78d00f99b1 | REPORTER03 → BRUCE | x11
+Of Bruce Wayne? Never.
+
+#### 55e1c0e65c | choice/UI → HARVEY | x20
+[Smile and wave]
+
+#### 72d704f84c | HARVEY → BRUCE | x2
+Hey Bruce, you mind if we swap cars?
+
+#### 1632e0a374 | BRUCE → HARVEY | x2
+‘Morning, Mr Dent.
+
+#### a431ff49a8 | HARVEY → BRUCE | x11
+We’re here about Arkham Asylum.
+
+#### ee82bde31c | HARVEY → BRUCE | x11
+We didn’t bring you all out here to discuss cars,{SmugA} honestly. [little laugh]
+
+#### 754493165b | BRUCE → HARVEY | x11
+We should tear down the walls and erase it from the map.
+
+#### 323edd7c81 | BRUCE → HARVEY | x2
+We can do better.
+
+#### b0b0857fe0 | BRUCE → HARVEY | x2
+I think Arkham has only done harm to Gotham.
+
+#### 0fb6431e8e | BRUCE | x11
+Made criminals more unstable, put our citizens in jeopardy.
+
+#### 75315bb541 | BRUCE → HARVEY | x11
+This time, we won’t fail those who need us most.
+
+#### 4db73d015d | BRUCE → HARVEY | x11
+I say we leave the asylum standing, as a reminder, that we can do better.
+
+#### bb7b54c602 | BRUCE | x2
+I don’t want us lingering on past mistakes--I want us to focus on Gotham’s future.
+
+#### dd58931b66 | BRUCE → HARVEY | x2
+It was a hero who stood up to {FaceAccent}oppression and{BodyAccent} defended the people from injustice,{ConcernedA} no matter the cost.
+
+#### a69f81073e | BRUCE → HARVEY | x2
+That night...{SadA} my parents{FaceAccent} paid the {AngryA}ultimate cost defending me from a{BodyAccent} man...
+
+#### 45d599038d | BRUCE → HARVEY | x2
+After all these years,{SadB} I... I still even have the movie tickets...
+
+#### 988e926891 | choice/UI → HARVEY | x2
+A terrible lesson.
+
+#### bd7f477efb | choice/UI, HARVEY → HARVEY, GORDON | x7
+It won’t happen again.
+
+#### abbb63d5dc | HARVEY → BRUCE | x83
+I know, I know.
+
+#### 268c790191 | HARVEY → BRUCE | x2
+I promise you all{HappyA} he will be here soon.
+
+#### 77e6124349 | BRUCE → HARVEY | x11
+My parents... {SurpriseA}were heroes that night.
+
+#### 6b7f71be62 | BRUCE → HARVEY | x11
+We can all learn from their{FaceAccent} sacrifice.
+
+#### 6217817d14 | VICKI → BRUCE | x11
+I know this is a sensitive subject, Mr. Wayne.
+
+#### b1d8bf90fa | VICKI → HARVEY, BRUCE | x11
+I withdraw my question.
+
+#### bfa0696338 | HARVEY → BRUCE | x2
+We should all take Bruce’s words to heart.
+
+#### a59ba678e6 | HARVEY → VICKI | x29
+Thank you, Ms. Vale.
+
+#### 476a2e31cb | BRUCE → HARVEY | x11
+In the hope that a night like that... {ConcernedB}never happens again.
+
+#### 48fc37b583 | BRUCE → HARVEY | x11
+Let us honor their memory with this{NormalA} new facility...
+
+#### f3aade2e01 | BRUCE → HARVEY | x40
+With this facility... and the next mayor of Gotham--
+
+#### cb89e14c7b | BRUCE | x29
+We can put a Dent in crime...
+
+#### dc22230fdb | BRUCE → HARVEY | x11
+My hope is in Harvey to make sure a night like {BodyAccent}that... {SadB}never happens again.
+
+#### 3a29461809 | BRUCE → HARVEY | x11
+We create a new face for Gotham--
+
+#### 34596da0be | BRUCE → HARVEY | x11
+We change Gotham...
+
+#### 8f8cef8816 | HARVEY, JOKER, ALFRED → BRUCE | x55
+Thank you, Bruce.
+
+#### 174534c6b3 | BRUCE, VICKI, REPORTER01, GORDON → BRUCE, ALFRED, VICKI | x129
+Thank you.
+
+#### 53a205b6e8 | BRUCE → REPORTER03, HARVEY, REPORTER02 | x56
+That’s absurd.
+
+#### 8977e9873f | BRUCE → REPORTER03, HARVEY | x20
+My parents were entrepreneurs, philanthropists... not common criminals.
+
+#### ade9800508 | BRUCE → VICKI, HARVEY | x4
+Why don’t we just stick to real journalism here.
+
+#### 74102c9176 | BRUCE → HARVEY | x4
+Harvey is the one who invited him.
+
+#### bddd3a5bb3 | HARVEY, ALFRED → BRUCE, OSWALD | x7
+Bruce?!
+
+#### e953b87bdd | BRUCE → HARVEY | x22
+I don’t make friends with gangsters.
+
+#### 1c9b831bc0 | BRUCE → HARVEY | x4
+He came to learn about Harvey Dent, your next mayor.
+
+#### 2248be8556 | BRUCE → HARVEY | x4
+Well I think Mister Falcone is a voter, just like anyone else in this city.
+
+#### b6dcd73949-SM | BRUCE → HARVEY, ALFRED | x4
+Personally, I would never welcome that man into my home.
+
+#### 42d930a332 | HARVEY → BRUCE, ALFRED | x20
+Damage control’s my territory. We’ll talk later.
+
+#### 4987284824 | HARVEY → BRUCE | x2
+Everyone, everyone please, settle down.
+
+#### c6206aa6eb-LM | REPORTER04 → BRUCE | x22
+Did you know about this, Bruce?
+
+#### 45e77b1272 | REPORTER01, SPENCER → HARVEY, REPORTER04 | x22
+What aren’t you telling us?
+
+#### 5bf57e8d4c | HARVEY → SPENCER | x2
+I’ll be fielding your questions from here on out.
+
+#### 972598bdc3 | REPORTER03 → SPENCER | x4
+Could the allegations be true?
+
+#### c4d4a0bec8 | REPORTER01, SPENCER → BRUCE | x22
+Mr. Wayne! Mr. Wayne!
+
+#### eb822d4cb2 | RAMARQUE → ALFRED, SPENCER | x4
+How long has your family been dealing with Falcone?
+
+#### 9ff897cec5 | ALFRED → BRUCE, HARVEY, REPORTER03 | x20
+So am I.
+
+#### 17b52920f4 | ALFRED → BRUCE | x22
+Bruce! I’ve been trying to reach you.
+
+#### bb214ee023 | BRUCE → ALFRED | x2
+A little busy at the moment, Alfred.
+
+#### 1343a75fdc | REPORTER03 → BRUCE, HARVEY | x11
+Hey, the public loves you.
+
+#### 52a09e391b | HARVEY → BRUCE | x11
+But {FaceAccent}today, with a{HappyA} sizable contribution from this man here{BodyAccent}[gestures to Bruce] we break ground on a{FaceAccent} state-of-the-art mental health care facility.
+
+#### b212c52076 | HARVEY → BRUCE | x11
+Mr. {FaceAccent}Wayne has a few words he’d like to say.{HappyA} {BodyAccent}Bruce?
+
+#### 4532538273 | HARVEY | x2
+Its methods for rehabiliation: crude, its security: lacking.
+
+#### 1023162e1d | choice/UI → HARVEY | x11
+Hidden Silence
+
+#### 66ae1edc40 | HARVEY | x11
+Arkham Asylum is a cancer on Gotham.
+
+#### d4ed9215ab | HARVEY → BRUCE | x2
+Worse still, those who do get out -- {FearA}or God-forbid, escape -- {ConcernedA}are even more dangerous than before they went in.
+
+#### 0254c1ec5b | HARVEY → BRUCE | x2
+And the rate of death and suicide inside the {ConcernedB}asylum itself, is truly terrifying.
+
+#### 37440a783a | HARVEY → BRUCE | x11
+Ever since it opened its doors, Arkham has been a {FearA}breeding ground for the criminally insane...
+
+#### 9423f7ae5f | BRUCE → HARVEY | x11
+As a reminder.
+
+#### 63b763045d | BRUCE → REPORTER04, HARVEY | x33
+And make sure a night like that... never happens again.
+
+#### 380ddedc87 | BRUCE → REPORTER04 | x2
+Actually, this side is my good side.
+
+#### f1f58acda7 | choice/UI → HARVEY | x2
+Good Morning!
+
+#### e14afffae8 | BRUCE → HARVEY | x11
+Good morning, everyone.
+
+#### 42ab511502 | REPORTER04, GOON01, COA01 → BRUCE, PENGUIN | x17
+This way!
+
+#### 39703e55a0 | HARVEY → BRUCE | x2
+I mean, mine isn’t fast and the paint’s rusting off...{AmusedA} but boy does she have charm.
+
+#### 6aaa56b39c | HARVEY → REPORTER04, BRUCE | x11
+One that will improve the well-being of Gotham,{ThinkingA} and its citizens,{SmugA} for years to come.
+
+#### e3e5a3ec24 | VICKI → HARVEY | x11
+What happens to the old building?
+
+#### 2b311b8e4f | HARVEY → ALFRED, VICKI | x11
+Today, on the anniversary of that fateful night, we dedicate this facility to Thomas and Martha Wayne, and usher in a new era of healing for Gotham.
+
+#### c06db59608 | ALFRED → HARVEY, BRUCE | x11
+The police are here.
+
+#### cf6dd307de | ALFRED → HARVEY, BRUCE | x13
+The police are inside the manor.
+
+#### 289e0ab654 | HARVEY → BRUCE | x2
+Please, let’s try to keep this civilized.
+
+#### b93604d138-LM | ALFRED → BRUCE, HARVEY | x22
+You need to get back here.
+
+#### d7e988b686-SM | HARVEY → BRUCE | x2
+I’m sorry about this, Bruce. I dunno where the hell it’s coming from.
+
+#### e13914bb0a | choice/UI → ALFRED | x2
+It’s a free country.
+
+#### 7124caf23c | choice/UI → ALFRED | x2
+Let’s put a Dent in crime.
+
+#### b11611629d | choice/UI → ALFRED | x2
+My hope is in Harvey.
+
+#### 9d910eb99e | choice/UI → ALFRED | x2
+We need a new face for Gotham.
+
+#### 0d0f428d76 | choice/UI → ALFRED | x2
+Together, we change Gotham.
+
+#### 80c5cde152 | choice/UI | x2
+It did more harm than good
+
+#### 9f48ea7932 | choice/UI | x2
+It should be demolished.
+
+#### 1a23cc5467 | choice/UI | x2
+It can serve as a reminder.
+
+#### 59395cae09 | BRUCE → ALFRED | x6
+With this facility... and our next mayor--
+
+#### 183af84061 | BRUCE → ALFRED | x2
+...Who needed the kind of help this new facility will provide.
+
+#### 4371ac3060 | BRUCE, HARVEY, SELINA, BOY → SELINA, HARVEY, BRUCE | x36
+Okay.
+
+#### f088cd1dbe-SM | BRUCE | x2
+I’m sure you all have plenty of questions about the new hospital, so let’s open it up.
+
+#### 3c84a7e15c | BRUCE, HARVEY → VICKI | x29
+You first, Ms. Vale.
+
+#### 369314e233 | BRUCE → SPENCER | x2
+Next question, please.
+
+#### 07c65747ab | BRUCE → SPENCER | x2
+Anyone else have a question?
+
+#### 9808dbd17d | SPENCER → BRUCE | x2
+This morning, the Globe received evidence of an off-shore bank account managed by Carmine Falcone and your father, Thomas Wayne.
+
+#### 5256a99617 | RAMARQUE → BRUCE | x2
+Is the Wayne family legacy built on lies?
+
+#### 971d81ef63 | SPENCER → BRUCE | x2
+Is all your money dirty?
+
+#### d7fd4eb86a | RAMARQUE → BRUCE | x2
+Does the mob sign Wayne Enterprises’ paychecks?
+
+#### 51b4143b22 | choice/UI → SPENCER | x2
+[Walk off stage]
+
+#### 0ba9c89fe7 | BRUCE → RAMARQUE | x2
+This press conference... is over.
+
+#### 017252c660 | choice/UI, LADYARKHAM → SPENCER, BATMAN | x4
+How dare you!
+
+#### 9313e3b051 | LADYARKHAM, BRUCE → BATMAN, SPENCER | x6
+How dare you.
+
+#### 1ebf313746-SM | BRUCE → RAMARQUE | x2
+I just finished telling you about my parents’ murder and you accuse them of being, what, criminals?
+
+#### 46d0eb617f | BRUCE → SPENCER | x2
+Have some decency.
+
+#### f8b72705dc | BRUCE → SPENCER | x2
+And did anyone else receive this “evidence?”
+
+#### b8943b0781 | SPENCER → BRUCE | x2
+We all did.
+
+#### 2467ffedbb | SPENCER → BRUCE | x2
+The Globe, The Gazette...
+
+#### 67078788bf | choice/UI, BRUCE → SPENCER, VICKI, MONTOYA | x24
+No comment.
+
+#### 26d0204961 | choice/UI, BRUCE → SPENCER | x4
+Are you accusing my family of corruption?
+
+#### cfd9881aac | SPENCER → BRUCE | x2
+That’s what this evidence shows.
+
+#### 94eaa71ed4 | choice/UI → SPENCER | x2
+Show me the proof[ALT].
+
+#### ff700bc8f9 | BRUCE → SPENCER | x2
+Show me the proof.
+
+#### a5317d8355 | BRUCE → SPENCER | x2
+Because this sounds like a pitiful smear campaign.
+
+#### 7dc15e0d2b | SPENCER → BRUCE | x2
+Well, you’ll hear about it on the news just like everyone else in Gotham.
+
+#### 5276313203 | choice/UI → SPENCER | x2
+The sick need our help.
+
+#### c500ecfc3f | choice/UI → SPENCER | x2
+My parents would be honored.
+
+#### 2539333537 | choice/UI → SPENCER | x2
+Crime is rampant.
+
+#### 7fb323e157 | BRUCE → SPENCER | x2
+For those with mental health issues, there are no cuts or scrapes, their ailments are often invisible.
+
+#### 84dcc69f52 | BRUCE → SPENCER | x2
+But inside... they’re suffering.
+
+#### 54d5102cfa | BRUCE → SPENCER | x2
+They invested their blood, sweat and tears in this city.
+
+#### 2ac6dabb97 | BRUCE | x2
+My parents loved Gotham.
+
+#### 91b52ff3e2 | BRUCE | x2
+I’m here today... because I want to heal Gotham, to stop the culture of crime that’s running our streets.
+
+#### 9dc7961cb0 | choice/UI | x2
+Violence breeds violence.
+
+#### 0e88baf331 | BRUCE | x2
+Violence... breeds violence.
+
+#### 8a1f61ede1 | BRUCE | x2
+We need to take away the guns and knives... and replace them with helping hands.
+
+#### 70e11412cd | BRUCE | x2
+Alright, who’s up next?
+
+#### 654cf3ec08 | BRUCE → REPORTER04, REPORTER01, SPENCER | x20
+You there.
+
+#### 5f0239c77f | BRUCE → SPENCER | x2
+He was an unwelcome guest--that’s all.
+
+#### 241e892f16 | SPENCER → BRUCE | x2
+The papertrail ties your family directly to the mob.
+
+#### 4bce402cce | SPENCER → BRUCE | x2
+Transactions connected to organized crime, going back years... and continuing to this day.
+
+#### f9682023cc | BRUCE, SELINA, LUCIUS, ALFRED → BRUCE, SPENCER, HILL | x12
+Excuse me?
+
+#### 57d2ad67e5 | BRUCE → SPENCER | x2
+What exactly are you implying?
+
+#### 38b6363226 | SPENCER → BRUCE | x2
+Every media outlet in Gotham.
+
+#### 5bf3c42a03 | VICKI, SPENCER → ALFRED, BRUCE | x5
+I am.
+
+#### c1742a2594 | SPENCER → BRUCE | x2
+This morning we received evidence of an off-shore bank account linking Carmine Falcone and your father, Thomas Wayne.
+
+#### 9381b82db6 | RAMARQUE → BRUCE | x2
+Mr. Wayne, Julia Ramarque of the Tribune.
+
+#### f8442367a2 | BRUCE → RAMARQUE | x2
+Yes, Julia. Go ahead.
+
+#### 004866ea8e-L? | RAMARQUE → SPENCER | x2
+My sources say that you welcomed alleged mob-boss Carmine Falcone into your home.
+
+#### b87543b98f | REPORTER01, REPORTER04, RAMARQUE → HARVEY, BRUCE, REPORTER04 | x56
+You even shook his hand.
+
+#### b08bac8ec4-L? | REPORTER01, RAMARQUE → REPORTER04, SPENCER | x11
+You even spoke with him behind closed doors.
+
+#### 38602d9c55 | RAMARQUE → SPENCER | x2
+You and Mr. Dent even spoke with him behind closed doors.
+
+#### 6cd240c666 | SPENCER → BRUCE | x2
+But Mr. Wayne!
+
+#### 82409b7e3e | VICKI, REPORTER01, SPENCER → BRUCE | x58
+Mr. Wayne!
+
+#### 19fb29148e | choice/UI → ENFORCER01, RAMARQUE, ALFRED | x14
+[Ignore Text]
+
+#### c0b62da92b | choice/UI → SPENCER | x2
+I doubt your “evidence”.
+
+#### b98e2d9f57 | choice/UI → SPENCER | x2
+Its day has passed.
+
+#### 65f94b8199 | choice/UI → SPENCER | x2
+Leave it standing
+
+#### 57335522db | choice/UI | x2
+Tear it down.
+
+#### 3a956d5b19 | choice/UI | x2
+He was Harvey’s guest.
+
+#### 56239ab6f2 | choice/UI | x2
+Your source is wrong.
+
+#### 08cf16ca62 | choice/UI → COUNCILWOMAN | x2
+That’s absurd!
+
+#### 022ae4241f | choice/UI → VICKI, COUNCILWOMAN | x6
+This interview is over.
+
+#### c939cfac60 | choice/UI → COUNCILWOMAN | x2
+At press conference.
+
+#### 598c37a063 | choice/UI → COUNCILWOMAN | x2
+Got it. Will do.
+

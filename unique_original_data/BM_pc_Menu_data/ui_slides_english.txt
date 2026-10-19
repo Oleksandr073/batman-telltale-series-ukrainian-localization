@@ -1,0 +1,107 @@
+﻿#### b5d134a369 | choice/UI | x2
+PS4 conditional sample text for social benefits of telltale account linking via warning layout
+
+#### a50af26df2 | choice/UI | x2
+General conditional sample text for social benefits of telltale account linking via warning layout
+
+#### ad652a7442 | choice/UI | x2
+sample text for episode recap background with a split screen layout
+
+#### 0128f10c6e | choice/UI | x4
+Exiting Will Pause the Download
+Note, exiting the game while downloading this episode will pause the download, however you can resume anytime by returning to the Episodes screen.
+
+#### 49bb817be6 | choice/UI | x2
+^glyphScale:1.1^^font:MenuDisplayLarge.font^Deleting the App Deletes Your Saves
+
+^^You can free up space on your device without deleting your saves by uninstalling individual episodes from More Options on the Episodes screen.
+
+#### af8a418fd9 | choice/UI | x2
+^glyphScale:1.1^^font:MenuDisplayLarge.font^Exiting Will Pause Your Download
+
+^^Exiting the game will pause the download of this episode. You can resume downloading anytime by returning to the Episodes screen.
+
+#### 774a5fcc5c | choice/UI | x2
+^glyphScale:1.1^^font:MenuBodyLarge.font^^color:#7ab1cc^See Exclusive Videos!
+
+^^Get full access to all episodes of Batman: Unmasked.
+
+#### bc7f61d0bf | choice/UI | x2
+^glyphScale:1.1^^font:MenuBodyLarge.font^^color:#7ab1cc^Share Your Story!
+
+^^Share your most epic moments, bold choices, and surprising discoveries with friends!
+
+#### 8f8ce41bc1 | choice/UI | x2
+^glyphScale:1.1^^font:MenuBodyLarge.font^^color:#7ab1cc^Continue Play on the Go!
+
+^^Use Cloud Save to securely save your progress in the cloud.
+
+#### 5fcbceb1f7 | choice/UI | x2
+^glyphScale:1.1^^font:MenuBodyLarge.font^^color:#7ab1cc^Get Access to All these Benefits with Your Telltale Account
+
+^^Sign up or Login for all the premium perks by going to Telltale Account in the Videos & Extras Menu.
+
+#### 3e15679cc9 | choice/UI | x4
+^glyphScale:1.1^^font:MenuBodyLarge.font^^color:#7ab1cc^Where We Left Off - Batman Episode One
+
+^^Bruce Wayne navigates the treacherous waters of Gotham politics as a series of shocking allegations surface, while Batman confronts Gotham’s most notorious crime boss.
+
+#### 4e81488ced | choice/UI | x2
+^glyphScale:1.1^^font:MenuBodyLarge.font^^color:#7ab1cc^Don’t Miss a Moment!
+
+^^Stay up-to-date on Batman and be first to know about new exclusives.
+Follow us online!
+
+#### 782af8dd1c | choice/UI | x2
+^glyphScale:1.1^^font:MenuBodyLarge.font^^color:#7ab1cc^Follow Batman’s Adventures in these best-selling graphic novels!
+
+^^Get them at a comics shop, bookstore or digital retailer!
+
+#### 9f2aae272f | choice/UI | x2
+^glyphScale:1.1^^font:MenuBodyLarge.font^^color:#7ab1cc^Episode 1 of The Wolf Among Us is now FREE!
+
+^^Save 25% on additional episodes by purchasing the entire Season.
+Download it now!
+
+#### ad9dd3549f | choice/UI | x2
+^glyphScale:1.1^^font:MenuBodyLarge.font^^color:#7ab1cc^Episode 1 of The Wolf Among Us is now FREE!
+
+^^Save 25% on additional episodes by purchasing the Multi-Pack.
+Download it now in the Apple AppStore.
+
+#### 001a44c6c6 | choice/UI | x2
+^glyphScale:1.1^^font:MenuBodyLarge.font^^color:#7ab1cc^Episode 1 of The Wolf Among Us is now FREE!
+
+^^Save 25% on additional episodes by purchasing the Multi-Pack.
+Download it now!
+
+#### 48d388c6b5 | choice/UI | x2
+^glyphScale:1.1^^font:MenuBodyLarge.font^^color:#7ab1cc^Where We Left Off - Batman Episode Two
+
+^^Bruce investigates his own family history and an old friend becomes a fearsome enemy. Past and present conflicts erupt at the mayoral debate and the real threat to Gotham is revealed.
+
+#### 1ee8f7cedc | choice/UI | x2
+^glyphScale:1.1^^font:MenuBodyLarge.font^^color:#7ab1cc^Where We Left Off - Batman Episode Two
+
+^^While investigating allegations of corruption against his father, Bruce witnesses Falcone’s suspicious assassination. Oswald embarks on his revolution, hijacking the Gotham mayoral debate. Batman is faced with an impossible choice as the true depth of Thomas Wayne’s corruption is revealed.
+
+#### 14f04dfc32 | choice/UI | x2
+^glyphScale:1.1^^font:MenuBodyLarge.font^^color:#7ab1cc^Where We Left Off - Batman Episode Three
+
+^^Batman discovers why the Children of Arkham always have the upper hand, but can’t prevent Oswald from taking control of Wayne Enterprises. A horrific plot is foiled, but Lady Arkham outmaneuvers both Batman and Bruce Wayne.
+
+#### 8c20c5cc86 | choice/UI | x2
+^glyphScale:1.1^^font:MenuBodyLarge.font^^color:#7ab1cc^Where We Left Off - Batman Episode Three
+
+^^Batman discovers why the Children of Arkham always have the upper hand, but can’t prevent Oswald from taking control of Wayne Enterprises. Harvey’s injuries may be far worse than initially believed. A horrific plot is foiled, but Lady Arkham outmaneuvers both Batman and Bruce Wayne.
+
+#### b0022d59ca | choice/UI | x2
+^glyphScale:1.1^^font:MenuBodyLarge.font^^color:#7ab1cc^Where We Left Off - Batman Episode Four
+
+^^After surviving Arkham Asylum, Bruce’s investigation of Vicki Vale takes him to surprising places. Batman is determined to hunt down Lady Arkham, but Two-Face and Penguin present more immediate threats.
+
+#### 6a877665b6 | choice/UI | x2
+^glyphScale:1.1^^font:MenuBodyLarge.font^^color:#7ab1cc^Where We Left Off - Batman Episode Four
+
+^^Reeling from the effects of the mind-altering drug, Bruce must survive being a patient in Arkham Asylum. Harvey decides that the destruction of Wayne Manor will help him change the face of Gotham. Batman is determined to hunt down Lady Arkham, but Two-Face and Penguin present more immediate threats.
+

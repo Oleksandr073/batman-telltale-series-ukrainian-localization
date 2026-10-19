@@ -1,0 +1,471 @@
+﻿#### 55561f92f2 | BRUCE → MONTOYA | x2
+Don’t worry. It {FaceAccent}will.
+
+#### 4386ada17d | BRUCE → GORDON | x2
+It means a{HappyA} lot for me to be{BodyAccent} here.
+
+#### 8fd9eed3d9 | GORDON → BRUCE | x2
+To be honest, I didn’t think you’d{FaceAccent} come.
+
+#### 30f6d629b3-SM | BRUCE → GORDON | x2
+I loved my father, but {FaceAccent}nothing can excuse what{ThinkingB} he did.
+
+#### db981ccb81-SM | choice/UI → GORDON | x2
+It’s time I took responsibility.
+
+#### a0f185eb05 | choice/UI → GORDON | x2
+I’ve come to apologize.
+
+#### 540349c45d | choice/UI → GORDON | x2
+I have no excuse for my Dad’s actions
+
+#### 0d71c56a8d | choice/UI → GORDON | x2
+We can’t change the past.
+
+#### 9c8dbf3c47 | GORDON → BRUCE | x2
+I don’t mean that as an insult.
+
+#### afefea6e92 | GORDON → BRUCE | x2
+Gotham needs a “golden boy.“
+
+#### 78e1870667 | BRUCE → GORDON | x2
+So {SternA}today, I stand before you as my{BodyAccent} own man.
+
+#### ba7ab728e7 | BRUCE → NEWSCASTER | x2
+Heir not to the {FaceAccent}{NormalA}Wayne legacy, but to{FaceAccent} Gotham’s.
+
+#### 9da85fe838 | choice/UI → NEWSCASTER | x2
+I want to help the city.
+
+#### cf77400872 | choice/UI → GORDON | x2
+I’ll show them that the Waynes care.
+
+#### 6bae2114be | BRUCE → GORDON | x2
+Gotham doesn’t have to like me, but I do hope they’ll hear me out.
+
+#### 4f08259616-SM | BRUCE | x2
+I need to take responsibility for what my parents did.
+
+#### 6a43084c7c-SM | BRUCE | x2
+It’s time I owned{FaceAccent} my family’s {ThinkingA}past.
+
+#### f3c8b4d160 | BRUCE → MONTOYA | x2
+So we can all move forward.
+
+#### 2310d3c97a | BRUCE → MONTOYA | x2
+As his son, I have to{DisgustA} live with that.
+
+#### 7f8ec1e5a1 | BRUCE → GORDON | x2
+It’s time for us to {BodyAccent}stop living in the past and{FaceAccent} focus on {ThinkingA}building the future.
+
+#### 32fbe156d3 | choice/UI | x2
+He’s protecting Gotham.
+
+#### e85a756196 | choice/UI | x2
+Do you trust him?
+
+#### c9d2e09e79 | choice/UI → MONTOYA | x2
+I’d like to meet him.
+
+#### 7a87809448 | choice/UI → MONTOYA | x2
+I’ll help put an end to corruption.
+
+#### c842385bb5 | choice/UI → GORDON | x2
+I will be Gotham’s servant
+
+#### f08c1c3cb4-SM | choice/UI → GORDON | x2
+It’s time I started paying back.
+
+#### 739b88bd95-SM | GORDON → BRUCE | x2
+After that{FaceAccent} business at Cobblepot Park, I thought you might be {BodyAccent}off on a {NormalA}yacht somewhere, recuperating.
+
+#### b60db581e4 | GORDON → BRUCE | x4
+And I wouldn’t{TiredA} blame{FaceAccent} you.
+
+#### 9a6afc078e-SM | GORDON → MONTOYA | x2
+My wife wanted me to {BodyAccent}postpone this {TiredA}address, to do some recuperating myself.
+
+#### 6f172d18cf | BRUCE → GORDON | x2
+How are you{FaceAccent} feeling?
+
+#### 7717e11bda | GORDON → BRUCE | x2
+I’ve{NormalA} taken worse hits. But {FaceAccent}thanks for asking.
+
+#### cdd5cadc7e-SM | GORDON → BRUCE | x2
+That said, I thought we made a pretty good {FaceAccent}team back there, and I hoped that{ThinkingA} could continue.
+
+#### e34324d96b | BRUCE → GORDON | x2
+I feel the {FaceAccent}same.
+
+#### fb5acb7700-LM | GORDON → BRUCE | x2
+What you did is no{FaceAccent} secret...
+
+#### ca3b124c29 | GORDON → BRUCE | x2
+After that nasty{FaceAccent} business at your manor...
+
+#### fb3f0c0f94-SM-LM | GORDON → BRUCE | x2
+I know{SadA} Harvey was a good friend of{BodyAccent} yours. A loss like that... I would have{TiredA} understood{FaceAccent} if you turned me down.
+
+#### 2f231ad79a-L? | GORDON | x2
+I wish it could have{FaceAccent} ended better... but several of his hostages made it{ThinkingA} out alive, and I have you{FaceAccent} to{NormalA} thank for that.
+
+#### 0b71ce9510-L? | GORDON | x2
+But you showed {FaceAccent}true courage that night, saved a lot of lives. I--and{FaceAccent} all{NormalA} those people--owe you a{BodyAccent} debt of gratitude.
+
+#### 2f578f992b | GORDON → BRUCE | x2
+These people all{BodyAccent} saw there’s more to {NormalA}Bruce Wayne than {BodyAccent}just the playboy. Public opinion{FaceAccent} is bound to swing around.
+
+#### 72513b3c82 | GORDON → BRUCE | x2
+Before long, you’ll be Gotham’s{FaceAccent} “golden boy” again{BodyAccent}.
+
+#### 6bb10b55e8 | GORDON → BRUCE | x2
+Most of our other public figures are a bit more... tarnished.
+
+#### f8196be073 | BRUCE → GORDON | x2
+These people have no idea who Bruce Wayne really is. But that’s about to change.
+
+#### 366d74def1 | GORDON → BRUCE | x2
+Well, I look forward to knowing the real Bruce Wayne as well.
+
+#### 13fb21071b | BRUCE → GORDON | x2
+I just want to help this city--in whatever way I can.
+
+#### d057a7e2d4-SM-LM | GORDON → BRUCE | x2
+I’m glad you came, Bruce.
+
+#### d026b0a614-SM-LM | GORDON → BRUCE | x2
+I’m glad you came.
+
+#### bd44e77e23-L? | GORDON | x2
+It’s good that you came.
+
+#### 1a9405543c-SM | GORDON | x2
+That can’t be easy. But I’m glad that you’re here.
+
+#### 97dc8ac5d1 | GORDON → BRUCE | x2
+It looks like Batman is a no-show.
+
+#### a2c54fc038 | GORDON → BRUCE | x2
+I’ll admit, I wasn’t incredibly{TiredB} optimistic he’d come.
+
+#### e9847e1f9e-SM | GORDON → BRUCE | x2
+But {BodyAccent}still... I was {SadA}hoping.
+
+#### 38ada7ac83 | BRUCE → GORDON | x2
+If Batman isn’t here, it’s because{ThinkingA} he’s more needed somewhere{BodyAccent} else.
+
+#### 5f888f9891 | BRUCE → GORDON | x2
+I wouldn’t take it {FaceAccent}personally.
+
+#### aa949ed8f1 | GORDON → BRUCE | x2
+Good advice when it comes to {FaceAccent}that guy.
+
+#### 9945b71005 | BRUCE → GORDON | x2
+So, does this mean you{SkepticalB} trust{FaceAccent} the Batman?
+
+#### 7bd21e1a66 | GORDON → BRUCE | x2
+Not to be my prom{FaceAccent} date, apparently...
+
+#### a0dd93bc81 | GORDON → BRUCE | x2
+But to fight{AngryA} for this city?{BodyAccent} Hell, yes.
+
+#### 4d964c9125 | BRUCE → GORDON | x2
+Too bad he’s not{FaceAccent} here.
+
+#### 3a203405e1 | BRUCE → GORDON | x2
+Wouldn’t{HappyA} mind meeting him.
+
+#### 1fc5c654ab | GORDON → BRUCE | x2
+Yeah?{FaceAccent} Hmph.
+
+#### 4aa1654e8c | GORDON → BRUCE | x2
+Well, he’s not{TiredA} much of a {FaceAccent}talker.
+
+#### 685f61469a-LM | GORDON → BRUCE | x2
+Though maybe you could trade{NormalA} notes on{BodyAccent}expensive cars.
+
+#### 0de4fbd9e8 | GORDON | x2
+That is one {FaceAccent}hell of a car...
+
+#### 2ac356ba08 | GORDON → BRUCE | x2
+One of those{NormalA} people is {BodyAccent}Bruce Wayne.
+
+#### 16a9b02f65 | GORDON → BRUCE | x2
+Bruce, {BodyAccent}come on up.
+
+#### 1e6d0cf164 | BRUCE → GORDON | x2
+Thank you, {FaceAccent}Commissioner Gordon.
+
+#### 40b8364ddf | BRUCE → GORDON | x2
+Tough act{AmusedB} to follow...{ConcernedA}
+
+#### dc9765f6c2-LM | BRUCE → GORDON | x2
+I’m here today to {SternA}not only show my support for{FaceAccent} our Acting Commissioner, but also for this{ThinkingA} city. Many of you have {BodyAccent}suffered terrible losses.
+
+#### 3604b6a110 | BRUCE | x2
+And some of those {ConcernedA}{FaceAccent}losses... [difficult] came at the hands of my {BodyAccent}own father, or at least as a{DisgustA} result of his {FaceAccent}actions.
+
+#### 73a2ec7cec | BRUCE | x2
+I want to take this opportunity to {FaceAccent}apologize...
+
+#### 2e8620dece | BRUCE | x2
+...to tell you how sorry{ThinkingB} I am for the pain the {FaceAccent}Wayne family has caused this{BodyAccent} community.
+
+#### 97ee375dc9-SM | BRUCE | x2
+And I’m sorry that I {BodyAccent}haven’t been a very{FaceAccent} good member of this community{DespairA} before now.
+
+#### 173325595a | BRUCE → GORDON | x2
+No matter how much I {FaceAccent}want to, I can’t change the{ThinkingB} past.
+
+#### 879ecc4521 | BRUCE → GORDON | x2
+Gotham’s so-called{FaceAccent} “golden age” was{DisgustA} built on corruption and lies, but that doesn’t mean that going forward, we can’t do things{BodyAccent}{SternA} differently.
+
+#### 718b7fabed | BRUCE → GORDON | x2
+We{AngryA} have{FaceAccent} to do things{SternA} differently.
+
+#### 3a567262a2 | BRUCE → GORDON | x2
+If my recent {AngryA}incident{FaceAccent} with Harvey Dent has shown me anything... it’s that I{ConcernedA} can no longer sit on the{BodyAccent} sidelines.
+
+#### 737a9fd160 | BRUCE → GORDON | x2
+If my recent{FaceAccent} incident{AngryA} with Oswald Cobblepot has shown me anything... it’s that I can no longer{DisgustA} hide from what my{BodyAccent} family did.
+
+#### 422703b7a2 | BRUCE → GORDON | x6
+My family’s wealth was{SadA} {FaceAccent}built on the suffering{BodyAccent} of others.
+
+#### f62efa7353 | BRUCE | x4
+I think it’s time to{SternA} {FaceAccent}repay that debt. I plan to use my resources to improve{ThinkingA} the city, and make the lives of its {FaceAccent}citizens better.
+
+#### 9ecfb53800 | BRUCE | x2
+Corruption{DisgustA} has ruled this city for{FaceAccent} far too long.
+
+#### bb98f7dcd7 | BRUCE | x2
+It’s time to{AngryA} put an {BodyAccent}end to that.
+
+#### 677b35a207 | BRUCE | x2
+I’ll do{SternA} everything in my power to ensure {FaceAccent}Gotham is freed from the spectres of {DisgustA}Carmine Falcone, Hamilton Hill, and my{ThinkingB} own {FaceAccent}father.
+
+#### e178825b08-SM | BRUCE → GORDON | x4
+I need to be more than just the{SkepticalB} shallow subject of gossip{FaceAccent} magazines. {SternA}I need to {BodyAccent}contribute.
+
+#### 15d4272db4 | BRUCE → COA03, RYDER | x4
+Whatever I can {FaceAccent}do for this city--{AngryA}I {FaceAccent}will.
+
+#### f1c6e6579a | BRUCE → COA03 | x2
+A closer{FaceAccent} alliance between the GCPD and {BodyAccent}Wayne Enterprises will provide{ThinkingA} the police force with the support, with the training and the {FaceAccent}equipment they need to make{SternA} Gotham safer than it ever has {FaceAccent} been before.
+
+#### 2e27ae3b91 | BRUCE → COA03 | x2
+Together, we can{FaceAccent} make a difference.
+
+#### 4931207afa | COA03 → BRUCE | x2
+Hey! {BodyAccent}Wayne!
+
+#### fc30593e6c | COA03 → BRUCE | x2
+Shut{AngryC} your lying{FaceAccent} mouth!
+
+#### a466acac28 | choice/UI → COA03 | x2
+Giving away much of my wealth.
+
+#### d85c1801f0 | choice/UI → GORDON | x2
+Partnering with the GCPD.
+
+#### 99af9d626e | BRUCE → GORDON | x2
+Thank you for having me, {AmusedA}{FaceAccent}Commissioner.
+
+#### 91090caf33-SM | GORDON → COA03 | x2
+To be honest, I was {FaceAccent}surprised{SadA} to get your call.
+
+#### 823111a001-SM | GORDON → COA03 | x2
+I was half-hoping {FaceAccent}Batman might show up too.
+
+#### f809bdd843 | GORDON → BRUCE | x2
+I wouldn’t {FaceAccent}mind knowing he was keeping an{TiredA} eye on things here.
+
+#### 96772af33d | GORDON → BRUCE | x2
+Not to{FaceAccent} mention... he makes one{ThinkingB} hell of an impression on people.
+
+#### fe7b2366de | GORDON → BRUCE | x2
+To play by my rules? {FaceAccent}No{TiredA}.
+
+#### b644cccafc | GORDON → BRUCE | x2
+But to fight for this city? Yes.
+
+#### bc079b8192 | BRUCE → GORDON | x2
+And to {BodyAccent}that end....
+
+#### 20e82ea6ff | BRUCE → GORDON | x2
+I will be giving up{FaceAccent} 90% of my shares in{BodyAccent} Wayne {SternA}Enterprises...
+
+#### 7fc33f195d | BRUCE | x2
+And {FaceAccent}donating them to a range of Gotham charities and{BodyAccent} philanthropic{AmusedA} non-profits, to address the{FaceAccent} serious social issues that plague the people of our fair city.
+
+#### 2ee4ae81a0 | BRUCE → GORDON | x2
+I intend to {ThinkingA}help those in{FaceAccent} need--whether it be people suffering from{BodyAccent} mental illness, or victims of abuse--and make sure they have the {SternA}care they{BodyAccent} deserve!
+
+#### e7088d7596 | BRUCE → GORDON | x2
+The GCPD will be the most{BodyAccent} technologically advanced police force in the {FaceAccent}country...
+
+#### 3afb63c8ca | BRUCE → GORDON | x2
+...because the people of {AmusedA}Gotham deserve to feel{FaceAccent} safe!
+
+#### f5db681484 | GORDON → BRUCE | x2
+Someone{FaceAccent} help Wayne!
+
+#### 1b020dd72e | GORDON → BRUCE | x2
+My {FaceAccent}God, he’s been{BodyAccent} shot!
+
+#### 26c7dc1703 | BRUCE → GORDON | x2
+This only shows how{BodyAccent} much we need to{SternA} stand{FaceAccent} together.
+
+#### 46ea781d3e | BRUCE → GORDON | x2
+We {AngryB}won’t let{FaceAccent} them win.
+
+#### aadfd0a182 | GORDON → BRUCE | x2
+Not while I have{AngryB} breath{FaceAccent} in my body.
+
+#### f7545632af-LM | GORDON → BRUCE | x4
+What happened was a{SadA} terrible tragedy... but {BodyAccent}lives were saved too--and{ThinkingA} I have you{FaceAccent} to thank for that.
+
+#### 2f676a2dc8 | GORDON → BRUCE | x2
+Wouldn’t have been the{FaceAccent} worst PR move.
+
+#### eed1756cf5 | GORDON → BRUCE | x2
+You’ll be Gotham’s favorite{FaceAccent} son again soon enough.
+
+#### 4afe660d42 | BRUCE → GORDON | x2
+I’ll be {ConcernedA}Gotham’s servant.
+
+#### 0278dce130 | BRUCE → GORDON | x4
+I’ll lead Gotham in its{FaceAccent}{SternA} fight for what is right.
+
+#### 65990e258c | choice/UI → GORDON | x2
+Shark bit me.
+
+#### 53bb55b0f0 | choice/UI, BRUCE → GORDON | x4
+Skiing accident.
+
+#### f1f5b967ef | GORDON → BRUCE | x2
+What, uh, happened to your ear?
+
+#### 76d6edf36e | BRUCE → GORDON | x2
+Tiger shark.  Diving in Belize.
+
+#### a76bbb1dc2 | GORDON → BRUCE | x4
+Lifestyles of the rich...
+
+#### 4465be4930 | GORDON → BRUCE | x2
+What’d you use, a chainsaw?
+
+#### 5417b811ab | BRUCE → GORDON | x2
+Skiing in Aspen.
+
+#### fab8930c14 | BRUCE → GORDON | x2
+Took a bad fall.
+
+#### 3d357d993e | GORDON → BRUCE | x2
+How’d you find the time to--?
+
+#### fc4490f958 | GORDON → BRUCE | x2
+You didn’t have it before...
+
+#### b67b169c31 | GORDON → BRUCE | x2
+Looks painful.
+
+#### 04de5fc21a | choice/UI → GORDON | x2
+Close haircut.
+
+#### 47345c749c | BRUCE → GORDON | x2
+My barber got a little too eager with the clippers.
+
+#### 71441e6700 | GORDON → BRUCE | x2
+I’ll say.
+
+#### e790507a5f-LM | GORDON → BRUCE | x2
+I can recommend a guy if you need a new one.
+
+#### 1aa48f9aa5 | GORDON → BRUCE | x2
+Ouch.
+
+#### 5031aa5ede | GORDON → BRUCE | x2
+All right, I don’t need to know.
+
+#### d2c535d998 | choice/UI → GORDON | x2
+I’ll show them the real Bruce Wayne.
+
+#### c417564f09 | choice/UI → GORDON | x2
+Show them the real Bruce Wayne.
+
+#### 5c14676886 | choice/UI → GORDON | x2
+No excuse for my father.
+
+#### b5e0a8cca9 | choice/UI → GORDON | x2
+I will be Gotham’s servant.
+
+#### 2302aa42f2-SM | choice/UI → GORDON | x2
+I was mugged.
+
+#### e1d898c0e7-SM | BRUCE → GORDON | x2
+I was mugged...
+
+#### 8e05f3e4e8 | GORDON → BRUCE | x2
+Perhaps you should consider a bodyguard.
+
+#### 844665172e | BRUCE → GORDON | x2
+I’ll be alright.
+
+#### a295c5a468 | GORDON → BRUCE | x2
+I know Harvey was a good friend of yours. A loss like that... I wouldn’t blame you for lying low.
+
+#### 74b8e21a5a | BRUCE → GORDON | x2
+Take responsibility for what my father did.
+
+#### e1ac7fd981 | choice/UI → GORDON | x2
+Want them to hear me out.
+
+#### 71ec005901 | choice/UI → GORDON | x2
+Time to own my family’s past.
+
+#### 90d6ac348e | choice/UI → GORDON | x2
+We can’t live in the past.
+
+#### 57f4fba732 | choice/UI | x2
+I’ll root out Gotham’s corruption.
+
+#### b25981fbad | BRUCE → GORDON | x2
+No matter the personal cost.
+
+#### 8560013f5e | BRUCE | x2
+I am ceasing all construction of the Wayne mental health facility.
+
+#### 8372262cbd | BRUCE | x2
+So that it
+
+#### 566fb360ea | BRUCE | x2
+Instead, I will be devoting my time and energy entirely to improving Arkham Asylum.
+
+#### c4640ac946 | BRUCE | x2
+I am ceasing construction on the Wayne mental health facility.
+
+#### b6c5b3417c | BRUCE → GORDON | x2
+Instead, I’ll be devoting all my resources to improving the existing Arkham Asylum.
+
+#### 2956f7996d | BRUCE → GORDON | x2
+It will be the most advanced mental health treatment facility in the country...
+
+#### 921828e4c4 | BRUCE → NEWSCASTER | x2
+...in keeping with the vision of its founders.
+
+#### fc9e62dfc8 | choice/UI → GORDON | x2
+A 21st Century Arkham Asylum.
+
+#### c679b8056b | choice/UI → NEWSCASTER | x2
+A better Arkham Asylum.
+
+#### c7856c15be | GORDON → NEWSCASTER | x2
+You’ll be back in their good books before long.
+
+#### 3d2cf48434 | choice/UI | x2
+A stronger Gotham Police.
+
+#### 7e70729cb6 | BRUCE | x2
+These people have no idea who Bruce Wayne really is... but that’s about to change.
+

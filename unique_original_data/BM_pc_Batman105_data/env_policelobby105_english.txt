@@ -1,0 +1,216 @@
+﻿#### cd77e173cf | GCPD03 → GORDON | x2
+Lieutenant Gordon. Gordon! Come in!
+
+#### 3e773db252 | GORDON → GCPD01 | x2
+The Commissioner, is he...
+
+#### a8f2eba6e1 | GORDON → BATMAN, GCPD01 | x4
+Goddamn it, no...
+
+#### 2e6d82cfca | GCPD01 → GORDON | x2
+In the lobby -- the Commissioner --
+
+#### a32daa170d | GCPD01 → GORDON, BATMAN | x5
+They can’t hold out much longer...
+
+#### f466a77c25-SM | BATMAN → GORDON | x4
+I’m sorry, Jim.
+
+#### 81cd67a94e | BATMAN → GORDON | x4
+Keep it together, Lieutenant. Your men will be looking to you to lead.
+
+#### 56db4b2274 | GORDON → BATMAN | x4
+This... this is not your fault.
+
+#### ff3920a0fc | BATMAN → GORDON | x2
+Believe me, Jim -- Dent will pay for this!
+
+#### 5bc85bdaeb | GORDON → BATMAN | x4
+It’s that bastard Dent’s!
+
+#### cf9f438f1f-SM | COMMISSIONER, GORDON, GROGAN → BATMAN | x6
+I was wrong, Batman...
+
+#### e3494235a5 | GORDON → BATMAN | x4
+I’m going to tear that bastard apart.
+
+#### 7990b60251 | GORDON → GCPD03 | x2
+Sergeant Kelly?! Report!
+
+#### 8c659a2037 | GCPD03 → GORDON | x2
+It’s the mayor! At Wayne Manor.
+
+#### c4d0e55743 | GORDON → GCPD03 | x4
+Kelly, get out of there!
+
+#### 6e95958cbb | GCPD03 → GORDON | x2
+Sir, I’m-
+
+#### 4d87ec6900 | HARVEY → GORDON | x2
+I’ll let the coin decide.
+
+#### 7cf5b60cd1 | GORDON → GCPD03 | x4
+Kelly! Kelly?! Damn it!!
+
+#### 4bc26b3c65 | GORDON → GCPD03, MONTOYA | x4
+It’s time to take back our city, people!
+
+#### ef304cd712 | GORDON → HARVEY, MONTOYA | x4
+I want every available uniform back on the streets right now!
+
+#### 881af40351 | GORDON → GCPD01 | x2
+Lock down City Hall.
+
+#### 5b8da965bc | GCPD01 → GORDON | x2
+Yessir!
+
+#### 006e10bb45 | GCPD03 → GORDON | x2
+He says... he says, cops show up, he’ll kill another.
+
+#### 2b35af74b5 | GORDON → GCPD01 | x4
+I can’t go out there like this.
+
+#### 8271afe925 | GORDON → GCPD03 | x4
+Not you too, old friend --
+
+#### 6326c5b681 | GORDON → GCPD03, BATMAN | x4
+Goddamn it, give me a moment!
+
+#### ef18401f5d-SM | GORDON → BATMAN | x2
+I’m sorry, Batman. I--  this is a blow.
+
+#### 1592b8d64f-SM | GORDON → GCPD03 | x2
+If you don’t take him down, I’ll tear him apart myself.
+
+#### 04fecca11e | GCPD03 → GORDON | x2
+He’s got hostages, and he’s killing them one by one until Bruce Wayne shows.
+
+#### 693de94bb7 | GCPD03 → GORDON | x2
+Batman shows up, he’ll kill em all...
+
+#### 2a3a877d79 | GCPD02 → GORDON | x2
+Hell yeah!
+
+#### 33e4b1ce5b | GORDON → GCPD03 | x2
+And get me Bruce Wayne on the phone.
+
+#### 14d1ec6bf2 | GORDON → GCPD03 | x2
+Arrest Harvey’s enforcers -- use extreme force if necessary.
+
+#### 1c6805f503 | MONTOYA → GORDON | x4
+Let’s do it!
+
+#### f2a6f8c690 | GORDON → MONTOYA | x2
+Grogan was a good man. A family man.
+
+#### 00980172fd | GORDON → COMMISSIONER | x4
+He devoted his life to the force.
+
+#### 8e70a685fb | GORDON → COMMISSIONER | x4
+It’s just not right...
+
+#### 0434a0c7d7 | COMMISSIONER, GORDON, GROGAN → GORDON, BATMAN | x6
+This city... needs you...
+
+#### 5c20acc3c3 | COMMISSIONER, GORDON, GROGAN → BATMAN, GROGAN, HARVEY | x6
+You have to...  stop Dent...
+
+#### ccd22f15eb-SM | BATMAN → GORDON | x4
+I’m sorry, Lieutenant.
+
+#### 884974e252 | BATMAN → GORDON | x4
+Keep it together, Jim. Your men will be looking to you to lead.
+
+#### 2d00b00655 | BATMAN → GORDON | x2
+Believe me, Lieutenant -- Dent will pay for this!
+
+#### bffed9b534-SM | choice/UI → GORDON | x2
+I’m sorry Gordon.
+
+#### d20ca6856f | choice/UI → GORDON | x2
+Be strong for your men.
+
+#### 0ba7222d70 | choice/UI → GORDON | x2
+Dent will pay.
+
+#### f200416772 | HARVEY → GROGAN | x2
+I’ll let the coin decide...
+
+#### 17c3ae453b | GCPD01 → GORDON | x3
+...in the lobby... the commissioner--
+
+#### 77bd21a6bd | GORDON → BATMAN | x2
+The commissioner, is he...
+
+#### 40c1d67081-SM | GORDON → BATMAN | x2
+I’m sorry, Batman. I--  This is a blow.
+
+#### f3c4bd772f | BATMAN → GORDON | x2
+Believe me, Lieutenant. Dent will pay for this!
+
+#### 131d7ed99e | BATMAN → GORDON | x2
+Believe me, Jim. Dent will pay for this!
+
+#### cdbee138c8-SM | GORDON → BATMAN | x2
+If you don’t take him down,{AngryB} I’ll tear him apart myself.
+
+#### 1d5d876cf9 | GORDON → BATMAN | x2
+Grogan was a good man. A family man...
+
+#### 0fa271e1a4 | GORDON | x2
+S-Sergeant Kelly?! Report!
+
+#### 5106cc6c1f | choice/UI → GORDON | x2
+I will avenge him!
+
+#### b1c10bd3f2 | GORDON → MONTOYA | x2
+Not you, too.
+
+#### 337ca27604 | BATMAN → GORDON | x3
+Sure you’re up for this?
+
+#### c3d8e370b4 | GORDON → GROGAN, BATMAN | x3
+I have to be!
+
+#### d037d5b7bc | GORDON → BATMAN | x3
+Lead the way.
+
+#### 79a530b3dc | BATMAN → GROGAN | x2
+Commissioner!
+
+#### 57740f83b0 | GORDON → BATMAN | x2
+Argh.
+
+#### 91a12adede-LM | BATMAN → GORDON | x2
+Get yourself to a hospital, Lieutenant.
+
+#### 6bf39003ef | GORDON → BATMAN | x2
+I know, I just--
+
+#### c5855ea90f-LM | BATMAN → GORDON | x2
+You need to get yourself patched up, Lieutenant.
+
+#### 1484ff726d | GORDON → BATMAN | x2
+Dammit, I know!
+
+#### e98117bd48 | GORDON → BATMAN | x2
+I want every officer in the vicinity of Wayne Manor on standby.
+
+#### 147b494eea | GORDON → BATMAN | x2
+No one makes a move, until we’re sure we can get the hostages out alive.
+
+#### b05b86759f | GORDON → BATMAN | x2
+And someone... find out where the hell Bruce Wayne is.
+
+#### 439e378b34 | choice/UI → GORDON | x2
+No time to grieve.
+
+#### 2e9fedba0c | choice/UI → GORDON | x2
+He gave his life for Gotham.
+
+#### 72892d775d | BATMAN → GORDON | x2
+giving his life for Gotham.
+
+#### 2bd305e096 | BATMAN → GORDON | x2
+He died a hero--
+

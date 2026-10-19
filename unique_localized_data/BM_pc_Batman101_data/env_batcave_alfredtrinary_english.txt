@@ -1,0 +1,411 @@
+﻿#### 99cf45e74c | BRUCE → ALFRED | x2
+We should leak this to the press, {SmugA}blow the roof off Falcone’s empire.
+
+#### 0103b247b5 | ALFRED → BRUCE | x2
+I suppose it comes down to {ThinkingB}who you want to help most.
+
+#### 89d789e19e | ALFRED → BRUCE | x2
+Or who you think could do the most good.
+
+#### 5ad310eac4 | BRUCE → ALFRED | x2
+She’ll get the story out the way it needs to be told.
+
+#### 09186df182 | BRUCE → ALFRED | x2
+Gordon needs this more than anyone.
+
+#### 8fe0ddf7b3 | BRUCE → ALFRED | x2
+The cops are on the frontlines of this war.
+
+#### cd7d15fe9b | BRUCE → ALFRED | x2
+Vicki showed faith in me. She cares about the truth.
+
+#### e68e3c388f | choice/UI | x2
+We take this to the police.
+
+#### 3dfe892dcb | choice/UI | x2
+We leak this to the press.
+
+#### 2a7ca16157 | choice/UI | x2
+I don’t want to hear it.
+
+#### c2c038f156-SM | choice/UI → ALFRED | x2
+I did what I had to do.
+
+#### ded37e9f41 | BATMAN, choice/UI → REGINA, ALFRED | x8
+He’s still alive.
+
+#### d425c23387-SM | BRUCE → ALFRED | x2
+I’ve heard this before, Alfred.
+
+#### 616e8da051-SM | BRUCE → ALFRED | x2
+Look, I did--
+
+#### 04e085aab3 | ALFRED → BRUCE | x2
+Well, my words passed straight through you.
+
+#### c52c6e18fa | ALFRED, LELAND, LUCIUS, GORDON → BRUCE, BATMAN, THOMPKINS | x26
+I see.
+
+#### f35a8b37c0 | ALFRED → BRUCE | x2
+Illegal arms dealing, {SurpriseA}drug running, {SurpriseB}mob hits, money laundering...
+
+#### b05630a536 | choice/UI → ALFRED | x2
+He’s taking down Falcone.
+
+#### 4ad929adc7 | choice/UI → ALFRED | x2
+They’re working together.
+
+#### ee6b841b57 | choice/UI → ALFRED | x2
+It’s some kind of blackmail.
+
+#### c868521150 | ALFRED → BRUCE | x2
+To win the election?
+
+#### a48fdba4fb | ALFRED → VICKI | x2
+That Gotham {ThinkingA}Gazette reporter, Ms. Vale,{HappyA} already offered you her support.
+
+#### 10d5c5ce96 | ALFRED → BRUCE | x2
+What about that reporter from the Gazette--
+
+#### 4402b2c5d6 | BRUCE, BATMAN → VICKI | x4
+Vicki.
+
+#### 0804536abf | ALFRED → BRUCE | x2
+Then again, {SkepticalA}Gordon is a stalwart professional.
+
+#### d713c234e4 | ALFRED → BRUCE | x8
+You’re taking this too far, Bruce.
+
+#### 782b2fb16b | ALFRED → BRUCE | x2
+You assume the persona of a bat, {ConcernedB}but you are not an animal.
+
+#### 980c9eaf40 | ALFRED | x2
+You nearly killed a man tonight.
+
+#### 592c43e467 | ALFRED | x2
+You beat that man half to death.
+
+#### 71cc9360d4 | ALFRED | x2
+Your parents didn’t raise you that way.
+
+#### ba12f221c2 | ALFRED | x2
+And neither did I.
+
+#### 14f6fd1d19 | ALFRED | x2
+There used to be a difference between Batman and the criminals he locked up in Arkham.
+
+#### a3460d631b | ALFRED | x2
+That difference is shrinking.
+
+#### e5770d45b7-LM | ALFRED → BRUCE | x2
+What you had to.
+
+#### c503e95f11 | ALFRED → BRUCE | x2
+We both know how this argument goes.
+
+#### 2482012174 | ALFRED → BRUCE | x2
+And in the hospital.
+
+#### f063991b42 | BRUCE → ALFRED | x2
+He’s still alive, isn’t he?
+
+#### 4a6b25a76c | ALFRED → BRUCE | x2
+You’re a good man, Bruce -- {ConcernedB}good just like your parents.
+
+#### d879cf0843 | choice/UI, GORDON → ALFRED, BATMAN | x6
+It’s not that easy.
+
+#### 86c738065b-SM | choice/UI → ALFRED | x2
+Trust me, I won’t.
+
+#### efa24564f7 | ALFRED → BRUCE | x2
+Don’t lose that.
+
+#### 61dc27fdcd | choice/UI → ALFRED | x2
+I can’t live up to them.
+
+#### 4414879787 | ALFRED → BRUCE | x2
+There is room for Bruce {ThinkingA}and Batman{ConcernedB} inside that suit.
+
+#### 4f2738bd69 | ALFRED → BRUCE | x2
+But at what cost?
+
+#### 0d050c0c39 | choice/UI → ALFRED | x2
+[Accept the tickets]
+
+#### 6525905312 | choice/UI → ALFRED | x2
+[Tear them up]
+
+#### 75c5aecce9 | ALFRED → BRUCE | x2
+You bury the person, Bruce,{ThinkingA} but you never bury the memory.
+
+#### 5ce9313ec2 | BRUCE → ALFRED | x2
+Hill could have been building a case {ThinkingA}against Falcone.
+
+#### e06adfdd47 | ALFRED → BRUCE | x2
+I’ll run a search... {SkepticalA}but so far I don’t.
+
+#### d569471e35 | ALFRED → VICKI | x2
+Yes, Ms. Vale. {HappyB}She could release this evidence through proper channels.
+
+#### 2d91b2bcb4 | ALFRED → BRUCE | x2
+A wise decision, sir.
+
+#### b7f6812a11 | ALFRED → BRUCE | x2
+We’ll attack Falcone on two fronts tonight.
+
+#### 029bad42ec-SM | BRUCE → ALFRED | x2
+I won’t forget.
+
+#### 2fe143378a | ALFRED → BRUCE | x2
+Neither will I.
+
+#### 7f821d778e | BRUCE → ALFRED | x2
+I have to move on.
+
+#### cc6be2d575-SM | BRUCE → ALFRED | x2
+Trust me, I won’t lose my way.
+
+#### 3ec49bbea7-SM | BRUCE → ALFRED | x2
+I could never match that.
+
+#### 7680e0ea79-LM | ALFRED → BRUCE | x2
+You won’t.
+
+#### 118a329fcb | ALFRED → BRUCE | x2
+You will far surpass them.
+
+#### 707b519186 | BRUCE → ALFRED | x2
+Who my parents were... {SadA}the life they led...
+
+#### f943f2c9f2 | BRUCE → ALFRED | x2
+Gotham revered them.
+
+#### 71d6658a03-LM | ALFRED → BRUCE | x2
+I suppose you did whatever you thought was necessary.
+
+#### 4ede0e6bae | BRUCE → ALFRED | x2
+It would bolster his campaign{AmusedA} if he eliminated Gotham’s most notorious crime family.
+
+#### 830e0b670e | BRUCE → ALFRED | x2
+This is a police matter.
+
+#### 672f24e3db | ALFRED → BRUCE | x2
+Gordon through the police.
+
+#### f1d4764b1e | ALFRED → BRUCE | x2
+Vicki through the media.
+
+#### fd56b8d549 | ALFRED → BRUCE | x2
+And Batman...
+
+#### 4f8bc14837 | BRUCE → ALFRED | x2
+By any means necessary.
+
+#### 45518828a6 | BRUCE → ALFRED | x2
+Whatever Falcone is planning... {AngryA}it ends tonight.
+
+#### 156f60939c | ALFRED → BRUCE | x2
+Next time it might be the morgue.
+
+#### 4fb1de7b16 | ALFRED → BRUCE | x2
+Your parents didn’t raise you this way.
+
+#### fae2741676 | ALFRED → BRUCE | x2
+Especially now, during this preposterous attack on your family, you must show the world the true nature of a Wayne.
+
+#### bd751594f4 | BRUCE → ALFRED | x2
+Giving everything to this city and then being murdered for it?
+
+#### a7c0774f5c | ALFRED → BRUCE | x4
+My thoughts exactly every time you leave this cave.
+
+#### 27ccac564f | ALFRED → BRUCE | x4
+That is your gift and your curse.
+
+#### b7770de678-SM | BRUCE → ALFRED | x2
+Sometimes I wish I could.
+
+#### 7f6e7e52a7 | ALFRED → BRUCE | x2
+Being Batman can allow you to turn back the tide of treachery that’s reached this city’s shores... or drown you in its sorrow.
+
+#### d2e0b64e48-LM | ALFRED → BRUCE | x2
+When you doubt your fate, remember why you started all this.
+
+#### 2aeb3e6831 | ALFRED → BRUCE | x2
+Remember that boy in the alley.
+
+#### d7e6badf76 | BRUCE → ALFRED | x2
+I can’t let their memory hold me back anymore.
+
+#### af1f3c6252 | BRUCE → ALFRED | x2
+Sometimes... this job requires hard decisions.
+
+#### 25e918b8b8 | ALFRED → BRUCE | x2
+You’re the right man to make them.
+
+#### 2b68772423 | ALFRED → BRUCE | x2
+In fact, I think you’re the only one who can.
+
+#### ed6b604133 | ALFRED → BRUCE | x2
+It’s quite understandable to stray from the path now and again.
+
+#### 6ceb0da6c7 | ALFRED | x2
+So long as you can find your way back.
+
+#### 74119441f6 | ALFRED → BRUCE | x2
+Well... back into the fray again.
+
+#### 54a3b62dfe | ALFRED → BRUCE | x2
+Well... work to the rescue, it seems.
+
+#### afc719d0d2 | ALFRED → BRUCE | x2
+Shall we?
+
+#### c03b4e1698 | BRUCE → ALFRED | x2
+Looks like that egg finally cracked.
+
+#### e308bbef05-SM | BRUCE → ALFRED | x2
+More than I could’ve imagined...
+
+#### 2ac537fb28 | BRUCE → ALFRED | x2
+This is a complete manifest of Carmine Falcone’s criminal organization.
+
+#### febb09ddec | ALFRED → BRUCE | x2
+What in the world was Hill doing with all this?
+
+#### b06c868fe5 | ALFRED → BRUCE | x2
+That would explain why he’s never made a move against him.
+
+#### 6db005f867 | ALFRED → BRUCE | x2
+It’s too complex, too entrenched.
+
+#### 31974cc232 | ALFRED | x2
+Falcone’s been involved in everything.
+
+#### 3b3c680239 | ALFRED | x2
+And it goes back years!
+
+#### d3d581fa85 | ALFRED | x2
+Or perhaps Ms. Vale--the press can be rather effective in such situations.
+
+#### b8c4065dec | ALFRED → BRUCE | x2
+You can’t do this alone, Bruce, there are too many moving pieces... even for Batman.
+
+#### 44a61d1f02 | ALFRED → BRUCE | x2
+Where would we possibly begin to dismantle it?
+
+#### 7dcc3c50ea | ALFRED → BRUCE | x2
+Breaking it down piece by piece... that could take years!
+
+#### da1ba8ef78 | ALFRED → BRUCE | x2
+And there’s only one cop we can trust to handle this evidence correctly.
+
+#### ea1e02dd15 | ALFRED → BRUCE | x2
+Such a fine thing shouldn’t go to waste.
+
+#### 6b56ec9d89 | ALFRED → BRUCE | x2
+It is a rare gift.
+
+#### 4fbfe3fa50 | BRUCE → ALFRED | x2
+I haven’t tried yet.
+
+#### 50edd899c0 | ALFRED → BRUCE | x2
+He’s a spider, Bruce. Eyes everywhere, a dense web of goons poised to trap you.
+
+#### 6a65683a4f | ALFRED → BRUCE | x2
+All the while draining your resources.
+
+#### 8ecf509601 | ALFRED → BRUCE | x2
+Spreading you thin.
+
+#### 0d74240048 | ALFRED → BRUCE | x2
+No one has *ever* managed to bring him down.
+
+#### db80e97ce0 | choice/UI → ALFRED | x2
+JAMES GORDON
+
+#### dacbf598d1 | choice/UI → ALFRED | x4
+VICKI VALE
+
+#### 1c6af34f11 | choice/UI → ALFRED, NEWSCASTER | x12
+Bat Computer
+
+#### a201580172 | BRUCE → ALFRED | x2
+This is it, Alfred.
+
+#### 7e36c34401-SM | BRUCE → ALFRED | x2
+Every illegal operation, every mafia connection... this is what I need.
+
+#### 5fc0dada51 | BRUCE → ALFRED | x2
+That night... that alleyway... it made me who I am... I can’t get it out of my head.
+
+#### ada8128c46 | BRUCE | x2
+And inside Mayor Hill was hiding...
+
+#### 3c0bcd9203 | BRUCE | x2
+This is an insurance policy.
+
+#### db0d041bc8 | BRUCE | x2
+Sure as hell better than any bodyguard.
+
+#### 4cb3c98566 | BRUCE | x2
+Do you see dad’s name on any of these documents?
+
+#### e1a66af64d | BRUCE | x2
+Hill could expose Falcone if he didn’t play along.
+
+#### c6a147e165 | BRUCE | x2
+With this proof, we can finally knock out Falcone’s organization.
+
+#### 8f12d59a43 | BRUCE | x2
+She might just be the catalyst we need.
+
+#### f1f1f87345 | BRUCE | x4
+He could mobilize the entire police force against Falcone.
+
+#### 224283969b | BRUCE | x2
+The cops are on the frontlines against Falcone.
+
+#### 1edbbcf1a6 | BRUCE → ALFRED | x2
+Well, Lieutenant Gordon knows how to deal with criminals.
+
+#### 5daa6dfccc | BRUCE → ALFRED | x2
+Whatever Falcone is planning to do with those chemicals... it ends now.
+
+#### 51a01921bc | BRUCE → ALFRED | x2
+Whatever Falcone is planning... it ends now.
+
+#### 2f81a22de0 | choice/UI → ALFRED, NEWSCASTER, LUCIUS | x22
+Access
+
+#### f6af6efd3a | choice/UI | x2
+<<id:377652221>>Rogue’s Gallery
+
+#### b5dca381d6 | choice/UI → ALFRED, COMMISSIONER | x14
+Gotham Feed
+
+#### b6c33e6964 | choice/UI → GORDON | x4
+Gordon
+
+#### 4614e4e9fa | choice/UI → ALFRED | x2
+Give Data
+
+#### 9cdb0f6b34 | choice/UI → ALFRED | x2
+I deal with this alone.
+
+#### bab93afa07 | ALFRED → BRUCE | x2
+I don’t mean to be a doddering old fool on the subject.
+
+#### f1ee394a56 | ALFRED → BRUCE | x2
+There are so few left in this city who st
+
+#### 0ba17dc8ab | ALFRED | x2
+But, as a friend, the burden of advise falls on me.
+
+#### f655a7a040 | choice/UI → ALFRED | x2
+<<id:377652231>><<id:0>>Codex
+
+#### 2c5d5b8867 | choice/UI → ALFRED, GROGAN | x16
+Codex
+

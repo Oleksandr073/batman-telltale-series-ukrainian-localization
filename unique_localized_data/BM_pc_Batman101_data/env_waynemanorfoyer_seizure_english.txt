@@ -1,0 +1,525 @@
+﻿#### a62c1bbdef | choice/UI → ALFRED | x2
+I didn’t do anything!
+
+#### e88e2d6258 | ALFRED → BRUCE | x8
+Of course, sir.
+
+#### 52d2bd6533 | BRUCE → ALFRED | x2
+So you just do whatever Mayor Hill says?
+
+#### eaaaaa5ddf | BRUCE → ALFRED | x2
+And what do you expect to find?
+
+#### d4ec28c07f | BRUCE, choice/UI → ALFRED, VICKI | x4
+Who authorized this?
+
+#### cd8215a011 | BRUCE, choice/UI → THOMAS | x4
+And if I refuse?
+
+#### e142347bac-SM | BRUCE → VICKI | x2
+I’m sorry, Are you arresting me?
+
+#### 514af9bf03 | BRUCE → VICKI | x2
+There’s gotta be a mistake.
+
+#### 1053bcb2a9 | BRUCE → GORDON | x2
+I understand. You’re just doing your job, Lieutenant.
+
+#### cb0866dce4 | VICKI → BRUCE | x2
+I... I didn’t mean to interrupt, but...
+
+#### ceaec28204 | choice/UI → VICKI | x2
+Go ahead, do your job.
+
+#### cccc00a1db-SM | choice/UI → VICKI | x2
+I’m busy right now.
+
+#### c55820706b | choice/UI → VICKI | x2
+Stay out of this.
+
+#### 7bfb07f759 | choice/UI → VICKI | x2
+You keep showing up uninvited.
+
+#### 704de53a00 | choice/UI | x2
+And you do what he says.
+
+#### f7c45bcf42 | choice/UI | x2
+I’m friends with the D.A.
+
+#### 9de82ac7f0 | choice/UI | x2
+Mayor Hill’s corrupt.
+
+#### 3c679791b6 | choice/UI | x2
+This is politically motivated.
+
+#### 100c6eced6 | choice/UI | x2
+That story is pure fiction.
+
+#### b5eab63fd6 | choice/UI → MARTHA | x2
+Justice will be served.
+
+#### 996cdd7073 | choice/UI → MARTHA | x2
+Falcone is behind this.
+
+#### 56f893dc85 | choice/UI → MARTHA | x2
+It’s a media frenzy.
+
+#### 79b90cf2fc | BRUCE, choice/UI → VICKI | x4
+What’s your angle?
+
+#### ed14c199b9 | MARTHA → BRUCE | x10
+Bruce? Bruce?
+
+#### df81fc34c1 | THOMAS → BRUCE, GORDON | x22
+Bruce, stay back!
+
+#### 7a4434056b | GORDON → BRUCE | x2
+It’s not personal.
+
+#### f50968ab4d-SM | GORDON → MARTHA | x2
+I had the boys turn their lights off and keep a low profile.
+
+#### 938a5fd632 | GORDON → THOMAS | x2
+Hopefully we can do our job and be{FaceAccent} outta here ASAP.
+
+#### fa73a9ea76-SM | GORDON → BRUCE | x2
+I meant what I said about{FaceAccent}{BodyAccent} “not personal.“
+
+#### 0f95eb709f | GORDON → BRUCE | x2
+We only want files {NormalA}related to {BodyAccent}Wayne Enterprises.
+
+#### f378f007df | BRUCE → GORDON | x2
+Well, then you should go to Wayne Enterprises.
+
+#### d916b4a25e | GORDON → BRUCE | x2
+I have my people searching there too.
+
+#### e3f7eda8b3 | GORDON → BRUCE | x2
+I can’t comment.
+
+#### 6e360b21a5 | GORDON → BRUCE | x2
+That’s for our analysts{BodyAccent} back at the precinct to figure out.
+
+#### 67fc587ede | GORDON | x2
+I know you and the {FaceAccent}D.A. are {BodyAccent}buddy-buddy,{FaceAccent} but this one came from {BodyAccent}the top.
+
+#### 75d04d796d | GORDON | x2
+But orders are orders,{FaceAccent}{BodyAccent} and this one comes from the top.
+
+#### 2389d6a4e6 | GORDON → MARTHA | x2
+Mayor Hill signed off on {AngryA}this himself.
+
+#### 17cec9fbf8 | GORDON → MARTHA | x2
+Hill and I... {FaceAccent}{BodyAccent}we have a vested interest to keep things{BodyAccent} professional.
+
+#### 170e6674b7 | GORDON → MARTHA | x2
+Doesn’t mean I like the words {BodyAccent}{FaceAccent}whistling through his {FaceAccent}windpipes.
+
+#### 0b632ef4ca | MARTHA → GORDON | x2
+Take whatever you want!
+
+#### 03a845116c | BRUCE → GORDON | x2
+It’s not a problem,{SadA} really.
+
+#### bfb6ae80fc | choice/UI, BRUCE → GORDON, JOKER | x4
+I appreciate it.
+
+#### b993a49b65 | ALFRED → VICKI | x2
+Then find out why he{FaceAccent} didn’t.
+
+#### d01658881c | VICKI → GORDON, BRUCE | x4
+Sorry, {FaceAccent}I lose the{FaceAccent} {BodyAccent}brain-to-mouth {FaceAccent}filter sometimes.
+
+#### 10e2d5a424 | GORDON → VICKI | x2
+We’re only collecting evidence today.
+
+#### e7d776e47f | GORDON → VICKI | x2
+The warrant covers your place,{FaceAccent} pardon me,{BodyAccent} {FaceAccent}places of residence.
+
+#### 924bca790d | GORDON → VICKI | x2
+For {FaceAccent}Gotham’s sake.
+
+#### ef90120c1d | VICKI → GORDON | x2
+And it’s all hearsay. {ThinkingA}Flimsy sources.
+
+#### 415efaae1e | VICKI → GORDON | x2
+There isn’t a shred of hard proof.
+
+#### 4ae99a5556 | VICKI → GORDON | x2
+The Gazette received this supposed{BodyAccent} {FaceAccent}“evidence” like every other media outlet.
+
+#### 1eaf97a71e | GORDON → VICKI | x2
+Then we might have to make a scene, and {NormalA}that’s the{BodyAccent} last thing I want.
+
+#### 3a7dd74948 | BRUCE → VICKI | x2
+I enjoy my privacy.
+
+#### fe55398447 | VICKI → BRUCE | x2
+It’s difficult to book a {FaceAccent}meeting{BodyAccent} with you.
+
+#### 3c3c8ddbe0 | VICKI → GORDON | x2
+Enjoyed.{BodyAccent}
+
+#### 181220e7bd-SF | VICKI → BRUCE | x2
+I’m sorry,{BodyAccent} but if the press has {NormalA}{FaceAccent}their way... {SadA}you’re not gonna have any for a{BodyAccent} while.
+
+#### b9e8da68e3 | BRUCE → VICKI | x2
+This is the second time you’ve shown up {FaceAccent}uninvited.
+
+#### fbdb264650 | GORDON → VICKI | x2
+It’s a valid warrant,{AngryA}{BodyAccent} I gotta serve it.
+
+#### 051255545a | BRUCE → VICKI | x2
+The D.A. is going to hear about this.
+
+#### 278875e3fa | VICKI → BRUCE | x2
+You don’t need to put up a cover.
+
+#### 92a8434f61 | BRUCE → GORDON | x2
+Who let you in?
+
+#### 23dddbca5d | BRUCE → VICKI | x2
+Harvey’s the {FaceAccent}District Attorney, {FaceAccent}{BodyAccent}he should’ve told me this was coming.
+
+#### da0e935136 | VICKI → BRUCE | x2
+The public’s fascinated with you, Mr. Wayne.
+
+#### 921324dcd0 | VICKI → BRUCE | x2
+A scandal like this is a reporter’s dream.
+
+#### d8a1e2e2e6 | choice/UI → VICKI | x2
+No problem at all.
+
+#### 186cc9e649 | choice/UI → VICKI | x2
+What do you expect to find?
+
+#### d01d900383 | choice/UI → THOMAS | x2
+Photo
+
+#### fe1e4a1211 | THOMAS → GORDON | x2
+You.. you don’t have to do this!
+
+#### 02443fce31 | BRUCE → ALFRED | x2
+Alfred, keep an eye on them. Make sure they take only what they have to.
+
+#### b8639dbf73-SM | GORDON → BRUCE | x2
+I’m afraid we can’t, Mr. Wayne.
+
+#### 38c4f9017e | BRUCE → GORDON | x2
+Says who?
+
+#### bb74a5cdb6 | BRUCE → GORDON | x2
+Hey! Hey, careful!
+
+#### b52c276be2 | BRUCE → GORDON | x2
+Put it back!
+
+#### 68ba47ad36 | GORDON → BRUCE | x2
+This warrant.
+
+#### e0397284e1 | GORDON → BRUCE | x2
+Maybe we made a mistake.
+
+#### 3e6f2f4b59 | BRUCE → GORDON | x2
+I didn’t do anything.
+
+#### f05670adf4 | GORDON → BRUCE | x2
+Every battle’s uphill, in the rain, with skates on.
+
+#### c4ae31c53e | GORDON → BRUCE | x2
+Tryin’ to. It’s hard to be a cop in this city.
+
+#### 62ee28fa4b | GORDON → BRUCE | x2
+And any companies you own.
+
+#### e0deb2dad3 | GORDON | x2
+Your holdings are... extensive.
+
+#### 63c0898b00 | GORDON | x2
+I’d hate to be the guy doin’ your taxes.
+
+#### 9cf58f3eb2 | GORDON | x2
+And I shoot.
+
+#### 69f02639d1 | GORDON | x2
+As long as he’s mayor, he calls the shots.
+
+#### 7b1a614401 | GORDON | x2
+Unless Harvey becomes mayor, there’s not much he can do.
+
+#### 8a48462fcd | GORDON | x2
+Can’t smile this thing to death.
+
+#### cca07937e0 | GORDON | x2
+I dunno how your neck ended up on Mayor Hill’s chopping block, but here we are.
+
+#### 21fdc3b83d | GORDON | x2
+That’d be a real shame. Mr. Dent’s the only D.A. I ever trusted to make a conviction stick.
+
+#### b1f6fdee50 | GORDON → BRUCE | x4
+That’s what we’re here to find out.
+
+#### a02e905b86-SM | GORDON → BRUCE | x2
+Not unless I’m forced to.
+
+#### f39371345b-LM | GORDON → BRUCE | x2
+Maybe you did.
+
+#### 3073a212fe | BRUCE → GORDON | x2
+Well Hill has a history of making his opposition... disappear.
+
+#### 40559787d2 | GORDON → BRUCE | x2
+Rumors and allegations, Mr. Wayne. That’s all.
+
+#### 1d4a730b14-SM | GORDON → BRUCE | x2
+But if they become fact, I’ll handcuff him myself same as any other crook.
+
+#### 6c11d3cb02-LM | GORDON → BRUCE | x2
+So consider yourself served.
+
+#### e625433e48 | BRUCE → GORDON | x2
+Hill knows if I go down, Harvey’s campaign goes down too.
+
+#### 743f3f07b2-LF | GORDON → VICKI | x2
+For all our sakes, I pray you’ve got nothing to hide.
+
+#### f41db14cf2 | GORDON → BRUCE | x2
+As mayor, I think he can finally turn things around for us.
+
+#### 7d0a47f7c1 | VICKI → BRUCE | x2
+After that dogpile of a press conference...
+
+#### dddbb30df2 | VICKI, HARVEY, LUCIUS → BRUCE, GORDON | x6
+I just...
+
+#### 883ac47122 | BRUCE → VICKI | x2
+Ms. Vale.
+
+#### 04d6c74157-SF-LM | VICKI → BRUCE | x2
+I thought you could use someone not tearing out your jugular.
+
+#### 6a02a36071-SF | VICKI → BRUCE | x2
+I saw what those assholes did here.
+
+#### 2b942a44df | BRUCE → VICKI | x2
+I’m a bit busy right now, Ms. Vale, as you can see Gotham’s finest... not the best house guests.
+
+#### e7b443c24e | BRUCE → VICKI | x2
+Gotham’s finest are lousy house guests.
+
+#### 337a7847ae | VICKI → BRUCE | x2
+Yeah, I can see that. [scoffs]Assholes.
+
+#### 1cf12d5932 | VICKI → BRUCE | x2
+Past tense.
+
+#### 5c72fb3da0 | VICKI | x2
+It’s a joke.
+
+#### 6cdff664a9 | VICKI | x2
+It’s disgusting the way they blindsided you with that BS about your family.
+
+#### 62b77c221f | VICKI | x2
+Not all reporters just want a headline.
+
+#### 27bff97caa | VICKI → BRUCE | x2
+Some of us are old fashioned--I still want the truth.
+
+#### 9d5b7f2c02 | VICKI → BRUCE | x2
+You deserve better treatment than this.
+
+#### f7ea3b34be | VICKI → BRUCE | x2
+The Waynes are synonymous with Gotham.
+
+#### 265f33ffe7 | BRUCE → VICKI | x2
+Stay out of this, Ms. Vale.
+
+#### 265c5ff612 | VICKI → BRUCE | x2
+I want to restore their legacy.
+
+#### 8114d4c4e5 | BRUCE → VICKI | x2
+There’re enough reporters eviscerating my family’s legacy.
+
+#### 81755d075f | BRUCE → VICKI | x2
+Trying to say, “I’m the good guy here”--
+
+#### 4f7ddbd6ac | BRUCE → VICKI | x2
+I appreciate the offer, Ms. Vale.
+
+#### 3d241ad0cd | VICKI → BRUCE | x2
+Yeah, instantly makes you look bad.
+
+#### 1f14a7e849 | VICKI → BRUCE | x2
+A scandal, surrounding a beloved family like yours, captures the public’s attention.
+
+#### 0af04b9e39 | VICKI → BRUCE | x2
+I get it... so let me say it for you.
+
+#### 0ac75b9032 | VICKI → BRUCE | x2
+Obviously, the sender didn’t identify themselves.
+
+#### ca5bae3f8b | BRUCE → VICKI | x2
+Someone is going after my family, after me.
+
+#### 19a6f5e2ac | BRUCE → VICKI | x2
+Still, allegations like this... they don’t magically appear.
+
+#### ddf7bf3c78 | VICKI → BRUCE | x2
+We have no idea who it could be.
+
+#### b4ffae4cd6 | VICKI → BRUCE | x2
+The press saw the fumble, they grabbed the ball and ran.
+
+#### 81ecac9dc4 | VICKI → BRUCE | x2
+Not every day you get to go after a Wayne.
+
+#### 0b4e32b606 | VICKI → BRUCE | x2
+No one’s even done their due diligence on this yet.
+
+#### ee66e7ffb7 | VICKI → BRUCE | x2
+You’re a kingmaker, Mr. Wayne, and Harvey Dent is Gotham’s knight in shining armor just waiting for the crown.
+
+#### ae19b7abc0 | BRUCE → VICKI | x2
+Carmine Falcone wants me to be in his pocket.
+
+#### 04817b67b3 | VICKI → BRUCE | x2
+Yeah well, maybe he thinks putting a little fear in you will make you jump.
+
+#### 029df29752 | BRUCE → VICKI | x2
+He crashed Harvey’s fundraiser and pretty much said, “hop in.“
+
+#### a1f1d8b902 | BRUCE → VICKI | x2
+It won’t.
+
+#### d9cc0fe7eb | BRUCE → VICKI | x2
+First guess: nosey reporters.
+
+#### 7bde7e4f39 | VICKI → BRUCE | x2
+Then go on the record--right here, right now--and stop it.
+
+#### 2b07d0ebbd | VICKI → BRUCE | x2
+By tonight, this scandal will be broadcast to every screen in Gotham. Everyone will be talking about it.
+
+#### 94bb3a0aa8 | BRUCE → VICKI | x2
+This isn’t my first pass through the rumor mill--I know the damage it can do.
+
+#### 1ee82356e8 | choice/UI → VICKI | x2
+My family is innocent.
+
+#### c3d65d78f7 | VICKI → BRUCE | x6
+That’s exactly what the people of Gotham need to hear.
+
+#### 73de526dc7 | VICKI → BRUCE | x2
+But Bruce--
+
+#### ebf4a0ee27 | BRUCE → VICKI | x2
+Until I know what’s really going on, I’m not speaking to the press again.
+
+#### d72424d87c | BRUCE → VICKI | x2
+Turn it off, Ms. Vale.
+
+#### 080876f142-LM | VICKI → BRUCE | x2
+You need to get out ahead of this.
+
+#### c7dd246830 | VICKI → BRUCE | x4
+Otherwise people are gonna fill in the blanks, and it won’t be in your favor.
+
+#### 1cbb5cc5a0-LM | VICKI → BRUCE | x4
+You gotta help yourself out here, Mr. Wayne.
+
+#### 1bd7e8db95 | ALFRED → VICKI | x2
+I hate to admit it... but everyone smells smoke. A fire is heading this way.
+
+#### 03a4b8068a | BRUCE → VICKI | x2
+Batman has made plenty of enemies, but my family? We’ve done nothing but support Gotham, even in its darkest days.
+
+#### 38f3801937 | ALFRED → BRUCE | x2
+All this.... on the anniversary of your parent’s...
+
+#### b961881b53 | choice/UI → ALFRED | x2
+[Give Quote]
+
+#### 218becef63 | BRUCE → VICKI | x2
+On the record then.
+
+#### fd31a758a7-LM | VICKI → BRUCE | x2
+Whenever you’re ready.
+
+#### 73b0e5a963 | BRUCE → VICKI | x2
+Do you think is a coincidence?
+
+#### cd2e6f523f | GORDON → VICKI | x2
+I’m boring that way.
+
+#### 4638e2bdb4-SF | VICKI → BRUCE | x2
+I saw what those jerks did here.
+
+#### 46d8be7404 | VICKI → BRUCE | x2
+Jerks.
+
+#### be0fedd118 | VICKI → GORDON | x2
+I can help you get the right kind of attention.
+
+#### 2fe00ead17 | VICKI → BRUCE | x2
+You’re the first target on Hill’s list.
+
+#### 5fdb22bf81 | VICKI → BRUCE | x2
+Your side is what matters, not wild speculation.
+
+#### ed665a7705 | VICKI → BRUCE | x2
+You’re going to beat this, Bruce.
+
+#### 98ec2e7f70 | VICKI → BRUCE | x2
+Through my connections at the Gazette, I have all kinds of access.
+
+#### dd480a1535-LM | VICKI → BRUCE | x2
+I can dig up whatever you need to fight this.
+
+#### d21178b8e3 | VICKI → BRUCE | x2
+The Waynes always come out on top.
+
+#### 9fd6ad81e2 | BRUCE → VICKI | x2
+Goodbye, Ms. Vale.
+
+#### 689a16c765 | BRUCE → VICKI | x2
+Hill wants me out of the picture because with my backing Harvey wins in a landslide.
+
+#### 8604aafc9a | BRUCE → VICKI | x2
+All signs point to Hill.
+
+#### 1b99435bf7 | VICKI → BRUCE | x2
+The cops ransacking your house--*that’s* the problem.
+
+#### 573a6068c7 | VICKI → BRUCE | x2
+Then you’re a much more level-headed person than me.
+
+#### 1c83325cd1 | VICKI → BRUCE | x2
+If my house were being ransacked by the cops...
+
+#### 7fc3c0ae47 | VICKI → BRUCE | x2
+Listen, Bruce...
+
+#### 48a1e0a93a-L? | VICKI | x2
+This might be a worse clean up than that party you had.
+
+#### 38c8e1a7e5-L? | VICKI | x2
+You’ve had too many unwelcome guests
+
+#### 206faa610e | VICKI | x2
+Yeah, the kind who steal things.
+
+#### 43052d00d0-SF | VICKI → BRUCE | x2
+Sorry I let myself in...
+
+#### e31e581f74 | VICKI → BRUCE | x2
+Bruce, first the Mayor’s office, now Wayne manor...
+
+#### b3d1ca41a6 | VICKI → BRUCE | x2
+Gotham continues its streak of break-ins.
+
+#### c24164633e | BRUCE → VICKI | x2
+Really going for the record, huh?
+
+#### 62fb7d8c04 | VICKI → BRUCE | x2
+Another day in Gotham, another
+

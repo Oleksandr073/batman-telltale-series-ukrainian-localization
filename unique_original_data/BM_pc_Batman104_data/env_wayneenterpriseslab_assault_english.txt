@@ -1,0 +1,513 @@
+﻿#### b78a9302a0 | choice/UI | x6
+Attacked Dock Shooter in 101
+
+#### 7ab94a647a | choice/UI | x6
+Intimadetd Hill in 102
+
+#### 6b092fbfe3 | BATMAN → LUCIUS | x4
+Lucius- are you there?
+
+#### e5422310db-SM | LUCIUS → BATMAN | x4
+Be warned, though, the drone patrolling the hallways are extremely dangerous, I would suggest attempting to avoid them, if possible.
+
+#### 808c3cb7be | LUCIUS → BATMAN | x4
+No, the other way.
+
+#### ff5ff57cc1-SM-LM | PENGUIN → LUCIUS | x2
+Figured when you found out I was putting this hardware to real practical use- for a change- you’d try to have something high and mighty and superheroic to say about it-
+
+#### e78426b7b2 | PENGUIN → LUCIUS | x2
+Oof!
+
+#### f8e87254e7 | LUCIUS → PENGUIN | x2
+Batman. The device Penguin’s using to hack the network... it’s nearby!
+
+#### 22f4610616 | BATMAN → PENGUIN | x2
+...the Black Box. It’s here.
+
+#### 72fd9002f7-SM | PENGUIN → BATMAN | x2
+I’ve worked too hard for this-!
+
+#### 496e8cc19c | PENGUIN → BATMAN | x2
+I’m finally at the top and nobody’s gonna knock me back down.
+
+#### 11b1f0df7e | PENGUIN → BATMAN | x4
+Not even you!
+
+#### 685cddf9e9 | BATMAN → OSWALD | x2
+You’re still just Lady Arkham’s stooge. You’re not at the top of anything, Cobblepot.
+
+#### 85f4a39b36 | BATMAN → PENGUIN | x2
+And you’re a fool if you think otherwise.
+
+#### 4d2c7a84e7 | PENGUIN → BATMAN | x2
+She GAVE me a multi-national corporation for letting Bruce Wayne take a few swings at me.
+
+#### 5c0c0d4aab | PENGUIN → BATMAN | x2
+She wasn’t one of the ones who took everything and left me with nothing!
+
+#### c85777877b | BATMAN → OSWALD | x2
+I am stronger than you, Cobblepot.
+
+#### bfb67495ea-LM | BATMAN → PENGUIN | x2
+You had better stand down before you get yourself hurt.
+
+#### 9856ed5903 | PENGUIN → BATMAN | x2
+That’s why I’m leveling the playing field.
+
+#### 4cd6c6cb8a-SM | PENGUIN → BATMAN | x2
+And I’m tired of bullies who think they can take what’s mine!
+
+#### 8272fbce0c | BATMAN → OSWALD | x2
+You’re better than this, Cobblepot.
+
+#### fc4b022754 | PENGUIN → BATMAN | x2
+No, I really don’t think that I am!
+
+#### af08d48834 | PENGUIN → BATMAN | x2
+No- I’m better than YOU.
+
+#### 48c77374e5 | PENGUIN → BATMAN | x2
+And I’m just trying to protect what’s mine!
+
+#### 4cf5df05f4 | PENGUIN → BATMAN | x2
+Not even you, Batman...
+
+#### 716b20520b | PENGUIN | x2
+I’m just protecting what’s mine from anyone who’d dare try take it away from me.
+
+#### 4c41223921 | PENGUIN → BATMAN | x2
+It’s the American Way!
+
+#### ecda61abac | PENGUIN → BATMAN | x2
+No, that was people like you...
+
+#### eb60d87860 | PENGUIN → BATMAN | x2
+It’s bullies like you that are the problem!
+
+#### 21628ee461 | BATMAN → PENGUIN | x10
+Shut your mouth before I shut it for you!
+
+#### ac942b5982-LM | PENGUIN → BATMAN | x2
+Is that what you said when you Brutalized Falcone?
+
+#### b8ce733b86-LM | PENGUIN → BATMAN | x2
+Is that what you said when you beat up XXXXXX?
+
+#### 640cdcf860-SM-LM | PENGUIN → BATMAN | x2
+Is that how you sounded when you paid a visit to Mayor Hill before he died?  Oh yeah, I heard about that, mate!
+
+#### ad125df56d-LM | PENGUIN → BATMAN | x2
+Is that what you said before you gave Selina a black eye?
+
+#### d9150c4f9b | BATMAN → PENGUIN | x2
+I’m not like those people.
+
+#### 108db54ef3 | PENGUIN → BATMAN | x8
+Oh, really?!?
+
+#### 0b2fde49ae | PENGUIN → BATMAN | x2
+What about Falcone?
+
+#### f00017b54b | PENGUIN | x2
+You think he might disagree with you?
+
+#### 474e6b57dd | PENGUIN | x2
+How about XXXXXX?
+
+#### ab74852e13 | PENGUIN | x2
+Don’t you think he’d call you a bully?
+
+#### 8c0e6e8393 | PENGUIN → BATMAN | x2
+What about YYYYYY?
+
+#### b7d238fc88 | PENGUIN → BATMAN | x2
+They might say different about ya, right?
+
+#### 4ac4da5e45 | PENGUIN → BATMAN | x2
+Who gave Selina that black eye?
+
+#### d19adfb9e2 | BATMAN → PENGUIN | x8
+I do what I have to do to make sure justice get served.
+
+#### 5c942d89cf | PENGUIN → BATMAN | x2
+My family was once among Gotham’s most influential!
+
+#### 55e5dd9776 | PENGUIN → BATMAN | x2
+The Cobblepots could’ve done some good in this city!
+
+#### ad2c1d6d3f | PENGUIN → BATMAN | x2
+I couldn’t stop the Waynes from destroying my family and taking everything away from me-
+
+#### e0581d6a97 | PENGUIN | x2
+-but I can sure as hell STOP YOU!
+
+#### 1e5131ac16 | PENGUIN | x2
+I couldn’t- I just couldn’t-
+
+#### 31fbc10d1d-L? | PENGUIN | x2
+Is that what you said when you put that entire street gang in the hospital last year?
+
+#### fdaf0cf728-L? | PENGUIN | x2
+Is that how you justify what you did to Falcone?
+
+#### f06e319d36-L? | PENGUIN | x2
+Justice?  Is that what you call the way you interrogated my man at the docks?
+
+#### 88345b5693-L? | PENGUIN | x2
+Oh, is that how you justify your “little talk” you had with Mayor Hill?
+
+#### 8465dd60ec | PENGUIN → BATMAN | x2
+Is that how you justify giving Selina a black eye?
+
+#### 427ed44b02-SM | PENGUIN → BATMAN | x2
+I fought, tooth and nail, to get here-
+
+#### 74e8c90fdb | PENGUIN → BATMAN | x2
+-and no costumed thug with an inflated sense of ego is going to get in my way.
+
+#### 6777721c51-LM | BATMAN → OSWALD | x2
+You GOT what you deserved, Cobblepot.
+
+#### a176174541-SM | BATMAN → OSWALD | x2
+I am sorry for what happened to you and your family, Cobblepot.
+
+#### df2cb80dbd | BATMAN → PENGUIN | x2
+There’s no such thing as “deserves.“
+
+#### 57f8c6ded0-LM | PENGUIN → BATMAN | x2
+You crippled me-!
+
+#### 17c0c3a53d | PENGUIN → BATMAN | x4
+You are a bully!
+
+#### efa283e9e6 | PENGUIN → BATMAN | x4
+You maniac!
+
+#### 80b71ff222-SM | PENGUIN → BATMAN | x4
+I knew I was right about you!
+
+#### 147305194c | OSWALD → PENGUIN, HARVEY, ALFRED | x6
+AAAAARH!
+
+#### 13c4403778-SM-LM | BATMAN → PENGUIN | x4
+You’re lucky that’s all I did.
+
+#### 0a844b615c-LM | BATMAN → PENGUIN | x4
+You’re lucky you’re still alive.
+
+#### cb3654bf11-LM | choice/UI → PENGUIN | x4
+You’re lucky
+
+#### 8a7574392a-LM | choice/UI → OSWALD, PENGUIN | x4
+That is what you deserved
+
+#### 15c9644565 | OSWALD → PENGUIN, JOKER, HARVEY | x6
+You psycho!
+
+#### 95f42930b8 | PENGUIN → BATMAN | x2
+This is what you really enjoy, right?
+
+#### 95138134bd | PENGUIN → BATMAN | x2
+Hurting people?
+
+#### aa4b89cde9 | PENGUIN → OSWALD, BATMAN | x4
+That’s why you do this, isn’t it?
+
+#### efbc6dd247-SM | PENGUIN → BATMAN | x2
+I was just trying to get what I deserved!
+
+#### c5a46625cd-LM | choice/UI → PENGUIN | x2
+You GOT what you deserved.
+
+#### 488311398a | choice/UI → PENGUIN | x2
+Sorry about your family.
+
+#### 57a41d901c | PENGUIN → BATMAN | x2
+You big, brooding bastard.
+
+#### 6526674938 | PENGUIN → BATMAN | x2
+You big, brooding jerk.
+
+#### b07520d53f-LM | BATMAN → PENGUIN | x2
+You brought all this upon yourself.
+
+#### 120c1d6126-LM | BATMAN → PENGUIN | x2
+From this point on, you only have YOURSELF to blame for your lot in life.
+
+#### 2aa9a5753c | BATMAN → PENGUIN | x2
+... I can even... relate.
+
+#### b03bff3adf | BATMAN → PENGUIN | x2
+...I can even... empathize.
+
+#### 4981b0b161 | BATMAN → PENGUIN | x2
+Bad things happen to good people.
+
+#### ae93e7db07 | PENGUIN → BATMAN | x2
+...that’s all...
+
+#### 8f430ecc46 | PENGUIN → BATMAN | x2
+...just what’s owed to me...
+
+#### aab0b319ca | PENGUIN → BATMAN | x4
+You’re a damn sadist!
+
+#### 20e4705863-LM | BATMAN → PENGUIN | x4
+That’s just what you deserved.
+
+#### 15968ee3dd | BATMAN → PENGUIN | x4
+Try and take it with some dignity.
+
+#### e181e7a45d | PENGUIN → BATMAN | x4
+“Dignity?!?“ Sez the man in the bat suit?
+
+#### 86ba143dad | PENGUIN → BATMAN | x4
+Blow it out your ear!
+
+#### f2d47d2812-SM | BATMAN → PENGUIN | x4
+Sorry. I’m sure that hurts.
+
+#### 9dd446382b-LM | PENGUIN → BATMAN | x4
+You’re damned right it does!
+
+#### 60377bb260 | PENGUIN → BATMAN | x4
+Is that supposed to make me feel better?!?
+
+#### a3a4e50251 | PENGUIN → BATMAN | x2
+What? Is that supposed to make me feel better?
+
+#### 42c458b729-SM | PENGUIN → BATMAN | x2
+Yeah, well... I’m sorry, too.
+
+#### 75c4270e5f | choice/UI → PENGUIN | x2
+That’s how the world works.
+
+#### 24cb753aa7 | BATMAN → PENGUIN | x2
+That’s the way the world works.
+
+#### 55934b0e1c | BATMAN → PENGUIN | x2
+You just have to find a way to move forward.
+
+#### 866d3bc13b | PENGUIN → BATMAN | x2
+Heartless bastard!
+
+#### 4296c23281 | BATMAN → PENGUIN | x2
+...That’s how he’s hacking the network.
+
+#### b1a585bbd5 | BATMAN → PENGUIN | x2
+But this was *not* the way to fix the past.
+
+#### d22c277833-LM | BATMAN → PENGUIN | x2
+What Thomas Wayne did to your mother was wrong. Do your time in Blackgate prison. Come out a better man. Honor her memory by reforming yourself.
+
+#### 91bdca9dfc | OFFICER01, GCPD01 → PENGUIN, OSWALD | x4
+What the-
+
+#### dbd45145c1 | OSWALD → PENGUIN, GCPD01 | x4
+Just cut me down, mate.
+
+#### 79fc8757df-LM | PENGUIN → BATMAN | x2
+Is that what you said back when you tortured my man at the docks?
+
+#### cbc52179cf-LM | PENGUIN → BATMAN | x8
+YOU BROKE HIS FRIGGIN’ ARM!
+
+#### c423cf6dd8-LM | PENGUIN → BATMAN | x8
+You smashed him in the face with a freakin’ pipe, mate!
+
+#### 8f897136e7-LM | PENGUIN → BATMAN | x2
+Have you forgotten about the man you “interrogated” at the docks?
+
+#### 837ec98d28 | PENGUIN → BATMAN | x2
+Then how would you describe your little chat with the former Mayor Hill.
+
+#### 0332ae80f3-SM | PENGUIN → BATMAN | x4
+Yeah, I heard all about that, mate.
+
+#### 064904f78d-SM | PENGUIN → OSWALD | x4
+...Before I killed him of course.
+
+#### ceba5c71f5 | OSWALD → PENGUIN | x2
+Aww, you hate to see THAT happen!
+
+#### ce96e79800 | OSWALD → BATMAN | x4
+I’m the one with the toys now, Batman.
+
+#### 2aede331b3 | OSWALD, PENGUIN → PENGUIN, OSWALD | x4
+Don’t worry, it happens to LOADS of guys.
+
+#### ac6662b60e-SM | OSWALD → PENGUIN | x2
+This is the start of a new legacy, and I’m afraid you don’t have any place in it.
+
+#### 7958f2134a-LM | OSWALD → PENGUIN | x2
+Haven’t you learned yet? I’ve shut you down!
+
+#### 20d3023b16-SM | PENGUIN → OSWALD | x2
+I just... I just wanted to get what I deserved... prove I could be better...
+
+#### 39b04ebab4 | PENGUIN → BATMAN | x2
+Better than Bruce.
+
+#### 43cc7d7e6b | choice/UI → PENGUIN | x4
+You’re not the victim here.
+
+#### 673c7a7635-LM | BATMAN → OSWALD | x2
+Lose the victim act, Cobblepot. You left the high road a long time ago.
+
+#### 131b6a2618-SM | choice/UI → PENGUIN | x2
+I’m sorry it ended this way.
+
+#### 2a13f43b01-SM | BATMAN → OSWALD | x2
+I’m sorry this is how it had to be, Cobblepot. I wish it could’ve ended differently.
+
+#### 1d5e897e64 | PENGUIN → BATMAN | x2
+But the Waynes, this stinking *city*--
+
+#### 25fd9cc9d7 | PENGUIN → BATMAN | x2
+Spare me the “sympathy,“ you psychotic sonuvabitch.
+
+#### 72827e4a19 | PENGUIN → BATMAN | x4
+You’re just as bad as the rest of them.
+
+#### 7a5cc7f52c | choice/UI → OSWALD, PENGUIN | x6
+[Knock him out]
+
+#### 1827989e66 | BATMAN → OSWALD | x2
+Lights out, Cobblepot.
+
+#### 60747a7e3f | choice/UI → OSWALD | x2
+Let it go, Cobblepot.
+
+#### d30ba8e7dc | BATMAN → PENGUIN | x2
+Your obsession with the past is what got you here. Let it go and move on.
+
+#### 3ee3b8b2b0-LM | PENGUIN → BATMAN | x2
+Yeah? Like you don’t have anything in your past that YOU’RE obsessed with?
+
+#### 0f358e8209 | PENGUIN → BATMAN | x2
+Let’s level the playing feild.
+
+#### bd85259b24-LM | OSWALD → PENGUIN | x2
+Oh, is this how it feels when you put on that suit?  I like it!
+
+#### 81aa95e437 | LUCIUS → OSWALD | x2
+That’s the device!
+
+#### 61d01b696c | OSWALD → PENGUIN | x2
+Yeah, that little beauty is almost done hacking your precious network.
+
+#### 60e4c3f2ab | OSWALD → LUCIUS | x2
+Few more minutes... All your secrets are mine.
+
+#### cf112f9fb6 | OSWALD → LUCIUS | x2
+You absolute, bastard!
+
+#### d0b0b295e9 | BATMAN → OSWALD | x2
+I will stop you before that happens.
+
+#### 5cbc8e8773 | choice/UI → OSWALD | x2
+Your revolution is over!
+
+#### 0a3616a156 | OSWALD → BATMAN | x2
+This isn’t the end, Batman!
+
+#### a273c7d527 | OSWALD → BATMAN | x2
+You can’t stop us!
+
+#### f8f1080f53 | choice/UI → OSWALD | x2
+You better stay down.
+
+#### 015d489a24 | BATMAN → OSWALD | x2
+It’s done, Cobblepot! Your revolution is over!  It started with you and it ends with Lady Arkham!
+
+#### fa84ea3cfa | OSWALD → BATMAN | x2
+Good luck!  You’ll never find her in time!
+
+#### b11ae4bd29-LM | BATMAN → OSWALD | x2
+It didn’t have to be like this, Oswald.  You should have given up when you had the chance.
+
+#### 8987c29c75-SM | OSWALD → BATMAN | x2
+Give up?  I’ve already won.
+
+#### 16631d60fd | BATMAN → OSWALD | x2
+Stay down.
+
+#### 10af8ab88b | OSWALD → BATMAN | x2
+Or what?! You’ll break my other leg?
+
+#### ed50fda950 | OSWALD, PENGUIN → BATMAN, BRUCE, PENGUIN | x15
+You can do whatever you want to me, but Lady Arkham’s plans are already in motion!
+
+#### 19772f26e0 | OSWALD → BATMAN | x2
+You think this is over?!  You think you can just take me out and end the revolution?
+
+#### 11dda20ca0 | BATMAN → OSWALD | x2
+Where is she! What is she planning?!
+
+#### e85d2d32ce | OSWALD → BATMAN | x2
+The message is the same as it’s ever been!  We will open your eyes!  This city’s hypocrisy will be exposed!
+
+#### c37898dc61 | BATMAN → OSWALD | x2
+Tell me where to find her!
+
+#### 9373476c38 | OSWALD → BATMAN | x2
+NO!!
+
+#### 1cb8b16f8d | choice/UI → OSWALD | x2
+I’m losing patience!
+
+#### ad0cd990f3 | OSWALD → BATMAN | x2
+Screw you!!
+
+#### 07e6bc4f75 | OSWALD → BATMAN | x2
+Piss off!!
+
+#### c28a784e57 | BATMAN → OSWALD | x2
+TELL ME!!
+
+#### 8242c97728 | OSWALD → BATMAN | x2
+Or what?!
+
+#### c5ee3601c2 | BATMAN → OSWALD | x2
+All of Gotham is in danger... what do you think I’ll do to get answers out of you.
+
+#### 023fb4cf6f-SM | OSWALD → BATMAN | x2
+I won’t tell you.  Do your worst.
+
+#### 2bd1ea9e3e | choice/UI → OSWALD | x2
+Lady Arkham is using you!
+
+#### 7dfe6ccdc1 | BATMAN → OSWALD | x2
+You’re nothing but a pawn to her.
+
+#### 3633b9e047 | OSWALD → BATMAN | x2
+You don’t get it, do you?  I’m not a pawn, I’m a soldier!
+
+#### bc5486cadf | OSWALD → BATMAN | x2
+I’m not telling you anything.
+
+#### 645d1ba428 | OSWALD → BATMAN | x2
+When she’s ready, she’ll find you.
+
+#### 3d20612387 | OSWALD → BATMAN, GCPD01 | x4
+Don’t make a scene of it.
+
+#### 35f432c58f | choice/UI → OSWALD | x2
+[Restrain him]
+
+#### 27496376ad-LM | BATMAN → OSWALD | x4
+But you can help yourself by talking.
+
+#### ce7f7ad2c3 | BATMAN → OSWALD | x4
+I’ll stop her either way.
+
+#### d063394c8c | OSWALD → BATMAN | x2
+I’d die before I sell out the cause.
+
+#### 36482612bc | ENFORCER01 → HARVEY | x4
+We looked everywhere, sir.
+
+#### 33b8c7d069 | ENFORCER01 → HARVEY | x4
+Bruce Wayne isn’t here.
+

@@ -1,0 +1,204 @@
+﻿#### 1e4e84b32c | ALFRED → BATMAN | x5
+You alright?
+
+#### 6de84271de-SM | BATMAN → ALFRED, MONTOYA, OSWALD | x9
+Yeah [beat]How did they know I was coming?
+
+#### 74088495f8 | ALFRED → BATMAN | x7
+I don’t know. I’d recommend only using your secure channel for the time being.
+
+#### aca285b88f | choice/UI → ALFRED, GOON01, LADYARKHAM | x30
+Listen.
+
+#### 23bd768c5b | choice/UI → ALFRED, GOON01, COA01 | x28
+Travel To.
+
+#### d62dfdf874 | HARVEY → ALFRED, GOON01, GORDON | x6
+God, is this guy *trying* to drive us off the road.
+
+#### 54fd1b5334 | ASSISTANT → HARVEY | x4
+He’s been following us for the last five blocks.
+
+#### cf179f2025 | ASSISTANT → HARVEY, GORDON | x8
+Take a left down here!
+
+#### dcabf54e17 | HARVEY, ASSISTANT, INMATE01 → ASSISTANT, HARVEY, INMATE02 | x12
+What the--?
+
+#### f39804842b | ALFRED → HARVEY | x6
+That didn’t sound good.
+
+#### 8a3fbabd41 | COA01 → ALFRED, LADYARKHAM | x6
+You’re dealing with us now. The Children of Arkham are taking over.
+
+#### f4f3ecd47f | DEALER → LADYARKHAM, COA01 | x6
+Now hang on--[interrupted]
+
+#### 49fe6fd5e9 | LADYARKHAM → ALFRED, COA03, COA01 | x6
+Do we have a problem?
+
+#### fedbdec2ac | LADYARKHAM → COA01 | x6
+You’ll deal with whoever I tell you to.
+
+#### 3be56ecc41 | LADYARKHAM, ORDERLY02 → ALFRED, BATMAN, INMATE01 | x8
+Understand?
+
+#### ca10c719d8 | BATMAN → LADYARKHAM, COP01, ALFRED | x6
+That voice...
+
+#### a266e07018 | ALFRED → BATMAN, LADYARKHAM | x6
+Might not be there much longer.
+
+#### d7dc1eb375 | ALFRED → BRUCE | x8
+Be careful, Bruce.
+
+#### 744340b1ed | BATMAN → ALFRED | x2
+I’m going to the new hospital site.
+
+#### 982c0c13fa | BATMAN → ALFRED | x2
+I’m going to help Harvey.
+
+#### ed1c3b9bd1 | COP02 → BATMAN, ALFRED | x4
+We need back-up. Now! I repeat, we need back-up!
+
+#### 121f4cc2c9 | COP01 → ALFRED, COP02 | x4
+Eveybody get down!
+
+#### 2c53fdba41 | ALFRED → BATMAN, COP02, HARVEY | x16
+Bringing it up now.
+
+#### 9f34e2e73e-SM | BATMAN → ALFRED | x4
+I need an update on the construction site.
+
+#### a980c98e6b | ALFRED → BATMAN | x4
+Good to know your own channels haven’t been compromised.
+
+#### ab7b49ef34 | OSWALD, GORDON, GOON02 → ALFRED, BRUCE | x8
+What was that?!
+
+#### dc5a1d5a4d | ALFRED → BATMAN, GORDON, LADYARKHAM | x18
+You’d better get down there.
+
+#### 816be47532 | BATMAN, choice/UI → ALFRED, GORDON, DEALER | x22
+On my way.
+
+#### 3c166168ba | GORDON → LADYARKHAM, ALFRED, COA05 | x10
+Put down your weapons!
+
+#### 48e2613081 | GORDON → ALFRED | x2
+More of em!
+
+#### d1855d4ef5 | GORDON → BATMAN | x2
+Everybody get down! [into his radio]Commissioner, come in! We need back-up! Hello?
+
+#### fae630ae91 | COA03, GOON03 → GORDON, ALFRED | x4
+Get out of the car! Right now!
+
+#### a764db4d6e | COA04, GOON04 → HARVEY | x4
+Clock’s ticking, Mr. Dent!
+
+#### 6f95ff5fae | ALFRED → GORDON | x2
+I’m bringing it up now.
+
+#### de3b8af97c | HARVEY → BATMAN | x4
+Deborah, get down!
+
+#### 56ba018d13 | ASSISTANT, GOON01, CATWOMAN, COA01 → BATMAN, ALFRED, GORDON | x16
+Look out!
+
+#### 272036a8ef-SM | BATMAN → HARVEY, ALFRED | x4
+I need an update on Harvey.
+
+#### f64f16f207 | COP02 → GORDON | x2
+We need you down here, Gordon! [a beat]Gordon?!
+
+#### 3d47ca5bbd | GORDON → BATMAN | x2
+We’ve got company!
+
+#### 8f79813c0c | GORDON → BATMAN | x2
+We’re almost there!
+
+#### bddf5dd2d0 | BATMAN → GORDON, ALFRED | x6
+They weren’t ready for me that time.
+
+#### a042906380 | BATMAN → ALFRED | x2
+They seem to be getting info on the GCPD’s whereabouts. {AngryB}Not sure how.
+
+#### e86d917006 | COA01 → BATMAN, ALFRED, HARVEY | x10
+That’s the last of em!
+
+#### d949fe02d8 | LADYARKHAM → BATMAN, ALFRED, GORDON | x10
+Hurry up! I don’t have time to babysit you! [beat]The rest of you, form up!
+
+#### a2531200fd | DEALER → LADYARKHAM, ALFRED, COA05 | x10
+Wait! What about my money?
+
+#### a267488a42 | LADYARKHAM → GORDON, COA01 | x10
+Cute.
+
+#### eda3023e4c | GORDON → DEALER, COA05 | x8
+Everybody get down! [aside]Dammit!
+
+#### f7e1c29657 | GORDON → BATMAN, LADYARKHAM, MONTOYA | x8
+Commissioner, come in! We need back-up! Hello?
+
+#### 61335a60fb-SM | BATMAN → ALFRED, GORDON, HARVEY | x10
+I need an update on the docks.
+
+#### 432d7f20ba | BATMAN → ALFRED, GOON01 | x6
+I’m going to the docks.
+
+#### a9ccb7b428 | BATMAN → ALFRED | x2
+I’m going to the docks
+
+#### d0cf29e533 | ALFRED → BATMAN | x2
+Be careful, DIR:(Emily Garrison, Thu Aug 11 14:38:32 2016) Batman turns to leave and with a whoosh of his cape he’s gone!
+
+#### 1b0743cff1 | choice/UI → GORDON, COMMISSIONER | x6
+Alley
+
+#### 794b762ba8 | choice/UI → GORDON, LADYARKHAM, COMMISSIONER | x10
+Docks
+
+#### 1035ab3d86 | choice/UI → COMMISSIONER | x4
+Construction Site
+
+#### 4eae1dde15-SM | BATMAN → MONTOYA | x2
+Yeah [beat]{ThinkingA}How did they know I was coming?
+
+#### e3de70d0e3-SM | BATMAN → MONTOYA | x2
+I need an update on Montoya.
+
+#### c92181b57b | MONTOYA → BATMAN | x2
+Gordon, over here!
+
+#### 56e59d53df | GORDON → BATMAN | x2
+Stay down! We’re coming to you!
+
+#### 229360869c | MONTOYA → HARVEY | x2
+No! There’s too many of them! [beat]Behind you!
+
+#### 7697fc91c9 | HARVEY → MONTOYA | x2
+Get back in the car, Deborah!
+
+#### 5dc66d7f6d-LM | ASSISTANT → HARVEY | x2
+Mr. Dent! What did you do to him?
+
+#### f87c844ea8-SM | HARVEY → GORDON | x2
+I said get back in the car! There’s more of them coming!
+
+#### 17e977810b-SM | BATMAN → HARVEY | x2
+Yeah. {ThinkingA}But they knew I was coming.
+
+#### 2dc1f02ab8 | GORDON → ALFRED | x2
+Everybody take cover!
+
+#### 5eecb4b1c7 | GORDON → ALFRED | x2
+There’s too many of ‘em! Everybody take cover!
+
+#### 02b765417a | ALFRED → GORDON | x2
+Sounds like an ambush.
+
+#### 6453ea992d | ALFRED → GORDON | x2
+The police are outnumbered!
+

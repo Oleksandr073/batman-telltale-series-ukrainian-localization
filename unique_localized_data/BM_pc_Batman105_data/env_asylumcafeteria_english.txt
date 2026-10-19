@@ -1,0 +1,471 @@
+﻿#### f5cb11159c | choice/UI → GORDON | x2
+Inmate vs. Orderly
+
+#### 5052234027 | choice/UI → GORDON | x2
+Release him and fight me.
+
+#### f470f10bc5-LM | choice/UI → GORDON | x2
+You’ve already lost.
+
+#### 46ceaf2287 | choice/UI → GORDON | x2
+[signal Gordon to strike]
+
+#### c6729a704e | GORDON → BATMAN | x2
+This is madness.
+
+#### 6005b2351c | BATMAN → GORDON | x2
+Stay close, Jim.
+
+#### 36138140a9-SM | GORDON → BATMAN | x2
+I always wondered...
+
+#### 6e5eb711f1 | BATMAN → GORDON | x2
+Wondered what?
+
+#### 988ffbf4a3 | GORDON → BATMAN | x2
+What it must feel like to be Batman.
+
+#### 9e96ef74ab-LM | ZSASZ → BATMAN | x4
+How many lives have you taken away from me?
+
+#### 2c6e49feb9 | ZSASZ → BATMAN | x4
+Aargh! Batman!
+
+#### 94cd0ade90 | ZSASZ → BATMAN, GORDON | x4
+Now all I want is yours.
+
+#### fbabceb584-SM | ZSASZ → JOKER, GORDON | x6
+I’ve saved this patch of skin above my heart for you.
+
+#### fde09b2ad3 | GORDON → ZSASZ | x2
+Get off of me!
+
+#### cb0110d29c | ZSASZ → BATMAN | x2
+I’m going to slit his throat and pull out his larynx, Batman.
+
+#### ff5e3eaf1b | ZSASZ → BATMAN | x4
+I look forward to wearing your face.
+
+#### 419b63fac4 | BATMAN → ZSASZ | x2
+You don’t want him.
+
+#### 5e2cf46fc5 | ZSASZ → BATMAN | x2
+That’s true.
+
+#### a6b13e8336 | ZSASZ → BATMAN | x2
+Then I’ll just have to carve off Gordon’s face and walk out of here wearing *it,* instead.
+
+#### 3b760aeb2f | BATMAN → ZSASZ | x2
+It’s already over, Zsasz.
+
+#### f67bced857 | BATMAN → ZSASZ | x2
+The police are here. You’re not walking out of this building.
+
+#### 347e519c02 | GORDON → BATMAN | x2
+Lunatic!
+
+#### 4b34b53cdc | BATMAN → GORDON | x2
+Jim-- no!
+
+#### f38be0d4ce | ZSASZ → GORDON | x2
+Next I’m gonna visit your children.
+
+#### cee7a5e060 | ZSASZ, ALFRED → GORDON, BRUCE | x4
+Gah!
+
+#### a7a93dfbb4-SM | GORDON, BATMAN → ZSASZ, LUCIUS | x4
+I’m alright.
+
+#### e981328534 | MONTOYA → GORDON | x4
+Gordon’s here!
+
+#### 7fe1cea7c1 | COP04 → GORDON | x4
+Batman too!
+
+#### 17b4f5ff30 | GORDON → MONTOYA | x4
+We’ll round up the rest of the inmates.
+
+#### 20a5ceb1c6 | GORDON → MONTOYA | x4
+You stop Lady Arkham!
+
+#### 68fb14756e | GORDON, MONTOYA → COP04, ZSASZ, GORDON | x6
+We’ve got the inmates.
+
+#### 095f7fa668 | GORDON → VICKI, BATMAN | x4
+I’m going with Batman.
+
+#### 07839aa47f | GORDON → VICKI, BATMAN | x4
+Damnit...
+
+#### c00937bfb6 | BATMAN → GORDON | x4
+Lady Arkham has a hostage.
+
+#### 3fb0336774 | ZSASZ → VICKI | x2
+I’ll have to carve that suit off to get to what’s underneath.
+
+#### 19013433a9 | BATMAN → ZSASZ | x2
+Then come and get me.
+
+#### 194646b9ee | ZSASZ → BATMAN | x2
+It might take a while, but.
+
+#### f7676501e1 | ZSASZ → GORDON | x2
+Straight to the blood.
+
+#### 2a7186888d | ZSASZ → GORDON | x2
+No banter? [darkly:]Fine.
+
+#### 678232749e | GORDON → ZSASZ | x2
+A little help!
+
+#### f2f03a5c09 | GORDON → ZSASZ, BATMAN, MONTOYA | x6
+Oh, Jesus!
+
+#### cf63bd0728 | GORDON → BATMAN | x2
+Hell.
+
+#### c1d27083ed | BATMAN → GORDON | x2
+Out of my way
+
+#### 77c5a4237e | BATMAN → GORDON | x2
+Stay close.
+
+#### 061f904913 | GORDON → ZSASZ | x2
+Over my dead body!
+
+#### 35a0984864 | ZSASZ → GORDON | x2
+I’ll honor you properly, don’t worry.
+
+#### 01ca197ea5 | ZSASZ → GORDON | x2
+A deep cut for your sacrifice.
+
+#### 1e74f8072f | ZSASZ → GORDON | x2
+I’m giving you a gift. A way out of all this pointless chaos... [is punched]
+
+#### f639e755cd | ZSASZ → LADYARKHAM | x2
+One for you, one for me.
+
+#### ab9814cd23-LF | ZSASZ → LADYARKHAM | x2
+Have you ever seen the true color of blood?
+
+#### 459fd5d6f9 | ZSASZ → LADYARKHAM | x2
+It’s beautiful.
+
+#### 081fd8d5dd | LADYARKHAM, VICKI, HARVEY → ZSASZ, BATMAN, BRUCE | x6
+Stay back!
+
+#### 4d9d6d60b1 | LADYARKHAM → ZSASZ | x2
+You can’t keep up.
+
+#### 74474e23aa | LADYARKHAM → ZSASZ | x2
+Give up.
+
+#### 6df85f412d | LADYARKHAM, ORDERLY01, ALFRED → ORDERLY02, LUCIUS | x6
+Get back!
+
+#### f48ada8cdb | LADYARKHAM, VICKI → ORDERLY02 | x4
+Get Batman!
+
+#### adfd55f60f | LADYARKHAM → JOKER | x2
+Slow him down!
+
+#### 990acd40b1 | LADYARKHAM → JOKER | x2
+Take this place back!
+
+#### 613f378f9f | JOKER → LADYARKHAM | x2
+Ooh! Good hit!
+
+#### 2c2ba73b75 | JOKER → LADYARKHAM | x2
+Aww, put your back into it!
+
+#### 2f282e1a70 | JOKER → LADYARKHAM | x2
+Ouch!
+
+#### ef3f36dbde | JOKER → INMATE01 | x2
+That one had to hurt!
+
+#### 0125481370 | JOKER → INMATE01 | x2
+Off with his head!
+
+#### 8d392fc19f | JOKER → INMATE01 | x2
+My, my.
+
+#### 606502472f | INMATE01 → JOKER | x2
+Yeah!
+
+#### 9f87a03b28 | INMATE01 → JOKER | x2
+Eat it.
+
+#### d8526da018 | INMATE02 → INMATE01 | x2
+Can’t run from this.
+
+#### bc8b722079 | INMATE02 → INMATE01 | x2
+Payback! It’s a bitch.
+
+#### 762651f45e | INMATE02 → INMATE03 | x2
+Now who’s leading the therapy group, huh?
+
+#### 689f1069f4 | INMATE03 → INMATE02 | x2
+Finally!
+
+#### 87fc462144 | INMATE03, COP03 → GCPD01, LADYARKHAM | x4
+It’s Batman!
+
+#### d7d5c0afdb | INMATE01 → INMATE03 | x2
+Batman’s this way!
+
+#### f18cfdcb0d | GCPD01 → INMATE03 | x2
+Cover Batman!
+
+#### 0d1ae33654 | GCPD02 → GCPD01 | x2
+Over here! Help me!
+
+#### ec217f47c4 | GCPD02 → GCPD01 | x2
+Come on! Let’s go!
+
+#### 4f1640685a | GCPD03 → GCPD02 | x2
+There’s another over there!
+
+#### f247b9114a | GCPD04 → GCPD03 | x2
+Get over there!
+
+#### 36f3480966 | GCPD04 → GCPD03 | x2
+Get over here!
+
+#### 4f7d140ef6 | GCPD05 → GCPD04 | x2
+Batman’s got that one!
+
+#### a1b8203d91 | GCPD05 → GCPD04 | x2
+It’s all clear!
+
+#### 13284df50b-L? | GCPD06 → GCPD05 | x2
+You heard Gordon!
+
+#### d76b3f3333 | GCPD06 → GCPD05 | x2
+Get moving!
+
+#### 8ca8b82dcf | GCPD04 → GCPD05 | x2
+We need backup!
+
+#### 4d83569ebb | GCPD05 → GCPD06 | x2
+More are coming!
+
+#### 01c3413613-L? | GCPD03 → ORDERLY01 | x2
+You heard the lieutenant!
+
+#### f3efbb91ed | ORDERLY02 → ORDERLY01 | x2
+Get away from me!
+
+#### 2f7145ea60 | VICKI → ORDERLY02 | x2
+Go get him!
+
+#### a85476fbbe | VICKI → ORDERLY02 | x2
+Get out of my way!
+
+#### e462e44b63 | VICKI → ZSASZ | x2
+Out of my way!
+
+#### db82d7619d | ZSASZ → BATMAN | x2
+I’m going to slice you open, Batman.
+
+#### 3c18881796-LF | ZSASZ → VICKI | x2
+I’ll make you bleed.
+
+#### 395fbf4c88 | ZSASZ → VICKI, JOKER | x4
+You’re going to die!
+
+#### 60019d4bd8 | ZSASZ | x2
+You can do better than that.
+
+#### 1c032ccfa5 | BATMAN → GORDON | x2
+Gordon!
+
+#### 31a84b2e65 | BATMAN → VICKI | x2
+You’re mine.
+
+#### ce5ccd79c9 | VICKI → ZSASZ | x4
+Take your time, Zsasz.
+
+#### 3228d5c694 | GORDON → BATMAN | x4
+Don’t die.
+
+#### 83c2c96c34 | GORDON → VICKI, BATMAN | x4
+That’s an order.
+
+#### 9203d30387 | GORDON → BATMAN | x4
+This city needs you.
+
+#### 1728beb7c7 | choice/UI → GORDON | x4
+I don’t take orders.
+
+#### 754f24ad1c | BATMAN → GORDON | x2
+I don’t take orders from you.
+
+#### e91926cc36 | GORDON → BATMAN | x4
+Make it a request then.
+
+#### a5e4048412 | GORDON → BATMAN | x4
+From a friend.
+
+#### 5c8a6e5723 | BATMAN → GORDON | x4
+Don’t worry about me, Jim.
+
+#### befff0efcd | BATMAN → GORDON | x4
+I don’t die easy.
+
+#### 780984708b | BATMAN → GORDON | x4
+Don’t get your hopes up.
+
+#### a7d5638e37-SM | GORDON → BATMAN | x4
+Hope’s all I’ve got.
+
+#### 2d0230838c | BATMAN → GORDON | x4
+This won’t be easy.
+
+#### ba0f07bce9 | GORDON → BATMAN | x4
+I’ll hold you to that.
+
+#### 62d7481e31 | BATMAN → GORDON | x4
+You’ve done enough Gordon.
+
+#### df3ab66c54 | BATMAN → GORDON | x4
+I’ll handle the rest.
+
+#### d904bb0623 | BATMAN → GORDON | x2
+You’re not getting away.
+
+#### e1814ab3c1 | BATMAN, BRUCE, ALFRED → LADYARKHAM, VICKI | x8
+Lady Arkham.
+
+#### 6353452f84 | BATMAN → ZSASZ, GORDON | x4
+I don’t take orders from you, remember?
+
+#### 7cecb43f30 | MONTOYA → GORDON | x2
+Lock it down!
+
+#### c397281054 | choice/UI → MONTOYA | x2
+Food Tray
+
+#### 02b96f2878 | choice/UI → MONTOYA | x2
+Long Table
+
+#### 9feb5376c5 | choice/UI → LUCIUS | x4
+Chair
+
+#### 8268815900 | choice/UI | x2
+Gurney
+
+#### 89292de39f | choice/UI | x2
+Tazer
+
+#### c22e272f27 | choice/UI | x2
+Light Fixture
+
+#### 2ec4533913 | choice/UI | x2
+Link Inmate #1119
+
+#### 3524f6a1df | choice/UI | x2
+Has already fractured the orderly’s cheek and nose.
+
+#### 947b25282b | choice/UI | x2
+Link Inmate #1005
+
+#### 83a76afe93 | choice/UI | x2
+Given much longer, will crush the orderly’s trachea.
+
+#### dc5601393c | choice/UI | x2
+Link Inmate #1328
+
+#### 878820d4d4 | choice/UI | x2
+About to gut the defenseless orderly.
+
+#### 52b7e28498 | choice/UI | x2
+Link Inmates #0219 and #0626
+
+#### 669ad8b67c | choice/UI | x2
+Could send Dr. Leland into cardiac arrest.
+
+#### 18d8216204 | choice/UI | x2
+Link Lady Arkham
+
+#### b8613d0530 | choice/UI | x2
+The target.
+
+#### 4186f1a731 | choice/UI | x4
+Link Hanging Light
+
+#### f0e3078b4b | choice/UI | x4
+Cord is durable and heavily mounted into the ceiling.
+
+#### 6e23d7ea7b | choice/UI | x2
+Link Food Tray
+
+#### f513ba7ef0 | choice/UI | x2
+Made to be shatterproof.
+
+#### df0e22f3f6 | choice/UI | x2
+Link Kitchen
+
+#### fe08f5988a | choice/UI | x2
+Open to the cafeteria floor.
+
+#### 543457215e | choice/UI | x2
+Link Long Table
+
+#### ee38738e89 | choice/UI | x2
+Designed to seat many, top is long and laminate.
+
+#### 898686a1a3 | choice/UI | x2
+Link Door
+
+#### 070b8453f3 | choice/UI | x2
+Built to contain riots.
+
+#### bcfd2a9e79 | choice/UI | x2
+Link Chair
+
+#### d0e1df8bc2 | choice/UI | x2
+Lightweight and accessible.
+
+#### 2506629478 | choice/UI | x2
+Link Gurney
+
+#### 252b652f52 | choice/UI | x2
+A mobile, sturdy model.
+
+#### 567788d656 | choice/UI | x2
+Link Taser
+
+#### 4cfab64592 | choice/UI | x2
+Law enforcement rated, 50,000 volts.
+
+#### 8ccbf9bf72 | choice/UI | x2
+Link Table
+
+#### 5c7e4ae423 | choice/UI → MONTOYA | x2
+Heavy metal and wood construction.
+
+#### cf3fc229bf | choice/UI → MONTOYA | x2
+Link Light Fixture
+
+#### c736a4e0ac | choice/UI → JOKER | x2
+Double hanging attachments.
+
+#### 34aa638bcc | MONTOYA → JOKER | x2
+Be thorough!
+
+#### ff75f8c92a | JOKER → MONTOYA | x4
+Such a pleasure to see your work in person!
+
+#### 819b4635d4 | JOKER → BATMAN, PATRON01 | x4
+Truly inspiring!
+
+#### 081ae9ec24 | JOKER → BATMAN | x4
+Impressive, Batman!
+
+#### ae94b7e027 | choice/UI → ZSASZ | x2
+Sorry, I don’t take orders.
+
+#### 3c18881796-L? | ZSASZ | x2
+I’ll make you bleed.
+

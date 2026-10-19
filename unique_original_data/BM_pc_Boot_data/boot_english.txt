@@ -1,0 +1,83 @@
+﻿#### a3efa65a8c | choice/UI | x2
+Click to Begin
+
+#### 2772a0448d | choice/UI | x2
+Tap to Begin
+
+#### 48b998e89b | choice/UI | x2
+CONNECTING
+
+#### 916158da98 | choice/UI | x2
+Checking For DLC...
+
+#### 335f2946eb | choice/UI | x2
+Updating Event Log...
+
+#### a0af912ac6 | choice/UI | x2
+Updating Choices...
+
+#### e21470379a | choice/UI | x2
+Setting Up DLC...
+
+#### daf4bd1db2 | choice/UI | x2
+Updating Unlocks...
+
+#### 46e29a5c2d | choice/UI | x4
+Progress is saved whenever this indicator is displayed.
+Please do not turn the power off while the indicator is on screen.
+
+#### 3cde04e7ea | choice/UI | x2
+Acquiring episode...
+
+#### 491da5cd5e | choice/UI | x2
+Download Error
+
+#### 8b87b9df0c | choice/UI | x2
+Failed to download. Please ensure you have enough hard drive space and try again.
+
+#### 6221a3b980 | choice/UI | x2
+For the best experience, we recommend playing with headphones/earbuds.
+
+#### 7f47f04d86 | choice/UI | x2
+This game was built to run on iPhone 5’s or iPad3’s or newer.
+
+#### 8199e9fd88 | choice/UI | x2
+Not Signed In to iCloud
+
+#### f23c97e207 | choice/UI | x2
+Please sign in to iCloud or game progress will not be saved.
+
+#### bb1b38004d | choice/UI | x2
+EXIT
+
+#### c9226f99dd | choice/UI | x2
+IGNORE
+
+#### a78747392d | choice/UI | x1
+Software Code © 2016 Telltale, Inc. All other elements ©2016 DC Comics.  BATMAN and all related characters, their distinctive likenesses, and related elements are the property of DC Comics.™ & © 2016. Telltale, Telltale Games, Crowdplay, the Crowd Play logo and the Telltale logo are trademarks and/or registered trademarks of Telltale, Inc. All rights reserved.
+
+#### 0c517f4062 | choice/UI | x2
+Press ^imageScale:0.8^<ui_boot_facebuttonDown.d3dtx:-15> to Begin
+
+#### 4aa3d73561 | choice/UI | x1
+WBIE LOGO, WB SHIELD:™ & © Warner Bros. Entertainment Inc. (s15)
+
+#### fee9f3efde | choice/UI | x2
+Progress is saved when this indicator is displayed.
+Sign in to automatically save to the cloud.
+
+#### fd3edc6410 | choice/UI | x2
+WARNING
+
+#### ca171893b6 | choice/UI | x2
+This game will not perform properly on this device.  It is designed for newer devices. Please install on an iPhone 6 or iPad Pro or newer. Check the app store for system requirements.
+
+#### e875d3a416 | choice/UI | x2
+Update Required
+
+#### 2662e1cfa3 | choice/UI | x2
+A performance optimizing update is now available for BATMAN: The Telltale Series. Please re-download Episodes 2-5 for the ideal experience.
+
+#### e25dbd25fd | choice/UI | x2
+Press ^imageScale:0.8^<ui_boot_facebuttonRight.d3dtx:-10> to Begin
+

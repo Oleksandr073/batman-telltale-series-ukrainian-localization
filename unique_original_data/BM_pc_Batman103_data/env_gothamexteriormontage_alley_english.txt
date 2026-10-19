@@ -1,0 +1,717 @@
+﻿#### 618206f815-SM | HEROGOON | x2
+You think I’m scared of you?
+
+#### 87e34b663b | HEROGOON, COA03, SPENCER, HARVEY → BRUCE, COA04 | x8
+What are you gonna do?
+
+#### 55ae77100c | COA04, HEROGOON → COA03 | x6
+Costumed freak...
+
+#### 433fd7dca7-LM | HEROGOON → BATMAN | x2
+How does it feel, huh? Knowin’ you failed.
+
+#### 2dc339f020 | HEROGOON, GOON04 → BATMAN, CIVILIAN02, HARVEY | x8
+And the night’s not over yet.
+
+#### 170c9f4b1c | BATMAN → HEROGOON | x4
+Tell me where your leader is. [shoving him]What are you planning?
+
+#### 18e882dc33-SM | HEROGOON, GOON04 → BATMAN, COA03 | x6
+Sworn to secrecy, I’m afraid.
+
+#### 6359c2f64c | HEROGOON, GOON04, COA04 → BATMAN, COA03 | x8
+Don’t want to spoil the surprise.
+
+#### 4bed71f52b | HEROGOON → BATMAN | x2
+We still got those weapons.
+
+#### da006f88b7 | HEROGOON → BATMAN | x2
+We still got the crowd on our side.
+
+#### 287bf3f3f7 | HEROGOON → BATMAN | x2
+Those people still got hurt.
+
+#### 11ea81edc4 | BATMAN → HEROGOON | x2
+You should be.
+
+#### 36527e4a1a | HEROGOON, GOON04, COA03 → BATMAN, HARVEY, COA04 | x6
+Oh, should I?
+
+#### 54d9158951-LM | CIVILIAN01 → HEROGOON | x4
+Did you see him?
+
+#### 611f2973e4 | CIVILIAN02 → HEROGOON, BATMAN, CIVILIAN01 | x8
+Over this way!
+
+#### 461df4fd1d | BATMAN → HEROGOON | x2
+I’m not going to let you people ruin Gotham! This ends now.
+
+#### 699cfce971 | HEROGOON, GOON04 → CIVILIAN01, COA03 | x4
+Ha! You think --
+
+#### 54d9158951-L? | CIVILIAN01 → CIVILIAN02 | x4
+Did you see him?
+
+#### cf07cb95b2 | BATMAN, HEROGOON, GOON04, COA03 → LADYARKHAM, CIVILIAN01, COA03 | x10
+Ah!
+
+#### df486c5b78 | choice/UI, ALFRED → CIVILIAN02, BRUCE | x4
+You should be scared.
+
+#### 3a3c0bee06 | HEROGOON, GOON04 → BATMAN, COA03 | x4
+The speech.
+
+#### 79dc254b1e | BATMAN → HEROGOON | x2
+This can get so much worse for you.
+
+#### 8a5324709d | BATMAN → HEROGOON | x2
+Speak louder.
+
+#### ebf7db4b8c | HEROGOON → BATMAN | x2
+Harvey Dent’s speech. That’s where they’re going. They’ll--
+
+#### 85b143315d | COA03 → COA04 | x2
+Boss says the Batman’s heading this way. Should be here any second.
+
+#### 5de7ddc618 | COA04 → COA03 | x2
+And we’ll be ready for him.  Take him down before the Mayor pulls through.
+
+#### d71a80d165 | COA03 → COA04 | x2
+What about us? What if he--
+
+#### 7c39311f7a-L? | COA04 → COA03 | x2
+You scared or something? What the hell is wrong with you?
+
+#### d5e9b26da4 | GOON03 → COA04 | x2
+Get out of the car!
+
+#### e6188441b8 | HARVEY → GOON03 | x2
+What the hell is going on?
+
+#### 9c03104d39-LM | GOON03 → HARVEY | x2
+You heard me. Get the HELL out of the car!
+
+#### 946bf9db7e | GOON04 → GOON03 | x2
+You’d better listen to us, Mister Mayor. Wouldn’t want to hurt your pretty face anymore, would we?
+
+#### ce5d8e9245 | HARVEY → GOON03 | x4
+Hey, stay the hell away from me!
+
+#### ab60388148 | GOON03 → GOON04, ASSISTANT | x4
+You want us to screw up your face even more? Is that what you want?
+
+#### 47d6559184 | GOON04 → HARVEY | x2
+We don’t have to make this anymore difficult than it needs to be. Just turn your car around and go home, Mister Mayor.
+
+#### 485e87be17 | BATMAN → COA03 | x2
+Night night.
+
+#### c58163ed8e-L? | COA03 → COA04 | x2
+You’re right, he ain’t got nothing on us.
+
+#### 0fe9e460ab | COA04 → COA03 | x2
+The boss’ll be real impressed if we take out the Bat.
+
+#### 97c05b720c | COA03 → COA04 | x2
+You talking about a promotion?
+
+#### 209b018008 | COA04 → COA03 | x2
+I’m talking about shooting straight to the top! Boss needs some right hand men, right?
+
+#### 5d2e6e4ad6 | ASSISTANT → HARVEY | x4
+Mr. Dent, don’t--
+
+#### 2d7ce6d9f4 | HARVEY → COA04 | x4
+Stay behind me, Deborah. [To Goons]Just let us through. Haven’t you done enough harm as it is?
+
+#### fdf294b52f-L? | COA04 → ASSISTANT, COA03 | x4
+Boss doesn’t think so. Seeing as you still got the Mayor’s seat.
+
+#### 3a61a41363 | ASSISTANT → HARVEY | x2
+No, please! Stop it!
+
+#### c3e42e0521 | GOON04 → COA04 | x2
+We warned you! Now you’ll see what happens when you don’t listen to the Children of Arkham!
+
+#### 6446d6cf0d | COA04 → GOON04 | x2
+Hey Nicky! You see anything?
+
+#### bd4a602b9f | GOON04 → COA04 | x2
+Something’s wrong.
+
+#### 16057dc406 | COA04 → GOON04 | x2
+Christ. You two! Go check it out. I’ll deal with Dent here.
+
+#### e89c055351 | GOON04 → COA04 | x2
+Christ. The car’s pulling up.
+
+#### 952877cf0e-SM | GOON04 → COA04 | x2
+You two! Go check on Marty. I’ve got the Mayor.
+
+#### 70a76aed8e | GOON04, COA04, COA03 → COA04, COA03 | x6
+Christ. The car’s coming.
+
+#### 305647f2a7-SM | GOON04 → HARVEY | x2
+You two! Go check on Nikki. I’ve got the Mayor.
+
+#### ae5178c973 | GOON04, COA04 → HARVEY | x4
+Hey! Out of the car, Dent!
+
+#### 77440567e4 | HARVEY → GOON04 | x2
+What the hell’s going on.
+
+#### 7ada2c9f8d-LM | GOON04 → HARVEY | x2
+You heard me! Get the hell out of the car!
+
+#### d19018240d | GOON04, COA04 → HARVEY, COA03 | x4
+You better listen, Mister Mayor. Wouldn’t want that pretty face to take another beating, would we?
+
+#### da5f138c61 | ASSISTANT → HARVEY | x2
+Mister Dent...
+
+#### 7729d2b0d7 | HARVEY → GOON04 | x2
+Don’t worry Deborah, I’ll handle this--
+
+#### 5698b83a2d | COA04, GOON04 → HARVEY, COA03, ASSISTANT | x6
+Dammit--
+
+#### b811418261 | GOON03, COA03 → HARVEY, COA04 | x4
+It’s the Batman!
+
+#### 448748164c-LM | HARVEY → GOON04 | x2
+This is the second time you’ve helped me.
+
+#### ba6297250c-SM | HARVEY → GOON03 | x2
+I misjudged you, and I’m sorry. I’d looked at you like a vigilante and not an ally.
+
+#### 4c5abb6766-LM | HARVEY → GOON03 | x2
+Sounds like you’ve got your plate full tonight. You better go.
+
+#### 7a54608d24-LM | HARVEY → BATMAN | x2
+Hope you won’t mind keeping an eye out for any Children of Arkham at my speech. Could really use the backup.
+
+#### fa18ab707c | choice/UI, LUCIUS → BATMAN, HARVEY, GORDON | x12
+Be careful.
+
+#### 62968acc3e-LM | choice/UI → HARVEY | x2
+Gotham’s lucky to have you.
+
+#### 9bddf0a326-SM | choice/UI → HARVEY | x2
+I’ve got your back.
+
+#### 7c52b696d5-LM | BATMAN → HARVEY | x4
+Be careful. The Children of Arkham still have you in their sights.
+
+#### 65ee8ddd91 | HARVEY → BATMAN | x2
+I can handle a couple of low-lifes like them.
+
+#### 731f7932b6 | BRUCE, BATMAN → HARVEY, GOON04 | x4
+You should turn your car around. Don’t give your speech tonight.
+
+#### 1bad3969de | HARVEY → BATMAN | x2
+And let the Children of Arkham get what they want? I appreciate the warning, but I’m not backing down.
+
+#### 5e97129acd | HARVEY → BRUCE, BATMAN | x8
+Just watch my back at the speech--I don’t know if I can handle a surprise attack..
+
+#### 2cf3833714 | BATMAN → HARVEY | x2
+Don’t worry. I’ll keep an eye out for you.
+
+#### 562c590f2e-SM | HARVEY → BATMAN | x2
+And I’m glad. But I can take care of myself.
+
+#### 4301676616 | HARVEY → BATMAN | x2
+Thanks again. I owe you one.
+
+#### b13bf98d53 | HARVEY → HEROGOON | x2
+It’s absolute chaos out there.
+
+#### 577fa0bdd4 | HARVEY → HEROGOON | x2
+What the hell do you think you’re doing here?
+
+#### 6b9d67a323-SM | HARVEY → HEROGOON | x2
+Last time I checked, I didn’t need your god damn help, bat freak!
+
+#### 50b27657ef | HEROGOON, GOON04, COA04 → HARVEY, COA04 | x6
+Yeah, bat freak!
+
+#### 4186ad4246 | HARVEY → BATMAN | x2
+Get the hell away from us.
+
+#### 9de2988a0e | choice/UI → HARVEY | x2
+You’ll be a good mayor.
+
+#### 19b515fa8b | BATMAN → HARVEY | x2
+You should turn your car around. It’s too dangerous to give your speech tonight.
+
+#### b3296f139a | HARVEY → BATMAN | x2
+Screw you. I’m gonna do whatever I want, and Batman sure as hell isn’t going to tell me otherwise.
+
+#### 52877d80a5 | BATMAN → HARVEY | x2
+You’re in danger. The Children of Arkham will come after you again.
+
+#### 2aa6130839 | HARVEY → BATMAN | x2
+I can handle the Children of Arkham without your help.
+
+#### c8033434f5 | HARVEY → BATMAN | x2
+Go screw youself, Batman. Or the next guy that’s getting decked is you.
+
+#### 8ecf760c3c | HARVEY → GOON04 | x2
+What did I say? Get out of here!
+
+#### 618206f815-S? | COA03 → GOON04 | x2
+You think I’m scared of you?
+
+#### 84955f0fb0-S? | COA03 → GOON04 | x2
+No, I’m fine.
+
+#### af9fd7a348 | LELAND, COA04, BRUCE, JOKER → JOKER, BATMAN, LUCIUS | x12
+Come on!
+
+#### 0e11f5bcc1 | COA03, COA04 → BATMAN, ASSISTANT | x4
+Come on out!
+
+#### d29a8cb045-SM | BATMAN → COA04 | x2
+I’m not sorry about the headache you’ll have later.
+
+#### 15473d2dd1-S? | COA04 → GOON04 | x2
+You two! Go check on Nicky. I’ve got the Mayor.
+
+#### 7ada2c9f8d-L? | COA04 → COA03 | x2
+You heard me! Get the hell out of the car!
+
+#### f0866d256d | COA03 → COA04 | x2
+So soon?
+
+#### fe7f1e87b8 | COA03 → COA04 | x2
+The night’s not even over yet.
+
+#### 18e882dc33-S? | COA04 → COA03 | x2
+Sworn to secrecy, I’m afraid.
+
+#### 22896b5db7-LM | BATMAN → HARVEY | x2
+Gotham is lucky to have you as mayor.
+
+#### 9c7224717e | HARVEY, GORDON → COA04, BRUCE | x4
+I appreciate your vote of confidence.
+
+#### 392405a008 | HARVEY → BATMAN | x2
+With you and me working together, we can fix this city.
+
+#### 423478da23 | HARVEY → BATMAN | x2
+Make sure you’re watching out for everyone else too.
+
+#### 826c4daec5 | HARVEY → COA04 | x2
+The Children of Arkham chose one hell of a night to strike out.
+
+#### 2ae507161b | HARVEY → BATMAN | x2
+Batman. Be safe out there.
+
+#### b283d4f049 | HARVEY → COA04 | x2
+The Mayor’s on your side.
+
+#### e2685bd9a3 | HARVEY → COA04 | x2
+I’m the mayor now and things are gonna change around here.
+
+#### b3edce3e67 | HARVEY → COA04 | x2
+Starting with people like you.
+
+#### 62ba121c8b | BATMAN → HARVEY | x2
+I know you’ll be a good mayor for Gotham.
+
+#### 6a0484d4e0-LM | HARVEY → BATMAN | x2
+If you thought that, you should have helped me at the debate.
+
+#### 77fa8bb0d0-SM | HARVEY → BATMAN | x2
+I was hospitalized.
+
+#### 21f80aea9c | HARVEY → BATMAN | x2
+You masks are all the same.
+
+#### 3bd69f2f2f | HARVEY | x2
+This city is a battleground.
+
+#### 06b6584d28 | HARVEY | x2
+It’s bad enough without people like you...
+
+#### e9ce995609 | HARVEY | x2
+Gotham won’t need you anymore.
+
+#### 9f3e2e5d91 | HARVEY → BATMAN | x2
+Keep sticking your nose into my business and you’ll be sorry, Batman.
+
+#### 1fcc94a77c | HARVEY → BATMAN | x2
+This is my city, now. Not yours.
+
+#### 067cff7d26 | HARVEY → BATMAN | x4
+Not yours.
+
+#### a6c49b4425 | COA04 → GORDON | x2
+As long as Nicky does his damn job.
+
+#### 1f6843f621 | COA03 → COA04 | x2
+Why’d we put him on look-out anyway?
+
+#### a51e8cd350 | COA04 → COA03 | x2
+Nicky!
+
+#### baf8317ede | COA04 → COA03 | x2
+Hey Nicky! Get the hell over here!
+
+#### 2b28c75ab6 | COA04 → COA03 | x2
+Nicky?
+
+#### 640b00cd96 | COA03, OSWALD → COA04 | x4
+Where the hell is he?
+
+#### 02bd62b26c-S? | COA04 → ASSISTANT | x2
+I said get out of the car!
+
+#### 782e49f735 | COA04 → ASSISTANT | x2
+What the--[punched]
+
+#### bb7091ef8c | HARVEY, ASSISTANT, BRUCE → SELINA, COA04, JOKER | x12
+Don’t!
+
+#### 2bb00c0298 | ASSISTANT → COA04 | x2
+Are you crazy?!
+
+#### db7f299efd | ASSISTANT → BATMAN | x2
+Yeah. You? [beat; awkward]Sorry dumb question.
+
+#### f6b7c4f396 | BATMAN → ASSISTANT, HARVEY | x4
+Everyone alright?
+
+#### 925cb7b27b | ASSISTANT → BATMAN | x2
+I’ll call us a cab.
+
+#### c7466e60a0 | HARVEY → BATMAN | x2
+Gotham does not need you taking matters into your own hands.
+
+#### 0b940e1680 | HARVEY → ASSISTANT | x2
+You make these freaks think it’s okay!
+
+#### 5c08551f74-LM | HARVEY → BATMAN | x2
+Yeah well, no thanks to you. You left me for dead once before.
+
+#### 2419aaef4e-L? | HARVEY → ASSISTANT | x2
+You showed me where you stood back at the debate.
+
+#### f53d3fa0ca | ASSISTANT → HARVEY | x2
+Hey, c’mon. Let’s go. I’ll call us a cab.
+
+#### 6acfc07442-SM | choice/UI → HARVEY | x2
+I just saved your life!
+
+#### 2ddb248974-SM | BATMAN → HARVEY | x2
+I just saved your life. Show a little gratitude.
+
+#### f4cd7e0c23-LM | HARVEY → BATMAN | x2
+This doesn’t make up for what you did at the debate. You left me for de
+
+#### cdb1106b1d | HARVEY → BATMAN | x2
+Don’t pretend like you care for my safety.
+
+#### c36d965375 | choice/UI → HARVEY, OSWALD | x4
+You might have a mole.
+
+#### 879282aa49 | choice/UI → HARVEY, OSWALD | x4
+You’ve been hacked.
+
+#### b5abef86ba-SM | BATMAN → HARVEY | x2
+Thanks. But I’ve got my own.
+
+#### 1311277508 | LADYARKHAM → HARVEY | x2
+Squad cars 324, 325, and 393 en route to Penguin. 394 deployed. Get yourselves over there.
+
+#### f18194059e | LADYARKHAM → BATMAN, OSWALD | x4
+Squad cars 324, 325, and 393 en route to the warehouse. 394 deployed. Get your guys over here.
+
+#### dd176df641 | COMMISSIONER → GORDON | x4
+Gordon, answer me!
+
+#### e19d0adb61 | choice/UI → LADYARKHAM | x2
+Land on goon.
+
+#### 1c3503922f | choice/UI | x2
+Land On Goon
+
+#### 800e215cd2 | choice/UI → COA03 | x2
+Land On Car
+
+#### 4643931031 | choice/UI → COA03 | x2
+Get Over Here
+
+#### b747387eec | BATMAN → LADYARKHAM | x2
+What’s that supposed to mean?
+
+#### c5dc798418 | BATMAN → COA03 | x2
+That’s not an answer!
+
+#### d33ce21b4a | COA03 → BATMAN, GORDON | x5
+There’s nothing the cops can do that we won’t know about.
+
+#### 7c4d2de66d | COA03 → BATMAN | x5
+Including every time Gordon uses you as his errand boy.
+
+#### 7c39dafac2 | COA03 → BATMAN | x2
+Hurt me all you want.
+
+#### 485d8374f4 | COA03 → CHEMTHUG | x2
+Keep working with the pigs and we’ll know all your secrets.
+
+#### c2dd2d9e2a | COA03 → BATMAN | x2
+That all depends on you, Batman.
+
+#### 3c8c6b942b | CHEMTHUG → COA03, GORDON | x4
+Heads up. They got three black-and-whites headed for the handoff.
+
+#### 858ddeea41 | GORDON → CHEMTHUG, BATMAN | x4
+How? We’ve been using a secure channel... You sayin’ we got a leak?
+
+#### a2b45a478c | GORDON → CHEMTHUG, BATMAN | x4
+Gordon to command. Anyone there?
+
+#### 51f6587bcf | choice/UI → GORDON | x4
+I’ll handle this.
+
+#### 4853dba726 | choice/UI → GORDON | x4
+Suck it up.
+
+#### 44268b7beb | choice/UI → GORDON | x4
+You’re doing fine.
+
+#### 738a5d2ab6 | GORDON → CHEMTHUG | x2
+Get me the Commissioner, ASAP.
+
+#### 59271adf94 | GROGAN → GORDON | x4
+Command here. What is it, Gordon?
+
+#### b311673c32 | COP04 → GORDON | x2
+The Commissioner? What’s this regarding?
+
+#### 625f9aec98 | GORDON → COP04 | x2
+It’s important. Just find him.
+
+#### 2d545f2b98 | COP04 → GORDON | x2
+Roger that.
+
+#### 54bc8bc0ff | BATMAN → COP04 | x2
+Gordon, get off the radio! Now!
+
+#### 1cb6817863 | BATMAN → GORDON | x6
+It’s been compromised.
+
+#### 4173fc13db | BATMAN → GORDON | x4
+Turn that off!
+
+#### e31f576d20 | BATMAN → GORDON | x4
+The Children of Arkham are listening in on the GCPD’s communications.
+
+#### c199f883c4 | BATMAN → GORDON | x4
+The Children of Arkham can hear everything the cops are saying.
+
+#### c022f00632 | GORDON → BATMAN | x2
+What can we do?
+
+#### 4ce73284bb | GORDON → BATMAN | x4
+We’ve gotta have some way to communicate.
+
+#### a30f559410 | BATMAN → GORDON | x2
+I’ll figure it out.
+
+#### 9d4518fb49 | GORDON → BATMAN | x4
+If we can’t organize a response... then they’ve already won.
+
+#### 4a445b0437 | GORDON → BATMAN | x4
+They outnumber us already.
+
+#### f262b0881a | GORDON → BATMAN | x4
+And now we’re crippled.
+
+#### 75fab7813a | GORDON → BATMAN | x4
+This battle’s lost and I can’t do a damn thing about it!
+
+#### 1836b3993c | GORDON → BATMAN | x4
+This city’s falling apart on my watch.
+
+#### 04ca63052f | BATMAN → GORDON | x4
+Just stay calm. I’ll handle it.
+
+#### 83856480e8 | GORDON → BATMAN, MONTOYA | x4
+Stay calm, he says. We better figure something out. Fast.
+
+#### d41891422a | BATMAN → GORDON | x4
+There’s no time for self-pity, Gordon. Suck it up and fight.
+
+#### 89c1f53299 | GORDON → BATMAN | x4
+I’m doing everything I can!
+
+#### 2ea47dac88-LM | BATMAN → GORDON | x4
+You can’t blame yourself. No one saw this coming.
+
+#### 16bbbacfe5 | GORDON → BATMAN | x4
+We can both come up with excuses when everything isn’t on fire.
+
+#### a7b49fe29b | GORDON → BATMAN | x4
+I guess there’s always carrier pigeons.
+
+#### aaf587f7d3 | BATMAN → GORDON | x4
+I’m gonna look into this. I’ll let you know what I find.
+
+#### 4d65d8fb4e | BATMAN → GORDON | x4
+In the meantime, it’s radio silent. You understand?
+
+#### 592353e0c7 | COA02 → HARVEY | x2
+Outta the car, Dent!
+
+#### 559a1fad8c | COA03 → COA02 | x2
+We gotta hurry. Batman’s on his way.
+
+#### 4b4031f3d5 | COA02 → BATMAN | x2
+Relax, we’ll be ready for him.
+
+#### fd12978c8e | HARVEY → COA02 | x2
+Listen, I don’t want any trouble.
+
+#### fd071d4bc4 | COA02 → HARVEY | x2
+Too late, Dent!
+
+#### a5ffca4c29 | CHEMTHUG → HARVEY, BATMAN | x4
+Gordon’s with ‘em.
+
+#### db28828ef4 | HARVEY → ASSISTANT | x2
+Get behind me, Deborah!
+
+#### dcba5746b8 | ASSISTANT → BATMAN | x2
+Just leave us alone!
+
+#### 606f4653c4 | BATMAN → ASSISTANT | x2
+Start talking and I’ll hand you over to the police in one piece.
+
+#### 2752f2923c | GORDON → BATMAN | x4
+I better call this in.
+
+#### 4461dc3c55 | GORDON → COA03, BATMAN | x4
+I’ll see what I can dig up on my end.
+
+#### a1d4728671-LM | BATMAN → GORDON | x4
+Here. Use this if you need to get in contact.
+
+#### 9895a39dc4 | GORDON → BATMAN | x6
+We got our{AngryA}{FaceAccent} asses handed to us.
+
+#### 475aa13ec8 | GORDON → BATMAN | x2
+They almost got to Harvey...
+
+#### a15743b60e-LM | BATMAN → GORDON | x6
+They knew you were coming.
+
+#### 985381b4e5 | GROGAN → GORDON | x4
+Gordon! Gordon, come in! Do you copy?
+
+#### 0260cfeff6 | choice/UI → COA03, HARVEY | x4
+[Threaten him]
+
+#### bfc577465d | COA03 → GROGAN, CHEMTHUG | x4
+Dent got lucky this time.
+
+#### 149d5b36a6 | COA03 → COP02, CHEMTHUG | x4
+What are you gonna do without your protector?
+
+#### aff024fe4a | GORDON → COA03 | x2
+w
+
+#### 2b7ee9ba21 | choice/UI → COA03 | x2
+He would’ve wished for death.
+
+#### 1afec4a247-SM | choice/UI → COP02 | x2
+I would’ve arrested him!
+
+#### 7dab32faf0 | COP02 → COA03 | x2
+Self-defense he says.
+
+#### bf53c57f16 | COP02 → COA03, MONTOYA | x3
+New mayor’s pretty tough, turns out. Killed one of those guys attacking him with his bare hands.
+
+#### 176b27fc29 | BATMAN → COP02, MONTOYA | x3
+Dent did that?
+
+#### d9c934bb2d-LM | COP02 → BATMAN | x2
+Guess the fella’s lucky Dent got to him before you did, huh?
+
+#### 943948b650 | COP02 → BATMAN | x2
+You don’t kill, but...
+
+#### f53e112d38 | COP02 → BATMAN | x2
+Sometimes you do worse, don’t you?
+
+#### 4501303094 | COP02 → BATMAN | x2
+At least this way it was over quick.
+
+#### 8ce963d485 | BATMAN → COP02 | x2
+If you have something to say then say it.
+
+#### 9b686ef9d4 | COP02 → BATMAN | x2
+We all know how you operate.
+
+#### e9158b84eb | BATMAN → COP02 | x2
+I’d have put him in jail.
+
+#### 987aec3175-SM | BATMAN → COP02 | x2
+So unless you’re making a comment on the justice system, I’m afraid you’ve been misinformed.
+
+#### 9155454ec6 | COP02 → BATMAN | x2
+[pick
+
+#### 1816e37783 | COP02 → BATMAN, CHEMTHUG | x4
+You’ve been trying this nice guy routine lately, but I don’t buy it for a second.
+
+#### 9e36329d32 | COP02 → BATMAN | x4
+You like to see them hurt don’t you?
+
+#### 1427b3cc3f | COP02 → BATMAN | x4
+They’re not dead, but they wish they were.
+
+#### a8833e4be0 | COP02 → BATMAN | x8
+At least this one died quick.
+
+#### 8b6ce01e0c-L? | BATMAN → COP02 | x2
+You’re wrong about me.
+
+#### 841bb73510 | COP02 → BATMAN | x2
+You think any of us are buying this recent nice guy routine? We’ve all heard the stories about you.
+
+#### 8d3c859677-LM | COP02 → BATMAN | x2
+Yeah they get around to us eventually, but you hurt them first, don’t you?
+
+#### a296dbe393 | COP02 → BATMAN | x2
+They beg for mercy but you never give it.
+
+#### 1e9b2f14c1-L? | BATMAN → COP02 | x2
+You’re right. [beat]I wouldn’t have let him off that easy.
+
+#### ce693bfe7d | COP02 → BATMAN | x2
+‘Course you woudn’t.
+
+#### ad27b95e00-S? | COP02 → BATMAN | x2
+You may not kill, but I’ve heard stories about you.
+
+#### e43e990ecd-S? | COP02 → CHEMTHUG | x2
+And I thought Gotham was rough before.
+
+#### c558e63326 | COP02 → CHEMTHUG | x2
+Things are changing in Gotham, that’s for sure...
+
+#### 5424630a3e | CHEMTHUG → COP02 | x2
+Heads up. The cops just sent three black-and-whites to stop our guys at the construction site.
+
+#### 11bb58114c | CHEMTHUG → COP02, MONTOYA | x4
+From the chatter, sounds like Gordon’s with ‘em.
+
+#### 1529ed57f2 | CHEMTHUG → COA03 | x2
+Heads up. The cops just sent three black-and-whites to stop our guys at the handoff.
+
+#### ed630999ca | BATMAN, choice/UI → HARVEY, CHEMTHUG | x10
+This ends now!
+

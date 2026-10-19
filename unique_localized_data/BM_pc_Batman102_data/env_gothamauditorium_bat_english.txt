@@ -1,0 +1,2202 @@
+﻿#### 0a549752f1 | choice/UI → ALFRED | x2
+I trust her.
+
+#### 512390a967 | choice/UI → ALFRED | x2
+That’s not important.
+
+#### 2b521aac1f | choice/UI → OSWALD | x2
+We’re all on the same side.
+
+#### f9df8b6b84 | choice/UI → MONTOYA, YOUNGHILL | x8
+Give us more time.
+
+#### 2193efe1c5 | choice/UI → MONTOYA, YOUNGHILL | x6
+That’s a terrible idea.
+
+#### 0aa577f6fa | choice/UI → GORDON, YOUNGHILL | x8
+I trust your judgment.
+
+#### 7748a59dd3 | choice/UI → PENGUIN, CATWOMAN | x8
+Don’t get used to it.
+
+#### 96b262732e | choice/UI, BATMAN → CATWOMAN, PENGUIN | x10
+I’m putting my faith in you.
+
+#### 7e4825c090 | choice/UI → CATWOMAN, THOMAS | x10
+Try not to break it.
+
+#### a84401d470 | choice/UI, BATMAN → ALFRED, CATWOMAN | x10
+No one else dies.
+
+#### bf9565b182 | choice/UI, LUCIUS → BRUCE | x6
+I know that.
+
+#### 07feba2c98 | choice/UI | x2
+Don’t think about the odds.
+
+#### 5c659adee4-L? | choice/UI | x2
+And I know that you killed him.
+
+#### 65c2159ea5-L? | choice/UI | x4
+You finished?
+
+#### cebd9c5d62-L? | choice/UI | x6
+You mean the man you shot?
+
+#### b986df3be6-SM | choice/UI, LUCIUS → MONTOYA, BATMAN | x10
+I need you to trust me.
+
+#### 522948af8c-SM | choice/UI → MONTOYA | x8
+I heard what happened.
+
+#### f858162b49 | choice/UI → MONTOYA | x8
+You’ll do fine.
+
+#### 99552c5677 | choice/UI → THEPHAROH | x6
+He’s insane.
+
+#### 73968ed974 | choice/UI → MONTOYA | x4
+I don’t like where this is going.
+
+#### 1b59508a65 | choice/UI | x2
+I’m tuning him out.
+
+#### 4e78180223-SM | choice/UI | x2
+I underestimated him.
+
+#### be02b297ee | choice/UI | x4
+Friend of yours?
+
+#### fd92d68841 | choice/UI | x2
+What’s with the get up?
+
+#### 409806a225 | choice/UI | x2
+Smart ass.
+
+#### 0ba1581220 | choice/UI | x2
+It’s almost refreshing.
+
+#### 3aa9a7b6bd | choice/UI | x2
+It’s political suicide.
+
+#### 96fed94deb | choice/UI → MONTOYA | x6
+Time to up your game.
+
+#### d49963ce54-SM | choice/UI | x2
+I’ve got this under control.
+
+#### 158ae73f49 | choice/UI | x2
+Storm the building and people die.
+
+#### 389dac1fc4 | choice/UI | x2
+Things just got worse.
+
+#### c701c3592a | choice/UI → MONTOYA | x6
+I know you can do it.
+
+#### dd08875a28 | choice/UI → MONTOYA | x6
+Fine, then leave it to me.
+
+#### a510e0a0c1 | choice/UI | x4
+Things keep getting worse.
+
+#### d9a198ae9c | choice/UI → MONTOYA | x2
+Be quiet!
+
+#### d8047fb06b | HARVEY, choice/UI → BATMAN, MONTOYA | x12
+He’s dead.
+
+#### 079b392a17 | BATMAN → GORDON | x2
+Jim. Anything out of the ordinary?
+
+#### 8b687ff24b | BATMAN → MONTOYA | x2
+Montoya.
+
+#### c32de4ae78 | MONTOYA → BATMAN | x2
+Batman. Listen, I know Gordon trusts you... (something about how that doesn’t extend to her)
+
+#### 3e686d5973 | choice/UI → MONTOYA | x2
+Neither did I.
+
+#### b686775be9 | choice/UI | x2
+We make mistakes, people die.
+
+#### e70708161b | choice/UI → GORDON | x6
+The night where a cop shot me?
+
+#### 738450f451 | choice/UI | x2
+Just hold the perimeter.
+
+#### 2773c49dbd | choice/UI → GORDON | x6
+That’s not important right now.
+
+#### ad0e6f51f8 | choice/UI → MONTOYA, GORDON | x6
+She’s making up for it.
+
+#### 7caf946e19 | MONTOYA → BATMAN | x2
+Listen, I know Gordon trusts you.
+
+#### 0824342800 | MONTOYA → BATMAN | x6
+Listen, I know you and Lieutenant Gordon have some kind of special trust... but I have my doubts about working with you.
+
+#### 4d6f05a3b4-LM | MONTOYA → BATMAN | x4
+Especially after what you did to Falcone at the Skyline.
+
+#### ebcd181f3e-LF | BATMAN → MONTOYA | x6
+You really want to bring up Falcone? After you shot him in his hospital bed?
+
+#### 3c218b10d7-LM | MONTOYA → BATMAN | x4
+H-how did you...?
+
+#### 0687516de7 | BATMAN → MONTOYA | x6
+Not important. Keep your head in the game, Detective. There are lives at stake.
+
+#### 8101b5e59b-LF | BATMAN → MONTOYA | x6
+Whenever you’re finished handing out judgment, we have people to save.
+
+#### f0eff7f543 | MONTOYA → BATMAN | x6
+It’s no surprise most of the cops are afraid of you.
+
+#### e2dd5a2e1d | BATMAN → MONTOYA | x6
+Keep your head in the game, Detective. There are lives at stake.
+
+#### fab9c7cb5b-LM | MONTOYA → BATMAN | x6
+Impaling him on that reinforced bar... you took it too far.
+
+#### 14bc931dc0 | MONTOYA → BATMAN | x6
+Batman. I know Lieutenant Gordon is usually the one that, you know, handles the meetings.
+
+#### 737b3b17d9 | MONTOYA → BATMAN, CATWOMAN | x6
+He... he can’t be here tonight, so I’m...
+
+#### 70d60ea5f0-LF | BATMAN → MONTOYA | x6
+If we’re going to work together, you need to trust me.
+
+#### 60dfc00ac5 | BATMAN → MONTOYA, PENGUIN | x6
+This partnership doesn’t work without it.
+
+#### 53854b9934-SF | CATWOMAN → BATMAN | x2
+I found a way to get inside without being seen.
+
+#### c499cb91cc | MONTOYA → BATMAN | x6
+She’s the one who broke into the mayor’s office --
+
+#### ea2b91a317 | BATMAN → MONTOYA, CATWOMAN | x6
+The same night one of your men shot me in the back?
+
+#### 9e40380be2 | CATWOMAN → BATMAN | x6
+Meow. Watch out for those claws.
+
+#### d620c827b9 | BATMAN → MONTOYA | x2
+I think she’s mending her ways.
+
+#### 705e61280b | CATWOMAN → BATMAN | x2
+No I haven’t.
+
+#### ce97182e46 | BATMAN → CATWOMAN | x2
+The break-in isn’t important.  Protecting the debate is.
+
+#### 5f929d44f8 | MONTOYA → BATMAN, PENGUIN | x6
+Easier said than done. But I’ll try for the sake of the hostages.
+
+#### dfc181a178 | BATMAN → MONTOYA, CATWOMAN | x6
+I know about the mess with Jim and Falcone.
+
+#### 2ffa4d6dd0 | BATMAN → MONTOYA | x6
+Keep your secrets, Detective. Jim knows what he’s doing.
+
+#### 54a6d430fa | BATMAN → MONTOYA | x6
+Don’t worry, Detective. You’ll make Jim proud.
+
+#### e90d069dfc-SM | BATMAN → MONTOYA | x6
+He starts by telling me what I need to know about the situation.
+
+#### 678dd08c1c | BATMAN → MONTOYA | x6
+We can work on the rapport later.
+
+#### cd64345da5-LM | ALFRED, MONTOYA, HARVEY, REGINA → BRUCE, BATMAN, FALCONE | x22
+I hope you’re right.
+
+#### 7262052546 | MONTOYA → BATMAN | x6
+I’m standing in for him.
+
+#### d4a6b92bc3 | MONTOYA → BATMAN, CATWOMAN | x6
+It doesn’t feel right to me, either.
+
+#### ba093d4035 | CATWOMAN → MONTOYA, BATMAN | x6
+Really? You’re going to drag out that dead horse?
+
+#### d3b7d45e28 | MONTOYA, ALFRED, GORDON → BATMAN, MONTOYA, CATWOMAN | x10
+What’s she doing here?
+
+#### 603fdb9d23 | BATMAN → MONTOYA | x2
+I’d say that was more important.
+
+#### 7fe693486f | MONTOYA → GORDON | x2
+Over thirty hostages, including Mayor Hill and DA Harvey Dent. The perps, calling themselves the Children of Arkham, are heavily armed and organized, but the GCPD has no idea how many of them there are.
+
+#### c2557204c2 | MONTOYA → GORDON | x2
+It ain’t looking good.
+
+#### a0ca99975b | MONTOYA, GORDON → MONTOYA, CATWOMAN, BATMAN | x6
+We got at least thirty hostages, including Mayor Hill and Harvey Dent.
+
+#### afbed751a3 | MONTOYA, GORDON → CATWOMAN, MONTOYA | x6
+The perps are armed and organized -- we don’t have an exact numb--
+
+#### 5e5c4eec2f | MONTOYA → GORDON | x2
+But the GCPD has no idea how many of them there are.
+
+#### dac027100b | CATWOMAN → MONTOYA, GORDON | x6
+Ten in the main hall, six in the back covering the exit.
+
+#### 1ab1c41a3e | MONTOYA, GORDON, BRUCE, LADYARKHAM → CATWOMAN, MONTOYA, JOKER | x10
+How do you know that?
+
+#### 038d2c7c03 | BATMAN → GORDON | x2
+Nevermind. We’ll take it from here, Lieutenant.
+
+#### 337abf29d3 | CATWOMAN → BATMAN | x2
+You should be thrilled.
+
+#### 053d250e27 | MONTOYA → BATMAN | x2
+Just keep a lid on the mutiliation. If you pull that shit again, the GCPD can’t have your back.
+
+#### 094e3d3b2b | LUCIUS, BATMAN → MONTOYA | x8
+I’ll do what needs to be done.
+
+#### 44f6df00f7 | MONTOYA → BATMAN | x2
+If you pull that shit again tonight, you and the GCPD are finished.
+
+#### fd7a0556f6 | BATMAN, choice/UI → MONTOYA | x4
+We don’t have time for this.
+
+#### 70ff664ea5 | MONTOYA → BATMAN | x2
+We don’t, but if you pull that shit again tonight, you and the GCPD are done.
+
+#### d01d17bca9 | GORDON → MONTOYA | x2
+I can buy you about ten minutes. After that, we’re storming the building.
+
+#### a36a0ca3b6 | CATWOMAN → MONTOYA | x2
+You don’t want to do that. You come rushing in, everyone will die.
+
+#### dd60d5b768 | MONTOYA → GORDON | x2
+Thirty minutes. And that’s assuming things don’t go pear-shaped.
+
+#### 69626a073b | MONTOYA → GORDON | x2
+In the meantime - what can I do to help?
+
+#### a7a9a4054b | BATMAN → MONTOYA | x2
+Not much of a window.
+
+#### 7ec4775230 | GORDON → BATMAN | x2
+With the mayor in there it’s as wide as it’s going to get.
+
+#### 745490629d | BATMAN → GORDON | x2
+You come charging in, people are going to die.
+
+#### a8b438cbf5 | BATMAN → MONTOYA, GORDON | x6
+It’s risky, but I trust you to make the right call.
+
+#### b1739384e2 | BATMAN → GORDON | x2
+Sounds like a vote for Dent, Lieutenant.
+
+#### 3d4ee72a46 | GORDON → BATMAN | x2
+We are seriously underfunded at the GCPD.
+
+#### fcc2a2c8e6 | CATWOMAN → BATMAN | x4
+Oh, Batman. You’re letting me play with your toys?
+
+#### ac86bb7fb0 | BATMAN → GORDON, CATWOMAN | x4
+Memorize their positions. We have to act quickly.
+
+#### cea452e245 | MONTOYA → BATMAN, GORDON | x6
+Not bad.
+
+#### edd9739ccb | MONTOYA, GORDON → BATMAN, PENGUIN | x6
+Damn. You guys got all the gadgets, huh...
+
+#### 98c53aa3f7 | PENGUIN → BATMAN | x4
+Apologies, ladies and gents. As you might have guessed, there’s been a change to tonight’s program.
+
+#### 242681c6b2 | PENGUIN → MONTOYA | x2
+First up, firing the moderator.
+
+#### 32d9f8529f | PENGUIN → GORDON | x2
+First up, firing the moderator
+
+#### e4293ce952 | PENGUIN → BATMAN | x2
+First order of business -- firing the moderator.
+
+#### 840b1d9948 | PENGUIN → BATMAN, BLOCKBUSTER, LADYARKHAM | x5
+-- firing the moderator.
+
+#### 3cf77d1266 | PENGUIN → LADYARKHAM, BATMAN, BLOCKBUSTER | x7
+First order of business --
+
+#### c3a635a99e | BATMAN → PENGUIN | x2
+Just try not to break it.
+
+#### 2be9abad98 | BATMAN → PENGUIN | x2
+This partner thing -- it’s got its perks.
+
+#### a15841f9b3 | BATMAN → CATWOMAN | x2
+It’s a one time thing.  Don’t get used to it.
+
+#### 24731a15f5-SF-LM | CATWOMAN → BATMAN | x8
+And here I thought you were starting to let your guard down.
+
+#### 3954a42af7 | CATWOMAN → BATMAN, PENGUIN | x8
+These guys are armed to the teeth.
+
+#### 34d59b3589 | BATMAN → CATWOMAN | x2
+One step at a time.
+
+#### 6ac4fd071c | BATMAN → CATWOMAN | x2
+That’s what faith is.
+
+#### ad2821055a-SF | CATWOMAN → BATMAN | x4
+Sweet. What makes you sure I won’t cut and run?
+
+#### 74aac0306c-SM | BATMAN → CATWOMAN | x4
+I said I had faith, not certainy. Don’t let me down.
+
+#### 41d02f828c | CATWOMAN → BATMAN | x4
+I hate to be a downer, but not everyone’s getting out alive.
+
+#### 1bcc00f9cf-SF | CATWOMAN → BATMAN, PENGUIN | x8
+This partner thing -- I could get used to it.
+
+#### 6fa14c5b77 | CATWOMAN → BATMAN | x2
+This isn’t a jewel heist. Or a simple stick up.
+
+#### 0b3d931698 | CATWOMAN → PENGUIN, BATMAN | x4
+The Children are disciplined. They’re soldiers.
+
+#### f0f7060a2a | CATWOMAN → PENGUIN, BATMAN | x4
+This is no simple stick up.
+
+#### db097c950b | PENGUIN → HILL | x4
+In the left corner-- hard of heart, soft in gut-- our down and dirty incumbent, Mayor Hill!
+
+#### d99e767605 | PENGUIN → CATWOMAN, HARVEY | x4
+And in the right -- a man whose always smiling to your face - our despicable District Attorney, Harvey Dent!
+
+#### 2bad631408 | PENGUIN → CATWOMAN, HARVEY | x4
+I can tell by your applause you feel sooo much love for these two gentlemen.
+
+#### 05a08702f7 | PENGUIN → BATMAN, CATWOMAN | x4
+He just didn’t have a head for the issues.
+
+#### 459d9aa13a | BATMAN → PENGUIN | x2
+Here. Take this.
+
+#### 2a3d6cad71-SF | CATWOMAN → PENGUIN | x2
+Uh... thanks Batman. But I can take care of myself.
+
+#### 9dad47201e | HILL → PENGUIN | x4
+I know who you are-- and-- and what you want...
+
+#### a86d2ddad1 | PENGUIN → BATMAN, HARVEY | x4
+Save it for the opening statements.
+
+#### b6de5412f8 | HARVEY → PENGUIN | x4
+Birdmask guy-- whatever your name is--
+
+#### 124a49c69f | PENGUIN → BATMAN, MONTOYA, HARVEY | x6
+Play then, and we’ll see.  Coin toss.  Heads --
+
+#### 6738ab353e | BATMAN → PENGUIN | x2
+Don’t let the odds get to your head, you’ll make mistakes.
+
+#### 39cc54afd7 | BATMAN → HARVEY | x2
+You’ll make mistakes, and those mistakes will cost lives.
+
+#### c19a905660-LM | BATMAN → PENGUIN | x2
+You’re right. The odds are against it.
+
+#### 122d962316 | BATMAN → CATWOMAN | x4
+There are going to be casualties. It’s just a question of how many.
+
+#### 60146669e1 | CATWOMAN → BATMAN, PENGUIN | x4
+You really know how to pep a girl up.
+
+#### 22457b2006 | BATMAN → CATWOMAN | x2
+They’re going to--
+
+#### 520bd1e568 | CATWOMAN → BATMAN | x2
+Don’t worry -- they’re not getting away.
+
+#### c213cafbcd | BATMAN → CATWOMAN | x2
+If we’re quick and incisive, no one else has to die.
+
+#### 0ab7455979 | CATWOMAN → BATMAN | x4
+If you say so. But Penguin’s playing for keeps.
+
+#### 6f887af372 | BATMAN → CATWOMAN | x4
+Fanatics always do.
+
+#### 3c4f796927 | PENGUIN → CATWOMAN | x2
+A few debate rules.
+
+#### 8d67604744 | CATWOMAN → BATMAN | x2
+Tangos down. Making my way back to you.
+
+#### ffaa545576 | CATWOMAN → BATMAN | x2
+Are you listening to this stuff? He’s off the rails.
+
+#### 0ff5d77a1b | MONTOYA → BATMAN, CATWOMAN | x6
+I... It wasn’t...
+
+#### 8507d7f346 | CATWOMAN → MONTOYA | x2
+There’s a drop down into the loading bay.
+
+#### 8f5460cb78-SF-LM | CATWOMAN → BATMAN | x2
+I’d keep that holstered if I were you.
+
+#### dd4036ac17 | MONTOYA, GORDON → BATMAN, CATWOMAN | x6
+And double the trouble from the looks of it.
+
+#### f0874c24bd | BATMAN → GORDON | x2
+We’re all on the same side, Jim.
+
+#### f828c57090 | BATMAN → CATWOMAN, MONTOYA | x6
+Let’s focus on the problem at hand.
+
+#### 1ba5140e82 | PENGUIN → BATMAN, HARVEY | x6
+Goes --
+
+#### 0047472386 | BATMAN → PENGUIN, CATWOMAN, GORDON | x6
+It’s a one time thing. Don’t get used to it.
+
+#### d8fad9b4d6 | BATMAN, SELINA → PENGUIN, BRUCE | x4
+I’m not an idiot.
+
+#### 83fde81824 | PENGUIN → HARVEY, BATMAN | x6
+First.
+
+#### e49c9a119e | CATWOMAN → GORDON, BATMAN, PENGUIN | x6
+That has to be a good sign.
+
+#### b8e40164a1 | MONTOYA, GORDON → BATMAN | x6
+Then you better move quickly, because my hands are tied.
+
+#### db63aaa455 | MONTOYA, GORDON → BATMAN, CATWOMAN | x6
+I’ll try and give you as much time as possible.
+
+#### f569e3b7d3 | MONTOYA, GORDON → CATWOMAN, BATMAN | x6
+I just hope the ends justify the means.
+
+#### 4a5d16a0df | GORDON → CATWOMAN | x2
+I didn’t order that...
+
+#### 235b2659c6-SF | CATWOMAN → GORDON | x2
+Nonsense. The only error I made was letting you get in my way.
+
+#### 708d10038a | CATWOMAN → GORDON, BATMAN, MONTOYA | x6
+There’s a drop down into the loading bay. We can get inside there without being seen.
+
+#### 587239f5d1 | CATWOMAN → GORDON | x2
+He’s right, Lieutenant. I don’t do the bad things any more.
+
+#### 97301b9250 | CATWOMAN → BATMAN, MONTOYA | x8
+Unless it’s on request.
+
+#### 24a3a0db91 | BATMAN → CATWOMAN | x6
+Can we focus on the problem at hand?
+
+#### 5546a8666e | BATMAN → CATWOMAN | x2
+What’s the status?
+
+#### f1c8420682 | PENGUIN → BATMAN, LUCIUS, HARVEY | x24
+Call me Penguin.
+
+#### a0ead90090 | HARVEY → BATMAN, PENGUIN | x4
+Penguin then. We’ll play your game-- just, please, let these people out of here.
+
+#### 786305e21c | PENGUIN → BATMAN | x2
+Rule one! Talk when I say talk. Shut your gob when I say shut your gob. Easy.
+
+#### 82ed3dbb37 | PENGUIN → BATMAN | x2
+Rule two! Scratching, biting and kicking each other in the nads are all encouraged.
+
+#### 36e85353a4 | BATMAN → PENGUIN, CATWOMAN | x4
+I hear him. And I don’t like where he’s headed.
+
+#### dd8a627624 | BATMAN → PENGUIN | x2
+Keep your heads down. Make for the police line.
+
+#### 48bd55a15d-SM | BATMAN → CATWOMAN | x4
+I won’t let that happen.
+
+#### 6123344665 | CATWOMAN → BATMAN | x8
+With those theatrics --
+
+#### a4f6f8c86f | CATWOMAN → BATMAN | x8
+I don’t think we’re going to hear a list of demands, if you know what I mean.
+
+#### 59263b2451 | BATMAN → CATWOMAN | x4
+Agreed. Hill and Dent aren’t hostages. They’re props in Penguin’s show.
+
+#### cba46354cd-SM | BATMAN → CATWOMAN | x2
+There’s no trace of the Oswald I knew. He’s lost his mind.
+
+#### c4f05acdc9 | BATMAN → CATWOMAN | x2
+Hill and Dent aren’t hostages. They’re props in Penguin’s show.
+
+#### 1a8ed50322 | BATMAN → CATWOMAN | x2
+I might have underestimated his... commitment.
+
+#### 591f716987-SM | BATMAN → CATWOMAN | x2
+I knew he was dangerous, but not like this...
+
+#### dc96736740 | CATWOMAN → BATMAN | x4
+Power routes. Sprinkler system. Security doors--
+
+#### 6eab03d82e | BATMAN → CATWOMAN | x4
+Find a way to disable this lockdown. We need those doors open.
+
+#### 6f7837cede | CATWOMAN → BATMAN | x4
+My thing is breaking in to places, not busting out of them.
+
+#### 3491128f8d | HOSTAGE01 → BATMAN | x2
+Thanks, Batman. God-- God bless you.
+
+#### 8bc85e3a9c | BATMAN → PENGUIN, CATWOMAN | x4
+Think of it as on the job training.
+
+#### a2aaec1399 | PENGUIN → CATWOMAN | x2
+Even if it hurts.
+
+#### b0d026c69d | PENGUIN → BATMAN | x2
+If you lie, Penguin will know. He can see into your fibbin’ heart.
+
+#### a7304b194e | PENGUIN → BATMAN | x2
+Questions! Ask them questions!
+
+#### 6faf1d01a8 | VICKI → HARVEY | x2
+Um... ok... Mr. Dent, the... the subject on everyone’s mind is the new Wayne Mental Health Facility...
+
+#### 13c4e6d5c4 | BATMAN → PENGUIN, MONTOYA | x4
+I know you can handle it.
+
+#### 8799dce9a9 | BATMAN, BRUCE → PENGUIN, VICKI, MONTOYA | x10
+Just in case.
+
+#### 1e15bf64f1 | BATMAN → THOMAS, MONTOYA | x4
+Fine. Then leave it to me.
+
+#### 4879953839 | PENGUIN → BATMAN | x2
+And now a word from our sponsor.
+
+#### 6745e71ee3 | THOMAS → BATMAN | x2
+Subject Nine...
+
+#### 8d45b0455e | THOMAS → BATMAN | x2
+...and committed to Arkham indefinitely as a ward of the state.
+
+#### 0224ce3082 | BATMAN → CATWOMAN, THOMAS | x6
+Try to keep it in one piece.
+
+#### f96adfe8fc | PENGUIN → CATWOMAN | x2
+Rule three! Always, always tell the truth. Even if it hurts. It’ll hurt worse if you don’t.
+
+#### 1bfa5ae3a7 | PENGUIN → BATMAN | x2
+And he’ll punish the bollocks out of you.
+
+#### 57d3254f9d | HARVEY → PENGUIN | x2
+Uh... the facility. Of course --
+
+#### 9869f0702d-SM | PENGUIN → MONTOYA | x2
+I told you I want the truth! Not that sterile on-message rubbish!
+
+#### e3b12e3846 | MONTOYA, GORDON → BATMAN, PENGUIN | x10
+Batman, the brass is pushing for us to make a move.
+
+#### 4fceacdaac | BATMAN → MONTOYA, CATWOMAN | x6
+Hold them off. Your men aren’t prepped for a siege.
+
+#### c7e8a73ba6 | MONTOYA, GORDON → BATMAN | x10
+So help me out with that.
+
+#### 4592f06978 | BATMAN → MONTOYA | x8
+Let me see what I can do.
+
+#### f77fa21067 | BATMAN → MONTOYA | x4
+Montoya, sending you feeds from inside the building.
+
+#### 14f8b94697 | MONTOYA, GORDON → BATMAN | x8
+We’re receiving. I’ll keep my men back until--
+
+#### 29a80d3513-SM | BATMAN → LADYARKHAM | x2
+I knew this was too big for Oswald alone. Someone else is pulling the strings.
+
+#### 49f84d50b3 | DENT, HARVEY → PENGUIN, LADYARKHAM, SELINA | x8
+Heads.
+
+#### 8a5fdb80d8 | LADYARKHAM → PENGUIN, MONTOYA | x5
+My downtrodden brothers and sisters of Gotham.
+
+#### d1d1e62e2b | LADYARKHAM → PENGUIN, BATMAN, GCPD02 | x9
+We are the Children of Arkham.
+
+#### 8d9f731f0b-LM | LADYARKHAM → BATMAN | x2
+It is time you learned the truth.
+
+#### 6e70dfd839 | CATWOMAN → LADYARKHAM | x2
+Smart. Let someone else do the dirty work.
+
+#### ae6d3f1f3c | BATMAN → CATWOMAN | x2
+Too risky to trace the transmission. We could give up that we’re here.
+
+#### 030232a64f-LF | BATMAN → CATWOMAN | x2
+Did you ever meet the guy on the screen?
+
+#### bc4bcd3010 | CATWOMAN → BATMAN | x2
+Nope. Smart to let someone else do your dirty work.
+
+#### 61cca085be | CATWOMAN → BATMAN | x2
+And from somewhere offsite too.
+
+#### 7611b91b71 | BATMAN → CATWOMAN | x2
+Too risky to trace the source of the transmission. We might expose that we’re here.
+
+#### bf6cb49d74 | choice/UI → CATWOMAN | x2
+Things are getting worse.
+
+#### 41715ba011 | BATMAN → CATWOMAN | x2
+This is spiralling out of control -- they have no idea about the man behind the mask.
+
+#### 2e10b56a5b | BATMAN → CATWOMAN | x2
+I don’t have files on whoever’s behind the mask.
+
+#### f36777acb1 | CATWOMAN → BATMAN | x2
+It seems like they’re offsite.
+
+#### 483741a813 | BATMAN → CATWOMAN | x2
+Too risky to trace the source of the transmission. We could give up that we’re here.
+
+#### 7a6662998b | CATWOMAN → BATMAN | x2
+Whoever it is, they’re smart. Let someone else get their hands dirty.
+
+#### c2d585ba46 | CATWOMAN → HILL | x2
+And fromsomewhere offsite too.
+
+#### c9b98d069f | HILL → CATWOMAN | x2
+If you ask me, the real problem with this city is the poor --
+
+#### 4f6c4c4c11-SM | HILL → HARVEY, CATWOMAN | x6
+If I had my way, we’d round up every homeless person in the city and burn them. Use their ashes to fertilize the park.
+
+#### 4c3f9d3aed | HILL → LADYARKHAM, HARVEY, CATWOMAN | x10
+Lazy degenerates waiting for handouts because they can’t be bothered to get a damn job.
+
+#### 650f557942 | LADYARKHAM → HILL | x2
+For too long, the rich and powerful have lulled you to sleep with their lies.
+
+#### 3f1b6a38df | LADYARKHAM → HILL, BATMAN, HARVEY | x6
+Look into the hearts of these spineless creatures -- chosen to lead.
+
+#### a0d6bd6ffd | LADYARKHAM → HILL | x2
+Their true selves are a horror to behold.
+
+#### ee67d9eeba | LADYARKHAM → CATWOMAN | x2
+Tell the people of Gotham how you really feel!
+
+#### 698ceadc47 | CATWOMAN → LADYARKHAM, HARVEY, HILL | x8
+Woah...
+
+#### 9ed7a31571 | BATMAN → LADYARKHAM, CATWOMAN, HILL | x6
+This is political armeggedon. [worried] And Harvey’s next.
+
+#### f47ede771a | LADYARKHAM → HARVEY | x2
+And you, Mr. Dent? What makes you think you deserve the public trust?
+
+#### 2f79c19e49 | HARVEY → CATWOMAN, BATMAN, HILL | x8
+You really want to hear what I think?
+
+#### 91009a61b4 | BATMAN → CATWOMAN, LADYARKHAM | x6
+You don’t know me very well.
+
+#### bf36d462be | CATWOMAN → HARVEY | x8
+Oh no, Harvey...
+
+#### c5a66ee6a7 | BATMAN → MONTOYA | x6
+Montoya, get ready to move in.
+
+#### 46fec4fe2c | PENGUIN → HILL, BATMAN | x6
+So this is for her.
+
+#### 8079082e64 | PENGUIN → CATWOMAN | x2
+Where’s your mate, Bruce Wayne? Your biggest supporter, and he didn’t even turn up?
+
+#### 1b84c83a21 | PENGUIN → BATMAN, HARVEY | x4
+Renounce Bruce Wayne and I’ll let you live.
+
+#### 4f6ee6e1b4 | PENGUIN → HARVEY | x2
+Admit it!
+
+#### b54cbbcb8d | HARVEY → PENGUIN, HILL | x4
+Gotham is flawed, sure. What city isn’t? It’s flaws are what make it beautiful.
+
+#### 04b4e53fd6 | LADYARKHAM → PENGUIN, HILL, BATMAN | x6
+Show Gotham your true selves. Tell them your true feelings about the city you pretend to love.
+
+#### 9103422fd4 | HILL → HARVEY, LADYARKHAM | x6
+Crime would go down-- I have it from a reliable source.
+
+#### bc188a8057 | LADYARKHAM → HARVEY, HILL | x11
+Candidates! Take off your masks!
+
+#### 0b24d1a67b-SM | HARVEY → HILL, LADYARKHAM | x6
+The flaws are what drive me. I wake up everyday and say to myself, I want to make Gotham better. I want to smooth over the cracks.
+
+#### 5981b977f3 | BATMAN → PENGUIN, CATWOMAN, LADYARKHAM | x6
+There’s the Harvey I know.
+
+#### 7429ade502-SM | BATMAN → PENGUIN | x2
+No Gordon! Damn it, I need a few more minutes!
+
+#### 114d888f92 | PENGUIN → BATMAN | x2
+Ladies and gentlemen - we’re coming to the climax of the show!
+
+#### e93f3c7a68 | PENGUIN → BATMAN | x2
+ROLL THE TAPE!
+
+#### 4dfe30a403 | CATWOMAN → BATMAN | x4
+It’s going to be a bloodbath.
+
+#### 71b12f80d4 | MONTOYA → BATMAN | x4
+Time’s up, Batman. I’m being overruled by the bosses.
+
+#### b9c881dce5 | BATMAN → CATWOMAN, PENGUIN | x6
+Dad..?
+
+#### 8cde35c290-SF | CATWOMAN → HARVEY, BATMAN | x4
+Whose voice is that? I thought your father was dead..
+
+#### d037adee98 | HARVEY → MONTOYA | x2
+...my best friend. He’s nothing like the man in that video -
+
+#### aea28f881d | HARVEY → CATWOMAN | x2
+Agh...
+
+#### 1be24b72f4 | HILL → HARVEY, CATWOMAN, BATMAN | x8
+First off, we should incinerate the poor.
+
+#### 26ff236a3a | PENGUIN → HARVEY | x8
+Spoken like some somone who’s never been poor. Dent? Got anything to say?
+
+#### 254c1f76bb-SF | CATWOMAN → HARVEY | x6
+I knew he was gross... but this?
+
+#### 68f4898412-SM | HARVEY → PENGUIN | x2
+I won’t. He’s... he’s a good man...
+
+#### fb777475b2 | HARVEY → PENGUIN | x2
+It’s a much needed state-of-the-art mental health care hospital that will offer treatment for the most unfortunate of Gotham’s citizens--
+
+#### 86bc480fd8 | HARVEY → PENGUIN, CATWOMAN, LADYARKHAM | x6
+For all its citizens, rich, poor or inbetween.
+
+#### 610e983c89 | PENGUIN → HARVEY | x2
+How did the world go crazy? When did the rich and powerful learn to control Gotham and keep this all under the radar until tonight?
+
+#### 02c777c8d2 | PENGUIN → HARVEY | x2
+Penguin starts caning Harvey’s face off, every blow a punishment following every heartfelt accolade Harvey gives to Bruce Wayne.
+
+#### 16cb2e23d3 | HILL → PENGUIN | x2
+Arghhhh--- [death gurgle].
+
+#### 5cf3bb78a7 | PENGUIN → CATWOMAN | x2
+I suppose you’ll have to answer for his crimes instead!
+
+#### 460ebe7102 | PENGUIN → CATWOMAN | x2
+Ask that guy.
+
+#### 58d008cce2 | CATWOMAN → PENGUIN | x2
+Who said anything abuot
+
+#### e5abae62bd-LM | CATWOMAN → PENGUIN | x2
+Speak for yourself, Bat.
+
+#### b8826bc806 | BATMAN → CATWOMAN, MONTOYA | x4
+Detective Montoya.
+
+#### 8ed3a72a75-SF-LF | CATWOMAN → MONTOYA | x4
+I’d keep that [gun] holstered if I were you.
+
+#### a3698ebfd5 | BATMAN → MONTOYA | x4
+Nevermind. We’ll take it from here, Detective.
+
+#### b01d7a3e38 | MONTOYA → CATWOMAN, BATMAN | x4
+I can buy you about half an hour. After that, we’re storming the building.
+
+#### 43dbd08339 | MONTOYA → BATMAN | x4
+We are *seriously* underfunded at the GCPD.
+
+#### 867500d8c0 | BATMAN → MONTOYA | x4
+Sounds like a vote for Dent, Detective.
+
+#### 7a43cd5a4b | BATMAN → MONTOYA | x4
+You come charging in, people are gonna die.
+
+#### ea719d549e | BATMAN → MONTOYA | x4
+Thirty minutes isn’t much of a window.
+
+#### e90d0d412b | MONTOYA → BATMAN | x4
+The mayor’s in there. It’s as wide as it’s going to get.
+
+#### f027b10198 | MONTOYA → BATMAN | x4
+Sorry about that...
+
+#### 6cd96670fc | BATMAN → CATWOMAN, MONTOYA | x4
+We’re all on the same side tonight, detective.
+
+#### 826ab9a864 | BATMAN → CATWOMAN, MONTOYA | x4
+She’s seen the error of her ways since then, Detective. She’s here to help.
+
+#### 78f8287c24 | CATWOMAN → BATMAN, MONTOYA | x4
+He’s right, detective. I don’t do the bad things any more.
+
+#### 6195ffcaa3 | BATMAN → CATWOMAN, MONTOYA | x4
+The break in isn’t important now. Freeing those hostages is.
+
+#### ab4bc5f06e | CATWOMAN → MONTOYA, BATMAN | x4
+You should be thrilled. You’re getting a two-fer.
+
+#### 65c2159ea5-LF | choice/UI → MONTOYA | x4
+You finished?
+
+#### a9e8efe04e | GORDON → BATMAN | x2
+She was part of that robbery at the Mayor’s Office --
+
+#### 9118b94bde | choice/UI → GORDON | x2
+I can live with that.
+
+#### c7f83f9d2f | choice/UI, BRUCE → SELINA, GORDON | x6
+Gotham needs me.
+
+#### 50fc9c0678 | choice/UI → GORDON | x2
+They can’t handle this.
+
+#### e2fed2dcd9 | choice/UI → GORDON | x2
+I do whatever it takes.
+
+#### 49f600fda1 | choice/UI | x2
+You’re in a difficult spot.
+
+#### d173d68252 | choice/UI → PENGUIN | x2
+At least I’m on your side.
+
+#### df12ad11a3 | HARVEY, choice/UI, CATWOMAN → BRUCE, PENGUIN, BATMAN | x13
+If you say so.
+
+#### a7837c6f65 | BATMAN, choice/UI → OSWALD, PENGUIN, ALFRED | x10
+I hope so.
+
+#### e82c31a94d | PENGUIN → BATMAN | x2
+And on the right -- always smiling to your face-- our despicable DA, Harvey Dent!
+
+#### c6a4c6d71a | PENGUIN → HILL | x2
+On the left -- hard of heart, soft in gut-- our down and dirty incumbent, Mayor Hill!
+
+#### d9951c3747 | HARVEY → PENGUIN | x2
+Bird mask guy-- whatever your name is--
+
+#### f1c2325cf5 | PENGUIN → HARVEY | x2
+Save it for the opening statements, pillock.
+
+#### 1dbec918c0-SM-LM | HILL → PENGUIN | x2
+We had a d--deal -- I gave you what you wanted -- ooof--
+
+#### 45ea5076eb | PENGUIN → HARVEY | x2
+I can tell by your applause you feel sooo much love for these two gents.
+
+#### 9aa9927534 | HARVEY → PENGUIN | x2
+Yes, of course. Penguin then. We will play your game-- just, please, let these people go.
+
+#### 3c218b10d7-LF | MONTOYA → CATWOMAN | x2
+H-how did you...?
+
+#### 4d6f05a3b4-LF | MONTOYA → CATWOMAN | x2
+Especially after what you did to Falcone at the Skyline.
+
+#### cebd9c5d62-LM | choice/UI → YOUNGHILL | x2
+You mean the man you shot?
+
+#### a9a4e135fc | YOUNGHILL → BATMAN, THOMAS | x4
+Have the Cobblepot land deeds sent to my office... what?!
+
+#### 3f89e8f76a | YOUNGHILL → ESTHER, THOMAS | x4
+No-- We’re not running a charity here - take everything they own!
+
+#### 018c90a6c6 | ESTHER → YOUNGHILL | x2
+Please-- I’ll sell you the land.  Please don’t do this--
+
+#### f7f9250704 | YOUNGHILL → ESTHER, THOMAS | x4
+Are you stupid! We’re not a charity -- take everything they own!
+
+#### 67af031bcc | YOUNGHILL → ESTHER, THOMAS | x4
+Lawyer gives you any trouble, call Carmine. Get him to crack his head...
+
+#### 38f25c4f5e | THOMAS → YOUNGHILL, VICKI | x4
+Commencing the proceedure --
+
+#### ba568a7e05-SM | HILL → YOUNGHILL, BATMAN | x4
+No, please -- I made amends --
+
+#### c58f59f2fc-LM | PENGUIN → HILL | x2
+You could never.
+
+#### 21cd39e1c1-SM | HILL → PENGUIN | x2
+I---I took out Thomas Wayne!
+
+#### dd214fe2dd | PENGUIN → HILL | x2
+That won’t bring back my poor old mum.
+
+#### 43ab047fb9 | PENGUIN → HILL | x4
+Where’s Bruce Wayne? Your biggest supporter, and he didn’t even turn up for the show.
+
+#### 28ac4bff33 | PENGUIN → HILL, GORDON | x4
+You’ll have to answer for his crimes instead.
+
+#### 643d853b75-SM | HILL → PENGUIN | x2
+No, please -- I made ammends --
+
+#### b0b7f88db6-LM | PENGUIN → HILL | x4
+You could never  do enough--
+
+#### eb483af94a-SM | HILL → PENGUIN | x4
+I did! I took out Thomas Wayne! I had him killed because he went too far!
+
+#### 577226fd1b | PENGUIN → HILL | x4
+That won’t bring back my poor old mum will it?
+
+#### 1c662e64a0 | HILL → PENGUIN | x4
+Arghhhjh--- [death gurgle].
+
+#### 607e171979 | HARVEY → PENGUIN | x2
+He’s... he’s a good man...
+
+#### 5e5ba1b643-LM | PENGUIN → HARVEY | x2
+Admit it. You made a deal with the devil.
+
+#### 8c5868a6c8 | HARVEY → PENGUIN | x2
+He’s... he’s a good man. My best friend. He’s nothing like the man in that video -
+
+#### 4b842502a6 | HARVEY → LADYARKHAM, PENGUIN | x4
+Gotham is flawed, sure. What city isn’t? Its flaws are what make it beautiful.
+
+#### e728381680 | LADYARKHAM → HILL | x2
+Look into the hearts of these spineless creatures, chosen to lead.
+
+#### e9efcac400 | LADYARKHAM → CATWOMAN | x2
+Show Gotham your true selves! Tell them what you really think about the city you pretend to love.
+
+#### 18d04bed7b-SM | HILL → CATWOMAN | x2
+If I had my way, we’d round up every homeless person and burn them. Use their ashes to fertilize the park.
+
+#### 5277742585 | HILL → CATWOMAN | x2
+Crime would go down. I have it from a reliable source.
+
+#### 7947d92490 | CATWOMAN → HILL | x2
+This is political suicide. [worried] And Harvey’s next.
+
+#### 115ab27846 | HARVEY → CATWOMAN | x2
+The flaws are what drive me. I want to smooth over the cracks and make the city better --
+
+#### 1a328b2db0 | HARVEY → BATMAN | x2
+For all its citizens-- rich, poor, or in between.
+
+#### f509cdfbca | BATMAN → HARVEY | x2
+That’s the Harvey I know.
+
+#### cee00406b8 | BATMAN → MONTOYA | x2
+Hold them off. Your men will be coming in blind.
+
+#### cc6065b1eb-SF | CATWOMAN → BATMAN, YOUNGHILL | x6
+This partner thing -- maybe I could get used to it.
+
+#### df64b7e142-SM | BATMAN → CATWOMAN | x2
+I said faith, not certainty.
+
+#### 1c76ea2ac5 | choice/UI, BATMAN → CATWOMAN, LUCIUS | x8
+I have faith in you.
+
+#### ba5fb1f7af-SF | CATWOMAN → BATMAN | x2
+How sweet. What makes you so sure I won’t add it to my collection?
+
+#### ade8bb596c | CATWOMAN → BATMAN | x2
+Oh, Batman. Letting me play with your toys?
+
+#### 31aa6327b8 | PENGUIN → BRUCE, CATWOMAN, BLOCKBUSTER | x7
+So sorry, ladies and gents. As you might have guessed, there’s been a change to tonight’s program.
+
+#### d49aa6616f | choice/UI → MONTOYA | x2
+Just this once.
+
+#### cb68283f9b | BATMAN → MONTOYA | x2
+Sending you feeds from inside the building.
+
+#### 2f80d1d88b | THOMAS → BATMAN | x2
+...to be disappeared into Arkham Asylum for the rest of her days.
+
+#### 788c202270 | THOMAS → YOUNGHILL | x2
+Subject 09, formerly Esther Cobblepot, having been declared criminally insane, is now undergoing suppression treatment...
+
+#### 981715d6f6 | ESTHER → YOUNGHILL | x2
+Please... I’ll sell you the land... you don’t have to do this... I have a boy...
+
+#### 5e00579bae | YOUNGHILL → THOMAS | x2
+Send all the land deeds to my office. Now that Mrs Cobblepot here is a ward of the state, we can transfer -- what? -- No -- transfer it all to Wayne Enterprises. Everything has to go through Wayne Enterprises.
+
+#### 832e4824ca | YOUNGHILL → ESTHER | x2
+Lawyer gives you any trouble, call Carmine, get him to crack his head...
+
+#### b9f52fb0a1 | THOMAS → YOUNGHILL | x2
+I’m starting the proceedure --
+
+#### 7072639577 | CATWOMAN → BATMAN | x2
+Inspiring. You really know how to pep a girl up.
+
+#### 1d81d1bc95 | BATMAN → CATWOMAN | x2
+Don’t think about the odds or you’ll make mistakes.
+
+#### eaf8b399fe-LM | CATWOMAN → BATMAN | x2
+Speak for yourself, Batman.
+
+#### 2d30bda2d7 | BATMAN → CATWOMAN | x2
+Casualties are inevitable. It’s only a question of how many.
+
+#### 014cc1575a | BATMAN → CATWOMAN | x2
+If we’re quick and decisive, no one else has to die.
+
+#### 750e53c0c8 | choice/UI → CATWOMAN | x2
+Don’t get distracted.
+
+#### d588487a03 | choice/UI → CATWOMAN | x2
+This is going to be messy.
+
+#### d14b9ba577 | CATWOMAN → BATMAN, PENGUIN | x4
+I hate to be a downer, but these hostages --
+
+#### 92271338e3 | CATWOMAN → BATMAN | x2
+Whose voice is that?
+
+#### 4b4374167f | GORDON → PENGUIN | x2
+Just so we’re clear. After tonight, you and I are done.
+
+#### 6e5a480591 | BATMAN, GORDON → GORDON, BATMAN | x4
+Lieutenant---
+
+#### 844dffe6dd | GORDON → BATMAN | x2
+But your excessive violence, it’s a problem -- I can’t partner with that.
+
+#### 403b77b95e | GORDON → BATMAN, CHEMTHUG | x7
+The GCPD has orders to take you in. After tonight, I can’t stand in their way anymore.
+
+#### 8e8fee58b1 | BATMAN → GORDON | x2
+Fine by me. Just give me the report so I can protect the debate.
+
+#### 46ccd1950e | BATMAN → GORDON | x2
+Jim, I know this can work. Give me a chance to change your mind.
+
+#### 568860abac | BATMAN → GORDON | x2
+You’re making a mistake, Gordon.
+
+#### 8f0e76382e | GORDON → BATMAN | x2
+Most of the GCPD already think you’re a monster. Don’t prove ‘em right.
+
+#### c4a44e8290 | GORDON → BATMAN | x2
+Thanks for calling this in, Batman.
+
+#### 8a6e84d7ae-SM | GORDON → BATMAN | x5
+I’m glad I took a chance on this -- this collaboration of ours.
+
+#### 43c9550cb2 | GORDON → FALCONE, BATMAN | x5
+Keep on doing what you’re doing and the rest of Gotham will start to see you like I do.
+
+#### e66754fae5 | BATMAN → GORDON | x2
+I appreciate the sentiment, Jim.
+
+#### 3f31b3d2b3 | BATMAN → GORDON | x2
+Let’s focus on the problem in front of us.
+
+#### dca0f2373e | BATMAN → GORDON | x2
+‘Hero’ is a lofty title. I hope I live up to it.
+
+#### 34b39f5d12 | GORDON → BATMAN | x2
+Could be tonight’s the night to prove it.
+
+#### 35144da450 | GORDON → BATMAN | x2
+Batman’s been through a lot lately. The way Jim thinks of him now might be tested. The city, too.
+
+#### 8e8ac7dee6 | GORDON → BATMAN | x2
+GORDOBatman’s been through a lot lately. The way Jim thinks of him now might be tested. The city, too.
+
+#### 76c8284e70 | BATMAN → GORDON | x2
+The enemies we’re facing -- the things I’ll have to do... Gotham might not want to see.
+
+#### df9ff7ade8 | GORDON → FALCONE, BATMAN | x5
+A hero.
+
+#### ca6d6eb3e6 | GORDON → BATMAN | x2
+I have faith in you, Batman. Right now, let’s focus on the problem in front of us.
+
+#### f6cebcc5e6 | GORDON → BATMAN | x2
+Fine. Just do it without splitting anyone in half, huh?
+
+#### 8343288070 | GORDON → BATMAN | x2
+My hands are tied.
+
+#### 5c79b5809c-LM | GORDON → BATMAN | x2
+You’re the monster they always said you were.
+
+#### 4b89da0a9e-LM | BATMAN → GORDON | x2
+You need me and you know it.
+
+#### 29eaae03e4 | GORDON → BATMAN | x2
+That may be true-- but you’ve gone too far. My hands are tied.
+
+#### e523592637 | BATMAN → GORDON | x2
+Gotham is under threat and your force isn’t up to dealing with it.
+
+#### de2b5fbebf | GORDON → BATMAN | x2
+Let’s do what we can for these hostages and we’ll say goodbye.
+
+#### eaaca5528e | GORDON → CHEMTHUG, BATMAN | x5
+Just so we’re clear. You and me -- we’re on shaky ground.
+
+#### 2d7074c698 | GORDON → BATMAN | x5
+No, listen to me. The excessive violence-- it can’t go on.
+
+#### 1b34511b44 | BATMAN → GORDON | x5
+Jim, listen--
+
+#### bbf293cc61 | BATMAN → GORDON | x2
+I appreciate the heads up, Jim. But I can’t promise anything.
+
+#### 3183da4637 | GORDON → BATMAN | x2
+I suppose there’s nothing more to say. My hands are tied.
+
+#### fcc57aa4a2 | BATMAN → GORDON | x2
+I do what the police can’t. I get the job done. Now give me the report so I can do my job.
+
+#### e28fedd191 | GORDON → BATMAN | x2
+Fine. Just do it without splitting anyone in half.
+
+#### 295c0816be-SM | BATMAN → GORDON | x2
+I’m sorry for putting you in a difficult spot, Jim.  I value our ‘working relationship’.
+
+#### cc4ae516da-SM | GORDON → BATMAN | x2
+So do I, Batman. That’s why I need you to rein it in.
+
+#### 73b98c7f1b-LM | BATMAN → GORDON | x2
+You’re lucky I’m on your side.
+
+#### 257896f3ad | BATMAN → GORDON | x2
+Gotham’s facing great danger and your force isn’t up to stopping it
+
+#### 03fde1b619 | GORDON → BATMAN | x2
+That may be true-- but I can’t ally with a violent thug.
+
+#### 854faaa85f | BATMAN → CATWOMAN | x2
+I’ll do what I can. Right now, let’s focus on the situation in front of us.
+
+#### 1b1df636b1 | BATMAN → GORDON | x2
+I get that. But we should focus on the situation in front of us.
+
+#### 927ca8a839 | CATWOMAN → GORDON | x2
+I don’t do the bad things any more, Lieutenant.
+
+#### ee855b22fe | GORDON → BATMAN | x2
+Well don’t just stand there! Go do what you guys do!
+
+#### 14f0992027 | BATMAN → CATWOMAN | x2
+This will give you eyes on what’s coming up ahead of us.
+
+#### f29c288f4a | BATMAN → GORDON | x2
+Here, take a look.
+
+#### b96762b30a | GORDON → BATMAN | x2
+Can’t do it, we’re storming the place now.
+
+#### 4b79d5ef77 | GORDON → BATMAN | x2
+We’re out of time, Batman. The brass is going nuts with those two drugged on stage.
+
+#### 3395f6888a | GORDON → BATMAN | x2
+People are terrified of you.
+
+#### ca7a78f97b | GORDON → CATWOMAN | x2
+We’ve got a job to do. Try to do it without breaking anyone in half.
+
+#### 632831ba50 | GORDON → CATWOMAN | x2
+They blew a hole in the wall...
+
+#### 5f0d162ad4 | CATWOMAN → GORDON | x2
+-- not everyone’s getting out of here alive.
+
+#### 6b4201ccda | BATMAN → LADYARKHAM | x2
+You have to stay focused.
+
+#### 4ad3cb624d | LADYARKHAM → BRUCE, GORDON | x5
+You have nothing to fear.
+
+#### 24a84ef737 | LADYARKHAM → PENGUIN, CATWOMAN | x4
+We are here to open your eyes.
+
+#### 49dc537ce8 | LADYARKHAM → PENGUIN | x2
+But tonight, you wake.
+
+#### f43ba541e4-SM | PENGUIN → LADYARKHAM | x2
+I warned you about lying!
+
+#### 56f5d3d5e0 | PENGUIN → LADYARKHAM | x2
+You’ve been wonderful, but your candidates-- well, they just don’t have the words.
+
+#### 521b9844ae | PENGUIN → LADYARKHAM | x2
+Luckily, we’ve got just the thing.
+
+#### b562d7224e | THOMAS → PENGUIN | x2
+Subject Nine... Esther Cobblepot. You’ve been declared criminally insane...
+
+#### 6f9edb4056-SM | HILL → PENGUIN | x2
+That --that [pointing at screen] was all him -- he didn’t know when to stop --  I had him killed because of it!
+
+#### 3d265348b0 | YOUNGHILL → PENGUIN, THOMAS | x4
+No! Sign them over to Wayne Enterprises. Everything goes through Wayne Enterprises!
+
+#### aede2ea2a5 | BATMAN → YOUNGHILL | x2
+Three hostiles. Gotta take ‘em out quietly.
+
+#### f120b0b502-LM | YOUNGHILL → BATMAN, THOMAS | x4
+You had your chance. You should have made the deal we offered you.
+
+#### 957d9b9bab | PENGUIN → BATMAN | x2
+Batman!?!
+
+#### 75a3a801a0 | BATMAN → PENGUIN | x2
+I’m not here to join you. I’m here to crush you.
+
+#### 1546fb8062 | BATMAN → PENGUIN | x2
+Your revolution is over, Penguin.
+
+#### 38e32f99c1 | PENGUIN → BATMAN | x2
+On the contrary. We’re just getting started!
+
+#### 0618db9c75 | BATMAN → PENGUIN | x2
+Let Dent go!
+
+#### e076fd19ea | PENGUIN, HARVEY → BATMAN | x4
+And what if I don’t?
+
+#### 7c015fc3a4 | BATMAN → PENGUIN | x2
+I’ll crush every bone in your body.
+
+#### e02f078197-SM | PENGUIN, HARVEY → BATMAN | x4
+That’s what I was afraid of.
+
+#### e4a0595a2d-SM | PENGUIN → CATWOMAN | x2
+I knew you’d say something like that!
+
+#### 9d19b6a53d | CATWOMAN → BATMAN | x2
+Um, no. Not happening.
+
+#### 3f166aa6e1 | choice/UI → PENGUIN | x2
+[Save Selina]
+
+#### 9b9735c0bd | choice/UI → PENGUIN | x2
+[Save Harvey]
+
+#### 2af26428bb | choice/UI → PENGUIN | x2
+No time for jokes.
+
+#### a35b26b6ac | choice/UI → CATWOMAN | x2
+Couldn’t stay away, huh?
+
+#### 4001a090f5-SM | choice/UI | x2
+I knew you’d help.
+
+#### 13681ff379 | choice/UI | x2
+This is no bar fight.
+
+#### d017b16e1f | choice/UI | x2
+You don’t owe me.
+
+#### 070222098a | choice/UI | x2
+There’s hope for you yet.
+
+#### 4aa89f8fa3 | choice/UI → CATWOMAN | x2
+We’re going in.
+
+#### dc890286a8 | choice/UI → CATWOMAN | x2
+The Penguin is here.
+
+#### a11af7fc6c | CATWOMAN → PENGUIN | x2
+Gordon’s men.
+
+#### eb368e4b07 | CATWOMAN → GORDON | x2
+Don’t think I don’t see you checking me out.
+
+#### a595f6b448 | BATMAN → CATWOMAN | x2
+Anything out of the ordinary?
+
+#### 140d51a88e-SM | GORDON → CATWOMAN | x2
+Nothing out of the ordinary yet. I’ve got my best men doing patrols.
+
+#### 32ba1ca649 | GORDON → CATWOMAN | x2
+Listen… I value what you’ve done for the city.
+
+#### 3176f14023 | GORDON → BATMAN | x2
+But this violence -- you’ve gone too far.
+
+#### 9e695c9c17-SM-LF | GORDON → CATWOMAN | x2
+I just had the Mayor in my ear about your... visit. And after what you did to Falcone --
+
+#### fe0e5fc1be | GORDON → CATWOMAN | x2
+I can’t defend you.
+
+#### 9047e5dd53 | CATWOMAN → GORDON, BATMAN | x4
+Let me guess -- you guys are up here gazing at stars.
+
+#### 5a41f528e9 | BATMAN → GORDON | x2
+Jim...
+
+#### b1c2cb08eb | CATWOMAN → BATMAN | x2
+Either that or this is a great spot for peeping.
+
+#### 91c8c714f4 | BATMAN → CATWOMAN | x2
+You just couldn’t stay away, could you?
+
+#### 550c196eb2-SF | CATWOMAN → BATMAN | x2
+Oh, I could. I just didn’t want to miss the fun.
+
+#### 19322bd476-LF | BATMAN → CATWOMAN | x2
+Is it me? Or are you hooked on the scent of trouble?
+
+#### b02b136d05 | SELINA → CATWOMAN | x2
+In my experience, the two go hand in hand.
+
+#### a0fa70479e | CATWOMAN → BATMAN | x2
+Either that or you’re peeping on Gotham’s poor, unsuspecting citizens.
+
+#### 68b41c444b | SELINA → CATWOMAN | x2
+‘t that make you quite the pussy magnet.
+
+#### 85163f9ddc-SM | BATMAN → CATWOMAN | x2
+I knew I could count on you to back me up.
+
+#### 566975c818-LM | CATWOMAN → BATMAN | x2
+Oh, did you now? Who said anything about that?
+
+#### 455dba8bda | BATMAN → CATWOMAN | x2
+Isn’t that why you’re here?
+
+#### ee094faecb | BATMAN → CATWOMAN | x2
+This is no time for jokes.
+
+#### 63ec5443c9 | BATMAN → CATWOMAN | x2
+The Children could strike at any moment -- we need to be alert.
+
+#### 7da97647ec | CATWOMAN → BATMAN | x2
+Uh oh. Did I touch a nerve?
+
+#### fc747bcfad-SF | CATWOMAN → BATMAN | x2
+Uh oh. Looks like I hit the mark.
+
+#### 7278bf7017-LF | BATMAN → CATWOMAN | x2
+You’re an addict -- you’re hooked on trouble.
+
+#### 20284ad355 | SELINA → BATMAN | x2
+Or maybe you’re a pussy magnet, Batman. Ever think of that?
+
+#### 878336b775-LM | CATWOMAN → BATMAN | x2
+I know you’re worried about handling the Children by yourself, Batman.
+
+#### e3730cfd0f | CATWOMAN → BATMAN | x2
+That... um... incident in the bar...
+
+#### add3828eb2 | CATWOMAN → SELINA | x2
+I don’t like being in debt.
+
+#### 7e458149bd | SELINA → CATWOMAN | x2
+What’s the matter, cat got you’re toungue?
+
+#### b9c1e02a70-LF | BATMAN → CATWOMAN | x2
+You’re hooked on danger -- it’s not healthy.
+
+#### 9f5f224215-SF | CATWOMAN → BATMAN | x2
+Easy, Batman. I’m always ready.
+
+#### ab080659bb-SF-LF | CATWOMAN → SELINA | x2
+Not that I needed your help or anything, but you had my back.
+
+#### c66f37aa64 | CATWOMAN → BATMAN | x2
+Debt is its own kind of cage-- I can’t stand being in it.
+
+#### 76648fdc7f-LM | CATWOMAN → BATMAN | x2
+Since you’re worried the Children are too much for you by yourself --
+
+#### f423fbfadc-SF | CATWOMAN → BATMAN | x2
+I thought I’d repay the favor.
+
+#### e6fc7901d1 | BATMAN → CATWOMAN | x2
+This is no bar fight. They’re coming with everything they have.
+
+#### f794e9f87d | CATWOMAN → GORDON | x2
+Good. That brawl barely had me break a sweat.
+
+#### 6f6b7b3519 | GORDON → CATWOMAN | x2
+This better not come back to bite me.
+
+#### 31aaf1f24a | LUCIUS, SELINA, OSWALD, ALFRED → BRUCE, GORDON, CONTRACTOR | x31
+Besides...
+
+#### 36a5cc4ac7 | GORDON → CATWOMAN | x2
+Alpha Patrol, come in.
+
+#### d8f21b8637-SM | GORDON → CATWOMAN | x2
+No need to say anything. Just know I’m grateful.
+
+#### e0c515a3d9 | CATWOMAN → GORDON | x2
+Relax -- I’m always alert. And tonight I’m on your side.
+
+#### 0848ea3a3c | BATMAN → CATWOMAN | x2
+You don’t owe me anything. Those scum had it coming.
+
+#### b818c3b458 | GCPD01 → CATWOMAN | x2
+Go ahead...
+
+#### e0d8efc6a1 | CATWOMAN → BATMAN | x2
+And they say chivalry is dead.
+
+#### e917f71e9b | CATWOMAN → BATMAN | x2
+Even so -- I’d rather not have any doubt. Besides, after this, maybe you’ll owe me.
+
+#### 86daceeaa4 | CATWOMAN → GORDON | x2
+Besides -- after this, maybe you’ll owe me.
+
+#### 9d02e1b713 | BATMAN → CATWOMAN | x2
+Doing the right thing? Maybe there’s hope for you yet.
+
+#### 4f02477a2c | GORDON → CATWOMAN | x2
+Alpha Patrol -- come in.
+
+#### d546e39e7c-LF | GORDON → CATWOMAN | x2
+Alpha -- do you read?
+
+#### d8354781b6 | GORDON → BATMAN | x2
+Sergeant Connors -- report.
+
+#### 8b2ff27c6b | GORDON → CATWOMAN | x4
+None of my men on the ground are responding.
+
+#### dad0e94f6a | GORDON → CATWOMAN | x2
+Including my cops.
+
+#### 81a5b901bd | CATWOMAN → GORDON | x2
+Even so, I can’t have the obligation hanging over my head.
+
+#### f50153bc9e | CATWOMAN → GORDON | x2
+Don’t read too much into it -- I’m just allergic to owing you anything.
+
+#### 3cc7d8c270 | BATMAN → CATWOMAN | x2
+Afraid people will see you doing the right thing?
+
+#### 1b8f0fbdd8 | CATWOMAN → BATMAN | x2
+I’m just allergic to obligation.
+
+#### 9db641d516 | CATWOMAN → BATMAN | x2
+You know, like ‘You scratch my back, I cut some people up?‘
+
+#### 2482769a94 | BATMAN → CATWOMAN | x2
+So much for ‘increased security.
+
+#### dc48b79019 | BATMAN → CATWOMAN | x2
+Enough waiting. We’re going in.
+
+#### 0cdb71bf79 | BATMAN → CATWOMAN, GORDON | x4
+They’re already inside.
+
+#### d8bfec8b78 | CATWOMAN → BATMAN | x2
+It’s the Children of Arkham. They’re already inside.
+
+#### 9378ac9549 | CATWOMAN → BATMAN | x2
+Don’t get too excited.
+
+#### 20ad2ee1ef | CATWOMAN → BATMAN | x2
+Is that what you get up to when you’re not fighting crime?
+
+#### 9e3fc11851 | CATWOMAN | x2
+Trying to fill the void of loneliness?
+
+#### faea15edb7 | CATWOMAN → HARVEY, GORDON | x10
+Now aren’t you glad I’m here?
+
+#### 1dfd08553b | HARVEY → HILL, CATWOMAN | x5
+Uhg--
+
+#### a82bddcffe | HARVEY, BRUCE → LADYARKHAM, CATWOMAN, ALFRED | x7
+Ow.
+
+#### 15c395bcbe | HILL → LADYARKHAM, CATWOMAN | x5
+Ahhg!
+
+#### f335eb6cf1 | CATWOMAN → HARVEY | x2
+-- I don’t like their chances.
+
+#### 29b20e9e05 | CATWOMAN → BATMAN | x2
+-- some of them aren’t getting out alive.
+
+#### 4be1a0ce6c | BATMAN → CATWOMAN | x2
+Can’t get a visual from here. Hard to tell how many guards there are.
+
+#### 5793dd523c | CATWOMAN → BATMAN | x2
+We’ll have to move in closer before I can do anything there.
+
+#### 7ad902b149 | BATMAN → CATWOMAN | x2
+You take that one.
+
+#### 131dde0d4b | CATWOMAN → BATMAN | x2
+Just the one?
+
+#### 4c5c80a5ac | BATMAN → CATWOMAN | x2
+That one’s yours.
+
+#### 55e3332a1b | CATWOMAN → BATMAN | x2
+Really? Can I keep him?
+
+#### 05dfb6f995 | BATMAN → CATWOMAN | x2
+Take him out -- Quietly. I’ll handle the others.
+
+#### 039381609e | BATMAN → CATWOMAN | x2
+Just the one. I’ll handle the others.
+
+#### 077802ea4d | BATMAN → CATWOMAN | x2
+Quick and quiet.
+
+#### ac87e6e23d-LM | LUCIUS, CATWOMAN, COP01, BRUCE → BRUCE, BATMAN, GORDON | x24
+You got it.
+
+#### 92d7b5bcd7 | BATMAN → CATWOMAN | x2
+And ‘non-lethal’!
+
+#### b92ea730ba-SF-LM | CATWOMAN → BATMAN | x2
+Aw. I was afraid you were going to say that.
+
+#### 1fbe2b66f3 | CATWOMAN → BATMAN | x2
+Can’t get to him without tackling the bruiser first.
+
+#### 33bf30ecc7-SF | CATWOMAN → BATMAN | x2
+I thought your father was dead...
+
+#### 5cfba3d314 | CATWOMAN → GORDON | x2
+You’re getting a two-fer.
+
+#### 461fa111c4 | CATWOMAN → GORDON | x2
+You’re getting two for the price of one.
+
+#### c68ff1ad91 | GORDON → CATWOMAN, PENGUIN | x4
+Gamma Patrol -- come in goddamn it!
+
+#### 661c549591-LF | GORDON → CATWOMAN | x2
+Do you read? Alpha Patrol? Do you read?
+
+#### f54d998486 | CATWOMAN → GORDON | x2
+No wonder they weren’t responding...
+
+#### 799b742099 | CATWOMAN → GORDON | x2
+At least we know why they weren’t responding.
+
+#### 498c7b65c9 | CATWOMAN → PENGUIN | x2
+This is no clown show.
+
+#### 547f90e3c8 | CATWOMAN → PENGUIN | x2
+This is no smash and grab operation.
+
+#### ef17c94dbc | PENGUIN → CATWOMAN | x4
+-- sacking the moderator.
+
+#### b8b691c55b | PENGUIN → CATWOMAN, GORDON | x4
+-- terminating the moderator.
+
+#### 217fba9a09 | HILL → PENGUIN | x2
+Ooof.
+
+#### cbf4026da9 | PENGUIN → HILL, FALCONE | x3
+We need a new moderator -- You there! Yes -- you! Thank you for volunteering --
+
+#### 67a1d7af86 | PENGUIN → HILL | x2
+Go on then -- introduce the candidates!
+
+#### 0703ef8dbc-LM | PENGUIN → HILL | x2
+Stage fright, huh? Alright, I’ll get you started, but this is your show.
+
+#### ec88097969 | PENGUIN → VICKI | x2
+Come on you! You have to give both candidates equal time -
+
+#### 3410dc1f04 | PENGUIN → VICKI | x2
+You know what? Forget it -- More trouble than you’re worth...
+
+#### 6732424456 | PENGUIN → VICKI | x2
+Spoken like some someone who’s never been poor.
+
+#### 4c495b6a02 | PENGUIN → HARVEY | x2
+Dent? Do you have anything to say?
+
+#### c0fcfaf371 | VICKI → BATMAN | x2
+Why? I mean, why do you do it?
+
+#### 4da1557a75 | BATMAN → VICKI | x2
+It’s what I do.
+
+#### 0dd1575f54 | BATMAN → VICKI | x2
+Someone has to.
+
+#### 87a953f7a1 | BATMAN → VICKI | x2
+I get a kick out of hurting criminals.
+
+#### 8a52845b21-SM | BATMAN → VICKI | x2
+I had a traumatic childhood.
+
+#### c9bb1446d2 | REPORTER01, REPORTER04, REPORTER02, REPORTER03 → BRUCE, HARVEY, HILL | x51
+Can I quote you on that?
+
+#### 3939e611d7 | VICKI → BATMAN | x2
+Better you than me.
+
+#### bb912457e1 | VICKI → THOMAS | x2
+Didn’t we all.
+
+#### 0597ce5125 | THOMAS → YOUNGHILL | x2
+...and will be committed to Arkham indefinitely.
+
+#### dc5162da1d | THOMAS → YOUNGHILL | x2
+Subject 9... formerly Esther Cobblepot, having been declared criminally insane, is now undergoing suppression treatment...
+
+#### 72a2275cec | ESTHER → YOUNGHILL | x2
+Please-- I’ll sell you the land.  Please don’t do this--  I have a boy.
+
+#### f7f8abf0c7 | YOUNGHILL → ESTHER | x2
+Give her the drug.
+
+#### 9a9d9ea6e5 | THOMAS → HARVEY, ESTHER | x5
+Commence the procedure.
+
+#### a540fb3dc4 | ESTHER → YOUNGHILL | x2
+Thomas -- we-- we’re friends. Our boys play together --
+
+#### d1d9a9cc95-LM | THOMAS → YOUNGHILL | x2
+You were warned, Esther. You know I always get what I want.
+
+#### 70dc25cfa7 | THOMAS → ESTHER | x2
+Hey--
+
+#### 3d19619162 | YOUNGHILL → THOMAS | x2
+Now everything is ours. All your land. All your assets. Everything.
+
+#### 44afd2903e | THOMAS → LADYARKHAM | x2
+Hey...
+
+#### 0cafba9cfb | LADYARKHAM → THOMAS, YOUNGHILL | x4
+Now you know. Now you will see.
+
+#### 579a7d7609 | LADYARKHAM → PENGUIN | x2
+Show your anger!
+
+#### 905cb326c7 | BATMAN, PENGUIN, TONY, SELINA → HARVEY, LADYARKHAM, BRUCE | x14
+You
+
+#### 21fd15ec9c-LF | PENGUIN → LADYARKHAM | x2
+You made a pact with the devil!
+
+#### 6a3dc50128 | PENGUIN → LADYARKHAM | x2
+The revolution’s already started! It’s too late to join!
+
+#### d0d484768d-SM | PENGUIN → LADYARKHAM | x2
+I told you - when the revolution started it’d be too late to join.
+
+#### f65295c8eb | LADYARKHAM → PENGUIN | x2
+The current Mayor of Gotham!
+
+#### 53a9c4c7b5 | LADYARKHAM → PENGUIN | x2
+Tear the mayor limb from limb!
+
+#### f600a4242f | VICKI → LADYARKHAM | x2
+Please, no!
+
+#### 7fcd565f60 | GORDON → LADYARKHAM | x2
+[please get ambient coverage of Gordon
+
+#### 8b20bde5a9 | BATMAN → GORDON | x2
+Gordon -- we found one of your patrols -- they’ve been terminated.
+
+#### 613cc3cf13 | GORDON → BATMAN | x2
+That’s... that’s terrible news...
+
+#### 659c7a0092-SM | BATMAN → GORDON | x2
+I’m sorry. Setting up now.
+
+#### c450021d14 | BATMAN, ALFRED → ALFRED, BATMAN, ESTHER | x10
+Catwoman?
+
+#### 883a4bdb8f | ESTHER → CATWOMAN | x2
+Please --
+
+#### f24948b7d0 | ESTHER → CATWOMAN | x2
+Don’t do this --
+
+#### 5de6277327 | ESTHER → BATMAN | x2
+I’ll do anything --
+
+#### 2c207f4889-SM | HILL → ESTHER | x2
+I did! I was part of taking out Thomas Wayne. We had him killed because he went too far.
+
+#### acb66947f7 | CATWOMAN → ESTHER | x2
+I’m here to help Batman save the day.
+
+#### f0a6a6868e | PENGUIN → BATMAN | x2
+Batman! You certainly know how to make an entrance!
+
+#### 149d7ab31b | BATMAN, CATWOMAN → VICKI | x4
+Go!
+
+#### 49b9089b2d-LF | PENGUIN → CATWOMAN | x2
+If I didn’t know better, I’d say you were trying to steal the show.
+
+#### ca4d96e798-LM | PENGUIN → BATMAN, HILL | x4
+You saw what Hill did to those poor people in Arkham --
+
+#### 0d7f22135f | PENGUIN → BATMAN | x2
+Why don’t you kick the crap out of him?
+
+#### 1f9764be36 | PENGUIN → THOMAS | x2
+Go on love. You know what to do.
+
+#### 17de78a70b | THOMAS → PENGUIN | x2
+Give her a dose she won’t come back from.
+
+#### 6e99d37520 | PENGUIN → THOMAS | x2
+Look at that. The DA’s got himself a gun.
+
+#### 1497f5b9a3 | PENGUIN → THOMAS | x2
+But does he have what it takes to pull the trigger?
+
+#### eb94af6fc0 | choice/UI → PENGUIN | x2
+They’re no match for Penguin.
+
+#### 84a5bc092c | choice/UI → PENGUIN | x2
+Oswald has partners.
+
+#### 2f3c11673f | choice/UI → PENGUIN | x2
+I’m not here to join.
+
+#### 47eb2e4ef2 | choice/UI → PENGUIN | x2
+It’s over, Penguin.
+
+#### 79ef24a1e6 | choice/UI, BATMAN, BRUCE → GORDON, VICKI, HARVEY | x6
+Let him go!
+
+#### 3e3f619210 | BATMAN → GORDON | x2
+No, Gordon! Keep your men out!
+
+#### 10a8d3798f | GORDON → PENGUIN | x4
+Those goddamn sons of bitches...
+
+#### 987dad18e5 | PENGUIN → HILL | x2
+Why don’t you give him the justice he deserves?!
+
+#### 2ebb082583-SM-LM | HILL → PENGUIN | x2
+I gave you what you wanted!
+
+#### 810ddeae73-LM | HILL → PENGUIN | x2
+Everything you asked for!!
+
+#### 3afb5cdcab-SM | HILL → PENGUIN | x2
+That -- that was all Thomas Wayne -- not me. I tried to get him to stop!
+
+#### 8da9ea3ca8 | PENGUIN → HILL | x2
+Roll the tape!
+
+#### 52c867e13b | PENGUIN → HILL | x2
+Some things just aren’t
+
+#### 249c14b648 | HILL → PENGUIN | x2
+We had a deal --
+
+#### b26a47a81a-SM | HILL → PENGUIN | x2
+I gave you the tape!
+
+#### 6d6b9efbc8 | choice/UI → PENGUIN | x4
+Big TV
+
+#### 0424f6e702 | choice/UI → HILL, LUCIUS | x12
+Table
+
+#### 7662ae798d | choice/UI → HILL, PENGUIN, CATWOMAN | x6
+Thug
+
+#### e29db923e2 | choice/UI | x6
+Ceiling
+
+#### 97ea559953 | choice/UI → CATWOMAN | x24
+Catwoman
+
+#### cc44222286 | choice/UI → MODERATOR | x8
+Camera Stand
+
+#### 478d47b06d | choice/UI | x8
+Door
+
+#### f6b21261a7 | choice/UI | x6
+Light Stand
+
+#### ce2599b6e9 | BATMAN → HILL | x2
+Then I’ll put him in the ground.
+
+#### 24374bbd5f | CATWOMAN → BATMAN | x2
+I’ll set him up?
+
+#### 33fbf60845 | BLOCKBUSTER → CATWOMAN, PENGUIN | x4
+Keep it quiet back there.
+
+#### 79d7e23f77 | CATWOMAN → BLOCKBUSTER | x2
+I can cover that one, for sure.
+
+#### 42cbafb1c1 | CATWOMAN → HARVEY | x2
+I guess being partners means you do everything and I sit on the sidelines.
+
+#### 6a217df91e-SF | CATWOMAN → HARVEY | x2
+Glad I could help.
+
+#### abd4215555 | HARVEY → CATWOMAN | x2
+It’s not too late to save this city.
+
+#### 5ec1ff566a | HARVEY → PENGUIN | x2
+To take it back from the corrupt politicians.
+
+#### 85db6d37c9 | PENGUIN → HARVEY | x2
+And what about the corrupt elite?
+
+#### 5dcdac4d63 | PENGUIN → HARVEY | x2
+The men whose fortunes are built on corpses?
+
+#### 3d57e0d653 | PENGUIN → HARVEY | x2
+Men like your friend, Bruce Wayne!
+
+#### 8e1d124724 | PENGUIN → CATWOMAN | x2
+You’re as bad as he is! Happy to look away from what you don’t want to see!
+
+#### 4f48cadd5b | PENGUIN → CATWOMAN | x2
+Your friend has cost this city countless lives. Lives you claim to care so much about.
+
+#### 20a52243e5 | PENGUIN → BLOCKBUSTER | x2
+You’re just his lap dog, aren’t you?
+
+#### 11fb9d5177 | CATWOMAN → PENGUIN | x2
+What’s the plan?
+
+#### 842b3fe10f | BLOCKBUSTER → PENGUIN | x2
+AARRRGH!
+
+#### e73d0b652e | BLOCKBUSTER → PENGUIN | x2
+Son of a bitch!
+
+#### 4591e18587-SM | HARVEY → BLOCKBUSTER | x2
+I won’t let you kill anyone else!
+
+#### f53f1acc18 | PENGUIN → HARVEY | x2
+Wait your turn, Dent!
+
+#### ef6daf0ee3 | PENGUIN → HARVEY | x2
+Stop pretending to be a hero, Dent.
+
+#### 56da632a7c | PENGUIN → HARVEY | x2
+You’re just a dog on a short leash. That reminds me...
+
+#### bed0af9da4-SM | PENGUIN | x2
+You know, Bruce and I were friends once too.
+
+#### ec69b01793 | PENGUIN | x2
+Thought he was a true pal.
+
+#### 59c58abcf2 | PENGUIN | x2
+But that’s the thing about good ol’ Brucie.
+
+#### aefb56b302 | PENGUIN | x2
+He’s a friend of convenience.
+
+#### abb92a37f0 | PENGUIN → HARVEY | x2
+You’re convenient, Harvey.
+
+#### 895365fcad | PENGUIN | x2
+Just another puppet he can use.
+
+#### 821a7e13fb | PENGUIN | x2
+You think he cares about you one lick?
+
+#### 3d9692a01a | PENGUIN | x2
+He’s not even bloody here!
+
+#### a4948cca78 | PENGUIN → HARVEY | x4
+Where’s your so-called friend?
+
+#### 0298487557 | PENGUIN | x2
+I think you know the truth.
+
+#### 681f48aaaf | PENGUIN → HARVEY | x2
+Soon as you stop being useful, he’s nowhere to be found.
+
+#### 9b4aaa8820 | PENGUIN → HARVEY | x2
+Just bloody disappears.
+
+#### 9c51b33601 | PENGUIN, choice/UI → HARVEY | x4
+Don’t
+
+#### 944d4beb97 | HARVEY → PENGUIN | x2
+That’s not true, he’s--
+
+#### 4c76771bf7-SM | HARVEY → PENGUIN | x2
+I’m sure there’s a good reason--
+
+#### c5022d9662 | PENGUIN → HARVEY | x2
+There’s a very good reason.
+
+#### 6b5a471781 | HARVEY → PENGUIN | x2
+No--
+
+#### e4750c0b0e | PENGUIN → HARVEY | x2
+Then where is he?
+
+#### 29e0c00bd2-LM | CATWOMAN → PENGUIN | x2
+Hope you’ve got another trick in that belt of yours.
+
+#### 25037b8d37 | PENGUIN → CATWOMAN | x2
+Lookie here! Big Bad Harvey Dent has a gun!
+
+#### c565c699f9 | PENGUIN → CATWOMAN | x2
+Think he knows how to use it?
+
+#### c2d3a5f240 | CATWOMAN, FALCONE → PENGUIN, BRUCE | x4
+Smart.
+
+#### 43377fea46 | GORDON → PENGUIN, BATMAN | x4
+Hold your fire, dammit!
+
+#### b0e6219431 | GORDON → PENGUIN, BATMAN | x4
+Goddammit, stop shooting up the place!
+
+#### e4038c53c7 | GORDON → CATWOMAN, BATMAN | x4
+Where’s the maniac in the mask?
+
+#### fd38de73f5 | BRUCE, BATMAN, SELINA → HARVEY, GORDON | x100
+Harvey...
+
+#### 8b4d28c7b1 | GORDON → BATMAN, MODERATOR | x4
+We need paramedics over here now!
+
+#### 6508e65d2c | BATMAN → GORDON | x2
+We have bigger things to worry about right now.
+
+#### d32d550c37 | BATMAN → GORDON | x2
+Your security has been compromised.
+
+#### 3f2c3a12dc | GORDON → BATMAN | x2
+Compromised!?
+
+#### 64a94965bc-SM | GORDON → BATMAN | x2
+I’ve got patrols on every door!
+
+#### 448da96324 | BATMAN → GORDON | x2
+Penguin disabled all the security cameras at the debate.
+
+#### 5b7d81f2d4 | GORDON → BATMAN | x2
+Disabled?
+
+#### 0c326debd4 | GORDON → BATMAN, PENGUIN | x4
+Those goddamn sons of... [he trails off, overcome by emotion]
+
+#### fce5c35848 | BATMAN → GORDON | x2
+Penguin could strike at any moment -- we need to be alert.
+
+#### 98218989c6 | GORDON → BATMAN | x4
+Alpha Patrol -- come in goddamn it!
+
+#### 04eb675842 | BATMAN → HARVEY | x5
+Mr. Dent.
+
+#### aaeffd1bfd | BATMAN → GORDON | x2
+You better check on them.
+
+#### c518fb0674 | choice/UI, GORDON → BATMAN | x18
+Listen
+
+#### ac7c368781-LM | GORDON → BATMAN | x2
+Maybe you’re right, Batman...
+
+#### ef277eef8e | GORDON → BATMAN | x2
+Yeah, all quiet so far.
+
+#### 26a31d2c66-SM | GORDON → BATMAN | x2
+I’ve got my best men on patrols.
+
+#### b6daf77468-SM | GORDON → BATMAN | x2
+I’ve got my best men doing patrols.
+
+#### 437c838d3d-SM | BATMAN → GORDON | x2
+I’ve got a feeling that’s about to change.
+
+#### cb474fa6aa | GORDON → BATMAN | x4
+Listen... I value you looking out for the city -- really.
+
+#### 2d65d4bbcf | GORDON → BATMAN | x2
+I appreciate you looking out for the city, Batman. I really do. But...
+
+#### 916a78d701 | choice/UI → GORDON | x4
+First
+
+#### a75deddd87-LM | YOUNGHILL → GORDON | x2
+You had your chance. You should have taken the deal.
+
+#### 4d9b605319-SM | HARVEY → CATWOMAN | x2
+I told him not to come --
+
+#### 206048a846 | CATWOMAN → HARVEY | x2
+Just let the D.A. go.
+
+#### 140482caa1 | HARVEY, LUCIUS, CATWOMAN, INMATE02 → ASSISTANT, BRUCE, HARVEY | x24
+Dammit!
+
+#### ec4d3801d6 | PENGUIN → HARVEY | x2
+A parting gift to remember the night your buddy Bruce didn’t show up!
+
+#### e763864238 | HARVEY → BATMAN, CATWOMAN | x5
+I-- thanks.
+
+#### 0dee37c36c | HARVEY → LADYARKHAM, CATWOMAN | x5
+Uhgh-- uhgh-- uhgh--
+
+#### 56a293622d-LF | HARVEY → LADYARKHAM | x2
+Batman -- you left me...
+
+#### da747f2001 | BLOCKBUSTER → HARVEY | x2
+Aarrrggh!
+
+#### 6f9547d5ee | LADYARKHAM → HARVEY | x2
+I am the scion of the Children of Arkham.
+
+#### c6f642a139 | LADYARKHAM → BLOCKBUSTER | x2
+I am the Warden of the Children of Arkham.
+
+#### 36c02d3c10 | LADYARKHAM | x2
+For too long, Gotham’s elite have
+
+#### 17086bda13 | LADYARKHAM → PENGUIN, CATWOMAN | x5
+We are here to end the masquerade.
+
+#### 2f2bf1cbcc | LADYARKHAM → CATWOMAN | x2
+For too long men like your esteemed mayor have profited from the pain of innocents.
+
+#### 956a949fd3 | CATWOMAN → LADYARKHAM | x2
+Someone else is pulling the strings.
+
+#### 2cb193e06d | LADYARKHAM → CATWOMAN | x2
+Tonight we show you the truth.
+
+#### 399f72a237 | CATWOMAN → LADYARKHAM | x2
+Smart. Let someone else do your dirty work.
+
+#### faa928e492 | LADYARKHAM → HILL, CATWOMAN | x5
+And expose the corruption at root in your city.
+
+#### f8d3fd964c | BLOCKBUSTER → FALCONE, LADYARKHAM | x5
+You’ll do. Get out here.
+
+#### e7c0065aa3 | BLOCKBUSTER → MODERATOR, PENGUIN | x4
+Come on, you.
+
+#### 3ba31c68a4 | choice/UI → MODERATOR | x2
+Shoot Grapple Gun
+
+#### 00a4282c2d | MODERATOR → BLOCKBUSTER | x2
+Good evening everyone and welcome to our live debate for the next mayor of Gotham City.
+
+#### b6ace0d0e0 | MODERATOR → BLOCKBUSTER | x2
+This is an important debate for these two candidates, incumbent Mayor Hamilton Hill and the challenger, Gotham District Attorney Harvey Dent.
+
+#### 12a3e34d23 | MODERATOR → BLOCKBUSTER | x2
+And it’s also important for you, the citizens of Gotham, who will soon head to the polls to decide the future of your home -- a city that’s faced its share of hardships in recent years.
+
+#### a5ec46bccf | MODERATOR → GORDON | x2
+Rising crime rates, income inequality and yes, a masked vigilante loose on our streets. The candidates will tackle it all.
+
+#### 65dd3b1966 | MODERATOR → HILL | x2
+So let’s begin. Mr. Mayor, the first question goes to you...
+
+#### 56ab49a5c6 | choice/UI → MODERATOR, GORDON, ALFRED | x8
+TV
+
+#### 26da90a088 | choice/UI → MODERATOR | x2
+Large, surface-distributed force.
+
+#### 03349d9629 | choice/UI → GORDON | x2
+Bludgeoning, capable of breaking gunman’s armor.
+
+#### f1b7d5d917 | choice/UI | x6
+Agile, fierce, never misses her quarry.
+
+#### e131932e94 | choice/UI | x2
+Sturdy surface, welded frame.
+
+#### c4b459abc7 | choice/UI | x2
+Heavy duty, muffles sound to and from stage.
+
+#### 0a2a36704c | choice/UI | x2
+Reinforced steel I-beams above ceiling tile.
+
+#### 3eb7eb509a | choice/UI | x2
+Quick takedown, potential to disorient other gunmen.
+
+#### 984432f561 | choice/UI | x2
+Forward Gunman
+
+#### a125118b03 | choice/UI | x2
+Facing away, vulnerable.
+
+#### 207cc349b4 | choice/UI | x2
+Stage Exit Gunman
+
+#### 787bc4c636 | choice/UI | x2
+Flanking position, able to call for help.
+
+#### 1107e43079 | choice/UI | x2
+Rear Gunman
+
+#### f73415164c | choice/UI → GORDON | x2
+Clear sightline across the whole room.
+
+#### 27315bcdd9 | GORDON → MODERATOR | x8
+Be careful. We’ve got a packed house of civilians in there.
+
+#### 97d7cc1535 | GORDON → MODERATOR | x2
+Everybody in Gotham saw that moderater get shot on live TV.
+
+#### 4ea77b6e70 | GORDON | x2
+Don’t let anyone else get killed!
+
+#### 60a5147185 | GORDON | x2
+You two can sneak in there quieter than my SWAT guys.
+
+#### aa97a3c0ea | GORDON | x2
+You have a better shot than my SWAT team of getting in there quietly.
+
+#### 48a1086859 | GORDON | x2
+What’s going on in there?
+
+#### 9e695c9c17-SM-LM | GORDON → BATMAN | x2
+I just had the Mayor in my ear about your... visit. And after what you did to Falcone --
+
+#### 661c549591-LM | GORDON → BATMAN | x2
+Do you read? Alpha Patrol? Do you read?
+

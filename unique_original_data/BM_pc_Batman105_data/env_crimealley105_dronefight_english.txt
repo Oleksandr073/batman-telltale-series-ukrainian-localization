@@ -1,0 +1,657 @@
+﻿#### 65c893861c | choice/UI → ALFRED | x2
+Come to gloat?
+
+#### 0249e789ac | choice/UI → ALFRED | x2
+You must be bored.
+
+#### 8623a7aef3-LM | choice/UI → ALFRED | x2
+You’ve made a huge mistake.
+
+#### 797a96d7d3 | ALFRED → BATMAN | x2
+Bruce -- this is a dangerously unsecure line.
+
+#### 506e00fdfc | BATMAN → OSWALD | x2
+With the batcomputer off-line, it’s all we’ve got.
+
+#### 7f48ee5367 | BATMAN → OSWALD, ALFRED | x4
+We lost Commissioner Grogan...
+
+#### d4db8a306d | OSWALD → BATMAN | x2
+Life off the grid must be treating you well, eh!
+
+#### 2ca60ebe4e-LM | OSWALD → BATMAN | x2
+I bet you’re learning about yourself, in all sorts of brilliant and unexpected ways.
+
+#### 96fe6d22ae | OSWALD → BATMAN | x2
+Getting in touch with nature and all that.
+
+#### a0200e2f1d | BATMAN → PENGUIN | x2
+Here to gloat, Penguin?
+
+#### 3289657475-SM | OSWALD → BATMAN | x2
+I won’t lie -- it’s fun watching you flop about like a crippled bird.
+
+#### 11f310edb1 | OSWALD → BATMAN | x2
+But that’s not why I’m here.
+
+#### 688cfcf7b9-LM | BATMAN → PENGUIN | x2
+You’ve made a huge mistake, Penguin.
+
+#### cfb7558f3c | OSWALD → BATMAN | x2
+Ever the optimist, aren’t you?
+
+#### 6d5a1fa0e8 | OSWALD → BATMAN | x2
+We’ve been at this a while now, eh?
+
+#### 66d8e69dbd | BATMAN → PENGUIN | x2
+Must be boring in Wayne Tower if you’re stalking me, Penguin.
+
+#### be056c2516 | OSWALD → BATMAN | x2
+Round ‘an round. The endless merry-go-round of bat and bird.
+
+#### 2dfbefb410-LM | OSWALD → BATMAN | x2
+It’s like you’ve had your wings clipped!
+
+#### 3c3202fa16 | BATMAN, OSWALD → OSWALD, ALFRED | x4
+But this is more business than pleasure.
+
+#### ae33c41e26 | OSWALD → BATMAN | x2
+Oh you know I’m your biggest fan, Batman.
+
+#### d3e696ba2a | BATMAN → OSWALD, ALFRED | x4
+The batsuit’s already ruined -- it couldn’t protect me from a knife, let alone Penguin’s new arsenal.
+
+#### e2d30836d7 | ALFRED → BATMAN | x4
+If they really can track you, you’d be walking into certain death.
+
+#### 4bb80bb7f4 | BATMAN → ALFRED | x2
+If Batman can’t take the fight to Penguin...
+
+#### 27f5e3e696 | BATMAN → ALFRED | x2
+...maybe Bruce Wayne can.
+
+#### 08476fc0b3 | ALFRED → BATMAN | x4
+Face Penguin as Bruce?
+
+#### f1c9cf0527 | choice/UI → ALFRED | x2
+He underestimates Bruce.
+
+#### a2979077b3 | BATMAN → ALFRED | x2
+Cobblepot thinks he knows me.
+
+#### 34b83b7585 | BATMAN, BRUCE → ALFRED, BATMAN | x4
+Penguin’s just a pawn in Lady Arkham’s game.
+
+#### 281f5ac2cf | BATMAN → ALFRED | x2
+Penguin will be expecting Batman.
+
+#### 22936e5866 | ALFRED → BATMAN | x2
+I suppose we don’t have a choice.
+
+#### 40c9015e78 | BATMAN → ALFRED | x2
+Get Gordon on the line.
+
+#### b76d8b338b | ALFRED → BATMAN | x2
+Penguin means to bring a lot of firepower to this fight.
+
+#### 07b0b2ac4c | ALFRED → BATMAN | x2
+And you’ll be no more than a civilian.
+
+#### e6ed79c810 | BATMAN → ALFRED | x2
+He improved the armor...
+
+#### a09362aeb1 | OSWALD → ALFRED | x2
+Communing with the paleo-bat.
+
+#### c972599c9d | ALFRED → BATMAN | x2
+Bruce? What are you doing?
+
+#### 7b25462f21 | BATMAN → OSWALD | x4
+If I can just find a way into the network…
+
+#### 6dbd38594c | ALFRED → OSWALD | x2
+Is it worki--
+
+#### 3356e53218 | BATMAN → OSWALD | x2
+Ssshhh… listen.
+
+#### 1644f21612 | OSWALD → BATMAN | x2
+-- see that!? That’s how you bait an ego-driven psycho like Batman!
+
+#### 95411063ea | OSWALD → ALFRED | x2
+Set the final trap up in Cobblepot Park --
+
+#### 77289dbea5 | OSWALD → BATMAN | x2
+-- the pillock doesn’t know we can track any piece of him, down to his bat-knickers --
+
+#### 1220c62b14 | OSWALD → BATMAN | x2
+So when he drops in, we’ll be ready.
+
+#### ef84a2775f | OSWALD → BATMAN | x2
+Now we just have to wait till he comes at me again.
+
+#### 9fa9f52cda | BATMAN → OSWALD | x2
+but he has no idea what I’m really capable of.
+
+#### f869dd12ef | BATMAN → OSWALD | x2
+Seeing Bruce would throw Oswald off for sure.
+
+#### 1e6eacc1e4 | ALFRED → BATMAN | x2
+Is that really a good idea?
+
+#### d838a7480f | BATMAN → ALFRED | x2
+Because my tech failed.
+
+#### 449a38693f | ALFRED → BATMAN | x2
+Well, now we know where to find him.
+
+#### ea2fedfb6f-SM | BATMAN → ALFRED | x2
+Besides. I won’t be going alone.
+
+#### 286b66245a | BATMAN → OSWALD | x2
+I may have lost my tech, but stopping Harvey’s reign of terror left me with allies.
+
+#### 13f5113d07 | OSWALD → BATMAN | x2
+You can’t even stop me offing the police commissioner!
+
+#### 6e8a22c828 | OSWALD → BATMAN | x2
+My point is you’re at the end of your rope.
+
+#### 57f428600c | BATMAN → OSWALD | x2
+What’s your point?
+
+#### c3fcc46289-LM | OSWALD → BATMAN | x2
+Just turn yourself over to my goons.
+
+#### f292672565 | OSWALD → BATMAN | x2
+The only thing left for a sad sack like you is surrender.
+
+#### db4f2625f5 | OSWALD → BATMAN | x2
+Scout’s honor, they’ll go easy on you.
+
+#### de1f0f9ecc | OSWALD → BATMAN | x2
+Without your toys, you’re nothing --
+
+#### 6b7ca739cc | choice/UI → OSWALD | x2
+I don’t need tech.
+
+#### 58a7d9c628 | choice/UI → OSWALD | x2
+Face me man to man.
+
+#### 66538648e4 | choice/UI → OSWALD | x2
+I’m going to make you suffer.
+
+#### 6988617a6c | BATMAN → OSWALD | x2
+I don’t need toys to deal with the likes of you.
+
+#### c88580b477 | OSWALD → BATMAN | x2
+Those are just words, Batman.
+
+#### af16107532-LM | OSWALD → BATMAN | x2
+What you need is armor and bullets!
+
+#### 5f4db0379b | BATMAN → PENGUIN | x4
+You’re a coward, Penguin.
+
+#### e70e746cd4 | BATMAN → OSWALD | x2
+Come out and face me, man to man!
+
+#### b2f08cfeb4 | OSWALD → BATMAN | x2
+Now why would I do that --
+
+#### a0f0e6949f | OSWALD → BATMAN | x2
+The Police Commissioner, Batman!!
+
+#### 7bc2ac7e7b | OSWALD → BATMAN | x2
+When I can shred you with this wicked drone!
+
+#### 33735b0f11 | BATMAN → OSWALD | x4
+I am going to make you suffer.
+
+#### fbfa1bf5d1 | BATMAN → PENGUIN | x2
+Remember this moment, Penguin.
+
+#### 476c0c8138 | OSWALD → BATMAN | x2
+Ah, Batman. Those are just words.
+
+#### eb34669406 | OSWALD, PENGUIN → BATMAN | x4
+Unlike this drone, which is designed to cause quite a bit of pain.
+
+#### 101f14ad95 | OSWALD → BATMAN | x2
+Words can never hurt you --
+
+#### 59b339037d | OSWALD | x2
+If only looks could kill half as well as this drone.
+
+#### 3b5a4a9116 | OSWALD | x2
+Crap --
+
+#### ad60e302b0 | OSWALD → ALFRED | x2
+All that’ll be left is a bat-shaped splat on the pavement.
+
+#### 566c8dfea9 | OSWALD → BATMAN | x2
+Cheerio, Batman!
+
+#### 9ebfd96ef3 | OSWALD → ALFRED | x2
+I want the entire anti-bat arsenal deployed this time. Everything we’ve got!
+
+#### 209bdb78a2 | ALFRED → OSWALD | x2
+Smack bang in a trap designed specifically to destroy Batman.
+
+#### 64171d617b | OSWALD → BATMAN | x2
+We’ll need a fancy hostage or two, of course--
+
+#### 3e1484d7f0 | GOON04 → BATMAN | x2
+Understood, sir. That freak comes in range, he’s toast.
+
+#### 972374e187 | BATMAN → OSWALD | x2
+Some of the best people in Gotham.
+
+#### 6f045e0bed | choice/UI → OSWALD | x2
+[Attack the Drone]
+
+#### 4f62036559 | BATMAN → OSWALD | x2
+Tell him that Commissioner Grogan’s killer is waiting in Cobblepot Park.
+
+#### 04299fd8e9 | BATMAN → OSWALD | x2
+I don’t need gadgets to deal with the likes of you.
+
+#### 2728ce74fb | OSWALD → BATMAN | x2
+So eager to die!
+
+#### f36e5ac87a | OSWALD → BATMAN | x2
+Bloody hell --
+
+#### a4e1b27c6f | OSWALD → BATMAN | x4
+Ta ta, Batman!
+
+#### b4e1f1945b | OSWALD → BATMAN | x2
+You seem to be struggling now that you’ve been sent back to the stone age.
+
+#### 76cba5141a | BATMAN → OSWALD | x2
+This drone is connected to Penguin’s network -- if I can just activate it...
+
+#### e6552a7c25 | BATMAN → OSWALD | x2
+And tell him to meet me there.
+
+#### bdfab2f826 | OSWALD → BATMAN | x2
+Impressive as ever!
+
+#### 98e8ee19d6 | OSWALD → BATMAN | x2
+Life must be ever so difficult now that we’ve taken your tech.
+
+#### 4383856a37-LM | ALFRED → BATMAN | x2
+He gave his life... so that you could continue fighting.
+
+#### e2f1f212b5 | BATMAN → OSWALD | x2
+He should have stayed out of the way.
+
+#### c98dc8e413 | ALFRED → BATMAN | x2
+The Commissioner had too much courage to sit idly by.
+
+#### 87afaa504c | BATMAN → ALFRED | x2
+Commissioner Grogan will be the last to die.
+
+#### 27a0180931 | BATMAN → ALFRED | x2
+He didn’t have to die.
+
+#### fcd7fd77f0 | BATMAN → ALFRED | x2
+Penguin is going to pay for this.
+
+#### 70696c2c13 | BATMAN | x2
+The Commissioner will be avenged.
+
+#### 8df3dda7ba-SM | BATMAN → OSWALD | x2
+I need to get back to the batcave...
+
+#### 442620cf31 | BATMAN → OSWALD | x2
+I can’t let him keep hurting innocent- [cut off]
+
+#### 2290aa851b | BATMAN → OSWALD | x2
+Figure out Penguin’s next move.
+
+#### 250eb76227 | OSWALD → BATMAN, ALFRED | x4
+Your poor little wings clipped...
+
+#### b66cd2d378 | OSWALD, PENGUIN → BATMAN | x6
+Lord! Will he ever get a sense of humor?
+
+#### 9e0dfbb320-LM | OSWALD → ALFRED | x2
+Just turn yourself over to my men.
+
+#### a555ae8b8b | OSWALD → ALFRED | x4
+Set another trap in Cobblepot Park --
+
+#### a00699e700 | ALFRED → OSWALD | x2
+Granted, a very skilled civilian...
+
+#### e112cb2ece | ALFRED → OSWALD | x2
+Yet I can’t see another choice.
+
+#### 1100b805aa | choice/UI, BATMAN → ALFRED, OSWALD | x6
+He died a hero.
+
+#### f9531c3466 | BATMAN → ALFRED | x2
+I’m going to end this.
+
+#### 363b441f4b-LM | ALFRED → BATMAN | x4
+He knew you could stop Penguin.
+
+#### 1a06006e40 | ALFRED → BATMAN | x2
+He believed in you, in the end.
+
+#### fff77d7bd2 | choice/UI → ALFRED | x2
+I’ll avenge him.
+
+#### b58729ed5f | choice/UI, BATMAN → ALFRED | x4
+He should have listened to me.
+
+#### 58207df00e | BATMAN → ALFRED | x2
+Commissioner Grogan died a hero.
+
+#### d003ccbbdb | BATMAN → ALFRED | x2
+The last hero who dies because of Penguin.
+
+#### 0401c9cfe9 | ALFRED → BATMAN | x2
+You can’t fault the man for his courage.
+
+#### e3309213f9 | BATMAN → ALFRED | x2
+One you’ll pay dearly for.
+
+#### 1e8c8902db | BATMAN → ALFRED | x4
+Even if he thinks he’s the King.
+
+#### b8f0d7d304 | BATMAN → ALFRED | x2
+Despite his lofty ambitions.
+
+#### 349caced38 | choice/UI, BRUCE → ALFRED, BATMAN | x4
+I’ll be the perfect hostage.
+
+#### 418e6600d5 | BATMAN → ALFRED | x2
+Penguin wants hostages to bait Batman.
+
+#### bc980d2a49-SM | BATMAN → ALFRED | x2
+and I would be the perfect hostage.
+
+#### 243ca3d114 | choice/UI → ALFRED | x2
+It’ll throw him off.
+
+#### 32aab29361-SM | BATMAN → ALFRED | x2
+Wish I could say the same.
+
+#### 6461491fad | ALFRED → BATMAN | x2
+Bruce -- this is a dangerously unsecure connection.
+
+#### 049f6362b3-SM | ALFRED → BATMAN | x2
+Are you alright sir? I saw on the news-
+
+#### fffc9fdc83 | ALFRED → BATMAN | x2
+Being cut off like this, no way of communicating
+
+#### a2c7194704 | ALFRED → BATMAN | x2
+Ah, thank god!
+
+#### 2bcb18de65 | choice/UI → ALFRED | x2
+He should have let me handle it.
+
+#### 2279e4b09c | ALFRED → BATMAN | x2
+With the comms offline, I’ve no idea what’s happening out there.
+
+#### e39bbaa697 | ALFRED → BATMAN | x2
+I always fear the worst.
+
+#### 0bcad8eba7 | BATMAN → ALFRED | x2
+He died protecting me.
+
+#### 7147c51eee-LM | ALFRED → BATMAN | x2
+Then, he gave his life... so that you could continue fighting.
+
+#### 30ca5598ec | ALFRED → OSWALD | x2
+Perhaps there’s a way to turn it to your advantage.
+
+#### c63711ca54 | ALFRED → BATMAN | x2
+Even without your armor, you’re more than a match for Oswald.
+
+#### 7c68123e6c | ALFRED → BATMAN | x2
+Without your armor, you’ll be more vulnerable.
+
+#### 747bfdebff | ALFRED → BATMAN | x2
+But far from helpless.
+
+#### bab60b28b7 | ALFRED → BATMAN | x2
+And meeting him as Batman would play right into his hand.
+
+#### de0737702d | BATMAN → ALFRED | x2
+That arrogance will lead to mistakes.
+
+#### 7d25eb7423 | ALFRED → BATMAN | x2
+That arrogance may be his undoing.
+
+#### 680f59dc96 | ALFRED → BATMAN | x2
+He certainly doesn’t.
+
+#### 55878c0b50 | ALFRED → BATMAN | x2
+And that may be his undoing.
+
+#### 4615ffe0c6 | ALFRED | x2
+You’d also be the perfect victim.
+
+#### e13d77557c | ALFRED | x2
+That overconfidence may be his undoing.
+
+#### 78f5ab43e8-L? | ALFRED | x2
+But I’m confident you won’t let that happen.
+
+#### 368583d524 | ALFRED | x2
+We don’t have much choice.
+
+#### a696e26c45-SM | ALFRED | x2
+I’m sure you’ll find a way to turn the situation to your advantage.
+
+#### 6ca86e8e95 | ALFRED | x2
+And by the time he does--it’ll be too late.
+
+#### 7a9afe0bb1 | ALFRED → BATMAN | x2
+Perhaps you can use that arrogance to your advantage.
+
+#### cfeb9ed7be | ALFRED → BATMAN | x2
+He certainly won’t see you coming.
+
+#### b3a0afbc88 | ALFRED → OSWALD | x2
+You can get close, and strike when he least expects it.
+
+#### 9899e2823d | BATMAN → ALFRED | x2
+I may have lost my gadgets, but stopping Harvey’s reign of terror left me with allies.
+
+#### 00dcac8a43 | OSWALD → ALFRED | x2
+Oh come on, just stay put!
+
+#### aa8e5812eb | OSWALD → BATMAN | x2
+Dance Batman, dance!
+
+#### 56fc48d90b | BATMAN → OSWALD | x2
+Penguin’s been making some improvements.
+
+#### 6c492d9ccf | BATMAN → OSWALD | x2
+Even deadlier than before.
+
+#### 639dcdb102 | OSWALD → BATMAN | x2
+almost got...... Bat.... he’ll never.....
+
+#### 4525d9a16c | BATMAN → OSWALD | x2
+In Penguin’s hands, it’s a dangerous weapon.
+
+#### b086c4e954 | BATMAN → OSWALD | x2
+The shell is much tougher than the original model.
+
+#### 07dc9db1c4 | BATMAN | x2
+What is Penguin gearing up for?
+
+#### 693ee1dd6f | BATMAN | x2
+Capable of firing armor piercing rounds.
+
+#### ae2510f48e | BATMAN | x2
+This could tear the city apart, if Penguin has his way.
+
+#### b15bb72aa2 | BATMAN → OSWALD | x2
+Change of branding, huh?
+
+#### a5290f2af0 | BATMAN → OSWALD | x2
+Probably doesn’t want the police to trace this back to Wayne Enterprises, or Penguin might be exposed.
+
+#### 80149236e0 | BATMAN → OSWALD | x2
+Tell him that Bruce Wayne will meet him there.
+
+#### eb88e2a562 | OSWALD → BATMAN | x2
+You sure about that, Batman?
+
+#### 89deb3954b-LM | OSWALD → BATMAN | x2
+Because from the look of it, you could use a little help.
+
+#### 2dbaad4bde | OSWALD → BATMAN | x2
+When I can have this drone do all the work for me?
+
+#### ca8e2af370 | BATMAN → ALFRED | x2
+Killing Grogan was the wrong move.
+
+#### e9d1ed4efb | ALFRED → BATMAN | x2
+And your suit--
+
+#### b20cf7bddb | ALFRED → BATMAN | x2
+Your suit won’t take much more damage. If Penguin really does have more drones...
+
+#### c650ceebd6 | BATMAN → ALFRED | x2
+Oswald has my tech, but I don’t plan to go without resources of my own.
+
+#### 328e5a7b02 | BATMAN → ALFRED | x2
+Give him our files on Oswald Cobblepot. Tell him that we did a little digging after he took my position as CEO.
+
+#### 47a2030958 | BATMAN → ALFRED | x2
+He should know who really killed Commissioner Grogan, and where to find him.
+
+#### 5c9df67aff | OSWALD → BATMAN | x4
+I really doubt that.
+
+#### 1f9d319665 | BATMAN → OSWALD | x2
+Oswald may have my tech, but I have other resources.
+
+#### d709fd3bfb | BATMAN → OSWALD | x2
+Found out he was Penguin. Let him know... Commissioner Grogan’s killer is headed to Cobblepot Park--and Bruce Wayne will meet him there.
+
+#### a8451ba5d5 | BATMAN → OSWALD | x2
+He should know who really killed Commissioner Grogan, and that the killer will be in Cobblepot Park.
+
+#### 34f4cc3ac7 | choice/UI → OSWALD | x2
+Gash
+
+#### ecd1687352 | choice/UI | x2
+Upgraded Armor
+
+#### 82d5cd87af | choice/UI | x2
+Machine Guns
+
+#### 36965ee06b | choice/UI | x2
+Penguin Logo
+
+#### 6cce776488 | choice/UI | x2
+Tear Out.
+
+#### bf91a7dd26 | choice/UI | x2
+Wire into Phone.
+
+#### 83c5836ad1 | choice/UI | x2
+I don’t need toys.
+
+#### 03f45e46ce | choice/UI | x2
+You’ll pay for Grogan.
+
+#### a2f6f6464b-L? | choice/UI, BATMAN | x4
+I think you’re scared.
+
+#### 913de0ae33 | choice/UI | x2
+He’ll talk to Bruce Wayne.
+
+#### 1d1babbd63 | choice/UI | x2
+He’ll underestimate me.
+
+#### 68918af69a | BATMAN → PENGUIN | x2
+Grogan’s death is on you.
+
+#### ef313acb32 | BATMAN → PENGUIN | x2
+And I’m here to make sure you pay for it.
+
+#### fd0867ede9 | BATMAN → OSWALD | x2
+If I can find a way to hack into it...
+
+#### 426cfe6985 | BATMAN → OSWALD | x2
+I can get to Penguin.
+
+#### 66e1003d94 | BATMAN → PENGUIN | x2
+If I can find a way in... reverse the signal...
+
+#### 5338dc5904 | BATMAN → ALFRED | x2
+Penguin would never pass up an opportunity to gloat.
+
+#### 39919b8332 | BATMAN → ALFRED | x2
+He’ll be happy to talk to his “old friend,“ Bruce Wayne.
+
+#### abe492dd68 | ALFRED → BATMAN | x2
+And while he’s busy talking, you’ll be figuring out a way to stop him.
+
+#### 34abc57aff | BATMAN → ALFRED | x2
+but I’m not without allies.
+
+#### c064fae3f1 | BATMAN → ALFRED | x2
+Time to call in a favor...
+
+#### defa0abb1e | BATMAN → BRUCE | x2
+I may not have all my gadgets...
+
+#### 9ccbe95d43 | BATMAN → ALFRED | x2
+Penguin improved the armor...
+
+#### 8b73cb335d | BATMAN → ALFRED | x2
+Ugh, he improved the armor...
+
+#### 4c9ab0e7ef | choice/UI → ALFRED | x2
+Exposed Wires
+
+#### a3c92408b5 | ALFRED → BATMAN | x2
+Your suit can’t take much more damage. If Penguin has more of those
+
+#### b4be8ae6de | ALFRED → BATMAN | x2
+If Penguin has more drones...
+
+#### ad78dac954 | BATMAN → ALFRED | x2
+One of his men used a device that targeted my armor. If Penguin has more  devices like that...
+
+#### 303d5becbb | ALFRED → BATMAN | x2
+The batsuit will be a liability.
+
+#### 537a3f44e8 | ALFRED → BATMAN | x2
+Another trap.
+
+#### 1063b3f747 | BATMAN → ALFRED | x2
+Full of whatever the device is that fried my suit.
+
+#### 84c65069bd | BATMAN → ALFRED | x2
+One of his men used a device that fried my armor. If Penguin has more of those...
+
+#### c2b337cc95 | BATMAN → ALFRED | x2
+It’s already in bad shape. It couldn’t protect me from a knife, let alone Penguin’s new arsenal.
+
+#### 2dc4f76a78 | BATMAN | x2
+Penguin thinks he knows me...
+
+#### 831c57d718 | BATMAN | x2
+Cobblepot thinks he knows me...
+
+#### b7d717421b | BATMAN → BRUCE | x2
+He’s made improvements.
+
+#### b7eac484ee | BATMAN → BRUCE | x2
+These could tear the city apart.
+
+#### 3c423d2584 | BATMAN → BRUCE | x2
+Bruce Wayne will be the perfect hostage.
+

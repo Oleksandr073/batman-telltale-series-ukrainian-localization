@@ -1,0 +1,546 @@
+﻿#### 1940d7fdd1 | choice/UI | x2
+^font:GameplayDisplayLarge.font^^glyphScale:0.8^Guardian of Gotham
+
+#### a9a798ec2e | choice/UI | x2
+^^Portions Copyright
+FMOD Studio by Firelight Technologies
+Uses Simplygon (TM), Copyright © 2014 Donya(TM) Labs AB
+
+©2002 Jean-Marc Valin
+
+Uses Oodle.  Copyright (C) 2008-2016 by RAD Game Tools, Inc.
+
+Copyright © 1994–2016 Lua.org, PUC-Rio.Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the Software), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+This game is a work of fiction. All of the characters, events, locations, logos, and entities portrayed are fictional. Any resemblance to real persons, living or dead, or actual events, is purely coincidental.
+
+Software code © 2016 Telltale, Inc. All other elements ©2016 DC Comics. BATMAN and all related characters, their distinctive likenesses, and related elements are the property of DC Comics. ™ &©2016. Telltale, Telltale Games, Crowdplay, the Crowd Play logo and the Telltale logo are trademarks and/or registered trademarks of Telltale, Inc. All rights reserved.
+
+WBIE LOGO, WB SHIELD: ™&© Warner Bros. Entertainment Inc.
+
+All other trademarks are the property of their respective owners. All rights reserved.
+
+#### 79a27edcb5 | choice/UI | x36
+^^Name - Lead
+Name(s)
+
+#### e1417bad8d | choice/UI | x4
+^font:MenuDisplaySmall.font^MUISC BY
+
+#### 24bdfdce91 | choice/UI | x4
+^^Name - Lead
+Name - Action Lead  (if applicable)
+Name(s)
+
+#### cc83642b44 | choice/UI | x8
+^^Name – Lead (if applicable)
+Name(s)
+
+#### ac337e327c | choice/UI | x4
+^font:MenuDisplaySmall.font^CREATIVE LEAD(S)
+
+#### 86c4e54888 | choice/UI | x4
+^font:MenuDisplaySmall.font^CREATIVE DIRECTOR(S)
+
+#### 7d81b568ff | choice/UI | x4
+^font:MenuDisplaySmall.font^EXECUTIVE PRODUCER(S)
+
+#### 85e28a4384 | choice/UI | x4
+^font:MenuDisplaySmall.font^SENIOR  PRODUCER(S)
+
+#### c84cc88295 | choice/UI | x4
+^font:MenuDisplaySmall.font^PRODUCER(S)
+
+#### 6e9f1be072 | choice/UI | x4
+^font:MenuDisplaySmall.font^ASSOCIATE PRODUCER(S)
+
+#### 2be792173d | choice/UI | x4
+^font:MenuDisplaySmall.font^ASSISTANT PRODUCER(S)
+
+#### 43a11345b7 | choice/UI | x4
+^font:MenuDisplaySmall.font^CREATIVE ASSISTANT(S)
+
+#### ee47b8ab43 | choice/UI | x4
+^font:MenuDisplaySmall.font^CHARACTER
+
+#### 3b7ae87458 | choice/UI | x4
+^^Actor Name
+
+#### 3742bc4293 | choice/UI | x4
+^font:MenuDisplaySmall.font^CHARACTER 2
+
+#### 4ab71ae01b | choice/UI | x4
+^^Actor 2  Name
+
+#### b4c185534c | choice/UI | x4
+^font:MenuDisplaySmall.font^____ SERVICES PROVIDED BY
+
+#### cc748876c7 | choice/UI | x4
+^^Jeff Edwards
+Sara Guinness
+Edward Toomey
+
+#### c9976964b5 | choice/UI | x4
+^^Fern Heintz
+Mario Valencia
+
+#### 9cbc977a6a | choice/UI | x4
+^^Joseph Floyd
+Seferino Gallardo
+
+#### 5876b10295 | choice/UI | x4
+^^Ricardo de Avila
+Carlos Flores
+Elena Morillo-Peterson
+Matthew Warner
+
+#### 978a0a3061 | choice/UI | x4
+^^Nicola Smith
+Sara Geimer
+Stephanie Keegan
+Tim Nguyen
+Jenna Poffenroth
+Megan Quinn
+
+#### 1ea85e4bba | choice/UI | x4
+^^Michael Hitson
+Claudia Menjivar
+
+#### 154215ee69 | choice/UI | x4
+^^Erick Ely
+Melanie Jacobson
+Alan Malicse
+Matthew Mitchell
+Manish Patel
+
+#### 2eea8500b3 | choice/UI | x4
+^^Matthew Pedonti
+Ashley Burns
+Michael Vallejo
+
+#### 74e46db6fb | choice/UI | x4
+^^Kevin Bruner
+Zacariah Litton
+Jonathan Sgro
+Randy Tudor
+Patrick Algermissen
+Jeremy Bernstein
+David Brady
+David Bromberg
+Lex Chesler
+Matt Davidson
+Michael Eads
+Scott Eberline
+Benn Herrera
+Ben Ingram
+Tim Ingram
+Alex Montgomery
+Mike Parsons
+Karen Petersen
+Bernd Raabe
+Chris Schmelzle
+Michael Schwartz
+Ceri Stagg
+Nicholas Van Sickle
+
+#### 7af8c04fdd | choice/UI | x4
+^^Name(s)
+
+
+and You
+
+#### 3f8ce84675 | choice/UI | x2
+^^Eric Stirpe - Lead
+Patrick Kevin Day
+Shanon Ingles
+Luke McMullen
+
+#### 036be8b0f7 | choice/UI | x2
+^^Michael Carpenter- Lead
+David Grem Armstrong
+Greg Felber
+John Wetmiller
+
+#### b437f98f22 | choice/UI | x2
+^^Jonah Huang - Lead
+Linda Bork
+Bridget Bougan
+Kyle Cabral
+Katrina Carras
+Justin Dunkle
+Airyque Ervin
+Michael Gambino
+Ori Gellman
+Tamara Go
+Calvin Huang
+Marina Ilic
+Vincent Kings
+Jonathan Kwok
+Camila Magrane
+Keenan Manely
+Sean Manning
+Nick Marshall
+Patrick McQuade
+John Pettingill
+Chris Rebbert
+Chris Rieser
+Sean Stewart
+Susie Zhang
+
+#### 47eabdd67e | choice/UI | x2
+^^Johannes Holm
+Rolf Mohr
+Gray Rogers
+
+#### 5e5c2c0685 | choice/UI | x2
+^^Lazar Levine- Lead
+Gregory deBeer
+Craig Deskins
+Michael Kamper
+Michael Patterson
+
+#### 8ae3fd515e | choice/UI | x2
+^^Mark Darin - Lead
+Emily Garrison
+Michael Kirkbride
+Michael McCormick
+Juan Vaca
+
+#### c2b001e45f | choice/UI | x2
+^^Mark Droste
+
+#### 420e32ee45 | choice/UI | x4
+^^Michael Tjosvold - Lead
+Tyler Helton
+Michael Hollander
+Nick Malutama
+Ryan Rasmussen
+Shahbaaz Shah
+Ramon Torralba
+Angel Wylie
+
+#### 21b5e1e1fc | choice/UI | x2
+^^John Carnabuci
+Brandon Cebenka
+John R Miller
+Steven Moore
+Davide Pagin
+Anthony Scarlata
+Michael Sherak
+Mike Vallejo
+
+#### 40d3610422 | choice/UI | x2
+^^Jeffrey Benjamin – Lead
+Tracey Landau
+Farhan Noor
+Emily Overfelt
+Michael Perretta
+William L Walker
+
+#### 673505f815 | choice/UI | x4
+^^Will Beckman - Lead
+
+#### a24bcae168 | choice/UI | x2
+^^Marissa Bernstel
+Kai Ho Chen
+Hillary Galvin
+Rogelio Gonzalez
+Jane Kim
+Zachary Macias
+Drew McDonell
+Jarann Pan
+Thomas Tan
+Robert Wilson
+
+#### 8d78f74fed | choice/UI | x2
+^^Adam Sarasohn
+Arthur Von Nagel
+
+#### 0175c176d0 | choice/UI | x2
+^^Meredith Ainsworth
+Andrew Hanson
+Jessica Krause
+Nicole Martinez
+
+#### 586af371e5 | choice/UI | x4
+^font:MenuDisplaySmall.font^ADDITIONAL VO DIRECTION
+
+#### 182351337c | choice/UI | x2
+^font:MenuDisplaySmall.font^LADY ARKHAM (MASKED), BLOCKBUSTER, ORDERLY, PROTESTER 1
+
+#### 1e7e26779d | choice/UI | x4
+^font:MenuDisplaySmall.font^THE JOKER (JOHN DOE)
+
+#### beaaaf2fd3 | choice/UI | x4
+^^Brian Correia
+Nicholas Mastroianni
+
+#### 353827639c | choice/UI | x4
+^^Anthony Ingruber
+
+#### 631f935090 | choice/UI | x4
+^font:MenuDisplaySmall.font^VICKI VALE, LADY ARKHAM
+
+#### 53d103a4b3 | choice/UI | x2
+^^
+Daveed Kaplan
+Virtuos Games
+
+#### 7e069f15cd | choice/UI | x2
+^^Nora Falcon
+Jason Armstrong
+
+#### 3440803454 | choice/UI | x2
+^^Andrew Baker
+Luke Maulding
+
+#### 3ca8a08ed0 | choice/UI | x2
+^^Eric Ingerson
+Mindwalk Studios
+Virtuos Games
+
+#### 6e3d616028 | choice/UI | x2
+^^Michael Daglow - Lead
+Kasen Bien
+Max Giganti
+Alejandro Ibarra
+Tim Johnson
+Marylena LeBlanc
+Devon Mosley
+Bryson Perez
+William Quismorio
+Nicky Silber
+Eli Standard
+Randal West
+
+#### 0c4df92f95 | choice/UI | x4
+^font:MenuDisplaySmall.font^BATMAN, BRUCE WAYNE
+
+#### e9623c4406 | choice/UI | x4
+^font:MenuDisplaySmall.font^HARVEY DENT, TWO FACE
+
+#### 6b1ee078ac | choice/UI | x2
+^font:MenuDisplaySmall.font^CATWOMAN, SELINA KYLE,
+ PROTESTER 2
+
+#### 0cff9f2ba9 | choice/UI | x2
+^^Mai Nguyen
+Virtuos Games
+
+#### ec257e3c7e | choice/UI | x2
+^font:MenuDisplaySmall.font^VICTOR ZSASZ, ENFORCER 3
+
+#### 07bd2fe92d | choice/UI | x4
+^^Kiff VandenHuevel
+
+#### ee64c71cb5 | choice/UI | x4
+^font:MenuDisplaySmall.font^ARNOLD WESKER, SOCKO
+
+#### b8e919172c | choice/UI | x4
+^^Larry Brisbowitz
+
+#### 7847a916e0 | choice/UI | x2
+^font:MenuDisplaySmall.font^RENEE MONTOYA, VESPER FAIRCHILD
+
+#### a47933b773 | choice/UI | x2
+^^Rhoda Gravador
+Glenn Horita
+Richard Hung
+Olga Malkiman
+Serena Sinn
+Matthew Williams
+
+#### d1668ad524 | choice/UI | x4
+^^Nicola Smith
+Clint Hansen
+Stephanie Keegan
+Jenna Poffenroth
+Megan Quinn
+
+#### 1fd92efbec | choice/UI | x2
+^^Jerry Quill
+Dennis Ruel
+
+#### 4884f9b9fc | choice/UI | x4
+^^Vlad Rimburg
+Emmanuel Manzanares
+
+#### 07c0622b2c | choice/UI | x4
+^font:MenuDisplaySmall.font^CREATIVE EXECUTIVE, INTERACTIVE
+
+#### 3176ff3511 | choice/UI | x4
+^font:MenuDisplaySmall.font^CREATIVE DIRECTOR, INTERACTIVE
+
+#### 7c81379a2f-L? | choice/UI | x1
+^^
+Dinah the Cat
+Punkin
+Turtle the Turtle, Mickey the Chihuahua
+Adonis & Aphrodite
+Tangle
+Kissy Noise the Cat
+Athena, King and Lilly
+Emma Dashwood
+Mamba the Kitty
+Siobhan, Finn, Molly, and Skywalker
+Spike (aka Spuddles)
+Maggie Mae
+Flame & Peanut
+Wrigley
+Odie
+Colin and Sophie
+Pistol & Inky
+Loki Zammit
+FeetFeet
+Jasper, The Pit
+Lando, Obi, and Link
+Midnight, you were a good dog. RIP
+Toto
+Kiki
+Lily Vendetta
+Cat
+Meeko
+M and Fezzik
+Tique
+Dr. Rocco
+Emma Carras
+Gretel
+Shaunday
+Milo & Otis (aka. “The Beans”)
+Nugget the cat
+Buffy and Scout, RIP Spike
+Cody
+Pigeon
+Sadie cat and Luna kitty
+Banjo the Freedom Fighter
+Gypsy & Marble
+Watson the Corgi
+Emma, Patrick, Zoe, and Vera. RIP Murphy
+Shiro
+Miss Molly
+Ali the fighting kitten!
+To Harley, Chris’ Joy
+Caramel, Chai & Mocha
+Emmitt, Shasta, Lassen, Snowy, Leo, Harriett, Timmy, Eddie, Freddie, Curly, and Honda
+Mr. Grumpy Gills the Beta Fish
+
+
+And Brenden Q. Ferguson
+
+#### b071e10b1c | choice/UI | x2
+^font:MenuDisplaySmall.font^SENIOR VP - MARKETING AND GLOBAL FRANCHISE MANAGEMENT
+
+#### 81d5d8b468 | choice/UI | x2
+^^Andrew Droste
+Alice White & House McCarthy
+Susan Kim
+Daniel Garrison
+Vanessa Ishii and Nick “Robin” Rebbert
+Michelle and Seraphine Nguyen
+Owen & Luke Sgro
+Kathleen Glover & Newell Emerson-Johnson
+Fans of Beans
+Misty Lord
+Liza Vasquez: Mother of the Year
+Kelly & Lisa O’Connor
+The Vallejo Family
+Denise Tosti, Ryan Tosti, Alexis Tosti
+Laura, Declan, & Aylish
+Dominick & Andre Shah
+Nicole, Penny and Gwen
+Jennifer Charlee Armstrong
+Dedicated to Mateo Carpenter
+Ima, Daddy, Natalie, Ron and Jonah
+Josh Mobley and Linda Martinez
+Michelle, Danielle, Ariel and Carmel
+Jacquelyn M
+Devon Ramirez, Dina Tyler, Joyce Walker
+Selena Nadav
+Waifu
+Kayla A. Chavez
+Shannon Orias & Lylah Gunter
+Abby
+Karla (Happy birthday, sis!), Sandra and Rogelio
+Erin Kerrigan
+Molly Maloney, The Rhode Island Stirpes, Dave & the Red Whale Coffee
+Kim, Alan, and Christopher Koepf
+Nikki Smith
+Cameron and Colin McLaren Baird, John Thornton III
+Jeff Sinclair
+Alexander Pearlstein
+Ferrell Chaney
+Kathy and Michael Liddick
+Jessica Speeckaert
+Gabriel Jonah Jensen & The Whole Jenindo Clan
+Allison Gazdick
+Jennifer Turpin, Stephen Krause, and Rachael Krause
+Emi Eads
+To my brother, Robbie Alan Wylie
+To The Morillo Family
+To Georgie Segura my brother, Excelsior 415
+Ruby Robinson
+Mama T & Fam
+Chrissy, xAdam & Mishauno & Analise, The Otters, Pat (Patman) Evans, Mateo Cortez, Roman & Jake, Alli & Sean, Tatty!
+Jim & Elliott Locker
+Nong Doki
+Haley Kavanagh
+
+
+and You
+
+#### 368feae105 | choice/UI | x2
+^^Michael Broussard
+John Grello
+Patrick Jensen
+Layne Johnson
+
+#### d5d5219ebd | choice/UI | x2
+^^Etienne Grunenwald
+Bryan Roth
+
+#### 427b19743e | choice/UI | x2
+^font:MenuDisplaySmall.font^ENFORCER 2, THUG 1, INMATE 2
+
+#### 03c8d78091 | choice/UI | x2
+^font:MenuDisplaySmall.font^COMMISSIONER GROGAN, JACK RYDER, ENFORCER 4
+
+#### c33c6cf6a6 | choice/UI | x2
+^font:MenuDisplaySmall.font^THUG 3, INMATE 1, PROTESTER 3
+
+#### 0bf382ea80 | choice/UI | x2
+^font:MenuDisplaySmall.font^DR. JOAN LELAND
+
+#### 619bee6aba | choice/UI | x2
+^^Donnetta Grays
+
+#### 54a82cff15 | choice/UI | x2
+^^Bayardo de Murguia
+
+#### bdf9257f35 | choice/UI | x2
+^font:MenuDisplaySmall.font^ORDERLY 2
+
+#### 97b116c060 | choice/UI | x2
+^font:MenuDisplaySmall.font^VALE FOSTER CHILD
+
+#### 33995a1756 | choice/UI | x2
+^^Cole Sanders
+
+#### 4aa56fb617 | choice/UI | x2
+^font:MenuDisplaySmall.font^ENFORCER 1, THUG 2, INMATE 3
+
+#### 4cf0873c7f | choice/UI | x4
+^^Caroline Liddick
+
+#### e2d7f5de70 | choice/UI | x4
+^font:MenuDisplaySmall.font^COMMUNITY MEDIA MANAGER
+
+#### 9822fd4387 | choice/UI | x4
+^font:MenuDisplaySmall.font^PLATFORM ENGINEER
+
+#### 1288c94760 | choice/UI | x4
+^^Jesse Ziglar
+

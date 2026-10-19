@@ -1,0 +1,213 @@
+﻿#### 5c346fefa4 | CIVILIAN01 → THUG01 | x2
+Nooo, please!
+
+#### 17582b8774 | THUG01 → CIVILIAN01 | x2
+Drop him.
+
+#### d21b91b188 | THUG01 → GROGAN | x2
+I have a Visual on batman, boss.
+
+#### ab9be844e1 | OSWALD → GROGAN | x2
+Right on time.
+
+#### 610392f667 | GROGAN → BATMAN | x2
+Batman -- No! It’s a trap!
+
+#### ff2071e48b | GROGAN → BATMAN | x4
+Get it together, Batman!
+
+#### 11eeee03c0 | RYDER → GROGAN | x2
+Witnesses have reported that Batman appears to be struggling, as if his usually superior tech is failing him.
+
+#### 5bb4ebfcbf | RYDER → GROGAN | x2
+And all of Gotham is wondering; how long can Batman, outmanned and outgunned, continue to fight?
+
+#### f212c959d2 | GROGAN → RYDER, OSWALD | x4
+Save those hostages!
+
+#### b858101d55 | RYDER → GROGAN | x2
+As Gotham’s police struggle to restore order after the arrest of Harvey Dent, the conflict between Batman and the Children of Arkham ringleader ‘the Penguin’ continues to escalate.
+
+#### e0be615c95 | RYDER → GROGAN, BATMAN | x4
+Batman has clashed with Penguin’s men at least four times in the last month, foiling the kidnapping of prominent Gotham citizens and civil servants.
+
+#### 209bbec810 | RYDER → GROGAN | x2
+Late last night, Police Commissioner Grogan was abducted from his home, making him the Penguin’s highest profile target to date.
+
+#### 9c269817af | RYDER → GROGAN | x2
+The list of victims includes Judge Reinhardt of the Circuit Court and Councilwoman Debbie Palmieri.
+
+#### 0d0916e87d-SM | GROGAN → RYDER | x2
+I.. I was wrong Batman...
+
+#### f24330c896 | GROGAN → RYDER | x2
+This city needs you...
+
+#### 7dc3a34045 | GCPD05 → GORDON | x2
+Commissioner! Commissioner!
+
+#### 0c7653fca8 | GCPD05 → GROGAN | x2
+He’s.... he’s gone...
+
+#### 58511c2ca3 | RYDER → OSWALD | x2
+Witnesses report that the constant battle seems to be taking its toll on Batman...
+
+#### dd66d9e931 | OSWALD → GROGAN | x2
+Good question, newsman!
+
+#### b86c76da3c | OSWALD → BATMAN | x2
+The bat certainly has been looking a bit worn around the wings.
+
+#### bdaa6539fe | OSWALD → RYDER, GROGAN | x4
+But here’s the thing...
+
+#### c5164ee44d | OSWALD → PENGUIN | x2
+I’m gonna keep popping the uppity elite of Gotham....
+
+#### 06ed69ec02 | OSWALD → PENGUIN | x2
+Until the masked crusader tries to stop me!
+
+#### b20d1f7068 | PENGUIN → OSWALD, CIVILIAN01 | x4
+Carry on, gents!
+
+#### 8032640018 | OSWALD → PENGUIN, RYDER | x4
+That’s right, newsman!
+
+#### 42f6612747 | OSWALD → PENGUIN | x2
+The bat certainly has been looking a bit worn around the edges.
+
+#### 7641f1d2fd | OSWALD → COA01 | x2
+Until the masked crusader stops me!
+
+#### bee8bd1cd7 | OSWALD → COA01 | x2
+Right on time!
+
+#### 6f863318d7 | COA01 → GROGAN | x2
+Batman sighted, boss.
+
+#### 7b25faba51 | COA01 → OSWALD | x2
+Drop her!
+
+#### ab161fd7c1 | BATMAN → GORDON | x2
+Commissioner, get to safety.
+
+#### c4a63279c6 | GROGAN → RYDER | x2
+I can’t just leave these people!
+
+#### f8e8cc8db9 | RYDER → COA01 | x2
+Late last night-- wait.
+
+#### 9023241cd7 | RYDER → BATMAN | x2
+I’m getting breaking news; the Children of Akrham are outside the Gate Street Metro station... [beat, showing his upset]They have taken Commissioner Grogan hostage.
+
+#### 46f90ede41 | RYDER → OSWALD | x2
+According to sources... Commissioner Grogan was attempting to stop the Children of Arkham from abducting a citizen-- and was overwhelmed.
+
+#### 6bd5f7c80f | RYDER → OSWALD | x2
+I repeat, for anyone just tuning in, Commissioner Grogan has been taken hostage--
+
+#### a02c44b2ae | OSWALD → RYDER | x2
+Dear ol’ Commish just came around and offered himself up to the cause.
+
+#### 10a4b6246d | OSWALD → RYDER | x2
+Couldn’t refuse the man, could we?
+
+#### f605cd4c08-LM | OSWALD → BATMAN | x2
+If you can’t clean yourself up, Gotham, then the Children will do it for you.
+
+#### 25d4870e48 | BATMAN → OSWALD | x2
+Not now--
+
+#### 767ff72fc3 | GROGAN → BATMAN | x2
+You... have to... stop them.
+
+#### 86e06c1406-LM | GROGAN → BATMAN | x2
+Do what you need to...
+
+#### f1f46b12af | RYDER → GROGAN | x2
+--wait.
+
+#### d3818265de | GROGAN → RYDER | x2
+It’s up to you... to save Gotham.
+
+#### 09f4c054a2 | GROGAN → RYDER | x2
+Save Gotham...
+
+#### 68f8aad6f7 | RYDER → GROGAN | x2
+The group has continued their reign of terror, most recently with a series of kidnappings of prominent Gotham citizens.
+
+#### e4f027f321 | RYDER → GROGAN | x2
+As for the leader herself-- wait.
+
+#### 5548b4aa99 | RYDER → BATMAN | x2
+Batman has clashed with Penguin’s men several times in the last month, foiling the kidnapping of several prominent Gotham citizens.
+
+#### fb02e7a1a7-SM | BATMAN → ALFRED | x2
+Alfred, I’ve located the commissioner.
+
+#### 8559b3b55b | BATMAN → ALFRED | x2
+Looks like another one of Penguin’s traps.
+
+#### ab00a5b34c-SM | ALFRED → BATMAN | x2
+I’m sure more deadly than the last--
+
+#### 6de760a38a | ALFRED → BATMAN | x2
+He’s been making the most of his access to Wayne Tech.
+
+#### 36da7dbfbf | GROGAN → ALFRED | x2
+The hostages!
+
+#### 6f98378d16 | GROGAN → OSWALD | x2
+... save our city.
+
+#### 2bd8fb1606 | RYDER → OSWALD | x2
+Breaking news!
+
+#### 2ab0c09594 | RYDER → OSWALD | x2
+The Children of Arkham have taken hostages--
+
+#### 6c54945900 | RYDER → OSWALD | x2
+Several important Gotham citizens were forced from their homes early this morning.
+
+#### b70fd0f441 | RYDER → CIVILIAN01 | x4
+The GCPD tried to intervene and Commissioner Grogan was captured as well.
+
+#### 912e0be908 | RYDER → CIVILIAN01 | x4
+I repeat, the Children of Arkham have taken several hostages, including the GCPD’s Commissioner, Peter Grogan.
+
+#### 1ef7653ca1 | RYDER | x4
+Police Commissioner Peter Grogan has been taken hostage.
+
+#### c97887d72d | RYDER → CIVILIAN01 | x4
+Apparently
+
+#### e1a6f8808e | RYDER | x4
+When the GCPD tried to intervene, many were taken as well, including Police Commissioner Peter Grogan.
+
+#### 0f5c6b2803 | RYDER | x2
+High profile Gotham citizens including Police Commissioner Peter Grogan, who was taken while attempting to intervene.
+
+#### b3a98772a5 | RYDER | x2
+I repeat, the Children of Arkham have taken hostages--
+
+#### 6b0ba8bf39 | CIVILIAN01 → RYDER | x2
+Th- Thank you!
+
+#### f8c51ee780 | CIVILIAN01 → BATMAN | x2
+Th- Thank you, Batman!
+
+#### fac5db6622 | CIVILIAN01 → OSWALD | x2
+Thanks...
+
+#### d0080ee6b5 | OSWALD → CIVILIAN01 | x2
+Time to get the bat’s attention!
+
+#### f91b026708 | OSWALD → CIVILIAN01 | x2
+Do it!
+
+#### c37084510d | COA01 → CIVILIAN01 | x2
+Boss says it’s time to get the bat’s attention.
+
+#### bda60fe78b | COA01 → OSWALD | x2
+Penguin says it’s time to get the bat’s attention.
+

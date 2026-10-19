@@ -1,0 +1,4089 @@
+﻿#### a94a8fe5cc | choice/UI → HARVEY | x2
+test
+
+#### 421ddd92e0 | HARVEY → ALFRED | x2
+Before anyone else knows he’s here.
+
+#### b038b08cbe | HARVEY → ALFRED | x2
+You telling me she doesn’t smoke?
+
+#### 8f57bd6132 | choice/UI → ALFRED | x2
+Skin
+
+#### b4f043392b | choice/UI → ALFRED | x2
+I barely know her.
+
+#### 9a837fed04 | ALFRED → HARVEY | x2
+I hope you have a lead on the killer.
+
+#### 11bc3318ee | ALFRED → BRUCE | x2
+Connection secured, Bruce.
+
+#### 3f231313d1 | ALFRED → BRUCE | x2
+Connection secured.
+
+#### 40f13ec64d | GORDON, BRUCE → ALFRED, GORDON, MONTOYA | x6
+Then we need the complex facts like how and why.
+
+#### 0245dfa4fa | BRUCE → ALFRED | x2
+She remembers a voice saying something about revolution.
+
+#### c9e4238059 | BRUCE → GORDON, ALFRED | x6
+She remembers a voice saying ‘the revolution is coming.‘
+
+#### c66fbed7bf | GORDON → BRUCE | x8
+This, this isn’t like her...
+
+#### 35a237daa1 | choice/UI, BRUCE → GORDON, VICKI | x6
+Neck
+
+#### d68e2e2e90 | MONTOYA → BRUCE | x4
+What am I gonna tell my wife..?
+
+#### 75785e574b | BRUCE → MONTOYA | x4
+It has to mean something to whomever did this to her...
+
+#### 224b3dc594 | BRUCE → VICKI | x4
+You’re fishing. You don’t have anything.
+
+#### c74cdee657 | VICKI → BRUCE | x4
+Wait. Sergeant Montoya?
+
+#### 47621bd4ed | BRUCE → VICKI | x4
+You didn’t get this from me.
+
+#### 4922d0ea57 | choice/UI → VICKI | x2
+Yes, a sergeant.
+
+#### 264a9e2d9c | HARVEY → BRUCE | x2
+I can delay them for a little while. But we still need answers.
+
+#### b146a333f8 | GORDON → BRUCE | x2
+Wait! She’s waking up!
+
+#### 0085de5e4f-SM | HARVEY → GORDON | x2
+Gordon, I need you out there with me.
+
+#### f9c3649450 | GORDON → BRUCE | x2
+Tell me if she says anything.
+
+#### 1e87f1d3c6 | GORDON → MONTOYA | x2
+I have to know why she did this.
+
+#### d01634d647 | VICKI → BRUCE, MONTOYA | x6
+So it’s true?
+
+#### 4782306526 | BRUCE → MONTOYA, VICKI | x8
+That’s interesting...
+
+#### 8ffee85c40 | choice/UI → MONTOYA | x2
+Something was wrong with her.
+
+#### f9ff0e8edf | choice/UI → VICKI | x4
+This cost me answers!
+
+#### e93e82c66f | choice/UI → MONTOYA | x2
+Try to remember more.
+
+#### 51a192f2eb-SM | choice/UI → MONTOYA | x2
+I found needle marks.
+
+#### a067e160c7 | choice/UI → MONTOYA | x2
+She knows what happened.
+
+#### e88a31c612 | MONTOYA → BRUCE | x4
+I-- It would {ThinkingA}explain a lot.
+
+#### 84262d17ad-LM | BRUCE → HARVEY | x2
+I believe you were drugged,{ConcernedA} Sergeant.
+
+#### 62cfe316d5-SM | choice/UI → HARVEY | x2
+I said no comment!
+
+#### a4133f7e16 | choice/UI → VICKI | x2
+No deal, Vicki.
+
+#### 9a4b5dc84d | BRUCE → HARVEY | x2
+The press can’t seem to leave me alone.
+
+#### 252fc96eba | HARVEY → GORDON | x4
+Someone must have got to her, Jim.
+
+#### b558b20ef1 | HARVEY → BRUCE, GORDON | x4
+This whole damn force is riddled with corruption.
+
+#### 44ca17158a | VICKI → BRUCE | x4
+I can tell by the way you’re brushing me off that something happened.
+
+#### 03d7846bb3 | VICKI → HARVEY, BRUCE | x4
+Just give me something to run with.
+
+#### 6f6a797147 | BRUCE → VICKI | x4
+Now if you’ll excuse me --
+
+#### 4a70271fc5 | VICKI → BRUCE | x4
+You should talk to me, Bruce. This is coming out whether you stonewall me or not.
+
+#### 87f6169f0d | BRUCE → VICKI | x6
+Please -- {SkepticalA}get out of my way, Vicki. I’m{ThinkingA} in a hurry.
+
+#### 954335afbc-SF | VICKI → BRUCE, HARVEY | x10
+Disappointing. {body-X}Maybe you have {SmugA}more to do with this than {body-LHandHip}I thought.
+
+#### 768e7c1f2b | BRUCE → VICKI | x2
+A police sergeant. Renee Montoya.
+
+#### 28cba55d2a | choice/UI → ALFRED, VICKI | x12
+Scan
+
+#### b273753af4 | HARVEY, GORDON, SELINA → BRUCE, VICKI | x7
+Damn it!
+
+#### ed43cdac4b | VICKI → GORDON | x2
+You can’t afford to be associated with another scandal.
+
+#### a2b5f255e8-SF | MONTOYA → FALCONE | x2
+Oh God -- Falcone...{ThinkingA} I was hoping it wasn’t real.
+
+#### fcbf141680-SF | MONTOYA → GORDON | x2
+I’ve let you down...
+
+#### 5b6d9fbbb0 | GORDON → MONTOYA, BRUCE | x4
+That’s not much to go on.
+
+#### da49a7c1f7 | BRUCE → GORDON, VICKI | x4
+It wasn’t like anything I’d ever seen before.
+
+#### 05dad89ce6 | GORDON → BRUCE, HARVEY | x4
+She’s always been loyal.
+
+#### 0d5ba6b039 | BRUCE → GORDON | x4
+She did seem out of it to me. Like she wasn’t fully in control of herself.
+
+#### 0042b00b2d | HARVEY → GORDON | x4
+Yeah, well in Gotham, loyalty can be bought for a pack of cigarettes.
+
+#### 9868e18ce4 | GORDON → HARVEY | x4
+Not from her. I’m telling you.
+
+#### ba7e8fa2b5 | HARVEY → GORDON | x8
+Probably off her nut on PCP.
+
+#### 5015877dec | GORDON → HARVEY, VICKI | x8
+That’s just not who she is. She doesn’t even drink.
+
+#### 57ace849e7 | HARVEY → GORDON, VICKI | x4
+That’s not all we’ve lost.
+
+#### 1f62450cc9 | BRUCE → HARVEY, VICKI | x4
+The veins in her neck were popping out.
+
+#### 1e0f85ce5e | BRUCE → GORDON, MONTOYA | x4
+Well, Falcone’s gone. And so is whatever he was about to tell me.
+
+#### b310ee774a | choice/UI → GORDON, VICKI | x4
+Her veins were visible.
+
+#### 2d12554016 | choice/UI → HARVEY, GORDON | x6
+She wasn’t in control.
+
+#### 3808deeacf | choice/UI | x2
+What the hell’s wrong with you?
+
+#### e198ecfc06-L? | choice/UI | x2
+Why did you attack Falcone?
+
+#### f5c5e454c3 | choice/UI → GORDON | x2
+Jim, are you still in there?
+
+#### da36754c3e | choice/UI | x2
+The sound of my voice worked before
+
+#### 7fcf70ff41 | choice/UI | x2
+Slap him
+
+#### 4050f595c6 | choice/UI | x2
+Splash ice water in his face
+
+#### 25cd4ae077 | choice/UI | x2
+I’m saving him!
+
+#### eb039732ef | choice/UI | x2
+We don’t have a choice
+
+#### 6d4742a3e3 | choice/UI | x2
+[Push her aside]
+
+#### 5bb75d2d32-L? | choice/UI | x4
+You were drugged.
+
+#### 4653d54eab | choice/UI → GORDON | x4
+People were in danger.
+
+#### 541cd3b340-L? | choice/UI | x2
+You killed Falcone.
+
+#### 3bd658d6a6 | choice/UI → GORDON | x4
+I think you’re in trouble.
+
+#### 53fe0feb4f | choice/UI → GORDON | x4
+Worry about it later.
+
+#### 14fb2cff14 | choice/UI → GORDON | x4
+You should hear the truth.
+
+#### 2bf405711a | choice/UI | x2
+I’m going to find who did this to Gordon
+
+#### 3857b79614-SM | choice/UI | x2
+I just rememered an appointment.
+
+#### c9fb7850f6 | choice/UI | x2
+None of your business
+
+#### d33fd5b352-L? | choice/UI | x2
+Keep this to yourself
+
+#### 3bad71c904 | choice/UI | x2
+The police have it handled
+
+#### 962a82c081 | choice/UI | x2
+Find the antidote
+
+#### 32b26a2715 | choice/UI, LUR → BATMAN | x15
+Batman
+
+#### 30929b2243 | choice/UI, BRUCE → SARA | x6
+Is he still a danger?
+
+#### 9e4c5a35e1 | choice/UI → SARA | x4
+Is there an antidote?
+
+#### 57b8b4ca67 | choice/UI | x2
+Is there enough for evidence?
+
+#### b24543f42e | choice/UI, BRUCE → LUCIUS, GORDON | x8
+It doesn’t look good.
+
+#### 2b1e4deb59 | choice/UI | x2
+We’ll save you
+
+#### c7b275da19-L? | choice/UI | x2
+Don’t beat yourself up
+
+#### 4fb225674a | choice/UI | x2
+I believe you
+
+#### ac9ef02c57 | choice/UI → GORDON | x4
+We need evidence.
+
+#### 26b666797f | choice/UI → SARA | x2
+You have to be careful
+
+#### 6961a0cb28 | choice/UI → SARA | x2
+It’s not Batman
+
+#### 6dea09e94f | choice/UI → SARA | x2
+I’ll ask around
+
+#### 002ee6cbb6 | choice/UI → SARA | x2
+This is something new
+
+#### 57b7e53e2c | SARA → BRUCE | x2
+He’s awake.
+
+#### a8fd2b81cf-SM | GORDON → BRUCE | x2
+Wayne? What am I doing here? Why am I handcuffed?
+
+#### 5bb75d2d32-LM | choice/UI → GORDON | x2
+You were drugged.
+
+#### 541cd3b340-LM | choice/UI → GORDON | x2
+You killed Falcone.
+
+#### 27e8b0f4c3 | MONTOYA → GORDON | x4
+Let’s get into that later. What exactly do you remember?
+
+#### d5d3fca583 | GORDON → SARA | x2
+What was I acting like?
+
+#### 1504cea3bb-LM | BRUCE → GORDON | x2
+You weren’t acting like yourself. It was like you were drugged.
+
+#### cbc826aba3 | GORDON → BRUCE | x2
+Why’s she sticking needles in me?
+
+#### 944e3e5e1f | GORDON → BRUCE | x2
+Did I pass out?
+
+#### 0ce4d9b7c5-LM | BRUCE → GORDON | x2
+We had to get you secured. People were in danger.
+
+#### b2a35f806d | GORDON → BRUCE | x2
+In danger? [skeptical]From me?
+
+#### 036f264a68 | BRUCE → GORDON | x2
+Jim... Carmine Falcone... you...
+
+#### eda941fb38 | MONTOYA → GORDON | x2
+...need to tell us what you remember.
+
+#### 66f89f04ab | GORDON → MONTOYA | x2
+You guys look like you’re at a funeral.
+
+#### 7043a76336 | GORDON → MONTOYA | x2
+Come on, somebody say something.
+
+#### fa38cd55aa | MONTOYA → GORDON | x2
+Why don’t you tell us what you remember?
+
+#### 34a3507b1a-SM | GORDON → MONTOYA | x2
+I woke up here.
+
+#### 00a3ecdde6 | GORDON → MONTOYA | x2
+The hell? Is this blood? What aren’t you telling me?
+
+#### c961b9a01c-SM | GORDON → MONTOYA | x2
+What do I remember? [thinks]I was in the hall and suddenly I was burning up. Then it was like I melted out through my shoes. Like I dissolved.
+
+#### 72f1c0ec95 | MONTOYA → GORDON | x2
+And then?
+
+#### 55ab58c9b9 | BRUCE → MONTOYA | x4
+He needs to hear the truth.
+
+#### b326a450eb-SM | GORDON → BRUCE | x2
+There was yelling... Gunshots... Falcone’s face. I thought it was a dream.
+
+#### 3a4fae2bd2 | BRUCE → MONTOYA | x2
+It wasn’t a dream.
+
+#### e9edf7804e-LM | BRUCE → GORDON | x2
+You could be in big trouble, Gordon.
+
+#### c1f424913f | MONTOYA → GORDON | x2
+But we’ll get you out of it. The evidence is-
+
+#### 72738ad491 | MONTOYA → FALCONE | x2
+Falcone...
+
+#### 8d2a6b8101 | GORDON → MONTOYA | x2
+Whose blood is this? Tell me!
+
+#### aa9d564e12 | GORDON → MONTOYA | x2
+The yelling. The gunshots... It wasn’t a dream...
+
+#### bb4c5a9742 | GORDON → MONTOYA | x2
+Whose blood is this?
+
+#### da126a241c | GORDON → BRUCE | x2
+Pretty sure it’s not mine.
+
+#### 9bf314f4ac-LM | BRUCE → GORDON | x2
+Worry about it later, Gordon. Right now you need to rest.
+
+#### b328e569a0 | GORDON → MONTOYA | x2
+Damn it! I’m sitting here soaked in blood and nobody’s being straight with me!
+
+#### 964369c3aa | MONTOYA → GORDON | x2
+It was Falcone.
+
+#### e9dd70a4cd | GORDON → MONTOYA | x2
+Wha-
+
+#### b76b4cd8cd | MONTOYA → GORDON | x2
+He had it coming, one way or another.
+
+#### 7e150bab40 | MONTOYA → GORDON | x2
+It was Falcone. You... shot him.
+
+#### 15cc632f75 | GORDON → MONTOYA | x2
+Jesus. It’s bad, isn’t it.
+
+#### b6dbc03a30 | MONTOYA → GORDON | x2
+Don’t panic. We’re gonna figure this out. Someone else is behind this.
+
+#### 9e56ec0fda-SM | GORDON → BRUCE | x2
+I murdered a man... What am I going to tell my daughter, Wayne?
+
+#### 52b88e7cf8-SM | GORDON → MONTOYA | x2
+There was shouting. It was like I was at the bottom of a well...
+
+#### e289d873d3 | MONTOYA → LELAND | x2
+Doctor, you getting all this?
+
+#### 51e2dee72c-SM | GORDON → BRUCE | x2
+But I pulled the trigger.
+
+#### e9f9bc0ae2 | GORDON → BRUCE | x2
+You may say there was a drug involved.
+
+#### b167b8bc41 | choice/UI → GORDON | x2
+Better him than you.
+
+#### d7a1646e5a | choice/UI → GORDON | x2
+He won’t be missed.
+
+#### ebc2c6d301-LM | BRUCE → GORDON | x2
+You’ve got to remember that it’s not your fault.
+
+#### e57653715a | BRUCE → GORDON | x2
+We’re trying to figure out the details.
+
+#### 0d507a2411-SM | GORDON → BRUCE | x2
+I’ve always taught her to take responsibility for her actions.
+
+#### f84149600a | GORDON → BRUCE | x2
+Can’t start with excuses now.
+
+#### 63281c38a5 | BRUCE → GORDON | x2
+The situation could easily have been reversed.
+
+#### 0aaab562c3-LM | BRUCE → GORDON | x2
+At least you’re alive to tell her anything.
+
+#### d93e663682-SM | GORDON → BRUCE | x2
+Christ, I need to call her.
+
+#### 06ccf4620e | BRUCE → GORDON | x2
+Falcone was a bad guy.
+
+#### 9ca0ef85cb-LM | BRUCE → GORDON | x2
+He can’t be the first criminal you’ve shot in the line of duty.
+
+#### cc7ed2a396 | GORDON → BRUCE | x2
+Actually... he was.
+
+#### 2030f78dc6 | GORDON → BRUCE | x2
+I know, not your concern.
+
+#### dedaff8876 | GORDON → SARA | x2
+You don’t have to be an example to anybody.
+
+#### c8c5b8e111 | SARA → GORDON | x2
+Ah-ha!
+
+#### 38d665bbfe | SARA → GORDON | x2
+There *was* a drug in his bloodstream.
+
+#### 00d6f1cb68 | MONTOYA → SARA | x2
+What kind?
+
+#### 52c110e7eb | SARA → MONTOYA | x2
+It’s breaking down rapidly. Not enough left for me to ID.
+
+#### 24225016d5 | ALFRED, MONTOYA → BRUCE, SARA | x6
+Damn it.
+
+#### 11ae190f8b | SARA → MONTOYA | x2
+But based on what the lieutenant is describing, it’s most likely some sort of synthetic behavior modification agent.
+
+#### d8baec73fa | HARVEY, BATMAN, choice/UI, BRUCE → SARA, GORDON, ALFRED | x14
+What is that?
+
+#### 44a0c3703d | choice/UI → SARA | x2
+How powerful?
+
+#### 9685403f94 | choice/UI, BRUCE → SARA | x4
+You’ve seen this before?
+
+#### 612c3eb5b1-SF | SARA → MONTOYA | x2
+Just wish I could get an exact match.
+
+#### 6bc606a01c | SARA → BRUCE | x2
+The fuzzy memory and erratic behavior are giveaways.
+
+#### 9220480569 | SARA → BRUCE | x2
+There’s a whole range. Based on the evidence, I’d say this one can hijack all functions of the cerebrum.
+
+#### 0e039475c1 | BRUCE → SARA, MONTOYA | x6
+You’re talking...
+
+#### c1b0a3a438 | BRUCE → SARA | x2
+How powerful are these behavior modification agents?
+
+#### d8497a446d | SARA → BRUCE, MONTOYA | x8
+Mind control.
+
+#### 9db32972dd | MONTOYA, GORDON → SARA, BRUCE | x10
+Figures.
+
+#### 8223a82b18 | SARA → MONTOYA | x2
+Not to this degree, but yes. This drug hijacked all signals from the patient’s cerebrum.
+
+#### 9d3186fd8b | MONTOYA → SARA | x2
+You’re saying this drug forced Gordon to kill Falcone.
+
+#### 703c8ae733 | SARA → MONTOYA | x2
+It hijacked the signals coming from his cerebrum.
+
+#### 3ae55dfc24 | MONTOYA → SARA | x2
+You mean...
+
+#### 2851091ad0 | SARA → MONTOYA | x2
+It hijacked all functions of his cerebrum.
+
+#### b1f8100eca | SARA → MONTOYA | x2
+It’s common. People take them to treat hyperactivity, depression, anxiety. Anything, really. But this one is incredibly powerful.
+
+#### 197c0b2a24 | choice/UI → MONTOYA | x2
+Is there enough to clear Gordon?
+
+#### cf8c4b4cb4 | SARA → BRUCE | x2
+Hard to say. Until we know exactly what we’re dealing with, I’d only be guessing.
+
+#### 175055189d-LM | SARA → BRUCE | x2
+Of course. Anything you need.
+
+#### a0a7dfa2bf | MONTOYA → BRUCE | x2
+Doc, we just need your help making sure Gordon’s okay.
+
+#### 510e81705b | BRUCE → SARA | x2
+There’s a cure for this, right? An antidote?
+
+#### 3496aa50d0 | SARA → MONTOYA | x2
+Right now, no.
+
+#### 8e13a3d944 | BRUCE → MONTOYA | x2
+Do we have enough of a sample to clear Gordon?
+
+#### f31bf0924c-SF | SARA → BRUCE | x2
+It dissolved in the sample even as I was looking at it.
+
+#### 788b97381a | MONTOYA → SARA | x2
+It’s our word against a dead body.
+
+#### 2ac15a460a-SF | MONTOYA → BRUCE | x2
+I know you’re a witness, Mr. Wayne. But right now, I need you to help or get out of the way.
+
+#### ec420b0814-SF | SARA → MONTOYA | x2
+I’m not sure that’s a good idea.
+
+#### 8a7332af57-LM | MONTOYA → GORDON | x2
+He’ll be fine. You said yourself the drug had dissolved.
+
+#### dcec595dbe-SM-LF | GORDON → MONTOYA | x2
+Do you think you could uncuff me for now? I think I’m all right.
+
+#### 4852be7313 | GORDON → SARA | x2
+It’s just that I can’t think with these cuffs on.
+
+#### 16592e5c12 | GORDON → MONTOYA | x2
+They’re so damn heavy.
+
+#### 13bf5a8533 | choice/UI → GORDON | x2
+We’ll save you.
+
+#### c9250ef4fc-LM | choice/UI → HARVEY, GORDON | x5
+Don’t beat yourself up.
+
+#### b3d42e7e81 | SARA → GORDON | x2
+You’re risking all our lives right now.
+
+#### 775c723ae5 | MONTOYA → GORDON | x2
+Relax, I have his gun. But...[she turns to Gordon]I’m going to need your badge. At least for right now.
+
+#### a438f19912-SM | GORDON → MONTOYA | x2
+I’m screwed, aren’t I?
+
+#### 523bd3570e-SF | MONTOYA, SELINA, ENFORCERFEMALE → BRUCE, GORDON, BATMAN | x18
+I’m sorry.
+
+#### 0678e76366 | GORDON → MONTOYA | x2
+I’d be better off resigning now.
+
+#### 362ce33498 | GORDON → MONTOYA | x2
+This is just going to drag on.
+
+#### 4991660ff4 | BRUCE → MONTOYA | x2
+It doesn’t look good right now, I’ll admit.
+
+#### d397d7674c | MONTOYA → GORDON | x2
+Stay strong, Gordon. It’s gonna be okay.
+
+#### 5167442735 | BRUCE → MONTOYA | x2
+We’re gonna clear your name.
+
+#### 17b18ecc47 | MONTOYA, HARVEY, BRUCE → BRUCE, LUCIUS | x6
+One way or another.
+
+#### a183f581b7 | BRUCE → MONTOYA | x2
+You have to remember, you’re a victim, too.
+
+#### d732ee5a00 | MONTOYA → BRUCE | x2
+You’re not going to prison over this.
+
+#### 906876157a | MONTOYA → GORDON | x2
+GCPD needs you, Gordon.
+
+#### fee4cefa42 | MONTOYA → BRUCE | x2
+No one’s resigning anything. Not on my watch.
+
+#### 425ca4b14b-SM | BRUCE → MONTOYA | x2
+I’m sorry. I can’t. Not until we get more info.
+
+#### fdf1742451-LM | MONTOYA → BRUCE | x2
+I hate to pile on, but I’m going to need your badge. Until you’re cleared.
+
+#### 4b58c92f82-LM | GORDON → BRUCE | x2
+You know where it is. You’ll have to take it yourself.
+
+#### 767abe398b | GORDON → BRUCE | x2
+I’m not a criminal. Someone did this to me.
+
+#### 9d4e603a08 | BRUCE → GORDON | x2
+But we have to prove your innocence to everyone.
+
+#### 44268707d1 | BRUCE → GORDON | x2
+I believe you. Montoya believes you.
+
+#### 7ff5cfcb9b | GORDON → BRUCE | x2
+Leaving me locked up like a criminal isn’t going to help.
+
+#### e559fd537e | BRUCE → GORDON | x2
+We’re going to need evidence to back that up.
+
+#### 9f31af2f7e | GORDON → BRUCE | x2
+So what are you doing just standing there?
+
+#### 7b2e76bdb9 | GORDON → BRUCE | x2
+Find it!
+
+#### 6b3f453fda | BRUCE → GORDON | x2
+Everything you do is going to be scrutinized.
+
+#### 1ca408fd53 | BRUCE → GORDON | x2
+You’re a murder suspect now. You have to be careful.
+
+#### 117968e63a | GORDON → BRUCE | x2
+I can’t do much since you’re leaving me chained up here.
+
+#### 84de48d0c4 | MONTOYA → BRUCE | x2
+You’re not going anywhere. We’ll handle this.
+
+#### b15553e883 | GORDON → MONTOYA | x2
+Get me back out there. I’ll find who did this to me.
+
+#### aba3ed90f0 | MONTOYA → GORDON | x2
+We need to move fast.
+
+#### 6047c90528 | MONTOYA → GORDON | x2
+Who wanted Falcone dead and is into flying things?
+
+#### d089374dfe | MONTOYA → GORDON | x2
+I think we start by looking at the Batman.
+
+#### b7a9dd4126 | GORDON → MONTOYA | x2
+Batman attacked Falcone. It seemed... personal.
+
+#### d5347572fe | GORDON → MONTOYA | x2
+Batman may be crazy, but he’s not a killer.
+
+#### ae21d80825-SF | MONTOYA → GORDON | x2
+I just need to find him.
+
+#### eeef890788-SF | MONTOYA → GORDON | x2
+I’ve got plenty of questions.
+
+#### 0499d2ac5c | choice/UI → MONTOYA | x2
+It’s not Batman.
+
+#### 711cf2a069 | choice/UI → MONTOYA | x2
+I’ll ask around.
+
+#### e93b1d80b9 | choice/UI, BRUCE → MONTOYA | x4
+This is something new.
+
+#### 68833ca5c0 | MONTOYA → GORDON | x2
+You see what you want to see.
+
+#### 2ad188911c | BRUCE → MONTOYA | x2
+Forget it. It’s not Batman.
+
+#### 0a506df0de | MONTOYA → BRUCE | x2
+I see a six foot psychotic who finally crossed the line.
+
+#### 34e3447e1a | MONTOYA → BRUCE | x2
+This was inevitable.
+
+#### 82d77ab7f4 | BRUCE → MONTOYA | x2
+Let me ask around.
+
+#### c56b7d2c4e | BRUCE → MONTOYA | x2
+I may be able to put you in touch.
+
+#### d425d933fd | BRUCE → MONTOYA, SELINA | x4
+I don’t.
+
+#### e1fce9e4e5 | MONTOYA → BRUCE | x2
+Wayne, if you know who he is...
+
+#### 847030c8ee | BRUCE → MONTOYA | x2
+If Batman could use others to do his dirty work, he would have done it before now.
+
+#### 858fa9ec88 | MONTOYA → SARA | x2
+So if it’s not Batman, then who?
+
+#### 8084bfc0d5 | SARA → BRUCE | x2
+That person should be considered extremely dangerous.
+
+#### dbcc2aee25 | SARA → BRUCE | x2
+Whoever did this has access to a drug that’s incredibly powerful and completely untraceable.
+
+#### b7ae2c3348-LF | choice/UI → SARA | x2
+Keep this to yourself.
+
+#### 42fec9d4a6 | choice/UI → SARA | x2
+The police have it handled.
+
+#### 5c5f065321 | choice/UI → SARA | x2
+Find the antidote.
+
+#### c927547d8a | SARA → MONTOYA | x2
+There should be a citywide lockdown.
+
+#### da902aa0b7-LF | BRUCE → LELAND | x2
+You have to keep this to yourself, Doctor.
+
+#### 72dd09fdcd | BRUCE → SARA | x2
+The last thing we need is mass panic.
+
+#### 14d86d9c76 | MONTOYA → BRUCE | x2
+I agree with Wayne.
+
+#### 20b10c8c3a | BRUCE → MONTOYA | x2
+At least for now.
+
+#### 812550cf31 | MONTOYA → BRUCE | x2
+No need for a lockdown. Yet.
+
+#### 192f64c844 | BRUCE → MONTOYA | x2
+She has it handled, doc.
+
+#### b25fe3db3a | SARA → BRUCE | x2
+You have to move quick.
+
+#### 941aa68b8d | BRUCE → MONTOYA | x2
+We have one of Gotham’s finest on the case.
+
+#### 338eb599ad | BRUCE → SARA | x2
+The best thing you can do right now is find an antidote.
+
+#### 76b589c6b5 | MONTOYA → SARA | x2
+We’ll find a way.
+
+#### 3509833128 | BRUCE → SARA | x2
+That’s the best weapon we could have against this... drug.
+
+#### 25f4022669-SF | SARA → BRUCE | x2
+I’ll do what I can. But I need more to work with.
+
+#### 7b8956b18d | SARA → MONTOYA | x2
+Anyone could become a weapon.
+
+#### 6557159a75 | SARA → BRUCE | x2
+Nobody’s safe right now.
+
+#### c79ae35f90-SF | MONTOYA → SARA | x2
+I need to know who I’m trying to find.
+
+#### cc80b03795-SF | MONTOYA → SARA | x2
+Before I go asking for a lockdown, I need a face.
+
+#### a9cce9ea0f-SM | BRUCE → MONTOYA | x2
+I need Oz. Find him. Wherever he is.
+
+#### 1de37f8865 | ALFRED → MONTOYA | x2
+He’ll be found. Will you be visiting as-is or is this a more... formal visit?
+
+#### 4c0c77aa49 | BRUCE, GORDON → ALFRED, ZSASZ | x4
+Now!
+
+#### 15c5d5e338 | ALFRED → BRUCE | x2
+So much blood has already been spilled.
+
+#### c84a6b36e6 | ALFRED → BRUCE | x2
+If I may, this might be a time to let your more obvious charms do the work for you.
+
+#### 9631b91405 | ALFRED → BRUCE | x2
+I suppose this will fall on deaf ears, but perhaps you should approach this situation with a bit more caution than normal.
+
+#### b57f7caf3f | BRUCE → ALFRED | x2
+Bruce Wayne can handle this situation.
+
+#### 112425307a | BRUCE → ALFRED | x2
+Gonna need that change of clothes. Immediately.
+
+#### 38c0372d67 | BRUCE → ALFRED | x2
+Sorry, Alfred. Can’t take that risk.
+
+#### ae6c1081f9 | ALFRED → BRUCE | x2
+I have the utmost faith in you.
+
+#### b8d9517d66 | MONTOYA → GORDON | x2
+What’s with all these feathers in your pocket?
+
+#### 28cf04e8c0 | MONTOYA, ORDERLY2 → GORDON, BRUCE, QUINZEL | x8
+What the hell?
+
+#### 0a500558a2 | MONTOYA → GORDON | x2
+They’re stuck to your badge.
+
+#### 46ebbe8ed7 | GORDON, BRUCE → MONTOYA, ALFRED | x4
+I have no idea.
+
+#### e7d754f70d | GORDON → MONTOYA | x2
+Maybe it’s a clue?
+
+#### 8416ef66ea | choice/UI → MONTOYA | x2
+What kind of bird?
+
+#### 365904c2aa | choice/UI → MONTOYA | x2
+This is a message.
+
+#### 8aea62bda1 | choice/UI → GORDON | x2
+Save the feathers
+
+#### 49929c0805 | SARA → MONTOYA | x2
+It’s like a duck feather. Or penguin.
+
+#### ea27d8cf1d | BRUCE → GORDON | x2
+What kind of bird feather is it?
+
+#### 1d3b834211 | MONTOYA → SARA | x2
+It’s not a falcon, if that’s what you’re thinking.
+
+#### 8c68a9f96c | SARA → BRUCE | x4
+It’s some kind of aquatic bird. Like a duck. Or a loon. Or a penguin.
+
+#### ce5adce675 | BRUCE → MONTOYA | x2
+Someone is sending us a message.
+
+#### 6e1144e86a | MONTOYA → SARA | x2
+And file under “mysterious feathers?“
+
+#### 5346372d44 | BRUCE → SARA | x2
+Save those feathers. Save everything out of the ordinary.
+
+#### 10c7d8eac8 | BATMAN, SARA → PENGUIN | x6
+Penguin.
+
+#### 9216ffd438 | SARA → BRUCE | x2
+They appear to be penguin feathers. How odd.
+
+#### 26d67eaac0 | BRUCE → SARA | x2
+Please excuse me.
+
+#### c45c486ce8 | SARA → BRUCE | x2
+He could still be a threat. We just don’t know for sure.
+
+#### 3c4ae8221d | MONTOYA → SARA | x2
+Let me guess, they’re falcon feathers.
+
+#### 9b81b574cc | SARA → BRUCE | x2
+No, not a falcon.
+
+#### 391d84f16d | BRUCE → ALFRED | x2
+Alfred, what was the alias Oz used in England?
+
+#### c9c5322d46 | ALFRED → GORDON | x2
+You mean, “Penguin?“
+
+#### 24429ed3f9 | choice/UI → MONTOYA | x2
+I don’t blame you.
+
+#### 154dd590f8 | choice/UI → SARA | x2
+Those’ll kill ya.
+
+#### f4be7d1352 | choice/UI → ALFRED | x2
+Make mine a whiskey.
+
+#### de3592870c | choice/UI → ALFRED | x2
+Renee’s not to blame.
+
+#### 91ef97de07 | choice/UI | x2
+She had a motive.
+
+#### b76283fd00 | choice/UI | x2
+She took away my only chance
+
+#### 3cdef3260d | choice/UI | x2
+Gordon’s covering.
+
+#### a763d24a08 | choice/UI | x2
+Here’s the spoon.
+
+#### e41cd8c8ea-SM | choice/UI | x2
+I got out of the way.
+
+#### ca8e47f804 | choice/UI | x2
+[Get Harvey]
+
+#### 07db73aea9 | choice/UI | x2
+[Talk to her]
+
+#### f05d823171-L? | choice/UI | x2
+Stay calm. You’re safe.
+
+#### b46f8d53d4-L? | choice/UI | x2
+You shot Falcone.
+
+#### c102f3a413 | choice/UI | x2
+She inhaled it.
+
+#### a07990a758 | choice/UI | x2
+It fits the clues.
+
+#### a392581998 | choice/UI | x2
+I see no sign of that.
+
+#### 6e056f3b04 | choice/UI | x2
+She’s saying the opposite.
+
+#### 9fa6cca7f0 | choice/UI | x2
+She couldn’t stop herself.
+
+#### daea043bdf | choice/UI → GORDON | x2
+Stop being a dick.
+
+#### 699d9d25f5 | choice/UI → HARVEY | x2
+Of course, Harvey.
+
+#### 84444354ee | choice/UI → GORDON | x2
+We should tell the press!
+
+#### 7056c15306 | choice/UI → GORDON | x2
+It’s the same drug from the docks.
+
+#### 17b4958144-SM | GORDON → BRUCE | x2
+Jesus, I could use a cigarette.
+
+#### f62a0c8566 | GORDON → BRUCE | x2
+I still sneak one occasionally.
+
+#### f224af8e06 | GORDON → BRUCE | x2
+My daughter’s pressuring me to quit.
+
+#### c278918aef-LM | BRUCE → GORDON | x2
+After what we just saw, I’d imagine you could go for a whole pack.
+
+#### df97c3153d | BRUCE → GORDON | x2
+You know what they call cigarettes... coffin nails.
+
+#### 468988bbd5 | GORDON → BRUCE | x2
+I’m a cop in Gotham. My coffin has more than enough nails in it.
+
+#### 2535065917-SM | BRUCE → GORDON | x2
+I’m not much of a smoker, but I could use a drink.
+
+#### 53bd688c24 | GORDON → BRUCE | x2
+Well, if you’re twisting my arm... I’ll take a drink, too.
+
+#### f93e2e3ef2 | GORDON → BRUCE | x2
+Being a cop in Gotham... smoking is probably the healthiest thing I do.
+
+#### 1663c19a1f | GORDON → BRUCE | x2
+I trust her with my life...
+
+#### bc0c223b6a | GORDON → HARVEY, BRUCE | x4
+That was not Renee Montoya acting... that was something else.
+
+#### 1d6a0c4720 | BRUCE → HARVEY | x7
+Harv--
+
+#### 051e3ee8d0 | HARVEY → GORDON | x2
+This place is a madhouse. Falcone’s lawyers were yelling at me the whole walk down here.
+
+#### 5deac15ade | HARVEY → BRUCE | x2
+Don’t “Harv” me.
+
+#### 0395671534-SM | choice/UI → HARVEY | x2
+I had to know the truth.
+
+#### 1daaa12206 | BRUCE → HARVEY | x2
+These stories about my parents... Falcone was the only person who could confirm if they were true...
+
+#### dc7f1c52c7 | choice/UI → HARVEY | x2
+They would have found a way.
+
+#### d5c020193c | choice/UI → HARVEY | x2
+Blame me.
+
+#### 6630a5f272 | HARVEY → BRUCE | x2
+Why weren’t you like this three hours ago?
+
+#### ecd65049e6 | HARVEY → BRUCE | x2
+Now you choose to be quiet?
+
+#### de0074a30d | HARVEY → BRUCE | x2
+There’s screaming, shots fired, and when everyone rushed in, Falcone was dead from bullets out of your gun.
+
+#### 844e7dba59 | HARVEY | x2
+A few minutes later, she went in the room.
+
+#### d8a8fd5845 | HARVEY | x2
+...with you.
+
+#### abd9910cf6-SM | HARVEY → BRUCE | x2
+Here’s what I know. I left him...
+
+#### 6c93009afb | HARVEY → BRUCE | x2
+Somebody better start telling me the truth.
+
+#### de50100122 | HARVEY → MONTOYA | x2
+None of this adds up.
+
+#### 035dedb81b | BRUCE → HARVEY | x2
+He’s telling the truth. That’s exactly how it happened.
+
+#### 9ed79044b4 | MONTOYA → BRUCE | x2
+Ooooh...
+
+#### ad3bce38f4 | MONTOYA → BRUCE | x2
+My head...
+
+#### 19327d1fd8 | BRUCE → HARVEY | x2
+Harvey... Jim...
+
+#### 62debda17e | MONTOYA → BRUCE, GORDON, HARVEY | x10
+What the hell!?
+
+#### ce2a073c96 | MONTOYA → BRUCE | x2
+What... where am I?
+
+#### 9aade015b7 | MONTOYA → BRUCE | x2
+It’s so bright...
+
+#### f722339c97 | MONTOYA → BRUCE | x2
+I can’t remember...
+
+#### c8d3b2ccb2 | BRUCE → MONTOYA | x2
+Don’t worry. You’re in a safe place.
+
+#### f96b612926-LF | BRUCE → MONTOYA | x2
+Montoya... you were drugged... do you remember?
+
+#### b5bab2f9b9 | HARVEY → BRUCE | x2
+Kind of convenient.
+
+#### 62ab2366f8 | HARVEY → BRUCE | x2
+What kind of drug? And how?
+
+#### d479a239e6 | HARVEY → BRUCE | x2
+Explain.
+
+#### e9ce062e1e | BRUCE → HARVEY | x2
+Traces of a foreign substance in her system.
+
+#### 2c890efff6 | BRUCE → HARVEY | x2
+Whatever{SkepticalA} affected her eyes {ThinkingA}is still in {ConcernedA}the tear duct.
+
+#### d4db707ce9 | BRUCE → HARVEY | x2
+Some sort of chemical-biological compound.
+
+#### 728e209d55 | GORDON → BRUCE | x2
+You seem to know an awful lot, Mr. Wayne.
+
+#### 1022c4ad69 | BRUCE → GORDON | x2
+It was probably something she inhaled...
+
+#### 9de46cdf3d | BRUCE → GORDON | x2
+Someone drugged her.
+
+#### 2aa8246e35 | BRUCE → GORDON | x2
+What Gordon’s saying makes sense with the evidence.
+
+#### 4cbeae8d7f | BRUCE → HARVEY | x2
+Guessing won’t help anything right now.
+
+#### fcbd3940cb | HARVEY → BRUCE | x2
+No. What we need right now is a solid story.
+
+#### 0a48135213 | BRUCE → HARVEY | x2
+We need solid evidence.
+
+#### 8a00c76fe6-SF | MONTOYA → HARVEY | x2
+I did... oh, God... I shot Falcone...
+
+#### 21ed739b29-LM | HARVEY → BRUCE | x2
+You’re admitting you did it?
+
+#### 89e8e85ead | HARVEY → BRUCE | x2
+Sounded like a confession to me.
+
+#### 4d09ec8872 | GORDON → MONTOYA | x2
+That’s not an admission of guilt.
+
+#### 6f1f760c2b | BRUCE → HARVEY | x2
+She’s admitting to the opposite. Clearly she wasn’t in control of herself.
+
+#### b8e5fedef4 | BRUCE → MONTOYA | x2
+The feelings were hers, but she couldn’t help herself from acting on them.
+
+#### bf8d556041-SF | MONTOYA → BRUCE | x2
+I killed him. I murdered Falcone.
+
+#### bcbc8d216f | MONTOYA → BRUCE | x2
+My career is over... my life is over!
+
+#### e4927cfbdf | BRUCE → HARVEY | x2
+Whatever you say, Harv. I’m a team player.
+
+#### 2a4fcc53bb | HARVEY → BRUCE | x2
+Thanks, Bruce. You’re the one thing I can always count on.
+
+#### 5e885fe6e2 | BRUCE → HARVEY | x2
+This information is useful. Spilling it to the press might draw the attacker out.
+
+#### 80354084b4 | HARVEY → BRUCE | x2
+Great. Stay silent. That works.
+
+#### c284433ef8-SM-LM | HARVEY → BRUCE | x2
+Thanks, Bruce. I knew you’d understand how this works. You’ve saved my ass again.
+
+#### 867acecb28 | HARVEY → BRUCE | x2
+I promise, I’ll make this up to you.
+
+#### 7c5f985f48-SM | HARVEY → BRUCE | x2
+I thought I could count on you, Bruce.
+
+#### 4abd72fbd9-SM | HARVEY → GORDON | x2
+I pulled every string I had to get you in that room with Falcone, and now it’s coming back to bite me in the ass.
+
+#### af736485dc | HARVEY → BRUCE | x2
+Thank you, Bruce. At least someone around here trusts me enough to tell the truth.
+
+#### 11f24fc7a7 | HARVEY → GORDON, BRUCE | x4
+I can’t depend on either of you.
+
+#### 847db96382 | GORDON → HARVEY | x2
+Then a couple of Falcone’s guys decided they wanted his route. He wasn’t too keen on it, but Falcone’s guys aren’t big on being refused.
+
+#### cd11e2590c-SM | GORDON → HARVEY | x2
+I used to buy cartons off this guy’s truck. He was a distributor to convenience stores all over the south side.
+
+#### a030444a94 | GORDON → HARVEY | x2
+He fought them off as long as he could...
+
+#### 96bba09608 | GORDON → BRUCE | x2
+...but Falcone’s men won’t take no for an answer.
+
+#### 7d14d3622d | choice/UI → GORDON | x2
+Not in the mood for stories.
+
+#### bc8da389fb | choice/UI → GORDON | x2
+Falcone’s people are scum.
+
+#### a37e635e7e | GORDON → BRUCE | x2
+Good. I don’t have to paint you a picture of what they did.
+
+#### e34b84cdee-SM | BRUCE → GORDON | x2
+I’ve had some experience with Falcone’s people.
+
+#### 54430ffc6a-LM | choice/UI → GORDON | x2
+But you arrested them...
+
+#### a42b1c7569-LM | BRUCE → GORDON | x2
+Falcone’s men... you brought them in, right?
+
+#### b0aae15e5b | GORDON → BRUCE | x2
+The driver was her uncle.
+
+#### 2bec3c215a | GORDON → BRUCE | x2
+They pulled his body out of the river, and four years later, she’s graduating from the academy.
+
+#### 5094e4daa8 | GORDON → BRUCE | x2
+Montoya has every reason to hate Falcone, but she’s a good cop.
+
+#### 5b0091a795 | GORDON → BRUCE | x2
+...but I’ve never seen her like that.
+
+#### e254999fa6-LM | BRUCE → GORDON | x2
+You said it yourself, she had every reason to want Falcone dead.
+
+#### c3bf72a475 | GORDON → BRUCE | x2
+Montoya respects the law. She would never act on those feelings... not in her right mind.
+
+#### c0db56181d | GORDON → MONTOYA | x2
+This is it for her.
+
+#### c9c758899f | GORDON → MONTOYA | x2
+She’ll be tried and convicted in public opinion before she ever reaches a courtroom.
+
+#### 2ef6411f84 | HARVEY → MONTOYA | x2
+That might be clear to the people in this room, but try to convince a jury.
+
+#### c58fbc9ce0 | HARVEY → MONTOYA | x2
+Do you have any idea how this sounds? Like we’ll say anything to cover for her.
+
+#### 20242f6d9f | HARVEY → MONTOYA | x2
+Makes sense with what evidence?
+
+#### dcd728e375 | HARVEY → BRUCE, GORDON | x4
+What makes you think there’s any evidence Montoya was drugged?
+
+#### ad96733ab2 | choice/UI → HARVEY | x2
+The residue around her mouth.
+
+#### 07a1aa3544-SM | BRUCE → HARVEY | x2
+I noticed a residue around her nose and mouth.
+
+#### 8f4771e7fe | HARVEY → BRUCE | x2
+I don’t see anything.
+
+#### 0edc17c266 | GORDON → BRUCE | x2
+You must have very good eyesight, Bruce.
+
+#### 15fb278754 | HARVEY → BRUCE | x10
+Leave investigating to the real detectives, Bruce.
+
+#### fad5e1d4b3 | choice/UI → HARVEY | x2
+She just sounded drugged.
+
+#### 3fd4f5ccdf | HARVEY → GORDON | x2
+We’re going to need a lot more than that.
+
+#### 35974dd05f | BRUCE → HARVEY | x2
+The way she was describing it. That sure sounded like someone drugged.
+
+#### e21fea62fa | HARVEY → BRUCE | x2
+Yeah. I didn’t think so.
+
+#### b44937cf6b | HARVEY → BRUCE | x2
+We need something tangible.
+
+#### c2d90dea97 | choice/UI → HARVEY | x2
+The black tears.
+
+#### 1be4ef1dbf | BRUCE → HARVEY | x2
+Her tears are black. That would suggest some sort of aersol irritant.
+
+#### 57dc94f555 | GORDON → HARVEY | x2
+Guess medical expertise must be genetic.
+
+#### ab2e5ef0a9 | choice/UI → HARVEY | x2
+She acted insane.
+
+#### 6b48f9e015 | BRUCE → HARVEY | x2
+Shooting Falcone in the infirmary is insane. No rational person would do that.
+
+#### a433eec89b | HARVEY → BRUCE | x2
+Not acting rational doesn’t mean she was drugged.
+
+#### 85b2367c42-SM | choice/UI → HARVEY | x2
+That’s all I had.
+
+#### c73cc7d2af-SM | BRUCE → HARVEY | x2
+That’s all I noticed. Isn’t it enough?
+
+#### 8601354962 | GORDON → BRUCE | x2
+Anything else you... noticed?
+
+#### 1c4768a870 | choice/UI → GORDON | x2
+They left a calling card.
+
+#### 8f444e7b95 | BRUCE → GORDON | x2
+Whoever drugged Montoya left their calling card.
+
+#### eac3973073-SM-LM | GORDON → HARVEY | x2
+I’m not sure I want to ask where you found that.
+
+#### 194b21e506 | GORDON → HARVEY | x2
+...but first, is there anything else?
+
+#### bd84f829cd | GORDON → BRUCE | x2
+We might need to discuss how you know all this, Mr. Wayne...
+
+#### 187a0a6a70 | HARVEY → GORDON | x2
+This still isn’t sounding like evidence.
+
+#### 3569389c1f | choice/UI → GORDON | x2
+Nothing else.
+
+#### f9b63a4bce | BRUCE → HARVEY | x2
+I didn’t notice anything else.
+
+#### 9d867de5a1-LM | HARVEY → BRUCE | x2
+You tried.
+
+#### 6f432b7617 | choice/UI → HARVEY | x2
+Montoya wouldn’t do this.
+
+#### bfe6e9d6f3 | HARVEY → BRUCE | x2
+I know that, and you know that.
+
+#### 4ace8723af | HARVEY → BRUCE | x2
+The hard part is convincing everyone out there.
+
+#### 5e2333715b-SM | BRUCE → HARVEY | x2
+The only evidence I need is Montoya herself. She’d never do this.
+
+#### 3bbe0675c2 | HARVEY → BRUCE | x2
+We don’ t have time to deal with that right now.
+
+#### 00dd306ee3-SF | MONTOYA → HARVEY | x2
+You... searched me. While I was asleep.
+
+#### b45f5b9b28 | HARVEY → GORDON | x4
+I’m willing to accept that Montoya was drugged, but it’s not going to play to the press.
+
+#### 703cb2473e | GORDON → HARVEY | x2
+Harvey, listen...
+
+#### 2415dded84 | GORDON → HARVEY | x2
+I’m telling you -- it’s a drug.
+
+#### a18783fbd5 | GORDON → HARVEY | x2
+I don’t have the evidence now, but I’ll find it.
+
+#### 69f60f9925 | GORDON → HARVEY | x2
+I know in my gut something isn’t right here.
+
+#### 66cbe2d150 | HARVEY → GORDON | x2
+Yes, and we’re going to let the police handle that.
+
+#### e3f83d0bdc | HARVEY → GORDON | x2
+It’s not part of the job description for billionaire playboy.
+
+#### 486b19214a | MONTOYA → HARVEY | x2
+You can’t be serious. [to Harvey]Tell me he isn’t serious.
+
+#### f51fcb815a | HARVEY → MONTOYA | x2
+No. This could work. Gordon shot Falcone under the control of an unknown chemical. You’ll be suspended the duration of the investigation, but with all your commedations, people will have to consider a foreign agent was involved.
+
+#### 25d0a82c99-SM | GORDON → HARVEY | x2
+I have no personal beef with Falcone. I can say I was drugged.
+
+#### 12601c4432 | GORDON → HARVEY | x2
+But they will with me.
+
+#### 217b27f861 | GORDON → MONTOYA | x2
+It was my gun that killed him after all.
+
+#### 8b2e448f25 | HARVEY → GORDON | x2
+We just have to agree that’s the story we’re telling anyone outside this room.
+
+#### f965096ab0 | GORDON, ALFRED, LUCIUS → HARVEY, BRUCE, BATMAN | x6
+Agreed.
+
+#### 5bd81578a0 | MONTOYA → GORDON | x2
+If you think it’s best...
+
+#### 0b615995a3 | BRUCE → HARVEY | x2
+Gotham CSI never would have picked up this...
+
+#### c5274b9be2 | ALFRED → BRUCE | x2
+I can start rearranging your schedule... are there any other changes to your calender that I should keep under surveillance.
+
+#### b1850bcb02-SM | BRUCE → ALFRED | x2
+No. I will handle those myself.
+
+#### ade495425c-SM | BRUCE → ALFRED | x2
+Alfred, I’ve been delayed at GCPD. I won’t be able to make my... [code]late night appointment.
+
+#### bf0754e553 | ALFRED → BRUCE | x2
+Then you better find out for sure.
+
+#### 43e6af08ca | ALFRED → BRUCE | x2
+That sounds ghastly.
+
+#### 76824393dd | BRUCE → ALFRED | x2
+I’m almost certain it was against her will.
+
+#### e536d525b9 | BRUCE → ALFRED | x2
+One of the GCPD officers guarding Falcone killed him.
+
+#### f4c920159a | BRUCE → ALFRED | x2
+Black {ThinkingA}residue...
+
+#### 577a839181-SM | BRUCE → ALFRED | x2
+Alfred,{SkepticalA} I think I found{ThinkingA} the substance.{AngryA} Run an analysis and forward{SkepticalA} me ther {ConcernedA}result.
+
+#### 5977026ef8 | ALFRED → BRUCE | x4
+Of course. I will be in touch as soon as I have the results.
+
+#### 8693d1ed3a | HARVEY → BRUCE | x2
+They definitely wanted our attention.
+
+#### d8b026ba91 | HARVEY → GORDON | x2
+Gordon, shouldn’t you be figuring this out.
+
+#### 33e458a764 | GORDON → MONTOYA | x2
+I’m no lab tech. I work in motives and opportunity. Both of those are working against us.
+
+#### b00a1de8bb | MONTOYA → HARVEY | x2
+Is there no way to prove it...
+
+#### 482f38483f | MONTOYA → GORDON | x2
+... what they did to me?
+
+#### e96b6106f7 | MONTOYA → GORDON | x2
+That’s how it felt.
+
+#### 912e6dc37e | GORDON → MONTOYA | x2
+The drug idea is making more and more sense.
+
+#### 921da54441 | GORDON → MONTOYA | x2
+No need to wrorry. The GCPD will take the case from here.
+
+#### b5b067dee1-LF | GORDON → MONTOYA | x2
+You seemed to pick up a lot of evidence. Seems you’re some sort of... [suspicious]detective yourself.
+
+#### 2e6dbf403a | GORDON → BRUCE | x2
+You have a good eye, Mr. Wayne, but don’t go out there thinking you can solve this mystery on your own.
+
+#### d8d4cf67f0 | GORDON → BRUCE | x2
+You think you’ve seen it all, but this city loves to prove you wrong.
+
+#### e976c41163 | BRUCE → GORDON | x2
+I’m not really in the mood for stories right now...
+
+#### 7bfdf319bc | GORDON → BRUCE | x2
+Hang in there. This one comes with a twist.
+
+#### 899f429d05 | BRUCE → GORDON | x2
+They’re part of the filth choking this city.
+
+#### 3ffed44c74-SM | GORDON → BRUCE | x2
+Judge wouldn’t even give me a warrant... I’m sure he was on the take, too...
+
+#### 8129bd4b08 | GORDON → BRUCE | x2
+They had a flimsy alibi and good lawyers.
+
+#### d0e19a30d6 | BRUCE → GORDON | x2
+The look in her eyes... those strange tears...
+
+#### b199a988d9 | GORDON → BRUCE | x2
+The cop in me only wants to believe what he saw in that room.
+
+#### 291c5ab15b-LM | GORDON → BRUCE | x2
+But the man... Jim Gordon... is hoping like hell you’re right.
+
+#### a91c3f2821 | BRUCE → GORDON | x2
+There was something else at work here. Montoya should be blamed for those actions.
+
+#### 8ef8dd89a4 | BRUCE → GORDON | x2
+Falcone was about to tell me everything, and in a second...
+
+#### b5628e43a8 | GORDON → BRUCE | x2
+We’ll get the truth... about your family and what really happened back in the infirmary.
+
+#### a8903f004c | BRUCE → GORDON | x2
+She took all of it away.
+
+#### 5ab53eb784-LM | choice/UI → GORDON | x2
+You need to protect her.
+
+#### 53535c3a99 | choice/UI → GORDON | x2
+She’s guilty, after all.
+
+#### 5015f33054 | GORDON → BRUCE | x2
+...and the history with Montoya’s uncle...
+
+#### 776b74e989 | GORDON → BRUCE | x2
+After Falcone’s “encounter” with the Batman...
+
+#### a4e452da7a | GORDON → BRUCE | x2
+First it will be suspension... then formal investigation...
+
+#### a0f19b4414 | ASSISTANT, GORDON, LELAND → BRUCE, JOKER | x7
+That’s good to hear.
+
+#### 9baee01939 | GORDON → BRUCE | x2
+If it comes to it, follow my lead.
+
+#### c78df8201e | BRUCE → GORDON | x2
+We have to do everything we can to prevent that from happening.
+
+#### ab4b69639c | GORDON → BRUCE | x2
+I can’t say that I’d go to the mat for every cop in this city...
+
+#### 198de9d4ce-SM | GORDON → BRUCE | x2
+...but I won’t let Renee go without a fight.
+
+#### b56c582419 | BRUCE → GORDON | x2
+If you believe she’s not responsible, you have to protect her.
+
+#### b8abd8c36d | GORDON → BRUCE | x2
+Officially... until we learn otherwise... yes.
+
+#### 4fecc4828b | BRUCE → GORDON | x2
+She has to be resposible for her actions.
+
+#### 867ecffe94 | BRUCE → GORDON | x2
+We saw it ourselves. She shot Falcone.
+
+#### 9fb14be2a6 | GORDON → BRUCE | x2
+But I refuse to believe she could murder a man in cold blood.
+
+#### b2d7d95394 | GORDON → HARVEY | x2
+If you want to stay quiet, that’s just fine with me.
+
+#### a0f83860a0-SM-LM | HARVEY → GORDON | x2
+You knew how uncomfortable I felt about all this... pulling strings so you could chat with Falcone.
+
+#### 4c9336fd24 | HARVEY → GORDON | x2
+If we didn’t clear the guards out of his room, none of this would have happened.
+
+#### dc6877b798 | HARVEY → GORDON | x2
+Falcone’s life... the careers of two cops...
+
+#### 2c6ba4673f | HARVEY → BRUCE | x2
+We’re going to watch everything go down the drain.
+
+#### f541cb4007 | HARVEY → BRUCE | x2
+This isn’t something you can fix by writing a check, Bruce.
+
+#### 55602ee240 | HARVEY → BRUCE, GORDON | x4
+Falcone’s dead, and someone has to be held responsible.
+
+#### 23bfa4acae-SM | BRUCE → HARVEY | x2
+I had to know, whatever the cost.
+
+#### 7fb23a06ad | BRUCE → HARVEY | x2
+And they wouldn’t have stopped until they found a way to make that happen.
+
+#### 822918566f | HARVEY → BRUCE | x2
+We might as well have sent them an invitation.
+
+#### 5a4663725f | HARVEY → BRUCE | x2
+Even if that’s true, we gave them the perfect opportunity.
+
+#### 9d73dc8df5 | BRUCE → HARVEY | x2
+Someone wanted Falcone dead.
+
+#### 335ea3eb75-LM | BRUCE → HARVEY | x2
+You’re right. This is my fault.
+
+#### acb81ec6d8-LM | HARVEY → BRUCE | x2
+Even if you admitted everything, someone had to give you access.
+
+#### c47f5cc04a | HARVEY → BRUCE | x2
+Very noble of you, Bruce.
+
+#### 0bd0717f18 | BRUCE → HARVEY | x2
+Put all the blame on me.
+
+#### 986ddb32ee-SM | GORDON → HARVEY | x2
+I grabbed Montoya’s gun, knocked her out and shot him...
+
+#### 05cb0b3761-SM | GORDON → HARVEY | x2
+It was me. I shot Falcone.
+
+#### 52f6c8f9f3 | GORDON → HARVEY | x2
+...two bullets in the stomach.
+
+#### 7c1720f442 | GORDON → BRUCE | x2
+...one shot, straight through the head.
+
+#### d97a5d44ad | HARVEY → GORDON | x2
+You’re seriously trying to feed me that line of bullshit?
+
+#### 58af19dba5 | BRUCE → GORDON | x2
+He’s covering for Montoya.
+
+#### 06f5053a3e | BRUCE → GORDON | x2
+Renee has some history with Falcone, and Gordon wants to make sure she gets a fair investigation.
+
+#### 974a930118 | BRUCE → HARVEY | x2
+So start swallowing.
+
+#### 4ed179c35a-SM | BRUCE → HARVEY | x2
+To be honest, as soon as the door opened, I ducked and covered.
+
+#### 2cf3e75ccf | BRUCE → HARVEY | x2
+That’s what my private security always tells me to do.
+
+#### db41284673 | HARVEY, choice/UI → BRUCE, OFFICER01 | x4
+I’m not the enemy here!
+
+#### 9b28d49d32 | HARVEY → BRUCE | x2
+You two are thick as thieves, aren’t you?
+
+#### 8031010d49 | choice/UI → HARVEY | x2
+Do what you have to do.
+
+#### b8081f2338 | choice/UI → HARVEY | x2
+Don’t prosecute an innocent person.
+
+#### de885e0e0f | choice/UI, GORDON → HARVEY | x4
+Give us time to investigate.
+
+#### 43d1b828d6-SM | HARVEY | x2
+The election is two weeks away, and I’m going to come out of this seeming completely corrupt, or -- if I’m lucky -- totally incompetent.
+
+#### d4c8ec075d | HARVEY | x2
+A cop killed a man in the GCPD infirmary... put there by a costumed vigilante.
+
+#### 2d375e7f14-SM | HARVEY → GORDON | x2
+I gave a civilian access to a material witness.
+
+#### 771bac0773-SM | HARVEY → GORDON | x2
+I’ve got to prosecute her. To the fullest extent of the law.
+
+#### efb1e6564f | HARVEY → GORDON | x2
+I have to do something, or this city will riot.
+
+#### 528def89f2 | GORDON → HARVEY | x2
+What!? How dare you?
+
+#### 0d650fb1bc | HARVEY → BRUCE | x2
+This election is more important than one cop.
+
+#### e75df82dc0-LM | BRUCE → HARVEY | x2
+You’re right, Harvey. It’s what you have to do.
+
+#### 50c6883dad | HARVEY → GORDON | x2
+I’ll stop him. You keep an eye on her.
+
+#### 60a783cedb | BRUCE → HARVEY | x2
+Anything else, and we’re playing right into the hands of whoever caused this.
+
+#### a3abc78622 | GORDON → BRUCE | x2
+I can’t believe what I’m hearing.
+
+#### aff5fc6f02 | HARVEY → BRUCE | x2
+Us? Bruce, you shouldn’t even be in this building.
+
+#### b8119c170b | BRUCE → HARVEY | x2
+Give us time to look into this before we make any decisions.
+
+#### c1b730af42 | HARVEY → GORDON | x2
+Until I have any evidence to the contrary, she acted alone.
+
+#### b3efd1bb2a | HARVEY → BRUCE | x2
+Carmine Falcone was shot by HER gun.
+
+#### 911df52fe9 | BRUCE → HARVEY | x2
+Harvey, you don’t want to put an innocent person in jail.
+
+#### 30ad2c82ad | GORDON → HARVEY | x2
+We’re talking about Montoya’s life!
+
+#### fc2a261888 | HARVEY → GORDON | x2
+I don’t even know she IS innocent.
+
+#### 8148b7c750-SM | HARVEY → GORDON | x2
+I’m glad someone else here can see the big picture.
+
+#### 20a07e8d2e | GORDON → HARVEY | x2
+There must be something we missed...
+
+#### 4267b8261f | HARVEY → GORDON | x2
+If she wakes up, get us right away.
+
+#### dd3b010413 | HARVEY → MONTOYA | x2
+Just get us.
+
+#### 52e85ec502 | HARVEY → MONTOYA | x2
+She’s a murder suspect. Simply leaving you in the room with her...
+
+#### 0fe525ae58 | MONTOYA → BRUCE | x2
+Mr. Wayne? How did I get here?
+
+#### 8e9d516e7a | MONTOYA → HARVEY | x2
+I remember a smell... and feeling.. a mist...
+
+#### d090e14744 | MONTOYA → HARVEY | x2
+Drugged!?
+
+#### 28c1231c15 | MONTOYA → BRUCE | x2
+I remember... a smell... and then feeling a... mist.
+
+#### 82765b9aff | MONTOYA → BRUCE | x2
+Thank you... Bruce...
+
+#### 4245719f56 | MONTOYA → BRUCE | x2
+No. That was a dream...
+
+#### 50a1009aaa-LF | BRUCE → MONTOYA | x2
+You were brought here after you shot Carmine Falcone.
+
+#### c83f4538d4 | MONTOYA → BRUCE | x2
+Be careful... there was something in the hallway. A smell... a sorta... mist....
+
+#### ba3ac6a4f6-LF | choice/UI → MONTOYA | x2
+Why did you kill Falcone?
+
+#### 0da21d2438 | BRUCE → MONTOYA | x2
+Renee, what’s the last thing you remember?
+
+#### d3819ffc5f-SF | MONTOYA → BRUCE | x4
+I was going to meet with a new CI, and... it all gets foggy...
+
+#### 2e72876bdc | MONTOYA → BRUCE | x2
+Why do you keep saying that?
+
+#### cbcfd03701 | MONTOYA → BRUCE | x6
+It was all... [trying to convince herself]a dream...
+
+#### 39d866dc30 | MONTOYA → BRUCE | x2
+No, that isn’t right...
+
+#### 34e583550c-LF | BRUCE → MONTOYA | x2
+Renee, why did you shoot Falcone?
+
+#### 9c3a02d46d | choice/UI → MONTOYA | x2
+Wait for Jim and Harvey.
+
+#### 07468bba71 | BRUCE → MONTOYA | x2
+We have to wait for Gordon and Harvey  -- [correcting himself]the district attorney.
+
+#### 83f94ad9ac | BRUCE → MONTOYA | x2
+Don’t say anything.
+
+#### 5224047f7b | MONTOYA → BRUCE | x2
+The district attorney? Did I? No...
+
+#### a7fa6308ad | MONTOYA → BRUCE | x2
+It kept saying “Falcone’s gonna get off... he’ll cut a deal and be right back out there...“
+
+#### 9924589a1e | MONTOYA → BRUCE | x2
+There was a strange smell... and then... a voice. In the back of my mind.
+
+#### cacbf42ee1-SF | MONTOYA → HARVEY | x2
+I’ve thought it all before... that kinda stuff always makes me mad, but I’d never act on it...
+
+#### 79dcf8684a | BRUCE → HARVEY | x2
+Harvey, can you stop being a prosecutor for one second?
+
+#### 4954271743 | HARVEY → MONTOYA | x2
+You can advise me on how to run my campaign, but don’t tell me how to do my job.
+
+#### e097006ba3-LF | HARVEY → MONTOYA | x2
+You came and got us as soon as she started waking up, right?
+
+#### ff23f1cbdd | HARVEY → BRUCE | x2
+She didn’t say anything... did she?
+
+#### c171c55aa5 | HARVEY → BRUCE | x2
+It’s important I know everything.
+
+#### a79a4327fb | HARVEY → BRUCE | x2
+No judgement
+
+#### b127b19238-SM | BRUCE → HARVEY | x2
+I came straight to get you.
+
+#### 39512a467b | HARVEY → BRUCE | x2
+Great. We gotta dot all our i’s and cross all our t’s on this one.
+
+#### 500bb5d4da | BRUCE → HARVEY | x2
+She was just mumbling... waking up.
+
+#### a1d8e64bd4 | BRUCE → HARVEY | x2
+I think she mumbled something about a spray.
+
+#### 06793a7b07 | HARVEY → BRUCE | x4
+Yeah. She said she remembered a strange smell... must be connected.
+
+#### 25f6b1ed2e | HARVEY → BRUCE | x4
+Thanks for letting me know.
+
+#### 3af81fce56 | HARVEY → BRUCE | x4
+Let’s just agree she said nothing and go from there.
+
+#### b753ed415b | MONTOYA → HARVEY | x2
+After that smell.. and the mist...
+
+#### 5dc9dce42f | BRUCE → HARVEY | x2
+She said something... about a mist.
+
+#### 8d7874cfb6 | choice/UI → HARVEY | x2
+It was all nonsense.
+
+#### 12e4075051 | BRUCE → HARVEY | x2
+She was babbling. Random nonsense as she woke up.
+
+#### 3cbaed9ae3-SM | choice/UI → HARVEY | x4
+I got you right away.
+
+#### 38ed625bdc | choice/UI → GORDON | x2
+She mentioned a spray.
+
+#### 0e99c08ca0 | choice/UI → GORDON | x2
+She mentioned a mist.
+
+#### 79fcd91883 | BRUCE → GORDON | x2
+Or at least let the people know what’s happening in their city.
+
+#### 8e92fc71b0-SM | GORDON → BRUCE | x2
+Mr. Wayne and I agreed, we’d do anything we can to prevent that.
+
+#### bccf099fc9 | GORDON → HARVEY | x2
+I think it’s pretty clear. Montoya was drugged.
+
+#### 23f1a24d30-LM | GORDON → BRUCE | x2
+Like Mr. Wayne said, if we don’t believe you were responsible, it’s up to us to protect you.
+
+#### 32c6a579a9-L? | GORDON | x2
+Mr. Wayne might think you’re responsible for pulling that trigger, but I don’t.
+
+#### e8a7937d6f | GORDON → ALFRED | x4
+And I’ll do anything to protect you.
+
+#### 05cc3cf217 | GORDON → ALFRED | x2
+Some of us might not have much to say on the subject, but I do.
+
+#### 232288b62c | GORDON → BRUCE | x2
+Mr. Wayne... please stay with us.
+
+#### cc52c90a27 | ALFRED → GORDON | x2
+Master Bruce, I’m forwarding you the analysis results now.
+
+#### 25f711520d | MONTOYA → GORDON | x2
+There’s nothing we can do. Someone has to take responsibility.
+
+#### 900df63184 | HARVEY → BRUCE | x2
+Bruce, this is important.
+
+#### 6244085415-SF | MONTOYA → GORDON | x2
+I’ll turn myself in and face the consequences.
+
+#### 568e9f5eb0 | GORDON → MONTOYA | x2
+After what Falcone’s people did to your uncle, no one is going to give this drug theory any serious consideration.
+
+#### aad27a320e | GORDON → HARVEY | x2
+The hell you will.
+
+#### a29de803c7 | GORDON → MONTOYA | x2
+They won’t believe it with Montoya.
+
+#### 49ab50c84d | GORDON → BRUCE | x2
+How would you know that, Mr. Wayne?
+
+#### db350fcd81 | BRUCE → GORDON | x2
+The chemical used on Montoya matches one stole from the docks.
+
+#### bc24b791d5 | HARVEY → BRUCE | x2
+Yeah, Bruce. You seem to know an awful lot.
+
+#### 6076c12cc9 | choice/UI, BRUCE, BATMAN → GORDON, JOKER, VICKI | x22
+I’m Batman.
+
+#### 796f791d19 | GORDON → BRUCE | x2
+You don’t what{AngryB} happened!
+
+#### b962a7dfdf | choice/UI → HARVEY | x2
+Let us investigate.
+
+#### 893fd8726b | BRUCE → HARVEY | x2
+Gordon’s right, Harvey.
+
+#### 6e83740cf1 | BRUCE → HARVEY | x2
+Give us time to look into this.
+
+#### 21fd5232be-LM | HARVEY → BRUCE | x2
+Us? You’re not even supposed to be in the building.
+
+#### bd2432d697 | choice/UI → HARVEY | x2
+Maybe I should leave.
+
+#### 91446f1b5d | choice/UI → HARVEY | x2
+Harvey is right.
+
+#### 527549c2f3 | BRUCE → HARVEY | x2
+Harvey’s right.
+
+#### 6d5f2a0a2f | HARVEY → BRUCE | x2
+I never should have let you talk me into this.
+
+#### be4a40be4e | HARVEY → BRUCE | x2
+Letting a campaign donor in to see a suspect...
+
+#### e5a3f8c1a7 | HARVEY, LUCIUS → BRUCE | x4
+What was I thinking?
+
+#### 8aa832b144 | HARVEY → BRUCE | x2
+If any of this gets out...{FearA}
+
+#### e28d03b7d7 | GORDON → HARVEY | x2
+It won’t.{AngryA}
+
+#### 9af4d67aad | choice/UI → HARVEY | x2
+Stop throwing blame.
+
+#### ee0cae4f34 | BRUCE → HARVEY | x2
+Stop trying to figure out who to blame.We need to work together.
+
+#### 1a0176c091 | choice/UI → HARVEY | x2
+I take responsibility.
+
+#### d711734d7b | BRUCE → GORDON | x2
+This was all my fault.
+
+#### 25b0636935 | choice/UI → GCPD01 | x2
+It’s Montoya’s fault.
+
+#### 2cccc0e446 | BRUCE → GORDON | x2
+Montoya seemed determined to kill Falcone.
+
+#### f72cf2792e | GCPD01 → GORDON | x2
+Lieutenant... Mr. District Attorney... Falcone’s lawyers are here.
+
+#### fc1556330f | GORDON → BRUCE | x2
+Christ{DisgustA} Almighty.
+
+#### 9d764967ba | HARVEY → GORDON | x2
+We have to talk to them{SarcasticA}... follow{SmugA} my lead.
+
+#### 3ac802f4a7 | HARVEY → BRUCE | x2
+Hang back here, Bruce.{SmugA} We won’t be{TiredA} long.
+
+#### b49aa29631 | GORDON → HARVEY | x2
+If she starts to come around,{AngryA} let us know.
+
+#### 645c5f52ba | BRUCE → ALFRED | x2
+Alfred, {ThinkingA}I’ve been delayed at GCPD.{AmusedA} I’m going to need you to...{ThinkingA} [speaking in code]access{SurpriseA} my {ConcernedA}calendar.
+
+#### 2ad7ba3c02 | ALFRED → BRUCE | x2
+Of, course. I can start rearranging your schedule... are there any other items I should...[speaking in code]keep under surveillance.
+
+#### c620ee1b2e-SM | BRUCE → ALFRED | x2
+No. I will handle {SkepticalA}those myself.
+
+#### 3a6bc72ddc | MONTOYA → BRUCE, GORDON | x4
+Whe-where am I?
+
+#### d166c18645 | BRUCE → HARVEY | x2
+Get Gordon and Mr. Dent.
+
+#### f95f924d1d | MONTOYA → BRUCE | x2
+Mr. Wayne, is that you?
+
+#### e9b5b7ceb5 | MONTOYA → BRUCE | x2
+Everything is so... foggy.
+
+#### d4312a1bc8 | MONTOYA → BRUCE | x2
+I remember us talking in the hall...
+
+#### 863ff11f34 | choice/UI → MONTOYA | x2
+Please, call me Bruce.
+
+#### 4a84a08ee0-SM | BRUCE → MONTOYA | x2
+I told you, it’s Bruce.
+
+#### c2c073b2b7-LM | MONTOYA → BRUCE | x2
+Bruce... [suddenly realizing]You were there!
+
+#### aaf20b35d3-SF | MONTOYA → BRUCE, GORDON | x8
+Oh, my God. I thought it was a dream.
+
+#### e36718def9 | choice/UI → MONTOYA | x2
+Gordon is coming.
+
+#### 8d66c80311 | BRUCE → MONTOYA | x2
+Hang in there, Renee. Gordon is on his way.
+
+#### 49b1b4b36b | MONTOYA → GORDON | x2
+Jim... [suddenly realizing]He was there.
+
+#### 5a68218d99 | choice/UI, BRUCE → MONTOYA | x6
+What do you remember?
+
+#### dbabe76558 | BRUCE → MONTOYA | x2
+Renee, tell me the last thing you remember.
+
+#### bc2fb6456c-SF | MONTOYA → BRUCE | x4
+I walked into the infirmary...
+
+#### 9c9c5ecbbf | GORDON → MONTOYA | x6
+Renee, are you alright?
+
+#### 8eabfc352a | MONTOYA → GORDON | x4
+Jim, what happened?
+
+#### 8054d92228 | MONTOYA → GORDON, HARVEY | x4
+Tell me I didn’t shoot Carmine Falcone.
+
+#### f462d2030d | HARVEY → MONTOYA | x4
+Talk to us, Renee. What do you remember?
+
+#### 28d4619924-SF | MONTOYA → HARVEY | x4
+I was going to meet a new CI. Talking about some faction moving in the shadows...
+
+#### 02dde49d87 | MONTOYA → HARVEY, GORDON | x4
+There was a voice in the back of my head saying “Falcone will cut a deal... he never has to pay for what he’s done...“
+
+#### 05d52d5d6b-SF | MONTOYA → HARVEY, GORDON | x4
+I’ve thought things like that before, but I would never act on them.
+
+#### 0ee44b4765 | MONTOYA → GORDON | x4
+The part of my mind that stops me was just... turned off.
+
+#### 1d0ab5801c | GORDON → MONTOYA, HARVEY | x4
+What could even do that?
+
+#### d95cdb1839 | HARVEY, choice/UI → MONTOYA, GORDON | x4
+It doesn’t mean anything.
+
+#### 0091d2896c | GORDON → HARVEY | x2
+You can’t say that.
+
+#### d18ec6e04a | BRUCE → GORDON | x2
+Clearly, she was drugged.
+
+#### f44b41e31d | HARVEY → BRUCE | x2
+Clearly? You must have better vision than me.
+
+#### 08a6501b34 | GORDON → BRUCE | x6
+I think he’s onto something here...
+
+#### 1e9c1cbcb0 | choice/UI → HARVEY | x2
+Do you remember a needle?
+
+#### c3e75d0ee4 | BRUCE → MONTOYA | x2
+Renee, do you remember a poke or a prick?
+
+#### 61928317f5 | BRUCE → GORDON | x2
+An injection.
+
+#### 1017ea4ef7 | HARVEY → BRUCE | x2
+Dear God, Bruce. I’m nervous about what you’re getting at.
+
+#### 7f0cfcfd44-LM | choice/UI → HARVEY | x2
+Did you see this person?
+
+#### 1227afa1a8-LM | BRUCE → GORDON | x2
+This person behind you... did you get a look at them?
+
+#### 3efbb488a7-SF | MONTOYA → GORDON | x2
+No... it’s like I forgot they were there.
+
+#### b6dec8a84d | HARVEY → BRUCE | x2
+You’re going on a limb, Bruce.
+
+#### c613862efd | GORDON → HARVEY | x2
+Sounds to me like she wasn’t in her right mind.
+
+#### e55eaffc08-SM | GORDON → HARVEY | x2
+I knew that wasn’t Montoya acting.
+
+#### 9ff8565386 | GORDON → HARVEY | x2
+She must have been under the influence of an unknow narcotic.
+
+#### 6c1039c3bd | HARVEY → GORDON | x2
+We need facts.
+
+#### 094b344894 | HARVEY → GORDON | x2
+Not wishful thinking.
+
+#### 58c28ceaf2 | choice/UI → HARVEY | x4
+There’s an injection point.
+
+#### 654b4899a6-SM | BRUCE → HARVEY | x2
+I noticed a puncture on Renee’s neck.
+
+#### a389bf2d66 | GORDON → HARVEY | x2
+He’s right.
+
+#### 4c892a1089 | HARVEY → BRUCE, GORDON | x8
+Office, get a CSI team in here... STAT.
+
+#### 6a65fa1201 | choice/UI → HARVEY | x2
+She sounded drugged.
+
+#### 7db4671dff | BRUCE → HARVEY | x2
+The way she described...
+
+#### 377a4480d0 | BRUCE → HARVEY | x2
+She sounded drugged to me.
+
+#### b325af768b | HARVEY → BRUCE | x2
+We’re going to need more to go on than that.
+
+#### 4ba1ea1a8b | choice/UI → HARVEY | x2
+She cried black tears.
+
+#### 4fdc7d9bd3 | BRUCE → HARVEY | x2
+The black tears coming out of her eyes...
+
+#### 6fb77ded70 | BRUCE → HARVEY | x2
+...doesn’t seem normal.
+
+#### b3f56f7b3b | GORDON → HARVEY | x2
+No, it doesn’t.
+
+#### 9f4db707f2 | HARVEY → BRUCE | x2
+We can’t depend on guesses.
+
+#### 9046a1883d | HARVEY → BRUCE | x2
+I don’t know how I’ll play{TiredA} it to the press.
+
+#### b43d0e6f0f | HARVEY → BRUCE | x2
+We’re not only talking about Montoya’s life...
+
+#### b769c1694d | choice/UI → HARVEY | x2
+Keep it contained.
+
+#### 0a52318d5b | BRUCE → HARVEY | x2
+We can’t let the press{ConcernedA} get ahold of this.
+
+#### a88387f6db | choice/UI → HARVEY | x2
+Vicki will help.
+
+#### e231b08ec8 | BRUCE → HARVEY | x2
+We can reach{SurpriseA} out to {ConcernedA}Vicki Vale.
+
+#### 9f4f4bf6c9 | BRUCE → HARVEY | x2
+She’ll help us.
+
+#### 305d3c8196 | HARVEY → BRUCE | x2
+It’s a tight fit {ThinkingA}with all the people in your pocket,{FearA} Wayne.
+
+#### 9af43ebacf | choice/UI → HARVEY | x2
+Tell the truth.
+
+#### a99ba8cd39 | BRUCE → HARVEY | x2
+We need to get the{SkepticalA} truth out there.
+
+#### ddef804e2c | HARVEY → BRUCE | x2
+Guess that’s all on me.
+
+#### ecfc7480a5 | GORDON → HARVEY | x2
+Can you silence that?
+
+#### 599d878730 | HARVEY → BRUCE | x2
+Yeah, Bruce. A little rude--
+
+#### 4af8b5ab5f | LADYARKHAM → HARVEY | x2
+We are forgotten.
+
+#### 550c7e79ea | LADYARKHAM → GORDON | x2
+We are the lost.
+
+#### faf3c79cfb | LADYARKHAM | x2
+We weren’t born, we were created.
+
+#### 1a8ba0833b | LADYARKHAM → GORDON | x2
+We’re here to bring down empires built on the backs others.
+
+#### 83ad19b5ed | LADYARKHAM → GORDON | x2
+Carmine Falcone was a cancer corrupting Gotham City.
+
+#### d2be35c051 | LADYARKHAM → GORDON | x2
+We have removed that cancer.
+
+#### 44d95ba777 | HARVEY, BATMAN, GORDON → REPORTER03, HARVEY, LADYARKHAM | x15
+What the hell was that?
+
+#### 7c3869cb83 | GCPD01 → GORDON | x2
+Lieutenant, everyone’s phones...
+
+#### 23094466fe | GORDON → HARVEY | x2
+Happened in here, too.
+
+#### 31c6138a49 | HARVEY → GORDON | x2
+Who are they? What do they want?
+
+#### 4141197b13 | GORDON → HARVEY | x2
+How did they know Falcone was dead?
+
+#### 5a954eeb51 | choice/UI → HARVEY | x2
+Do we have anything on them?
+
+#### 1e543d35d4 | choice/UI → HARVEY | x2
+Track the hack.
+
+#### ff2ea20a4f | choice/UI, BRUCE → HARVEY, ALFRED | x4
+Get me out of here.
+
+#### bbf10584c5 | HARVEY → BRUCE | x2
+Hey, Bruce...
+
+#### cccc44cbb3 | HARVEY → GORDON | x2
+The precinct got a call from Alfred. There’s an emergency back at your house.
+
+#### 54bd969477 | BRUCE → HARVEY | x2
+I better see what he’s got himself into.
+
+#### df11f282a0-SM | HARVEY → BRUCE | x2
+Bruce, I’m sorry, but we need to deal with this.
+
+#### ea9c2eaf5a | HARVEY → BRUCE | x2
+I’ve gotta ask you to leave.
+
+#### 11e6fb1b34 | HARVEY → BRUCE | x2
+Who knows what this means...
+
+#### e3cfe3f851 | HARVEY → BRUCE | x2
+But it’s time for the real detectives to get to work.
+
+#### 3f653b98a0-SM | BRUCE → HARVEY | x2
+I was thinking the same thing.
+
+#### 3d3fbc0f07 | HARVEY → BRUCE | x2
+Bruce, stop checking your Twitter.
+
+#### f3b3eec2cc | GORDON → BRUCE | x2
+Are we boring you, Bruce?
+
+#### faca30ed36-SF | MONTOYA → HARVEY | x2
+I knew there was a person behind me, but I couldn’t turn...
+
+#### fda3797f2c | HARVEY → BRUCE | x2
+Bruce, stop checking your twitter.
+
+#### 735bae683c | ALFRED → MONTOYA | x2
+It’s definitely the same molecular composition as the chemicals stolen from the docks.
+
+#### fdfdddeccf | MONTOYA → LADYARKHAM | x2
+I know someone was behind me, but I couldn’t turn...
+
+#### 68f0aaa79d | LADYARKHAM → BRUCE | x2
+We will strike again. On election day we will strike.
+
+#### 0730e04ea0 | LADYARKHAM → BRUCE | x2
+Choose your leaders wisely.
+
+#### ee749c6e18 | choice/UI → LADYARKHAM | x2
+Montoya murdered Falcone.
+
+#### 74773a0f55 | choice/UI → LADYARKHAM | x2
+You should ask Gordon.
+
+#### ad9f7f9566 | BRUCE → LADYARKHAM | x2
+Why don’t you ask the Lieutenant?
+
+#### 4ca1b72d86-SM | choice/UI, BRUCE → LADYARKHAM | x4
+I wish I knew!
+
+#### 23a0825ec0 | choice/UI → HARVEY | x2
+Montoya cost me answers.
+
+#### b75448d5c4 | HARVEY → BRUCE | x2
+I can only{TiredA} work with the{SurpriseA} facts I have.{ThinkingA}
+
+#### 079fb964fb | BRUCE → HARVEY | x2
+Unless there’s proof to the contrary, Detective Montoya has to be held responsible.
+
+#### 285df236f1 | HARVEY → BRUCE | x2
+Exactly. Bruce sees the big picture.
+
+#### d8ab373ca2 | HARVEY → BRUCE | x2
+Don’t go pleading the fifth on me.
+
+#### d954f0d333-SM | HARVEY → BRUCE | x2
+I knew I shouldn’t have let you in to see Falcone...
+
+#### 32795adcf7-SM | HARVEY → BRUCE | x2
+I let our friendship cloud my judgement.
+
+#### d41d8ba980-SM | BRUCE → HARVEY | x2
+I don’t think it mattered whether I was there or not.
+
+#### 801bbb55d0 | HARVEY → BRUCE | x2
+But we managed to give her the perfect opportunity.
+
+#### 403b583af2 | BRUCE → GORDON | x2
+Maybe I should let you two figure this out without me.
+
+#### 0f76d89d1f | GORDON → BRUCE | x2
+Dent, {ThinkingA}listen to your{SadA} friend.
+
+#### b835ea7501-SM | GORDON → BRUCE | x2
+I won’t destroy Montoya’s career without{AngryA} knowing exactly what happened.{SadA}
+
+#### eaf1de89c9 | GORDON → BRUCE | x2
+I don’t care what either of you think.
+
+#### cb8f24c0fc | BRUCE → MONTOYA | x2
+Get Gordon {ConcernedA}and Dent.
+
+#### 44d670277e | MONTOYA → BRUCE | x2
+Oh, my God!!
+
+#### 5c901a6838 | MONTOYA → BRUCE | x2
+Everything is so{ThinkingA}... foggy.
+
+#### f1e88df646 | MONTOYA → BRUCE | x2
+But I’m starting to think{AngryB} it was real...
+
+#### 3fcec45dea-LF | choice/UI → MONTOYA | x2
+You murdered Falcone.
+
+#### e67d45486b-LF | BRUCE → MONTOYA | x2
+Montoya -- you know you shot Falcone, don’t you?
+
+#### bed39fd464-SF | MONTOYA → BRUCE | x2
+I shot Falcone?
+
+#### 057f533f91 | choice/UI → MONTOYA | x2
+We’re trying to help.
+
+#### c0c8acc4e1 | BRUCE → MONTOYA | x2
+Easy, detective -- we’re trying to help.
+
+#### 3ad609c575 | MONTOYA → BRUCE | x2
+What -- what happened?
+
+#### 5bb75d2d32-LF | choice/UI → MONTOYA | x2
+You were drugged.
+
+#### 8a09af03e3-LF | BRUCE → MONTOYA | x2
+Easy detective, I think you were drugged.
+
+#### 52b23156ed | MONTOYA → BRUCE, GORDON | x4
+How long was I out? Where’s Jim?
+
+#### 8f1c79d977 | GORDON → BRUCE | x2
+Thanks for keeping an eye on her, Bruce.
+
+#### 15bdd13540-LF | GORDON → MONTOYA | x2
+I trust you kept to yourself while we were gone.
+
+#### 5462d00573 | HARVEY → GORDON | x2
+Between us -- {CovertA}did she say anything before {ThinkingA}we came in?
+
+#### c578ca9394 | HARVEY → GORDON | x2
+Like anything that might {SurpriseA}incriminate{ConfusedA} her?
+
+#### 5d41e7860e | choice/UI → HARVEY | x2
+She thought it was a dream.
+
+#### 61391ce962 | BRUCE → HARVEY | x2
+Not much. She said she thought it was a dream.
+
+#### 7902b05e60 | HARVEY → BRUCE | x2
+Is that so? Well, it’s time she joined us in the nightmare.
+
+#### a77466ca99 | choice/UI → HARVEY | x2
+Nothing important.
+
+#### 71e6523ec8-SM | BRUCE → HARVEY | x2
+Nothing that I could make sense of.
+
+#### 517882b1c8 | choice/UI → HARVEY | x2
+She thought he deserved it.
+
+#### 33a2a3f820 | choice/UI → HARVEY | x2
+I might have scared her.
+
+#### 27bcb0b0ac | BRUCE → HARVEY | x2
+She said she remembered a voice, and having her finger on the trigger...
+
+#### 40c1491d51 | HARVEY → BRUCE | x2
+So she as good as admitted it.
+
+#### c392295d9b | GORDON → MONTOYA | x2
+Renee, are you{ThinkingA} alright?
+
+#### d58a51fad8 | MONTOYA → GORDON | x2
+Jim -- tell me I didn’t shoot Falcone.{FearA} Please --{AngryA}
+
+#### 8af54c9b0e | GORDON → HARVEY | x2
+Mr. Wayne and I -- we think you may have not been acting under your own control.
+
+#### 3409577ef5 | GORDON → MONTOYA | x2
+The District Attorney feels otherwise.
+
+#### e65a7a5d26 | GORDON → HARVEY | x2
+It’s my belief that you weren’t acting under your own control.
+
+#### 6e8d1e6123 | GORDON → HARVEY | x2
+Mr. Wayne and the District Attorney feel otherwise.
+
+#### 4c83d076c9 | HARVEY → GORDON | x2
+I’m just trying to {TiredA}get to the facts.
+
+#### 68438b4cb5 | HARVEY → GORDON | x2
+Everything is theory{SarcasticA} without fact.
+
+#### ebfd0fdc61 | HARVEY → GORDON | x2
+We need information.
+
+#### b8e1f152ae-SM | BRUCE → HARVEY | x2
+I noticed a puncture mark on her neck.
+
+#### 81ce465967 | BRUCE → HARVEY | x2
+Like she’d been injected.
+
+#### 469145d52d | GORDON → BRUCE | x2
+He’s right. There’s a needle mark.
+
+#### c04bea21c3 | choice/UI → GORDON | x2
+Her eyes were completely black.
+
+#### f7b3c04fb6 | BRUCE → HARVEY | x2
+Jim and I both saw her eyes -- the whites were dark around her pupils.
+
+#### a50307463f | choice/UI → GORDON | x2
+She’s clearly dazed.
+
+#### 20a09f0aec | BRUCE → GORDON | x2
+She’s clearly disorientated.
+
+#### 3a71631972 | HARVEY → GORDON | x4
+I agree - we’re spinning our wheels here.
+
+#### b86d8131bd | GORDON → HARVEY | x2
+Dent, I’m telling you, {AngryA}don’t jump to act.
+
+#### 646a576820 | GORDON → HARVEY | x2
+Suspend Montoya. {ThinkingA}Hold an investigation.
+
+#### e356c73845 | GORDON → HARVEY | x2
+Don’t destroy {DisgustA}her life.
+
+#### 87a3f430bf | HARVEY → GORDON | x2
+I-- {ThinkingA}I can’t pick who I {SadA}prosecute.
+
+#### 753eee63a5 | choice/UI → GORDON | x2
+Hold off on prosecuting.
+
+#### 6caf11674e | BRUCE → HARVEY | x2
+Wait until you have all the information, Harvey.
+
+#### e913f9d63d | choice/UI → HARVEY | x2
+Do your job, Harvey.
+
+#### c940f026f0 | BRUCE → HARVEY | x2
+You’re the DA.
+
+#### ae48d1313c-LM | BRUCE → HARVEY | x2
+Do what you were elected to do.
+
+#### e2789fe193 | BRUCE, HARVEY → SELINA, BRUCE | x10
+I don’t have a choice.
+
+#### 9d2d5c5980 | HARVEY → BRUCE, GORDON | x4
+I have to treat this like any other homicide.
+
+#### d6c257eefa | choice/UI → HARVEY | x2
+Batman could help.
+
+#### 61e207cb6d | BRUCE → HARVEY | x2
+The Batman seems to have a grip on what’s happening in the city.
+
+#### 47d2833337 | BRUCE → GORDON | x2
+Gordon, can’t you contact him?
+
+#### 1d7618b526 | GORDON → HARVEY | x2
+He may have information.
+
+#### 1db37bfbfe | HARVEY → BRUCE | x2
+We can’t invite everyone down to stomp around our crime scene.
+
+#### f473582272 | HARVEY | x2
+We’re running out of{AngryA} time.
+
+#### 8daa5e8f45-SM | HARVEY | x2
+I won’t prosecute Reneee...{ThinkingA} yet. Nothing until after the election.{AngryA}
+
+#### 43a3ee0322 | HARVEY | x2
+Hopefully{ThinkingA} that’s long enough{TiredA} for an investigation.
+
+#### ef5f7508ff-SM | HARVEY | x2
+I have to proscute.{ThinkingA} I need {SurpriseA}to indict her{AngryA} before the election.
+
+#### 089f6585ad | HARVEY | x2
+This could ruin {SurpriseA}public opinion{ConfusedA} of the police.
+
+#### e646230f25 | HARVEY | x2
+Smart,{HappyA} but we have to be{ConfusedA} careful.
+
+#### 3dc1faf99f | HARVEY → GORDON | x4
+We {ConfusedA}can’t let the{AngryA} conspiracy damage us {ThinkingA}worse than the crime.
+
+#### 531eb09f02 | HARVEY → GORDON | x2
+Transparency. {SmugA}That’s key.
+
+#### c450f6950f | GORDON → BRUCE | x2
+Thanks, Harvey{ThinkingA}... Bruce.
+
+#### 0e81e60dd7-SM | GORDON → HARVEY | x2
+I’m sure with a{TiredA} little time--
+
+#### 35d1bd0d32 | GORDON → HARVEY | x2
+You two{AngryA} can pat yourselves on the back for saving your{DisgustA} campaign, {ThinkingA}but I--
+
+#### c6d19162a4-LM | GCPD01 → GORDON | x6
+You need to come see this, Sir.
+
+#### 2cdcd846b4 | VICKI → BRUCE | x2
+I have the dots.
+
+#### a0546a3f3a-SM | choice/UI → GORDON | x2
+I would never kill.
+
+#### aae958d790 | BRUCE → VICKI | x2
+I’m many things, Ms. Vale, but I’m not a murderer.
+
+#### 825c4eb621 | choice/UI → VICKI | x2
+That’s not far off.
+
+#### f1fbc94ec8 | BRUCE → VICKI | x2
+Your contacts weren’t too far off.
+
+#### 9f1d401b45-SM | choice/UI → VICKI | x2
+I won’t dignify that.
+
+#### 42eade9ca1-SM | BRUCE → VICKI | x2
+I won’t dignify that with a response.
+
+#### fec0fe2868 | VICKI, BRUCE → BRUCE, HARVEY | x4
+I’m your friend.
+
+#### 26f064e7cf | choice/UI → VICKI | x4
+The killers left a symbol.
+
+#### 771fa4e816 | BRUCE → VICKI | x2
+After Falcone was killed...
+
+#### 90f2249825 | choice/UI → VICKI | x2
+A detective shot Falcone.
+
+#### 63dd3cb7db | BRUCE → VICKI | x2
+The shooter was actually a detective of the GCPD.
+
+#### b0213ce79f | VICKI → BRUCE | x2
+A detective?
+
+#### cb30b7a15f-SF | VICKI → BRUCE | x2
+I need a name. Details.
+
+#### 1df0e7226c | VICKI → BRUCE | x2
+What else do you know?
+
+#### a6bec80128 | BRUCE, VICKI → BRUCE, LADY ARKHAM ADDRESSES THE PEOPLE OF GOTHA, HARVEY | x6
+Anything.
+
+#### 23923b5bb7 | choice/UI → VICKI | x2
+The cop was drugged.
+
+#### 13cbef4902 | BRUCE → VICKI | x2
+The officer involved was under the influence of a narcotic.
+
+#### dd80d3db8b | VICKI → BRUCE | x2
+Drugged to kill Falcone?
+
+#### 8f4efed5f3 | VICKI → BRUCE | x2
+It stretches the imagination.
+
+#### fbb69ed780 | BRUCE → VICKI | x2
+The detective’s name is Renee Montoya.
+
+#### 0bcb55e987 | VICKI → BRUCE | x2
+I know Montoya. She always seemed so predictable.
+
+#### 0f1bfeb4b1-SM | choice/UI → VICKI | x2
+I’ve said enough.
+
+#### 52e3f0dc66 | BRUCE → VICKI | x2
+I ‘ve already told you more than I should.
+
+#### 8703f54739-SF | VICKI → BRUCE | x2
+Could be anything, but I thought you might want it.
+
+#### b726ea8957 | choice/UI → VICKI | x47
+[Answer Phone]
+
+#### 2c9b62821b-SM | BRUCE → VICKI | x2
+I’m sorry, I need to take this.
+
+#### b90032535f | choice/UI → HARVEY | x2
+Not Comment.
+
+#### db76afdc31 | BRUCE → HARVEY | x2
+My official response? No comment.
+
+#### 2b428bf8bc | HARVEY → BRUCE | x2
+What a mess.{ThinkingA}
+
+#### da7b8f9e2d-SM | HARVEY → BRUCE | x2
+I had to call in favors {ThinkingA}I wasn’t even owed, {body-A}{SurpriseA}but I managed{FearA} to keep this between the three of us.{AngryA}
+
+#### 9f1156f8aa | HARVEY → BRUCE | x2
+Bruce...{ThinkingA}
+
+#### 2d016af3c6-SM | HARVEY → BRUCE | x2
+When I helped you get in to see Falcone...
+
+#### da7b3801bf-SM | HARVEY → BRUCE | x2
+I never thought it would end like this.
+
+#### 5655f22786 | BRUCE → HARVEY | x2
+I-- was talking with Falcone.
+
+#### 31cc9c48b6 | BRUCE → HARVEY | x2
+Detective Montoya-- she burst in and murdered him.
+
+#### ed14f516ab | GORDON → HARVEY | x2
+Impossible. Montoya would never kill in cold blood.
+
+#### f242c84cd3 | HARVEY → GORDON | x2
+What about in the heat of the moment?
+
+#### 5d3fce5b93-SM | GORDON → HARVEY | x4
+I followed Renee into the room -- she wasn’t acting like herself --
+
+#### a8fadc88ac-SM | GORDON → HARVEY | x4
+I never imagined she’d --
+
+#### 53716fa79f | HARVEY → GORDON | x4
+Well, it happened, so you don’t have to imagine it.
+
+#### 9beaa2dd81 | GORDON → HARVEY | x2
+Renee is a one of my best cops.{AngryA}
+
+#### 02cef0c463 | GORDON → HARVEY | x2
+She’s not perfect, but she knows the law.
+
+#### fcabbd28eb | GORDON → HARVEY | x2
+All this... it isn’t in her DNA.
+
+#### 8eacae1a87 | GORDON → BRUCE | x2
+She and her wife just had a kid for christ’s sake.{ThinkingA}
+
+#### 88e99972eb | GORDON → BRUCE | x2
+She wouldn’t do this{ThinkingA} -- {AngryA}not in her right mind.{DisgustB}
+
+#### d057505f0c-SM | BRUCE → GORDON | x2
+Good cop or not, I watched her pull the trigger.
+
+#### 067d8bef66 | HARVEY → BRUCE | x2
+And there’s a room full of evidence that backs that up.
+
+#### f0e7a9257b | BRUCE → HARVEY | x2
+Gordon’s right. She wasn’t in control of herself.
+
+#### 31d59ce9af | HARVEY → BRUCE | x2
+I don’t buy it! She knew exactly what she was doing!
+
+#### d613c94f7e | BRUCE → HARVEY | x2
+Falcone was telling me-- things-- about my family --
+
+#### cc0410a0e2 | BRUCE → HARVEY | x2
+Your detective shut his mouth forever.
+
+#### 6056cf5a36 | HARVEY → BRUCE | x2
+This is not just about you, Bruce.
+
+#### e33f29bed1 | HARVEY → BRUCE | x2
+Falcone was supposed to be a trophy -- the biggest{SurpriseA} case of my career!{ConfusedA}
+
+#### b44d9ab564 | HARVEY → GORDON | x2
+Now he’s a PR disaster.{AngryA}
+
+#### ddcacb71e0 | HARVEY → GORDON | x2
+I have no choice. I have to prosecute Montoya.{AngryA}
+
+#### cd6dbd5e9b | GORDON → HARVEY | x2
+Throw her in jail{AngryB} and she loses {DisgustB}her badge!{AngryC}
+
+#### 3c242edc4a | HARVEY → GORDON | x2
+She {SurpriseA}put a bullet in Falcone’s head,{FearA} Jim!
+
+#### d715fc469a | HARVEY → BRUCE | x2
+You can’t just cut and run, Bruce.
+
+#### 08f8be1d30 | HARVEY → GORDON | x4
+We’re only in this mess because of your ‘special visit.‘
+
+#### b15f2af695-SM | BRUCE → HARVEY | x2
+One minute I’m talking to Falcone -- the next I’m covered in blood.
+
+#### ef5124cc09 | HARVEY → VICKI | x2
+Of course, Bruce Wayne is never held responsible.
+
+#### bcbedb7592 | HARVEY → VICKI | x2
+Oh, God.
+
+#### e955a3a489 | VICKI → HARVEY | x2
+What a headline.
+
+#### 12e2d3ba30 | VICKI → HARVEY | x4
+You can’t blame a gal for trying.
+
+#### 150752493a | VICKI → BRUCE | x2
+But, Bruce--
+
+#### 4a835387a9 | BRUCE → VICKI | x2
+Bruce Wayne, how can I help you?
+
+#### d1f7fbd785 | ALFRED → VICKI | x2
+This is your escape call.
+
+#### 15f934be8c | BRUCE → VICKI | x2
+Perfect timing, as always.
+
+#### e87bae529e | VICKI → BRUCE | x4
+Everything that happened will come out sooner or later.
+
+#### b7a8bed554 | VICKI → BRUCE | x4
+Then you’ll be begging for a friend in the press.
+
+#### 998367867c | BRUCE → ALFRED | x2
+Alfred, I’m heading back to the manor.
+
+#### e29ce6f93c | ALFRED → VICKI | x2
+The analysis of your scans should be complete by the time you arrive.
+
+#### 9f89c529cc-SM | BRUCE → VICKI | x2
+Good. Put them up on the big screen. I need--
+
+#### 753bdcf344 | HARVEY, ALFRED, LUCIUS, VICKI → BRUCE, GORDON, BATMAN | x49
+Bruce!
+
+#### 5fa436f988-SM-LM | ALFRED → BRUCE | x2
+I missed that. Was there something you needed?
+
+#### c0b5e9972d | choice/UI → ALFRED | x2
+Call me in three minutes.
+
+#### f8e93c47f7 | BRUCE → ALFRED | x2
+Call me back in exactly three minutes.
+
+#### 14ec2accfe | BRUCE → ALFRED | x2
+I may need an excuse to escape.
+
+#### d93ce9ddb2 | ALFRED → BRUCE | x2
+Very good, sir. I’ll use my American accent.
+
+#### 69a2232114 | choice/UI → ALFRED | x2
+Monitor the police scanner.
+
+#### a5af02af2a | BRUCE → ALFRED | x2
+Keep the police scanners going.
+
+#### 627b8014d8 | BRUCE → ALFRED | x2
+I want to know what information gets out.
+
+#### 7444fd5f87 | ALFRED → BRUCE | x2
+I’ll watch the watchmen as it were.
+
+#### e53ee285ff | ALFRED → BRUCE | x2
+My favorite radio program. Non-stop crime.
+
+#### adba3eba89 | choice/UI → ALFRED | x2
+I’d love a sandwich.
+
+#### efadcce3f2 | BRUCE → ALFRED | x2
+I haven’t eaten all day.
+
+#### 50f7a95652 | BRUCE → ALFRED | x2
+Maybe a sandwich.
+
+#### 2e4b5caaee | ALFRED → BRUCE | x2
+I’d much rather prepare your lunch than reset your bones.
+
+#### 2ec80271af | ALFRED → BRUCE | x2
+I’ll speak to you back at the manor, Master Bruce.
+
+#### b72c460009 | VICKI → ALFRED | x2
+I’ve been waiting for you...
+
+#### d3e04ba215-LM | VICKI → ALFRED | x2
+Heard they had you locked up in an interrogation room.
+
+#### 89624d7b85 | VICKI → ALFRED | x2
+That wouldn’t be the case... would it?
+
+#### 9842d79e1d-SF | VICKI → BRUCE | x2
+I’ve got a couple friends in the GCPD.
+
+#### dbfa6ae40e | VICKI → BRUCE | x2
+They keep me up to date.
+
+#### f08cbcc6ef-SM | choice/UI → VICKI | x2
+I was their guest.
+
+#### c06be21c46 | BRUCE → VICKI | x2
+They didn’t have me locked up.
+
+#### 44c3ae1435-SM | BRUCE → VICKI | x2
+I was a guest.
+
+#### 48f0396866 | VICKI → BRUCE | x2
+Bruce Wayne: guest of GCPD.
+
+#### 0909ac5d17 | VICKI → BRUCE | x2
+A lot of people would love to see that headline.
+
+#### 400c98638e | choice/UI → VICKI | x2
+Off the record?
+
+#### 29ceb3923f | BRUCE → VICKI | x2
+You asking as a reporter or as a concerned friend?
+
+#### 5bc7c7e76a | VICKI → BRUCE | x2
+As a concerned reporter.
+
+#### b507a12623 | choice/UI → VICKI | x6
+I’m in a rush.
+
+#### ebd18421db-SM | BRUCE → VICKI | x2
+I’m sorry, Vicki. I can’t talk right now.
+
+#### 29652b190d | VICKI → BRUCE | x2
+Then just listen.
+
+#### 32472e4630 | VICKI → BRUCE | x4
+I know you’ll want to hear what I have to say.
+
+#### 81b2f50e2f | VICKI → BRUCE | x2
+Fine. Don’t speak. Just listen.
+
+#### 606d09f6bc | VICKI → BRUCE | x2
+Help me connect them.
+
+#### 6741e05111-SM | BRUCE → VICKI | x2
+I was there. Falcone’s dead.
+
+#### 12e1bff931 | VICKI → BRUCE | x2
+Don’t block me out, Bruce.
+
+#### ad84595e1d | VICKI → BRUCE | x4
+I can help.
+
+#### 62cc20e086 | VICKI → BRUCE | x2
+You can’t keep this under wraps forever.
+
+#### 98a1f5f7df | BRUCE → VICKI | x2
+Someone painted a symbol on his door.
+
+#### 9fc0318af2 | BRUCE → VICKI | x2
+It seemed to be a calling card.
+
+#### a042851600 | choice/UI, VICKI, BRUCE → HARVEY, BRUCE, ALFRED | x15
+You can’t be serious.
+
+#### d9d1d37aa5-SF | VICKI → BRUCE | x4
+I wanted to bring you a present.
+
+#### 3a7135c476 | VICKI → BRUCE | x2
+The anonymous source that supplied the Gazette with all the info on your parents also included a calling card.
+
+#### 344029b9ea | VICKI → BRUCE | x2
+Is there a connection?
+
+#### 1223d81bfc | VICKI → BRUCE | x2
+Two crimes with calling cards?
+
+#### 6f9da9e583 | VICKI → BRUCE | x2
+That can’t be random.
+
+#### a3df2b6f6c | BRUCE → VICKI | x2
+This is the same symbol that was painted on Falcone’s door.
+
+#### 00fd398098 | VICKI → BRUCE | x2
+Then there’s no denying that the same people are behind it.
+
+#### 1857b4c22b | choice/UI → VICKI | x2
+I’m keeping this.
+
+#### 8518ca1981-LF | BRUCE → VICKI | x2
+You brought this for me?
+
+#### 2acfed48e1-SM | BRUCE → VICKI | x2
+I’m sure it will be a great help.
+
+#### 2074b81c62 | VICKI → BRUCE | x2
+Information needs to be a two way street, Bruce.
+
+#### 8583a30054 | choice/UI → VICKI | x2
+You have the wrong symbol.
+
+#### f9222eab71 | BRUCE → VICKI | x2
+No. The symbol on Falcone’s door was different.
+
+#### 9162712da4-SF | VICKI → BRUCE | x4
+Damn. I thought I was onto something.
+
+#### 7b26e3fe63 | VICKI → HARVEY | x4
+If I find out anything more, you’ll be the first to know.
+
+#### 8763d48b5a | VICKI → HARVEY | x2
+The anonymous source that gave the Gazette all the information about your parents included a calling card of sorts.
+
+#### b3c8cf430a | HARVEY → VICKI | x2
+For now...{body-HandsHips}
+
+#### a24a80eba5 | HARVEY → BRUCE | x2
+We really stepped in it this time, Bruce.
+
+#### 9999017610 | HARVEY → VICKI | x2
+Together? I’m Mr. Together. It’s you two that seem to have a problem.
+
+#### 86846e9e82 | HARVEY → MONTOYA | x2
+Well, mostly, yeah.
+
+#### 523eaad910 | HARVEY → MONTOYA | x2
+Now that we have that out of the way, we can focus on dealing with this.
+
+#### d78f1ff2c9-SF | MONTOYA → HARVEY | x2
+But I -- I could never do that!
+
+#### 2f215d6146 | BRUCE → HARVEY | x2
+She said he deserved a bullet in the head.
+
+#### cecf654931 | GORDON → VICKI | x2
+Enjoy tonight,{DisgustA} because tomorrow, when you press charges against {ThinkingA}Montoya, you’ll lose the support of every {AngryA}cop in Gotham.
+
+#### e256f91a6e | VICKI → MONTOYA | x4
+Let me help you break this story the right way.
+
+#### e2674834d8 | VICKI → BRUCE | x2
+Tell me what happened in Falcone’s room.
+
+#### f30baabde6 | VICKI → GORDON | x2
+Once this gets out, it’s going to make the allegations against you parents much more concrete.
+
+#### f1158dabf3 | choice/UI → VICKI, GCPD02, HARVEY | x6
+It’s a calling card.
+
+#### 1adcbcd9c4 | choice/UI → VICKI, GCPD02 | x4
+They want us to know who they are.
+
+#### d66d7d255d | choice/UI → VICKI, HARVEY | x6
+I should leave.
+
+#### ffc99455d0 | GCPD02 → VICKI | x2
+It’s fresh!
+
+#### b960a17fa7 | GCPD03 → VICKI, GORDON | x4
+Where did it come from?
+
+#### 3d3618aed6 | GORDON → HARVEY, GCPD01 | x4
+My God...{ThinkingB}
+
+#### f05de2c842 | HARVEY → GCPD02 | x2
+What the {ConfusedA}hell is it?
+
+#### b62774aca2 | HARVEY → BRUCE | x2
+The whole area was{AngryA} cordoned off for the techs.{ThinkingA}
+
+#### 9687c110ac | HARVEY → BRUCE | x2
+No one saw this {AngryA}happen?
+
+#### 46518c15ab | BRUCE → HARVEY | x2
+Whoever painted this is{ConcernedA} signing their name to{ThinkingA} Falcone’s murder.
+
+#### c41ca12c9a | choice/UI → HARVEY | x2
+Anyone seen it before?
+
+#### fb0633ffe3 | BRUCE → HARVEY | x2
+Have either of you {ConfusedA}seen it before?
+
+#### 54d022e403 | BRUCE → HARVEY | x2
+I don’t think {ThinkingA}I should be here...
+
+#### 90a57d7146-LM | HARVEY → BRUCE | x2
+No, you’re right.
+
+#### 87ed90cbce | HARVEY → BRUCE | x4
+We need {TiredA}to get you out {ThinkingA}before they{SurpriseA} lock the {CovertA}building down.
+
+#### a81f935064 | BRUCE → HARVEY | x2
+Alfred, I’ve been delayed at GCPD. {SkepticalA}Under surveillance.
+
+#### 61f03ba11f | ALFRED → BRUCE | x2
+This line is secured. Do you any assistance locking down your area?
+
+#### ae4c786482 | BRUCE → HARVEY | x2
+No.{ThinkingA} I can handle it {AmusedA}from here.
+
+#### 10a0bd6f56 | BRUCE → GORDON | x2
+Jim, don’t.
+
+#### 5c2eecda93 | BRUCE → GORDON | x2
+It might be laced with whatever caused... [whsiper]Montoya’s reaction.
+
+#### 14dc0fedda-SM | GORDON → BRUCE, GCPD03 | x4
+I need to get{AngryA} forensics on this...
+
+#### 52d2d8db1c | GORDON → BRUCE, GCPD01 | x4
+... {ThinkingA}and get rid{DisgustA} of any non-essential personnel.
+
+#### 8db5807c07 | BRUCE → ALFRED | x2
+Alfred, I’m heading back to the manor--
+
+#### b1bbdcac36-LM | VICKI → GORDON | x2
+Look, I owe you for passing me those files on Falcone. They helped more than you could imagine.
+
+#### d924ed49e1 | VICKI → BRUCE | x2
+So I feel like I owe you a heads up.
+
+#### c4893a7914-L? | VICKI | x4
+My contacts in the GCPD told me everything. Harvey arranged it so you could speak with Falcone. Minutes later, he’s shot dead.
+
+#### cdbf4073a3 | VICKI | x2
+If we don’t get ahead of this, the story will be “Wayne Heir Murders Criminal Kingpin.“
+
+#### 5266774812 | VICKI | x2
+Seems a treasure trove of evidence against Falcone fell into GCPD hands right before he was taken into custody.
+
+#### 93a5b9b905 | VICKI | x2
+Wish that would have fallen into my hands.
+
+#### 145f8929a1-SF | VICKI | x2
+Personally, I’m a fan of sharking information. I wanted to tell you this to your face.
+
+#### 30ebf147a0 | VICKI | x2
+I can see the story now: “Wayne Heir Murders Criminal Kingpin.“
+
+#### bdd3ccbaea | VICKI → BRUCE | x2
+These aren’t the gossip columns, Bruce.
+
+#### d697e07a41 | VICKI | x2
+You can’t blow off the accusations with your billionaire playboy responses.
+
+#### f58923134f | VICKI → BRUCE | x2
+You can convince me of that, Bruce...
+
+#### eace313763 | VICKI | x2
+...but soon you’ll have to convince the entire city.
+
+#### 7f84510000 | VICKI → BRUCE | x2
+That’s good, Bruce. The more honest you are, the more people will believe you.
+
+#### 00e1e16e27 | VICKI | x2
+Once this gets out, it’s going to make the allegations against your parents much more concrete.
+
+#### 61923ec7ad | VICKI → BRUCE | x2
+My contacts mentioned there was someone else in that interrogation room, too...
+
+#### c691605ce1 | VICKI → BRUCE | x2
+Work with me, Bruce.
+
+#### c39bf0bc2a | VICKI → BRUCE | x2
+We can both get what we need.
+
+#### b863bcb2e4 | choice/UI → VICKI | x2
+Montoya was drugged to do it.
+
+#### 6d267e538c | BRUCE → VICKI | x2
+It was Detective Montoya.
+
+#### eddf596a9b | BRUCE → VICKI | x2
+She was under the influence of some narcotic.
+
+#### 0fb2d6d4b5 | VICKI → BRUCE | x2
+Drugged to kill Falcone? It stretches belief.
+
+#### 3a297610a0 | BRUCE → VICKI | x2
+Whoever killed Falcone left a symbol on his door.
+
+#### 708c72b704 | BRUCE, choice/UI → VICKI, HARVEY | x4
+A calling card.
+
+#### 0b5e4c4b2f | VICKI → BRUCE | x2
+Sounds like we have some serious people to worry about.
+
+#### 22c374abbc | VICKI → BRUCE | x2
+Sounds a bit melodramatic to me.
+
+#### 8cbe1785bd-SM | choice/UI → VICKI | x2
+Just say I did it.
+
+#### f6caeb2ce9-SM | BRUCE → VICKI | x2
+If people want to believe I killed Falcone...
+
+#### 87b2ce3d8c-SM | BRUCE → VICKI | x2
+Go ahead and say I did.
+
+#### 2eb4b09a59-LM | VICKI → BRUCE, HARVEY | x4
+Making yourself a martyr won’t help anyone.
+
+#### 1db2ef6f0a | HARVEY → VICKI | x2
+What about our careers? {AngryA}What about the election-- {ThinkingA}the future of this city?{ConfusedA}
+
+#### ed304003bc-LF | HARVEY → VICKI | x2
+... {ThinkingA}before we sneak you out,{SmugA} you need to tell me --{AngryA}
+
+#### 50a183578e | HARVEY → VICKI | x2
+... what the hell happened in there?!{ConfusedB}
+
+#### f3ac57fe63 | HARVEY → GORDON | x2
+Don’t clam up on me...
+
+#### adee949436-SM | GORDON → HARVEY | x2
+I won’t destroy Montoya’s career without knowing exactly what happened.
+
+#### 8ae247c8f8 | choice/UI → HARVEY | x2
+She remembers wrong.
+
+#### 375693f80e | choice/UI → HARVEY | x2
+Those gym classes kicked in.
+
+#### 0b2fe74557 | choice/UI → HARVEY | x2
+She had to be subdued.
+
+#### 07d8a78051 | HARVEY → GORDON | x2
+Talk to us, Detective. Tell us what you remember.
+
+#### 64df477979 | MONTOYA → HARVEY | x2
+I remember struggling against him.
+
+#### d7a5b7f169 | HARVEY → MONTOYA | x4
+No offense, but Renee’s a trained officer, and you’re... you.
+
+#### 36a861342d | HARVEY, BRUCE → MONTOYA | x4
+That can’t be right.
+
+#### dd64a9ce5e | MONTOYA → HARVEY | x2
+There’s talk on the street of a new faction, moving in the shadows.
+
+#### ce85cad188 | BRUCE → MONTOYA | x2
+It must have been one of the officers, and she only remembers me.
+
+#### c7480bd461 | MONTOYA → GORDON | x2
+Jim... tell me I didn’t shoot Carmine Falcone.
+
+#### 4e59de7730 | MONTOYA → BRUCE | x2
+Next thing I know, Mr. Wayne knocked me out.
+
+#### 005d9bb554 | BRUCE → MONTOYA | x2
+She was still pretty out of it.
+
+#### 925a68997f-SF | MONTOYA → HARVEY | x2
+I was going to meet a new CI.
+
+#### d4135b861e | HARVEY → BRUCE | x2
+You don’t have to explain.
+
+#### 43b2d7a16b-LM | HARVEY → BRUCE | x2
+Good thing you did.
+
+#### a25d5f8f86-SM-LM | HARVEY → BRUCE | x2
+I’m sure Gordon has an extra uniform if you’re interested.
+
+#### 174009760d-SM | BRUCE → HARVEY | x2
+She was still a threat. I had to subdue her.
+
+#### dad81a79a0 | BRUCE → HARVEY | x2
+Guess all those classes at the club are starting to pay off.
+
+#### a748b98242 | HARVEY → BRUCE | x2
+Who knows where she would have emptied the rest of that clip?
+
+#### 92773d9f5e | HARVEY → BRUCE | x2
+Do you remember pulling the trigger, {ConfusedA}detective?
+
+#### 44ca72fcaf | MONTOYA → HARVEY | x2
+I... uh... I remember going to meet a new CI -- then{FearA} the rest is a blur...
+
+#### bcb08627a3 | HARVEY → GORDON | x2
+Or shed light on this {TiredA}whole thing?
+
+#### d472de01a0-LM | GORDON → HARVEY | x2
+I think you were out of your mind, Detective. Not in control of yourself.
+
+#### 2c898d71fc-LM | GORDON → HARVEY | x2
+Mr. Wayne and I think you were out of your mind, Detective. Not in control of yourself.
+
+#### 54346fd1b0 | HARVEY → GORDON | x2
+Montoya busted in and blew him away. Murdered in police custody.
+
+#### 924d618709 | HARVEY → GORDON | x2
+This isn’t just about the precious Wayne Legacy.
+
+#### e25a082a74 | HARVEY → GORDON | x2
+What would you have me do!?{ThinkingA}
+
+#### b435c896e6 | GORDON → HARVEY | x2
+The longer we keep Montoya{ThinkingA} out of a courtroom, {SadA}the better chance we have of salvaging{TiredA} her career.
+
+#### f37e9b66b9 | GORDON → HARVEY | x2
+They got some {DisgustA}balls, I tell you...
+
+#### 39e3d16499 | GORDON → HARVEY | x2
+It’s like a gang tag{ThinkingA} -- but not one I’ve ever{ThinkingB} seen before.
+
+#### 53735c9652 | GORDON → BRUCE | x4
+That means{AngryA} you.
+
+#### f4d0f2ef76 | HARVEY → GORDON | x2
+There’s a room full of evidence that says she killed him.
+
+#### be2289cdd0-SM | BRUCE → ALFRED | x2
+Alfred, {ConcernedA}I’ve got to get back {SkepticalA}to the manor--
+
+#### 434fb1b6f9 | VICKI → HARVEY | x2
+I’ve been waiting for {SurpriseA}you to {HappyA}come out.
+
+#### 9dd6fb816e | VICKI → BRUCE | x2
+What the hell {ConfusedA}happened in there?
+
+#### 13ac710fed-LM | VICKI → BRUCE | x2
+I know you were in the room {ConfusedB}with Falcone when{ThinkingA} he died --
+
+#### a58e3521ae | VICKI → BRUCE | x2
+Just tell me who pulled{SadA} the trigger and I’ll let you{HappyA} go.
+
+#### 2d8b4c9e21 | choice/UI, BRUCE → VICKI, SPENCER | x8
+Get out of my way.
+
+#### 31cc33f4f7 | choice/UI → VICKI | x2
+Montoya was drugged.
+
+#### 3688aefc59 | choice/UI → VICKI | x2
+Someone left a calling card.
+
+#### 76de10cc19 | BRUCE → VICKI | x2
+What do you mean? Nothing{ThinkingA} happened.
+
+#### 3c613910c4-SM | BRUCE → VICKI | x4
+I’m sorry, Vicki. I {ThinkingA}don’t have time...
+
+#### fa0fabe50b | BRUCE → VICKI | x4
+Sorry Vicki, I{ThinkingA} can’t talk to the press...
+
+#### f3ca5f5427 | VICKI → BRUCE, MONTOYA | x4
+My friends in the{ThinkingA} GCPD have been{ConcernedA} telling stories --
+
+#### 82cfafc45d | VICKI → BRUCE | x4
+About some kind of{ConfusedB} lock down?
+
+#### c8586dec83 | VICKI → BRUCE | x2
+Word is Falcone{ThinkingA} was murdered{AngryA} in custody.
+
+#### 838d0d0ec8-LF | choice/UI → VICKI | x20
+Where did you hear that?
+
+#### 62dfeba9c2 | choice/UI → VICKI | x2
+Always digging, huh?
+
+#### 8b94ce3170-LF | BRUCE → VICKI | x4
+Where did you get that?
+
+#### ee42161306 | BRUCE → VICKI | x4
+No. I {ThinkingA}didn’t say that.
+
+#### 4cac98e298 | BRUCE → VICKI | x2
+It’s true. {ConcernedB}Falcone’s dead.
+
+#### 8f8b9f533b | VICKI → BRUCE | x2
+No. {ConfusedA}Really?
+
+#### 2625a92312 | BRUCE → VICKI | x2
+Yeah{SadA} -- he was {ThinkingA}shot and killed.
+
+#### 83d1384b06-SM | BRUCE → VICKI | x4
+Didn’t you hear me? I said{ThinkingA} no comment.
+
+#### 758fcfacc9 | VICKI → BRUCE | x4
+Don’t be{TiredA} like that, Bruce. {ThinkingA} Talk to me.
+
+#### 751a9e45f8 | VICKI → BRUCE | x2
+Gunned down{ConcernedA} in his hospital bed.
+
+#### 46edd87395 | BRUCE → VICKI | x4
+I have no {ThinkingB}comment at this time.
+
+#### 0e401b06e7 | VICKI → BRUCE | x4
+Don’t be like that, Bruce.  {ConcernedA}Talk to me.
+
+#### e61e814921-LM | VICKI → BRUCE | x2
+My source in the GCPD says you gave Gordon the goods on Falcone. Enough to send him to Blackgate for life.
+
+#### 42f2de5636-LM | VICKI → BRUCE | x2
+Is that how you got your special audience?
+
+#### 7555354514-L? | VICKI | x2
+The information you gave me would have put Falcone in Blackgate for life.
+
+#### 333ce1f21b | VICKI → BRUCE | x2
+Supposedly under protection {AngryA}of the police.
+
+#### 0b1802f70d | VICKI → BRUCE | x2
+I promise,{ConcernedA} I’ll keep your {SurpriseA}name out{TiredA} of any story{ThinkingA} I print.
+
+#### c9b55ba61e | choice/UI → VICKI | x2
+Back off, Vicki.
+
+#### 7320d9a364 | VICKI → BRUCE | x2
+It put me on the map as a reporter, Bruce. I owe you.
+
+#### e0b5543e81 | BRUCE → VICKI | x2
+You should question your source.
+
+#### 48c6a970ea | VICKI → BRUCE | x2
+So you’re denying it?
+
+#### e11e91a528 | BRUCE → VICKI | x2
+I’m saying your informant has an active imagination.
+
+#### 6ce95985e6 | choice/UI → VICKI | x2
+It was a five minute meeting.
+
+#### be7435abd8 | BRUCE → VICKI | x2
+It was hardly a special audience. It was a five minute conversation.
+
+#### b00bc957ba | VICKI → BRUCE | x2
+Of course -- to Bruce Wayne that’s entirely normal.
+
+#### 2ecf6569a4 | VICKI, LADYARKHAM → BRUCE, BATMAN | x4
+Disappointing.
+
+#### 9391d9b558 | BRUCE → VICKI | x2
+Detective Montoya {ConcernedA}shot him. {ThinkingA}But she was under the influence of {ThinkingB}some drug.
+
+#### 144ada22f8 | VICKI → BRUCE | x2
+Drugged to kill {ThinkingA}Falcone?
+
+#### f2a8c783e8 | BRUCE → VICKI | x2
+Back off, Vicki. I don’t have time for this.
+
+#### cc85d42752 | VICKI → BRUCE | x2
+Is that what happened here?
+
+#### d6d69e50c1 | VICKI → BRUCE | x2
+You seem pretty good at buying your way into places.
+
+#### 8f90cd3def | VICKI → BRUCE | x4
+Blink twice for yes.
+
+#### 1f4a9b3184 | BRUCE → VICKI | x2
+Whoever was behind it left a calling card. {ThinkingB}Some kind of symbol.
+
+#### 74ed128d7d | VICKI → BRUCE | x2
+A {ConfusedA}symbol?
+
+#### 435f79d04f | BRUCE → VICKI | x2
+If you’re going after the cops, {ConcernedA}you’re barking up the {ThinkingA}wrong tree.
+
+#### 1666db7cbe | BRUCE → VICKI | x2
+You {SkepticalA}didn’t get it from{ThinkingA} me.
+
+#### ecea74990f | VICKI → BRUCE | x2
+Thanks {TiredA}Bruce -- I{HappyA} owe you one.
+
+#### 26d50045a6 | VICKI → BRUCE | x2
+You don’t want to be {AngryA}associated with this mess.{SadA}
+
+#### 57a95a2dbf | VICKI → BRUCE | x2
+Trust me,{SadA} it doesn’t look{DisgustA} good.
+
+#### 67a3b37b59 | VICKI → BRUCE | x2
+You must have pulled some strings.
+
+#### 93451fe554 | BRUCE → VICKI | x2
+My friends run this city. I go where I please.
+
+#### 006c87550c-SM | BRUCE → VICKI | x2
+I thought you’d be more grateful -- yet here you are looking for dirt.
+
+#### 3ea68e3545 | BRUCE → VICKI | x2
+Why don’t you and me discuss it over dinner. Thursday. 7 o’clock.
+
+#### a7ad624a72 | VICKI → BRUCE | x2
+Give me a comment and I’ll think about it.
+
+#### fc4851b128-LM | VICKI → BRUCE | x2
+Like -- how did you get in to see Falcone?
+
+#### 5d408326c7 | VICKI → BRUCE | x4
+Your lips are moving. {SmugA}Words are coming out.
+
+#### 4c5a01a0e4 | VICKI → BRUCE | x4
+Don’t brush {ThinkingA}me off --
+
+#### 7ac2c6fa87 | BRUCE → VICKI | x4
+You{ThinkingA} know what I mean.
+
+#### fb4f50bb4b | BRUCE → VICKI | x2
+Whoever did this{ThinkingA}, they’re organized{ConcernedB} -- they left a {ThinkingA}calling card.
+
+#### 58ca5d4079 | VICKI → BRUCE | x2
+Maybe even broken the law?
+
+#### a18802e966 | VICKI → BRUCE | x2
+Was there a breach in protocol?
+
+#### a528fe7323 | VICKI → BRUCE | x2
+Just doing my job, Bruce.
+
+#### 394b90bfc3 | VICKI | x2
+Not for much longer with an attitude like that.
+
+#### 5083128178 | VICKI | x2
+I can help you control this how all this plays in the press, but you have to tell me what happened.
+
+#### f976fe6c1d | VICKI → BRUCE | x2
+Maybe you should make time.
+
+#### 13b2987952 | VICKI → BRUCE | x2
+And I know it was {SurpriseA}one of Gotham’s{DisgustA} finest who killed him.
+
+#### 2b18ae9985 | VICKI → BRUCE | x2
+Let me know {ThinkingA}if you change your mind.
+
+#### 8c68932b16 | BRUCE → VICKI | x2
+You’re fishing --
+
+#### 6697c2c39d | GORDON → VICKI | x2
+Why didn’t you call me?
+
+#### 0ade70434e | HARVEY → GORDON, MONTOYA | x4
+I hope you’re not holding anything back.
+
+#### 96f8809f42 | choice/UI → GORDON, MONTOYA | x4
+She remembers some of it.
+
+#### 76807f2fce | GORDON → MONTOYA | x2
+Renee --{ThinkingA}
+
+#### 592c853242-SF | MONTOYA → GORDON | x2
+My career -- my life {ThinkingA}-- everything I worked for{AngryA}, over --{FearA}
+
+#### 1958c2cb29 | HARVEY → GORDON | x2
+Maybe her mascara was running or something.
+
+#### 51172b2b76 | GORDON → MONTOYA | x2
+She ain’t wearing mascara.
+
+#### 0cc2ebcf26 | VICKI → MONTOYA | x2
+Are you{AngryA} kidding me?
+
+#### 1724ff9cb7 | MONTOYA → GORDON | x2
+Play it? {FearA}This is my life {AngryA}you’re talking about!
+
+#### 7b521e118c | MONTOYA → VICKI | x2
+Not some politician’s game!
+
+#### f142bb168c | GCPD04 → MONTOYA, GORDON | x4
+They musta breached security somehow.
+
+#### a219f8951d | MONTOYA → GCPD04 | x2
+I-- remember a voice telling me to kill --{AngryA}
+
+#### 360e679465 | MONTOYA → GCPD04 | x2
+And then my finger on the trigger --
+
+#### e3f71a93b5 | MONTOYA → GCPD04 | x2
+I-- thought it was a dream --{FearA}
+
+#### 9722d9cfaa | MONTOYA → HARVEY | x2
+It goes against everything I believe in as a cop.
+
+#### 37fa9aa829 | BRUCE → MONTOYA | x2
+I wouldn’t say that.
+
+#### abb6528db4 | HARVEY → BRUCE | x2
+That’s natural -- she’s probably in shock.
+
+#### e9156602fe | HARVEY → BRUCE | x2
+We’re not only talking about {AngryA}your life...
+
+#### 70dec8c137 | BRUCE → HARVEY | x4
+A fresh injection{ThinkingA} site.
+
+#### fddd794e1a | BRUCE → HARVEY | x2
+Someone recently put a needle{ThinkingA} in Montoya’s neck.
+
+#### 80f0c6e8cd | BRUCE → HARVEY | x2
+Did someone {ThinkingA}drug her?
+
+#### ba1d7b885a | choice/UI → HARVEY | x2
+Can’t you leave me alone!
+
+#### c2d9015dc3-SM | choice/UI → HARVEY | x2
+I thought you’d be grateful.
+
+#### e84d425a6b | choice/UI → HARVEY | x2
+I’ll tell you over dinner.
+
+#### b794d4be17 | choice/UI → HARVEY | x2
+I have friends in high places.
+
+#### d18a5e3f5a-SM | choice/UI → HARVEY | x2
+I watched it happen.
+
+#### e3f703265f-SM | HARVEY → BRUCE | x2
+I’ve bought us some time, but not much.
+
+#### 16c3ec58e7 | HARVEY → BRUCE | x2
+We are in deep shit.
+
+#### b08da60582 | HARVEY → MONTOYA, BRUCE | x5
+Why would she do something like this?
+
+#### eb63729240 | HARVEY → BRUCE | x2
+We had Gotham’s biggest crime lord in our grasp!
+
+#### b8218b7334 | HARVEY → BRUCE | x2
+This close. We were this close.
+
+#### e043c86c85 | choice/UI → HARVEY | x2
+Montoya hated Falcone.
+
+#### c5f268fb4d | choice/UI → HARVEY | x2
+She was paid to silence him.
+
+#### ef1e13d9f6 | HARVEY → BRUCE | x2
+Word’s gonna get out, sooner or later.
+
+#### 1b7b77054b | BRUCE → HARVEY | x2
+I don’t, I don’t know -- I hardly recognized her when she burst in.
+
+#### 43fec08650 | HARVEY → BRUCE | x2
+It’s a disgrace. Another officer gone rogue.
+
+#### 3f836b4e53 | BRUCE → HARVEY | x2
+You both heard her. She had no love for Falcone.
+
+#### 31b5e1fd9d | HARVEY → BRUCE | x2
+If that’s why, she’s a disgrace to the uniform.
+
+#### fb6f5e9d06 | BRUCE → HARVEY | x2
+Isn’t it obvious? She wanted to shut Falcone up for good.
+
+#### 0afa2216f2 | GORDON → HARVEY | x2
+It just doesn’t make any sense.
+
+#### 8b662c0d7b-SM | GORDON → HARVEY | x2
+I’ve worked with Montoya since she was a rookie -- she’s true blue.
+
+#### 257d9da6cc | GORDON → HARVEY | x2
+Not in her right mind.
+
+#### 546169a0e6 | choice/UI → GORDON | x2
+I almost got him to talk.
+
+#### 45a1d48f98 | HARVEY → BRUCE | x2
+Falcone’s case meant justice for a thousand unnamed victims.
+
+#### aa17e65227 | HARVEY → BRUCE | x2
+Listen, we gotta get out in front of this. We gotta spin it as best we can.
+
+#### 5df525d3c5 | choice/UI → HARVEY | x2
+Let’s get the facts first.
+
+#### e64f0d82ef | choice/UI → HARVEY | x2
+We need to get our story straight.
+
+#### 80f74b10de | choice/UI → HARVEY | x2
+You’re being played.
+
+#### baa35d2610 | BRUCE → HARVEY | x2
+There’s more at stake here than your campaign.
+
+#### 940c5f1dbe | BRUCE → HARVEY | x2
+Someone planned this for a reason.
+
+#### 7f3310f634 | BRUCE → HARVEY | x2
+Harvey’s right. We need to control this story or someone else will.
+
+#### f084b2ed52 | BRUCE → HARVEY | x2
+Slow down, Harvey. We need the facts first.
+
+#### 257c7593c8 | HARVEY → BRUCE, GORDON | x4
+The simple fact is she walked in and shot him.
+
+#### f75383316f | HARVEY → GORDON | x2
+We can handle them. Just -- follow my lead.
+
+#### cf6c4a4a75-SM | BRUCE → ALFRED | x2
+Alfred,{SkepticalA} I think I found{ThinkingA} the substance.{AngryA} Analyze and forward{SkepticalA} me the {ConcernedA}result.
+
+#### 8880c5a80f | ALFRED → BRUCE | x2
+Secured. What about surveillance?
+
+#### ecbebddca6 | BRUCE → ALFRED | x2
+I can handle that from here.
+
+#### 470009e96c | BRUCE → ALFRED | x2
+That does’t look like blood.
+
+#### 94d3d231dc | BRUCE → MONTOYA | x2
+She must have been drugged.
+
+#### af67045355 | MONTOYA → BRUCE | x2
+Where am I? {ThinkingA}Mister Wayne?
+
+#### bc6f893e16-LF | choice/UI → MONTOYA | x2
+You shot someone.
+
+#### 2b588f43ea | choice/UI → MONTOYA | x2
+We’re here for you.
+
+#### 34170376d1-LF | BRUCE → MONTOYA | x2
+It’s not good, {SadB}Sergeant. {DespairA}You shot Falcone.
+
+#### cb0492870a-SF | MONTOYA → BRUCE | x2
+I did what? {AngryB}No...  {NormalA}I --
+
+#### 6d9c3cbc49 | MONTOYA → BRUCE | x2
+God -- {ThinkingA}it’s true...
+
+#### b57057aed2 | BRUCE → MONTOYA | x2
+Sergeant, {ConcernedB}you have to think.
+
+#### 0f79e83635-SF | MONTOYA → FALCONE | x2
+Oh God -- Falcone... {AngryB}I was hoping it wasn’t{FearA} real.
+
+#### bdf7ab6bcf | BRUCE → MONTOYA | x2
+Easy, easy, {ConcernedA}Sergeant. {ConcernedB}Gordon and I are going to get {ConcernedA}you through this.
+
+#### 810dea0317 | MONTOYA → BRUCE | x2
+Through this?
+
+#### 92853057cf | MONTOYA → FALCONE | x2
+Oh God -- Falcone. {ThinkingA}What have I done?
+
+#### d422644b75-SF | MONTOYA → BRUCE | x2
+I talked big about hurting {AngryB}thugs like Falcone --
+
+#### 99b1bae701-SF | MONTOYA → BRUCE | x2
+But I would never -- {AngryB}never --{FearA} betray the Lieutenant.
+
+#### dc9211f23f | MONTOYA → BRUCE | x2
+Okay, I know how much this collar {ThinkingA}meant to him.
+
+#### 01064f58c1 | MONTOYA → BRUCE | x2
+To the department.
+
+#### aa82da2274-LF | choice/UI → MONTOYA | x2
+You screwed up.
+
+#### 22a0a8e696 | choice/UI → MONTOYA | x2
+Someone drugged you.
+
+#### 2f60350cda | BRUCE → MONTOYA | x2
+You’re in a lot of trouble, {SkepticalA}Sergeant.
+
+#### 5a47743457 | MONTOYA → BRUCE | x2
+It’s not what it looks like --
+
+#### 8093d421e9 | BRUCE → MONTOYA | x2
+I believe you, Sergeant. {ConcernedA}I’m on your side.
+
+#### 61451c77e2 | BRUCE → MONTOYA | x2
+Just -- help me {ThinkingA}understand what{ConcernedA} happened.
+
+#### 84262d17ad-LF | BRUCE → MONTOYA | x2
+I believe you were drugged,{ConcernedA} Sergeant.
+
+#### f942072c1d | MONTOYA → BRUCE | x2
+I know it must sound {FearA}crazy...
+
+#### 41244e370c | MONTOYA → GORDON, BRUCE | x5
+Everything is so -- {AngryA}foggy.  {ThinkingA}I remember a sharp {NormalA}pain.
+
+#### dbf48fced2-SF | MONTOYA → OSWALD | x5
+Then I just felt light -- {NormalA}like I could do whatever I wanted. {AngryA}No guilt. No consequence.
+
+#### acf3dcd7d2 | MONTOYA | x2
+There was a voice in my ear insisting {AngryA}Falcone was gonna get off.
+
+#### 9b6bb00995-SF | MONTOYA → BRUCE | x2
+And all I knew was I{AngryA} had to stop that.
+
+#### 7b9b1b8dd0-SF | MONTOYA → BRUCE | x2
+I had to, {FearA}no matter what.
+
+#### 8394c46dc2 | MONTOYA → BRUCE | x2
+The reasons why I shouldn’t -- {FearA}they were a million miles away.
+
+#### 865e2a1834 | choice/UI → MONTOYA | x2
+What voice?
+
+#### 724813acb2-LF | choice/UI → MONTOYA | x2
+What did you feel?
+
+#### 174f75a7dc-LF | choice/UI → MONTOYA | x2
+Did you see anyone?
+
+#### d1f8a413ed | BRUCE → MONTOYA | x2
+A voice...whose voice? {SkepticalA}What did it sound like?
+
+#### 750abb3e58 | MONTOYA → BRUCE | x2
+I -- I don’t know. Soft. Trustworthy, I guess.
+
+#### 7b2f7806d7 | BRUCE → MONTOYA | x2
+You have to remember {ConcernedA}more, Montoya. {SkepticalA}Try.
+
+#### 462260b930 | MONTOYA → BRUCE | x2
+I remember a hand on my arm.{NormalA} Guiding me. {ThinkingA}Like a parent with a child.
+
+#### d7505df6a5 | MONTOYA → BRUCE | x2
+There was a tattoo. {AngryA}Rough, handmade.
+
+#### f156631782 | BRUCE → MONTOYA | x2
+Draw it.
+
+#### fecf0512a0-LF | BRUCE → MONTOYA | x2
+Did you see a face? {SurpriseA}Could you ID a suspect?
+
+#### b336589060-LF | BRUCE → MONTOYA | x2
+Like you were {SkepticalB}hypnotized?
+
+#### 5ecf858b26 | MONTOYA → BRUCE | x2
+Not mind control. {ThinkingA}More like my impulse control was gone.
+
+#### 61903f8cfa-SM | BRUCE → MONTOYA | x2
+I’ve got a lead on whoever’s behind this.
+
+#### 0cbd7a7b04 | MONTOYA → BRUCE | x2
+Thank you, {NormalA}Mr Wayne. {ThinkingA}That means a lot.
+
+#### 8668244eb5 | MONTOYA → BRUCE | x2
+I -- I don’t {ThinkingA}think so.
+
+#### be847a4d48 | BRUCE → MONTOYA | x2
+You must remember some detail. {ConcernedA}Try.
+
+#### e006ce5d3e-LF | BRUCE → MONTOYA | x2
+You put a bullet in a mob boss, {AngryB}just as he was about to talk.
+
+#### 512fd69d65-SF | MONTOYA → BRUCE | x2
+Lieutenant - I’m... I’m so sorry. I screwed up.
+
+#### 3eb2c38670 | HARVEY → BRUCE | x2
+We stalled Falcone’s lawyers {SadA}for now. {AngryB}But they’ll be back.
+
+#### f49420f8a1 | choice/UI → MONTOYA | x2
+Someone got to her.
+
+#### 1b76703151 | choice/UI → MONTOYA | x2
+I can prove she was drugged.
+
+#### cd4faad3be | MONTOYA → GORDON | x2
+One thing stood out...
+
+#### 049bdbab74 | GORDON → MONTOYA | x2
+It’s alright detective.
+
+#### 3f9811e308-SM | GORDON → BRUCE | x2
+Wayne and Dent may want to make an example of you, but I’ve got your back.
+
+#### e9a7fd48ea | GORDON → BRUCE | x2
+Dent may want to make an example of you, but Mr Wayne and I are going to figure this out.
+
+#### 45b81e3282 | BRUCE → HARVEY | x2
+Someone used her as a weapon, {AngryB}Harvey.  {AngryA}They drugged her and sent her after Falcone.
+
+#### fa456a74be-SM | BRUCE → GORDON | x2
+I found evidence that she was drugged. {SkepticalA}A fresh injection site on her neck.
+
+#### c69dac7a16 | GORDON → BRUCE, MONTOYA | x4
+Get forensics in here now.
+
+#### b1293524f3-SF | MONTOYA → GORDON | x2
+Lieutenant. I’m -- I’m so sorry. I don’t know what to say.
+
+#### 5ca3ba56f9 | MONTOYA → GORDON | x2
+I’ve been telling Mr Wayne what I rememember.
+
+#### 7cd7ee1a8d | GORDON → MONTOYA | x2
+You wanna watch what you say around him.
+
+#### debaeb5f04 | GORDON → MONTOYA | x2
+Wayne and Dent wanted to make an example of you, to get the heat off them.
+
+#### 80fbbd1a58 | GORDON → MONTOYA | x2
+Good. Wayne and I wanna help you get through this.
+
+#### 2145f7b378 | GORDON → HARVEY | x2
+Dent, not so much.
+
+#### d244a965de | HARVEY → GORDON | x2
+How can I run against corruption when our own cops are redecorating the precinct with their prisoners’ brains?
+
+#### 85dc8af585 | MONTOYA, PROTESTER01 → GORDON, ENFORCER01 | x4
+What’s going on?!
+
+#### ce01523833 | MONTOYA → GORDON | x2
+Oh God --
+
+#### 954e49fd28 | MONTOYA → VICKI | x2
+Listen, you have to believe me.
+
+#### 6fff30a655 | BRUCE → MONTOYA | x5
+There’s an injection site on your neck.
+
+#### 838d0d0ec8-LM | choice/UI → HARVEY | x2
+Where did you hear that?
+
+#### 95db90aead | BRUCE → VICKI | x2
+She was so different from the woman we met in the hall.
+
+#### 5f05a96c28 | HARVEY → VICKI | x2
+And now it is a PR disaster!
+
+#### 2eac03ee75 | choice/UI → VICKI | x2
+Getting away from you.
+
+#### 5445cdb74c | BRUCE → HARVEY | x2
+Filing a complaint about harrassment, actually.
+
+#### 9217f1f8a9 | VICKI → HARVEY | x2
+Yeah? Well I don’t know what to tell you. Maybe it’s your cologne.
+
+#### 3841c913d5 | GORDON → VICKI | x2
+She’d never do anything to hurt the department.
+
+#### fb3a80808d | VICKI → GORDON | x2
+Word is there were shots fired -- near where Falcone was being held.
+
+#### 8937ee1701 | VICKI → GORDON | x2
+Know anything about that?
+
+#### e658325853 | VICKI → BRUCE | x2
+You must have been back there when it happened.
+
+#### 182aaaa67f | choice/UI → VICKI | x2
+Yes. Falcone was killed.
+
+#### 5f4e73c915 | BRUCE → VICKI | x2
+Always digging for a story, huh?
+
+#### ddf1b36919 | VICKI → BRUCE | x2
+Like a pig for truffles. So is it true?
+
+#### 125f8f8ef4 | BRUCE → VICKI | x2
+I didn’t say that.
+
+#### 841bb134ce | VICKI → BRUCE | x2
+Who fired the shots? A cop?
+
+#### 8ca7b08989-SF | VICKI → BRUCE | x2
+Listen, I owe you for those files on Falcone. I got a lot of cred at the Gazette for that story.
+
+#### 5ee65e9611 | VICKI → HARVEY | x2
+Whatever’s going on here, you can’t afford to be associated with it.
+
+#### bc05335b96 | HARVEY → VICKI | x2
+She’s supposed to do her duty, not act on impulses.
+
+#### ac16e749bd | HARVEY → VICKI | x2
+If she wakes up, see if you can get her to remember what happened.
+
+#### 7d7c7cf17b | BRUCE → ALFRED | x2
+Alfred -- Falcone’s been murdered.
+
+#### b3efc00b0d | ALFRED → HARVEY | x2
+Good god --
+
+#### 197d66ab8a | BRUCE → VICKI | x2
+I’m looking into it, but I’ll need access to the Batcomputer for anything I find.
+
+#### efb35210ca-LM | VICKI → BRUCE | x2
+Word is, you turned over enough dirt on Falcone to put him in Blackgate Prison for life.
+
+#### b22d03be89-LM | VICKI → ALFRED | x2
+I can keep your name out of whatever we print, but you need to give me something I can use.
+
+#### 765c03fba9 | VICKI → GORDON | x2
+And now you’re here... [involved in this mess]
+
+#### 66a4bf0cf1 | VICKI → BRUCE | x2
+A day after he showed up at your house.
+
+#### 9e9339483d | choice/UI → VICKI | x4
+You’re fishing.
+
+#### 7688a3c4b3 | BRUCE → VICKI | x4
+You’re fishing. You don’t have a thing.
+
+#### 9a9a0ae1bb | choice/UI → VICKI | x4
+Montoya fired shots.
+
+#### 2999001951 | BRUCE → VICKI | x2
+A police sergeant fired the shots. Renee Montoya.
+
+#### a5abb0a7ae | BRUCE → VICKI | x4
+You didn’t get it from me.
+
+#### 8ae01592c7 | VICKI → BRUCE | x4
+Sergeant Montoya?
+
+#### c5bf6c5365 | VICKI → HARVEY, BRUCE | x4
+Isn’t she the one who shot Batman?
+
+#### 7fab461f29 | HARVEY → VICKI | x2
+Even if that’s true, the simple fact is she gunned him down in his hospital bed.
+
+#### 1760c66bd6 | GORDON → HARVEY | x2
+Then we need the whole story, not just part of it.
+
+#### 5911c25a76 | HARVEY → GORDON | x2
+Issue a statement saying that we have the shooter in custody.
+
+#### 5cd9afbb26 | HARVEY → GORDON | x2
+That details are still coming in and we’re investigating. The usual.
+
+#### 54eccbceb7 | GORDON → HARVEY | x2
+We can’t act until we know the whole story.
+
+#### 3a76191e2c | GORDON → HARVEY | x2
+Then we need the complete facts like how and why.
+
+#### e0bfc41df7 | MONTOYA → GORDON | x2
+Everything is such a {ThinkingA}blur...
+
+#### 2c97785a15-SF | MONTOYA → HARVEY | x2
+I got this {FearA}awful feeling something {ThinkingA}terrible happened...
+
+#### 500674f328 | BRUCE → MONTOYA | x2
+Under some  {SurpriseA}mind control?
+
+#### 69aeb887f5 | MONTOYA → BRUCE | x2
+My anger was the only thing that mattered.
+
+#### 40e8eebc18 | MONTOYA → BRUCE | x2
+Some kind of symbol...
+
+#### 8358f98dac-SF | MONTOYA → BRUCE | x2
+I’m so sorry, Lieutenant…
+
+#### c4e1f796d7 | GORDON → MONTOYA | x2
+Don’t worry about that {TiredA}now.
+
+#### 3cdfd7cd99 | MONTOYA → HARVEY | x2
+Mr. Wayne found an injection site.
+
+#### 1bd75af091 | HARVEY → MONTOYA | x2
+How is she? {AngryA}Did she tell you anything?
+
+#### 7560b27192 | MONTOYA → HARVEY | x2
+Mr Wayne found an injection site on my neck.
+
+#### f0ebca4306 | HARVEY → MONTOYA | x2
+And when they come, we need our {AngryB}stories straight.
+
+#### 23c9fd92d2 | BRUCE → MONTOYA | x2
+Montoya remembers being {ConcernedB}drugged --
+
+#### 8c4aca5222-SF | MONTOYA → GORDON | x2
+I was out of my mind, {AngryA}Lieutenant. {FearA}Please believe me!
+
+#### ee3b4017ba | MONTOYA → GORDON | x2
+Mr. Wayne found an injection site on my neck…
+
+#### a9743a1f57 | GORDON → MONTOYA | x2
+Hey! Get forensics in here, now!
+
+#### 984224192e | GORDON → MONTOYA | x2
+Get forensics in here {AngryB}now.
+
+#### cd675ba813-SF | MONTOYA → GORDON | x2
+I was drugged, Lieutenant. Please -- please believe me.
+
+#### c061dbbc34 | GORDON → MONTOYA | x2
+I do. {TiredB}Of course I do.
+
+#### 2fe2c8f95e | BRUCE → GORDON | x2
+Whoever did this to her had this mark.
+
+#### 4ff505e661 | HARVEY → MONTOYA | x2
+At least we have a lead we can pursue.
+
+#### 57f38823d2-SF | MONTOYA → GORDON | x2
+I was out of my mind,{ThinkingA} Lieutenant. {FearA}Please believe me!
+
+#### a15a33a180 | GORDON → BRUCE | x2
+I do. Of course I do.
+
+#### ac77dada52 | HARVEY → GORDON | x2
+Now if you’re bringing forensics in, let’s get Bruce out.
+
+#### abf91df6bf | GORDON → HARVEY | x2
+Good job, Mr Wayne. The officer at the door will escort you out.
+
+#### f880ca6de5 | BRUCE → GORDON | x2
+The veins in her neck -- still a little swollen.
+
+#### 93580c3016 | HARVEY → BRUCE | x2
+This is a freaking disaster.
+
+#### b6bc729178 | BRUCE → HARVEY | x2
+Someone drugged her!
+
+#### 7dd437e528 | MONTOYA → HARVEY | x2
+I know how much this {AngryA}arrest meant to him.
+
+#### 54e55057a0 | MONTOYA → HARVEY | x2
+There was a voice in my ear insisting {AngryA}Falcone was gonna get away with it.
+
+#### 1001af699f | HARVEY → BRUCE | x2
+We’re in it up to our necks.
+
+#### d45752c232 | HARVEY → BRUCE | x2
+We’re in a hell hole.
+
+#### c76a292e9b | BRUCE → MONTOYA | x2
+Her skin was grey --
+
+#### 35ec029c8e | BRUCE → HARVEY | x2
+Her skin had a deathly pallor to it --
+
+#### 50be8455a2 | BRUCE → HARVEY | x2
+When she came in she was really shaking --
+
+#### e3ed5e9240 | MONTOYA → BRUCE | x2
+The voice -- {FearA}it was saying something about “revolution.“
+
+#### b2e5165b7a | BRUCE → MONTOYA | x2
+Cobblepot said {SkepticalA}something similar.
+
+#### ebfd62f33f | BRUCE → MONTOYA | x2
+Her skin -- discoloration is still present.
+
+#### 95a8428202 | BRUCE → MONTOYA | x2
+She’s still shaking a little -- it looks like her muscles are spasming involuntarily.
+
+#### bf69223322 | BRUCE → GORDON | x2
+Write down anything you remember.
+
+#### f350d6252d | BRUCE → GORDON | x2
+Whoever did this to her said those words...
+
+#### 04f6ad9332 | GORDON → BRUCE | x2
+‘The revolution is coming?‘
+
+#### 10e9382827 | GCPD02, BRUCE → GORDON, ALFRED | x4
+Look at this.
+
+#### 85cadeabcb | GORDON → BATMAN, GCPD02, ENFORCERFEMALE | x8
+What a goddamn mess.
+
+#### 5ab1639d40 | GORDON, LUCIUS → BRUCE, BATMAN | x4
+My God...
+
+#### afc81c93b4 | GORDON → BRUCE | x2
+They left a goddamned calling card.
+
+#### a61ffb5d64 | BRUCE → GORDON | x2
+Some kind of calling card...
+
+#### 265593f66a | BRUCE → GORDON | x2
+All right, let’s see what we can find.
+
+#### 27b8ecb90a | BRUCE → GORDON | x2
+Analyzing the... suspect [reluctant to call her that] for any biological or chemical anomalies.
+
+#### 803f08eb71 | BRUCE → ALFRED | x2
+Alfred, I’m going to try and confirm some suspicions of mine.
+
+#### ee67310d2c | BRUCE → VICKI | x2
+Her veins -- still visible beneath her skin.
+
+#### 60461a7ba7 | BRUCE → VICKI | x2
+Her veins were really dark -- like there was something in her blood.
+
+#### 62be7f5142 | choice/UI → VICKI | x4
+Eyes
+
+#### 4c0eb1e6c3 | BRUCE → GORDON | x2
+When she came in she didn’t look like herself--
+
+#### 59b0a03b3d | BRUCE → GORDON | x2
+She remebers someone mentioning a “revolution”
+
+#### 294e594d3d | BRUCE → GORDON | x2
+It means something to whomever did this to her!
+
+#### 79c42acc7b | MONTOYA → BRUCE | x2
+What will I tell my wife.
+
+#### 1eaaad8727 | ALFRED → BRUCE | x2
+Connection secured, sir.
+
+#### 4509365146 | MONTOYA → BRUCE | x2
+What will I tell my wife..?
+
+#### 8291c5e733 | BRUCE → MONTOYA | x2
+It means something to whomever did this to her...
+

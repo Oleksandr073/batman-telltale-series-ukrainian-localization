@@ -1,0 +1,859 @@
+﻿#### a2274bc1bc | GORDON → PENGUIN | x4
+Get outta here!
+
+#### 9502045126 | PENGUIN → GORDON, LADYARKHAM | x4
+For too long, men like Bruce Wayne have stood on the backs of the poor to get what they want!
+
+#### 92c5c6aa86 | PENGUIN → GORDON | x4
+For too long, we’ve turned away! Pretended not to see! But no more!
+
+#### 43711a3ed4 | LADYARKHAM → PENGUIN | x2
+--with the crowd. Tell them what they want to hear. We have a spark. Let’s make sure it turns into a blaze.
+
+#### 5903df98dd | NEWSCASTER → PENGUIN | x2
+-- and we’re getting reports of incendiary devices being deployed by protesters at the Wayne Hospital site. Repeat, incendiary devices are now in use.
+
+#### 08b91f375d | NEWSCASTER → PENGUIN | x2
+The people are rioting. Please, stay away. For your own safety. Stay away!
+
+#### 8aa5bcf549 | BATMAN → ALFRED | x2
+Alfred, can you track down that van? I couldn’t stop them.
+
+#### 7356fc8c96 | PENGUIN → NEWSCASTER | x6
+We’ve taken out Falcone! We’ve taken down Hill! You know who’s next!
+
+#### 427f446ace | PENGUIN → BATMAN, COP01 | x6
+This is your city! They’ve tried to take it from you!
+
+#### d08a7e5bbc | OSWALD, PENGUIN → BATMAN, COP01 | x14
+Now is the time to take it back!
+
+#### 11144e96d7-SM | BATMAN → ALFRED | x2
+Alfred, I need to know what he’s saying.
+
+#### 8a4a4c81fb | ALFRED → PENGUIN | x2
+Drone deployed, sir.
+
+#### 9d76ecc74d | LADYARKHAM → PENGUIN | x2
+--won’t be a problem. You understand?
+
+#### c4ec30f344 | OSWALD, PENGUIN → LADYARKHAM | x6
+I can handle Batman.
+
+#### c91bffa49d | LADYARKHAM → PENGUIN | x2
+See that you do.
+
+#### cfa3816b7a-SM | PENGUIN → LADYARKHAM | x2
+I’ve got something in mind.
+
+#### 0c6ca9d37b | LADYARKHAM → PENGUIN, OSWALD | x4
+--that’s an order! Get out of there.
+
+#### cba016cfe5 | PENGUIN → LADYARKHAM | x2
+Doesn’t mean I can’t have a little fun first.
+
+#### f1296891c7 | PENGUIN → COP01 | x2
+Sacrifices must be made!
+
+#### 82fb745bef | COP02, COP01, SELINA → PENGUIN, BATMAN, COA06 | x8
+Back up!
+
+#### bf6f3331f3 | COP01, LUCIUS → PENGUIN | x4
+Don’t move!
+
+#### 6ff34f3f67 | PENGUIN → COP01 | x2
+Even now they try to stop you!
+
+#### 54d4d7b040 | PENGUIN → COP01 | x2
+Fight back!
+
+#### 2ee6767b1e | BATMAN → GORDON | x2
+Put the gun down!
+
+#### 27cc46b8b2 | GORDON → PENGUIN | x2
+Find the Children of Arkham! No one gets hurt! You hear me?
+
+#### 9b20d6b67f | GORDON → BATMAN | x2
+Focus on the Penguin!
+
+#### 1eea419d79 | GORDON → BATMAN | x2
+You’re making things worse!
+
+#### 3d1e272cd2 | COP01 → GORDON | x2
+Yes, sir!
+
+#### 3a0e0bcae6 | BATMAN → GORDON | x2
+Get me the feed from the docks.
+
+#### f286167b6a | GOON01 → LADYARKHAM | x2
+Almost.
+
+#### 3a77fe4eec | LADYARKHAM → COP01 | x2
+Is that the last of it?
+
+#### c33cbe7cf9 | LADYARKHAM → BATMAN | x2
+Hurry it up.
+
+#### c99412f229-SF | LADYARKHAM → GOON01 | x2
+I’ve got an appointment to keep.
+
+#### 68b4e756f5 | ALFRED → LADYARKHAM | x2
+That’s their leader. You’d better get down there.
+
+#### 9926617db9 | LADYARKHAM → OSWALD | x2
+--with the crowd. Tell them what they want to hear.
+
+#### beb96f2959 | OSWALD → LADYARKHAM | x2
+No worries on that front.
+
+#### e2974b440d | OSWALD → LADYARKHAM | x2
+Doesn’t mean I can’t have a little fun on the way out.
+
+#### 2616e3d9d7 | choice/UI → OSWALD | x2
+2 or 3
+
+#### e4933cbd7e | OSWALD → LADYARKHAM, COA05 | x4
+I’m no different than all of you! My family was ruined! Mother and father killed, land stolen--and for what?
+
+#### c67eaa06ea | OSWALD → COA05 | x4
+For the good of a single family. The Wayne Family.
+
+#### e57b35207c | OSWALD | x8
+For too long, men like Bruce Wayne have used the people of this great city to get what they want!
+
+#### a6a46da28c | OSWALD | x8
+But no more! This is your city--my city!
+
+#### 9e259d726f | OSWALD | x6
+Sacrifices can be made! Recompense should be given!
+
+#### 1c6c334953 | OSWALD | x6
+We are owed!
+
+#### 979a92e862 | OSWALD | x2
+Stop! We want justice not vengeance!
+
+#### 20490660a0 | OSWALD | x2
+Bruce Wayne should be charged to the full extent of the law, vengance will solve nothing! Stop!
+
+#### 349449c4fc | OSWALD | x2
+Don’t be drawn in to their violence!
+
+#### 0e16ed5de8 | OSWALD → LADYARKHAM | x2
+Go home! Leave!
+
+#### 3505bfb403 | OSWALD → LADYARKHAM | x2
+‘Course. I’ve been a saint; they can’t touch me.
+
+#### 0d7424b7f0 | OSWALD → LADYARKHAM | x2
+But the crowd’s buzzing like a hive. Things’ll get worse before they get better.
+
+#### 41ae8c8e3c | OSWALD → LADYARKHAM | x2
+Already good and done. They’re hoppin’ mad, ready to fight.
+
+#### 5835e34c97 | LADYARKHAM → OSWALD | x2
+We have a spark. Now let’s make sure it turns into a blaze.
+
+#### d9bf22e39f | OSWALD → GORDON | x2
+Nothing like a little chaos to make the party, eh?
+
+#### bd2c42f97a | GORDON, GCPD03 → OSWALD, LADYARKHAM, GCPD02 | x6
+We got this!
+
+#### dbd158c093 | GORDON → COP02 | x2
+You both okay?
+
+#### bd2b37a9bd | GORDON → OSWALD | x2
+Oswald, thank you. Now get behind the barricade, go!
+
+#### bc2a3af28a | COP02 → OSWALD | x2
+Mr. Cobblepot, I’ll see you home.
+
+#### c7e210e17c | BATMAN → GORDON | x2
+Get me the feed from Harvey’s car.
+
+#### 2f17e3f927 | COA05 → OSWALD | x2
+Enough talk!
+
+#### 5ce310d680 | ENFORCERLUKE, COA05, VICKI → BRUCE, OSWALD, ZSASZ | x8
+Move!
+
+#### 7ab25df33f | OSWALD → COA05 | x2
+Yeah, he’s here.
+
+#### 8c7d09e5fa | LADYARKHAM → OSWALD | x2
+Right on time. Let the others do the rest.
+
+#### a56f058c7f-LF | OSWALD → LADYARKHAM | x4
+You heard your orders.
+
+#### 83aee8771d | LADYARKHAM → OSWALD | x2
+Squad cars 324, 325, and 393 en route to Dent. 394 deployed. Get your guys over there.
+
+#### 656519e2f0 | COP01 → OSWALD | x2
+Get down on the ground!
+
+#### 42c408c80e | COP02 → BATMAN | x2
+Drop your weapon!
+
+#### f4526c314d-SM | BATMAN → ALFRED | x2
+I need to help Harvey.
+
+#### 0f2340c92f | BATMAN → ALFRED | x2
+I’m going to thenew hospital site.
+
+#### a0abaa2549 | BATMAN → ALFRED | x2
+They seem to be getting info on the GCPD’s whereabouts. Not sure how.
+
+#### 93ec68d741 | GORDON → COP02 | x2
+We’re almost there. Hold your fire!
+
+#### 2a4fc3b3e0-SM | choice/UI → GOON04 | x2
+I stopped an arms deal.
+
+#### abb7462fb5-SM | choice/UI → ALFRED, MONTOYA | x4
+I saved the mayor.
+
+#### 4a6c02b13d | choice/UI → OSWALD | x2
+Sorry I wasn’t here.
+
+#### a398e313dc | choice/UI → OSWALD | x2
+My tech is superior.
+
+#### 1eb4ae15af | OSWALD → BATMAN | x2
+Mother and father killed, land stolen--and for what?
+
+#### 4de6b77d18 | COP01 → BATMAN | x2
+Stand down! He’s on our side!
+
+#### 9544bd28e5 | COA05 → GOON01 | x2
+The bat’s helping them!
+
+#### 701c79d2a9 | GOON01 → OSWALD | x2
+Get behind them!
+
+#### cd12a29710 | COP02 → GOON01 | x2
+Over here -- I can’t get an clean shot!
+
+#### 38fbb34fe7 | GOON01 → HARVEY | x2
+They don’t got backup!
+
+#### cbb308f391 | ASSISTANT → HARVEY | x2
+Mister Dent, he’s gaining on us.
+
+#### 60ae3e47b5 | HARVEY → ASSISTANT | x2
+Hang tight, Deborah. I’m turning in here.
+
+#### 9e6d453674 | ALFRED → BRUCE | x2
+Harvey sounds like he’s in danger, Bruce.
+
+#### e8fef1d6db | GORDON → ASSISTANT | x2
+This was a disaster. Everything was just...
+
+#### da5f3b05b8 | GORDON → HARVEY | x2
+One of my guys is dead.
+
+#### fd94b87a65 | GORDON → BATMAN | x2
+Could have used your help earlier.
+
+#### 04a05a1197 | BATMAN → GORDON | x2
+The docks -- it was an arms deal. At least the Children of Arkham will go home empty-handed tonight.
+
+#### ac335b7977 | GORDON → BATMAN | x2
+That’s good. At least we got one thing right.
+
+#### 7813ac2fdf | BATMAN → GORDON | x2
+The Mayor’s safe.
+
+#### 8690f5aa17 | GORDON → BATMAN | x2
+A small mercy. He’s good for this city.
+
+#### f536b10dbc-SM | BATMAN → GORDON | x2
+I’m sorry I couldn’t get here.
+
+#### 8582aa6982 | GORDON → BATMAN | x2
+You’re one guy, Batman. I know that.
+
+#### c83dbcbaa8 | GORDON, BRUCE → BATMAN, GORDON | x8
+Damn.
+
+#### 4fe6e9400d | GORDON → BATMAN | x2
+Tonight... it was a trainwreck. Not your fault *or* mine.
+
+#### dc1b00084c | GORDON → BATMAN | x2
+I just don’t understand! It wasn’t just spreading us thin--
+
+#### f0303be0bb | GORDON → BATMAN | x2
+The Children of Arkham were one step ahead of us the whole night. Like they knew where we’d be.
+
+#### 3a3bbe4608-SM | BATMAN → GORDON | x2
+After I switched to my private line, they weren’t ready for me.
+
+#### c7a1a3a6b0 | GORDON → BATMAN | x2
+And what the hell’s that supposed to mean?
+
+#### 2c6fd278c2 | BATMAN → GORDON | x2
+There might be a mole inside the GCPD.
+
+#### a7bfb5d7f8 | GORDON → BATMAN | x6
+Crap.
+
+#### 880c072d46 | BATMAN → GORDON | x2
+I have better tech than you do.
+
+#### 5bcbbded75 | BATMAN → GORDON | x2
+It’s got better protection on it than yours does.
+
+#### f5ff156229 | BATMAN → GORDON | x2
+Your comms have been compromised. You’ve been hacked.
+
+#### fdbd868019 | GORDON → BATMAN | x2
+You think we’re bugged.
+
+#### 7119308976-SM | GORDON → BATMAN | x2
+I’m too tired to play guessing games right now.
+
+#### f512dcac3b | BRUCE, GORDON, LUCIUS → OSWALD, BATMAN, REGINA | x9
+Just tell me.
+
+#### 9cdc71399b | GORDON → BATMAN | x2
+I have to tell the Commissioner about this.
+
+#### 454509a82a | GORDON → BATMAN | x2
+As much as I hate to say it -- you should come along.
+
+#### 1973549bd4-SM | BATMAN → GORDON | x2
+I thought he wasn’t a fan.
+
+#### 0d2b2f6c92 | GORDON → BATMAN | x2
+I didn’t say he’d be happy about it. But this...
+
+#### 865406cde5-LM | GORDON → BATMAN | x1
+If you’re so sure, you can be the one to explain it.
+
+#### 08a576abe3 | LADYARKHAM → GORDON, ALFRED | x2
+Now that wasn’t so hard, was it?
+
+#### 501dbcfacb-LM | DEALER → ALFRED | x2
+Yeah, sure. You got the guns you wanted, anyway.
+
+#### e40c224c60 | LADYARKHAM → ALFRED | x2
+And the Children of Arkham are grateful.
+
+#### f446c37fa3 | GOON01 → LADYARKHAM | x2
+Uh, last of the crates getting loaded now.
+
+#### f239ffbb3e | COA06 → COP02 | x4
+On our way.
+
+#### 4e53b6f759 | COP01 → COP02 | x2
+Get to safety! Move!
+
+#### 0b735cb14e | BATMAN, COP01 → COP02, BATMAN | x4
+Get everyone out of here!
+
+#### 5dc0f6c14c | GORDON → LADYARKHAM | x2
+Freeze!
+
+#### 6582f4c681 | BATMAN, GORDON, LUCIUS, GOON01 → LADYARKHAM, GORDON, BOY | x10
+Get down!
+
+#### fddc4ec6ea | COA05 → LADYARKHAM | x2
+Tonight is our night to take action!
+
+#### f5264aa480 | COA05 → GORDON | x2
+Tonight is our night to finally fight back against those that stand in our way.
+
+#### c2012a3ff8 | COA05 → DEALER | x2
+The golden families of Gotham look down their noses at us, step on our backs to get ahead.
+
+#### cffcc9af60 | COA05 | x2
+They’ve got another damn thing coming!
+
+#### 37bd3247cc | COA05 | x2
+Let’s show ‘em how it feels to be the ones trampled on!
+
+#### 1703267c92 | COA05 | x2
+Fight back with us!
+
+#### 7a3efd9f63 | COA05 | x2
+Together, we will start the fire that will bring this city to its knees!
+
+#### c03287cb44 | COA05 | x2
+We will burn this whole damn place down, and build a new Gotham. A better Gotham!
+
+#### dbd067d9d5 | COA05 | x2
+A Gotham that deserves its people.
+
+#### 4116d6f5f6 | COA05 | x2
+Take back what is rightfully yours!
+
+#### 975f3cf7af | COA05 | x2
+We’ve been given our marching orders-- now’s the time to strike out!
+
+#### c6cab12bd1 | COA05 → GORDON | x2
+Down with everyone that was born with a god damn silver spoon in their mouth!
+
+#### 1ef0428acf | COA05 → GORDON | x2
+Down with Wayne! Down with Wayne! Down with Wayne!
+
+#### 13f820cc46 | COA05 → GORDON | x2
+Down with the Hills. Down with the Dents. Down with the Waynes!
+
+#### ad1205b734 | choice/UI → MONTOYA | x2
+You’re Welcome
+
+#### 6baf40df1d | choice/UI → MONTOYA | x2
+That was Dangerous
+
+#### 73693c7280 | choice/UI → MONTOYA | x2
+Next time stay back
+
+#### d90bdd1f45 | MONTOYA → GORDON | x2
+Wait! Don’t go.
+
+#### 33d6d4a475 | MONTOYA → GORDON, HARVEY | x3
+Look, I promise I’m not gonna shoot you, okay?
+
+#### ba7809020e | choice/UI → MONTOYA | x2
+Don’t cross me.
+
+#### a215edfe2d | choice/UI → MONTOYA | x2
+That would be a first.
+
+#### a850fc2391-LM | MONTOYA → COMMISSIONER | x2
+You helped me out.
+
+#### 7f2997f225 | BATMAN → MONTOYA | x2
+We’re fighting on the same side here. To protect Gotham.
+
+#### 6a9f8db9d7 | MONTOYA → BATMAN | x2
+I know. [quieter]I realize that now.
+
+#### 170fe33924 | BATMAN → MONTOYA | x2
+If I see you touch your gun, you’ll regret it.
+
+#### b932915343 | MONTOYA → BATMAN | x2
+Don’t go running off on me.
+
+#### 88375ec59a | MONTOYA → BATMAN | x2
+Back off, okay? I’m trying to apologize!
+
+#### 65f721d10a | BATMAN → MONTOYA | x2
+And why should I trust you?
+
+#### 9bd7f699e2 | MONTOYA → BATMAN | x2
+Because we both want to save this city. I can see that now.
+
+#### db3de4946d | MONTOYA → BATMAN | x2
+You’re still here. So I guess you believe me.
+
+#### 29d978911c | MONTOYA → BATMAN | x2
+Because I have nothing left to lose.
+
+#### 08ff9cae38 | BATMAN → MONTOYA | x2
+At least we stopped the handoff.
+
+#### 9f1aaf79ae | MONTOYA → BATMAN | x2
+Yeah, but they knew we were coming.
+
+#### c92fa92807 | MONTOYA → BATMAN | x2
+Both of us.
+
+#### 76754ed156-LF | choice/UI → MONTOYA | x2
+Who did you tell?
+
+#### 0ed726c81e | choice/UI → MONTOYA | x2
+They were watching us?
+
+#### daa4395401-LF | choice/UI → MONTOYA | x2
+Were you followed?
+
+#### baf5ba1bca | MONTOYA → BATMAN | x2
+Batman,{FaceAccent} look out!
+
+#### 4747aeac5c | COA01 → MONTOYA | x2
+Right{AmusedA} on time!
+
+#### 7baef7b5e0-SF | MONTOYA → COA01 | x4
+I got this one.
+
+#### 176ce91550 | MONTOYA, BRUCE → COA01, SELINA | x4
+Okay?
+
+#### 251ddbdb07-SF | MONTOYA | x2
+I’m sorry, alright.
+
+#### a255dba1b9-SF | MONTOYA → BATMAN | x2
+They knew I was alone.
+
+#### c49f2de6d7-LM | MONTOYA → BATMAN | x2
+They knew exactly when you were gonna show up.
+
+#### 4b95e553cf | MONTOYA → BATMAN | x2
+Only backed off of me so they could catch you off guard.
+
+#### 63196aee8c-LF | BATMAN → MONTOYA | x2
+Who else knows you were coming here? Who did you tell?
+
+#### 0dec620362 | MONTOYA → BATMAN | x2
+No one. Just Jim.
+
+#### 5578700066 | MONTOYA → BATMAN | x2
+I didn’t even want him knowing about it. Afraid he’d try to send someone after me.
+
+#### bd39a62cd3 | BATMAN → MONTOYA | x2
+If they knew that much, then what other information do they have?
+
+#### 18bb48eb29 | MONTOYA → BATMAN | x2
+Seems like it. But I doubt they’re only monitoring the two of us.
+
+#### 3841dbe3d0 | BATMAN → MONTOYA | x2
+Did anyone follow you here? See anyone sneaking around?
+
+#### 1da1638f51-SF | MONTOYA → BATMAN | x2
+Nobody but you. And I would’ve seen ‘em if they did.
+
+#### 7aafea8cd1-SF | MONTOYA → CHEMTHUG | x2
+After Gordon found out what I was doing, I was worried he’d send someone after me.
+
+#### ae6ecc5fe7 | MONTOYA → CHEMTHUG | x2
+How the hell did they know?
+
+#### ff0e5ef367 | CHEMTHUG → MONTOYA | x2
+Heads up. The cops just sent three black-and-whites to stop our guys going after Dent.
+
+#### 800e72af7d | MONTOYA → CHEMTHUG | x2
+Go. I’ll see what I can find here.
+
+#### 0695df30dd | MONTOYA → CHEMTHUG | x2
+I’m not giving up on this.
+
+#### dde24df9d5-LM | choice/UI → GORDON | x2
+You had good intentions.
+
+#### 6c4f68cee9-LM | choice/UI → GORDON | x2
+You put everyone in danger.
+
+#### 2f42215339 | MONTOYA → GORDON | x2
+He shouldn’t have even been here, Lieutenant!
+
+#### 9873a00e6e-SF | MONTOYA → GORDON | x2
+I did this!
+
+#### 48f62ee8de | GORDON → MONTOYA | x2
+Shouting about it isn’t gonna do him any good.
+
+#### c7ebd4193c | BATMAN, choice/UI, LUCIUS → MONTOYA, ALFRED, BRUCE | x7
+Tell me what happened.
+
+#### 3738494d01 | GORDON → MONTOYA | x3
+They got away. Took one of our guys with them.
+
+#### 755b86cf78 | GORDON → MONTOYA | x2
+One of our officers was shot.
+
+#### 2ef839cba5 | MONTOYA → GORDON | x2
+He’s dead. That’s what he means. He’s dead.
+
+#### 42f3498a8d | MONTOYA → GORDON | x2
+This wouldn’t have happened if I hadn’t followed the Children of Arkham here.
+
+#### 38f795d8a2 | MONTOYA → GORDON | x2
+It’s my fault. I-- I just keep screwing things up!
+
+#### 83407d175b | MONTOYA → GORDON | x2
+Falcone! Letting my guard down...
+
+#### 868c04e3a7-SF | MONTOYA → GORDON | x2
+Thinking I could fix it by coming here...
+
+#### 3717a5dca3 | MONTOYA → GORDON | x2
+And now one of our own is stuck with those monsters.
+
+#### 79adbee0d3 | BATMAN → MONTOYA | x2
+Sounds to me like Gordon{DisgustA} should’ve taken your badge.
+
+#### c284e45e2e | MONTOYA → BATMAN | x2
+Maybe he should’ve.
+
+#### 673feff344 | GORDON → MONTOYA | x2
+Now wait a second!{AngryA} I didn’t say--
+
+#### c29a4ed0cd | MONTOYA → BATMAN | x4
+I’m gonna make this right.{AngryA} I promise.
+
+#### ce134283c9 | BATMAN → MONTOYA | x2
+This isn’t over. We’ll find the Children of Arkham and your missing officer.
+
+#### 5dd7a6b6ed | BATMAN → MONTOYA | x2
+They won’t get away with this.
+
+#### 1b106c1e53 | MONTOYA → BATMAN | x2
+This is Gotham... not some fairytale.
+
+#### e2a6beb3e5 | MONTOYA → BATMAN | x2
+The good guys never win in the end.
+
+#### 83e7277ac5 | GORDON → MONTOYA | x2
+What are you--?
+
+#### 96366f017e | MONTOYA → GORDON | x2
+I’m gonna make this right.
+
+#### bc6c0435b3 | MONTOYA → BATMAN | x2
+I’m gonna make this right.{AngryA} No matter what it takes.
+
+#### a03a3a6afc-LF | BATMAN → MONTOYA | x2
+You were trying to track down their drug shipment. Sure things got messy, but that’s not your fault.
+
+#### d855c715ab | BATMAN → MONTOYA | x2
+Your intentions were good.
+
+#### 3602ce9e12-SF | MONTOYA → BATMAN, GORDON | x4
+I got the force involved. Cost other people their lives.
+
+#### 7ec426da1f | MONTOYA → BATMAN, GORDON | x4
+I’m not gonna let that happen again.
+
+#### 9835d9401e | MONTOYA → BATMAN, GORDON, REGINA | x7
+I’ll make this right. I promise.
+
+#### 58541a43c8 | GORDON → MONTOYA | x4
+Stop. You didn’t--
+
+#### f4872e8059 | GORDON → MONTOYA | x2
+Suppose you know how they got the jump on us?
+
+#### 0b270cd818-SF | MONTOYA → GORDON | x2
+I wish I could believe that.
+
+#### 9483922e8c | choice/UI → GORDON | x2
+They were tracking us?
+
+#### aa8a3e421e | BATMAN → MONTOYA | x2
+That means they’d have to be watching us. To know where we’d be exactly.
+
+#### bef3f7d7ae-LF | BATMAN → MONTOYA | x2
+That would make this the first time you didn’t try to shoot me the moment you saw me.
+.
+
+#### cc60a567f6 | MONTOYA → BATMAN | x2
+I know we’re on the same side now. And I want to apologize.
+
+#### e6a8488f25 | MONTOYA → BATMAN | x2
+You’re trying to protect this city. I see that now.
+
+#### a8978999f9 | choice/UI → MONTOYA | x2
+You should be sorry.
+
+#### 4d2b3c871a | choice/UI → MONTOYA | x2
+I don’t want your apology.
+
+#### cfb46c1979 | choice/UI → MONTOYA | x2
+You didn’t blow it.
+
+#### 44efe84fa3 | choice/UI | x2
+You have good instincts.
+
+#### 1f5412c3b6 | choice/UI | x4
+That was reckless.
+
+#### 099d26532c | choice/UI | x2
+It’s possible.
+
+#### 11c6b563e4 | choice/UI → MONTOYA | x2
+Can’t be everywhere.
+
+#### ef1f02676a | choice/UI → MONTOYA | x2
+I don’t answer to you!
+
+#### 7fef9e0ad9 | BATMAN → MONTOYA | x2
+It’s over. Drop the gun.
+
+#### 4ba977b4f9-SF-LM | MONTOYA → BATMAN, HARVEY | x3
+I used to think you were a threat. But... I was wrong. We both have much bigger problems right now.
+
+#### d553458175 | MONTOYA → BATMAN | x2
+Someone’s gotta help Gordon. They know he’s coming.
+
+#### 02c94db522 | BATMAN → MONTOYA | x2
+Good. You should be sorry.
+
+#### d1f6783488 | MONTOYA → BATMAN | x2
+We’re both fighting on the same side here.
+
+#### 21b449c017 | MONTOYA → BATMAN | x2
+Trying to save Gotham.
+
+#### 407248b975 | MONTOYA → BATMAN | x2
+Those guys had me pinned down.
+
+#### f728bde4d1-LM | MONTOYA → BATMAN | x2
+If you hadn’t shown up when you did...[wrestling emotion]
+
+#### f6984edb28-SF | MONTOYA → BATMAN | x2
+I’m just glad we’re fighting on the same side.
+
+#### d7ba0383b4 | MONTOYA → BATMAN | x2
+Yeah. Right. Okay. I guess I deserve that.
+
+#### d9318630b5-LF | BATMAN → MONTOYA | x2
+I’m not here to make you feel better about yourself.
+
+#### b0032188f4-SF | MONTOYA → BATMAN | x2
+I just want you to know... I’ve got your back, alright.
+
+#### 5cab32c2a7 | BATMAN → MONTOYA | x2
+It’s okay. It’s in the past.
+
+#### 06e76b75aa | MONTOYA → BATMAN | x2
+Thank you... means a lot coming from you.
+
+#### 39a21736a0-SF | MONTOYA → BATMAN | x2
+I don’t know what I was thinking, coming out here alone.
+
+#### 2797d885b7 | MONTOYA → BATMAN | x2
+I nearly blew it.
+
+#### 34f33ad737-SF | MONTOYA → BATMAN | x2
+I could be dead.
+
+#### bc29356db1-LM | MONTOYA → BATMAN | x2
+Or you could be dead!
+
+#### 83bd1562ac | BATMAN → MONTOYA | x2
+Sometimes the risk is worth it.
+
+#### d5bd35b052 | MONTOYA → BATMAN | x2
+I’ll keep that in mind.
+
+#### 1d11ad04c1-LF | BATMAN → MONTOYA | x2
+Good instincts, but you need to think things through. Be patient. Don’t rush.
+
+#### 6e89d411c6 | MONTOYA → BATMAN | x2
+Yeah. I owe you big for this one.
+
+#### a4e56552ef | BATMAN → MONTOYA | x2
+I may not be there to save you next time.
+
+#### 3da8ffc4dc | BATMAN → MONTOYA | x2
+This was reckless.
+
+#### f7e62d9cc5-SM-LF | BATMAN → MONTOYA | x2
+You’re lucky I was here to clean up the mess you made.
+
+#### 660f9efff3 | MONTOYA → BATMAN | x2
+You’re one to talk. I don’t need a lecture coming from you, Batman.
+
+#### f0484d0918-SF | MONTOYA → BATMAN | x2
+I still don’t understand how they knew I was coming.
+
+#### 9717e16d24 | MONTOYA → BATMAN | x2
+I didn’t open a case file. My contacts don’t even know I’m a cop.
+
+#### 03c06b920c-SF | MONTOYA → BATMAN | x2
+I was tailing them all day. I’m telling you, they had no clue I was here.
+
+#### 8538df9f4f | BATMAN → MONTOYA | x2
+Gordon knew.
+
+#### dc940b8e4b-SF | MONTOYA → BATMAN | x2
+Yeah, I mentioned something to him, but... [beat]You don’t think...?
+
+#### 50abed17ad | MONTOYA → BATMAN | x2
+Not Gordon.
+
+#### 7807a8e99a | MONTOYA → BATMAN | x2
+He wouldn’t tell anyone.
+
+#### f8b54b92be | BATMAN → MONTOYA | x2
+I trust Gordon. He’s a good cop.
+
+#### 21c5ddd271 | BATMAN → MONTOYA | x4
+There has to be something else going on. Let’s look around.
+
+#### ac3922def9 | BATMAN → MONTOYA | x2
+Don’t be stupid. You really think James Gordon would double-cross you?
+
+#### f7b973f2fa-SF | MONTOYA → BATMAN | x2
+I never said that...
+
+#### a968d752ec | MONTOYA → BATMAN | x2
+Yeah, I know.
+
+#### df8e49f0a9 | BATMAN → MONTOYA | x2
+People are capable of anything. If he’s a problem, we need to find out.
+
+#### 418ed53f23 | BATMAN → MONTOYA | x2
+It’s a last resort. We should look around first.
+
+#### 709041ce74 | MONTOYA → BATMAN | x2
+I wasn’t seriously suggesting Gordon...
+
+#### 2ec9460aca | MONTOYA → BATMAN | x2
+Can you forgive me?
+
+#### 8ba134d262 | BATMAN → MONTOYA | x2
+Every time we meet you’re pointing a gun in my face.
+
+#### dacbc11743 | MONTOYA → BATMAN | x2
+Sure could’ve used your help ten minutes ago.
+
+#### 41f0e2f143 | BATMAN → MONTOYA | x2
+You want forgiveness look somewhere else.
+
+#### 97fee83b83 | BATMAN → MONTOYA | x2
+You want forgiveness find a priest.
+
+#### d469debf0c | MONTOYA → BATMAN | x2
+And It’d be on me.
+
+#### 4dc6750061 | MONTOYA → BATMAN | x2
+I don’t take that lightly you know.
+
+#### 60f41505a4-LF | BATMAN → MONTOYA | x2
+Don’t beat yourself up. You did a lot of good here today.
+
+#### 0b5122b307 | MONTOYA → BATMAN | x2
+We should look around. Find out for sure.
+
+#### b6ad3b1e34 | BATMAN → MONTOYA | x2
+I can’t be everywhere at once.
+
+#### 37a98c8720 | BRUCE, choice/UI, MONTOYA → HARVEY, REPORTER01, NURSE | x55
+Sure.
+
+#### fd0f1a0974-SM | BATMAN → MONTOYA | x2
+I was out there saving{DisgustA} the mayor’s life.
+
+#### 86add320f4 | MONTOYA → BATMAN | x2
+...I didn’t know.
+
+#### 0cbf9f11f0 | BATMAN → MONTOYA | x2
+I don’t answer to you.{AngryB} Back off.
+
+#### 85ba852010 | MONTOYA → BATMAN | x2
+Just stroll in to survey the damage.
+
+#### b883bb6064 | MONTOYA → BATMAN | x2
+That’s what we need.
+
+#### 8fa723aac4 | MONTOYA | x2
+Typical.
+
+#### 8b5fe7b2cf | MONTOYA → BATMAN | x2
+Go ahead. Say it. This is my fault.
+
+#### 8ff00aa452-SF | MONTOYA → BATMAN | x2
+I followed them. I got ambushed.
+
+#### d2b006f4fa | MONTOYA → BATMAN | x2
+They got away with the drugs and we all paid the price.
+
+#### 37ba636f04-LF | BATMAN → MONTOYA | x2
+You went rogue, {AngryB}put everyone in danger.
+
+#### 5d722745dd | choice/UI → MONTOYA | x2
+I’ll make them pay.
+

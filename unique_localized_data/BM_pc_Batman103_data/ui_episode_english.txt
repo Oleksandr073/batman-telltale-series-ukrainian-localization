@@ -1,0 +1,119 @@
+﻿#### e9a712c8b6 | choice/UI | x2
+^color:#cbd6db^^font:GameplayBodyMedium^A Telltale story by
+^^NICOLE MARTINEZ
+^^EMILY GARRISON
+
+#### 26d45c4bd8 | choice/UI | x2
+^color:#cbd6db^^font:GameplayBodyMedium^Episode Directed by
+^^JASON PYKE
+
+#### 037f8b9dbf | choice/UI | x2
+^color:#cbd6db^^font:GameplayBodyMedium^Choreography
+^^MICHAEL GAMBINO
+
+#### 8d1512a7e7 | choice/UI | x2
+^color:#cbd6db^^font:GameplayBodyMedium^Programming
+^^GREG FELBER
+
+#### da3180c02d | choice/UI | x4
+Crime Alley, 5:38 AM
+
+#### c13f07f822 | choice/UI | x4
+GCPD, 8:56 AM
+
+#### d4ebd24338 | choice/UI | x4
+Skyline Club, 5:38 PM
+
+#### f9dcf54623 | choice/UI | x4
+Skyline Club, 6:26 PM
+
+#### 1be733ef26 | choice/UI | x4
+City Hall, 8:02 PM
+
+#### 192a3ecd21 | choice/UI | x4
+City Hall, 8:11 PM
+
+#### cc401a9631 | choice/UI | x4
+Wayne Memorial Auditorium, 9:27 PM
+
+#### 8ee95560e9 | choice/UI | x4
+GCPD, 10:27 AM
+
+#### cea7b42ceb | choice/UI | x6
+Regina will remember that.
+
+#### 78f4b89738 | choice/UI | x6
+Deborah will remember that.
+
+#### 22489f5102-L? | choice/UI | x4
+You played the odds.
+
+#### 9fec9deb4c | choice/UI | x4
+Unlock the secret entrance.
+
+#### 9a4f7ede68-SM | choice/UI | x4
+Ladies and gentlemen, in light of recent allegations against my family, I have decided to voluntarily step down as CEO of Wayne Enterprises.
+
+#### 9d0eadd0f8 | choice/UI | x4
+It is important that I stress now that Wayne Enterprises is free of the corruption brought forth by the Wayne family. The company is not responsible for any wrongdoing.
+
+#### 669d6e6729 | choice/UI | x4
+The company is in great hands. Oswald Cobblepot will lead Wayne Enterprises and Gotham City into a new era of financial prosperity.
+And with that... Oswald Cobblepot!
+
+#### 4137de3d45 | choice/UI | x6
+^glyphScale:1.25^Gotham General Hospital
+^glyphScale:.6^8:45 PM
+
+#### fede33bd13 | choice/UI | x4
+^glyphScale:1.25^GCPD
+^glyphScale:.6^12:05 AM
+
+#### 1da05d9fbd | choice/UI | x4
+^glyphScale:1.25^Wayne Tower
+^glyphScale:.6^7:29 AM
+
+#### 3e7d4eb2e8 | choice/UI | x4
+^glyphScale:1.25^City Hall
+^glyphScale:.6^6:07 PM
+
+#### e1afdde5ca | choice/UI | x4
+^glyphScale:1.25^Cobblepot Park
+^glyphScale:.6^7:15 PM
+
+#### 4d087eb8d7 | choice/UI | x6
+^glyphScale:1.25^Sky Train Depot
+^glyphScale:.6^ 8:55 PM
+
+#### 62732e6918 | choice/UI | x4
+^glyphScale:1.25^Selina’s Apartment
+^glyphScale:.6^11:58 PM
+
+#### c4bdad209e | choice/UI | x4
+INSTALLING...
+
+#### 1f2a1b6c89 | choice/UI | x2
+You can read the article in your codex menu.
+
+#### f2f0153de1 | choice/UI | x2
+SCANNING BACK DOOR
+
+#### 30ac020155 | choice/UI | x2
+RECORDING...
+
+#### c3dc592630 | choice/UI | x2
+Monitor the drones on your gauntlet.
+
+#### bd52de3f9e | choice/UI | x2
+Check for upgrades and then hide your Bat Tech.
+
+#### b48789f888 | choice/UI | x2
+UNAUTHORIZED
+ENCRYPTION
+
+#### 2bc00c287d | choice/UI → REGINA | x2
+Regina
+
+#### 896466123d | choice/UI | x2
+MUTE
+

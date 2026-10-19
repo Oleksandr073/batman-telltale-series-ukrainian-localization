@@ -1,0 +1,186 @@
+﻿#### 73d893441a | choice/UI | x2
+Use Bat-Tech to reveal heat signatures of a survivor.
+
+#### c00d5c584c | choice/UI | x6
+Analyze the drone to determine its modifications and origin.
+
+#### fe932f3f9f | choice/UI | x2
+^glyphScale:1.25^Arkham Asylum
+^glyphScale:.6^12:15 AM
+
+#### 8a0cf91f9b | choice/UI | x2
+^color:#cbd6db^^font:GameplayBodyMedium^Programming
+^^TULLEY RAFFERTY
+
+#### 7f3734d7b4 | choice/UI | x2
+^glyphScale:1.25^Cobblepot Park
+^glyphScale:.6^5:45 AM
+
+#### 6a5d52090f | choice/UI | x2
+^glyphScale:1.25^GCPD Headquarters
+^glyphScale:.6^6:30 PM
+
+#### 066e5d368a | choice/UI | x2
+^color:#cbd6db^^font:GameplayBodyMedium^Choreography
+^^DANIEL ROSALES
+
+#### e96b3fd262 | choice/UI | x2
+^color:#cbd6db^^font:GameplayBodyMedium^A Telltale story by
+^^MEGHAN THORNTON
+^^CHRIS HOCKABOUT
+
+#### f1c50aebb8 | choice/UI | x2
+Create an antidote by analyzing the Drug Molecule and your DNA sequence.
+
+#### 30bb7e103f | choice/UI | x2
+He’s on to you.
+
+#### a380ffd023-L? | choice/UI | x2
+You distracted him.
+
+#### 4939d1fc6c | choice/UI | x2
+Selina will remember this.
+
+#### 58f9642839 | choice/UI | x2
+Lady Arkham will remember that.
+
+#### 2c32a1520a | choice/UI | x2
+Gotham will remember that.
+
+#### 39c407fb45 | choice/UI | x2
+Self Diagnostic Repair^^
+^font:GameplayBodySmall.font^^color:#aed5d4^^glyphScale:.5^Preparing for recovery...
+
+#### d1c121c851 | choice/UI | x2
+THE VALES
+
+#### d5f29ae6cd | choice/UI | x2
+LADY ARKHAM
+
+#### b0e587946d | choice/UI | x2
+CHILDREN OF ARKHAM
+
+#### d39e16bbc4 | choice/UI | x2
+^glyphScale:1.25^One Year Ago
+
+#### fb78eb0514 | choice/UI | x2
+^glyphScale:1.25^Five Days Later
+
+#### cdc7da2cd2 | choice/UI | x2
+^glyphScale:1.25^Vale Residence
+^glyphScale:.6^8:38 PM
+
+#### 8cdbd05754 | choice/UI | x2
+WAYNE ENTERPRISE LOG IN
+
+#### 5511c161a9 | choice/UI | x2
+LADY ARKHAM FILE
+
+#### 0b99cebe56 | choice/UI | x2
+ERROR
+
+#### ddf2d39783 | choice/UI | x2
+Wayne enterprise
+Administrative system
+
+#### 63604a8408 | choice/UI | x2
+LOG IN
+
+#### b1796340aa | choice/UI | x2
+RECENTLY MODIFIED
+
+#### 1e3635f413 | choice/UI | x2
+FINANCIAL
+REPORT
+
+#### 153e04c415 | choice/UI | x2
+REAL ESTATE
+
+#### 620218ee3e | choice/UI | x2
+RECORDS
+
+#### 0a7b77e1bf | choice/UI | x2
+SECURITY
+
+#### b32cd529c7 | choice/UI | x2
+SERVEILLANCE
+
+#### b8be3c759e | choice/UI | x2
+BRUCE
+
+#### f57b218ba1 | choice/UI | x2
+OSWALD
+
+#### a9002104d2 | choice/UI | x2
+VICTORIA VALE
+
+#### 91be3ff513 | choice/UI | x2
+Use the Bat Cowl to virtually investigate Alfred’s surroundings.
+
+#### 22a4ec12c6 | choice/UI | x2
+Tap filters to narrow down your search.
+
+#### f68ea4b1ef | choice/UI | x2
+Determine the link between Oswald Cobblepot and Vicki Vale
+
+#### 5ec85d505c | choice/UI | x2
+Investigate the damaged drone.
+
+#### 238e09c284 | choice/UI | x2
+FILTER ONE
+
+#### caa5fe4b7a | choice/UI | x2
+FILTER TWO
+
+#### fd3857669f | choice/UI | x2
+FILTER THREE
+
+#### 099a157f2b | choice/UI | x2
+FILTER FOUR
+
+#### 7de3a81c06 | choice/UI | x2
+N 34° 9’ 7.456’‘
+W 118° 20’ 10.917’‘
+
+#### 1533afa615 | choice/UI | x2
+N 34° 8’ 55.433’‘
+W 118° 20’ 19.27’‘
+
+#### 0f9adb6893 | choice/UI | x2
+N 38° 0’ 16.404’‘
+W 122° 32’ 16.718’‘
+
+#### 8e83f4abf7 | choice/UI | x2
+LOCATION DETAILS
+
+#### 5ee6f85b2d | choice/UI | x2
+RENDERING
+
+#### c22d07d0fb | choice/UI | x2
+CAN ANYONE STOP
+LADY ARKHAM?
+
+#### 6b79ac336e | choice/UI | x4
+Logging In...
+
+#### 9caa850154 | choice/UI | x2
+MORE THAN 6 WEEKS AGO
+
+#### fc3404d146-L? | choice/UI | x2
+You’ve discovered a clue to Lady Arkham’s plan.
+
+#### 6b4a3e451f | choice/UI | x2
+UNMATCHED DNA
+
+#### 650ffe2ad4 | choice/UI | x2
+^glyphScale:1.25^A Week Later...
+
+#### 4f90194823 | choice/UI | x2
+Use Reticle to select filters. Press <ui_notification_mouseLeftClick.d3dtx:-20> to apply filter.
+
+#### 8a09dd5741 | choice/UI | x2
+Use <ui_batComputer_legendDpadUpDown.d3dtx:-12> to toggle filters. <ui_notification_facebuttonDown:-20> to apply filter.
+
+#### 10145b27a3 | choice/UI | x2
+Inspect the remaining locations.
+

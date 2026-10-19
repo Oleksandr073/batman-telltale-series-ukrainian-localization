@@ -1,0 +1,2238 @@
+﻿#### 3ff2d2c42f | ALFRED → BRUCE | x2
+There we are. The Bat Computer should be fully functional again.
+
+#### 378be698ea | BRUCE → ALFRED | x2
+Time to figure out what Lady Arkham has been up to.
+
+#### 1a7d141aaa | BRUCE → ALFRED | x2
+She’s been too quiet.
+
+#### e1ee31aecc | ALFRED → BRUCE | x2
+Perhaps she’s gone to ground.
+
+#### 11ea17e2e7 | choice/UI → ALFRED | x2
+We need to find her.
+
+#### 208d42a902 | choice/UI → ALFRED | x2
+She’s got nothing left.
+
+#### c86e6dfe54-LM | BRUCE → ALFRED | x2
+I hope you’re right, Alfred.
+
+#### ab3367b8cb | BRUCE → ALFRED | x2
+...cause I for one, could use a vacation.
+
+#### c95cf565d7 | ALFRED → BRUCE | x2
+And where would you go?
+
+#### 0b72571490 | BRUCE → ALFRED | x2
+Maybe the East Side. I hear there’s a fantastic sushi place that just opened up.
+
+#### 5b8fa4485b | BRUCE → ALFRED | x2
+Wherever she is, you can bet she’s planning something. We need to find her.
+
+#### cce651fa2e | BRUCE → ALFRED | x2
+I hear there’s a fantastic sushi place--that’s a front for human trafficking.
+
+#### d2e4c47192-LM | ALFRED → BRUCE | x2
+Sounds delightful. In all seriousness though, Bruce. You need to give yourself a rest.
+
+#### f6da2a68ae | BRUCE → ALFRED | x2
+Maybe the East Side. There’s a fantastic sushi place that just opened up.
+
+#### d2288f3b95-LM | ALFRED → BRUCE | x2
+I only wish you could rest. The last few weeks. They’ve been... trying.
+
+#### 86996b5ea2 | BRUCE → ALFRED | x2
+Rumor is that it’s a front for human trafficking.
+
+#### 0dd66eeebd | BRUCE → ALFRED | x2
+I’ve taken out her biggest player. She’s done. But you know how I feel about loose ends...
+
+#### 2d67ba81a3 | ALFRED → BRUCE | x2
+Let’s hope she’s an easy one to tie up.
+
+#### dd9b5e2178-LM | ALFRED → BRUCE | x2
+You could use the rest. After all that’s happened...
+
+#### 429bc1ba1b | BRUCE → ALFRED | x4
+With Penguin and Harvey out of the picture, Lady Arkham is next on my list.
+
+#### 0cd3393c39 | BRUCE → ALFRED | x2
+But I’m
+
+#### 399b6fbc68 | ALFRED → BRUCE | x2
+How about now?
+
+#### 1453146f28 | ALFRED → BRUCE | x2
+We need Lucius.
+
+#### 9bbb6e4d13-SM | BRUCE → ALFRED, LUCIUS | x4
+I know, I know, I’ve called him and he’ll come as soon as he can...just try this one.
+
+#### ab2dfd53df | BRUCE → ALFRED, LUCIUS | x4
+Yes, that’s it!
+
+#### 83596b399c | choice/UI → ALFRED | x2
+We’ll manage.
+
+#### 6a0c16ff76 | choice/UI → ALFRED | x2
+It’s unfortunate.
+
+#### 5e6796811f | choice/UI → ALFRED | x2
+We don’t need it.
+
+#### 3c147638bc | BRUCE → ALFRED | x2
+Well, it’s better than nothing.
+
+#### 727455f0f5 | BRUCE → ALFRED | x2
+We’re still cut off from the extended network, but it’s a start.
+
+#### 594743702b | BRUCE → ALFRED | x2
+Well, that sucks.
+
+#### 689d334c1b-LM | ALFRED → BRUCE | x4
+You’re disconnected from the primary network, but... some basic functionality seems to remain.
+
+#### 692cdff4a2 | BRUCE → ALFRED | x2
+Looks like we’re doing things the old-fashioned way.
+
+#### 3292293c71 | BRUCE → ALFRED | x4
+We need to find out what Lady Arkham’s been up to.
+
+#### 321e4193d6 | ALFRED → BRUCE | x2
+...facing off against Harvey and Oswald in a matter of days.
+
+#### 323011ef48 | ALFRED → BRUCE | x2
+N-Not just the physical toll...
+
+#### af0d7dc86a-LM | ALFRED → BRUCE | x2
+Those were men you once trusted. And after finding out what you did about your father...
+
+#### 82df9a728c | ALFRED → BRUCE | x2
+People must seem a great disappointment to you.
+
+#### d7bd4778a1-LM | choice/UI → ALFRED | x4
+I have you, Alfred.
+
+#### bbd5befdbe | choice/UI → ALFRED | x4
+I haven’t given up hope.
+
+#### c1bc266357-SM | BRUCE → ALFRED | x2
+They usually are disappointing. The only person I count on is myself.
+
+#### 9270e706c9 | ALFRED → BRUCE | x4
+Perhaps that’s best, sir.
+
+#### b1edf82c8c-LM | BRUCE → ALFRED | x4
+Not all people. You’ve never disappointed me, Alfred.
+
+#### 898e7b8032 | ALFRED → BRUCE | x4
+I-- Thank you, Bruce.
+
+#### 3a4392c2b8 | BRUCE → ALFRED | x4
+Not everyone is like my father or Oswald. And what Harvey became... it wasn’t by choice.
+
+#### 458d3f1da1 | BRUCE → ALFRED | x4
+Don’t worry, Alfred. I haven’t given up on people.
+
+#### 6577db154c-SM | ALFRED → BRUCE | x6
+I’m relieved.
+
+#### 184a9a8dfd-LM | ALFRED → BRUCE | x2
+Lieutenant Gordon will be okay. He’s lucky you arrived when you did.
+
+#### 211ecb88cb | BRUCE → ALFRED | x2
+Commissioner Grogan wasn’t so lucky.
+
+#### 741012f06c | BRUCE → ALFRED | x2
+Neither were the people Harvey killed.
+
+#### f14544a821-LM | ALFRED → BRUCE | x2
+You did all that you could.
+
+#### 53b50b9c62 | choice/UI → ALFRED | x2
+It’s never enough.
+
+#### 410002c80f | choice/UI → ALFRED | x2
+He got what he deserved.
+
+#### 692bebb14f | choice/UI → ALFRED | x2
+I’ll make sure he gets help.
+
+#### efb3a85c98-SM | choice/UI → ALFRED | x2
+He wasn’t the Harvey I knew.
+
+#### 9a9c19af33-SM | BRUCE → ALFRED | x2
+I put Harvey where he belongs.
+
+#### e886d2abb4 | ALFRED → BRUCE | x2
+He’ll get the care he needs.
+
+#### 33797a3ace | BRUCE → ALFRED | x2
+I’m going to help him, Alfred. Visit him, make sure he gets the care he needs.
+
+#### 9c642f95c1 | BRUCE → ALFRED | x2
+There’s still a chance he’ll come around.
+
+#### 2ac38fd9f4 | BRUCE → ALFRED | x2
+Whoever that murderer was, he wasn’t Harvey.
+
+#### bedbc068c3 | BRUCE → ALFRED | x2
+Harvey’s gone.
+
+#### 245f768ec3 | BRUCE → ALFRED | x2
+He’s not my concern right now.
+
+#### 428d35b92f | ALFRED → BRUCE, FAIRCHILD | x6
+Perhaps.
+
+#### 1154fc8ba3-SM | BRUCE → ALFRED | x2
+But right now I’m worried about someone else...
+
+#### d429bc1c9c | BRUCE → LADYARKHAM | x2
+But the Children of Arkham are still out there. Lady Arkham...
+
+#### 806170a708 | BRUCE → ALFRED | x2
+...one of Lucius’ prototypes -- on the move.
+
+#### 5e4585de43 | ALFRED → BRUCE | x2
+What? But Lucius locked everything away. Unless Penguin--
+
+#### 89a351454f | BRUCE → ALFRED | x2
+It wasn’t Penguin.
+
+#### 5e23ef47e1 | ALFRED → BRUCE | x2
+Isn’t that your motorcycle, sir?
+
+#### 954dde0bf9 | BRUCE → LUCIUS | x4
+Lucius, where are you?
+
+#### f155c0a10f-SM | LUCIUS → BRUCE | x4
+I was held up at the lab. Literally.
+
+#### 9b360afc78 | LUCIUS → BRUCE | x2
+Your “friend,“ Selina Kyle? She took one of the bat-weapon prototypes!
+
+#### 93da5e6c6f | LUCIUS → BRUCE | x2
+She just left. I don’t think you’ll have trouble spotting her.
+
+#### 614fa7c4b6 | BRUCE → LUCIUS | x2
+Why’s that?
+
+#### 81beac6328 | LUCIUS → BRUCE | x2
+She’s on one of your bikes. The red one.
+
+#### d0335967bc | ALFRED → LUCIUS | x2
+Shall I get the car?
+
+#### ef58c94631-SM | LUCIUS → BRUCE | x2
+I was held up at the lab. One of the prototype’s gone missing. I tracked it down to a gas station outside of town. The thief showed up on the cameras. [pause] Selina Kyle.
+
+#### b4d4ccbcbe | BRUCE → LUCIUS | x2
+How do you know it was the thief?
+
+#### 86d2dd891c | LUCIUS → BRUCE | x2
+It was Selina Kyle.
+
+#### 15708c848b | LUCIUS → BRUCE | x2
+One more thing. She stole the Ducati.
+
+#### 028cac32cf | choice/UI → LUCIUS | x2
+It’s better forgotten.
+
+#### 84adce3f8f-SM | choice/UI → LUCIUS | x2
+I needed to protect Batman.
+
+#### 824048dfb8 | choice/UI → LUCIUS | x2
+I regret it.
+
+#### d8c2bdb752-SM | choice/UI | x2
+I had to stop Penguin.
+
+#### a020bfa7d6 | choice/UI | x2
+I miss my gadgets.
+
+#### 5b6577cc45 | choice/UI | x2
+I miss my tech.
+
+#### 7f916c37d7 | choice/UI | x2
+The city needs Gordon.
+
+#### 62ff7183db | choice/UI | x2
+He deserved better.
+
+#### 1e92e3813c | choice/UI | x2
+He wasn’t a friend.
+
+#### 42cb244085 | choice/UI | x2
+He’s just another criminal.
+
+#### 0deeac9dbf | choice/UI | x2
+I’m still here, she can’t be finished.
+
+#### b8f7786220 | choice/UI | x2
+She’s planning something...
+
+#### cd64345da5-L? | choice/UI | x2
+I hope you’re right.
+
+#### f2a5c1b69c | choice/UI | x2
+She must have a reason.
+
+#### 7de4d35c07 | choice/UI → ALFRED | x2
+She betrayed me!
+
+#### 7dfc50173c | choice/UI → ALFRED | x2
+Think it’s foreplay?
+
+#### 1fe619d0df | choice/UI → ALFRED | x4
+She’s messing with me.
+
+#### 3c2f4d0b45 | choice/UI → ALFRED | x2
+She’s teasing me.
+
+#### 1fb0dd3c75-LM | ALFRED → BRUCE | x4
+Thought you could use a bit of refreshment. You’ve been at it for a while.
+
+#### 0f72aefec9-SM | ALFRED → BRUCE | x2
+Your usual tea, and the entire pantry, I’m afraid, didn’t survive the fire. This is from my own personal supply.
+
+#### c06da76f53-SM | BRUCE → ALFRED | x2
+I’m honored.
+
+#### 01832be878 | ALFRED → BRUCE | x2
+To see the manor reduced to such a state...
+
+#### 77491800ea | BRUCE → ALFRED | x2
+This house is just brick and mortar.
+
+#### f55535e0b8 | BRUCE → ALFRED | x2
+...but you and I -- the fact that we’re still here -- that’s what makes it a home.
+
+#### 2a66359c25 | ALFRED → BRUCE | x2
+You couldn’t be more right.
+
+#### cc91fa596c | BRUCE → ALFRED | x2
+Well, we did need a new kitchen...
+
+#### ea681ba46d | BRUCE → ALFRED | x2
+Maybe add a lap pool.
+
+#### 7bc82821e3-SM | ALFRED → BRUCE | x2
+I quite liked the house the way it was...
+
+#### 5be8e7c68a | ALFRED → BRUCE | x2
+...though, I suppose there is something to moving on.
+
+#### 868e71f79c-LM | BRUCE → ALFRED | x2
+On the bright side, you have always loved a good cleaning challenge.
+
+#### 58c22b9659-LM | ALFRED → BRUCE | x2
+And you have always loved making a mess.
+
+#### d26fabfcad | ALFRED → BRUCE | x2
+I’ve half a mind to take a vacation after this mess.
+
+#### ed8b15ec70 | ALFRED → BRUCE | x2
+I’m only thirty years overdue.
+
+#### 227b3a32ea | BRUCE → ALFRED | x2
+Harvey left a lot of damage in his wake.
+
+#### e83996c0b4-LM | ALFRED → BRUCE | x2
+You faced an impossible choice, Bruce.
+
+#### e76cb29d35 | ALFRED → BRUCE | x2
+If you hadn’t stopped Penguin, you’d have lost the bat-computer.
+
+#### 2f1a6b82a0 | ALFRED → BRUCE | x2
+The cost was high, but surely you know it was necessary?
+
+#### d73d211dca | ALFRED → BRUCE | x2
+You couldn’t have known that Harvey would attack the GCPD.
+
+#### e80391766c | ALFRED → BRUCE | x2
+It would have crippled your ability to fight as Batman.
+
+#### 593cac29e3 | ALFRED → BRUCE | x2
+Batman would have been crippled, perhaps irrevocably.
+
+#### c681cdf936-SM | BRUCE → ALFRED | x2
+I needed to protect Batman, no matter the cost. Gotham needs him now more than ever.
+
+#### e74d254347-SM | BRUCE → ALFRED | x2
+I put the cowl above everything else, including Gordon and the GCPD.
+
+#### c826cf5d01 | BRUCE → ALFRED | x2
+It was a reckless decision.
+
+#### 96e2040656 | ALFRED → BRUCE | x2
+Batman ended Penguin’s reign of terror. You can’t discount that.
+
+#### dcaf2cd47c | ALFRED → BRUCE | x2
+This city needs Batman.
+
+#### 48942121e6-SM | BRUCE → ALFRED | x2
+I had to stop Penguin. He would have destroyed everything: Batman, Wayne Enterprises, Gotham itself.
+
+#### a7b7a60937 | BRUCE → ALFRED | x2
+He had to be taken out.
+
+#### 9b5b43d31f-LM | ALFRED → BRUCE | x2
+...you’ve ensured Harvey won’t be hurting anyone else.
+
+#### 9ee8b66f75 | ALFRED → BRUCE | x2
+It can’t have been easy, fighting a man who was once your friend.
+
+#### 87c11ff604 | ALFRED → BRUCE | x2
+Putting him away--probably for life.
+
+#### 3eb9a2b967 | ALFRED → BRUCE | x2
+With both Penguin and Mayor Dent off the board, she’s the only remaining piece.
+
+#### ca40521151 | BRUCE → ALFRED | x2
+Let’s see what she’s been up to.
+
+#### e29ccd61f3 | ALFRED → BRUCE | x2
+How go the repairs?
+
+#### 20b5dc8efd | BRUCE → ALFRED | x2
+Going offline kept Penguin from finding the batcave, but it also scrambled our system.
+
+#### 2027ac1c78 | ALFRED → BRUCE | x2
+Perhaps Lucius can help. It’s his system, after all.
+
+#### c606854786 | BRUCE → ALFRED | x2
+We are effectively in “safe mode...“
+
+#### 848deb06cf | BRUCE → ALFRED | x2
+...which means we still can’t access bat-tech.
+
+#### 97caf69d05 | BRUCE → ALFRED | x2
+The grapple gun, shock pucks, smoke bombs--everything connects to the central network.
+
+#### 12d2584380 | ALFRED → BRUCE | x2
+Fighting as Batman may prove more challenging for now...
+
+#### 14fc5f37fe | ALFRED → BRUCE | x2
+...but your sacrifice had positive effects.
+
+#### 759c40bcfa-LM | ALFRED → BRUCE | x2
+You stopped Harvey before he could do any more harm.
+
+#### 49f57b1ffd | ALFRED → BRUCE | x2
+And the GCPD. It would have only been a matter of time before he’d gone after Gordon.
+
+#### c17424ca53 | ALFRED → BRUCE | x2
+Surely that was worth the cost?
+
+#### 7e4ad0ba47 | BRUCE → ALFRED | x2
+The city needs good cops like Gordon to restore order.
+
+#### f10abb7354-SM | BRUCE → ALFRED | x2
+I’m only happy I could help him, whatever the cost.
+
+#### eeca1d2cee | BRUCE → ALFRED | x2
+I’ll have my work cut out for me without my gadgets.
+
+#### ea0286735a | BRUCE | x2
+Plus, they’re really cool.
+
+#### 2ed0b288dd-SM | BRUCE → ALFRED | x2
+I had to stop Harvey.
+
+#### 907190ab17 | BRUCE → ALFRED | x2
+It won’t be nearly as fun being Batman without the toys.
+
+#### 771e70d32f | BRUCE → ALFRED | x2
+I like my toys.
+
+#### 72fe7a1d57 | ALFRED → BRUCE | x2
+You’ve proven that you don’t need armor or gadgets to help this city.
+
+#### b91663b3cd | ALFRED → BRUCE | x2
+In the end, Bruce Wayne was the one to stop Oswald.
+
+#### 9487317e85 | ALFRED → BRUCE | x2
+It can’t have been easy to do that.
+
+#### 7dd8a6eb9b | ALFRED → BRUCE | x2
+He was once your friend.
+
+#### 2614ce5126 | BRUCE → ALFRED | x2
+I wonder who he would have been, given a different path...
+
+#### ad991d5cd2 | ALFRED → BRUCE | x2
+We all make our own choices, Bruce, no matter the path we’re set upon.
+
+#### c9d382dbac | BRUCE → ALFRED | x2
+The crimes he committed as Penguin erased any shred of loyalty that I once felt. Oswald deserves to rot in a cell.
+
+#### ae1d38667c | ALFRED → BRUCE | x2
+A harsh assessment, but true.
+
+#### 53836022b6-SM | ALFRED → BRUCE | x2
+There seems to be nothing left of the boy I watched over as a child.
+
+#### f992df2c5d | BRUCE → ALFRED | x2
+Penguin’s just another criminal. Nothing more.
+
+#### ea528458db | BRUCE → ALFRED | x2
+For all the damage Penguin did, he was nothing but a lieutenant.
+
+#### b473e42ee0 | ALFRED → BRUCE | x2
+Indeed. The captain remains.
+
+#### e032f407f1 | BRUCE → ALFRED | x2
+Children of Arkham activity is down across the city.
+
+#### e80a6b618a | BRUCE → ALFRED | x2
+Lady Arkham hasn’t been seen in weeks.
+
+#### d1e67eefcc | BRUCE → ALFRED | x2
+The manor was just the beginning. Given the chance, he would have burned all of Gotham to the ground.
+
+#### 26972121fd | choice/UI → ALFRED | x2
+That’s not important now.
+
+#### 2c510299c1 | BRUCE → ALFRED | x2
+For all the damage Penguin did, he was only the pawn in someone else’s game.
+
+#### 918279ae14 | ALFRED → BRUCE | x2
+To a far greater threat.
+
+#### 83131bb65f | BRUCE → ALFRED | x2
+She brutally murdered her own parents.
+
+#### 6e836fcdfb | BRUCE → ALFRED | x2
+There’s no more Vicki Vale--only Lady Arkham exists now.
+
+#### 0bf042632e | BRUCE → ALFRED | x2
+No, Vicki is too obsessed to give up. She won’t stop until she thinks “the true face” of Gotham has been revealed.
+
+#### 370c911861 | BRUCE → ALFRED | x2
+She must still be planning something.
+
+#### 05334d289e | ALFRED → BRUCE | x2
+She’s done so much damage already.
+
+#### 9b4cab8776 | ALFRED → BRUCE | x2
+Well, a bit of sunlight would do you some good.
+
+#### 38843f3865 | ALFRED → BRUCE | x2
+You can’t be pastier than your English butler.
+
+#### e2e18a80a7 | BRUCE → ALFRED | x2
+Why embrace that identity if she were done?
+
+#### 042666d678 | ALFRED → BRUCE | x2
+We can’t know what’s in the mind of a mad woman.
+
+#### d337696a28 | ALFRED → BRUCE | x2
+I worry about the toll these last few weeks have taken on you...
+
+#### b0000f3623-SM | BRUCE → ALFRED | x4
+Well, the one thing I’ve learned... I can only depend on myself.
+
+#### b13e9c5bb0 | BRUCE → ALFRED | x2
+I can’t count on anyone else to get the job done.
+
+#### 51a8223c17 | ALFRED → BRUCE | x2
+She stole from you?!
+
+#### 0df5480db7 | ALFRED → BRUCE | x2
+After we opened our doors to her?
+
+#### 0400e6c6ff | ALFRED → BRUCE | x2
+After all that you two...
+
+#### 5a09d725c6 | ALFRED → BRUCE | x2
+I know, Bruce, but...
+
+#### b94bb03f82 | BRUCE → ALFRED | x2
+She must have her reasons.
+
+#### c08b35b852-SM | BRUCE → ALFRED | x2
+I was just another mark to her.
+
+#### 22d85d8471 | BRUCE → ALFRED | x2
+I should’ve known.
+
+#### 72a95065cc | BRUCE → ALFRED | x2
+Think she’s what, flirting?
+
+#### 374d39e7e6 | ALFRED → BRUCE | x2
+Her tastes do seem to run towards the... unusual.
+
+#### b123bc26b6 | BRUCE → ALFRED | x2
+You think she’s trying to turn me on?
+
+#### ffec237858 | ALFRED → BRUCE | x2
+Well! Sir!
+
+#### 1dd9129069 | BRUCE → ALFRED | x2
+Well, she isn’t exactly... conventional.
+
+#### 14ce88d07d | ALFRED → BRUCE | x2
+Well, I’d rather not know, thank you.
+
+#### 1c7d3a10d3 | BRUCE → ALFRED | x2
+Maybe she’s just messing with me -- some kind of joke.
+
+#### f2da04d404 | ALFRED → BRUCE | x2
+She broke into your office and stole valuable property as a joke?
+
+#### eaa747cfb6 | BRUCE → ALFRED | x2
+She has an unusual sense of humor.
+
+#### 74baa3a68a | BRUCE → ALFRED | x4
+Get the car ready, Alfred.
+
+#### 664a9acbbb-SM | BRUCE → ALFRED, PENGUIN | x4
+I think I need to get some answers from Selina.
+
+#### dd7cc25a9c-LM | ALFRED → BRUCE | x4
+You did what you had to do.
+
+#### ef568e0ffa | BRUCE → ALFRED | x2
+We kept Penguin out of the batcomputer by taking it offline--but bringing it back online is proving tricky.
+
+#### f32ce6cb3c | BRUCE → ALFRED | x2
+The grapple gun, shock pucks, smoke bombs--basically everything that wirelessly connects to the central network.
+
+#### f93b02335c | ALFRED → BRUCE | x2
+He most certainly would have moved against Gordon and the GCPD.
+
+#### a0f9edb780 | BRUCE → ALFRED | x2
+Bat tech makes me a better Batman. I shouldn’t have put that on the line.
+
+#### fde73f9fd6 | BRUCE → ALFRED | x2
+Well, to be honest, I’d rather have working bat-tech right now.
+
+#### 64f65ecbba | ALFRED → BRUCE | x2
+Perhaps the GCPD have regained control of the streets?
+
+#### fca6efd4e8 | BRUCE → ALFRED | x2
+Possibly... but there haven’t been any notable confrontations or arrests.
+
+#### 7d18e1e0e4 | BRUCE → ALFRED | x2
+You’d think we’d have heard *something* from them.
+
+#### 982702233f | BRUCE → ALFRED | x2
+She didn’t murder her own parents only to disappear. Their death was symbolic--she destroyed her life as Vicki Vale, to become something larger as Lady Arkham. There has to be a plan...
+
+#### e89aa39e2f | BRUCE → ALFRED | x2
+She murdered her own parents.
+
+#### 0c01c51d5b | BRUCE → ALFRED | x2
+She destroyed what was left of Vicki Vale when she murdered her parents.
+
+#### 5eca3f3137 | ALFRED → BRUCE | x2
+...why would she do this?
+
+#### 0da8f8e639-SM | ALFRED → BRUCE | x2
+I’m sure she does.
+
+#### 3465538d87 | ALFRED → BRUCE | x2
+One shouldn’t be pastier than his English butler.
+
+#### d29cc745b4 | ALFRED → BRUCE | x2
+It truly saddens me.
+
+#### 2dde5e854d | ALFRED → BRUCE | x2
+...the home of the Wayne family for generations...
+
+#### 31b2444e6f | choice/UI → ALFRED | x2
+She’s a thief.
+
+#### a0fb629c05 | choice/UI → ALFRED | x2
+Trying to save her own skin.
+
+#### fbc22e26e4 | choice/UI, BRUCE → ALFRED | x4
+She wants my attention.
+
+#### 78ee022dee | choice/UI → ALFRED | x2
+They want her dead.
+
+#### cc57ebf378 | choice/UI → ALFRED | x2
+She could still be involved.
+
+#### 2e270589ee | BRUCE → ALFRED | x2
+Maybe the manor’s legacy is best forgotten...
+
+#### 72cba15021 | BRUCE → ALFRED | x2
+...along with my father’s.
+
+#### 6944646a4c | ALFRED → BRUCE | x2
+Bruce, this house didn’t only belong to your father.
+
+#### e37cba84cf | ALFRED → BRUCE | x2
+This place holds so many memories.
+
+#### 2fce5e605e | ALFRED → BRUCE | x2
+And has been a part of so many lives.
+
+#### c9b489e754 | BRUCE → ALFRED | x2
+I suppose.
+
+#### df7542d2f2 | ALFRED → BRUCE | x2
+Well, there’s plenty else to keep our minds occupied.
+
+#### ae0d1b95e8 | ALFRED → BRUCE | x2
+The Wayne who built it was a good man, just like the Wayne who lives here now.
+
+#### 25b921e47e | ALFRED → BRUCE | x2
+You certainly did, and so did Master Cobblepot.
+
+#### d21b855f65 | BRUCE → ALFRED | x2
+He might have helped Gotham, instead of trying to destroy it.
+
+#### 9abc927962 | LUCIUS → ALFRED | x2
+The device she stole, it’s a prototype.
+
+#### 0873df99b8 | LUCIUS → ALFRED | x2
+It’s an upgraded version of the bat=computer’s hacking capabilities. A portable version.
+
+#### 5b763674f6-LM | LUCIUS, BRUCE → ALFRED | x4
+With it, you could hack into almost any system. It makes Swiss cheese out of state-of-the-art security.
+
+#### f4882a28d4 | ALFRED → LUCIUS | x2
+That, combined with Catwoman’s considerable skills...
+
+#### cd1fe1c8b2 | ALFRED → LUCIUS | x2
+What could she be planning?
+
+#### 082da5a6c4-LM | LUCIUS → BRUCE | x2
+With it, you could hack into almost any system. State-of-the-art security is child’s play to it.
+
+#### d7d5ffe927 | BRUCE → ALFRED | x2
+Well, I think that’s pretty clear.
+
+#### 3d07db7fe9 | BRUCE → ALFRED | x2
+Selina’s a thief. With this key, she could steal anything from anywhere.
+
+#### 351f090116 | BRUCE → LUCIUS | x2
+No vault would be safe.
+
+#### 87195fe07d | ALFRED → BRUCE | x2
+Yes, well...She does strike me as quite ambitious.
+
+#### f5113e251c | BRUCE → ALFRED | x2
+It might be another errand for the Children of Arkham. With this, Selina could buy her way off Lady Arkham’s hit list, once and for all.
+
+#### baf231e880 | BRUCE → ALFRED | x2
+A way to get off of her hit list, once and for all.
+
+#### aa25428af2 | BRUCE → ALFRED | x2
+The Phalanx Key might make amends, once and for all.
+
+#### abecc6202f | ALFRED → BRUCE | x2
+I’d hope she wouldn’t work with them again--not after all they’ve done!
+
+#### 87497c31f5 | ALFRED → BRUCE | x10
+If that key were to fall into Lady Arkham’s hands... The possibilities are frightening.
+
+#### 7a8166c3f8 | BRUCE → ALFRED | x2
+What? It’s the only explanation. She has to know that I can track any bat-tech.
+
+#### 43b25f0e56 | ALFRED → BRUCE | x2
+There are far simpler ways of reaching out to you.
+
+#### 4dd1734950 | ALFRED → BRUCE | x2
+Well. A phone call would have sufficed.
+
+#### c6e23af6f6 | BRUCE → ALFRED | x2
+Not for her.
+
+#### 86b0deeecf | LUCIUS → BRUCE | x2
+Bruce--Selina Kyle, she--
+
+#### 6694f3496f | BRUCE → ALFRED | x2
+We know. We’re tracking her now.
+
+#### a8bea9fcc4 | ALFRED → BRUCE | x2
+It can’t have been easy to get into the lab.
+
+#### c16eb418b7 | ALFRED → LUCIUS | x2
+I know you... [“how do I say this?“]admire her, but, uh...
+
+#### 72c568eec8 | ALFRED → BRUCE | x2
+I suppose there is no honor amongst thieves.
+
+#### 82b54eedfc | ALFRED → BRUCE | x2
+Is she that cold-hearted?
+
+#### 97eb8006d2 | ALFRED → BRUCE | x2
+That selfish?
+
+#### 81037c2f1e | BRUCE → ALFRED | x2
+The prototype she stole...
+
+#### 68d98aff3c | BRUCE → ALFRED | x2
+It’s an upgraded and portable version of the bat-computer’s hacking capabilities.
+
+#### 80851684b4-LM | BRUCE → ALFRED | x2
+With it, you could hack into almost any system. State-of-the-art security would be child’s play.
+
+#### bae1843834 | ALFRED → BRUCE | x2
+This may be more than a simple heist.
+
+#### e91222b924 | ALFRED → BRUCE | x2
+I imagine she has something specific in mind for that key.
+
+#### 4ead42ff25 | ALFRED → BRUCE | x2
+I suppose we’ll find out soon.
+
+#### 66ef303070 | ALFRED → BRUCE | x2
+That key is far too dangerous in Ms. Kyle’s hands...
+
+#### 2d6c4845f2 | ALFRED → BRUCE | x2
+...especially with Lady Arkham still at large.
+
+#### d91f1b76a8 | BRUCE → ALFRED | x2
+Unless they’re pulling in their resources, preparing themselves...
+
+#### 883b024c88 | ALFRED → BRUCE | x2
+Maybe that was defeat enough for her.
+
+#### 98b101a224 | ALFRED → BRUCE | x2
+She may have moved on.
+
+#### 4aeee0de2e-LM | ALFRED → BRUCE | x2
+But you won’t give up.
+
+#### 24ce13ee4f | ALFRED → BRUCE | x4
+Always letting you down...
+
+#### 707b0cebf2 | ALFRED → BRUCE | x4
+...even those whom you admire.
+
+#### 3498dbee1d | ALFRED → BRUCE | x4
+I only hope you keep an open mind, going forward.
+
+#### 439fadde48 | ALFRED → BRUCE | x4
+Don’t assume the worst.
+
+#### 15239d78b7 | choice/UI → ALFRED | x2
+What was that about trusting people?
+
+#### d6e9d83765-LM | BRUCE → ALFRED | x2
+What was that you were saying? About trusting people?
+
+#### aaca9b395e-SM | ALFRED → BRUCE | x2
+I spoke too soon.
+
+#### 3544c34c5c-SM | BRUCE → ALFRED | x2
+Selina and Lady Arkham weren’t exactly on the same team, last I checked.
+
+#### 12e21a931a | ALFRED → BRUCE | x2
+True, but are you confident that hasn’t changed?
+
+#### d918016392 | ALFRED → BRUCE | x2
+Ms. Kyle’s allegiances shift with the winds.
+
+#### de3a07693e | ALFRED → BRUCE | x2
+Are you certain she isn’t working with Lady Arkham?
+
+#### 76a095095b | BRUCE → ALFRED | x2
+The Children of Arkham won’t give Selina another chance.
+
+#### 3bce5cf825 | BRUCE → ALFRED | x2
+She’s failed them twice before. They want her dead.
+
+#### b92e36f31d | ALFRED → BRUCE | x2
+All the more reason to worry. She’s already a target.
+
+#### d8cbafab86 | ALFRED → BRUCE | x2
+What will stop them from taking the Key once she’s dead?
+
+#### 4bd54eba5a | BRUCE → ALFRED | x2
+Selina’s not exactly easy to read.
+
+#### 495dcf57c6 | BRUCE → ALFRED | x2
+I’d like to think that she wouldn’t work with the Children again...
+
+#### 456f56de59 | BRUCE → ALFRED | x2
+But she’s surprised me before.
+
+#### 8b58a30ed3 | BRUCE → ALFRED | x2
+I can’t pretend that I can predict any of Selina’s moves.
+
+#### 6b462612b0 | BRUCE → ALFRED | x2
+But I do know she wouldn’t work with the Children of Arkham again.
+
+#### e70a81d6b7 | BRUCE → ALFRED | x2
+She’s proved herself--fought by my side against them.
+
+#### 273d96fc1e | BRUCE → ALFRED | x2
+We’ll rebuild, Alfred. We’ll make it what it once
+
+#### f1adf7e2eb | ALFRED → BRUCE | x4
+You must have conflicted feelings.
+
+#### 3d4f33ca45 | ALFRED → BRUCE | x4
+Despite all of his horrible actions.
+
+#### ca198a884d | ALFRED | x2
+Best not to focus on what’s done.
+
+#### e1cc6288ea | ALFRED | x2
+What is the latest on Lady Arkham?
+
+#### 70fa8d3f17 | ALFRED | x2
+Perhaps if you...?
+
+#### b7b63979af | ALFRED | x2
+Well...?
+
+#### 689d334c1b-L? | ALFRED | x2
+You’re disconnected from the primary network, but... some basic functionality seems to remain.
+
+#### 252f160403-L? | ALFRED | x2
+Who knows what else Harvey might have done, had you not stopped him.
+
+#### 8acf839713 | ALFRED | x2
+Surely, Gordon’s safety was worth the loss of a few gadgets?
+
+#### 24ec2593f5 | ALFRED → BRUCE | x2
+Well, you can’t have everything, Bruce.
+
+#### 8c7e21435a | ALFRED | x2
+Not only that...
+
+#### af20c8e9a0-L? | ALFRED | x2
+Yes. Well, I fear you’re right.
+
+#### f2812f4a04-L? | ALFRED | x2
+You made the right choice. Besides...
+
+#### 6ae86c5d7f | ALFRED → BRUCE | x2
+Best to focus on the problems that still need solving, I suppose.
+
+#### f42f2500b7 | BRUCE → ALFRED | x2
+I don’t have time to be nostalgic, Alfred.
+
+#### 8ab875f8e4 | BRUCE → ALFRED | x2
+I think this is all part of a bigger plan.
+
+#### 511a5c3d60 | BRUCE → ALFRED | x2
+Besides, I don’t have time to be nostalgic.
+
+#### 978ce7e2b4 | BRUCE | x2
+The Children of Arkham are still out there, and Lady Arkham...
+
+#### da92f20538 | BRUCE → ALFRED | x4
+Besides, my feelings are the least of our concerns.
+
+#### bb047cc813 | BRUCE → ALFRED | x12
+But our work isn’t done...
+
+#### 5f33009017-LM | ALFRED → BRUCE | x2
+She lost her staunchest supporter when you defeated Penguin.
+
+#### 3eb2e9d379 | ALFRED → BRUCE | x2
+Perhaps she’s lying low.
+
+#### 183f0cd9ed | choice/UI → ALFRED | x2
+There’s no time for that.
+
+#### 9144c45f83 | choice/UI → ALFRED | x2
+Make it quick.
+
+#### f1314ef79d-SM | choice/UI, BRUCE → ALFRED | x4
+I could use a break.
+
+#### f722b23e5e | ALFRED, choice/UI → BRUCE | x6
+Just for a moment.
+
+#### df13556911 | choice/UI | x2
+I can’t stop now.
+
+#### e2fde1d7d6 | choice/UI → ALFRED | x4
+[Vicki Vale]
+
+#### d399adde07 | choice/UI | x4
+[Oswald Cobblepot]
+
+#### 89044bbd54 | choice/UI → ALFRED | x4
+[Bruce Wayne]
+
+#### 2273c7033c | choice/UI → ALFRED | x2
+[Gazette Reports]
+
+#### 70b344dac7 | choice/UI → ALFRED | x2
+[Victoria Arkham Reports]
+
+#### 6c5b4efb76-SM-LM | ALFRED → BRUCE | x2
+I thought you could use a little refreshment.
+
+#### d4d2a6686e | ALFRED → BRUCE | x2
+Are you all right?
+
+#### 2a962f12a9 | BRUCE → ALFRED | x4
+I have to find her...
+
+#### b6ecacbf7e | BRUCE → ALFRED | x4
+...before she does something drastic.
+
+#### 1d2149f2a2 | BRUCE → ALFRED | x2
+...but Lady Arkham? She’s still out there somewhere.
+
+#### a198c7d74a | BRUCE → ALFRED | x2
+Harvey may be behind bars...
+
+#### c52809b3ea | ALFRED → BRUCE | x4
+Bruce, you’ve barely slept in days.
+
+#### bf4debaf5a-LM | ALFRED → BRUCE | x2
+You need time to recover.
+
+#### da618d19bf-LM | ALFRED → BRUCE | x2
+You’re wearing yourself down.
+
+#### 19ad192eb0-LM | ALFRED → BRUCE | x2
+You can’t save the city if you don’t take care of yourself.
+
+#### 65ed06c390 | ALFRED → BRUCE | x2
+A spot of tea would be just the thing.
+
+#### 7d6fe8aefd | ALFRED → BRUCE | x2
+Please, Bruce.
+
+#### 44d26cfcea | BRUCE → ALFRED | x2
+I don’t have time to rest, Alfred.
+
+#### 3d45a9f731 | BRUCE → ALFRED | x2
+She needs to be stopped.
+
+#### b35bc31668-LM | ALFRED → BRUCE | x2
+And we won’t be able to stop her if you work yourself to death.
+
+#### 33ebda4201 | BRUCE → ALFRED | x2
+Okay...okay.
+
+#### d378974063 | BRUCE → ALFRED | x2
+All right, all right... just for a moment.
+
+#### e637bba111 | ALFRED → BRUCE | x2
+At least take a moment...
+
+#### db982c9000-SM | BRUCE → ALFRED | x2
+I was just thinking the same thing.
+
+#### 1968dfe429 | ALFRED → BRUCE | x2
+Some tea?
+
+#### 70ded1f5a5 | BRUCE → ALFRED | x2
+Sounds perfect.
+
+#### 5756779250 | BRUCE → ALFRED | x2
+Well, I can’t find Lady Arkham unless we get it up and running.
+
+#### a16f26b217 | BRUCE → ALFRED | x2
+All right. Break’s over.
+
+#### 597ae22251 | ALFRED → BRUCE | x2
+Uh, Bruce, I...
+
+#### f8a7fbb43d | BRUCE → ALFRED | x2
+Yeah, what is it, Alfred?
+
+#### c450bf7279 | ALFRED → BRUCE | x2
+I-I’ve been meaning to talk to you about something.
+
+#### 20c4fa05a9 | ALFRED → BRUCE | x2
+Something that’s been on my mind.
+
+#### 2c9dce07f6 | ALFRED → BRUCE | x2
+If you indulge me...
+
+#### ea9a087b03 | ALFRED → BRUCE | x4
+Very well...
+
+#### 7d0f129482-SM | BRUCE → ALFRED | x2
+I’m sorry, Alfred, but--
+
+#### 319da5c6d2 | ALFRED → BRUCE | x2
+What do you suggest?
+
+#### 4a6e52ea69 | BRUCE → ALFRED | x2
+...but make it quick, please.
+
+#### 50bc934a89 | BRUCE → ALFRED | x2
+We need to figure out her next move.
+
+#### 10c2e9f692-LM | ALFRED → BRUCE | x2
+Now, you were saying?
+
+#### 94c2ba8f0f | BRUCE → ALFRED | x2
+Tapping into the Wayne Enterprises’ network gives us power to track Children of Arkham activity anywhere in the city.
+
+#### 02992f0111 | BRUCE → ALFRED | x2
+Now, we’re the ones watching them.
+
+#### 98aa2c6a8c | ALFRED → BRUCE | x2
+It seems they’ve... calmed down a bit.
+
+#### 2ac89c93d3 | BRUCE → ALFRED | x2
+Hmmm...
+
+#### 2b39938a19 | BRUCE → ALFRED | x2
+Lady Arkham took out everyone involved in the Arkham cover-up.
+
+#### 2cc9edc333 | BRUCE → ALFRED | x2
+Everyone but me.
+
+#### b6ee8ba9f8 | ALFRED → BRUCE | x2
+She does seem determined to make you pay for your father’s crimes...
+
+#### 69773bd369-SM | BRUCE → ALFRED | x2
+And there’s no way she’s gonna let that rest. As long as I’m free, she’s not finished.
+
+#### e76da5ca8c | ALFRED → BRUCE | x2
+...as barbaric and irrational as that is.
+
+#### fe592bcc9b | ALFRED → BRUCE | x2
+It does seem unlikely she’d give up on her obsession.
+
+#### e03986a61c | BRUCE → ALFRED | x2
+e’s behind bars.
+
+#### b6744cd3d7 | BRUCE → ALFRED | x2
+There are two ways I can go at this...
+
+#### cf34a942ea | BRUCE → ALFRED | x2
+With Penguin gone, the bat network is safe. I can log into Wayne Enterprises from here and see exactly what he was doing with his access while he was CEO.
+
+#### ae67decc38 | ALFRED → BRUCE | x2
+Ah, his online activities might give us a clue to what the Children of Arkham are planning.
+
+#### a2002146e8 | BRUCE → ALFRED | x2
+On the other hand, we’ve learned a lot about Vicki Vale--her true lineage, her secret identiy, the murder of her foster parents...
+
+#### af9a846925 | BRUCE → ALFRED | x2
+But we don’t know what it all means.
+
+#### 1cf7a0c77f | BRUCE → ALFRED | x2
+Or how it might tie in to her plans for Gotham.
+
+#### d42153456c | ALFRED → BRUCE | x2
+Well, which do you propose we investigate first?
+
+#### 6f22944801 | BRUCE → LADYARKHAM | x2
+I’m bringing up everything we have on Vicki Vale, and her alter ego, Lady Arkham.
+
+#### 3eadca3ae6 | BRUCE → VICKI | x2
+Well, Vicki...
+
+#### 5954d5217e | BRUCE → ALFRED | x2
+Let’s see what other secrets you’re hiding.
+
+#### 2364fe313c | BRUCE → ALFRED | x4
+Vicki Vale, mid-thirties, reporter for the Gotham Gazette.
+
+#### afff137a1e | BRUCE → ALFRED | x2
+She was adopted by the Vales after her parents were killed in a car accident.
+
+#### 1770489112 | BRUCE → ALFRED | x2
+And not in the public record... her true name, Victoria Arkham. Daughter of John and Mary Arkham.
+
+#### 573e5fa94e | BRUCE → ALFRED | x2
+Murderer of the Vales. Alter-ego of Lady Arkham. Leader of the Children of Arkham.
+
+#### 51aa5e30eb | ALFRED → BRUCE | x4
+To think she was here in the manor. She gave nothing away of her true nature then.
+
+#### 6c7124cb01-SM | BRUCE → ALFRED | x2
+Vicki’s motives were never clear to me. The only thing I understood was her quest for the truth.
+
+#### c922b9c94a-SM | BRUCE → ALFRED | x2
+I had no idea how much she’d twisted that ideal.
+
+#### 055126fc38 | BRUCE → ALFRED | x2
+The Gazette’s records of the articles written by Vicki Vale.
+
+#### 323f7ce0de | BRUCE → ALFRED | x2
+And the research she submitted with them.
+
+#### 3fa103b78f | ALFRED → FALCONE | x2
+She was fixated on corruption. Falcone, Hill... the Waynes... and the scandals surrounding them. She gathered evidence on them from as long as forty years ago.
+
+#### e63fd1bb95 | BRUCE → ALFRED | x2
+She wanted to expose the people beneath the masks...
+
+#### ac83a70b68 | BRUCE → ALFRED | x2
+But there’s nothing surprising here. Just scandals that were old news years ago.
+
+#### 3aa043f9e8 | ALFRED → BRUCE | x2
+Perhaps her more controversial queries were under another handle?
+
+#### c242ffce3d | BRUCE → ALFRED | x2
+Or Oswald just wiped out any trace of them.
+
+#### b5e47877f3 | ALFRED → BRUCE | x2
+If we can find out what he erased...
+
+#### 9f08e2ba22 | BRUCE → ALFRED | x2
+We can find out what she was hiding.
+
+#### 4af07b7776 | BRUCE → ALFRED | x2
+And the queries she ran using her work handle.
+
+#### c566a05c75 | BRUCE → ALFRED | x2
+Her supporting research....
+
+#### ac672cc1e3 | BRUCE → ALFRED | x2
+All right, now that we know what Oswald changed, we should be able to get a more complete picture of Vicki.
+
+#### 72b14ca66b | BRUCE → ALFRED | x2
+Let’s see what Victoria Arkham was looking into...
+
+#### c70c577521 | ALFRED → BRUCE | x2
+It seems Victoria Arkham and Vicki Vale had very similar interests.
+
+#### 3c02941b87 | BRUCE → ALFRED | x2
+But Victoria’s research was far more extensive. Gotham City records, Freedom of Information requests, posts to conspiracy forums... She was digging in deep.
+
+#### c98c2700c2 | ALFRED → BRUCE | x2
+But why use the other name at all?
+
+#### 2cb37337a4 | BRUCE → ALFRED | x2
+To hide her trail. No one knew Arkham was her given name. If anyone became suspicious of Vicki Vale, they’d only see what she wanted them to see.
+
+#### 173e7b9014 | BRUCE → VICKI | x2
+What didn’t you want us to know, Vicki?
+
+#### 836e0983d8 | ALFRED → BRUCE | x2
+Victoria Arkham and Vicki Vale both performed searches from the same network.
+
+#### fe09ba6fde | ALFRED → BRUCE | x2
+It’s a list. [looks closer] Gotham buildings that use Wayne Tech security systems.
+
+#### 033cec9397 | BRUCE → ALFRED | x2
+It’s a list of targets.
+
+#### 2cef0a7f89 | ALFRED → BRUCE | x2
+City Hall, Arkham Asylum, GCPD Headquarters, Gotham First National... It’s almost every landmark in the city!
+
+#### 73e915cf4e | BRUCE → ALFRED | x2
+A list of buildings
+
+#### 1adc566ab9 | BRUCE → ALFRED | x2
+What do we have here...?
+
+#### f0ed12097e | BRUCE → ALFRED | x2
+They did more than just look at these schematics...
+
+#### 2ff3571a23 | BRUCE → ALFRED | x2
+Every building in Gotham with a Wayne Tech security system can be accessed from here, and remotely controlled.
+
+#### ff0bd5913f | BRUCE → ALFRED | x2
+They could open doors and unlock gates from anywhere in the city.
+
+#### 6d4fa8f712 | ALFRED → BRUCE | x2
+What do you think they were hoping to achieve?
+
+#### f108baf73b | BRUCE → ALFRED | x2
+She was looking into Arkham patients.
+
+#### 0ca4fc76d1 | BRUCE → ALFRED | x2
+Reviewing records, checking submissions, prior histories.
+
+#### 800c3df741 | BRUCE → ALFRED | x2
+She was trying to figure out who was actually sick...
+
+#### ad142c9b3d | BRUCE → FALCONE | x2
+...and who was committed because of Hill, Falcone... and my father.
+
+#### 3d497be3d1 | BRUCE → ALFRED | x2
+Vicki wasn’t the only child they adopted. There were others. Most recently...
+
+#### 85ae7467fd | ALFRED → BRUCE | x2
+The city had been paying them to foster children for quite some time.
+
+#### 5860520dc6 | BRUCE → ALFRED | x2
+Something about that rubbed Vicki the wrong way. She shoved one of those checks fown her mother’s throat.
+
+#### 71799675e3 | ALFRED → BRUCE | x2
+Anything else on the Vales?
+
+#### 19161de629 | BRUCE → ALFRED | x2
+Nothing. No police reports, no criminal records. Just an ordinary suburban family.
+
+#### b18e6f4db6 | ALFRED → BRUCE | x2
+At least, on the surface. We both know appearances can be deceiving.
+
+#### e55baec455 | BRUCE → ALFRED | x2
+The alter ago of Vicki Vale, and leader of the Children of Arkham...
+
+#### 7a1ac0754d | BRUCE → ALFRED | x2
+Vicki embraced this identity to follow through on her twisted crusade.
+
+#### 0daf481798 | ALFRED → BRUCE | x2
+Her mask inspires fear. Something out of a child’s nightmare...
+
+#### bc9a3d7853 | ALFRED → BRUCE | x2
+...not unlike Batman.
+
+#### f8672e279f | BRUCE → ALFRED | x2
+She’s a skilled fighter as well. That staff of hers packs a real punch.
+
+#### ef498443af | ALFRED → BRUCE | x2
+One wonders where she got her hands on such a powerful weapon.
+
+#### bac2c04191-SM | BRUCE → ALFRED | x2
+I just need to find her.
+
+#### 65036437e8-SM | BRUCE → ALFRED | x2
+I’m ready now. I know what to expect. She won’t win again.
+
+#### 4ec0823959 | BRUCE → ALFRED | x2
+Caretakers of Arkham Asylum, until their sudden deaths.
+
+#### acefd90a5b | ALFRED → BRUCE | x2
+Their car went off a cliff on their way home.
+
+#### 0f533ed8c4 | BRUCE → ALFRED | x2
+Appears there was a misplaced road barrier. One of the construction crew was charged with negligence and paid a heavy fine.
+
+#### 14393e19f2 | ALFRED → BRUCE | x2
+No jail time though. No wonder Vicki doubts the system.
+
+#### ffe887b9a3 | BRUCE → ALFRED | x2
+Children of Arkham. The terrorist group run by Vicki Vale, AKA Lady Arkham.
+
+#### fe8f815f2a | BRUCE → ALFRED | x2
+At least some of them are the descendants of innocents who were wrongly imprisoned in Arkham.
+
+#### 646365dfe5 | BRUCE → ALFRED | x2
+The rest subscribe to Vicki’s search for truth. It’s like a religion to them.
+
+#### bd7efb4b84 | BRUCE → ALFRED | x2
+Put there by Carmine Falcone, Hamilton Hill... and my father, Thomas Wayne.
+
+#### bbfc29ba13 | ALFRED → BRUCE | x2
+After seeing that video of your father drugging Esther Cobblepot... I can see why she might have gained more followers.
+
+#### 1c568d79e2 | BRUCE → ALFRED | x2
+My father’s crimes created an army willing to burn Gotham to the ground.
+
+#### 6b04ca5c01 | BRUCE → ALFRED | x2
+It’s my responsibility to put an end to it.
+
+#### de22583c78 | BRUCE → ALFRED | x2
+Let’s see what Oswald was doing while he sat in my chair...
+
+#### 2c9a7c3be5-LM | ALFRED → BRUCE | x2
+Master Cobblepot’s sense of humor hasn’t changed much since you were boys.
+
+#### 0b7b8dbd53 | BRUCE → ALFRED | x2
+Let’s just... see what he was doing.
+
+#### 9974672c56 | BRUCE → ALFRED | x2
+Penguin was tapping into surveillance systems across Gotham.
+
+#### 9fd5e96aee | BRUCE → ALFRED | x2
+Any building using Wayne Tech security could be spied on from the CEO’s office.
+
+#### c296e9b73f | ALFRED → BRUCE | x2
+How is that any different than the “backdoor” into the Wayne network that Oswald uncovered?
+
+#### 570bd7906e | BRUCE → ALFRED | x2
+It’s not. Unless... Hold on.
+
+#### 86aa7e9ca4 | BRUCE → ALFRED | x2
+If Oswald was the brawn, Vicki is the brains.
+
+#### a26354070f | BRUCE → ALFRED | x2
+So, let’s check her file.
+
+#### 7913f1a9c8 | BRUCE → ALFRED | x2
+She may have left clues about what she was using Oswald’s access for.
+
+#### a579e97bdc | BRUCE → ALFRED | x2
+Oswald altered several public records using the Wayne network.
+
+#### de0e528cef | ALFRED → BRUCE | x2
+What was he trying to hide?
+
+#### 9713408f53 | BRUCE → ALFRED | x2
+No surprise here. Oswald wiped away any trace of his criminal records.
+
+#### 4127f27b2f | BRUCE → ALFRED | x2
+His background is completely fabricated.
+
+#### ea6dae1ba1 | ALFRED → BRUCE | x2
+He was enrolled at... Cambridge?! Ridiculous!
+
+#### 3e62903610-SM | BRUCE → ALFRED | x2
+Calm down, Alfred. I’m sure the board realizes now that they were fooled.
+
+#### 861de9b320 | BRUCE → ALFRED | x2
+Oswald manipulated my records as well.
+
+#### 4debdd6ea4 | ALFRED → BRUCE | x2
+It would appear your degree was in...  sociology?
+
+#### 5f4323f1e3-LM | ALFRED → BRUCE | x2
+And after you graduated you had a rather unsavory [struggling to find the words] modeling career?
+
+#### ae3b3514e1 | BRUCE → ALFRED | x2
+And my medical records...
+
+#### a1a12b2a8e | ALFRED → BRUCE | x2
+Those are some... er, colorful diseases.
+
+#### 443a138476 | BRUCE → ALFRED | x2
+Annoying, but not hard to fix.
+
+#### e721e81d66 | ALFRED → BRUCE | x2
+Indeed. [cringe] It appears he’s quite adept with image-editing software.
+
+#### 8984e02faf | BRUCE → ALFRED | x2
+It’s called Fine Art Photography, Alfred.
+
+#### a431d69eec-LM | ALFRED → BRUCE | x2
+And after you graduated you had a... modeling career? In... [seeing a racy image] oh my...
+
+#### 10fa23fcf0 | BRUCE → ALFRED | x2
+It’s called Fine Art photography, Alfred.
+
+#### a4a60db86a | ALFRED → BRUCE | x2
+That’s better.
+
+#### abfd1c5094 | BRUCE → ALFRED | x2
+Wait, wait, wait. What’s this?
+
+#### 120c5c617c | ALFRED → BRUCE | x2
+It appears Master Cobblepot created an identity in the public records... someone named...
+
+#### 2a16a6db68 | BRUCE → ALFRED | x2
+Victoria Arkham.
+
+#### 4c49796739 | BRUCE → ALFRED | x2
+And then someone used that name to perform a number of queries.
+
+#### b4acdefdbd | ALFRED → BRUCE | x2
+It’s clearly forged. There’s not enough here to prove this record belongs to a real person.
+
+#### 531904986f | BRUCE → ALFRED | x2
+But just enough that someone could use the identity online.
+
+#### 11e1893b6d | BRUCE → ALFRED | x2
+I’ll add this information to Vicki’s file. Let’s see if there are any similar patterns between Vicki Vale and this “Victoria Arkham.“
+
+#### 76d577ba70 | BRUCE → ALFRED | x2
+Oh, Oswald certainly wasn’t very frugal with my money.
+
+#### ce9bf2ed29 | ALFRED → BRUCE | x2
+You have a few yachts to return, it appears.
+
+#### 1f0bedc894 | BRUCE → ALFRED | x2
+Also explains how the Children of Arkham had a seemingly endless supply of guns. Oswald was using Wayne money to arm them.
+
+#### 409b2641da | ALFRED → BRUCE | x2
+To think Master Cobblepot grew up into such a conniving... [at Bruce’s look] I know. A dead horse.
+
+#### 23d3c8d63c | BRUCE → ALFRED | x2
+Hmph.
+
+#### dc0518ae8e | BRUCE → ALFRED | x2
+He was also funding an initiative to clean up Cobblepot Park.
+
+#### f0e947fcba | ALFRED → BRUCE | x2
+Well I’ll be.
+
+#### 66011c3dd6 | BRUCE → ALFRED | x2
+Oswald was... trying to buy an island?!
+
+#### 6ecd95d129 | ALFRED → BRUCE | x2
+What on earth for?
+
+#### 75911945ca | BRUCE → ALFRED | x2
+Looks like he was using his new legal control of Carmine Falcone’s assets and likeness to brand the place, make it some kind of tourist attraction.
+
+#### a78b82e40f | ALFRED → BRUCE | x2
+He was going to call it...
+
+#### a248700cb1 | BRUCE → ALFRED | x2
+“Falcone Island.“
+
+#### 219d3c09c7 | BRUCE → ALFRED | x2
+We need to figure out Lady Arkham’s next move.
+
+#### 1f618cc71b | BRUCE → ALFRED, LUCIUS | x4
+We’re onto something.
+
+#### d83dc77c69 | BRUCE → ALFRED | x2
+Vicki used the name Victoria Arkham to research which buildings in Gotham had Wayne Tech security systems.
+
+#### 8ebfbe029d | BRUCE → ALFRED | x2
+And she installed Oswald as Wayne Enterprises CEO to get inside them.
+
+#### ff9172b8c2 | BRUCE → ALFRED | x2
+He would have helped the Children of Arkham disable security almost anywhere in Gotham.
+
+#### 344407d38f | ALFRED → BRUCE | x2
+What truth is Vicki looking for, and behind what door?
+
+#### cb0f2e3ee3 | BRUCE → ALFRED | x2
+There are too many possible targets to know.
+
+#### 599c1379d3 | BRUCE → ALFRED | x2
+Fortunately, she can’t have Penguin unlock that door remotely. She’ll have to get her hands dirty.
+
+#### d38613e434 | ALFRED → BRUCE | x2
+She’ll have to expose herself.
+
+#### 30b57bf2a7 | BRUCE → ALFRED | x2
+And when she does, we’ll find her.
+
+#### 9991db9f24 | BRUCE → ALFRED | x2
+The same way she spied on Gotham while Oswald was sitting in my chair.
+
+#### 98e808e032 | BRUCE → ALFRED | x2
+Behind bars.
+
+#### 12710803ef | BRUCE → ALFRED | x4
+But there are some that need to be put down.
+
+#### 2ef3e284a4 | BRUCE → ALFRED | x4
+And I’ll need your help.
+
+#### 29ef10c3d5 | ALFRED → BRUCE | x4
+Not that some don’t deserve the worst...
+
+#### 047f806e98 | ALFRED → BRUCE | x2
+Less break-ins and druggings tied to the Children...
+
+#### cbecfe5f38 | BRUCE → ALFRED | x2
+I think this could be the calm before the storm.
+
+#### 93ec15da4a | BRUCE → ALFRED | x2
+The prototype she stole. It’s a sort of electronic skeleton key.
+
+#### 03f8ce05cd | LUCIUS → BRUCE | x2
+The device she stole, it’s a prototype. It’s an electronic skeleton key.
+
+#### 8f2d920e04 | BRUCE → LUCIUS | x2
+What are you planning...
+
+#### c3efec50e5 | BRUCE → LUCIUS | x2
+Where are you hiding...
+
+#### ef7cb009e4 | BRUCE → ALFRED | x2
+We’re not the only ones that took a hit while Mayor Dent was in power.
+
+#### 2d59cdbc20 | BRUCE → ALFRED | x2
+Police officers.
+
+#### 816210d90d | BRUCE → ALFRED | x2
+His own secretary.
+
+#### cb0be92073 | ALFRED → BRUCE | x2
+Well, at least...
+
+#### 94da913786 | ALFRED → BRUCE | x2
+The terrible things Mr. Dent did...
+
+#### cbc73a3bac | ALFRED → BRUCE | x2
+He was a good man once.
+
+#### 50076dd970 | ALFRED → BRUCE | x2
+Until... [sad, leaves it unsaid]
+
+#### 3a27b03975 | ALFRED → BRUCE | x2
+I hope you’ll not find this in poor taste, but...
+
+#### 5af99ef964 | BRUCE → ALFRED | x2
+Lady Arkham herself has been laying quite low.
+
+#### 282c3ce38f | BRUCE → ALFRED | x2
+No attacks on Gotham fficials, no public druggings.
+
+#### bdb2a1643d | ALFRED → BRUCE | x2
+Without the stockpile of the drug that Mayor Dent destroyed, she may be low on options.
+
+#### 33f03445ae | choice/UI → ALFRED | x2
+[Arkham Patient Files]
+
+#### e02842b743 | BRUCE → ALFRED | x2
+A list of buildings is something, but without a way to break through that security...
+
+#### 8d6d62980e | ALFRED → BRUCE | x2
+Seems a bit of a dead end.
+
+#### 21f9e54689 | BRUCE → ALFRED | x2
+But, Oswald was CEO. No one has more access to Wayne Tech than he did.
+
+#### 3d0f8c97b3 | ALFRED → BRUCE | x2
+A good point. Perhaps there’s something to learn from his time as CEO.
+
+#### b1dcf404e0 | ALFRED → BRUCE, LUCIUS | x4
+Is it Lady Arkham?
+
+#### f41a2b8ce3 | BRUCE → ALFRED | x2
+No, it’s...
+
+#### f070a7e041 | LUCIUS → BRUCE | x2
+Bruce, you there? It’s urgent!
+
+#### 4776465ebd | LUCIUS → BRUCE | x2
+One of the bat prototypes has been stolen!
+
+#### 7a7b9cdc15 | ALFRED → LUCIUS | x2
+By Lady Arkham?
+
+#### ad64185be2 | LUCIUS → BRUCE | x2
+Not quite. I’m patching you the feed now...
+
+#### c15a1f74ca | BRUCE → LUCIUS | x2
+The batcomputer barely runs, and worse...
+
+#### 2c30868572 | BRUCE → ALFRED | x2
+None of my gadgets are going to work out in the field.
+
+#### ed78adc581 | BRUCE → LUCIUS | x2
+It’s going to make tracking down Lady Arkham a hell of a lot harder.
+
+#### 25aa2133df | BRUCE → ALFRED | x2
+But there’s nothing her linking her to Children of Arkham activity directly.
+
+#### b5d30111a9 | BRUCE → ALFRED | x2
+Cambridge isn’t to blame.
+
+#### f2f8d3b6bc-SM | ALFRED → BRUCE | x2
+I’m sorry Bruce...
+
+#### 00a365ac23 | BRUCE → ALFRED | x2
+He was never really my friend.
+
+#### d455decc33 | ALFRED → BRUCE | x2
+Unfortunately, I have to agree.
+
+#### e9f2c0a72c | BRUCE → ALFRED | x2
+That’s not important now. The past is the past.
+
+#### 025ee98b0f-SM | BRUCE → ALFRED | x2
+I need to find Lady Arkham.
+
+#### 2bda1b6e06 | ALFRED → BRUCE | x2
+These last few weeks...
+
+#### c2eae4fb4b | ALFRED → BRUCE | x2
+I worry about the toll they’ve taken on you.
+
+#### 2610099faa | BRUCE → ALFRED | x2
+The only thing we do know is that she moved on from her plan to poison the city.
+
+#### ffb222fa65-SM | LUCIUS → BRUCE | x2
+I called it the Bat Key.
+
+#### 12b6d08de5 | BRUCE → LUCIUS | x2
+It’s called the Bat Key.
+
+#### 300f996f05 | BRUCE, LUCIUS → LUCIUS, BRUCE | x4
+It’s an electronic skeleton key.
+
+#### f0a646f6b2 | BRUCE → LUCIUS | x2
+The Vales.
+
+#### 723b34b74b | BRUCE → LUCIUS | x2
+Linda and Samuel Vale.
+
+#### 4daca496e7 | BRUCE → ALFRED | x2
+The Arkhams.
+
+#### 9382875406 | BRUCE → ALFRED | x2
+Jeremiah and Elizabeth Arkham.
+
+#### c3c68007fb | ALFRED → BRUCE | x2
+And no doubt use that access for ill purposes...
+.
+
+#### 13cbfe47e0 | ALFRED → BRUCE | x2
+He made you out to be a fraud.
+
+#### b688d5e6f1-LM | ALFRED → BRUCE | x2
+According to this you bought your college degree.
+
+#### c18f95f16a | BRUCE → ALFRED | x2
+Easy to fix.
+
+#### 2133c25e60 | BRUCE → ALFRED | x2
+Computer, give me a visual.
+
+#### 1af744e210 | BRUCE → ALFRED | x2
+Computer, visual.
+
+#### bb461a5916-LM | BRUCE, LUCIUS → LUCIUS, BRUCE | x4
+With it, you could bypass any security system made by Wayne Tech.
+
+#### d758d2be39 | ALFRED → BRUCE | x2
+Your administrative access to Wayne Enterprises should have been reinstated by now, along with your title of CEO.
+
+#### f1d2cd68fa | BRUCE → ALFRED | x2
+That should make this easier...
+
+#### 10c2e9f692-L? | ALFRED | x2
+Now, you were saying?
+
+#### b27de3c92e-SM | ALFRED → BRUCE | x4
+I blame myself, you know.
+
+#### 5b9a363dfe-SM | ALFRED → BRUCE | x8
+For what’s happened. I could have stopped it.
+
+#### 21fb52f463-SM | ALFRED → BRUCE | x8
+I could have stopped Thomas.
+
+#### 284dd7503e | ALFRED | x2
+But you should know...
+
+#### e32754dba6-SM | ALFRED → BRUCE | x2
+I blame myself for what’s happened...
+
+#### 6c760efede | ALFRED → BRUCE | x2
+Then none of these horrors would have occurred...
+
+#### d87bf1c081 | ALFRED → BRUCE | x2
+But I have, haven’t I?
+
+#### 176fb4ff6e | ALFRED → BRUCE | x2
+We both know...
+
+#### 6f24420fea | ALFRED → BRUCE | x2
+This is my fault, what’s happened.
+
+#### 6ec3263267 | ALFRED → BRUCE | x2
+Even those who loved you most.
+
+#### c2c1c2dc0d | choice/UI → ALFRED | x4
+You’re not to blame.
+
+#### 1a1ac55792 | choice/UI → ALFRED | x4
+You couldn’t have stopped this.
+
+#### 0579fd9121 | choice/UI → ALFRED | x6
+We’ll never know.
+
+#### 9758c362eb | ALFRED → BRUCE | x2
+Perhaps that’s for the best.
+
+#### 6227391104 | ALFRED → BRUCE | x2
+Even what happened to Harvey...
+
+#### 8ddd02ba8c | BRUCE → ALFRED | x2
+I don’t blame you for what happened, Alfred.
+
+#### 5abc9d2f18-LM | BRUCE → ALFRED | x2
+You did the best you could in an impossible situation.
+
+#### e247570622 | BRUCE → ALFRED | x2
+And it helped to make me the man I am today.
+
+#### 9c627d684e | BRUCE → ALFRED | x2
+You couldn’t have stopped my father...
+
+#### 56e976fba1-LM | BRUCE → ALFRED | x2
+...and if you’d tried, he would have just killed you.
+
+#### 19b19fd873 | ALFRED → BRUCE | x2
+You’re probably right...
+
+#### 9c00841f9f-SM | BRUCE → ALFRED | x2
+Besides, I need you now.
+
+#### 857570b801 | BRUCE → ALFRED | x2
+Well, I guess we’ll never know.
+
+#### 465f1ef1ab | BRUCE → ALFRED | x4
+We’ve got work to do.
+
+#### 526199bf80 | choice/UI → ALFRED | x4
+All that matters is fixing it.
+
+#### 7a7a774803 | BRUCE → ALFRED | x2
+Whose fault it is doesn’t matter, Alfred.
+
+#### 48632b8830 | BRUCE → ALFRED | x2
+What does, is that we stop them.
+
+#### 4be30a8662-SM | ALFRED | x2
+And I failed.
+
+#### ff5362e13e | ALFRED | x2
+I suppose I shall have to carry that with me, for the rest of my life.
+
+#### 799ca965e0-SM | choice/UI → ALFRED | x4
+I’m glad you didn’t kill him.
+
+#### f0f6797502 | choice/UI → ALFRED | x2
+Vicki Vale Info
+
+#### 59dc93861f | choice/UI → ALFRED | x2
+Vicki Vale Gazette
+
+#### 84bae91bf3 | choice/UI → ALFRED | x2
+Vicki Vale Patient Files
+
+#### 05410ce0c7 | choice/UI → ALFRED | x2
+Vicki Vale Arkham
+
+#### 1906e2502a | choice/UI → ALFRED | x2
+Vicki Vale Wayne Tech
+
+#### f2738e5422 | ALFRED | x2
+EVERYTHING that’s happened.
+
+#### 58afed4fce-L? | ALFRED | x2
+You told me once that you didn’t hold this against me...
+
+#### 79e358e38c | ALFRED | x2
+But. I wonder now, if perhaps you should.
+
+#### 87edfacfa7-SM | ALFRED | x2
+I told you, I nearly left--but then he and your mother died.
+
+#### 66f9ff321b | ALFRED → BRUCE | x2
+But now that I know the magnitude of all he did--of all the lives he destroyed, then and now.
+
+#### f433f0b28d-SM | ALFRED → BRUCE | x2
+I can’t help but wonder if maybe... I should have stopped him when I had the chance.
+
+#### 2eb4f6220e | ALFRED → BRUCE | x2
+Even if that meant doing the...unthinkable.
+
+#### 1c7632966b-LM | BRUCE → ALFRED | x2
+You could have done something. And if you had, things might be different now.
+
+#### bc040d0ca0 | BRUCE → ALFRED | x2
+But I guess we’ll never know...
+
+#### d73b61eb81 | ALFRED → BRUCE | x2
+It’s a burden I’ll carry with me, for the rest of my life.
+
+#### 523fa8aee0 | ALFRED → BRUCE | x2
+And I’ll carry it with me, for the rest of my life.
+
+#### 95f1a5328c-SM | ALFRED → BRUCE | x4
+Everything that happened... I could have stopped it.
+
+#### 6435bda105 | ALFRED → BRUCE | x4
+This, this is my fault. All of it!
+
+#### d56582d842-SM | ALFRED → BRUCE | x4
+I told you I wanted to leave.
+
+#### 55fea139a6-SM | ALFRED → BRUCE | x4
+But if only I had the guts to do something instead.
+
+#### 8b9337cca2-SM | ALFRED → BRUCE | x4
+If I’d stopped Thomas--
+
+#### 24a6aa6c22 | ALFRED | x2
+None of these horrors would have occurred.
+
+#### c4803e3412 | ALFRED → BRUCE | x2
+Even Harvey...
+
+#### 19be8dcc8f | ALFRED → BRUCE | x2
+I’ll have to carry that with me for the rest of my life.
+
+#### ebc107c98b-LM | ALFRED → BRUCE | x4
+You even forgave me for it...
+
+#### a5fc67f6d9-SM | BRUCE → ALFRED | x2
+I’m glad you didn’t try to stop him.
+
+#### 8c4aa04ae2-LM | BRUCE → ALFRED | x2
+You would have had to kill him, and become a murderer yourself.
+
+#### 218c28b345 | BRUCE → ALFRED | x2
+You wouldn’t be the man who made me what I am.
+
+#### 80e60db686 | BRUCE → ALFRED | x2
+Don’t worry, Alfred.
+
+#### 4af45d534b | ALFRED → BRUCE | x2
+And me?
+
+#### f16befbb6e | BRUCE → ALFRED | x2
+...because you didn’t have the guts.
+
+#### 11d164b59f | BRUCE → ALFRED | x2
+She was fostered by the Vales after her parents were killed.
+
+#### 243c26c370 | BRUCE → ALFRED | x4
+And not in the public record -- her true name: Victoria Arkham.
+
+#### d3bf9e2d06 | ALFRED → BRUCE | x2
+And hiding her trail.
+
+#### 965f459922 | BRUCE → ALFRED | x2
+Exactly. No one knew Arkham was her given name. If anyone became suspicious of Vicki Vale, they’d only see what she wanted them to see.
+
+#### f01053f63f | BRUCE → ALFRED | x2
+Something about them rubbed her the wrong way.
+
+#### 28dc5a367c | BRUCE → ALFRED | x2
+She murdered them, brutally.
+
+#### 1d5dccb56f | ALFRED → BRUCE | x2
+Her mask inspires  fear...
+
+#### 836bbd3ffd | ALFRED → BRUCE | x2
+Killed right in front of Vicki...
+
+#### ab5acb0b8f | BRUCE → ALFRED | x2
+By someone my father hired.
+
+#### 96c39634a2 | ALFRED → BRUCE | x2
+They never caught the shooter.
+
+#### 40d305a3bf | ALFRED → BRUCE | x2
+No wonder Vicki doubts the system.
+
+#### 4216cdbed2 | BRUCE → ALFRED | x2
+Killed before they could turn in my father.
+
+#### 175d5b6825 | BRUCE → ALFRED | x2
+Vicki’s biological parents.
+
+#### 6298e63815 | BRUCE → HILL | x2
+Killed by the triumvirate of Falcone, Hill... and my father.
+
+#### db26454de3 | BRUCE → ALFRED | x2
+They’ve been active for at least five years--though no one knew they were organized until recently.
+
+#### 42b365edd0 | BRUCE → ALFRED | x2
+With Penguin gone and my CEO access restored, I can finally log in to Wayne Enterprises...
+
+#### cae6d0ad47 | BRUCE → ALFRED | x2
+...and see exactly what Oswald was doing during his time in charge.
+
+#### 945a271d8e | ALFRED → BRUCE | x2
+Lieutenant Gordon will be out of action for a while, but he’ll survive.
+
+#### 00f50c848c | BRUCE → ALFRED | x2
+Vicki used her gazette connections to uncover which buildings in Gotham had Wayne Tech secuirty systems.
+
+#### dfcf906888 | BRUCE → ALFRED | x2
+And planned to use Oswald’s position as CEO to
+
+#### 200e8dcf12 | BRUCE → ALFRED | x2
+Vicki was interested in which Gotham landmarks had Wayne Tech security systems.
+
+#### 7e4a35170d | BRUCE → ALFRED | x2
+And as CEO, Oswald could have helped her disable those systems.
+
+#### 42bf7f55e2 | ALFRED → BRUCE | x2
+Where would Vicki hope to gain access?
+
+#### 1653cfd796 | BRUCE → ALFRED | x2
+Almost anywhere in Gotham.
+
+#### 43b0d4bbc7 | BRUCE → ALFRED | x2
+Fortunately, she can’t unlock that door remotely. She’ll have to get her hands dirty.
+
+#### 167bb56a88 | BRUCE → ALFRED | x2
+He also erased something from Vicki’s research at the Gazette.
+
+#### 957746afb4 | ALFRED → BRUCE | x2
+Now, that’s certainly suspicious.
+
+#### b4ca53cc34 | BRUCE → ALFRED | x2
+I can’t tell what was removed from here, but Wayne Tech leaves a trace when it alters data.
+
+#### 1f7790d9e2 | BRUCE → ALFRED | x2
+One the Batcomputer can decode.
+
+#### 869b78a90c | BRUCE → ALFRED | x2
+Let’s take another look at Vicki’s Gazette files.
+
+#### 942eeb6524 | BRUCE → ALFRED | x2
+Now that we know how Oswald manipulated Vicki’s records, the Batcomputer should be able to....
+
+#### 21fd6b31f9 | BRUCE → ALFRED | x2
+There. No more holes.
+
+#### d9ab08a48b | BRUCE → ALFRED | x2
+All the pieces back in place.
+
+#### a67bb57f19 | ALFRED → BRUCE | x2
+What is it Miss Vale wanted to hide?
+
+#### bd6caa726a | BRUCE → ALFRED | x2
+Gotham City records, Freedom of Information requests, posts to conspiracy forums..
+
+#### c055391fef | BRUCE → ALFRED | x2
+Vicki was digging deep.
+
+#### e4b3df2c18 | BRUCE → ALFRED | x2
+Gotham City records, Freedom of Information requests, posts to conspiracy forums...
+
+#### 44e7d38729 | BRUCE → ALFRED | x2
+All to find...
+
+#### 88a5e336fe | BRUCE → ALFRED | x2
+This record isn’t complete.
+
+#### f5aaf55df5-LM | ALFRED → BRUCE | x2
+You’re right. There are notable gaps between entries.
+
+#### 998207fb8c | ALFRED → BRUCE | x2
+Perhaps she simply took a vacation during that time?
+
+#### 163270a983 | ALFRED → BRUCE | x2
+But no record that she ceased work as a reporter.
+
+#### 296331d2f8 | BRUCE → ALFRED | x2
+This record wouldn’t be easy to alter.
+
+#### 348a085eaa | ALFRED → BRUCE | x2
+But, from Wayne Enterprise’s seat of power...
+
+#### e4351a95f9 | BRUCE → ALFRED | x2
+Good point.
+
+#### 39fa8134cd | BRUCE → ALFRED | x2
+All we need to know is how.
+
+#### fbff5a4c93 | BRUCE → ALFRED | x2
+Seeing what Oswald was up to could give us a fresh perspective.
+
+#### 694d196e57 | BRUCE | x2
+I’ll need to have a long chat with the board about that entire mess.
+
+#### 9d05963584 | BRUCE | x2
+But for the time being, let’s see how Oswald used his time in my chair.
+
+#### adb2ddf50f | BRUCE | x2
+Vicki Vale’s public record.
+
+#### 3ba20bdf8a | BRUCE | x2
+Their symbol has been seen tagged about the city for at least five years, but they never became a threat till recently.
+
+#### 49399549ae | BRUCE | x2
+Their symbol dates back much farther than their terrorist activity.
+
+#### 08d7035525 | BRUCE | x2
+Until they found a leader Gotham couldn’t ignore.
+
+#### 43f87eb4c1 | BRUCE | x2
+The Children of Arkham.
+
+#### ca44a1f238 | BRUCE → ALFRED | x2
+They formed to get justice for those wronged at Arkham Asylum...
+
+#### d0f9078988 | BRUCE → ALFRED | x2
+...but the message fell on deaf ears.
+
+#### 381739156c | BRUCE → ALFRED | x2
+She may have left clues about what she wanted to use Oswald’s access for.
+
+#### c65e03cb50 | ALFRED → BRUCE | x2
+But I don’t feel I completely deserve your faith.
+
+#### 2c9e6f6db0 | ALFRED → BRUCE | x2
+What shall we investigate first?
+
+#### 68c5fb8f3c | BRUCE → ALFRED | x2
+If I cross reference that with all the data we have on Vicki Vale...
+
+#### 2d94cad077 | BRUCE → ALFRED | x2
+We might be able to figure out the Children of Arkham’s next move.
+
+#### a8175ade92 | BRUCE → ALFRED | x2
+And stop it before it happens.
+
+#### 2afe63de04 | BRUCE → ALFRED | x2
+But without a man inside Wayne Enterprises, she can’t unlock that door remotely. She’ll have to get her hands dirty.
+
+#### 3ef977f48a | BRUCE → ALFRED | x2
+Oswald hid Vicki’s past from the world.
+
+#### 13e803d9c8 | ALFRED → BRUCE | x2
+All mention of her birth name, “Victoria Arkham,“ is completely gone.
+
+#### 8f66141cfe | ALFRED → BRUCE | x2
+But, I have.
+
+#### a1ea40ebe5-SM | ALFRED → BRUCE | x2
+I told you I wanted to leave your father’s employ.
+
+#### 36307923aa | ALFRED → BRUCE | x2
+If I’d done something all those years ago...
+
+#### 82688fba9f | ALFRED → BRUCE | x2
+But he lost the title and access, along with his freedom.
+
+#### d2004cf759 | BRUCE → ALFRED | x2
+Without a man inside Wayne Enterprises, Vicki can’t unlock that door remotely. She’ll have to get her hands dirty.
+
+#### 26fef64223 | ALFRED → BRUCE | x2
+What? But Lucius locked everything away!
+
+#### c3aefe4bfd | BRUCE → ALFRED | x2
+Well, he needed a better lock.
+
+#### 5002721102 | ALFRED → BRUCE | x2
+But yet... it doesn’t seem she ever left the Gazette’s employ. So what was she doing in that time?
+
+#### e00a576d05 | BRUCE → ALFRED | x2
+Something she wanted to hide.
+
+#### c96074fedf | ALFRED → BRUCE | x2
+And she used Oswald’s CEO access to hide it.
+
+#### 7a0436fb52 | BRUCE → ALFRED | x2
+She may have left clues about why she wanted Oswald’s access.
+
+#### f0f54f7634-LM | ALFRED → BRUCE | x2
+You’re right, sir.
+
+#### db0d6d9887 | choice/UI → ALFRED | x2
+Lady Arkham File
+
+#### 689c85201e | choice/UI → ALFRED | x2
+Wayne CEO Login
+
+#### bbe7fb327f | choice/UI → ALFRED | x2
+Surveillance
+
+#### f25ce1b8a3 | choice/UI → ALFRED | x2
+Security
+
+#### e51c55255b | choice/UI | x2
+Records
+
+#### ac29ba7786 | choice/UI | x2
+Financial Report
+
+#### bbf0a29b91 | choice/UI | x2
+Real Estate
+
+#### e8a4643840 | choice/UI | x2
+[Victoria Vale]
+
+#### f03e2d0768 | choice/UI → ALFRED | x4
+Go Back
+
+#### 5e27c16869 | choice/UI | x2
+The Vales
+
+#### c7303aa94e | choice/UI | x2
+The Arkhams
+
+#### 4d0a82a500 | choice/UI | x4
+Children Of Arkham
+
+#### 24f096b221 | choice/UI | x4
+Return
+
+#### 450862beb9 | choice/UI | x2
+Arkham Files
+
+#### e239a5eeb8 | choice/UI | x2
+Read.
+
+#### 8594882047 | choice/UI | x2
+Unlock.
+
+#### e6b7fabfe3 | choice/UI | x2
+Oswald Cobblepot File
+
+#### 1fcf5cdee6 | choice/UI | x2
+Bruce Wayne File
+
+#### e6105f8ec6 | choice/UI | x2
+Victoria Vale File
+
+#### 0c79085984 | choice/UI → ALFRED | x4
+Investigate Oswald Cobblepot to determine his connection to Vicki.
+
+#### 72f97ca95b | BRUCE → ALFRED | x2
+We need to let Lucius know.
+
+#### 865f66cdb9 | BRUCE → OSWALD, PENGUIN | x2
+And Alfred, let Lucius know what’s happened.
+
+#### bc878b3d80 | PENGUIN → OSWALD, ALFRED | x2
+You can do whatever you want to me, but Lady Arkham’s plans are already in motion!
+
+You can do whatever you want to me, but Lady Arkham’s plans are already in motion!
+
+#### 8bd2cd3c6e | ALFRED → OSWALD, PENGUIN | x2
+Your mother, she wanted that -- wanted to put an end to his crimes.
+
+#### 56c9d56454-SM | ALFRED → OSWALD, PENGUIN | x2
+If I’d helped her--
+
+#### 39c286e206 | ALFRED → PENGUIN | x2
+She had nothing to do with it.
+
+#### 035c88deb9 | ALFRED → BRUCE | x2
+In fact, once she learned what Thomas was doing she did her best to put an end to it.
+
+#### 0b724ea74e-SM | ALFRED → BRUCE | x2
+Perhaps if I’d helped her...
+
+#### be49795653 | ALFRED → BRUCE | x2
+Your mother, Martha...
+
+#### a3c5a060c1 | BRUCE → ALFRED | x2
+Most of my tech isn’t working. It’s going to take time to get everything up and running again...
+
+#### 97078eaaac | BRUCE → ALFRED | x2
+...if it gets running again.
+
+#### 39dac8355b | BRUCE → ALFRED | x2
+Well, at least the batcomputer’s still working, despite Penguin’s best efforts.
+
+#### 834eac6833-SM | BRUCE → ALFRED | x2
+It’s a good thing I stopped him when I did.
+
+#### d96b681ccf | ALFRED → BRUCE | x2
+It’s better you don’t rely on me.
+
+#### 79ad94c3d2 | BRUCE → ALFRED | x6
+Dammit...
+
+#### 8180f00845 | BRUCE → ALFRED | x4
+Can’t access the news feed...
+
+#### e696931f00 | BRUCE → ALFRED | x4
+Can’t access the codex...
+
+#### bbc5a29ece | BRUCE | x4
+Feed’s not working...
+
+#### d1db600ea4 | BRUCE | x4
+Codex not working...
+
+#### 4d17f16f40 | BRUCE → ALFRED | x4
+Need to get this working again...
+
+#### c42593d7e9 | ALFRED → BRUCE | x2
+I understand why you’d feel that way...
+
+#### 1ce86399cb | ALFRED → BRUCE | x2
+You must blame me...
+
+#### 4d99941d85 | BRUCE → ALFRED | x2
+Rebooting the batcomputer must have knocked it out.
+
+#### fb8e9a16ed | ALFRED → BRUCE | x2
+In the end, Bruce Wayne was the one to stop Penguin.
+
+#### d0e3a1200b | ALFRED → BRUCE | x2
+How is that any different than the “backdoor” into the Wayne network that he uncovered?
+
+#### 2c1ebbc2ee | BRUCE → ALFRED | x2
+If Penguin was the brawn, then Vicki was the brains.
+
+#### 77b2ef63b2 | BRUCE → ALFRED | x2
+Vicki wants to bypass the security at a Gotham landmark.
+

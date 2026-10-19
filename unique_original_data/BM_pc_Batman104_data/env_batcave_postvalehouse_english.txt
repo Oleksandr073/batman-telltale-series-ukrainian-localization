@@ -1,0 +1,3145 @@
+﻿#### 4c09f7f997 | BRUCE → LUCIUS, ALFRED | x10
+Looks like Penguin added a bit of an after-market modifications to these prototypes...
+
+#### 0799d4bbff | BRUCE → LUCIUS | x2
+Let’s see how Oz found me...
+
+#### 128a6f5d90 | LUCIUS → BRUCE | x2
+Hm, the new audio-tracking array. That kit’s military-grade; Hasn’t even been tested in the field yet.
+
+#### e71f2ac78c | LUCIUS → BRUCE | x2
+It’s funny; I wouldn’t have pegged Cobblepot as the type to know how to do this.
+
+#### 8a63731da1 | BRUCE → LUCIUS | x2
+That’s what’s worrying me... Let’s see what he had plugged in as the tracking source.
+
+#### 938f89ea4d | LUCIUS → BRUCE | x6
+Well, except in your Bat-drones, of course.
+
+#### 8d6120cb31 | LUCIUS → BRUCE | x2
+He seems a little more... how do I say it... rough around the edges?
+
+#### 2dd83fc1b8 | LUCIUS → BRUCE | x2
+Not really the computer type?
+
+#### 35ea6c9949 | BRUCE → LUCIUS | x2
+I wouldn’t underestimate Oz, Lucius. He’s smart and he’s ambitious - That can be a deadly combo.
+
+#### d752709b77 | LUCIUS → BRUCE | x2
+Especially when he’s sitting on top of a veritable treasure-trove of the next decade’s top tech.
+
+#### a8a43e84d8-LM | BRUCE → LUCIUS | x2
+Aw come on - Give yourself some credit, Lucius.
+
+#### 5fc98f830d | BRUCE → LUCIUS | x2
+You just make your equipment so user-friendly even a sociopathic thug like Penguin can use it.
+
+#### b6689ba895 | LUCIUS → BRUCE | x2
+Ha. Be sure to remember that praise the next time he’s trying to take your head off with something of mine.
+
+#### 7b7abdbfe1 | BRUCE → LUCIUS | x2
+You and me both, Lucius. Makes me think that the Children of Arkham must be helping him.
+
+#### 2441032ff8-SM | LUCIUS → BRUCE | x2
+Hm. I was worried enough about one slimeball in my R&D wing without the thought of all those nutcases in there with him.
+
+#### ac589425a8 | LUCIUS → BRUCE | x2
+If he found this... well it’s concerning.
+
+#### fed19b474d | choice/UI → LUCIUS | x2
+He’s smarter than he seems.
+
+#### 9521c38a99 | choice/UI → LUCIUS | x4
+Take the system offline
+
+#### 347b21d1cf | choice/UI → LUCIUS | x2
+Or your tech’s THAT user-friendly.
+
+#### 5be6774b3f | choice/UI, BRUCE → LUCIUS | x8
+How do I stop it?
+
+#### 2fe36302e2 | choice/UI | x2
+The CoA must be helping him.
+
+#### d45037a9f8 | choice/UI | x2
+Don’t do it again.
+
+#### 18faa9a21a | choice/UI | x2
+Let’s just move on.
+
+#### c5e3c12dda | choice/UI → LUCIUS | x2
+I forgive you, Lucius.
+
+#### ec8f2b0bba | choice/UI | x2
+It’s no excuse.
+
+#### 594f1ffad6 | choice/UI | x2
+She and I are nothing alike.
+
+#### 832cbd9765-SM | choice/UI | x2
+I had people like you.
+
+#### 1e0cfe03b2 | choice/UI | x2
+It’s useful information.
+
+#### fe4de43e74 | choice/UI | x2
+I’M not like that.
+
+#### 1daf2a95e3 | choice/UI | x2
+Don’t get sappy on me, Al.
+
+#### 7697265062 | choice/UI | x2
+How did they get it?
+
+#### 8fa3225300-L? | choice/UI | x2
+Did you have something to do with this?
+
+#### 76c434d323-SM | choice/UI | x2
+I thought we sealed the room.
+
+#### 9cde954bf6-L? | choice/UI | x4
+You could have given him access.
+
+#### c8c7ec90e9-SM | choice/UI | x4
+Of course not, I just need your help.
+
+#### 010ea75d52 | choice/UI → LUCIUS | x6
+Negligence.
+
+#### 769b161fdf-L? | choice/UI | x2
+You could have given them access.
+
+#### b65b8bbf5e | choice/UI | x2
+I just want your opinion.
+
+#### b05c97f89b-L? | choice/UI | x2
+You need to step up security.
+
+#### 59b83cf24e-L? | choice/UI | x2
+You gave him the drone.
+
+#### 91e8998f18-SM | choice/UI, BRUCE → LUCIUS | x6
+I just wanted your opinion.
+
+#### 6f3d10a538 | BRUCE → LUCIUS | x2
+This is how he’s been tracking me.
+
+#### 9157f90aad-LM | LUCIUS → BRUCE | x2
+And he can track you based on that.
+
+#### d926c0db24 | LUCIUS → BRUCE | x10
+That’s the new audio-scanning array. That kit’s military-grade; Hasn’t even been tested in the field yet.
+
+#### 6ccddd1e2b | LUCIUS → BRUCE | x8
+No, thankfully.  There is no GPS association, It just hears what you say and feeds it back to the listener.
+
+#### e337208a1e | BATMANBRUCE → LUCIUS | x10
+Take a look {ConcernedA}at this.
+
+#### 06343173ed-SM | LUCIUS → BATMAN | x8
+You{BodyAccent} don’t {DisgustA}{FaceAccent}think I had anything {ConcernedA}to do with this?
+
+#### 3d978f1f81 | BATMANBRUCE → LUCIUS | x8
+It found{SurpriseA} {ConcernedA}me.
+
+#### bfb2627c3c-SM | LUCIUS → BATMAN | x2
+It’s the same drone prototype I showed you. It’s Wayne Tech -- no doubt about it.
+
+#### ee0a025e6e-LM | LUCIUS → BATMAN, BRUCE | x8
+Where did you find {FaceAccent}this?
+
+#### a67c40fcf2 | LUCIUS → BATMAN | x4
+How’s that possible?
+
+#### d5f6ae1acf-SM-LM | BRUCE → LUCIUS | x4
+I was hoping you could tell me.
+
+#### 9315684449-LM | BATMANBRUCE → LUCIUS | x4
+You could’ve told him about{ThinkingA} R & D wing.
+
+#### c9a8d76da9 | LUCIUS → BRUCE | x2
+Think about what you’re saying.
+
+#### d0cfa4a307 | LUCIUS → BRUCE | x4
+I quit working for Wayne Enterprises the day the last ‘Wayne’ was taken out of it.
+
+#### cd10974a50-LM | LUCIUS → BATMAN | x2
+You asked me to come work for you here.
+
+#### 8294372005 | LUCIUS → BATMAN, BRUCE | x4
+It’s reasonable to assume that Oswald gained access himself.
+
+#### 0942808363 | LUCIUS → BATMAN, BRUCE | x4
+He is the C.E.O. after all.
+
+#### 7b48c76857 | BATMANBRUCE → LUCIUS | x6
+Of course{ThinkingA} not.
+
+#### b943314bdf | BRUCE → LUCIUS | x6
+Of negligence -- that’s what.
+
+#### a066b73dd9 | BRUCE → LUCIUS | x2
+Batcomputer, get me Lucius Fox.
+
+#### 769b161fdf-LM | choice/UI → LUCIUS | x2
+You could have given them access.
+
+#### 7e10b0bd50 | LUCIUS → BRUCE | x2
+When?!
+
+#### 9cde954bf6-LM | BRUCE → LUCIUS | x2
+You could have given him access.
+
+#### 956b452b57 | LUCIUS → BRUCE | x2
+Just what are you accusing me of?
+
+#### 3e5b27001c | LUCIUS → BRUCE | x4
+Good evening, Bruce. {ThinkingA}{FaceAccent}How can I help?
+
+#### 261be8c9ef | LUCIUS → BATMAN | x2
+Bring it closer.
+
+#### 7b60de6aa2 | LUCIUS → BATMAN, BRUCE | x4
+Yes. It’s one of ours.
+
+#### 71d9fe729a-LM | BRUCE → LUCIUS | x2
+You gave it to him -- didn’t you?
+
+#### a1c2074d6e | LUCIUS → BRUCE | x2
+In a matter of speaking -- yes.
+
+#### 0e34218b4d | BRUCE → LUCIUS | x2
+You sold me out.
+
+#### ae0213d1cf | LUCIUS → BRUCE | x2
+Wait a minute, Bruce. Let me explain.
+
+#### 3e240332c9-SM | LUCIUS → BRUCE | x2
+I had to give him something.
+
+#### d57dc6c500-SM | LUCIUS → BRUCE | x2
+If I was there I could tell you how it was modified -- but I’m not.
+
+#### 962274c164-SM | LUCIUS → BRUCE | x2
+I need to get back to Mr. Cobblepot before he tracks this transmission.
+
+#### 3c4ede49f5 | BRUCE → LUCIUS | x2
+I always am.
+
+#### d2685ad79e | LUCIUS → BRUCE | x2
+You’re on your own on this one, Bruce.
+
+#### 986c5f604f | LUCIUS → BRUCE | x4
+I don’t like where this conversation is going.
+
+#### 90b44e25ba | LUCIUS → BRUCE | x2
+So if you
+
+#### cbf8d585b8-LM | BRUCE → LUCIUS | x4
+You told me that section of the building was innaccessable.
+
+#### 1f542a8440 | LUCIUS → BRUCE, BATMAN | x6
+It was.
+
+#### 1fa2f097d2 | BRUCE → LUCIUS | x4
+Then how did he get into it?!
+
+#### 200cfccf30 | ALFRED → BRUCE | x2
+You both witnessed the death of your parents.
+
+#### c9f53485c6-SM | BRUCE → ALFRED | x2
+I’ve got bigger problems than a kid.
+
+#### 3ef2606f5e | BRUCE → ALFRED | x2
+I’m not a social worker.
+
+#### 5677c147bb | ALFRED → BRUCE | x2
+That’s a matter of perspective.
+
+#### 932b089fe1-SM | ALFRED → BRUCE | x2
+I just got off the phone with child services.
+
+#### 267b1ade96 | BRUCE → ALFRED | x4
+He’s safe then?
+
+#### 63d360abdf | ALFRED → BRUCE | x2
+The boy is safe -- but the social worker said
+
+#### adbe6f1b67-LM | ALFRED → BRUCE | x2
+The boy you found at the Vales.
+
+#### 88db1addf5 | ALFRED → LUCIUS | x2
+Do you think he’ll be okay?
+
+#### d4fd856385-SM-LM | BATMANBRUCE → LUCIUS, ALFRED | x8
+I just wanted to see if you had any {ConcernedA}theories.
+
+#### 72b51a3287 | LUCIUS → ALFRED | x2
+As a matter of fact I do.
+
+#### bfc6242db4 | LUCIUS → BRUCE, BATMAN, ALFRED | x10
+He *is* the C.E.O. now.
+
+#### 771a97012a | LUCIUS → BATMAN | x2
+It’s no suprise he found a way into the R & D department.
+
+#### f44f1ada7b | BRUCE → LUCIUS | x2
+But we sealed it off.
+
+#### 371d58155d | LUCIUS → BRUCE | x2
+Seals are meant to be broken.
+
+#### 87a9070838 | LUCIUS → BRUCE | x2
+You should know that better than anyone.
+
+#### ea280fc5e5-SM | LUCIUS → BRUCE, BATMAN | x10
+But if I were to take an {SkepticalA}educated guess --{BodyAccent} I {FaceAccent}don’t think it would be so hard to imagine that Oswald found the{SkepticalB} R & D room on his {FaceAccent}own.
+
+#### 397896783d-SM | LUCIUS | x2
+I left the da
+
+#### 4217adbe9c | LUCIUS → BATMAN, BRUCE, ALFRED | x8
+I quit working for Wayne Enterprises the day the last ‘Wayne’ left.
+
+#### c33de7d699 | LUCIUS → ALFRED, BATMAN | x8
+It’s reasonable to assume that Oswald gained access to the R & D department himself, despite our efforts to close it off.
+
+#### dd926cfe25-SM | LUCIUS → BRUCE, BATMAN | x4
+I developed all of your Tech -- {FaceAccent}{BodyAccent}{DisgustA}every single piece.
+
+#### 159241cdb7-SM | LUCIUS → BRUCE | x2
+Even if I wanted to, I don’t have
+
+#### b7b70cb311 | BRUCE, SELINA → LUCIUS | x4
+Are you?
+
+#### c0976b53a9 | BRUCE → LUCIUS | x2
+If Oswald can track my voice -- what’s stopping him from tracking down the location of the Batcave?
+
+#### 49b20a1426 | LUCIUS → BRUCE | x4
+Not as much as I’d like.
+
+#### 4c3a8b097b | LUCIUS → BRUCE | x4
+There has been a growing number of attempts to crack the Batcomputer’s firewall over the last forty-eight hours.
+
+#### 848d9a7869-SM | LUCIUS → BRUCE | x4
+I was wondering who was behind it -- now we know.
+
+#### 5cdfca7388 | LUCIUS → BRUCE | x10
+As long as there’s a door, someone will always try to open it.
+
+#### 7a9be8c8a1 | BRUCE → LUCIUS | x2
+Will it hold?
+
+#### c7c2d7a3a0 | BRUCE → LUCIUS | x4
+Take the system offline now.
+
+#### 27442e2a38 | LUCIUS → BRUCE | x2
+The entire Batcomputer?
+
+#### 1450368a88 | BRUCE → LUCIUS | x2
+Yes. I can’t risk it being breached.
+
+#### 607d52d749 | LUCIUS → BRUCE | x10
+I can’t do it from here.
+
+#### 6d33a94d92 | LUCIUS → BRUCE | x4
+The systems they’re using are hardwired from within Wayne Tower.
+
+#### 68b886d6ba | LUCIUS, PENGUIN, BRUCE → BATMAN, BRUCE, SELINA | x16
+I can’t do that.
+
+#### 1747f46d16 | LUCIUS → BRUCE, ALFRED | x16
+I’m under constant watch here.
+
+#### de0e3900f8-LM | LUCIUS → BRUCE | x2
+Where did you find it?
+
+#### 510483f1ab | BRUCE → LUCIUS | x2
+No -- you didn’t.
+
+#### fd9bff351b-SM | LUCIUS → BRUCE | x2
+I figured if I gave him some shiny new toy to play with -- he would stop digging.
+
+#### 37af0f7594 | BRUCE → ALFRED | x2
+He’ll do just fine.
+
+#### fa52ae486c | ALFRED → BRUCE | x2
+That’s debatable.
+
+#### 47d0d4a75f | ALFRED → BRUCE | x2
+He witnessed the murder of his parents.
+
+#### 356c29a52c | ALFRED → BRUCE | x2
+That’s not something{SadA} you just{BodyAccent}{FaceAccent} recover from.{ConcernedA}
+
+#### 088df13fe4 | ALFRED → BATMAN | x2
+Perhaps you can help him.
+
+#### f6800c21b5 | BATMANBRUCE → LUCIUS, ALFRED | x6
+Any idea how{ThinkingA} he got his {BodyAccent}{FaceAccent}hands on it?
+
+#### 87b0b1ac50 | BRUCE → ALFRED | x2
+He’ll never be the same.
+
+#### 4ee83deb51 | ALFRED → BRUCE | x2
+You should know that better than anybody.
+
+#### 4ea17f7c07-SM | BRUCE → ALFRED | x2
+I never did.
+
+#### 8a8a6b31a2 | ALFRED → BRUCE | x2
+If you stay -- There’s a good chance that Oswald will hack into your Bat-Tech.
+
+#### 9aa0f7efeb | BRUCE → LUCIUS | x2
+Lucius -- do you think you can keep Oswald at bay for a couple of hours?
+
+#### ad78a8eaec | BRUCE → ALFRED | x2
+Alfred -- watch this firewall.
+
+#### 3c8539ed66 | BRUCE → LUCIUS | x2
+Call me the moment it’s being breached.
+
+#### 8b7b359ff9 | LUCIUS → BRUCE | x2
+A couple of hours, yes. Any more than that -- I don’t know.
+
+#### d71f3c34f8 | ALFRED, LUCIUS → BATMAN, BRUCE | x10
+Will do.
+
+#### 1da212a622 | BRUCE → ALFRED | x2
+He’ll never be the same again.
+
+#### f155e4fc76 | BRUCE → ALFRED | x2
+Neither of us will.
+
+#### 4b693041a0 | ALFRED → BRUCE | x2
+Perhaps yo
+
+#### 77b6cbff1a | ALFRED → BRUCE | x4
+Bruce, what happened back there?
+
+#### 39780e8080-SM | choice/UI → ALFRED | x2
+I scared him.
+
+#### 81774d851d-SM | BATMAN, choice/UI → HARVEY, ALFRED | x6
+I saved him.
+
+#### 8211a1fa21 | ALFRED → BRUCE | x2
+The social worker -- she said the boy had some traumatic encounter with Batman.
+
+#### ee4055f10f | ALFRED → BRUCE | x2
+That he’s
+
+#### 0bb77fe23a | ALFRED → BRUCE | x2
+That he
+
+#### f6af91de28-SM | ALFRED | x2
+The person I{FaceAccent} spoke with said the boy wouldn’t stop going on about how he was{FaceAccent} saved by {FaceAccent}Batman.
+
+#### f2e723b0a1 | ALFRED → BRUCE | x4
+It was quite touching.
+
+#### c4b17c957f | ALFRED → BRUCE | x2
+You must have really given him a scare.
+
+#### 9082048956 | ALFRED → BRUCE | x2
+What exactly did happen back there?
+
+#### a1ed98411f-LM | ALFRED → BRUCE | x4
+I wish you would open
+
+#### 878bafa37a-SM | BRUCE → ALFRED | x2
+He thought I was a monster.
+
+#### 53e4f4ae9e | ALFRED → BRUCE | x4
+He seemed quite shaken up.
+
+#### 6240313dc4-LM | ALFRED → BRUCE | x2
+So you decided to be one?
+
+#### 3dee156302-LM | LUCIUS → ALFRED | x2
+Where did you this one?
+
+#### ece2fbbcae | BATMANBRUCE → LUCIUS, ALFRED | x10
+Oswald sent it after me.{BodyAccent} {AngryA}Almost killed a{FaceAccent} kid.
+
+#### 0648c7a388 | LUCIUS → BATMAN | x4
+If you’re going to accuse me of something -- just do it.
+
+#### 015d1f6a07-SM | LUCIUS → BRUCE, BATMAN | x6
+I do. [beat] I gave it to him.
+
+#### e26a296e33 | LUCIUS → BATMAN | x4
+Oswald was beginning to ask questions about the money {ThinkingB}being funneled into the {SkepticalA}R & D department.
+
+#### d49f95e7e5-SM-LM | BRUCE → LUCIUS | x2
+I just wanted to see if you had any idea on how he could’ve gotten a hold of this tech.
+
+#### 864405c876-SM | LUCIUS → BRUCE | x2
+Look, before this gets blown out of proportion...Yes, I gave him the drone.
+
+#### 56fbb5b753 | BRUCE → LUCIUS | x2
+You better have a damn good reason!
+
+#### c2ba2c1f84-SM | LUCIUS → BRUCE | x2
+I gave it to him -- that’s how.
+
+#### 1dfd41c087-SM | LUCIUS → BRUCE | x2
+I’m sorry, Bruce. But I had to.
+
+#### b4f945732c | LUCIUS → BRUCE | x2
+Please understand.
+
+#### 5bcc92a552 | LUCIUS → BRUCE | x2
+Bruce, you have to believe me.
+
+#### c1b3f88ef4 | LUCIUS → BRUCE, BATMAN | x4
+I {ConcernedA}{FaceAccent}have no idea {AngryA}how he got this.
+
+#### 6cdd97ab2e | BRUCE → LUCIUS | x2
+What in the hell is this?
+
+#### a3e434b417 | LUCIUS → BRUCE | x4
+It’s one of ours -- a new drone prototype called the ‘Bird of Prey.‘
+
+#### 651aa4e7ce | BRUCE → LUCIUS | x2
+How could you be so stupid?
+
+#### f3d7f51e09 | LUCIUS → BRUCE | x2
+Of course I do. And if you want to hear it I suggest you reconsider how you address me.
+
+#### 0acd30b33e | LUCIUS → BRUCE | x2
+If you’re going to hurl insults at me
+
+#### 2a547b8c15 | LUCIUS → BRUCE | x2
+It’s not stupid, Bruce.
+
+#### 3adca37556 | LUCIUS → BRUCE | x2
+It was a strategic move.
+
+#### 616300789a-SM | LUCIUS → BRUCE | x2
+If I wanted to sell you out, I would’ve given him the Batcave.
+
+#### 138383b260-SM | BRUCE → LUCIUS | x2
+I’m suprised you haven’t.
+
+#### 9cd60470a7 | BRUCE → LUCIUS | x10
+Then how did it find me?
+
+#### 01c3670399-LM | BATMANBRUCE → LUCIUS | x4
+I see. {FaceAccent}{ConcernedA}You were just looking out for me.
+
+#### 6e83b686f9-SM | LUCIUS → BRUCE, BATMAN | x4
+What I did --{ThinkingA} I did to protect {FaceAccent}you.
+
+#### 8ba65d45ea | LUCIUS → BATMAN | x4
+To protect your {FaceAccent}{BodyAccent}secret.
+
+#### ae50f95dc7 | BRUCE → BATMAN | x2
+I don’t know if I can trust you any more.
+
+#### d4994243c2-LM | BATMANBRUCE → BRUCE, LUCIUS | x4
+You’re not {FaceAccent}authorized to{ThinkingB} make decisions like that.
+
+#### 45b61994ef | BATMANBRUCE → BRUCE, LUCIUS | x4
+And don’t give him anything else.
+
+#### 5799726b28 | BRUCE → BATMAN | x2
+No more mistales.
+
+#### 195d85bc65 | BRUCE → BATMAN | x2
+We can’t afford any more mistakes.
+
+#### 1433c2625a | LUCIUS → BRUCE, BATMAN | x4
+I don’t plan on it.
+
+#### 888b2d98ef | BRUCE → LUCIUS | x2
+Any idea on how he was able to track me with this thing?
+
+#### e5c30391b2 | LUCIUS → BRUCE | x2
+That wasn’t part of the original product design.
+
+#### 32c15a545d-SM | LUCIUS → BRUCE | x2
+I had to give him an explanation.
+
+#### 9d7806576b-SM-LM | LUCIUS → BATMAN, BRUCE | x8
+I’m just glad you {SkepticalB}asked me to stay on at{ThinkingA} Wayne Enterpises...
+
+#### df8bc4cf87 | LUCIUS → BATMAN | x8
+If I wasn’t here -- {ThinkingA}who knows what else he would have found.
+
+#### b7d2a060af | LUCIUS | x2
+If you want me to help you -- you’re going to have to trust me.
+
+#### 9d7806576b-SM-L? | LUCIUS | x4
+I’m just glad you {SkepticalB}asked me to stay on at{ThinkingA} Wayne Enterpises...
+
+#### bee2d526db | LUCIUS → BATMAN | x4
+I’m all that stands between Oswald and {FaceAccent}{ThinkingA}everything that makes you Batman.
+
+#### 1ccb220224 | LUCIUS → BRUCE | x4
+It was the right call, Bruce. {ThinkingA}And I stand by it.
+
+#### fe909b4f49 | LUCIUS | x2
+Let’s take a look.
+
+#### 1453bd9fb4 | LUCIUS → BRUCE | x4
+The best thing we can do is to keep actively intercepting the cyber attacks.
+
+#### 3db5533688-SM | LUCIUS → BRUCE | x8
+I’ll throw every resource I’ve got at it -- but it may not be enough.
+
+#### 8cfd12506a-SM | LUCIUS → BRUCE | x4
+I {FaceAccent}had to give{ConcernedA} him an explanation -- {ThinkingA}so I gave him the drone. {SkepticalA}Told him the money was being used to develop them.
+
+#### c7ddedd234 | LUCIUS → BRUCE | x4
+You can find its schematic in the Wayne Tech server in your Batcomputer.
+
+#### 4a438dd183 | LUCIUS → BRUCE, ALFRED | x8
+Listen, I have to go.
+
+#### b3db664032 | BRUCE → LUCIUS | x2
+What’s to stop
+
+#### 0efb196edd | BRUCE → LUCIUS | x2
+The past is the past -- you either leave it behind or become consumed by it. End of story.
+
+#### f89e34c8c8 | LUCIUS → BRUCE | x2
+You can find a schematic in the Wayne Tech server of your Batcomputer.
+
+#### e03fd95e52 | LUCIUS → BRUCE | x2
+Let’s scan it and see what new bells and whistles.
+
+#### 0b9ba2e3aa | BRUCE → LUCIUS | x8
+It has now.
+
+#### 41b3a7e667-SM | LUCIUS → BRUCE, BATMAN | x4
+If I was still at Wayne Tower{FaceAccent}{AngryA} -- I might have been able to prevent {ThinkingB}this breach.
+
+#### 85832531a3-LM | ALFRED → LUCIUS | x2
+I wish you would show more sensitivity.
+
+#### 8ca3caf54f | LUCIUS → BRUCE | x2
+Bruce, I have no idea how he got a hold of this.
+
+#### 6afc54e2de-SM | LUCIUS → ALFRED | x2
+If I were still there -- this may have not happened.
+
+#### b6f807cb4e | LUCIUS → BRUCE | x2
+I’ve been working for you for years
+
+#### 2c8f517970 | BRUCE → LUCIUS | x2
+You’re the only person with access.
+
+#### 817fac9f63 | LUCIUS → BRUCE | x2
+It wouldn’t be too hard for him.
+
+#### d507e341a9-LM | LUCIUS → BRUCE, BATMAN | x4
+You’re lucky you asked{AngryA} me to stay on at {SkepticalA}Wayne Enterprises.
+
+#### 3c7e3f6009 | LUCIUS → BRUCE | x2
+I’m beginning to regret not staying on.
+
+#### de7df90dc4-SM | BRUCE → ALFRED, LUCIUS | x6
+I was never very good with children.
+
+#### baeddf8849-LM | LUCIUS → BRUCE | x6
+Penguin found you based on that, but it can’t be used to actually track your location.
+
+#### 4e090d4410 | BRUCE → LUCIUS | x2
+That’s new.
+
+#### 41168211b6 | LUCIUS → BRUCE | x8
+I hate to say it -- but it’s pretty innovative.
+
+#### f9f37cae19 | BRUCE → LUCIUS | x2
+Better to hear you with.
+
+#### b79d6b3294 | BRUCE → LUCIUS | x2
+I haven’t seen this before.
+
+#### d02862f102-LM | BRUCE → ALFRED | x2
+Where have you been?
+
+#### 1a4c0b979b | ALFRED → BRUCE | x2
+Dissecting that thing already.
+
+#### 1a6a9cf243 | ALFRED → BRUCE | x2
+What is that? Some kind of antenna?
+
+#### 9f8efeca53 | BRUCE → ALFRED | x2
+It looks like it.
+
+#### c871147d2f | BRUCE → ALFRED | x2
+Oswald must be using it to pick up an audio signal.
+
+#### becad9baea-SM | ALFRED → BRUCE | x2
+Bruce -- I need to talk to you.
+
+#### 6088ca3684 | ALFRED → BRUCE | x2
+The better to hear you with.
+
+#### 284851cd48 | BRUCE → ALFRED | x2
+It’s a voice-modulation detector.
+
+#### 7f7458f622 | BRUCE → PENGUIN | x2
+Penguin -- he’s tracking
+
+#### 7816cf9ce8 | BRUCE → LUCIUS, ALFRED | x8
+Well, he found it.
+
+#### 69a26055eb | ALFRED, BRUCE → BRUCE, LUCIUS | x10
+He’s been looking for Batman’s voice.
+
+#### 1b11dd7c6a | BRUCE → ALFRED | x2
+About?
+
+#### c96f7df778 | BRUCE → ALFRED | x2
+The Batcomputer -- it’s being hacked.
+
+#### d64c2846fa | BRUCE | x2
+Oh no.
+
+#### 3d2840312a | BRUCE → LUCIUS | x2
+Penguin has been
+
+#### f97f0a9c9b | BRUCE → LUCIUS, ALFRED | x4
+He’s programmed the drones to scan communication signals based on the frequency of my voice modulation.
+
+#### a90e40e930 | LUCIUS → BRUCE | x2
+He’s been looking for Batman’s unique audio signature.
+
+#### 17bcbb50b6-SM | LUCIUS → BRUCE | x2
+If I had known he was going to use them against you -- I would’ve given him something else.
+
+#### 249bd8be6c-SM | LUCIUS → BATMAN | x6
+If only I was there.
+
+#### 2b185a625b | LUCIUS → BATMAN | x6
+The systems they’re using are hardwired from Wayne Tower.
+
+#### 2c0b74c0fc-L? | LUCIUS | x2
+To take it down you’d need to find a way to fry the entire system.
+
+#### faf56a29f8 | BRUCE → LUCIUS | x4
+Christ, Lucius. Why didn’t you tell me?
+
+#### 9cd0ffadc5 | BRUCE → LUCIUS | x8
+I’m getting tired of you keeping me in the dark.
+
+#### 534f1b8f4d | LUCIUS → BRUCE | x4
+This isn’t the first time someone’s tried to hack to Batcomputer.
+
+#### c617cc36ba | BDES → BRUCE | x2
+:(shanon, Fri Aug 26 13:42:35 2016) The player is prompted to press the Batcave level button in the elevator.
+
+#### fd295fb48b | UCENOTES → BRUCE | x2
+QTE Press Button
+Player has to press button to go down.
+
+#### fcf83e15ff | BRUCE → ALFRED | x2
+What did child services say?
+
+#### 6ed55a0df8 | ALFRED → BRUCE | x4
+Good things, considering.
+
+#### 65fd2858ec | ALFRED → BRUCE | x2
+Just got off the phone with them.
+
+#### 735cad0971 | BRUCE → ALFRED | x2
+Oh? What did they have to say?
+
+#### 69a5fadcd7-SM | ALFRED → BRUCE | x2
+The social worker I spoke to -- she she was concerned with his well-being.
+
+#### a452c887e8-LM | BRUCE → ALFRED | x2
+Alfred -- where have you been?
+
+#### 7dd706e52e | BRUCE → ALFRED | x2
+Did the
+
+#### d3c062f4f5-LM | ALFRED → BRUCE | x2
+You were never very good with children.
+
+#### 7b40ed0c66 | BRUCE → ALFRED | x2
+But he’s safe?
+
+#### 8af8f19427 | ALFRED → BRUCE | x2
+That the {FaceAccent}boy had a {ConcernedA}{FaceAccent}traumatizing {BodyAccent}encounter {ConfusedA}with Batman.
+
+#### f722253c2d | BRUCE → ALFRED, BATMAN | x4
+When we were in that house together, we were ambushed... by these.
+
+#### c7947fe8d8 | BRUCE → ALFRED | x2
+This thing -- it tried to kill us both.
+
+#### d114320e29 | BRUCE → ALFRED | x2
+Oswald has gotten a hold of my *own* tech -- and has found a way to use it against me -- and I want to know *how*.
+
+#### 0befd9b23e | ALFRED → BRUCE | x2
+Go easy on Lucius. He’s been a loyal employee -- and friend.
+
+#### 11d3243d57 | BRUCE → ALFRED | x2
+Lucius has been a loyal employee -- and friend.
+
+#### 58e6988dcf | BRUCE → ALFRED | x2
+This is Lucius’ fault. Either he’s involved -- or he’s
+
+#### d4ad1b525f | ALFRED → BRUCE | x2
+And you don’t trust them enough.
+
+#### 975bcd5384 | ALFRED → BRUCE | x2
+Lucius would know.
+
+#### 1c3da94377 | BRUCE → ALFRED | x2
+Lucius is to blame.
+
+#### bdb7c640ee | ALFRED → BRUCE | x2
+Sounds like Lucius is to blame.
+
+#### fb47d52993-SM | ALFRED → BRUCE | x2
+I never did like you bringing him here.
+
+#### 786046cac4 | ALFRED → BRUCE | x8
+I’m telling you, Bruce.
+
+#### 790da97dcb | ALFRED → BRUCE | x8
+Take a closer look at him.
+
+#### 674661f2c3-L? | ALFRED | x6
+These are trying times. You need to keep your inner circle small if you want to survive.
+
+#### de156a630e | ALFRED → BRUCE | x4
+Who knows what’s going on in Wayne Tower.
+
+#### b709aca88d | ALFRED → BRUCE | x4
+He was, after all, in charge of developing your secret projects.
+
+#### e4be5ea1e3 | ALFRED → BRUCE | x4
+Maybe one day that will change.
+
+#### 4a75b011a9 | BRUCE → ALFRED | x2
+It wasn’t like that.
+
+#### 8c5475e281 | BRUCE → ALFRED | x4
+The bat-suit -- it’s not very kid friendly.
+
+#### 63cfe02a5e | ALFRED → BRUCE | x2
+The way it’s consumed you?
+
+#### 79acfe9ff0 | BRUCE → ALFRED | x2
+And Lucius -- he’s to blame.
+
+#### 1c9880f913 | ALFRED → BRUCE | x4
+Oswald could have very well gotten to him.
+
+#### 987f29fa8f-LM | ALFRED → BRUCE | x2
+He’s been here since you asked him to leave Wayne Tower.
+
+#### 06efd9e4c1 | ALFRED → BRUCE | x2
+Bruce -- if he has -- promise to go easy on him.
+
+#### 9239c3cdc3 | ALFRED → BRUCE | x2
+He’s been a loyal employee and a good friend.
+
+#### bf1667fc32 | ALFRED → BRUCE | x2
+I hate to see you alienate him.
+
+#### 8f6cd82ff2 | ALFRED → BRUCE | x2
+Ask Lucius.
+
+#### ae80244ae4 | BRUCE → ALFRED | x2
+You’re being paranoid.
+
+#### 1643a57815 | ALFRED → BRUCE | x2
+And you’re not being paranoid enough.
+
+#### cf9abdf84f | ALFRED → BRUCE | x2
+If Oswald has your tech -- Lucius might know something about it.
+
+#### 5f58a54274 | BRUCE → ALFRED | x2
+I don’t want to alienate him now.
+
+#### 9517ddaa0c | ALFRED → BRUCE | x2
+You run the risk of losing everything
+
+#### 26a18befb4-L? | ALFRED | x2
+You need to take a closer look at all your aliies right now.
+
+#### 54d8be1741-L? | ALFRED | x2
+You need to keep your inner circle small if you want to survive.
+
+#### 1dc9bd2579 | ALFRED, GORDON → ALFRED | x4
+Think about it.
+
+#### 3354c7bb75 | ALFRED | x2
+As unfortunate as it sounds, at least consider it as a reasonable explanation.
+
+#### 1d245d4537 | ALFRED → LUCIUS | x2
+Just ask him about it. Even if he wasn’t directly -- he might now something about it.
+
+#### aeaab4dd31 | ALFRED → LUCIUS | x2
+One can’t be too careful these days.
+
+#### 674661f2c3-LM | ALFRED → LUCIUS | x2
+These are trying times. You need to keep your inner circle small if you want to survive.
+
+#### 719df5799e-LM | LUCIUS → ALFRED | x2
+You knew that when you asked me to come with you.
+
+#### 94f1606eda | LUCIUS → BRUCE, ALFRED | x6
+The Bird of Prey -- its original design didn’t include tracking capabilities.
+
+#### 91c6ccc415 | LUCIUS → BRUCE | x4
+An EMP gun.
+
+#### 1d761f2e01-SM | BRUCE → LUCIUS | x2
+I’m sorry I doubted your loyality.
+
+#### 3901303432 | LUCIUS → BRUCE | x4
+It’s understandable.
+
+#### 2b898cbfd5 | LUCIUS → BRUCE | x4
+Just understand that I can’t help you -- if you don’t trust me.
+
+#### fdff1884be | LUCIUS → BRUCE | x2
+Now, let’s take a look at this little guy.
+
+#### 78a620ed1e | LUCIUS → BRUCE | x2
+A tracking unit wasn’t an original part of it’s product design.
+
+#### f45cf5d90f | LUCIUS → BRUCE | x2
+Penguin must have added a few new features.
+
+#### 4a1f70a292 | LUCIUS → BRUCE | x2
+Without being
+
+#### a8e3fc6137 | BRUCE → LUCIUS | x2
+I should’ve asked you to stay and protect our work.
+
+#### e81ee7e98b | BRUCE → LUCIUS | x2
+I can’t protect you
+
+#### d69e0e6242-SM-LM | BATMANBRUCE → LUCIUS | x4
+I’m glad you accepted{FaceAccent}{HappyA} my offer to work with me here.
+
+#### 8175d7174c | LUCIUS → BRUCE | x2
+I don’t regret it.
+
+#### 2200c36bd4 | LUCIUS → BRUCE | x4
+There isn’t just a switch to shut it down.
+
+#### b60aaf6a84-SM | LUCIUS → HARVEY, BRUCE | x4
+I’d need to plant an EMP in each of the server rooms and detonate them at the same time.
+
+#### c51843dc02-LM | ALFRED → LUCIUS, BATMAN | x8
+Bruce,{ConcernedA} you need to see this!
+
+#### bab9d5d3c8 | HARVEY → LUCIUS | x2
+Greed, womanizing.
+
+#### 418741d624 | HARVEY → LUCIUS | x2
+And we are going to do the right thing and take it all away from him.
+
+#### c9dc989344 | HARVEY → ALFRED | x2
+The city of Gotham will be seizing all of Mr. Waynes assets -- including his home.
+
+#### 11dd8276d8 | HARVEY → BRUCE | x2
+You can’t hide behind your money anymore, Bruce.
+
+#### ec9d8195fd | HARVEY → ALFRED | x2
+The citizens of Gotham are coming for you!
+
+#### a7cfb66de9-SM | BRUCE, BATMANBRUCE → HARVEY, BRUCE | x4
+I need to have a word with Harvey.
+
+#### 4566752c86 | ALFRED → HARVEY | x2
+Christ. He really has
+
+#### 12ba96be2c | ALFRED → LUCIUS | x2
+You can’t let that ego-maniac{AngryA} throw us out on the street.
+
+#### d9e57d6f25 | LUCIUS → BRUCE, ALFRED, BATMAN | x12
+Besides, if I wasn’t here -- I couldn’t give you this.
+
+#### e65c558629 | LUCIUS → ALFRED, BRUCE | x4
+And it’s clean -- uncompromised.
+
+#### 2206829610 | LUCIUS → ALFRED | x2
+No one can compromise it.
+
+#### c6eb47fe3b | BRUCE → LUCIUS | x2
+I’ll appeal to his good side.
+
+#### 4078aba0c5 | ALFRED → BRUCE | x2
+I’m notso sure he has one of those -- not anymore.
+
+#### bc864b65cb | BRUCE → ALFRED | x4
+So, he’s safe?
+
+#### d8459c4095-LM | T, BATMANBT, BATMAN → BRUCE, BATMAN, ALFRED | x6
+Did you talk to child services?
+
+#### fcfaca4ab3-SM | ALFRED → BRUCE | x2
+Safe, yes. Okay -- I’m not so sure.
+
+#### 87249d98bb | BATMAN → BRUCE | x2
+What did they have to say?
+
+#### 620e44d676 | BRUCE → ALFRED | x2
+His welfare is not my concern.
+
+#### be5307f349-SM | BRUCE → ALFRED | x4
+It was the only way I could save his life.
+
+#### b7b9aa9494 | ALFRED → BRUCE | x4
+You didn’t have to scare him.
+
+#### 590cd86edb | ALFRED → BRUCE | x4
+I’d like to hear that happy story.
+
+#### 6d6b00375b | BRUCE → ALFRED | x2
+He’s a ward of the state now. They’ll take care of him.
+
+#### 00e097583b-SM | ALFRED → BRUCE | x2
+The social worker I spoke to said the boy wouldn’t stop going on about how he was saved by Batman.
+
+#### 4a30a68b43 | ALFRED → BRUCE | x2
+The social worker -- she said the boy was quite traumatized.
+
+#### 715172c66c | ALFRED → BRUCE | x2
+Still, he did witness the murder of his parents.
+
+#### d286e14f4d | ALFRED → BRUCE, HARVEY | x4
+I’m not saying{FaceAccent} that you’re bad with children{SadA}{FaceAccent}, but --{SkepticalA}
+
+#### bddafadb02 | ALFRED → BRUCE | x4
+The poor boy just witnessed {SadA}the murder of his {FaceAccent}{ConcernedA}parents.
+
+#### f88fe0dbf3 | BATMAN → ALFRED | x4
+They said that?
+
+#### 475079be94 | BRUCE → ALFRED | x2
+Oswald -- he sent *this* to kill me.
+
+#### 3a05e41787-LM | ALFRED → BRUCE | x2
+I know you’re not very good with children -- but you didn’t have to scare him.
+
+#### e370efd98b | BRUCE → ALFRED | x2
+Oswald’s  gotten a hold of my *own* tech.
+
+#### 69f3b18386 | ALFRED → BRUCE | x4
+I suppose that’s a{HappyA} positive, considering {SadA}what... what {ConcernedA}happened...
+
+#### a6524122fe | ALFRED → BRUCE | x2
+You’re making a mistake by not giving him a closer look.
+
+#### 53a24b286f | ALFRED | x2
+If Oswald has your tech -- Lucius may be involved somehow.
+
+#### e141b25d0c | BRUCE → ALFRED | x2
+I want to know *how*.
+
+#### 079f76ab1d-SM | BRUCE → LUCIUS | x2
+I’m sorry that I doubted you.
+
+#### 1e42505f61 | LUCIUS → BRUCE | x2
+Just don’t do it again.
+
+#### dc759b087b | choice/UI → LUCIUS | x2
+I should’ve asked you to stay.
+
+#### 80976b1e22 | choice/UI → LUCIUS | x4
+I should have kept you there.
+
+#### d52992ed37 | LUCIUS → BRUCE | x2
+Don’t say that.
+
+#### 1719690e36 | LUCIUS → BRUCE | x2
+I can’t look after your interests in Wayne Tower from the Batcave.
+
+#### 4653b76dff-SM | BRUCE → LUCIUS | x2
+I’ve exposed myself.
+
+#### 1f0826b59b-LM | LUCIUS → BRUCE | x2
+But you asked me to come work for you here instead.
+
+#### b428bd3c33-LM | LUCIUS → BRUCE | x2
+You closed that door.
+
+#### 7fdc6f2a79 | LUCIUS → BRUCE | x2
+For both of us.
+
+#### 3693c762e4 | LUCIUS → BRUCE | x2
+I understand the impulse. I do.
+
+#### 9114eaa3eb | LUCIUS → BRUCE | x2
+Don’t make me regret coming with you.
+
+#### f09cc0bc78-LM | BRUCE → LUCIUS | x2
+You could’ve secured our assets better before you left.
+
+#### 6567a45e22-LM | LUCIUS → BRUCE, BATMAN | x4
+Despite this setback -- I think you made the right decision.
+
+#### 4ad8f32054 | BATMANBRUCE → LUCIUS | x4
+This is my {ConcernedA}fault.
+
+#### 633664bc1c | LUCIUS → BRUCE | x4
+Best to find a silver lining.
+
+#### 8b6d7dc200-LM | BATMANBRUCE → LUCIUS | x4
+I should’ve had you stay at Wayne Tower.
+
+#### 89d982d797-LM | LUCIUS → BATMAN, BRUCE | x4
+This may seem like a setback for the moment -- but maybe you made the right decision in the long run.
+
+#### 7a3f04c2ff-LM | BRUCE → LUCIUS | x2
+And I can’t look after you if you were still working for that maniac in Wayne Tower.
+
+#### dbbfdebfda | LUCIUS → BATMAN | x2
+It’s too late for regrets.
+
+#### 484656107e | LUCIUS → BRUCE | x2
+So, don’t make me regret coming here.
+
+#### e8c09725a2 | LUCIUS → BRUCE | x2
+Or giving you this...
+
+#### 006b49cb17 | LUCIUS → BRUCE | x2
+After all, if I wasn’t here -- I couldn’t give you this.
+
+#### 00dadb1e97 | LUCIUS → BRUCE | x2
+At least I’m here to give you this.
+
+#### 5d475b0953 | LUCIUS → BRUCE | x2
+Unlike this little fella over here.
+
+#### 6e36c61c96 | LUCIUS → BRUCE | x2
+It was definitely upgraded.
+
+#### edf3df8329 | LUCIUS → BRUCE | x2
+EMP -- for electro-magetic-pulse.
+
+#### 439534c71d | LUCIUS → BRUCE | x4
+It won’t be able to disable a whole building -- but it will take out smaller electronic devices -- like one of those drones.
+
+#### a05e68fcd2 | LUCIUS → BRUCE | x2
+It may
+
+#### 873426e545 | LUCIUS → BRUCE | x2
+Go ahead and try it out. Shoot that
+
+#### 0c28084cc7 | LUCIUS → BRUCE | x2
+It’s here if you want it.
+
+#### 4f8d84e5c3 | BRUCE → LUCIUS | x2
+Is it clean?
+
+#### da5d74b8a3 | BRUCE → LUCIUS | x2
+If Oswald found the R & D wing -- what’s stopping him from finding out my secret identity.
+
+#### 3a556d762f | BRUCE → LUCIUS | x2
+If Oswald can track my voice -- what’s stopping him from finding out who I *really* am?
+
+#### f066200102-LM | BRUCE → LUCIUS | x2
+You left us exposed.
+
+#### 23fd20f93c | LUCIUS → BRUCE | x4
+He seemed {SurpriseA}satisfied {ThinkingA}with that answer.
+
+#### 3322f836ba | LUCIUS → BRUCE | x2
+That little birdie was definitely altered.
+
+#### 725ac44401 | BRUCE → LUCIUS | x2
+This was definitely altered.
+
+#### cddabc360d | LUCIUS → BRUCE | x2
+Scan it and let’s find out how.
+
+#### 3c6f4e282b | LUCIUS → BRUCE | x2
+I didn’t think anything of it.
+
+#### fd6fe179f1 | BRUCE → LUCIUS | x2
+Wayne Tech.  This model was planned for future use at the GCPD.
+
+#### 9f88ec224d | ALFRED → LUCIUS | x2
+He’s in the batcave now.
+
+#### d00c34716e | LUCIUS → BATMAN, BRUCE, ALFRED | x20
+We did what we could to seal off R&D, {FaceAccent}{ThinkingA}but there was never a guarantee he wouldn’t find it on his{FaceAccent} own.
+
+#### 88ae17d3e6 | BRUCE → LUCIUS | x2
+Then how did he get the drone?
+
+#### ce401ac1b5 | LUCIUS → BRUCE | x2
+Everything I do, I do with your best interest in mind.
+
+#### 3a682e6a15 | BATMANBRUCE → BRUCE, LUCIUS | x4
+Ask me before you {ThinkingB}do anything like {SkepticalA}that again.
+
+#### f83680e43c | BRUCE → LUCIUS | x4
+Can this pinpoint my location?
+
+#### 2c0b74c0fc-LM | LUCIUS → BRUCE, HARVEY | x6
+To take it down you’d need to find a way to fry the entire system.
+
+#### 97725474bd | HARVEY → BRUCE | x2
+He damaged police property and {ThinkingA}endangered civilians as he rammed {AngryB}through a police barricade...
+
+#### cecf262773 | HARVEY → ALFRED | x2
+He bribed members of my{AngryB} special enforcement team...
+
+#### 8e1652e0c7 | HARVEY → LUCIUS | x2
+And he thinks he can sit back in his{SurpriseA} mansion and hide?  {AngryB}No more.
+
+#### adea5a28c6 | HARVEY → ALFRED | x2
+...{AngryA}He uses his lawyers to find loopholes{AngryB} to get him out of Arkham...
+
+#### 1e52bd5350 | HARVEY → ALFRED | x2
+I am formally announcing the appropriation of all Wayne assets, {SurpriseA}including the Manor, as{ThinkingA} reparations for the victims of the their{ThinkingB} family’s crimes.
+
+#### a0e6c08e33 | ALFRED → HARVEY | x2
+Can Harvey really do this?! {FearA}If he seizes the manor--
+
+#### 5db64b86ea | BRUCE → ALFRED | x2
+Let me see if I can appeal to his better half.
+
+#### 497f65c550 | ALFRED → BRUCE | x2
+Does he even have one of those?
+
+#### 383550e7f6 | BRUCE → ALFRED | x2
+I’m going to destroy him -- that’s how.
+
+#### c4a55cb0c1 | ALFRED → BRUCE | x2
+How are you going to prevent him from taking everything from us?
+
+#### 691da685d2 | BRUCE, BATMANBRUCE → ALFRED, BRUCE | x4
+I’ll be back as soon as I can.
+
+#### ec66ffde8b-SM | BRUCE → ALFRED | x2
+I need to have a little word with Harvey.
+
+#### ad44b1c05a | BRUCE → ALFRED | x2
+Call our lawyers. They’ll put a stop to this.
+
+#### e2de630c12-SM | ALFRED → BRUCE | x2
+Believe me -- I’ve got them on speed dial these days.
+
+#### 1d621a250d | ALFRED → BRUCE | x2
+But they’re probably not going to be able to do anything in time.
+
+#### b1a8374b3e-LM | ALFRED → BRUCE | x2
+You need to go talk some sense into Harvey. He’s clearly lost all of his.
+
+#### 3f808a717c | ALFRED → BRUCE | x2
+Seems to me that all his sides are bad these days.
+
+#### 40373b83ad | BRUCE → ALFRED | x2
+It’s worth trying.
+
+#### ad14f80f97 | ALFRED → BRUCE | x2
+Harvey doesn’t play by the same rules as you -- not any more.
+
+#### 747cc0fa43 | BRUCE → ALFRED | x2
+We can’t afford to be careful.
+
+#### 946efb6e76 | HARVEY → ALFRED | x2
+His name? Bruce Wayne.
+
+#### c19d827f69 | BRUCE → ALFRED | x2
+Don’t worry, Alfred. I’ll straighten this out.
+
+#### daf23195b0 | choice/UI → ALFRED | x2
+Would that be so bad?
+
+#### ae0f1275f6 | choice/UI → ALFRED | x2
+I wouldn’t wish that on anyone.
+
+#### d00676a62f | choice/UI → ALFRED | x2
+Gordon will set him on the right path.
+
+#### 3c33fee7e4 | ALFRED → LUCIUS | x2
+What if he ends up following a similar path as you?
+
+#### f6622e4488 | ALFRED → LUCIUS, BATMAN | x4
+Doesn’t {SurpriseA}{FaceAccent}appear to{SkepticalA} be one of yours.
+
+#### 0d50aa84ac | choice/UI → LUCIUS | x4
+Maybe we’re both responsible for this.
+
+#### 5572194acf-SM | BATMANBRUCE → LUCIUS | x4
+I had to ask.
+
+#### 58cdcb8863 | LUCIUS → BATMAN | x4
+That’s the part that hurts {SadA}the{FaceAccent} most.
+
+#### 6e1ad3ee05 | LUCIUS → BATMAN, BRUCE | x12
+We did what we could to seal off R & D, but there was never a guarantee he wouldn’t find it on his own.
+
+#### d5d9efa7ef | LUCIUS, BRUCE → BATMAN, ALFRED | x4
+Speaking of...
+
+#### c886b40721-SM | choice/UI, BRUCE → LUCIUS, ALFRED | x4
+I made the right choice.
+
+#### c451b1c877 | choice/UI → LUCIUS | x6
+Your job was to prevent this.
+
+#### 45b180150c | choice/UI → LUCIUS | x10
+Find out how Oswald got the drone.
+
+#### 3feee4dfc9 | choice/UI | x6
+What else did he find?
+
+#### 0da7525f8a | BRUCE → LUCIUS | x2
+It’s the prototype drone from the lab.
+
+#### 3314042ab4 | BRUCE → LUCIUS | x2
+Oswald was controlling it.
+
+#### f6ddebce61 | choice/UI, BATMANBRUCE → LUCIUS | x10
+Do you know anything about this?
+
+#### dd0f6916db-LM | choice/UI → LUCIUS | x2
+You said the R&D lab was secure.
+
+#### d576670dd3 | BATMANBRUCE → BRUCE | x2
+Would that{AmusedA} be so bad?
+
+#### 7267302b55 | BRUCE → BATMAN | x4
+God, I {FaceAccent}{SadB}{BodyAccent}hope not.
+
+#### 9b6bdeaeae | BRUCE → BATMAN | x2
+I wouldn’t wish this life on {FaceAccent}anybody.
+
+#### 23abdab2d1 | BATMANBRUCE → BRUCE | x2
+Gordon will help{FaceAccent} keep him on the straight-and-narrow.
+
+#### 352cf118d7 | BRUCE → BATMAN | x2
+I don’t regret
+
+#### 4e56ac8aa1 | BRUCE, choice/UI → BATMAN, ALFRED | x4
+Maybe money will change his mind.
+
+#### 09efa28c69 | ALFRED → BATMAN | x2
+Depends on which *mind* you’re talking to.
+
+#### 6cb85cb7da | BATMAN → ALFRED | x2
+No-- it’s not.
+
+#### a385c1e0cd | ALFRED → BRUCE | x2
+Tragedy -- it’s something you both have in common.
+
+#### dee253d48e | ALFRED → BATMAN | x2
+I wonder if he’ll take a{FaceAccent} similar path to {BodyAccent}yours.
+
+#### 3b5a93f98a-SM | ALFRED → BATMAN | x2
+Bad? {SurpriseA}{FaceAccent}No. {ConcernedA}{BodyAccent}But I have {FaceAccent}witnessed the toll this path has {FaceAccent}taken on you.
+
+#### a912f6daa4 | BRUCE → ALFRED | x2
+Maybe he’ll grow up to be a{FaceAccent}{SurpriseA} doctor or{ThinkingA} {FaceAccent}firefighter-- {ConcernedA}but no -- not someone{FaceAccent} {SadB}like me.
+
+#### b2e66f74a5 | ALFRED → BRUCE | x2
+We can only hope.
+
+#### f8ee2e8818 | ALFRED → BRUCE | x2
+It’s {FaceAccent}certainly better than the {FaceAccent}{SkepticalA}alternative.
+
+#### 3a6068156e | ALFRED → BRUCE | x2
+I prefer the later.
+
+#### 7d37e0743f | ALFRED → BRUCE | x2
+Children born of {SadA}tragedy grow up to be either {FaceAccent}{ConcernedA}villians -- {BodyAccent}{FaceAccent}or heroes.
+
+#### e52ca4cdfb | ALFRED → BRUCE | x2
+I hope there’s some part of you that
+
+#### 1c4b4b44ac-SM | ALFRED → BRUCE | x2
+But I have witnessed the toll this path has taken on you.
+
+#### 281640fa18 | BATMANBRUCE → ALFRED | x2
+It’s been worth{HappyA} the {FaceAccent}wear and tear.
+
+#### 84fa50e455 | BRUCE, ALFRED → SELINA, BRUCE | x6
+Me either.
+
+#### e39361068e | BRUCE → ALFRED | x2
+Oswald got his paws on it.
+
+#### ee6dfe333f | BATMANBRUCE → LUCIUS | x4
+This is {FaceAccent}{BodyAccent}*our* fault. {ThinkingB}We should have taken better precautions {SurpriseA}before {ThinkingB}we left.
+
+#### 6d315ca6c2 | LUCIUS → BRUCE | x2
+I’m not just gonna turn around and hand it all over to the enemy.
+
+#### c547dead1d | LUCIUS → BRUCE, BATMAN | x8
+Regrets won’t help us now.
+
+#### 799ceded23-SM | LUCIUS → BRUCE | x6
+If I were there, I’d be able to help you disect that thing.
+
+#### ab59b1c1f4-SM | LUCIUS → BRUCE | x6
+I’m sorry, Bruce -- but you’re on your own.
+
+#### 0b742db7c9-LM | choice/UI → LUCIUS | x2
+There is nothing you could have done.
+
+#### be25963a84 | BRUCE → LUCIUS | x2
+I can’t protect you at Wayne Tower.
+
+#### c3def184c0 | BRUCE → BATMAN | x2
+Your safety is more important.
+
+#### 5d11635cfb-SM | BATMANBRUCE → BRUCE, LUCIUS | x4
+I need you to keep this all up and {ThinkingA}running. {SurpriseA}Without{ConcernedA} you {FaceAccent}-- there is no Batcave.
+
+#### e2598c74cf | BATMANBRUCE → BRUCE, LUCIUS | x4
+Find out how he got it.
+
+#### c4ee6575e9 | BATMANBRUCE → BRUCE, LUCIUS | x4
+Tell me he didn’t find anything {FaceAccent}else.
+
+#### 230d69d564 | BRUCE → BATMAN | x2
+That was poor judgement on your part.
+
+#### 58bd750316 | LUCIUS → BRUCE | x2
+I can pay you back with this --
+
+#### d5e93ff1ce | BRUCE → LUCIUS, BATMAN | x4
+He’s recalling them.
+
+#### faf81f2ff5 | ALFRED → BRUCE | x2
+If he’s gotten a hold of your tech --
+
+#### a4f17b9bf9 | BRUCE → LUCIUS | x2
+--he could be on the verge of finding out -- everything.
+
+#### 844acbe156-SM | LUCIUS → BRUCE | x4
+I thought we were{FaceAccent} past this, Bruce.
+
+#### 4a23940b0b | LUCIUS → BRUCE | x2
+I’d like to think that I’d be of some help here too.
+
+#### 97ed5d1cf5 | LUCIUS → BRUCE | x4
+What a {FaceAccent}disaster.
+
+#### cfcf42d258 | LUCIUS → BRUCE | x4
+A lifetime of work {AngryB}{FaceAccent}perverted by a thug.
+
+#### a2352c5b31 | BRUCE → LUCIUS | x2
+You probably couldn’t have stopped him.
+
+#### 37ab303a3e-SM-LM | BATMANBRUCE → LUCIUS | x4
+I{ThinkingA} asked you to stay{FaceAccent}{AngryA} at Wayne Tower so you could{FaceAccent} prevent {ThinkingB}this very thing.
+
+#### 4d7675125b | LUCIUS → BATMAN | x4
+That’s what I’ve {ConcernedA}been {BodyAccent}{FaceAccent}doing!
+
+#### 699b2f6df4 | BATMANBRUCE → LUCIUS | x4
+Then{SkepticalA} how {FaceAccent}in the hell did he {AngryA}get a hold of {FaceAccent}this?
+
+#### 2f3ba74883-SM | LUCIUS → BATMAN | x8
+Bruce{FaceAccent}{AngryA}, I gave him{ThinkingA} the {FaceAccent}drone.
+
+#### 0a1b28faa3-LM | BATMANBRUCE → LUCIUS, ALFRED | x12
+What did{DespairA} you say?
+
+#### 8d91a7915f-SM | LUCIUS → BATMAN | x4
+That’s easy.{ThinkingA} I gave it to him.
+
+#### 077dde6ea1 | BATMANBRUCE → LUCIUS | x4
+Excuse me{ThinkingA}?
+
+#### c568856da3 | LUCIUS → BATMAN, ALFRED | x4
+He hasn’t.
+
+#### 2a776dad63 | BATMANBRUCE → LUCIUS, ALFRED | x4
+How can you be so sure he hasn’t found.. everything else?
+
+#### 4e81dba288-SM | LUCIUS → BATMAN | x2
+Because I gave that to him.
+
+#### ecb29a513a-SM-LM | LUCIUS → BATMAN | x4
+I did it, so you could {FaceAccent}{ConcernedB}*stop* people like Oswald.{BodyAccent} {AngryA}I’m not just gonna{FaceAccent} turn around {ThinkingA}and hand it all over to the enemy.
+
+#### b4c362259f | BATMANBRUCE → LUCIUS | x4
+Find out how{ThinkingA} he got it.
+
+#### 124ecf4a91 | BRUCE → LUCIUS | x2
+I know it’s too hot for you to be at Wayne Tower right now.
+
+#### d052ff3fa9 | BRUCE → LUCIUS | x2
+I know you’re safer here.
+
+#### fdd95cf170-LM | LUCIUS → ALFRED, BATMAN | x4
+Maybe{SkepticalA} you’re right.
+
+#### a48e71847d-LM | ALFRED → BRUCE | x2
+You said it yourself.
+
+#### 382c643a36 | ALFRED → BRUCE | x2
+You don’t trust him -- not entirely.
+
+#### ee01f9ed7c-LM | ALFRED → BRUCE | x2
+You’ve always put your faith in Lucius.
+
+#### d10bc1cefe | BATMANBRUCE → ALFRED | x2
+No.  {SkepticalA}This is more advanced {ConcernedA}than ours...
+
+#### 07a212fc53 | BRUCE → ALFRED | x2
+Get Lucius down here. Now.
+
+#### e2d49ed5c9 | BRUCE → ALFRED | x2
+Money is a universal language.
+
+#### 0b2658349a | ALFRED → BRUCE | x2
+The life of a{AmusedA} hero?
+
+#### f8983677d2 | LUCIUS → ALFRED | x2
+Maybe there’s a sliver lining in all of this.
+
+#### 74dfb4bd92-SM | ALFRED → LUCIUS | x2
+The person I spoke with said the boy wouldn’t stop going on about how he was saved by the famous Bruce Wayne.
+
+#### 221ad0a9a8 | BRUCE → ALFRED | x2
+At least there’s one person in this city who doesn’t hate me.
+
+#### 170b18905d-SM-LM | ALFRED → BRUCE | x2
+You comforted him in his time of need -- and I’m proud of you for it.
+
+#### 292fc538d4-SM | ALFRED → BRUCE | x2
+I’m {FaceAccent}glad you think so.
+
+#### 5fbdd12bd4 | BRUCE → ALFRED | x2
+No one else should{FaceAccent}{ConcernedA} ever have to {DespairA}do what I’ve{FaceAccent} done.
+
+#### f1fcbc15ea | ALFRED → BRUCE | x2
+Perhaps the Batcomputer can be of some help identifying it.
+
+#### df07f27725 | BRUCE → ALFRED | x2
+Get Lucius down here. {FaceAccent}{ThinkingA}I want to speak with him.
+
+#### 42fb6f220d | BATMANBRUCE → LUCIUS | x4
+Lucius -- {AmusedA}there {BodyAccent}you are.
+
+#### 24485a5565 | ALFRED → BRUCE | x2
+I believe he’s upstairs.
+
+#### d9bff2668f-LM | BRUCE → ALFRED | x2
+You were right. It’s Wayne Tech.
+
+#### 4c4640f41c | BRUCE → ALFRED | x2
+A serial number.
+
+#### 299b57b509 | BRUCE → ALFRED | x2
+Batcomputer, scan serial number.
+
+#### d85a87b243 | ALFRED → BRUCE | x2
+It doesn’t look like one of
+
+#### e5bccf1325 | BATMANBRUCE → ALFRED | x4
+A surveillance drone being developed for the GCPD.
+
+#### f00904a82a | ALFRED → BRUCE | x2
+But how did he get his hands on these?
+
+#### ae2c1eae34 | ALFRED → BRUCE | x2
+Bruce -- if Oswald has gotten a hold of your Wayne tech prototypes--
+
+#### af6343c73c | BRUCE → ALFRED | x2
+-- he finds out who I really am.
+
+#### 3676c5a43b | LUCIUS → BRUCE | x4
+What I didn’t count on was his ablility to alter the drone to find Batman.
+
+#### 3642a74cff | HARVEY → LUCIUS | x2
+No one is above the law.
+
+#### ac20107381-SM | ALFRED → LUCIUS | x2
+I’ve still got a few calls to make.
+
+#### 4302ee8e8c | BRUCE → ALFRED | x2
+Coming?
+
+#### 8d773723f8 | ALFRED → HARVEY, BRUCE | x4
+He’s on his way now.
+
+#### 86ba8b272a | ALFRED → BATMAN | x2
+If it {SurpriseA}{FaceAccent}*is* one {ThinkingA}of yours -- {FaceAccent}there should be a record.
+
+#### 5dafc018a1 | BATMANBRUCE → LUCIUS | x4
+I know it’s too dangerous for you to be at {ThinkingB}Wayne Tower right now. {ConcernedA}{FaceAccent}You’re safer here.
+
+#### 3b2939340b | LUCIUS → BATMAN | x2
+I’d like to think that there’s an advantage to me working for you here.
+
+#### 89d982d797-L? | LUCIUS | x2
+This may seem like a setback for the moment -- but maybe you made the right decision in the long run.
+
+#### 1074af83d1 | LUCIUS → BRUCE, BATMAN | x4
+I {FaceAccent}appreciate the strategy behind {ThinkingB}your thinking.
+
+#### fbef21ed66-LM | LUCIUS → BRUCE | x2
+Maybe you did make the right decision.
+
+#### 4187869d7b | BRUCE → LUCIUS | x2
+Without you -- there would be no Batcave.
+
+#### 0b9a3b974c | ALFRED → LUCIUS | x2
+What he went through...
+
+#### 5c9c0745c4 | LUCIUS → ALFRED, BATMAN | x4
+I didn’t {FaceAccent}design this be a weapon.
+
+#### 904302dff4 | LUCIUS → ALFRED, BATMAN | x4
+This was {FaceAccent}built as an upgrade to our {BodyAccent}surveillance system.
+
+#### 260842ebcf | LUCIUS → ALFRED, BATMAN | x4
+This was{FaceAccent} built to upgrade the GCPD’s {BodyAccent}surveillance system.
+
+#### 9ef9194efc | LUCIUS → BATMAN | x4
+I didn’t design those{SkepticalA} drones to be {ConcernedA}used as a weapon.
+
+#### a63a0832f4 | LUCIUS → BATMAN | x4
+Those {SkepticalA}were built as an upgrade to our surveillance{ThinkingA} system.
+
+#### 23e6171d0f | LUCIUS → BATMAN | x4
+Those were built to upgrade the GCPD’s surveillance{ThinkingA} system.
+
+#### 7a551bad9f-LM | BATMANBRUCE → LUCIUS | x4
+You were supposed to{ThinkingA}{FaceAccent} protect our assets.
+
+#### bd89cebb43-SM | LUCIUS → BATMAN | x4
+If I{FaceAccent} knew that he was going to {SkepticalA}weaponize them -- {ThinkingA}I would have never {FaceAccent}have given them to him.
+
+#### 7b6a201d2b | ALFRED → LUCIUS | x2
+I leave you to it.
+
+#### ea17f17fc8 | LUCIUS → BATMAN, ALFRED | x6
+I’ll do what I can, but--
+
+#### df8297d304 | LUCIUS → BATMAN, ALFRED, BRUCE | x14
+I{FaceAccent} {ThinkingA}don’t work at Wayne Enterprises anymore.
+
+#### ea698d27b3-LM | LUCIUS → ALFRED | x2
+Maybe if you had asked me to stay.
+
+#### 3af174b1c4-L? | LUCIUS | x2
+Maybe if you had asked me to stay on...
+
+#### 88209f032f-L? | LUCIUS | x2
+That’s not what it sounded like. It sounded like you were going to accuse me of some kind of subterfuge.
+
+#### 239ae44653 | LUCIUS | x2
+He is the C.E.O. not
+
+#### 14ef05525a-LM | LUCIUS → BRUCE | x2
+Don’t blame yourself, Bruce.
+
+#### 7900a99cfb-LM | BATMANBRUCE → LUCIUS | x4
+You said{AngryA} the research lab was secure.
+
+#### 5e37ab6166 | LUCIUS → BATMAN | x2
+We did what we could to seal off that room, but there was never a guarantee Oswald wouldn’t find it on his own.
+
+#### 6b3f0f0d15 | BRUCE → LUCIUS | x2
+Then how did he get a hold of these?
+
+#### a3641a7ba1-SM | LUCIUS → BRUCE | x2
+But I would have no way of knowing for sure without being there.
+
+#### 3af174b1c4-LM | LUCIUS → BRUCE | x2
+Maybe if you had asked me to stay on...
+
+#### e5fe361247 | ALFRED → LUCIUS | x2
+Harvey has... changed. The idea of wealth may not appeal to him anymore.
+
+#### 4496fdeea5 | BRUCE → LUCIUS | x2
+No one changes that much.
+
+#### 4905fea737 | BATMANBRUCE → LUCIUS | x2
+Excuse us, Lucius.
+
+#### 50275ddccb | ALFRED → LUCIUS | x2
+The casing -- it looks odd.
+
+#### bda6b19a88 | BATMANBRUCE → BRUCE | x2
+This drone -- it was {FaceAccent}{SurpriseA}weaponized{ThinkingA}.
+
+#### 7616ae310a | BRUCE → ALFRED | x2
+That’s because it doesn’t belong.
+
+#### 39cbe57f7b | BRUCE → ALFRED | x2
+This wasn’t an orginal feature.
+
+#### 34bbeaaf13 | BRUCE → ALFRED | x2
+Someone modified this.
+
+#### da126f4bc0 | ALFRED → BRUCE, BATMAN | x4
+Too bad Lucius isn’t here --{FaceAccent}{SkepticalA} he would be able to tell us.
+
+#### 8d385f5b30 | BRUCE → ALFRED | x2
+Get Lucius down here.
+
+#### 017220dbbe | ALFRED → BATMAN | x2
+He should be on his way soon.
+
+#### 98bb2e950d | ALFRED → BRUCE | x2
+He should be here any minute.
+
+#### 3b1d587285 | BATMANBRUCE → BRUCE, ALFRED | x4
+He’s added some after-market modifications to it...
+
+#### 72975c0675 | BATMANBRUCE → PENGUIN | x4
+Penguin -- that’s what.
+
+#### 04f1e6cffd | BRUCE → ALFRED | x2
+Oh, my god.
+
+#### 07171e43ad | BRUCE → ALFRED | x2
+All of them.
+
+#### 7e0594477d | BRUCE → ALFRED | x2
+We sent out thousands of these last month.
+
+#### a3982c6f0e | BRUCE → ALFRED | x4
+He’s building a drone army.
+
+#### fc20ad0012 | BRUCE → LUCIUS | x2
+Standard issue propeller.
+
+#### da47aa7333 | BRUCE → LUCIUS | x2
+Nothing special.
+
+#### 3bd285f374 | BRUCE → LUCIUS | x2
+Hand me that screwdriver, would you, Al?
+
+#### 7c1c2daa23 | BRUCE → BATMAN | x2
+Batcomputer, take an x-ray.
+
+#### 1a8e410c84 | BRUCE → BATMAN | x2
+That’s strange.
+
+#### 5a80e624a0 | BATMANBRUCE → BRUCE | x2
+Let’s get a closer look at you.
+
+#### 12efba8c51 | ALFRED → BRUCE | x2
+The better to see you with.
+
+#### 2df0edf2d1 | BRUCE → BATMAN | x2
+Infared camera. It can track people by their heat signatures.
+
+#### c311b5984d | BRUCE → ALFRED | x2
+There’s something underneath.
+
+#### 25e00ca589 | ALFRED → BRUCE | x2
+Is that h
+
+#### 393d3d97cb | BATMANBRUCE → BRUCE | x2
+Drones usually come equipped with {ThinkingB}{FaceAccent}camera and an antenna -- {SkepticalA}but not {FaceAccent}speakers.
+
+#### f4c9170c8d | ALFRED → BRUCE | x2
+Well, if Oswald was looking to make a{FaceAccent} statement -- he{SkepticalB}{FaceAccent}{BodyAccent} certainly found a way.
+
+#### f2f625fd33 | BRUCE → ALFRED | x2
+Wireless speakers.
+
+#### 4a9b872520 | BRUCE → ALFRED | x2
+This is how Oz was able to speak to me.
+
+#### c2fac5bd11 | ALFRED → BRUCE | x2
+Oh, dear.
+
+#### e5104cd3ef | ALFRED → BRUCE | x2
+I really wish
+
+#### 590a4b7c08 | BRUCE → ALFRED | x2
+A thumb print.
+
+#### 299dd81fb1 | ALFRED → BATMAN | x2
+That’s a strange-looking drone.
+
+#### 0be6a25758 | BATMANBRUCE → ALFRED | x2
+No matches.
+
+#### fd6c9009a5 | ALFRED → BATMAN | x2
+It is a strange looking bird.
+
+#### d527ed5877 | BATMANBRUCE → ALFRED | x2
+It looks like it’s been altered with a patchwork of customized features.
+
+#### ef3eacf195 | ALFRED → BRUCE | x2
+Please tell me that wasn’t part of the original design.
+
+#### 1406e9a78d | BATMANBRUCE → BRUCE | x2
+Automatic gun mount -{FaceAccent}{BodyAccent}-{SurpriseA} this  {ThinkingB}is military grade.
+
+#### 3b8e9e58cd-SM | BRUCE → ALFRED | x4
+I saw how much damage one of these things could do … who knows what a few thousand could do to Gotham.
+
+#### 9cf8b77cd3 | ALFRED → BRUCE | x4
+Let’s hope that’s the only one he’s gotten a hold of.
+
+#### 19e1855ddd | ALFRED → BRUCE, LUCIUS | x8
+I’ll leave you{ThinkingA} to it.
+
+#### 18332058e2-SM | BRUCE → ALFRED | x2
+I need to talk to Lucius.
+
+#### e61ec9f427-LM | LUCIUS → BRUCE | x2
+You called.
+
+#### 12f45884b0 | BRUCE → LUCIUS | x2
+I have to know -- is Oswald close to finding out who I am?
+
+#### 86ba3980fe | LUCIUS → BRUCE | x2
+I can try to distract him.
+
+#### 394ba8d650 | BRUCE → LUCIUS | x2
+Lucius! What’s going on?
+
+#### 54b37619bd-LM | LUCIUS → BRUCE | x2
+Bruce -- did you scan that drone?
+
+#### 7661d031e9 | LUCIUS → BRUCE | x2
+It’s a Trojan Horse.
+
+#### 4c799dad18 | LUCIUS → BRUCE | x2
+I’ll put up a fire
+
+#### a6c5f592d8 | BRUCE → LUCIUS | x2
+The Batcom
+
+#### 1f1cb91e01-LM | LUCIUS → BRUCE, BATMAN | x4
+Bruce,{ThinkingA} have you noticed any {SkepticalA}other malfunctions?
+
+#### 21c06e99e8 | LUCIUS → BRUCE, BATMAN | x4
+Any techinal difficulties with the Batcomputer{SkepticalB} or your tech?
+
+#### dd5ba3dab6-SM | LUCIUS → BRUCE, BATMAN | x12
+I noticed a rogue signal hammering your firewall.
+
+#### 4a91dd28e4 | BRUCE → LUCIUS | x2
+Huh.  That doesn’t look like a motor.
+
+#### 669a893837 | BRUCE → ALFRED | x2
+Batcomputer -- take x-ray.
+
+#### 846c2c4a7c | ALFRED → BRUCE | x6
+Perhaps you should run a diagnostic.
+
+#### 86212591bc | ALFRED → BRUCE | x4
+What was{SkepticalA} that?
+
+#### eee7043d3a | BRUCE → ALFRED | x4
+Some kind of glitch, I guess.
+
+#### 7841fed145 | BRUCE → ALFRED, BATMAN | x8
+Dammit. What’s wrong with this thing?
+
+#### bff313a6cc | BRUCE → ALFRED | x8
+I’ll do it manually.
+
+#### 05d179196c-SM | BRUCE → LUCIUS | x2
+I thought Lucius was supposed to be keeping everything running at top capacity.
+
+#### 56feec0f2a | BRUCE, ALFRED → LUCIUS, ALFRED, BRUCE | x6
+So did I.
+
+#### 2cda3c42b7 | BATMANBRUCE → LUCIUS | x4
+There was {SurpriseA}probably{ConcernedA}{FaceAccent} nothing your could have done to stop him.
+
+#### 2d8631269e-SM | BATMANBRUCE → LUCIUS | x4
+I {FaceAccent}need to talk to Lucius.
+
+#### 98f6a3ff80 | BATMANBRUCE → ALFRED | x2
+... Then he’ll {ThinkingB}probably find the Batcave.
+
+#### d0fa5cb32f | ALFRED → BATMAN | x2
+He has -- as far as I can tell.
+
+#### 42b7fe72f6-SM | ALFRED → BATMAN | x2
+I thought Lucius was suppose to be keeping everything tip-top.
+
+#### a6874a9678-SM | BRUCE → ALFRED | x2
+I thought Lucius was supposed to be keeping everything running smoothly.
+
+#### 8b2b41e0ee-SM | BRUCE → ALFRED | x2
+I thought Lucius was suppossed to be keeping everything running smoothly down here.
+
+#### 9e11611ea8 | BRUCE → ALFRED | x2
+So, did I.
+
+#### 8181c43046 | ALFRED → BRUCE | x4
+You’ll have to ask him about that.
+
+#### fba04e4ae5 | ALFRED → BRUCE | x2
+It is strange. He usually runs a tight-ship.
+
+#### 387084b4e7 | AAFLFDRED → ALFRED | x2
+Too bad Lucius isn’t here.
+
+#### 3c80db616c | ALFRED → AAFLFDRED | x2
+He does run a tight ship.
+
+#### b341acf732 | ALFRED → AAFLFDRED | x2
+Any idea what’s wrong?
+
+#### 2163ec1a6d | ALFRED → BRUCE | x2
+Too bad Lucius isn’t here.  He might be able to help.
+
+#### 760ab46782 | ALFRED → BRUCE | x2
+He might be able to help.
+
+#### 790388ecca-SM | BATMANBRUCE → BRUCE, LUCIUS | x4
+Now that you mention it.{SkepticalA} I experienced some glitchiness when I scanned the drone.
+
+#### 733bfa5a8c | BRUCE → LUCIUS, ALFRED | x8
+Is this something I should be concerned about?
+
+#### da3c2ab548 | LUCIUS → BRUCE | x2
+I’ll look into it anyways.
+
+#### 7356db5064 | BRUCE → LUCIUS | x4
+Yes. It is.
+
+#### e787e1d6fe | LUCIUS → BRUCE | x2
+With Oswald at the helm of Wayne Enterprises -- I don’t want to take any chances.
+
+#### 8076c96b75 | BRUCE, LUCIUS → LUCIUS | x4
+There we go.
+
+#### 8c044e4253 | BRRUCE → BRUCE | x2
+Sorry -- I almost lost your signal.
+
+#### b07e346df4 | LUCIUS → BRUCE | x10
+I hope it’s not what I’m thinking.
+
+#### aaa488cfa2 | BRUCE → LUCIUS | x6
+What *are* you thinking?
+
+#### 7be08c7e17 | LUCIUS → BRUCE | x6
+I can’t hear or see you.
+
+#### 47c8504716 | LUCIUS → BRUCE | x6
+Bruce? Can you hear me?
+
+#### f60fff35d2 | BATMANBRUCE → BRUCE, LUCIUS | x4
+Hold on.{ThinkingA} You’re breaking up.
+
+#### 6bd25b5dd8 | BRUCE → LUCIUS | x6
+Hang tight, Lucius.
+
+#### a1b772003c | BRUCE → LUCIUS | x6
+Can you see me now?
+
+#### d82cf45539 | LUCIUS → BRUCE | x6
+Yes -- but -- your computer -- it *never* drops signals like that.
+
+#### a696649eaf-SM | LUCIUS → BRUCE | x6
+I don’t want to say until I’m sure.
+
+#### 4694ba7cb8 | LUCIUS → BATMAN | x6
+Anything at all.
+
+#### 7a341cd52b | LUCIUS → BATMAN, BRUCE | x6
+‘Glitchiness’?
+
+#### a21c218dc2 | BATMANBRUCE, BRUCE → LUCIUS | x6
+The computer seems slow, sometimes unresponsive.
+
+#### 3029078a5a | BATMANBRUCE, BRUCE → LUCIUS | x6
+You have enough to worry about.
+
+#### 549b6273f8-SM | LUCIUS → BRUCE, BATMAN | x12
+I’m not sure.
+
+#### fbd9f408fc | LUCIUS → BATMAN, BRUCE | x4
+Nothing?
+
+#### 93427966e0-LM | BATMANBRUCE → LUCIUS | x4
+You need to keep your eye on the ball and make sure {ThinkingB}Oz doesn’t find anything else.
+
+#### 87047257fd | LUCIUS → BATMAN, BRUCE | x4
+It’s just --
+
+#### 89592faf40 | LUCIUS → BRUCE, BATMAN | x4
+That’s probably my fault.
+
+#### f4d7f3fb7c | LUCIUS → BRUCE | x2
+Listen, BrI remotely uploaded a security update a couple of days ago.uce --
+
+#### 2b2aa15530-SM | LUCIUS → BRUCE | x4
+And I don’t want to say until I’m sure.
+
+#### d9ad1ae27a | LUCIUS → BRUCE | x4
+Let’s just say -- I’ll look into it.
+
+#### 57a0491df3 | LUCIUS → BRUCE | x2
+If it’s a real concern, I’ll contact you immediately.
+
+#### 928f2b4488 | LUCIUS → BRUCE | x4
+In the mean time -- you have enough to deal with.
+
+#### 8e8d19ea79-LM | BRUCE → LUCIUS | x4
+You need to level with me NOW.
+
+#### b8a8beaed4 | LUCIUS → BRUCE | x2
+You’ll know -- when I know.
+
+#### 0d223449d0 | LUCIUS → BRUCE | x4
+And let you know if it’s anything you should be concerned about.
+
+#### 3190a3969b-SM | LUCIUS → BRUCE | x4
+I’m sorry, Bruce, but that’s all I can say for now.
+
+#### 1af13cb4ba | BATMANBRUCE → LUCIUS | x4
+It can wait.
+
+#### 8c6bbbb0fe-LM | BRUCE → LUCIUS | x4
+Whatever it is -- don’t put yourself at risk over it.
+
+#### 6d4d4050bb | LUCIUS, HARVEY → BATMAN, BRUCE | x6
+Too late for that.
+
+#### 98fd231c99 | LUCIUS → BRUCE | x2
+I can’t help you, unless you start trusting me know.
+
+#### 9d4933b209 | BATMAN, BATMANBRUCE → LUCIUS, PENGUIN | x16
+Just do it.
+
+#### 330e7cd038 | BRUCE → LUCIUS | x4
+If my tech is compromised  -- I want to know sooner than later.
+
+#### 0ec800ad1d | LUCIUS → BRUCE | x4
+I’ll do my best.
+
+#### 062bd600cb | BRUCE → LUCIUS | x4
+Do better.
+
+#### 9c10f9a787-LM | LUCIUS → BRUCE | x4
+Bruce, have you noticed any other malfunctions?
+
+#### d7456838c3 | BRUCE → LUCIUS | x4
+What the --
+
+#### 60147ef923 | BRUCE → LUCIUS | x4
+It did this before.
+
+#### 78a936d4d4 | choice/UI → ALFRED, LUCIUS | x8
+[Go as Bruce]
+
+#### 243631eaff | choice/UI → LUCIUS, ALFRED | x8
+[Go as Batman]
+
+#### dc116b944a | BRUCE → LUCIUS | x4
+What in the hell aren’t you telling me?
+
+#### 3204d18c47 | LUCIUS → BRUCE | x4
+You’re gonna just have to trust me to take care of things here.
+
+#### 9602dd2763 | BRUCE → LUCIUS | x4
+You’re not making it easy.
+
+#### a8cdc4351a-SM | LUCIUS → BRUCE | x4
+I’m not so sure this line is secure.  I don’t want to take any chances.
+
+#### 800ee86494 | LUCIUS → ALFRED, BRUCE | x4
+I appreciate your concern, but it’s a little too late for that.
+
+#### e8f708d872 | ALFRED → LUCIUS | x8
+Harvey hates Batman.
+
+#### 518f60bd8e | ALFRED → LUCIUS | x2
+After all, he blames Batman for the...{ConcernedA} injury he sustained at the debate.
+
+#### 9a3502d1cd | ALFRED → LUCIUS | x2
+He may not be amenable to the Dark Knight’s ... persuasion.
+
+#### 5b25a1e59a | ALFRED | x6
+Harvey may not be fond of Bruce -- but he still thinks Batman’s a hero.
+
+#### b57c5d9428 | ALFRED | x8
+After all, it was Batman who saved his hide at the debate.
+
+#### 99becf1a59 | ALFRED | x6
+He may be more inclined to listen to the Caped Crusader than the controversial playboy.
+
+#### 45843a0ef5 | ALFRED | x6
+Then again --
+
+#### 9a6f7f3c63 | ALFRED | x2
+Then again -- maybe talking to an old friend is what he needs.
+
+#### fa286cb655 | ALFRED | x6
+He blames him for his... injury.
+
+#### 12805d03ab | ALFRED | x6
+He may not be amenable to the Dark Knight.
+
+#### b3720e07e7 | ALFRED | x6
+Then again -- Harvey’s unstable. It may be too dangerous to go as Bruce.
+
+#### 5eb3760c7f | ALFRED → BATMAN | x4
+He still sees Batman as the hero who saved him at the debate.
+
+#### e74c9aa3ce | ALFRED | x2
+He may be more inclined to listen to the Caped Crusader, someone also trying to save this city, than the controversial playboy.
+
+#### 657d445772 | ALFRED | x2
+Although
+
+#### 3025acf471 | ALFRED | x2
+It may be impossible to predict how he’s going to react.
+
+#### 1d1cb95770 | ALFRED | x2
+Perhaps you should try to reason with him as Batman.
+
+#### 485049a389 | ALFRED → BRUCE | x2
+Perhaps reaching out to him as an old friend is the right approach.
+
+#### 59bd8f6848 | ALFRED → BRUCE | x2
+It may be too risky to go as Bruce.
+
+#### 5fa00dd547 | ALFRED → BRUCE | x2
+On the other hand, we both know how dangerous injuried animals can be.
+
+#### 2caa9696ac | BRUCE → ALFRED | x2
+I’ll take the risk.
+
+#### 7a7233ac21 | ALFRED → BRUCE | x2
+A tango with the Dark Knight{ConcernedA} might make matters worse.
+
+#### 6d3798dca1 | BRUCE → ALFRED | x2
+If anyone can reach him -- it’s Bruce.
+
+#### 9f510b4f54 | ALFRED → BRUCE | x2
+Harvey’s behavior is {ConcernedA}unpredictable.
+
+#### 42ca09849c | ALFRED → BRUCE | x2
+Random{ThinkingA}.
+
+#### 6d6322fc23 | ALFRED → BRUCE | x2
+Who knows how he will react either way.
+
+#### d75c55acc1 | BRUCE → ALFRED | x2
+I’ll speak to him.
+
+#### ee466e79a3 | BRUCE → ALFRED | x2
+If just needs me to reassure him that I’m
+
+#### 773122562f | BRUCE → ALFRED | x2
+And I can only do that as Bruce.
+
+#### 87c9f08ef7 | ALFRED → BRUCE | x2
+You should consider confronting him as Batman.
+
+#### 445e729027 | BRUCE → BATMAN | x4
+Going as Batman is my best bet.
+
+#### 6992b74ade | BATMANBRUCE → BRUCE | x2
+This is Bruce’s problem;{ThinkingA} not Batman’s.
+
+#### 907d8beebc | BATMANBRUCE → BRUCE | x2
+Tonight, Batman{ThinkingB} saves Bruce Wayne.
+
+#### 5cf32bed02 | BRUCE → BATMAN | x2
+Keep an eye on that firewall.
+
+#### fc30072e47 | BRUCE → BATMAN | x2
+Let me know the minute you find out what’s wrong with the Batcomputer.
+
+#### 3b4aaf1c42 | LS → BRUCE | x2
+CIUS:I’ll be in touch.
+
+#### f17c827140 | BRUCE, BATMANBRUCE → LUCIUS | x4
+Lucius, get that patch up and running.
+
+#### 9a01965c16 | BATMANBRUCE → BRUCE | x2
+Dammit.  It is WayneTech.
+
+#### 74d55758aa-SM | LUCIUS → BRUCE, BATMAN | x4
+I’m sure there’s a {SkepticalA}{FaceAccent}silver lining in all of this.
+
+#### ec9b7a24fa | LUCIUS → BRUCE | x4
+We’ve just got to weather{FaceAccent}{SkepticalA} this storm to find it--
+
+#### 87ad2c75a1-SM | LUCIUS → BRUCE | x2
+Quick. I need your help.
+
+#### f2a70003c7 | LUCIUS → BRUCE | x2
+A cyber attack.
+
+#### 0e941603d8 | LUCIUS | x2
+The best thing we can do is to keep actively intercepting the cyber attacks in real time.
+
+#### fbc37c8630 | LUCIUS → BRUCE | x2
+Bruce -- I’m fairly certain that was a cyber attack.
+
+#### 6313e8df04-LM | LUCIUS → BRUCE, BATMAN | x4
+There’s no use in beating yourself {ThinkingA}up over this. You made a call -- {FaceAccent}{ThinkingB}have the confidence to stick with it.
+
+#### bf1b409832 | BRUCE → LUCIUS | x4
+What in the hell was that?
+
+#### a2ffc5e667 | BRUCE → LUCIUS | x4
+Is that the first time that’s happened?
+
+#### 3983ac5b9c | BATMANBRUCE → LUCIUS | x4
+What was that{FaceAccent}?
+
+#### 63692f8e09 | LUCIUS → BRUCE | x4
+That was a cyber attack.
+
+#### 69dc1ab0da | LUCIUS → BRUCE | x4
+No. There’s been a growing number of attacks over the last forty-eight hours.
+
+#### 75c9f6f934 | LUCIUS → BATMAN, BRUCE | x4
+They happen periodically -- but these aren’t just growing in number -- they’re growing in strength.
+
+#### 824efbd73b | BRUCE → LUCIUS | x4
+Lucius, why didn’t you tell me?
+
+#### a753a20044 | LUCIUS → BRUCE | x2
+CybeUNSEENINMATE02:<<guid:{DD7A8FFE-8D29-4348-8D44-1B4A5C4FF4EC}>><<id:378209280>>[OS] [creepy] This is not a dream -- but you are sleeping.
+
+#### ce83bb6eeb | LUCIUS → BRUCE | x2
+Bruce -- if I wasn’t here to defend this place -- the Batcave -- it could’ve been compromised.
+
+#### f6f53c8a55 | LUCIUS → BRUCE | x2
+I *am* your firewall.
+
+#### e5c11f42bb | BRUCE → LUCIUS | x4
+Who’s behind it?
+
+#### 3948230af5 | LUCIUS → BRUCE | x4
+I can’t be sure.
+
+#### 934b78c4ac | LUCIUS → BRUCE | x4
+But the most likely suspect would be Oswald.
+
+#### 94e816f65b | LUCIUS → BRUCE, BATMAN | x4
+I {FaceAccent}don’t work at {ConcernedB}Wayne Enterprises anymore.
+
+#### 702c81b677-SM-L? | LUCIUS | x2
+I left because you{SurpriseA} asked{ThinkingA} me to.
+
+#### 601962ee0f | LUCIUS → BATMAN | x4
+I guess were just going to have to {FaceAccent}{ConcernedB}live with it.
+
+#### 084750b1e1 | LUCIUS → BRUCE, BATMAN | x4
+Maybe your mind was in the{AmusedA}{FaceAccent} right place.
+
+#### b9aa458389 | LUCIUS → BRUCE | x2
+But these aren’t just growing in number -- they’re growing in strength.
+
+#### 947e7c5d4a | LUCIUS → BRUCE | x4
+This was the strongest one that’s hit the Batcomputer yet.
+
+#### baa0982cab | BRUCE → LUCIUS | x4
+How do we stop them?
+
+#### 459a24190b | LUCIUS → BRUCE | x4
+The best thing we can do is to keep actively intercepting the attacks in real time.
+
+#### aaad3ef9c9 | LUCIUS → BRUCE | x4
+I’ll bulk up our security protocals -- and build a new firewall.
+
+#### d4d03e5487 | LUCIUS → BRUCE | x4
+If he’s found R & D -- who knows what else he’s gained access to.
+
+#### f024b4e35f | BRUCE → LUCIUS | x2
+Then find it.
+
+#### 1fce5bee2e | LUCIUS → BRUCE | x4
+Just not *this* common.
+
+#### 3a8007c0c3-SM | BRUCE → LUCIUS | x2
+I’m glad your here.
+
+#### fe4178aa60 | LUCIUS → BRUCE | x2
+I didn’t realize that it was a big deal until just now.
+
+#### 2d3f65a423 | LUCIUS → BRUCE | x4
+I didn’t realize that it was a real concern until just now.
+
+#### f1538d2e93 | BRUCE → LUCIUS | x2
+Lucius, get that new firewall up and running.
+
+#### 668baa3bec | BRUCE → LUCIUS | x2
+And let me know the second we’re att
+
+#### 44eae615eb | ALFRED → BRUCE | x2
+I’d suggest you confront him as Batman --
+
+#### 3853632ac1 | BRUCE → ALFRED | x2
+Then what’s wrong with the Batcomputer?
+
+#### 9feb3d407b | ALFRED → BRUCE | x2
+He has.
+
+#### abe71f0699 | ALFRED → BRUCE | x2
+That’s odd. Is that some kind of casing?
+
+#### 5b73b7e63a | BRUCE → ALFRED | x2
+Looks like it.
+
+#### 15c7c81395 | BRUCE → ALFRED | x2
+Someone wanted this disguised.
+
+#### 4f67cff0d5 | BRUCE, SELINA → ALFRED, BRUCE | x4
+Well, hello there.
+
+#### c444041518 | LUCIUS → BRUCE | x2
+But I can’t be sure without proof.
+
+#### 7dd2c84660 | BRUCE → LUCIUS | x2
+Tonight Batman comes to Bruce Wayne’s aid.
+
+#### 8e0dbd4d5c | ALFRED → BRUCE | x2
+Sounds like someone worth saving to me.
+
+#### bf01548b5c | LUCIUS → BRUCE | x2
+Bruce -- if I wasn’t here to defend this place -- the Batcave -- all this -- it could’ve been compromised.
+
+#### 0ebb8256e3 | BRUCE → ALFRED, LUCIUS | x4
+Whatever it takes. Keep this place secure.
+
+#### 7a1c65f4f3 | ALFRED → HARVEY | x2
+You might as well flip a coin.
+
+#### 3e7f110f2d | ALFRED → HARVEY | x2
+Yes, about bloody time.
+
+#### 51b62e6b5f | HARVEY → ALFRED | x2
+Mr. Wayne has 24 hours to {AngryB}evacuate his property and turn it over to the city -- or he {AngryC}will be removed.
+
+#### a444e7308d-SM | HARVEY → ALFRED | x2
+I promised that I would clean up this city and I’m starting at the top{ThinkingB}. I’m starting with{AngryA} Bruce Wayne.
+
+#### 62555ee166 | choice/UI → ALFRED | x2
+Go as Bruce
+
+#### 8598222918 | choice/UI → HARVEY | x6
+Select
+
+#### 8c70bcc8ad | ALFRED → HARVEY | x2
+I {SurpriseA}guess{ThinkingA} time will {FaceAccent}tell.
+
+#### f45be397b6 | BATMAN → HARVEY, ALFRED | x4
+When we were in that {FaceAccent}house together, we were ambushed... {BodyAccent}{FaceAccent}{AmusedA}by this.
+
+#### e0a6c3d1f5 | BATMANBRUCE → ALFRED | x2
+Perhaps the Batcomputer can be of some{ThinkingA} help identifying it.
+
+#### 929baceb63 | choice/UI → ALFRED | x2
+Scan Drone
+
+#### 5064132c9c | BATMANBRUCE → BRUCE | x2
+Let’s see what they are.
+
+#### c292c7e5c4 | BATMANBRUCE → BRUCE | x2
+An advanced gyroscopic {SkepticalA}stabilizer.  {SurpriseA}This thing’s got {ThinkingA}unprecedented maneuverability.
+
+#### d039ed590d | BATMANBRUCE → BRUCE | x2
+This is what it looked like{FaceAccent}{SurpriseA} before {ConfusedA}the modifications.
+
+#### 88f46878fa | BATMANBRUCE → BRUCE | x2
+Rescan for image comparison.
+
+#### 0bf9ac7673 | BRUCE → ALFRED | x4
+Has Lucius been making upgrades to the batcomputer?
+
+#### c7a8ceb2f5 | ALFRED → BRUCE | x4
+Perhaps Lucius is remotely upgrading the system?
+
+#### fe391c0fa9 | BRUCE → ALFRED, BATMAN | x4
+I’ll have to ask him.
+
+#### b9a15e508e | BATMANBRUCE → ALFRED | x2
+It’s only a matter of time before he finds everything else.
+
+#### 3ed78ec3ac | BATMANBRUCE → ALFRED, LUCIUS | x4
+Thanks for watching{ConcernedA} my back.
+
+#### dfd111639a | ALFRED → BATMAN | x2
+He still believes that he’s helping Gotham by doing this.
+
+#### a956b0a182 | ALFRED → BATMAN | x2
+You may still be able to reason with him.
+
+#### cd1b6159b9 | BATMANBRUCE → ALFRED | x2
+I’ll stop him
+
+#### 8b1adb2f78 | BRUCE → ALFRED | x2
+Harvey was my friend.  I have to believe that he still has that in him.
+
+#### 9bb41b992e | ALFRED → BATMAN | x2
+Harvey’s clearly scared. And excesively Paranoid.
+
+#### e8583c9655 | ALFRED → BRUCE | x2
+Then again, he may not be amenable to the Dark Knight’s{ThinkingB} brand of persuasion.
+
+#### f1d8b9c264 | ALFRED → BRUCE | x2
+Mr. Dent views himself as a man who will do what it takes to save the city... He can’t deny that Batman has a similar agenda.
+
+#### 26927a5017 | ALFRED → LUCIUS | x2
+Perhaps Bruce Wayne can {SkepticalA}appeal to him on a more personal level.
+
+#### 80c7dd7a3c | LUCIUS → ALFRED | x2
+You can now monitor the Batcomputer’s firewalls with your phone.
+
+#### 5f7ef0a7bd | LUCIUS → ALFRED | x2
+We’ve just got to weather this storm to find it--
+
+#### e246ec6025-SM | LUCIUS → BRUCE | x2
+I’m sure there’s a silver lining in all of this.
+
+#### febbab0362 | LUCIUS → BRUCE | x2
+You can now monitor it with your phone.
+
+#### 098ad3fd0a | LUCIUS → BRUCE | x2
+Cyber attacks are a fairly common occurance.
+
+#### 89817987b9-SM | LUCIUS → BATMAN | x4
+Just a small hitch from that security update{ThinkingA} I installed a couple of days ago.
+
+#### 831466c6a9 | LUCIUS → UNSEENINMATE02 | x2
+There’UNSEENINMATE02:<<guid:{DD7A8FFE-8D29-4348-8D44-1B4A5C4FF4EC}>><<id:378209280>>[OS] [creepy] This is not a dream -- but you are sleeping.
+
+#### 30800340a4 | LUCIUS → UNSEENINMATE02 | x6
+Gotta stay ahead of them...
+
+#### 1907480d5b | LUCIUS → UNSEENINMATE02 | x2
+Like any new software -- it comes with some glitchiness.
+
+#### d56a26753b | LUCIUS → UNSEENINMATE02 | x6
+The Batcomputer gets hit with new cyber attacks everyday.
+
+#### 54c2809762 | LUCIUS → BRUCE, ALFRED, BATMAN | x8
+I wasn’t expecting the software to be{SkepticalA} so buggy.
+
+#### 25e24c6586 | LUCIUS → BRUCE | x2
+That’s highly unusual.
+
+#### c75398b8b8 | BRUCE → LUCIUS | x2
+Just be quick about it.
+
+#### 445f11025c | GORDON, BRUCE → BATMAN, LUCIUS | x6
+Just be careful.
+
+#### 1ad36dd2e8 | LUCIUS → BRUCE | x2
+Any techinal difficulties with the Batcomputer or your tech?
+
+#### 1166ad83c4 | LUCIUS → BRUCE | x2
+If I wasn’t here -- who knows what else he would have found.
+
+#### f94e02903e | BRUCE → LUCIUS | x2
+Hold on. You’re breaking up.
+
+#### cd71fe8ff7-LM | BRUCE → LUCIUS | x2
+You need to keep your eye on the ball and make sure Oz doesn’t find anything else.
+
+#### 9e82e20bc3-SM | BRUCE → LUCIUS | x2
+Now that you mention it. I experienced some glitchiness when I scanned the drone.
+
+#### fe5c347c05 | LUCIUS → BRUCE | x2
+Listen, Bruce --
+
+#### 0561812911 | BRUCE → LUCIUS | x2
+These attacks... are they anything I should worry about?
+
+#### e5410fb809 | LUCIUS → BATMAN | x2
+Not as far as I can tell.
+
+#### 2603282626 | BATMANBRUCE → LUCIUS | x6
+Thanks for staying on top of{ThinkingB} things.
+
+#### 4d382e3836 | LUCIUS → BATMAN | x6
+It’s the least {AngryA}I can do.
+
+#### 0620d717b8 | BATMANBRUCE → LUCIUS | x4
+Just don’t {FaceAccent}{BodyAccent}break the Batcomputer.
+
+#### 8eb7ad1365 | LUCIUS → BATMAN | x4
+You give me{HappyA} too much credit.
+
+#### 07b84a771f | LUCIUS → BATMAN | x2
+I remotely
+
+#### 8ca8738923 | LUCIUS → BATMAN | x4
+I remotely uploaded a security update a couple of days ago.
+
+#### b391e38d14 | LUCIUS | x2
+I just didn’t think the software would be so buggy.
+
+#### 394a1aa96a | LUCIUS → BRUCE, BATMAN | x4
+I just didn’t realize it would be so buggy.
+
+#### b1ba46a179 | LUCIUS → BRUCE | x4
+I should probably patch it up before it causes{SurpriseA} us any{ThinkingA} more hiccups.
+
+#### a1840b7746 | BRUCE → LUCIUS | x2
+I can’t afford a broken Batcomputer.
+
+#### f6d7340286 | LUCIUS → BRUCE | x2
+I’ll upload a patch as soon as I get a chance.
+
+#### 77adbb3710 | LUCIUS → BATMAN | x4
+It might be awhile  --{ThinkingA} I’m under constant watch here --
+
+#### cf37f9c54f | LUCIUS → BATMAN | x2
+Gotta stay ahead of them, even from here.
+
+#### 2869662cdb | BATMANBRUCE → LUCIUS | x6
+Upload a patch as soon as you can.
+
+#### 3d6aee11a3 | BATMANBRUCE → LUCIUS, ALFRED | x14
+I can’t afford a {ThinkingA}broken Batcomputer.
+
+#### d981403ea2-LM | BATMANBRUCE → LUCIUS | x4
+Don’t put yourself in any danger over this.
+
+#### 1100f08005 | LUCIUS → BRUCE | x4
+Don’t worry,{SkepticalA} Bruce. I’ll be cautious.
+
+#### 644b684eeb | BATMANBRUCE → LUCIUS | x4
+You always are.
+
+#### 4a773c9346 | LUCIUS → BATMAN, ALFRED | x4
+Oswald doesn’t make it easy for me to operate.
+
+#### 0f674962b4 | LUCIUS → BATMAN | x4
+Luckily, I’ve been able to out manuever him --{ThinkingB} but sooner or later, he will catch me.
+
+#### 195f1ac150-SM | BRUCE → LUCIUS | x2
+Yes. I’m sure.
+
+#### 187a1f9a58 | LUCIUS → BRUCE, BATMAN | x8
+I’m asking because...
+
+#### 43687177e6-SM-LM | LUCIUS → BATMAN, BRUCE | x12
+It’s{ThinkingA} that security update I had{ConcernedA} you install a couple of days ago.
+
+#### 43687177e6-SM-L? | LUCIUS | x4
+It’s{ThinkingA} that security update I had{ConcernedA} you install a couple of days ago.
+
+#### a403db32e8 | LUCIUS → BATMAN | x4
+That’s exactly what I’m doing.
+
+#### 182975662e | LUCIUS → BATMAN | x4
+I think that’s what’s causing the glitchiness.
+
+#### ae664a7221 | BATMANBRUCE → LUCIUS | x4
+I don’t give you {FaceAccent}enough.
+
+#### da2593a1df-SM | LUCIUS → BATMAN | x2
+The update I installed now
+
+#### 1eeaf8c347 | LUCIUS → BATMAN | x2
+Trust me
+
+#### 5a82dbad25 | LUCIUS → BATMAN | x8
+Oh -- {ThinkingA}before I forget.
+
+#### a7c694dcd6 | LUCIUS → ALFRED, BATMAN | x8
+The latest update has a few {HappyA}new features I think you’ll appreciate.
+
+#### da8a6fbef2 | LUCIUS → BRUCE, ALFRED, BATMAN | x10
+You can now monitor the{ThinkingB} Batcomputer’s firewall from your cell phone.
+
+#### f69890e622 | LUCIUS → BRUCE, ALFRED, BATMAN | x8
+So{SkepticalA} -- if there’s a security breach{SkepticalB} --{ThinkingA} you’ll be the first to know--
+
+#### 1e95d96083-SM | BRUCE → LUCIUS | x2
+I’ll do it myself.
+
+#### 7693485731 | choice/UI → LUCIUS, ALFRED | x4
+I can’t afford a rush job.
+
+#### fc361e2706-SM | LUCIUS → BRUCE | x2
+That’s not possible. I created the software -- I’ve got to make the patch.
+
+#### eb9dd36457 | LUCIUS → BATMAN, BRUCE | x8
+I know it’s frusterating -- {ThinkingA}but just bare with me.
+
+#### f116be1ade | LUCIUS → BATMAN | x8
+If it’s any consolation...
+
+#### 7fc1b3b0d1 | LUCIUS → BATMAN | x4
+That {NormalA}reminds me...
+
+#### 914e47de26 | LUCIUS → BRUCE | x2
+Bruce, I *am* your firewall.
+
+#### 61eac4ec81 | LUCIUS → BRUCE | x2
+Bruce, I AM your firewall.
+
+#### f7bebadd48 | BATMANBRUCE → LUCIUS | x10
+Make it a priority.
+
+#### 6ef500c42b | LUCIUS → BATMAN | x2
+I usually
+
+#### bafb3c4b83-SM | LUCIUS → BATMAN | x4
+I{ThinkingA} had to work fast to hide that {ConfusedA}Wayne Tech exploit.
+
+#### 816cf40d80-SM | BATMANBRUCE → LUCIUS | x4
+Nothing I’ve {ConcernedA}noticed.
+
+#### 70e01e6fd0 | BRUCE → LUCIUS, BATMAN | x4
+Lucius did give us a new secutiry update.  Might still be some bugs in the system.
+
+#### 39998bf8ef | BATMANBRUCE → BRUCE | x2
+We did recently instal Lucius’s {ThinkingA}new secutiry{FaceAccent} updates.  {ThinkingB}Might still be some bugs in the software.
+
+#### ea7a512027 | BRUCE → ALFRED | x2
+Might be Lucius making some remote secutiry updates.
+
+#### ae7dbeff61 | BATMANBRUCE → ALFRED | x2
+Check this out...
+
+#### 5020a45eef-SM-LM | choice/UI → ALFRED | x2
+At least I had you.
+
+#### 401db73cd0-SM-LM | BATMANBRUCE → ALFRED | x2
+At least{AmusedA} I had {FaceAccent}you to raise me.  {SkepticalA}I don’t{FaceAccent} know what I would have {AmusedA}done without {HappyA}you{FaceAccent}.
+
+#### a7464f04fa | ALFRED → BATMAN | x2
+Oh no{HappyA}.  Don’t you try to pin all of{AmusedA} {FaceAccent}*this* on me!
+
+#### 7d846cc3f9 | choice/UI → ALFRED | x4
+That wasn’t your call to make.
+
+#### c83443c54e | GORDON, choice/UI → ALFRED, BRUCE | x14
+Thanks for having my back.
+
+#### f2ebd6ec2b | choice/UI → ALFRED | x4
+Ask me first next time.
+
+#### 20c7a19b54 | choice/UI → ALFRED, LUCIUS | x4
+The Batcomputer has been glitchy.
+
+#### ce112ad58b | choice/UI → LUCIUS | x4
+Is it a problem?
+
+#### 2d9ad807bc | choice/UI → LUCIUS | x4
+I havent noticed anything.
+
+#### 697806f4d9-L? | choice/UI | x2
+Don’t put yourself in danger.
+
+#### 420762b45b | choice/UI → ALFRED | x4
+Make it a top priority.
+
+#### 8497d42fa2 | choice/UI → ALFRED | x2
+I’m going to destroy him.
+
+#### aafaa86778 | choice/UI → ALFRED | x2
+He was my friend, he’ll listen.
+
+#### ff944e50af | ALFRED → BATMAN | x2
+He may be more inclined to listen to the{SkepticalA} Caped Crusader than Bruce Wayne at this point.
+
+#### 16921ea344 | ALFRED → BATMAN | x2
+Harvey views himself as a man who will do what it takes to save the city...  {SkepticalA}He can’t deny that Batman has a similar agenda.
+
+#### 5065a46890 | ALFRED → BATMAN | x2
+Maybe Batman can convince him of that.
+
+#### a761b7620a | BATMANBRUCE → ALFRED, LUCIUS | x4
+Is there a problem I should{SkepticalA} know about?
+
+#### cb3879837a | BATMANBRUCE → LUCIUS | x4
+You rush the job you get sloppy work. {ThinkingB}We can’t afford that.
+
+#### e0b0d91d7f-SM | choice/UI → BATMANBT | x4
+I needed your help here.
+
+#### e10d3eee70 | choice/UI → BATMANBT | x2
+Speakers
+
+#### 4dcc9bc977 | choice/UI → ALFRED | x2
+Gyroscopic Stabilizer
+
+#### c0c546f6a3 | choice/UI → ALFRED | x2
+Bullet Launcher
+
+#### 3c7e102b18 | choice/UI → ALFRED | x2
+Drone Core Revealed
+
+#### da29535511 | BATMAN → ALFRED | x2
+It’s Waynetech.
+
+#### 640487e35e | choice/UI → ALFRED, LUCIUS | x4
+Text Response 1
+
+#### c54eaa088a | choice/UI → ALFRED | x4
+Text Response 2
+
+#### 379d341cfc | choice/UI → ALFRED, LUCIUS | x4
+Text Response 3
+
+#### 702c81b677-SM-LM | LUCIUS → BATMAN | x4
+I left because you{SurpriseA} asked{ThinkingA} me to.
+
+#### e61ec9f427-L? | LUCIUS | x2
+You called.
+
+#### dd0f6916db-L? | choice/UI | x2
+You said the R&D lab was secure.
+
+#### 0b742db7c9-L? | choice/UI | x2
+There is nothing you could have done.
+
+#### 697806f4d9-LM | choice/UI → LUCIUS | x2
+Don’t put yourself in danger.
+
+#### 5e1111491c | LUCIUS → BATMAN | x4
+God. Someone’s found a way to get past my security upgrades.
+
+#### a92997473b | BATMANBRUCE → LUCIUS | x2
+Cobblepot isnt just accessing WayneTech... he’s controlling my Bat Tech now.
+
+#### 5312b6d222 | LUCIUS → BATMAN | x2
+Not exactly. There’s only just enough of a signal to cause some “hicups”.
+
+#### 6e2e66aa02 | BATMANBRUCE → LUCIUS | x4
+Not just someone... Oswald Cobblepot.
+
+#### 81e5e3895c-SM | LUCIUS → BATMAN, ALFRED | x6
+I knew there was something I didn’t like about that guy.
+
+#### e156f4ec4e | LUCIUS → BATMAN, HARVEY, ALFRED | x6
+I didn’t think he’d be that resourceful.
+
+#### 5b71ed681a | choice/UI → LUCIUS | x2
+What else is at risk?
+
+#### f8aa8e0db5 | BATMANBRUCE → LUCIUS | x2
+We have to fix this, now.
+
+#### 39b5757ca8 | BATMANBRUCE → LUCIUS | x2
+What else does Cobblepot have access to?
+
+#### e1aa236bf1 | LUCIUS → BATMAN | x8
+But there’s a bright side to this.  The signal coming in is only just strong enough to cause some “hicups”.
+
+#### e157071a19 | LUCIUS → BATMAN | x2
+Right now it’s impossible to tell...
+
+#### 00c09dffca | BATMANBRUCE → LUCIUS | x2
+Hiccups?
+
+#### 2bd1110f58 | LUCIUS → BATMAN | x2
+Glitches.  Small disruptions.  He can’t actually take control of anything... yet.
+
+#### 5d6adb1ba1 | BATMANBRUCE → LUCIUS | x2
+How is he doing it?
+
+#### 0da8cc76e1 | LUCIUS → BATMAN | x2
+He must have some kind of signal amplification device thats
+
+#### 9c14803c58-SM | LUCIUS → BATMAN | x4
+If I were to take an {SkepticalA}educated guess--{BodyAccent} I’d say Oswald is using his Children of Arkham connections to procure some after-market hacker hardware.
+
+#### 6f0e43ca90 | choice/UI → LUCIUS | x4
+Find out how he did this.
+
+#### 2c3474ecf1 | BATMANBRUCE → LUCIUS | x4
+I want you figuring out how he did it. This is a priority.
+
+#### 04f9a9a994 | choice/UI → LUCIUS | x4
+How do we fix it?
+
+#### 26201a2ff6 | ALFRED → BATMAN | x2
+Bruce, I have Lucius on screen now.
+
+#### 55a684cc0e-SM | BATMANBRUCE → LUCIUS | x2
+I need you to see something.  Sending you schematics.
+
+#### f06414040f | BATMANBRUCE → LUCIUS | x2
+And watch your back... Wayne Tower is a dangerous place to be right now.
+
+#### 79cd070d42 | HARVEY → LUCIUS | x2
+Reports of Children of Arkham activity are down.
+
+#### a02b6572c1 | ALFRED → LUCIUS | x2
+Harvey is scared... paranoid, but he clearly views Batman in a favorable light. [He might be more inclined to listen to him than Bruce Wayne at this point.-trim]
+
+#### 070c3af550 | ALFRED → LUCIUS | x2
+After what happened at the debate, Harvey probably isn’t the biggest fan of Batman [- But he can’t deny that you’re both trying to save the city.-trim]
+
+#### 714bb741d7 | ALFRED → LUCIUS | x2
+On the other hand, perhaps Bruce Wayne can appeal to him on a more personal level.
+
+#### a20142c464 | ALFRED → BATMAN | x6
+The boy is traumatized, obviously.
+
+#### af328d9976 | ALFRED → BATMAN | x2
+That the boy was disturbed but handling it as well as anyone could.
+
+#### 02e25a30b1 | ALFRED → BATMAN | x2
+Not to mention that they said he was terrified of a certain masked viligante.
+
+#### 9916dec755 | ALFRED → BRUCE | x2
+He’s just a boy, Bruce.
+
+#### 0b0b0ba4e3 | BATMAN → ALFRED | x2
+The boy didn’t need a light touch, he
+
+#### ae5fc8e2a1 | ALFRED → BATMAN | x2
+But they did say that he was bolstered by how [make it awkward]“cool” being saved by Batman was.
+
+#### 2fd14ed05b | ALFRED → BATMAN | x2
+He seemed quite taken by you.
+
+#### ebeadcf79c | ALFRED → BATMAN | x6
+He was witness to a brutual murder.
+
+#### 0eb2a3a84f | ALFRED → BATMAN | x4
+Regardless, having your parents killed in front of you...
+
+#### bff6788889 | ALFRED | x2
+Regardless,
+
+#### adbfb5e3dc | ALFRED → BATMAN | x2
+Seems Oswald Cobblepot’s made it into Research and Development. Didn’t take that rat long, did it?
+
+#### 6c522976eb | ALFRED → BATMAN | x2
+He’s made it into Research and Development. That didn’t take long, the rat.
+
+#### d3cbc8d0c4 | BATMAN → ALFRED | x2
+More concerning is the fact that my Bat Stunner failed.
+
+#### 4c2e40bd7b | BATMAN → ALFRED | x2
+I’ll have to fix it. [to Alfred]Set up a scan.
+
+#### 372f91945b | BATMAN → ALFRED | x2
+That boy helped me bat the drone straight out of the air.
+
+#### 79962aa63b | BATMANBRUCE → ALFRED | x2
+Electricity conductor... everything looks functional.
+
+#### 93626567f6 | BATMANBRUCE → ALFRED | x2
+No damage on the microfiber. Adhesion regulation reads normal.
+
+#### 25a3801eff | BATMANBRUCE → ALFRED | x2
+EMP functionality is all in the green.
+
+#### db17766dca | ALFRED → BATMAN | x2
+I wonder... if he might end up like you, someday.
+
+#### 7e66ecfa91 | ALFRED → BRUCE | x2
+I know it’s been hard for you, Bruce.
+
+#### dd0b655b71-SM | ALFRED → BATMAN | x2
+But I am proud of the man you’ve become.
+
+#### c1fbed690e | ALFRED | x2
+It sounds to me like he’s a tough one.
+
+#### fd7fc0d184 | ALFRED → BATMAN | x2
+And it’s not quite over yet, I see.
+
+#### 1a6d548992 | ALFRED → BATMAN | x2
+I think he’ll be fine, wherever he ends up.
+
+#### e3e11d582e-LM | ALFRED → BATMAN | x2
+The boy wasn’t the only thing you found in the house, I see.
+
+#### 3253f6e729 | BATMANBRUCE → ALFRED | x2
+It should’ve worked.
+
+#### 8ea2247ca8 | BATMANBRUCE → ALFRED | x2
+This doesn’t make any sense...
+
+#### efd1540869 | BATMANBRUCE → BRUCE | x2
+This is strange...
+
+#### 32fad77ae2 | BRUCE → BATMAN | x2
+It’s emitting a low bandwidth recieving signal... but it shouldn’t be.
+
+#### f5b44c18f8 | BATMANBRUCE → BRUCE | x2
+This microchip is emitting a low bandwidth recieving signal... but it shouldn’t be.
+
+#### b20969e362 | ALFRED → BATMAN | x2
+Like the ones you shut down in the GCPD?
+
+#### 20f1afe4b6 | BATMANBRUCE → BRUCE | x2
+Something like that...
+
+#### 46622dbf03 | BATMANBRUCE → BRUCE | x2
+But Lucius shut down the WayneTech breach used by the Children of Arkham.
+
+#### db18c30325 | BATMANBRUCE → ALFRED | x2
+But Lucius had his eyes on the WayneTech that the Children of Arkham breached.
+
+#### 31ba65d6d9 | BRUCE → BATMAN | x2
+Alfred... go get Lucius for me, please.
+
+#### 04e4a7acfc | BATMANBRUCE → BRUCE | x2
+Alfred, get Lucius on the line for me, please.
+
+#### a3a1a1c52d | BRUCE → ALFRED, LUCIUS | x4
+Any ideas on how to fix this?
+
+#### 9ade2bc23e | choice/UI → ALFRED | x2
+Circuit Board
+
+#### 336ec26e38 | choice/UI → ALFRED | x2
+Back Panel
+
+#### f16e9cd05e | choice/UI → LUCIUS | x2
+Exterior Casing
+
+#### 7d5650374d | choice/UI → LUCIUS | x2
+Side Panels
+
+#### d0dbbc9833 | BATMANBRUCE → BRUCE | x2
+This is something different.
+
+#### c0af1fa1cc | LUCIUS → BRUCE | x4
+I’ll see what I can do, but this...
+
+#### 0d9bfcc760 | LUCIUS → BRUCE | x4
+It’s an unknown quantity. It’s going to take time.
+
+#### 93a67c7484-SM | LUCIUS → BRUCE | x2
+I could have at least tried!
+
+#### 7c74772d27 | LUCIUS → BRUCE | x4
+Hmm. It looks like Oswald’s hack is creating a feedback loop in your equipment - The signal is just constantly “pinging” itself.
+
+#### d7acc4a63b | LUCIUS → BRUCE | x4
+It
+
+#### 9037148184 | BRUCE → LUCIUS | x4
+What sort of effect is that going to have? It’s not like I can remove the chip.
+
+#### a865df67df | LUCIUS → BRUCE | x4
+Having a feedback loop is going to cause glitches. Hiccups.
+
+#### 0c26ef1d25 | LUCIUS → BRUCE | x4
+If he can break the loop and force the signal... he can get control of your tech.
+
+#### 98556dafa8 | LUCIUS → BRUCE | x2
+At least-- not yet.
+
+#### 09fc3c7348 | LUCIUS → BRUCE | x4
+If I can trace what’s forcing the feeback, though, I might be able to figure out exactly where it’s coming from.
+
+#### 4f18c7ef6c | BRUCE → LUCIUS | x4
+Worst-case scenerio?
+
+#### 8c2bf8e7de | BRUCE → LUCIUS | x4
+Figure it out. This is what I pay you for.
+
+#### 1830708180 | LUCIUS → BRUCE | x4
+Sounds like I should be applying for a raise.
+
+#### 0320034524 | BRUCE → LUCIUS | x4
+Keep helping me get my company back and I can make that happen.
+
+#### fa1d86ef3c | BRUCE → LUCIUS | x2
+Good thing you’re well situated there to dig into what’s going on.
+
+#### e5b41c5ce1 | BATMANBRUCE → LUCIUS | x2
+Lucius, meet me at the Batcomputer. There’s something I want to talk to you about.
+
+#### fc88f1c964 | LUCIUS → BRUCE | x2
+Be right there.
+
+#### ad0faa97a1 | LUCIUS → BRUCE | x2
+What’s up, Bruce?
+
+#### 2579cb9024 | LUCIUS → BRUCE | x2
+None yet, but Mrs. Fox didn’t raise her son to be a quitter...
+
+#### 253b091a72 | LUCIUS → BRUCE | x2
+I’ll get right on it, Bruce.
+
+#### 5655e56121 | LUCIUS → RYDER | x4
+It’s sort of like the system sporadically rebooting itself - You’ll probably experience more glitches, hiccups... like the kind you’ve been seeing already.
+
+#### cd4a755e64 | LUCIUS → RYDER | x4
+I’ll do everything I can - I promise you that.
+
+#### b32bf1b411 | LUCIUS → RYDER | x4
+I don’t care how elegant his work is, he can’t hide it from me forever...
+
+#### d14f797bfd | RYDER → LUCIUS | x2
+Some breaking news…
+
+#### 81a1e5481c | RYDER → LUCIUS | x2
+Police are currently on the scene of a double homicide at a house in the leafy suburb of Gotham Heights. The authorities aren’t releasing names at this time, but sources tell me the victims were an older married couple who died, quote “in the most brutal manner imaginable.” endquote. As of now, we don’t have any word on suspects, motive, or any measures the police are taking to ensure public safety. Residents of Gotham Heights are urged to stay indoors until further information is available.
+
+#### 9e892a0047 | RYDER, FAIRCHILD → LUCIUS | x6
+In other news…
+
+#### a22b6d0bb9 | RYDER → ALFRED | x2
+The family and friends of Mayor Hamilton Hill, who was killed in a recent terror attack by the Children of Arkham, were outraged to learn that the Gotham City Council voted thirty-nine to one to cancel plans for a memorial fountain to be installed in a park near City Hall in the mayor’s honor. Citing limited resources in a time of severe crisis, the council said the issue of the memorial fountain could be raised at a later time, quote “After the criminal threats to the city have been eliminated.” In other words, don’t hold your breath.
+
+#### ab531f00db | RYDER → ALFRED | x2
+Mayor Harvey Dent says he stopped a recent criminal attack on the city’s Skyrail system, but when it comes to train delays, he’s noticeably silent. It’s not a new problem, though. Even before the undisclosed terrorist threat to the Skyrails, ridership was experiencing wait times of up to an hour or more. In a city of ten million, that kind of bottleneck is about more than inconvenience. How the whole city continues to function as a habitable location is called into question. The next Skyrail car to pull into the station could be filled with Gothamites headed out of town -- for good.
+
+#### e0bfb86231 | RYDER → BATMAN | x2
+Despite some grim news, things are looking bright on the jobs front. Mayor Dent’s administration is hiring and in sizable numbers. According to one spokesman, the city hopes to hire up to five thousand new officers for the Mayor’s law enforcement squads. Keep in mind, this is a separate entity from the Gotham City Police Department, which officials says should keep it free from the corruption that has hampered the GCPD’s efforts of late. Prospective candidates are encouraged to present themselves at City Hall tomorrow, beginning at noon.
+
+#### a5dddc2de1 | ALFRED → RYDER | x2
+And so your Bat Stunner just... didn’t work?
+
+#### 0b65a7fb78-SM | BATMANBRUCE → RYDER | x2
+No. And I’ve got a bad feeling that it was no accident.
+
+#### 3392efe8e9-SM | BATMANBRUCE → LUCIUS | x2
+If not for Lucius’ Strobe Grenade I’m not sure what I would’ve done.
+
+#### 99f3a57cd4 | LUCIUS → BATMAN | x2
+I’m here. What’s up?
+
+#### 41f1893848-SM | LUCIUS → BRUCE | x2
+I am so sorry, Bruce. If only I’d been at Wayne Enterprises... maybe there was something I could have done.
+
+#### 2bab6a4baf-SM | LUCIUS → BRUCE | x2
+Bruce, I am so sorry. I should have caught this, but he snuck right under my nose!
+
+#### b4789beef4 | choice/UI → LUCIUS | x4
+Just focus on fixing it.
+
+#### 1a206e5ef5-LM | choice/UI → LUCIUS, ALFRED | x4
+Don’t blame yourself.
+
+#### f566994484 | choice/UI → LUCIUS | x2
+We’ll be more careful next time.
+
+#### a9cbbce28d-LM | BATMANBRUCE → LUCIUS | x4
+Don’t waste time beating yourself up about it, Lucius. Let’s just focus on fixing it.
+
+#### 561b706c11-LM | BATMANBRUCE → LUCIUS | x4
+Cut yourself some slack, Lucius - There’s no way you could’ve known.
+
+#### dfab1eeb0a | BATMANBRUCE → LUCIUS | x4
+I certainly don’t blame you for it.
+
+#### 4e695636dd | LUCIUS → BATMAN | x12
+Well, I still feel a little guilty.
+
+#### 411e5b6ed9 | LUCIUS → BATMAN | x4
+Right, right.
+
+#### 1b60d416c3 | BRUCE → BATMAN | x2
+This wasn’t just on you, Lucius - We all h
+
+#### 9ab220e9a6-SM | choice/UI → LUCIUS | x4
+I needed you here.
+
+#### c88d4e2360-SM | choice/UI → LUCIUS | x4
+I needed you there.
+
+#### d14586572d-SM | BATMANBRUCE → LUCIUS | x4
+Now that might be true, but I really needed you here.
+
+#### f655e5f0e1 | BATMANBRUCE → LUCIUS | x4
+Without that strobe grenade of yours I might’ve been toast.
+
+#### 57e89e48e0-SM | BATMANBRUCE → LUCIUS | x4
+That might be true, but I really needed you there in Wayne Tower.
+
+#### 0db29284c4 | BATMANBRUCE → LUCIUS | x4
+Without you, we wouldn’t have any eyes in there at all.
+
+#### 7c1c624f2c | LUCIUS → BATMAN, ALFRED | x4
+What a mess... with that sleaze Cobblepot at the heart of it all.
+
+#### 5ca93cc1e9 | LUCIUS → BATMAN | x6
+I promise you - I’m going to help you figure out how to stop him.
+
+#### 5716f8fc2c | LUCIUS → BATMAN, ALFRED | x4
+Looks to me like he’s introduced some sort of bug into your network --
+
+#### 245e370e4c | BATMANBRUCE → LUCIUS | x4
+That’s how he’s making my equipment malfunction?
+
+#### 3363d4b62c | LUCIUS → BATMAN | x4
+For now... but if he keeps it up, he could completely take control of your tech.
+
+#### 7d52df877a | ALFRED → LUCIUS | x4
+My lord. That would be... catastrophic.
+
+#### c420a0567f | BATMANBRUCE → LUCIUS | x4
+Is there anything you can do?
+
+#### d5ff12ac5c | LUCIUS → BATMAN | x4
+I can try to work on your firewalls... but if I do anything too drastic he’ll know we’re onto him.
+
+#### dc3c83cba8 | LUCIUS → BATMAN | x4
+Then again, if I don’t work fast he might just tear through the firewalls anyway.
+
+#### ebc2681b68 | choice/UI → LUCIUS, ALFRED | x4
+Tread carefully.
+
+#### f5f1988511 | choice/UI → LUCIUS | x4
+No time for stealth.
+
+#### ba52308f3e | BATMANBRUCE → LUCIUS | x4
+Cobblepot doesn’t know we’re onto him and we can’t risk losing the element of surprise.
+
+#### 005e049772-LM | BATMANBRUCE → LUCIUS | x4
+I say you do what you need to do, as stealthily as possible.
+
+#### 05373b8d54 | LUCIUS → BATMAN | x8
+Good plan. I’ll get on it right away.
+
+#### f19766531a | choice/UI → LUCIUS | x4
+Let’s turn the tables.
+
+#### d91fc80688-SM | BATMANBRUCE → LUCIUS | x4
+I’m tired of being on the defensive - Why don’t we attack him instead?
+
+#### 39b67119fa-LM | BATMANBRUCE → LUCIUS | x4
+No time for stealth, Lucius. You need to get those firewalls augmented fast.
+
+#### 547c041acf | BATMANBRUCE → LUCIUS | x4
+If he notices... well, we’ll figure it out from there.
+
+#### ed3494fa60 | LUCIUS → BATMAN | x4
+Not sure... but I can certainly see what I can do.
+
+#### 7a4ed26677 | LUCIUS → BATMAN | x4
+I suppose I can just... wing it.
+
+#### 98babe2099-SM | choice/UI → ALFRED | x2
+True, But I needed you here.
+
+#### 0628638963 | ALFRED → BRUCE | x2
+Ah, Bruce? Lucius? You’re going to want to see this.
+
+#### fb5a28ef72 | ALFRED → BRUCE | x2
+Bruce? You’re going to want to see this.
+
+#### 6287d3c196 | HARVEY → ALFRED | x2
+...He takes advantage of his personal relationship with the police to get him out of Arkham...
+
+#### c74206c795 | HARVEY → ALFRED | x2
+But these efforts do not come cheap,[ and we need funding to continue keeping the people safe.-trim]
+
+#### d9c8de360e | HARVEY → ALFRED | x2
+That’s why I am formally seizing the Wayne Estate; so the corrupt wealth of Gotham’s elite can go to the better purpose of protecting Gotham’s common man.
+
+#### 3f357ee463 | BATMANBRUCE → HARVEY | x2
+I have to talk to him...
+
+#### ac43aa014b | ALFRED → BRUCE | x2
+I believe in you, Bruce. I know you can get through to him.
+
+#### 38feae693b | BATMANBRUCE → HARVEY | x2
+That’s right. And I have a bad feeling it was no accident.
+
+#### b2d80dc315 | BATMANBRUCE, BRUCE, choice/UI → LUCIUS, ALFRED | x10
+Thanks Lucius.
+
+#### e963907dac | choice/UI → LUCIUS | x7
+Remove
+

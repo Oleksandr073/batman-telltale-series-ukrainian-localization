@@ -1,0 +1,2355 @@
+﻿#### 58541064dd-SM | choice/UI, BRUCE → POLICEOFFICER | x4
+I need to see Dent. Now.
+
+#### 76c3c1ebce | choice/UI | x2
+I’m not here to cause trouble.
+
+#### ed48030478 | choice/UI | x2
+Don’t try to stop me.
+
+#### 5a70875292-L? | choice/UI | x2
+You got my attention. Now what?
+
+#### e42c0e1852 | choice/UI → OSWALD | x4
+I’m here to stop you.
+
+#### fd2f629d11 | choice/UI | x2
+Can we talk like friends?
+
+#### 32731b3d34 | choice/UI | x2
+Do you honestly believe that?
+
+#### 172808406e | choice/UI | x2
+Is this because of Selina?
+
+#### 9fc66462a1 | choice/UI | x2
+You’ve completely lost it.
+
+#### 2434eab139 | choice/UI | x2
+You’re forgetting your REAL enemies.
+
+#### 23c4192348 | choice/UI | x2
+You’re just being selfish.
+
+#### 14a7f1335e | choice/UI | x2
+You don’t know what’s good for Gotham.
+
+#### 5325092e35 | choice/UI | x2
+You can’t just bury me.
+
+#### f27cc0f458 | choice/UI | x2
+You disgust me.
+
+#### 55e95b63f8 | choice/UI | x2
+Let’s work something out.
+
+#### 4bb13f26e4 | choice/UI | x2
+You keep putting me there.
+
+#### 58e6f59bcf | choice/UI | x2
+Not by choice.
+
+#### dcb24ee699 | choice/UI → OFFICER01 | x2
+Don’t change the subject.
+
+#### c256c72e06-SM | choice/UI → OFFICER01 | x2
+I’ve always supported you!
+
+#### c8b46e17a1 | choice/UI → OFFICER01 | x2
+I’m trying to help you!
+
+#### f22c022ce8 | OFFICER01 → SERGEANT | x2
+Sir, it’s Bruce Wayne.
+
+#### a98dcc333a | OFFICER01 → SERGEANT | x2
+uh... here.
+
+#### 9f47f130eb-LM | DEBORAH → BRUCE | x2
+Uh, hello, Mr. Wayne. Do you need anything?
+
+#### c606e73f7e | POLICEOFFICER → BRUCE | x2
+The lady asked you a question.
+
+#### cea9955105 | POLICEOFFICER → BRUCE | x2
+So you should answer her.
+
+#### 77e26ec22a | BRUCE → POLICEOFFICER | x2
+I didn’t come here to cause trouble.
+
+#### b2e26e681c | BRUCE → DEBORAH | x2
+Don’t even try it!
+
+#### 8ec02a998a-LM | DEBORAH → BRUCE | x2
+Sir? Did you hear me?
+
+#### fafc1203fd | DEBORAH → BRUCE | x2
+Hello, Mr. Wayne... can we help you?
+
+#### a5d13b6d31 | DEBORAH → BRUCE | x2
+... anyway... He mentioned you might come by.
+
+#### 7fd0dffb7d | DEBORAH → BRUCE | x2
+You can find him on the roof.
+
+#### 55a02d0e48 | DEBORAH → BRUCE | x2
+It’s kind of his thinking place.
+
+#### 7f4c60a51d-LM | HARVEY → BRUCE | x2
+I’m guessing you saw my big announcement about seizing your fortune.
+
+#### be83c40a13 | BRUCE → HARVEY | x2
+Can’t we talk this over like {FaceAccent}friends, Harvey?
+
+#### 183d8ae7f4 | BRUCE → HARVEY | x2
+After all, we used to be friends.
+
+#### 71fc96d91f | BRUCE → HARVEY | x2
+We’re friends, Harvey.
+
+#### afe76a0708 | HARVEY → BRUCE | x2
+About your house I mean...
+
+#### f035aa3316 | HARVEY → BRUCE | x2
+Deborah said I come off very mayoral... perhaps even “gubernatorial.“
+
+#### cceb9285a2 | HARVEY → BRUCE | x2
+It seems the public really likes to see the bad guy take a big fall.
+
+#### 8b237eb2b4 | BRUCE → HARVEY | x2
+I know your little stunt was to get my attention.
+
+#### 2998f1c1b3-SM | HARVEY → BRUCE | x2
+No, Bruce, I’m IN line.  Thanks to you being an out-of-control, plundering billionaire, I’ve got the whole city in line behind me now-
+
+#### a6f0f5d0f7 | HARVEY → BRUCE | x2
+That’s right, Bruce, just let it sink in.
+
+#### 2f5ba1be7e | HARVEY → BRUCE | x2
+Get used to the new way of the world.
+
+#### 493e70b133 | BRUCE → HARVEY | x2
+What the hell?!?
+
+#### 15b132f051-SM | HARVEY → BRUCE | x2
+I threw you in Arkham to get you out of the way.
+
+#### 29fee1af20 | HARVEY → BRUCE | x2
+I’m trying to keep a city running here whatever way I can.
+
+#### 2060643c11 | HARVEY → BRUCE | x2
+I’m trying to keep a city running here.
+
+#### 41f49b2e86-SM | BRUCE → HARVEY | x2
+I’ve always suported you, Harvey!
+
+#### 3f4f08b7a7 | BRUCE → HARVEY | x2
+Your authority is a joke, Mister Mayor.
+
+#### df4da0e7c7 | BRUCE → HARVEY | x2
+I’m just trying to help you!
+
+#### 4062c9c38a | HARVEY → BRUCE | x2
+What? Is Bruce Wayne finally out of answers for everything?
+
+#### 41bec5ca83 | HARVEY → BRUCE | x2
+Can’t you see that you’re making Gotham worse?!?
+
+#### 9250042b11 | BRUCE → HARVEY | x2
+Harvey, you should be focusing on the {ConcernedB}Penguin, Lady Arkham, and {AngryA}all the rest of their crazy army!
+
+#### b0cb289bfd-LM | BRUCE → HARVEY | x2
+You’ve got the power- put it to good use.
+
+#### a565e65e4e-LM | HARVEY → BRUCE | x2
+You’re only helping yourself-
+
+#### 25b19a3d6c | HARVEY → BRUCE | x2
+You’re just not seeing the big picture.
+
+#### 8f92103c15 | HARVEY → BRUCE | x4
+It took me years to get here, Bruce- I’m not going to let you ruin it.
+
+#### 6e25c5c43d-L? | HARVEY | x2
+While the rest of the city is going to hell, you’re turning YOURSELF into the story.
+
+#### d84b2f2966 | HARVEY → BRUCE | x4
+I really don’t have time for this kind of nonsense.
+
+#### 8181d033e3 | HARVEY → BRUCE | x2
+One thing at a time, Bruce.
+
+#### ac4b694a04 | HARVEY → BRUCE | x2
+Well, if it is, it’s on you, Bruce.
+
+#### 5c6815791e | BRUCE → HARVEY | x2
+What am I missing?  What does seizing my assets have to do with that?!?
+
+#### 10d327f052 | HARVEY → BRUCE | x2
+Reparations, Bruce. It’s what your family owes this city.
+
+#### 4044131842 | BRUCE → HARVEY | x2
+Do you really believe all this garbage you’re saying?
+
+#### abac199953 | BRUCE → HARVEY | x2
+So that’s it then. {FearA}You’ve gone completely around the bend.
+
+#### ee9e4a8a97 | HARVEY → BRUCE | x2
+Well... maybe half.
+
+#### ae11482363 | HARVEY → BRUCE | x2
+Not at all!
+
+#### f77b3effaf | BRUCE → HARVEY | x2
+This is because of Selina, isn’t it?
+
+#### 424c3a2a5a | HARVEY → BRUCE | x2
+Of course it isn’t!
+
+#### 973b1c083a | HARVEY → BRUCE | x2
+Well, maybe it is a little.
+
+#### a4565195f8 | HARVEY → BRUCE | x2
+Harvey is obviously beginning to unravel emotionally.
+
+#### 376267ff93 | HARVEY → BRUCE | x4
+It might be hard for you to accept, Bruce, but it’s time to make things right.
+
+#### 8aef68cecd | HARVEY | x2
+It’s time to give back what you’ve taken.
+
+#### 86134e4632 | HARVEY | x2
+It’s time for a Wayne to make amends for all your family has done to this city.
+
+#### 7d61c5703b-L? | HARVEY | x2
+We’ve got enough to worry about without you making a problem of yourself.
+
+#### 668a50d282 | HARVEY | x2
+This is for the good of Gotham.
+
+#### a9a6c47c29-LM | HARVEY → BRUCE | x2
+If you’d asked me just a few weeks ago, I’d have bet Harvey could trust you more than anyone else in his life, Bruce.
+
+#### f4630a7e4b-L? | HARVEY | x2
+As if Harvey don’t have enough to worry about as Mayor without you making yourself into another problem I have to deal with.
+
+#### 51e10aac30 | HARVEY → BRUCE | x2
+You’re just as bad as Batman! Leaving Harvey to suffer while you look out for your own interests.
+
+#### c2e0db7cc8 | HARVEY → BRUCE | x2
+Don’t get me wrong, Bruce. I will always appreciate everything you’ve done for Harvey. Hell, he wouldn’t be Mayor today if not for you and your wallet.
+
+#### 94ddbd23cd | HARVEY → BRUCE | x2
+But all that’s in the past.  And, for better or worse, we’re living in the now.
+
+#### 20c2c61393 | BRUCE → HARVEY | x2
+You can’t just get rid of me.
+
+#### e0d66fed89 | HARVEY → BRUCE | x2
+Yes, you’re like a bad penny, aren’t you?
+
+#### d7b119d184 | HARVEY → BRUCE | x2
+Always turning up and all that... no matter what.
+
+#### 23344c997a-SM-LM | BRUCE → HARVEY | x2
+I believed in you.  When no one else did. When you didn’t even believe in yourself.
+
+#### 360e26f742 | BRUCE → HARVEY | x2
+Let’s make a deal, Harvey.
+
+#### 7a5442e941 | BRUCE → HARVEY | x2
+I refuse to go away.
+
+#### c0516265f4 | HARVEY → BRUCE | x2
+True... but now I’m more than man enough for any job.
+
+#### f598b3deea | HARVEY → BRUCE | x2
+It’s too late for that, Bruce.
+
+#### dffde92884 | HARVEY → BRUCE | x2
+I’m holding all the cards now... and I’m not giving any of them up.
+
+#### c9e65a8a60 | BRUCE → HARVEY | x2
+For old time’s sake.
+
+#### 4688ccd163 | HARVEY → BRUCE | x2
+That’s right, Bruce.  Don’t argue.  Don’t fight it.
+
+#### 3a56268a1c | HARVEY → BRUCE | x2
+It’ll make this all go so much easier.
+
+#### bc256e615c | HARVEY → BRUCE | x2
+It’s over for you now, Bruce.
+
+#### da8ff1bcda-L? | HARVEY | x2
+You just need to accept it.
+
+#### 2e297d5ae6 | HARVEY → BRUCE | x2
+It’s what’s good for Gotham, Bruce.
+
+#### 0bc19255bc | HARVEY → BRUCE | x2
+We hope you’ll be able to see that.
+
+#### 4b33b798a0 | HARVEY → BRUCE | x2
+We hope you can see that.
+
+#### 80277b5a25 | BRUCE → HARVEY | x2
+Gotham has bigger problems than me.
+
+#### 8cff8f98a3 | BRUCE → HARVEY | x2
+You have way bigger problems than me, Harvey. Maybe if you’d take a look around you’d see that.
+
+#### 9925f63843 | BRUCE → HARVEY | x2
+You’re wasting time on me while the Children of Arkham are tearing this city apart.
+
+#### 2de2658a0f | HARVEY → BRUCE | x2
+It really is for the best.
+
+#### ff6e211991 | BRUCE → HARVEY | x2
+No. You’re just being selfish.
+
+#### 686d7307cf | BRUCE → HARVEY | x2
+That’s what’s really motivating you? Not this fake nobleness you’re playing at.
+
+#### 27d7b6e8e8 | BRUCE → HARVEY | x2
+Stop being so two-faced.
+
+#### 2ee0445369 | BRUCE → HARVEY | x2
+You don’t know what’s good for Gotham, Harvey.
+
+#### 9e74f95a90 | HARVEY → BRUCE | x2
+-and you do?!?
+
+#### 4981109f8d | HARVEY → BRUCE | x2
+Just accept it, Bruce: You can’t fight City Hall.
+
+#### 1894037efa | HARVEY → BRUCE | x4
+You certainly have been in the news a good deal lately, haven’t you?
+
+#### fed132a48d | HARVEY → BRUCE | x2
+I mean, even for Bruce Wayne, you’re getting a lot of press, aren’t you?
+
+#### 7aebc6af2e | BRUCE → HARVEY | x2
+You’re the one that’s been putting me on the front page.
+
+#### 921dc2d8a8 | HARVEY → BRUCE | x2
+I mean, even for Bruce Wayne, you’re making a lot of headlines.
+
+#### f0ab4b6beb | BRUCE → HARVEY | x2
+It’s not like I’ve been trying to.
+
+#### b397d73b8e | BRUCE → HARVEY | x2
+You think I want anything to do with this kind of attention?
+
+#### 340bce78ce | BRUCE → HARVEY | x2
+Don’t change the subject-!
+
+#### 65208b4100 | HARVEY → BRUCE | x2
+Oh, but I’m not, Bruce.
+
+#### bd89f6a573 | HARVEY → BRUCE | x2
+What’s the matter, cat got your tongue?
+
+#### da666415b1-SM | HARVEY → BRUCE | x2
+I thought you’d, at least, learn your lesson and keep a lower profile.
+
+#### 9872aeb225-L? | HARVEY | x2
+Or have you just grown so accustomed to the attention that you can’t stand to go without it anymore?
+
+#### 49bc8f622c-LM | HARVEY → BRUCE | x2
+Or have you just grown so addicted to all the attention that you can’t stand to go without it anymore?
+
+#### 947ccd61ea | HARVEY → BRUCE | x2
+After a lifetime of battling post traumatic syndrome.
+
+#### b5a90abb3e | HARVEY → BRUCE | x2
+And, now, commiting suicide mere hours after your assets are seized.
+
+#### 607057daa6 | BRUCE → HARVEY | x10
+“Suicide?“
+
+#### 317edaea33-SM | ALFRED → BRUCE | x2
+Bruce, I’m concerned about Mister Dent’s emotional state.
+
+#### 7809c904cd-SM | BRUCE → ALFRED | x2
+I just need to hope my old friend is the Harvey Dent I’m talking to...
+
+#### bb641d30af | ALFRED → BRUCE | x2
+He may not be capable of being the man you require him to be.
+
+#### 2697f2d5bf | ALFRED → HARVEY | x2
+I fear he may not even be himself, at all.
+
+#### 22e8a88a55-SM | HARVEY → ALFRED | x2
+I told you, I told you, I can handle it.
+
+#### 266e166391-SM | HARVEY → BRUCE | x2
+Bruce. I thought you might drop by.
+
+#### 24365cd29b | HARVEY → ALFRED | x4
+Goodnight, sweet prince.
+
+#### da5d0edfc6-L? | HARVEY | x2
+I’ll tell Selina you said goodbye.
+
+#### 1e6694f315-L? | HARVEY | x4
+Touche. You’ve got me there!
+
+#### 1e6694f315-LM | HARVEY → BRUCE | x2
+Touche. You’ve got me there!
+
+#### 272cbe37d2 | HARVEY → BRUCE | x2
+And it’s too late for Harvey!
+
+#### 9ad71e8e3f | HARVEY → BRUCE | x2
+If you screw this up--
+
+#### 25d8303f4d | BRUCE → HARVEY | x2
+You think you can just take my home?
+
+#### 73ae1c268f | HARVEY → BRUCE | x2
+I didn’t have a choice, Bruce!
+
+#### f1235ae99b-LM | HARVEY → BRUCE | x2
+We tried it Harvey’s way - Putting you away in Arkham, but you had to buy your way right back out again! You forced my hand!
+
+#### 6c50d5f720 | HARVEY → BRUCE | x2
+Don’t screw this up, Harvey.
+
+#### 17fc1842e0 | BRUCE → HARVEY | x2
+Are we still friends at all?
+
+#### 9b677cce1f | HARVEY → BRUCE | x2
+Hard to say.
+
+#### edc500e753 | DEBORAH → HARVEY | x2
+Do you have an appointment?
+
+#### d3004b4eb9 | BRUCE → HARVEY | x2
+I don’t need an appointment!
+
+#### cf1935128c | BRUCE → HARVEY | x2
+You know who I am.  Just let me talk to him.
+
+#### 996deabc98 | DEBORAH → BRUCE | x2
+Okay. He mentioned you might come by.
+
+#### 3d793d7773 | HARVEY → BRUCE | x2
+It’s okay. Let him up.
+
+#### dab51da9e5 | DEBORAH → HARVEY | x2
+It’s okay.  Mayor Dent’s expecting him.
+
+#### ab761c729f | ALFRED → DEBORAH | x2
+Batman may have saved him from Penguin’s attack, but Lady Arkham’s drug has clearly affected him on a deep level.
+
+#### c190a873cd | ALFRED → HARVEY | x2
+I know he’s an old friend, but the man you once knew disapeared the moment Batman left him to save Selina. Those scars go deeper than just his appearance.
+
+#### d170565bfd | choice/UI → ALFRED | x2
+Harvey’s still in there.
+
+#### c337bd3c87-LM | ALFRED → BRUCE | x2
+The way you two left things at Miss Kyle’s, combined with the damage done by the Penguin while you were saving Selina... He could be irrational.
+
+#### 793d84085b-LM | ALFRED → BRUCE | x2
+From what you’ve told me, you two didn’t leave things well atMiss Kyle’s. Combined with his fragile psychological state after the Children of Arkham’s attack... This could be difficult.
+
+#### 75f6935088 | choice/UI → ALFRED, RYDER | x4
+He needs to be stopped.
+
+#### a660ae06d1 | choice/UI → ALFRED | x2
+I just want to talk to him.
+
+#### f777d70c02 | BRUCE → ALFRED | x2
+Harvey’s still in there. {SadA}He has to be.
+
+#### af8865cb03-LM | ALFRED → BRUCE, HARVEY | x6
+Let’s hope you’re right.
+
+#### 6d35c58548 | ALFRED → BRUCE | x4
+Well just try and treat the situation delicately this time.
+
+#### febdc796ea | BRUCE → ALFRED | x2
+I can’t let him keep doing this - {ConcernedB}No matter what’s wrong with him, {AngryA}he needs to be stopped.
+
+#### 8538e51203 | ALFRED → BRUCE | x2
+Here’s hoping he’ll listen to reason...
+
+#### 5ae3afca55 | BRUCE → ALFRED | x2
+All I want to do is {SadA}talk.
+
+#### bc17e6d361 | ALFRED → HARVEY | x2
+Let’s just hope he’s in the mood to listen...
+
+#### 1cccacde68 | ALFRED → HARVEY | x2
+Well... Best of luck.
+
+#### 34ab20984a-LM | HARVEY → ALFRED | x2
+Hey. {HappyA}Hi Bruce. I imagine you’ve got... some questions,{FaceAccent}right?
+
+#### 322cd29044-LM | HARVEY → ALFRED | x2
+I imagine you saw my little... announcement.
+
+#### 9a544ee3f7 | HARVEY → ALFRED | x2
+Bruce. {SarcasticA}So good of you to stop by.
+
+#### a4e05faa34 | HARVEY | x2
+Saw my little announcement, huh?
+
+#### 745f65bf76 | HARVEY | x2
+Oh {FaceAccent}god he’s here.
+
+#### ddbb32d809 | HARVEY | x2
+Shut up. {AngryA}Just shut up and I’ll handle it.
+
+#### d55f84bdbf | HARVEY | x2
+Course I guess it would be hard for you to miss.
+
+#### 17ac9599e7 | HARVEY | x2
+What with it getting picked up on every channel.
+
+#### be1082092e-SM | HARVEY → BRUCE | x2
+I just...{SurpriseA}{FaceAccent}oh god... {PainA}I was trying. I was trying to handle this like a friend.
+
+#### 9d8d19b728 | HARVEY → BRUCE | x2
+Yeah. But he was too soft.
+
+#### 8885e59278-LM | HARVEY → BRUCE | x2
+And then you had to go and {AngryB}undermine his authority!
+
+#### 0cd6782dd0 | BRUCE → HARVEY | x2
+Well... {FaceAccent}mission accomplished. What do you want?
+
+#### caed7cb9a5 | HARVEY → BRUCE | x2
+“Mission accomplished..?“ {FaceAccent}Bruce, don’t you get it?
+
+#### ca8654247a | HARVEY → BRUCE | x2
+What do I want? {AngryB}What do I {FaceAccent}WANT?
+
+#### 7fda57dd59 | HARVEY → BRUCE | x2
+You think you’re Harvey’s{AngryA} friend? Boy Bruce. I’d hate to see how you treat your {AngryB}ENEMIES.
+
+#### 180e0dd880-LM | HARVEY → BRUCE | x2
+Bruce, I know you’re probably angry, and I {FaceAccent}know you’re upset, {PainA}but don’t you understand?
+
+#### 120836409f-SM | HARVEY | x2
+My message clearly didn’t sink in the first time so I was forced to take more... {AngryB}drastic action.
+
+#### 51a25f273d-SM-LM | HARVEY → BRUCE | x2
+I wanted you {AngryC}GONE, Bruce.{AngryA} That’s why you got thrown into Arkham. {SmugA}It was Harvey’s one last kindness to you.
+
+#### 2811465544-L? | HARVEY | x2
+That is until you went and undermined his authority.
+
+#### 5d19f311bb | HARVEY | x2
+I know, I know, {FaceAccent}but{SadA} my hands are tied here!
+
+#### e5529e674d | HARVEY | x2
+Real classy of you to hold it over his head like that.
+
+#### c65af5ef1e | HARVEY | x2
+Gonna hold that over Harvey’s head forever, huh?{SarcasticA} Classy.
+
+#### 54e178affc | HARVEY → BRUCE | x2
+What do you think I’m trying to do, Bruce? I’m trying to keep control of a city that’s currently in the process of tearing itself apart at the seams!
+
+#### 228ecab1b5 | HARVEY → BRUCE | x2
+And failing. Because of YOU, Bruce.
+
+#### cd164daccc | HARVEY → BRUCE | x2
+Aren’t you, Bruce? [Aren’t you the enemy?]
+
+#### 6076a40ac6 | BRUCE → HARVEY | x2
+I am not the enemy here.
+
+#### e6659f9cae | choice/UI, LUCIUS → HARVEY, BATMAN | x4
+But why?
+
+#### ba8494040e | BRUCE → HARVEY | x2
+I don’t understand... {DespairA}Why?
+
+#### c72de25f5c | HARVEY → BRUCE | x2
+Because he... Because he...
+
+#### ddd7a2ce91 | HARVEY → BRUCE | x2
+Because Harvey didn’t have the {FaceAccent}stones to do what really needed to be done.
+
+#### 33ccd89bbe | choice/UI → HARVEY | x2
+Let me talk to Harvey.
+
+#### ff7441afce | BRUCE → HARVEY | x2
+Can I just talk to Harvey? If there was a kindness he wanted to give me then maybe we can work something out.
+
+#### 6676a9536f-LM | HARVEY → BRUCE | x2
+It was his LAST kindness, Bruce. And frankly more than you deserved.
+
+#### c61ae1b24b | HARVEY → BRUCE | x2
+It was... {PainA}it was my deal. {FaceAccent}With him.
+
+#### fe4fd6dfca | HARVEY → BRUCE | x2
+You’re not really that dense, are you?
+
+#### b8ac917729-SM-LM | HARVEY → BRUCE | x2
+I made a deal with him, don’t you see? Into Arkham... off the table. But now that you’re out you forced his hand!
+
+#### ff22240a94 | HARVEY → BRUCE | x2
+I don’t... I don’t know how much longer I’ll be here.
+
+#### 06bbf55cb6 | BRUCE → HARVEY | x2
+But what does this have to do with taking my money? My home?
+
+#### ee6f546673 | HARVEY → BRUCE | x2
+I’m tearing down your mansion and turning it into a {AngryC}PARK because {AngryA}I think it’s about time the Waynes {SarcasticA}started giving back to the people of Gotham.
+
+#### 19ebf86d21-LM | HARVEY → BRUCE | x2
+Y-you did a lot for us--... ME, Bruce. But that’s the past. It’s time to start looking forward to the future.
+
+#### 1cb9a69097 | HARVEY → BRUCE | x2
+It’s only fair.
+
+#### 85a44c9305 | HARVEY → IR | x2
+Not entirely, anyway.
+
+#### 7f88d38789 | HARVEY → IR | x2
+Ahh no no no.{SmugB} I’ve been set free for the first time in Harvey’s pathetic life.
+
+#### 24c9511fd9-LM | IR → HARVEY | x2
+BRUCE:<<guid:{72BE7FCF-8BF4-49FF-94D5-131225E9849E}>><<id:378593506>>That’s why you took my house? My assets?
+
+#### af5e7c2a90 | HARVEY → BRUCE | x2
+That’s what you think, huh?
+
+#### ea078efe0e | HARVEY → BRUCE | x2
+One problem at a time, Bruce.
+
+#### fb108543c8 | BRUCE → HARVEY | x2
+Penguin and the Children of Arkham are going to destroy Gotham from the inside!
+
+#### dc3d8e6fcc-SM-LM | BRUCE → HARVEY | x2
+I used to think you did... But not anymore.
+
+#### cb08ac31a3 | BRUCE → HARVEY | x2
+And I don’t know if you ever have.
+
+#### 6050026971 | HARVEY → BRUCE | x2
+Oh and you do?!
+
+#### a835bcb92d | HARVEY → BRUCE | x2
+You’re THROUGH.
+
+#### 31d7ab2b3d | HARVEY → BRUCE | x2
+And then after
+
+#### c87ad14f7d-L? | HARVEY | x2
+Honestly, it makes perfect sense why you would lose it. Much stronger men than you have.
+
+#### fc2151156a | HARVEY | x2
+(Much stronger men than you have)
+
+#### 4863ea286e | HARVEY | x2
+He thought he could take it, but he FAILED.
+
+#### d64eb911a9-SM | HARVEY | x2
+That’s why I took over. Right, Harvey?
+
+#### e07aef0a25 | HARVEY | x2
+It was all a little much for him, so he gave me the steering wheel.
+
+#### 24076378a5 | HARVEY | x2
+That’s why he gave me the steering wheel. Didn’t you Harvey?
+
+#### 5e35b1a316-SM | HARVEY | x2
+Shut UP, Harvey. I said I’d do this.
+
+#### 2425e7425c | HARVEY | x2
+How about we flip for it.
+
+#### f5d975d9f9 | HARVEY → BRUCE | x2
+Don’t you?
+
+#### d08afd37c5 | HARVEY → BRUCE | x2
+Finally made him the man he needs to be.
+
+#### 9fc585f474 | HARVEY → BRUCE | x4
+But still. Such a tragic end.
+
+#### 31ecf90def | choice/UI → HARVEY | x2
+I haven’t lost it.
+
+#### e522c983e1 | choice/UI → HARVEY | x2
+You’re not making sense.
+
+#### 15c85d4956 | BRUCE → HARVEY | x2
+I haven’t lost it, Harvey. What are you talking about?
+
+#### 435300fe9c | HARVEY → BRUCE | x2
+No, Bruce. I’m just saying that suicide is such a sad way to go.
+
+#### 74960797ab | BRUCE → HARVEY | x2
+Hold it together, Harvey. You’re not making sense.
+
+#### cb566f2646 | HARVEY → BRUCE | x2
+I’m talking about your tragic suicide, Bruce.
+
+#### cd2b123d0c | HARVEY → BRUCE | x2
+Am I not? I’m just talking about your sad, sad, suicide.
+
+#### de31b2b27b-LM | HARVEY → BRUCE | x2
+Are you confused, Bruce? I’m just talking about your suicide. Very sad.
+
+#### 9adad1a340 | HARVEY → BRUCE | x2
+Bruce, let me explain--
+
+#### 5be4c170aa | HARVEY → BRUCE | x6
+Shut UP, Harvey.
+
+#### 224c8d1aee | BRUCE → HARVEY | x2
+Wait. Let Harvey talk.
+
+#### 8e19100fd0 | BRUCE → HARVEY | x2
+Hang on. I want to talk to my friend.
+
+#### 9b4304062c | HARVEY → BRUCE | x2
+Well what do you know.
+
+#### d14aa1994c | HARVEY → BRUCE | x2
+Bruce. I... I don’t know how much longer... how much longer *I’ll* be here.
+
+#### bf3d3dc272 | HARVEY → BRUCE | x2
+Make it quick, Bruce.  {AngryB}I have nothing left to say to you. {PainA}And soon I’ll be gone.
+
+#### eca943a653-LM | choice/UI → HARVEY | x4
+You need to hold on.
+
+#### d5c68cb65e-LM | BRUCE → HARVEY | x2
+This isn’t you. {ConcernedA}You just need to hold on. We can get you help.
+
+#### 29758ba025 | HARVEY → BRUCE | x2
+That’s just it, Bruce. I don’t know if I can hold on anymore.
+
+#### 114b685123 | BRUCE → HARVEY | x2
+Harvey? Harvey!
+
+#### e7271bee01 | BRUCE → HARVEY | x2
+I am so, so sorry Harvey.
+
+#### f455bc9f42 | HARVEY → BRUCE | x2
+You’ve always been a good friend Bruce, and I’ll never forget that, okay?
+
+#### 7ef0810802 | BRUCE → HARVEY | x2
+Snap out of it! {AngryA}You can beat this, come on!
+
+#### 552fc17b81 | HARVEY → BRUCE | x2
+What do you think I’ve been trying to do, Bruce?
+
+#### 13c12ee7dd | HARVEY → BRUCE | x2
+Even if... Even if it seems like... if I’m acting like...
+
+#### fbc9dab11d | HARVEY → BRUCE | x4
+He keeps pushing me deeper, and deeper...
+
+#### 99e0a7cd7a | HARVEY | x2
+But my head... argh. My mind feels like it’s splitting... in two...
+
+#### 1902c088fa-SM | HARVEY | x2
+This isn’t... this really isn’t how I wanted it to end.
+
+#### 31cdfe8a7d | HARVEY → BRUCE | x4
+‘Fraid that Harvey’s not home anymore, heh.
+
+#### f5be8da9a9 | HARVEY → BRUCE | x8
+Don’t cry for him - You and I have work to do.
+
+#### 0eb4a9e12a | BRUCE, choice/UI → HARVEY | x10
+You bastard.
+
+#### 56f24675ec | choice/UI → HARVEY | x4
+This is what you deserve.
+
+#### 19738a3c72 | HARVEY → BRUCE | x2
+Too little too late, Bruce. Too little too late.
+
+#### c3f220715c | HARVEY → BRUCE | x2
+Now... this is the way it has to be.
+
+#### ea1f30c81b | HARVEY → BRUCE | x2
+Well...[Toasting] To simpler times, huh? {AngryA}See you on the other side, Bruce.
+
+#### f1a36716a0 | BRUCE → HARVEY | x6
+So what now?
+
+#### 680dbf70d7 | HARVEY → BRUCE | x6
+Now? We get to work.
+
+#### 9caf4a27c3-LM | BRUCE → HARVEY | x2
+You’ve just reaping what you’ve sown, Harvey. {SkepticalA}You’ve made some big mistakes.
+
+#### 0a22095b3e | HARVEY → BRUCE | x2
+Well screw you too, “pal.“ See you in hell.
+
+#### ac56984104-SM | HARVEY → BRUCE | x2
+I need you out of the picture. Permanently.
+
+#### f3422493b3 | HARVEY → BRUCE | x2
+It’s for the good of Gotham.
+
+#### 2da58fb7ff | HARVEY → BRUCE | x2
+Thems the rules.
+
+#### 2203231a1f-LM | choice/UI → HARVEY | x2
+You let a coin control you?
+
+#### 403151561b | choice/UI → HARVEY | x2
+I know you’re still in there.
+
+#### 973baff8e0-LM | choice/UI → HARVEY | x2
+You need to be put down.
+
+#### ddc7c58c1e | BRUCE → HARVEY | x2
+You’re really letting your actions be determined by a coin? Seems a little weak-minded for you.
+
+#### 258d634629 | HARVEY → BRUCE | x2
+This? It’s the physical representation of chance. Chaos. Fate. Nothing stupid at all.
+
+#### 8c691204f7 | HARVEY → BRUCE | x2
+If you’re trying to get under my skin, it’s not gonna work. Harvey’s time is over. {AngryB}Done. {AngryC}Through.
+
+#### ced3f8a50c | HARVEY → BRUCE | x2
+You and Harvey good were friends. Loyal friends.
+
+#### 8f59218c7e | BRUCE → HARVEY | x2
+...Harvey?
+
+#### 002163f939 | BRUCE → HARVEY | x2
+Harvey, I know you’re still in there. You can still fight this.
+
+#### 93eaf01f2a | HARVEY → BRUCE | x2
+Nahh. Nah. Harvey was weak, and now he’s gone. {AngryA}Survival of the fittest.
+
+#### 0c3322c9d9-SM-LM | BRUCE → HARVEY | x2
+I’ve heard enough. You need to be put down.
+
+#### 6fa86d85d0 | HARVEY → BRUCE | x2
+Who’s gonna stop me? You?
+
+#### 3d1328dee8 | HARVEY → BRUCE | x2
+it’s MY time now. {AngryA}And I have work to do.
+
+#### f26584dff3 | HARVEY → BRUCE | x2
+Gone. For good.
+
+#### fe3edb366f | HARVEY → BRUCE | x2
+And now it’s time to make some changes.
+
+#### 4192326f29 | HARVEY → BRUCE | x2
+So marks the end of an era.
+
+#### e9cbfc9529 | HARVEY → BRUCE | x2
+Long live Harvey Dent.
+
+#### 916a75b84c | BRUCE → HARVEY | x2
+Don’t forget that I paid for that “authority.“
+
+#### c1cd1de905 | choice/UI → HARVEY | x4
+It’s just you and me now.
+
+#### 960edb5f89-LM | choice/UI → HARVEY | x4
+You’ve just made things easier.
+
+#### 9e93dd50fa-LM | BRUCE → HARVEY | x4
+You just made what I’m going to do to you a whole lot easier.
+
+#### f28796fa9e | HARVEY → BRUCE | x4
+Heh, I don’t think so...
+
+#### eec432e81f-LM | choice/UI → HARVEY | x2
+What have you done?!
+
+#### adfa0ed84f-LM | BRUCE → ALFRED | x2
+What have you done?!  You’re saying Harvey is -
+
+#### f82c44fb9e | ALFRED → BRUCE | x2
+He hasn’t been the same since Batman chose to save Selina over him at the debate.  And with the way you two left things at Miss Kyle’s... He could be irrational.
+
+#### 02fdc39c12 | ALFRED → BRUCE | x2
+Despite the fact that Batman saved him from Penguin at the debate, his mental state has been questionable ever since.  And with the way you two left things at Miss Kyle’s... This could be difficult.
+
+#### 6c7ab48580 | BRUCE → HARVEY | x4
+I’m here to stop you, Harvey.
+
+#### cd544d0e88 | choice/UI → HARVEY | x2
+What’s this going to cost me?
+
+#### e6a1ae1f21 | BRUCE → HARVEY | x2
+What’s this going to cost, huh?  How much do you want to put an end to all this?
+
+#### 3efc4e822b | HARVEY → BRUCE | x2
+You can’t {FaceAccent}pay your way out of this one, Bruce.
+
+#### 6de55997aa | HARVEY → BRUCE | x2
+He’s right!  {AngryA}We’re {FaceAccent}waaay past that!
+
+#### a0ef284eb2 | HARVEY → BRUCE | x2
+...To keep you safe from the {FaceAccent}Children of Arkham
+
+#### dd64666673 | BRUCE → HARVEY | x2
+Turning my property into a park?
+
+#### 46a9db5e1e | HARVEY → BRUCE | x2
+Now, you’re back on the streets like nothing ever happened. {AngryA}And that makes ME look bad.
+
+#### 5bb6b3d722 | BRUCE → HARVEY | x2
+So you’re going to strike back at me by taking my money?  My Home?!  Turning my property into a park?
+
+#### 422bf28a10 | HARVEY → BRUCE | x2
+I don’t give a damn about building a park!  I’ll burn that mausoleum of a house to the ground because that’s what you deserve!!
+
+#### 4651fb53d6 | HARVEY → BRUCE | x2
+Seems only me and Batman are looking out for Harvey.  Everyone else is just trying to bring him down.
+
+#### 8452fb826b | BRUCE → HARVEY | x2
+Heads I talk to Harvey?
+
+#### a69b49a13b | BRUCE → HARVEY | x2
+It’s just you and me.
+
+#### 03ae932f4c | HARVEY → BRUCE | x2
+He had it coming!
+
+#### 543591451f-LM | HARVEY → BRUCE | x2
+The funny part is you were just as responsible for this - {AngryA}for ME - as anyone.
+
+#### 574b0ab9f8 | HARVEY → BRUCE | x2
+You should’ve been a better friend.
+
+#### c94300bc37 | choice/UI → HARVEY | x2
+You back off and I’ll keep quiet.
+
+#### e3bbc4604f | choice/UI → HARVEY | x2
+Thats not gonna happen.
+
+#### 057ef61b34 | BRUCE → HARVEY | x2
+You stay away from my house, and my assets, and I swear {ConcernedA}you’ll never hear from Bruce Wayne again.
+
+#### a74084595f | HARVEY → BRUCE | x2
+Okay, Bruce. {SmugA} I’m a reasonable man. Fine, {SarcasticA}I’ll leave your precious mansion standing.
+
+#### b0c21f5ac7 | BRUCE → HARVEY | x2
+I’m absolutely serious.
+
+#### 98e464ecca | HARVEY → BRUCE | x2
+Besides, it’ll be a nice guesture on my part to let it serve as a memorial  to you after your breakdown.
+
+#### d1988116d1 | HARVEY → BRUCE | x2
+Considering your tragic suicide.
+
+#### cee0011010 | BRUCE → HARVEY | x2
+That just isn’t going to happen.  I’m not going anywhere.
+
+#### 1e0028fff5 | HARVEY → BRUCE | x2
+Of course not...
+
+#### 43050b8e70-LM | BRUCE → HARVEY | x2
+You want to improve Gotham, you need money to do it.
+
+#### b74549fc88 | BRUCE → HARVEY | x2
+We can still work together.  You know that I’ll suport any programs you propose that genuinely support this city.
+
+#### 3672196520 | HARVEY → BRUCE | x2
+Sorry, Bruce.   You’re bad publicity.
+
+#### c87ad14f7d-LM | HARVEY → BRUCE | x2
+Honestly, it makes perfect sense why you would lose it. Much stronger men than you have.
+
+#### 0f7d671b04 | choice/UI → HARVEY | x2
+“The good of Gotham” costs money.
+
+#### 1f0f6808d5 | HARVEY → BRUCE | x2
+Beautiful, isn’t it?
+
+#### 7b50fcc97f-SM | HARVEY → BRUCE | x2
+I was beautiful once too.
+
+#### 7f58b4ba09 | HARVEY → ALFRED, BRUCE | x4
+Come here a sec. I want to show you something.
+
+#### 5536493700 | HARVEY → BRUCE | x2
+Well, like all beautiful things... it must go.
+
+#### 28f5c1abf6 | HARVEY → BRUCE | x2
+Come on over here. I wanna show you something.
+
+#### 7661fe2157 | HARVEY → BRUCE | x4
+Now look at me.
+
+#### 5e07c475a3-LM | BRUCE → HARVEY | x2
+Don’t do this to yourself. Put your mask back on.
+
+#### 3561d33af2 | BRUCE → HARVEY | x2
+You’re ugly.
+
+#### aee429f688 | OSWALD, BRUCE → BATMAN, HARVEY | x10
+You can’t do this to me.
+
+#### 212c155440 | HARVEY → BRUCE | x2
+Bruce. You’re just in time.
+
+#### a5123c5779 | BRUCE, BATMAN → HARVEY | x10
+Harvey.
+
+#### 501dbc6e9d-SM | HARVEY → BRUCE | x2
+You know... when I was first elected D.A., I saw so much goddamn promise in this city.
+
+#### 84703206f8-SM | HARVEY → BRUCE | x2
+I made a promise to clean up this city ... and that starts tonight.
+
+#### bb8d75f49f | HARVEY → BRUCE | x2
+Wait fo it...
+
+#### 1d6359f77b | HARVEY | x2
+Wait for it...
+
+#### 0556884bc3 | HARVEY | x2
+Once you’re gone, I promise to
+
+#### 92eeebbabf-SM | HARVEY → BRUCE | x2
+I’m sorry, Bruce, but I can’t back down now.
+
+#### 17bc36583c | HARVEY | x2
+A strong leader sticks to his word.
+
+#### e49ef6f195-LM | choice/UI → HARVEY | x6
+You’re weak.
+
+#### 2e07b42996-SM | HARVEY | x2
+Calm down. Let me explain myself.
+
+#### 8a8f0f2b3f | HARVEY | x2
+Now when I look out there,  I see nothing but the broken shards of that promise.
+
+#### 142fac6d0f | HARVEY → BRUCE | x2
+Since then, Gotham has changed...
+
+#### c75e0fecc6 | HARVEY → BRUCE | x2
+You want me to back off, Bruce?
+
+#### 173e365478-SM | HARVEY → BRUCE | x2
+I need you to dissapear.
+
+#### cf03984bd0 | BATMAN, BRUCE, choice/UI → HARVEY | x8
+The time for talking is over.
+
+#### 46db5145b8-LM | BRUCE → HARVEY | x4
+That voice inside your head, telling you you’re weak... it’s right.
+
+#### 6d6b3d7370 | HARVEY → BRUCE | x2
+You want to hide the ugliness of this city -- I want to expose it.
+
+#### 024594a9f7-SM | HARVEY → BRUCE | x2
+I’ve changed a lot since then.
+
+#### 6ab4462bd2 | HARVEY | x2
+I guess you’ve come to ask me not to take your home.
+
+#### 7c0ccb91fb-LM | choice/UI → HARVEY | x2
+You’ve changed too much.
+
+#### a54a376937 | HARVEY → BRUCE | x2
+Bruce. You’re just in time. Come here a sec. I wanna show you something.
+
+#### 6a25380959 | HARVEY → BRUCE | x2
+Come here a sec. I wanna show you something.
+
+#### 23c8f54151 | HARVEY → BRUCE | x2
+I sure have.
+
+#### 48b0b312bc | choice/UI → HARVEY | x2
+Put your mask back on.
+
+#### 4b147d4fb4 | BRUCE → HARVEY | x2
+Not in the ways that matter.
+
+#### 668b516ee4 | HARVEY → BRUCE | x2
+A new kind of city needs a new kind of mayor.
+
+#### fb62620897 | BRUCE → HARVEY | x2
+Yeah you have -- and not for the better.
+
+#### d4dccd7899 | choice/UI → HARVEY | x2
+And not for the better.
+
+#### a9d6d6e75f-SM | choice/UI → HARVEY | x2
+I’ve changed too.
+
+#### 1f0df4b344 | BRUCE → HARVEY | x2
+Idealism is for the who can afford it.
+
+#### 44a72501c6 | HARVEY → BRUCE | x2
+Than you can afford plenty.
+
+#### fac8bad2eb | HARVEY → BRUCE | x2
+You’re the one who’
+
+#### 5f905a8e90-LM | BRUCE → HARVEY | x2
+No, Harvey. You’ve changed too much.
+
+#### b5422adae3 | HARVEY → BRUCE | x2
+The world, it evolves so quickly... [vulnerable] I don’t want to get left behind.
+
+#### 45eb615c56 | HARVEY → BRUCE | x2
+Nothing to offer me.
+
+#### 22b85a6cd1 | choice/UI → HARVEY | x2
+Our friendship.
+
+#### 15ca452fe2 | choice/UI, BRUCE → HARVEY | x4
+Your reputation.
+
+#### f507bcf754 | BRUCE → HARVEY | x2
+How about our friendship?
+
+#### 2f3d75af01 | HARVEY → BRUCE | x2
+Right. I see the way you look at me.
+
+#### 8012e9dde6 | HARVEY → BRUCE | x2
+But the only constant is change.
+
+#### b7fbef1f8b | HARVEY → BRUCE | x2
+We evolve or we die.
+
+#### ddcb2cc0fc | choice/UI → HARVEY | x2
+What is this gonna cost me?
+
+#### 79bf30481a | BRUCE → HARVEY | x2
+Okay, Harvey. What is this gonna cost me?
+
+#### 5528697e57 | HARVEY → BRUCE | x2
+What? You think this is about money?
+
+#### a7d24f32e0-LM | HARVEY → BRUCE | x2
+You’re washed up.
+
+#### 4a0bc5846c | HARVEY → BRUCE | x2
+Oh, Bruce. I don’t need you to give me your money -- not when I can take it.
+
+#### f8ea16e9bd | HARVEY | x2
+After I tear down this place -- I’m going to need the funds to rebuild it.
+
+#### f2487804ec | HARVEY | x2
+Your money.
+
+#### 18fa64e9f7-SM | HARVEY | x2
+I promised the people that I would bring you to justice -- and I’m not going to renig on it.
+
+#### 55586cd93d | choice/UI → HARVEY | x2
+There are other ways of being strong.
+
+#### 9efe0183e8 | choice/UI → HARVEY | x2
+What about your word to me?
+
+#### 619541a77e-SM | HARVEY → BRUCE | x2
+If I was weak, I wouldn’t have the guts to do what’s neccessary...
+
+#### c3a50a2e7e | choice/UI → HARVEY | x2
+Name your price.
+
+#### d3b067ad71 | HARVEY → BRUCE | x2
+Don’t be so myopic. This about you and you’re mounds of dirty money.
+
+#### 3f91c8ddeb-LM | HARVEY → BRUCE | x2
+You’ve got nothing to offer me.
+
+#### e85881f3b7 | choice/UI → HARVEY, LADYARKHAM | x4
+It’s not too late for you.
+
+#### e09ee20a87 | HARVEY → BRUCE | x2
+New enemies... they popping up everywhere.
+
+#### fb89473bc7-LM | HARVEY → BRUCE | x4
+I didn’t do this to ya. You did it to yourself.
+
+#### eeaa4c1c13-LM | HARVEY → BRUCE | x4
+All you had to do was stay in Arkham with all the other madmen.
+
+#### 0715031627-LM | HARVEY → BRUCE | x2
+You forced my hand.
+
+#### 747e678fe6 | choice/UI, BRUCE → HARVEY | x4
+You’re the madman!
+
+#### 5e664a5fd0 | BRUCE → HARVEY | x2
+Not me.
+
+#### 324319c0f1 | HARVEY → BRUCE | x2
+What’s that saying? It takes a madman to change to world?
+
+#### f418ea2acd | choice/UI → HARVEY | x2
+I didn’t belong there.
+
+#### 9f6e927bf7 | BRUCE → HARVEY | x2
+I didn’t belong there -- and you know it.
+
+#### ad4ba385be | HARVEY → BRUCE | x2
+It was something like that.
+
+#### ff2746f5f0 | BRUCE, choice/UI → HARVEY | x4
+You really want to mess with a crazy person?
+
+#### 790b707781 | choice/UI → HARVEY | x2
+You want to mess with a crazy person?
+
+#### fcadf14bc3 | BRUCE → HARVEY | x4
+Who knows what I’ll do.
+
+#### ae62da75ce | HARVEY → BRUCE | x2
+The thing about crazy people -- they don’t know it.
+
+#### ac3a77550b | BRUCE → HARVEY | x2
+What’s it gonna take for you to back off?
+
+#### fc34c6f20f | HARVEY → BRUCE | x2
+Come here, Bruce. I want to show you something.
+
+#### 34459b9e0a | PENGUIN, HARVEY → BATMAN, BRUCE | x8
+That’s... dissapointing.
+
+#### 62ac44e909-SM | HARVEY → BRUCE | x2
+I was hoping it wasn’t going to come to this.
+
+#### 527c0c394f | HARVEY → BRUCE | x4
+I’m watching right now.
+
+#### a28e01896c | choice/UI → HARVEY | x2
+What’ll it cost to make this go away?
+
+#### 5c0de14e5e | BRUCE → HARVEY | x2
+How much is it going to cost to change your mind?
+
+#### 1567f36b70 | HARVEY → BRUCE | x2
+Sometimes there needs to be a sacrifice -- and that sacrifice is you.
+
+#### 1ff03ac630 | HARVEY → BRUCE | x2
+Friends?
+
+#### a7482654d3-LM | HARVEY → BRUCE | x2
+That explains why you did it.
+
+#### be2bc0f853-LM | HARVEY → BRUCE | x2
+Why you killed yourself.
+
+#### 110b0fc0cc-SM | HARVEY → BRUCE | x2
+They say I’ve turned into a monster.
+
+#### dbe7bed138 | HARVEY → BRUCE | x2
+And what are you going to do to stop me?
+
+#### 1c39339b01 | choice/UI → SELINA, HARVEY | x8
+I’ll pay you.
+
+#### 4ad56d47d5 | BRUCE → HARVEY | x2
+What is this going to cost me?
+
+#### 100b1fda4f | HARVEY → BRUCE | x4
+Seriously, Bruce. What do you have to offer?
+
+#### d02a09cf0e | choice/UI, BRUCE → HARVEY | x4
+My friendship.
+
+#### bd87ee1d7a | BRUCE → HARVEY | x2
+I’m not here to negociate.
+
+#### 1fdabcd3a4 | HARVEY → BRUCE | x6
+Sure you are.
+
+#### 9568cff72b | HARVEY → BRUCE | x2
+You want me to back off -- and I want to see you beg.
+
+#### b473c10d3d | HARVEY → BRUCE | x2
+Beg for your h
+
+#### c4448ad099 | BRUCE → HARVEY | x4
+You’re still my friend, Harvey.
+
+#### 719864b7d5-SM | HARVEY → BRUCE | x2
+I tracked them down, found out where th
+
+#### bbd7333fbc | BRUCE → HARVEY | x2
+Hide out?
+
+#### 0783ce4adf | HARVEY → BRUCE | x2
+I’ve done what Batman failed to do.
+
+#### 4961cf4b7e | HARVEY → BRUCE | x2
+Relax. I’m taking care of it now.
+
+#### 2080d1c867 | HARVEY → BRUCE | x2
+Soon the
+
+#### 8220e7ab2d | HARVEY → BRUCE | x4
+You really wanna know?
+
+#### ab2066b7c7 | HARVEY → BRUCE | x2
+Come here. I’ll show you.
+
+#### 3cbe944b62 | HARVEY → BRUCE | x2
+Right over...
+
+#### 3199740237-LM | HARVEY → BRUCE | x2
+Did you see that?!
+
+#### 5235d2ddf3 | BRUCE → HARVEY | x2
+Harvey. Tell me you didn’t know that was going to happen.
+
+#### d0a76c3f71 | HARVEY → BRUCE | x2
+Well, I don’t want to be one of those politicians who lie.
+
+#### b8d4341861 | HARVEY → BRUCE | x2
+Nothing happens in this town without my say so.
+
+#### 7d031ad42e | HARVEY → BRUCE | x2
+And I say, let there be
+
+#### 7cc19e61e5 | HARVEY | x2
+No one will remember the bodies.
+
+#### e1434ec31c | HARVEY | x2
+I’m going down as the Mayor who took out the Children of Arkham.
+
+#### 5e072dcf3a | HARVEY → BRUCE | x4
+And Bruce Wayne.
+
+#### 27cd21948b-SM | HARVEY → BRUCE | x2
+I’m going to level your estate just like I leveled that city block.
+
+#### f9128e6610 | HARVEY → BRUCE | x2
+And now you know I mean to do it.
+
+#### 143fea8be1 | BRUCE → HARVEY | x4
+You’re going to have to kill me first.
+
+#### 849f627cda | HARVEY → BRUCE | x4
+That’s already been arranged.
+
+#### ab40b8e065 | HARVEY → BRUCE | x2
+And I don’t care about the human cost.
+
+#### eb8d1c7354 | choice/UI → HARVEY | x2
+Harvey, please.
+
+#### 098b828777 | BRUCE → HARVEY | x4
+Tell me. NOW.
+
+#### d85c2645be | BRUCE → HARVEY | x2
+Harvey, please. I’m your friend.
+
+#### ea664a9f49 | HARVEY → BRUCE | x2
+What business is it of yours anyways?
+
+#### 239fd8ea86-LM | choice/UI, BRUCE → HARVEY | x4
+You won’t be able to live with yourself.
+
+#### 794c94ef5f-LM | HARVEY → BRUCE | x2
+You, you hit me!
+
+#### 83e2357675 | HARVEY → BRUCE | x2
+You, you really have lost it.
+
+#### 7188556e44 | HARVEY → BRUCE | x2
+Fine, fine.
+
+#### 51bea57d44 | BRUCE → HARVEY | x2
+And I’ll hit you again if you don’t tell me where they are.
+
+#### 4f67976690 | choice/UI → HARVEY | x2
+[Back Down]
+
+#### d4bf59f4ba | BRUCE → HARVEY | x2
+I can help you. Let me help yo
+
+#### daf9ea53e8 | HARVEY → BRUCE | x2
+Well, if you insist.
+
+#### 9916229bbd | BRUCE → HARVEY | x2
+I’ll let you take my home. Whatever you want.
+
+#### 96c5adc9f7 | HARVEY → BRUCE | x2
+What can it hurt anyways?
+
+#### 8636d76f5a | HARVEY → BRUCE | x2
+Deal!
+
+#### 5b4f1af110 | BRUCE → HARVEY | x2
+Just tell me where I can find them.
+
+#### cdfaeda17e | BRUCE → HARVEY | x2
+Tell me where they are.
+
+#### 281bc3b4ee | choice/UI, BRUCE → HARVEY | x4
+I’m not the enemy.
+
+#### 401e8b11de | HARVEY → BRUCE | x2
+Don’t trust him.
+
+#### d14ad931e1-SM | HARVEY → BRUCE | x2
+I found the Children of Arkham’s drug supply.
+
+#### 280d41884d-SM | HARVEY → BRUCE, GOON01 | x4
+I’ve accomplished what Batman couldn’t.
+
+#### b3e8b998ab | HARVEY → GOON01 | x4
+Batman would be proud.
+
+#### 21aae009e3-LM | HARVEY → BRUCE | x2
+You’ve got bigger problems to deal with... [smug] like homelessness.
+
+#### 26525e2d18 | HARVEY → BRUCE | x2
+I have to give the people something.
+
+#### f834f605aa | HARVEY → BRUCE | x2
+And that something... is you.
+
+#### ca76430169 | choice/UI → HARVEY | x2
+Don’t listen to them.
+
+#### abd376a261 | BRUCE → HARVEY | x2
+You really wanna mess with a crazy person?
+
+#### 4d8346d82e | HARVEY → BRUCE | x2
+Whoa. Bruce.
+
+#### 79bf2cd7ef-LM | HARVEY → BRUCE | x2
+Maybe you should check yourself back into Arkham, before you hit someone else.
+
+#### d1f410b9b7-LM | HARVEY → BRUCE | x2
+[twYou’re only making things worse for yourself.
+
+#### e20c264413 | HARVEY → BRUCE | x2
+Go ahead. Hit me. Give me another excuse to have your ass thrown in Arkham.
+
+#### b26303bae2-LM | HARVEY → BRUCE | x2
+Glad to see you’ve got that rage of yours under control.
+
+#### ee55a95704 | HARVEY | x2
+I guess I can’t argue with crazy.
+
+#### e92ff567a4 | HARVEY | x2
+Quick. Were gonna miss it.
+
+#### 794c94ef5f-L? | HARVEY | x2
+You, you hit me!
+
+#### 6840bb2d2f | HARVEY → BRUCE | x4
+Can’t argue with crazy.
+
+#### 1a52404d9c-SM | HARVEY → BRUCE | x2
+I told you I would take care of it!
+
+#### 7f9008f444 | BRUCE → HARVEY | x2
+I’ll do it again if you don’t tell me where their base is.
+
+#### 0a7652b84e | choice/UI → HARVEY | x2
+[Attack Harvey]
+
+#### 774c462c43 | choice/UI → HARVEY | x2
+evacuated those buildings.
+
+#### 0d31098741 | choice/UI, BRUCE → HARVEY | x4
+Please, Harvey.
+
+#### e3668436b9-LM | BRUCE → HARVEY | x2
+What did you do? Tell me you evacuated those buildings.
+
+#### 18c30face4 | HARVEY → BRUCE | x2
+And what? Alert the enemy? No way!
+
+#### 0568d541cc | PENGUIN, HARVEY → REGINA, BRUCE | x8
+No way!
+
+#### 91d9dc0566 | ALFRED → HARVEY | x2
+Just be cautious.
+
+#### aab21cef0e-LM | BRUCE → HARVEY | x2
+You’ve changed since then.
+
+#### 7c4fe6e6e5 | BRUCE → HARVEY | x2
+Harvey? We need to talk.
+
+#### cf42c873e2 | HARVEY → BRUCE | x2
+If you’ve come to save your home, you’re wasting your time.
+
+#### 31071b2b07-SM | HARVEY → BRUCE | x6
+I’ve made up my mind.
+
+#### 93b7183885 | HARVEY → BRUCE | x2
+You already know.
+
+#### f9e9f8d974 | choice/UI → HARVEY | x2
+This is wrong!
+
+#### 78107a0f52 | BRUCE → HARVEY | x2
+Jesus Harvey.
+
+#### 721de88d66 | HARVEY → BRUCE | x2
+Well, we’ve made it up.
+
+#### 7a37d912d2 | HARVEY → BRUCE | x2
+Why would I want your
+
+#### 749469d2ef | HARVEY → BRUCE | x6
+I don’t need you to give me your money -- not when I can just take it.
+
+#### 83d463458b | BRUCE → HARVEY | x2
+What you’re doing, Harvey -- it’s not right.
+
+#### f7c514c88c | HARVEY → BRUCE | x6
+Are we negociating?
+
+#### be6dc6f960 | HARVEY → BRUCE | x2
+Maybe I don’t want to.
+
+#### d108711caa | HARVEY → BRUCE | x2
+And I’m taking... everything.
+
+#### bb5736ba7d | BRUCE → HARVEY | x2
+What about our years of friendship?
+
+#### 1d50d4b03e | BRUCE → HARVEY | x2
+What happened to the guy who cared about doing the right thing?
+
+#### d6029bd207 | BRUCE → HARVEY | x2
+Doesn’t that mean anything to you?
+
+#### ee8f316cc4 | HARVEY → BRUCE | x2
+Friendship?
+
+#### a487246647-LM | HARVEY → BRUCE | x2
+Did you think you were doing the right thing when you were scewing Selina.
+
+#### 2f62179efa-LM | HARVEY → BRUCE | x2
+You used me as political pawn.
+
+#### 12406fb804 | HARVEY | x2
+Friends don’t screw friends’ girls.
+
+#### 5abfbc444f-LM | HARVEY → BRUCE | x2
+You could’ve had anyone. Why did you have to have her?
+
+#### 5daf5a87ee | HARVEY → BRUCE | x2
+No. You
+
+#### 2ecdc447b2-LM | HARVEY → BRUCE | x2
+Out of all the women in Gotham, you just had to have her.
+
+#### 47e41a6321-SM | choice/UI → HARVEY | x4
+I never touched her.
+
+#### fb3929eede-LM | BRUCE → HARVEY | x2
+Look at yourself, Harvey.
+
+#### eb51437cd7 | BRUCE → HARVEY | x6
+A woman like that would never have a man like you.
+
+#### 1f30ef02c5-LM | HARVEY → BRUCE | x4
+Just like you took Selina from me.
+
+#### 48fdd83482-LM | HARVEY → BRUCE | x2
+He knew how you felt about her.
+
+#### 671fb44947-LM | HARVEY → BRUCE | x2
+How you wanted her.
+
+#### 0ab691e9b4 | choice/UI → HARVEY | x2
+I didn’t mean to hurt you.
+
+#### 1cd9a9d3f4 | BRUCE → HARVEY | x2
+That’s between Selina and I.
+
+#### f0228ecf78-SM | BRUCE → HARVEY | x2
+I’m sorry if I hurt you.
+
+#### 16c7ebeeef-LM | choice/UI → HARVEY | x2
+She would never have you.
+
+#### 61dad3591a-SM | BRUCE → HARVEY | x2
+I did it because I could.
+
+#### 9a21d44598 | choice/UI → HARVEY | x2
+Don’t blame me for your failure.
+
+#### 9485932886-SM | choice/UI → HARVEY | x2
+Because I could.
+
+#### 40a28f80db | HARVEY → BRUCE | x2
+Now you’re going to see how it feels to lose.
+
+#### 14f1e6eca8-SM | BRUCE → HARVEY | x2
+I never touched her, I swear.
+
+#### 0bf6c6d116 | HARVEY → BRUCE | x2
+But she wanted you. I know she did.
+
+#### 2d54fa833c | BRUCE → HARVEY | x2
+That’s not my fault.
+
+#### 50882833b6 | BRUCE → HARVEY | x2
+Stop punishing me for something I didn’t do.
+
+#### 4aa3c96f48 | BRUCE → HARVEY | x2
+But it’s no reason to take my home -- and you know it.
+
+#### bc448a329d | HARVEY → BRUCE | x6
+She just never got a chance to see my good side.
+
+#### 596e580c7d-SM | BRUCE → HARVEY | x2
+Don’t blame me just because I got there first.
+
+#### a1a354597f | BRUCE → HARVEY | x2
+It’s not my fault  you didn’t close the deal with Selina.
+
+#### a19da8a9d5-LM | HARVEY → BRUCE | x2
+You don’t care about her. You just take and take and take with no regard to anyone but yourself.
+
+#### 95d7294ffd | choice/UI → HARVEY | x2
+I’ll do it on my terms.
+
+#### 83e11c3657 | choice/UI → HARVEY | x2
+I’ve paid my dues.
+
+#### 8f8f74cf48 | choice/UI, BRUCE → HARVEY | x4
+It’s not my debt to pay.
+
+#### de53162ec1 | BRUCE → HARVEY | x2
+Believe me, Harvey. I’ve been paying for them my whole life.
+
+#### 6ea24c2685 | BRUCE → HARVEY | x2
+I’ll make it right -- but I’m going to do it on my terms.
+
+#### a872d6bb0d | BRUCE → HARVEY | x2
+I’ll pay this city back on my terms. Not yours.
+
+#### af92378726 | BRUCE → HARVEY | x2
+I’m not going to let you take my home over some piece of tail.
+
+#### 9d11de77c1 | BRUCE → SELINA | x2
+Is this what this is really about? Selina?
+
+#### cb5ed00e94 | HARVEY → BRUCE | x2
+I didn’t even have a chance.
+
+#### acdbd0760c | HARVEY → BRUCE | x2
+Not with you around.
+
+#### 31ba0c3b52 | HARVEY → BRUCE | x2
+It’s too late for apologies.
+
+#### 798e03ef36 | HARVEY | x2
+See, You’re entire fortune is built on the bones of the innocent.
+
+#### 0866a89d15 | HARVEY → BRUCE | x2
+Don’t you think you should pay back the people your parents robbed?
+
+#### c2ae6c7e23 | HARVEY → BRUCE | x2
+Make restitution?
+
+#### d710bddd2e | BRUCE → HARVEY | x2
+I have nothing left to give.
+
+#### 401956280f | BRUCE → HARVEY | x2
+What my parents did was not my fault.
+
+#### c2661d5298 | HARVEY → BRUCE | x2
+I’ll be the judge of that.
+
+#### cda6a69f3d | HARVEY → BRUCE | x2
+Nah. I think I like my terms better.
+
+#### eeb4bff676-SM | HARVEY → BRUCE | x2
+I made a promise to clean up this city and I intend to keep it.
+
+#### 9aa89a4f0a | HARVEY → BRUCE | x2
+Tonight I take care of you -- and the Children of Arkham.
+
+#### 8d86a13ae5 | HARVEY → BRUCE | x2
+But I haven’t changed fast enough... haven’t kept up.
+
+#### 5a3340e8df | HARVEY → BRUCE | x2
+But not as much as
+
+#### 886f6bac9a | HARVEY | x2
+If you’ve come to beg for your home, you’re wasting your time.
+
+#### d8cefae5a3 | HARVEY → BRUCE | x2
+That’s why I have to take your home, Bruce.
+
+#### 373a4fe1ce | HARVEY | x2
+The people of this city demand it.
+
+#### 2403bb7dac | HARVEY | x2
+If I don’t give them what they want -- I’ll be next.
+
+#### 57210cd4bb | HARVEY | x2
+You really think everything is a negotiation, don’t you?
+
+#### 5a478c201c | HARVEY → BRUCE | x6
+Well -- this isn’t.
+
+#### e1075f6f32 | HARVEY | x2
+I’m finally standing up to you.
+
+#### ed94a5203f | HARVEY → BRUCE | x2
+I’m finally taking a stand -- and taking your home from you.
+
+#### 796b6f63b1 | HARVEY → BRUCE | x4
+You really think everything is a negociation, don’t you?
+
+#### bbd07bc992 | BRUCE → HARVEY | x6
+A woman like her would never have a coward like you.
+
+#### 9dd1fee508 | HARVEY → BRUCE | x6
+You don’t know that!
+
+#### 0f02cbf168-SM | HARVEY → BRUCE | x2
+Then you’re a fool. I would’ve.
+
+#### 678c3dfbbb-LM | HARVEY → BRUCE | x2
+Don’t be stupid. You just never got a chance to show her your good side.
+
+#### a56d3f4a98 | HARVEY → BRUCE | x6
+Not with this face.
+
+#### a789154fce | HARVEY → BRUCE | x2
+This is the right thing, Bruce!
+
+#### 57cf0a58b2-SM-LM | HARVEY → BRUCE | x4
+Tell me, Bruce. Were you thinking about our ‘friendship’ when you pulled the funding from my campaign the night I was maimed -- Or when you were screwing Selina?
+
+#### d692add738 | HARVEY → BRUCE | x2
+I’m finally standing up to you -- and taking your home from you.
+
+#### 98af7d5c05-LM | HARVEY → BRUCE | x4
+Tell me, Bruce. Were you thinking about our ‘friendship’ when you pulled the funding from my campaign -- Or when you were screwing Selina?
+
+#### 9e8d6742e1-SM-LM | HARVEY → BRUCE | x2
+Tell me, Bruce. Were you thinking baout our ‘friendship’ when you pulled the funding from my campaign the night I was maimed -- Or when you were screwing Selina?
+
+#### b52d54ebf3-LM | HARVEY → BRUCE | x2
+Tell me, Bruce. Were you thinking baout our ‘friendship’ when you pulled the funding from my campaign -- Or when you were screwing Selina?
+
+#### 7b61ab28c4-SM | BRUCE → HARVEY | x2
+I supported you, even when you
+
+#### f8a0cec159-SM-LM | BRUCE → HARVEY | x2
+Hell, I kept bankrolling your campaign even after you disavowed me to the press.
+
+#### 654eea382a-SM | BRUCE → HARVEY | x6
+I have always supported you.
+
+#### 1721bc3004 | BRUCE → HARVEY | x2
+I’ve been a loyal friend.
+
+#### 6d069cfbc7 | HARVEY → BRUCE | x2
+Loyal?
+
+#### b1cf2603a3-LM | HARVEY → BRUCE | x2
+Tell me, Bruce. Were you thinking about our ‘friendship’ when you were screwing Selina?
+
+#### 8be2160276 | HARVEY → BRUCE | x2
+I’m taking your home from you, Bruce.
+
+#### d80fc52da1 | HARVEY | x2
+The people are scr
+
+#### bf00b90e32-SM-L? | HARVEY | x2
+I promised them that you would pay for what
+
+#### 1168435e3f | HARVEY → BRUCE | x2
+Bruce... you’re scaring me.
+
+#### 3fa77c46b4-L? | HARVEY | x2
+You would really hurt me, wouldn’t you?
+
+#### e4c8814502 | HARVEY | x2
+Don’t you think you own
+
+#### e409f0b605-SM | HARVEY → BRUCE | x4
+Who am I kidding? I never had a chance.
+
+#### 6457a2d640 | BATMAN, OSWALD, HARVEY → OSWALD, BATMAN, BRUCE | x14
+You’re
+
+#### 678c3dfbbb-L? | HARVEY | x2
+Don’t be stupid. You just never got a chance to show her your good side.
+
+#### 7dc85681f9 | HARVEY | x2
+‘It wasn’t my fault! Leave me alone!‘
+
+#### 40f7f6e87c | HARVEY | x2
+Nobody cares.
+
+#### c636f1acc6 | HARVEY | x2
+But he did it anyways.
+
+#### 21a35eced1 | HARVEY | x2
+Everything has.
+
+#### 3860c19eeb | HARVEY | x2
+Go ahead. Hit me. See what happens.
+
+#### b7e80c5f0c | HARVEY | x4
+You can’t tell him.
+
+#### 05f5f38c13 | HARVEY | x4
+I can’t reveal that information.
+
+#### 96d0179be9 | HARVEY → BRUCE | x2
+Jesus, Bruce. You’re scaring me.
+
+#### 707961ff98 | HARVEY → BRUCE | x2
+But you’re not scaring me.
+
+#### fa1d6eae69 | HARVEY → BRUCE | x2
+Someone’s still off his rocker.
+
+#### 02a0a181cd | HARVEY → BRUCE | x2
+Give me another excuse to throw your ass in Arkham again.
+
+#### ae7ef474b6 | HARVEY → BRUCE | x2
+What are you waiting for?
+
+#### 58c17d32da | HARVEY → BRUCE | x2
+A strong leader never backs down.
+
+#### 3a81bbbec6-SM | HARVEY → BRUCE | x2
+Sorry, Bruce. But I made a decision and I can’t back down.
+
+#### 86da53f8a6 | choice/UI → HARVEY | x2
+You’re ill.
+
+#### 250ca1dd25 | BRUCE → HARVEY | x2
+Harvey. You’re ill.
+
+#### 6107f6762b | HARVEY → BRUCE | x2
+This whole city is ill. Diseased.
+
+#### 6484495a12-SM | HARVEY → BRUCE | x2
+If I were weak I wouldn’t be able to do what’s necessary.
+
+#### 61ea64fcb3 | HARVEY → BRUCE | x2
+Would a weak
+
+#### d03d3306c6 | BRUCE → HARVEY | x2
+I get it. You’re under a lot of pressure.
+
+#### f4d948ed1d | HARVEY → BRUCE | x2
+You want to find Lady Arkham? You’re going to have to pull her smoldering corpse out of those ashes.
+
+#### 3a100c0c7b | choice/UI, BRUCE → HARVEY, LADYARKHAM | x12
+You’re a murderer.
+
+#### 05bcd6ff86-SM | HARVEY → BRUCE | x2
+I did what Batman couldn’t.
+
+#### 709f120542 | HARVEY → BRUCE | x2
+... *there*.
+
+#### 0a32a59738 | HARVEY → BRUCE | x2
+Got a tip Lady Arkham herself would be there tonight.
+
+#### d23a2175e7-SM | choice/UI → HARVEY | x2
+I need to know where she is
+
+#### 9e40d006a4 | HARVEY → BRUCE | x2
+Come on, Bruce. This is a cause of celebration.
+
+#### 71213462bb | HARVEY → BRUCE | x2
+When politicians bomb the enemy, do the people call them murderers?
+
+#### 2186496a91 | BRUCE → HARVEY | x2
+I’ll do anything you ask.
+
+#### 2e06c819f7 | BRUCE → HARVEY | x2
+Just don’t hurt anyone else.
+
+#### 488894e9b9 | BRUCE → HARVEY | x2
+Do it and I’ll expose you.
+
+#### 98cd3704dd | BRUCE → HARVEY | x2
+Yo
+
+#### 0a68e31b1c-LM | BRUCE → HARVEY | x2
+You won’t be ruling over anything from a jail cell.
+
+#### 7425c29e5f | HARVEY → BRUCE | x2
+Expose me? But Bruce... the thing about dead men ... they don’t tell tales.
+
+#### 0c2b0fa48e-LM | HARVEY → BRUCE | x2
+You always had a Hamlet vibe.
+
+#### fbb3fd0e3f | HARVEY → BRUCE | x2
+I don’t blame you for taking your own life.
+
+#### a77079b336-SM | HARVEY → BRUCE | x2
+If I was that big of a loser I might too.
+
+#### 7f9e4effaa | choice/UI → HARVEY | x2
+I’m still better than you.
+
+#### a7a568d30f-LM | HARVEY → BRUCE | x2
+I suppose you were both traumatized as a child, villainized by the public. Then you were faced with losing everything.
+
+#### 4d17c871b8 | HARVEY → BRUCE | x2
+And well, we both know how that story ends.
+
+#### 0104ec6029 | HARVEY → BRUCE | x2
+No! They call them goddamn heroes.
+
+#### e85d7d6899 | HARVEY → BRUCE | x2
+And that’s what I am.
+
+#### 20a4958c99 | HARVEY | x2
+I’ll bring down that house right on top of their heads if I have to.
+
+#### 6507842b2a | choice/UI → HARVEY | x2
+Please. I’ll do whatever you ask.
+
+#### 40cf999c71 | HARVEY → ENFORCER01 | x4
+I guess that little stay in Arkham helped you after all.
+
+#### b26303bae2-L? | HARVEY → ENFORCER01 | x2
+Glad to see you’ve got that rage of yours under control.
+
+#### c92f5ea635 | HARVEY → ENFORCER01 | x2
+You want to know where the Children of Arkham are stockpiling their drug?
+
+#### d9fa861987 | HARVEY → BRUCE | x4
+But I can’t back down now.
+
+#### ff9f37c3de-SM | HARVEY → BRUCE | x2
+I’ve got a lot of pressure on me right now. I got enemies everywhere.
+
+#### 06d7b615eb-LM | BRUCE → HARVEY | x2
+You know that voice inside you’re head  telling you you’re weak?
+
+#### 2e45b13706 | BRUCE → HARVEY | x2
+It’s right.
+
+#### ff3c0daecf-SM | HARVEY → BRUCE | x2
+If I was weak, I wouldn’t be able to do what’s necessary.
+
+#### 9bbf195fe3 | choice/UI → HARVEY | x2
+You *are* weak.
+
+#### 7e692bdd1c | HARVEY → BRUCE | x2
+You should have stayed in Arkham with all the other madmen.
+
+#### c4a92060d5 | HARVEY → BRUCE | x2
+[two-face
+
+#### aad29043a6 | HARVEY | x2
+There’s this voice in m
+
+#### f6e2d57170 | HARVEY → BRUCE | x2
+A strong leader doesn’t back down.
+
+#### 8bfada8214 | HARVEY → BRUCE | x2
+Weak
+
+#### 8e9aac83a1 | HARVEY → BRUCE | x2
+When they see an enemy -- they crush them -- without hesitation.
+
+#### e934a895cd | choice/UI → HARVEY | x2
+What ever hap
+
+#### 4215dcba5e | choice/UI → HARVEY | x2
+What  happened to ‘Put a Dent in Crime’?
+
+#### e88f0ad7dd | BRUCE → HARVEY | x2
+‘Put a
+
+#### 47e1510214-LM | choice/UI → HARVEY | x2
+You’re not strong.
+
+#### 1276aad398 | choice/UI, BRUCE → HARVEY | x4
+I’m not the enemy!
+
+#### c500a694be | HARVEY → BRUCE | x4
+I wouldn’t be taking out the Children of Arkham tonight.
+
+#### bf06c6edac | choice/UI → HARVEY | x2
+This isn’t a dictatorship!
+
+#### 490367fa9e-LM | BRUCE → HARVEY | x2
+You’re lying to yourself.
+
+#### d2ddb32891 | BRUCE → HARVEY | x2
+You’re not a leader.
+
+#### bb908118b8 | BRUCE → HARVEY | x2
+All you do is drum up fear hoping that people will line up and hide behind you.
+
+#### f9a538f9dd | HARVEY → BRUCE | x2
+If that were true, I wouldn’t be able to do what’s necessary to take out the Children of Arkham.
+
+#### 6b3b9ba9e2 | BRUCE → HARVEY | x2
+And nothing you do to me will change that.
+
+#### 9036658343 | BRUCE → HARVEY | x2
+The Children of Arkham are.
+
+#### 545a98bc88 | HARVEY → BRUCE | x2
+Oh, don’t you worry... I’m taking care of them tonight too.
+
+#### 3081311970 | choice/UI → HARVEY | x2
+This is not the ‘New Face’ Gotham needed.
+
+#### b52f296afa | BRUCE → HARVEY | x2
+What about your campaign slogan...
+
+#### 5fdcd13820 | BRUCE → HARVEY | x2
+You’re really living up to your campaign slogan, aren’t you Harv?
+
+#### b3d53db372 | BRUCE → HARVEY | x2
+A New Face for Gotham.
+
+#### 7632511688 | BRUCE → HARVEY | x2
+‘Put a Dent in Crime.‘
+
+#### ad7c8e1963 | HARVEY → BRUCE | x2
+There will be nothing for an
+
+#### 4b987b876e | HARVEY → BRUCE | x2
+And strong leaders crush their enemies -- without hesitation.
+
+#### 8a42a7a07a | BRUCE → HARVEY | x2
+Suits you.
+
+#### dbfff56c7d | HARVEY → BRUCE | x2
+Tonight, I’m changing the face of Gotham forever.
+
+#### 47994d6789 | choice/UI → HARVEY | x2
+I still believe in you.
+
+#### 67f0dbbf30 | BRUCE → HARVEY | x2
+I still want to believe in Harvey Dent.
+
+#### 62888581f5 | BRUCE → HARVEY | x2
+What a joke.
+
+#### fcdb7cb006 | HARVEY → BRUCE | x2
+Oh, I’m living up to it alright.
+
+#### 225af0f2fb | HARVEY → BRUCE | x2
+I’m about to put a dent in crime so large -- it’ll change the face of Gotham forever.
+
+#### 1946e8224d | HARVEY → BRUCE | x2
+Oh, you will. Everyone will after they see what I’ve done to the Children of Arkham.
+
+#### 1542ee7697 | BRUCE → HARVEY | x2
+Boy, you are really living up to your campaign slogan aren’t you?
+
+#### 551b6bfc80 | HARVEY → BRUCE | x2
+Is that supposed to be funny?
+
+#### 8cd99c3a6b-LM | HARVEY → BRUCE | x2
+You won’t be laughing after you see what I’m about to do to the Children of Arkham.
+
+#### 54139ddd61-LM | HARVEY → BRUCE | x2
+You’ve forced my hand.
+
+#### a57f884c4b-SM | HARVEY | x2
+I made a promise to this city that I would make it better.
+
+#### df7bd48dce | HARVEY | x2
+Tonight -- I make due on both promises.
+
+#### 54dcc2e458 | HARVEY → BRUCE | x2
+You touch me and I’ll have your ass thrown back in Arkham -- for good.
+
+#### 8e317efadb-LM | HARVEY → BRUCE | x2
+There is one thing you could do for me.
+
+#### 1f6e86b7e8 | HARVEY → BRUCE | x2
+You should have stayed in Gotham, with all the other madmen.
+
+#### 291acb3344 | choice/UI → HARVEY | x2
+No, you’re going to jail!
+
+#### 08974fa9e1 | BRUCE → HARVEY | x2
+No. Harvey. You’re going to jail.
+
+#### bab0ea87c9 | choice/UI → HARVEY | x2
+Batman is going to destroy you.
+
+#### 39b0916bba | HARVEY → BRUCE | x2
+When a soldier kills an enemy on the battlefield -- no one calls it murder.
+
+#### f89f49d6ab | HARVEY → BRUCE, ALFRED | x4
+They call it war.
+
+#### 4f1492a288 | BRUCE → HARVEY | x2
+I’m not giving up on you -- not yet.
+
+#### 35dd7e3bf8 | choice/UI → HARVEY | x10
+You’re better than this.
+
+#### d5265f5d42 | BRUCE → HARVEY | x2
+You’re better than this, Harvey.
+
+#### f988dd08ae | BRUCE → HARVEY | x2
+And I’m not giving up on you -- not yet.
+
+#### 4b4a1d9dfa | BRUCE → HARVEY | x2
+You can still change things for the better.
+
+#### 41b5f87df1 | HARVEY → BRUCE | x4
+And it starts with taking down the Children of Arkham.
+
+#### bd42c509c6 | BRUCE → HARVEY | x2
+Batman is going to destroy you for this.
+
+#### faa6844560 | HARVEY → BRUCE | x2
+I’d like to see him try.
+
+#### e4b7cc2722 | HARVEY, LADYARKHAM → BRUCE, BATMAN | x4
+You don’t know what you’re talking about.
+
+#### e064fe0a6b | HARVEY → BRUCE | x2
+Batman and me -- we’re on the same side.
+
+#### 0ede67147c | HARVEY → BRUCE | x2
+You’re the one who’s on the wrong side of history.
+
+#### c34d74affb | choice/UI → HARVEY | x2
+It’s not too late to help them
+
+#### e1d499eb19 | BRUCE → HARVEY | x2
+He’s going to destroy you for this.
+
+#### f232f62549 | HARVEY → BRUCE | x2
+Your suicide.
+
+#### 3fb05608e9 | HARVEY → ALFRED | x2
+I don’t care who’s inside... Alfred... Selina...
+
+#### aabd076190 | BRUCE → ALFRED, HARVEY | x8
+The roof.
+
+#### 96fe7198cf | HARVEDY → HARVEY | x2
+And after they
+
+#### 3a9db7d95e-LM | HARVEY → BRUCE | x2
+That’s why you went to crime alley [beat] That’s why you killed yourself.
+
+#### 58719c2848 | HARVEY → HARVEDY | x2
+And after they find your dead body it will all make sense.
+
+#### 601b381ded-LM | HARVEY → HARVEDY | x2
+All the shame you’ve suffered was just too much for you to bear. Your family’s history. Getting forced out of your company. Losing all of your money...
+
+#### 10dfbae89f | HARVEY → BRUCE | x2
+Shakespearian, isn’t it?
+
+#### ea0d3f5bab-SM-LM | HARVEY → BRUCE | x2
+You knew how I felt about her.
+
+#### d20661f7ac | HARVEY → BRUCE | x2
+Tonight was just the first shot.
+
+#### f7842874f6-SM | HARVEY | x2
+But I’ve got a tale to tell about you.
+
+#### 42ccad41da | HARVEY → BRUCE | x2
+I’ll tell you what, Bruce.
+
+#### ba97b953dd-SM-L? | HARVEY | x2
+I won’t hurt anyone else -- if you promise to hurt yourself.
+
+#### b68eff2273 | HARVEY | x2
+Of course I will.
+
+#### 17c66bd284 | HARVEY | x2
+Everyone will believe
+
+#### d6ee7738bb | HARVEY | x2
+People love a tragedy.
+
+#### 927dc24a81 | HARVEY | x2
+And who’s more tragic that the poor little billionare Bruce Wayne?
+
+#### eaa96c6355-L? | HARVEY | x2
+Nothing to say for yourself?
+
+#### 0233df82c8 | HARVEY | x2
+The deal is done.
+
+#### 94ba8d2925 | choice/UI → HARVEY | x2
+Don’t suppose
+
+#### 8cb37beddb | HARVEY | x2
+The value of your estate -- it could be used to do a lot of good.
+
+#### e29fba9c38-LM | HARVEY → BRUCE | x2
+You had you chance to talk earlier, but you {{callback}}
+
+#### 0f65db75e5 | HARVEY → BRUCE | x2
+My mind is made up.
+
+#### f123e360f1-SM-LM | HARVEY → BRUCE | x2
+Really? How were you supporting me when you pulled the funding from my campaign the night I was attacked?!
+
+#### 155d8f2cfd | choice/UI → HARVEY | x2
+slept with Selina?
+
+#### 2db98bcf58-LM | BRUCE → HARVEY | x2
+You were my friend!
+
+#### a23408b89c | HARVEY → BRUCE | x2
+There’s nothing you can do about it.
+
+#### c56249767f-LM | BRUCE → HARVEY | x2
+Look, I know you’re still pissed off at me about sleeping with Selina, I get it.  But this has to stop. Now.
+
+#### 2eb06eb0e8-LM | BRUCE → HARVEY | x2
+Look, I know you’re still pissed off at me about Selina, but I swear to you... nothing happened.  You have to stop this. Now.
+
+#### fa784b8328 | HARVEY → BRUCE | x2
+Gotham deserves a Mayor that can focus on cleaning up this city.
+
+#### cb5e08af41 | HARVEY → BRUCE | x2
+That’s why I’m taking your money, your home, everything.
+
+#### bd18213284-LM | HARVEY → BRUCE | x2
+It’s time that you started paying your debt to Gotham.
+
+#### 52b9f2ec5a | HARVEY → BRUCE | x2
+The Children of Arkham won’t know what hit them!
+
+#### f07c798c62 | HARVEY → BRUCE | x2
+And it’s a face that will be remembered after what I do to the Children of Arkham.
+
+#### c9abb11005-SM | HARVEY → BRUCE | x2
+That I would weed out the crime and corruption.
+
+#### 3c7a56ea4c | ENFORCER01 → HARVEY | x2
+Holy shit!  That blast was *way* bigger then expected!
+
+#### 59a43a002a-LM | choice/UI → HARVEY | x2
+You killed innocent people!
+
+#### 0d715d89c2-LM | choice/UI → HARVEY | x2
+You’ve lost your mind!
+
+#### 5c3fc1c269 | choice/UI → HARVEY | x2
+Why would you do that?
+
+#### 38cf6860a0 | choice/UI → HARVEY | x2
+I’m going to stop you.
+
+#### 6fdaa39cfa | choice/UI → HARVEY | x2
+Gotham will turn against you.
+
+#### f921443548 | BRUCE, choice/UI → HARVEY | x6
+You’re a monster!
+
+#### d4875b8572-L? | HARVEY → ENFORCER01 | x4
+Sometimes, you need a monster.
+
+#### a4342c0099-L? | HARVEY → ENFORCER01 | x2
+No one will question finding you dead in Crime Alley, so soon after you got out of Arkham.
+
+#### f80e62f642-SM | HARVEY → ENFORCER01 | x2
+We could have talked when I called before, but clearly you didn’t feel like talking then.
+
+#### b25febeb6b-SM | HARVEY → ENFORCER01 | x2
+We could have talked when I called before, if you weren’t busy being an arrogant asshole.
+
+#### ad801488f0 | ENFORCER01 → HARVEY | x2
+Hey, how quickly can we get a firetruck here-? Oh god!
+
+#### 82b70383fe | BRUCE → HARVEY | x2
+Does a leader kill innocent people?! You’re a murderer now!
+
+#### c0715fab0e | HARVEY → BRUCE | x2
+Their deaths are unfortunate, but think about everyone the Children of Arkham could have hurt with those drugs - That feels like an acceptable price to pay.
+
+#### f01e04e1f8 | BRUCE → HARVEY | x2
+I can’t believe it - You actually have lost your mind.
+
+#### 578d9f3f15 | BRUCE → HARVEY | x2
+You’re a lunatic!
+
+#### 4a756a0517 | HARVEY → BRUCE | x2
+I have a strong feeling that history will say otherwise.
+
+#### f0df5852f2 | BRUCE → HARVEY | x2
+Why? Why would you do this?
+
+#### 70e09d2e34 | BRUCE → HARVEY | x2
+The police could have handled it - Batman could have handled it... No one had to die!
+
+#### ea9703a150-LM | HARVEY → BRUCE | x2
+No, that’s where you’re wrong, Bruce. It had to be done this way.
+
+#### af5ba3a54c | HARVEY → BRUCE | x2
+I can tell your delicate sensibilities are upset but trust me Bruce - This is the way it had to be done.
+
+#### 0e61477fe6-SM | HARVEY → BRUCE | x2
+I couldn’t just destroy the drugs - I had to make a statement!
+
+#### 3a65ea0944-SM | HARVEY → BRUCE | x2
+I needed the Children of Arkham and any other potential enemies waiting in the shadows to know what I’m capable of!
+
+#### e7ae3acfc9 | HARVEY → BRUCE | x2
+That I’ll do anything to protect my city.
+
+#### 7c9cd367af | HARVEY → BRUCE | x2
+“Harvey Dent:“ the headlines will say, “The Guardian of Gotham.“
+
+#### db47501178 | BRUCE → HARVEY | x2
+I don’t care how many resources, how much I have to spend... I will use my last penny if that’s what it takes to stop you.
+
+#### 77f30b0109 | HARVEY → BRUCE | x2
+No bother. It’s not your concern anymore.
+
+#### 8779158a86 | BRUCE → HARVEY | x2
+After what you’ve done tonight, everyone in Gotham is going to see who they really elected mayor.
+
+#### 4362bbe905 | BRUCE → HARVEY | x2
+And when that happens, they WILL turn against you.
+
+#### b5afd89a37 | HARVEY → BRUCE | x2
+On the contrary, Bruce, this is what Gotham wanted.
+
+#### 04f60970a5-SM | BRUCE → HARVEY | x4
+I understand now... The Harvey I was friends with, was never real at all.
+
+#### ebd1c54a80 | BRUCE → HARVEY | x2
+That new face of yours suits you.
+
+#### a2b8fda6af | HARVEY → BRUCE | x2
+That I am the Guardian of Gotham.
+
+#### 062eb3a131 | HARVEY → BRUCE | x2
+Come now Bruce, you must see what I’m going for--
+
+#### f46c4e431f | HARVEY → BRUCE | x2
+I can see tomorrow’s headlines already--
+
+#### 574154319e | HARVEY → BRUCE | x2
+“Hero Mayor Saves Citizens from Children of Arkham Terror Plot!“
+
+#### 8239ae0653 | HARVEY → BRUCE | x2
+Meanwhile, somewhere in the back they’ll stick the article about “Bruce Wayne’s tragic suicide.“
+
+#### 0f6e09d028 | HARVEY → BRUCE | x2
+Hope that was satisfying. That’s the last one you get.
+
+#### 8b3aac880e-SM | BRUCE → HARVEY | x2
+If you kill me, you better make sure I’m dead. Because if not, what I did to Cobblepot will look like child’s play.
+
+#### f9a5f31214 | HARVEY → BRUCE | x2
+“Tragic, but unsurprising.“
+
+#### 50017f3a76 | HARVEY → BRUCE | x2
+Maybe even dear old Alfred will shed a tear.
+

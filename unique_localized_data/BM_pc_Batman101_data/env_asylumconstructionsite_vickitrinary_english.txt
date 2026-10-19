@@ -1,0 +1,252 @@
+﻿#### c7c43be384-SM | choice/UI, BRUCE → VICKI, SELINA | x4
+I need an ally.
+
+#### f4223a550b | choice/UI → VICKI | x2
+Just do your job.
+
+#### 439c366053 | choice/UI → VICKI, GORDON | x4
+Take down Falcone.
+
+#### 3156f5205e | VICKI → BRUCE | x2
+I’m a reporter.
+
+#### 08af7cfd0b | BRUCE → VICKI | x2
+I’ll protect you. I promise.
+
+#### ffd434ce53 | choice/UI, BRUCE → VICKI, SELINA | x4
+I can protect you.
+
+#### 70677fd477 | choice/UI → VICKI | x2
+It’s part of your job.
+
+#### cba1a791df | choice/UI → VICKI | x2
+Don’t reveal your identity.
+
+#### 3a7a1dadad-SF | VICKI → BRUCE | x2
+If I run this story, I put a price on my head.
+
+#### af7916f186 | BRUCE → VICKI | x2
+Don’t question it, just publish it.
+
+#### 64b3237775 | VICKI → BRUCE | x2
+Maybe it’s better I dont know.
+
+#### dc3846fa51 | VICKI → BRUCE | x2
+Falcone doesn’t like bad press...
+
+#### 3615ff45b4 | VICKI | x2
+Falcone has a way of *handling* reporters he doesn’t like.
+
+#### afcec75d84-SF | VICKI | x2
+I could be putting myself in real danger by trying to expose him.
+
+#### 7eacd55164 | VICKI → BRUCE | x2
+Chivalrous, but unnecessary.
+
+#### 5deeff2c5d | VICKI → BRUCE | x2
+You’re not Batman.
+
+#### d3efe876e1 | VICKI → BRUCE | x2
+This... this is{ThinkingB} big.
+
+#### 2595089fa4 | BRUCE → VICKI | x2
+I want to turn the{AngryA} entire city against Falcone.
+
+#### d29a2deed5-SM | BRUCE → VICKI | x2
+I need an ally in the press.
+
+#### c4e1b9206c | VICKI → BRUCE | x2
+Questions go with the territory.
+
+#### 9cabc4aa46 | BRUCE → VICKI | x2
+Buy a bullet proof vest.
+
+#### 2fdafa2f15 | BRUCE, VICKI, choice/UI, BATMAN → SELINA, HARVEY, BRUCE | x10
+Thanks for the tip.
+
+#### 5686886189 | BRUCE → VICKI | x2
+It’s the dress code for reporters here.
+
+#### 1e39aac85a | VICKI → BRUCE | x2
+You cut off one criminal’s head--
+
+#### 34ec0f19cc | choice/UI → VICKI | x4
+I trust Gordon.
+
+#### ff2da27005 | choice/UI → VICKI | x2
+What about Batman?
+
+#### b730ddb34e | VICKI → BRUCE | x2
+Falcone’s slippery, but this{ThinkingA} is enough to hang him out to dry.
+
+#### ef8c8dc1ae | BRUCE → VICKI | x2
+The media, the public, the police--
+
+#### d7082367cb | VICKI → BRUCE | x2
+But I’ve held my own so far.
+
+#### b5945d58d6 | VICKI → BRUCE | x2
+Anyone can do that.
+
+#### d6490275a7 | BRUCE → VICKI | x2
+Publish it anonymously.
+
+#### 8c1d88256a | VICKI → BRUCE | x2
+Accountability gives the media its teeth.
+
+#### 45e5e6b20b | VICKI → BRUCE | x2
+And that’s sorely lacking in Gotham these days.
+
+#### b6f9a19f11 | VICKI → BRUCE | x2
+But it would be worth it.
+
+#### a0e78605c0 | choice/UI → VICKI | x2
+Harvey can fix Gotham.
+
+#### 5c824e5e7b | ALFRED → VICKI, BRUCE | x4
+Good. So is our hunt.
+
+#### 3a5c3378d1 | BRUCE, REGINA → VICKI, ALFRED, OSWALD | x6
+It’s done.
+
+#### 304b47238a-SM | BRUCE → VICKI | x2
+I backed Harvey’s campaign for a reason.
+
+#### 3f36c8f971 | BRUCE → VICKI | x2
+Fixing Gotham starts at the top.
+
+#### 1f93e411b3 | BRUCE → VICKI, ALFRED | x4
+Lieutenant Gordon.
+
+#### be454e6111 | VICKI → BRUCE | x2
+Right now he’s just a monster of the week.
+
+#### e106fe89dd | VICKI → BRUCE | x2
+*If* Gotham can rally around him.
+
+#### e0eba4eaeb | BRUCE → VICKI | x2
+And that is better than any army.
+
+#### 007c353e11 | VICKI → BRUCE | x2
+Right now he’s just a spectacle.
+
+#### a1872b9e7d | BRUCE → VICKI | x2
+Batman’s a symbol of hope.
+
+#### aa4b31b7eb | BRUCE → VICKI | x2
+He has his badge in the right place.
+
+#### f2e502409c | VICKI → BRUCE | x2
+Politics to the rescue?
+
+#### c3c688d80a | VICKI → BRUCE | x2
+Doubtful... no matter how good looking he is.
+
+#### 5bae24d8cc | VICKI → BRUCE | x2
+What this could do for the city... my career.
+
+#### cd0a8417b1 | VICKI → BRUCE | x2
+I’m just wondering what the cost is gonna be.
+
+#### 3d322bad7b | VICKI → BRUCE | x2
+You drop a bomb like this... there’s going to be fallout--
+
+#### 5f1aeebdfd | BRUCE → VICKI | x2
+That not even Falcone can survive.
+
+#### aff62665ee | VICKI → BRUCE | x2
+Why give it to me then?
+
+#### 1968fbfabc | VICKI → BRUCE | x2
+You don’t know how much I appreciate it.
+
+#### cb164c2d8b | VICKI → BRUCE | x2
+But... thank you, seriously.
+
+#### fda5f831d2 | VICKI → BRUCE | x2
+After handing me something like this?
+
+#### f78ee0c2ea-LM | VICKI → BRUCE | x2
+I’d say you’ve got one for life.
+
+#### d286f3f3c7 | VICKI → BRUCE | x2
+Once this story drops, every single person connected with Falcone will turn their back on him.
+
+#### 3c30108091 | BRUCE → VICKI | x2
+It’ll be worth it.
+
+#### 5d6497c50d | SELINA, VICKI → BRUCE | x6
+I don’t know, Bruce.
+
+#### c169489db0 | VICKI → BRUCE | x2
+The next time my name appears in the media... God, it might be an obituary.
+
+#### ecbad67e32 | VICKI → BRUCE | x2
+Thanks, but...
+
+#### 9b13e71429 | VICKI | x2
+Unless we kill the beast once and for all.
+
+#### 3599578efd | VICKI | x2
+But who’s even capable of that?
+
+#### 63e598e185 | VICKI | x2
+Crime in this city... it’s a hydra.
+
+#### 945099410f | VICKI | x2
+Sometimes the rest of the force... they have their own agenda.
+
+#### 2f082d6e5b | VICKI → BRUCE | x2
+Yeah, well I hope that’s enough.
+
+#### ad0b8e2496-LM | VICKI → BRUCE | x2
+It’s a good thing you gave this to me instead of the police.
+
+#### b0d0da0b09 | VICKI → BRUCE | x2
+Could end up buried in some evidence locker and not on every screen in Gotham where it belongs.
+
+#### 0e98ee923c | BRUCE → VICKI | x2
+Public attention. That’s what brings down men like Falcone.
+
+#### 15c9c0e6b4 | BRUCE → VICKI | x2
+Not a bullet.
+
+#### 7f1cde70c7 | BRUCE → VICKI, ALFRED | x4
+Well... I can always change in the car.
+
+#### 7c8d19faf4 | ALFRED → BRUCE, GORDON | x4
+The Drones located Falcone downtown, a place called The Skyline Club.
+
+#### e9fb7ef5aa-LF | ALFRED → VICKI | x2
+Though, you’re not dressed for that kind of party.
+
+#### d43ac5c71a | FALCONE, VICKI → BRUCE | x5
+I’ll be seeing you, Bruce.
+
+#### 83ab325f79 | VICKI → ALFRED | x2
+Though after my story runs, he might get that too.
+
+#### 081b85aefd-LM | VICKI → ALFRED | x2
+But you’re a Wayne, you could’ve given it to anyone.
+
+#### 492513dff1 | VICKI | x2
+I always think...
+
+#### 500f50546d | VICKI → BRUCE | x2
+If we don’t act fast, that void will be filled by someone far worse.
+
+#### dc6e33121a | VICKI, OSWALD → BRUCE, REGINA | x4
+Wouldn’t be the first time.
+
+#### edf5c93e20 | VICKI → BRUCE | x2
+It’s doubful... no matter how handsome he is.
+
+#### 836a5b9491 | BRUCE → VICKI | x2
+For once, I think.
+
+#### 9498232276 | BRUCE → VICKI | x2
+Three more appear in its place. I know.
+
+#### e12c431099 | choice/UI → VICKI, HARVEY | x4
+Play it safe.
+

@@ -1,0 +1,375 @@
+﻿#### 9570380415 | choice/UI | x4
+I can be a symbol of hope.
+
+#### 00abb3fe27 | choice/UI | x4
+You’re the hero Gotham needs.
+
+#### 2c0eb95b47 | choice/UI | x4
+We need to work together.
+
+#### 95cacc75f0 | choice/UI → GORDON | x4
+Probably wanted this to be your day
+
+#### dc8a17318b | choice/UI → GORDON | x4
+He’s laying low.
+
+#### b4042f6c64 | BATMAN → GORDON | x4
+Your{ThinkingA} first address to the city as {FaceAccent}acting commissioner.
+
+#### 2d08ab3197 | BATMAN → GORDON | x4
+It’s an important{FaceAccent} day.
+
+#### d9b1a39c44-SM | GORDON → BATMAN | x4
+I’m glad you{FaceAccent} feel that way.
+
+#### 1024298b80-LM | BATMAN → GORDON | x4
+You’re in the limelight now. That means you could be a target.
+
+#### 212ebb4f58 | GORDON → BATMAN | x4
+Always the {FaceAccent}optimist...
+
+#### 5a4368aace | GORDON → BATMAN | x4
+We have a{TiredA} full security {FaceAccent}detail.
+
+#### 1feb67349c | BATMAN → GORDON | x4
+One{DisgustA} more can’t{FaceAccent} hurt.
+
+#### a7d915c2c0-SM | GORDON → BATMAN | x4
+Especially when it’s {FaceAccent}you. [accepting] Well, I’m{NormalA} honored.
+
+#### 9bd3fa90ca | GORDON → BATMAN | x8
+After all, Lady Arkham might have{FaceAccent} escaped if not for{ThinkingB} you.
+
+#### 6ede9f642c | GORDON → BATMAN | x4
+I wish she’d have{AngryA}{FaceAccent} lived long enough to be brought to {FaceAccent}justice.
+
+#### 9b611c5812 | GORDON → BATMAN | x8
+I’m still having a{TiredA} hard time accepting that it was {FaceAccent}Vicki Vale under that{BodyAccent} mask.
+
+#### d034a75c39 | GORDON | x4
+But at least{TiredA}Bruce Wayne got his {FaceAccent}butler back.
+
+#### e961e58448 | GORDON → BATMAN | x4
+She’ll be brought to{FaceAccent} justice, all thanks to {NormalA}you. And Bruce Wayne must be grateful to have his {BodyAccent}butler back.
+
+#### 2ca4604023 | GORDON → BATMAN | x4
+He probably had more important things to do.
+
+#### 2cc8d6f33b | BATMAN → GORDON | x4
+He’s probably cleaning up the mess{FaceAccent} Cobblepot made at {AngryA}Wayne Enterprises.
+
+#### e4b81eff7a | BATMAN → GORDON | x4
+That can’t{FaceAccent} be{AngryA} an easy task.
+
+#### 53b7a55771-LM | GORDON → BATMAN | x4
+You’ve got a good{FaceAccent} point.
+
+#### 8449a8ccc4 | BATMAN → GORDON | x8
+Those supermodels won’t {AngryA}just date {FaceAccent}themselves.
+
+#### 3d6fe08af8-SM | GORDON → BATMAN | x10
+Maybe. {FaceAccent}Though I’ve learned{TiredA} there’s more to the man than his questionable{FaceAccent} romantic choices.
+
+#### be608197a0 | GORDON → BATMAN | x4
+Maybe he’s off on his yacht,{TiredA} trying to put these last few weeks behind him.
+
+#### 4883b5c9d9 | GORDON → BATMAN | x4
+I wouldn’t{TiredB} blame{FaceAccent} him.
+
+#### 33070c5cf6 | BATMAN → GORDON | x4
+Bruce Wayne has been through a{AngryA} lot{FaceAccent} these last few weeks.
+
+#### c0412eea46 | BATMAN → GORDON | x4
+He may just need time to{FaceAccent} recuperate.
+
+#### 5c790df06f | GORDON → BATMAN | x4
+Don’t we {BodyAccent}all...
+
+#### 5dd82f1f25-LM | GORDON → BATMAN | x4
+You’re{FaceAccent} right.
+
+#### f4e06cda26-SM | GORDON → BATMAN | x4
+If I were{TiredB} him, I’d probably be off on a yacht somewhere{BodyAccent}, trying to forget{NormalA} these past few{FaceAccent} weeks.
+
+#### 270ba74fc9 | GORDON | x4
+I know you’re not {ThinkingA}a man of many {FaceAccent}words...
+
+#### 3a4ae430ec | GORDON | x4
+...but I’d like to {NormalA}say something to Gotham, on {BodyAccent}your behalf.
+
+#### 0a2ad71e1e | GORDON | x4
+Is there anything you’d like them to{FaceAccent} know?
+
+#### 1de2a74562 | GORDON → BATMAN | x4
+Maybe about{ThinkingB} how you’d like to be seen?{BodyAccent} Moving forward?
+
+#### 8aedef3dbd | GORDON → BATMAN | x4
+Had a feeling{FaceAccent} you’d say {BodyAccent}that.
+
+#### 793bdaa146 | BATMAN → GORDON | x12
+Tell them...
+
+#### 8efbe2102a | BATMAN → GORDON | x4
+To think of me as a symbol of {FaceAccent}hope. I’ll fight tirelessly for this city. I’ll be the {BodyAccent}hero that {AngryA}Gotham needs.
+
+#### d9414845fa-SM | GORDON → BATMAN | x8
+I’m sure they’ll appreciate{FaceAccent} hearing that.
+
+#### 77fc9dbb93 | BATMAN → GORDON | x4
+Tell them I stand{BodyAccent} behind you.
+
+#### 375498578b | BATMAN → GORDON | x4
+You are the {NormalA}hero that Gotham needs, {FaceAccent}Commissioner.
+
+#### 9f539b3c2a | GORDON → BATMAN | x4
+I hope I don’t let{BodyAccent} them down.
+
+#### 3c0a680b90-LM | BATMAN → GORDON | x4
+You{FaceAccent} won’t.
+
+#### 1add449862 | BATMAN → GORDON | x4
+I’ll work alongside{BodyAccent} you and the GCPD to protect Gotham.
+
+#### fa88ada6d4 | BATMAN → GORDON | x4
+The criminals of this city will stand no chance against us.
+
+#### c63bb476b7 | GORDON → BATMAN | x4
+That they won’t.
+
+#### 3def8a2246 | GORDON → BATMAN | x4
+I should probably {NormalA}be used{FaceAccent} to that by now.
+
+#### b4940fda1f | choice/UI → GORDON | x8
+Celebrating with supermodels.
+
+#### d794652a4b | choice/UI → GORDON | x10
+Back to his playboy lifestyle.
+
+#### a3addb3eac | MONTOYA → GORDON | x6
+They’re ready for {BodyAccent}you,{FaceAccent} Commissioner.
+
+#### 61aa621d27 | choice/UI → GORDON | x4
+The city needs reassurance
+
+#### a0609fe3b5 | choice/UI → GORDON | x4
+Criminals need to fear me
+
+#### e050a832cf | choice/UI → GORDON | x4
+Wanted to stand by you
+
+#### fe2fb7c37b | GORDON → BATMAN | x4
+Is everything all{FaceAccent} right?
+
+#### fce7779224 | GORDON → MONTOYA | x4
+I assume{FaceAccent} you’re not here to give a {FaceAccent}speech.
+
+#### 3b2fcb3584 | GORDON → BATMAN | x4
+So, {ThinkingB}what is{FaceAccent} it?
+
+#### 74610a5e72 | GORDON → BATMAN | x4
+Got it. Well, I appreciate{FaceAccent} the extra pair of eyes.
+
+#### dda21704fb-SM | BATMAN → GORDON | x4
+I wanted to show Gotham that I {ThinkingA}stand with its new {FaceAccent}Commissioner.
+
+#### adc02354b1 | GORDON → BATMAN | x4
+*Acting*{FaceAccent} commissioner.
+
+#### 9fcbb18484 | GORDON → BATMAN | x4
+But all {NormalA}the same, I appreciate{BodyAccent} it.
+
+#### 842ed104e8 | GORDON → BATMAN | x4
+It’ll be good{FaceAccent} for Gotham to know we’re{ThinkingA} on their side. After all that this city has {ThinkingB}been through, they need to know we’re fighting {FaceAccent}for them.
+
+#### f74739bce3-SM | BATMAN → GORDON | x4
+I wanted you{NormalA} to know that I stand with you.
+
+#### 1b57781572 | GORDON → BATMAN | x8
+I know you and I{ThinkingA} don’t always {FaceAccent}agree on our methods. And I{TiredA} don’t expect that to change{FaceAccent} overnight...
+
+#### afce8267c0 | GORDON → BATMAN | x4
+But I do hope this is the start of a closer partnership.
+
+#### 88caf4e80f | GORDON → BATMAN | x4
+I think we’d{NormalA} make a pretty good {FaceAccent}team.
+
+#### 86c1263cd9-SM | BATMAN → GORDON | x8
+I’m glad to {FaceAccent}hear it.
+
+#### cbcaf33af6 | GORDON → BATMAN | x4
+But I{ThinkingA} think we proved back at {FaceAccent}Arkham that we make a{NormalA} pretty good{BodyAccent} team.
+
+#### 5d481817cc | GORDON → BATMAN | x4
+I’d like that partnership{FaceAccent} to continue.
+
+#### c9b953e273-SM | GORDON → BATMAN | x4
+I’m a little surprised that Wayne didn’t make{BodyAccent} an appearance himself.
+
+#### 6e82dc6c0d | GORDON → BATMAN | x4
+His reputation is on the{FaceAccent} upswing. He put his life{ThinkingA} on the line to stop{BodyAccent} Penguin.
+
+#### baeceee66b-SM | GORDON → BATMAN | x4
+The people are waiting to see {BodyAccent}what he’ll do next. Hell{FaceAccent}, even {NormalA}I’m curious.
+
+#### d9f7a1be5a | GORDON → BATMAN | x4
+His reputation is on the {FaceAccent}upswing. He put his life on{ThinkingA} the line to{BodyAccent} stop Harvey Dent.
+
+#### 184e02857c | BATMAN → GORDON | x4
+Well, after what happened at his {FaceAccent}manor, he’s probably drowning himself in{FaceAccent} tequila and{AngryA} supermodels.
+
+#### 83208e6e29 | GORDON → BATMAN | x10
+Not a big fan, are{FaceAccent} you?
+
+#### 19952bd2e0 | GORDON → BATMAN | x10
+If he is, I wouldn’t {FaceAccent}{TiredA}blame him.
+
+#### 7680dbd508 | GORDON → BATMAN | x4
+Hell of a thing to go{FaceAccent} through.
+
+#### 8ce30a0398 | BATMAN → GORDON | x4
+Well, after what happened in{FaceAccent} Cobblepot Park, he’s probably drowning himself in tequila{FaceAccent} and{AngryA} supermodels.
+
+#### 9a7b1ec832-SM | GORDON → BATMAN, MONTOYA | x8
+But I’ve learned he’s a {FaceAccent}man who{TiredA} might surprise you.
+
+#### 31a9f72d90 | BATMAN → GORDON | x4
+He’s probably celebrating your win against {FaceAccent}Penguin--
+
+#### 65fffff90a | BATMAN → GORDON | x8
+--in a hottub filled {AngryA}with champagne and{FaceAccent} supermodels.
+
+#### 3da98df4bf | BATMAN → GORDON | x4
+He’s probably celebrating his defeat of Harvey Dent--
+
+#### 8f53f179af-SM | GORDON → BATMAN, MONTOYA | x8
+Though I’ve learned there’s{NormalA} more to the man than his questionable{FaceAccent} lifestyle choices.
+
+#### 821a1777b1 | GORDON → BATMAN, MONTOYA | x10
+Well{FaceAccent}, you know those{BodyAccent} supermodels won’t just date {FaceAccent}themselves.
+
+#### 2b2585fcec | MONTOYA → GORDON | x6
+Commissioner,{WorriedA} one minute...
+
+#### ba2d17f81f | GORDON → MONTOYA | x4
+A lot of them still{BodyAccent} fear you.
+
+#### f7ea8c07a4 | GORDON → MONTOYA | x4
+Thanks, {FaceAccent}Renee.
+
+#### 4a38c5db13 | GORDON → MONTOYA | x6
+Thank you, {FaceAccent}Sergeant.
+
+#### a84f7ea8a5 | GORDON | x4
+I’d take an{BodyAccent} army of villains any day over{TiredA} this.
+
+#### 9648c19821 | GORDON → BATMAN | x4
+I’ll let you in on a little {FaceAccent}secret...
+
+#### 513a7ed44f | choice/UI, BATMAN → GORDON | x6
+I will always be watching.
+
+#### d4a4484acd | GORDON → BATMAN | x4
+You don’t usually {FaceAccent}make public appearances...
+
+#### 424660b6d4 | GORDON → BATMAN | x4
+Why are {ThinkingB}you here?
+
+#### e220c6667e | BATMAN → GORDON | x4
+I want Gotham to know that there are{DisgustA} those who will{BodyAccent} fight for them.
+
+#### 34506f5141 | BATMAN → GORDON | x4
+I’ll always be{FaceAccent} watching out for them.
+
+#### 337b8ce08c | BATMAN → MONTOYA, GORDON | x6
+After what happened at his{FaceAccent} manor, he’s probably gone {AngryA}back to{BodyAccent} his playboy lifestyle.
+
+#### 083abf7827 | NEWSCASTER → BATMAN, MONTOYA | x6
+This is Monica Mitchell reporting live from outside Gotham Police Headquarters.
+
+#### c217994b44 | MONTOYA → GORDON, NEWSCASTER | x6
+Commissioner{FaceAccent} Gordon.
+
+#### 1ee4445be6 | GORDON → NEWSCASTER, MONTOYA | x6
+Commissioner{BodyAccent} Gordon...
+
+#### c24a87840d | GORDON → MONTOYA, BRUCE | x6
+Uh, doesn’t {FaceAccent}sound{TiredB} right...
+
+#### a0861eb14b | NEWSCASTER → GORDON, BRUCE | x8
+We’re currently awaiting newly appointed Police Commissioner James Gordon, who will address the city for the first time in the wake of the terrorist attacks perpetrated by Lady Arkham.
+
+#### a312560180 | GORDON → NEWSCASTER | x4
+There must be {BodyAccent}good reason he didn’t{TiredB}{FaceAccent} show.
+
+#### 179c0ed736 | choice/UI → GORDON | x2
+Here for your protection.
+
+#### 5700df6de3 | choice/UI → GORDON | x2
+Wanted to show my support.
+
+#### ab522583ea | choice/UI → GORDON | x2
+Gotham needs to see Batman.
+
+#### 30c9ced197 | GORDON → NEWSCASTER | x2
+I, as acting police commissioner...
+
+#### a03d956fed | GORDON → NEWSCASTER | x8
+The city’s on edge, and tonight could make all the difference.
+
+#### 632b15b7ee-SM | GORDON | x2
+I need all the support I can get.
+
+#### 2f241a5ad8-SM | GORDON | x2
+I’ve got quite the cast of luminaries who turned out to show their support.
+
+#### a5db1a1a80 | GORDON | x2
+You’re one hell of an addition to this line-up. Gotham’s best and brightest have turned out for this.
+
+#### f210af8253 | GORDON → BATMAN | x2
+Except for Bruce Wayne...
+
+#### 4fd2e8575e-SM | GORDON → BATMAN | x2
+I’m a little surprised he didn’t make it.
+
+#### c08b726db6 | choice/UI → GORDON | x2
+Probably rebuilding his company
+
+#### ecdfb86fd3 | choice/UI → GORDON | x2
+I stand behind Gotham’s Commissioner.
+
+#### 881ad8ca9e | choice/UI → GORDON | x2
+I will be watching over Gotham.
+
+#### f0b77de890-LM | choice/UI → GORDON | x2
+They are lucky to have you.
+
+#### c5e7bee044-SM | GORDON → MONTOYA | x2
+I always hoped to be Commissioner--but never like--
+
+#### c1fe9aa97b | GORDON → BATMAN | x2
+Show time.
+
+#### b5c95b4fec-SM | GORDON → NEWSCASTER | x2
+You know, I always wanted this--to be commissioner someday.
+
+#### 13b6bfebfd | GORDON → NEWSCASTER | x2
+To have the chance to shape this--
+
+#### bb3c9de861 | choice/UI → GORDON | x2
+Batman supports the GCPD.
+
+#### 6527372464 | NEWSCASTER, RYDER → GORDON | x8
+We’re currently awaiting newly appointed Acting Police Commissioner James Gordon, who will address the city for the first time in the wake of the terrorist attacks perpetrated by Lady Arkham.
+
+#### 51a2e18b63 | GORDON → NEWSCASTER | x2
+Batman! Didn’t expect to {FaceAccent}see you here.
+
+#### 6bca1b178d | BATMAN → GORDON | x2
+People need to see me; to know I’m still here for them.
+
+#### ad694a8369-SM | BATMAN → GORDON | x2
+I wanted to show Gotham that I {ThinkingA}stand with its new {FaceAccent}commissioner.
+
+#### 807897959b | GORDON → BATMAN | x2
+Uh, {DisgustA}‘acting’{FaceAccent} commissioner.
+

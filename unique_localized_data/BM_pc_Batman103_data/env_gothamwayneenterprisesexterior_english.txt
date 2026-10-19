@@ -1,0 +1,5130 @@
+﻿#### c23acee32c | BATMAN, BRUCE, MAYA, NOHR → LADYARKHAM, MAYA, BATMAN | x190
+I’m in this scene!
+
+#### 961d64aa8c | REPORTER02 → AXEL | x9
+I’m in this scene! I’m from GSNBC!
+
+#### 8d713ecfc4 | REPORTER01 → COUNCILWOMAN | x9
+I’m in this scene! I’m from GNN!
+
+#### ce9687d974 | REPORTER03 → HARVEY | x9
+I’m in this scene! I’m from Goxnews!
+
+#### 4a32a6931b | choice/UI, BRUCE → HARVEY, REPORTER03 | x72
+Is that what you really think?
+
+#### 3a5c470f8e | choice/UI, BRUCE → HARVEY | x72
+You’re being cynical.
+
+#### e09c1de1ab | choice/UI | x36
+Arkham is inhumane.
+
+#### 99b29b0e60 | COUNCILWOMAN → HARVEY | x9
+Today the Thomas and Martha Wayne Foundation makes an unprecedented commitment to the future of our community. In collaboration with our dedicated partners, we will work tirelessly to deliver a state of the art mental health facility that serves the citizens of Gotham. One whose primary goal will be to promote the socialization of those who suffer from wounds unseen. This comprehensive place of healing will include: four dedicated treatment wings including one for children, housing facilities, residential care, recreation areas such as weight rooms, rock climbing and a wellness trail. It will more than double the capacity of our city’s current options.
+
+#### bfb3d6c8e4-SF | COUNCILWOMAN → HARVEY | x9
+We dedicate this facility to Martha and Thomas Wayne and I ask for your observance of a moment of silence in their memory. Thank you. Now…I’m sure you all have noticed there are three shovels up here today. And that’s because we have two special guests.
+
+#### 86916e88c4 | HARVEY → COUNCILWOMAN, BRUCE | x36
+Sounds expensive.
+
+#### 4a0c7ce307 | HARVEY → COUNCILWOMAN | x9
+You don’t seem to be sweating it of course.
+
+#### 49b4542ca8 | HARVEY → COUNCILWOMAN, BRUCE | x45
+Must have set you back some coin.
+
+#### 45784494a1 | choice/UI → HARVEY | x9
+Cheaper than you.
+
+#### 05dc816dae | choice/UI, BRUCE → HARVEY | x90
+It’s for a good cause.
+
+#### 984913436e | choice/UI → HARVEY | x45
+Thanks for the concern.
+
+#### 858217b76f | HARVEY → BRUCE | x45
+I hope so. Haven’t cashed those checks yet.
+
+#### 9ad142f436 | BRUCE → HARVEY | x45
+Relax, it’s a joke.
+
+#### edb20a53de | HARVEY → BRUCE | x45
+Not much I can say here.
+
+#### a2988a7415 | BRUCE → HARVEY | x45
+It’s cheaper than politics.
+
+#### 7c2766ca25 | HARVEY → BRUCE | x45
+It’s like you’re reading from the brochure. Which, by the way, you also paid for.
+
+#### fbb68433d9 | HARVEY → BRUCE | x45
+Loosen up, I’m just lookin’ out for you.
+
+#### 15ba421ef8 | BRUCE → HARVEY | x45
+Gotham deserves a comprehensive mental health facility.
+
+#### abda126d55 | BRUCE → HARVEY | x45
+I’ll be just fine.
+
+#### 976d355ae9 | HARVEY → BRUCE | x45
+Can’t have that well run dry now.
+
+#### f1715beeec | BRUCE → HARVEY | x45
+I appreciate the concern, but there’s plenty more where that came from.
+
+#### 01cdd5b068-SM | HARVEY → BRUCE | x45
+Oh, I know...I’m not worried about you, I’m worried about me.
+
+#### f308235a1e | HARVEY → BRUCE | x9
+Obviously Arkham wasn’t ideal, but, for all it’s faults, you’d never mistake it for a country club.
+
+#### 6cb16820f6 | BRUCE → HARVEY | x36
+And…
+
+#### d594883b53-LM | HARVEY → BRUCE | x27
+And, we’ve polled this Bruce...the people of Gotham believe, regardless of mental capacity, when you’re convicted of a crime, you deserve a punishment. A real one.
+
+#### 0276322256 | HARVEY → BRUCE | x36
+And there’s no mistaking Arkham for anything other than that.
+
+#### a75782c1a2 | HARVEY → BRUCE | x36
+Here, I mean, come on, they’ll be playing shuffleboard and drinking mai tais.
+
+#### 66110a3ef0 | HARVEY → BRUCE | x36
+The citizens and more importantly, the voters of Gotham agree.
+
+#### 117bbe9752 | BRUCE → HARVEY | x36
+I’m not talking about polling numbers. I’m talking about you.
+
+#### 003e36a324 | HARVEY → BRUCE | x36
+I think you’re doing a really good thing Bruce...but I also think you’re naive.
+
+#### b6571909f0 | BRUCE → HARVEY | x9
+Yeah, well, I can afford it.
+
+#### 6f3ccffd91 | BRUCE → HARVEY | x36
+Arkham isn’t just a blemish. It’s a judgment against us all.
+
+#### e657affbe1 | HARVEY → BRUCE | x18
+“The least of these?” It’s bronze-age pablum Bruce, and it’s not very democratic.
+
+#### fa910173b9 | BRUCE → HARVEY | x9
+I just want to be able to sleep at night.
+
+#### daaf2ead50 | HARVEY → BRUCE | x36
+So get a teddy bear.
+
+#### b0a4db0674 | BRUCE → HARVEY | x36
+Then what would I do with you?
+
+#### f603fbf6d9 | HARVEY → BRUCE | x36
+I’m giving you some insight into what the people of Gotham think and feel.
+
+#### a3e059096f-SM | BRUCE → HARVEY | x9
+You’re dodging it. I said, ‘you’ are being cynical.
+
+#### c8e817abbb | HARVEY → BRUCE | x36
+People don’t care about how you treat violent criminals until you treat them well. How’s that for cynical?
+
+#### 1fbdee4d9a | BRUCE → HARVEY | x9
+Pretty good.
+
+#### 904134c4d6 | HARVEY → BRUCE | x36
+You look like piss by the way.
+
+#### f5ceb336a5 | HARVEY → BRUCE | x36
+Did I already mention that?
+
+#### 0d674b2c99 | HARVEY → BRUCE | x18
+Must have been a fun night.
+
+#### 485f7e3050 | BRUCE → HARVEY | x36
+They always are.
+
+#### 745f9778a0 | HARVEY → BRUCE | x18
+Let me guess...One of your European fillies...maybe two.
+
+#### 854ef853a8 | HARVEY → BRUCE | x45
+Crack open a bottle of wine...
+
+#### febbe5dd9a | HARVEY → BRUCE | x45
+...take ‘em on a helicopter tour of the city.
+
+#### 5c3f8d13d5 | HARVEY → BRUCE | x45
+And what do you know? It runs out of gas at the penthouse.
+
+#### 17190670bf | BRUCE, choice/UI → HARVEY | x54
+Your mother says hello.
+
+#### 2d2328b007 | choice/UI → HARVEY | x18
+There were three of them.
+
+#### ee68e2f9e6-LM | BRUCE, choice/UI → HARVEY | x45
+You’re just jealous.
+
+#### be999071cf | HARVEY → BRUCE | x36
+They must be gettin’ real liberal with the visiting hours.
+
+#### f86ddf28ba | BRUCE → HARVEY | x36
+The jello is worth it.
+
+#### 7b62e52f1a | HARVEY → BRUCE | x18
+Shh, Shh, Shh...you hear that?
+
+#### acc369364b | HARVEY → BRUCE | x18
+Exactly, we’re on deck.
+
+#### 5305190421 | HARVEY → BRUCE | x9
+Now listen up...this is really important.
+
+#### c285c8d80d | HARVEY → BRUCE | x18
+When we get out there...Do not under any circumstances…
+
+#### 8c923ff2d6 | HARVEY → COUNCILWOMAN | x18
+You should see your stupid face.
+
+#### c2959e348a | HARVEY → BRUCE | x9
+It’s just a photo op, Bruce. You’ll be fine. But hey...make us look good out there.
+
+#### ef95bcb953 | COUNCILWOMAN → HARVEY | x9
+Please welcome Bruce Wayne, and the next mayor of Gotham City, Harvey Dent!
+
+#### 7378f56d03 | REPORTER01 → HARVEY | x18
+Harvey, Harvey, Harvey…
+
+#### 716c76bb72 | REPORTER03 → BRUCE | x9
+Mr. Wayne...Bruce...Bruce…
+
+#### 40e967dadf | HARVEY → REPORTER03 | x9
+I see you. I see you.
+
+#### b8b0b53f0d | HARVEY → REPORTER01, REPORTER03 | x36
+Hey Barry. They sending real reporters to these things now?
+
+#### 630c8fb212 | REPORTER01, REPORTER03 → HARVEY | x36
+I guess so.
+
+#### 3f976baefd | HARVEY → REPORTER01, REPORTER03 | x36
+Either you’ve been demoted or someone tipped you off.
+
+#### 134ba1cedd | REPORTER01, REPORTER03 → HARVEY | x36
+Someone from your office.
+
+#### c4a8146f7d | HARVEY → REPORTER03, REPORTER01 | x18
+I’m not taking any questions today...this is Bruce’s thing. If you have questions you can ask him.
+
+#### 21f20b9da5 | REPORTER01, REPORTER03 → HARVEY, BRUCE | x18
+You never stop campaigning eh Harvey?
+
+#### 17f5d4bfb1 | HARVEY → REPORTER01 | x9
+Hey...I’m just here as a friend of the Wayne family…
+
+#### 2629d46c04 | REPORTER01, REPORTER03 → HARVEY | x18
+All right, my mistake.
+
+#### dff7368e69 | HARVEY → REPORTER01, REPORTER03 | x18
+And as a friend to the citizens of Gotham.
+
+#### a12d6f2ddd | HARVEY → REPORTER01, REPORTER03 | x18
+Seriously guys. Call it naive if you will, but if being naive means a healthier and safer community for my neighbors...well, then...so be it.
+
+#### 89220565f2 | HARVEY → REPORTER01, REPORTER03 | x18
+We will be judged by how we treat the least of our citizens. We can no longer ignore the despicable track record of mental health treatment in our city.
+
+#### 9e607a62af | HARVEY → REPORTER01, BRUCE | x18
+There’s no room for cynicism here. My friend Bruce, and his foundation provides hope for those that up to now had nowhere to turn.
+
+#### 5b25b5be91 | REPORTER01, REPORTER03 → HARVEY | x18
+You oughta think about politics an answer like that.
+
+#### 7ff5b3808b | BRUCE → HARVEY | x18
+You sir.
+
+#### e46387bdab-LM | REPORTER02 → BRUCE | x9
+Hey Bruce, you think you could sign something for me?
+
+#### 8983909854 | HARVEY, BRUCE, ARNOLD → BRUCE, REPORTER02, OSWALD | x61
+What’s that?
+
+#### e1c340ee6e | REPORTER02 → BRUCE | x18
+Well, technically, you’d be co-signing.
+
+#### 7169a9fe24 | BRUCE, GORDON → HARVEY, REPORTER02, VICKI | x69
+Yeah.
+
+#### eca3ad1c8f-LM | REPORTER04 → BRUCE | x18
+Isn’t it about time you got married Bruce?
+
+#### 1ce17e7d25 | BRUCE → REPORTER04 | x18
+We really want to focus on the treatment center today.
+
+#### c94459c1c4 | REPORTER04 → BRUCE | x9
+Okay...uh...if they end up building a banquet hall in this place...would that be place you’d consider getting married in? And if so, to who?
+
+#### 3a542a3fbf | VICKI → BRUCE, HARVEY | x45
+Vicki Vale, Gotham Gazette.
+
+#### c7c9a46a81 | BRUCE → VICKI | x36
+Yes. Vicki Vale. Hello.
+
+#### acaee8368e | VICKI → BRUCE | x18
+First off Congratulations.
+
+#### f406568ebd-SF-LM | VICKI → BRUCE | x9
+Unfortunately, as I’m sure you’re aware, there is some sad news coinciding with this event. It’s been reported that Tobias Arkham was found dead from an apparent suicide. Do you care to comment?
+
+#### a775a99809 | BRUCE → VICKI, HARVEY | x36
+Uh...Cather...
+
+#### 5a44d26d6d | BRUCE → VICKI, HARVEY | x36
+Uh...Trac...
+
+#### 1463837a5a-SM | choice/UI → VICKI | x36
+I was not aware of that.
+
+#### d8e293367b | choice/UI | x36
+Condolences to the Arkham family.
+
+#### 9a55b502f9 | choice/UI | x36
+This is why we need mental health facilities.
+
+#### e029003c60 | BRUCE → HARVEY | x36
+That’s the first I’m hearing about that...um...once, uh, I get more information, um, we’ll be able to get back to you. Ahem. But for now...our thoughts and prayers are with the Arkham family.
+
+#### 709c8fb846 | BRUCE → HARVEY, VICKI | x36
+More often than not, the great cities of the world are the product of the labor and the sacrifice of great families.
+
+#### 144e3632e1 | BRUCE → HARVEY | x36
+The Arkhams are a vital part of what has made and continues to make Gotham the greatest city in the world.
+
+#### 4300f1f733-SM | BRUCE → VICKI, HARVEY | x36
+I’m very sorry to hear about their loss.
+
+#### beb9375a85 | BRUCE → VICKI, HARVEY | x36
+My thoughts and prayers are with them.
+
+#### efa586b64b | BRUCE → VICKI, HARVEY | x36
+I think it’s worth mentioning, that perhaps with greater access to facilities such as these, we could have avoided, uh, such a loss could have been avoided.
+
+#### 88bda0f9c2 | VICKI → BRUCE, HARVEY | x36
+Are you saying that Mr. Arkham may have had mental health issues himself?
+
+#### 55a2cbee2f | BRUCE → HARVEY | x36
+Uh -- ahem…of course --
+
+#### e7a22ada3f | HARVEY → BRUCE | x36
+It’s a tragedy. Very sorry to hear it.
+
+#### d7f27425f2 | HARVEY → VICKI, BRUCE | x36
+This is, uh, highly irregular, a question like this...what is this?
+
+#### c10943db23 | HARVEY → BRUCE, VICKI | x36
+I mean, it’s a tragedy.
+
+#### 4992c3d443-SF | VICKI → HARVEY | x9
+I’m sure that won’t go unappreciated, but there is some speculation that the timing of the death may have been more than coincidence.
+
+#### 44e1930191-LF | HARVEY → VICKI | x9
+Wait, sorry but, you already asked a question.
+
+#### 979748a485 | VICKI → HARVEY | x18
+Mr. Arkham, apparently was, I think it’s fair to say, concerned by the opening of your hospital as it would most likely mean financial ruin for him.
+
+#### 926b0cb960 | HARVEY → VICKI | x18
+Your colleagues are leaving.
+
+#### 142df48b4f | VICKI → HARVEY | x9
+It appears as if basically, he assumed what I want to ask you directly.
+
+#### 6e44905c87 | VICKI → BRUCE | x18
+Since the hospital will be mostly taking in money from the city, is there an ethical obligation to the taxpayers of Gotham to discontinue your rather public backing of Harvey Dent’s mayoral campaign?
+
+#### 2298df663e | choice/UI → VICKI | x18
+Yes, I will no longer be fundraising for Dent.
+
+#### bbc95c9689 | choice/UI → VICKI | x18
+No, Wayne Foundation is a Non-Profit.
+
+#### 5e4e656682-SM | BRUCE → VICKI | x18
+I’m sorry but I have to take this.
+
+#### 897fa892be | ALFRED → BRUCE | x18
+Master Bruce, there’s been a shooting at the docks. From what I can gather there are police officers and known gangsters among the victims.
+
+#### 0a2bae42f7 | BRUCE → ALFRED | x18
+I’ll be there soon.
+
+#### 26ed165867 | ALFRED → BRUCE | x18
+I’ll make the necessary arrangements and await your arrival.
+
+#### f8732d3fc8 | BRUCE → ALFRED | x18
+I uh...it’s funny you mention this...I have already begun the process of withdrawing from active participation in the Dent campaign for that very reason.
+
+#### 2d6de35289 | BRUCE → HARVEY | x18
+The Wayne Foundation has and always will be a non-profit organization.
+
+#### c9311176a1 | BRUCE → HARVEY | x18
+As a citizen of Gotham I exercise the right to participate in any political campaign as I see fit.
+
+#### cfa29f9a3b | BRUCE → HARVEY | x18
+There is no conflict of interest here. In fact, if anything, you might call it an agreement of interests.
+
+#### f442b3a664 | HARVEY → BRUCE | x18
+What...the hell...
+
+#### 32562d8d45 | VICKI → BRUCE | x9
+Why is everyone leaving?
+
+#### 61aba62ed5 | REPORTER01, REPORTER02 → HARVEY, BRUCE | x18
+Fog on the harbor.
+
+#### 1be856c247 | REPORTER01, REPORTER02 → HARVEY | x18
+A lot.
+
+#### fd5377f178 | HARVEY, SELINA, CATWOMAN → VICKI, BRUCE, BATMAN | x30
+What’d he say?
+
+#### 676ce7062e | REPORTER01, REPORTER02 → VICKI | x18
+There’s been a shooting at the docks.
+
+#### 2f5652712c | VICKI → REPORTER01 | x9
+Looks like your lucky day Bruce.
+
+#### 24396644d2 | VICKI → HARVEY | x9
+This’ll probably get buried.
+
+#### 491c823ceb | VICKI → BRUCE | x9
+But if you think of anything, let me know.
+
+#### 59ba7df5a0-LF | choice/UI → VICKI | x9
+You ambushed me.
+
+#### 539d2a6bef | choice/UI, BRUCE, SELINA, ALFRED → VICKI, BRUCE, LELAND | x76
+What was that about?
+
+#### 3135260a50 | choice/UI, BRUCE → VICKI | x18
+You want a job?
+
+#### fd3e2142a5-LF | BRUCE → VICKI | x36
+You ambushed me...again.
+
+#### 6a1e185b6e | VICKI → BRUCE, HARVEY | x36
+Occupational, uh - hazard...you know.
+
+#### 57209c3412 | BRUCE → VICKI, HARVEY | x36
+No, I don’t. That seemed personal.
+
+#### 6a9387a926 | VICKI → BRUCE | x36
+It’s always personal, Bruce.
+
+#### 30c5c94e64 | VICKI → BRUCE, HARVEY | x36
+I think there might be a story here, that’s all.
+
+#### 123540ac55 | BRUCE → VICKI, HARVEY | x36
+Well, from over here it seems like you’re trying to make one.
+
+#### 67b8a486e0 | VICKI → BRUCE | x36
+I don’t need to. You’re doing it for me.
+
+#### 07de529b0e | VICKI → BRUCE | x9
+You serious?
+
+#### 6f2fbed336-SM | BRUCE → VICKI | x9
+Company car, expense account, healthy per diem. Yeah. I’m serious.
+
+#### 325dabc61c | VICKI → BRUCE | x9
+Is that conditional on whether or not I forget all of this.
+
+#### e44976af41-SF | VICKI → BRUCE | x9
+On second thought -- we get donuts on Thursdays so...I’m good.
+
+#### dea059d060 | choice/UI → VICKI | x36
+You catch more flies with honey.
+
+#### 08a9efef9d-LF | BRUCE → VICKI | x27
+Haven’t you heard the expression...you catch more flies with honey than...
+
+#### 32bc46ff2b-SF | VICKI → BRUCE, HARVEY | x36
+I’ve found a rolled up newspaper works just as well.
+
+#### 1cb2a6df91 | BRUCE → VICKI, HARVEY | x36
+Newspaper. Right. Remind what that is again.
+
+#### 58e781b14e | VICKI → BRUCE, HARVEY | x36
+The last four mayoral candidates the Gazette has endorsed have won.
+
+#### 50c357d082-SM | HARVEY → VICKI | x36
+I heard there’s an octopus downtown that can do the same thing.
+
+#### 8589b79a72 | HARVEY → VICKI | x9
+Bruce is a civilian for crying out loud!
+
+#### 1532be7966-LM | HARVEY → BRUCE | x9
+You tried to bushwhack him.
+
+#### 18aec39439 | HARVEY → BRUCE | x9
+To get to me or...I don’t know why and I don’t care.
+
+#### 9624c9d61c | choice/UI → HARVEY | x9
+I don’t need you to defend me.
+
+#### 9babf4b97f | choice/UI, BRUCE → HARVEY | x18
+She’s a friend.
+
+#### bd6e61e548 | choice/UI → HARVEY | x9
+It’s her job.
+
+#### e6ec8fb84d-SM | HARVEY → BRUCE | x9
+I am calm.
+
+#### 49d658cfa1 | BRUCE → HARVEY | x9
+You don’t need to defend me Harvey.
+
+#### 1c201ed81e | HARVEY → BRUCE | x9
+Of course you do. It’s why I’m here.
+
+#### 2f6db3552d-LM | BRUCE → HARVEY | x9
+And I appreciate the support, but right now you need to calm down.
+
+#### d1dbc2d2f3 | HARVEY → BRUCE | x9
+And if she is a friend, why is she doing what she’s doing?
+
+#### bcb38385af | HARVEY → BRUCE | x9
+What? Oh. Damn it Bruce. I can’t keep track anymore.
+
+#### 608a1fa605-SM | BRUCE → HARVEY, LELAND, CATWOMAN | x20
+That’s not what I meant.
+
+#### f3d5915e1b | HARVEY → BRUCE | x9
+This? She’s doing some kind of a job, I’ll tell you what.
+
+#### 31a103034f | BRUCE → HARVEY | x9
+It was an honest question.
+
+#### 2085849d4a | HARVEY → BRUCE | x9
+You see, that’s an excuse. This -- uh...
+
+#### 6ce77353d2 | HARVEY → BRUCE | x9
+There’s rules in this business.
+
+#### e3a8ba1f88 | VICKI → HARVEY | x36
+Should I be writing this down?
+
+#### 6283d88738 | HARVEY → VICKI | x36
+Number one...somethings are on the record and some things are off the record.
+
+#### 5354bff3f0 | HARVEY → VICKI | x36
+You figure that out, you build relationships, and with relationships you get access.
+
+#### 1b932ecc78 | HARVEY → VICKI | x36
+Number two...don’t ever do that again.
+
+#### 892800099a | VICKI → HARVEY | x36
+Wait, so would this condescending and vaguely threatening interaction be considered on the record or off the record.
+
+#### e2df540dae | VICKI → HARVEY | x36
+Because I’ve been recording this conversation the entire time.
+
+#### 6baf706869 | HARVEY → VICKI | x36
+You have a Good evening Ms. Vale.
+
+#### 7bfec251ec | choice/UI → VICKI, HARVEY | x36
+It’s off the record.
+
+#### 9844242add | choice/UI, BRUCE → VICKI, SELINA, CATWOMAN | x72
+That thing real?
+
+#### fd339751c0 | choice/UI → VICKI | x9
+Don’t mind him.
+
+#### 8ee59691c6 | VICKI → HARVEY | x9
+Some kind of call back -- she can relent here. Then off to see some dead bodies.
+
+#### 7937eb0278 | BRUCE → HARVEY, VICKI | x36
+They make an exception for me.
+
+#### e1b1abda39 | HARVEY → BRUCE | x36
+Be careful now. Someone snaps a picture of you in an old folks home...might cramp your style.
+
+#### 513903564b | BRUCE → HARVEY | x36
+There were three of them. And one was from Australia.
+
+#### 3da0dbc431-LM | BRUCE, choice/UI, BATMAN → HARVEY, GORDON | x40
+You’re wrong.
+
+#### d5a8ea676d | HARVEY → BRUCE | x9
+We talkin’ about the same thing?
+
+#### ac6b2f03fd | HARVEY → BRUCE | x36
+Take it easy, I’m just joking.
+
+#### 4ca23d0a8f | HARVEY → BRUCE | x36
+You’re damn right I am.
+
+#### 1c55be1a2a | BRUCE → HARVEY | x36
+You’re forgetting something.
+
+#### 4af9b1da92 | BRUCE → HARVEY | x9
+I’m also handsome.
+
+#### 2caa906f95 | HARVEY → BRUCE | x9
+But you gotta be careful, these girls they hang around as long as you’re rich and famous.
+
+#### a2d2d404f8 | HARVEY → BRUCE | x9
+It’s business time.
+
+#### fa538444e2 | HARVEY → BRUCE, COUNCILWOMAN | x18
+Let’s earn some votes.
+
+#### 797d772b56 | choice/UI, BRUCE → HARVEY | x18
+You’re making it harder.
+
+#### 1ef0fd3652 | choice/UI → HARVEY | x18
+Just smile and wave.
+
+#### 8da6b2b823 | HARVEY → BRUCE, COUNCILWOMAN | x18
+Or, at the very least, not lose any.
+
+#### 397a9b0bab | choice/UI → HARVEY, REPORTER01 | x18
+It’s a cakewalk.
+
+#### aee1dfdc66 | BRUCE → HARVEY | x18
+Just gonna smile and wave.
+
+#### d29427ed81-SM | BRUCE → HARVEY | x18
+I’ve got this...it’s a cakewalk.
+
+#### 8121b0e95a | HARVEY → BRUCE | x18
+This is teeball. It’s as easy as it gets.
+
+#### 3db2a6b217 | HARVEY → BRUCE | x18
+How ‘bout, just be normal.
+
+#### 9c4df0e376 | HARVEY → BRUCE | x18
+Okay...but don’t say ‘cakewalk’ it’s kind of racist.
+
+#### 908d851e01 | choice/UI → HARVEY | x9
+My Parents.
+
+#### 23cad14c55 | choice/UI → HARVEY | x18
+People like Harvey.
+
+#### 7efcd14e1b | choice/UI → HARVEY | x9
+Every problem has a Solution.
+
+#### ebe38fd36e | HARVEY → VICKI, BRUCE | x36
+Wait, so this isn’t the first time?
+
+#### 99ff6acf17-LM | HARVEY → BRUCE | x9
+What you just said is hack. You’re a hack.
+
+#### f3c07234d7 | HARVEY → BRUCE, VICKI | x36
+Wait, am I getting this right? You know this broad?
+
+#### 67286299b6 | VICKI → BRUCE | x9
+You sure know how to pick ‘em.
+
+#### 06488a5245 | BRUCE → VICKI, HARVEY | x36
+He meant to say it’s off the record.
+
+#### e8a47ca94b | VICKI → BRUCE | x36
+I’m a gambler Bruce, but I never bluff.
+
+#### 27cba0f26c | BRUCE → VICKI | x36
+Looks like it could be lipstick.
+
+#### 235579f62c | VICKI → BRUCE | x36
+Guess you’ll never know.
+
+#### 244b05a542 | VICKI → BRUCE | x36
+You sure about him?
+
+#### 8b21461ad9 | BRUCE → VICKI | x36
+I’ve known him a long time, and I know how to pick ‘em.
+
+#### ecbfa37c5f | VICKI → BRUCE | x36
+Well the Gazette does too...and if your friend wants an endorsement you should have him switch to decaf.
+
+#### 308ffe9116 | BRUCE → VICKI | x36
+I’ll talk to him.
+
+#### 69719fb60c | VICKI → BRUCE | x18
+In the meantime I’ll do you the courtesy of forgetting all of this.
+
+#### 1b07a15dd0 | BRUCE → VICKI | x36
+Wouldn’t hurt.
+
+#### 57820fb930 | VICKI, SELINA → BRUCE | x12
+I’ll think about it.
+
+#### 8b9dec42fc | VICKI → BRUCE | x9
+I’m trying real hard to figure out how that’s not an insult.
+
+#### 30611eeab0 | BRUCE, HARVEY → VICKI | x63
+I didn’t mean it that way.
+
+#### 1bd002cd3f-LM | VICKI → BRUCE | x36
+Yeah, I know. But you did.
+
+#### 8d8a221924 | VICKI → HARVEY | x9
+See you around Harvey.
+
+#### 83356daa82 | HARVEY → VICKI, BRUCE | x18
+So, what? I don’t have your support anymore?
+
+#### f23d6b9f1c | HARVEY → VICKI, BRUCE | x18
+This was supposed to be a photo-op.
+
+#### cd143cdbb1 | HARVEY → VICKI, BRUCE | x18
+You’re over here making declarations.
+
+#### d143284bc9 | choice/UI, BRUCE → HARVEY | x36
+We’ll figure it out.
+
+#### de7a271b31-SM | choice/UI → HARVEY | x18
+I panicked.
+
+#### 4be97790f7 | choice/UI → HARVEY | x18
+She made a good point.
+
+#### 20a4e0769b-LM | HARVEY → BRUCE | x18
+Were you even gonna tell me? Or did you come up with that on the fly?
+
+#### 5990ba0700 | HARVEY → BRUCE | x18
+The hells wrong with you.
+
+#### 2382332602 | HARVEY → BRUCE | x18
+Okay. Listen there’s ways to get that money to me without it tracking back to you.
+
+#### 014b63174c-SM | BRUCE → HARVEY | x18
+Like I said...
+
+#### 568de45779-LM | HARVEY → BRUCE | x18
+I just don’t understand how you could let that...that...
+
+#### 13d63c223c | BRUCE → HARVEY | x18
+Don’t...
+
+#### 0e3b190527 | HARVEY → BRUCE | x18
+Don’t what!?
+
+#### cdfd762fda | HARVEY → BRUCE | x18
+Stop looking at me like that. All right? Stop it.
+
+#### 89b56ca178-SM | BRUCE → HARVEY | x18
+I panicked. I didn’t know what to do.
+
+#### b6d9902983 | HARVEY → BRUCE | x18
+No, no, no. Panic, you at least consider fight before flight. That. That was fubar was what that was.
+
+#### d1aec1b604 | BRUCE → HARVEY | x18
+It was an honest mistake.
+
+#### c3526bea9d-LM | HARVEY → BRUCE | x18
+Maybe it’s for the best. You let an amateur like that rattle you...maybe it’s for the best.
+
+#### ae53dbde86 | BRUCE → HARVEY | x18
+It was a conflict of interest.
+
+#### 1d218b35f7-LM | HARVEY → BRUCE | x18
+If that was a ‘conflict‘ you lost. ‘Conflict of interest’ please...get out of here with that. Are you out of your mind?
+
+#### 2528d19a53 | BRUCE → HARVEY | x18
+She had a good point.
+
+#### 4bedf6a9db | HARVEY → BRUCE | x18
+Lots of people have good points. Happens all the time. On purpose, on accident.  What’s your point? Huh?
+
+#### f264cf8279 | HARVEY → BRUCE | x18
+You don’t even know.
+
+#### e571f3834f | HARVEY → BRUCE | x18
+I- I- I don’t even know what to say to you right now.
+
+#### 9a463c9b5f-SM | HARVEY → VICKI | x36
+Look...before you say anything...I shouldn’t have let that get to me. All right? I’m sorry.
+
+#### f8f1b6d859 | HARVEY → VICKI, BRUCE | x36
+Hell, maybe you should be the one running.
+
+#### b8fad1d2de-LM | HARVEY → BRUCE | x9
+I don’t understand how you’re still so calm.
+
+#### e74b31f35e | HARVEY → BRUCE | x36
+My undershirt is drenched.
+
+#### 3ee2fa0f84 | choice/UI, BRUCE → HARVEY, VICKI, LUCIUS | x40
+Everything is fine.
+
+#### 848dd3c24b | choice/UI → HARVEY | x36
+You’re the man for the job.
+
+#### e136e27144 | choice/UI → HARVEY | x36
+That could have gone bad.
+
+#### 25041fc7e9 | BRUCE → HARVEY | x36
+Everything will be fine.
+
+#### 2d270b124c-LM | HARVEY → BRUCE | x36
+You just had to get that one in didn’t you?
+
+#### 4fe433f7f1 | BRUCE → HARVEY | x36
+You can take it.
+
+#### 645a209d20 | HARVEY → BRUCE | x36
+No, no, I deserve it.
+
+#### 77d96ecd47 | BRUCE → HARVEY | x36
+You’re the best candidate Gotham has seen in years.
+
+#### c4a495677a | HARVEY → BRUCE | x36
+I see what you’re doing...and I don’t care.
+
+#### 8b44914364 | BRUCE → HARVEY | x36
+You’re passionate Harvey, that’s good.
+
+#### 3b9d43cde3 | HARVEY → BRUCE | x36
+Keep it coming.
+
+#### 1de7bb9d66 | BRUCE → HARVEY | x36
+But sometimes you forget that you can’t talk to everyone like they’re hardened criminals.
+
+#### 77c97e0c28-LM | HARVEY → BRUCE | x36
+You’re supposed to put the criticism in the middle, that’s how you make a compliment sandwich.
+
+#### 6702d8ae76 | BRUCE → HARVEY | x36
+You’re gonna be a great mayor.
+
+#### 162af54e5c | HARVEY → BRUCE | x9
+Now we’re talkin’.
+
+#### fe5cc8fcb0 | BRUCE → HARVEY | x36
+That could have gone really bad.
+
+#### 06c34a176f | BRUCE → HARVEY | x36
+We can use an endorsement from the Gazette.
+
+#### 5cfd96bc89 | HARVEY → BRUCE | x36
+I agree with you. I do.
+
+#### 29acd0642a | BRUCE → HARVEY | x36
+Okay, then.
+
+#### ad143a2a06 | choice/UI → HARVEY | x9
+Like an autograph?
+
+#### c43bbd866a | choice/UI → HARVEY | x9
+That’s not my focus here.
+
+#### 9a64732bfc | HARVEY → BRUCE, COUNCILWOMAN | x36
+Which I’m pretty certain was lying under a couch cushion somewhere.
+
+#### ff5427cd60 | HARVEY → COUNCILWOMAN, BRUCE | x27
+Obviously Arkham wasn’t ideal, but, for all its faults, you’d never mistake it for a country club.
+
+#### 939cad739c-SM | HARVEY → BRUCE | x27
+Must have been a fun night after I left.
+
+#### ce329d5f29 | HARVEY → BRUCE | x27
+We still talkin’ about the same thing?
+
+#### 07de211e3b | HARVEY → BRUCE | x27
+But you gotta be careful, these girls only hang around because you’re rich and famous.
+
+#### f31b6bba98 | BRUCE → HARVEY | x27
+I am rich and famous.
+
+#### 93bbf4f565 | BRUCE → HARVEY | x27
+Yeah, well, I can afford to be.
+
+#### e3e70aaf34 | BRUCE → HARVEY | x27
+I want to be able to sleep at night.
+
+#### 0f2b5ed0ff-SM | BRUCE → HARVEY | x27
+I said, ‘you’ are being cynical.
+
+#### e4f1513bca | BRUCE → HARVEY | x27
+Pretty good actually.
+
+#### 71f16e1536 | HARVEY → BRUCE | x9
+Now listen up...the press is here for you...I’m here for you...everyone is here for you. No pressure right? As long as you have the talking points memorized we’ll be fine.
+
+#### d44b1c062a | HARVEY → BRUCE | x27
+It’s just a photo op, Bruce. You’ll be fine.
+
+#### eddb7f4c2d | HARVEY → COUNCILWOMAN | x9
+If it comes up let’s earn some votes.
+
+#### d0932e57ce | COUNCILWOMAN → HARVEY | x27
+Please welcome Gotham’s most favored son and CEO of Wayne Enterprises, Bruce Wayne.
+
+#### cc8d5a3d39 | BRUCE → HARVEY | x9
+You’re making nervous.
+
+#### e6677ed565 | HARVEY → REPORTER01 | x18
+I’m not taking any questions today...this is Bruce’s thing.
+
+#### 25ac375815-SF-LM | VICKI → HARVEY, BRUCE | x27
+I bring all this up since I’m sure you’re aware, there is some sad news coinciding with this event.
+
+#### a1bb30fd65-SF | VICKI → HARVEY | x27
+I’m sure that won’t go unappreciated...but it appears Mr. Arkham was very concerned by the announcement of the new facility since it could potentially put him out of business.
+
+#### f962a57965-LF | HARVEY → VICKI | x27
+You asked your question, you asked your follow-up, that’s it.
+
+#### 916cbb5d33 | VICKI → HARVEY | x9
+I’m going to ask my question whether he likes it or not.
+
+#### 1d04f14174 | VICKI → BRUCE, HARVEY | x27
+Are you seriously not going to answer the question?
+
+#### cb048c30ab | VICKI → HARVEY, REPORTER02 | x27
+It’s a fair question.
+
+#### 36b582c0e2 | VICKI → HARVEY | x27
+This’ll probably get buried anyway.
+
+#### 26247a489b | VICKI → HARVEY, BRUCE | x27
+It’s more a story if you don’t answer.
+
+#### b7c05969fc | HARVEY → VICKI | x27
+What’s your problem?
+
+#### 273e05abfe-SM | HARVEY → BRUCE, VICKI, SELINA | x27
+All I meant to say is that there are rules in this business.
+
+#### d5daf43a14 | VICKI, choice/UI → HARVEY, SELINA | x29
+See you around.
+
+#### b8fad1d2de-LF | HARVEY → VICKI | x27
+I don’t understand how you’re still so calm.
+
+#### 869b9ce413 | HARVEY → BRUCE | x27
+All right, all right.
+
+#### 4c7379ca90 | VICKI → BRUCE | x27
+That’s the second time with the weird insult.
+
+#### 458bcff0ea | BRUCE, choice/UI → VICKI | x54
+How do I make this go away?
+
+#### 049181d353 | VICKI → BRUCE | x27
+It’ll cost you.
+
+#### a1cebc412d | BRUCE → VICKI | x27
+Company car, expense account, healthy per diem.  How about a job?
+
+#### 008b385744 | VICKI → BRUCE | x27
+And forget all of this?
+
+#### efff1dd1b2 | VICKI → BRUCE, COUNCILWOMAN | x27
+Sounds like you’re looking for a secretary Bruce.
+
+#### df1ea4e96d | HARVEY → REPORTER03 | x9
+Hey...I’m here as a friend of the Wayne family…
+
+#### 269b114b23-LM | REPORTER02 → BRUCE | x9
+James Allen, Random Lengths. You think you could sign something for me, Bruce?
+
+#### e18108c69b | REPORTER04 → BRUCE | x9
+Okay...uh...let me rephrase...if they end up building a banquet hall in this place...would that be place you’d consider getting married in? And if so, to who?
+
+#### e1d02b7eb5 | COUNCILWOMAN → REPORTER04, HARVEY, BRUCE | x27
+Today, the Thomas and Martha Wayne Foundation makes an unprecedented commitment to the future of our community by building a state of the art mental health facility.
+
+#### c38ce415d0 | COUNCILWOMAN → BRUCE, HARVEY | x18
+We dedicate this facility to Martha and Thomas Wayne and I ask for your observance of a moment of silence in their memory.
+
+#### 5d905b2593 | choice/UI → HARVEY, REPORTER02 | x36
+Cheaper than politics.
+
+#### 8fcb87cc90 | choice/UI → REPORTER04, HARVEY | x18
+Your mom says hello.
+
+#### b70415ae68 | choice/UI | x9
+You’re making me nervous.
+
+#### b6106aeacc | choice/UI | x18
+A gentlemen never tells.
+
+#### 4ba3bc0c38 | choice/UI | x18
+Just working for the campaign.
+
+#### d1019030e7 | choice/UI | x9
+My parents.
+
+#### 164fac1ba0 | choice/UI | x9
+The citizens of Gotham.
+
+#### 59ba7df5a0-L? | choice/UI | x27
+You ambushed me.
+
+#### 20e00929bf | choice/UI | x9
+Arkham is a relic.
+
+#### 3656f9c231 | BRUCE → REPORTER02 | x9
+What talking points?
+
+#### c10d93c08a | HARVEY → COUNCILWOMAN, BRUCE | x27
+But don’t waste an opportunity to make me look good.
+
+#### 03c74cc4b4 | choice/UI → VICKI, HARVEY | x36
+That’s a lie.
+
+#### 0724cf2be3 | choice/UI → FALCONE | x27
+My parents knew Mr. Falcone.
+
+#### 05273eed38 | COUNCILWOMAN → HARVEY, BRUCE | x27
+And keep the applause going for his special guest and next mayor of Gotham City, Harvey Dent!
+
+#### 54b94103e6 | REPORTER01 → HARVEY | x9
+Barry Jensen with the Tribune.
+
+#### f0de160a8f | HARVEY → REPORTER01 | x9
+You get in any trouble, call on Barry, he’s a friend.
+
+#### 7027140fea | REPORTER01 → BRUCE | x9
+The Wayne Foundation has deservedly become an exemplar of philanthropy not just in Gotham but the world over.
+
+#### 8c27ab676c | REPORTER01 → BRUCE | x9
+I’m wondering what inspires you to continue giving even after your family has given so much.
+
+#### 02711a0a6a | BRUCE → REPORTER01 | x9
+My father was one of the first doctors to apply sliding scale fees to medical treatments and often treated patients for free.
+
+#### abc87d3486 | BRUCE → REPORTER01 | x9
+My mother worked in soup kitchens...my father spent a lot of time working in free clinics.
+
+#### 4b286b67f7 | BRUCE → REPORTER01 | x9
+My parents...who were charitable not just in their work with the Wayne Foundation, but in their private lives as well.
+
+#### 8a7b22c0b3 | BRUCE | x9
+These memories of my parents are what inspire me everyday to try and live up to the legacy they left behind.
+
+#### 15bda359e6 | BRUCE | x9
+My father would get stopped in the street all the time by strangers that wanted to thank him for medical work he did pro bono.
+
+#### 97a23e6bb7 | BRUCE → HARVEY | x9
+If I’m the favored son of Gotham, then Harvey Dent is the one that does all of the chores.
+
+#### 4f89d52d5b | BRUCE → HARVEY | x9
+Without complaint, without rest...people like Harvey give to this city everyday.
+
+#### f727e4d3cb | BRUCE → HARVEY | x9
+That’s what inspires me. I’m just trying to keep up, with people like him.
+
+#### 6eb91da2b4 | HARVEY → BRUCE | x9
+I don’t think I like where this is going.
+
+#### 794514ad30 | BRUCE → HARVEY | x9
+Or, my father coming home with a paper bag filled oranges he received from a patient he treated pro-bono.
+
+#### 061402cee7 | BRUCE → HARVEY | x9
+The citizens of Gotham are resilient. They are hopeful. They are patient.
+
+#### 5408ab4241 | HARVEY → BRUCE | x9
+Here, here.
+
+#### 99d8ef695f | BRUCE → HARVEY | x9
+And I draw my inspiration from them.
+
+#### eb42e76526 | HARVEY → REPORTER01 | x9
+Uh...why don’t we, loop back to this one? Whaddya say? Just...we can come back to this.
+
+#### a6d3aa497b | REPORTER01 → HARVEY, BRUCE | x18
+And we appreciate it.
+
+#### 739942ea4c | choice/UI → REPORTER01 | x11
+That depends.
+
+#### afaab920a6 | BRUCE → REPORTER01 | x9
+That depends on what it is.
+
+#### c8550ba3cf | BRUCE → REPORTER01 | x9
+What are we talking about?
+
+#### 2a892f283e | REPORTER02 → BRUCE | x9
+Well, technically you’d be co-signing.
+
+#### fd212ac527 | BRUCE → HARVEY | x9
+Then, no.
+
+#### 2ce4eee477 | REPORTER02 → HARVEY | x9
+Worth a shot.
+
+#### 45cbd4467d | REPORTER04 → REPORTER02 | x9
+Dennis Hahn, with Boing magazine.
+
+#### fb9c5e6e63 | choice/UI → REPORTER02 | x9
+Let’s stay on topic.
+
+#### c07c5b051b | choice/UI, BRUCE → REPORTER02, HARVEY | x18
+Still looking.
+
+#### 610af764f5 | choice/UI → HARVEY | x9
+Maybe?
+
+#### 51dcfd524f | HARVEY → BRUCE | x9
+Kind of question is that? Keep it about the hospital guy.
+
+#### 1b0f0c0c73 | HARVEY → BRUCE | x18
+Cut it out Dennis. Lets try to stay focused here.
+
+#### 25207d8472 | BRUCE, SELINA → HARVEY, ASSISTANT, BRUCE | x14
+Maybe.
+
+#### d5e775be30 | HARVEY → BRUCE | x9
+I’m about to call security on you.
+
+#### 090fc52bba | REPORTER04 → HARVEY | x9
+Just doin’ my job.
+
+#### b0c90b9113 | HARVEY → VICKI, REPORTER04 | x27
+You know where that comes from don’t you?
+
+#### 08b9586e00 | BRUCE → HARVEY | x9
+Whoa, Harvey.
+
+#### d7d4a91850 | HARVEY → VICKI, BRUCE | x27
+I didn’t say it. She said it.
+
+#### 4d334671c8 | HARVEY → VICKI | x27
+Deadline.
+
+#### 40eeb90291 | VICKI → HARVEY, BRUCE | x27
+It’s been widely speculated that this new facility is meant to entirely replace Arkham Asylum.
+
+#### 082282cd18 | VICKI → HARVEY | x27
+And I do have a follow up question.
+
+#### d4eda39d19-SF | VICKI → BRUCE | x27
+You don’t have a medical degree. You’re not a psychologist. And, last time I checked you are still a private citizen.
+
+#### 0ec0a5676f-LM | VICKI → HARVEY, BRUCE | x27
+What makes you qualified to decide what is and isn’t adequate mental health care?
+
+#### d95c797c92 | BRUCE, SELINA, ZSASZ → VICKI, BRUCE, BATMAN | x35
+That’s the plan.
+
+#### a980168d58 | BRUCE → HARVEY, VICKI | x27
+Arkham has been poorly maintained, that’s clear, and it’s worth considering whether or not its’ methods are also outdated.
+
+#### a07994d023-LM | VICKI → BRUCE | x27
+But that’s just it...you decided already by building a replacement.
+
+#### e387323992 | BRUCE → VICKI, HARVEY | x27
+The people of Gotham will ultimately decide the fate of Arkham Asylum.
+
+#### 48c0f1eefe | BRUCE → VICKI | x9
+We should set the bar higher.
+
+#### 9708683d91 | BRUCE → VICKI | x9
+We should aim to be more than just ‘adequate.‘
+
+#### e887ef2811 | BRUCE → VICKI | x27
+Ultimately the citizens of Gotham will decide if it’s an alternative they prefer.
+
+#### 1ff01fabab | BRUCE → VICKI, HARVEY | x27
+We’re building an alternative.
+
+#### 6774fc689a | VICKI → BRUCE | x9
+I think it should be pointed out that Arkham has passed every inspection it has ever undergone.
+
+#### f9462e45ac | HARVEY → BRUCE | x27
+What -- the -- hell...
+
+#### 354a8dfca5 | VICKI → HARVEY | x9
+It’s a simple question.
+
+#### 578b0725da | HARVEY → BRUCE, VICKI | x27
+He means at the polls. So don’t forget to register.
+
+#### 3b5289b901-LF | HARVEY → VICKI | x27
+You already asked a question.
+
+#### 7001f45bbf | VICKI → HARVEY | x27
+This is the follow up.
+
+#### 60ec798086 | VICKI → HARVEY | x27
+It’s been reported that Tobias Arkham, who I might add is the third generation of caretakers of Arkham Asylum was found dead from an apparent suicide. Do you care to comment?
+
+#### 9eeeac1e5a | choice/UI → VICKI, REPORTER01 | x36
+No more questions.
+
+#### 14ae00643b | choice/UI → VICKI, HARVEY | x27
+You’re reaching.
+
+#### 4b7727421e | REPORTER03 → VICKI | x9
+Come on...there’s no need for that.
+
+#### 9363fd55d8 | VICKI → BRUCE | x9
+But can’t you see that there is at least some correlation...
+
+#### 193dbca665 | VICKI → HARVEY, BRUCE | x27
+It’s the only thing the Arkham’s have left in this city.
+
+#### a911b505ca-SM | BRUCE → VICKI, HARVEY | x27
+I’m sorry I’m going to have to answer my phone.
+
+#### 249b42a682 | BRUCE → VICKI | x27
+Any other questions?
+
+#### e20d5096f6 | BRUCE → VICKI, HARVEY | x27
+You’re reaching Ms. Vale.
+
+#### 40381d8ca5 | HARVEY → BRUCE | x9
+There’s no one left. Everyone is leaving. Can’t you see that?
+
+#### 8de08f1a06 | VICKI → HARVEY | x27
+All right fine, if you’re not going to talk.
+
+#### 9c9f8c681b | HARVEY → VICKI, BRUCE | x27
+It’s a boundary around a prison, on the other side of which you get shot.
+
+#### afeee451c5 | HARVEY, choice/UI, BRUCE, SELINA → VICKI, QUINZEL, ALFRED | x15
+Don’t look at me like that.
+
+#### 2fcbe669d4-LM | BRUCE, choice/UI → HARVEY | x45
+You need to apologize.
+
+#### 47cd0d64c2 | HARVEY, BRUCE → BRUCE, ALFRED | x29
+Why are you looking at me like that?
+
+#### c27a43cfd0 | HARVEY → VICKI, BRUCE | x27
+I’m just telling her what it means.
+
+#### 302e4ccc9d | VICKI → HARVEY | x81
+For the money you’re spending, you might want to shorten his leash Bruce.
+
+#### a897f5ee3c | HARVEY → BRUCE, VICKI | x27
+What? Why?
+
+#### 1be1c96e4b | HARVEY → VICKI, BRUCE | x27
+You gonna let her get away with that?
+
+#### fcfdc3aca8-SM | HARVEY → BRUCE, VICKI | x81
+See that? She called me a dog. If I called her a dog it’s a news story.
+
+#### ff150017e1 | BRUCE → HARVEY | x27
+Apologize.
+
+#### 0d33555695 | HARVEY → BRUCE | x27
+It’s a misunderstanding. I apologize for that. Sure. No problem.
+
+#### 5dace43fe7-SM | ALFRED → BRUCE | x9
+Sorry to disturb you Master Wayne, but there’s been a shooting at the harbor and it involves police officers, I thought you’d like to know.
+
+#### c236c7bab3-LM | BRUCE → HARVEY | x9
+Thank you Alfred.
+
+#### 99de416966 | choice/UI, BRUCE → HARVEY, VICKI | x54
+He didn’t mean that.
+
+#### 68a6ad5c13 | VICKI, BATMAN, BRUCE → HARVEY, BRUCE, LUCIUS | x36
+You sure?
+
+#### 16e2b5fd49 | HARVEY → BRUCE | x27
+Come on...you’re being...
+
+#### da33840334 | VICKI → BRUCE, HARVEY | x27
+What? Say it.
+
+#### ed6369598e | HARVEY → BRUCE, VICKI | x27
+It’s a boundary around a prison. You cross it. You get shot.
+
+#### 7d931bf390 | HARVEY → BRUCE | x18
+Let me guess... there was a woman involved.
+
+#### 0df52e849d | HARVEY → BRUCE | x9
+You look like a serial killer. Just try to act natural.
+
+#### 642d11af21 | BRUCE → HARVEY | x9
+Piece of cake.
+
+#### 7ba101bf5f | HARVEY → VICKI, BRUCE | x27
+At some point you’re going to ask a question right?
+
+#### 5c952c9f20 | BRUCE → HARVEY | x27
+My father was a doctor.
+
+#### 2c36717766 | VICKI → HARVEY, BRUCE | x27
+Um...I’m having trouble seeing how that’s relevant.
+
+#### 60d9a7b035 | HARVEY → BRUCE | x27
+A father that cared for him...beyond...just...adequately.
+
+#### c49fa8b581 | BRUCE → HARVEY | x27
+But you don’t have to take our word for it. It’ll be decided at the polls.
+
+#### 817b7c22ee | HARVEY → BRUCE, VICKI | x27
+That’s right. Register to vote.
+
+#### 7e259a7926 | VICKI → HARVEY | x27
+It’s been reported that Tobias Arkham, the latest caretaker of Arkham Asylum was found dead from an apparent suicide. Do you care to comment?
+
+#### f6b7b0ba21-LF | HARVEY → VICKI | x27
+You had your turn.
+
+#### 87fb538aea | VICKI → HARVEY | x27
+Is there not, some correlation between your decision to build this new facility and the suicide of Tobias Arkham?
+
+#### 0b082da310 | VICKI → HARVEY | x27
+So what I’m asking is...
+
+#### c8e98c009d-LF | HARVEY → VICKI | x18
+You need to make this stop.
+
+#### 8a58faebac | BRUCE → HARVEY, VICKI | x27
+Good. That’ll be it then.
+
+#### 67a0b50513 | HARVEY → BRUCE | x54
+Oh. That sounds urgent. [to Bruce] We’ve gotta go.
+
+#### 27817e2be4 | BRUCE → HARVEY, VICKI | x135
+Thank you everyone.
+
+#### 687b63ed03 | BRUCE → HARVEY | x27
+Uh-huh. Yeah. That sounds urgent.
+
+#### 1db1bf456b-SM | BRUCE → HARVEY | x27
+I’m very sorry but something came up that requires my attention.
+
+#### 06bebbf20c | BRUCE → HARVEY | x27
+But, thank you everyone for coming.
+
+#### 2298419dfb-LM | HARVEY → BRUCE | x9
+You need to learn when to call it quits.
+
+#### c75eb788f4 | VICKI → HARVEY, BRUCE | x27
+Close to my deadline anyway.
+
+#### ed9ca61e33 | choice/UI → HARVEY, VICKI | x27
+Let’s all take a breath.
+
+#### 70442488b8 | BRUCE → HARVEY | x27
+Why we don’t we all just take a breath?
+
+#### bdc01b572c | HARVEY → VICKI, BRUCE | x27
+Hey man, I’m cool as a cucumber.
+
+#### 6dd3da66a6 | HARVEY → VICKI, COUNCILWOMAN | x27
+Reminds me. You, me, my girl. We’re getting lunch after this. She’s meeting us after.
+
+#### fb7294c860 | HARVEY, BRUCE → VICKI, ALFRED | x11
+I really like her.
+
+#### b1bfdc07ae-SM | HARVEY → BRUCE | x9
+This is the first time I’ve introduced her to a friend, so don’t make me look bad by looking too good.
+
+#### f8a4d08710 | choice/UI → HARVEY | x9
+Can’t wait.
+
+#### e7da47b65d | HARVEY, CATWOMAN, OSWALD, BRUCE → BRUCE, REGINA, JOKER | x22
+Really?
+
+#### 9d9f072cb6-SM | BRUCE → HARVEY | x9
+Can’t wait. I’m excited too.
+
+#### 438d377e45 | BRUCE → HARVEY | x9
+I can hardly contain my emotions.
+
+#### 0908aa5d6d | HARVEY → BRUCE | x9
+Okay, I’m gonna assume you’re not being sarcastic to avoid making a scene. har
+
+#### 0064284aba | HARVEY → BRUCE | x9
+She’s meeting us here.
+
+#### c24c30a09a | choice/UI → HARVEY | x9
+How much do you like her?
+
+#### 1960692194 | HARVEY → BRUCE | x9
+What’re you? Eleven? How do I quantify that?
+
+#### 9b0ae15ada | BRUCE → HARVEY | x9
+Just curious how real this one is.
+
+#### 69183f42c9 | BRUCE → HARVEY | x9
+So, how much do you like her?
+
+#### e577c776f3 | HARVEY → BRUCE | x9
+A lot, okay? It feels pretty real.
+
+#### 1e3d044070-LM | HARVEY → BRUCE | x9
+You’re lucky press are here.
+
+#### 83ee184837-SM | choice/UI → HARVEY | x9
+I’m happy for you.
+
+#### 509cbb27c5-SM | BRUCE → HARVEY | x9
+I’m happy for you, Harvey.
+
+#### 3099874c23 | HARVEY → BRUCE | x9
+Feels like it might be the real deal.
+
+#### aa80d5c5bf-SM | HARVEY → BRUCE | x9
+I’m happy for me, too.
+
+#### e2291506fa-LM | HARVEY → BRUCE | x18
+Is that how you got the cut on your face?
+
+#### e777cea75a | BRUCE → HARVEY | x27
+Hmm?
+
+#### d33af02b58 | HARVEY → BRUCE | x27
+The cut. On your chin. What’s up with it?
+
+#### 082b43355b | HARVEY → BRUCE | x27
+It’s pretty grisly, man.
+
+#### f278e92c6c | HARVEY → BRUCE | x27
+We should’ve had a makeup person here.
+
+#### 41b4746ab8 | choice/UI → HARVEY | x27
+Cut shaving...
+
+#### 27869e0f80 | HARVEY → BRUCE | x27
+Now I know you’re bullshitting. No way anyone other than Alfred shaves you.
+
+#### c753a66d3c-SM | BRUCE → HARVEY | x27
+Just cut myself shaving. Not a big deal.
+
+#### f9c10b5700 | HARVEY → BRUCE | x27
+She get a little aggressive last night?
+
+#### 07a48e67fe | HARVEY → BRUCE | x108
+Hey, what you do in your kinky, seemingly aggressive nightlife is your business.
+
+#### 1b9be395c9-SM | BRUCE → HARVEY | x27
+I thought I had.
+
+#### c8eca6fcf8 | choice/UI → HARVEY | x27
+Cat scratch.
+
+#### 2845c1a9bc | BRUCE → HARVEY | x27
+Actually, a cat scratched me.
+
+#### b46faa4aee | HARVEY → BRUCE | x27
+A cat.
+
+#### 4359395d6f-SM | BRUCE → HARVEY | x27
+That’s what I said.
+
+#### d8aeea644b | HARVEY → BRUCE | x27
+A cat? Who’s cat? A stray?
+
+#### c8d2b8d1e9 | choice/UI → HARVEY | x18
+Didn’t notice it.
+
+#### eee33a2580 | BRUCE → HARVEY | x27
+I guess she got a little carried away.
+
+#### b9869ce795 | HARVEY → BRUCE | x27
+It’s your bedroom.
+
+#### 9d3f82f695 | BRUCE → HARVEY | x27
+We were on a roof.
+
+#### 967b484367 | HARVEY → BRUCE | x27
+And why wouldn’t you be?
+
+#### 1419d19676 | HARVEY → BRUCE | x9
+Better make that three coffees.
+
+#### 257ce4e1a9 | HARVEY | x9
+Bruce? Hey... what’re you doing here?
+
+#### fab035a2e1 | HARVEY | x9
+Suzy sent you, right?
+
+#### 3e821d3d56-L? | HARVEY | x9
+You stopped by the office, I wasn’t there and she sent you to track me down like a bloodhound.
+
+#### 1ce9ee9622 | HARVEY → BRUCE | x9
+Sure. Okay, so it was Suzy.
+
+#### d154e56584 | HARVEY → BRUCE | x9
+She won’t let me have a bowel movement without it being scheduled.
+
+#### f01d91d6f0 | HARVEY → BRUCE | x9
+Look, I’m just having a bite with my girl before the rest of my night is consumed with kissing hands and shaking babies.
+
+#### 2e899df901 | BRUCE → HARVEY | x9
+You mean the other way around.
+
+#### da606fc697-SM | HARVEY → SELINA, CATWOMAN | x9
+No. I’ve decided it’s not gonna be politics as usual with me.
+
+#### 52dc665298 | SELINA, CATWOMAN → HARVEY, VICKI | x27
+You boys ready to go?
+
+#### b4f10436d1 | HARVEY → BRUCE | x27
+Yeah, Hon. Come over and say hey to, Bruce.
+
+#### 72a174a96f | SELINA, CATWOMAN → HARVEY | x27
+Right. The rich guy.
+
+#### 2f2b98a292 | HARVEY → SELINA, CATWOMAN | x27
+Try not to hold it against him.
+
+#### 151e3cf0db | SELINA, CATWOMAN → HARVEY | x27
+I hold it against you.
+
+#### e40a53c241 | HARVEY → SELINA, CATWOMAN | x27
+That’s what I mean.
+
+#### 08b6d3de20 | HARVEY → SELINA, CATWOMAN | x27
+Okay. Alright. Keep your paws off of her.
+
+#### ba13beb8f2 | BRUCE → SELINA, HARVEY, CATWOMAN | x27
+It’s a pleasure to meet you.
+
+#### 048e15a756 | HARVEY → SELINA, BRUCE, CATWOMAN | x27
+Hey, come on. Don’t give her sexy voice while I’m sitting here.
+
+#### 4a633427c7 | SELINA, CATWOMAN → BRUCE, HARVEY | x27
+I don’t think he has any other voice.
+
+#### 689e2b3c9b | HARVEY → BRUCE, SELINA, CATWOMAN | x27
+No. She wouldn’t. Back off Wayne.
+
+#### 26469e7a73 | BRUCE → HARVEY | x27
+Harvey speaks very highly of you.
+
+#### 75a57fe9d3 | HARVEY → BRUCE | x27
+I do. See? I didn’t even tell him to say that.
+
+#### 307202db10 | SELINA, CATWOMAN → HARVEY | x27
+Well, he speaks highly of you too.
+
+#### b9b5e3b77a | HARVEY → BRUCE | x27
+I didn’t tell her to say that either. This is starting out great.
+
+#### 3400d88f00 | BRUCE → SELINA, HARVEY, CATWOMAN | x27
+You... look familar. Have we met?
+
+#### fd139824df-SF | SELINA, CATWOMAN → BRUCE | x27
+No... I think I would remember meeting [theee] the Bruce Wayne.
+
+#### 3ada13014e-SM | BRUCE → HARVEY | x9
+I was just in the neighborhood.
+
+#### 7ee661e3ca | HARVEY, choice/UI → BRUCE, SELINA, CATWOMAN | x18
+Just in the neighborhood.
+
+#### 236ab7bfcf | BRUCE → HARVEY | x9
+Is there an echo?
+
+#### a72430967b | HARVEY → BRUCE | x9
+This neighborhood.
+
+#### ff70220fe4-SM | BRUCE → HARVEY | x9
+Hey, I’m just keeping tabs on my investment. If I’m gonna be in the Harvey Dent business I’ve got to make sure you’re not getting into trouble.
+
+#### cd46b4c392 | BRUCE → HARVEY | x9
+The real question is, what are you doing here? Middle of the afternoon, on a work day no less. Not a good look for the district attorney.
+
+#### b047ca43a5 | choice/UI → HARVEY, SELINA, CATWOMAN | x27
+You look familiar.
+
+#### b3442745d7 | choice/UI → SELINA, CATWOMAN | x27
+Harvey speaks highly of you.
+
+#### 3da654140f | choice/UI → REPORTER01, SELINA, CATWOMAN | x27
+It’s a pleasure.
+
+#### bc60060a65 | choice/UI → SELINA, CATWOMAN | x9
+Keeping tabs on my investment.
+
+#### f7dce463ba | HARVEY → SELINA, CATWOMAN | x27
+Guess we should get out of here befo-- whoa, whoa. What happened?
+
+#### 0010938e4a-SF | SELINA, CATWOMAN → HARVEY | x27
+Don’t worry about it. Kid tried to snatch my purse. Caught an elbow as I was fighting him off.
+
+#### fbddf3705e-SF | SELINA, CATWOMAN → HARVEY | x27
+I can take care of myself, Harvey. Come on. I’m starving.
+
+#### 782d529b6f | HARVEY → SELINA, COUNCILWOMAN, CATWOMAN | x27
+We gotta get you out of that neighborhood.
+
+#### 08156c4bd7 | choice/UI → HARVEY | x9
+Disagreement choice
+
+#### 79d9408780 | choice/UI → COUNCILWOMAN | x9
+Agreement choice
+
+#### bb70a1db80 | choice/UI → COUNCILWOMAN | x9
+Pragmatic choice
+
+#### 8fefa99502 | COUNCILWOMAN → SELINA, CATWOMAN | x18
+On the anniversary of their tragic deaths...
+
+#### 11952f0450-SF | COUNCILWOMAN → SELINA, CATWOMAN | x9
+Thank you. Now… I’m sure you all have noticed there are three shovels up here today. And that’s because we have two special guests.
+
+#### 6c40e548fc | COUNCILWOMAN | x9
+One of those options, Arkham Asylum, remains the dangerous relic of an outdated system of mental healthcare. Due to Mayor Hill’s negligence, the facility has jeopardized the well-being for Gotham’s most at-risk citizens.
+
+#### 36163c1873 | COUNCILWOMAN → HARVEY, BRUCE | x27
+This comprehensive place of healing will include: four dedicated treatment wings including one for children, housing facilities, residential care, recreation areas such as weight rooms, rock climbing and a wellness trail.
+
+#### 580cd8b511 | COUNCILWOMAN → HARVEY, VICKI, BRUCE | x45
+Due to Mayor Hill’s negligence, Arkham Asylum has become a dangerous relic of an outdated mental healthcare system, jeopardizing the well-being of Gotham’s most at-risk citizens.
+
+#### 035eb06135 | HARVEY → BRUCE | x27
+Bruce, this is Selina Kyle. She’s gonna make an honest man out of me yet.
+
+#### 055dedec89-SF | VICKI → BRUCE, HARVEY | x27
+I’m sure you’re not avoiding the tough questions, so I’ll be quick.
+
+#### 038937fa31 | HARVEY → VICKI, BRUCE | x27
+And you are...?
+
+#### 9c4d28dac3 | BRUCE, ALFRED, VICKI → VICKI, BATMAN, OSWALD | x15
+Hmm...
+
+#### 5b0d5ea76d | BRUCE → VICKI, HARVEY | x27
+Shut up.
+
+#### 838d0d0ec8-L? | choice/UI | x18
+Where did you hear that?
+
+#### 2fcbe669d4-LF | choice/UI → VICKI | x9
+You need to apologize.
+
+#### 2298419dfb-LF | HARVEY → VICKI | x18
+You need to learn when to call it quits.
+
+#### 08a9efef9d-LM | BRUCE → HARVEY | x9
+Haven’t you heard the expression...you catch more flies with honey than...
+
+#### c8e98c009d-LM | HARVEY → BRUCE | x18
+You need to make this stop.
+
+#### c48ef63a17-LF | COUNCILWOMAN → VICKI | x9
+And you should ask Mayor Hill why he hasn’t already condemned Arkham Asylum, which we all know is ineffective. But I bet you won’t get an answer.
+
+#### 1e6926a095-LM | COUNCILWOMAN → BRUCE | x9
+But I bet you won’t get an answer.
+
+#### 69b600fce8 | COUNCILWOMAN → HARVEY | x9
+And we don’t need one, because today, the Thomas and Martha Wayne Foundation makes an unprecedented commitment to the future of our community by building a state of the art mental health facility.
+
+#### 1632cdfc9a | COUNCILWOMAN → HARVEY | x9
+In collaboration with our dedicated partners, our team has worked tirelessly to deliver a state of the art mental health facility that serves the citizens of Gotham.
+
+#### f7590d78c8-SM | HARVEY → COUNCILWOMAN | x9
+Hey, I know you want to ask. But I waited to see you in person.
+
+#### efa773508d-SM | HARVEY → COUNCILWOMAN | x9
+I had nothing to do with the Mayor’s Office.
+
+#### 24480a2021 | HARVEY → COUNCILWOMAN | x9
+Not me. Not any of my staff.
+
+#### fe4320d1de | HARVEY → BRUCE | x9
+No one I know.
+
+#### 7d7699314f | choice/UI → HARVEY | x9
+You better not have.
+
+#### 89e1f211b3-SM | HARVEY → BRUCE | x9
+Am I sure? Yeah I’m sure.
+Harvey: [offended]Am I sure? Yeah I’m sure.
+
+#### 7fc0d76b9e-SM | HARVEY → BRUCE | x9
+Am I sure? Yeah I’m sure.
+
+#### 4bb220d894 | HARVEY → BRUCE | x9
+The hell kind of question is that?
+
+#### 7c3180da80 | HARVEY → BRUCE | x9
+Just wanted it to be clear.
+
+#### af927c054a | BRUCE → HARVEY | x9
+If that comes back to you in any way, you can look for someone else to back your campaign.
+
+#### ec869d5b2d-LM | HARVEY → BRUCE | x9
+I hate to admit it, but we’re lucky to have you Wayne.
+
+#### 9656ed224f | HARVEY → BRUCE | x9
+The truth is, the people that end up at Arkham never really had a chance to begin with.
+
+#### a672c97b47 | HARVEY → BRUCE | x9
+Maybe with this new place...maybe those people have a shot at getting better.
+
+#### 67ba9940bd | HARVEY → BRUCE | x9
+Sounds real expensive though.
+
+#### 717389dae5 | HARVEY → COUNCILWOMAN | x9
+All right, I’ll drop it. No more money talk.
+
+#### 56acc123cb | COUNCILWOMAN → HARVEY, REPORTER01 | x18
+One whose primary goal will be to promote the socialization of those who suffer from wounds unseen.
+
+#### e70733f4f1 | COUNCILWOMAN → HARVEY | x9
+This comprehensive place of healing includes, and this is just a partial list: four dedicated treatment wings including one for children, housing facilities, residential care, recreation areas such as weight rooms, rock climbing and a wellness trail.
+
+#### e8ab52707a | COUNCILWOMAN → HARVEY | x9
+It will hold more than double the capacity of our citie’s current options.
+
+#### e848e9c451 | COUNCILWOMAN → HARVEY, VICKI | x18
+Most importantly it will provide our community with the humane and effective mental health care Gotham deserves.
+
+#### 08074b73c2 | HARVEY → COUNCILWOMAN | x9
+You look like piss.
+
+#### 1a883323cf | VICKI → COUNCILWOMAN | x9
+I have it on good authority that while they were alive, your Parents had a longstanding relationship with known gangster Carmine Falcone.
+
+#### cda9080da4 | choice/UI → FALCONE | x9
+My Parents knew Mr. Falcone.
+
+#### 529e02c494 | BRUCE → VICKI | x9
+That’s an outright lie.
+
+#### e36b7d20eb | VICKI → BRUCE | x9
+So, as far as you know, Carmine Falcone never had any interaction with your parents.
+
+#### 6d70fa2f29 | BRUCE → VICKI | x9
+My Parents knew Mr. Falcone in a very informal way.
+
+#### c32f22be56 | VICKI → BRUCE | x9
+And by that you mean?
+
+#### 9545862f67 | BRUCE → VICKI | x9
+My Parents knew of him. Maybe incidentally spoke to him a couple of times.
+
+#### bf508b5d03-LF | BRUCE → VICKI | x9
+Where did you hear this?
+
+#### 723fe9d932 | VICKI → BRUCE | x9
+Could you please just answer the question?
+
+#### 8653b613b5-SM | BRUCE → VICKI | x9
+They might have. I’m not sure.
+
+#### e298ec2509 | VICKI → HARVEY | x9
+Maybe my follow up will help.
+
+#### 16c2d122ca | HARVEY → VICKI | x36
+Who do you work for again?
+
+#### d07de7f1cf | VICKI → HARVEY | x9
+The Gazette.
+
+#### a0288b68be | HARVEY → VICKI | x9
+Never heard of it.
+
+#### 65c4860b92 | VICKI → HARVEY | x9
+The next question concerns you as well, so if I may...
+
+#### 740ba6b2f0 | HARVEY → VICKI | x9
+Barry...how did she get a credential?
+
+#### 97bdd17fd7 | VICKI → BRUCE | x9
+Mr. Wayne, what was Carmine Falcone doing at the campaign fundraiser you held for Mr. Dent last night?
+
+#### 8ed89977cc | VICKI → HARVEY | x9
+Which, by the way took place in your own home.
+
+#### cc4f0371c3 | choice/UI, BRUCE → VICKI | x18
+He came to tell me he’s going clean.
+
+#### 623da17ca1 | HARVEY, OSWALD → VICKI, BRUCE | x12
+What do you think you’re doing?
+
+#### 28e52e6613-LF | choice/UI → VICKI | x9
+You were there too.
+
+#### c62bd686dd | choice/UI, BRUCE → VICKI | x18
+He was accidentally invited.
+
+#### 25dc484950-LF | BRUCE → VICKI | x9
+You were there last night Ms. Vale.
+
+#### 9aa47a5864 | BRUCE → HARVEY | x9
+So why don’t you tell me?
+
+#### 99f52083d8 | VICKI → BRUCE | x9
+I have no idea why he was there, but I know what it implies.
+
+#### d8aea5c0a1 | HARVEY → BRUCE | x9
+Hey...Hey!
+
+#### d93799aa16 | VICKI → BRUCE | x9
+Those were fair questions that deserve answers.
+
+#### 3bdad00578 | COUNCILWOMAN → REPORTER02 | x9
+Okay, uh...that’s it. Thank you for coming.
+
+#### 5d1c3e9711 | DENNIS → REPORTER02 | x9
+I hear you’re doing a lot more than looking.
+
+#### 264990bc67 | REPORTER02 → VICKI | x9
+James Allen, Random Lengths.
+
+#### 9859815b05 | REPORTER02 → BRUCE | x9
+According to a source of mine, when pressed, you place the blame for the city’s woes mostly on Commissioner Pauling.
+
+#### 008140c914 | choice/UI → REPORTER02 | x9
+Corruption must be eradicated.
+
+#### 10ab3d6b99 | choice/UI → REPORTER02 | x9
+That’s up to Harvey.
+
+#### 3a6b8b94ce | choice/UI → REPORTER02 | x9
+Reward honest police.
+
+#### d2cacea543 | REPORTER02 → BRUCE | x9
+If what you allege is true, do you have any preference on how to deal with the Commissioner?
+
+#### 54091a6452 | BRUCE → REPORTER02 | x9
+Corruption must be eradicated before Gotham can make good on any promises it makes.
+
+#### 2b42fb4329 | BRUCE → REPORTER02 | x18
+Commissioner Pauling has been either unable or unwilling to tackle this problem head on.
+
+#### 4d221d92fd | BRUCE → REPORTER02 | x9
+If any judgement based on those facts is unflattering for him, then so be it.
+
+#### 97989c46db | BRUCE | x9
+I have full confidence that as Mayor Harvey Dent will not sleep until all corruption in this city is reformed.
+
+#### fc45219331-SM | BRUCE | x9
+I’m sure Harvey will take appropriate measures to solve that problem.
+
+#### fa7c5ae520 | BRUCE → HARVEY | x9
+It’s easy to forget that the vast majority of our police force are good people.
+
+#### 95df540c79 | BRUCE → HARVEY | x9
+However, in my eyes and those of any other, Commissioner Pauling is not one of them.
+
+#### df2781acb1 | BRUCE → HARVEY | x9
+With that being said, lets not forget to reward the honest men and women that serve our city day in and day out.
+
+#### 8a4e09d882 | HARVEY → BRUCE | x9
+G-O-R-D-O-N. Write that name down.
+
+#### e09eb58a83 | HARVEY → BRUCE | x9
+Come on. Bruce is too smart for that. Let’s move on. Next question.
+
+#### f4a0c1abca | REPORTER02 → BRUCE | x9
+According to a source, when pressed you place the blame for the city’s woes directly on Mayor Hill.
+
+#### 8bba154181 | REPORTER02 → BRUCE | x9
+Care to tell us why a Dent administration would be any better?
+
+#### 41d659d371 | choice/UI → HARVEY | x9
+Harvey loves Gotham.
+
+#### 42b322589f | choice/UI → REPORTER02 | x9
+Harvey is incorruptible.
+
+#### 92f65cbdf9 | choice/UI, BRUCE → REPORTER02, HARVEY | x18
+Did Harvey put you up to this?
+
+#### 44566b7afd | BRUCE → REPORTER02 | x9
+Harvey grew up here. He knows what Gotham has been, and what it can become.
+
+#### e0529e3d9b | BRUCE → REPORTER02 | x9
+He loves this city...and by that I mean he sacrifices day in and day out on behalf of its’ citizens.
+
+#### bcc2156bb5 | BRUCE → REPORTER02 | x9
+Mayor Hill only loves Mayor Hill...which, to his credit, is becoming increasingly hard to do.
+
+#### 496d077228 | BRUCE → HARVEY | x9
+Harvey is immune to corruption.
+
+#### c2623be3d7 | HARVEY → BRUCE | x9
+Nice one.
+
+#### acfaf9af8e | BRUCE → HARVEY | x9
+I’ve seen Harvey go to battle with the city’s highest paid defense attornies and, more importantly, I’ve seen him win.
+
+#### 11cba334d2 | HARVEY → BRUCE | x9
+Hey, don’t joke like that. He might not know you’re joking.
+
+#### afa7fcb0e6 | BRUCE → HARVEY | x9
+It’s a softball.
+
+#### a647e23749 | HARVEY → BRUCE | x9
+Okay, so then...
+
+#### 1bad24521c | BRUCE → HARVEY | x9
+On his worst day, Harvey would be ten times the Mayor that Hill is on his best.
+
+#### 76c6e08d6f | HARVEY → BRUCE | x9
+It’s not always about me guys. Come on.
+
+#### fc2a98d4e7 | REPORTER02 → BRUCE | x9
+According to a source, when pressed, you place the blame for the city’s woes squarely on the Batman.
+
+#### adff379567 | REPORTER02 → BRUCE | x9
+Chances are he’ll see this...would you like to send him a message?
+
+#### 0f2343b48f | choice/UI, BRUCE → REPORTER02 | x18
+This new facility can help you.
+
+#### 2afdee3654 | choice/UI, BRUCE → REPORTER02 | x18
+Vote for Harvey Dent.
+
+#### 2ed4725674 | BRUCE → REPORTER02 | x9
+Vote for Harvey Dent.
+Bruce: Vote for Harvey Dent.
+
+#### ba5df7b86c-LM | BRUCE → HARVEY | x9
+Turn yourself in and let us help you.
+
+#### 4d3f922885 | choice/UI, BRUCE → VICKI | x18
+What do you have to hide?
+
+#### c9cc5941f4 | HARVEY → BRUCE | x9
+Why on earth would he do that?
+
+#### 98f8e365bd | VICKI → HARVEY | x9
+So...was it just a coincidence that he appeared at the campaign fundraiser you held for Mr. Dent last night?
+
+#### 6b51e70971 | VICKI → BRUCE | x9
+Mr. Wayne, in your opinion, do the citizens of Gotham deserve to know the exact nature of your Family’s relationship with the head of one of Gotham’s most notorious crime syndicates?
+
+#### 028aacb28c | HARVEY → VICKI | x36
+How is any of this relevant to uh...the hospital?
+
+#### a8fe778880 | VICKI → HARVEY | x9
+Mr. Dent seems to be having trouble with the math, so I’ll be more blunt.
+
+#### 194ce6b34a | VICKI → HARVEY | x9
+What was it a typo? Wrong number?
+
+#### 1c3c7827ec | VICKI → HARVEY | x9
+And you, bought that? Just, took him at his word.
+
+#### e04203e0e8 | BRUCE → VICKI | x9
+Look...there were a lot of things going on, it was a busy night.
+
+#### 9659e4afb2-LM | VICKI → BRUCE | x9
+Even if you were to take him at his word...Why would he feel the need to come tell you in person?
+
+#### 214a2496ae | VICKI → BRUCE | x9
+Just like that...after decades of leading a...
+
+#### e597224e97 | VICKI → BRUCE | x9
+Evading them never really looks good.
+
+#### 11683ecee6 | BRUCE → VICKI | x9
+‘Looks like it could be lipstick’
+
+#### da5efca0df-SF | VICKI → BRUCE | x9
+I won’t use it. As long as you don’t make me.
+
+#### ed28cae33c | BRUCE → VICKI | x9
+We can use all the help we can get.
+
+#### d594883b53-LF | HARVEY → COUNCILWOMAN | x9
+And, we’ve polled this Bruce...the people of Gotham believe, regardless of mental capacity, when you’re convicted of a crime, you deserve a punishment. A real one.
+
+#### 2cb6378b1f | HARVEY → BRUCE | x9
+Let me guess...one of your European supermodels...maybe two.
+
+#### 1c95053576 | HARVEY → BRUCE | x9
+So should I assume that’s where the cut on your face came from?
+
+#### ee68e2f9e6-L? | choice/UI | x9
+You’re just jealous.
+
+#### 4c44205639 | choice/UI | x9
+She got a little carried away...
+
+#### 873e8eb759 | REPORTER01 → HARVEY | x9
+Wherever there’s a real story.
+
+#### 4fa351f92d | HARVEY → REPORTER01 | x9
+You flatter me.
+
+#### 4abe1a7f7b | BRUCE, HARVEY → VICKI | x36
+Go ahead, Ms. Vale.
+
+#### 57f51e594a | VICKI → REPORTER01, BRUCE, REPORTER02 | x27
+Thank you again.
+
+#### 4c999ca91d | REPORTER01 → HARVEY | x18
+Mr Wayne, how do you answer the allegations that your father and grandfather had ties to organized crime?
+
+#### dada3c1be8 | REPORTER01 → BRUCE | x27
+Barry Sampson, Gotham Globe.
+
+#### 9b30e29ab5 | choice/UI → REPORTER01 | x9
+I beg your pardon?
+
+#### 1b4b648c5d | REPORTER01 → HARVEY | x9
+We’re not here for you, Harvey.
+
+#### 97fe29b690 | REPORTER01 | x9
+Mr Wayne, Barry Sampson of the Globe.
+
+#### aa46a0bda8 | REPORTER01, REPORTER04, REPORTER02, REPORTER03 → BRUCE, REPORTER04, HARVEY | x63
+It’s been alleged that both your father and grandfather had ties to organized crime, specifically the Italian mob known as The Roman Empire.
+
+#### 8966ae186a | REPORTER01, REPORTER04, REPORTER02, REPORTER03 → HARVEY, REPORTER02 | x45
+Care to comment on those allegations?
+
+#### 2afaa32da2 | REPORTER01, REPORTER04, REPORTER02, REPORTER03 → HARVEY, BRUCE | x36
+Mr Wayne?
+
+#### a3c26c8af7 | REPORTER01 → HARVEY | x9
+There’s nothing funny about this.
+
+#### 6a2414389a | HARVEY → BRUCE, REPORTER01, REPORTER03 | x36
+Your new material’s pretty good. You should try it out at open mic.
+
+#### 28433da720 | REPORTER01 → HARVEY | x9
+Nothing funny about this, Harvey.
+
+#### 8df65cce2d | choice/UI → HARVEY, REPORTER01, REPORTER04 | x36
+You have to be joking.
+
+#### f7ea0e9420-SM | choice/UI → REPORTER01, REPORTER04, REPORTER03 | x36
+First I’ve heard of it.
+
+#### a3c6a5eb2d | choice/UI → HARVEY, REPORTER04 | x36
+That’s a serious charge.
+
+#### 7599e079fb | HARVEY → BRUCE | x9
+That’s right, Bruce. Don’t dignify it with a response.
+
+#### 9d3e56b974 | BRUCE → HARVEY, REPORTER04 | x36
+My father was whiter than white. His father too. Everyone knows what they did for this city.
+
+#### 7dbe6df249-SM | REPORTER01, REPORTER02 → BRUCE | x18
+I wish I were.
+
+#### 920467178b | BRUCE → REPORTER01, REPORTER04, HARVEY | x36
+You’re joking, right?
+
+#### b9355c7f92 | BRUCE → VICKI | x9
+Whoever’s spreading this needs a better lie. These allegations are laughable.
+
+#### 9dd33b5491 | BRUCE → VICKI, REPORTER01, REPORTER04 | x45
+The notion that they did anything criminal... it’s laughable.
+
+#### 4a3171d59a | VICKI → BRUCE | x9
+The proposed mental health facility is a great gift to the city of Gotham.
+
+#### e23979369a | VICKI → BRUCE | x9
+Unlike my colleague, I’ll keep my questions on topic. The proposed mental health facility is a great gift to Gotham. We should all be grateful for your contributions, and those of your family.
+
+#### 8ac3e71b2a | BRUCE → VICKI | x9
+No arguments here.
+
+#### 24398c9f14 | BRUCE → VICKI, REPORTER01 | x18
+Hello Barry. Thanks for coming out.
+
+#### ff447ea862 | REPORTER01 → BRUCE, REPORTER04 | x18
+Earlier this morning, the Globe came into possession of evidence suggesting personal and financial ties to Gotham’s criminal underground.
+
+#### 3306bcd350 | choice/UI → HARVEY, REPORTER02 | x18
+My parents were good people.
+
+#### 508125545c | choice/UI, BRUCE → HARVEY, VICKI, REPORTER02 | x45
+This press conference is over.
+
+#### 9df3802825 | HARVEY → BRUCE, REPORTER04, REPORTER02 | x36
+‘Came into possession of evidence?‘ Did it drop out of the sky?
+
+#### 4ca4b0c627 | BRUCE → REPORTER01, REPORTER04, REPORTER02 | x36
+I’m here to talk about a new mental health facility, not address allegations I know nothing about.
+
+#### b6901df091 | REPORTER01, REPORTER04, REPORTER02, REPORTER03 → BRUCE, HARVEY | x36
+So you refuse to comment?
+
+#### b9b38fc1ac | HARVEY → BRUCE, REPORTER04, REPORTER02 | x36
+So he’ll comment about the hospital. What’s the matter with you?
+
+#### e78e0d49b4 | BRUCE → REPORTER01 | x9
+Sounds like someone’s trying to smear my name too.
+
+#### ebdfa620db-SM-LM | BRUCE → REPORTER01, HARVEY, REPORTER02 | x27
+This is obviously a political attack. If I were you I’d question your source.
+
+#### 90cf7f38b4 | BRUCE → REPORTER01, REPORTER04 | x18
+My parents,{ThinkingB} both of them, {ConcernedA}were shining examples of honesty and compassion.
+
+#### 1d02876262 | REPORTER01 → BRUCE, HARVEY, REPORTER03 | x36
+It checks out, or I wouldn’t be here.
+
+#### dbf93b9ed5 | BRUCE → REPORTER01, REPORTER04, REPORTER02 | x36
+My father in bed with the mafia? You know who you’re talking about, don’t you?
+
+#### f6f6a28749 | REPORTER01, REPORTER04, REPORTER02, REPORTER03 → BRUCE | x36
+Regretfully it won’t be the last.
+
+#### cf7698b815 | BRUCE → REPORTER01, REPORTER04, REPORTER02 | x36
+This is the first I’m hearing anything about this.
+
+#### a293dc8d35 | BRUCE → REPORTER01, REPORTER04, REPORTER02 | x36
+That’s a pretty serious accusation.
+
+#### d9dc3a3c8b | BRUCE → REPORTER01, REPORTER04, HARVEY | x36
+You better have something to back it up.
+
+#### 7077a5d938-SM | REPORTER01, REPORTER02 → BRUCE | x45
+I thought I did until today.
+
+#### 3a28c15eab | BRUCE → REPORTER01 | x9
+My family in bed with the mafia? You know who my father was, don’t you?
+
+#### 648bd5922b | BRUCE → REPORTER01 | x9
+My family in bed with the mafia? You know the men you’re talking about, right?
+
+#### 17a04282e2 | HARVEY → BRUCE | x9
+What’re you doing, Barry?
+
+#### bd2b089d90 | BRUCE → REPORTER01, COUNCILWOMAN | x18
+Just doing my bit.
+
+#### 62cd83fad8 | HARVEY → REPORTER01, REPORTER04, BRUCE | x36
+You and I are going to have words. We’re not here to speculate about unsubstantiated newsroom gossip.
+
+#### 9826b8d334 | REPORTER01, REPORTER04, REPORTER03 → BRUCE, HARVEY | x36
+I’ll take that as a refusal to comment.
+
+#### 85b2e9e3d9 | REPORTER01, REPORTER04 → HARVEY, BRUCE | x18
+Trust me, we’re not laughing down at the Globe.
+
+#### 499d8571f0 | HARVEY → REPORTER01, REPORTER04, REPORTER02 | x36
+Please...  keep the questions on point, people.
+
+#### 9e462656fc | HARVEY → REPORTER01, REPORTER04 | x18
+This is a good thing happening here today. Let’s not soil it with media... sewage.
+
+#### 4ae4e083d2-SF-LM | VICKI → HARVEY, BRUCE | x18
+I’m curious, why did you get behind this project specifically?
+
+#### c0c335e2e1 | BRUCE → HARVEY | x9
+Yeah. You there.
+
+#### 994ffbbf2d | REPORTER02 → REPORTER03, REPORTER01 | x18
+The Tribune also received documents, showing your father met with Carmen Falcone...  no less than seven times in the year leading up to his death.
+
+#### fc96236ea0 | REPORTER02 → BRUCE | x9
+Marty Baron.
+
+#### 6705721d7c | REPORTER03 → BRUCE | x27
+If these allegations are true, what are the implications for the Wayne fortune?
+
+#### 531daf44f1 | REPORTER03 → REPORTER02, BRUCE | x18
+Well, for a start, wouldn’t it mean that everything with your family’s name on it, from the subway system to this medical facility, was built with dirty money?
+
+#### 4a274d9704 | HARVEY → BRUCE | x18
+God Barry, what’s the matter with you?
+
+#### ad9618813d | HARVEY → BRUCE | x9
+Jesus, not you too.
+
+#### c740b76f7b | choice/UI → HARVEY, VICKI | x18
+My best pal is a lunatic.
+
+#### 237e6d568a | choice/UI → HARVEY | x18
+Arkham Asylum has failed.
+
+#### 59928357e3 | choice/UI → HARVEY, COUNCILWOMAN | x18
+Our citizens need care.
+
+#### 1e927038f1 | BRUCE → HARVEY, VICKI | x18
+My best friend is a total lunatic.
+
+#### 0889f730b8 | BRUCE → HARVEY, VICKI | x18
+And he’s running for mayor, so it’s in everybody’s best interest.
+
+#### 3c37a30091-SM | BRUCE → HARVEY, REPORTER03 | x18
+I’m not sure I follow.
+
+#### c5a4f18614 | HARVEY → BRUCE | x9
+All right, that’s enough. We’re wrapping this up.
+
+#### 639a24e4ea-SM | HARVEY → BRUCE | x9
+Wait, I thought I was your best friend.
+
+#### ba9d26877b | BRUCE → HARVEY, VICKI | x18
+Joking aside...
+
+#### 8ac87c6410 | REPORTER02 → HARVEY, REPORTER01 | x18
+Do you remember Falcone or any of his associates being at Wayne Manor?
+
+#### 10fa302e6c | BRUCE, HARVEY → REPORTER01, VICKI | x18
+What’s your question?
+
+#### e6e38de111-LF | REPORTER01 → VICKI | x9
+Last night you hosted a fundraiser at your home for Harvey Dent’s campaign. Is it true Carmine Falcone was among your guests?
+
+#### 8fdac52738 | REPORTER03 → REPORTER01 | x9
+And what about Harvey Dent’s campaign?
+
+#### c3d7504444 | choice/UI → VICKI | x18
+They’re just allegations.
+
+#### 2124c446ae | VICKI → REPORTER01, BRUCE | x18
+There are so many worthy ways to spend your money.
+
+#### 28fb389705 | VICKI → REPORTER01, BRUCE | x18
+Why this hospital?
+
+#### 4df531c73a | choice/UI → VICKI | x18
+The subway will still run.
+
+#### 4165443bee | choice/UI, BRUCE → REPORTER01, VICKI, HARVEY | x78
+We’re done here.
+
+#### 35c0da1ef4 | choice/UI → VICKI | x9
+My guest list is private.
+
+#### 01cbed26a4 | choice/UI → VICKI | x9
+This is a free country, isn’t it?
+
+#### 81c7e52f78 | choice/UI → REPORTER02, HARVEY, REPORTER01 | x27
+I didn’t invite him.
+
+#### 2ccb3cf984 | REPORTER02 → VICKI | x9
+Uh...  no less than seven times in the year leading up to his death.
+
+#### 6d3417f6a0 | BRUCE → VICKI | x9
+These are nothing
+
+#### b1595ce7a8 | REPORTER01 → BRUCE | x9
+Because half of Gotham’s underworld is on it?
+
+#### ddfc177919 | BRUCE → REPORTER01 | x9
+Because I’m a private citizen. Who I entertain is my business and not that of the Globe.
+
+#### 21e90314aa | BRUCE → REPORTER01 | x9
+I’m not about to share my guest list with you.
+
+#### 96f75f5f21 | REPORTER01 → BRUCE | x9
+I’ll take that as a yes.
+
+#### 40730908f4 | REPORTER01 → BRUCE | x9
+Otherwise known as ‘The Roman’?
+
+#### fe62ee5dad | REPORTER01 → BRUCE | x9
+Head of the crime family known as The Roman Empire?
+
+#### e6bcdd3d26-SM | BRUCE → REPORTER01, REPORTER03 | x18
+I’m sure the subway would still run and the citizens of Gotham would still take it to work.
+
+#### cebf4cb4af-SM-LM | BRUCE → REPORTER01 | x9
+Carmine Falcone has never been convicted of a crime, and as far as I’m concerned you’re innocent until proven guilty.
+
+#### 97d95c9b9d | REPORTER04 → BRUCE | x9
+But he runs the largest crime family in Gotham.
+
+#### 64fe60c204 | BRUCE → REPORTER01 | x9
+Now, or ever.
+
+#### 1a08395a29 | BRUCE → REPORTER01 | x9
+Of course not. The Waynes don’t associate with criminals.
+
+#### e80c985f90 | REPORTER01 → BRUCE | x9
+Our society reporter says different. She says you and Falcone chatted for some time.
+
+#### 7a5aa9afcc | BRUCE → REPORTER01 | x9
+Never let the truth get in the way of a good story.
+
+#### e2a958d04b | VICKI → BRUCE | x18
+This proposed mental health facility is a great gift to Gotham. We should all be grateful for your contributions, and those of your family.
+
+#### 9f68226a03 | BRUCE → REPORTER01 | x9
+He was there, but I didn’t invite him.
+
+#### 45da1caac0 | REPORTER01 → BRUCE | x9
+But someone from your team must have.
+
+#### a87d8321af | BRUCE → REPORTER01 | x9
+The guest lists for these things are large. I didn’t sign off on everyone.
+
+#### 29ee81382c-SM | HARVEY → BRUCE | x9
+I told you we’re not answering questions on that.
+
+#### 00b3473f03 | REPORTER01 → HARVEY | x9
+Harvey! What does this mean for your mayoral campaign?
+
+#### c95b74cfcf-LM | REPORTER02 → BRUCE | x9
+So you have no plans to remove yourself from the campaign?
+
+#### e0de8b3166-SM | choice/UI → HARVEY | x9
+I was nine.
+
+#### 64ee0af3d8 | choice/UI → HARVEY | x9
+It never happened.
+
+#### 3455a095ba | REPORTER03 → HARVEY, BRUCE | x18
+You saying it doesn’t matter where the money comes from?
+
+#### 8727bae286 | BRUCE → REPORTER03 | x18
+Of course it does.  But it doesn’t change the good works.
+
+#### 78fd516078 | REPORTER03 → BRUCE | x18
+Does that apply to Harvey’s campaign?
+
+#### 6543606cd2 | choice/UI → REPORTER03 | x9
+Could it be true?
+
+#### b00d7a9842 | choice/UI → REPORTER03 | x9
+Mayor Hill is behind this.
+
+#### 3b9370faaf-SM | choice/UI → HARVEY | x9
+I warned you about Falcone.
+
+#### 3930316e0b | choice/UI → HARVEY | x9
+Falcone was at the gala.
+
+#### fe373c5392 | BRUCE → HARVEY | x9
+No idea. You think it could be true?
+
+#### 8299d3f74b | HARVEY → BRUCE | x9
+It better not be.
+
+#### d69c2a41c1 | HARVEY → BRUCE | x9
+We have to put a lid on it before it boils over.
+
+#### 6937f006a1 | BRUCE → HARVEY | x9
+It’s a hatchet job. This has Mayor Hill’s stink all over it.
+
+#### 3cac0684c4 | HARVEY → BRUCE | x18
+Either way, we have to step on it before it gets out of control.
+
+#### c4dcb6dc38-SM | BRUCE → HARVEY | x9
+I told you Falcone was a bad idea.
+
+#### fa671f9832-LM | BRUCE → HARVEY | x18
+Harvey, you invited the godfather over for canapes.
+
+#### ee1db64b71 | HARVEY → BRUCE | x9
+Hey... it wasn’t my pop pop dating him for over a decade.
+
+#### 0f07a3daf7-SM | HARVEY → BRUCE | x9
+What do you want me to say!? I’m sorry. This is a mess.
+
+#### a6ba3ff7a7 | HARVEY → BRUCE | x9
+Quit while you’re ahead, Barry. I don’t take kindly to being ambushed.
+
+#### 14c08dff00-LM | REPORTER01 → HARVEY | x9
+What do you say Bruce? Could Harvey’s association with you hurt his chances?
+
+#### 387f44a7a4 | REPORTER01 → HARVEY | x9
+His platform is built on ending corruption.
+
+#### e520ba8f73 | BRUCE → HARVEY | x9
+This smells like Mayor Hill. We have to hit back.
+
+#### 3682c34653 | HARVEY → BRUCE | x9
+I’ve gotta get to the office. Meet me in a couple hours and we’ll figure out how to handle this.
+
+#### f875b401a8 | choice/UI → HARVEY | x9
+Only if you print lies.
+
+#### e44135abe8 | choice/UI → REPORTER01 | x9
+Nothing could derail Harvey.
+
+#### 951d0c1e80 | BRUCE → HARVEY | x9
+Nothing can stop Harvey Dent from being the next Mayor of Gotham.
+
+#### 570c730403 | BRUCE → HARVEY | x9
+This kind of mudslinging hurts everyone.
+
+#### f0504ac2fa | REPORTER01 → BRUCE | x9
+But it looks like there’s rot in the foundations.
+
+#### e4ada66f83 | BRUCE → REPORTER01 | x9
+We’ve got problems.
+
+#### c65576c28e | HARVEY → BRUCE | x9
+You think? Well, the dumb bastard messed up, bringing an axe to a gunfight.
+
+#### de56819074 | REPORTER01 → BRUCE | x45
+Mr. Wayne, Barry Sampson of the Globe.
+
+#### 7b0de8e976 | BRUCE → REPORTER01, HARVEY | x36
+Hi, Barry.
+
+#### cd9a720190 | REPORTER04 → REPORTER01 | x9
+Earlier this morning the Standard came into possession of evidence suggesting a fifteen year friendship between your grandfather Patrick Wayne and mob boss Carmine Falcone.
+
+#### 09897740c8 | BRUCE → HARVEY, REPORTER02, REPORTER03 | x27
+Sounds like someone’s trying to smear my name.
+
+#### 03058ba771 | HARVEY → BRUCE | x27
+That’s right, Bruce. Don’t even dignify it with a response.
+
+#### ce992674fe | BRUCE → HARVEY | x9
+Hello Peter. Thanks for coming out.
+
+#### 1d2801aeec | BRUCE → HARVEY | x9
+Peter Long, Digital Standard.
+
+#### 3dfdd3d29b | HARVEY → BRUCE | x9
+What’re you doing, Barry?  What is this?
+
+#### 7077a5d938-S? | REPORTER04 → BRUCE | x9
+I thought I did until today.
+
+#### 7dbe6df249-S? | REPORTER04, REPORTER03 → HARVEY, BRUCE | x18
+I wish I were.
+
+#### 02a4623cf4 | choice/UI → REPORTER02, REPORTER03 | x27
+Let’s talk about the hospital.
+
+#### 753e390d2f | choice/UI → REPORTER02, REPORTER03 | x27
+My family were clean.
+
+#### c6453b6467 | choice/UI → REPORTER02 | x9
+Sounds like dirty politics.
+
+#### be923061ad | HARVEY → REPORTER02 | x9
+This is a good thing happening here today. We’re building something.
+
+#### 9914440b41 | BRUCE → HARVEY, REPORTER02 | x18
+Hello, Marty.
+
+#### d0a80cb0ec | BRUCE → HARVEY | x9
+Mr Wayne, Barry Sampson of the Globe..
+
+#### b6fc979707 | REPORTER02 → BRUCE | x9
+Trust me, we’re not laughing down at the Tribune.
+
+#### a6bbb43f6f | HARVEY → REPORTER02 | x9
+God, what’s the matter with you?
+
+#### 3489a6e750 | REPORTER02 → BRUCE | x9
+Earlier this morning the Tribune came into possession of evidence suggesting a fifteen year friendship between your grandfather Patrick Wayne and mob boss Carmine Falcone.
+
+#### cbb8823321 | HARVEY → BRUCE | x9
+What’re you doing, Marty?  What is this?
+
+#### d7ee324632 | choice/UI → HARVEY, REPORTER03 | x18
+Sounds like a smear campaign.
+
+#### 5e2c4d9ce6 | REPORTER03 → BRUCE | x27
+Mr. Wayne, Patricia Long of The Digital Standard.
+
+#### 87662e7cfb | BRUCE → REPORTER03, HARVEY | x27
+Hello, Patricia. Thanks for coming out.
+
+#### 774218dc2f | REPORTER03 → HARVEY | x9
+Earlier this morning the Gazette came into possession of evidence suggesting a fifteen year friendship between your grandfather Patrick Wayne and mob boss Carmine Falcone.
+
+#### 2a34c91607 | REPORTER03 → HARVEY | x9
+Trust me, we’re not laughing down at the Standard.
+
+#### 842e8a3e9e-SM-L? | BRUCE → REPORTER03 | x9
+It’s obviously a political attack. If I were you I’d question your source.
+
+#### 754b71e931 | BRUCE → REPORTER03 | x9
+My father in bed with the mafia? You know who Thomas Wayne was?
+
+#### ac320cf37e-S? | REPORTER03 → BRUCE | x9
+I thought I did, until today.
+
+#### e12cce0eaa | HARVEY → BRUCE | x9
+This is a good thing happening here today. We’re building something. Let’s not soil it with media... sewage.
+
+#### 140412b437 | HARVEY → BRUCE | x9
+God Peter, what’s the matter with you?
+
+#### 22291b46a9 | HARVEY → REPORTER02 | x9
+What’re you doing, Pete?
+
+#### 6df1985a85 | REPORTER02 → HARVEY | x9
+Marty Baron. The Tribune.
+
+#### d3feacae00 | REPORTER02 → HARVEY | x9
+You might want to hold your thanks.
+
+#### 3d7d1d54f2 | REPORTER01 → REPORTER02 | x9
+You calling her a liar?
+
+#### c9c5a4cb67 | VICKI → BRUCE | x18
+Unlike my colleague, I promise to keep my questions on topic.
+
+#### 0a08dec339 | BRUCE → REPORTER02, REPORTER03 | x18
+At the moment, these allegations are just that. Allegations.
+
+#### c4004ca8c4-SM | BRUCE → REPORTER01, HARVEY, ALFRED | x63
+Frankly, your question is insulting and I won’t dignify it with a response.
+
+#### 7fff3598e1-SM-LF | BRUCE → VICKI | x9
+You heard what I said.
+
+#### 1debff6f16-LM | BRUCE → REPORTER01 | x9
+You heard what he said.
+
+#### 9af0e175f9 | BRUCE → REPORTER01 | x9
+So yeah, if you print this trash, you might end up with the mayor you deserve.
+
+#### 37cd09bc15 | REPORTER01 → BRUCE | x9
+How bout I answer that for you? Our society reporter says she saw you and Falcone talking for some time...
+
+#### 0787625a4e | BRUCE → REPORTER01, REPORTER03 | x18
+Until they’re more than allegations, I suggest you hold off speculating. About my money’s hygiene or anything else.
+
+#### 0ac98b0cde | BRUCE → REPORTER01, ALFRED, HARVEY | x63
+We’re finished here.
+
+#### 91f03e7f34 | BRUCE, HARVEY → HARVEY, BRUCE | x18
+This has Mayor Hill’s stink all over it.
+
+#### 512e690d5f | BRUCE → HARVEY | x9
+How long before they find out Falcone was at the gala?
+
+#### 0f628540de | HARVEY → BRUCE | x9
+Don’t make this my fault. This isn’t my fault.
+
+#### 55b7cf5d88 | BRUCE → HARVEY | x9
+Take it easy...
+
+#### a26177a85a | HARVEY → BRUCE | x9
+We’re going to hit back, and when we do he’s going to feel it.
+
+#### 2f57718ad6 | HARVEY → BRUCE | x9
+Okay, maybe it’s a little my fault. But at least he wasn’t dating half my family tree.
+
+#### 640d2b23f2 | HARVEY → BRUCE | x9
+We need to step on it before it gets out of control.
+
+#### 97e66a45a4 | HARVEY → BRUCE | x9
+Seriously... this was supposed to be a photo op.
+
+#### b99ec1e9e2 | HARVEY → BRUCE | x9
+And whatever you do, don’t talk to the press!
+
+#### 12e16f9d59 | HARVEY → BRUCE | x9
+Oh stop it.  I don’t get this kind of turnout for my campaign speeches.
+
+#### 94bb48e1c3 | BRUCE → HARVEY | x9
+Least of all this baseless gossip you call news.
+
+#### 4bdb0afaa3 | HARVEY → BRUCE | x9
+We’re finished. This circus is over.
+
+#### cb40d2d0a0 | choice/UI → ALFRED | x9
+We’re here about the hospital.
+
+#### e919f36007 | ALFRED → BRUCE | x9
+Bruce! I’ve been trying to reach you. The City Police are searching the Manor. They’re asking for you.
+
+#### 04edc9c167 | BRUCE, BATMAN, LUCIUS → ALFRED, BRUCE, LUCIUS | x33
+I’m on my way.
+
+#### d124347008 | HARVEY → BRUCE | x9
+Reminds me. There’s someone I want you to meet. Someone I’ve been seeing.
+
+#### f80baf9c5b | BRUCE → ALFRED, VICKI | x18
+Thanks Vicki.
+
+#### 8b4eb20dd1 | REPORTER04 → BRUCE | x9
+Mr. Wayne!  Mr. Wayne!
+
+#### aff14a3edd | REPORTER02 → HARVEY | x9
+Just one more question!
+
+#### cabcaa3fa4 | REPORTER04 → HARVEY | x9
+Please! Over here!
+
+#### 2d2cf5d8e8 | HARVEY → BRUCE | x9
+You look like you’ve been in the wars.
+
+#### 3744013097 | BRUCE → HARVEY | x9
+Fun?  Without you?
+
+#### e30443773d | HARVEY → BRUCE | x9
+You look rough, you know? Like you’ve been in the wars.
+
+#### f9c1592452 | BRUCE → HARVEY | x9
+Thanks Harv. You look nice too.
+
+#### 87392230ca | choice/UI → HARVEY | x9
+Not at present.
+
+#### 39b995e6bf | choice/UI → HARVEY | x9
+Talk to my lawyer.
+
+#### 3ff88283e1 | choice/UI, LUCIUS → JOKER, BATMAN | x15
+Of course not.
+
+#### f5164b7358 | BRUCE → HARVEY | x9
+Address your questions to my lawyer. He’ll be in touch.
+
+#### b685012965 | BRUCE → HARVEY | x9
+Not at the present time.
+
+#### 7f3951d1bd | BRUCE → HARVEY | x9
+Absolutely not.  Excuse me.
+
+#### e48d745741-LM | BRUCE → HARVEY | x9
+What did you call it? ‘Greasing the wheels’?  Not light work.
+
+#### 5cba8b6a55 | BRUCE → HARVEY | x9
+Just tirelessly shaking the tin for your campaign.
+
+#### 8a1bfbf9fd | HARVEY → BRUCE | x9
+Uh huh. Sure.
+
+#### 7d99940dcb | HARVEY → BRUCE | x9
+I know... Bob and Regina are downright leaden.  Think it’s ‘cause they have gold bullion in their shoes.
+
+#### 3e9a28724f | BRUCE → HARVEY | x9
+Harvey,
+
+#### 3946fa5da1 | BRUCE → HARVEY | x9
+And we should all be grateful for the fourth estate.
+
+#### 3f89cd1320 | BRUCE → HARVEY | x9
+Come on, Harvey. You know I never kiss and tell.
+
+#### 7a050cb4dc | HARVEY → BRUCE | x9
+Usually you don’t have to. The press do it for you.
+
+#### 9b7a5dc3b4 | HARVEY → BRUCE | x9
+Regina Zellerbach get her claws into you?
+
+#### ab11b91ce9 | HARVEY → BRUCE | x9
+Or was it Bob? There’s still a little fight left in that old dog.
+
+#### 0680800fde-SM | HARVEY | x9
+I always thought Alfred did it.
+
+#### 6d99760be9 | HARVEY | x9
+Now that doesn’t add up.
+
+#### a11f89c020 | HARVEY | x9
+Or am I going to have to read about that in the papers too.
+
+#### de72dc519b | HARVEY | x9
+You gonna tell me?
+
+#### 871c7081c2 | HARVEY → BRUCE | x9
+Or maybe two. A supermodel and a prima ballerina.
+
+#### b955d81647 | HARVEY → BRUCE | x9
+Get into a scrap in the bingo hall?
+
+#### 4d27ee5ab5 | HARVEY → BRUCE | x9
+Uh... yeah. It’s pretty vicious actually. Like you’ve been punching above your weight.
+
+#### b5c2982324 | BRUCE → HARVEY | x9
+There’s a scratch on my face?
+
+#### f3c69be178 | BRUCE → HARVEY | x9
+There’s nothing to add up.
+
+#### e3fdc488a8 | HARVEY → BRUCE | x9
+We both know Alfred shaves you right after he gives you your bath.
+
+#### 50ce0dabe3 | BRUCE → HARVEY | x9
+And we should all be grateful to the media for keeping everyone informed.
+
+#### 9f92cda145 | BRUCE, JOKER, PENGUIN, HARVEY → HARVEY, BRUCE, BATMAN | x33
+No?
+
+#### 4305d8b71a | BRUCE → HARVEY | x9
+What would any of us do without them.
+
+#### 0aa479ca25 | HARVEY → BRUCE | x9
+Knock ‘em dead, Bruce. It’s you they’re here for.
+
+#### dce23b352d | BRUCE → VICKI, HARVEY | x45
+There’s an old saying about our city that’s been around since the first settlements.
+
+#### 298f18307b | BRUCE, HARVEY → HARVEY, BRUCE, VICKI | x36
+Gothamites deserve a safe place to live.
+
+#### 3c986c1a5e | BRUCE, HARVEY → VICKI, HARVEY, BRUCE | x36
+And to provide safety, we first need to curb the soaring incidence of mental illness plaguing our streets.  This new facility is a great first step.
+
+#### 8a613703f8 | BRUCE → VICKI, HARVEY | x45
+‘There’s something in the water makes you crazy. But you’d have to be crazy to drink it.‘
+
+#### 1945b2b533 | BRUCE | x9
+This new facility is a great first step.
+
+#### 8ac6545b52-SM | BRUCE → VICKI | x18
+If our citizens are sick we have a duty to help them. I saw an opportunity to provide that help, that’s all.
+
+#### 14a587657c | BRUCE → VICKI | x18
+Our incidence of mental illness is far higher than any other city in the nation. Maybe it’s something in the water, maybe not. Either way, our system is broken. And that, to me, is a crying shame.
+
+#### 9f13cda3e5 | BRUCE → VICKI | x9
+If some of our citizens are suffering, we’re all suffering.
+
+#### f1e9ecef72 | BRUCE → VICKI | x18
+Gothamites deserve first rate care, and this is the way to give it to them.
+
+#### b56105ff89 | BRUCE → VICKI | x9
+A source of pain. A source of shame.
+
+#### f2d289b02a | VICKI → BRUCE | x9
+I’d have to agree. Thank you.
+
+#### fa8d415594-LM | VICKI → BRUCE | x45
+I’d have to agree. Thank you.  Gotham is lucky to have you.
+
+#### 607c003cef | HARVEY → VICKI, BRUCE | x18
+I’d be happy to answer that for you...
+
+#### 7034ae37b2-LM | VICKI → HARVEY, BRUCE | x18
+I’d have to agree. Thank you, Mr Wayne.  Gotham is lucky to have you.
+
+#### 116335f268 | HARVEY → VICKI | x9
+Or women. (plural)
+
+#### c69a8113e9-LM | HARVEY → BRUCE | x9
+Well you always had a nose for ‘em.
+
+#### 2498c16810 | REPORTER03 → HARVEY, BRUCE | x18
+I’m just speculating...
+
+#### b5b301909c | BRUCE → HARVEY | x18
+You can rest assured the Wayne fortune is as old as Gotham itself.
+
+#### 7e15b1084d | BRUCE → HARVEY, REPORTER03 | x18
+These petty allegations can’t do anything to damage the Wayne name.
+
+#### eec91ebf36 | REPORTER01 → BRUCE, REPORTER02 | x18
+It’s been alleged that both your father and grandfather had ties to organized crime, specifically the Italian mafia.
+
+#### a05cab8167 | HARVEY → BRUCE | x9
+Let’s not soil it with media... sewage.
+
+#### 0279f37ed3 | choice/UI → HARVEY | x9
+A bunch of lies.
+
+#### 81105a75ad | BRUCE → HARVEY | x9
+Nothing. A bunch of lies.
+
+#### 9d8d34e385 | HARVEY → BRUCE | x9
+It damn well better be, or we’re screwed.
+
+#### f92deafc1a | HARVEY → BRUCE | x9
+Either way, we need to put this fire out before it consumes the entire campaign.
+
+#### cc35e5491a | BRUCE → HARVEY, COUNCILWOMAN | x18
+The way we treat the mentally ill in this city has historically been abysmal.  Arkham Asylum, our premier treatment center for the criminally insane, is an antiquated charnal house that has consistently failed those most in need of help.
+
+#### 689f0af305 | BRUCE → COUNCILWOMAN, VICKI | x18
+This hospital is the first step to a healthier, happier Gotham.
+
+#### 872c31809e | BRUCE → COUNCILWOMAN | x9
+His father too. Everyone knows what they did for this city.
+
+#### c9974d574c | BRUCE → COUNCILWOMAN | x9
+My father was a paragon of justice.
+
+#### ccb1803bdd | choice/UI, BRUCE → COUNCILWOMAN, HARVEY | x18
+Ready to do what I can.
+
+#### d6f82182b7 | choice/UI → COUNCILWOMAN | x9
+This is about the hospital, not you.
+
+#### f3444d2db7-SM | choice/UI → COUNCILWOMAN | x9
+I’m tired of these things.
+
+#### 840b8b04ea | choice/UI → REPORTER01 | x54
+I ignore the tabloids
+
+#### 90849b8bec | choice/UI | x18
+I shake a lot of hands.
+
+#### edb0c76831 | choice/UI | x18
+Don’t read too much into that.
+
+#### 3692681c0e-SM | choice/UI | x9
+I was being courteous.
+
+#### 80908c79be | choice/UI → REPORTER01, HARVEY | x18
+I’ve taken enough questions.
+
+#### e3bcf8ec4d | choice/UI → REPORTER01 | x9
+No questions about the hospital?
+
+#### 0486495971-SM | choice/UI → REPORTER01 | x9
+I met with a lot of people that night.
+
+#### 1e6ee121e2 | choice/UI → HARVEY, REPORTER02, REPORTER01 | x54
+I’m no friend of mobsters.
+
+#### 15e3c163c6 | HARVEY → REPORTER01 | x9
+The facility includes four dedicated treatment wings, including one for children, housing facilities, recreation area and a well-trained care staff ready to help.
+
+#### 93712fb345 | HARVEY → REPORTER03 | x9
+The focus is on healing while keeping the individuals safely sequestered from the rest of Gotham.
+
+#### ca4f04cddd | HARVEY → BRUCE | x9
+Today, Bruce Wayne makes an unprecedented commitment to the future of our community by funding a state of the art mental health facility.
+
+#### 2ce6d6565a | HARVEY, JOKER, ALFRED → BRUCE | x13
+What’s the matter?
+
+#### bc02acef96 | HARVEY | x9
+Don’t tell me Bruce Wayne has stage fright.
+
+#### f10f8c3cc7 | HARVEY | x9
+Showtime in T-Minus... right now.
+
+#### 47df128fb0 | HARVEY → BRUCE | x18
+Because if you do, I recommend puking back here instead of up there.
+
+#### 6a2b4971ce | choice/UI → HARVEY | x9
+Yeah, I’m just nervous.
+
+#### 9036b3873d | choice/UI → HARVEY | x9
+Had a rocky morning.
+
+#### 9d8a412d2d | choice/UI → HARVEY | x9
+Ran into an old friend.
+
+#### 2ff26135df | HARVEY → BRUCE | x9
+This is no big deal, Bruce.
+
+#### 9ae8eccef8 | BRUCE → HARVEY | x9
+For you, maybe.
+
+#### a91d83c68e | HARVEY → BRUCE | x9
+Look--the reporters are gonna lob you a few softball questions about the hospital, and you smash them into the bleachers.
+
+#### b20bbe6f63 | HARVEY → BRUCE | x9
+We’re doing something remarkable for this city.
+
+#### 305f0481ae | HARVEY → COUNCILWOMAN | x9
+So we should be honored to talk about it.
+
+#### b740d212ea | HARVEY → COUNCILWOMAN | x9
+Got it?
+
+#### 436bff0588 | HARVEY → COUNCILWOMAN | x9
+It looks good for you, it looks good for me.
+
+#### a615f76740 | COUNCILWOMAN → HARVEY | x9
+And now, it’s my pleasure to introduce two very special guests, Harvey Dent and Bruce Wayne!
+
+#### 3738b5f8b0 | HARVEY → COUNCILWOMAN | x9
+Time to show some teeth.
+
+#### 699110cef5 | HARVEY → COUNCILWOMAN | x9
+Showtime.
+
+#### baa3100b07 | choice/UI → HARVEY | x9
+[Walk and grimace]
+
+#### 084e306658 | HARVEY → COUNCILWOMAN | x9
+Mental health.
+
+#### 00bcc72011 | HARVEY → COUNCILWOMAN | x9
+Bruce and I are here today to discuss a topic you can’t see or touch, but only feel.
+
+#### bd08ee7576 | HARVEY → COUNCILWOMAN | x9
+Thank you. Thank you, everyone.
+
+#### cc3d02e1b0 | HARVEY → COUNCILWOMAN | x9
+But with funding from my good friend Bruce Wayne, today we break ground on the Thomas and Wayne Memorial Hospital to treat mental health with the care it deserves.
+
+#### a5dcc47acc | HARVEY → COUNCILWOMAN | x9
+Now let’s take a few questions.
+
+#### 16de39b868 | VICKI → HARVEY | x9
+Thank you, Mr. Dent.
+
+#### befb8600b4 | choice/UI → HARVEY | x9
+Maybe he can hang up the cape.
+
+#### 619197d037 | VICKI → HARVEY | x9
+Villains like the Joker, the Riddler, Poison Ivy....
+
+#### 8c0e05914d | HARVEY → REPORTER02, VICKI | x18
+Okay, who’s next?
+
+#### f7bf88c274 | REPORTER02 → HARVEY | x18
+Are you aware of rumors circulating that Mr. Dent was behind the break in at City Hall?
+
+#### ba4cdd41ec | REPORTER02, REPORTER03 → BRUCE | x36
+Perhaps he was hoping to find some dirt to smear around ahead of the upcoming election.
+
+#### 57ea501715 | REPORTER02, REPORTER03 → BRUCE | x18
+Dent and Hill are opponents in the upcoming election.
+
+#### 4f9cbb3192 | BRUCE → REPORTER02, REPORTER01 | x36
+I have no idea where place that is, {AngryA}but I can guarantee Mr. Dent has never been there.
+
+#### 8b42a9be64 | REPORTER02, REPORTER03 → BRUCE | x45
+Well, they often emerge from a place of truth.
+
+#### 213905d011-SM | HARVEY → BRUCE | x9
+Oh, and I’ve got a little surprise for you.
+
+#### 2cacaf1d79 | HARVEY → REPORTER02 | x9
+Courtesy of Bruce Wayne himself.
+
+#### 52d6c620be | HARVEY → BRUCE | x9
+What do you think of my new campaign slogan?
+
+#### eacac40348 | BRUCE → HARVEY, REPORTER03 | x36
+And Harvey will run fairly.
+
+#### c8b06370ea | REPORTER02, REPORTER03 → BRUCE | x45
+It’s just... Dent and Hill are adversaries in the race to city hall...
+
+#### d137367d9b | BRUCE → HARVEY, REPORTER02 | x36
+He’d never do {FearA}*anything*{NormalA} criminal.
+
+#### 58d9b8380f | BRUCE → REPORTER02, HARVEY, REPORTER03 | x36
+Harvey’s a rare breed of decent.
+
+#### 40caac4066 | BRUCE → HARVEY, REPORTER02 | x18
+If anything, it’s a smear campaign against Harvey.
+
+#### 75d6b9064b | BRUCE → HARVEY, REPORTER02, REPORTER03 | x45
+Mayor Hill’s just scared he’ll have to be looking for a new job soon.
+
+#### 7bd9b5e419-SM | HARVEY → BRUCE, REPORTER02 | x36
+I had absolutely nothing to do with the break in at Mayor Hill’s office.
+
+#### d39da30a36 | HARVEY → BRUCE, REPORTER03 | x36
+But while I’m still District Attorney, I will work tirelessly to find the real culprit.
+
+#### bd56345569 | HARVEY → BRUCE | x36
+I’ll answer for Mr. Wayne.
+
+#### 4b95ba6189 | HARVEY → BRUCE, REPORTER01 | x27
+Besides, we’re here about the hospital, remember?
+
+#### 169b81c660 | REPORTER02, REPORTER03 → BRUCE, REPORTER03, HARVEY | x45
+That’s not how it looks from here.
+
+#### 89f8638e27 | REPORTER01 → REPORTER04, HARVEY | x36
+I know you don’t comment on rumors, but...
+
+#### 2d8f1f68aa-LM | REPORTER01, REPORTER04 → HARVEY, REPORTER01 | x36
+I know you thought it was absurd, but...
+
+#### bea218f41d | REPORTER01, REPORTER04 → HARVEY, REPORTER01, REPORTER04 | x36
+I know you think Hill’s just paranoid, but...
+
+#### 2f26c57f0e-L? | REPORTER01 → REPORTER04 | x9
+My sources say that you welcomed Carmine Falcone into your home.
+
+#### 03a09f0c02 | REPORTER01, REPORTER04 → REPORTER04, REPORTER01, BRUCE | x45
+A mob boss, a billionaire, and a politician all meeting together... that sounds like trouble.
+
+#### c7e8347121 | choice/UI → REPORTER01, REPORTER04 | x18
+I can talk to anyone I want.
+
+#### 10f84cd20d | choice/UI → REPORTER01, REPORTER04 | x18
+That never happened.
+
+#### c35c161096 | choice/UI → REPORTER01, REPORTER04, REPORTER02 | x54
+He�s a voter like anyone else
+
+#### c34e71f320 | REPORTER04 → REPORTER01, BRUCE, REPORTER02 | x36
+I’m not a detective, but that strikes me as no coincidence.
+
+#### 1fc46ca2fb | REPORTER04 → BRUCE | x36
+On the same night Mayor Hill’s office is ransacked.
+
+#### 5d0eaff9e5 | BRUCE → REPORTER04, HARVEY | x18
+I meet a lot of people.
+
+#### 303f7a0122 | BRUCE → REPORTER04, REPORTER01 | x18
+But it’s my right to talk to anyone.
+
+#### d65efa345c | BRUCE → REPORTER04 | x18
+Sometimes more often than I like.
+
+#### e05db69de3-SM | choice/UI → REPORTER04 | x18
+I sent him packing.
+
+#### 8f2dfd8ba9 | BRUCE → REPORTER04, REPORTER01 | x27
+End of story.
+
+#### cc94d948fa-SM | BRUCE → REPORTER01, REPORTER04 | x27
+I didn’t want Falcone in my house and I told him as such.
+
+#### 5a35a93e8f-SM | BRUCE → HARVEY | x18
+I put on a fundraiser for Mr. Dent, {SkepticalB}some fine Gothamites pledged their donations, {SmugA}and everyone went home a little drunk.
+
+#### 5a1820a8df | BRUCE → REPORTER01 | x18
+You should check your sources because that meeting never happened.
+
+#### 20c786632b | BRUCE → REPORTER01 | x9
+He carries the kind of support that can get Harvey elected.
+
+#### fee6823485 | BRUCE → FALCONE | x45
+I’m a businessman, so is Mr. Falcone.
+
+#### 41ad9e7d11 | REPORTER01, REPORTER04 → BRUCE | x72
+You two run *very* different kinds of businesses, Mr. Wayne.
+
+#### 016af51b4c | REPORTER01, REPORTER04 → BRUCE, HARVEY | x72
+You have to know that.
+
+#### e6542bca45 | BRUCE → HARVEY, REPORTER04, REPORTER01 | x45
+That’s where our similarities end.
+
+#### 9479ea9311 | HARVEY → REPORTER01 | x9
+That’s it, folks.
+
+#### 1324817501 | REPORTER04 → HARVEY | x9
+Just a few quick questions. Please.
+
+#### 42dfd790fb | REPORTER04 → REPORTER01 | x18
+know you don’t comment on rumors, but...
+
+#### 984816fd32 | REPORTER04 → REPORTER01 | x9
+TEST
+
+#### 2d8f1f68aa-L? | REPORTER01 → REPORTER04 | x9
+I know you thought it was absurd, but...
+
+#### 2f26c57f0e-LM | REPORTER04, REPORTER01 → BRUCE, REPORTER01 | x36
+My sources say that you welcomed Carmine Falcone into your home.
+
+#### 2f8df7dcd7 | HARVEY → REPORTER03 | x9
+Due to Mayor Hill’s negligence, Arkham Asylum has become a dangerous relic of an outdated mental healthcare system, jeopardizing the well-being of Gotham and its citizens.
+
+#### 4e6632be64 | REPORTER03 → REPORTER01, BRUCE | x18
+Are you aware of rumors circulating that Mr. Dent was behind the break in at city hall?
+
+#### 864e0aeafb | REPORTER03 → HARVEY | x9
+Perhaps he was hoping to find some dirt to smear around.
+
+#### ba63d31ddf | BRUCE → REPORTER03 | x9
+Barry.
+
+#### 1f94d409f0 | BRUCE → HARVEY, REPORTER01 | x18
+Anything else you’re implying is laughable.
+
+#### 7986db9fb1 | HARVEY → BRUCE | x18
+You can’t bail yet.
+
+#### f9c7a6f3a2 | HARVEY → BRUCE, REPORTER01 | x45
+We can’t end it on that note.
+
+#### 38dac19d09 | HARVEY → BRUCE | x9
+Duck out the back, Bruce. We’ll talk later.
+
+#### 2969b32343 | HARVEY → BRUCE | x9
+Please, everyone. Calm down!
+
+#### bf210a4995 | HARVEY → ALFRED | x9
+Damage control is my territory.
+
+#### 2901996e85 | BRUCE → HARVEY, ALFRED | x18
+Al?
+
+#### 4ccf9ded7b | ALFRED → BRUCE | x18
+That’s exactly what I’m trying to find out.
+
+#### 0f77cbd417 | BRUCE → ALFRED | x9
+It’ll pass.
+
+#### baa8be3def | BRUCE → HARVEY | x9
+Yeah, just nerves.
+
+#### 74aaf5dbf4 | HARVEY → BRUCE | x9
+Make sure it doesn’t pass out of your mouth.
+
+#### 68a73e1102 | HARVEY → BRUCE | x9
+A face to face with Falcone rarely ends well.
+
+#### 489696f34d | BRUCE → HARVEY | x9
+Just had a rough morning.
+
+#### e99bf98a95 | HARVEY → BRUCE | x9
+Compared to that, this press conference will be
+
+#### 681df3403f | HARVEY → BRUCE | x9
+Matches your night.
+
+#### e31cce68aa | HARVEY → BRUCE | x9
+The longer the time, the greater the void, it seems.
+
+#### e74ada6d17 | BRUCE → HARVEY | x9
+Didn’t go quite as anticipated.
+
+#### a62c629056 | HARVEY → BRUCE | x9
+Does it ever?
+
+#### 8d48cc62c7-SM | BRUCE → HARVEY | x9
+I ran into an old friend this morning.
+
+#### 8dcb5ee285 | HARVEY → BRUCE | x9
+Bruce. Eyes here.
+
+#### 1a3eeb87db | HARVEY → BRUCE | x9
+I’ve done this a million times before and trust me--this’ll go fine.
+
+#### 9eac82df6c-LM | HARVEY → BRUCE | x9
+Just like you did last night.
+
+#### 89e50a2ec2 | HARVEY | x9
+It’ll look good for your family. It’ll look good for my campaign.
+
+#### 169794a5fe-LM | HARVEY → BRUCE | x9
+Except you won’t whiff like last night.
+
+#### 869dee4a6f | HARVEY → BRUCE | x9
+This hospital will difference in Gotham.
+
+#### 8768044bcd | HARVEY → BRUCE | x9
+It should put an end to those costumed creeps running around after dark.
+
+#### 9dde1f163a | HARVEY → BRUCE | x9
+If only the rest of the city had that attitude, I’d be on easy street.
+
+#### df739c796e | BRUCE → HARVEY | x9
+This event is about the hospital,{SkepticalB} not you.
+
+#### a71876492b | HARVEY → BRUCE | x9
+Sorry to be the bearer of bad news, Bruce, but everything we do together is about the campaign.
+
+#### 3639443c6b | HARVEY → BRUCE | x9
+We’re married until election day.
+
+#### 6379ffc6da-SM | BRUCE → HARVEY | x9
+I’m done being paraded around.
+
+#### d6c3b4dda2 | HARVEY → BRUCE | x9
+In the purely electoral sense of the expression--we’re in bed together, Bruce.
+
+#### 1a64c0ba2b | BRUCE → HARVEY | x9
+No more of these circuses after today, alright?
+
+#### afe38b0085 | HARVEY → BRUCE | x9
+And I’m not letting you get out.
+
+#### efca8f4f06 | HARVEY → BRUCE | x9
+And dawn is a long way off.
+
+#### 8bd767378e | HARVEY → BRUCE | x9
+Nor your parents.
+
+#### 0618d0ebb1 | HARVEY | x9
+But today, on the anniversary of Thomas and Martha Wayne’s tragic deaths, we honor them by offering a new generation of help to those who are hurting.
+
+#### 9c8bed78e0 | HARVEY → VICKI | x9
+Okay, let’s see... let’s see...
+
+#### 4078a3fc63 | HARVEY → VICKI | x9
+As the sole benefactor of this project, Bruce Wayne would be thrilled to answer a few questions about the hospital.
+
+#### 62aa18d47d | HARVEY → VICKI | x9
+Let’s keep this civil, people, and I’ll make sure every single one of your questions is answered.
+
+#### 1bd5fab9ca | VICKI → HARVEY | x9
+You and your family have given *so much* for this city over the years.
+
+#### 56a6399cea-SF | VICKI → HARVEY | x9
+I just wanted to know why you think it’s so special.
+
+#### 26486bd9b7 | VICKI → HARVEY | x9
+Why do you love this place so much?
+
+#### ad30451324 | choice/UI → HARVEY | x9
+He’s a villain too.
+
+#### ae94dd0a55 | HARVEY → VICKI | x9
+And usually the bigger the gut.
+
+#### bb9db5e4de | COUNCILWOMAN → HARVEY | x9
+Today, we are proud to officially be breaking ground on this wonderful new facility...
+
+#### 8045ced546 | HARVEY → COUNCILWOMAN | x9
+And I’ll keep rocketing up the polls.
+
+#### 2e49c161e6 | HARVEY → COUNCILWOMAN | x9
+Hill will need to
+
+#### c2082b3577 | HARVEY → COUNCILWOMAN | x9
+We doesn’t need any more costumed creeps running around after dark.
+
+#### b0615dbc7e-SM | HARVEY → VICKI | x9
+These folks, myself included, are hoping this hospital will fix Gotham.
+
+#### 889f810a78 | HARVEY → VICKI | x9
+That’s not my vision of this city.
+
+#### 15423f8556 | HARVEY → VICKI | x9
+And I doubt it’s yours either.
+
+#### 978d7f0067 | VICKI → BRUCE | x9
+Now, Mr. Wayne, what do you hope to achieve with this hospital?
+
+#### ef94da3a43-LM | VICKI → HARVEY | x9
+You could have spent money on any number of projects.
+
+#### 604cfa342b | VICKI → HARVEY | x9
+Why replace Arkham Asylum?
+
+#### 95dcb8b997 | VICKI → HARVEY | x9
+But do you believe this will put an end to Batman too?
+
+#### 86854684ad | VICKI → BRUCE | x9
+As Mr. Dent explained, we all hope this hospital will end the epidemic of criminal insanity that has plagued Gotham.
+
+#### 246f123e3a | VICKI → BRUCE | x9
+Without any villains, for lack of a better word, Gotham’s hero won’t be needed.
+
+#### cfbae04dc2 | VICKI → BRUCE | x9
+Though some of my colleagues feel he belongs
+
+#### 2c91fbaaa4 | BRUCE → VICKI | x9
+I think Gotham needs someone like this Batman.
+
+#### 020c836b91 | BRUCE → VICKI | x9
+He’s a symbol that this city won’t go down without a fight.
+
+#### 0ef59df4c6 | VICKI → BRUCE | x9
+Maybe we should all start wearing tights.
+
+#### 37fdd5963a | VICKI → BRUCE | x9
+I think that scenario would benefit everyone.
+
+#### 33803f6918 | BRUCE → VICKI | x9
+If we can cure this city’s illness, maybe {AmusedA}Batman can head back to his cave for good.
+
+#### f6062f38da | BRUCE → VICKI | x9
+I don’t agree with his existence.
+
+#### ed5e5db825 | VICKI → BRUCE | x9
+You don’t agree with his methods?
+
+#### 078de2d5e2 | BRUCE → VICKI | x9
+The sooner he’s gone, the sooner Gotham can flourish.
+
+#### 74becd7ce4 | BRUCE → HARVEY | x9
+Batman’s a villain like the rest.
+
+#### 64542af7b5 | HARVEY → BRUCE, VICKI | x18
+The Batman dilemma is one I’ll continue to dig into when I become mayor.
+
+#### cd99c17e70 | BRUCE → HARVEY, REPORTER02 | x36
+He’s trying to pin anything he can on Harvey.
+
+#### 9c9c48850a-SM | BRUCE → HARVEY | x18
+I need to take this.
+
+#### 288d24c476 | REPORTER02 → BRUCE, VICKI | x18
+Hey, the Gazette already got their question.
+
+#### f50d2c61a1 | REPORTER04 → REPORTER01 | x9
+A mob boss, a billionaire, and a politician all meeting... that sounds like trouble.
+
+#### 860b478adc | BRUCE → REPORTER04, REPORTER01 | x18
+You should check your source.
+
+#### c366bc2ebe | BRUCE → REPORTER04, REPORTER01 | x18
+It sounds like an intern is finally{SmugA} putting their creative writing minor to good use.
+
+#### c56dc4c87f | BRUCE → REPORTER01 | x9
+I’d love to.
+
+#### 0a34381f5a | VICKI, BATMAN, BRUCE → VICKI, PENGUIN, LADYARKHAM | x39
+Enough!
+
+#### 23f583908f | VICKI → BRUCE | x9
+The Joker. Harley Quinn. The Riddler. Poison Ivy. And numerous other colorfully named convicts...
+
+#### 45cbdd45f8 | REPORTER01 → VICKI | x9
+I’m no detective, but that strikes me as suspicious.
+
+#### eb6720c995 | VICKI → REPORTER01 | x9
+Though most of my colleagues believe he should be locked up too.
+
+#### 8bd6ba1929 | VICKI → BRUCE | x9
+No comment, Mr. Wayne?
+
+#### 626c3f5da6 | VICKI → HARVEY, REPORTER02 | x18
+How long until the facility is--
+
+#### e52022aba5 | REPORTER03 → VICKI, REPORTER02 | x18
+And there’s something more important we need to hear about.
+
+#### c5add5127a | HARVEY → BRUCE, VICKI, REPORTER02 | x36
+It’ll look suspicious.
+
+#### 1ce37ff83f | BRUCE → REPORTER01, REPORTER04 | x36
+You watch too many gangster films.
+
+#### cebd474ff9 | REPORTER01, REPORTER04 → BRUCE | x36
+You have to admit it appears suspicious.
+
+#### f6698e2e7c | REPORTER01 → BRUCE | x18
+That doesn’t seem like a coincidence.
+
+#### e4ae3e02d7 | REPORTER01 → BRUCE | x18
+On the same night Mayor Hill’s office is ransacked?
+
+#### ce1fb8f56b | BRUCE → REPORTER01, REPORTER04, REPORTER02 | x36
+The Wayne family doesn’t associate with mobsters.
+
+#### 002f1d9ac2-SM | BRUCE → REPORTER01, REPORTER04 | x36
+I wanted Falcone out of my house and I told him as such.
+
+#### d923a64030 | BRUCE → HARVEY, REPORTER04 | x27
+I have to take this.
+
+#### 152b8f1743 | REPORTER01, REPORTER04 → HARVEY, REPORTER04, REPORTER01 | x27
+He even pinched your cheek.
+
+#### b08bac8ec4-LM | REPORTER01, REPORTER04 → HARVEY, REPORTER01 | x36
+You even spoke with him behind closed doors.
+
+#### b06dfbf919 | REPORTER01, REPORTER04 → HARVEY, REPORTER01, REPORTER04 | x45
+You and Harvey even spoke with him behind closed doors.
+
+#### 9c8f95d7aa | REPORTER01 → REPORTER04 | x9
+Could this be true?!
+
+#### de0cc01243 | REPORTER04 → REPORTER01 | x18
+James Pierce, Bridge City Chronicle.
+
+#### 16f4c168ca | REPORTER01 → COUNCILWOMAN, BRUCE | x18
+Earlier this morning, the Globe came into possession of evidence suggesting the Wayne family has ties to Gotham’s criminal underground.
+
+#### 845bcecfa5 | REPORTER01 → COUNCILWOMAN, BRUCE | x18
+Earlier this morning, the Globe came into possession of evidence suggesting Thomas and Martha Wayne, your own parents, had ties to Gotham’s criminal underground.
+
+#### e546875047 | COUNCILWOMAN → REPORTER01 | x9
+This comprehensive place of healing will more than double the capacity of our city’s current options.
+
+#### d41cd7b948 | COUNCILWOMAN | x9
+dedicated partners, we will work tirelessly to deliver a state of the art mental health facility that serves the citizens of Gotham.
+
+#### 81496ee2da | COUNCILWOMAN | x9
+Since the founding of Gotham in 1635, mental illness has
+
+#### a950feae1a | COUNCILWOMAN | x9
+Pay attention to that name: *Criminally* [beat] *Insane.*
+
+#### 917a67f701 | COUNCILWOMAN | x9
+Mental illness is *not* a crime; it’s a disease!
+
+#### 4fff89c6f2 | COUNCILWOMAN | x9
+We need to stop treat the least of us like criminals -- and more like patients who *can* and *will* recover!
+
+#### 71b00bd2d1 | COUNCILWOMAN | x9
+Gotham took it’s first step towards dealing with this issue with the founding of the Elizabeth Arkham Asylum for the *Criminally Insane* in 1922.
+
+#### dba5947cd2 | COUNCILWOMAN | x9
+And that’s exactly what the Thomas and Martha Wayne *Psychiatric Hospital* will do!
+
+#### 375d8c4344 | COUNCILWOMAN | x9
+No more treating the most fragile of us like common criminals.
+
+#### 4b70da4697 | COUNCILWOMAN | x9
+And that’s exactly what we’ll provide this
+
+#### 3c6b52d1e4 | COUNCILWOMAN | x9
+From this day forward we pledge to not only modernize the way we treat mental illness and Gotham --  and more like patients who can and will recover.
+
+#### 6c87c0fad3 | COUNCILWOMAN | x9
+The future of Gotham starts right now with the groundbreaking of this
+
+#### 786ed93789 | COUNCILWOMAN | x9
+But first, let’s hear from two of Gotham’s most visionary *leaders.*
+
+#### c43cad297a | COUNCILWOMAN | x9
+... and the next Mayor of Gotham, District Attorney Harvey Dent!
+
+#### 65de08172f | HARVEY → VICKI | x9
+I promise this will go more smoothly.
+
+#### 12c5ff6646 | choice/UI → VICKI | x9
+Can you talk?
+
+#### 592a9d1678 | choice/UI → VICKI | x9
+Busy
+
+#### bab6b6937f | choice/UI → HARVEY | x9
+GCPD is here.
+
+#### 0050d7a734 | choice/UI → HARVEY | x9
+Urgent!
+
+#### 37038cfba7 | HARVEY → VICKI | x9
+This will go much smoother.
+
+#### ba43ab1075-LM | HARVEY → BRUCE | x9
+If you need another sports metaphor, I’ll cook one up.
+
+#### c783a3f2c1 | HARVEY | x9
+This will be cake.
+
+#### 6fd7bac4aa | HARVEY | x9
+But they’re all gonna point to one thing--
+
+#### 0f3692858b | HARVEY → ALFRED | x9
+Thank you for coming, everyone.
+
+#### 7bfaf9e062 | HARVEY → ALFRED | x9
+Let’s crack into this, shall we?
+
+#### d5458ea015 | HARVEY → ALFRED | x9
+This is truly a bright day for Gotham.
+
+#### 1bd97364b5 | ALFRED → HARVEY | x9
+Bruce...the GCPD are here, and they have a warrant to search the manor.
+
+#### 1a1537452a-LM | ALFRED → HARVEY | x9
+You need to get here right away.
+
+#### 937830ef63 | choice/UI → HARVEY | x9
+Stall them.
+
+#### eab7f6afe7 | choice/UI → ALFRED | x9
+What are they after?
+
+#### d1eb1ddffc | choice/UI → ALFRED | x9
+I’ll get there as soon as I can.
+
+#### 3864970fe5 | BRUCE → ALFRED | x9
+Stall them if you can, Alfred,
+
+#### d9fd9bf3d8 | choice/UI → REPORTER02 | x9
+“Busy”
+“Call me ASAP”
+
+#### fe072b874b | choice/UI → REPORTER02 | x9
+“What’s up?“
+“GCPD is here”
+
+#### edc4769a0e | REPORTER02 → ALFRED, HARVEY | x18
+Marty Simon. The Tribune.
+
+#### c4e479c672 | BRUCE → ALFRED | x9
+Hold down the fort, Alfred, I’ll be there as soon as I can.
+
+#### f5b7a599ef | ALFRED → HARVEY | x9
+I will keep a firm grip on things until you arrive.
+
+#### d669491b07 | HARVEY → BRUCE | x9
+Again, Bruce?
+
+#### e17062e831 | choice/UI, BRUCE → HARVEY, REPORTER03 | x18
+Don’t you have enough photos of me?
+
+#### 0e9121c2f1 | choice/UI → HARVEY | x9
+Send me that one.
+
+#### 694ee54eb9-SM | BRUCE → HARVEY | x9
+When I was{ThinkingA} nine years old, my parents took me to{HappyA} see a movie about a hero in a mask.
+
+#### cfaae60eb3-SM | BRUCE → HARVEY | x9
+I loved the hero.
+
+#### 66328d73e1 | BRUCE → HARVEY | x9
+I’m building this facility so that no other families have to suffer.
+
+#### d9eec22db6 | BRUCE → VICKI | x9
+I’ll take questions now.
+
+#### 140fee7154 | BRUCE → REPORTER02 | x9
+But I couldn’t be the hero that night.
+
+#### 33fa532993 | REPORTER02 → BRUCE | x18
+Mr. Wayne, this morning the Tribune received rather shocking evidence from a highly credible source linking your parents, Thomas and Martha Wayne, to organized crime here in Gotham.
+
+#### d4dcb8179a | REPORTER02, REPORTER03 → BRUCE | x27
+Would you care to comment?
+
+#### 5d5b0c8474 | choice/UI → HARVEY, REPORTER01 | x18
+I’d check your sources
+
+#### 7a7b98a1ee | REPORTER04 → BRUCE | x9
+But isn’t it true, Mr. Wayne, that Carmine Falcone was at your house just last night?
+
+#### 0ac3068c2e | HARVEY → REPORTER01 | x9
+In the meantime... any more questions?
+
+#### 374b8ab6ea | BRUCE → REPORTER01 | x9
+Get my good side, alright?
+
+#### 4c8e20a0b8-SM | REPORTER01 → BRUCE | x9
+Oh, I got it.
+
+#### 1de2c3ae68 | REPORTER03 → BRUCE | x9
+Not today!
+
+#### 5ba16837d0 | BRUCE → REPORTER03 | x9
+Text me that one, will you?
+
+#### c4651690e6 | HARVEY → REPORTER03 | x9
+Check out this showboating son of a gun.
+
+#### b8262b6a0c | HARVEY → BRUCE | x9
+Mind if we swap cars?
+
+#### 7e429b1a75 | BRUCE → HARVEY | x9
+Hey, Harv.
+
+#### 2fbfbdc6bb | HARVEY → BRUCE | x9
+Bought her after my first year working as a law clerk.
+
+#### 21e09e1c90 | HARVEY → BRUCE | x9
+She’s not fast, she’s rusting through the paint, but she’s mine.
+
+#### 00a6234e8c | HARVEY → BRUCE | x9
+That’s me there.
+
+#### b9c1540f6b | choice/UI → HARVEY | x9
+Sure, our next Mayor deserves better.
+
+#### 869ba7fcf4 | choice/UI → HARVEY | x9
+Your car builds character.
+
+#### a45c486cf2 | choice/UI → HARVEY | x9
+Take your car to the junkyard.
+
+#### a5e10e5629 | BRUCE → HARVEY | x9
+Be careful stepping on the gas though--{SmugA}it’s got a real kick.
+
+#### 6c49f91e11 | BRUCE → HARVEY | x9
+The next Mayor of Gotham should ride in style.
+
+#### 2aaba3da56 | HARVEY → BRUCE | x9
+I can imagine.
+
+#### 93cbfb10a9 | HARVEY → BRUCE | x9
+If you call waiting for the tow truck every week{SmugA} “building character.“
+
+#### f466923f29 | BRUCE → HARVEY | x9
+A car like yours, {SmugB}that builds character.
+
+#### 0bb06700da | BRUCE → HARVEY | x9
+You can probably find a better car there.
+
+#### 6030fa3c53 | BRUCE → HARVEY | x9
+How about a lift to the junkyard?
+
+#### 4d42dd19ad | HARVEY → BRUCE | x9
+So I take that as a... “no.“
+
+#### 6850255b79 | HARVEY → BRUCE | x9
+It’s how you drive.
+
+#### b04fa68210 | HARVEY → BRUCE | x9
+That’s fine though, really, {ThinkingA}the car doesn’t make the man.
+
+#### d1c04be95a | BRUCE → HARVEY | x9
+We can do *better.*
+
+#### 445ab77f9f | BRUCE → HARVEY | x9
+Arkham has only done harm to Gotham.
+
+#### bdeef4bcdf | BRUCE | x9
+That we, as a city, can do better.
+
+#### 0edc5197bb | BRUCE → HARVEY | x9
+I don’t want us lingering on past mistakes--we need to focus on Gotham’s future.
+
+#### 8e05c28d7d | HARVEY → BRUCE | x9
+Please, Bruce. Go ahead.
+
+#### b9a0c9239c | BRUCE → HARVEY | x9
+A hero who stood up to {FaceAccent}oppression and{BodyAccent} defended the people from injustice,{ConcernedA} no matter the cost.
+
+#### fb11a6f888 | BRUCE → HARVEY | x9
+Though my parents were far from
+
+#### b5dac75b98-SM | BRUCE → HARVEY | x9
+I... I’m not really one for speeches, but I got it from here, Harvey.
+
+#### 5a6e661ae4 | BRUCE → HARVEY | x9
+That night...{SadA} my parents{FaceAccent} paid the {AngryA}ultimate cost defending me from a{BodyAccent} man... {SadB}who needed the kind of help this new facility can provide.
+
+#### 532d697e21 | BRUCE → HARVEY | x9
+After all these years,{SadB} I... I still have the movie tickets...
+
+#### 62856c3f2e | choice/UI → HARVEY | x9
+We can all be heroes.
+
+#### 779da3c358 | choice/UI → HARVEY | x9
+Let us honor their memory.
+
+#### c2bbedff81 | HARVEY → BRUCE | x9
+I promise{HappyA} he’ll be here soon.
+
+#### f2b8720a17 | HARVEY → BRUCE | x9
+We should *all* take Bruce’s words to heart.
+
+#### 399995cdb9 | HARVEY → BRUCE | x9
+Okay, who’s up next?
+
+#### 462b2bf3d2 | BRUCE → HARVEY | x9
+In the hope that no more families are broken apart.
+
+#### cef13e0eea | HARVEY → BRUCE | x9
+We can never repay your parents for what they’ve given this city.
+
+#### f5dd0199e3 | HARVEY, LELAND → BRUCE | x11
+It’s okay, Bruce.
+
+#### 499bc0f5cf | BRUCE → HARVEY | x9
+I ho
+
+#### 06aab72201 | BRUCE → HARVEY | x9
+Groundbreaking on the Thomas and  Martha Wayne Memorial Hospital begins today.
+
+#### b6052ccad5 | HARVEY → BRUCE | x9
+I’m confident that the Thomas and Martha Wayne Memorial Hospital will finally do your parents the justice they deserve.
+
+#### a9121996db-SM | HARVEY → BRUCE | x9
+Now... I promised you all a few questions about the facility, so let’s open it up.
+
+#### 2c1894b579 | BRUCE → HARVEY, REPORTER01 | x18
+I’d check your sources.
+
+#### 89c8031d00 | BRUCE → HARVEY, REPORTER01 | x18
+Sounds like one of your interns is putting their creative writing minor to good use.
+
+#### 23e1e1ce1e | BRUCE → HARVEY | x18
+I don’t read the tabloids, okay?
+
+#### 773d0de9d7 | BRUCE → HARVEY | x18
+Let’s stick to real journalism here.
+
+#### 30d6e2965b | HARVEY → BRUCE | x9
+We’re here about the Thomas and Martha Wayne Memorial Hospital, remember?
+
+#### 65a5de99c2 | REPORTER03 → BRUCE | x9
+This morning the Tribune received rather shocking evidence from a highly credible source linking your parents, Thomas and Martha Wayne, to organized crime here in Gotham.
+
+#### e27622ecce | REPORTER01, REPORTER04 → BRUCE | x18
+Is that true?
+
+#### a59e0d8539 | BRUCE → HARVEY | x18
+Harvey invited him.
+
+#### d1b0de82fa | HARVEY → BRUCE | x9
+Mr. Falcone’s a citizen of Gotham.
+
+#### f96f9dc3bf | BRUCE → HARVEY | x18
+Neither did my family.
+
+#### 27770d61d8 | BRUCE → HARVEY, REPORTER02 | x18
+He came to learn about the next mayor of Gotham.
+
+#### e39fd12ac2 | BRUCE → HARVEY, REPORTER02 | x18
+Falcone is a voter like anyone else in this city.
+
+#### 80166aafd4 | BRUCE → HARVEY | x18
+I wouldn’t welcome a man like that into my home.
+
+#### 3c2e499860 | HARVEY → BRUCE, ALFRED | x18
+Everyone... settle down.
+
+#### a697788553 | BRUCE → HARVEY | x9
+Enough! This press conference is *over.*
+
+#### a894752724 | HARVEY → REPORTER01, ALFRED | x18
+I’ll be fielding the questions from here on out.
+
+#### 520f23d1fd | REPORTER03 → REPORTER01 | x18
+Does that mean the allegations are true?
+
+#### 142efcb09d | REPORTER02 → ALFRED, REPORTER04 | x18
+How long’ve you been dealing with Falcone?
+
+#### 6a3fe4800d | BRUCE → ALFRED | x18
+A little busy, Alfred.
+
+#### ecff4336f6 | REPORTER02 → BRUCE | x9
+If true, these allegations would mean the entire Wayne fortune is in fact dirty money.
+
+#### 87e97e8bdf | REPORTER02 → BRUCE | x9
+If true, these allegations would mean the Wayne’s aren’t the untouchable golden family Gotham thinks they are.
+
+#### bd921348a0 | HARVEY → REPORTER02 | x9
+You can’t blame being late on traffic because that thing looks like it could break the sound barrier.
+
+#### cd9c7a4135 | BRUCE → HARVEY | x9
+It’s come close.
+
+#### 1cb89e74a6 | HARVEY → BRUCE | x9
+Then yes... {HappyA}lots and lots of character.
+
+#### 44dc8d9772 | HARVEY → BRUCE | x9
+Not to brag but... *no tickets.*
+
+#### 81a3e95046 | HARVEY → BRUCE | x9
+Okay, folks.
+
+#### d154e0035e | HARVEY | x9
+Its methods for rehabiliation crude, its security lacking.
+
+#### 3db1d3b1a5 | HARVEY → BRUCE | x9
+Worse still, those who do get out -- {FearA}or worse escape -- {ConcernedA}are even more dangerous than before.
+
+#### 51b895818b | HARVEY → BRUCE | x9
+And the rate of death and suicide inside the {ConcernedB}asylum is truly terrifying.
+
+#### cdeaa903ad | choice/UI → HARVEY | x9
+Make certain this never happens again.
+
+#### 489816fd60 | BRUCE → HARVEY | x9
+It starts with this hospital.
+
+#### 3975af6f11 | BRUCE → HARVEY | x9
+I will do anything in my power to make certain a night like that... never happens again.
+
+#### 91463d8253 | BRUCE | x9
+The world is darker for their absence, but by giving their lives, they allowed me a chance to bring back some of that light.
+
+#### cded4496dc-L? | BRUCE → REPORTER04 | x9
+Did you get my good side?
+
+#### 09551baa02 | choice/UI → HARVEY | x9
+Morning, everyone.
+
+#### 08be1c9c35 | HARVEY → BRUCE | x9
+Mine isn’t fast and the paint’s rusting off...{AmusedA} but she has charm.
+
+#### 8ded3b3ffd | HARVEY → BRUCE | x9
+It looks more like a jet than a car.
+
+#### a3f0cf1dd6 | HARVEY → VICKI | x9
+I can take it from here.
+
+#### 360873047b | HARVEY → VICKI | x9
+I’m confident this place of healing will finally grant your parents the justice they deserve.
+
+#### 0128ce983d | REPORTER01, REPORTER04 → ALFRED | x18
+You may claim your parents were on the level, but my sources say *you* welcomed Carmine Falcone into your home.
+
+#### cf48305c11-SM | choice/UI, BRUCE → REPORTER03, REGINA | x5
+I won’t do it.
+
+#### 960b745369 | choice/UI → REPORTER01 | x3
+This is for my legacy, not for you.
+
+#### 357f4bd037 | choice/UI | x3
+I’ll play along.
+
+#### 2108172af6 | choice/UI | x3
+Oh, you’ll remember this.
+
+#### fa69ca2a15 | choice/UI | x3
+Don’t look so confident.
+
+#### 4423278136 | choice/UI | x3
+The business is innocent
+
+#### 1cb704d318 | choice/UI | x3
+Built on corruption.
+
+#### 1c455070c0 | choice/UI | x3
+illegal appropriation
+
+#### d03ccfd977 | choice/UI | x3
+unlawful imprisonment
+
+#### 3c36f93c9b | choice/UI | x3
+Is still corrupt
+
+#### 42af3631fc | choice/UI | x3
+Happy to be here.
+
+#### 351e7954c5 | choice/UI | x6
+political bribery
+
+#### 352b8fa276 | choice/UI | x3
+illegal experiments
+
+#### 19912115ef | choice/UI | x3
+money laundering
+
+#### 9cc0a0cb27 | choice/UI | x3
+Start reading
+
+#### 8fcafe6e9c | choice/UI | x3
+I agree with their decision
+
+#### eb0ddb714f | choice/UI | x3
+I disagree with them
+
+#### 833de19c18 | choice/UI | x3
+Who do they think they are?
+
+#### 9df28f4735 | choice/UI | x6
+I’m voluntarily stepping down.
+
+#### 9d9825001d | choice/UI | x3
+cs_speech2
+
+#### 24a4b0f6e9 | choice/UI | x3
+cs_speech3
+
+#### 22561de318 | choice/UI | x3
+This isn’t voluntary.
+
+#### d50f89a66f | choice/UI | x3
+I’m being forced to lie!!
+
+#### 44c961198a-SM | choice/UI | x3
+I was asked to be here.
+
+#### cc10f4675a | choice/UI | x3
+This is a script.
+
+#### 9e0a20c8fc | choice/UI | x3
+Wayne Enterprises is spotless.
+
+#### d186f53aee | choice/UI | x3
+The Children of Arkham did this.
+
+#### 173a4a0a50 | choice/UI | x3
+I’m not fit to be CEO.
+
+#### e00e9acf47 | choice/UI | x3
+The Board has no clue
+
+#### 18666a0d4f | choice/UI | x3
+The Board is corrupt.
+
+#### ca98771c1a | choice/UI | x3
+Cobblepot is brilliant.
+
+#### 6b31f0ea3c | choice/UI | x3
+Oswald is a fraud!
+
+#### a7ab59abb8 | choice/UI | x3
+He’s one of the Children of Arkham!
+
+#### f07ef34481 | choice/UI | x3
+The company is in great hands.
+
+#### 6839f0b2a5 | choice/UI | x3
+He’ll destroy Wayne Enterprises!
+
+#### 6a8b7b7ffe | choice/UI | x3
+All of Gotham is in danger!
+
+#### fd12863535 | choice/UI → OSWALD, HARVEY, ALFRED | x10
+no
+
+#### f8c8415a56-L? | choice/UI | x3
+You won’t get away with this!
+
+#### 04699c4a06 | choice/UI, BRUCE → REGINA | x6
+How could you?
+
+#### 2b19a18fe4 | choice/UI | x3
+You’re with the Children of Arkham
+
+#### f4d059c240 | choice/UI | x3
+You have no dignity.
+
+#### 63b0d290be | choice/UI | x3
+It’s a good look for you.
+
+#### 5d6aaf437c | choice/UI | x3
+Sorry about your face.
+
+#### 8b40450814 | choice/UI | x3
+Your family deserves this.
+
+#### 3e2fafa5f8 | choice/UI → HARVEY | x7
+Over my dead body.
+
+#### 1b6a3f2716 | choice/UI | x3
+That’s up to the board.
+
+#### e49015a355-SM | choice/UI | x3
+I did what I could.
+
+#### 8d5b608669 | choice/UI | x3
+We can talk when this is over.
+
+#### bfb321c9d3 | choice/UI → OSWALD | x6
+I don’t want to fight him!
+
+#### efa48d4497 | choice/UI → OSWALD | x6
+Arrest Vicki Vale!
+
+#### 34edc8c32f | choice/UI → REGINA, OSWALD | x6
+She drugged me!
+
+#### fc7df2b675 | choice/UI → REGINA | x3
+I know about your secret.
+
+#### 60c0434321 | choice/UI → REGINA | x3
+The Children gave you this.
+
+#### edcc693cff | choice/UI → REGINA | x3
+You’re just a pawn.
+
+#### 946bf2b2d3 | REGINA → BRUCE | x3
+Good morning, Bruce. {SmugA}We’ve prepared a brief {TiredA}damage control statement for you.
+
+#### a3f2492783 | REGINA → OSWALD | x3
+After that, you can you can hand it over to Oswald-
+
+#### 572bddeb54 | OSWALD → REGINA | x3
+--{SarcasticA}and then I can take it from there. {SarcasticB}Got my little coronation speech just waiting.
+
+#### 5a577316cc | REGINA → BRUCE | x3
+And please, Bruce. Try to be on your best behavior.
+
+#### 792a70e89e | OSWALD → REGINA | x3
+Yes... if not for your own good, at least for your parents’ sake.
+
+#### 1f02e503c3 | REGINA → BRUCE | x3
+Thank you for being so cooperative about all this, Bruce. {SmugA}It really is for the best...
+
+#### 02594a8f3f | REGINA → OSWALD | x3
+This current situation is not how Gotham should remember your parents, not after all they did to help this city.
+
+#### 4f56988a05 | REGINA → OSWALD | x3
+Right now, your family’s reputation-- the entire Wayne legacy-- depends on your cooperation, okay? ...as does the EXTREMELY generous Golden Parachute you’ll be receiving.
+
+#### 9506c785f3-SM | BRUCE → REGINA | x3
+I haven’t had a say in {AngryB}any of this, and you expect me to cooperate?{AngryA} I won’t do it.
+
+#### 7f2d574b07 | REGINA → BRUCE | x3
+This is about more than just your ego, Bruce.  {ConcernedA}It’s in everyone’s best interest for you to gracefully step down.
+
+#### fa1305965c | REGINA → BRUCE | x3
+Especially your best interest.
+
+#### 8257bca92e-LF | BRUCE → REGINA | x3
+You’re right, this is my legacy--{AngryB}and the only reason I’m putting up with this charade.
+
+#### d0b543908e | REGINA → BRUCE | x3
+Yes... {FaceAccent}well, {ThinkingA}as long as you cooperate, {ThinkingB}I suppose your motivation is irrelvant.
+
+#### 4a1cf44eab | BRUCE → REGINA | x3
+Of course, Regina. {AmusedA}Whatever I can do to help.
+
+#### cc760374db | REGINA → BRUCE | x3
+That’s good, Bruce. {SmugA}Trust us to sort this all out. {HappyA}Everything will be fine.
+
+#### 89c5cca439-SM | BRUCE → REGINA | x3
+I’m sure it will.
+
+#### 06f1d108ae | REGINA → OSWALD | x3
+Hopefully you find your voice at the podium.
+
+#### 8002d18956 | OSWALD → REGINA | x3
+Perhaps a cat’s just got his tongue.
+
+#### af5a7ab105 | OSWALD → BRUCE | x3
+Hey, Bruce, you like my shiner?
+
+#### 880234e649 | OSWALD → REGINA | x3
+Bruce, what’s your opinion of the shiner? {DisgustA}Regina wanted me to {DisgustB}cover it up with makeup. {DoubtfulA}She doesn’t think it looks very dignified.
+
+#### 8086d4b6d5 | OSWALD → REGINA | x3
+But here I think it’s a {SarcasticB}fine display of what the moral high ground looks like.
+
+#### 40b229c9c2 | REGINA → OSWALD | x3
+Mr. Cobblepot.
+
+#### fe1e229a73 | OSWALD → BRUCE | x3
+All in good fun, honestly. {SmugB}A thrown punch is just water under the bridge. {HappyA}Right, Bruce?
+
+#### d1aaeb6574-LM | BRUCE → OSWALD | x3
+It’s not the black eye that makes you undignifed, Oz.
+
+#### 01b92a4708 | REGINA → OSWALD | x3
+Will you two please stop this? {AngryA}You’re both professionals.
+
+#### 14df7cb97b | BRUCE → OSWALD | x3
+I don’t know, the black eye’s a good look for you, Oz.
+
+#### c57ef3f831 | OSWALD → BRUCE | x3
+Heh, heh. Really?
+
+#### 75ff32fb17 | BRUCE → REGINA | x3
+Yeah, it shows off just how delightfully punchable that face of yours really is.
+
+#### e178fb3fe7 | BRUCE → OSWALD | x3
+Sorry for hitting you, Oswald. {ThinkingA}It was wrong.
+
+#### 155fc70660 | OSWALD → REGINA | x3
+Uh... {DoubtfulA}I...
+
+#### 305bc26311 | REGINA → BRUCE | x6
+Thank you, Bruce. I appreciate you being such a professional.
+
+#### c31703f940-SF | REGINA → OSWALD | x3
+And I’m sure Oswald appreciates it as well...
+
+#### cf6b49ae1d | OSWALD → REGINA | x3
+All ready, then? {HappyA}We are going to make quite a splash today, aren’t we?
+
+#### b2d93e399f | OSWALD → REGINA | x3
+We are going to make a heck of a splash today, buddy.
+
+#### d94854533c | OSWALD → BRUCE | x3
+And don’t worry about your company, it’s in very good hands.
+
+#### 1bab1c3b60 | OSWALD → BRUCE | x3
+I don’t think I’m ever going to forget this day.
+
+#### 28c1e71b39 | BRUCE → OSWALD | x3
+Oh, don’t worry... Oz. {SmugB}I’ll make sure you remember {AngryA}every {AmusedA}moment.
+
+#### 734001650d-LM | BRUCE → OSWALD | x3
+I’ll make sure that you won’t forget this.
+
+#### 92d1e51c94 | OSWALD → BRUCE | x3
+Meaning...
+
+#### bb0a29257d-SM-LM | BRUCE → OSWALD | x3
+I wouldn’t be so confident if I were you, Oz. {AmusedB}The show hasn’t started yet.
+
+#### 21c481ebb4-SM | OSWALD → BRUCE | x3
+Maybe for you, {SmugA}but I’ve read your script...
+
+#### 87084810dc | OSWALD → BRUCE | x3
+So I already know how the story is going to end.
+
+#### 7bf6947f7c | BRUCE → OSWALD | x3
+Happy to be here too, Oz.
+
+#### ffb45b9e02-LM | OSWALD → BRUCE | x3
+If you’re going to dish it out, you’ve got to be able to take it, too.
+
+#### a0dac07f31 | OSWALD → BRUCE, REGINA | x6
+What goes around comes around, right?
+
+#### dc77f6d7b5 | OSWALD → BRUCE | x6
+Holy blank stare!
+
+#### 0235b64e8c | OSWALD | x3
+Beautiful weather, corporate intrigue, a {SarcasticB}well-deserved comeuppance...
+
+#### d5d95c305a | OSWALD | x3
+This really {SarcasticA}does have all the elements.
+
+#### ecf705b083 | OSWALD → REGINA | x3
+This is a first step towards making things right.
+
+#### e27c0a4051 | OSWALD → REGINA | x3
+Soon enough, it’ll be “Cobblepot Industries,“ “Cobblepot Medical” and “Cobblepot Tech” on the tops of buildings, and {CombatA}you Waynes will be what you should have been all along: {DisgustB}a forgotten footnote.
+
+#### 497a6ddb97 | OSWALD → REGINA | x3
+Soon enough, it’ll be “Cobblebot Industries,“ “Cobblepot Medical” and “Cobblepot Tech” on the tops of buildings and you and your family will be what you deserve to be: a forgotten footnote.
+
+#### 52454a69cc-LM | REGINA → OSWALD | x3
+Don’t get ahead of yourself, Oswald...There are no plans for any name changes yet.
+
+#### 7b66ee0a05 | REGINA → OSWALD | x3
+There are no plans for any name changes yet.
+
+dir
+
+
+
+Emily Garrison, Thu Jul  7 15:21:38 2016) Regina tells Oswald that there is no plan to change the name yet.
+
+#### c6c0eed854 | REGINA → OSWALD | x3
+There are no plans for any name changes yet.
+
+#### 1771e21790 | OSWALD → REGINA | x3
+“Yet.“
+
+#### 078a2515d0 | OSWALD → BRUCE | x3
+Hear that, Bruce...? “Yet.“
+
+#### 3a409a8aa4 | BRUCE → OSWALD | x1
+What the Waynes built would not have been possible without the Copplepots, Oswald.
+
+#### 35c4b2bb5e | BRUCE → OSWALD | x3
+I suppose you deserve it as much as I do.
+
+#### 974972e8cb | OSWALD → BRUCE | x3
+Bloody right I do. {SarcasticA}Glad you’re coming around to my way of thinking.
+
+#### 09216fea08 | REGINA → BRUCE | x3
+That’s extremely magnanimous of you, Bruce.
+
+#### d6ae136e11 | BRUCE → OSWALD | x3
+That is not going to happen.
+
+#### e55af074a4 | OSWALD → REGINA | x3
+Some people just can’t accept humiliating defeat, eh?
+
+#### fd6d229e8a | REGINA → OSWALD | x3
+Both of you, stop this.
+
+#### 2e3cd4774a | REGINA → OSWALD | x3
+Right now, I don’t care about either one of your families.
+
+#### 8e94a87e08 | OSWALD → REGINA | x3
+“Cobblepot” will come to mean the future of {SmugB}Gotham.
+
+#### b2910df1df | OSWALD → REGINA | x3
+And “Wayne” will simply continue to go on meaning “to decrease in power and become weaker.“
+
+#### c475bbef2a | BRUCE → REGINA | x3
+That’s not your decision to make and Mrs. Zellerbach doesn’t seem to share your enthusiasm.
+
+#### 345d0aa2a9 | REGINA → OSWALD | x3
+The name of the company is up to the board, not Mr. Cobblepot.
+
+#### a65fd6f885 | REGINA → OSWALD | x3
+Not Oswald.
+
+#### a9c50bd318 | REGINA → OSWALD | x3
+Well said, Oswald.
+
+#### 39ddedf10c | OSWALD → BRUCE | x3
+You finally out of witty retorts, Bruce?
+
+#### 85729ce698 | OSWALD → REGINA | x3
+Has the golden boy finally lost his shine?
+
+#### 20952c84d1 | REGINA → BRUCE | x3
+Bruce, I’m going to introduce you and then you’re on.
+
+#### 4d96bcf58f | REGINA → OSWALD | x3
+Please stick to the teleprompter.
+
+#### 1fc93a84a8 | REGINA → OSWALD | x3
+Wayne Enterprises has always taken its role in the community very seriously...
+
+#### d7ceedf4ea | OSWALD → REGINA | x3
+Isn’t it funny?
+
+#### ecd1ef4fbe-SM | OSWALD → BRUCE | x3
+How everything I said to you in the park has come true.  Me, taking everything that’s yours.
+
+#### 1d43ca6119-LM | BRUCE → OSWALD | x3
+You always did have an odd sense of humor.
+
+#### 7fb3cd1cb2 | OSWALD → BRUCE | x3
+And that’s not even the punch line. {SarcasticB}No, dearheart. {SmugA}Not even close.
+
+#### 44fc95c7a0 | OSWALD → BRUCE | x3
+While my shining future in Gotham is just beginning, you’ll just be a living dead man here, won’t you?
+
+#### fcf0ab21cc-LM | OSWALD → BRUCE | x3
+Enjoy yourself, Bruce.
+oswaldYou just never know how much time you have left.
+
+#### 224375f059 | OSWALD → BRUCE | x3
+No one will follow your every move.
+
+#### ad3e8d237d | BRUCE → OSWALD | x3
+I know you’re the Penguin, Oswald. I’m going to expose you.
+
+#### 774ded620f | OSWALD → BRUCE | x3
+Oh, knowing and proving {SarcasticB}are two very different things, Bruce.
+
+#### 6f354a65f1 | OSWALD → BRUCE | x3
+But go ahead, geezer- try to make that case, I’d just looooove to see that.
+
+#### 4b9aa3cdd4 | OSWALD → BRUCE | x3
+I’d just looooove to see that.
+
+#### c284cec2ea | BRUCE → OSWALD | x3
+The Children of Arkham handed you this coup, Oswald. You didn’t {AngryB}earn any of it.
+
+#### 8e05e3b783 | OSWALD → BRUCE | x3
+Who cares? {SarcasticA}It never really matters how a king comes to sit on his throne, Bruce. {SarcasticB}The only thing that matters is that it’s his bum warming the chair.
+
+#### a65c27d00e | BRUCE → OSWALD | x3
+You just Lady Arkham’s pawn, Oswald...
+
+#### 1530956bf6 | BRUCE → OSWALD | x3
+And everyone knows that pawns are meant to be sacrificed.
+
+#### b6629eb201 | OSWALD → BRUCE | x3
+Ah, perhaps. {SmugA}But {SmugB}at least I get the joy of watching your shocking and surprising {SarcasticA}descent first.
+
+#### c3a75516f0 | OSWALD → BRUCE | x3
+Then, at least I get the joy of watching you fall first.
+
+#### 72cbf44caa | OSWALD → BRUCE | x3
+And you haven’t even got the foggiest idea of just how far a fall it’s gonna be.
+
+#### ca4146b71a | OSWALD | x3
+You’ll be a living dead man. {DisgustA}The ghost of Gotham.
+
+#### b0938ba90a | OSWALD | x3
+It’d almost be sad {DisgustA}if you weren’t so {DisgustB}bloody handsome.
+
+#### 11a702cff3 | OSWALD → REGINA | x3
+Now, that’s it. {SarcasticB}Just reflect on all that for a bit.
+
+#### 5d087d98d8 | OSWALD → REGINA | x3
+But at least I get the joy of watching your shocking and surprising descent first.
+
+#### 772dac6739-SM | OSWALD → REGINA | x3
+I’m sure it’s been a whole lot for you to take in.
+
+#### c9e6290819 | REGINA → OSWALD | x3
+And now, Bruce Wayne would like to say a few words.
+
+#### 5d220bfdfe | OSWALD → BRUCE | x3
+After all... you just never know how much time you really have left.
+
+#### c06a2bf6bd-LM | OSWALD → BRUCE | x3
+Remember, enjoy yourself, Bruce! {SmugB}After all, you never know how much time you really have left.
+
+#### 7bf663a21d-SM | BRUCE → OSWALD | x3
+Ladies and gentlemen, {ThinkingB}in light of recent allegations against my family, I have decided to voluntarily step down as CEO of Wayne Enterprises.
+
+#### 0d5c8c570b | BRUCE → OSWALD | x3
+The board of Wayne Enterprises has voted me out.
+
+#### c74b35e590-SM | BRUCE → OSWALD | x3
+But I won’t do that. I will not lie to save face.
+
+#### b78ebcee4e | OSWALD → BRUCE | x3
+Just read the bloody script, Bruce.
+
+#### 61d7183e6e | BRUCE → OSWALD | x3
+This company is now being run by the Children of Arkham.
+
+#### ec2af919d3 | OSWALD → BRUCE | x3
+For your own good, ya best stop being a wanker and turn this thing hunky-dory right quick, got me?
+
+#### adf48b3abb | BRUCE → OSWALD | x3
+This company is corrupt. {AngryB}It has been for years.
+
+#### c33bd62dab-SF | REGINA → OSWALD | x3
+I’m sorry, {ConfusedB}we seem to be having, uh, technical issues.
+
+#### d28ce3611b | OSWALD → BRUCE | x3
+C’mon, ya wanker- start talking.
+
+#### caa0dd0251 | OSWALD → BRUCE | x3
+Stop doing bugger all and read the words of the screen, ya wanker.
+
+#### 021915cf93 | OSWALD → REGINA | x3
+You’re too kind!
+
+#### c36a0ed87e | BRUCE → OSWALD | x3
+My so-called replacement, Oswald Cobblepot {AngryB}is a criminal, {SkepticalB}not a businessman. {AngryB}His entire history has been faked!
+
+#### b11fa513cd | OSWALD → BRUCE | x3
+Ha! Very funny, Bruce!
+
+#### 6b712d59c4 | OSWALD → BRUCE | x3
+You’re starting to sound crazy, Bruce!
+
+#### 6f0adda5aa | OSWALD → BRUCE | x3
+Speak, ya stupid geezer.
+
+#### edd4be66a0 | OSWALD → REGINA | x3
+Speak, ya stupid geezer.
+er making US ALL look daft.
+
+#### 01fb46ce1f | BRUCE → OSWALD | x3
+They control his every move.
+
+#### b661b87760 | REGINA → OSWALD | x3
+Are you having trouble reading the teleprompter?
+
+#### ff0c7fa46b | REGINA → BRUCE | x3
+Mr. Wayne, are you having trouble reading the teleprompter?
+
+#### 1464a52765 | OSWALD → BRUCE | x3
+Yer making US ALL look daft.
+
+#### 7c4dcdbbc4 | BRUCE → REGINA | x1
+Wayne Enterprises is in very serious trouble under Copplepot’s control. {AngryA}He intends to destroy the company as part of his--
+
+#### f7264d149d | BRUCE → OSWALD | x3
+Because he intends to destroy the company as part of an elaborate revenge scheme-
+
+#### 10e6006e50 | BRUCE → REPORTER01 | x3
+Yes- The Children of Arkham will now-
+
+#### 1135e7910b | OSWALD → BRUCE, ALFRED | x6
+Just to show that there aren’t any hard feelings...
+
+#### d79ca811a2 | OSWALD → BRUCE, ALFRED | x6
+Ladies and gentlemen, please...
+
+#### 41b16ecf57 | VICKI → BRUCE | x3
+I know the bylines say Vicki Vale, but I prefer Lady Arkham.
+
+#### 48208a64c7 | BRUCE → OSWALD | x3
+You?!?
+
+#### 672327db92-LM | BRUCE, choice/UI → OSWALD, HARVEY | x5
+You won’t get away with this.
+
+#### a86beb2f55 | OSWALD → BRUCE | x3
+We’re not trying to “get away” with anything...
+
+#### 8214ee4baa | REGINA → BRUCE, VICKI | x9
+It’s okay, Bru--
+
+#### f0b7cf943e | BRUCE → VICKI, REGINA | x9
+No, it’s not “okay!“
+
+#### 63facbf620 | VICKI → BRUCE | x3
+It was THE BOARD that voted Oswald in, Bruce.
+
+#### ac503e694d | BRUCE → VICKI | x3
+...You... You’re working with the Children of Arkham...
+
+#### 575802e355 | VICKI → BRUCE | x3
+Yes. I am.
+
+#### 402e48701b | VICKI → BRUCE | x3
+And there’s not a thing you can do about it.
+
+#### dac58b9784 | VICKI → BRUCE | x3
+Just relax, Bruce.  {HappyA}This will all be over soon.
+
+#### 156aba021f | VICKI → OSWALD | x3
+And this will all be over soon.
+
+#### 87a82ca7c0 | OSWALD → VICKI | x3
+... so thank you for coming.
+
+#### 5d2ed6f8c4 | OSWALD → VICKI | x3
+And, if we can just get one more round of applause for my best friend, the man of the hour...Ladies and gentlemen,{SmugB} Bruce Wayne!
+
+#### 45fff095db | VICKI → OSWALD | x3
+Look at him up there, {DisgustA}taking everything that should belong to you.
+
+#### adeebf2da8 | VICKI → OSWALD | x3
+Mocking you, the smug, insignificant bastard!
+
+#### 511e2b1b0d | VICKI → BRUCE | x3
+You want to get rid of him.
+
+#### 3206979e77 | VICKI → BRUCE | x6
+You want to take Oswald Cobblepot out of the picture.
+
+#### 130f3404b9 | BRUCE → VICKI, OSWALD | x6
+We are not friends!
+
+#### 9d0c326da9 | BRUCE → VICKI, OSWALD | x6
+Help! {ConcernedB}Someone!
+
+#### 7c2a7f1f38 | BRUCE → VICKI | x3
+SOMEONE HELP ME...
+
+#### 29f3c09884 | OSWALD → BRUCE | x6
+Nobody’s hurting you, Bruce. Relax!
+
+#### 41f7c2f8cc | BRUCE → OSWALD | x3
+The crowd laughs.
+
+#### 27e6e93255 | BRUCE → OSWALD | x6
+I’ve been drugged!
+
+#### eefa728b84 | BRUCE → OSWALD | x6
+She--
+
+#### a3da1c4f68-LM | OSWALD → BRUCE | x6
+Oh, I’m pretty sure that’s not the reason you lost your company, Bruce.
+
+#### 22eac2e078 | BRUCE → OSWALD | x3
+The guy’s a real jerk-
+
+#### 053e4a1510 | BRUCE → OSWALD | x3
+You. {SurpriseB}You’re with the Children of Arkham!
+
+#### 19d07ac8f1 | VICKI → BRUCE | x3
+Yes... You know, I’ve never been one for titles but, I have to admit, I like the sound of “Lady Arkham.“
+
+#### d2f5d58f95 | OSWALD → BRUCE | x3
+Great words from a great man.
+
+#### 540bad6209-LM | REGINA → BRUCE | x3
+Thank you, Bruce. You did very well.
+
+#### f9fc6baa05-LM | REGINA → BRUCE | x3
+That was quite a show you put on, Bruce.
+
+#### cb2ca94674 | BRUCE → REGINA | x3
+Lady Arkham?
+
+#### aa6c6378d1 | BRUCE → VICKI | x3
+Here?
+
+#### 05e481dd52 | VICKI → BRUCE | x3
+Nice statement.
+
+#### 9c754cf820-SF | VICKI → BRUCE | x3
+I’m ready to reveal my source to you...
+
+#### b7cf731d80-SF | VICKI → BRUCE | x3
+I’m ready to tell you everything...
+
+#### 64be3e2776-SM | BRUCE → VICKI | x3
+I did what I felt was right.
+
+#### 2d9da34a3f | VICKI → BRUCE | x3
+Yeah, well, someone has to. {SurpriseA}I just didn’t think it’d be you.
+
+#### d1fc76b54e | BRUCE → VICKI | x3
+We can talk about it later.
+
+#### 0281fc8bc0 | VICKI → BRUCE | x3
+Later? {AngryA}No. {ConcernedA}This needs to happen right now.
+
+#### efe6d6722f | BRUCE → VICKI | x3
+Vicki, go away.
+
+#### 554be650dd | VICKI → BRUCE | x3
+It sounds like your days of giving orders are through.
+
+#### 9de577d334 | VICKI → BRUCE | x3
+Ignore me if you like; {HappyA}I’m not going away.
+
+#### 333a467127 | VICKI → BRUCE | x3
+The press seemed to eat it up.
+
+#### a4512f414f | BRUCE → VICKI | x3
+It can’t be...
+
+#### 4233961a2a-LM | VICKI → BRUCE | x3
+I think you dropped something, Bruce.
+
+#### e40a04e6fc | VICKI → BRUCE | x3
+My source is me.
+
+#### 969555be32 | BRUCE → VICKI | x3
+Gotham is under threat! {AngryA}The Children of Arkham will not stop un--
+
+#### 32cd7244fd | BRUCE → VICKI | x3
+Unless he is stopped, Gotham City won’t--
+
+#### f10315e4ea | OSWALD → BRUCE | x3
+Speak, ya git.  Say something!
+
+#### e9e71d5ec2 | BRUCE → VICKI | x3
+Sorry, Vicki, I’m a bit busy right now.
+
+#### 173255f09c | VICKI → BRUCE | x3
+Me.
+
+#### 5206a55b8a | ON THE TELEPROMPTER SCREEN → BRUCE | x3
+“Wayne Enterprises is never, and has never been corrupt, or something like that.“
+
+#### 8f8f26bc41 | BRUCE → VICKI | x3
+It is important that I stress now that any malfeasance perpetrated in the past was done by my parents, acting alone, and not by Wayne Enterprises- which should not be held responsible for their misdeeds.“
+
+#### aef66aba02 | BRUCE → VICKI | x3
+The company is in great hands. Oswald will lead Wayne Enterprises and Gotham City into a new era of financial prosperity. {HappyA}And so, with that... {HappyB}Oswald Cobblepot!
+
+#### b522cafd3d | OSWALD → BRUCE | x3
+Oh, thank you!
+
+#### f5a3c62b6f-SM | BRUCE, choice/UI → OSWALD, REGINA | x10
+With that I am excited to announce Oswald Cobblepot. He’s an international entrepreneur with a Gotham Legacy. He is, by far, the best candidate to replace me.
+
+#### f1e8e88414 | BRUCE → OSWALD | x3
+Thanks for the opportunity to handle this properly.
+
+#### c22e093469 | BRUCE → OSWALD | x3
+You’re just a pawn, Oswald. {SmugA}Everyone knows that pawns are meant to be sacrificed.
+
+#### 4f5375055c | BRUCE → OSWALD | x3
+I’m stepping down from my position as CEO of Wayne Enterprises...
+
+#### 6c7fb4ba09 | BRUCE → OSWALD | x3
+And kicking me to the street.
+
+#### 5966c30f7c | BRUCE → OSWALD | x3
+I know now that they, not me, actually controlled Wayne Enterprises.
+
+#### 6e2cc73999 | OSWALD → BRUCE | x6
+Come on, Wayne. {SarcasticB}You don’t got stage fright, do you?
+
+#### bc751731bc | BRUCE → OSWALD | x3
+... and all of its very considerable resources.
+
+#### 3961c9436f | OSWALD → BRUCE | x3
+What the hell do you think you’re doing?
+
+#### ed1141145b | OSWALD → BRUCE | x3
+Try that again, and I’ll call security!
+
+#### df7f1a79a9 | SECURITY01 → BRUCE | x12
+Take your seat, Mr. Wayne.
+
+#### 957fa984b3 | BRUCE → SECURITY01 | x3
+...what?
+
+#### 5d4f1fd28a | ALFRED → SECURITY01 | x3
+Bruce, they’re close.
+
+#### b5da1f2433 | BRUCE → ALFRED | x3
+...Now?
+
+#### 0c120db1e7-SM | ALFRED → BRUCE | x3
+I’m sure of it. They’re somewhere in the crowd.
+
+#### 0573572f73 | ALFRED → BRUCE | x3
+They’re getting closer.
+
+#### d4928be8f6 | ALFRED → BRUCE | x3
+They’re approaching.
+
+#### 2834c7d9d8 | ALFRED | x6
+Certainly you must see them.
+
+#### b7dbdd3722 | ALFRED → VICKI | x3
+Master Bruce?!?
+
+#### 182387aa8d | VICKI → ALFRED | x3
+Yes.  Me.
+
+#### c9a9235741 | OSWALD → VICKI | x3
+-- an unexpected development like this might send us reeling.  Unsure of what to do next...
+
+#### 6e7a190dcc | VICKI → ALFRED | x3
+And there’s not a damn thing you can do about it.
+
+#### 8f6e457665 | VICKI → ALFRED | x3
+And there’s not a damn thing Bruce Wayne can do about it.
+
+#### ed17414a40 | ALFRED → BRUCE | x6
+I’m on my way, Master Bruce!
+
+#### 7fc397b7d3 | OSWALD → REGINA | x3
+Speak up!
+
+#### 74a4297365 | choice/UI → OSWALD | x3
+WTF
+
+#### 2a52a048a6 | REGINA → OSWALD | x3
+...as does the EXTREMELY generous Golden Parachute you’ll be receiving.
+
+#### f3ba8f6e96 | REGINA → OSWALD | x3
+Or WON’T be receiving. So play along.
+
+#### 3838c583a8 | REGINA → OSWALD | x3
+After I introduce you, all you’ll have to do is read what’s on the teleprompter--
+
+#### 3fdea9de45 | OSWALD → REGINA | x3
+The very best. {SarcasticA}Wouldn’t want to bring any more shame to the Wayne family name, {SmugA}now would we?
+
+#### e97a71cd03 | OSWALD → REGINA | x3
+For everyone, really.
+
+#### 2201bb9d72 | REGINA → OSWALD | x3
+Right now, your reputation, your entire legacy, depends on your cooperation.
+
+#### ae883b5d31 | REGINA → OSWALD | x3
+This is how the public will remember you.
+
+#### 7ec020f5f3 | REGINA → OSWALD | x3
+[confiBut they did good, as well.
+
+#### 7267f557af | REGINA | x3
+Do this. Show everyone that you’re a man worthy of the position you’re giving up.
+
+#### 774393d64c | REGINA → OSWALD | x3
+It might not be CEO, {HappyA}but it will be something.
+
+#### fa8a238949 | REGINA → OSWALD | x3
+A step to regaining what you’re being forced to give up.
+
+#### ba7fc4e4cd | REGINA → OSWALD | x3
+This is what is best for Gotham.
+
+#### 49cf217be7 | OSWALD → REGINA | x3
+Boys are just being boys {SarcasticB}and all of that.
+
+#### 24b2048a54-SM | OSWALD → REGINA | x3
+No hurt feelings, I’m sure.
+
+#### 597911fa1a | OSWALD → REGINA | x3
+Bruce just didn’t like {PainA}losing the office.
+
+#### acb139e8ea | OSWALD | x3
+Exactly! {SmugA}I don’t hold anything against you. No worries.
+
+#### 92da4b1aad | OSWALD → REGINA | x3
+A noble hero {SurpriseB}riding in to save the day...
+
+#### 08e1d0257e | OSWALD → REGINA | x3
+Go ahead, press is right there. Think they’ll believe you?
+
+#### 1207037d73 | OSWALD → REGINA | x3
+No one’s gonna follow you around and take pictures now.
+
+#### cf2782f028 | REGINA → OSWALD | x3
+It’s time.
+
+#### ffb45b9e02-LF | OSWALD → REGINA | x3
+If you’re going to dish it out, you’ve got to be able to take it, too.
+
+#### 2a4747265a | REGINA → OSWALD | x3
+Please. Stick to the teleprompter.
+
+#### 0a6241fc09 | OSWALD → REGINA | x3
+Besides, people are *happy* to see my face. {SmugB}Right now you’re, {ConfusedA}eh, how do you Yanks put it?
+
+#### 971c65c927 | OSWALD → REGINA | x3
+Persona non grata.
+
+#### f417cbd9a7 | OSWALD → BRUCE | x3
+Unwelcome.
+
+#### 63abd9f5b6 | OSWALD → BRUCE | x3
+Oh, don’t {WindedA}be a sore loser, Bruce. {SmugA}It doesn’t look nice on you.
+
+#### 3e67ac991d | BRUCE → OSWALD | x3
+What happens to my company is up to the board.
+
+#### 8b5184ced6-LM | BRUCE → OSWALD | x3
+I think you’re a little deluded about the type of power you’re going to have.
+
+#### 7b7e545b24-SM | OSWALD → BRUCE | x3
+All in good time, {SmugB}all in good time. {SarcasticA}It’s amazing the sort of patience I’ve developed over the years.
+
+#### a0771be980 | OSWALD → BRUCE | x3
+And “Wayne” will be a story no one wants to hear.
+
+#### 27e6a65400 | OSWALD → BRUCE | x3
+Just thieves and turncoats.
+
+#### b315af0ab1 | ALFRED → OSWALD | x3
+They’re on the move. If you buy me some time, I can triangulate their location.
+
+#### a182f4fdd8 | ALFRED → OSWALD | x3
+If buy me some time, I can triangulate their location.
+
+#### b0a98216a3 | BRUCE → ALFRED | x3
+Ok
+
+#### 2b09df57b9 | OSWALD → REGINA | x3
+So I already know how this {SmugA}story is going to end.
+
+#### 0ca8dd34ab | REGINA → OSWALD | x6
+That’s enough, both of you!
+
+#### afa9805566 | REGINA → OSWALD | x3
+Good morning, everyone! And thank you for being here.
+
+#### a053fb142a-SM | OSWALD → REGINA | x3
+How everything I said to you in the park has come true?  {SarcasticB}Me, {SarcasticA}taking everything that’s yours?
+
+#### 0d994f2518 | OSWALD → REGINA | x3
+Me getting all this--{SmugB}it’s just icing on the cake.
+
+#### 22c60409e8-LM | ALFRED → BRUCE | x3
+You were right, Bruce. The Children of Arkham seem to be headed in that direction.
+
+#### 5981d7a20d | ALFRED → BRUCE | x3
+Still working on it.
+
+#### 8785561164 | BRUCE → ALFRED | x3
+But I am not doing so voluntarily.
+
+#### 8453b2f8c4-SM | BRUCE → ALFRED | x3
+At a meeting I was not invited to attend.
+
+#### 37dc35f7ad | BRUCE | x3
+I’ve been asked here today... {ConcernedB}to lie to you.
+
+#### 3eeccf6e9a | BRUCE | x3
+To regurgitate a script prepared by the company. {AngryB}All to hide the fact that I have been forced out.
+
+#### 53b525f8aa | choice/UI | x3
+I am sad to leave Wayne Enterprises.
+
+#### 6425afe4af | choice/UI | x3
+This is my company.
+
+#### f00e05fe58 | choice/UI | x3
+It’s a relief to leave.
+
+#### 2f0c5e1d5d-SM | BRUCE | x3
+I have enjoyed my time at this company greatly. It is with deep sadness that I give up my position.
+
+#### 20b14558cb | BRUCE → REGINA | x3
+Wayne Enterprises is my company. My namesake.
+
+#### 97a56ef1ce-SM | BRUCE → REGINA | x3
+I’m not happy to be leaving it.
+
+#### 68ed176a9f-SM | BRUCE → REGINA | x3
+Honestly, I’m relieved. I don’t want to run this company anymore.
+
+#### d88d53b9bb | BRUCE → REGINA | x3
+It is important that I stress now that Wayne Enterprises is free of the corruption brought forth {SadA}by the Wayne family. {ConcernedA}The company is not responsible for any wrongdoing.
+
+#### 95a138f3fb | BRUCE → REGINA | x3
+They orchestrated this hostile takeover in order to control Wayne Enterprises.
+
+#### 0a5c13260b | BRUCE → REGINA | x3
+They want me to tell you it was all on my father’s shoulders, {AngryB}but that isn’t the {FaceAccent}{BodyAccent}truth. {ConcernedA}The corruption is still ongoing.
+
+#### af9df8c21b-SM | choice/UI, BRUCE → OSWALD | x7
+I was horrified to learn of my father’s corruption. I am ashamed of his actions, and would like to apologize to Gotham for the pain he has caused so many of you.
+
+#### bd03dab95a-SM | choice/UI → OSWALD | x3
+I am ashamed.
+
+#### 7f21a20a7e | choice/UI → OSWALD | x3
+I am not my father.
+
+#### 0699aada8b | choice/UI → OSWALD | x3
+My father used mob funds!!
+
+#### f64d35735c | choice/UI, BATMAN → VICKI | x5
+I’m nothing like my father.
+
+#### f6513708e1 | BRUCE → OSWALD | x3
+I know what my father did. {ConcernedB}I know how much he hurt you.
+
+#### 4626e25d98 | BRUCE → OSWALD | x3
+But I am nothing like him.
+
+#### 52b4ab7929 | BRUCE | x3
+His actions are his own.
+
+#### 10c09f56be | BRUCE → ALFRED | x3
+My father wasn’t the only one involved in this corruption.
+
+#### b51455769c | BRUCE → HILL | x3
+Mayor Hill, and Carmine Falcone...
+
+#### 9b33719565 | BRUCE → ALFRED | x3
+It was a system designed for their gain.
+
+#### 40f9b46807-SM | ALFRED → BRUCE | x3
+I need you to stay up there as long as you can, Bruce.
+
+#### ebe981c878 | ALFRED → BRUCE | x3
+I’ve almost got a lock on them. Hang in there.
+
+#### 0d0d5da8cb | choice/UI → ALFRED | x3
+I have faith in the board.
+
+#### 79c4da1e29 | choice/UI → ALFRED | x3
+I worry for the future.
+
+#### 4a1d358f3f | choice/UI → ALFRED | x3
+This is a PR stunt!!
+
+#### f69d285ce3 | choice/UI, BRUCE → ALFRED | x7
+I have complete faith in the board as they work towards righting the wrongs of the past.
+
+#### 1b447864f6 | BRUCE → ALFRED | x3
+I worry for the future of Wayne Enterprises. The decisions made in the next few days will be critical in shaping what that future will be.
+
+#### 52d2032055 | BRUCE → REGINA | x3
+Unfortunately, the board is more concerned with good PR than they are with actual solutions.
+
+#### 61129877b2 | BRUCE → REGINA | x3
+They don’t care about making things right. {AngryA}They only care about what looks good.
+
+#### f23ac523b9 | REGINA, SELINA, ALFRED, LELAND → BRUCE | x13
+Come on, Bruce.
+
+#### 2e2c0d53aa | BRUCE → REGINA | x3
+My replacement, {AngryB}Oswald Cobblepot, {AngryA}is a member of the Children of Arkham.
+
+#### c047ba89eb | BRUCE → OSWALD | x3
+The company is in great hands. Oswald Cobblepot will lead Wayne Enterprises and Gotham City into a new era of financial prosperity. {AmusedA}And with that... {HappyA}Oswald Cobblepot!
+
+#### 292ff294e7 | OSWALD → SECURITY01 | x3
+Well, I guess that’s my cue!
+
+#### 4ad36ed8ec | OSWALD → SECURITY01 | x3
+My apologies, folks.
+
+#### acfc98967e | BRUCE → ALFRED | x3
+I don’t see any of them.
+
+#### b48c886dc9 | ALFRED → SECURITY01 | x3
+Just a few more seconds...
+
+#### b9f4dce635 | ALFRED → VICKI, OSWALD | x6
+They’re close.
+
+#### 753d8199d2 | ALFRED → VICKI | x3
+I can hear you in the background.
+
+#### 663ef90d11-SF | VICKI → ALFRED | x3
+I rather enjoyed it myself.
+
+#### 74f4e823f6 | VICKI → ALFRED | x3
+Not that it’ll change anything.
+
+#### 99668e4948-SM | ALFRED → VICKI | x3
+I’ve pinpointed the location. They’re within five feet of you!
+
+#### d005471d87 | VICKI → ALFRED, HARVEY | x4
+Dropped your pen.
+
+#### 26dcef5f0e | VICKI → ALFRED | x3
+Don’t fight it. Everything will be better soon.
+
+#### eb1b0151de | VICKI, HARVEY, BRUCE → ENFORCER01, ALFRED, BRUCE | x14
+Do it.
+
+#### 66e260a3d2 | VICKI | x3
+You know you hate him.
+
+#### c4efcfea15 | VICKI | x3
+So why let him take everything from you.
+
+#### 847c9bf907 | VICKI | x3
+You hate him don’t you?
+
+#### 93a538a1d1 | VICKI | x3
+No. {AngryB}I am the Children of Arkham.
+
+#### 832f9cd49c | VICKI | x3
+I think I already have.
+
+#### e3504c1690 | VICKI → BRUCE | x3
+Retribution, Bruce.
+
+#### 3891386f0b | VICKI → OSWALD, BRUCE | x6
+Hm. Good.
+
+#### 02a5ceab02 | VICKI → OSWALD | x3
+He played his part well, didn’t he?
+
+#### 0f40a0b6c1 | OSWALD → BRUCE | x3
+Come on up, Bruce.
+
+#### 1b97fc35c8 | BRUCE → OSWALD | x6
+I’d rather die!
+
+#### b0fa9e492c | OSWALD → BRUCE, VICKI | x9
+He-heh. Ouch! {SarcasticB}Someone’s still a little touchy it seems!
+
+#### 2a464146b4 | OSWALD → BRUCE | x6
+Oh, don’t get shy on us now!
+
+#### 1a21d082de | VICKI → OSWALD, BRUCE | x12
+I’m the Voice in your head...
+
+#### b22b5a7a4b | VICKI | x3
+I am the voice in your head...
+
+#### 638d049a8a | VICKI | x3
+I know what you really want.
+
+#### 6b091fc751 | VICKI → BRUCE | x3
+You hate him.
+
+#### 684c921a06 | VICKI → BRUCE | x3
+You want to take out Oswald Cobblepot.
+
+#### ad057eb4ae | VICKI → REGINA | x3
+Get rid of him.
+
+#### 195467e525 | REGINA → VICKI | x3
+...and we’ve always been at the forefront of innovation, technology, and philanthropy.
+
+#### e1f1121b4b | REGINA → VICKI | x3
+Recently, allegations against Wayne Enterprises have come to light, especially in regards to the company’s founder, Thomas Wayne.
+
+#### e5fa794c74 | REGINA → BRUCE | x3
+We here at Wayne Enterprises condemn the actions of Thomas Wayne, and would like to say, on the record, that the company as a whole had no prior knowledge of these nefarious deeds.
+
+#### 5b2633c7c0 | REGINA → OSWALD | x3
+But although we wish to separate our name as a company from the name of our founder, we do bear responsibility for those families that were torn apart.
+
+#### 0e7a34ad78 | REGINA → OSWALD | x3
+We also will be making advances within the company to ensure that a tragedy like this never has to happen again. Our CEO, Bruce Wayne, is in agreement with the board that the best way to progress and grow as a company is to rebrand accordingly.
+
+#### 44d51b81d6-SM | OSWALD → REGINA | x3
+I would first like to express my deepest gratitude for the man I’m replacing, Bruce Wayne. He is without doubt, the epitome of class and pathos.
+
+#### ece29270eb | OSWALD → BRUCE | x3
+Please forgive Mr. Wayne, everyone. I for one completely understand his behavior today--
+
+#### f0b371056c-SM | OSWALD → REGINA | x3
+It’s not an easy thing, seeing something you’ve come to have as part of your identity, your very self, be taken over by another. I should know. I’m sure some of you remember the former beauty of Cobblepot Park.
+
+#### 4d8ad26332-SM-L? | OSWALD | x3
+You have to learn to pick yourself back up. You learn to separate yourself from the pain, distance yourself from the vitriol and the blame. Learn to start again. When my mother… [choking up]when my mother was institutionalized, I nearly lost my sense of self. There was something deep within myself that almost snapped. Anger. Fear. Betrayal. I thought it would consume me.
+
+#### c29a0af92d-SM | OSWALD | x3
+But I thought about my dear friend, Bruce Wayne. We grew up together. Our families were very close. And he had suffered dearly when his parents were taken from him. But he had the strength to carry on. I knew if he could have that strength, so could I.
+
+#### bbe14bb918-SM | OSWALD → REGINA | x3
+So I left Gotham. Headed back to London, got my feet back on the ground. I remembered Bruce Wayne, turning his life around. And so I did the same.
+
+#### 2cd0590d24-SM-LM | OSWALD → BRUCE | x3
+Bruce, you gave back to me what I thought I had lost forever. And I’m grateful for the hard work of the board of Wayne Enterprises. They have given me my family name back. The Cobblepots will no longer be the shame of Gotham.
+
+#### a01315f0f8 | OSWALD → REGINA | x3
+We promise that we will never compromise the trust that you and this city have placed in our hands. Thank you, Gotham.
+
+#### c3cf5d7b31 | REGINA → OSWALD | x3
+Our company was built on the values of honesty and hard work, and for over two decades, we have continued to look towards those values in everything we do.
+
+#### 7bad52e738-SF | REGINA → OSWALD | x3
+As representative and Chairwoman of Wayne Enterprises, I would like to express my deepest condolences to those families who were victimized by Thomas Wayne.
+
+#### d2fd9eed1c | REGINA → OSWALD | x3
+To our knowledge, Thomas Wayne acted alone in his actions, outside of company jurisdiction.
+
+#### e62fd53238 | REGINA → OSWALD | x3
+That’s why Wayne Enterprises has established a foundation to donate to the men, women, and children that were affected by the actions of Thomas Wayne.
+
+#### 343edae77e | REGINA → OSWALD | x3
+We hope that this will begin the process of healing for the company--as well as the city--and will provide the means to move forward in this time of need.
+
+#### cd592e8d06 | REGINA → OSWALD | x3
+We believe that these changes will enable us to earn back the trust of our beloved city of Gotham.
+
+#### ee4b535e22 | OSWALD → REGINA | x3
+He has worked tirelessly his entire professional career to build Wayne Enterprises into what it is today. And for that, I am extremely grateful.
+
+#### 7c080fbae1-SM | OSWALD → REGINA | x3
+Now it stands, dirty and forgotten, a testament to the terrible things that have happened to Gotham. We’ve all recently learned of the dark secret our city harbored, something that has affected so many, myself included.
+
+#### 760e38ad52 | OSWALD → REGINA | x3
+And make no mistake -- it can be great again!
+
+#### 03e7fc8ea7 | OSWALD | x3
+This will be a new day in the history of Gotham City. A day that we can go forward into together.
+
+#### 3e3279482f-SM | OSWALD | x3
+I lifted myself up from those circumstances. I did, and this once great city can as well. We can all help each other and Wayne Enterprises, with myself at the helm, is committed to leading the way.
+
+#### be3069f0fa-SM | OSWALD | x3
+I lost everything--my loving parents--to the horror that has lurked beneath the surface of these streets for so many years.
+
+#### 37fce5edea | OSWALD | x3
+Wayne Enterprises has always stood as a symbol of greatness and that will continue, make no mistake. In the wake of this terrible scandal, Wayne Enterprises will stand tall and help in the revitilazation of the Gotham that Was.
+
+#### 0eaabbc0fb | OSWALD | x3
+And thank you Wayne Enterprises, for putting your trust in me.
+
+#### 97be69367f | OSWALD | x3
+After all, he’s worked tirelessly to build Wayne Enterprises into the building we see behind us now. It must be quite hard to let your life’s work go.
+
+#### eaa5cde325 | OSWALD | x3
+It seems Bruce Wayne might be having some… difficulties with his speech. It’s understandable. After all, he has worked tirelessly to build Wayne Enterprises into what it is today. And for that, I am extremely grateful.
+
+#### 0c5de4f876 | OSWALD → REGINA | x3
+That’s it, mate.
+
+#### bbbb01f6b9 | OSWALD → REGINA | x3
+Stop tryin’ to {DisgustB}save face.
+
+#### d796f0e0f4 | OSWALD → REGINA | x3
+Dodging the blame isn’t going to do you any good, mate.
+
+#### fb3d7b6ca7 | REGINA → OSWALD | x3
+Bruce, please!
+
+#### 7e93e2becf | OSWALD → REGINA | x3
+Ooh, silence isn’t going to save you now.
+
+#### 230bfe7fa7 | REGINA → OSWALD | x3
+Oh! It’s ridiculous!{AngryA}
+
+#### 19a6a5d865 | OSWALD → REGINA | x3
+What in the bloody hell are you doing?
+
+#### e2b922ca99 | REGINA → OSWALD | x3
+That’s impossible. I assure you!
+
+#### 4c10e18daa | OSWALD, ALFRED → BRUCE | x5
+Careful, Bruce.
+
+#### 00f0a0509e | OSWALD → REGINA | x3
+Thinks he’s being cute, is what he’s doing.
+
+#### fccdd85684 | REGINA, SELINA, LUCIUS, MONTOYA → BRUCE, OSWALD, BATMAN | x11
+Oh my god.
+
+#### 487ad44ee6 | OSWALD → REGINA | x3
+Decided to be a good dog in the end, didn’t you?
+
+#### d5f6be88ca | REGINA → OSWALD | x3
+Step down with dignity and I will find a way to get you a seat back on the board.
+
+#### 677a0b6c26 | REGINA → OSWALD | x3
+Bruce, what are you doing?
+
+#### b68dc0e64f | OSWALD → REGINA | x3
+An old joke between friends!
+
+#### 79c9dd8cf8 | BRUCE → REGINA, VICKI | x4
+That’s not--[my pen]
+
+#### 0ae6e44efd | VICKI → REGINA | x3
+I’m the Lady of Arkham.
+
+#### e84f55af48 | VICKI → OSWALD, BRUCE | x4
+I am Lady Arkham.
+
+#### 5ceb16a873 | UL 19 18 → BRUCE | x3
+20:35 2016) Bruce tries to ignore him.
+
+#### 5461947a1b | SECURITY01 → BRUCE | x3
+Step back, Mr. Wayne.
+
+#### 5b4b3aff78 | REGINA → VICKI | x3
+Recent allegations have been made against Wayne Enterprises in regards to the past leadership of Thomas Wayne.
+
+#### b11df4b07f | BRUCE → OSWALD | x3
+I know who you really are, Oz, and I’m going to expose you.
+
+#### d0e7889ff3-SF | REGINA → BRUCE | x3
+I’m sorry about all of this, Bruce.
+
+#### cf8ed858fe | REGINA → BRUCE | x3
+Read the speech. Show everyone what I know--that you are a man worthy of the position you’re giving up.
+
+#### f5bfdf3da4 | REGINA → BRUCE | x3
+Get through today, and I can help you.
+
+#### 53a1e97565 | OSWALD → REGINA | x3
+Alright now. That is enough!
+
+#### 701a8363ba | REGINA → OSWALD | x3
+Like buzzards, aren’t they?
+
+#### 268bb1606d | REGINA → OSWALD | x3
+We’ve... [sighs, sad to say]We’ve prepared a brief damage control statement, to make this easier.
+
+#### 2e9862ee48 | REGINA → OSWALD | x3
+I know it’s unfair to ask this of you, but please...
+
+#### a7d9821456 | REGINA → OSWALD | x3
+I can convince the board to bring you back.
+
+#### 7b785d2139 | OSWALD → REGINA, VICKI | x6
+One moment folks!
+
+#### bc75931bde | OSWALD → REGINA | x3
+And, if we can just get one more round of applause for our friend, the man of the hour,{SmugB} Bruce Wayne!
+
+#### 8e72a2d1d1 | OSWALD → VICKI | x3
+Start talking, or I’ll call security to haul you off!
+
+#### f77e12206f | VICKI → OSWALD | x3
+It would be so easy to get rid of him.
+
+#### fcf9cbc28c | VICKI → OSWALD | x3
+You feel that?
+
+#### bffa5c1b46 | VICKI → OSWALD | x3
+That’s the drug taking hold of you.
+
+#### 052cb78cd4 | VICKI | x3
+Don’t fight it.
+
+#### 923ed2ed7d-L? | VICKI | x3
+I think it’s time you knew my real name...
+
+#### 962dc0a59d | VICKI | x3
+He thinks he can get away with it. [looks at the crowd]Because none of them know who he really is.
+
+#### 5ba2c390c3 | VICKI | x3
+And you already know The Penguin.
+
+#### bdb6ef98cd | VICKI | x3
+But you do.
+
+#### e5575eb15f-L? | VICKI | x3
+They wouldn’t believe you if you told them.
+
+#### 54e235252e | VICKI → BRUCE | x3
+Leader of the Children of Arkham.
+
+#### 0fdbf12526 | VICKI → BRUCE | x3
+Who else will deliver justice?
+
+#### d40c0b6f8b | choice/UI, BRUCE → VICKI, OSWALD, GORDON | x7
+Why are you doing this?
+
+#### 6da88c42d7-LM | BRUCE → OSWALD | x3
+You said you wanted to help me.
+
+#### 101f975949 | BRUCE → OSWALD | x3
+Why would you betray me?
+
+#### 450587f787 | BRUCE → OSWALD | x3
+You’re working for Penguin!
+
+#### 4cd2d6f17e | choice/UI → OSWALD | x3
+You’ll lie.
+
+#### 8b78512d4f | BRUCE, BATMAN, choice/UI → PENGUIN, JOKER, OSWALD | x17
+It doesn’t matter.
+
+#### 5f473429dd-SM | OSWALD → BRUCE | x3
+Oh, I forgot to mention. I did some digging and you know how old Hill admitted he had your mum and dad killed?
+
+#### 0943513f8f-SM | OSWALD → BRUCE | x3
+I found out why he did it.
+
+#### 8ccf690d62 | OSWALD → BRUCE | x3
+Oh, yeah! And I’ll tell you the story, but only if you say “pretty please.”
+
+#### 08f0402c86 | OSWALD → BRUCE | x3
+It’s quite the page-turner.
+
+#### d8d3a90d93-SM | OSWALD → BRUCE | x3
+I’m sure you’re just dying to hear it.
+
+#### 8f8e7ffa75 | OSWALD → BRUCE | x3
+Aren’t you, Bruce?
+
+#### e930fa1b52 | OSWALD → BRUCE | x3
+Little nicer than that, mate.
+
+#### 89106fcffa | BRUCE → OSWALD | x3
+I have to know.
+
+#### 8fb75d8db6 | OSWALD → BRUCE | x3
+Turns out your dear mum found out what your daddy was up to.
+
+#### b960b51e2e | OSWALD → BRUCE | x3
+Threatened to turn him in, she did. Said she didn’t want to be a part of it!
+
+#### ba41e0ca65-LM | OSWALD → BRUCE | x3
+Now, you can imagine Hill wasn’t too keen on that idea. So, he slid a few dollars Joe Chill’s way and...well, you saw the rest, mate.
+
+#### be384593ac | BRUCE → OSWALD | x3
+I know you’re lying, Oswald. You don’t know anything.
+
+#### 8e2790af1f | OSWALD → BRUCE | x3
+I wouldn’t lie about this. I promise. Story’s too good for that.
+
+#### a0e4d9d197-LM | OSWALD → BRUCE | x6
+But suit yourself.
+
+#### 98d206413b | BRUCE → OSWALD | x3
+I don’t need to know why. Hill had them killed. That’s all that matters.
+
+#### de91d32259 | OSWALD → BRUCE | x3
+Well, I certainly didn’t expect that.
+
+#### 74f4c8f2f9 | OSWALD → BRUCE | x3
+Now you’ll never know what part your mum played in it.
+
+#### a026e8ab8a | OSWALD → BRUCE | x3
+Last offer, Bruce.
+
+#### 58013cca6d-L? | OSWALD | x3
+Fine. Suit yourself.
+
+#### 2025801a4d | OSWALD → BRUCE | x3
+You’ll never know the whole story.
+
+#### 51185a0006-SM | OSWALD → BRUCE | x3
+Nah, ah-ah! That’s not what I asked.
+
+#### 7b782111b8-SM | OSWALD → BRUCE | x3
+Oh, I’m sorry! What was that?
+
+#### a895101731 | BRUCE → OSWALD | x3
+...Pretty please.
+

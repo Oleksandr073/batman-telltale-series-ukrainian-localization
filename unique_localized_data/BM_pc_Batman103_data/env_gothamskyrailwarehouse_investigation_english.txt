@@ -1,0 +1,615 @@
+﻿#### 4fa109ecd7 | ALFRED → BATMAN | x2
+No sign of the Children of Arkham?
+
+#### 079e2edb48 | choice/UI → CATWOMAN | x2
+They’ll be here.
+
+#### 52b523e441 | BATMAN → ALFRED | x2
+They’ll show eventually.
+
+#### bd939a52d0 | ALFRED → BATMAN | x2
+I don’t doubt you.
+
+#### 42ec198e20 | choice/UI → ALFRED | x2
+Gives me some time.
+
+#### 1169cd7649 | choice/UI → ALFRED | x2
+This is suspicious.
+
+#### 6fa1429dd0 | BATMAN → ALFRED | x2
+No security. No emergency{AngryA} staff.
+
+#### c513e10447 | BATMAN → ALFRED | x2
+If we’re {AngryB}right, it shouldn’t{DisgustA} be this quiet.
+
+#### 1040a19cc2 | BATMAN → ALFRED | x2
+Thanks. I’m going to have a{AngryA} look around.
+
+#### dfafff2354 | BATMAN | x2
+The rails themselves are powered down, probably for maintenance.
+
+#### 6750f3faa4 | BATMAN → ALFRED | x2
+Tools are still lying around.
+
+#### 0c6e626ac0 | BATMAN → ALFRED | x2
+Something{ThinkingA}{FaceAccent} spilled here.
+
+#### acfa8dbaf7 | BATMAN → ALFRED | x2
+The {FaceAccent}{SurpriseA}same drug from the {FaceAccent}{AngryA}debate.
+
+#### 04e0754ef0-SM | ALFRED → BATMAN | x2
+I feared we hadn’t seen the last of it.
+
+#### fb9ada16de | BATMAN → ALFRED | x2
+Looks like some kind of sprinkler system.
+
+#### ac36dd4fc6-LM | ALFRED → BATMAN | x2
+Have you found out what they’re up to?
+
+#### 01ca31bfbc | ALFRED → CATWOMAN, BATMAN | x4
+Be on your guard.
+
+#### 22d06b6050 | BATMAN → ALFRED | x2
+I know this is the right place.
+
+#### 0504ead1be | ALFRED → CATWOMAN | x2
+I’ll continue monitoring the drone feeds from here.
+
+#### c59726b89a | ALFRED → BATMAN | x2
+Nothing unusual about that.
+
+#### fd39cd326b | ALFRED → BATMAN | x2
+A work in progress probably.
+
+#### c00b70596d | BATMAN → ALFRED | x2
+Means they’re coming back.
+
+#### 0101688664 | BATMAN → ALFRED | x2
+Not for the moment.{AngryA} Means I have time to see what they’ve been up to.
+
+#### c3b2c24e1f | ALFRED → CATWOMAN | x2
+Just be careful. We don’t want any surprises.
+
+#### 07a89f0ea5 | ALFRED → BATMAN | x2
+They may not have gone far.
+
+#### cc9ad0715e | ALFRED → BATMAN | x2
+They should be there.
+
+#### ea4c423c10-SM | BATMAN → LADYARKHAM | x2
+Nice toys. I’ve got some of my own.
+
+#### b0fa9df438 | BATMAN → LADYARKHAM | x2
+The people of Gotham are stronger than you think. They won’t let this city fall into chaos.
+
+#### fc685197aa | CATWOMAN → LADYARKHAM | x2
+No{ConfusedA} no no {AngryB}no. There’s no part{DisgustA} two of this.
+
+#### 7a3d348708-LM | LADYARKHAM → BATMAN | x2
+Don’t get ahead of yourself.
+
+#### caf175631e | BATMAN → LADYARKHAM | x2
+This is the{FaceAccent} {ThinkingA}drug they’ve been using.{AngryA}{FaceAccent} Refined.
+
+#### bc6f012f15 | BATMAN → LADYARKHAM | x2
+Laser grid.
+
+#### 35f3873c0b | BATMAN → ALFRED | x2
+Is thermal vision {FaceAccent}online?
+
+#### 4494907d44 | ALFRED → BATMAN | x2
+It is.
+
+#### f7e53387b6 | BATMAN → ALFRED | x2
+Better not take any chances.
+
+#### b12c498727 | ALFRED → BATMAN | x2
+Very clever.
+
+#### fef7303501 | ALFRED → BATMAN | x2
+Rather high security for a train maintenance depot.
+
+#### 61dfc48ed2 | BATMAN → ALFRED | x2
+The entire laser grid is orginating from this panel.
+
+#### 635a632953 | BATMAN → ALFRED | x2
+One of the Children of Arkham. Loyalty doesn’t get you much with these people does it?
+
+#### 7dd43d1296 | BATMAN → ALFRED | x2
+He’s been dead for a while from the looks of it.
+
+#### 1325ab16d4 | BATMAN → ALFRED | x4
+He was shot in the chest.
+
+#### d209c37e75 | ALFRED → BATMAN | x2
+How terrible.
+
+#### 9aaac92663 | BATMAN → ALFRED | x4
+There’s something else...
+
+#### 0b1b9732ac | BATMAN → ALFRED | x2
+The officer that was taken from the constuction site. Shot in the chest.
+
+#### 492043c40c | BATMAN → ALFRED | x2
+This train car has been modified.
+
+#### 132ce76a70-SM | BATMAN | x2
+These barrels match the shrapnel that I found at the docks.
+
+#### 916741323d | BATMAN | x2
+This must be the power supply for the laser grid.
+
+#### 77c0a1b64f | BATMAN | x2
+I’ll have to turn off the lasers before I can head down.
+
+#### d3de0b9d33 | BATMAN | x2
+I recognize these barrels. They’re the same ones stolen from the docks.
+
+#### 991993fdf0 | BATMAN | x2
+This man’s veins...
+
+#### d912f7b312 | BATMAN | x2
+They look like Montoya’s veins after she was drugged, only...
+
+#### 46acf3b602 | BATMAN | x2
+They’re so much worse.
+
+#### 65c36bce1c | BATMAN | x2
+They get more pronounced the closer they get to the wrist.
+
+#### b5f048c556 | BATMAN | x2
+There’s no {FaceAccent}{ThinkingA}puncture mark here. No entry{FaceAccent} point for an injection.
+
+#### a18bf77b9a | BATMAN | x2
+Someone’s been practicing chemistry.
+
+#### 8db952ee24 | BATMAN | x4
+Seems a little more thorough than a home chemisty set.
+
+#### fbfa34d4dd | BATMAN | x2
+This{FaceAccent} chemical could render a drug {FaceAccent}soluble enough{NormalA} to be absorbed through skin contact.
+
+#### af10e3b463 | BATMAN | x2
+This solvent{FaceAccent} increases{ThinkingA} dermal permability.
+
+#### be83395218 | BATMAN | x2
+This {FaceAccent}could be used to{ThinkingA} increase dermal absorbtion.
+
+#### 66da35deb5 | BATMAN | x2
+This{FaceAccent} would make a {NormalA}drug {FaceAccent}absorbant.
+
+#### 3dc362171a | BATMAN → ALFRED | x2
+It’s the {FaceAccent}same as the one given to {ThinkingA}Montoya and{FaceAccent} Harvey.
+
+#### 86623642b4 | BATMAN → ALFRED | x2
+They’ve altered the drug it so that it can be absorbed through the skin.
+
+#### 5b3251b5b9 | BATMAN → ALFRED | x2
+Doesn’t look like he wanted to cooperate.
+
+#### fe797b67e0 | ALFRED → BATMAN, BRUCE | x4
+Ghastly.
+
+#### 86b487265c | ALFRED → BATMAN | x2
+The possibilities...
+
+#### dff68b0b93 | BATMAN → ALFRED | x2
+He was {FaceAccent}shot dead-center, {FaceAccent}twice.
+
+#### 13c3a36f1c | BATMAN → ALFRED | x2
+Executed.
+
+#### f6e1a305f7 | ALFRED → BATMAN | x4
+He’d outlived his usefulness, I suppose.
+
+#### d242cb78ab | BATMAN → ALFRED | x4
+The drug is being modified here. They’re changing it.
+
+#### c79bd03c36 | ALFRED → BATMAN | x2
+They can hardly make the effect worse.
+
+#### 2d1dc3d0d6 | BATMAN → ALFRED | x2
+Two different compounds. This wasn’t used directly on the victim.
+
+#### 93c14afd2f | BATMAN → ALFRED | x2
+This is the same drug the Children of Arkham have been using...
+
+#### af28844a99 | BATMAN | x2
+But that drug had to be injected and there’s no signs of that on the body.
+
+#### bdb5978bfc | BATMAN | x2
+They’re manufacturing the drug so that it can be absorbed through the skin.
+
+#### 0da6beebed | BATMAN → ALFRED | x2
+What are they planning to do with this?
+
+#### 3599bdb4ee | BATMAN → ALFRED | x2
+A {FaceAccent}detonation{ThinkingA} device. But it’s{FaceAccent} disabled.
+
+#### af836a6f3f | BATMAN → ALFRED | x2
+Not your standard power source. This is a custom job.
+
+#### b88013714c | ALFRED → BATMAN | x2
+They must have {FaceAccent}intended to hook it up{ThinkingB} to something.
+
+#### cf1b46221b | BATMAN → ALFRED | x2
+This depot is pretty centrally located.
+
+#### 3e6f682de9 | BATMAN → ALFRED | x2
+There are {FaceAccent}numbers scribbled here. {AngryA}Hard to make{FaceAccent} them out.
+
+#### b332d4abc6 | BATMAN → ALFRED | x2
+Red sixteen, yellow eleven.
+
+#### 385c310886 | BATMAN → ALFRED | x2
+Needle-nose pliers, {AngryA}wire-cutters...
+
+#### 7c1ce3fc77 | BATMAN → ALFRED | x2
+The{FaceAccent} timer is set for {AngryA}twenty-seven minutes and{FaceAccent} thirteen seconds.
+
+#### 4dc8e02313 | ALFRED → BATMAN | x2
+From now?
+
+#### e1491816d9 | BATMAN → ALFRED | x2
+The numbers aren’t{ThinkingA}{FaceAccent} moving. Doesn’t seem to be{AngryA} counting {FaceAccent}down yet.
+
+#### 6416e3d610 | BATMAN → ALFRED | x2
+Whatever they’re building, they didn’t finish.
+
+#### e70d410a37 | BATMAN → ALFRED | x2
+They’ve been referencing the map. Whatever they’re building must hinge on it somehow.
+
+#### e2bbd86ddf | BATMAN | x2
+Whatever they’re working on must need a lot of power.
+
+#### 647c468573 | BATMAN → ALFRED | x2
+Timer’s off. Doesn’t really tell me anything.
+
+#### 42e9c07e23 | BATMAN → ALFRED | x2
+Not really seeing a connection here.
+
+#### f6ef481cfe | BATMAN → ALFRED | x2
+Alfred, what {FaceAccent}stations are within a {AngryA}twenty-seven minute {FaceAccent}train ride from this depot?
+
+#### 6956ed522c | ALFRED → BATMAN | x2
+Looking into the transporation database now.
+
+#### 0b2a1d320f | ALFRED → BATMAN | x2
+Sir, there’s just one.
+
+#### 6a24b2370c | BATMAN → ALFRED | x4
+So we know where... but what are they planning?
+
+#### 4e5bc479f6 | BATMAN → ALFRED | x2
+It’s one of the{FaceAccent} busiest places {AngryB}in the{FaceAccent} city.
+
+#### 4e46ffc391 | BATMAN → ALFRED | x2
+Thousands of people go {FaceAccent}in and out{AngryB} every{FaceAccent} hour.
+
+#### 8bfca04186 | BATMAN → ALFRED | x4
+Looks like they ran out of the chemical they were mixing it with.
+
+#### 652da29c87 | BATMAN → ALFRED | x2
+The train car was raised to make working beneath it easier.
+
+#### 36536a89c3 | BATMAN → ALFRED | x2
+Aftermarket modifications.
+
+#### 8242fbf2c7 | ALFRED → BATMAN | x2
+Doubtful they’re planning to put out fires.
+
+#### ced9fa6e24 | BATMAN → ALFRED | x2
+Clearly the holding tank. It’s empty, for now.
+
+#### c6ec28baaf | BATMAN → ALFRED | x2
+Easy access.
+
+#### da54e23973 | BATMAN → ALFRED | x2
+They wanted to get this done fast.
+
+#### 60365bb75e | BATMAN → ALFRED | x2
+The train car is their delivery system.
+
+#### e7d3c1b927 | ALFRED → BATMAN | x2
+Maximum coverage.
+
+#### 7d2411bbd0 | BATMAN → ALFRED | x2
+This wouldn’t work.
+
+#### 78b48f949d | ALFRED → BATMAN | x2
+Mercy Street Station.
+
+#### f3462109b3 | ALFRED → BATMAN | x2
+Seems strange.
+
+#### 2d29f10c33 | ALFRED, BRUCE → BATMAN, SELINA | x4
+How do you mean?
+
+#### f1bdcaf06e | BATMAN → ALFRED | x2
+The Children of Arkham are going to use the drug at Gotham Central Station.
+
+#### 8fabc42597 | BATMAN → ALFRED | x2
+And all it will have to do is come in contact with skin to take effect.
+
+#### 82943ac7b9 | ALFRED → BATMAN | x2
+The sheer number of people...
+
+#### 13c1a8f4fc | BATMAN → ALFRED | x4
+The train will just roll into the station as normal...
+
+#### 136be162d9 | BATMAN → ALFRED | x4
+Dousing everyone below in this stuff.
+
+#### 06b6397a7a | ALFRED → BATMAN | x6
+We aren’t prepared to contain something of that scale.
+
+#### 7299e94dc7 | BATMAN → ALFRED | x2
+I have to shut it down.
+
+#### c08a5ee8e6 | ALFRED → BATMAN | x2
+There’s a train coming!
+
+#### 4fa7033fa1 | ALFRED, GCPD01 → BATMAN, GCPD02 | x4
+Take cover!
+
+#### 2cd090a0d2-SM | BATMAN → ALFRED | x2
+I need to know what they’re going to do with the drug, exactly how they’re planning on releasing it.
+
+#### d47aefc9f5 | BATMAN → ALFRED | x2
+They’re loading the modified drug into the tanks on the train cars, {AngryA}dispersing it through the sprinklers.
+
+#### 76a3035952 | BATMAN → ALFRED | x2
+All the drug needs to do is {FaceAccent}{BodyAccent}touch skin.
+
+#### 11fd6624df | BATMAN → ALFRED | x2
+Not the entire city... just a major station.
+
+#### b47a75905b | BATMAN → ALFRED | x2
+Mercy Street.
+
+#### d5555806c3 | BATMAN → ALFRED | x2
+Gotham Central.
+
+#### 44f677837a | ALFRED → BATMAN | x2
+Releasing a drug like that in so populated an area would be devastating.
+
+#### 1c5147e8ea | BATMAN → ALFRED | x2
+They could infect the entire city if they had enough.
+
+#### 3d38ea5e55 | BATMAN → ALFRED | x2
+They haven’t finished making all of the drug yet. I have time to figure this out.
+
+#### e39f57ccdd-SM | BATMAN → ALFRED | x2
+I need to know where these trains will be headed.
+
+#### 8afb1ae05f-SM | BATMAN | x8
+I need to know where their target is.
+
+#### beb17974b1 | BATMAN | x2
+The stations...
+
+#### 1a4a4aeed9 | BATMAN | x2
+They’re going to disperse the drug at Mercy Street Station.
+
+#### efd993a828 | BATMAN | x2
+They’re going to disperse the drug at Gotham Central Station.
+
+#### 7680f75a0e | BATMAN | x2
+The timers are set to go off {FaceAccent}{BodyAccent}just as it rolls in over the crowds.
+
+#### a7b9bd10a5 | BATMAN | x2
+The modified train car is going to be sent to Mercy Street station.
+
+#### 8fb256f58b | BATMAN | x2
+The modified train car is going to be sent to Gotham Central Station.
+
+#### 7c1eed51ca | BATMAN | x2
+The trains... they’re turning them into automated weapons.
+
+#### bed9cd9af6 | BATMAN | x2
+With a drug that can absorb into skin, it will affect hundreds of people at once.
+
+#### 7423117010 | BATMAN | x4
+This isn’t completed yet, the tank on the train is empty.
+
+#### d06bd89d54 | BATMAN | x2
+I still have time.
+
+#### fbd2327815 | BATMAN → ALFRED | x2
+What exactly are they planning to release?
+
+#### 5ce3dabc47 | BATMAN → ALFRED | x2
+The drug. {AngryC}The Children of Arkham {BodyAccent}{FaceAccent}must have found a way to {AngryC}{FaceAccent}{BodyAccent}weaponize it.
+
+#### 05752e33ee | BATMAN → ALFRED | x2
+The trains will roll into the the station and the timers will release the drug over the crowd.
+
+#### b90f38874e-LM | ALFRED → BATMAN | x2
+Good thing you reduced their supply at the construction site.
+
+#### dd5c25b723 | ALFRED → BATMAN | x2
+So how did it get in his body?
+
+#### e49a3bbade | BATMAN → ALFRED | x2
+Looks like they {FaceAccent}{ThinkingA}ran out of the absorbing {FaceAccent}agent.
+
+#### fbfdada0b6 | ALFRED → BATMAN | x2
+And why is it in a train depot?
+
+#### 428881287e | BATMAN → ALFRED | x2
+Traces of both chemicals here.
+
+#### 86209f63e5 | BATMAN → ALFRED | x2
+They used the modified drug on him.
+
+#### 2806565426-LM | BATMAN → ALFRED | x2
+Everything you’d{FaceAccent} need to{AngryA} make a {FaceAccent}bomb.
+
+#### 563adae792 | ALFRED → BATMAN | x2
+Wonder what it connects to.
+
+#### 837789ef25 | BATMAN → ALFRED | x2
+Some kind of{FaceAccent} device. {AngryA}But it’s disabled.
+
+#### 923bf4a949 | BATMAN → ALFRED | x2
+The drugs in his system match the refined version used on Montoya.
+
+#### e05a2e6fc2 | BATMAN → ALFRED | x2
+This isn’t the same drug that’s in his system.
+
+#### c9414d2b51 | ALFRED → BATMAN | x2
+I suppose they no longer had need of a hostage.
+
+#### 39eb8198c7 | BATMAN → ALFRED | x2
+Looks like they{AngryA}{FaceAccent} ran out.
+
+#### 9a608105bb | BATMAN → ALFRED | x2
+The numbers on the map. Sixteen and eleven, red line and yellow line.
+
+#### cc889894a5 | BATMAN → ALFRED | x2
+This is how they were{FaceAccent} timing their route.
+
+#### a8b534af51 | BATMAN → ALFRED | x2
+If Vicki’s right, it shouldn’t be this quiet.
+
+#### 04fea38d34 | BATMAN → ALFRED | x2
+There’s a body {FaceAccent}here. {AngryA}{FaceAccent}{BodyAccent}Likely the work of the {FaceAccent}Children of Arkham. {ThinkingA}{FaceAccent}{BodyAccent}I’m going to look around, {AngryA}{FaceAccent}{BodyAccent}see what they’ve been up to.
+
+#### 5068d43f51 | BATMAN → ALFRED | x2
+I’ll have to cut the power {FaceAccent}{BodyAccent}before going down. {AngryA}No doubt the {FaceAccent}{BodyAccent}lasers are connected to an {FaceAccent}alarm...
+
+#### 79214c424b | BATMAN → ALFRED | x2
+But how are they planning to release it?
+
+#### 60060712c7 | BATMAN → ALFRED | x2
+And they have barrels of this stuff. They could infect the entire city if they had enough dermal absorbsion stuff.
+
+#### 5e475407c4 | BATMAN → ALFRED | x2
+They haven’t finished mixing the compound with the drugs yet. I have time to figure this out.
+
+#### 5be7569bb3 | BATMAN → ALFRED | x2
+They’ve altered the drug, so that it can be absorbed through the skin.
+
+#### 5eb395f9fc | BATMAN → ALFRED | x2
+And he must have been their test subject.
+
+#### 2db8776407 | BATMAN → ALFRED | x2
+Thankfully, there wasn’t enough of the chemical to mix with the rest of the stockpile of drugs.
+
+#### 8b310be323 | ALFRED → BATMAN | x2
+Perhaps that’s all they could find?
+
+#### 8f862990ad | ENFORCERCOLLEEN, BATMAN → BATMAN, ALFRED, GORDON | x10
+Maybe...
+
+#### 0b1fbee845 | ALFRED → BATMAN | x2
+That seems oddly specific.
+
+#### 258fa5b999 | BATMAN → ALFRED | x2
+Some kind of clock or {FaceAccent}timer.{ThinkingA} But it’s {FaceAccent}disabled.
+
+#### 1bb1108845 | choice/UI → ALFRED | x2
+Security Panel
+
+#### 8b4b2e2a93 | choice/UI → ALFRED | x2
+Laser grid security system
+
+#### 76050f74c2 | choice/UI → ALFRED | x2
+Laser Panel
+
+#### a520f300d9 | choice/UI | x2
+Laser Power
+
+#### 2a19bcb7c7 | choice/UI | x2
+Power Supply
+
+#### 059289d997 | choice/UI | x2
+Local power supply.
+
+#### ab478f3efc | choice/UI | x2
+Map
+
+#### 114c5332b7 | choice/UI | x4
+Sky Train Car
+
+#### 4a9be042af | choice/UI | x2
+Battery
+
+#### 1fbf2c0f56 | choice/UI | x2
+Timer Parts
+
+#### 9d9cec22f3 | choice/UI → ALFRED | x2
+Timer
+
+#### 7866097a94 | choice/UI → ALFRED | x2
+Map of the Sky Train System
+
+#### 2d19fe0738 | BATMAN → ALFRED | x4
+This isn’t dangerous enough to be their plan.
+
+#### 7a0a1b4c8f | BATMAN → ALFRED | x2
+Looks like they’re running out of this agent.
+
+#### 3a7551fe55 | choice/UI | x2
+Mercy Station
+
+#### f655334cd2 | choice/UI | x2
+Mercy Central Sky Train Station.
+
+#### 4eb8a83faf | choice/UI | x2
+Chemistry Equipment
+
+#### 4328741204 | choice/UI | x4
+Chemical Barrels
+
+#### d9d0651874 | choice/UI | x2
+Dead Body
+
+#### f10fedf9a7 | choice/UI | x2
+The chemicals stolen from the docks.
+
+#### cf9f02c8f1 | choice/UI | x2
+Gunshot Wounds
+
+#### 6b80c7589c | choice/UI | x2
+Wrist
+
+#### 168d5186a4 | choice/UI | x2
+Modified Drug
+
+#### 4658a08391 | choice/UI | x2
+Drug confirmed. No injection.
+
+#### 0bf3d1de57 | choice/UI | x2
+Ladder
+
+#### bafd5d5ff1 | choice/UI | x2
+Sprinkler Nozzle
+
+#### cf87fe2fd1 | choice/UI | x2
+Chemical Tank
+
+#### 7fe6ee4c07 | choice/UI | x2
+Modified Sky Train Car
+
+#### 2c5afa91c9 | choice/UI | x2
+Sky Train car with modified sprinkler system attached.
+
+#### c01fb7ed3a | choice/UI | x4
+Empty Container
+
+#### 5e5cdf1af1 | choice/UI | x2
+Absorbing Agent.
+
+#### 74b9beb519 | choice/UI | x2
+Chemical Spill
+
+#### ebb028e2c0 | choice/UI | x2
+Chemistry Lab
+
+#### 7e22c1276d | choice/UI | x2
+A laboratory for mixing chemicals.
+
+#### d0d144d7ea | choice/UI | x2
+Gives me time to investigate.
+

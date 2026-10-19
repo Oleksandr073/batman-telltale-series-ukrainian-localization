@@ -1,0 +1,2211 @@
+﻿#### 1fd17a4f4d | BRUCE, ALFRED → ALFRED, FAIRCHILD | x4
+I’m in this scene.
+
+#### aba5a016dd | GORDON, FAIRCHILD → FAIRCHILD, BRUCE | x4
+I’m in this scene, lightly.
+
+#### fe27842d25 | FAIRCHILD → ALFRED | x2
+As far as the state of Arkham Asylum itself, all o
+
+#### cc23ce3dec | FAIRCHILD → GORDON | x2
+As to the security of the building after the assualt by the Children of Arkham, it is yet to be seen if Wayne Enterprises will have the momentum to continue the building of the new Memorial Hopsital. For now the site is on hold, with no plans to move forward.
+
+#### 30a4b2b189 | FAIRCHILD | x2
+They say that Batman, who was present at the time, was engaged with helping authorities control the breakout while pursuing Lady Arkham herself.
+
+#### 8497db7122 | FAIRCHILD | x2
+They say Batman, while present at the time of the break-out to lend a hand, seemed to be primarily focused on the capture of Lady Arkham.
+
+#### dae3bfbd58 | FAIRCHILD | x6
+As to last week’s events at Arkham Aslyum, the police have released shocking information that the leader of the now defunct terrorist organization Children of Arkham--
+
+#### adfeca91a2 | FAIRCHILD | x2
+Killed by the cave-in that occured beneath Arkham Asylum,
+
+#### 59d737ec40 | FAIRCHILD | x2
+Currently she has been admitted to Arkham Asylum, in a catatonic state.
+
+#### 38ad5a9c02 | FAIRCHILD → LADYARKHAM | x2
+And speaking of Gotham’s once Golden Child, Bruce Wayne has
+
+#### 8bcab4740f | FAIRCHILD → LADYARKHAM | x2
+And speaking of Gotham’s once-golden child, Bruce Wayne has been unusually quiet since making a scene at his dethroning.
+
+#### d36ccd36fc | FAIRCHILD → LADYARKHAM | x2
+The future seems uncertain for Gotham’s once-golden child, Bruce Wayne.
+
+#### 8b3a86d8ca | LADYARKHAM → FAIRCHILD | x2
+Dosed with the drug used to condemn so many others, Bruce is not being held responsible for his recent actions.
+
+#### f730301582 | FAIRCHILD → LADYARKHAM | x2
+Dosed with the drug used to condemn so many others, he is not being held responsible for his recent actions. Will he take control of his company again, or strike out on his own?
+
+#### 5df798020f | FAIRCHILD → LADYARKHAM | x2
+There is speculation over his return to the helm of his company, considering his actions at the press conference held last week.
+
+#### ea50343836 | FAIRCHILD → LADYARKHAM | x2
+Wayne Enterprises, hobbled by the board’s decision to back CEO contender and known criminal Oswald Cobblepot, is under scrutiny. Is there a future for the company in light of the still-simmering scandal concerning the Wayne Family?
+
+#### 10799fae40 | FAIRCHILD → ALFRED | x2
+Many sources speculate based on the professionalism displayed by Wayne at the press conference last week when he stepped down.
+
+#### e4405b607b | FAIRCHILD → ALFRED | x2
+Many sources speculate based on the hard truths that Wayne brought to light at the press conference last week when he stepped down.
+
+#### 99e7acce79 | ALFRED → FAIRCHILD | x2
+It is quite a lot to take in.
+
+#### 39198751fe-LM | BRUCE → ALFRED | x2
+Don’t get yourself worked up.
+
+#### 411f522f78 | ALFRED → BRUCE | x2
+And perhaps you shouldn’t go around casting stones.
+
+#### 3d03ad5758 | ALFRED → BRUCE | x2
+Bruce. Everything that’s happened...
+
+#### abe8344368-LM | ALFRED → BRUCE | x2
+And... [beat]what about Miss Kyle? After you spent that night in her apartment...
+
+#### 178d2a2a1a | BRUCE → ALFRED | x2
+She showed up at Arkham to help, but... I don’t think it means that I can trust her.
+
+#### 375d7984e8 | ALFRED → BRUCE | x2
+Self-serving doesn’t always mean wrong.
+
+#### e9f9858ed6 | BRUCE → ALFRED | x2
+She and I want very different things, Alfred.
+
+#### 391f3e2e9b | BRUCE → ALFRED | x2
+She showed up at Arkham to help me.
+
+#### 08ff6baf84 | choice/UI → ALFRED | x2
+[Attend as Bruce]
+
+#### c50bb65527 | choice/UI → ALFRED | x2
+[Attend as Batman]
+
+#### 77cfb8a4a5 | choice/UI | x2
+Gotham is safe.
+
+#### 14708a308d-L? | choice/UI | x2
+You’re safe.
+
+#### f55b52fd07 | choice/UI → ALFRED | x4
+The city needs leaders.
+
+#### 4a7dad9b48 | choice/UI → ALFRED | x4
+Gotham needs a protector.
+
+#### df431a1cce | choice/UI → ALFRED | x4
+The people need hope.
+
+#### cd83582f47 | choice/UI | x2
+They deserved worse.
+
+#### ff2db2a45a | choice/UI | x2
+Justice was served.
+
+#### 9d35d1fb0b | choice/UI | x2
+I can do better.
+
+#### 41bd15226c-SM | choice/UI | x2
+I did it for Gotham.
+
+#### 3f2237bde4 | choice/UI → GORDON | x2
+I trust you, Jim.
+
+#### 019f684e13 | choice/UI | x2
+There is evil in Gotham.
+
+#### ab6ce4e247 | choice/UI | x2
+Evil is in all of us.
+
+#### d7f5662b52 | choice/UI | x2
+Force is sometimes necessary.
+
+#### 4cfeaaa7ba | choice/UI | x2
+I’m not above the law.
+
+#### ec3f9544a2 | choice/UI | x2
+Fear over violence.
+
+#### 17bcc7aa9c | choice/UI | x2
+People are inherently good.
+
+#### a791743eac | choice/UI | x2
+Lead by example.
+
+#### b26dca698f-SM | choice/UI | x2
+I protected them from themselves.
+
+#### 459443675c | BRUCE → ALFRED | x2
+I’d like to see her again. Despite her bluster... I think that she’s a good person.
+
+#### dd34189c6e | choice/UI | x2
+HShe got what
+
+#### ee60f6005b | choice/UI | x2
+She’s finally at peace.
+
+#### 657c65f14a-SM | choice/UI → ALFRED | x2
+I wish I could have saved her.
+
+#### 2843e4f14c | choice/UI → ALFRED | x2
+She’ll never leave that place.
+
+#### 877bee2312 | choice/UI → ALFRED | x2
+I hope she finds peace.
+
+#### 2970504ae6 | choice/UI → ALFRED | x2
+She needs help.
+
+#### 13d1fa99a6 | ALFRED → BRUCE | x2
+Do you think it was all justified?
+
+#### 820da55a7e-LM | ALFRED → BRUCE | x2
+You hurt so many people.
+
+#### 8f75edc4e0-SM | BRUCE → ALFRED | x2
+The people I hurt deserved worse, Alfred. My sentence was light.
+
+#### e03181ea60-LM | ALFRED → BRUCE | x2
+I suppose you’re right. Someone else might have killed them for their crimes.
+
+#### 9d0edf8e3b-SM | BRUCE → ALFRED | x2
+I did what needed to be done, Alfred. They all were handed into the police.
+
+#### 2218956439-LM | ALFRED → BRUCE | x2
+With a few broken bones, but yes. I suppose you’re right.
+
+#### a7732c2327-SM | BRUCE → ALFRED | x2
+Left to their own devices, they would have invited worse. I protected them from their own intentions.
+
+#### c5deeda95f | ALFRED → BRUCE | x2
+A few broken bones would be a small price to pay, I agree.
+
+#### c78184283e-LM | ALFRED → BRUCE | x6
+You did what you thought was right. No one can fault you for that.
+
+#### fef30fed13 | ALFRED → BRUCE | x2
+Hurting some, pardoning others?
+
+#### 1464d9705c | choice/UI → ALFRED | x2
+Every situation is different.
+
+#### 9e06a0d90b | BRUCE → ALFRED | x2
+I think that force is necessary with some, Alfred. The ends justifies the means.
+
+#### 597071c740 | ALFRED → BRUCE | x2
+No doubt you’re correct. Some nuts are harder to crack.
+
+#### ae95984e51 | BRUCE → ALFRED | x2
+I’m never above the law, Alfred. I didn’t pardon anyone.
+
+#### 1bc3575452 | ALFRED → BRUCE | x2
+True enough.
+
+#### 614ce26a9a | BRUCE → ALFRED | x2
+Each situation requires its own set of rules, Alfred. Varibles apply.
+
+#### a331389ff2 | ALFRED → BRUCE | x2
+Each criminal is different, I do understand that.
+
+#### 69e23b59e9-LM | ALFRED → BRUCE | x4
+I’m know you had your reasons.
+
+#### 3d421feee4 | ALFRED → BRUCE | x6
+Regardless, I stand behind you.
+
+#### 69e23b59e9-L? | ALFRED | x2
+I’m know you had your reasons.
+
+#### ed59fc4000 | ALFRED → BRUCE | x2
+Showing mercy to criminals?
+
+#### a6d286da70 | BRUCE → ALFRED | x2
+Batman was born in able to use fear as a weapon so that I wouldn’t have to resort to violence.
+
+#### ff84f268fc | ALFRED → BRUCE | x2
+You’ve done a remarkable job, Bruce.
+
+#### 60ab4ad1ef-SM | BRUCE → ALFRED | x2
+Gotham watches me. I need to lead the city by example.
+
+#### f0a36fa98b-LM | ALFRED → BRUCE | x2
+Gotham is lucky to have you.
+
+#### 4ef3195e10 | BRUCE → ALFRED | x2
+I want to believe that everyone is inherently good, Alfred. That they deserve a chance.
+
+#### f5c280091b-SM | ALFRED → BRUCE | x2
+I’m proud of the man you’ve grown into.
+
+#### 44e63ed410 | ALFRED → BRUCE | x2
+It’s a shame that Miss Vale...
+
+#### 73b0e465fc | ALFRED → BRUCE | x2
+I know that she did so many terrible things.
+
+#### 7f85ac9b6c | BRUCE → ALFRED | x2
+This city failed her. My father... failed her.
+
+#### 3804f45105 | ALFRED → BRUCE | x2
+And yet in the end, her choices were her own.
+
+#### 60bc35c02e | ALFRED → BRUCE | x2
+But did anyone deserve to die like that?
+
+#### 7781fcb67e | BRUCE → ALFRED | x2
+Vicki was a killer without remose. You’re my family.
+
+#### e35c4e5599-SM | choice/UI → ALFRED | x4
+I chose you.
+
+#### 47ae8e92f0 | BRUCE → ALFRED | x2
+Her death was justified.
+
+#### c4657f6a51-LM | ALFRED → BRUCE | x2
+I didn’t think you believed that any death was justified.
+
+#### 5a24326bd3-SM | choice/UI → ALFRED | x2
+I wish I had saved her.
+
+#### e11366ed5c | choice/UI → ALFRED | x2
+I should have gone after her.
+
+#### 48056197f3-SM-LM | BRUCE → ALFRED | x2
+I made my choice, and I chose to make sure you got out safely.
+
+#### 040e9375a1-SM | ALFRED → BRUCE | x2
+I... thank you. I’ve always tried... [beat]I am happy to be here, with you.
+
+#### 30fbb4add6 | BRUCE → ALFRED | x2
+I should have gone after her, too. I should have tried.
+
+#### 35828d3980-LM | ALFRED → BRUCE | x2
+You had so little time. You did what you thought was right.
+
+#### 12de4a2f39 | BRUCE → ALFRED | x2
+She’s at peace. She has that.
+
+#### 4a1ecbf3fb | ALFRED → BRUCE | x2
+A cold comfort.
+
+#### 18a621d7e5 | ALFRED → BRUCE | x2
+I hope she’s at peace. And I thank you for being there for me.
+
+#### 883ba9eb1c | ALFRED → BRUCE | x2
+But ending up in Arkham?
+
+#### 329c19b657 | BRUCE → ALFRED | x2
+Vicki will be there for the rest of her days. It’s fitting.
+
+#### f13fe4d39b | ALFRED → BRUCE | x2
+Arkham to Arkham.
+
+#### a54cf806dc | BRUCE → ALFRED | x2
+The doctors there can give her the help she needs.
+
+#### d24622bfb1 | ALFRED → BRUCE | x2
+I suppose that’s true.
+
+#### 561e9cb327 | BRUCE → ALFRED | x2
+I hope that one day she can find peace.
+
+#### c0c5468557 | ALFRED → BRUCE | x2
+A large mercy to ask for one with so many evils to her name.
+
+#### 2653f0a9bf | ALFRED → BRUCE | x2
+I hope she finds a little peace, there.
+
+#### ee56e0642e | ALFRED → BRUCE | x2
+Your gut instincts often prove to be true.
+
+#### 6d11216507 | BRUCE → ALFRED | x2
+I can hope.
+
+#### 693c3ff729 | BRUCE → ALFRED | x2
+She and I... it was nice while it lasted.
+
+#### 4fdd2e14f9 | ALFRED → BRUCE | x2
+You don’t think she’ll--[be back?]
+
+#### 81ae34b9a5 | BRUCE → ALFRED | x2
+I’m not counting on her returning.
+
+#### dc07c0f4d3 | BRUCE → ALFRED | x2
+Bruce broods over Selina being brought up.
+
+#### b860e708d1 | ALFRED → BRUCE | x2
+Perhaps she’ll be back. You have a way of drawing people to your cause.
+
+#### 6d42605c6f | ALFRED → BRUCE | x2
+I assume that perhaps you and her...
+
+#### a3f3c30512 | ALFRED → BRUCE | x2
+Well. Perhaps I shouldn’t assume.
+
+#### a5266bd13f | ALFRED → BRUCE | x2
+Despite your differences I think that she was good for you.
+
+#### 54720d1d06 | ALFRED → GORDON | x2
+Batman by himself is a lonely thing.
+
+#### 04a45285e6 | BRUCE → GORDON | x2
+Hello, Commissioner.
+
+#### ffcc526c14-LM | GORDON → ALFRED | x2
+So you heard the news.
+
+#### 072e0dff64-LM | GORDON → BRUCE | x2
+Listen, you trusted me enough to give me that file on Falcone, so I’m returning the favor.
+
+#### 6801c2df26 | BRUCE → GORDON | x2
+Gotham is in a dark place. I think the GCPD needs all the anonymous help that it can get.
+
+#### 76e40a4d9e-SM | GORDON → BRUCE | x6
+I’m glad you think so.
+
+#### c997bcc89e | BRUCE → GORDON | x2
+It came from me. I hope it will help. Gotham deserves it.
+
+#### a53ea1e090-SM | BRUCE → GORDON | x2
+I’ve watched you, Commissioner. And I trust you. I know that you’ll use that money wisely.
+
+#### e087e2b4d3-SM | GORDON → BRUCE | x2
+Maybe I’m wrong.
+
+#### 631ff27723 | GORDON → BRUCE | x2
+But usually not.
+
+#### 6328cab1b8-SM | GORDON → BRUCE | x2
+I know that I haven’t always... well. I assumed things about you. We’ve had our differences.
+
+#### f89038c6ba | GORDON → ALFRED | x2
+But I know now that you care about Gotham and right now the city needs a symbol. I’m giving a speech tonight on the steps of city hall and I hope you’ll be there. Just think about it.
+
+#### 306dd34a49 | ALFRED → GORDON | x6
+Gordon has confidence in you.
+
+#### 7f9620c40b | ALFRED → GORDON, BRUCE | x4
+Bruce Wayne can be a different sort of symbol, one of pasts overcome. He can lead Gotham into a new day.
+
+#### 138f786523 | ALFRED → BATMAN | x4
+Batman... he will always be able to act without borders.
+
+#### 1d00ee24b6 | FAIRCHILD → ALFRED | x2
+In the next hour, the newly appointed Commisioner of the GCPD, James Gordon, speaks out to Gotham City.
+
+#### 199b7f61b7 | ALFRED → BRUCE | x2
+So Gordon has become the commissioner.
+
+#### 9e33f4075b-SM | choice/UI → ALFRED | x2
+I knew he would.
+
+#### 9f64335b19-SM | BRUCE → ALFRED | x2
+I’m glad. He didn’t agree with Batman, but he knew what was right for Gotham.
+
+#### f8419d25f3-SM | BRUCE → ALFRED | x2
+I’m glad. He trusted me and we worked well as a team.
+
+#### e389950933 | ALFRED → BRUCE | x2
+You should be there.
+
+#### d54dd03554 | BRUCE → ALFRED | x2
+The speech at city hall?
+
+#### bb8249644b | ALFRED → BRUCE | x2
+Gordon is a great man, but you can help him steer this city.
+
+#### 1f00dad5e7 | ALFRED → BRUCE | x2
+He left a message earlier saying the same thing--only that message was for Batman.
+
+#### 2a8637c9d1 | choice/UI → ALFRED | x2
+She was mentally ill
+
+#### d538c7a92c-SM | choice/UI → ALFRED | x2
+I failed her.
+
+#### c4bc21905c | choice/UI → ALFRED | x2
+She deserved her fate
+
+#### 9f8a73ef13 | choice/UI | x2
+Dead
+
+#### 6a95ab7ede | choice/UI | x2
+She didn’t deserve death.
+
+#### 23ac5be877 | choice/UI | x2
+Arkham is worse than death.
+
+#### 3c3754e1e1 | choice/UI | x2
+She didn’t deserve what happened to her
+
+#### 4bcb83b8df | choice/UI | x2
+My father.
+
+#### ca34074801 | choice/UI → FAIRCHILD | x2
+My friends.
+
+#### 8f922187d9 | choice/UI → FAIRCHILD | x2
+My business.
+
+#### 2281ce396c | FAIRCHILD → ALFRED, BRUCE | x4
+That our own Miss Vale could be responsible for such tragic acts of violence is a concern for the future of our city.
+
+#### ae9d8f40cc | FAIRCHILD → ALFRED | x4
+While Bruce Wayne has been officially cleared of all charges against him--
+
+#### 1d069e376e | FAIRCHILD → ALFRED | x4
+Was none other than the missing and presumed dead Gazette reporter Vicki Vale.
+
+#### 165982e627 | FAIRCHILD → ALFRED | x6
+Killed by the cave in that occured beneath Arkham Asylum--
+
+#### 4e37ad3cb9 | FAIRCHILD → ALFRED | x2
+Currently an inmate at Arkham Asylum and catatonic--
+
+#### cdde15a33b | FAIRCHILD → ALFRED | x6
+Acting Commisioner James Gordon has promised to speak about the issue tonight during an emergency city-wide address.
+
+#### eda6f1b067 | ALFRED → FAIRCHILD | x2
+I wish it were really over.
+
+#### bd3fc044e8 | ALFRED → FAIRCHILD | x2
+But everything that’s happened
+
+#### 5a9730ef4e | BRUCE → ALFRED | x4
+You haven’t tasted it yet.
+
+#### 4eb003637d | ALFRED → BRUCE | x6
+No... [stressed]thank you.
+
+#### 49e570627d-LM | ALFRED → BRUCE | x2
+You sacrificed your identity for my safety.
+
+#### 1c1de88169 | BRUCE → ALFRED | x2
+It was the right desicion. You’re my family.
+
+#### 2623744ba6-LM | ALFRED → BRUCE | x2
+You saved me.
+
+#### 3aaaa04232-LM | ALFRED → BRUCE | x2
+I haven’t gotten a chance to thank you for what you did, sacrificing your identity for my safety.
+
+#### ec3cb3beea-LM | ALFRED → BRUCE | x2
+You didn’t compromise your morals and yet you saved me.
+
+#### 60284d797a | BRUCE → ALFRED | x2
+I wouldn’t be able to do what I do without you, Alfred. Your support, it’s vital.
+
+#### 496030fe81 | BRUCE → ALFRED | x2
+Your support... it’s vital.
+
+#### 20e55979f1 | BRUCE → ALFRED | x2
+If Vicki had only had someone like you in her life...
+
+#### 914c7cf79e-SM | ALFRED → BRUCE | x4
+I’m not sure I believe that Miss Vale ever would have been more than a broken woman, no matter the people supporting her.
+
+#### 62dd50fb90 | BRUCE → ALFRED | x2
+But Gotham failed her--my father, failed her.
+
+#### 1587ddc455 | ALFRED → BRUCE | x2
+There is enough blame for many people to shoulder, without doubt.
+
+#### 2d096f6e56 | BRUCE → ALFRED | x2
+Regardless of what she was, she didn’t deserve to die.
+
+#### d2a9665be5-LM | ALFRED → BRUCE | x2
+No, she didn’t. You did your best to prevent it.
+
+#### 54d17fb414 | BRUCE → ALFRED | x2
+No one deserves to live the rest of their lives as a vegetable.
+
+#### 204226f45a | ALFRED → BRUCE, FAIRCHILD | x4
+Perhaps the quiet inside her is a mercy.
+
+#### 0cbd60f50a | BRUCE → ALFRED | x2
+A broken woman who did terrible things. Vicki’s sins had to be accounted for.
+
+#### 652d1fc33e-LM | ALFRED → BRUCE | x12
+I suppose you’re right.
+
+#### 35fee810dd | ALFRED → BRUCE | x2
+Her circumstances may have changed nothing.
+
+#### 1e1e2afa92-SM | ALFRED → BRUCE | x2
+I’m not sure any circumstances would have changed that.
+
+#### b044f259b0 | ALFRED → BRUCE | x2
+Though in the end we can only judge her by what she did.
+
+#### 671878b814-LM | ALFRED → BRUCE | x2
+You took on the same weight.
+
+#### 4a0a89ab4b-SM-LM | ALFRED → BRUCE | x2
+You’ve said that to me before, and I told you that
+
+#### 3fce163d87 | ALFRED → BRUCE | x2
+You serve Gotham by shouldering the weight of its problems-- and now its past, too.
+
+#### b2c5d1ebc7 | BRUCE → ALFRED | x2
+I wear the cowl because no one else will.
+
+#### 8c9dd92a28-LM | ALFRED → BRUCE | x2
+You’ve told me that before. You also said that Bruce Wayne has always been the harder fight.
+
+#### 800efb2986 | ALFRED → BRUCE | x2
+But I’ve seen you stand up to so many terrible things recently.
+
+#### 934d0915af | BRUCE → ALFRED | x2
+Learning the monster that my father was...
+
+#### 8a2183c84e-LM | ALFRED → BRUCE | x2
+And through that, you fought and prevailed. You never failed, never stopped.
+
+#### 992848e2c6-SM | ALFRED → BRUCE | x4
+I used to believe that your personal safety was more important than your mission, that Bruce Wayne was more important than Batman.
+
+#### 0f78a83323-SM | ALFRED → BRUCE | x4
+The truth is that I was scared of losing you. That hasn’t changed.
+
+#### 87a1278beb | ALFRED → BRUCE | x2
+But-- I want you to know that I’m here for you.
+
+#### 782007e4b5 | 22 15 → ALFRED | x2
+57:33 2016) Gordon calls.
+
+#### 7f8b62bb85 | ALFRED → BRUCE | x2
+He loved you.
+
+#### 4d09209396 | BRUCE → ALFRED | x2
+Then he should have
+
+#### 85393568ca-SM | BRUCE → ALFRED | x2
+But accepting the difference between the father and the man was the hardest thing I had to do.
+
+#### 9d31ed9a73-SM | BRUCE → ALFRED | x2
+The few friends I’ve had, I lost. Selina’s gone and Harvey...
+
+#### 1bbce1fceb | ALFRED → HARVEY | x2
+It is a terrible thing, what happened to Mr. Dent.
+
+#### d04b09a254-SM | BRUCE → ALFRED | x2
+Watching them slip away was one of the hardest things I’ve had to face.
+
+#### 72e1fa7bb3 | BRUCE → ALFRED | x2
+Wayne Enterprises was my legacy. Having what it’s become turned against me, my own secrets turned against me...
+
+#### 868a6e023c | BRUCE → ALFRED | x2
+Having what it’s become turned against me, my own secrets turned against me...
+
+#### 0ad635fade-LM | ALFRED → BRUCE | x2
+It was losing part of a part of yourself.
+
+#### 3938bdc018-SM | BRUCE → ALFRED | x2
+Understanding that I gave my company the tools to hurt Gotham was one of the hardest things I’ve had to deal with.
+
+#### 6130f569ee | ALFRED → BRUCE | x2
+Despite how hard they were, you overcame them all.
+
+#### c24c2d4382 | ALFRED → BRUCE | x2
+The lies about your family...
+
+#### 0947176c00-LM | ALFRED → GORDON | x2
+Friends you’ve lost.
+
+#### f922ddf492 | ALFRED → GORDON | x2
+Wayne Enterprises.
+
+#### 9fccbebb53 | GORDON → ALFRED | x2
+I want Bruce Wayne at my speech tonight. I think that maybe you’re the man that this city needs to help lead it back to a better place.
+
+#### 6feee81f0e | GORDON → ALFRED | x2
+Talk to you later.
+
+#### 81120315d8 | ALFRED → GORDON, FAIRCHILD | x6
+Perhaps you should consider what he’s asking.
+
+#### db0c698263 | BRUCE → GORDON | x2
+I’ll think about.
+
+#### f24b3e3fa2 | GORDON → BRUCE, BATMAN | x6
+Don’t--[slowing]don’t answer me now. I just consider it and let me know.
+
+#### 170e5ef142 | GORDON → BATMAN | x4
+Batman... It’s Gordon.
+
+#### b1ffafdb92 | GORDON → BRUCE | x4
+Christ I feel stupid leaving a vigilante a voicemail. Anyway, listen.
+
+#### cc1f888773 | GORDON | x4
+I feel stupid leaving a vigilante a voicemail. Anyway, listen.
+
+#### 0b966c060d | GORDON | x4
+Anyway, listen.
+
+#### c174ea6d6c | GORDON → BRUCE | x6
+It’s not a secret that I don’t always agree with your methods, but you’ve done good for this city and I appreciate that. I’ve giving this speech tonight and I think Gotham needs a symbol to rally around.
+
+#### 64cca16a03 | GORDON → BRUCE, BATMAN | x6
+You can show up tonight.
+
+#### 11348b9ce4 | GORDON → BRUCE | x4
+We work well together. I’m giving this speech tonight and I think Gotham needs a symbol to rally around.
+
+#### 5220bb3d90 | BRUCE → GORDON | x2
+Commissioner.
+
+#### d7807d31ac-LM | BRUCE → GORDON | x2
+Jim. Heard you made Commissioner. Congratulations.
+
+#### 253b1b628c | GORDON → BRUCE | x2
+Well, thanks. Listen.
+
+#### e77661014c-LM | GORDON → BATMAN | x2
+So you heard. Listen.
+
+#### dc9826915b | BATMAN → GORDON | x2
+And what does that have to do with me?
+
+#### e785f12679 | GORDON → BATMAN | x2
+Show up at the speech. Be Gotham’s symbol.
+
+#### cb76173f03-SM | BATMAN → GORDON | x2
+I agree with you, but I’m not sure what that has to do with me.
+
+#### 14104a5045 | GORDON → BATMAN | x2
+I want you at the speech. Be that symbol for Gotham.
+
+#### 0ecbe68855 | GORDON → ALFRED | x4
+I think it could be you. I’d like it if you’d show up.
+
+#### efe7d42e34 | GORDON → ALFRED | x4
+Alright, well. Think about it.
+
+#### 7a2c6c065d | GORDON → BRUCE | x2
+Mr. Wayne, it’s Gordon.
+
+#### 0b76d45d42-SM | GORDON | x2
+Listen, I know that perhaps we haven’t seen eye-to-eye but considering everything, I think I was a little hasty in my judgement. I want to give you a chance.
+
+#### 30efa1785e | GORDON | x2
+If anyone has a chance in hell of leading Gotham in the future, I think it’s probably you.
+
+#### b33d757da1-L? | GORDON | x2
+You’ve got the resources, if nothing else. You could do a lot of good for this city.
+
+#### 352b13fc57-LM | GORDON → ALFRED | x2
+You could do a lot of good for this city.
+
+#### 776fb1a033-SM | GORDON → ALFRED | x2
+My point is--I’ve got this speech tonight and I’m hoping that you’ll show up. Let the city know that you want to help it to a better place.
+
+#### a2879a43bc | ALFRED → GORDON | x2
+You are popular today.
+
+#### b8c72d6ae4 | BRUCE → ALFRED | x2
+Just a shame that Bruce Wayne and Batman can’t be in the same place at the same time.
+
+#### b734e94c46 | ALFRED → GORDON | x2
+Perhaps it’s a personal question, then.
+
+#### 6a17bc0cab | ALFRED → BRUCE | x2
+Shape the city in the light of day, instead of from the shadows.
+
+#### 66bd98d94a | ALFRED → BRUCE | x2
+But Batman is a symbol of justice and strength. Maybe in these dark times, that is truly what Gotham needs the most.
+
+#### 27900d0359 | ALFRED → BRUCE | x2
+Who truly is the mask?
+
+#### 404d978a12 | ALFRED → BRUCE | x2
+Perhaps one is truly the mask.
+
+#### 459b519364 | ALFRED → BRUCE | x2
+And one is who you truly believe you are.
+
+#### df6a4fb35a | FAIRCHILD → BRUCE | x2
+--including any connection to the continuing scandal surrounding his father--
+
+#### 75d7e44937 | FAIRCHILD → ALFRED | x2
+--public opinion is still out on Gotham’s once-golden child.
+
+#### ded1b55648 | FAIRCHILD → ALFRED | x2
+Currently an inmate at Arkham Asylum--
+
+#### 50fdc1a1ea | FAIRCHILD → ALFRED | x2
+Pronounced legally insane and residing at Arkham Asylum--
+
+#### 49e570627d-L? | ALFRED → FAIRCHILD | x2
+You sacrificed your identity for my safety.
+
+#### 04de98c8e0-SM-LM | choice/UI → ALFRED | x2
+I did it for you Alfred.
+
+#### b0d9e55d02-SM | choice/UI → ALFRED | x2
+I had to stop her.
+
+#### 2dd27b0217-L? | ALFRED → FAIRCHILD | x2
+Only...  a sacrifice a big as the one you made was dangerous.
+
+#### ea0e8ee049 | ALFRED → FAIRCHILD | x2
+Seems Gordon has confidence in you--both of you.
+
+#### 3aaaa04232-L? | ALFRED → FAIRCHILD | x2
+I haven’t gotten a chance to thank you for what you did, sacrificing your identity for my safety.
+
+#### abd9ee7c1e | choice/UI → ALFRED | x2
+Was the hardest decision I’ve ever made.
+
+#### 29dbbb32bd-SM | choice/UI → ALFRED | x2
+I considered the consequences.
+
+#### fc7aabe239 | choice/UI → ALFRED | x2
+We failed her.
+
+#### 2f60c5310f | ALFRED → BRUCE | x2
+Though I suppose we’ll never know what she could have been.
+
+#### 3324eb382f | ALFRED → BRUCE | x2
+Nature versus nuture.
+
+#### ae6821a72d | BRUCE → ALFRED | x2
+She thought she was doing what Gotham needed.
+
+#### 0ef6b94107 | ALFRED → BRUCE | x2
+But look at how she accomplished that-- drugging, killing.
+
+#### a59fbfc79b | ALFRED → BRUCE | x2
+Miss Vale’s vision of freedom was violent and self-serving.
+
+#### dad8add5a8-L? | ALFRED | x2
+You’ve told me that before, but that’s not true. It doesn’t have to be you.
+
+#### 6d6ac431c0 | ALFRED | x2
+When Bruce Wayne needed help, who was there for him? You do so much for Gotham and get nothing in return.
+
+#### c56ef3c88c | choice/UI → ALFRED | x2
+They’ll come around.
+
+#### 3d062c7a1f-L? | ALFRED | x2
+And that is exactly why you are good for this city.
+
+#### 78feb9ef93 | choice/UI → ALFRED | x2
+I fight for justice, not acclaim.
+
+#### 04cb6df4c0-SM | choice/UI → ALFRED | x2
+I won’t turn my back on Gotham.
+
+#### 1eff691294 | ALFRED | x2
+And that is why this city needs you.
+
+#### b44c15b628 | ALFRED → BRUCE | x2
+Which is more important to you?
+
+#### 042ac2b3e2 | ALFRED → BRUCE | x2
+Learning what your father did, losing your friends and having your business stolen. Gotham turned its back on you.
+
+#### 1d9107c094 | choice/UI → ALFRED | x2
+No one will believe her.
+
+#### 290b748d43 | choice/UI → ALFRED | x2
+No one will believe Vicki now.
+
+#### 4afcf92d78 | choice/UI → ALFRED | x6
+She took my secret to the grave.
+
+#### 5711065475 | choice/UI → ALFRED | x2
+No one will belive her.
+
+#### 4f9c492565-LM | ALFRED → BRUCE | x2
+You need to protect who you are. Without Bruce Wayne there is no Batman.
+
+#### 606babcc95 | BRUCE → ALFRED | x6
+Without you... none of this would work.
+
+#### 38f90804af | BRUCE → ALFRED | x6
+You are my family.
+
+#### 2af593303f | ALFRED → BRUCE | x6
+You don’t know how good it is to hear you say that.
+
+#### 102f04d63c | ALFRED → BRUCE | x6
+After everything that’s happened...
+
+#### 3ca60e94eb | BRUCE → ALFRED | x2
+It’s you and me against the world, Alfred.
+
+#### 44e9f4b6a0 | BRUCE → ALFRED | x2
+I couldn’t put anyone safety on the line over my own.
+
+#### 2167a55098-SM | BRUCE → ALFRED | x2
+I needed to make her talk, and I thought she would talk to Bruce Wayne.
+
+#### d4c83f4b4c | ALFRED → BRUCE | x2
+A-A good strategy. It was Bruce she wanted all along.
+
+#### 504685c4e6 | BRUCE → ALFRED | x2
+No one will believe Vicki knows Batman’s true identity. Not after everything she’s done.
+
+#### cd889eec72 | ALFRED → BRUCE | x2
+I suppose that it seems legitimate that she would confuse the two...
+
+#### 04fec416eb | BRUCE → ALFRED | x2
+She has no one to tell her otherwise.
+
+#### 9c8f8417e9 | BRUCE → ALFRED | x2
+Vicki took my secret to the grave.
+
+#### 6989f15d28 | ALFRED → BRUCE | x2
+But you couldn’t have known that would happen.
+
+#### b5549aebb4 | BRUCE → ALFRED | x2
+No, but what’s done is done.
+
+#### 40ffc4619a-SM-LM | ALFRED → BRUCE | x2
+I’m sure you’ve considered the consequences. I just can’t help but worry.
+
+#### 1e0b34aa28 | ALFRED → BRUCE | x2
+In this case, of course, with Miss Vale’s untimely departure, it hardly matters.
+
+#### 0373c335c0 | ALFRED → BRUCE | x2
+I want you to know that I don’t blame you for what happened to me.
+
+#### bd9c70329d-LM | ALFRED → BRUCE | x2
+You needed to protect who you are. Without Batman there is no Bruce Wayne.
+
+#### 75b2710786 | BRUCE → ALFRED | x2
+It was one of the hardest things I’ve ever had to do, Alfred. Leaving you to her...
+
+#### 2ea6c4e4f5 | ALFRED → BRUCE | x2
+It was the right decision, and one that I will never fault you for.
+
+#### 5ddc49bda0-SM-LM | BRUCE → ALFRED | x2
+I didn’t know if you would understand why I chose you over the cowl.
+
+#### 58a77e22f2-LM | ALFRED → BRUCE | x2
+You weren’t protecting yourself-- you were protecting the city.
+
+#### 69a66eb085 | ALFRED → BRUCE | x2
+This injury is a small price to pay.
+
+#### db251ea8b9-SM | BRUCE → ALFRED | x2
+I won’t let this price go unpaid, Alfred. I never asked you to be put in this situation.
+
+#### 7de3218331 | ALFRED → BRUCE | x2
+I suppose a pay-raise wouldn’t go amiss...
+
+#### 918d069364 | BRUCE → ALFRED | x2
+Mmm. And run of a large house over a dank cave?
+
+#### 38bf8149d9 | ALFRED → BRUCE | x2
+Indubitably.
+
+#### 67c8b18e71 | ALFRED → BRUCE | x4
+Bruce, you have no reason to be guilty. Miss Vale forced your hand-- the guilt for her end and my injury are no burden of yours.
+
+#### d440b3a8ce-SM | ALFRED → BRUCE | x4
+I’m proud of the things you’ve done.
+
+#### 2ff465ea64 | ALFRED → BRUCE | x4
+The man you’ve become.
+
+#### 95b83a3a53 | ALFRED → BRUCE | x2
+Everything you do has ramifications.
+
+#### e3ce1649eb | ALFRED → BRUCE | x2
+Serious ones.
+
+#### 69aab506d7 | BRUCE → ALFRED | x2
+Vicki didn’t have the chance to find that out. The deck was stacked against her.
+
+#### 25199218c8 | ALFRED → BRUCE | x2
+While true,
+
+#### 3a15db65dc | ALFRED → BRUCE | x2
+While true, forgive me if I don’t have sympathy for her missed opportunity.
+
+#### e72bb7fe1a | ALFRED → BRUCE | x2
+It must be the painkillers talking.
+
+#### cc0c2437af | ALFRED → BRUCE | x2
+And yet here we both are, worse for the wear of her companionship.
+
+#### 2eb699812d | ALFRED → BRUCE | x2
+Forgive me if I have little sympathy.
+
+#### 89b63a7f02-LM | BRUCE → ALFRED | x2
+I think you’re right.
+
+#### fc28506f64 | ALFRED → BRUCE | x2
+Please, don’t. Those people might have been monsters but no one deserves tp be flayed.
+
+#### e00eddc34f | ALFRED → BRUCE | x2
+The things that she did to the Vales...
+
+#### 27c6fd3bc9 | BRUCE → ALFRED | x2
+They were monsters in their own right, but still. I don’t think even monsters deserve to be flayed.
+
+#### 95d7499473 | BRUCE → ALFRED | x2
+If the Arkhams had been allowed to live, Vicki might have grown up just like me.
+
+#### 316eb9026b | BRUCE → ALFRED | x2
+Perhaps Lady Arkham could have been something different.
+
+#### f815d7d30a | ALFRED → BRUCE | x2
+Perhaps so.
+
+#### c4d73b1797 | ALFRED → BRUCE | x2
+So few believed you.
+
+#### e329911ead | ALFRED → BRUCE | x2
+Stood behind you.
+
+#### f5ba3313ab | BRUCE → ALFRED | x2
+The citizens of Gotham have been through as much as I have. They’ll come around, given time.
+
+#### f5416359d3 | ALFRED → BRUCE | x2
+To Bruce Wayne? Or Batman?
+
+#### 9d0e364a7c | BRUCE → ALFRED | x2
+Both, I hope.
+
+#### 269fd73740 | BRUCE → ALFRED | x2
+I don’t put on the cowl for popularity,
+
+#### 617a9c8e45 | ALFRED → BRUCE | x2
+I’ll always be here.
+
+#### 277495114c | ALFRED → BRUCE | x2
+But, uh... [beat]It was a dangerous thing to do.
+
+#### 4d6bf4f301-SM | choice/UI → ALFRED | x2
+I still need you.
+
+#### 34194e59c7 | choice/UI → ALFRED | x2
+You deserve some time off.
+
+#### 9e0a342f39 | choice/UI → ALFRED | x2
+This is my home
+
+#### 3ea579e6e7-SM | choice/UI → ALFRED | x2
+I do this for myself
+
+#### 996bceb0f2 | ALFRED → BRUCE | x4
+If the public knew the half of it...
+
+#### 325c44d040 | BRUCE → ALFRED | x4
+It’s better that they don’t.
+
+#### 46f99c01b7 | ALFRED → BRUCE | x4
+We’re lucky we have a home left.
+
+#### e5773f684f | WLFRI → ALFRED | x2
+(Writer’s Room, Thu Sep  1 15:40:34 2016) (Writer’s Room, Thu Sep  1 15:40:34 2016) (Writer’s Room, Thu Sep  1 15:40:34 2016) Should be more like, thank you for rescuing me from the crazy lady. And I hope you know--I don’t blame you for what happened.
+
+#### ec3229c108-SM | ALFRED → WLFRI | x2
+I haven’t brought it up before, but, I wanted to thank you.
+
+#### fb3e760976-LM | ALFRED → BRUCE | x2
+You saved my life. I have no doubt Miss Vale would have killed me had you not arrived when you did.
+
+#### b32461688e-SM | BRUCE → ALFRED | x2
+I blame myself. I was the one who put you in danger.
+
+#### c2cf285a3f-LM | ALFRED → BRUCE | x4
+You did everything you could, Bruce. I believe that even if you don’t.
+
+#### e37f8b6a83 | BRUCE → ALFRED | x2
+I promise you that I’m going to use everything at my disposal to help you.
+
+#### b57a2093a0 | ALFRED → BRUCE, FAIRCHILD | x4
+Bionic legs, I suppose. [Laughing]Lucius will be excited.
+
+#### f484fd34b9-SM | BRUCE → ALFRED | x4
+We always knew injury was a risk when I started this.
+
+#### 7ae9a9e5c6 | ALFRED → BRUCE | x4
+Yes, we did. Which is why I lay no fault on you.
+
+#### 9de1e658c0 | ALFRED → BRUCE | x2
+I wonder if her life might have gone differently, if she’d had someone there for *her.*
+
+#### a1f38f6959 | choice/UI → ALFRED | x2
+She chose her path.
+
+#### 0614321ac5 | choice/UI → ALFRED | x2
+I believe it would have.
+
+#### 451b94f29d | choice/UI → ALFRED | x2
+She was too far gone.
+
+#### 1aca654fe1 | choice/UI → ALFRED | x2
+There’s still a chance.
+
+#### acd97ea604 | ALFRED → BRUCE | x2
+The terrible things that she did--
+
+#### 1569b4d0fa | BRUCE → ALFRED | x2
+She chose her own path with her eyes open.
+
+#### db4c746f76 | ALFRED → BRUCE | x2
+I just can’t help but ask.
+
+#### ef6b66f903 | BRUCE → ALFRED | x2
+Any confidante, no matter how small, may have changed her.
+
+#### 8c04f7283d | BRUCE → ALFRED | x2
+There are always options, Alfred.
+
+#### 4e1608a262 | ALFRED → BRUCE | x2
+I suppose that I’ll accept that as a compliment.
+
+#### c89a1a83eb | BRUCE → ALFRED | x2
+As you should.
+
+#### 4d18db5882 | BRUCE → ALFRED | x2
+She still has a chance to find out.
+
+#### 368449ca20 | ALFRED → BRUCE | x2
+I hope that she’ll be able to get the help she needs.
+
+#### 1472204ea6 | BRUCE → ALFRED | x2
+Nothing could have saved her.
+
+#### ca74fc240c | ALFRED → BRUCE | x2
+You can’t know...
+
+#### 11a8a6b774 | BRUCE → ALFRED | x2
+She was smart. She knew exactly what she was doing.
+
+#### 7445c636dd | ALFRED → BRUCE | x2
+If she’d had anyone at all.
+
+#### cc805390ae | ALFRED → BRUCE | x2
+As do you. The difference is that Miss Vale took her suffering and twisted into something violent and self-serving.
+
+#### c7b6da57bb-SM | ALFRED → BRUCE | x2
+I’ve always worried about you
+
+#### 4c42ad7de0 | BRUCE → ALFRED | x2
+I try to do what I think Gotham needs...
+
+#### 77ba6d4e79 | ALFRED → VICKI | x4
+Miss Vale... she was alone.
+
+#### 791819d12e | ALFRED → BRUCE | x2
+But I’ve seen what you’ve gone though recently and I know that
+
+#### e4fa16b606-SM-LM | ALFRED → BRUCE | x2
+For all the terrible things that you’ve endured lately, I’m glad to know that you’re no longer alone.
+
+#### ff343b0737 | ALFRED → BRUCE | x2
+That... *we* are no longer alone.
+
+#### 932b1dc9e2 | BRUCE → ALFRED | x2
+I suppose it’s not just us anymore, is it?
+
+#### fbb95a5d0f | choice/UI → ALFRED | x2
+But fewer friends.
+
+#### 88182f7a0b | choice/UI → ALFRED | x2
+Hope they don’t regret it.
+
+#### bd9707b4f9 | choice/UI → ALFRED | x2
+Gotham needs all of us.
+
+#### 1e57f58151 | ALFRED → BRUCE | x2
+Let them take some of your burden.
+
+#### 6af372c0fc | ALFRED → BRUCE | x2
+You have allies now.
+
+#### 1194d5ff66-SM | BRUCE → HARVEY | x4
+I’ve gained allies, but I’ve lost friends. Oz... [the worst:]Harvey.
+
+#### 282d7f1c6a | BRUCE → ALFRED | x6
+I know. I am too.
+
+#### 139324ab8b | BRUCE → ALFRED | x2
+I hope they don’t live to regret their choice.
+
+#### 8b7e6b9d17 | ALFRED → BRUCE | x2
+You haven’t, and I believe that they won’t either.
+
+#### 1b9188cf5f | BRUCE → ALFRED | x2
+Gotham needs all the allies it can get.
+
+#### f089163575 | ALFRED → BRUCE | x2
+It will be an uphill battle for all of us.
+
+#### ecb8623053 | BRUCE → GORDON | x2
+Commissioner. Congratulations on the promotion.
+
+#### 3c30048b55 | GORDON → ALFRED | x2
+Listen, I know this is unorthodox, but I have something to ask.
+
+#### a704048148 | GORDON → BRUCE | x2
+This isn’t a matter of debt. I don’t want you to do this because you owe me.
+
+#### da4fab373e | GORDON → BRUCE | x2
+At my
+
+#### 04161a59be | GORDON → BRUCE | x2
+My swearing-in is tonight, and it’s public. After all this--[bites tongue.]
+
+#### 3a13157733 | BRUCE → GORDON | x2
+Turmoil.
+
+#### 1a567e67fc | GORDON → BRUCE | x2
+Yeah. I want to reassure the people the right steps are being taken to put the pieces back together.
+
+#### f0f98b796a | GORDON → BRUCE | x2
+That Gotham is headed in a good direction again.
+
+#### fce81da0d6-LM | BRUCE → GORDON | x2
+And you called me.
+
+#### f87aad6264-SM | GORDON → ALFRED | x2
+I called a few people. We need a strong, unified front.
+
+#### 74f127dbbf | GORDON → ALFRED | x2
+This isn’t a favor, just an opportunity. Just think about it.
+
+#### 91be564c1f-LM | ALFRED → GORDON | x2
+And I hope... [careful] I hope you don’t blame yourself for this.
+
+#### bf08e227e1-L? | ALFRED | x2
+You saved me from Miss Vale.  [gestures to injury] This is nothing compared to what would have happened.
+
+#### dbcd6ccd2e | ALFRED | x2
+DIR:<<guid:{171A7053-8CC9-40AA-9867-A7C1EA48C8D6}>>(Meghan Thornton, Fri Sep  2 12:09:51 2016) Bruce looks at the injury pointedly.
+
+#### a08867ca99 | ALFRED → BRUCE | x4
+I want you to know that I don’t blame you for this.
+
+#### ef6a603cbb | ALFRED → BRUCE | x2
+And that I hope... I hope you know I don’t blame you for what happened to me.
+
+#### fdb8cdd397 | choice/UI → ALFRED | x2
+Yes, I want to clear my name.
+
+#### f0c5f3e70e | choice/UI → ALFRED | x2
+Not really my thing.
+
+#### 80530581b0 | choice/UI → ALFRED | x2
+If Gotham needs me.
+
+#### e5c8ed26ad | choice/UI → FAIRCHILD, ALFRED | x8
+Gotham should know I’m with them.
+
+#### 2b3557e7e9 | choice/UI | x2
+I’d do it for Gordon.
+
+#### 207cf76fb9 | choice/UI → FAIRCHILD, ALFRED | x8
+Batman is more effective from the shadows.
+
+#### e6f4cb3bc2 | choice/UI → ALFRED | x2
+We’ll fix this.
+
+#### 02b92f14cc | choice/UI → ALFRED | x2
+Comes with the territory.
+
+#### e2d3d89bf6-SM | BRUCE → ALFRED | x2
+But I blame myself. I put you in that situation. I was the one who put you in danger.
+
+#### d22a1f8865 | BRUCE → ALFRED | x2
+I promise you that I’m going to use everything at my disposal to fix this.
+
+#### e7991ce74b | choice/UI → ALFRED | x2
+I’d do the same again.
+
+#### b04dfea63d-SM | choice/UI → ALFRED | x2
+I’ve made mistakes.
+
+#### f663064985 | choice/UI → ALFRED | x2
+A chance at a fresh start.
+
+#### 62c7ce10f0-SM | choice/UI → ALFRED | x2
+I’m not sure it would help.
+
+#### 0a24d18c5b | choice/UI | x2
+That’s not my job.
+
+#### f23edc0d4d | choice/UI → ALFRED | x4
+I don’t do this for acclaim.
+
+#### d95810c790 | choice/UI | x2
+Gotham’s my home.
+
+#### 3ea6af32ca | choice/UI → FAIRCHILD, ALFRED | x4
+I don’t need them to like me.
+
+#### 3668fa4f3e | FAIRCHILD → ALFRED | x2
+--including his toxin-induced assault on Oswald Cobblepot--
+
+#### 2857bcd051 | FAIRCHILD → ALFRED | x2
+--and any connection to the continuing scandal surrounding his father--
+
+#### 550aa02660 | FAIRCHILD | x2
+But thanks to his cooperation with the GCPD in capturing Oswald Cobblepot--the criminal known as Penguin--
+
+#### e3635547a6 | FAIRCHILD → ALFRED | x4
+Public opinion may be starting to turn around for the local billionaire.
+
+#### 649561847d | FAIRCHILD → ALFRED | x2
+But thanks to his cooperation with the GCPD in capturing Harvey Dent--the criminally insane former-mayor--
+
+#### d510dd7510 | ALFRED → FAIRCHILD, BRUCE | x4
+Even if that home is a bit crispy.
+
+#### 3ddb71002a-L? | ALFRED → FAIRCHILD | x2
+This city needs Bruce Wayne *and* Batman, and you risked them both--for the life of an old man.
+
+#### 52944c95d4-L? | ALFRED → FAIRCHILD | x2
+You could lose everything.
+
+#### 0a03b4a65a-L? | ALFRED | x2
+The secrecy you’ve worked so hard to maintain... gone.
+
+#### e267712a36-LM | ALFRED → BRUCE | x2
+Have you lost sight of the fact that... without Bruce Wayne there is no Batman?
+
+#### 80b25d1269 | ALFRED → BRUCE | x2
+You know this isn’t your fault, don’t you?
+
+#### 0336856e09 | ALFRED → BRUCE | x2
+A robot eye, I suppose. [Laughing]Lucius will be excited.
+
+#### f5ec2f5a86 | ALFRED → BRUCE | x2
+But... I do worry that I’ve become a burden.
+
+#### 982daf1183 | ALFRED | x2
+Far worse than this would ha
+
+#### 33419cc834 | ALFRED → BRUCE | x2
+I’m meant to take care of you, not the other way around.
+
+#### cb8a348b0f | ALFRED → BRUCE | x2
+How am I to help you?
+
+#### 1b4f911e7a-LM | ALFRED → BRUCE | x2
+Had you not come after me...
+
+#### 3f838cafda | BRUCE → ALFRED | x4
+Alfred, here, let me--
+
+#### 379d950ad6 | ALFRED → BRUCE | x2
+No, no. Don’t [help me].
+
+#### 26a39fb0e2-LM | ALFRED → BRUCE | x2
+I, uh...I haven’t yet thanked you, Bruce. You saved my life.
+
+#### c9818e11c6-LM | ALFRED → BRUCE | x2
+I’ve no doubt Ms. Vale would have killed me had you not arrived when you did.
+
+#### 6ec3c5bd81 | ALFRED | x2
+But the fact remains...
+
+#### 14a011e394 | ALFRED | x2
+With my injury I may no longer be able to carry on as you butler.
+
+#### 784f4d7f67 | ALFRED | x2
+It’ll take time to... adjust.
+
+#### dca86e049b | ALFRED | x2
+And I don’t want to be a burden in the meantime.
+
+#### 3fa8c4b670 | ALFRED → VICKI | x2
+Ms. Vale, she was willing to die to for her beliefs.
+
+#### 4a3b8602c2 | ALFRED | x2
+She wanted a world without secrets. With no masks to hide behind.
+
+#### 7e94d6487e | ALFRED | x2
+A world where you see people’s true faces, and there’s no hiding. Corruption would be in plain sight. Would the world truly be better off? A world with no secrets. No place to hide. No mask to hide behind. Just who you are, in plain sight? Bruce Wayne AND Batman—for all the world to see? No more pretending to be one—or the other?
+
+#### 826ba265ec | ALFRED | x2
+The truth, in plain sight.
+
+#### d689d75c42 | ALFRED | x2
+A part of me wonders whether she wasn’t partially right.
+
+#### a8a332c159 | ALFRED | x2
+Her methods were reprehensible. But her message...
+
+#### be71c6d7c3 | ALFRED | x2
+Would the world be better off?
+
+#### 9a49178dc9 | ALFRED | x2
+With no more secrets? No more masks? Just you--who you really are--for all the world to see?
+
+#### 3a08e5fefc | ALFRED → BRUCE | x2
+No more dual identities. Only the one.
+
+#### 4694b39a7b | choice/UI → ALFRED | x4
+It’s a nice thought.
+
+#### e0994ad2d6 | choice/UI → ALFRED | x2
+There’d be no Batman.
+
+#### e7d2d33f3d | choice/UI → ALFRED | x2
+There’d be no Bruce Wayne.
+
+#### a9634e15c8 | BRUCE, choice/UI → ALFRED | x6
+People need secrets.
+
+#### d20a6e1c8f | choice/UI → ALFRED | x2
+Who would I be?
+
+#### 6f2e6c4657-LM | ALFRED → BRUCE | x2
+The important thing is that you’ve removed the immediate threats to Gotham.
+
+#### c45726c519 | ALFRED → HARVEY | x2
+Lady Arkham, Harvey, Penguin... they’re all behind bars because of you.
+
+#### f6ae9d159e | choice/UI → ALFRED | x4
+Gotham is safer now.
+
+#### 29814dd84b | choice/UI → ALFRED | x2
+There will be more.
+
+#### f10c6b1809 | choice/UI → ALFRED | x2
+I can’t take all the credit.
+
+#### 4ae6e00227 | BRUCE → ALFRED | x2
+We won.
+
+#### 9525a8e96d | BRUCE → ALFRED | x2
+They won’t be the last to threaten Gotham.
+
+#### 7121273a98 | ALFRED → BRUCE | x2
+Likely not. But you’ll be ready.
+
+#### 6facb16b55 | BRUCE → ALFRED | x2
+I didn’t take them down alone...
+
+#### 8984b855cd | BRUCE → SELINA | x2
+You, Lucius, Gordon, [a little conflicted] Selina...
+
+#### e8d4bed326-LM | BRUCE → ALFRED | x4
+You all helped.
+
+#### eaf9f1d298 | ALFRED → BRUCE | x2
+James Gordon is now acting Commissioner.
+
+#### efde384544 | BRUCE → ALFRED | x2
+He deserves it. He’s one of the few cops who might be able to straighten out the GCPD.
+
+#### 3c2f228716 | ALFRED → BRUCE | x2
+Starting with tonight’s emergency address. It won’t only be important for the city’s recovery, but for his future career.
+
+#### 906af9b8a4 | BRUCE → ALFRED | x2
+He’ll certainly have his hands full.
+
+#### c16175393b-SM | BRUCE → ALFRED | x2
+I’m sure he’ll nail it.
+
+#### 69108a34e8 | ALFRED → BRUCE | x2
+Well, you might help him ‘nail it,‘ as it were.
+
+#### 81fd565bd4 | ALFRED → BRUCE | x2
+He sent a message through your office, inviting Bruce Wayne to speak at the event.
+
+#### 4e4ba20e3d | ALFRED → BRUCE | x2
+And he’s issued a more public invitation... to Batman.
+
+#### 6e53ef9dd7 | ALFRED | x2
+You shouldn’t be surprised.
+
+#### 1b29341dd7 | ALFRED | x6
+Despite all the recent turmoil surrounding your family, you’ve risen above it.
+
+#### 8d8c86d1cb | ALFRED | x4
+And he’s seen your bravery.
+
+#### ff03bde802-L? | ALFRED | x2
+You risked your own life to save those hostages from Harvey Dent.
+
+#### 0d8b76d9d1-L? | ALFRED | x4
+You faced Oswald Cobblepot, unarmed except for your cunning, and won.
+
+#### d800acd31e-L? | ALFRED | x2
+Not to mention how you helped clear Detective Montoya’s name.
+
+#### f34eb0aa51 | ALFRED → BRUCE | x2
+Right now, Gordon is one of your biggest supporters.
+
+#### 67c55718e4 | ALFRED → BRUCE | x2
+He believes you can help pull Gotham back from the brink of chaos, and guide it to a better place.
+
+#### 8bcdae422e | ALFRED → BRUCE | x2
+And he hopes the rest of Gotham will believe in you too.
+
+#### afa30bf535-SM | BRUCE → ALFRED | x4
+I could restore the public’s faith in Bruce Wayne.
+
+#### 0815631f72 | BRUCE → ALFRED | x4
+Speak to anyone who has doubts--that I’m my own man.
+
+#### 0a9143d47f | ALFRED → BRUCE | x2
+Absolutely.
+
+#### a385c9160c-SM | BRUCE → ALFRED | x4
+I’m not sure anything could help restore the public’s faith in me now.
+
+#### 75afa07d9d | ALFRED → BRUCE | x4
+Don’t be so certain, Bruce.
+
+#### 6219b895c8 | ALFRED → BRUCE, FAIRCHILD | x4
+The people want someone they can believe in. You, standing by Commissioner Gordon’s side--it’d make quite the impression.
+
+#### 584886938c | BRUCE → ALFRED | x4
+I’m not really a fan of the whole public-speaking thing.
+
+#### e750c01144 | ALFRED → BRUCE | x4
+You’ve overcome worse fears for the sake of Gotham.
+
+#### 2bddf9a65c | ALFRED → BRUCE | x4
+I know you can do this.
+
+#### 734b7d0d37 | ALFRED → BRUCE | x2
+As Bruce, you can help repair the damage done to your name. Get the public’s support, so that you can change things from the top down.
+
+#### ef2630cf80 | ALFRED | x2
+Someone who criminals fear, and children admire. strikes fear in the hearts of criminals, and inspires hope in those who have none.
+
+#### 2409d4a95f | ALFRED | x2
+Someone who inspires criminals to fear, and victims to hope.
+
+#### 3d5d4ddd84 | ALFRED | x2
+So, what do you intend to do about tonight?
+
+#### 4153e30d30 | ALFRED | x2
+As for why he’d want Batman there...
+
+#### 464f02a84c | ALFRED | x2
+I should think it’d be obvious.
+
+#### 8828592af2 | ALFRED | x4
+Batman saved his life during the assault on the GCPD.
+
+#### 8a20f98099 | ALFRED → BRUCE | x4
+Batman took down Penguin once and for all at Wayne Tower.
+
+#### 1dad45eb3b | ALFRED → BRUCE | x4
+To say nothing of his defeat of Lady Arkham.
+
+#### f9d6d6c53d | ALFRED → FAIRCHILD | x4
+He knows Batman can do things no one on the force can.
+
+#### c41e53c882 | ALFRED | x2
+Even at own risk
+
+#### c1d1b64cde | ALFRED → FAIRCHILD | x4
+And that you’ll stop at nothing to protect Gotham.
+
+#### 16cea233d3 | ALFRED → BRUCE | x4
+Gordon may disapprove of your more... harsh methods. But...
+
+#### 5b7b457cda | ALFRED → BRUCE, FAIRCHILD | x4
+Appearing at the address would let the public know that you aren’t just a vigilante to be feared.
+
+#### 0771f92f55 | ALFRED → BRUCE | x4
+That you care about this city.
+
+#### 32dbb03102 | choice/UI → ALFRED | x2
+I‘ll take care of you.
+
+#### 00f48021a8 | choice/UI → ALFRED | x2
+I disagree.
+
+#### b8886055a5 | BRUCE → ALFRED | x4
+Alfred, what happened to you is my fault.
+
+#### 6bb24b15b0 | BRUCE → ALFRED | x2
+You’ve done so much for me
+
+#### a16864e73f | BRUCE → ALFRED | x4
+Lady Arkham only went after you because of me.
+
+#### 17e6cbc226 | ALFRED → BRUCE | x4
+I’ve known the risks, for some time now. I don’t blame you.
+
+#### adba183314-SM | BRUCE → ALFRED | x2
+I put you in harm’s way, and I failed to protect you.
+
+#### 3fa66ee2c1 | BRUCE → ALFRED | x4
+If anything, I should be your butler from now on.
+
+#### a623175183-LM | ALFRED → BRUCE | x4
+And you would make a terrible butler.
+
+#### 5d242d55de | ALFRED → BRUCE | x4
+But thank you, Bruce.
+
+#### 7b915d6195-SM-LM | BRUCE → ALFRED | x4
+You’ve supported me my entire life, and I failed to protect you.
+
+#### dde45eabf1 | choice/UI → ALFRED | x2
+I’ll fix this.
+
+#### 034820c69f | BRUCE → ALFRED | x2
+Without you, there’d be no Batman.
+
+#### 6ea9000964 | BRUCE → ALFRED | x4
+Well, maybe you should take some time off. You certainly deserve it.
+
+#### 250da0d1e2 | ALFRED → BRUCE | x4
+Yes, perhaps that would be best.
+
+#### ddf3c2f6fa | ALFRED → BRUCE | x2
+We’ll get through this Bruce, don’t worry.
+
+#### f02ea53518 | ALFRED → BRUCE | x2
+You have enough to worry about, without my adding to your list.
+
+#### b9cfba6e46 | ALFRED → BRUCE | x2
+I suppose there’s no point in wondering.
+
+#### e0a2dd3e22 | BRUCE → ALFRED | x4
+If everyone revealed their innermost thoughts and desires, there’d be no end to conflict. We’d constantly be at war.
+
+#### 1b474457ea | BRUCE → ALFRED | x2
+Peace is maintained through lies--lies that you’ll be okay, that you’re a good person, that everyone likes you.
+
+#### b1d01c8e94 | BRUCE → ALFRED | x4
+And some truths are better off hidden.
+
+#### 92fd534d65 | BRUCE → ALFRED | x2
+It’s a nice thought, but a thought is all it’ll ever be.
+
+#### 16207398ad | ALFRED → BRUCE | x2
+No, it certainly isn’t.
+
+#### 4b74dbb9f9 | BRUCE → ALFRED | x2
+It’s a nice thought, but it isn’t the world we live in.
+
+#### b3e78b9e20 | BRUCE → ALFRED | x2
+I wouldn’t be able to do what I do if everyone
+
+#### 9f343bacb3 | BRUCE → ALFRED | x2
+It could never happen, so there’s no point in thinking about it.
+
+#### fbfd89630f-LM | ALFRED → BRUCE | x2
+You suffered for it, but in the end, defeated them.
+
+#### f992a1e651 | ALFRED → BRUCE | x2
+The city owes you its gratitude.
+
+#### 9b9c23fa75 | ALFRED → BRUCE | x4
+Speaking of victories...
+
+#### b55f664d6c | ALFRED | x2
+Speaking of Gotham’s future...
+
+#### cf30f45fce | ALFRED | x2
+Speaking of allies...
+
+#### 0281fd0304 | ALFRED | x2
+You should be proud.
+
+#### 1b5c767bf2 | ALFRED → BRUCE | x4
+It’s an opportunity to show your support for Gordon--and the city.
+
+#### 082cb52916 | ALFRED → BRUCE | x4
+Perhaps make people realize that there’s more to Bruce Wayne.
+
+#### 00ba84d38f | ALFRED → BRUCE | x4
+That you’re more than a myth--you’re a hero.
+
+#### b82ab719d3 | ALFRED → BRUCE | x4
+Someone who is on Gotham’s side.
+
+#### 8e712a4fd3 | BRUCE → ALFRED | x4
+The good people of Gotham should know that I’m on their side. They shouldn’t fear me.
+
+#### 98a9982c5a | ALFRED → BRUCE | x4
+Show them that.
+
+#### 8647076fa7 | BRUCE → ALFRED | x4
+I do what I do for the greater good. Not to be liked by Gotham.
+
+#### 64fccb60ca | ALFRED → BRUCE | x2
+Fear works its way into the cracks in times of darkness. You may have to show them.
+
+#### 675e774ef7 | ALFRED → BRUCE | x2
+Perhaps. But this isn’t about you, is it? It’s about the people you strive to protect.
+
+#### bd3cd7f13b | BRUCE → ALFRED | x4
+I’m not doing this for the accolades, Alfred.
+
+#### f68518fa17 | ALFRED → BRUCE | x4
+Certainly not.
+
+#### 0ea00ec321 | BRUCE → ALFRED | x4
+Batman is more effective from the shadows. The less people know about him, the better.
+
+#### 9b7b4b998d | ALFRED → BRUCE | x2
+That certainly holds true for the criminal element.
+
+#### dfe1ff804a | ALFRED → BRUCE | x4
+Something to consider, in any case.
+
+#### 97ebaa286a | ALFRED → BRUCE | x2
+Both Bruce Wayne and Batman have helped this city tremendously.
+
+#### 2f5895dc81-L? | ALFRED | x2
+You’ve helped this city tremendously, both as Bruce Wayne and Batman.
+
+#### 5549bf1261 | ALFRED | x2
+And only you can decide the man you’ll be going forward.
+
+#### 3f94bcafc4 | ALFRED → BRUCE | x2
+And I trust that you’ll be the man that you’ll need to be, going forward.
+
+#### c451293930 | ALFRED → BRUCE | x2
+About tonight.
+
+#### 670da150fb | choice/UI → ALFRED | x2
+Our demons would consume us.
+
+#### ea06c9c215 | choice/UI → ALFRED | x2
+A utopian dream.
+
+#### b3191ae282-LM | ALFRED → BRUCE | x2
+You risked both Bruce Wayne and Batman for an old man’s life.
+
+#### 206be541af | BRUCE → ALFRED | x2
+Without them,
+
+#### 38a7ab3516 | BRUCE → ALFRED | x2
+We’ll never know. Her plan failed.
+
+#### 614c5a7ab7 | BRUCE → ALFRED | x2
+Sounds like a utopian dream. But a dream is all it is.
+
+#### 0243619e77 | ALFRED → BRUCE | x8
+But do you really want the people you protect to fear you more than they fear the criminals? I should think not.
+
+#### 68be551178-SM | ALFRED → BRUCE, FAIRCHILD | x6
+And that person, whether he dons a cape or not, is someone I am proud of and honored to call my friend.
+
+#### 49874dbffe | ALFRED → FAIRCHILD | x2
+Someone who inspires both hope...and fear.
+
+#### 229ed59d4b | choice/UI → ALFRED | x2
+The people hate me.
+
+#### 4be9cf76f7-SM | choice/UI → ALFRED | x2
+I could speak to them.
+
+#### ddf35848d1 | ALFRED → FAIRCHILD | x2
+While showing that you support Gordon.
+
+#### 5f174a109b | choice/UI → ALFRED | x2
+Batman is the better choice.
+
+#### ac73050ec3 | choice/UI → ALFRED | x2
+I will show them a new Bruce Wayne.
+
+#### bbb76ef7dc | choice/UI → ALFRED | x2
+The Waynes should lie low.
+
+#### ff03bde802-LM | ALFRED → BRUCE | x2
+You risked your own life to save those hostages from Harvey Dent.
+
+#### 54a0c34fb3 | ALFRED → BRUCE | x2
+Perhaps. But this isn’t about you, is it? It’s about the people you want to protect.
+
+#### 2f5895dc81-LM | ALFRED → BRUCE | x4
+You’ve helped this city tremendously, both as Bruce Wayne and Batman.
+
+#### 33673b7dfe | FAIRCHILD, RYDER → ALFRED | x6
+The damage done by the Children of Arkham has left Gotham a city in turmoil.
+
+#### 10f94474fe | FAIRCHILD → ALFRED | x2
+Faith in those at the top has been, perhaps irrevocably, been shaken. Angry citizens have taken to the streets in protest. [grim] Peace is nowhere in sight.
+
+#### 2f37f86233 | FAIRCHILD → ALFRED | x2
+Whether the Acting Commissoner *alone* is enough to quell Gotham’s anger, remains to be seen.
+
+#### 5d25ddbab4 | ALFRED → FAIRCHILD | x4
+I should think not.
+
+#### 68b112eba3 | ALFRED, BRUCE → BRUCE, ALFRED | x4
+That is unfortunate.
+
+#### 754942f019 | choice/UI → ALFRED | x2
+Evil would still exist.
+
+#### 7171d72d28 | choice/UI → ALFRED | x2
+Vicki was beyond help.
+
+#### 782c2c8609 | choice/UI → ALFRED | x2
+She got was she deserved.
+
+#### 9092ce33d6 | choice/UI → ALFRED | x2
+There’s still hope for her.
+
+#### 00c1fdf5aa | choice/UI → ALFRED | x2
+People need secrets
+
+#### 51b70929a6 | choice/UI → FAIRCHILD | x2
+Secrets can cause harm.
+
+#### 5f19dbb2bf | FAIRCHILD → BRUCE | x2
+The image of Gotham’s once-golden child had taken a serious blow.
+
+#### d591ec28c3 | FAIRCHILD → BRUCE | x2
+After all the recent drama surrounding Bruce Wayne
+
+#### 3a57c24d03 | FAIRCHILD → ALFRED | x2
+--including the continuing scandal surrounding his father--
+
+#### da48afeeaa | FAIRCHILD → ALFRED | x2
+Was none other than Gazette reporter Vicki Vale.
+
+#### 0a8ef1d6c0 | FAIRCHILD → ALFRED | x2
+Ms. Vale was taken into custody by the caped vigilante known only as The Batman. She’s due to stand trial next month in what will likely be Gotham’s trial of the century.
+
+#### 809095cbd3 | FAIRCHILD, RYDER → ALFRED, FAIRCHILD | x4
+Ms. Vale is missing and presumed dead following a gruesome battle with the caped vigilante known only as The Batman.
+
+#### 85b8cb0eec | ALFRED → FAIRCHILD | x4
+With everything that’s been going on...
+
+#### fddf6e5b4c | ALFRED → FAIRCHILD | x2
+Time off... I can’t even think what that would be like.
+
+#### 2355d4be5b | ALFRED → BRUCE | x4
+It’s been so long... I don’t even know what time off would look like...
+
+#### 0fd01ed397 | BRUCE → ALFRED | x4
+Ah, think about it. A beach, palm trees. A sky that isn’t the color of sweatpants.
+
+#### 910fa0ca42 | ALFRED → BRUCE | x4
+Perhaps that wouldn’t be so bad.
+
+#### 7bd681df69 | BRUCE → ALFRED | x4
+Though I’m having a hard time picturing you in shorts.
+
+#### 1e51689e16 | ALFRED → BRUCE | x4
+Shorts! Never.
+
+#### 5e30543ce4 | ALFRED → BRUCE | x2
+Ms. Vale was mad.
+
+#### 14da812871 | ALFRED → BRUCE | x2
+The violence she inflicted upon others...
+
+#### 468782439e | ALFRED → BRUCE | x2
+All in the name of a world without secrets.
+
+#### 6411efc140 | ALFRED → BRUCE | x2
+Yet, for as despicable as she was...
+
+#### bc608c4d66 | BRUCE → ALFRED | x2
+Revealing people’s true natures won’t stop evil from existing.
+
+#### 92cc717c5d | BRUCE → ALFRED | x2
+The worst of all criminals don’t bother to hide what they are.
+
+#### d2597c86ee | BRUCE → ALFRED | x2
+Secrecy is what allowed Falcone, Hill and my father to do all the damage that they did.
+
+#### e2f5f41b87 | BRUCE → ALFRED | x2
+I don’t agree with what Vicki did, but she wasn’t entirely wrong.
+
+#### 6dc5b7d11c | ALFRED → BRUCE | x2
+Revealing them can be harmful as well.
+
+#### df3c58eb5e | BRUCE → ALFRED | x4
+Secrets can be harmful.
+
+#### f2a8207232 | ALFRED → BRUCE | x2
+Don’t lose sight that you’ve done some real good for Gotham.
+
+#### 723957565a | ALFRED → HARVEY | x2
+Harvey, Penguin... they’re behind bars because of you.
+
+#### f95427f684-LM | ALFRED → BRUCE | x2
+Whether her philosophy had any validity or not--the important thing is you stopped her.
+
+#### 6d5bfdf9f1 | ALFRED → BRUCE | x2
+Don’t lose sight of the fact that you’ve done some real good for Gotham.
+
+#### 1de9393deb | BRUCE → ALFRED | x2
+Hopefully Gotham can have some peace for a while. This city has been through enough.
+
+#### 539e920496-L? | ALFRED → FAIRCHILD | x2
+As have you.
+
+#### 8748db1ea5 | ALFRED → FAIRCHILD | x2
+We could all use some peace.
+
+#### 4eb47eabdd | FAIRCHILD, RYDER → ALFRED | x4
+Faith in those at the top has, perhaps irrevocably, been shaken.
+
+#### 38011145a1 | FAIRCHILD → ALFRED | x4
+The people have taken to the streets in protest, and peace is nowhere in sight.
+
+#### f44195f873 | FAIRCHILD, RYDER → ALFRED | x4
+Will his token appointment be enough to regain the city’s trust? It remains to be seen, but experts agree that...
+
+#### 9ee06080b7 | ALFRED → FAIRCHILD | x2
+Despite all you’ve done to help them, Gotham’s citizens can’t forget the horrors they’ve experienced.
+
+#### e8395d21e6 | BRUCE → ALFRED | x2
+Wounds like that won’t heal overnight.
+
+#### a8a4b4d5a0 | ALFRED → BRUCE | x2
+I worry that Gordon’s leadership alone may not be enough to quell the city’s anger. That is to say...
+
+#### c25edc3b4a | ALFRED → BRUCE | x2
+Despite all that you’ve done to help Gotham, order has yet to be restored.
+
+#### 371ac71297 | BRUCE → ALFRED | x2
+It’s going to take a lot more than putting some people in jail to restore it.
+
+#### eeaf19715d | ALFRED → BRUCE | x2
+It may take more than jailing criminals to restore order to Gotham.
+
+#### 96ea3e7ca1 | ALFRED → BRUCE | x2
+And Gordon can’t be expected to do it alone.
+
+#### 5c29a1aaf5 | ALFRED → BRUCE | x2
+He might need some help.
+
+#### 8056fb2c3c | ALFRED → BRUCE | x2
+Gotham was built by old families. They brought this city together, gave it a solid foundation to stand on.
+
+#### 3738aea4ad | ALFRED → BRUCE | x2
+Lady Arkham destroyed that foundation.
+
+#### 6076726140 | ALFRED → BRUCE | x2
+But that doesn’t mean those founding names are forgotten.
+
+#### 88ab4f37f3 | BRUCE → ALFRED | x2
+What are you suggesting?
+
+#### 0fd8339e8e | ALFRED → BRUCE | x2
+The Wayne name carries weight in Gotham, even now, after everything.
+
+#### 9d134d3e78 | ALFRED → BRUCE | x2
+If a Wayne speaks, the people will listen.
+
+#### dc0527dd87 | ALFRED → BRUCE | x2
+That’s the kind of help Gordon could use tonight.
+
+#### 463c08f3b6 | BRUCE → ALFRED | x4
+This could be a fresh start.
+
+#### f12fccbfee | BRUCE → ALFRED | x4
+The public has never looked to me as a leader.
+
+#### 4d5f449136 | BRUCE → ALFRED | x4
+I’m just the entertainment--a distraction. A spoiled rich kid.
+
+#### 097b28843a | BRUCE → ALFRED | x4
+It’s why they’ll never realize I’m Batman.
+
+#### 00a291709e | ALFRED → BRUCE | x4
+I understand that Bruce, but this is about more than your secret identity.
+
+#### 9b72c71717 | BRUCE → ALFRED | x2
+And support Gordon while doing it.
+
+#### d94f5c51db | FAIRCHILD → ALFRED | x2
+Will a GCPD stand-in be enough to regain the city’s trust? It remains to be seen, but experts agree that he is the right man for the job.
+
+#### 7a2bd22d61 | ALFRED → BRUCE, FAIRCHILD | x4
+The city is coming around.
+
+#### 1d220563e6 | ALFRED → BRUCE | x4
+And Gordon needs a figure that they’ll listen to.
+
+#### f97bc02597 | ALFRED → BRUCE, GORDON | x6
+Though, in Gotham, the only figure that can make as much impact as a Wayne...
+
+#### eefd30f9b2 | ALFRED → BRUCE | x2
+Batman saved the city from Mayor Dent’s tryrannical lock down.
+
+#### 78e0dcea38 | ALFRED → BRUCE | x2
+Batman ended Penguin’s reign of technological terror.
+
+#### 12bddf570f | ALFRED → BRUCE | x2
+Batman appearing in support of Gordon... it may give the people hope.
+
+#### 306df23a0a | ALFRED → BRUCE | x2
+Hope to believe in heroes once more.
+
+#### 4f25a4f032 | ALFRED → BRUCE | x2
+Hope that their nights will be safer.
+
+#### d5ddeeedcf | ALFRED → BRUCE | x2
+Because you’re watching over them.
+
+#### a6520469fe | BRUCE → ALFRED | x2
+That’s a lot to live up to, you know?
+
+#### cb2f36e064-SM | BRUCE → ALFRED | x2
+I won’t let you down, Alfred.
+
+#### f3d040ca8b-LM | ALFRED → BRUCE | x2
+I know you won’t.
+
+#### 664266db28 | BRUCE → ALFRED | x2
+I’m just doing my job. Nothing more.
+
+#### 899fd576f4 | ALFRED → BRUCE | x2
+You’re a better man that you’ll admit.
+
+#### 6895e75c3b | BRUCE → ALFRED | x2
+How fast can Lucius cook up some cloning technology?
+
+#### 55f00a37f0 | ALFRED → BRUCE | x2
+I suppose you must decide whose appearance will be more valuable.
+
+#### f14b9da40d-SM | BRUCE → ALFRED | x2
+Not fast enough, I’m afraid.
+
+#### a9887cc2c8 | ALFRED → BRUCE | x4
+This came in the mail. It’s unsigned.
+
+#### 4c70a8f25c | ALFRED → SELINA | x4
+Any word from Ms. Kyle?
+
+#### 81a46b59bc | BRUCE → ALFRED | x4
+I don’t expect I’ll be hearing from her any time soon.
+
+#### 5e9adca0aa | choice/UI → ALFRED | x2
+It was my fault.
+
+#### b9cdd1e63d | choice/UI → ALFRED | x2
+Take some time off.
+
+#### b31cc498ae | ALFRED → BRUCE | x2
+In my state, I’m not of much use to you.
+
+#### 0cd35f900f-SM | ALFRED → BRUCE | x2
+With my injury I’m not sure how I’ll carry on my duties as butler...
+
+#### a50a6bab15 | BRUCE → ALFRED | x2
+Well, sure...and the silver is not going to polish itself, is it?
+
+#### 2c42cf342e | choice/UI → ALFRED | x2
+The cost was too high.
+
+#### d40cf4928e | choice/UI → ALFRED | x2
+But is it really over?
+
+#### 47f417a932 | ALFRED → BRUCE | x2
+We will get through this, Bruce.
+
+#### 6bb76c55d8 | ALFRED → BRUCE | x2
+I only hope I don’t become a burden.
+
+#### bc4a7504fc-SM | ALFRED → BRUCE | x2
+And I’m afraid it may interfere with my butler duties.
+
+#### f19cd3205f | ALFRED → BRUCE, FAIRCHILD | x4
+And your ear...
+
+#### 84f61c573c | BRUCE → ALFRED | x2
+Dr. Thompkins assured me it adds character.
+
+#### 740be89231-SM | ALFRED → BRUCE | x2
+I was going to suggest surgery--but maybe not!
+
+#### 151a5d8e18 | ALFRED → BRUCE | x2
+For all you’ve gone through.
+
+#### 0980bcaf07 | ALFRED → BRUCE | x2
+Appearing at Gordon’s side tonight might help restore faith in the Wayne name.
+
+#### d07cecc6e0 | ALFRED → BRUCE | x2
+Let Gotham see there’s more to you than a tarnished legacy.
+
+#### 18917b576a | ALFRED → BRUCE | x2
+And give them hope in a future Gotham.
+
+#### ca9ddeb0d5-SM | BRUCE → ALFRED | x2
+I’m not sure the public wants to hear from a Wayne right now.
+
+#### f19902039b | BRUCE → ALFRED | x2
+Batman is a better choice.
+
+#### 5e1c959e3a | ALFRED → FAIRCHILD | x2
+True...
+
+#### 6031760a58 | FAIRCHILD → BRUCE | x2
+That appears to be turning around--thanks to the revelation that Wayne risked his own life in aiding the GCPD’s capture of Oswald Cobblepot--the notorious criminal known as Penguin.
+
+#### 986a51d313 | FAIRCHILD → BRUCE | x2
+That appears to be turning around--thanks to the revelation that Wayne risked his own life in aiding the GCPD’s capture of Harvey Dent--the criminally-insane former mayor.
+
+#### 172e04d1d9 | FAIRCHILD, RYDER → ALFRED, RYDER, BRUCE | x14
+Her death marks the end of Children of Arkham’s reign of terror.
+
+#### ce85d52e39 | FAIRCHILD → ALFRED | x2
+With her arrest came an end to the Children of Arkham’s reign of terror.
+
+#### b186959831 | ALFRED → FAIRCHILD | x2
+At least there’s something left of it.
+
+#### 05bcbb9960-SM | ALFRED → FAIRCHILD | x2
+I’m sure it will work wonders with the ladies.
+
+#### 5e06c834d9 | ALFRED → BRUCE | x4
+To peace.
+
+#### ae79ea1e9c | ALFRED → BRUCE | x2
+To
+
+#### 27a41baaf8 | BRUCE → ALFRED | x2
+So did Commissioner Grogan and countless GCPD...
+
+#### 3ac56dae29 | ALFRED → BRUCE | x2
+To those who helped, and those we lost.
+
+#### 5d97748711 | BRUCE → ALFRED | x2
+Gotham is safer now. I only hope that peace will last.
+
+#### 65ae1b61d2 | ALFRED → BRUCE | x2
+To a safer Gotham.
+
+#### bf8d2bdd8a | ALFRED → BRUCE | x2
+In the meantime, let us hope for some peace.
+
+#### 685417125b | BRUCE → ALFRED | x2
+And those who died for the cause.
+
+#### cecaffde92 | ALFRED → BRUCE | x2
+As did the GCPD, [somber] some l
+
+#### 4d7a159284 | BRUCE → ALFRED | x2
+And all those who gave their life fighting for Gotham.
+
+#### 1e4fdc06cb-SM | BRUCE → ALFRED | x2
+...I had help.
+
+#### 180f338795 | ALFRED → BRUCE | x2
+To those we lost.
+
+#### 0a54af2dd1 | ALFRED → BRUCE | x4
+But appearing at Gordon’s side could help to rebuild it.
+
+#### 20a472354f | ALFRED → BRUCE | x4
+Let Gotham see who Bruce Wayne truly is, and let them know what you plan to do for its future.
+
+#### 6c038e5ce7 | ALFRED → BRUCE | x2
+And the
+
+#### 76a06f3b39 | ALFRED → BRUCE | x2
+You’ve shown them what you’re capable of.
+
+#### b371a776c1 | ALFRED → BRUCE | x2
+Batman saved the city from Mayor Dent’s plans
+
+#### c5c8830283 | ALFRED → BRUCE | x2
+Batman ended Penguin’s plan to use Wayne technology to take over the city.
+
+#### 18374c01b7 | BRUCE → ALFRED | x2
+Bruce Wayne will be there.
+
+#### 5a2e6d56df | ALFRED → BRUCE | x2
+You’ll make quite the impression.
+
+#### 33f6c6b0fa | BRUCE → ALFRED | x2
+Batman will be in attendance.
+
+#### a7bfe845dd-LM | ALFRED → BRUCE | x2
+You’re certain to make quite the impression.
+
+#### 5296089497 | ALFRED → BRUCE | x4
+Gordon will be grateful.
+
+#### 1837128a78 | ALFRED → FAIRCHILD | x2
+That it does.
+
+#### b496d94eee | ALFRED → FAIRCHILD | x2
+Batman saved the city from Mayor Dent’s abuse of authority.
+
+#### d634c9d892 | GORDON → ALFRED | x2
+...and I hope, despite the recent terror that’s gripped our city, that Gotham’s leading citizens will come out to show their support.
+
+#### dc3e20a9fb | ALFRED → GORDON | x2
+Gordon requested Gotham’s leaders to stand behind him.
+
+#### 796908c16a | ALFRED → BRUCE | x2
+Leaders like you...
+
+#### 33e91568c0 | ALFRED → BRUCE | x2
+For you, and for this city.
+
+#### af55a8ea9d | BRUCE → ALFRED | x2
+Let Gordon know--
+
+#### 4282f81f03 | ALFRED → BRUCE | x2
+I’ll call at once.
+
+#### 895b52eff6 | FAIRCHILD, RYDER → ALFRED | x4
+As to last week’s events at Arkham Asylum--a spokesperson for the GCPD assured us that the breakout has been contained and all inmates have been returned to their cells.
+
+#### 3e72a651e2 | BRUCE → HARVEY | x2
+Lady Arkham, Penguin, [pained] Harvey...they won’t be the last to threaten Gotham.
+
+#### f14d3f8f7b | RYDER → BRUCE, FAIRCHILD | x6
+A reign that has cost this city much in the way of lives and resources.
+
+#### e08aa01eaa | RYDER | x2
+Acting Commisioner James Gordon has promised to speak out about the issue tonight during an emergency city-wide address.
+
+#### ed2b576198 | RYDER | x2
+Will a GCPD stand-in be enough to regain the city’s trust? It remains to be seen, but experts agree that...
+
+#### 0768daa97b | RYDER | x2
+After Bruce Wayne’s heroic deeds...
+
+#### 8315594a7e | RYDER | x2
+Helping to take down Oswald Cobblepot.
+
+#### 3b5b758274 | RYDER | x2
+Helping to take down Harvey Dent--
+
+#### cd7806b190 | RYDER | x2
+And saving my life in the process.
+
+#### 0f967d8fdb | RYDER → BATMAN | x2
+Thanks to the efforts of our police force, Batman--
+
+#### a6bc9fc503 | RYDER → GORDON | x2
+Who saved this reporter’s life--
+
+#### 607e549e3d | RYDER → GORDON | x2
+Our city can finally begin to recover.
+
+#### f1495f3c31 | RYDER → GORDON | x2
+and an unexpected assist by Bruce Wayne--
+
+#### 8c57243996 | GORDON → RYDER | x2
+...and I hope, despite the recent terror that’s gripped our city, that leading Gothamites will come out to show their support.
+
+#### 92c21c4e97 | BRUCE → RYDER | x2
+Well, Lucius has yet to invent a suit that’ll let Bruce Wayne and Batman be in the same place at once.
+
+#### b7b3de62c1 | ALFRED → BRUCE | x2
+It’s just a shame that Bruce Wayne and Batman can’t be in the same place at the same time.
+
+#### 6bf4bf0ee5 | BRUCE → ALFRED | x2
+Don’t suppose Lucius could cook up a suit that lets Bruce Wayne and Batman be in the same place at the same time.
+
+#### 0e1973fc88 | ALFRED → BRUCE | x2
+He might need a little more notice.
+
+#### df304baaaa | BRUCE → RYDER | x2
+Well, I’ll tell you, my tech has come a long way, but Bruce Wayne and Batman still can’t be in the same place at the same time.
+

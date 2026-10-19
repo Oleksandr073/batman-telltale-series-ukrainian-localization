@@ -1,0 +1,211 @@
+﻿#### 7373bf5c58 | choice/UI | x2
+^color:#cbd6db^^font:GameplayBodyMedium^A Telltale story by
+^^JAMES WINDELER
+^^MICHAEL KIRKBRIDE
+
+#### 2886bbf6f8 | choice/UI | x2
+^color:#cbd6db^^font:GameplayBodyMedium^Episode Directed by
+^^JONATHAN STAUDER
+
+#### c09dfd02e6 | choice/UI | x2
+^color:#cbd6db^^font:GameplayBodyMedium^Choreography
+^^SEAN MANNING
+
+#### bfa525fbca | choice/UI | x2
+^color:#cbd6db^^font:GameplayBodyMedium^Programming
+^^JASON KIM
+
+#### f31210953e | choice/UI | x6
+Drag to open the doors.
+
+#### 8f6fb14d16 | choice/UI | x8
+Press <ui_notification_keyboardAndMouseShift.d3dtx:-20> and <ui_notification_keyboardAndMouseQ.d3dtx:-20> simultaneously.
+
+#### e61a20bb83 | choice/UI | x6
+City Hall, 8:32 PM
+
+#### 6ed0f55f5d | choice/UI | x6
+Cobblepot Park, 6:06 AM
+
+#### 6f63f6603e | choice/UI | x6
+Cafe Triste, 5:23 PM
+
+#### f7089de643 | choice/UI | x6
+Eastside Docks, 6:44 PM
+
+#### ee52a4d2a5 | choice/UI | x6
+Skyline Club, 9:19 PM
+
+#### 00f8606a4e | choice/UI | x8
+Move the reticle into the circle, then press to attack.
+
+#### 227effb779 | choice/UI | x8
+Montoya will remember that.
+
+#### af018510f5 | choice/UI | x6
+Montoya noticed that.
+
+#### 0576eec2a4 | choice/UI | x12
+Selina will remember that.
+
+#### 9351c35910 | choice/UI | x6
+Selina noticed that.
+
+#### 5b26914fbc | choice/UI | x10
+Penguin will remember that.
+
+#### 37338df3cd | choice/UI | x6
+Penguin noticed  that.
+
+#### 2a749ea356 | choice/UI | x6
+Catwoman will remember that.
+
+#### cef26f3d6e | choice/UI | x6
+Catwoman noticed that.
+
+#### 871f4323e7 | choice/UI | x6
+Rhonda noticed that.
+
+#### c5e32bdd1f | choice/UI | x6
+Hill noticed that.
+
+#### 304392ec34 | choice/UI | x6
+Hill will remember that.
+
+#### f0bb63e2a4 | choice/UI | x6
+Hill is terrified of you.
+
+#### e908abb288 | choice/UI | x6
+Hill won’t forget that.
+
+#### a3805c5881 | choice/UI → SELINA | x8
+Selina
+
+#### 3723ba25b7 | choice/UI | x2
+^glyphScale:1.25^Crime Alley
+^glyphScale:.6^5:38 AM
+
+#### 3dceb6ba1b | choice/UI | x2
+^glyphScale:1.25^GCPD
+^glyphScale:.6^8:56 AM
+
+#### 3a6ce96b2d | choice/UI | x2
+^glyphScale:1.25^Skyline Club
+^glyphScale:.6^4:57 PM
+
+#### 5108c72b4b | choice/UI | x2
+^glyphScale:1.25^The Stacked Deck
+^glyphScale:.6^6:26 PM
+
+#### bbb0ebaaf2 | choice/UI | x2
+^glyphScale:1.25^City Hall
+^glyphScale:.6^7:03 PM
+
+#### fad9da0238 | choice/UI | x2
+^glyphScale:1.25^City Hall
+^glyphScale:.6^7:11 PM
+
+#### be1818863a | choice/UI | x2
+^glyphScale:1.25^Wayne Memorial Auditorium
+^glyphScale:.6^8:27 PM
+
+#### 6d881da514 | choice/UI | x2
+^glyphScale:1.25^GCPD
+^glyphScale:.6^10:22 AM
+
+#### 7229b6b743 | choice/UI | x2
+Touch to select and swap between drones.
+
+#### 0547383cd1 | choice/UI | x2
+Use <ui_notification_mouseLeftClick.d3dtx:-20> to select and swap between drones.
+
+#### 84b6eb9193 | choice/UI | x2
+Use <ui_notification_dPad.d3dtx:-20> to select and swap between drones.
+
+#### d74710d696 | choice/UI | x2
+Drag to control the drone’s movement.
+
+#### 89b421aa3f | choice/UI | x2
+Use<ui_notification_keyboardAndMouseWasd.d3dtx:-15>to control the drone’s movement.
+
+#### 576920bdfc | choice/UI | x2
+Use <ui_notification_analogStickLeft.d3dtx:-20> to control the drone’s movement.
+
+#### 386fd8ff9e | choice/UI | x2
+Press <ui_notification_faceButtonDown.d3dtx:-20> when you find a portion of the signal.
+
+#### 5d0987c75a | choice/UI | x2
+UPLOADING...
+
+#### ad4978d6cc | choice/UI | x2
+ANALYZING...
+
+#### ccf3b87106 | choice/UI | x2
+CONTROL SAMPLE
+
+#### 9af93990e9 | choice/UI | x2
+CONTAMINATED SAMPLE
+
+#### d57220278b | choice/UI | x2
+MATCH VERIFIED
+
+#### 0c7180040f | choice/UI | x2
+Press to go as Bruce
+
+#### 42179ef0d7 | choice/UI | x2
+Click to go as Bruce
+
+#### 4f5286d32f | choice/UI | x2
+^imageScale:0.6^<ui_notification_facebuttonDown.d3dtx:-15> Go as Bruce
+
+#### 9e243fbeab | choice/UI | x2
+Press to go as Batman
+
+#### 2d86f08066 | choice/UI | x2
+Click to go as Batman
+
+#### 2845fdd8e6 | choice/UI | x2
+^imageScale:0.6^<ui_notification_facebuttonDown.d3dtx:-15> Go as Batman
+
+#### 0de1a24094 | choice/UI | x2
+Visit Mayor Hill as Bruce
+
+#### 6def21899f | choice/UI | x2
+Visit Mayor Hill as Batman
+
+#### 51e133d344 | choice/UI | x2
+^imageScale:0.7^<ui_notification_analogStickLeft.d3dtx:-16> Navigate  <ui_notification_facebuttonDown.d3dtx:-15> Scan
+
+#### fb7d4339e2 | choice/UI | x2
+CALLING...
+
+#### 91f0bdd33f | choice/UI | x2
+HARVEY DENT
+
+#### 6a47d85ec3 | choice/UI | x2
+Select a drone to search for Oswald’s cell phone signal.
+
+#### 0843edfee0 | choice/UI | x2
+Harvey won’t forget that.
+
+#### 17a4d6f703 | choice/UI | x2
+Alfred won’t forget that.
+
+#### e630174e0b | choice/UI | x2
+Search the alley to remember the past.
+
+#### e3c0f5d82f | choice/UI | x2
+Press <ui_notification_mouseLeftClick.d3dtx:-20> when you find a portion of the signal.
+
+#### 8f95168543 | choice/UI | x2
+^imageScale:0.7^<ui_notification_keyboardAndMouseWasd.d3dtx:-15> Navigate  <ui_notification_mouseLeftClick.d3dtx:-20> Scan
+
+#### 8409f919c9 | choice/UI | x2
+Drag to navigate drone
+
+#### 903089e888 | choice/UI | x2
+Text goes here - MK
+
+#### 397f67c823 | choice/UI | x2
+Select another drone to continue your search.
+

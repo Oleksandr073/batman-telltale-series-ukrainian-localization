@@ -1,0 +1,2598 @@
+﻿#### eb2d73903a | choice/UI → NEIGHBOR | x2
+Something’s here.
+
+#### fee327f360 | choice/UI → NEIGHBOR | x2
+Alfred’s in danger.
+
+#### 38d13bda5c | choice/UI | x3
+Cut
+
+#### a0e0273a78 | choice/UI | x2
+Wipe
+
+#### f2fecf0d2c | choice/UI | x2
+Vengeful response
+
+#### 54b4d2e264 | choice/UI | x2
+[interrogate goon]
+
+#### 8c1a0731c1 | choice/UI | x2
+[punch goon]
+
+#### cdd82aad5f | choice/UI | x2
+Tell me. Now.
+
+#### 1952ac56aa-L? | choice/UI | x2
+If you’ve hurt him...
+
+#### 7d766c9e21 | choice/UI | x2
+[analyze blood stains]
+
+#### 0558786f27 | choice/UI | x2
+[inspect chair]
+
+#### 822af2da51 | choice/UI → LUCIUS | x22
+[connect]
+
+#### f8f1ca4438 | choice/UI | x2
+[Look At Trophy Shelf]
+
+#### abd2628ef8 | choice/UI | x2
+[Look At Washing Machine]
+
+#### c713986034 | choice/UI | x2
+[Move Washing Machine]
+
+#### 0f0faad0a0 | choice/UI | x2
+[Inspect Hatch]
+
+#### f0aaf4aee2 | choice/UI | x2
+[Inspect Padlock]
+
+#### daf013ec0c | choice/UI | x2
+[Open Hatch]
+
+#### acb3d42ea5 | choice/UI | x2
+[Enter Oubliette]
+
+#### 9a81deb1f4 | choice/UI | x2
+[Look At Wall]
+
+#### e0ba5eab1a | choice/UI | x2
+[analyze foot print]
+
+#### 2438c489ba | choice/UI → LUCIUS | x2
+[Lift Rug]
+
+#### 36b6c8b932 | choice/UI → LUCIUS | x2
+[inspect]
+
+#### 2ad6922fe0 | LUCIUS, BATMAN → BATMAN, LUCIUS | x6
+What do you see?
+
+#### 47bb9e9b0f | LUCIUS → BATMAN | x2
+There are two Children of Arkham in there.
+
+#### 7a2add6984 | BATMAN → LUCIUS | x2
+Easy enough.
+
+#### 4ca7fec577 | LUCIUS → BATMAN | x2
+That’s the good news.
+
+#### 74a6fef9d2 | LUCIUS → COA02 | x2
+I think they’re arming a bomb.
+
+#### 8126ad859b | COA02 → BATMAN | x2
+Too late this time, Batman.
+
+#### 1c2da21918 | COA02 → BATMAN | x2
+This whole place is wired to blow.
+
+#### c3d92b822c | BATMAN → LUCIUS | x2
+Make him aware of the bomb.
+
+#### 7b94ebaebb | COA02 → BATMAN | x2
+She figure’d you show up.
+
+#### e03d043b67 | COA02 → BATMAN | x2
+But too late.
+
+#### 7d9d3556e7 | GORDON → BATMAN | x2
+I’m here, Batman.
+
+#### 9ae3c3e804 | BATMAN → COA02 | x2
+Get your men over to the Vale house. And be careful, there’s a rigged bomb.
+
+#### 95f42d84e2 | GORDON → BATMAN | x2
+A rigged *bomb*?--
+
+#### 6f8e43815d | BATMAN → GORDON | x2
+Tell me where he is. Now.
+
+#### cbb61c39db | COA02 → BATMAN | x4
+Remenants of a good time.
+
+#### 8f006da8b9-L? | BATMAN → COA02 | x2
+I swear, if you’ve hurt him...
+
+#### d02dd5a7d1 | BATMAN → COA02 | x2
+What? You gonna call the cops on me?
+
+#### 703ecdda76 | COA02 → BATMAN | x4
+What? You gonna tie my wrists a little tighter?
+
+#### b082f7d301 | COA02 → BATMAN | x2
+All sound and no fury.
+
+#### 59c9dd9cab | COA02 → BATMAN | x2
+If you can find anything at all.
+
+#### 7f55b0a10a | COA02 → GORDON | x2
+With what’s left.
+
+#### 7de923f7b5 | GORDON → COA02 | x2
+--man! Damnit, I don’t have time for--[this.]
+
+#### 02345be2d6-SM | BATMAN → GORDON | x2
+They were holding him in the basement. I’m headed down.
+
+#### 4684e19c6e | GORDON → COA02 | x2
+If that place is really wired to blow, touching anything might trip it.
+
+#### 69afe1c4f6 | GORDON → BATMAN | x2
+It’s going to take awhile but I’ll get you backup.
+
+#### 49e216ba8d | GORDON → BATMAN | x2
+You go down there and you risk blowing the whole neighbor to pieces.
+
+#### ea12f4340a | GORDON → BATMAN | x2
+Wait for backup. It’ll be out as soon as I can get it.
+
+#### 76592d114d | BATMAN → GORDON | x2
+I have to go, Jim.
+
+#### 2eb12ce51d | GORDON → BATMAN | x2
+I can’t get them there faster! Gotham’s total chaos and the GCPD is dealing with too much. Backup is going to take time.
+
+#### 7aa99ac4bd | BATMAN → GORDON | x2
+Too much time.
+
+#### d01735dfb0 | GORDON → BATMAN | x2
+Batman--!
+
+#### 21f360cb24 | BATMAN → GORDON | x2
+Alfred’s gone.
+
+#### 17e4e86159 | LUCIUS → BATMAN | x2
+He’s a smart guy. If he could have left something for you to find...
+
+#### db9e0c2d83 | BATMAN → LUCIUS | x2
+He would have.
+
+#### b6ce9fa7b9 | LUCIUS → BATMAN | x2
+If he’s alive.
+
+#### a87b848fc5 | BATMAN → LUCIUS | x2
+Vicki wants Bruce Wayne. Until she gets him Alfred is her only bargaining chip. He’s alive. I’m going to look around.
+
+#### cc3600d8fb | BATMAN → LUCIUS | x2
+Blood. Not dried completely.
+
+#### 2709360023 | BATMAN → COA02 | x2
+A-negative, Alfred’s blood type. And it’s less than an hour old.
+
+#### d39b8b2c7d | LUCIUS → BATMAN | x2
+They haven’t got much of a head-start, then.
+
+#### b81dee5eb2 | BATMAN → LUCIUS | x2
+Bootprints.
+
+#### e6aae731b2 | BATMAN → LUCIUS | x2
+A-negative, Alfred’s blood type. Based on temperature and coagulation, it was spilled less than an hour ago.
+
+#### 6794ce7c1a | LUCIUS → BATMAN | x2
+Lucky for us they assumed there would be a big boom to do all the sterilizing.
+
+#### 18e041a838 | BATMAN → LUCIUS | x2
+The weight distrubtion here suggests that the person was leaning toward that chair.
+
+#### 0b657b1dc2 | BATMAN → LUCIUS | x2
+Considering the blood...
+
+#### d96a5d5fbc | BATMAN → LUCIUS | x2
+They beat him.
+
+#### 89b3ff94e2 | BATMAN → LUCIUS | x2
+And Vicki stood there and watched it happen.
+
+#### 54f303e093 | BATMAN → LUCIUS | x2
+All of this furniture is old.
+
+#### 964961ba83 | LUCIUS → BATMAN | x2
+The whole house is a shambles.
+
+#### 73db7f6618 | BATMAN → LUCIUS | x2
+No... old, used.
+
+#### 78f357ea3b | LUCIUS → BATMAN | x2
+And that helps us with Alfred, how?
+
+#### ebe2c3ffe4 | BATMAN → LUCIUS | x2
+The chair. It has blood stains on it.
+
+#### 2b14c571df | BATMAN → LUCIUS | x4
+The wear patterns, the broken springs. The Vales spent time here.
+
+#### 9d888d368f | LUCIUS → BATMAN | x6
+In the basement? What odd people.
+
+#### baa2a683d2 | BATMAN → LUCIUS | x2
+The wear patterns, the broken springs. The Vales must have spent a lot of time down here.
+
+#### 3ee79c638e | BATMAN → LUCIUS | x4
+This was their family room.
+
+#### a27383f251 | BATMAN → LUCIUS | x2
+This is where they hung their accomplishments.
+
+#### 0ee6c6f9cc | BATMAN → LUCIUS | x2
+Photos of the Vales.
+
+#### 245a527dda | BATMAN → LUCIUS | x2
+The only ones that have Vicki in them are professionally taken.
+
+#### 4c6f1cdf1f | LUCIUS → BATMAN | x2
+Is that strange?
+
+#### c4a54cbd18 | BATMAN → LUCIUS | x2
+When there’s a wall of casual shots? Yes.
+
+#### d2443a11e2 | BATMAN → LUCIUS | x2
+All of these pictures are so... formal. Vicki’s not smiling in any of them.
+
+#### 1187f496d4 | LUCIUS → BATMAN | x2
+Not to break it to you, Batman, but your family pictures were too. Portraits--
+
+#### 95e4a0d94c | BATMAN → LUCIUS | x2
+Portraits. Not candid photos.
+
+#### 9720bbcf3d | BATMAN → LUCIUS | x2
+They’re all of awards, of ceremonies. No candid, happy moments.
+
+#### 7fa1e05bd6 | BATMAN → LUCIUS | x2
+If this is where they hung their accomplishments, they must have spent a lot of time down here.
+
+#### 502ae1128c | BATMAN → LUCIUS | x2
+The dust here on the floor...
+
+#### eaa15aa52e | BATMAN → LUCIUS | x2
+They dragged Alfred out of the chair.
+
+#### ad2a7f2e0c | LUCIUS → BATMAN | x2
+Where does it go?
+
+#### 38f8673f5b | BATMAN → LUCIUS | x2
+Just under the stairs, but there’s no indication of where they dropped him.
+
+#### d134a0cbb5 | BATMAN → LUCIUS | x2
+The washing machine wasn’t sitting here before.
+
+#### 3beb294f3a | LUCIUS → BATMAN | x2
+How could you know that?
+
+#### 3dc5a0e6e0 | BATMAN → LUCIUS | x2
+Because it was in the image we saw from the video.
+
+#### fce838d939 | BATMAN → LUCIUS | x2
+It was back there.
+
+#### 1c4d7faf0f | BATMAN → LUCIUS | x2
+Lucius. There’s a hatch in the floor.
+
+#### 71aacab3a9-LM | LUCIUS → BATMAN | x2
+You don’t think... you said that he’s a bargaining chip.
+
+#### c4216f7d65 | BATMAN → LUCIUS | x2
+An oubliette.
+
+#### f4c0332649 | LUCIUS → BATMAN | x2
+A what?
+
+#### 70864d31a7-LM | BATMAN → LUCIUS | x2
+A place you put people to forget about them.
+
+#### 6f240d2553 | LUCIUS → BATMAN | x2
+In the basement of a house in the suburbs?
+
+#### f248edea4d | BATMAN, choice/UI → LUCIUS | x6
+The Vales weren’t what they seemed.
+
+#### 8c6d59613b | BATMAN → LUCIUS | x2
+They left it unlocked...
+
+#### 128b4ad459 | BATMAN → LUCIUS | x2
+They must have used it to lock Alfred down there.
+
+#### 50d28e1de9 | BATMAN → LUCIUS | x2
+Vicki knew the oubliette existed. The lock was brought with them.
+
+#### 7f85541cb0 | LUCIUS → BATMAN | x2
+They locked Alfred down there?
+
+#### a75008551f | BATMAN → LUCIUS | x2
+She knew the hole was here because she’s been in it.
+
+#### 350aabfe55 | BATMAN → LUCIUS | x2
+There are drawings...
+
+#### b9eb115334 | BATMAN → LUCIUS | x2
+Vicki did them as a child {DisgustA}while she was kept prisoner down here.
+
+#### 16110dceb5 | LUCIUS → BATMAN | x2
+There are so many.
+
+#### 6f98e3ea5e | BATMAN → LUCIUS | x2
+The Vales put here down here. It was her punishment for misbehaving.
+
+#### 1a2e453538 | LUCIUS → BATMAN | x2
+She was just a child!
+
+#### 800ab9e729 | BATMAN → LUCIUS | x2
+It’s a wonder that she can even function on a normal level, as Vicki Vale, at all.
+
+#### e5e804a60e | BATMAN → LUCIUS | x4
+A stub of pastel left.
+
+#### dbb5c4a114 | LUCIUS → BATMAN | x2
+Traces of Alfred’s DNA.
+
+#### 4d84f7c0e9 | BATMAN → LUCIUS | x2
+He managed to leave a message.
+
+#### d816e93296 | BATMAN → LUCIUS | x2
+I know he’s drawn something here, something for me to find.
+
+#### b9855bda96 | BATMAN → LUCIUS | x2
+But what? [frustrated]They all look the same!
+
+#### 71474844de | LUCIUS → BATMAN | x2
+He must have meant it to blend in so that Vicki wouldn’t know.
+
+#### bd838bc7c5 | LUCIUS → BATMAN | x2
+There has to be a way to understand.
+
+#### 83b0682833 | BATMAN → LUCIUS | x2
+The color.
+
+#### dd70c3e7a3 | BATMAN → LUCIUS | x2
+Arkham Asylum wasn’t just a symbol of their movement.
+
+#### dcc8475008 | LUCIUS → BATMAN | x2
+What are you taking about?
+
+#### b0fa2abd0d | BATMAN → LADYARKHAM | x2
+Lady Arkham. Vicki didn’t take the name because she was their leader. She believed that she was connected to the place.
+
+#### ea9aee7266 | BATMAN → LUCIUS | x2
+She’s going to lure Bruce Wayne there.
+
+#### 8835ec37c2 | LUCIUS → BATMAN | x4
+But--the belltower burnt down decades ago. Still hasn’t been repaired.
+
+#### f2fd22c75c | LUCIUS → BATMAN | x4
+No one cared enough.
+
+#### 55656d5ba6 | BATMAN → LUCIUS | x4
+The belltower at Arkham Asylum. Alfred’s telling me that’s where they’re taking him.
+
+#### ae6075c252 | BATMAN → LUCIUS | x4
+Someone does now.
+
+#### 5f583dff01 | LUCIUS → BATMAN | x2
+Use the sonar scopes.
+
+#### b10bf1ab63 | LUCIUS → BATMAN | x2
+Good for going in fast.
+
+#### 4168fea785 | LUCIUS → BATMAN | x2
+Use the thermal scopes.
+
+#### 9839f3bcb6 | LUCIUS → BATMAN | x2
+It’ll be great for sneaking up on people.
+
+#### 8d3fefeebb | BATMAN → COA02, LUCIUS | x4
+Alfred’s not here.
+
+#### 494a374f8e | COA02 → BATMAN | x2
+The bat can’t keep away.
+
+#### cb24487857 | COA02 → BATMAN | x2
+Lady’s long gone.
+
+#### af2e11e24e | BATMAN → COA02 | x2
+She was right. Where’s Pennyworth?
+
+#### d7bb8eefc7 | COA02 → BATMAN | x2
+Don’t know who you’re talking about.
+
+#### 30ec5997a9-L? | choice/UI → COA02 | x2
+I hope you’re wrong.
+
+#### 4f313b1818 | choice/UI → COA02 | x2
+Be quiet.
+
+#### 8af8422d1e | BATMAN → COA02 | x2
+The house... there’s nothing left.
+
+#### 799fe26a3a | choice/UI | x2
+Don’t placate me.
+
+#### 0df2934fc4 | choice/UI | x2
+Nothing about this is objective.
+
+#### 000f2958ef | BATMAN → LUCIUS | x2
+I’m not a child, Lucius. Don’t treat me like one.
+
+#### 38fe60fd48 | BATMAN → LUCIUS | x2
+This is Alfred! The man raised me. Nothing about this is objective.
+
+#### e54a64924f-LM | BATMAN → LUCIUS | x2
+... I know. You’re right.
+
+#### eb377accaa | LUCIUS → BATMAN | x2
+Emotion makes thing messy.
+
+#### de771e8054 | LUCIUS → BATMAN | x2
+You’re the detective.
+
+#### 16d3b0302f | BATMAN → LUCIUS | x4
+If I find Alfred hurt... [beat]or worse...
+
+#### c7c85705c6 | LUCIUS → BATMAN | x4
+You have to stay objective.
+
+#### c0daaa41ca | LUCIUS → BATMAN | x2
+You might miss something.
+
+#### c2b3891b66 | LUCIUS → BATMAN | x2
+But that--it’s the right place. It has to be.
+
+#### c559e710ea-SM | LUCIUS → BATMAN | x4
+I’m sure you can find something.
+
+#### a8f474cd01 | LUCIUS → BATMAN | x2
+Maybe they can pick up something new.
+
+#### da95cc741b | BATMAN → LUCIUS | x2
+Empty.
+
+#### f3ab85fd18 | LUCIUS → BATMAN | x2
+We were too late.
+
+#### 680c72babe | BATMAN → LUCIUS | x2
+Brick is a poor conductor of sound.
+
+#### de22c25bb7 | LUCIUS → BATMAN | x2
+Not hollow, then.
+
+#### e611a41959 | BATMAN → LUCIUS | x2
+The building is still wired for power.
+
+#### 28a1fc3b4c | LUCIUS → BATMAN | x2
+The fire damage must have been confined to the interior.
+
+#### d8e96c1726 | LUCIUS → BATMAN | x2
+See if you can turn anything else on.
+
+#### a64bb1b299 | BATMAN → LUCIUS | x2
+We don’t know that. Just because we can’t see him doesn’t mean he’s not here.
+
+#### 83ed6f2e16 | LUCIUS → BATMAN | x2
+I don’t want to think about that.
+
+#### 0c31f46cc5-SM | BATMAN → LUCIUS | x2
+I’m going to look around. I need to know what happened to him.
+
+#### 4be3c0a41a | BATMAN → LUCIUS | x2
+Which means the worst.
+
+#### 411ecdda15 | BATMAN → LUCIUS | x2
+It looks empty.
+
+#### b2ad826896 | LUCIUS → BATMAN | x2
+Could be a trap.
+
+#### 9042d5c6e8 | BATMAN → LUCIUS | x2
+This is it, Lucius. Alfred was sitting here during the recording.
+
+#### 6de3869cbd | choice/UI → LUCIUS | x2
+[inspect blood stains]
+
+#### 6b71dde5cb | BATMAN → LUCIUS | x2
+Some blood here.
+
+#### eb5f620713 | BATMAN → LUCIUS | x4
+It’s still tacky.
+
+#### e7a8acade2 | BATMAN → LUCIUS | x4
+Blood.
+
+#### 44ab5e3bac | BATMAN | x2
+The pattern of the blood here matches the punch that we saw.
+
+#### 7537f625e6 | choice/UI | x2
+[analyze blood]
+
+#### c9bf234a74 | choice/UI → LUCIUS | x4
+[Analyze Drag Marks]
+
+#### b00c499ebd | choice/UI | x2
+[pick up]
+
+#### 0969e1ef8f | choice/UI | x2
+[Look At Dust]
+
+#### 1ea44c6aa2 | choice/UI → LUCIUS | x2
+[look at]
+
+#### 05788dd449 | BATMAN → LUCIUS | x2
+Forward me the video feed.
+
+#### e549a5ea57 | BATMAN → LUCIUS | x2
+Then help get me down there, Lucius. [scary]Now.
+
+#### 61525f1add | LUCIUS → BATMAN | x2
+Is Alfred...?
+
+#### d11d48f231 | BATMAN, choice/UI → LUCIUS, BRUCE | x6
+Alfred isn’t here.
+
+#### 44e4a3a339 | choice/UI → LUCIUS | x2
+Something’s not right.
+
+#### 4e93d16972 | choice/UI → LUCIUS | x2
+They wouldn’t kill him.
+
+#### 7f0f773a09 | BATMAN → LUCIUS | x2
+If Lady Arkham was here before, she’s not anymore.
+
+#### 0f49b1fc9a | LUCIUS → BATMAN | x2
+Okay. That’s not necessarily a bad thing.
+
+#### 1cb72c2357 | BATMAN → LUCIUS | x2
+This isn’t right. This isn’t the room where the video was taken.
+
+#### 4fe43b540b | BATMAN → LUCIUS | x2
+This house doesn’t have a basement.
+
+#### 1647153852 | BATMAN → LUCIUS | x2
+This is wrong.
+
+#### 18bbe087fa | BATMAN → LUCIUS | x2
+This is wrong. They should be here.
+
+#### 8eb77b3e33 | LUCIUS → BATMAN | x2
+They might have just filmed and moved on.
+
+#### 24a929b22d | BATMAN → LUCIUS | x2
+They’re not going to kill him. Alfred is Vicki’s bargaining chip.
+
+#### 991596b251 | BATMAN → LUCIUS | x2
+Until she gets Bruce Wayne, Alfred will be alive.
+
+#### 93ef15bc50 | LUCIUS → BATMAN | x2
+We hope.
+
+#### 23a546e7cc | LUCIUS → BATMAN | x2
+Vicki wouldn’t kill him. Alfred is her only way to get to Bruce.
+
+#### 37c5647723-SM | LUCIUS → BATMAN | x2
+I’m sorry. I didn’t mean it like that.
+
+#### 58cdff4a74-L? | LUCIUS | x2
+I--no, you’re right. Of course you’re going to be biased.
+
+#### f96edaca37 | LUCIUS → BATMAN | x2
+We’ll get him back. We will.
+
+#### 1c82a35563 | LUCIUS → BATMAN | x2
+Of course, I mean... that’s bound to be hard to do.
+
+#### b1fe2a4256 | LUCIUS → BATMAN | x2
+Then we can’t be that far behind them.
+
+#### a1ecbc9758 | BATMAN → LUCIUS | x2
+They hit him hard enough to draw blood.
+
+#### a1fe87e7e5 | BARTMAN, BATMAN → LUCIUS | x4
+I’m going to find them and make sure they pay for this.
+
+#### 987fa8570e | BATMAN → LUCIUS | x4
+These marks lead away from the chair.
+
+#### 207c1d0730 | LUCIUS → BATMAN | x4
+The soot and dirt hold everything.
+
+#### a80bb5bd7d | BATMAN → BARTMAN, LUCIUS | x4
+She doesn’t look happy.
+
+#### ef750ec0f3 | BATMAN → LUCIUS | x2
+These sat in the same place until very recently.
+
+#### 234e3d65f5 | BATMAN → LUCIUS | x2
+New dust hasn’t had time to settle.
+
+#### 066bf82172 | BATMAN | x2
+Something hit this shelf with enough force to do this.
+
+#### 4dbe960405 | choice/UI | x2
+[open door]
+
+#### 757bfa6d9e | choice/UI | x2
+[Look at broken trophy]
+
+#### d54d417923 | BATMAN → LUCIUS | x2
+This must have fallen from the shelf.
+
+#### 0469dca5fc | choice/UI → LUCIUS | x2
+[pick up broken trophy]
+
+#### 5fe63936b5 | BATMAN, BRUCE → LUCIUS | x12
+Not Alfred’s blood.
+
+#### f6889ea0eb | BATMAN → LUCIUS | x2
+This is different. Someone else’s.
+
+#### d0db6d7584 | LUCIUS → BATMAN | x2
+Lady Arkham’s?
+
+#### e656411fdf | BATMAN → LUCIUS | x2
+Or one of her extremists.
+
+#### c5ac2c4bb4 | BATMAN → LUCIUS | x4
+He fought back. Good.
+
+#### c6f66c7951 | BATMAN → LUCIUS | x2
+The floor here is almost clean compared to the rest of the basement.
+
+#### 7657fd48e0 | BATMAN | x2
+This was a heavy traffic area.
+
+#### 3aa9565715 | BATMAN | x2
+The floor’s clean here, too.
+
+#### ad99a8f0ff | choice/UI → LUCIUS | x2
+[Look At Carpet Corner]
+
+#### d3713d5790 | BATMAN → LUCIUS | x2
+It would take a lot of weight to do this to cement.
+
+#### 26c759aea7 | LUCIUS → BATMAN | x2
+And a lot of repetition.
+
+#### fe194b3da6 | BATMAN → LUCIUS | x2
+This could have done it.
+
+#### a27b08c495 | LUCIUS → BATMAN | x2
+The Vales don’t seem like they were the picture of a suburban family.
+
+#### bf1981c38e | BATMAN → LUCIUS | x2
+They must have put Alfred down there.
+
+#### 11f2e3b094 | BATMAN → LUCIUS | x4
+Someone trying to get out.
+
+#### 07cb5e7cf7 | choice/UI → LUCIUS | x4
+She was a prisoner.
+
+#### 1f94c4c818 | choice/UI → LUCIUS | x4
+She’s insane.
+
+#### dc71314424 | choice/UI → LUCIUS | x2
+Alfred’s in serious danger.
+
+#### 91bd5a01f2 | BATMAN → LUCIUS | x4
+This is a prison. They locked her down here.
+
+#### f91d9868fd | BATMAN → LUCIUS | x4
+Like a criminal.
+
+#### a7ce200bc1 | LUCIUS → BATMAN | x4
+That’s... awful.
+
+#### d114e66bfc | BATMAN → LUCIUS | x4
+Vicki’s insane.
+
+#### f95d5190a3 | BATMAN → LUCIUS | x4
+She was locked down here and her mind snapped.
+
+#### a2e2671f2b | LUCIUS → BATMAN | x6
+Your silence is never a good thing.
+
+#### 384a66d46e | LUCIUS → BATMAN | x4
+She’s more dangerous than we thought.
+
+#### a1427bd17b | choice/UI → LUCIUS | x2
+[look at big shard]
+
+#### 4aeaf26a95 | BATMAN → LUCIUS | x14
+Arkham Asylum.
+
+#### 0b6a4f6529 | BATMAN → LUCIUS | x2
+This house.
+
+#### ea7d4be5a9 | choice/UI → LUCIUS | x2
+[Turn On]
+
+#### 4edec9929d | choice/UI → LUCIUS | x6
+[Analyze Blood]
+
+#### 1e81b4bae4 | choice/UI → LUCIUS | x2
+[Analyze Blood Stains]
+
+#### 8cd00ec01c | choice/UI | x2
+[Examine Blood Stains]
+
+#### a3e51ba351 | BATMAN → LUCIUS | x4
+It hasn’t congealed yet.
+
+#### 5bcef14742 | choice/UI → LUCIUS | x4
+[Analyze Boot Print]
+
+#### b7cc94b7d9 | choice/UI → LUCIUS | x4
+[Examine Boot Print]
+
+#### f4929885b0 | choice/UI → LUCIUS | x2
+[Examine Drag Marks]
+
+#### 4dbc64faa4 | choice/UI → LUCIUS | x10
+[Look At]
+
+#### 01c7aa24ae | choice/UI → LUCIUS | x2
+[Take Doll]
+
+#### 2dd2bbc9e5 | choice/UI | x16
+Scan.
+
+#### 0431412b2f | choice/UI → LUCIUS | x4
+[Connect]
+
+#### 745af4b1c7 | choice/UI → LUCIUS | x2
+[Examine Pastel]
+
+#### 90e782d5fd | choice/UI → LUCIUS | x2
+[Analyze Pastel]
+
+#### 8658cf2ffd | choice/UI → LUCIUS | x4
+[Analyze Finger Print]
+
+#### 4edd327dd0 | choice/UI → LUCIUS | x2
+[Look At Finger Print]
+
+#### e54ae41c1b | choice/UI → LUCIUS | x2
+[Examine Finger Print]
+
+#### 3293116377 | BATMAN → LUCIUS | x4
+Call Gordon and the GCPD.
+
+#### 0d97a6525d | BATMAN → LUCIUS | x2
+Lady Arkham is heading to Arkham Asylum.
+
+#### e5a8c0cf50-SM | BATMAN → LUCIUS | x2
+Lucius, I’ve found the basement.
+
+#### 7841e7c16b | BATMAN → LUCIUS | x6
+This is where they had Alfred.
+
+#### 1e789671ed | LUCIUS → BATMAN | x2
+We’ll find him Bruce.
+
+#### 2a3762c71e | BATMAN → LUCIUS | x2
+Alfred’s blood is still fresh.
+
+#### 1f34b8be5a | choice/UI → LUCIUS | x2
+[Examine Blood]
+
+#### e829a5be5c | BATMAN → LUCIUS | x2
+More Blood.
+
+#### f569c3c93f | BATMAN → LUCIUS | x2
+Not just Alfred’s...
+
+#### 9ce4450b49 | BATMAN → LUCIUS | x2
+There’s blood everywhere.
+
+#### a34e97d5dd | LUCIUS → BATMAN | x2
+It can’t all be Alfred’s...
+
+#### 0851b9234f | BATMAN → LUCIUS | x4
+They dragged him away.
+
+#### 0df259a140 | LUCIUS → BATMAN | x2
+Not good...
+
+#### c343153081 | BATMAN → LUCIUS | x10
+Alfred took a big hit.
+
+#### bfcbbb28b0 | BATMAN → LUCIUS | x6
+He struggled and they threw him into it, scattering the trophies.
+
+#### 0b76294c79 | LUCIUS → BATMAN | x4
+The guy never gives up.
+
+#### f672722895 | BATMAN → LUCIUS | x2
+Vicki was quite the athlete.
+
+#### 81993110b6 | LUCIUS → BATMAN | x2
+She’d have to be to become Lady Arkham.
+
+#### f831b567ea | BATMAN → LUCIUS | x2
+Here’s another bootprint.
+
+#### cdc58dbc13 | BATMAN → LUCIUS | x2
+Someone used this trophy as a weapon.
+
+#### 90622b3848 | LUCIUS → BATMAN | x2
+Alfred is resourceful.
+
+#### 0b3425c3f0-SM-LM | BATMAN → LUCIUS | x2
+I always knew you fought dirty, Old Friend...
+
+#### 36134c3cb2 | BATMAN → LUCIUS | x2
+Alfred stabbed one of the CoA extremists in the foot with the trophy.
+
+#### 711f84b611-SM | LUCIUS → BATMAN | x2
+I never knew Alfred fought dirty.
+
+#### 42415b6fe6 | BATMAN → LUCIUS | x2
+He fought to survive...
+
+#### 590038cbaf | BATMAN → LUCIUS | x2
+They were hiding the scrape marks.
+
+#### ede01385bb | BATMAN → LUCIUS | x4
+They keep moving the washing machine...
+
+#### d0faaa8d42 | LUCIUS → BATMAN | x2
+And they left it back in place?
+
+#### 91f1195f83 | LUCIUS → BATMAN | x2
+Maybe Alfred’s in there...
+
+#### 21e2b94275 | BATMAN → LUCIUS | x2
+Blueprints for the house don’t have this hole.
+
+#### 57883db7f0 | BATMAN → LUCIUS | x2
+The Vales must have dug it...
+
+#### 05548e6731 | BATMAN → LUCIUS | x2
+Or Vicki...
+
+#### 22c12b0306 | BATMAN → LUCIUS | x2
+Lucius, Do the blueprints for the Vale House have a  sub-basement?
+
+#### ae9ef064b2 | LUCIUS → BATMAN | x2
+No why?
+
+#### 7876b84dbe | BATMAN → LUCIUS | x2
+Because they dug one...
+
+#### ddecf41fcc | BATMAN → ALFRED, LUCIUS | x6
+Alfred!{SurpriseA}
+
+#### 311d0fc327 | choice/UI → LUCIUS | x2
+She was a victim.
+
+#### d3d971765a | BATMAN → LUCIUS | x2
+Vicki was a victim too.
+
+#### 3a4e718dfc | LUCIUS → BATMAN | x2
+That doesn’t justify what she’s done.
+
+#### 47e9bf39c0 | BATMAN → LUCIUS | x2
+Nothing can justify what she’s done to Gotham.
+
+#### 9e3a74a4fc | BATMAN → LUCIUS | x2
+This blood’s too old to be Alfred’s.
+
+#### abf6611972 | LUCIUS → BATMAN | x2
+Not sure if that’s good or bad...
+
+#### 392cb5e383 | BATMAN → LUCIUS | x4
+Creepy doll...
+
+#### f1998febb2 | BATMAN → LUCIUS | x4
+It looks like they took Alfred from his chair, leading him across the room. But when they got near this case...
+
+#### 41f2f4b382 | choice/UI → LUCIUS | x2
+Save Alfred.
+
+#### 9d38cbd791 | choice/UI → LUCIUS | x2
+Make Vicki pay.
+
+#### bf9be35693 | choice/UI → LUCIUS | x2
+Find out Vicki’s plan.
+
+#### 162006e670 | LUCIUS → BATMAN | x2
+We’ll find him
+
+#### 5e2740ebce | BATMAN → LUCIUS | x4
+Stay on the line.
+
+#### 98e5d5a152 | LUCIUS → BATMAN | x2
+Of course. Anything.
+
+#### 012f7fc58a | BATMAN → LUCIUS | x2
+I may need you to analyze evidence while I keep searching.
+
+#### 7969480617 | BATMAN → LUCIUS | x2
+I’m getting Alfred back.
+
+#### ec2b9b8cda | BATMAN → LUCIUS | x2
+And god help anyone that gets in my way.
+
+#### 2e4a167364 | BATMAN → LUCIUS | x4
+What Vicki’s done is unforgivable.
+
+#### 13a8bcf28f | LUCIUS → BATMAN | x2
+What was done to that poor girl was unforgiavbel to.
+
+#### 1d36c7884e | BATMAN → LUCIUS | x2
+Especially if she knows what it feels like to be done to her.
+
+#### 0f0dc268be | BATMAN → LUCIUS | x2
+Victoria Arkham returning to Arkham Asylum can’t just be to punish Alfred.
+
+#### 162b8ee780 | BATMAN → LUCIUS | x2
+We have to find out Vicki’s plan.
+
+#### 37c5801e5f | LUCIUS → BATMAN | x2
+Her free behind the walls of Arkham is a scary thought.
+
+#### a8e9505086 | LUCIUS → BATMAN | x2
+Why do I ever expect to a goodbye from you?
+
+#### 15ad134169 | BATMAN → LUCIUS | x2
+Looks like they kept beating him.
+
+#### ac1627ce3d | BATMAN → LUCIUS | x4
+Multiple spray patterns...
+
+#### 1523c9d847 | BATMAN → LUCIUS | x4
+They beat him repeatedly.
+
+#### 0971da7e41 | BATMAN | x4
+They’ll all pay.
+
+#### 98ea1ab059 | BATMAN | x2
+Stubborn old man...
+
+#### bd62761d3d | BATMAN | x2
+Looks like the shelf took the brunt of the impact.
+
+#### b99acbce16 | BATMAN | x2
+The glass is cracked and several trophies are knocked over.
+
+#### acd8d50183 | BATMAN | x2
+No he doesn’t.
+
+#### 56172f326d | BATMAN | x2
+What’s that doing over there?
+
+#### c15630d563 | BATMAN | x2
+Vicki Vale... track and field, first place.
+
+#### 3fb6bebb0c | BATMAN | x2
+This must have come from the shelf across the room.
+
+#### 0322f7f974 | BATMAN | x2
+Once the video ended.
+
+#### 711a36c052 | BATMAN → LUCIUS | x2
+They dragged Alfred off.
+
+#### a0a781d5d5 | BATMAN → LUCIUS | x2
+And he kept fighting.
+
+#### 4c93db3af0 | BATMAN → LUCIUS | x2
+But then the trail ends in this corner.
+
+#### ece0607ae5 | LUCIUS → BATMAN | x2
+Dear lord...
+
+#### 22369cd89d | BATMAN → LUCIUS | x2
+I’m going to take a closer look...
+
+#### 9d51165655 | BATMAN → LUCIUS | x2
+The Vales were not what they seemed.
+
+#### ef61a08adc-LM | LUCIUS → BATMAN | x2
+What did you find?
+
+#### 048ee49abc | BATMAN → LUCIUS | x2
+It looks like some sort of prison cell under the house.
+
+#### 1394b074ba | BATMAN → LUCIUS | x4
+I’m going inside.
+
+#### cf0de8ca76 | BATMAN → LUCIUS | x2
+It’s too dark.
+
+#### 86746d9647 | BATMAN → LUCIUS | x2
+The Vales held her down here.
+
+#### 4d970c4d43 | BATMAN → LUCIUS | x2
+They kept their own child in a prison.
+
+#### e76af3b986 | LUCIUS → BATMAN | x2
+Bruce, what do you mean? They kept her in that hole?
+
+#### 90f2fae704 | LUCIUS → BATMAN | x2
+What did the Vales do?
+
+#### 11fb760780 | BATMAN → LUCIUS | x2
+What was done down here to a little girl...
+
+#### bc2132a0a1 | BATMAN → LUCIUS | x2
+The Vales are monsters.
+
+#### b3945bb7a7 | LUCIUS → BATMAN | x2
+No wonder she’s so angry.
+
+#### 5aaf6634a0 | LUCIUS → BATMAN | x2
+I can’t even imagine the psychological toll this kind of punishment would take on a little girl who just lost her parents...
+
+#### 8c7714e7b7 | LUCIUS → BATMAN | x2
+It drove Victoria Arkham mad.
+
+#### 37dc0ec270 | BATMAN → LUCIUS | x2
+They twisted her.
+
+#### 998cd39d90 | BATMAN → LUCIUS | x2
+Made Vicki Vale into Lady Arkham.
+
+#### 14cd459f9f | BATMAN → LUCIUS | x2
+Then Vicki Vale became LAdy Arkham.
+
+#### 6d8b45e1d1 | LUCIUS → BATMAN | x2
+Maybe he left us another clue?
+
+#### 9982bb8d93 | BATMAN → LUCIUS | x2
+Wait, {ThinkingA}in the painting closest to Alfred’s blood some of the chalk is different.
+
+#### 3ae0619f99 | BATMAN → LUCIUS | x2
+Newer...
+
+#### 152cdc0c04-SM | BATMAN → LUCIUS | x2
+I think I found Alfred’s clue.
+
+#### 4850a48221 | COA01, ALFRED → BATMAN | x4
+I’m a hologram revealed in the investigation!
+
+#### 322070794b | COA02, LADYARKHAM → BATMAN | x4
+I’m a hologram revealedin the investigation!
+
+#### 35f994a9d1 | BATMAN → COA02 | x4
+He hid a clue in the drawing for me to find.
+
+#### 9da6b2ba3f-SM | BATMAN → ALFRED | x2
+He knew I could use my cowl to filter out colors.
+
+#### 1021def9d8 | BATMAN → LUCIUS | x8
+That must be where they’re heading.
+
+#### 155854cce6 | BATMAN → LUCIUS | x4
+Catacombs?
+
+#### a1b092ee45 | BATMAN → LUCIUS | x4
+Alfred’s trying to tell us they’re heading to the catacombs under Arkham Asylum.
+
+#### 2c84107d14 | LUCIUS → BATMAN | x4
+Catacombs under Arkham?
+
+#### 771c54b9e3 | BATMAN → LUCIUS | x4
+They were built pre civil war.
+
+#### 194ab0c975 | LUCIUS → BATMAN | x4
+Didn’t think that place could get more creepy.
+
+#### 783e1c6214 | BATMAN → LUCIUS | x4
+Belltower?
+
+#### 96d92cbf83 | BATMAN → LUCIUS | x4
+And it’s pointing to this drawing of Arkham Asylum.
+
+#### ec1094cc4d | BATMAN → LUCIUS | x4
+This must be where they’re going.
+
+#### 7bc3b1b83b | LUCIUS → BATMAN | x4
+Wasn’t the bell tower condemned?
+
+#### 35a80d73ab | BATMAN → LUCIUS | x4
+Years ago.  Perfect place to hide.
+
+#### d8ff6ef738 | BATMAN → LUCIUS | x2
+Regardless of what happened to her growing up.
+
+#### 0243856634 | LUCIUS → BATMAN | x2
+Why would the Vales need a prison cell?
+
+#### abe04e2ef2 | BATMAN → LUCIUS | x2
+I’m going to look around some more.
+
+#### e77406bb9f | choice/UI → LUCIUS | x2
+Pull.
+
+#### e9a12d264d | choice/UI | x4
+[Push]
+
+#### cc73af6c96 | choice/UI | x2
+Call Out.
+
+#### 0abb0f44bf | choice/UI | x2
+Enter.
+
+#### 92d9e7ae43 | choice/UI → LUCIUS | x2
+Hope that Alfred’s still alive.
+
+#### d1a7ae5c1a | choice/UI | x2
+Push.
+
+#### b0cbedab4d | choice/UI | x2
+Kick.
+
+#### 2e8f905a12 | choice/UI | x2
+A place of sadness.
+
+#### d9eba095ee | choice/UI → LUCIUS | x4
+To keep Vicki in line.
+
+#### f48b527a8c | choice/UI → LUCIUS | x4
+Some people are just evil.
+
+#### 5dce067f23 | choice/UI | x2
+Tear her apart.
+
+#### 86c7a9e0b0 | choice/UI → LUCIUS | x2
+She’s going to pay for her crimes.
+
+#### 68c5e4674a | choice/UI → LUCIUS | x2
+Use this knowledge as a weapon.
+
+#### 7d514aedeb | LUCIUS → BATMAN | x2
+What’s the situation?
+
+#### 8aa997eba5 | BATMAN → LUCIUS | x2
+Quiet.
+
+#### 90f5d39029 | LUCIUS → BATMAN | x2
+We can’t predict what Lady Arkham has in store.
+
+#### 047217cdac | BATMAN → LUCIUS | x2
+Or what she’s done with Alfred.
+
+#### 334454e434 | BATMAN → LUCIUS | x2
+Found the basement...
+
+#### 51cf4f437c | BATMAN → LUCIUS | x2
+No sign of Alfred {SurpriseA}or the {AngryB}Children of Arkham.
+
+#### 2881db41cc-SM | BATMAN → LUCIUS | x2
+I’m {FaceAccent}fine.
+
+#### d1e284e238-SM | BATMAN → LUCIUS | x2
+There was a shotgun trap triggered to go off as I opened the basement door.
+
+#### 4cce65c138-LM | LUCIUS → BATMAN | x2
+How could Lady Arkham know you were coming here?
+
+#### 68c9bea8cf | BATMAN → LUCIUS | x2
+She couldn’t.
+
+#### 3ef362aeb6 | BATMAN → LUCIUS | x4
+She’s being cautious.
+
+#### 72e4d0c8b1 | BATMAN → LUCIUS | x2
+There’s something down here she doesn’t want anyone to find.
+
+#### c86577cf5a | BATMAN | x2
+Unclear.
+
+#### a114d365d7 | BATMAN → BRUCE | x2
+She’s being very cautious.
+
+#### 0d91cc0b04-SM | BATMAN → LUCIUS | x2
+I’ve {FaceAccent}found where the video was {FaceAccent}{BodyAccent}filmed.
+
+#### 5f306ed9c4 | BRUCE → BATMAN | x2
+But Lady Arkham deflected Alfred’s attack
+
+#### 151951c6ad | BATMAN → LUCIUS | x4
+There’s {FaceAccent}blood on the walls.
+
+#### 60c60a6338 | BATMAN → LUCIUS | x2
+We’re still a step behind them.
+
+#### 9d00dc736a | LUCIUS → BATMAN | x2
+They can’t have gotten far.
+
+#### f47958d98f | BATMAN → LUCIUS | x2
+And send you what I find.
+
+#### 544cdee97e | LUCIUS → BATMAN | x2
+We’re going to find Alfred...
+
+#### bc31a61277 | BATMAN → LUCIUS | x2
+I’ll look for clues...
+
+#### 998338d9a1 | BATMAN → LUCIUS | x2
+They kept beating him.
+
+#### 7be17999f6 | LUCIUS → BRUCE | x2
+Stay focused, Bruce.
+
+#### fc9268c2ca | LUCIUS → BATMAN | x2
+Alfred needs you now.
+
+#### d0230978b8 | BATMAN → LUCIUS | x4
+They’ll pay for this...
+
+#### 21e191569e | LUCIUS → BATMAN | x2
+Alfred’s a tough old bugger.
+
+#### 7f1ee07340 | LUCIUS → BATMAN | x4
+Means we can’t be far behind them.
+
+#### 554b4e9197 | BATMAN → LUCIUS | x2
+Blood hasn’t congealed yet...
+
+#### 0f98f5b1be | BATMAN → LUCIUS | x2
+What they did to him...
+
+#### 53ec5ddb04 | BATMAN → LUCIUS | x2
+It’s sadistic...
+
+#### f93ab40b63 | LUCIUS → BATMAN | x2
+Alfred won’t break.
+
+#### 502a3dd69e | LUCIUS → BATMAN | x2
+He won’t break.
+
+#### cb8232756d | BATMAN → LUCIUS | x2
+Everyone breaks.
+
+#### 634aba5ce3 | BATMAN → LUCIUS | x2
+We have to find him before that happens.
+
+#### e967b467ec | LUCIUS → BATMAN | x2
+He’s stronger than that.
+
+#### 9d737249d0 | BATMAN → LUCIUS | x2
+After they beat him they dragged Alfred away.
+
+#### 9a5dcddd28 | BATMAN → LUCIUS | x2
+Looks like they dragged Alfred away after they {AngryA}finished beating him.
+
+#### 3bfc0cbee0 | BATMAN, BRUCE → LUCIUS | x4
+Odd...
+
+#### 3ed1f21aee | BATMAN → LUCIUS | x2
+The blood trail doesn’t pool up against the wall.
+
+#### fe80d36115 | LUCIUS → BATMAN | x2
+Sounds like there’s more to this basement than it would appear.
+
+#### 01b477e4d7 | BATMAN → LUCIUS | x2
+Taking a closer look...
+
+#### fde3b9f042 | BATMAN → LUCIUS | x2
+It goes {SurpriseA}under it.
+
+#### 4eb42dbb1b | BATMAN → LUCIUS | x2
+The wall is a facade.
+
+#### 9e0083cb43 | LUCIUS → BATMAN | x2
+Why would the Vales have a false wall in their basement?
+
+#### 0f8ee29c02 | BATMAN → LUCIUS | x2
+No time for delicacy.
+
+#### ada1155a42 | BATMAN → LUCIUS, QUINZEL | x4
+Let’s find out what the Vales were hiding...
+
+#### 377959bce2 | BATMAN → LUCIUS | x2
+There’s a small room...
+
+#### 2f57d94624-LM | LUCIUS → BATMAN | x2
+Did you find him?
+
+#### 225ff0b8eb | BATMAN → LUCIUS | x2
+...with a man made hole dug in the floor.
+
+#### bad9984967 | BATMAN → LUCIUS | x2
+It’s grated.
+
+#### ef0e42cbb7 | LUCIUS → BATMAN | x2
+Like a dungeon?
+
+#### a5ab62b8cb | BATMAN → LUCIUS | x2
+They dragged Alfred down into it.
+
+#### ff87c95f6e | BATMAN → LUCIUS | x2
+Not sure...
+
+#### 8f81607c81 | BATMAN → LUCIUS | x2
+I can’t see anything.
+
+#### 0019c5c9d1 | BATMAN → LUCIUS | x2
+And there’s no answer.
+
+#### 43a85f9a36 | BATMAN → LUCIUS | x2
+I’m going down.
+
+#### f0e15b86a1 | BATMAN → LUCIUS | x2
+The Vales used a rope ladder to climb in and out.
+
+#### 18de011ccb | LUCIUS → BATMAN | x2
+That also means if anyone was left at the bottom, they couldn’t get back up.
+
+#### 8619544a4b | LUCIUS → BATMAN | x2
+Just what was going on here?
+
+#### d22edad2b7 | BATMAN → LUCIUS | x2
+Alfred’s not here...
+
+#### 4bed330fa8 | BATMAN → LUCIUS | x2
+I’ve seen the dark side of Gotham, but this...
+
+#### a19ee6eb24 | BATMAN → LUCIUS | x2
+...This is horror beyond belief...
+
+#### 9fa6e8b22b | BATMAN → LUCIUS | x6
+What the Vales did down here...
+
+#### 4c2d4cc436 | BATMAN → LUCIUS | x4
+Vicki Vale...
+
+#### 007127968f | BATMAN → LUCIUS | x2
+They were kept down here...
+
+#### 96051f74ff | LUCIUS → BATMAN | x2
+What?!?
+
+#### 416403361f | BATMAN → LUCIUS | x6
+To intentionally harm children like this...
+
+#### 28c0bdc763 | BATMAN → LUCIUS | x2
+It’s some sort of... {AngryA}dungeon.
+
+#### 0c00931386 | BATMAN → LUCIUS | x2
+They kept Vicki down here as a child.
+
+#### 47fd1c2bd6 | LUCIUS → BATMAN | x2
+To torture a child...
+
+#### a4c6741708 | LUCIUS → BATMAN | x2
+Vicki and what about their foster child?
+
+#### 912c6fbc2d | BATMAN → LUCIUS | x2
+Duke...
+
+#### 8b1ea5f7a9 | LUCIUS → BATMAN | x2
+To their own daughter...??
+
+#### 8d5f28e893 | LUCIUS → BATMAN | x2
+Who could be that cruel?
+
+#### 1ee93d5075 | BATMAN → LUCIUS | x2
+And now she has {AngryB}Alfred.
+
+#### 85d0c450fd | LUCIUS → BATMAN | x2
+It’s deplorable.
+
+#### 1dd0c09b89 | LUCIUS → BATMAN | x2
+Vicki and what about their adoptive son?
+
+#### 6c2adeb24e | BATMAN → LUCIUS | x2
+If he was left down here by himself he would have left me a clue.
+
+#### beb44c2293 | LUCIUS → BATMAN | x2
+If he was conscious...
+
+#### 1ccf812d20 | BATMAN → LUCIUS | x2
+Got to keep investigating...
+
+#### 9138f171ae | BATMAN → LUCIUS | x2
+Hnhh...{DisgustA}
+
+#### 676c72355f | BATMAN → LUCIUS | x2
+Bloody Scratches...
+
+#### 3c25f35b6d | BATMAN → LUCIUS | x2
+Someone tried to climb out.
+
+#### 65591cd623 | BATMAN → LUCIUS | x2
+Fingernails...
+
+#### f998f93ba4 | BATMAN → LUCIUS | x2
+A child...
+
+#### 250e143ee4 | LUCIUS → BATMAN | x2
+To torment a child like that....
+
+#### 6378a82f43 | BATMAN → LUCIUS | x2
+I’m going to keep searching....
+
+#### 221e115c68 | BATMAN → LUCIUS | x2
+This blood is fresher than the rest.
+
+#### d57d4e95c5 | BATMAN → LUCIUS | x2
+Alfred lied down here
+
+#### 6a540b2a4d | BATMAN → LUCIUS | x2
+Must be Alfred’s.
+
+#### 4d69fe317d | BATMAN → LUCIUS | x2
+They just {AngryA}let him {AngryB}bleed...
+
+#### 455de6e1e7 | LUCIUS → BATMAN | x2
+Focus Bruce.
+
+#### 720283e862 | LUCIUS → BATMAN | x2
+That means Alfred’s still alive.
+
+#### 46a7ff5e8b | LUCIUS → BATMAN | x2
+That’s good...
+
+#### b4aa36aa2c | BATMAN → LUCIUS | x2
+insane scribblings....
+
+#### b95b19143a | BATMAN → LUCIUS, QUINZEL | x4
+My God.
+
+#### a26d695cc6 | LUCIUS → BATMAN | x2
+What Bruce?!?
+
+#### 7712024689 | BATMAN → LUCIUS | x2
+While Vicki Vale was down in this hole as a child she created Lady Arkham.
+
+#### 369f097ea1 | LUCIUS → BATMAN | x2
+The horror you’ve been describing would break the strongest of us, let alone a child.
+
+#### a65b7361c6 | BATMAN → LUCIUS | x2
+She created her own persona to deal with it.
+
+#### c6ecd667bd | BATMAN → LUCIUS | x2
+Some one that could confront the lies the world was telling her.
+
+#### cefd745495 | BATMAN → LUCIUS | x2
+Someone to get vengeance on those who hurt her.
+
+#### 363641e3c9 | BATMAN → LUCIUS | x2
+This is where Vicki Vale {SurpriseA}became Lady Arkham.
+
+#### e7f8ae8f34 | LUCIUS → BATMAN | x2
+Holy shit...
+
+#### 16734c76c5 | BATMAN → LUCIUS | x2
+What was used to draw these?
+
+#### cc5f4788a6 | BATMAN → LUCIUS | x2
+Vicki’s childhood doll...
+
+#### dca4a0ec4b | BATMAN → LUCIUS | x2
+Disturbing...
+
+#### ba55b31277 | BATMAN → LUCIUS | x2
+Shackles.
+
+#### 149464a85a | BATMAN → LUCIUS | x2
+Blood on them.
+
+#### 9dc4585043 | BATMAN → LUCIUS | x2
+chained to the wall.
+
+#### f9d4692f61 | LUCIUS → BATMAN | x4
+The Vales kept vicki chained down there.
+
+#### 38bda2a61f | LUCIUS → BATMAN | x4
+They’re lucky they’re already dead.
+
+#### 495de6d97e | LUCIUS → BATMAN | x4
+This is beyond the pale...
+
+#### 518bbb1acf | BATMAN → LUCIUS | x2
+Vicki did to Alfred what was done to her.
+
+#### d23fa1cdbd | BATMAN → LUCIUS | x2
+She wants someone to pay.  {AngryA}Someone to hurt like she did.  {DisgustA}Like the Vales hurt her.
+
+#### 2459eb24cd | LUCIUS → BATMAN | x2
+And if she can’t torture Bruce Wayne...
+
+#### 8a0f82fed2 | LUCIUS → BATMAN | x2
+She’ll torture Alfred....
+
+#### 676f01e5b2 | BATMAN → LUCIUS | x2
+Layers of blood on it.
+
+#### fa61dd369d | BATMAN → LUCIUS | x2
+It was used for punishment...
+
+#### d94c0bc7f1 | LUCIUS → BATMAN | x2
+Weren’t the Vales strangled with belts?
+
+#### 97ac6d940a | LUCIUS → BATMAN | x2
+Wasn’t Mr. Vale strangled with a belt?
+
+#### ee4f2910aa | LUCIUS → BATMAN | x2
+Nothing a child could do would deserve that kind of beating....
+
+#### c6b188cfae | LUCIUS → BATMAN | x2
+I can’t even...
+
+#### cd4655a695 | BATMAN → LUCIUS | x2
+Seems Vicki Vale returned the favor when she killed her adoptive father.
+
+#### 8b25887aed | BATMAN → LUCIUS | x2
+Seems Vicki Vale returned the favor when she killed her foster father.
+
+#### 205d0aaa65 | LUCIUS → BATMAN | x2
+And Alfred?
+
+#### 14159de86d | BATMAN → LUCIUS | x2
+There’s fresh blood.
+
+#### ecb09e3ab2 | BATMAN → LUCIUS | x2
+Lady Arkham isn’t breaking the cycle of violence, she’s continuing it....
+
+#### 414e585517 | BATMAN → LUCIUS | x2
+Lady Arkham isn’t breaking the cycle of violence inflicted on her, she’s paying it forward...
+
+#### b9a4769306 | BATMAN | x2
+A whipping belt.
+
+#### 54f42509d1 | BATMAN | x2
+Blue...
+
+#### 04ed27caf5 | BATMAN | x2
+Red...
+
+#### bd5a3b38ca | BATMAN | x2
+Yellow...
+
+#### 0ab2b7c32a | BATMAN | x4
+Purple...
+
+#### d2bfbad555 | BATMAN → LUCIUS | x8
+Alfred hid a clue in one of Vicki’s drawings.
+
+#### c68792b11d | BATMAN → LUCIUS | x10
+Lady Arkham has taken Alfred to Arkham Asylum.
+
+#### fe87abb89e | BATMAN → LUCIUS | x6
+That’s the final piece...
+
+#### f1561fc613 | BATMAN → LUCIUS | x4
+Lady Arkham had {AngryA}Penguin become Wayne Enterprises CEO to get {FaceAccent}{BodyAccent}access to buildings with {FaceAccent}Wayne Tech security systems.
+
+#### 2a43a9e22e | BATMAN → LUCIUS | x4
+Arkham Asylum being one of them...
+
+#### edbf805ee0 | LUCIUS → BATMAN | x4
+Oswald could have opened every cell door in Arkham with the push of a button!
+
+#### dcf6e618d6 | BATMAN → LUCIUS | x4
+But with Penguin out of power...
+
+#### 8e97e45f71 | BATMAN → LUCIUS | x4
+Lady Arkham needs to go there in person.
+
+#### ea55205516 | LUCIUS → BATMAN | x4
+But why take Alfred there?
+
+#### 8109fbf0ac | BATMAN → LUCIUS | x4
+She’s not done punishing him...
+
+#### 6c4fcea513 | BATMAN → LUCIUS | x4
+Tell them it’s urgent they get to Arkham Asylum.
+
+#### bef499a601 | BATMAN → LUCIUS | x4
+If Lady Arkham opens all the cell doors, {AngryA}I’ll need their help to contain the outbreak.
+
+#### d86880f158 | LUCIUS → BATMAN | x4
+After all you’ve seen here...
+
+#### 4c28e7b272 | LUCIUS → BATMAN | x2
+She’s a victim too.
+
+#### d911886a60 | BATMAN → LUCIUS | x2
+After what she did to Alfred, to Harvey, to the people of Gotham...
+
+#### f84887c27e | BATMAN → LUCIUS | x2
+I’m gonna tear her apart.
+
+#### 52bb9d4476 | BATMAN → LUCIUS | x2
+I’m going to get Alfred back.
+
+#### 48cbe9dd5b | BATMAN | x2
+No matter what it takes...
+
+#### 111a6b14e1 | choice/UI | x2
+Get Alfred back.
+
+#### 46c831b3b5 | BATMAN | x2
+Regardless of {FaceAccent}what happened to her down {FaceAccent}{BodyAccent}here.
+
+#### f4a31ea806 | BATMAN → LUCIUS | x2
+She’s a {FaceAccent}criminal.
+
+#### 43f4dc339a | BATMAN → LUCIUS | x2
+Who’s going to {BodyAccent}{FaceAccent}pay for her {FaceAccent}crimes.
+
+#### cbb1243fee | BATMAN → LUCIUS | x2
+And see the inside of a {FaceAccent}cell for the rest of her {FaceAccent}{BodyAccent}life.
+
+#### 8695401773 | LUCIUS → BATMAN | x4
+Amen...
+
+#### bb5432a673 | LUCIUS → BATMAN | x2
+Don’t forget Bruce you’re accountable for your actions...
+
+#### 35a73f1f69 | LUCIUS → BATMAN | x2
+...even as The Batman...
+
+#### 06cba04c42 | BATMAN → LUCIUS | x2
+Lady Arkham has no {BodyAccent}{FaceAccent}idea I know about this {FaceAccent}place....
+
+#### 05f8f7fb17 | BATMAN → LUCIUS | x4
+Lady Arkham is dangerous in a head on fight, but-
+
+#### 1e09e1d191 | BATMAN → LUCIUS | x2
+She has no idea I know about this place.
+
+#### 416f25ef57 | BATMAN | x2
+...{SurpriseA}{FaceAccent}or about{ThinkingA} her {FaceAccent}{BodyAccent}past.
+
+#### 50e96420f6 | BATMAN → LUCIUS | x2
+That’s my weapon to {BodyAccent}{FaceAccent}get Alfred back.
+
+#### 3c2067e2e3 | BATMAN → LUCIUS | x4
+Her obsession will be her downfall.
+
+#### fe2c8bc0bd | BATMAN → LUCIUS | x2
+I can use this to get into her head...
+
+#### 199411eacf | choice/UI → LUCIUS | x2
+Why she killed the Vales.
+
+#### ef05d1ae1e | choice/UI → LUCIUS | x2
+Cruelty beyond belief.
+
+#### 888cd5c2ed | choice/UI → LUCIUS | x2
+Where her anger comes from.
+
+#### 5502b63c82 | choice/UI → LUCIUS | x2
+Why she wants revenge.
+
+#### 41a198bec1 | choice/UI → LUCIUS | x2
+I’m going to reason with her.
+
+#### f54771b91d-SM | BATMAN → LUCIUS | x2
+There was a {FaceAccent}shotgun trap {FaceAccent}triggered to go off as I went {FaceAccent}down the stairs.
+
+#### f550c6da75-SM | BATMAN → LUCIUS | x2
+I’m not sure she did...
+
+#### 3cff2b482c | BATMAN → LUCIUS | x2
+Horror beyond belief...
+
+#### 6cf028195f | BATMAN → LUCIUS | x2
+...and the boy.
+
+#### 6153972784 | LUCIUS → BATMAN | x4
+It must be really bad...
+
+#### f37ae710f8 | BATMAN → LUCIUS | x2
+It’s a place of sadness
+
+#### 4cc979bf40 | choice/UI → LUCIUS | x2
+ALT A place beyond hope.
+
+#### a7b7ced3a2 | BATMAN → LUCIUS | x2
+A place beyond hope.
+
+#### 5776e5da67 | BATMAN → LUCIUS | x4
+They kept their children down here.
+
+#### 6ab67ffc74 | LUCIUS → BATMAN | x4
+What exactly do you see?
+
+#### 9801266aa3 | BATMAN → LUCIUS | x4
+Vicki and the Boy.
+
+#### 858ff67d91 | BATMAN → LUCIUS | x4
+Vicki and Duke.
+
+#### 727717fd27 | LUCIUS → BATMAN | x2
+What parent could do that...[unable to finish his thought]
+
+#### 71b18bdab3 | BATMAN → LUCIUS | x2
+Vicki was kept down here...
+
+#### 7140f55781 | BATMAN → LUCIUS | x2
+Punished {FaceAccent}{BodyAccent}down here.
+
+#### fcf242a27f | LUCIUS → BATMAN | x2
+To willfully hurt a child...
+
+#### e0178f3dc0 | LUCIUS → BATMAN | x2
+It’s barbaric...
+
+#### adf9e636dc | BATMAN → LUCIUS | x2
+The Vales were inhuman monsters.
+
+#### 96a15f2445 | BATMAN → LUCIUS | x2
+But that doesn’t give Vicki Vale the right to murder them.
+
+#### 9abbb861ca | BATMAN → LUCIUS | x2
+No wonder Vicki is consumed {AngryA}with hate.
+
+#### 2906a267b2 | BATMAN → LUCIUS | x2
+It’s all she’s ever known.
+
+#### 3f5dd0496c | LUCIUS → BATMAN | x2
+To experience such abuse so early in life...
+
+#### d58e9518f3 | LUCIUS → BATMAN | x2
+I can’t even begin to imagine what she’s gone through...
+
+#### 1f79f54615 | BATMAN → LUCIUS | x2
+The Vales intentionally destroyed Victoria Arkham’s innocence.
+
+#### 7b630795c4 | BATMAN → LUCIUS | x2
+Gotham failed her by putting her with the Vales.
+
+#### 225a9cedaf | LUCIUS → BATMAN | x2
+The system helped make her a monster.
+
+#### ffc6f99ffe | BATMAN → LUCIUS | x2
+That doesn’t give her an excuse for what she’s done.
+
+#### 66176a9501 | LUCIUS → BATMAN | x2
+To think of children being treated so cruelly.
+
+#### 0f314196a9 | LUCIUS → BATMAN | x2
+I hope the boy is okay.
+
+#### a9b3af98ec | LUCIUS → BATMAN | x2
+I hope Duke is okay.
+
+#### 1d49992850 | BATMAN → LUCIUS | x10
+She’s taken Alfred to Arkham Asylum.
+
+#### b02be199d6 | BATMAN → LUCIUS | x4
+Tell them it’s urgent they get to the Asylum.
+
+#### 9496a5af61 | LUCIUS → BATMAN | x2
+What’s your plan when you find her?
+
+#### 8dfcd7bdae | BATMAN → LUCIUS | x6
+Now that I’ve seen this, I’m going to try to reason with her.
+
+#### 2a926c603a | BATMAN → LUCIUS | x6
+Try appealing to Vicki Vale rather than dealing with Lady Arkham.
+
+#### f5e512fb49 | LUCIUS → BATMAN | x4
+I hope it works.
+
+#### efece83ff3 | LUCIUS → BATMAN | x2
+She’s clearly unstable.
+
+#### dc00d37a3b | LUCIUS → BATMAN | x2
+You’ll have to be careful.
+
+#### 1c24f1aa39 | LUCIUS → BATMAN | x4
+What are you going to do when you find her?
+
+#### 8f5f400c87 | BATMAN → LUCIUS | x2
+Call Gordon and the GCPD. Tell them it’s urgent they get to Arkham.
+
+#### 75514b4b19 | choice/UI | x2
+Exploit her weakness
+
+#### 7833c7d064 | choice/UI → LUCIUS | x2
+Bring her to justice.
+
+#### 5655d254a5 | choice/UI → LUCIUS | x2
+Reason with her.
+
+#### e286a561c8 | LUCIUS → BRUCE | x2
+Bruce? What’s down there? Do you see Alfred?
+
+#### ca3ba12258 | BATMAN → LUCIUS | x2
+No... no he’s not here. But what is here...
+
+#### e8c377c58e | BATMAN → LUCIUS | x2
+I’ve seen the dark side of Gotham, but this-
+
+#### cb93216327 | BATMAN → LUCIUS | x2
+It’s a nightmare.
+
+#### 20f976d77a | BATMAN | x2
+She was kept down here as a child.
+
+#### f5ceb00cb2 | BATMAN | x2
+They were monsters.
+
+#### deda040962 | BATMAN → LUCIUS | x2
+It’s some kind of... torture chamber.
+
+#### 5b08c61564 | BATMAN → LUCIUS | x2
+Shackles, belts... blood.
+
+#### ba77084b47 | BATMAN → LUCIUS | x2
+And it looks like those held down here... may have been children.
+
+#### 47c964d35a | LUCIUS → BATMAN | x2
+Children? Oh dear god...
+
+#### d393488491 | LUCIUS → BATMAN | x2
+To Vicki... and that foster Boy...
+
+#### 573d3c172e | LUCIUS → BATMAN | x2
+How could the Vales have done something so horrible?
+
+#### adb3200428 | LUCIUS → BATMAN | x2
+It’s deplorable. I think of my own daughter, and I...
+
+#### f983c5776b-SM | LUCIUS → BATMAN | x2
+I could never imagine being so cruel. It’s inhuman.
+
+#### d5e35dc93e | BATMAN → LUCIUS | x2
+The Vales’ foster children may have not been the only ones to suffer here.
+
+#### 2f27afc8f2-SM | BATMAN → LUCIUS | x2
+I followed Alfred’s blood into this hole.
+
+#### 14dc415807 | BATMAN → LUCIUS | x2
+He must have left something behind.
+
+#### f6102b693d | BATMAN | x2
+This explains Vicki leaving the adoption papers at the scene of her parent’s murder.
+
+#### 4b28d8e846 | BATMAN | x2
+The Vales adopted children to get payments from the city.
+
+#### e44bc37f0b | BATMAN | x2
+And outside of those checks, they didn’t care much for their kids.
+
+#### b4be1c94c9 | BATMAN | x2
+Young Vicki must have been quite the handful.
+
+#### 7313aa901b | BATMAN | x2
+Always asking questions. Always looking for the truth.
+
+#### b9d22090cf | BATMAN | x2
+The Vales didn’t take her rebellious streak with much grace.
+
+#### 3724b8ab7c | BATMAN → LUCIUS | x2
+I’m not here to understand why the Vales did this.
+
+#### a9656dd986 | BATMAN → LUCIUS | x2
+They were bad people. Criminals.
+
+#### 4903b750b7 | BATMAN → LUCIUS | x2
+And so is their daughter.
+
+#### 1ddf2bad5b | LUCIUS → BATMAN | x2
+To treat children like that-
+
+#### 954471d231 | LUCIUS → BATMAN | x2
+I can’t believe it.
+
+#### 385fab0a00 | LUCIUS → BATMAN | x2
+It’s unthinkable.
+
+#### 82d38ca697 | LUCIUS → BATMAN | x2
+And when you find her-
+
+#### 20279c9bb0 | LUCIUS → BATMAN | x2
+Find the person that put Alfred through all this pain...
+
+#### ef5bc3b4ff | LUCIUS → BATMAN | x2
+What will you do?
+
+#### 1aab5861af | BATMAN → LUCIUS | x2
+She’s a criminal, just like any other.
+
+#### 06d1fcd3e7 | BATMAN | x2
+I’ll put her in the hands of the GCPD, ensure she faces justice.
+
+#### a68fb1c650 | BATMAN | x2
+And sees the other side of a cell for the rest of her life.
+
+#### db47046013 | BATMAN | x2
+She has no idea I know about this place. About her past.
+
+#### aa116d62d6 | BATMAN | x2
+That’s my weapon.
+
+#### 75121e26a3 | BATMAN → LUCIUS | x2
+Arkham Asylum. That’s the final missing piece.
+
+#### 6acce20d19 | BATMAN → LUCIUS | x2
+Lady Arkham had Penguin become Wayne Enterprises CEO to get access to buildings with Wayne Tech security systems.
+
+#### 2b230d6a1b | BATMAN → LUCIUS | x2
+Arkham Asylum among them.
+
+#### 4c1c2142ce | BATMAN → LUCIUS | x2
+Lucius - She could have opened every cell door in Arkham with the push of a button from the Wayne Tower!
+
+#### 050a78ae7d | BATMAN, LUCIUS → LUCIUS, BATMAN | x4
+But without Penguin in that chair...
+
+#### a2db36ab95 | BATMAN → LUCIUS | x2
+She’ll have to go there in person.
+
+#### bc46e3c8ae | LUCIUS → BATMAN | x2
+And she must have brought Alfred with her!
+
+#### de1e4bab65 | LUCIUS → BATMAN | x2
+She could have opened every cell door in Arkham with the push of a button from the Wayne Tower!
+
+#### e229450faa | BATMAN → LUCIUS | x2
+If she opens the doors, I’ll need their help to contain the outbreak.
+
+#### bf3ff3cdb1 | BATMAN → LUCIUS | x2
+He’s not here...
+
+#### 1c1a8d401f | choice/UI → LUCIUS | x2
+More questions.
+
+#### 0bdc06613f | BATMAN | x2
+The Vales’ abuse destroyed Vicki’s innocence.
+
+#### 9c02435496 | BATMAN → LUCIUS | x2
+She’s going to pay for what she’s done to Alfred.
+
+#### 5f223e37de | BATMAN → LUCIUS | x2
+I’m going to make sure she sees the inside of a cell for the rest of her life.
+
+#### 2c669c8b65 | BATMAN → LUCIUS | x2
+I’m beginning to understand.
+
+#### 9acbc79e99 | LUCIUS → BATMAN | x2
+Understand what?
+
+#### 8930d5ad35 | BATMAN → LUCIUS | x2
+It explains why she killed them.
+
+#### f5c366063c | BATMAN → LUCIUS | x2
+It’s why she killed them.
+
+#### a067216be8 | BATMAN → LUCIUS | x2
+...Demented and cruel.
+
+#### c8b181dec7 | LUCIUS, BRUCE → BATMAN, LUCIUS | x4
+Indeed...
+
+#### 3f8e7e42db | BATMAN → LUCIUS | x2
+It’s why she’s so consumed with anger... hatred.
+
+#### 08a6e775e5 | LUCIUS → BATMAN | x2
+What *is* down there?
+
+#### fa437978ee | LUCIUS → BATMAN | x2
+I hope the boy will be okay.
+
+#### 9b57b9a941 | LUCIUS → BATMAN | x2
+Send me your scans. [determined] We’re going to find out what happened.
+
+#### 749bc532bb | LUCIUS → BATMAN | x2
+She ma
+
+#### 07eaf58a6d | LUCIUS → BATMAN | x2
+Watch your back. There could be more traps.
+
+#### ff81281b5e | LUCIUS → BATMAN | x2
+Punished? [shocked] You mean...?
+
+#### 22038caca7 | BATMAN → LUCIUS | x2
+They locked her up... {AngryA}beat her...
+
+#### 0c8f555749 | LUCIUS → BATMAN | x2
+What is there to understand?
+
+#### 0373a1a311 | BATMAN → LUCIUS | x2
+It’s why she killed the Vales.
+
+#### b4ce01d2d6 | BATMAN → LUCIUS | x2
+Revenge for what they did to her.
+
+#### b4495ec0ef | LUCIUS → BATMAN | x2
+I am not saying what she did was right...
+
+#### ba3a5e927f | LUCIUS → BATMAN | x2
+But... I can’t imagine what she went through.
+
+#### 69b3947cbf | LUCIUS → BATMAN | x2
+But this paints a different picture of her motives.
+
+#### 663907c0ef | BATMAN → LUCIUS | x2
+Vicki was just a child...
+
+#### abd1ba2373 | BATMAN → LUCIUS | x2
+And the Vales destroyed her innocence.
+
+#### 5500ecdc2b | LUCIUS → BATMAN | x2
+Their own daughter...
+
+#### 944da00182 | BATMAN → LUCIUS | x2
+If he’d any opportunity at all-- he’ll have left me a clue.
+
+#### 62ddd9855b | LUCIUS → BATMAN | x2
+Knowing Alfred, he’d have found a way.
+
+#### 568ef36bc3 | LUCIUS → BATMAN | x2
+But...why?
+
+#### 4124e5cc6d | BATMAN → LUCIUS | x2
+She’s un
+
+#### 1b99641f8e | LUCIUS → BATMAN | x2
+She wants to break into Arkham? But... why? [realizing] Oh no...
+
+#### 592a304e5c | BATMAN → LUCIUS | x2
+She doesn’t want to break in. {AngryB}She wants to set the inmates free.
+
+#### 95439d7854 | BATMAN → LUCIUS | x2
+And she’d planned to use Oswald to do it.
+
+#### 44afee6c6d | BATMAN → LUCIUS | x2
+She’s going to Arkham Asylum.
+
+#### 301589119f | BATMAN | x2
+Including Arkham Asylum.
+
+#### 5c8ec2f4a3 | BATMAN | x2
+She doesn’t want to break in. She wants to set the truth free... The inmates.
+
+#### 56bab65d5e | BATMAN | x2
+And she took Alfred with her.
+
+#### 81ee499005 | BATMAN | x2
+If Lady Arkham succeeds, I’ll need their help putting the inmates back in
+
+#### 46a16603b7 | BATMAN → LUCIUS | x2
+I’m going to need their help if Lady Arkham succeeds.
+
+#### a045346431 | BATMAN → LUCIUS | x2
+I’m going to try to reason with her.
+
+#### 6f6b49f785 | BATMAN → LUCIUS | x2
+Appeal to Vicki Vale, {AngryA}rather than Lady Arkham.
+
+#### 645d371c80 | LUCIUS → BATMAN | x2
+You’ve seen what she went through as a child...
+
+#### 69f464df0c | LUCIUS → BATMAN | x2
+But she also tortured Alfred...
+
+#### a0f4570cc9 | LUCIUS → BATMAN | x2
+Killed her parents...
+
+#### 39b25820d3 | LUCIUS → BATMAN | x2
+She’s dangerous and needs to be stopped.
+
+#### 266e2a6b59 | LUCIUS → BRUCE | x2
+You’ll get him back, Bruce.
+
+#### b10fceb7cd | BATMAN → LUCIUS | x2
+This is where Alfred sat...
+
+#### c76a663fb1 | BATMAN → LUCIUS | x2
+Where they beat him.
+
+#### 1fae867f16-SM | BATMAN → LUCIUS | x2
+That’s what I’m worried about...
+
+#### 7e018d92d0 | BATMAN | x2
+If Lady Arkham can’t break him, {SurpriseA}what will she do?
+
+#### 1414723659 | BATMAN → LUCIUS | x2
+When they were done beating Alfred, {AngryA}they dragged him away...
+
+#### 9250261d82 | BATMAN → LUCIUS | x2
+The trail stops at the wall. Actually... [looks closer] it goes under it.
+
+#### 3d8bfe5d7f | BATMAN → LUCIUS | x2
+The trail is cut off by the wall. Almost like the wall wasn’t there when he was dragged...
+
+#### dd1fd9b800 | LUCIUS → BATMAN | x2
+A false wall.
+
+#### d7348b635a | BATMAN → LUCIUS | x2
+...{SurpriseA}with a hole in the floor.
+
+#### ceaefcc274 | BATMAN → LUCIUS | x2
+Covered by a grate.
+
+#### 54e3511bd5 | BATMAN → LUCIUS | x2
+Alfred!{AngryA}
+
+#### a40c6fac09 | BATMAN → LUCIUS | x2
+No answer.
+
+#### c8e0becbb6 | BATMAN → LUCIUS | x2
+Looks like Alfred was thrown into it.
+
+#### 6ade0294b2 | BATMAN → LUCIUS | x2
+A rope ladder...
+
+#### 8091f5b261 | LUCIUS → BATMAN | x2
+Easy to throw down... and [grim] easy to take away.
+
+#### 20fcb27152 | BATMAN → LUCIUS | x2
+Someone smaller...
+
+#### bc75351abb | BATMAN → LUCIUS | x2
+Probably a child.
+
+#### ea37330aef | LUCIUS → BATMAN | x2
+Smaller?
+
+#### 632a04eccc | LUCIUS → BATMAN | x2
+You think... a child...?
+
+#### 2bf6fbde6b | BATMAN → LUCIUS | x2
+Alfred lay down here.
+
+#### 49057ca2ee | LUCIUS → BATMAN | x2
+Oh God...
+
+#### c736227ab0 | BATMAN → LUCIUS | x2
+Vicki must have drawn them when she was a prisoner.
+
+#### 167b320afe | BATMAN → LUCIUS | x2
+Vicki created her here. {DisgustA}In this room.
+
+#### bdbe2eb0f8 | BATMAN → LUCIUS | x2
+A childhood fantasy of revenge--{DisgustA}she made it a reality.
+
+#### 222184aec0 | LUCIUS → BATMAN | x2
+I can’t help but feel sorry for her--knowing what she went through, it’s no wonder she lost her mind.
+
+#### df1bec13f8 | BATMAN → LUCIUS | x2
+The chalk here is different...
+
+#### 9ad193a15f | BATMAN → LUCIUS | x2
+Anchored to the wall.
+
+#### 9f71b671f0 | BATMAN → LUCIUS | x2
+Old... and new.
+
+#### a9e893bd11 | BATMAN → LUCIUS | x2
+She wants someone to pay.  {DisgustA}She wants someone to hurt like she did.
+
+#### 504c95a726 | BATMAN → LUCIUS | x2
+The belt...
+
+#### bdab068c44 | BATMAN → LUCIUS | x2
+Used as a weapon...
+
+#### 2aa3c7c7bb | BATMAN → LUCIUS | x2
+It’s caked in blood.
+
+#### ab47ead38d | BATMAN → LUCIUS | x2
+Yes, it looks {DisgustA}like it was used on him too.
+
+#### 2717b65304 | LUCIUS → BATMAN | x2
+All the horrors done to her... and now Alfred.
+
+#### 9909ec624e | LUCIUS → BATMAN | x2
+Mr. Vale was strangled with a belt...
+
+#### a571c176d6-SM | BATMAN → LUCIUS | x2
+A trap. Rigged to go off as I entered.
+
+#### 6d0566b009 | LUCIUS → BATMAN | x4
+Standing by.
+
+#### d918e5e0c9 | BATMAN → LUCIUS | x2
+Blood leads away from the chair.
+
+#### d94d24d836 | BATMAN → LUCIUS | x4
+There’s a boot print in the blood.
+
+#### b8a53f1810 | BATMAN → LUCIUS, QUINZEL | x4
+Lady Arkham’s soldiers dragged him...
+
+#### 5ebf3ec2f1 | BATMAN | x2
+Leading towards the wall...
+
+#### 6dd493dd7d | QUINZEL → BATMAN | x2
+Poor chocie space.
+
+#### b3535ee390 | BATMAN → LUCIUS | x2
+Lady Arkham won’t be expecting us--we’ll catch her by surprise.
+
+#### 9458f49ba5 | BATMAN → LUCIUS | x2
+Tell them I’ll meet them there. Lady Arkham has no idea we’re on to her, so we’ll
+
+#### 37eb91274b | LUCIUS → BATMAN | x2
+Do you think--
+
+#### 1b87b998d7 | LUCIUS → BATMAN | x2
+He’s a fighter. Might not be his.
+
+#### 9f2174ff35 | LUCIUS → BATMAN | x2
+Under?
+
+#### bddcc4331c | LUCIUS → BATMAN | x2
+Could Alfred be... [down there?]
+
+#### ab7fb7e737 | LUCIUS → BATMAN | x2
+Anyone down there would be trapped.
+
+#### 7c541fb0f7 | LUCIUS → BATMAN | x2
+Children?
+
+#### 97c9dd4423 | LUCIUS → BATMAN | x2
+Who could do that their child?
+
+#### 4c072f5325 | BATMAN, BRUCE → LUCIUS | x4
+Vicki...
+
+#### 04b477ab35 | BATMAN → LUCIUS | x2
+Revenge must seem like the only choice.
+
+#### fb709e5246 | LUCIUS → BATMAN | x2
+But since you’ve taken down Penguin...
+
+#### 97a0200cf4 | BATMAN | x2
+The house has been broken into.
+
+#### 5b83b3ce1b | BATMAN → LUCIUS | x2
+Vicki didn’t bother to cover her tracks.
+
+#### f344301f96 | BATMAN → LUCIUS | x4
+She’s playing games.
+
+#### 303994aed1 | LUCIUS → BATMAN | x2
+Batman! Batman!
+
+#### dbe0328db9 | BATMAN → LUCIUS | x2
+There’s no one here, [tightly]no Alfred.
+
+#### fb724dad86 | BATMAN → LUCIUS | x2
+He was here.
+
+#### ad631f78f1 | BATMAN → LUCIUS | x2
+Heading into the basement.
+
+#### 472088660a | BATMAN → LUCIUS | x2
+She was kept down here. Locked away.
+
+#### 55828434b2 | LUCIUS → BATMAN | x2
+It doesn’t give her the right to take it out on others.
+
+#### 05b31384b2 | BATMAN → LUCIUS | x2
+They abused her.
+
+#### 97f9dafb48 | BATMAN → LUCIUS | x8
+Scanning for fresh chalk markings.
+
+#### c6f6b16676 | LUCIUS → BATMAN | x8
+Vicki already left a readied shotgun. Do I have to say that this might be another trick?
+
+#### c6b5f94c27 | BATMAN → LUCIUS | x8
+Not this. I know he’s been here.
+
+#### 997e2d671e | BATMAN → LUCIUS | x8
+Bars wouldn’t dampen conversation. He heard them.
+
+#### 828b97c6a7 | BATMAN → LUCIUS | x8
+This is what he wanted me to find. To see.
+
+#### fc492506a8 | BATMAN → LUCIUS | x2
+He’s spelled it out here-- ‘taking me.‘
+
+#### fbc20ded5d | BATMAN → LUCIUS | x2
+And used Vicki’s own drawing of Arkham for the location.
+
+#### 503d5d5128 | BATMAN → LUCIUS | x2
+He’s modified one of her own Lady Arkham drawings to include himself...
+
+#### 555ca205e4 | BATMAN → LUCIUS | x2
+And these two words: ‘To Arkham.‘
+
+#### 88147c9d2d | LUCIUS → BATMAN | x2
+Then she’s--[cut off]
+
+#### 1da273b555 | BATMAN → LUCIUS | x2
+Going to Arkham, and she’s taken Alfred with her.
+
+#### a2bbd96df3 | BATMAN → LUCIUS | x2
+The newest chalk-- he’s added what looks like a small army to the gates of an old drawing of Arkham Asylum.
+
+#### bc2740e981 | BATMAN → LUCIUS | x2
+The words highlighted are ‘she,‘ ‘will,‘ and ‘liberate.‘
+
+#### d60a065ee4 | LUCIUS → BATMAN | x2
+‘She will liberate’? I don’t see what that has to do with Alfred.
+
+#### e8b1120354 | BATMAN → LUCIUS | x4
+Arkham.
+
+#### 03f101b88c | BATMAN → LUCIUS | x2
+She’s been using Wayne Enterprises to get access to the buildings with Wayne Tech security systems.
+
+#### a8c6e5b4e2 | BATMAN → LUCIUS | x2
+She wants to punish Gotham-- what better way to do it
+
+#### 9dffbded0d | BATMAN → LUCIUS | x2
+Alfred is... quoting her. “The gates shall be thrown open and a tide of vengence will be unleashed.“
+
+#### 7fe0ee2e22 | BATMAN → LUCIUS | x2
+And he’s pointing me to her drawing of Arkham.
+
+#### 291e11641a | LUCIUS → BATMAN | x2
+Sounds like something out of a fire and brimstone sermon.
+
+#### 0da8063861 | BATMAN → LUCIUS | x2
+That’s exactly what it is.
+
+#### 81ba149b12 | LUCIUS → BATMAN | x2
+But the asylum is public. That doesn’t make sense.
+
+#### 6e32e72645 | BATMAN → LUCIUS | x4
+Alfred’s just along for the ride...
+
+#### 413bd7ad5f | BATMAN → LUCIUS | x2
+She’s going to open the doors. Release the inmates.
+
+#### 26e1ec8db7 | BATMAN | x2
+Alfred’s glasses...
+
+#### 885b089a82 | BATMAN | x2
+There’s blood on the walls.
+
+#### e7061cf001 | BATMAN | x2
+She’s hiding something...
+
+#### 824db424f9 | BATMAN → LUCIUS | x2
+I’m going to see what I can find.
+
+#### efd9b0729d | BATMAN → LUCIUS | x2
+And the Vales locked her in the dark... beat her...
+
+#### 3f96818e8e | LUCIUS → BATMAN | x2
+I can’t even imagine.
+
+#### 68bf555b18 | BATMAN → LUCIUS | x2
+He could hear them.
+
+#### c8b83084bd | LUCIUS → BATMAN | x2
+Arkham? But people would know--the staff would see them.
+
+#### 68fef7af6e | BATMAN → LUCIUS | x2
+The newest chalk--he’s added to an old drawing of Arkham Asylum.
+
+#### 5ff332075a | BATMAN → LUCIUS | x2
+He drew figures outside the gates.
+
+#### 4465aba326 | BATMAN → LUCIUS | x2
+Like they’re running away...
+
+#### 43d60d9887 | choice/UI | x2
+Blood Trail
+
+#### c4633c0967 | choice/UI | x2
+Wall
+
+#### 27279b66fc | choice/UI | x2
+Rope Ladder
+
+#### bdc39cb07f | choice/UI | x2
+Grate
+
+#### 8cada80d2b | choice/UI | x2
+Hole
+
+#### f4228b5f08 | choice/UI | x2
+Doll
+
+#### 9a81db48a5 | choice/UI | x2
+Shackles
+
+#### cf61bd114a | choice/UI | x2
+Alfred’s Glasses
+
+#### 52ccef4d5a | choice/UI | x2
+Bloody Clawing
+
+#### 151954a5c6 | choice/UI | x2
+Chalk
+
+#### d80a665c4b | choice/UI | x2
+Drawings
+
+#### c3252177a6 | choice/UI | x2
+Red chalk drawings.
+
+#### 467c33bb8d | choice/UI | x4
+Crude blue chalk scribble.
+
+#### 7bd5aeb779 | choice/UI | x2
+Drawings in yellow chalk.
+
+#### 0e66be45e2 | choice/UI | x2
+Sketch in red chalk.
+
+#### ba8bdd82c6 | choice/UI | x2
+Drawings in blue chalk.
+
+#### b06d6b5f13 | choice/UI | x2
+Yellow chalk scratches.
+
+#### 49098f1571 | choice/UI | x2
+Purple chalk drawings.
+
+#### c8654bcaf9 | choice/UI | x2
+Link Left Drawing
+
+#### d008dcc60f | choice/UI | x2
+A secret message scrawled in blue chalk.
+
+#### dbbb0f5bb0 | choice/UI | x2
+Link Right Drawing
+
+#### 1719afaed8 | choice/UI | x2
+A hastily drawn group of stick figures in blue chalk.
+
+#### 8856106299 | choice/UI | x2
+Link Chalk
+
+#### a2c24313ab | choice/UI | x2
+A nub of blue chalk
+
+#### c8bfc85a61 | choice/UI | x2
+Drawing Left
+
+#### 4e62b07ff2 | choice/UI | x2
+Drawing Right
+
+#### 606c3ee14a | BATMAN | x14
+Hmm... The same color as my tech...
+
+#### 07f112a955 | BATMAN | x4
+Can’t be a coincidence...
+
+#### 12c6ab4be0 | BATMAN | x2
+These newer drawings were done in the same color as my tech.
+
+#### 62ae5860a6 | BATMAN | x4
+Same as on the other wall.
+
+#### ec58385f3d | BATMAN | x2
+These newer drawings were done in chalk the color of my tech.
+
+#### a1e87220b5 | BATMAN | x2
+Same color as my tech readouts...
+
+#### d86d5f938c | BATMAN | x4
+Just like on the other wall...
+
+#### c396881bd7 | BATMAN | x2
+Alfred left me another clue...
+
+#### 05ef51a63a | BATMAN | x4
+He left me a message using this chalk.
+
+#### 1dfddd77e4 | BATMAN | x4
+But there must be more to it.
+
+#### db4075c393 | BATMAN | x2
+Alfred has highlighted “shall....be.....unleashed.“
+
+#### 0fdc0c0b59 | BATMAN | x8
+One piece apart from the others.
+
+#### d4226db611 | BATMAN | x2
+Letters.
+
+#### 761fc3c0ef | BATMAN | x2
+They’re highlighted...
+
+#### 1445052741 | BATMAN | x2
+Taking... me....
+
+#### 67ee787e73 | BATMAN | x2
+Those towers...
+
+#### 2bb54ee3bf | BATMAN | x2
+That must be Arkham Asylum.
+
+#### 78dc541f28 | BATMAN | x2
+Is that Arkham Asylum?
+
+#### 53d4ea6649 | BATMAN | x2
+Figures.... fleeing from something.
+
+#### 1c3bfa4d57 | BATMAN | x2
+People... fleeing...
+
+#### 6590179cfa | BATMAN | x2
+Some of the words have been highlighted.
+
+#### 2ea246acc4 | BATMAN | x2
+She... will.... liberate.
+
+#### 5d18886295 | BATMAN | x2
+Alfred’s highlighted three words...
+
+#### 74a9e7caa0 | BATMAN | x2
+Shall... be... unleashed...
+
+#### bcf99a3fef | BATMAN | x2
+An arrow...
+
+#### c70ee593b8 | BATMAN | x2
+Pointing to a building.
+
+#### 16ccf04210 | BATMAN | x2
+That drawing...
+
+#### 4bcc637462 | BATMAN | x2
+Looks like Alfred.
+
+#### 1c5fc17ac4 | BATMAN | x2
+The highlighted words read...
+
+#### 752879c384 | BATMAN | x2
+To... Arkham...
+
+#### c638adb754 | BATMAN | x2
+She’s taken Alfred to Arkham Asylum...
+
+#### 232cd1ac21 | BATMAN | x2
+Lady Arkam’s taken Alfred to Arkham Asylum...
+
+#### f1482c51d8 | choice/UI | x2
+A message in red chalk hastily left behind by Alfred.
+
+#### 0e3e2ba166 | choice/UI | x2
+Alfred has highlighted some text here in yellow chalk.
+
+#### d997df3b8a | choice/UI | x2
+A crude sketch of Lady Arkham, drawn over in purple chalk.
+
+#### 83854f9e74 | choice/UI | x2
+A crude drawing of a building done in red chalk.
+
+#### 52b8a850c5 | choice/UI | x2
+Arrows scrawled upon the wall in yellow chalk.
+
+#### 4844729de8 | choice/UI | x2
+The image of a building in scribbled purple chalk.
+
+#### c1b9ade856 | choice/UI | x2
+A nub of red chalk.
+
+#### 1cc0edbb82 | choice/UI | x2
+A nub of yellow chalk.
+
+#### 33d69e0fd4 | choice/UI | x2
+A nub of purple chalk.
+
+#### e174753dab | choice/UI | x2
+Crude purple chalk sketches.
+
+#### 777e9d5b5c | choice/UI | x2
+Fresh Blood
+
+#### 1ff67dd367 | choice/UI → LADYARKHAM | x6
+Blood Splatter
+

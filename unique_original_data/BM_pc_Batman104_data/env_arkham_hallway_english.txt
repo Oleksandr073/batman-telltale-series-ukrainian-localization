@@ -1,0 +1,1934 @@
+﻿#### 9bc84ea5a7 | choice/UI → ORDERLY02 | x2
+I’ll do what ever it takes to get out.
+
+#### 4a38210c95 | choice/UI → ORDERLY04 | x2
+Unlikely.
+
+#### 94c878c6d0 | choice/UI → QUINZEL | x2
+First time for everything!
+
+#### f5cbb0b838 | choice/UI | x2
+Of course I will be.
+
+#### 61a65507bb | choice/UI | x2
+I’ll be good.
+
+#### 876b391b2b | choice/UI | x4
+You can’t keep me here.
+
+#### fc68d35204 | choice/UI | x2
+This is a joke.
+
+#### 4e83170ab2 | choice/UI | x2
+I don’t do “happy”.
+
+#### 5382b9f021 | choice/UI | x2
+I’ll do what it takes to get out.
+
+#### 6f296284a8 | choice/UI, BRUCE → ORDERLY1, NURSE, LELAND | x8
+I don’t have time.
+
+#### 70ac16ee77 | choice/UI, BRUCE → ORDERLY1 | x4
+Better not be a blank check.
+
+#### cd62307794 | choice/UI → LELAND | x4
+Will it affect my evaluation?
+
+#### 2aa8b34f59 | choice/UI | x2
+Gotham needs my help.
+
+#### 153a534d1e | choice/UI | x2
+You don’t understand.
+
+#### f632c5994b-SM | choice/UI | x2
+Fine, you win. I need help.
+
+#### 0291018e32-SM | choice/UI | x2
+I need my company back.
+
+#### 930d32152c | choice/UI | x2
+I AM BATMAN.
+
+#### 0066a5c163 | choice/UI | x2
+Vicki Vale is behind this!
+
+#### 1da0111493-SM | choice/UI, BRUCE → JOKER | x4
+I won’t be here for long.
+
+#### 7787b70fac | choice/UI | x2
+You’re the worst doctor ever.
+
+#### 541f8e67a2 | choice/UI → LELAND | x4
+[See if he’s real]
+
+#### 3cdbaa22a5 | choice/UI → LELAND | x4
+What if I do?
+
+#### 327a69196a | choice/UI | x2
+No trouble here.
+
+#### 349eabcd1d | choice/UI → LELAND | x4
+[Ignore him]
+
+#### 78e4e2abc9 | choice/UI | x4
+YES I AM EXCITE.
+
+#### 16efc3c12e | choice/UI | x4
+I don’t do groups.
+
+#### 16ccc82310 | choice/UI → ORDERLY1 | x4
+That would be lying.
+
+#### 6ca4f2871a | choice/UI | x2
+News on the TV?
+
+#### d8ed84ffb4 | choice/UI | x2
+Todays newspapers?
+
+#### 9e465f4d5b | choice/UI | x2
+What other patients?
+
+#### 42b3cd032f | choice/UI | x2
+Pretty rough.
+
+#### 8ab6e3e87f | choice/UI | x2
+I have responsibilities.
+
+#### 631a988047 | choice/UI | x2
+The city is in danger.
+
+#### a2e10a9a8c | choice/UI | x2
+It’s the drug!
+
+#### 663b3a15e3 | choice/UI | x2
+No. [Lie]
+
+#### 3d438df5c9 | choice/UI → LELAND | x2
+My eyes work fine, Doctor.
+
+#### df69739b12 | choice/UI | x2
+Have we met?
+
+#### 759490ab04 | choice/UI | x2
+It’s going well.
+
+#### 58770241cb-SM | choice/UI | x2
+I’ve had better ones.
+
+#### 3a6b278dee | choice/UI → QUINZEL | x2
+Signing an autograph.
+
+#### 34c3918017 | choice/UI → QUINZEL | x2
+Just talking.
+
+#### 2a737f1598 | choice/UI → QUINZEL | x2
+Okay, fine.
+
+#### 17353cddf9 | QUINZEL → BRUCE, THOMPKINS | x4
+Listen to staff at all times, be truthful -- and no touching of Arkham staff or patients.
+
+#### b0b97bff3b-S? | ORDERLY1, ORDERLY01 → QUINZEL, BRUCE | x4
+I was hoping we could help each other.
+
+#### 75ceee3df6 | BRUCE → QUINZEL | x2
+Who’s the photo for?
+
+#### c8ce99c645 | BRUCE → QUINZEL | x2
+That man -- over there.
+
+#### 7aec6181f4 | QUINZEL → BRUCE | x2
+What man?
+
+#### 6c26bd3453 | ORDERLY1 → QUINZEL | x2
+You better get that stick outta your rear.
+
+#### 2bd02abf21 | QUINZEL → BRUCE | x2
+Sorry about him.
+
+#### 2dd55dccdb | ORDERLY02 → QUINZEL, LELAND | x4
+You’re not going to give us any trouble are you?
+
+#### a88efae88e | THOMPKINS → BRUCE | x2
+Bruce, that wasn’t very nice.
+
+#### 0a8ce34e13 | QUINZEL → BRUCE, LELAND | x4
+I’m Dr. Quinzel.
+
+#### b8064db0c0-LM | QUINZEL → BRUCE | x2
+We will be observing you for the next few days to see if you’re a threat to yourself -- or others.
+
+#### b5bffa23fe | LELAND → QUINZEL, ORDERLY02 | x4
+You can start with a smile.
+
+#### 9f07aaccdf | LELAND → BRUCE | x2
+Trust me, Bruce.
+.
+
+#### 1c88086918 | LELAND → BRUCE | x2
+Our treatment plan works -- but only if you work it.
+
+#### 1adb152881 | LELAND → QUINZEL | x2
+We’ve had a lot of success with it already.
+
+#### 57847f7482-LF | LELAND → QUINZEL | x2
+Just you wait. By the end of the day, I bet we’ll have you smiling.
+
+#### e687a8f16f | QUINZEL → LELAND | x2
+Is there something you want to tell me?
+
+#### abb280b285 | QUINZEL → LELAND, BRUCE | x6
+Are you seeing things?
+
+#### bf667d8b6a | LELAND, QUINZEL → LELAND, BRUCE, QUINZEL | x10
+What are you looking at?
+
+#### e619ddc250 | LELAND → QUINZEL, ORDERLY02 | x4
+Hey. No touching the staff.
+
+#### 532f7e086f | ORDERLY02 → LELAND | x2
+Just trying to be friendly.
+
+#### f4fd09b5e7 | BRUCE → LELAND, ORDERLY02 | x4
+Of course not.  No trouble from me.
+
+#### 2cda438898 | LELAND → BRUCE, ORDERLY02 | x4
+I have a feeling that Bruce is going to fit right in here.
+
+#### db23b77899 | LELAND → BRUCE | x2
+Just wait and see.
+
+#### 52856d36a8 | LELAND → BRUCE | x4
+See, I bet you’re feeling that dopamine rush now.
+
+#### 751fa5edea | BRUCE → LELAND | x4
+I’m smiling on the inside.
+
+#### 498e48f5cb | LELAND → BRUCE | x8
+Well, hopefully after today we’ll having you smiling on the outside too.
+
+#### 4ae0e4c87d-LF | BRUCE → LELAND | x4
+You asked me to be honest.
+
+#### 54776522f8 | LELAND → BRUCE | x6
+Well, hopefully we can change that.
+
+#### 5fb20dcf05 | QUINZEL → LELAND | x2
+Do you remember?
+
+#### f8f3a42ee9 | THOMPKINS → LELAND | x2
+Now we can finally begin treatment.
+
+#### 98f1d2b3a7 | THOMPKINS → LELAND | x2
+Do you have any questions before we start your treatment?
+
+#### ba54ce071b | LELAND → THOMPKINS | x2
+Patient 1309. Bruce Wayne.
+
+#### aa4aafc3f4-S? | ORDERLY1 → THOMPKINS | x2
+No one will believe I saw you here.
+.
+
+#### a81f834ee4 | ORDERLY01 → LELAND | x2
+Not rich ones either.
+
+#### cf2ce14c0b | BRUCE → LELAND | x2
+Rules?
+
+#### e4bd403c52 | LELAND → ORDERLY1 | x2
+We should go over a few rules before
+
+#### 594cec4019 | LELAND → BRUCE, THOMPKINS | x4
+This is for your safety.
+
+#### 418aa79f50 | ORDERLY1 → BRUCE | x2
+Hey, you!
+
+#### a9cbd79fb3 | ORDERLY1 → VICKI | x2
+Vicki. Vicki Vale.
+
+#### b5f3f8e53f-LF | BRUCE → NURSE, LELAND | x10
+What did you just say?
+
+#### 412ae162dd | QUINZEL → BRUCE | x2
+Bruce, are you seeing things?
+
+#### 1c4d574695 | BRUCE → QUINZEL | x2
+The orderly -- over there.
+
+#### 8c67203a21 | BRUCE → QUINZEL, LELAND | x4
+The nurse -- where did she go?
+
+#### 2196631869 | choice/UI → QUINZEL | x4
+Nobody.
+
+#### 679f5506b1 | BRUCE → QUINZEL, LELAND | x4
+No one. Sorry, just got distracted.
+
+#### 4543badf2d | BRUCE → QUINZEL | x2
+I do that sometimes.
+
+#### 7429a25ed6 | LELAND → BRUCE, THOMPKINS | x6
+Uh-huh. I see.
+
+#### 955f9e7dba | choice/UI → LELAND | x4
+You’re hearing things.
+
+#### 09b0e1ee41 | BRUCE → LELAND | x6
+I wasn’t talking.
+
+#### 885fb5857f-LM | QUINZEL, LELAND → BRUCE | x4
+Yes. You were.
+
+#### bde2f1e77d-LF | BRUCE → LELAND, QUINZEL | x6
+Maybe you were hearing things.
+
+#### 273f50c605 | BRUCE → QUINZEL, LELAND | x4
+The wall.
+
+#### 4ab018b935 | QUINZEL → BRUCE, LELAND | x4
+You look confused.
+
+#### 7c578e951d | LELAND → BRUCE | x4
+The wall?
+
+#### cdb4f0878e | BRUCE → LELAND | x4
+Yeah. The paint. It’s, um, a nice color.
+
+#### 1c504bb88e | LELAND → BRUCE | x2
+That brings us to our second policy -- the best policy -- honesty.
+
+#### e8e2cbff56 | LELAND → QUINZEL, BRUCE | x4
+So, tell me what’s going on with you.
+
+#### 3385cb7ee3 | BRUCE → LELAND | x4
+Trust me, doctor.
+
+#### a0af908d6a-SM | BRUCE → LELAND | x4
+I thought I saw someone, but I guess I didn’t.
+
+#### 095d119e33 | LELAND → BRUCE | x2
+So, I expect you to answer me honestly.
+
+#### 5741033596 | LELAND → BRUCE | x4
+Or hearing things that aren’t there?
+
+#### 4488362d18 | BRUCE → LELAND | x4
+It’s nothing. Just a headache. Let’s go.
+
+#### 6350bc4514 | BRUCE → LELAND | x2
+What I’m experiencing is [sigh] general confusion.
+
+#### 1de44cfdc5 | BRUCE → LELAND | x4
+I -- I wasn’t looking at anything.
+
+#### 4f16463615 | LELAND → BRUCE | x4
+Charm is a very common defense mechanism.
+
+#### fdc72df285 | BRUCE → QUINZEL | x2
+I think [deflated sigh]  I think I might be seeing things.
+
+#### 7073dcdfe0 | THOMPKINS → QUINZEL | x2
+Thanks for beng honest.
+
+#### 6a58d34c01 | ORDERLY01, ORDERLY1 → LELAND, THOMPKINS | x8
+You don’t have to listen to her.
+
+#### f4f685b605 | THOMPKINS → BRUCE | x2
+Denial is a powerful defense mechanism, Mr. Wayne.
+
+#### c57c2b760b | THOMPKINS → LELAND | x2
+You’ll have to overcome it if you want to make a full recovery.
+
+#### 908d136a21 | LELAND → THOMPKINS, BRUCE | x4
+But it doesn’t work on me.
+
+#### 507088f350 | LELAND → ORDERLY1, BRUCE | x4
+Bruce. Ignoring staff is against the rules.
+
+#### 05e7a8e40d | THOMPKINS → LELAND | x2
+Ignoring him is against the rules.
+
+#### 1dd8630135 | LELAND → ORDERLY1 | x2
+Do *not*, under any circumstances, physically touch staff or other patients.
+
+#### b13c105f76 | LELAND → ORDERLY01 | x2
+I’m Dr. Leland. I’ll be serving as your supervising physician during your stay at Arkham Asylum.
+
+#### 041e6ecfea | BRUCE → LELAND | x2
+What’s your name?
+
+#### 48574a0f9b | LELAND → BRUCE, ORDERLY2 | x4
+I’m Dr. Leland.
+
+#### 98bd2e3ce3-LM | LELAND → BRUCE | x2
+We met a couple of days ago when you were admitted.
+
+#### 9115f35e6e | LELAND → BRUCE | x4
+You don’t remember?
+
+#### c49777f88e | BRUCE → LELAND | x2
+How do I get out of here?
+
+#### 15c725ef58 | LELAND → BRUCE | x2
+Follow the rules.
+
+#### 23c4f74671 | BRUCE → LELAND | x4
+What kind of “treatment” are we talking about?
+
+#### 0a2e527111 | LELAND → BRUCE | x4
+Today will be a day for talking, your basic therapy sessions...
+
+#### 6afba2e731 | LELAND → BRUCE | x4
+Oh don’t worry, Mr. Wayne.
+
+#### 45900b4b19-S? | ORDERLY2, ORDERLY02 → LELAND | x4
+I’m sure Dr. Leland has gone over the rules with you.
+
+#### 9a63f066f7 | ORDERLY2 → LELAND | x2
+We’ve got a tit for tat policy here.
+
+#### b45d6983ff | LELAND → ORDERLY2, BRUCE | x4
+Well. Let’s get going then.
+
+#### 98bd2e3ce3-LF | THOMPKINS → LELAND | x2
+We met a couple of days ago when you were admitted.
+
+#### 3d92a777e9 | BRUCE → LELAND | x2
+No -- I don’t remember that.
+
+#### 90c04bf9b4 | LELAND → BRUCE | x2
+Don’t worry. We’ll help you recover your memory.
+
+#### 78e4048281 | BRUCE → LELAND | x2
+Of course I remember.
+
+#### f405c1165c | BRUCE → LELAND | x2
+I’m bad with names.
+
+#### 9747650cbb | LELAND → BRUCE | x2
+Well, we’ll have to work on your conscientiousness.
+
+#### 490683c990 | LELAND → BRUCE | x2
+Please don’t lie.
+
+#### 0074927667 | BRUCE → LELAND | x4
+Just give it to me straight - What do I have to do to get out of here?
+
+#### 5b8708d968 | LELAND → BRUCE, NURSE | x6
+You’re under a psychiatric observation period.
+
+#### 1ceacd14e8 | BRUCE → LELAND | x4
+This... doesn’t make any sense. I don’t remember you. I don’t remember any of this.
+
+#### a10ee704f1 | LELAND → BRUCE | x4
+After we evaluate you, we’ll make a recommendation to the State on whether or not you’re mentally and emotionally fit to be discharged.
+
+#### 9c0c48a8b5 | LELAND → BRUCE | x4
+Just follow the rules and you’ll be fine.
+
+#### d464732d4a | THOMPKINS → LELAND | x2
+I’m Dr. Thompkins -- your supervising physician.
+
+#### 13d43cb65d | LELAND → THOMPKINS | x2
+Until then, just follow the rules -- and you’ll be fine.
+
+#### 7a8b20909f | LELAND → THOMPKINS | x2
+Let’s go over some ground rules before we begin.
+
+#### b70cd1e901 | LELAND → BRUCE | x4
+Bruce, we’re the only two people here.
+
+#### 887ef94abb | THOMPKINS → LELAND | x2
+I know that you might be scared, or nervous, about what’s happening to you... But I promise you that you can trust me.
+
+#### 51d7a29483 | LELAND → THOMPKINS | x2
+You think you can comply?
+
+#### e876d8b2b5 | PATIENT1 → LELAND | x2
+Hey... you. Over here.
+
+#### 179bbc8096 | BRUCE → ORDERLY1, NURSE | x4
+Sorry, no time. I have to go.
+
+#### 13818afc4f | ORDERLY1 → PATIENT1, BRUCE | x4
+Lose your mind, did ya?
+
+#### b5f3f8e53f-L? | BRUCE → ORDERLY1, ORDERLY01 | x12
+What did you just say?
+
+#### 33eb629b5b | PATIENT1 → ORDERLY1 | x2
+Closer.
+
+#### 0ac7133025 | LELAND → BRUCE | x4
+Wait right here. I’ll sign you in.
+
+#### 29a17a93cd | LELAND → BRUCE | x4
+And please, be honest.
+
+#### a30e4038a0 | ORDERLY2 → LELAND | x2
+Step right up, ladies and gentlemen...
+
+#### f8ebd8d720 | LELAND → ORDERLY2 | x2
+Listen. I know this can’t be easy for someone like you -- but our treatment plan works -- but only if you work it.
+
+#### c9aca6dafb-L? | LELAND → ORDERLY2 | x2
+Did you know that smiling actually improves your mood?
+
+#### 653e854914 | LELAND → BRUCE, ORDERLY2 | x8
+Sorry about that. He’s new.
+
+#### 2bf1884702 | ORDERLY2 → LELAND | x2
+No apology needed.
+
+#### 81b97b4034 | BRUCE → LELAND | x4
+How should I do that?
+
+#### 09ae7b28c1 | BRUCE → LELAND | x4
+I don’t really have anything to smile about.
+
+#### 6d526883cd | LELAND, LADYARKHAM → PATIENT1, BATMAN | x4
+You’ll see...
+
+#### b2d033226e | LELAND → PATIENT1 | x2
+The physical act of smiling actually improves mood.
+
+#### f9df79e6ac | PATIENT1 → LELAND | x2
+Closer, closer...
+
+#### 18942ce889 | LELAND → PATIENT1 | x2
+Just try. One smile.
+
+#### 22605049c9 | LELAND → PATIENT1 | x2
+Just try it.
+
+#### a41d1ed815 | LELAND → PATIENT1 | x2
+It would mean a lot to me to see you try.
+
+#### 339278bac0 | LELAND → PATIENT1, BRUCE | x4
+Just trust me. Give it a try. Smile.
+
+#### 9a14c2de53 | LELAND → PATIENT1, BRUCE | x4
+And it would mean a lot to me to see you do it.
+
+#### 054598afbe | PATIENT1 → LELAND | x2
+There’s something I want to tell you.
+
+#### bc5377cebe | LELAND → PATIENT1, BRUCE | x4
+I know it may sound corny to you, but the physical act of smiling is proven to improve mood and mental clarity.
+
+#### 7cda072b7c | LELAND → PATIENT1, BRUCE | x4
+It can’t hurt.
+
+#### 7a626c2959 | LELAND → PATIENT1, BRUCE | x4
+A sign that you’re willing to cooperate.
+
+#### 45b93f118a-LM | LELAND → BRUCE | x4
+Mr. Wayne, I know you probably think there are a lot of things you need to get back to, but you can’t rush your health.
+
+#### 885fb5857f-L? | LELAND → ORDERLY01 | x2
+Yes. You were.
+
+#### 65df000d99 | LELAND → ORDERLY01 | x2
+In order to make progress, you’ll need to answer me honestly, even if it makes you uncomfortable.
+
+#### d38d0ab544 | LELAND → ORDERLY01 | x2
+Would you say that you’re experiencing hallucinations? Seeing things?
+
+#### d9a389b1e7 | LELAND → BRUCE | x2
+Remember be honest. I’m here to heal you -- not judge you.
+
+#### 8f1f03c265 | BRUCE → LELAND | x2
+I’m the sanest person in this place.
+
+#### c1a546f273 | LELAND → BRUCE | x2
+Denial is a powerful defense mechanism.
+
+#### f8316b7ef9 | LELAND → BRUCE | x2
+We can help you overcome it.
+
+#### ee46832b2f | BRUCE → LELAND | x2
+I’m not doing so well right now.
+
+#### 35aa74f7f5 | BRUCE → LELAND | x2
+I think -- I think I might need help.
+
+#### 6f55fb6855-LM | LELAND → BRUCE | x2
+Don’t worry. We’ll get you the help that you need.
+
+#### cca2684a98 | BRUCE → LELAND | x2
+I’m seeing you.
+
+#### 4b201ae63b | LELAND → THOMPKINS, BRUCE | x4
+I’m here to heal you -- not judge you.
+
+#### a87aa707d1 | LELAND → BRUCE | x12
+“Patient non-responsive.“
+
+#### 156817800e | THOMPKINS → LELAND | x2
+Disorientation is often a symptom of something... deeper.
+
+#### cfbf001f03-SM | BRUCE → LELAND | x2
+I’m fine. Really.
+
+#### 9382f2cedf | BRUCE → THOMPKINS | x2
+There’s nothing wrong with me. Really.
+
+#### 456971236d | THOMPKINS → BRUCE | x2
+So, you consider this normal behavior?
+
+#### f6b74d38a2-SM | BRUCE → THOMPKINS, LELAND | x4
+I’m locked in Arkham -- that’s what’s wrong.
+
+#### f9e5260782-SF-LM | THOMPKINS → BRUCE | x2
+I know it’s not easy to admit when we need help -- but I’m glad you did.
+
+#### acf67a9ed9 | LELAND → THOMPKINS | x2
+It will make it that much easier to help you.
+
+#### 8281e58d6c | THOMPKINS → BRUCE | x2
+You may have a long recovery ahead of you -- but we *will* do whatever it takes to get you better.
+
+#### ae6f797195 | THOMPKINS → LELAND | x2
+I can see that.
+
+#### 950484ff84 | LELAND → BRUCE | x2
+But don’t you worry, Mr. Wayne.
+
+#### 7c5f3c731e | LELAND → THOMPKINS, BRUCE | x4
+Interesting.
+
+#### 0e454f5936 | THOMPKINS → LELAND | x2
+You have my word.
+
+#### b0a1bca0b8-SF | LELAND → THOMPKINS, BRUCE | x4
+I don’t know what game you think you’re playing -- but I won’t tolerate it.
+
+#### d9a5f46ffe | LELAND → THOMPKINS | x2
+So, tell me...
+
+#### 854e81150e | NURSE, ORDERLY01, ORDERLY1 → BRUCE, ORDERLY1 | x6
+You’re the one who’s mixed up.
+
+#### 0fdac812f1 | ORDERLY1, ORDERLY01 → LELAND, BRUCE | x4
+Oh yeah? Whatcha gonna do? Beat me up like you beat up Cobblepot?
+
+#### 5c273bfb8b | ORDERLY1, HARVEY → LELAND, BATMAN | x4
+Please?
+
+#### a5bac908bf | ORDERLY1 → NURSE | x2
+Did
+
+#### 52756a897f | ORDERLY1, ORDERLY01 → LELAND, BRUCE | x4
+We don’t get a lot of famous people here.
+
+#### f451b079e5 | ORDERLY1, ORDERLY01 → LELAND, BRUCE | x4
+Rich ones either.
+
+#### 3bf4ef4ce5 | BRUCE → ORDERLY1 | x2
+Who?
+ORDERLY
+
+#### d22a06cd58 | NURSE, ORDERLY1, ORDERLY01 → BRUCE, ORDERLY1, ORDERLY01 | x12
+That Vicki Vale -- she must have really scrambled your brain.
+
+#### 51f4fa59a8 | ORDERLY1 → BRUCE | x2
+Look at you...
+
+#### 66f72eec7d | ORDERLY1 → NURSE | x2
+Now say, ‘Lady Arkham!‘
+
+#### df4b50cc3d | ORDERLY1, ORDERLY01 → NURSE, BRUCE | x4
+I can’t wait to show this to Vicki.
+
+#### 6f0519c8ff | ORDERLY1, ORDERLY01 → ORDERLY02, BRUCE | x4
+She’ll be so happy to see you here.
+
+#### e07241bd19 | ORDERLY1 → ORDERLY02 | x2
+I help you -- you help me.
+
+#### 3a367301d5-L? | LELAND → ORDERLY1 | x2
+Listen. I know this can’t be easy for someone like you -- but if you want to make a succesfully recovery, you’ve got to make the best of it.
+
+#### a0657db6f7 | BRUCE → LELAND | x2
+Sounds like I’ll need to make a good impression, then.
+
+#### c1ed60f94c | BRUCE → LELAND | x2
+I don’t belong here, you know.
+
+#### adc3300fc3 | LELAND → BRUCE | x2
+We’ll be the judge of that.
+
+#### f68e5dc037 | THOMPKINS → BRUCE | x2
+How about you just make a good recovery?
+
+#### 36db6d51c9-SM | BRUCE → LELAND | x2
+Is there anything I could do to speed up the process? Maybe a... “fee” I could pay?
+
+#### 1875df0e1d | BRUCE → LELAND | x2
+Because I don’t belong here.
+
+#### ef8d75531f | LELAND → BRUCE | x2
+Our first policy is our best policy -- honesty. It’s the cornerstone of any meaningful recovery.
+
+#### 09f9169b1b | LELAND → BRUCE | x2
+First off, you’re to obey Arkham staff at all times and without question.
+
+#### dda474fd38 | LELAND → BRUCE, NURSE, UNSEEN INMATE1 | x6
+This way, please.
+
+#### be3936d759 | BRUCE → LELAND | x2
+I can pay you for a... favorable evaluation.
+
+#### 110da195b7 | LELAND → BRUCE | x2
+We don’t condone bribery here, Mr. Wayne.
+
+#### 46e7448bbd | LELAND → BRUCE | x2
+Ah, it’s wonderful to see you up and about, Mr. Wayne.
+
+#### f4c4a17091 | LELAND → BRUCE | x2
+Any questions for me before we start treatment today?
+
+#### f829bab67d-SF | THOMPKINS → LELAND | x2
+I’m not suprised you don’t remember.
+
+#### 20743ee4bb-LM | LELAND → BRUCE | x4
+That’s not surprising. You had quite the break from reality, Mr. Wayne.
+
+#### 6676eadb5e-LF | LELAND → THOMPKINS | x2
+You were quite... confused the last time we spoke.
+
+#### f2cfbc69ef-LF | LELAND → THOMPKINS | x2
+Well. I’m Dr. Leland. I’ve been your physician since you were... checked in a few days ago.
+
+#### 45d2b04dd3 | LELAND → NURSE | x2
+Hm. I think I’d prefer you focus on “getting well.“
+
+#### 60cf527b3b | NURSE → LELAND | x2
+That Vicki Vale.
+
+#### 90d7445ceb-LF | LELAND → NURSE | x2
+I don’t know whether this denial is for your benefit or mine, but it’s definitely something we’ll need to overcome if you’re serious about making a full recovery.
+
+#### 9df34c8bb8-SF | LELAND → NURSE | x2
+I’m sure that must be frightening, but it’s very helpful to know. Thank you Bruce.
+
+#### 466c1e1eb2 | LELAND → BRUCE | x4
+Don’t worry, Bruce. We’ll help you recover -- no matter how long it takes.
+
+#### c08e8f1af3 | ORDERLY02 → LELAND | x4
+It’s alright - Just spooked me.
+
+#### 5a0d76a54a | LELAND → ORDERLY02 | x2
+Yes, we’re all here to help you.
+
+#### 0aa141830f-S? | ORDERLY02 → LELAND | x4
+That’s alright. I’m sure we’ll be real good friends soon.
+
+#### d1c8314748 | ORDERLY02 → LELAND | x2
+We’re all friendly.
+
+#### ef5a972b76 | NURSE → ORDERLY02 | x2
+Oh, that’s great! Just ignore me like everyone else does!
+
+#### a5ce38ccad-L? | BRUCE → ORDERLY02 | x2
+You need help?
+
+#### ebb0ce2880 | LELAND → BRUCE | x2
+... not fully aware of his surroundings...
+
+#### ebc11e34ca | BRUCE → LELAND | x2
+Wait a minute, I-
+
+#### 743c6622bf | LELAND → BRUCE, NURSE | x4
+Listen -- I want to help you, but I can’t do that unless you communicate with me.
+
+#### 5f499cef59 | BRUCE → LELAND | x2
+My eternal gratitude.
+
+#### 6676eadb5e-LM | LELAND → BRUCE | x2
+You were quite... confused the last time we spoke.
+
+#### f2cfbc69ef-LM | LELAND → BRUCE | x2
+Well. I’m Dr. Leland. I’ve been your physician since you were... checked in a few days ago.
+
+#### 90e9ffabb4 | ORDERLY1, BATMAN → LELAND, ZSASZ | x4
+Get back here!
+
+#### a031225e20 | BRUCE → LELAND | x2
+How long do you plan on keeping me in here?
+
+#### c1c172cd64 | ORDERLY1, ORDERLY01 → ORDERLY01, ORDERLY1 | x4
+Hold out your arms.
+
+#### 3e28a4ffe6 | ORDERLY01 → LELAND | x2
+C’mon. It’ll only take a sec.
+
+#### de47d80a8f | BRUCE → ORDERLY01 | x2
+Fine, but let’s just make this quick.
+
+#### 4cc76fb70d-S? | ORDERLY01 → BRUCE | x2
+Hold still. I need to pat you down.
+
+#### 0249f830ca-L? | BRUCE → ORDERLY01, ORDERLY1 | x4
+You’ve got me mixed up with somebody else.
+
+#### a9e5aa3c53 | BRUCE → ORDERLY01 | x4
+Can I help you?
+
+#### ab4dfba325 | choice/UI → ORDERLY1 | x2
+Fine, but be quick.
+
+#### 2c00acbe71 | BLOCKBUSTER → ORDERLY1 | x2
+Grrr
+
+#### 3939dd8e94-S? | ORDERLY1 → ORDERLY01 | x2
+I got something to ask you.
+
+#### e98338fed0 | ORDERLY1 → BRUCE | x2
+You’re a man of means.
+
+#### 04a8b70670-S?-LM | ORDERLY1 → BLOCKBUSTER | x2
+I could tell you how to secure your release -- and you could help me.
+
+#### e14fae4061-S? | ORDERLY1 | x2
+What would you give me if I could help you get out of here?
+
+#### 8b7fe619ad | ORDERLY1, ORDERLY01 → BRUCE | x4
+What do you say? We got a deal?
+
+#### 5d959dc6c7 | ORDERLY1, ORDERLY01 → BRUCE | x4
+You’re a man with means and I’m a man with a lot of information -- information on how to make your stay... shorter.
+
+#### 7a8730cd8c | choice/UI → ORDERLY1 | x4
+Sure, no problem.
+
+#### 3120c0efc7 | ORDERLY1 → BRUCE | x2
+Clean this mess up!
+
+#### c52c099069 | choice/UI → ORDERLY1 | x2
+[Mop Up]
+
+#### 75a7c716eb-LM | ORDERLY1 → BRUCE | x2
+Yeah you can help me -- clean up this mess you made.
+
+#### f38fabe1d1 | NURSE → ORDERLY1, LELAND | x4
+Hey you!
+
+#### f091ac5174 | ORDERLY1 → BRUCE | x2
+Well, what are you waiting for?
+
+#### c31eba6bd7 | BRUCE → ORDERLY1 | x2
+I didn’t make this mess.
+
+#### 1f126fe5ce | ORDERLY1 → BRUCE | x2
+Come here a sec.
+
+#### e58b4e71db | ORDERLY1 → BRUCE | x2
+I want to see if you’re
+
+#### cc51b0f5b3 | ORDERLY1, ORDERLY01 → BRUCE, ORDERLY1 | x4
+I just want to shake your hand.
+
+#### 449e6e2776-SF | NURSE → ORDERLY1, LELAND | x4
+Come here for a sec, would ya? I could use a hand.
+
+#### 5eaf385d5e | ORDERLY1 → NURSE | x2
+Holy crap. You’re Bruce Wayne.
+
+#### f2c7ce3614 | ORDERLY1 → ORDERLY01 | x2
+Come on. I just wanna shake the hand of the most famous man in Arkham.
+
+#### 7cea7d5732 | ORDERLY1, ORDERLY01 → ORDERLY01, ORDERLY1 | x4
+Holy crap! It is you -- You’re Bruce Wayne.
+
+#### 04a8b70670-S?-L? | ORDERLY01 → ORDERLY1 | x2
+I could tell you how to secure your release -- and you could help me.
+
+#### 717369e14c | BRUCE → ORDERLY01, NURSE | x4
+Will this count toward my evaluation?
+
+#### d9f0f5ea3e | NURSE → BRUCE | x2
+She’ll be so happy to hear what a good boy you’re being.
+
+#### fd421f4161-S? | ORDERLY1 → NURSE | x2
+Hey, listen. I’m really sorry this has happened you -- but I want you to know that there’s a lot of us out there who still believe in you.
+
+#### 6ed1eb5a1c | NURSE, JOKER, VICKI → BRUCE, BATMAN | x6
+Huh.
+
+#### 04fe933d57-SM | BRUCE → NURSE | x2
+I’m not supposed to touch staff.
+
+#### 091a2e2875-LM | NURSE → BRUCE | x4
+You didn’t mind breaking the rules when you broke Oswald’s face.
+
+#### bb89260460 | NURSE → BRUCE | x2
+But I suppose you’re gonna say that Vicki made you do it.
+
+#### 09e30a0014 | ORDERLY1 → NURSE | x2
+You must be the most famous man in Arkham.
+
+#### b7daa959f6 | ORDERLY1 → BRUCE | x2
+Put it there.
+
+#### 760201003f | NURSE → BRUCE, LELAND | x4
+Yeah. Can you hand me that clipboard over there?
+
+#### fca2f8c5f7 | NURSE → ORDERLY1, BRUCE | x4
+That one -- by the big guy.
+
+#### e9fea0f880 | LELAND → NURSE, ORDERLY02 | x4
+This doesn’t belong to you.
+
+#### 4d515405fc-LM | LELAND → BRUCE | x2
+You’re not supposed to
+
+#### 4b46340f1c | LELAND → BRUCE | x4
+What nurse?
+
+#### 54490d127b | LELAND → BRUCE | x4
+Case files are private.
+
+#### 29fc035d5a | LELAND → BRUCE | x2
+What are you doing with that?
+
+#### 285cb6bc9e | LELAND → BRUCE | x2
+Do not remove them from
+
+#### b471781a22 | choice/UI → LELAND | x2
+Getting it for the orderly.
+
+#### f6be7e0ffe | choice/UI → LELAND | x4
+There was an orderly here.
+
+#### 4facd57f42-SM | choice/UI, BRUCE → LELAND | x8
+I got it for you?
+
+#### 003bf4ec84 | BRUCE → LELAND | x2
+What do you think is wrong with him?
+
+#### 38fb538730 | LELAND → BRUCE | x2
+So -- hands off.
+
+#### 7971e6a051 | ORDERLY1 → NURSE | x2
+This
+
+#### 9094b71aa8 | NURSE → LELAND, BRUCE | x6
+I’d be grateful.
+
+#### a418206d0b-SF | NURSE → LELAND | x2
+I can’t wait to tell Vicki that I saw you here.
+
+#### 1bfac3d80e | NURSE → ORDERLY1, BRUCE, LELAND | x6
+Vicki was right about you!
+
+#### 7bec18a14b | NURSE → BRUCE, LELAND | x4
+You’re just a selfish prick!
+
+#### 102fc9d831 | choice/UI → NURSE | x4
+There was a nurse here.
+
+#### 57af8c27a1-SF | NURSE → BRUCE | x2
+I’m glad she scrambled your brain.
+
+#### 4283a762f9 | BRUCE → NURSE, LELAND | x4
+She asked me to grab it for her.
+
+#### bebbe9f094 | IR → NURSE | x2
+Bruce’s point of view is still askew -- creating an unsettling visual experience for the player.
+
+#### 4391a4b4c5 | BRUCE → NURSE, LELAND | x4
+I want the record to show I didn’t break any rules.
+
+#### 99e91204a1 | NURSE → IR | x2
+She must have really scrambled your brain.
+
+#### 451fd417d5 | NURSE → BRUCE | x4
+My hands -- they’re a little full.
+
+#### af8218049c-SF | NURSE | x6
+I’m glad she taught you a lesson and scrambled your brain.
+
+#### 2742f7d760 | NURSE → LELAND | x10
+Just look at you.
+
+#### 742393c31a | NURSE → LELAND | x12
+Vicki sure did a bang up job on you.
+
+#### 07313e0c8f | LELAND → NURSE, BRUCE | x4
+‘She’?
+
+#### d50578a499 | BRUCE → NURSE, LELAND | x4
+The nurse -- she was right here.
+
+#### 1b47596be7-S? | ELANOTES → LELAND | x2
+MD - note
+This is the same family of choices I just had with Alfred in the previous scene.
+
+#### 85d00ed2a7 | NDNOTES → LELAND | x2
+MD - note
+
+#### 8331601395 | LELAND → BRUCE | x4
+If it was up to us -- there would be no observation period.
+
+#### 750df9ead6 | LELAND → BRUCE | x2
+This is for your safety as well as ours.
+
+#### e0e546ac71 | LELAND → BRUCE | x2
+Bruce... the closet is locked.
+
+#### f8b0726f62 | BRUCE → LELAND | x4
+I wasn’t doing anything with it.
+
+#### b0907785f4 | NURSE → BRUCE | x4
+How do you like your brains, Bruce? Scrambled -- or fried? [laughs]
+
+#### b48772e5e1-LF | NURSE → LELAND | x2
+Just look at yourself.
+
+#### 9394de6112 | LELAND → BRUCE | x4
+Bruce, I didn’t ask you to bring me this.
+
+#### d87d5650e7 | LELAND → NURSE, BRUCE | x4
+Or do you just not want to tell me?
+
+#### 6cc172a33c | LELAND → NURSE | x2
+We would just commit you.
+
+#### 050d031cc1-L? | LELAND | x2
+You should consider yourself lucky.
+
+#### eaf36d4c04 | LELAND | x2
+... permenantly.
+
+#### 1c4b55e43c-L? | LELAND | x2
+But you’ve got powerful allies on the outside.
+
+#### e218486dbe | LELAND | x2
+You’re clearly
+
+#### c5cec6b973 | LELAND → BRUCE | x2
+Do you think you should be here?
+
+#### f6d8befc98 | LELAND → BRUCE | x2
+We would just commit you...
+
+#### 3f175cf257 | LELAND → BRUCE | x2
+When do YOU think you should leave?
+
+#### 0215475ef2 | BRUCE → LELAND | x4
+As soon as I get my head clear.
+
+#### b3a6f2a627 | LELAND → BRUCE | x4
+I like the attitude, Bruce.
+
+#### 005589704f | LELAND → BRUCE | x4
+Keep it up. It just might just speed up the process.
+
+#### 419bbc16e9 | choice/UI → LELAND | x2
+As soon as my head is clear.
+
+#### 5cdba76265 | BRUCE → LELAND | x2
+No -- I don’t.
+
+#### 2ec4180645 | LELAND → BRUCE | x2
+Really...?
+
+#### a592b51ffd | LELAND → BRUCE | x2
+I don’t think you think you belong here.
+
+#### 051c31eaec | BRUCE → LELAND | x2
+I shouldn’t even have been brought here.
+
+#### 62859718a2 | LELAND → BRUCE | x2
+That’s not an easy answer...
+
+#### 462630138a-SM | BRUCE → LELAND | x4
+I asked first.
+
+#### a3d36d0680 | LELAND → BRUCE | x2
+I’d have thought you’d have had a fairly strong feelings on the matter...
+
+#### 298e6cf65e-SF | LELAND → BRUCE, NURSE | x4
+I’m sure it’s something you have an opinion on.
+
+#### a01472fcd9 | LELAND → BRUCE, NURSE | x4
+And I like to hear it.
+
+#### 682d1263bf | LELAND | x2
+Well
+
+#### 51e490f19d | LELAND → BRUCE | x2
+And I suppose I owe
+
+#### 9f859e82b7 | LELAND → BRUCE | x2
+Not in the mood to share your thoughts?
+
+#### 6c7c098caa | LELAND → BRUCE | x2
+Not in the mood for sharing?
+
+#### a9ed3f4d8a | BRUCE → LELAND | x4
+What process?
+
+#### d5aabb81ba-SM | BRUCE → LELAND | x4
+How do I make sure I’m released?
+
+#### 11cf93c9ef | LELAND → BRUCE | x2
+How do you think
+
+#### 6ddaba9307 | LELAND → BRUCE | x2
+Keep that
+
+#### 2e427ed710-LM | LELAND → BRUCE | x2
+Yes, you did
+
+#### 11d8352e18 | BRUCE → LELAND | x4
+What happens if I don’t pass the eval?
+
+#### 58aa325d3d | LELAND → BRUCE | x4
+We’ll either discharge you -- or commit you indefinitely.
+
+#### aa957380cc | LELAND → BRUCE | x2
+I’ll tell you what’s going on -- but I have to warn you.
+
+#### ab011a36e4 | LELAND → BRUCE | x2
+An at
+
+#### 9ab28f410d | BRUCE → LELAND | x2
+What do I have to do to be discharged?
+
+#### a640fd6315 | LELAND → BRUCE | x2
+What do you think you have to do?
+
+#### a8af1bdad2 | BRUCE → LELAND | x4
+You’ll commit me.
+
+#### 027e26e962 | BRUCE → LELAND | x4
+Do you always ask a question instead of answering one?
+
+#### 44f3ba4fbb | LELAND → BRUCE | x4
+What do you think will happen?
+
+#### 19c123f48e | LELAND → BRUCE | x4
+Sounds like you think you deserve to be commited.
+
+#### 05ff65ad33 | BRUCE → LELAND | x4
+I’ll get re-evaluated.
+
+#### 1baae86f49 | LELAND → BRUCE | x4
+No. You’ll be commited -- indefinitely.
+
+#### d2229932be | LELAND → BRUCE | x8
+The stakes are high for you, Bruce.
+
+#### 3928a1d0c1-SF | LELAND → BRUCE | x4
+I’d start cooperating if I was you.
+
+#### 5277320e25 | LELAND → BRUCE | x6
+If you don’t pass this evaulation period -- you’ll be commited -- indefinitely.
+
+#### b2e38cf3c6 | LELAND | x2
+You must have some idea.
+
+#### ffda0f0eeb | LELAND | x2
+Secondly, be honest -- always.
+
+#### 1832ad1add | LELAND → BRUCE | x4
+I’d like to know how you’re perceiving the gravity of the situation.
+
+#### 7867ed366f | choice/UI → LELAND | x2
+I’ll get sent to prison.
+
+#### 057875ae46 | LELAND → BRUCE | x4
+It’s okay to be a little scared.
+
+#### e7d8cf416a-LM | LELAND → BRUCE | x4
+But that’s what you said.
+
+#### c7231c1430 | LELAND → BRUCE | x2
+You’ve been granted a psychiatric observation period.
+
+#### c1302a9f15 | LELAND → BRUCE, NURSE | x4
+After we evaluate you, we’ll make a recommendation to the State on whether you should be discharged -- or committed.
+
+#### 72202a67c5 | BRUCE → LELAND | x2
+How can I avoid being commited?
+
+#### 930df18e5a | LELAND → BRUCE | x2
+How do you think you can avoid it?
+
+#### a8481b331a | NURSE → LELAND, BRUCE | x10
+Oh, I see. You think if you ignore me -- I’ll just go away.
+
+#### 4fc527fa05 | NURSE → LELAND, BRUCE | x10
+Vicki was right about you, you know. You’re just a spoiled little prick.
+
+#### 759d9d7eca | LELAND → NURSE, BRUCE | x6
+No thoughts?
+
+#### c92d60a7cd | LELAND → NURSE, BRUCE | x4
+Well let me explain.
+
+#### 0e988dcfa2 | LELAND → BRUCE | x4
+Patient non-response.
+
+#### efd96c7366 | LELAND → BRUCE | x4
+“Patient is uncooperative.“
+
+#### e6d6302dc5 | LELAND → BRUCE | x4
+“Patient suffering from possible hallucinations--“
+
+#### c8fde72545 | LELAND → BRUCE | x4
+“Patient seems to be disorientated.“
+
+#### 048c85b285 | BRUCE → LELAND | x4
+Hey, wait a minute --
+
+#### 7aed92d4e9 | LELAND → BRUCE | x4
+“Patient remains non-responsive. May be exhibiting early signs of catatonia.“
+
+#### 155f450006 | LELAND → NURSE, BRUCE | x4
+And you will remain here until you start being honest and cooperative.
+
+#### 25fd4e24fa | LELAND → NURSE | x4
+These rules are for your safety just as much as ours.
+
+#### a0ca0e081e | NURSE → LELAND | x8
+Vicki was right about you, you know. You’re just a spoiled rich jerk.
+
+#### 783228c216 | NURSE → LELAND, BRUCE | x4
+You’re just a selfish jerk!
+
+#### a8ef3d324e | LELAND → NURSE, BRUCE | x4
+What are you doing? Please put that back.
+
+#### 269881ca41 | BRUCE → LELAND, NURSE | x4
+I just -
+
+#### bc00aa851a-LF | LELAND → NURSE | x2
+No, you were speaking to someone.
+
+#### c0a104682b-LM | LELAND → BRUCE | x4
+What were you doing with it?
+
+#### 671dc71d17 | LELAND → BRUCE | x4
+I can tell something’s wrong. What is it?
+
+#### 4186ff0fda | LELAND → BRUCE | x4
+This isn’t a game of dominance, Mr. Wayne.
+
+#### 25b3610550 | LELAND → NURSE | x4
+There’s a process to go through before you can be considered for release.
+
+#### e08d97af5a | choice/UI → NURSE, LELAND | x4
+[Help Nurse]
+
+#### 29d9dfcb03 | ORDERLY2, ORDERLY02 → NURSE, LELAND | x4
+I’m here to help if you have any problems.
+
+#### 0c2635040a | BRUCE → ORDERLY02 | x4
+And if I do cause trouble?
+
+#### 8c48e8c66f | ORDERLY02 → BRUCE | x4
+Well, then you and I are gonna have a problem.  And that’s a bigger problem for you than it is for me.
+
+#### 7006690c1b | ORDERLY02 → BRUCE | x2
+That’s real good to hear Me. Wayne.
+
+#### 827e79da0a | ORDERLY02 → LELAND | x4
+That’s okay, Dr. Leland.
+
+#### cd9c497af8-L? | LELAND → ORDERLY02 | x2
+Alright Bruce, let’s get you acquainted with the other patients.
+
+#### bc00aa851a-LM | LELAND → BRUCE | x2
+No, you were speaking to someone.
+
+#### d3dfb4f264 | ORDERLY02 → BRUCE | x2
+That’s good to hear Mr. Wayne.
+
+#### 90d7445ceb-LM | LELAND → BRUCE | x2
+I don’t know whether this denial is for your benefit or mine, but it’s definitely something we’ll need to overcome if you’re serious about making a full recovery.
+
+#### a5ce38ccad-LF | BRUCE → NURSE | x2
+You need help?
+
+#### 902bbc9f58 | LELAND → BRUCE | x2
+Alright then...
+
+#### 3cda852627 | BRUCE → LELAND | x2
+Now. I’d like to leave now.
+
+#### 6a13bca643 | LELAND → BRUCE | x2
+That’s just not possible...
+
+#### 6cf0ea0bc8 | LELAND → NURSE | x2
+And, do *not*, under any circumstances, physically touch staff or other patients.
+
+#### 4cff02d9f5 | LELAND → NURSE | x2
+Follow me while we go over some ground rules.
+
+#### 6665cce770 | LELAND → NURSE | x2
+You’re also to obey Arkham staff without question or confrontation.
+
+#### b3f3f178e2 | LELAND → NURSE | x2
+That’s an interesting question.
+
+#### d3458d549f | LELAND → BRUCE | x2
+When do you think you should leave?
+
+#### 06b5db0310 | BRUCE → LELAND | x2
+How long do you plan on keeping me here?
+
+#### 49028050ba-LM | LELAND → BRUCE | x2
+Alright Bruce, let’s get you aquainted with the other patients.
+
+#### d97131f6ed | choice/UI → LELAND | x2
+When I recover.
+
+#### 00ebd547d2-SM | BRUCE → LELAND | x2
+Look at me: I’m fine.
+
+#### 5dd7ac136e | BRUCE → LELAND | x2
+I don’t belong in a psychiatric facility.
+
+#### 9d4211bd74 | BRUCE → LELAND | x2
+You know my family has a history with this place.  That makes me a target.
+
+#### 4883586209 | LELAND → BRUCE | x2
+Do not intentionally provoke or agitate other patients.
+
+#### cb077a9e99 | BRUCE → LELAND | x2
+As long as no one starts trouble with me, everything will be fine.
+
+#### 009d23bc7f-LF | ORDERLY02 → LELAND | x2
+If someone starts something with you, you let me handle it, got it?
+
+#### 40d84fb586 | choice/UI → LELAND | x2
+Only if I have to.
+
+#### 1a120a16b4 | LELAND → BRUCE | x2
+First,When accompanied by a staff member, you must stay within arms reach at all times.
+
+#### 9fcfda86b6 | LELAND → BRUCE | x2
+You’re doing well so far, Mr Wayne.
+
+#### d4fd1f62ef-LM | LELAND → BRUCE | x2
+Mr. Wayne.  You were instructed to stay by my side.
+
+#### e6b2ce9bc8 | BRUCE → LELAND | x2
+Make sure you note that in your report.
+
+#### e4387e33f9 | LELAND → UNSEEN INMATE1 | x2
+Please do not disregard our rules.  It will count against your evaluation.
+
+#### ddda7a94b4 | UNSEEN INMATE1 → LELAND | x2
+LEAVE ME ALONE! LEAVE ME ALONE!
+
+#### 177cd6c7ec | UNSEEN INMATE1 → LELAND | x2
+AAAAAAHHHHHHHHHHHHHH!!!!!!!!!
+
+#### 70666d031f | UNSEEN INMATE2 → UNSEEN INMATE1 | x2
+I’ll eat your face.  I’ll eat all your faces!
+
+#### 8f7f054d2b | INMATE03 → UNSEEN INMATE1 | x2
+Hey, where is it?!  I know somebody took it!
+
+#### 9457756152 | UNSEENINMATE07 → UNSEEN INMATE1 | x2
+“Twinkle, twinkle little bat -- how I wonder when you’ll SPLAT!“
+
+#### 3d9161f1ac | UNSEENINMATE03 → UNSEEN INMATE2 | x2
+Where is it?!  I know somebody took it!
+
+#### 9abc677d00 | UNSEENINMATE02 → INMATE02 | x2
+He’s looking at me. Make him stop looking at me!
+
+#### 7908a23608 | INMATE03 → INMATE02 | x2
+Questions, questions, questions. You ask too many questions. But you don’t want my answers. No, no. Not my answers. My answers are bad, bad, diseased, corrupted like, like my mind.
+
+#### ddea3ccbf7 | INMATE02 → INMATE03 | x2
+Buzzzz. Buzzzz. BUZZZZ!
+
+#### 090cc2e269-S? | INMATE03 → INMATE02 | x2
+No, NO! I don’t want another treatment. I don’t need one! I’m better. Look! I’m good now.
+
+#### caca259ffc-L? | ORDERLY01 → INMATE02 | x2
+Come on. You’ve got to eat. Just take another bite. One for me?
+
+#### 9e4e6cfe58 | INMATE02 → INMATE03 | x2
+I can’t! My head - my head’s full of bees!
+
+#### 9b386e3227 | INMATE03 → INMATE02 | x2
+Stop it! Stop it! Shut the hell up!
+
+#### 574d584909 | ORDERLY02 → INMATE02 | x2
+Come on now -- don’t make a fuss.
+
+#### fc176ed89e | INMATE03 → INMATE02 | x2
+No, no. Just, just leave me alone, please.
+
+#### dc44690859-S? | INMATE02 → INMATE03 | x2
+You call this room service?! Get the hotel manager. This is not what I ordered!
+
+#### a66a7efe82 | UNSEENINMATE09 → UNSEENINMATE01 | x2
+[OS] [reciting]
+“People know what they do; frequently they know why they do what they do; but what they don’t know is what what *they* do does.”
+
+#### 0451c37601-LM | UNSEENINMATE07 → UNSEENINMATE01 | x2
+“Will you walk into my parlour, said a Spider to a Fly. It is the prettiest parlour that ever you did spy. The way into my parlor is up a winding stair, and I have many pretty things to show you there.“
+
+#### 75caf54930 | UNSEENINMATE01 → INMATE02 | x2
+Charlie. Charlie. Come in. Can you hear me? I’ve been captured by the enemy. I can’t talk long. [making explosive noises] BOOOOoooommmmmmmmm. Rattataktak! Can you hear that? We’re under attack!
+
+#### 1d8ed360cc | UNSEENINMATE01 → UNSEENINMATE09 | x2
+Charlie. Charlie. Come in. Can you hear me? I’ve been captured by the enemy. I can’t talk long. They, they have demands...
+
+#### 949615ef37 | UNSEENINMATE01 → UNSEENINMATE07 | x2
+BOOOOoooommmmmmmmm! Rattataktak! Can you hear that? We’re under attack!
+
+#### 439fee919c-LM | INMATE03 → UNSEENINMATE01 | x2
+If you are not like everybody else, everybody else, then you’re not normal, not normal. And if you’re not normal, you’re sick, you’re sick. Sick, sick in the head, like me!
+
+#### 74354a44fa | INMATE02 → UNSEENINMATE01 | x2
+Four star hotel my ass!
+
+#### e0d01337ef | INMATE02 → LELAND | x2
+Then your dreams -- they chase you! [creepy laugh]
+
+#### 82fedc0f52 | choice/UI → INMATE02 | x2
+I shouldn’t even be here.
+
+#### d95e2d9ad4-SM | choice/UI → INMATE02 | x2
+I asked you first.
+
+#### 41dfc0a6c9 | choice/UI → INMATE02, JOKER | x8
+Window
+
+#### 183351d32f | choice/UI → INMATE02 | x2
+Hallway Window
+
+#### f7b79c5c1d | choice/UI | x2
+Wheel Chair
+
+#### 322a97fe40 | choice/UI | x2
+Good plan.
+
+#### e6bba5c32b | choice/UI | x2
+I’ll stay with you, doctor.
+
+#### 7de020d7e6 | choice/UI | x2
+I love puzzles.
+
+#### 5ee0b16da8 | choice/UI | x2
+Not interested.
+
+#### 5d03515f8d | choice/UI | x2
+... Lovely...
+
+#### ca9a62d679 | choice/UI | x2
+He needs help!
+
+#### aecebfff67 | choice/UI | x2
+Is this normal?
+
+#### b96780bd44 | choice/UI | x2
+What’s his story?
+
+#### 6d378b69ba | choice/UI → LELAND | x2
+I don’t need protection.
+
+#### b0d80d2b2f | choice/UI → LELAND | x2
+John has my back.
+
+#### 299907a97e-LF | choice/UI → LELAND | x2
+I’ll get you fired.
+
+#### 464a314bec | LELAND → INMATE02 | x2
+John is one of our most improved patients.
+
+#### 028c9a9d90 | LELAND → INMATE02 | x2
+He’d come to know most of the other inmates-- Who’s safe to interact with, who’s not as social as others.
+
+#### d4c72b6e11 | LELAND → INMATE02 | x2
+He knows who the best people are to interact with, and who not to bother.
+
+#### 90a01e9c79 | LELAND → BRUCE | x2
+I think it would be best if you stay by his side for now.
+
+#### a95e9b55ac-LF | BRUCE → LELAND | x2
+You’re not serious.
+
+#### f63c93790d | LELAND → BRUCE | x2
+Of course I am. John Doe is an exemplary patient at Arkham.
+
+#### 2713a0f6cd | JOKER → LELAND | x2
+I know all the ins and outs of this place. Every nook and cranny. I can’t *wait* to show you.
+
+#### 124ffac39a | BRUCE → LELAND | x2
+I think I’d rather stay with you, Doctor. Don’t you think it would be... safer that way?
+
+#### 5a3f18bbd9 | LELAND → JOKER | x2
+In other circumstances, perhaps. But we’re understaffed as it is.
+
+#### 18923d04f0 | LELAND → JOKER | x2
+Even more so now that I have to fire one of my orderlies.
+
+#### fd97866c8e | LELAND → BRUCE | x2
+Don’t worry, Bruce. John will keep you out of trouble.
+
+#### 28ead32e6c | JOKER → BRUCE | x2
+Don’t make it sound so dull, doctor! [to Bruce]You and I, buddy, are going to have so much fun!
+
+#### 44478106f4 | BRUCE → LELAND | x2
+Sounds like a great idea.
+
+#### 608ccb6f22 | JOKER → LELAND, ORDERLY02 | x6
+That’s the spirit!
+
+#### 72ef45b687-SF | LELAND → BRUCE | x2
+I’m glad you think so, Mr. Wayne. I’m sure you two will be fast friends.
+
+#### e560fe309f | JOKER → LELAND | x2
+Like two peas in a pod. Like steak and potatoes. Like... chloroform and kidnapping.
+
+#### 3dccb4325b | JOKER → LELAND | x2
+Oh, I know how it sounds. Being stuck with a reformed loon. Not ideal.
+
+#### fb6df722f9 | JOKER → LELAND | x2
+Though in my case I don’t have a choice. [small chuckle]
+
+#### af157ed8a7 | LELAND → JOKER | x2
+John has shown immense growth as a patient. You two will get along just fine.
+
+#### b63cf5b19a-SF | LELAND → JOKER | x2
+Trust me, I wouldn’t put you with anyone I thought was truly dangerous.
+
+#### 9086c08ced | JOKER → LELAND | x2
+It’ll be just like grade school!
+
+#### 01128e9065 | JOKER → BRUCE | x2
+Don’t worry, Bruce. I’ll share my jello with you.
+
+#### 3557599fb3 | JOKER → LELAND | x2
+I can fill you in on all the... fascinating people in Arkham.
+
+#### d656c50c9e | JOKER → LELAND | x2
+There’s plenty to do. Plenty of games to play. Where to start?
+
+#### 904c8b47b7 | LELAND → JOKER | x2
+Alright, John. Settle down.
+
+#### 07cb2449a4-SM | JOKER → LELAND | x2
+I’m so sorry, Doctor. You know I get over excited sometimes.
+
+#### afd2314c98 | JOKER → LELAND | x2
+Just you wait. We’ll be the bestest of pals.
+
+#### 92e35760f8-SM | JOKER → LELAND | x2
+I’m wondering if you can help me... I’ve got this game I’ve been working on for *so* long, and it could use a fresh pair of eyes.
+
+#### 1164079c09 | JOKER → INMATE03 | x2
+Hope you can... play along.
+
+#### 9137bc4a7d | INMATE03 → JOKER | x2
+There’s too many white tiles. One, two..there’s not enough black tiles. You hear me? There’s too many white tiles!
+
+#### 7f85b4a6cb | LELAND → JOKER | x2
+This way. You two can stay in the recreation area while we get this sorted out.
+
+#### 25cb3eb5f8 | JOKER → LELAND | x2
+You know, doc. Our last session was... so enlightening.
+
+#### a5eaf25463-SM | JOKER → LELAND | x2
+I was able to realize things about myself that I never even concieved!
+
+#### 2659a3724c-SF-LM | LELAND → JOKER | x2
+Your next evaluation is in a few weeks. I’m glad you’re starting to understand yourself better.
+
+#### f07f9f9fd6 | JOKER → LELAND | x2
+Oh, every day, Doctor. Every day.
+
+#### b1e67c77f0 | BRUCE → LELAND | x2
+Aren’t you going to do anything? He sounds like he needs help.
+
+#### 49651a9a28 | JOKER → BRUCE | x2
+That’s just Drew. He does that.
+
+#### 0cacaff4f7 | LELAND → BRUCE, INMATE03 | x4
+There are patients that require more help than others.
+
+#### b6e95184b0 | LELAND → JOKER | x4
+Unfortunately, sometimes we can’t provide them the help they need.
+
+#### d59652ec18 | BRUCE → JOKER | x2
+Is this kind of thing... normal?
+
+#### 751e356a30 | JOKER → LELAND | x2
+For Drew? Yes. Very aggravating.
+
+#### 445d47f696 | JOKER → LELAND | x2
+But is it standard? Oh, yes.
+
+#### 73584d16bd | LELAND → JOKER | x2
+That’s not entirely true. Only some are like this.
+
+#### a2a1655f1c | LELAND → JOKER | x2
+And unfortunately, we can’t always provide the help they need.
+
+#### 8adcb22427 | BRUCE → JOKER | x2
+What did he do?
+
+#### 9690779643 | JOKER → LELAND | x2
+Drew? Oh, it’s quite the story. You’ll love it!
+
+#### 4cfef05700 | JOKER → BRUCE | x2
+Got a little agitated at work. You know, white collar broker, good steady job... that sort.
+
+#### f98ef094e9 | JOKER → BRUCE | x2
+But one day his boss mentioned he didn’t like his shoes.
+
+#### f6b4402d59 | JOKER → BRUCE | x2
+So the next morning, ol’ Drew took out a sawed off shotgun and blew his boss’ brains out![giggles]
+
+#### 5a8ff0ea6d-LM | BRUCE → JOKER | x2
+Why did you say that I’d like that?
+
+#### d304eb313a-LM | JOKER → BRUCE | x2
+Well, that’s what you wanted to do to Cobblepot, isn’t it?
+
+#### 4d1dfb434d | LELAND → JOKER | x2
+John. Please.
+
+#### d3646a34a4 | JOKER → LELAND | x2
+Poor Drew. [sing song]Hey Drewww. Wanna get a shoe shine?
+
+#### eb69f60afa | LELAND → JOKER | x2
+John, stop.
+
+#### f5b6853831 | LELAND | x2
+There are patients here that require more help than others.
+
+#### 31e2ad4aba | LELAND | x2
+Unfortunately, sometimes we can’t provide them with the help they need.
+
+#### c56aae3cd7 | LELAND → JOKER | x2
+Some patients have a harder time coping. We keep them isolated for their own protection.
+
+#### 05911991d6 | LELAND → JOKER | x2
+They keep to themselves for the most part. Away from the others for everyone’s safety.
+
+#### 75349dfd32 | LELAND → JOKER | x2
+Those that are able to socialize, like you two, are allowed in the halls and the rec room.
+
+#### 3dade61d64-LF | JOKER → LELAND | x2
+Do you remember the first time you let me into the rec room, Doctor Leland?
+
+#### 5302789b8d | LELAND, JOKER → JOKER, BRUCE | x4
+How could I forget?
+
+#### 8b979b0d99-LF | JOKER → LELAND | x2
+You had to teach me how to play checkers.
+
+#### c207d2be94 | LELAND → JOKER | x2
+Yes, well...betting patients to swallow game pieces isn’t really how that’s supposed to be played.
+
+#### a7eb194634 | BRUCE → LELAND | x2
+Who’s this for?
+
+#### 068efb72a2-SF | LELAND → JOKER | x2
+I thought your memory would’ve returned by now.
+
+#### 2b2a2d51b9 | LELAND → BRUCE | x2
+It’s yours, Bruce. We had to wheel you in.
+
+#### dab249ffb0-LM | LELAND → JOKER | x2
+You could hardly stand... kept going in and out of conscienceness.
+
+#### f667c339bd-LF | JOKER → LELAND | x2
+And talking a lot. You talk in your sleep. Did you know that?
+
+#### 264fd07869-SM | JOKER → LELAND | x2
+I’d heard they sedated you.
+
+#### 84733204d8-SM-LF | JOKER → LELAND | x2
+But you nodded off so suddenly, I was sure you died!
+
+#### 01e7a47c01-SM-LF | JOKER → LELAND | x2
+I was so glad you were still among the living!
+
+#### 6e7c0eff6a | BRUCE → JOKER | x2
+I get my one phone call right? Isn’t that standard procedure?
+
+#### 69d8807dfa-SF | LELAND → JOKER | x2
+I’m sorry. The phone is only for dire situations. Usually to call the ambulance or the police.
+
+#### 2e394fd2e3 | LELAND → BRUCE | x2
+We’ve had too many incidents regarding patients abusing their phone privileges.
+
+#### aca3226c1f | LELAND → BRUCE | x2
+So we’ve had to restrict use to emergencies.
+
+#### 25f9b23177 | LELAND → BRUCE | x2
+I’m hoping your outburst on television isn’t a regular occurence, Bruce.
+
+#### 98441ded01 | LELAND → BRUCE | x2
+Which is why I’ll have John keep an eye on you.
+
+#### 9a29d5611c | LELAND → BRUCE | x2
+Only our more social patients are allowed to walk the halls and use our recreational facilities.
+
+#### bc793a92a8 | JOKER → LELAND | x2
+Except for the phone. No one’s allowed to use the phone.
+
+#### 2b1bf38841 | LELELAND → LELAND | x2
+The telephone is only for emergencies, nothing else.
+
+#### c9dfdb8c39 | LELAND → JOKER | x2
+This is our rec room. Patients are allowed to socialize for two hours everyday.
+
+#### 2522cee7dc | LELAND → JOKER | x2
+I’ll come by to check on you two later.
+
+#### b7ffd14d6b | JOKER → LELAND | x2
+Don’t worry about us, Doctor Leland! [quiet; looking at Bruce]I’m gonna take good care of him.
+
+#### 2c4bc6a5a8 | JOKER → BRUCE | x2
+This’ll be so much fun.
+
+#### d092d1b0df | ORDERLY02 → JOKER | x2
+Huh. So this is Bruce Wayne.
+
+#### c9ae968e58-LM | ORDERLY02 → JOKER | x2
+You may have her fooled, but we all know who you are. Don’t think you’re special just because you’ve got that name behind you.
+
+#### 1075140ef4 | ORDERLY02 → JOKER | x2
+And don’t expect us to protect you if the inmates recognize you.
+
+#### e2cc329764 | BRUCE → ORDERLY02 | x2
+Good thing I don’t need your protection.
+
+#### ea19cc03c1-SM | JOKER → ORDERLY02 | x2
+I got shivers. How do you do that with your voice? [shivers]Terrifying.
+
+#### b76e09130c-LM | ORDERLY02 → JOKER | x2
+Yeah, keep telling yourself that.
+
+#### f91347d40c-SM | BRUCE → JOKER | x2
+Well, good thing I’ve got my friend John here.
+
+#### ca8669f5b6 | JOKER → BRUCE | x2
+I’m the only bodyguard he needs.
+
+#### 69ce4aaeb1 | JOKER → BRUCE | x2
+They’ll have to get through me first!
+
+#### e144782e72 | JOKER → BRUCE | x2
+So don’t even think of trying anything.
+
+#### 936c1b62ef | BRUCE → JOKER | x2
+Do what you want.
+
+#### 6007fb9210 | BRUCE → JOKER | x2
+Because when I’m out of here-- and I will get out of here-- I’ll make sure you can’t even
+
+#### affbb95dd6-LM | BRUCE → JOKER | x2
+Because when I get out of here-- and I *will* get out of here-- I’ll have you fired.
+
+#### 258e49f691-LM | BRUCE → JOKER | x2
+I’ll have you fired.
+
+#### 17e2cf5c1f-LM | BRUCE → JOKER | x2
+And you won’t be able to even get a job as a garbageman in Gotham.
+
+#### 32029d2ed2-SM | JOKER → BRUCE | x2
+Oh ho ho! I knew this guy was gonna be great. Look at that.
+
+#### 86e4fd6753 | JOKER → ORDERLY02 | x2
+Oooh. Cold as ice. Look at him!
+
+#### 8d44a4485c | JOKER → ORDERLY02 | x2
+I think you better let him by. He’s crazy. Didn’t you hear?
+
+#### 5db36e20ea-S?-LM | ORDERLY02 → JOKER | x2
+Your two hours already started. I’d get going if I were you.
+
+#### 6b5845d857 | ORDERLY02 → JOKER | x2
+Don’t get into trouble.
+
+#### 8b9f422b06-L? | JOKER → ORDERLY02 | x2
+Aye, aye, sir! You won’t even know we’re here...
+
+#### 82f23d1866 | JOKER → INMATE02 | x2
+Limbs went all loose like a rag doll.
+
+#### e53abe5025 | INMATE02 → JOKER | x2
+The Wayne boy... never seen his face...
+
+#### df38fafa93 | INMATE02 → JOKER | x2
+Can’t see it now. No no no no no.
+
+#### 754af733f1 | INMATE02 → INMATE03 | x2
+Too bad. Can’t rip it off. Scratch it away...
+
+#### 30ed9fdc3c | INMATE03 → INMATE02 | x2
+It wasn’t a dream. It wasn’t. It never was. They lied to you. Sister lied.
+
+#### ac9fafd46a-L? | INMATE03 → INMATE02 | x2
+You saw them. You know you did. Right in front of you! Don’t listen to her!
+
+#### 4bb0c23ca1 | INMATE02 → INMATE03 | x2
+I’m drowning. Can’t breath. Can’t breath. Please.
+
+#### 2e4859211b | INMATE02 → INMATE03 | x2
+We’re all drowning.
+
+#### 48e92ee545 | UNSEENINMATE03, INMATE02 → INMATE03, JOKER | x4
+No one to help.
+
+#### 9c4aea1895 | INMATE03 → INMATE02 | x2
+Get me a bottle.
+
+#### 9cbf3cb2de-SF | LELAND → JOKER | x2
+He’s been with us for quite some time. I’m sure he’d be willing to show you around. Right John?
+
+#### b2b0af09cd | JOKER → UNSEENINMATE03 | x2
+Yeah, of course. I’d be honored.
+
+#### d39e95da10 | JOKER → INMATE03 | x2
+I know all the best people.
+
+#### 4d110e7bb8 | JOKER → LELAND | x2
+Not him. Don’t talk to him. He’ll bite your fingers off.
+
+#### 43d51d7ccb | JOKER → LELAND | x2
+Except with friends.
+
+#### d5784f7542-LM | LELAND → JOKER | x2
+You could learn a lot from him.
+
+#### 861ae222ba | JOKER → INMATE03 | x2
+There’s actually something you can help me with. A puzzle that’s missing a few pieces.
+
+#### 47abe8294e | INMATE03 → JOKER | x2
+Please no!
+
+#### b1e828627f | LELAND → INMATE03 | x2
+What did I say about being kind to the others?
+
+#### 78b8ecea54 | JOKER → LELAND | x2
+It’s so annoying!
+
+#### f6bf79d2d7 | LELAND → JOKER | x2
+That’s enough, John.
+
+#### 037bd21184 | LELAND → JOKER | x2
+Accompanied by a staff member, of course.
+
+#### 677b5943f0 | LELAND → JOKER | x2
+The police officers on the scene did, yes. A mild sedative only. Nothing out of the ordinary in situations like this.
+
+#### b22ef0a721-SM-LF | JOKER → LELAND | x2
+I thought you were dead at first.
+
+#### ef77e6af41 | JOKER → LELAND | x2
+Much more fun this way.
+
+#### 0c6a0f2137-SF | LELAND → JOKER | x2
+I’m sorry, no. Considering the kind of people we treat here, we have strict protocol in place.
+
+#### 5100a81814 | LELAND → JOKER | x2
+Too many incidents of patients using the phone to cause harm on the outside.
+
+#### f4ee604fc5 | LELAND → JOKER | x2
+No one is allowed to call an outside line unless it is an emergency.
+
+#### 332eb3e31f-SM | JOKER → LELAND | x2
+I saw a guy try it once. He’d been complaining for weeks about calling his dad.
+
+#### a4bbeef27f | JOKER → LELAND | x2
+One day he slipped into the hall...
+
+#### 79de99acb8 | JOKER → LELAND | x2
+Orderlies were on him like that. [snaps]
+
+#### bcc393b976 | JOKER → LELAND | x2
+We never saw him again.
+
+#### 199a802cd5 | LELAND → JOKER | x2
+He was transferred to a higher security wing.
+
+#### 1a6f862b52 | JOKER → LELAND | x2
+Is it true he didn’t call his daddy at all?
+
+#### a1028bb231-SM | JOKER → LELAND | x2
+I heard he was trying to order a hit on the guy who put him in here.
+
+#### 7162ef9f13 | LELAND → JOKER | x2
+Don’t listen to rumors, John.
+
+#### 408d87aee9 | LELAND → JOKER | x2
+Normally you wouldn’t be allowed to use the recreational facilities so soon, but since John has agreed to watch you I’ll allow this one exception.
+
+#### ead1e107ad | LELAND → JOKER | x2
+Only our higher functioning patients are permitted in here.
+
+#### 4bb339be95 | LELAND | x2
+Though always under supervision.
+
+#### c06c01baa0 | LELAND → ORDERLY02 | x2
+Remember, no one is allowed to use the phone. It is only there for emergencies and internal staff use.
+
+#### 6acb48f1d9 | LELAND → ORDERLY02 | x2
+Have fun.
+
+#### bcd4f94c47 | ORDERLY02 → LELAND | x2
+A lot of them got here because of a Wayne.
+
+#### 720cac2654 | ORDERLY02 → LELAND | x2
+Pretty sure they won’t care which.
+
+#### 95b9a0ffb4 | ORDERLY02 → LELAND | x2
+You’re on your own in here.
+
+#### 4ce643090c | ORDERLY02 → BRUCE | x2
+We’ll see about that, Wayne.
+
+#### 69e9af0e4e-L? | INMATE01 → ORDERLY02 | x2
+No no...you need to let me go! I have to warn the president! They’re trying to kill me!!!
+
+#### aa9f2e03e6 | JOKER → ORDERLY02 | x2
+Yeeeeah, they don’t like it when you try to use the phone...
+
+#### 10185f8114 | LELAND → JOKER | x2
+That’s because phones are for staff use only. No exceptions.
+
+#### 34ce3902e2 | INMATE02 → JOKER | x2
+I CAN’T TASTE ANYTHING!!!  I WANT TO TASTE!!!
+
+#### 57de567297-LM | JOKER → BRUCE | x2
+You got to be more careful, Bruce... [sinister] some of these guys bite.
+
+#### 6fa215a8b0 | INMATE02 → JOKER | x2
+...You see that phone, don’t ya? Ring ring ...ring ring ...ring ring ...ring ring
+
+#### cc92f6a79e | JOKER → INMATE02 | x2
+Wrong number, dumbass!
+
+#### 98fc60c059 | LELAND → JOKER | x2
+John!
+
+#### 5750aaefb4 | JOKER → INMATE02 | x2
+Didn’t stop that guy from trying... Such persistance.
+
+#### 6a705dbd7b | ORDERLY03 → JOKER | x2
+Come on, you don’t know the president!
+
+#### 5c79a56e52 | INMATE01 → JOKER | x2
+Noooo--
+
+#### 4c2b1efcba | JOKER → ORDERLY03 | x2
+They don’t like it when you try to use the phone.
+
+#### 57eff71f3a | JOKER → INMATE01 | x2
+Oh yeah. I’ll show him the whole nine yards. [chuckle]
+

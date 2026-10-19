@@ -1,0 +1,771 @@
+﻿#### 8835a60c57 | RYDER → NEWSCASTER | x2
+But the most shocking part of this story is the Hill campaign’s allegations that Dent may have actually been involved in the break-in.
+
+#### 07fa8d1f59 | NEWSCASTER → RYDER | x2
+Mayor Hill says he’s tough on crime, but since his election, violence in Gotham has skyrocketed.
+
+#### db8a90d94e | NEWSCASTER → RYDER | x2
+And when he was presented with legislation that would’ve dismantled organized crime in the city, he vetoed it, killing Gotham’s chance for a safer future.
+
+#### 3b7d96c5fa | NEWSCASTER → RYDER | x2
+Maybe that’s because the rumors of Hill’s connections to some of Gotham’s most notorious mafia families are true.
+
+#### 990b8182a6 | NEWSCASTER | x2
+We don’t need another gangster running the city. We need a crime fighting hero.
+
+#### bcadbb4cf7 | NEWSCASTER → HARVEY | x2
+With over two-hundred successful convictions, District Attorney Harvey Dent just might be the hero Gotham needs. But he can’t save our city alone. He needs your help.
+
+#### 26f3f52625 | NEWSCASTER → HARVEY | x2
+He believes that together we can make a ‘dent’ in Gotham’s crime. But it starts with you.
+
+#### 0655fa7a22 | NEWSCASTER → BRUCE | x2
+Vote for Harvey Dent and elect a real crime fighter to Gotham’s mayoral seat.
+
+#### 98d58588f0 | HARVEY → NEWSCASTER | x2
+I’m Harvey Dent and I approve this message.
+
+#### 56d4366eca | choice/UI → HARVEY | x2
+I’ll stay out of sight.
+
+#### f062031c62 | choice/UI | x2
+It was under control.
+
+#### 38ddc7135b | choice/UI → HARVEY, ALFRED, LELAND | x9
+Thanks for your help.
+
+#### 8f721930c2 | BRUCE → NEWSCASTER | x2
+I don’t want anything to do with Falcone.
+
+#### 7128af1d99-SM | BRUCE → ALFRED | x2
+I had everything under control.
+
+#### 7e22395fbf | BRUCE → ALFRED | x2
+Yeah, {SkepticalA}thanks for the interruption.
+
+#### 5148440e56 | ALFRED → BRUCE | x2
+You don’t have to take my advice, Bruce.
+
+#### 2614d592c4 | ALFRED → BRUCE | x2
+But that doesn’t mean I’ll stop giving it.
+
+#### dd5cc20bfd | BRUCE → ALFRED | x2
+Found her.
+
+#### 3c3af2ea19 | ALFRED → BRUCE | x4
+Not much to find, apparently.
+
+#### 1391e30eff | ALFRED → BRUCE | x2
+You might try under that name.
+
+#### 7d32ab4394-SM | BRUCE → ALFRED | x2
+I stay out of sight when I need to.
+
+#### 9e7a6db8e5 | BRUCE → ALFRED | x2
+That’s not the point.
+
+#### 69c1838dbd | BRUCE → ALFRED | x2
+Batman isn’t hiding from anybody.
+
+#### d71eaf65fc | BRUCE → ALFRED | x2
+I don’t like{AngryA} being compared to a common criminal.
+
+#### 33ac037179-LM | ALFRED → BRUCE | x4
+You could learn a thing or two from her.
+
+#### 1720fabdc6 | ALFRED → BRUCE | x2
+Define “need to.“
+
+#### 9551b9ecbb-SM | ALFRED → BRUCE | x2
+I was talking about Bruce.
+
+#### 6c46bf09a9 | ALFRED → BRUCE | x2
+I think you’re missing the point.
+
+#### 27e623b480-LM | ALFRED → BRUCE | x4
+You have to admit you’ve been drawing{SkepticalA} a lot of attention to yourself.
+
+#### 7c87ae2ba5 | BRUCE → ALFRED | x2
+No one’s gonna figure it out, Al. Trust me.
+
+#### 4881abfe01 | ALFRED → BRUCE | x2
+I don’t mean to beat a dead argument but--
+
+#### 766c298547-SM | choice/UI → ALFRED | x2
+I’ve got it covered.
+
+#### 7c732008bc | ALFRED → BRUCE | x2
+If they put it together with the incident at the Mayor’s Office...
+
+#### 537598792d | choice/UI → ALFRED | x2
+This city needs me.
+
+#### 774a7c6532-LM | BRUCE, choice/UI → ALFRED | x6
+You’re right, Alfred.
+
+#### c502eaf68c | ALFRED → BRUCE | x2
+You’re in the spotlight more than ever.
+
+#### d4b9e8c642 | ALFRED, choice/UI, LUCIUS → BRUCE, GORDON, BATMAN | x6
+You have to be careful.
+
+#### e0f95bc67e-SM | BRUCE → ALFRED | x2
+I’ve had to cover for mysterious injuries before.
+
+#### 0c36ef3422 | ALFRED → BRUCE | x2
+You’ve been lucky.
+
+#### cad4c35313 | BRUCE → ALFRED | x2
+Or I’m just a really good liar.
+
+#### cef9ac7d08 | BRUCE → ALFRED | x2
+I have a job to do, okay, {AngryA}a responsibility to this city.
+
+#### cc63efea9a-LM | BRUCE → ALFRED | x2
+You’re right, you’re right. I should’ve canceled the event.
+
+#### 33362e1d7e | ALFRED → BRUCE | x2
+I know how much pressure you’re under.
+
+#### 78cea482a4 | ALFRED → BRUCE | x2
+Old men worry, that’s all.
+
+#### c7969923dd | choice/UI → ALFRED | x2
+He needs money.
+
+#### bfd09220db | choice/UI → ALFRED | x2
+I’ll give him a chance.
+
+#### 1db59d02cd | choice/UI, BRUCE → ALFRED | x4
+It’s not a coincidence.
+
+#### 76d9a39fbd | BRUCE → ALFRED | x2
+Do you think he’s looking for a handout?
+
+#### 47719ca3c1 | BRUCE → ALFRED | x2
+I think he just wants to reconnect.
+
+#### a7f0431ee0 | BRUCE → ALFRED | x2
+Do you think he might know something about the break in?
+
+#### ce790c5d2d | BRUCE → ALFRED | x2
+This catwoman shows up around the same time Oswald comes back to town...{ThinkingB} might not be a coincidence.
+
+#### 266ca2d637 | ALFRED → BRUCE | x2
+He would’ve come to the right person.
+
+#### d44366ca8a | ALFRED → BRUCE | x2
+Why he’s returning now...
+
+#### 597be3d908 | ALFRED → BRUCE | x2
+I haven’t the faintest idea.
+
+#### 0ae57babc1 | ALFRED → RYDER | x2
+A lot can change over the years.
+
+#### d94f13a478 | ALFRED → RYDER | x2
+Well, as much as I enjoy having this {ConfusedA}one-sided conversation...
+
+#### 259b4b3e9b | ALFRED → BRUCE | x2
+I’d advise you to be cautious...
+
+#### 3fd0003ce6 | RYDER → ALFRED | x2
+Five criminals are in custody this evening after a break in at City Hall.
+
+#### d24e72fe7c | BRUCE → RYDER | x2
+Let’s find out what was so important.
+
+#### 953a2931c9 | choice/UI → RYDER | x2
+Data Drive
+
+#### e137ac9a7c | BRUCE, OSWALD → ALFRED, RYDER, BATMAN | x10
+It’s me.
+
+#### 20d00cbb00 | RYDER → BRUCE | x2
+But thanks to the efforts of the Batman, {ThinkingA}the stolen items were returned.
+
+#### c625252da7 | RYDER → BRUCE | x2
+The notorious Batman was on the scene, {ThinkingA}but failed to secure the stolen items.
+
+#### 2be105c97a | BRUCE → ALFRED | x4
+Encrypted.
+
+#### 7c75ae286b-SM | ALFRED → RYDER, BRUCE | x4
+I saved you what I could.
+
+#### d0f7267791-SM | ALFRED → RYDER, FAIRCHILD | x4
+The same couldn’t be said for the bar--{AmusedA}I had to literally pry Mrs. Zellerbach away.
+
+#### 0c68766f15 | ALFRED → BRUCE | x2
+It wasn’t for you, Bruce.
+
+#### 1a7d64ac7b-SM | ALFRED → BRUCE | x2
+I was worried he might drink all my good Scotch.
+
+#### fddbe457cb | ALFRED → BRUCE | x2
+Hopefully not close enough to stab you in the back.
+
+#### b1f6137c72 | BRUCE → ALFRED | x2
+It was a “keep your enemies closer” situation.
+
+#### 64991102ed | BRUCE → ALFRED | x4
+A few burglaries, {ConcernedA}break ins...
+
+#### 093a942dfc | BRUCE → ALFRED | x4
+Seems to lay pretty low.
+
+#### b74076db92 | ALFRED → BRUCE | x2
+As Bruce or Batman.
+
+#### 51811c7ef6 | BRUCE → ALFRED | x2
+Whenever Harvey calls.
+
+#### 8d5d8d2b5e | BRUCE → ALFRED | x2
+That guy’s exhausting.
+
+#### 65990aa60f | BRUCE → ALFRED | x2
+I want criminals {AmusedA}to know I’m out there.
+
+#### 987e343eb4 | ALFRED → HARVEY | x2
+Ms. Vale noticed your injuries. {ConcernedB}So did Mr. Dent.
+
+#### a118ee44f9 | BRUCE → ALFRED | x2
+You know why I do this.
+
+#### a2eecae30a | ALFRED → BRUCE | x2
+I don’t mean to add to it.
+
+#### e10d2abbe4 | ALFRED → BRUCE | x2
+If we make a suit that fits me, {HappyA}we can trade places some night.
+
+#### d9378ea7f5 | ALFRED → BRUCE | x2
+Though I’m not partial to heights.
+
+#### 2900890a48 | ALFRED → BRUCE | x2
+It’s our gift and our curse.
+
+#### 7cb2bfa388 | ALFRED → BRUCE | x2
+One more for the list.
+
+#### 90fddb31eb-SM | BRUCE → ALFRED | x2
+I thought I saw Oz. {ThinkingA}It’s been what, 20 years?
+
+#### dbe9b7e062 | ALFRED → BRUCE | x2
+And they haven’t been kind to him.{ConcernedA} Or he to them.
+
+#### b8fd56e427 | BRUCE → ALFRED | x2
+Unfortunately you are.
+
+#### d85acf8b4f | ALFRED → BRUCE | x2
+It’s a criminal grand slam,{ConfusedA} if I’m using the expression correctly.
+
+#### d21b4e96f7 | ALFRED → BRUCE | x2
+Oswald claimed he only wanted to catch up, {ThinkingB}but his behavior following his family’s collapse is... {ConcernedB}troubling.
+
+#### fce9c56397 | BRUCE → ALFRED | x2
+Criminal record or not, he’s still an old friend.
+
+#### 24105e4d34 | ALFRED → BRUCE | x2
+If I remember correctly... {AngryA}Oswald was fond of the old “firecrackers in the toilet” trick.
+
+#### 08edc7caff | ALFRED → BRUCE | x2
+I worry what he’s graduated to.
+
+#### 919ff6c230 | ALFRED → BRUCE | x2
+But I know you can’t abandon a good mystery {ConcernedA}until it’s solved.
+
+#### 14a73de889 | ALFRED | x2
+After the press conference tomorrow, {AmusedA}I’ll mark your calendar as “Exhausted” then.
+
+#### 7f2e6d739f | ALFRED | x2
+The media isn’t good for anyone’s health.
+
+#### b067a45a55 | ALFRED → BRUCE | x2
+The wrong kind of attention, to be clear.
+
+#### f8b34bee99 | ALFRED → BRUCE | x2
+It would undo all the long nights {ConcernedA}and close calls we’ve endured to get here.
+
+#### d8cfada35d | BRUCE → ALFRED | x2
+Because I’m--
+
+#### a120e8bce3 | ALFRED → BRUCE | x2
+A little too much sometimes.
+
+#### a7b21da330 | ALFRED → BRUCE | x2
+Because you’re generous.
+
+#### ef3c549cdf-SM | choice/UI → ALFRED | x2
+I won’t play his game.
+
+#### aa456348be-SM | choice/UI → ALFRED | x2
+I played him.
+
+#### 829f5d41f1 | ALFRED → BRUCE | x2
+The press has been referring to her as the “the cat burglar.” Nothing more.
+
+#### 64b5819cd3 | ALFRED, BRUCE → OSWALD, BRUCE, BATMAN | x9
+Anything?
+
+#### c524cdf0f6 | BRUCE, BATMAN, SELINA, LADYARKHAM → LUCIUS, ALFRED, BRUCE | x48
+Not yet.
+
+#### 8f5107f441 | ALFRED → BRUCE | x2
+You should have a look...
+
+#### 3bfbb081d4 | ALFRED → BRUCE | x2
+I wasn’t sure if I should give this to you or not.
+
+#### 9082edb7e9 | BRUCE → GUARD, ASSISTANT, ALFRED | x11
+What’s this?
+
+#### 606ae0a6d2 | ALFRED → FALCONE | x4
+But you’ll be pleased to hear everyone has left,{AngryA} including Mr. Falcone.
+
+#### d1302a854d | ALFRED → BRUCE, FAIRCHILD | x4
+Before the game switched from{DisgustA} billiards to cutthroat.
+
+#### f16d6408ca | BRUCE → ALFRED | x6
+Thanks, Al.
+
+#### 9771d4014e | ALFRED → BRUCE | x2
+Blood stains are much harder to remove from a tuxedo.
+
+#### 7d8979998d | ALFRED → BRUCE | x2
+I’d recommend leaving the{ConcernedA} fist fights to your alter-ego.
+
+#### 0d99be30d5 | choice/UI → ALFRED | x2
+Batmobile
+
+#### b7ca2eb936 | choice/UI → ALFRED | x2
+Don’t compare me to her.
+
+#### 06a9cfedad | choice/UI → ALFRED | x2
+Criminals need to know I’m out there
+
+#### b1e9ed0a25 | choice/UI → ALFRED | x2
+Business Card
+
+#### aa68058222 | choice/UI → ALFRED, COMMISSIONER | x10
+Main Screen
+
+#### dec8b1ce4b | ALFRED → BRUCE | x2
+Oswald’s crimes, numerous they may be, {ConcernedA}are on a much smaller scale than robbing City Hall.
+
+#### 0a2ddcbb69 | choice/UI → ALFRED, LUCIUS | x6
+Bat Suit
+
+#### 620d51d55a | choice/UI → ALFRED, HARVEY | x6
+Gadgets
+
+#### 0cb275c9bc | choice/UI → ALFRED | x6
+Cowl
+
+#### fb2a6195e5 | BRUCE → ALFRED | x2
+Cracking this should be easy.
+
+#### a3eddf0d72 | BRUCE → ALFRED | x2
+Not a problem.
+
+#### 17b6dfb8ff | BRUCE → ALFRED | x2
+Huh. Feels like I’ve done this before...
+
+#### 25f40d8138 | BRUCE | x2
+There, that worked.
+
+#### 54bd090269 | BRUCE | x2
+Okay, got that.
+
+#### 789662ee6c | BRUCE | x2
+Hmm, okay...
+
+#### 17c00ae2d9 | BRUCE | x2
+Almost there.
+
+#### efd66c7bde | BRUCE | x2
+Almost done.
+
+#### 8a71bf19b0 | BRUCE | x2
+I think that’s it.
+
+#### fa97725633 | BRUCE → ALFRED, GORDON | x6
+Got it.
+
+#### bc6370e98a | BRUCE | x2
+Perfect.
+
+#### 6f9a228e13 | BRUCE | x2
+Two more.
+
+#### 31e8cd8b18 | BRUCE | x2
+One more.
+
+#### e2bcda84fa | BRUCE → ALFRED | x2
+Done.
+
+#### f12cf41377 | BRUCE → ALFRED | x2
+Aaaaand done.
+
+#### ebb2e97ba1 | BRUCE → ALFRED | x2
+That looks right.
+
+#### d5a78c8619 | ALFRED → BRUCE | x2
+And in the meantime...
+
+#### d297c02442 | BRUCE → ALFRED | x2
+Not all of them.
+
+#### d5c7b4bb44 | BRUCE → ALFRED | x2
+Let’s see what she was really after.
+
+#### af0675f7e7 | RYDER → ALFRED | x2
+And we have breaking news tonight--
+
+#### a9a30cc3ae | BRUCE → ALFRED | x2
+Yeah, well. This is the only room that really matters.
+
+#### 4f26be1722 | ALFRED → BRUCE | x2
+In front of a computer.
+
+#### e7fa7a6d51 | ALFRED → RYDER | x2
+In a dark, damp cave...
+
+#### ab14916de6 | ALFRED → BRUCE | x2
+Wayne Manor has seven bedrooms, two kitchens, a library, a gymnasium, a basketball court, and a movie theater... and yet I always find you here.
+
+#### 449eb5e26b | ALFRED → BRUCE | x4
+The dusting is murder.
+
+#### b1c91607d8-LM | ALFRED → BRUCE | x4
+Well, then you won’t mind if I skip cleaning the rest.
+
+#### 583122f50a | ALFRED → BRUCE | x2
+One more worry for the list.
+
+#### cdc66a018a | BRUCE → ALFRED | x2
+Dishonorable discharge. Illegal boxing matches. Arms dealing. Prison stints...
+
+#### a77b0d0f00 | choice/UI → ALFRED | x2
+I like this cave.
+
+#### a32a28bfb0 | choice/UI → ALFRED | x2
+Those rooms don’t matter.
+
+#### cb9176172e | BRUCE → ALFRED | x2
+Sure, I can see the headlines now...
+
+#### 08048afb0e | BRUCE → ALFRED | x2
+Bruce Wayne. Billionaire. Entrepreneur. Cave dweller.
+
+#### d4000eaa45 | ALFRED → BRUCE | x2
+Then we should build an eighth bedroom down here.
+
+#### db1f1cf0e5 | BRUCE → ALFRED | x2
+I’m more at home here than the rest of the house, you know that.
+
+#### 737462e605 | ALFRED → BRUCE | x2
+Quite an eclectic resume.
+
+#### a0b26a214e | choice/UI → ALFRED | x2
+I’m working.
+
+#### 8c516dc65c | BRUCE → ALFRED, FAIRCHILD | x4
+I’ll leave as soon as I finish.
+
+#### f7f84b934b | ALFRED → BRUCE | x2
+Even worse, the best outcome is that no one ever finds out you’ve done it.
+
+#### 6ddbf8e70b | ALFRED → BRUCE | x2
+I agree--it isn’t normal work.
+
+#### d56c0e5920 | BRUCE → ALFRED | x2
+Yeah... well, good deeds usually go unnoticed.
+
+#### f75e6178ec-LM | ALFRED → BRUCE | x2
+Did you find out what that... cat woman... tried to steal?
+
+#### d00b27f89e | ALFRED → BRUCE | x2
+But I’d already sewn you up once tonight and had no interest in a repeat performance.
+
+#### 0071ff457b | ALFRED → BRUCE | x2
+It’s true--I’ve seen you take down worse thugs.
+
+#### d170bdf7af | ALFRED → BRUCE | x2
+Well, he certainly showed interest in you.
+
+#### 560547e12e | ALFRED → BRUCE | x2
+That’s what worries me.
+
+#### 54ef261ae0 | ALFRED → BRUCE | x2
+Your father despised men like Falcone. Thought they ruined Gotham’s stellar reputation.
+
+#### 71fb708b51 | BRUCE → ALFRED | x2
+Back when it still had one.
+
+#### 4a1ad2916f | ALFRED → BRUCE | x2
+Though people like this... cat woman... aren’t helping.
+
+#### a6d634aa63 | ALFRED → BRUCE | x2
+It can again, Bruce.
+
+#### 0347066e74 | BRUCE → ALFRED | x2
+Never seen her before.
+
+#### 22a500dce3 | ALFRED → BRUCE | x2
+Is she new to town?
+
+#### 53fee7dbba | BRUCE → ALFRED | x2
+Hopefully she’s just a tourist.
+
+#### 4478bed83e | ALFRED → BRUCE | x2
+You can’t step outside without it ending up in the news lately.
+
+#### 419b3b366d | ALFRED → BRUCE | x2
+A necessary evil in your line of work, I suppose.
+
+#### a2052019e3 | ALFRED → BRUCE | x2
+Though... I hope you change careers someday.
+
+#### 71c30a4d30 | ALFRED → BRUCE | x2
+Look, Bruce...
+
+#### 0ad3d9e334 | ALFRED → BRUCE | x2
+With your wealth, your time... and even your well-being.
+
+#### 0b51228efc | ALFRED → BRUCE | x2
+When you see what’s become of his park... I think you will.
+
+#### 322072db0f | BRUCE → ALFRED | x2
+I’ll be careful, Alfred.
+
+#### ae2b87233b | ALFRED → BRUCE | x2
+Though not unappreciated.
+
+#### dd8471502c | BRUCE → ALFRED | x2
+Nearly fell off a building for this?
+
+#### 10d6049d9d | ALFRED → BRUCE | x2
+For the record...
+
+#### 8b454c35fa | BRUCE → ALFRED | x2
+It’s okay. I know you’re only looking out for me.
+
+#### 24216edf73 | ALFRED → BRUCE | x2
+Oh yes. You drive that thing like a bat out of hell.
+
+#### 35e4347f18 | BRUCE → ALFRED | x2
+Well, the car helps.
+
+#### 22334c4b1c | ALFRED → BRUCE | x2
+For the car, I presume.
+
+#### eaa8a0cbea | ALFRED → BRUCE | x4
+And not the “Playboy Billionaire Buys New Yacht” kind of attention.
+
+#### 8019a34b8e | BRUCE → ALFRED | x2
+He was always trouble growing up, but the fun kind of trouble.
+
+#### 0363be625e | ALFRED → RYDER | x2
+You both were.
+
+#### faae848e6b | ALFRED → RYDER | x2
+Even though you and young Master Cobblepot used to be close...
+
+#### 1934183fb7 | RYDER → ALFRED | x2
+And one mobster’s murder caused quite a headache for commuters this morning. The body of Falcone family capo Louie “Pistachio” Garmone was found hanging off the side of the 4th Street Bridge sometime just before dawn, causing traffic to back up for miles as the cops cut him down.
+
+#### 8d54ac070d | RYDER → ALFRED | x2
+A string of home invasions rippled through the city’s already crime-infested East End.
+
+#### 50a7ac3e35 | FAIRCHILD → ALFRED | x2
+We are now on day three of the factory fire that will not end. Crews have given up trying to combat the blaze at the Otisburg processing center owned by Ace Chemical. Still no word on what started the fire, but whatever’s burning in there has resisted everything the fire department has thrown at it. They’re recommending people avoid the area and seek immediate treatment if you happen to breath in any of that tar-black smoke.
+
+#### dfad5a6303 | FAIRCHILD → RYDER | x2
+And if you can believe it... now you can’t even trust the valets.
+
+#### 94c47fb3df-SM-LM | ALFRED → BRUCE | x2
+I was impressed you played it cool so long.
+
+#### 4c01caf818-SM | ALFRED → BRUCE | x2
+I would have been tempted to be far less... polite.
+
+#### 4afe6af004-SM-LM | ALFRED → BRUCE | x2
+When I arrived, you looked ready to stab him with the pool cue.
+
+#### ad29274480-SM | BRUCE → ALFRED | x2
+Last time I saw him... we were in grade school.
+
+#### 4bf4cf4921 | ALFRED → BRUCE | x2
+Indeed. You two were thick as thieves.
+
+#### 127608ec42 | ALFRED → BRUCE | x2
+Oswald however, took that role more literally than you.
+
+#### 7ade10500f | BRUCE → ALFRED | x2
+That’s the stuff.
+
+#### 4542ce6a40 | BRUCE → ALFRED | x2
+I should see if I can refine the edge. Could be sharper.
+
+#### 8570d42507 | BRUCE → ALFRED | x2
+Spare grapple.
+
+#### c1d011dd3d-SM | BRUCE → ALFRED | x2
+Can’t believe I let her take that.
+
+#### 426a720661 | ALFRED → BRUCE | x2
+What are we looking at?
+
+#### 2ba48818d9 | BRUCE → ALFRED | x2
+Let me try a different angle.
+
+#### 88792a523d | BRUCE → FAIRCHILD | x2
+I’ll check the Codex.
+
+#### 9e93728580 | FAIRCHILD → BRUCE | x2
+More on this after the break.
+
+#### 251655a5a0 | RYDER → BRUCE | x2
+Another brutal week in Gotham, folks.
+
+#### 2b86310bdc | FAIRCHILD → BRUCE | x2
+And in other news...
+
+#### be222455d3 | choice/UI → FAIRCHILD | x2
+Spare Grapple Gun
+
+#### 56806a1ffd | choice/UI → FAIRCHILD, HARVEY, JOKER | x11
+Take
+
+#### abfd8a6ac7 | BRUCE → FAIRCHILD | x2
+Let me see what we’ve got in the Codex.
+
+#### e9ee828a0f | BRUCE → RYDER | x2
+In the process.
+
+#### 4091c7e902-SM | BRUCE → ALFRED | x2
+I already checked the Codex.
+
+#### 80a91e946d | BRUCE → ALFRED | x2
+I can program it to reveal trace elements in a confined space.
+
+#### 8d454c638b | BRUCE → ALFRED | x2
+The newest addition.
+
+#### 4da3db4049 | BRUCE | x2
+The test run at the Mayor’s office was a success.
+
+#### 757632d0a4 | BRUCE | x2
+Can deliver a jolt or knock out electricity in the area.
+
+#### c8094079f1 | BRUCE | x2
+I suppose that Cat Woman would have preferred the latter.
+
+#### bc9cc5b22a | BRUCE | x2
+The suit absorbed most of the damage from that gunshot...
+
+#### 192b499df7 | BRUCE | x2
+I’ve gotta protect my back. Even from the police.
+
+#### a5038587b0 | choice/UI | x2
+Data Port
+
+#### 586e275d71 | choice/UI | x2
+Trace Detection Skimmers
+
+#### 2715503ab6 | choice/UI → LUCIUS | x4
+Batarang
+
+#### dcbbb51540 | choice/UI | x2
+Smoke Pellets
+
+#### 8491221a7c | BRUCE | x2
+The batcomputer should be able to read whatever data is on that stolen drive.
+
+#### 928789473f | BRUCE | x2
+Holographic lenses...
+
+#### 84bbd7af72 | BRUCE | x2
+Voice modulation...
+
+#### 51addb443a | BRUCE | x2
+Wayne Enterprises really outdid themselves with this version.
+
+#### 4ec4a833a3 | BRUCE → FAIRCHILD | x2
+People with regular jobs can do their work anywhere, but for me... this is my office.
+
+#### 0b5abf96ea | BRUCE → FAIRCHILD | x2
+Yeah... well, good deeds often go unnoticed.
+
+#### 46c6436f69 | FAIRCHILD → BRUCE | x2
+Random stabbings are the latest headache for the riders of Gotham’s overcrowded skyrail cars to contend with. Gotham police are investigating multiple cases of riders receiving abdominal wounds from an ice pick or other pointed weapon while pressed into the tight quarters with fellow passengers. A few have died while most have been admitted to Gotham General in critical condition. The police don’t have any suspects at this time.
+
+#### f0c85c2afe | RYDER → BRUCE | x2
+Two more patients have gone missing from Arkham Asylum, bringing the total number of escapees from the half-prison, half-mental hospital to fifteen this year. Only three have been caught to date, but all the escapes highlight the rough, some would say inhumane conditions, at the aging Asylum. The latest, 44-year-old twin brother and sister Leon and Valerie Muldoon, should be considered dangerous if found. Authorities are asking that you do not approach and call police immediately.
+
+#### 3786ef1d7a-LM | FAIRCHILD → RYDER | x2
+Mayor Hill’s Gotham Beautiful Act takes effect today, making it possible for landlords to evict tenants immediately and without cause. The new law was created in order to allow Gotham City’s biggest property owners greater ability to modify and improve the city’s aging buildings, some of which have been occupied by families for decades. So if you come home from work tonight and find all your stuff on the street, don’t worry. It probably isn’t anything you did wrong.
+
+#### 790f6215da | BRUCE → RYDER | x2
+R&D really outdid themselves with this version. I’ll have to remember to thank Lucius.
+
+#### e368ed5a07 | RYDER → BRUCE | x2
+Talk about dirty politics.
+
+#### 326086a691 | RYDER → BRUCE | x2
+Or will it be perceived as a desperate attempt from a flailing campaign to take down one of Gotham’s most promising young politicians?
+
+#### bf2ae82cc4 | RYDER → BRUCE | x2
+Does Hill’s campaign really think these accusations hold any water with the voters?
+
+#### f39693ed97 | BRUCE → RYDER | x2
+Helps with the element of surprise.
+
+#### 2fb00ee01c | BRUCE → RYDER | x2
+Those skull faced mercs never saw it coming.
+
+#### 549a388a06 | BRUCE → RYDER | x2
+The design... helps with the performance.
+
+#### 3f0f193be4 | choice/UI → RYDER | x2
+Analyze Data Drive
+
+#### e26ddd9e1b | choice/UI → LUCIUS, COA01, CATWOMAN | x83
+Look At
+
+#### 79c77e7ca7 | choice/UI → ALFRED | x2
+Gadgets Table
+
+#### c43fabf248 | choice/UI → ALFRED | x2
+Movie Tickets
+
+#### 9974ca7876 | BRUCE → ALFRED | x2
+This is a map of the Eastside Shoreline...
+
+#### dec758f28f | BRUCE → ALFRED | x2
+But it could mean any number of things.
+
+#### f4b3a2c3c6 | ALFRED → BRUCE | x2
+Maybe it’s where Mayor Hill picks up his dry-cleaning.
+
+#### d1746119a3 | BRUCE → ALFRED | x2
+Hmm....
+
+#### e68e7fedf9 | BRUCE → ALFRED | x2
+I can’t make sense of it yet, but there’re still plenty of files to decrypt.
+
+#### 54e2560f57 | BRUCE → ALFRED | x2
+Money, weapons, drugs...
+
+#### 122ca8216d | choice/UI | x2
+EMP/StickyTazer
+
+#### eb589837b2 | BRUCE | x2
+Everything flows through that port.
+
+#### d91ebf5887 | choice/UI → ALFRED, HARVEY | x6
+Watch
+
+#### ed4cc5964e | choice/UI | x2
+Batman doesn’t hide.
+

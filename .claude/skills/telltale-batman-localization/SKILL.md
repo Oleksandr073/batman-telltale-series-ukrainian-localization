@@ -183,7 +183,7 @@ BAT_* folders); the scripts stop with a clear message if they are pointed at the
 Translation table (run from the repo root):
 ```
 python .claude/skills/telltale-batman-localization/scripts/build_tm.py original_data analysis/speaker_genders.xlsx analysis/translation_table.xlsx
-python .claude/skills/telltale-batman-localization/scripts/apply_translations.py original_data analysis/speaker_genders.xlsx analysis/translation_table.xlsx localized_data [--overrides overrides.tsv] [--only BM_]
+python .claude/skills/telltale-batman-localization/scripts/apply_translations.py original_data analysis/speaker_genders.xlsx analysis/translation_table.xlsx localized_data --unique unique_original_data unique_localized_data [--overrides overrides.tsv] [--only BM_]
 python .claude/skills/telltale-batman-localization/scripts/scene_view.py original_data analysis/scenes
 ```
 `build_tm.py` rebuilds the table and keeps filled translations (unmatched ones are saved to
@@ -207,8 +207,12 @@ It writes BAT_* files using the English BAT structure (headers, line counts, BOM
 
 **Folders and git.** `original_data/` = English, never edited. `localized_data/` = the game files with Ukrainian,
 written only by `apply_translations.py` (don't edit it by hand: the next import overwrites it, so put changes in the
-table or the overrides file). It started as an exact copy, so `git diff localized_data` shows exactly which lines were
-replaced (`git diff --word-diff=plain` is easiest to read), and untranslated files stay byte-identical. An import
+table or the overrides file). `unique_original_data/` and `unique_localized_data/` (written by `--unique`) hold every
+table row once, English and Ukrainian, in files that mirror the game folders (each text where it first appears; entry =
+`#### key | speaker → listener | x<count>`, the text lines, an empty line). Untranslated rows keep English, so
+`git diff unique_localized_data` shows each translation once. The script only empties and rewrites folders it created
+(marker file `.generated-unique-texts`). `localized_data/` started as an exact copy, so `git diff localized_data`
+shows exactly which lines were replaced (`git diff --word-diff=plain` is easiest to read), and untranslated files stay byte-identical. An import
 with an empty table changes nothing [VERIFIED]. `.gitattributes` forces CRLF for both folders on every computer.
 
 ## 11. Checklist when translating

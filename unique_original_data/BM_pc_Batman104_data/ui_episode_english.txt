@@ -1,0 +1,121 @@
+﻿#### e746ce3563 | choice/UI | x8
+He will remember that.
+
+#### 7cf122808e | choice/UI | x4
+She will remember that.
+
+#### 4b873462ba | choice/UI | x2
+Press <ui_notification_facebuttonDown.d3dtx:-20> and <ui_notification_controllerTriggerRight.d3dtx:-20> to start your Finishing Blow!
+
+#### e2bb0b9db1 | choice/UI | x2
+^color:#cbd6db^^font:GameplayBodyMedium^A Telltale story by
+^^ERIC STIRPE
+^^MARK DARIN
+
+#### 5cbdd9d16c | choice/UI | x2
+^color:#cbd6db^^font:GameplayBodyMedium^Episode Directed by
+^^MARK DROSTE
+
+#### 33a03b61cb | choice/UI | x2
+^color:#cbd6db^^font:GameplayBodyMedium^Choreography
+^^JONAH HUANG
+
+#### 811a1128b8 | choice/UI | x2
+^color:#cbd6db^^font:GameplayBodyMedium^Programming
+^^MICHAEL CARPENTER
+
+#### 7c5e919688 | choice/UI | x2
+Press <ui_notification_keyboardAndMouseA.d3dtx:-20> and <ui_notification_keyboardAndMouseD:-20> to start your Finishing Blow!
+
+#### 1196e320eb | choice/UI | x2
+Press both prompts simultaneously to start your Finishing Blow!
+
+#### f34da8e7d1 | choice/UI | x2
+^glyphScale:1.25^Wayne Enterprises
+^glyphScale:.6^12:01am
+
+#### bfbf60a057 | choice/UI | x2
+^glyphScale:1.25^City Hall
+^glyphScale:.6^9:12 PM
+
+#### 2fabdbd2d0 | choice/UI | x4
+Dr. Leland will remember that.
+
+#### 48e80a727c | choice/UI | x4
+The boy will remember that.
+
+#### 2d6cc40e7f | choice/UI | x2
+Colleen will remember that.
+
+#### 0b639ced4a | choice/UI | x2
+The puppet will remember that.
+
+#### 6ff1968dae | choice/UI | x4
+The doctor will remember that.
+
+#### 64ec8a3460 | choice/UI | x4
+Lucius will remember that.
+
+#### 4e5820843d | choice/UI | x6
+Two-Face will remember that.
+
+#### 4e8364d51c | choice/UI | x2
+Use Bat-Tech to reveal human heat signatures.
+
+#### b67682e5df | choice/UI | x4
+Unlink items that don’t seem to have a strong connection.
+
+#### 5daf408278 | choice/UI | x4
+Create an antidote: Match the Drug Molecule sequence to the Key Image.
+
+#### 296a7aa7ee | choice/UI | x2
+Analyze the device to determine its malfunction.
+
+#### 2244247d11 | choice/UI → LELAND | x4
+Drag to Follow Dr. Leland.
+
+#### c0892c200d | choice/UI → LELAND | x4
+Use^imageScale:0.95^<ui_notification_keyboardAndMouseWasd.d3dtx:-20> to Follow Dr. Leland
+
+#### adbedc6a33 | choice/UI → LELAND | x4
+Use <ui_notification_analogStickLeft.d3dtx:-20> to Follow Dr. Leland.
+
+#### 3d27387f57 | choice/UI | x2
+Use^imageScale:0.95^<ui_notification_keyboardAndMouseWasd.d3dtx:-20> to rotate the device and determine its malfunction.
+
+#### 6f8a88b857 | choice/UI | x2
+Use <ui_notification_analogStickLeft.d3dtx:-20> to rotate the device and determine its malfunction.
+
+#### b4dd412940 | choice/UI | x2
+Inject the Antidote
+
+#### a81d326306 | choice/UI | x2
+^glyphScale:1.25^Downtown Gotham
+^glyphScale:.6^1:23pm
+
+#### 04f19e8634 | choice/UI | x2
+^glyphScale:1.25^Gotham Heights
+^glyphScale:.6^Vale Residence
+^glyphScale:.6^5:46pm
+
+#### d0ecd2fcbd | choice/UI | x2
+Drag to inject the antidote.
+
+#### 4e33562f5b | choice/UI | x2
+Use^imageScale:0.95^<ui_notification_keyboardAndMouseWasd.d3dtx:-20> inject the antidote.
+
+#### 5cfc60b8a4 | choice/UI | x2
+Use <ui_notification_analogStickLeft.d3dtx:-20> to inject the antidote.
+
+#### 78db231066 | choice/UI | x2
+Move deeper into the house to get a better look.
+
+#### 48dcd8ef62 | choice/UI | x2
+REPORTER MISSING
+
+#### 994ddcebc6 | choice/UI | x2
+BREACHING FIREWALL
+
+#### 4690258a11 | choice/UI | x2
+The boy is afraid of Batman.
+

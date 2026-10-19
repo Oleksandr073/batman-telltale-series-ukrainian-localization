@@ -1,0 +1,2276 @@
+﻿#### db5b4c376b | choice/UI → LADYARKHAM | x2
+Nothing justifies murder.
+
+#### 9fb835ccc4-LF | choice/UI → LADYARKHAM | x2
+I know you were tortured.
+
+#### f49311e48b | choice/UI → LADYARKHAM | x2
+We have all suffered pain.
+
+#### 5646dfefce | choice/UI | x2
+I can get you medical help.
+
+#### 6bcc8a68b2 | choice/UI | x2
+Hand over Alfred.
+
+#### 9b604d6b89 | choice/UI | x2
+Your reign of terror ends now!
+
+#### 9334839ae9 | choice/UI | x2
+Fear is sometimes needed.
+
+#### 5024bfb495 | choice/UI | x2
+You’re a scared little girl.
+
+#### 4b2fc3cc59 | choice/UI | x2
+I protect Gotham.
+
+#### 9a8c06f093 | choice/UI | x2
+Alfred is not culpable.
+
+#### f6d8fe7f8b | choice/UI | x2
+Release him and end this.
+
+#### 555898f6ce-SM | choice/UI | x2
+I won’t hurt you.
+
+#### fedb5505aa | MONTOYA → GORDON | x2
+...ietentant Gordon. Gordon! Come in!
+
+#### 1ba045d7b9 | MONTOYA → LADYARKHAM | x2
+It’s the mayor! He’s
+
+#### 5a9f69ceb3 | choice/UI → MONTOYA | x2
+I can handle this.
+
+#### a7c1a8a76a | choice/UI → MONTOYA | x2
+Smoke Bomb
+
+#### 80c9abbe4c | choice/UI → MONTOYA | x2
+Harvey’s a sick man.
+
+#### ba83bed846 | choice/UI → ASSISTANT | x2
+I’m here to stop you!
+
+#### fc371cc210 | choice/UI → ASSISTANT | x2
+Please, let everyone go.
+
+#### 4816b1b5b7 | choice/UI → ASSISTANT | x2
+That coin rules you.
+
+#### b3c9cea804 | ASSISTANT → BRUCE | x2
+Please! I don’t deserve this!
+
+#### 8c55ea8e23 | BRUCE → HARVEY | x4
+It’s over Harvey.
+
+#### ace8cbc5c9 | choice/UI → HARVEY | x4
+[Pocket the Coin]
+
+#### 8b22d69b93 | choice/UI → HARVEY | x4
+[Throw the Coin]
+
+#### 13b10e8c1a | choice/UI → HARVEY | x2
+Tackle
+
+#### 5319f3b896 | choice/UI → HARVEY | x5
+Throw
+
+#### c5bfa74a83-LM | HARVEY → BRUCE | x2
+Bruce? You came --
+
+#### bab5c6f7d5 | HARVEY → BRUCE, RYDER | x4
+Wayne. About damn time!
+
+#### 595e228a54 | HARVEY → BRUCE | x2
+About time!
+
+#### 4db241b02b | ASSISTANT → HARVEY | x2
+Harvey, Harvey please! This isn’t right!
+
+#### 4017cb431f-LM | choice/UI → HARVEY | x2
+You burned my house!
+
+#### 0f8997bebc | choice/UI → HARVEY | x2
+[Pocket The Coin]
+
+#### c78d6a3865 | choice/UI → HARVEY | x2
+Let’s talk about this.
+
+#### 9ce9f8409b | choice/UI → HARVEY | x2
+[Throw The Coin]
+
+#### 8fb9647db3 | HARVEY → BRUCE | x2
+The guys running the show -- they’ve given up on everything except lining their pockets.
+
+#### 34647f007a | HARVEY → BRUCE | x2
+I just... I know I can make the city better...
+
+#### d9e4db7d0c | BRUCE → HARVEY | x2
+Okay, I’ll back you.
+
+#### 63fba9c725 | HARVEY → BRUCE | x2
+We go way back, Bruce. But that joke is in poor taste.
+
+#### 01d5b1da5d-SM | BRUCE → HARVEY | x2
+I’m serious, Harvey. I’ll fund your campaign. Completely.
+
+#### d19a53f15e-SM | BRUCE → HARVEY | x2
+I’ve lived in Gotham my whole life.
+
+#### c19c4a8e85 | HARVEY → BRUCE | x2
+I look at Gotham and I see all the great things it could be.
+
+#### 04beec74d3 | HARVEY → BRUCE | x2
+Thank you, Bruce. I... I promise I will not let you down.
+
+#### d2b5af17d4 | BRUCE → HARVEY | x2
+Uh-uh, never even crossed my mind. The only real question is, this election, or next?
+
+#### 1ebde5e4a1 | HARVEY → BRUCE | x2
+Heads, we announce tomorrow.
+
+#### 693ae133ef | HARVEY → BRUCE | x2
+Well, I’m hoping it’ll be heads.
+
+#### db4a6c2e77-LM | HARVEY → BRUCE | x2
+What a disappointment you turned out to be.
+
+#### e5dd2ab124-LM | HARVEY → BRUCE | x4
+You’re supposed to be face down in Crime Alley!
+
+#### 9747366970 | BRUCE → HARVEY | x2
+It’ll take more than your lowlife thugs to kill me.
+
+#### f6fae5c4f1-LM | HARVEY → BRUCE | x2
+Typical Gotham. You have to do everything yourself.
+
+#### 6dd55321d0 | BRUCE → HARVEY | x2
+Where are the hostages, Harvey!
+
+#### 8b0f920d2c | HARVEY → BRUCE | x2
+Oh, they’re still breathing. For now.
+
+#### 4a9b860a1b | BRUCE → HARVEY | x2
+You burnt my home to the ground, Harvey!
+
+#### c2c79a51d0 | HARVEY → BRUCE | x2
+It was a symbol of everything wrong with Gotham.
+
+#### d509b868a9 | HARVEY → BRUCE | x2
+The rest are still breathing. For now.
+
+#### a21fdfd8e1 | HARVEY → BRUCE | x2
+With your brains splattered on your parents’ plaque.
+
+#### 508708d503-L? | HARVEY | x2
+It was all planned out, but you had the audacity not to die.
+
+#### c7e27a847a | HARVEY | x2
+Whether they stay that way depends on you.
+
+#### 320076da27 | HARVEY | x2
+The coin called for your death.
+
+#### 746b1e3b43 | HARVEY | x2
+The universe will be off-kilter till its demands are met.
+
+#### 16afb4e618 | HARVEY | x2
+Wait... what am I saying?
+
+#### 4fa3afe86e | HARVEY | x2
+There’s a darkness in me, I can’t fight. I feel it’s contempt, building, swelling -- then he takes control and does things in my name.
+
+#### 3158d97b89 | HARVEY | x2
+Please, help me...
+
+#### bb7343823f | HARVEY | x2
+Or I don’t know what might happen.
+
+#### 8d1a3846d8 | choice/UI → HARVEY | x2
+Just put the gun down.
+
+#### 0df1515b00 | choice/UI → HARVEY | x2
+It’s too late. You’re beyond help.
+
+#### e0ca85a0eb | HARVEY | x2
+That’s right, you don’t! That’s why I do the talking!
+
+#### 6c463bb847 | HARVEY | x2
+I know it won’t be pretty.
+
+#### bb5636ab74 | HARVEY | x2
+It takes control and... does terrible things. All this...
+
+#### cda9bd0800 | choice/UI → HARVEY | x2
+I’m here to help
+
+#### b873f6604f | HARVEY → BRUCE | x2
+There’s a darkness in me, Bruce.
+
+#### 9463475bc0-SM | HARVEY → BRUCE | x2
+No... I would never...
+
+#### 7233ab420a | HARVEY → BRUCE | x2
+You’ve already done worse.
+
+#### fb15b512e4 | BRUCE → HARVEY | x2
+We can talk about it, Harvey.
+
+#### 811d44d84b | BRUCE → HARVEY | x2
+I’ve known you a long time, Harvey.
+
+#### b740332473 | HARVEY → BRUCE | x2
+All of this...
+
+#### bce8995ad6 | BRUCE → HARVEY | x2
+You are stronger than your demons.
+
+#### 3d9eb31059 | BRUCE → HARVEY | x2
+You’ve torn this city apart, Harvey.
+
+#### f5e7ee8eec | BRUCE → HARVEY | x2
+You don’t deserve help!
+
+#### 5ea049de1a | BRUCE → HARVEY | x2
+Just put the gun down, Harvey.
+
+#### 8d93ad04b9 | HARVEY → BRUCE | x2
+If you-- if you still believe in me, Bruce-- maybe I have a chance.
+
+#### 488b5bb24e-LM | HARVEY → BRUCE | x2
+You’re -- you’re right...
+
+#### 9687b6b3b8 | HARVEY → BRUCE | x4
+I forget you’re the problem, Wayne. Not the solution.
+
+#### b110ce6b6a | HARVEY → HOSTAGE01 | x2
+Useless pansy. I’m your only chance!
+
+#### 0d34f3c228 | HARVEY → HOSTAGE01 | x2
+Talk is for the weak!
+
+#### fdd156c6e3 | HOSTAGE01 → HARVEY | x2
+No, please!
+
+#### 46cba9af75 | BRUCE → HARVEY | x2
+Harvey, don’t!
+
+#### d248694dbc | HARVEY → HOSTAGE01 | x2
+I see through you Wayne.
+
+#### d73530fd91 | HARVEY → HOSTAGE01 | x2
+Bruce ‘is’ my friend...
+
+#### dfbfca8524-SM | HARVEY → BRUCE | x2
+With the woman I loved
+
+#### 4032e6b207-LM | HARVEY → BRUCE | x2
+It’s true. You did betray me with Selina, Bruce.
+
+#### 960ab1cf67-SM | choice/UI → HARVEY | x2
+I never betrayed you.
+
+#### bdf07eb2da | choice/UI → HARVEY | x2
+Don’t make this about her.
+
+#### 9ddad7999e | choice/UI → HARVEY | x8
+Two Face
+
+#### 8bd729ca96 | HARVEY | x2
+Just like its owner.
+
+#### 93b47afd65-LM | HARVEY → BRUCE | x2
+You always knew how to give me a boost, Bruce.
+
+#### 3334dbbca6-SM | HARVEY → BRUCE | x2
+I could always count on your friendship, Bruce.
+
+#### fda7a53c1a | HARVEY → BRUCE | x2
+Until... what happened with Selina.
+
+#### 83c882b713 | choice/UI → HARVEY | x2
+It wasn’t how it looked.
+
+#### 9088656391 | choice/UI → HARVEY | x2
+I swear nothing happened!
+
+#### 6b53fd5664 | HARVEY → BRUCE | x2
+That’s when this..
+
+#### 9ab4346aeb | HARVEY → BRUCE | x2
+That’s when this...
+
+#### b0ddc710fd-SM | BRUCE → HARVEY | x2
+I’m sorry, Harvey. I never wanted to damage our friendship.
+
+#### cd3999cd00 | HARVEY → BRUCE | x2
+You should have thought of that before!
+
+#### c8089069e9 | BRUCE → HARVEY | x2
+Whatever you think happened, it wasn’t how it looked.
+
+#### 17b688f3db | BRUCE → HARVEY | x2
+These hostages have nothing to do with Selina Kyle.
+
+#### e43cea2714-LM | HARVEY → BRUCE | x2
+The hostages?! I’m talking about betrayal, Bruce. And all you care about are these lowlifes you never met.
+
+#### 9e0ea9da73 | HARVEY → BRUCE | x2
+The hostages?! This is about you, stabbing me in the back!
+
+#### 910ad294b3-LM | HARVEY → BRUCE | x2
+All you care about are these . People you never met.
+
+#### 26a7f33694 | HARVEY → BRUCE | x2
+You don’t fool me for a second, Wayne.
+
+#### e04f554c49 | BRUCE → HARVEY | x2
+I know you don’t believe me, Harvey.
+
+#### 06b664eaa8 | HARVEY → BRUCE | x4
+The city needs to be purged of traitors like you.
+
+#### ee3a04f1ea | HARVEY → BRUCE | x2
+We need to cut out the rot and cauterize the wounds.
+
+#### ffb371cc96 | HARVEY → BRUCE | x4
+All of you.
+
+#### 0be7b63bba | HARVEY → BRUCE | x2
+And the police who disobey their Mayor’s orders!
+
+#### c0408793f0 | HARVEY → BRUCE | x2
+I know the man you really are.
+
+#### dc8044833c | BRUCE → HARVEY | x2
+But I swear to you. Nothing happened.
+
+#### d08f442fd5-LM | HARVEY → BRUCE | x2
+You did this to me!
+
+#### ed2e7c0c04-SM | HARVEY → BRUCE | x2
+When I started to lose it.
+
+#### 9d982e5d7d | HARVEY → BRUCE | x2
+No, this is terrible...
+
+#### 2387cb9944 | HARVEY → BRUCE | x2
+This is the only message people understand!
+
+#### 12640a00dc-SM | HARVEY → BRUCE | x2
+You’re... I’m right.
+
+#### 6912760206 | BRUCE → HARVEY | x2
+Harvey, no!
+
+#### b78aeb7f84-LM | BRUCE → HARVEY | x2
+Harvey, please! You called me here for a reason!
+
+#### ad889d9263 | BRUCE → HARVEY | x2
+Take me!
+
+#### c2359a0bcc-LM | HARVEY → BRUCE | x2
+You were my friend, Bruce.
+
+#### a94bab0193 | WEVEY → HARVEY | x2
+were going to save this city, together.
+
+#### d92e3e2256 | HARVEY → BRUCE | x2
+We were going to save this city, together.
+
+#### 6d6548eb94 | HARVEY → WEVEY | x2
+This can’t be what will....
+
+#### 6c938ef4e8 | HARVEY → WEVEY | x2
+This IS what will save Gotham.
+
+#### a3ad19092a-SM | HARVEY → BRUCE | x2
+I... I never wanted this.
+
+#### b7001e62a1-SM | HARVEY → BRUCE | x2
+All I wanted... was to make Gotham better.
+
+#### 15cc957fb7 | HARVEY → BRUCE | x2
+For families. For kids to play in the streets again.
+
+#### 4f10491e6c | BRUCE → HARVEY | x2
+This isn’t you!!
+
+#### ede4705034 | HARVEY → BRUCE | x2
+The old Harvey is dead!
+
+#### 98b1cbc5df | HARVEY → BRUCE | x2
+The old Harvey was weak!
+
+#### d8d0a5aa51 | HARVEY → BRUCE | x2
+The coin wants you dead, Wayne.
+
+#### 4331b8d4f5 | HARVEY | x2
+I want you to see these traitors judged before you go.
+
+#### 76810ac9ec-SM | HARVEY | x2
+I-- I was sworn to protect these people...
+
+#### 8fb0e94a58 | HARVEY → BRUCE | x2
+No man can make that call.
+
+#### 2cb2617c92 | HARVEY → BRUCE | x2
+The only thing that’s fair... is the flip of a silver dollar.
+
+#### 16182cc225 | HARVEY → BRUCE | x2
+But they defied me!
+
+#### c373a79dab | choice/UI → HARVEY | x2
+So much for protecting famialies
+
+#### 33a1709f8f | choice/UI → HARVEY | x2
+Remember who you are!
+
+#### 5f23ebf936 | choice/UI → HARVEY | x2
+Gordon’s back in control.
+
+#### d96033cd4d | choice/UI → HARVEY | x2
+Is this your legacy?
+
+#### 8041f2f357 | BRUCE → HARVEY | x2
+So much for a ‘safer Gotham.’
+
+#### 9a0665791c-LM | BRUCE → HARVEY | x2
+You were the fiercest DA the city ever had...
+
+#### 25af0e4e32 | HARVEY → BRUCE | x2
+It’s safe if you do what I say.
+
+#### 85db73c9f3-LM | BRUCE → HARVEY | x2
+You were a light of hope in the darkness. THIS makes you the nightmare.
+
+#### 8c9671702c-LM | BRUCE → HARVEY | x2
+If only you could see yourself, Harvey.
+
+#### e9c6a40901 | BRUCE → HARVEY | x2
+Would you want this to be your legacy?
+
+#### 2277f3f020 | VEYEXCHANGE → BRUCE | x2
+The Coin
+
+#### 11e5205082 | HARVEY → BRUCE | x2
+This is the only way to deal with them...
+
+#### b261b93a99 | BRUCE → HARVEY | x2
+It’s over, Harvey. Gordon has command of the police.
+
+#### ca3c8979b7 | BRUCE → HARVEY | x2
+Now you’re the nightmare.
+
+#### 7087ba8db5 | HARVEY → BRUCE | x2
+My legacy... my legacy will be a better Gotham.
+
+#### 8734ef38dc | BRUCE → HARVEY | x2
+You’ll be remembered for a bloodbath, nothing more!
+
+#### c03c60814c | BRUCE → HARVEY | x2
+He’s rounding up your men as we speak.
+
+#### 72afcab060 | HARVEY → BRUCE | x2
+You’re lying --
+
+#### ce41e935b7-LM | BRUCE → HARVEY | x2
+You’re finished.
+
+#### 501125d54b | HARVEY → BRUCE | x2
+Don’t you try and tell me how this is going to end!
+
+#### 2db5e1d9b8 | HARVEY → BRUCE | x2
+But I...
+
+#### d662dcb174 | HARVEY → BRUCE | x2
+WAS A FOOL!
+
+#### b457183b92-L? | HARVEY | x2
+You’re... you’re right.
+
+#### eef8bcf124 | HARVEY → HTIMEY | x2
+Two-faced move, I know...
+
+#### b67c8f189f | HARVEY → HTIMEY | x2
+Two faced move, I know...
+
+#### 336f3e7a7b | HARVEY → HTIMEY | x2
+...but sometimes, you have to make your own luck.
+
+#### 2e3b3ef974 | HTIMEY → HARVEY | x2
+e for one last call.
+
+#### 96a0805096 | HARVEY → HTIMEY | x2
+One last call...
+
+#### 3289cf54b6 | HARVEY → HTIMEY | x2
+A bullet in the head...
+
+#### 2b37a417ef | HARVEY → HTIMEY | x2
+...or one in the heart?
+
+#### dcaf7684ec | HARVEY | x2
+I’m feeling pretty good about those odds.
+
+#### fe54199510 | HARVEY | x2
+Heads!
+
+#### 6bfa731bd1 | HARVEY → BRUCE | x2
+Goodbye, Bruce.
+
+#### 611e406cca | HARVEY → GCPDO4 | x2
+Wait your damn turn!
+
+#### 13de51eefa | HARVEY → GCPDO4 | x2
+They’re traitors!
+
+#### 8517cd650a | GCPDO4 → HARVEY | x2
+Oh God, thank you.
+
+#### 56d02771c9 | HARVEY → GCPD04 | x2
+Go! Go, get away!
+
+#### c208c708ce | HARVEY → GCPD04 | x2
+Weakling! Who are you to spare anyone?
+
+#### 63cc044fc3 | GCPD04 → BRUCE, HARVEY | x4
+Th- Thank you for sparing me.
+
+#### b75957b7ec | BRUCE → HARVEY | x2
+No!!
+
+#### 42471ef1e9 | HARVEY → BRUCE | x2
+Kill, don’t kill...
+
+#### b270aa554c | BRUCE → HARVEY | x2
+Harvey!!
+
+#### dbe65eed00 | HARVEY → BRUCE | x2
+People are fallible. Weak.
+
+#### 37a6bcf81a-LM | BRUCE → HARVEY | x2
+You’re weak, Harvey.
+
+#### 3ad7b50b80 | HARVEY → BRUCE | x2
+We all serve at the whim of Fortune, Wayne.
+
+#### 31f1063172 | HARVEY → BRUCE | x2
+At least, not me...
+
+#### 0defdbd736 | BRUCE → HARVEY | x2
+You’re insane! There’s nothing fair about putting a life on a coin toss.
+
+#### 802eedd537 | HARVEY → BRUCE | x2
+It’s true...
+
+#### f2fd5abeac | BRUCE → HARVEY | x2
+You have always known right from wrong.
+
+#### 69e4a4d410 | BRUCE → HARVEY | x2
+I am begging you!
+
+#### 2767ed07c2 | HARVEY → BRUCE | x2
+At least they get a chance!
+
+#### ce759c4339 | HARVEY → BRUCE | x2
+STAY BACK!!
+
+#### af40aca97e | RYDER → BRUCE | x2
+Oh God, please don’t!
+
+#### 69376de739 | BRUCE → HARVEY | x2
+Harvey, no more.
+
+#### 8bc5c05d36 | BRUCE, choice/UI → HARVEY | x4
+You’re insane!
+
+#### f9f0d0081e | BRUCE → HARVEY | x2
+Oh god, Harvey...
+
+#### 8d1d647672 | HARVEY → BRUCE, GCPD04 | x4
+But it’s the right thing to do --
+
+#### 9a85110a96 | HARVEY → BRUCE | x4
+Not everyone is so lucky.
+
+#### 0edbad150d | HARVEY → BRUCE | x2
+No, no it’s too late!
+
+#### 7f35b77817 | HARVEY → BRUCE | x2
+No. There’s no going back to how it was.
+
+#### cad2227796 | HARVEY → BRUCE | x2
+This is what I am now!
+
+#### 7e49d6de88-SM | BRUCE → HARVEY | x2
+I wanted that
+
+#### df446762fc-LM | BRUCE → HARVEY | x2
+You once said you wanted a better Gotham.
+
+#### dc172a0ef5 | BRUCE → HARVEY | x2
+The manor is surrounded by Gordon’s men.
+
+#### 1759c45345 | RUCE, BRUCE → BRUCE, HARVEY | x4
+So much for the great reformer.
+
+#### b8dc135e28 | BRUCE → RUCE | x2
+You’re no better than the Children of Arkham.
+
+#### 78f522e722 | BRUCE → HARVEY | x2
+You can still do that, Harvey.
+
+#### 7f41e20d1b | choice/UI | x2
+Nice job...
+
+#### 1291e268fa | BRUCE → RUCE | x2
+But not when you’re
+
+#### 3a81fa9a62 | choice/UI | x2
+This can’t be undone.
+
+#### f4bf6e62aa | choice/UI → HARVEY | x2
+It’ll be okay, I promise.
+
+#### ea776cc7d9-LM | BRUCE → HARVEY | x2
+You’re sick, Harvey.
+
+#### 0009d47d74-LM | BRUCE → HARVEY | x2
+The only thing to do is turn yourself in.
+
+#### 87b37fd5e1-SM | HARVEY → BRUCE | x4
+I know... I’ve failed...
+
+#### 028b01f57e | HARVEY → BRUCE | x2
+I-- I know.
+
+#### f2af7fed51 | BRUCE → HARVEY | x2
+You don’t have to do this!
+
+#### 1d1b530fd4-SM | HARVEY → BRUCE | x4
+I need... I need the result!
+
+#### 8f54a1e8b7 | HARVEY → BRUCE | x4
+Without the coin, I can’t...
+
+#### e571e8cd27 | HARVEY → BRUCE | x4
+Where do I shoot!?
+
+#### 1d36d5f20e | HARVEY → MONTOYA | x4
+DROP THE DAMN COIN!!
+
+#### 1d283e13f3 | HARVEY → BRUCE | x2
+You know that, Bruce
+
+#### 40452afdfb | HARVEY → BRUCE | x2
+I’m a monster. This is what I deserve.
+
+#### d1c6f427ac | BRUCE → HARVEY | x4
+Make your own call.
+
+#### f23ebd193a | HARVEY → BRUCE | x2
+Can’t use this. Not without the call.
+
+#### eefa44ea08 | HARVEY → BRUCE | x4
+The old fashioned way then.
+
+#### 362065124c | HARVEY → BRUCE | x4
+No!!!
+
+#### d2c6811409 | HARVEY → BRUCE | x2
+I can’t carry out the sentence!
+
+#### dfc8bf7471 | HARVEY → BRUCE | x6
+Bruce....
+
+#### c88d0592f8 | HARVEY → I VEY | x2
+I don’t know. I don’t know what to do.
+
+#### 04b0764b95-SM | I VEY → HARVEY | x2
+can’t decide... I can’t make the choices myself.
+
+#### 6a359b1cbd | HARVEY → I VEY | x2
+I-I can’t decide...
+
+#### 282f01f2f9 | HARVEY → I VEY | x2
+It’s too much. It’s too much... I can’t...
+
+#### 2a85597166 | HARVEY | x2
+I don’t... I don’t know what to do.
+
+#### ee2fd0387d | HARVEY | x2
+I can’t decide.
+
+#### 23d16da6f4 | HARVEY | x2
+It’s too much. It’s too much, too much... I can’t...
+
+#### fbaa34e587 | HARVEY | x2
+There’s always a way out when you’re holding a loaded gun.
+
+#### a6cb1adabe-SM-L? | HARVEY | x2
+But you betrayed me with the woman I loved!
+
+#### 980cb42c52 | HARVEY | x2
+This is the only way to clean up this cesspool!
+
+#### 5cb7e88a7f | choice/UI → HARVEY | x2
+(Scratched side) Heads
+
+#### 47f600f48a | choice/UI → HARVEY | x2
+(Clean side) Tails
+
+#### d7d5a94ee5 | HARVEY | x2
+Scratched side says he dies.
+
+#### e10ed9655d | HARVEY → GCPD04 | x2
+Ooh...not your lucky day.
+
+#### 09a5cbf289 | HARVEY → GCPD04, ALFRED | x4
+Hmph. Lucky.
+
+#### 49374972f6 | HARVEY → GCPD04 | x2
+Get out!
+
+#### d018b3562e | HARVEY → GCPD04 | x2
+I didn’t spare anyone! That’s not up to me!
+
+#### d8a5dc0477-L? | HARVEY → GCPD04 | x2
+You’re right! This isn’t me...
+
+#### 1c019a15de | HARVEY → BRUCE | x2
+What have I done, Bruce?
+
+#### c938a4ef51 | HARVEY | x2
+...and now, they’ll pay the price!
+
+#### 2e93310d22 | HARVEY → RYDER | x4
+That’s far enough.
+
+#### 5ae0705898 | HARVEY | x2
+Except for this one. This one you can for having the courage to show up.
+
+#### c179a5652f | HARVEY → BRUCE | x2
+Just to show I appreciate you showing up...
+
+#### cf038f9c02 | HARVEY → BRUCE | x2
+What am I asking!?
+
+#### 2bc8470a73 | HARVEY → BRUCE | x2
+There’s nothing you can do for me!
+
+#### 16ff86140f-LM | choice/UI → HARVEY | x2
+You’re not yourself, Harvey.
+
+#### 5c5e1f9ebc | BRUCE → HARVEY | x2
+Gotham is worse than ever, and it’s your fault.
+
+#### 2f93df4572 | HARVEY → BRUCE | x2
+What good is ‘sane’ in an insane universe?!
+
+#### 47a796a87d | HARVEY → BRUCE | x2
+We used to be close, Bruce --
+
+#### 75461da146 | choice/UI, BRUCE → HARVEY | x4
+There’s nothing you can do.
+
+#### d258a3c458 | choice/UI → HARVEY | x2
+Everything will be okay.
+
+#### 201e1bb68e | choice/UI → HARVEY | x2
+Remember who you are.
+
+#### bc37eddd93 | BRUCE → HARVEY | x2
+Remember who you are at your core Harvey.
+
+#### bfd8fc615f-SM | HARVEY → BRUCE | x2
+All I wanted... was to make Gotham a better place.
+
+#### 5a0fab5ebf | HARVEY → BRUCE | x2
+Bruce, I only ever wanted to help Gotham.
+
+#### ceb048a0c4 | BRUCE → HARVEY | x2
+It’ll be okay, Harvey. I promise.
+
+#### 25e3c4b44f | BRUCE → HARVEY | x2
+Just let these people go.
+
+#### abc131bca6-LM | BRUCE → HARVEY | x2
+You’ve murdered people, Harvey. Broken every law.
+
+#### 9ba6520847 | HARVEY → BRUCE | x2
+You really think so?
+
+#### 88596d848b | BRUCE → HARVEY | x2
+I know so. Just let these people go.
+
+#### 3b9e337e40 | BRUCE → HARVEY | x2
+You’ll get it -- just let the hostages go.
+
+#### f17be30a3e-SM | HARVEY → BRUCE | x2
+I-- I know. I’ve committed terrible acts...
+
+#### 0863918ce5 | HARVEY → BRUCE | x2
+I’m a lost cause.
+
+#### 49621c67b5 | HARVEY → BRUCE | x2
+Now look at it.
+
+#### 3749fb3d75-SM | HARVEY | x2
+I told you to stay back!
+
+#### 03b5babf69 | HARVEY → BRUCE | x2
+]2face] It seems there’s only one way to get through to you, Wayne.
+
+#### feb326902e | HARVEY | x2
+But that’s not up to me.
+
+#### 501627e16d | HARVEY | x2
+But they weren’t up to me...
+
+#### 6a3293d085 | HARVEY → BRUCE, ALFRED | x8
+That’s not up to me.
+
+#### ed551c7257 | HARVEY → BRUCE | x2
+You’re were my friend, Bruce.
+
+#### b08b4387df | HARVEY | x2
+I wasn’t fair to you. I hope --
+
+#### 43ac9b163b | HARVEY → BRUCE | x2
+We were good friends once, Bruce.
+
+#### 91751da8f3 | HARVEY | x2
+And for what I’m about to do.
+
+#### 6eee53b51f-SM | HARVEY | x2
+Please remember me as I was.
+
+#### 8739f3b127 | HARVEY → BRUCE | x2
+Before all this...
+
+#### cffea7a955-SM-LM | HARVEY → BRUCE | x2
+And you always knew me better than I knew myself...
+
+#### 65ea3e2425 | HARVEY → BRUCE | x2
+For everything I’ve done.
+
+#### b70ab1a7e9 | choice/UI → HARVEY | x2
+Please! Don’t do it!
+
+#### d7d11607eb | choice/UI → HARVEY | x2
+You can never be forgiven.
+
+#### 9b8cdd6efd | choice/UI, BRUCE → HARVEY | x4
+It doesn’t have to end like this.
+
+#### ec8381399a | BRUCE → HARVEY | x2
+I’ll never forgive you.
+
+#### 29cc09f8c8 | BRUCE → HARVEY | x2
+But you have to stop now.
+
+#### 1f1abf0eb5 | BRUCE → HARVEY | x4
+But this isn’t how this should end.
+
+#### 79ababa24d | HARVEY → BRUCE | x2
+No more!?  This is all that’s left!
+
+#### d302f08425-SM | HARVEY → BRUCE | x2
+I would let them all go... but it’s not up to me.
+
+#### 2515d57617 | BRUCE → HARVEY | x2
+This doesn’t need to end this way.
+
+#### 5e9332fdf4 | HARVEY → BRUCE | x2
+I can’t make this decision.
+
+#### 585f2f7338 | HARVEY → BRUCE | x2
+Then this is a good way for this to end.
+
+#### 29b816c713 | HARVEY → BRUCE | x2
+But we have to leave it to chance.
+
+#### 98b4e5c83e | HARVEY → BRUCE | x2
+I-I can’t...
+
+#### fc63aafd03-SM | HARVEY → BRUCE | x2
+Bruce, I need-- I need the result!
+
+#### 169425cf06 | MONTOYA → HARVEY | x2
+He’s right, you know. That was brave.
+
+#### 105417b58c-LM | MONTOYA → HARVEY | x2
+That was brave, what you did.
+
+#### 606de6f98b | BRUCE → MONTOYA | x2
+You and me both, Sergeant.
+
+#### 1796b0c4b2 | MONTOYA → BRUCE | x2
+I love you.
+
+#### 1cd0b18378 | BRUCE → MONTOYA | x2
+People were dying, in my home. It was the right thing to do.
+
+#### 9282a0a4da | BRUCE → MONTOYA | x2
+Harvey and I have history.  He had it coming, one way or another.
+
+#### 723c7611dd | MONTOYA → BRUCE | x2
+I know. But it was still a brave thing.
+
+#### 40a812aa49 | BRUCE → MONTOYA | x2
+It’s not the first time you’ve been through the wringer.
+
+#### 88aafa0d6c | MONTOYA → BRUCE | x2
+Every day on the force is a wringer in this town. That’s the job.
+
+#### 3f259e7e53 | MONTOYA → BRUCE | x2
+Also a brave thing. Maybe finally the city will see you in a new light.
+
+#### 60a50ceb08 | BRUCE → MONTOYA | x2
+But for a civilian -- well maybe finally the city will see you in a new light.
+
+#### fcdd2d05de | MONTOYA → BRUCE | x2
+Maybe the city will start to see you in a new light.
+
+#### 4af20c061e | MONTOYA → BRUCE | x2
+Things could have been a lot worse.
+
+#### added20704 | MONTOYA → HARVEY | x2
+For the city. For all the hostages who survived.
+
+#### d7b77c3f66 | MONTOYA → HARVEY | x2
+For a civilian to risk himself like that -- well, maybe finally the city will see you in a new light.
+
+#### e9240a0e70 | HARVEY → MONTOYA | x2
+No matter what lies you try and soft-peddle me.
+
+#### 0c0dc15cc7 | choice/UI → HARVEY | x2
+(Scratched side) Heads!
+
+#### 23c22c0493 | choice/UI → HARVEY | x2
+(Clean side) Tails!
+
+#### c57c2d596a | HARVEY → MONTOYA | x2
+Unfortunate.
+
+#### e710359e3d | HARVEY → MONTOYA | x2
+It’s your lucky day, Deborah.
+
+#### 69bffe3b4c | HARVEY → BRUCE | x2
+Give me the coin!
+
+#### 3ac11a672e | HARVEY → BRUCE | x2
+But then we don’t get to decide!
+
+#### 5af49fc6c2 | BRUCE → HARVEY | x2
+Your bloody grab for power is done, Harvey.
+
+#### 4eb0364bed | HARVEY → BRUCE | x2
+You’d do that for me?
+
+#### f76d3ba80f-LM | BRUCE → HARVEY | x2
+Is this what you had in mind?
+
+#### 2323b420ec-SM | HARVEY → BRUCE | x2
+Oh, I wanted so much for this city, Bruce.
+
+#### e9aab1cd78 | choice/UI → HARVEY | x2
+Two Face.
+
+#### 4319bdf41d | choice/UI → HARVEY | x2
+Yes, Harvey
+
+#### fe573f7ec0 | choice/UI → HARVEY | x2
+No, Two Face.
+
+#### 2d400aed42 | HARVEY → BRUCE | x2
+I can’t decide! It’s too much!
+
+#### c4c62ad9f9 | HARVEY → BRUCE | x2
+It’s too much. I can’t...
+
+#### ea9af3a57f | HARVEY → BRUCE | x2
+Please, I don’t... I don’t know what to...
+
+#### e078d8da09 | HARVEY → BRUCE | x2
+It had to be destroyed.
+
+#### cad7f02fab-LM | HARVEY → BRUCE | x2
+You claimed you were a friend.
+
+#### 97d192b321 | BRUCE → HARVEY | x2
+You can’t make this about her.
+
+#### 8389a547f8 | HARVEY → BRUCE | x2
+You don’t even have the courage to speak.
+
+#### 3c726319e8 | HARVEY → BRUCE | x2
+Let’s flip for it.
+
+#### ab6e63daa8 | BRUCE → HARVEY | x2
+I’ve seen DA’s come
+
+#### bfa5c1b374-SM | BRUCE → HARVEY | x2
+and I’ve never seen an official I could believe in... until you.
+
+#### 030ae949e0-SM | HARVEY → BRUCE | x2
+If I could only get a shot at the big chair.
+
+#### f722a17ac1 | ASSISTANT → HARVEY | x2
+I’m begging you, don’t kill me!
+
+#### c1e72408da | HARVEY → ASSISTANT | x2
+Slaves to their bias.
+
+#### 2968cdf0ea | HARVEY → ASSISTANT | x2
+We’re not qualified to pass judgement.
+
+#### 1a7620d5c6 | HARVEY → ASSISTANT | x2
+We have to defer to our fickle mistress Fortune.
+
+#### 4dd9286783 | HARVEY → BRUCE | x4
+including that Arkham creature with her twisted plans to destroy Gotham.
+
+#### f118b8fab6 | HARVEY → BRUCE | x2
+The terrorist gang that did this to my face.
+
+#### cf6b79d9a7-SM | BRUCE → HARVEY | x2
+I need to know they’re alive.
+
+#### e8be91de5d | HARVEY → BRUCE, COA01 | x4
+And it has to be answered!
+
+#### f79e91ca65 | BRUCE → HARVEY | x2
+I-- I know you can defeat them.
+
+#### 8177e127da | HARVEY → BRUCE | x4
+You can’t trick me into surrender!
+.
+
+#### 2754a405e3 | HARVEY → BRUCE | x2
+You’re an idiot, Wayne.
+
+#### f80105e70d | BRUCE → HARVEY | x2
+You can’t put a life on a coin toss!
+
+#### 70b1c0a389 | HARVEY → BRUCE | x2
+And she’s a fickle mistress.
+
+#### b5998ed4a6 | BRUCE → HARVEY | x2
+To see it reach its full potential!
+
+#### 8c7c5d5524 | BRUCE → HARVEY | x2
+A bloody, burnt out wreck?!
+
+#### 06c81bd5e3 | HARVEY → BRUCE | x2
+For what I’ve done --
+
+#### 9e868aeedc | BRUCE → HARVEY | x2
+Please-- don’t do this.
+
+#### 2edcfe6279 | HARVEY → BRUCE | x8
+Let’s leave it to chance.
+
+#### 09f57a3adb | BRUCE → HARVEY | x2
+And neither will Gotham.
+
+#### e59c019bda | HARVEY → BRUCE | x2
+We have to leave it to chance.
+
+#### 9897729920 | BRUCE → HARVEY | x2
+You’re a slave to that coin!
+
+#### 4a0633e32a-SM-LM | HARVEY → BRUCE | x4
+I thought you’d understand by now. It’s clear you need another demonstration.
+
+#### 7c47bf027a | HARVEY → BRUCE | x2
+You still don’t get it, do you!
+
+#### e3f9c6075d | BRUCE → HARVEY | x2
+Let the hostage go.
+
+#### 90f819981e | HARVEY → BRUCE | x2
+But we live in a random world.
+
+#### 11a8a9518e | HARVEY → BRUCE | x2
+You pretend as if our fates are written.
+
+#### 1887714033 | HARVEY → BRUCE | x2
+Please, Bruce... Please...
+
+#### 3fea189a93 | HARVEY → RYDER | x2
+No matter what lies you try and peddle me.
+
+#### 9919e90972 | HARVEY → RYDER | x2
+The head or the heart.
+
+#### a05004c13b | RYDER → HARVEY | x2
+I owe you so much!
+
+#### 0e4af1a800-LM | RYDER → HARVEY | x2
+But you saved far more than my life.
+
+#### 0f445e4c40-L? | RYDER | x2
+You saved Gotham from a tyrant.
+
+#### 07fc9927e4 | RYDER | x2
+For that -- for that, I’ll never be able to repay you.
+
+#### 3d1adc2ccf | RYDER | x2
+My-- my blood, pooling on the floor.
+
+#### a0dd100041-LM | RYDER → BRUCE | x2
+But you saved far more than my life today.
+
+#### 308797eada | RYDER → BRUCE | x2
+And neither will this city.
+
+#### 0f445e4c40-LM | RYDER → BRUCE | x2
+You saved Gotham from a tyrant.
+
+#### 9481b057d7 | choice/UI → RYDER | x2
+I’ll take an IOU.
+
+#### 680073e26c | choice/UI, BRUCE → RYDER, HARVEY | x4
+My family owes this city.
+
+#### a4500d8e67 | BRUCE → RYDER | x2
+You can write me an IOU.
+
+#### c604e813e4 | RYDER → MONTOYA, BRUCE | x6
+Gotham will hear about this, as soon as I’m back on the air.
+
+#### f213f2501b-LM | RYDER → BRUCE | x4
+I want everyone to know what you did here today.
+
+#### bb7745ac5c | BRUCE → RYDER | x2
+My family name’s been dragged through the mud.
+
+#### e502683269 | BRUCE → RYDER | x2
+I’m just doing what I can to pull it out.
+
+#### 47f6bf4b48 | RYDER → BRUCE | x2
+We’re all in your debt.
+
+#### 7fc9c35d9d | RYDER → BRUCE | x2
+I can help with that.
+
+#### a8c3874604 | RYDER → BRUCE | x4
+As soon as I’m back on the air.
+
+#### 1b8226acce | BRUCE → RYDER | x2
+Anyone in my shoes would have done the same.
+
+#### d2d46ff973 | RYDER → BRUCE | x6
+You’re a hero, Mr Wayne.
+
+#### 6a9ffda382 | RYDER → BRUCE | x2
+But I will shout it from the rooftops.
+
+#### 6e44b665a0 | RYDER | x2
+You’re a hero -- and Gotham will know it.
+
+#### 367e29bf32 | RYDER | x2
+And Gotham will know it, as soon as I’m back on the air.
+
+#### 1b1199d4ff | RYDER | x2
+Gotham needs to know what happened here today, as soon as I’m back on the air.
+
+#### 0045e27c7d | MONTOYA → RYDER | x2
+But Gotham’s far from safe. Lady Arkham’s still out there.
+
+#### 05321c10cc | MONTOYA → HARVEY | x2
+Dent -- he was your friend, right?
+
+#### 59b42f7a1e | MONTOYA → RYDER | x2
+I remember when you two were at the precinct.
+
+#### d7367db69a-LM | MONTOYA → BRUCE | x2
+You seemed pretty tight.
+
+#### 2e5c1efa41-LM | MONTOYA → BRUCE | x2
+He’s right, you know. You did us all a great service.
+
+#### 2cf89217be-SM | choice/UI → MONTOYA | x2
+I let him down.
+
+#### 2bdf4b17d1 | choice/UI → MONTOYA | x2
+My friend is gone.
+
+#### 8c7aed46e5 | choice/UI, BRUCE → MONTOYA | x4
+He was a good man, once.
+
+#### ca98e4f2db-SM | BRUCE → MONTOYA | x2
+We were like brothers -- but I let him down.
+
+#### c562a4f5cd-SM | BRUCE → MONTOYA | x2
+The man I backed for mayor -- there’s nothing left of him.
+
+#### 5629bfb634 | BRUCE → MONTOYA | x2
+He was a good man.
+
+#### 1e051b5a43 | BRUCE → COA01 | x2
+He turned into that monster.
+
+#### 55d2e50e88 | MONTOYA → BRUCE | x2
+One thing’s for sure.
+
+#### d7ca171c90-LF | COA01 → MONTOYA | x2
+You-- idiots think you’re safe.
+
+#### 04eae7496f | COA01 → MONTOYA | x2
+Now her plans can begin for real...
+
+#### d4b35dbe96 | MONTOYA → COA01 | x2
+That can’t be an easy weight to carry.
+
+#### 60905463c5 | MONTOYA → COA01 | x4
+Seeing someone you care about turn like that -- it’s gotta hurt.
+
+#### a6f87c43c4 | MONTOYA → COA01 | x2
+We’ve all lost people these last months.
+
+#### 1c613aab7c | MONTOYA → BRUCE | x2
+Before all this.
+
+#### 7b5c452f90 | MONTOYA → BRUCE | x2
+But then, these last months have been pretty heavy on all of us.
+
+#### 8f4e233eca | BRUCE → MONTOYA | x2
+All that’s left is a monster.
+
+#### 4698c1b0f4 | BRUCE → MONTOYA | x2
+He’s a monster now.
+
+#### bbba3816f6 | BRUCE → MONTOYA | x2
+I try to remember the Harvey that gave himself to this city.
+
+#### fb2b8d72fd | BRUCE → MONTOYA | x2
+Who fought tirelessly against violence and corruption.
+
+#### e9f2ea19d3 | MONTOYA → BRUCE | x2
+I can’t see him like that. Not anymore.
+
+#### 5f2359055f | MONTOYA → BRUCE | x2
+He became h
+
+#### addd16e8b4 | RYDER → MONTOYA | x2
+And then I’ll write a story for the nine o’clock news.
+
+#### 9822195fd7 | MONTOYA → RYDER | x2
+Lieutenant Gordon wanted me to pass on his thanks.
+
+#### 1d535de65c | MONTOYA → RYDER | x2
+He’s in the hospital, or he’d be here himself.
+
+#### 96a34baa8d | MONTOYA → RYDER | x2
+He used to be Gotham’s great hope.
+
+#### d7367db69a-L? | MONTOYA | x2
+You seemed pretty tight.
+
+#### b0e50b4b49 | MONTOYA → BRUCE | x2
+Gotham’s safer with Dent gone.
+
+#### 16eebb99c7 | MONTOYA → BRUCE, COA01 | x4
+And we can focus on the Children of Arkham.
+
+#### bea17cc635 | MONTOYA → HARVEY | x2
+What do you know about Lady Arkham?!
+
+#### 23f48c6940 | BRUCE → MONTOYA | x2
+A hope in the night.
+
+#### 4a7f8ca726-LF | HARVEY → MONTOYA | x2
+It’s clear you need another demonstration.
+
+#### 7610058a8b-SM | HARVEY → BRUCE | x2
+...but I failed.
+
+#### 960a097835 | HARVEY → BRUCE | x4
+Stamp out the fires of corruption.
+
+#### a6ac3cdb86-SM | HARVEY → BRUCE | x2
+...you know I never wanted this.
+
+#### 67b9a524bd | HARVEY → BRUCE | x2
+They rejected the rule of law!
+
+#### 9639ce04a5-SM | BRUCE → HARVEY | x2
+There is nothing left of the Harvey I knew!
+
+#### 9bce7f9f4c | HARVEY → BRUCE | x2
+Gotham needs strength!
+
+#### f7adf40649 | HARVEY → COA01 | x2
+You don’t know the new one at all!
+
+#### 5cd3c71c86 | choice/UI → HARVEY | x2
+Put a Dent in Crime
+
+#### 5985bc9ddd | choice/UI → HARVEY | x2
+Our Hope is in Harvey.
+
+#### 62367b865a | choice/UI → HARVEY | x2
+A new face for Gotham.
+
+#### 74947e952b | MONTOYA → HARVEY | x2
+Plans? What plans?!
+
+#### 1da9b139fb | COA01 → HARVEY | x2
+You’ll... find... out...
+
+#### 8a8e0fcf6f | COA01 → HARVEY | x2
+But you can bet they’re gonna tear this city apart.
+
+#### b69c0762b8 | RYDER → BRUCE, COA01 | x6
+And I’m going to make sure all of Gotham knows it.
+
+#### c31784abc7 | BRUCE → RYDER | x2
+Burning buildings and bodies piled high?
+
+#### a29585efff | RYDER → BRUCE | x2
+My wife. Sobbing over a closed casket.
+
+#### 7f9c8e48d4 | choice/UI → RYDER | x2
+Give me good press.
+
+#### 03c983c58a | BRUCE → RYDER | x2
+I hope you remember that the next time you’re on air.
+
+#### 9f839ec91d | RYDER → BRUCE | x2
+You’re a hero, Mr Wayne. And
+
+#### 95c295f7d2 | RYDER → HARVEY | x2
+I’ll remember it for the rest of my life.
+
+#### d750d6b168 | HARVEY → RYDER | x2
+Coin already decided she’d live.
+
+#### 177f33ed0f | COA01 → BRUCE | x2
+We didn’t forget about you, Wayne!
+
+#### 969e2088f0 | COA01 → HARVEY | x2
+You’re gonna die for your parents’ crimes!
+
+#### f85f6ca9e0 | COA01 → HARVEY | x2
+Safer!?  Dent was the only thing standing in Lady Arkham’s way!
+
+#### 2fac6fa24b | COA01 → HARVEY | x2
+Lady Arhkam has plans for all of you....
+
+#### 511141c14a | HARVEY → COA01 | x2
+I feel this contempt, building, burning --
+
+#### c54aa1d933 | HARVEY → COA01 | x2
+It was a monument to Wayne corruption.
+
+#### e64019e7a1 | HARVEY → COA01 | x2
+Her terrorist gang.
+
+#### 4438b18609 | BRUCE → HARVEY | x2
+This is not who you are!!
+
+#### f19cc02aa6 | HARVEY → BRUCE | x2
+But ‘I’ want to see you suffer first.
+
+#### 50a6d41344 | HARVEY → BRUCE | x2
+I’ll let the coin decide who lives and who dies.
+
+#### f5e5822423 | HARVEY → BRUCE | x2
+Oh, god! What did I do?!
+
+#### 725d3bd727-SM | HARVEY → RYDER | x2
+I-- I need help.
+
+#### 08cf3288d6 | HARVEY → RYDER | x2
+He was a fool for believing in you!!!
+
+#### 61b78742e5-SM | RYDER → HARVEY | x2
+..when Dent put that gun to my head, I -- I saw my death.
+
+#### 26e8f0a730 | HARVEY → RYDER | x2
+When it turned me inside out.
+
+#### 1a9b15ffa8 | HARVEY → RYDER | x2
+When it started to take root.
+
+#### b39a576144 | HARVEY → RYDER | x2
+When it all started!
+
+#### c719e66531 | HARVEY → BRUCE | x2
+...I want a safer Gotham,
+
+#### a416f46686 | HARVEY → BRUCE | x2
+If only I...
+
+#### e98f76d9ae | HARVEY → BRUCE, DEBORAH | x4
+...without fear of being robbed or stabbed or [looks at Bruce, thinking of his parents] worse.
+
+#### 4d7131a2f2 | BRUCE → HARVEY | x2
+Now you’re it’s worst enemy.
+
+#### 4c834938a7-LM | BRUCE → HARVEY | x2
+Or is this what you had in mind?
+
+#### 5706796d7f | BRUCE → HARVEY | x2
+Why shouldn’t they defy you?!
+
+#### 5f631a5089 | BRUCE → HARVEY | x2
+You don’t deserve anyone’s loyalty.
+
+#### 9269dc8ca9 | HARVEY → BRUCE | x2
+I’ll tell you why.
+
+#### 9edb716810 | HARVEY → BRUCE | x2
+Better yet, I’ll show you!!
+
+#### 07c42b72e9 | HARVEY → BRUCE | x2
+You’ve been feeding my enemies info since the start!
+
+#### 77ad779dba | HARVEY → ASSISTANT | x2
+Feeding my enemies information!
+
+#### 26ac5e769f | ASSISTANT → HARVEY | x2
+I swear I didn’t. I’m begging you, don’t kill me!
+
+#### a73b727ce2 | BRUCE → HARVEY | x2
+Listen to what she’s saying, Harvey!
+
+#### 417db61baf | ASSISTANT → BRUCE | x2
+I didn’t do it...
+
+#### 9b08e1f4a8 | BRUCE, choice/UI → ASSISTANT | x4
+She didn’t betray you!
+
+#### 40796a8f7c | HARVEY → BRUCE | x2
+Oh, people will lie through their teeth for a stay of execution.
+
+#### 7a3a00b425 | BRUCE → HARVEY | x2
+She doesn’t seem like she’s lying to me.
+
+#### 08058a01ef | BRUCE → HARVEY | x2
+You belong in treatment.
+
+#### 6003570c06 | BRUCE → HARVEY | x2
+Don’t sacrifice your judgment to a two-headed coin!
+
+#### fcf097a09a | HARVEY → BRUCE | x2
+A Gotham where working people can raise their families
+
+#### bf7f3426a7 | HARVEY → BRUCE, RYDER | x6
+You must have bribed half the police force to avoid your fate.
+
+#### 3a3080dabb-SM-LM | HARVEY → BRUCE | x2
+I was hoping to give Gotham what they wanted, but you had the audacity not to die.
+
+#### f609d4aacf | choice/UI → HARVEY | x2
+You’re going away for this.
+
+#### 43546f2331 | choice/UI → HARVEY | x2
+We’ll get you help.
+
+#### a6f9cbc2b4 | choice/UI → HARVEY | x2
+[Sit with Harvey]
+
+#### 192b709f96 | BRUCE → HARVEY | x2
+Enjoy jail, you sick murderer.
+
+#### 1289fad589 | BRUCE → HARVEY | x2
+Enjoy it.
+
+#### 707feb1f29 | BRUCE → HARVEY | x2
+You’re going away for a long time.
+
+#### c1ebfffbf3 | BRUCE → HARVEY | x2
+It’s sad that it went this far, Harvey.
+
+#### f41b8642db-LM | BRUCE → HARVEY | x2
+We’re going to get you the help you need.
+
+#### 66c5fe4aa9-LM | HARVEY → BRUCE | x2
+You’re serious.
+
+#### 4423dfa415 | BRUCE → HARVEY | x2
+A rare occasion, I know--
+
+#### cddaa41da8 | HARVEY → BRUCE | x2
+That’s where Gotham wants you to be!
+
+#### d39976d55a | BRUCE → HARVEY | x2
+...someone who fought for people’s dreams.
+
+#### 362aaa3122 | BRUCE → HARVEY | x2
+Please, Harvey. You’ve always known right from wrong.
+
+#### 05082f67dc | BRUCE → HARVEY | x8
+A safer Gotham, Harvey.
+
+#### 3cf195b3a9-LM | BRUCE → RYDER, HARVEY | x8
+Just like you wanted.
+
+#### 31366fad79 | RYDER → BRUCE | x2
+Not just me... the people of this city owe you.
+
+#### 209c034611 | RYDER → BRUCE | x2
+Harvey was... was a tyrant.
+
+#### a955cf38b8 | RYDER → HARVEY | x2
+We can never repay you.
+
+#### fc20a6001e | RYDER → HARVEY | x2
+Ever.
+
+#### 7f014fec10 | HARVEY → RYDER | x2
+You couldn’t just die could you?!
+
+#### a81191e0ed | HARVEY → RYDER | x2
+What’s so important to “Bruce” Wayne?
+
+#### d787b76748 | BRUCE → HARVEY | x2
+You’re a cold blooded killer!
+
+#### 84908c8fb1 | HARVEY → BRUCE | x2
+But they are all corrupt and not worth saving.
+
+#### ccc4415a8c | HARVEY → BRUCE | x2
+Remember me Bruce.
+
+#### 4690638a6b | choice/UI → HARVEY | x2
+You can fight this, Harvey!
+
+#### 3b0e54135f-LM | choice/UI → HARVEY | x2
+You said you wanted a “Safer Gotham.“
+
+#### b5df593c8b | choice/UI → HARVEY | x2
+CUT ou’re letting a coin think for you?
+
+#### b119db7129 | choice/UI | x2
+You know this is wrong.
+
+#### e6acb952ac | choice/UI | x2
+These people are innocent!
+
+#### 101a8b1149 | choice/UI | x2
+This isn’t you Harvey!
+
+#### 91aa79a544 | choice/UI → HARVEY | x2
+Kill me instead!
+
+#### b2c456e805 | choice/UI → HARVEY | x2
+Don’t speak to me.
+
+#### 9b3ecbbec3 | BRUCE → HARVEY | x2
+Release the hostages, Harvey!
+
+#### 6c435c1c72-SM | BRUCE → HARVEY | x2
+I came here to help my friend, Harvey.
+
+#### 67c50b5822-LM | HARVEY → BRUCE | x2
+Did you not get the message?
+
+#### 4f93774cd9 | HARVEY → BRUCE | x2
+Harvey--and all of Gotham--wants you to die!
+
+#### eb515a04d2 | HARVEY → BRUCE | x2
+Why don’t you help me by picking up that gun and blowing your--
+
+#### e00d8dee8c-SM | BRUCE → HARVEY | x2
+I came to help you.
+
+#### a70128ad25 | BRUCE → HARVEY | x2
+That is the sickness talking.
+
+#### 2b8a7d6880 | BRUCE → HARVEY | x2
+And I know you’re in there somewhere, Harvey.
+
+#### 082bffa223 | HARVEY → BRUCE | x4
+It’s not just me that hates you. All of Gotham wants you dead!
+
+#### 91ed4852d1-SM | HARVEY → BRUCE | x4
+I put you in Arkham. I hired men to kill you.
+
+#### b9f77763f0 | HARVEY → BRUCE | x6
+Why are you still here?
+
+#### 8d9032c0e3 | HARVEY → BRUCE | x2
+What have I done...?
+
+#### 2edf5ae4b8-LM | BRUCE → HARVEY | x4
+It’s not too late to turn yourself in, Harvey.
+
+#### 272c3d6e6a | BRUCE → HARVEY | x2
+For your own good. And the good of Gotham.
+
+#### 2d0a970b9b | HARVEY → BRUCE | x2
+But if you still believe that... Maybe I have a chance.
+
+#### 84023d6a4c | BRUCE → HARVEY | x4
+Let me help.
+
+#### 5f8b30ebba | BRUCE → HARVEY | x2
+It’s not too late to stop this, Harvey.
+
+#### 43e2cb2938 | BRUCE → HARVEY | x2
+You can still
+
+#### 2d6a0394c6 | HARVEY → BRUCE | x2
+I’m cleaning up Gotham.
+
+#### 3ae6f07155 | HARVEY → BRUCE | x2
+A bunch of criminals. Just like you--
+
+#### 4337ee0d5d | HARVEY → BRUCE | x2
+Fighting force with force, and meeting those Arkham terrorists head on.
+
+#### b60092914f-SM | BRUCE → HARVEY | x2
+The Harvey I knew wouldn’t do this.
+
+#### 572d7e6dbb | BRUCE → HARVEY | x2
+You’re going to let a coin do your thinking for you?
+
+#### 1ee2f4a0d4-SM | BRUCE → HARVEY | x2
+The Harvey I knew was smarter than that.
+
+#### a7c9459fef | HARVEY → BRUCE | x2
+It’s not a matter of smarts.
+
+#### ca2b1c8d13 | HARVEY → BRUCE | x2
+It’s a matter of luck.
+
+#### e02151713b | HARVEY → BRUCE | x2
+This way she’s got a chance--that’s better than most get!
+
+#### 358238c0c7 | BRUCE → HARVEY | x2
+These people aren’t all criminals, Harvey. You’re hurting innocents.
+
+#### 82915ca314-LM | HARVEY → BRUCE | x2
+You’re right--You’re right!!
+
+#### 8e27637d02 | BRUCE → HARVEY | x2
+Let these people go. Please!
+
+#### 06c7cd74f4 | choice/UI → HARVEY | x2
+That’s the coward’s way out.
+
+#### faac60eb49 | BRUCE → HARVEY | x2
+That’s the coward’s way out, Harvey.
+
+#### 6b5f1d0c3a | BRUCE → HARVEY | x2
+Is that really how want to end things?
+
+#### 9f53d8b7fc-LM | HARVEY → BRUCE | x2
+Maybe you’re right...
+
+#### 7844388432 | BRUCE → HARVEY | x2
+You’re gonna be going away for a long time.
+
+#### f3f21ffba3 | HARVEY → BRUCE | x2
+I don’t want your help!
+
+#### e50465e038 | HARVEY → BRUCE | x2
+Liar!
+
+#### eab676cbd8 | HARVEY → BRUCE | x2
+It’s not your fault, Bruce.
+
+#### 5ff8593a59 | HARVEY → BRUCE | x2
+You will be sorry!
+
+#### bacdc3b9ef | HARVEY → BRUCE | x2
+I’m going to make you pay!
+
+#### 9aa18e92ec | RYDER → HARVEY | x2
+The people of Gotham will know what happened here.
+
+#### 6ac3dadae3 | RYDER → HARVEY | x2
+Bruce Wayne is rewriting his family’s legacy.
+
+#### 75c4166cb3 | choice/UI → HARVEY | x2
+I’m the one you want.
+
+#### ea92f022d8 | HARVEY → ALFRED | x2
+That’s not up to you.
+
+#### 76257535cd | HARVEY → ALFRED | x2
+You think I want your help? I want you dead!
+
+#### 8d6728de68 | ALFRED → HARVEY | x2
+Bruce, the GCPD are nearly there.
+
+#### 28fb381485 | HARVEY → ALFRED | x2
+Let’s flip on it.
+
+#### a256f4dbf4 | HARVEY | x4
+So this is what it takes?
+
+#### dc72ec55b9 | HARVEY | x2
+This is what it takes to get some face time.
+
+#### 34961332b5 | HARVEY | x2
+Everything else I’ve done... Trashing you in the press, throwing you in Arkham, burning down your home--
+
+#### 6128d0b3b5 | HARVEY | x2
+What made you show?
+
+#### 3c49a39f0f-LM | HARVEY → BRUCE | x2
+Why show yourself now?
+
+#### 52ae3aee44 | HARVEY → BRUCE | x4
+You actually grow a backbone?
+
+#### 3e22505408-LM | HARVEY → BRUCE | x2
+Or did you just get tired of hiding?
+
+#### 79bc23441d-LM | BRUCE → HARVEY | x2
+You have terrorized this city; murdered innocent people.
+
+#### 1f67c38b17 | BRUCE → HARVEY | x2
+There’s no coming back from that.
+
+#### 97384798f6 | HARVEY → BRUCE | x2
+I don’t want your help. I want you dead!
+
+#### 439b8ff052-SM-LM | HARVEY → BRUCE | x2
+Since you showed up like I asked...
+
+#### ca64766439 | HARVEY → BRUCE | x2
+I’ll let this one go.
+
+#### a16dfbd64e | HARVEY → DEBORAH | x2
+Show of good faith and all that.
+
+#### c8787d1927 | HARVEY → DEBORAH | x2
+Deborah... my not-so-faithful assistant...
+
+#### 049929c681 | choice/UI → HARVEY | x2
+I’ve come to help you, Harvey.
+
+#### b5f73da0fb | DEBORAH → HARVEY | x2
+Mr. Dent, please!
+
+#### 87823dd408 | HARVEY → DEBORAH | x2
+Now, now, Deborah. Patience.
+
+#### c2378c6610 | HARVEY → DEBORAH | x2
+Not until the guest of honor arrives...
+
+#### 6df001b4b9 | HARVEY → DEBORAH, BRUCE | x4
+I wasn’t sure you’d come.
+
+#### effcb73dcc-L? | HARVEY | x2
+You weaseled your way out of the death you deserve.
+
+#### 7b8c7f2e09 | HARVEY | x2
+Like a coward.
+
+#### 01e00d3aeb | HARVEY | x2
+Wasn’t sure what it would take to get you to show your face again.
+
+#### 53ac9827a3 | HARVEY | x2
+I throw you in Arkham, burn down your home...
+
+#### 3b99f68e21 | HARVEY | x2
+And... nothing.
+
+#### d486108cc1 | HARVEY | x2
+Why show your face now?
+
+#### d12566b12d | HARVEY | x2
+So why face me now?
+
+#### 58b7aff0a6 | HARVEY | x2
+*Your* home...
+
+#### eff5f0cf55 | HARVEY | x2
+You don’t deserve a home--you don’t deserve a life!
+
+#### a22e2a3a8e | HARVEY | x2
+Oh, you really think it’ll be that easy?
+
+#### f13ca35551 | HARVEY → BRUCE | x2
+You’re dumber than you look, Bruce.
+
+#### e268674750 | HARVEY | x2
+Everything you have, you’ve stolen!
+
+#### 29c4c42f25 | HARVEY | x2
+Well, you’re here now. That’s what matters.
+
+#### 5f963209b8 | HARVEY | x2
+Now you can die.
+
+#### 090624ecd3 | HARVEY | x2
+Maybe you’ll look smarter with a bullet in your face!
+
+#### 53e02b2194 | HARVEY | x2
+I can’t stop him!
+
+#### f7c75d2e2b | HARVEY | x2
+I might as well embrace the life I’ve chosen!
+
+#### 5b9ac6261d | HARVEY → BRUCE | x2
+You don’t tell me what to do!
+
+#### df8798c102 | HARVEY → BRUCE | x2
+No one tells me what to do!
+
+#### e3b6659435 | HARVEY → BRUCE | x2
+The arrogance!
+
+#### f79c8d921c | HARVEY → BRUCE | x2
+You come here, knowing I have the gun. Knowing I’m in control...
+
+#### 71d2560916 | HARVEY | x2
+And still! You think you have the upper hand.
+
+#### e9f8ac65a8-L? | HARVEY | x2
+And that you betrayed me...
+
+#### 32409a31be | HARVEY | x2
+Always thinking you’re better than me...
+
+#### e16dac4c3b | HARVEY → BRUCE | x2
+This is what happens to people who cross me, Wayne.
+
+#### 3433bdb23d | HARVEY → BRUCE | x2
+You get to watch, and wait...
+
+#### a9df82a7af | HARVEY → BRUCE | x2
+Don’t worry. You’ll get your turn.
+
+#### f42aab24cf | HARVEY → BRUCE | x2
+I’m making it safer--my way!
+
+#### cf1a6890c8 | BRUCE → HARVEY | x2
+Letting a coin make your decisions!
+
+#### 8f6adc0767 | HARVEY → BRUCE | x2
+Bruce, ohhhh, Bruce, I can’t...
+
+#### 4fe6a2fdfc | HARVEY → BRUCE | x2
+Stop listening to him!
+
+#### 2fda586dec-SM | HARVEY | x2
+I’m glad you’re here... at the end.
+
+#### d8b2967f60 | HARVEY | x2
+I only hope that maybe...
+
+#### fb38d913bb-SM | HARVEY → BRUCE | x2
+Maybe you can remember me the way I was before...
+
+#### 7c44ffcf00 | HARVEY → BRUCE | x2
+...before him.
+
+#### 0b54eb3efb | HARVEY → BRUCE | x2
+I don’t know what to do!
+
+#### b3e8043fe5 | BRUCE → HARVEY | x2
+I’m just trying to repay that debt.
+
+#### 0acb03ab9e | RYDER → HARVEY | x2
+I’ll make sure the city knows it.
+
+#### 86a35d61a8-LM | HARVEY → BRUCE | x2
+And you were too much of a coward to face me.
+
+#### 9db95b2e6b | HARVEY → RYDER | x2
+But I’m the one with the gun!
+
+#### cd0bdc8f5c | HARVEY | x2
+Traitors!
+
+#### e40797fe01 | HARVEY | x2
+And cops who don’t take their mayor’s orders!
+
+#### fd419b8815 | HARVEY | x2
+The city needs to be purged of people like you!
+
+#### e565393223 | HARVEY | x2
+All of you!
+
+#### f391928b71 | HARVEY | x2
+Terrorists!
+
+#### b1adfe27f1-SM | HARVEY | x2
+I won’t let it stand!
+
+#### 3edc2dd670 | HARVEY | x2
+Beg all you want, but it’s not up to me!
+
+#### 2230b0f5f3 | HARVEY | x2
+Your life, his life, even my life... they all hinge on chance...
+
+#### 7432221d1d | HARVEY | x2
+...on the flip of a silver dollar.
+
+#### 7cd5d12b50 | HARVEY | x2
+Nothing else matters...
+
+#### 6e7d5a3da0 | HARVEY | x2
+Morality has no place here.
+
+#### 54eea5d12b | HARVEY | x2
+What we want doesn’t matter...
+
+#### 45b9c22c58 | HARVEY | x6
+What we think is right doesn’t matter...
+
+#### 4575707448 | HARVEY → BRUCE | x2
+It’s not weakness, Wayne.
+
+#### 58d7e36633 | HARVEY | x2
+It’s strength--to accept there’s something bigger than me--bigger than any of us.
+
+#### 5bdb134e43 | HARVEY | x2
+Fate.
+
+#### 8d22aecf16 | HARVEY | x2
+What--what did he make me do?!
+
+#### 14ca35aa1c | HARVEY | x2
+No more!? I’m just getting started!
+
+#### f734b954b2 | HARVEY → BRUCE | x2
+This is the only way to keep people in line!
+
+#### b351e7b757 | HARVEY → BRUCE | x2
+Otherwise, they walk all over you!
+
+#### 593b76fe08-LM | HARVEY → BRUCE | x2
+Just like you did!
+
+#### b6e9495bbf | BRUCE → HARVEY | x2
+You think you can run the city after this?
+
+#### b506a8b490-LM | BRUCE → HARVEY | x2
+You’re done, Harvey.
+
+#### 97ca63094c-LM | HARVEY → BRUCE | x2
+You... you were Harvey’s friend, Wayne.
+
+#### 91f68cc757 | HARVEY → BRUCE | x2
+He thought you’d save this city, together.
+
+#### 51c3a7ac35 | HARVEY | x2
+Oh, but he...
+
+#### 6f27409419 | HARVEY | x2
+“Two Face,“ huh? You like nicknames?
+
+#### 18c87e0fa5 | HARVEY | x2
+How about “No Face” for you?
+
+#### e6bd2a3c07 | HARVEY | x2
+How about “Half-Jack” for you?
+
+#### 2ccae1c0e0 | HARVEY → BRUCE | x2
+SHOULD HAVE NEVER BELIEVED IN YOU!
+
+#### 3a7cd53459-SM | HARVEY → BRUCE | x2
+I’m done waiting.
+
+#### 4d80ddd1a6 | COA01 → BRUCE | x2
+Lady Arkham hasn’t forgotten you!
+
+#### ea9a4a8714 | COA01 → BRUCE | x2
+Her [pained] plans...
+
+#### b33ab83f7e-L? | choice/UI → COA01 | x2
+You need to face justice.
+
+#### 260a6a1bd2 | choice/UI → COA01 | x2
+I still have hope for you.
+
+#### 54f0723279 | choice/UI → COA01 | x2
+Go ahead and try.
+
+#### 5661fd7f14 | choice/UI → HARVEY | x2
+I’ll get you help, Harvey.
+
+#### d6d23d3030 | choice/UI → HARVEY | x2
+That will never happen.
+
+#### 4120583c50 | HARVEY → BRUCE | x2
+Come on, Bruce! That joke is in poor taste.
+
+#### 87081e010c | HARVEY → BRUCE | x2
+We’ll let the coin decide.
+
+#### dfa43e6e76-SM | HARVEY → BRUCE | x2
+I’ve tried to fight it, Bruce... but I can’t!
+
+#### afe2c80e74 | HARVEY → ASSISTANT | x2
+The coin decides who lives and who dies.
+
+#### 5ac73f6db8 | ASSISTANT → HARVEY | x2
+I-I swear I didn’t!
+
+#### 3bdeb96c40 | BRUCE → HARVEY | x2
+That’s enough, Harvey.
+
+#### 739e259314 | choice/UI → HARVEY | x2
+There’s been enough death already.
+
+#### c3764899b0 | BRUCE → MONTOYA | x2
+I’ll try to remember him that way.
+
+#### 80fcddc033 | RYDER → BRUCE | x2
+You’re a hero.
+
+#### 0ad5093c22 | COA01 → HARVEY | x2
+You should be rotting in Arkham!
+
+#### e2b9c0578f | COA01 → HARVEY | x2
+Everything you love... will burn!
+
+#### 42ddaf44b6 | HARVEY → COA01 | x2
+Looks like our time’s up.
+
+#### 5a22b6a730 | HARVEY → COA01 | x2
+But someone has to die.
+
+#### d77e255ec0 | HARVEY → BRUCE | x2
+Wayne!
+
+#### 88c893782a | HARVEY → BRUCE | x2
+Are you volunteering, Deborah?
+
+#### ca7cd554ac | HARVEY | x2
+He’s stronger than I am.
+
+#### b5a630b0c2 | HARVEY → HARVEY | x2
+Stop whining!
+
+#### 994e108c7b | HARVEY → HARVEY | x2
+There’s nothing he can do for you!
+
+#### 41a8b4694b | HARVEY → BRUCE | x2
+My legacy will be destroying the Children of Arkham!
+
+#### c6d68ef454 | BRUCE → HARVEY | x2
+And blowing up a building full of innocents!
+
+#### 3af04d9503 | HARVEY → BRUCE | x2
+It’s all over for me...
+
+#### 0f9774e1c4 | HARVEY → BRUCE | x2
+You shoulda let me pull the trigger.
+
+#### 50b4cdd2c1 | HARVEY → BRUCE | x2
+Done me... and all of Gotham a favor...
+
+#### e3d94b4790 | BRUCE → HARVEY | x2
+There’s been enough death, Harvey.
+
+#### 075ffc25fe-LM | HARVEY → BRUCE | x2
+Yeah... Yeah, I suppose you’re right.
+
+#### bf0a7c38e1 | HARVEY → BRUCE | x2
+My fault...
+
+#### ebf19b324d | HARVEY → BRUCE | x2
+His fault...
+
+#### dd9e9a1041 | BRUCE → HARVEY | x2
+I still have hope for you, Harvey.
+
+#### 1eb7db436d | BRUCE → HARVEY | x2
+You’ll have the best doctors.
+
+#### 68ff87dab9 | HARVEY → BRUCE | x2
+Yeah... Sure, Bruce.
+
+#### d07b166983 | HARVEY → BRUCE | x2
+They can’t stop him...
+
+#### d94cb245de | HARVEY → BRUCE | x2
+No one can stop him.
+
+#### fa360c7003-LM | BRUCE → HARVEY | x2
+You did a lot of terrible things, Harvey.
+
+#### d4c37e9a45 | BRUCE → HARVEY | x2
+And now you have to face justice.
+
+#### 54b8781016 | HARVEY → BRUCE | x2
+You don’t understand, Bruce.
+
+#### e4b4cdb158 | HARVEY → BRUCE | x2
+He doesn’t care!
+
+#### 755dc21d9e | HARVEY → BRUCE | x2
+There is no justice for him.
+
+#### 3a2733de67 | HARVEY | x2
+It’s what I deserve...
+
+#### 16915b1ad6 | HARVEY | x2
+What he deserves...
+
+#### 53b0b62156 | HARVEY | x2
+The only way to stop him.
+
+#### 983517a328 | HARVEY | x2
+Wherever they put me, whatever they do...
+
+#### ec917bf443 | HARVEY | x2
+I’ll get out!
+
+#### f16433597b | HARVEY → BRUCE | x2
+I’m coming for you, Wayne!
+
+#### c8fa2eff35 | HARVEY → BRUCE | x2
+Nowhere is safe!
+
+#### c230659d40 | HARVEY → BRUCE | x2
+You’re gonna die!
+
+#### 35f78d4a93-SM | BRUCE → HARVEY | x2
+I’m not worried, Dent.
+
+#### 6637a96953 | BRUCE → HARVEY | x2
+You go on and try it.
+
+#### 59c7332834 | HARVEY → BRUCE | x2
+You’ll see, Wayne! You’ll see!!
+
+#### 8c960e1959 | BRUCE → HARVEY | x2
+I’m going to get you help, Harvey.
+
+#### 412007609d | BRUCE → HARVEY | x2
+We will get you better.
+
+#### 67ce479df6 | HARVEY → BRUCE | x2
+I am better, Wayne!
+
+#### 15a4229431 | HARVEY → BRUCE | x2
+I’m the best I’ve ever been!
+
+#### f9693738ee | HARVEY → BRUCE | x2
+Oh, you’ll see! Ha, ha, ha...
+
+#### fe260a6097-SM | HARVEY → BRUCE | x4
+I’m not done yet!
+
+#### b922bf160d | BRUCE → HARVEY | x2
+I’m going to make sure that never happens.
+
+#### 7d1669c0a9 | BRUCE → HARVEY | x2
+You’ll be in the strongest cell, with the highest walls.
+
+#### 9f30c20788 | HARVEY → BRUCE | x2
+Ooh, you think that’s gonna stop me?
+
+#### d87030d364 | HARVEY → BRUCE | x2
+You have no idea who I am.
+
+#### 978488beef | BRUCE → HARVEY | x2
+He depended on me...
+
+#### 7915a8485b-SM | BRUCE → HARVEY | x2
+And I let him down.
+
+#### 95a34bf816 | MONTOYA → HARVEY | x2
+Feels like a long time ago...
+
+#### 1fa67d59d4 | RYDER → HARVEY | x2
+I-- I owe you so much.
+
+#### f9f4424815 | HARVEY → BRUCE | x2
+What changed?
+
+#### 96cf2d9104 | HARVEY → BRUCE | x2
+Goodbye, Wayne.
+
+#### a039728b01 | HARVEY → RYDER | x2
+I-I just can’t...
+
+#### 841b58a31c | HARVEY | x2
+It’s too much!
+
+#### 2ce0650d47 | HARVEY | x2
+So why keep trying?
+
+#### f882323396 | HARVEY | x2
+I-- I know. I’ve done terrible things...
+
+#### 665a1bf9a0 | HARVEY | x2
+You think you can save this city?
+
+#### ead84aa5d5 | HARVEY | x2
+Ha! You can’t even save one man!
+
+#### be0ab5bb15 | HARVEY → BRUCE | x2
+You’re a good friend, Bruce... always been a good friend...
+
+#### 85bcd1809b-SM | HARVEY | x2
+It doesn’t matter. It’ll never stop... I won’t stop...
+
+#### 46b12076df | HARVEY | x2
+The only way to stop me.
+
+#### 61aaa85765 | HARVEY → BRUCE | x2
+Oh, I will, Wayne! I will!!
+
+#### 8c5601cce6 | BRUCE → HARVEY | x2
+Snipers. Two of them.
+
+#### d30766f956 | ALFRED → HARVEY | x2
+Hold on till then.
+
+#### 718bd5bdce | ALFRED → BRUCE | x4
+Now, Bruce!
+
+#### 2a7abba8b5 | choice/UI → ALFRED | x2
+Coin Two Face
+
+#### 43fd1bbbc3-LM | COA01 → ALFRED | x2
+You’re supposed to be in Arkham!
+
+#### dcea3aaf41 | choice/UI → HARVEY | x2
+You can fight it, Harvey!
+
+#### e99b7b924f | BRUCE → HARVEY | x2
+Get the drones online.
+
+#### 0afee9e7ec | BRUCE → HARVEY | x2
+Please, Harvey!
+
+#### a12d425025 | BRUCE → HARVEY | x2
+Let these people go!
+
+#### e543dd5f0c-L? | BRUCE | x2
+Listen to yourself!
+
+#### d2dadf7a51 | BRUCE | x2
+Set my home on fire.
+
+#### e323bf237d-LM | BRUCE → HARVEY | x2
+You’ve killed people, Harvey.
+
+#### 6e7904928f | BRUCE | x2
+Destroyed homes. Attacked the GCPD.
+\BRUCE:[PKUP2] This has to end.
+
+#### 0e8f8d6160 | BRUCE | x4
+And now... this.
+
+#### ea0c0b3ecb | BRUCE → RYDER | x4
+This has to end.
+
+#### d252d048c4 | BRUCE | x2
+You’re out of control.
+
+#### a25c2b81e0-L? | BRUCE | x2
+You have destroyed property, attacked the GCPD...
+
+#### 331855f7f7 | BRUCE | x2
+...killed people!
+
+#### 24cd88ff58-LM | BRUCE → RYDER | x2
+You’ve hurt too many people.
+

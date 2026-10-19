@@ -1,0 +1,1750 @@
+﻿#### 0cd331500e-SM | choice/UI | x6
+I thought you didn’t want to know.
+
+#### f4c8753596 | choice/UI | x6
+Yes, I mind.
+
+#### b0148b47dd | choice/UI → MONTOYA | x6
+He knows stuff about my family.
+
+#### 651489f944-SM | choice/UI | x6
+I thought this was off the books.
+
+#### 59e629d97b | choice/UI → MONTOYA | x6
+Pays to be rich.
+
+#### 8b376047ac | choice/UI | x6
+Nice to see you, too.
+
+#### f81990a4c0 | choice/UI | x6
+Looking to be a permanent patient?
+
+#### b4516d3cb2 | choice/UI → MONTOYA | x10
+I’m nothing like you.
+
+#### 809cad3462 | choice/UI | x6
+I’m coming around to the idea.
+
+#### 8075aee8ca | choice/UI → HARVEY | x8
+Tell me who did.
+
+#### 6e1f5be35c | choice/UI → GORDON | x8
+What did my parents do for you?
+
+#### 7b6b9e0817 | choice/UI → HARVEY | x8
+That’s not any better.
+
+#### b3c30a2fa7 | choice/UI → MONTOYA | x6
+He’s just fine.
+
+#### 124e47c50a | choice/UI → GORDON | x6
+Keeping himself busy.
+
+#### 75ec1f4b10 | choice/UI | x6
+We’re on the outs.
+
+#### 6d5cad1d28 | choice/UI | x6
+It’s dark in here.
+
+#### 549ac4b702-L? | choice/UI | x6
+And you had him killed, too.
+
+#### d046652155-L? | choice/UI | x6
+You’ve looked better,
+
+#### e1ee1a2473 | choice/UI → MONTOYA | x8
+Why did this just come out now?
+
+#### 0cb65da17c | choice/UI | x8
+I just can’t believe it’s true.
+
+#### 789a04d731 | choice/UI | x8
+What else were they involved in?
+
+#### 28d71028f8 | choice/UI, ALFRED → GORDON, BRUCE, BATMAN | x12
+What happened to it?
+
+#### 5957d6c63e | choice/UI → GORDON, HARVEY | x8
+You’re lying out of your teeth.
+
+#### c537fcdaee | choice/UI → GORDON | x6
+So Mayor Hill is part of this.
+
+#### 46ccd78362 | choice/UI → GORDON | x6
+Wayne Enterprises is clean.
+
+#### 53a43bbcce | choice/UI | x6
+You’re not running anything now.
+
+#### f69c8c7351 | choice/UI | x6
+He killed Falcone!
+
+#### 3ac2b8b9c8 | choice/UI → MONTOYA | x6
+Montoya, listen to me!
+
+#### 6038aa2d69 | choice/UI | x6
+Put your guns down!
+
+#### 21d4a926e9-SM | choice/UI | x2
+I’m glad you’re on the case.
+
+#### 113a936a25 | choice/UI | x2
+Happy to help.
+
+#### 03b17ace26 | choice/UI | x2
+Just make sure he rots in jail.
+
+#### 54024fa7b9-SM | choice/UI | x2
+I gave it to her.
+
+#### 48a717b724 | choice/UI | x2
+No idea what you’re talking about.
+
+#### 8584458462 | choice/UI | x2
+Shouldn’t pay attention to rumors.
+
+#### 45218c3d6b-L? | choice/UI | x4
+Were you sleeping?
+
+#### 0ad8933573 | GORDON → BRUCE | x2
+Maybe you and Wonder Boy can make a call to track down this missing chemical shipment for me while you’re at it?
+
+#### 02a9c890e0 | GORDON → BRUCE | x2
+Congrats, Wayne. Here I am scrambling keep everyone out of this room and you bypass it all with a single phonecall to Harvey Dent.
+
+#### e18a79e689 | GORDON → BRUCE | x2
+I don’t have to tell you how many violations we’re incurring with this little visit. So if Falcone complains to anyone, we’re blaming his painkillers. Got it? Good.
+
+#### ee132e2b89 | BRUCE → GORDON | x2
+I don’t want to make a big deal out of this.
+
+#### fb759b4a0f | GORDON → BRUCE | x2
+Oh, don’t worry about that.
+
+#### 614c798dd1 | BRUCE → GORDON | x2
+Was hoping it would stay off the record.
+
+#### 2d46f46d11 | BRUCE → MONTOYA, RHONDA | x4
+Yes?
+
+#### 63e413c159 | MONTOYA → BRUCE | x2
+Mr. Wayne? Sergeant Renee Montoya.
+
+#### c1d29695bc | RENEE → BRUCE | x2
+We don’t believe what we read in the papers.
+
+#### a695cc9588-SF | MONTOYA → BRUCE | x2
+I just wanted to say, some of us police support you.{body-A}{FearA} Despite what the media is saying.
+
+#### 3e29240941 | choice/UI → MONTOYA | x2
+Thanks for the support.
+
+#### eebf578412 | MONTOYA | x2
+They’re crazy.
+
+#### 4b1aa5e227 | MONTOYA | x2
+They’ll do anything for a story.
+
+#### ad7ea7b9da | RENEE → BRUCE | x2
+Of course, don’t let me keep you.
+
+#### 962a2e9b49-SF | MONTOYA → BRUCE | x2
+I got through school with Wayne Foundation funding.{NormalA} {body-A}A few of us cops did.
+
+#### dfb5261ba7 | MONTOYA → BRUCE | x2
+Your family made a difference in my life. {AngryA}Forget about the mud people sling.
+
+#### 03c5cc50ee-SM | BRUCE → MONTOYA | x2
+I’m sorry... I’ve got to get to a meeting.
+
+#### 1dfa5ff71f-SF | RENEE → BRUCE | x2
+I just wanted to say...
+
+#### 00ea9390d7 | BRUCE → MONTOYA | x2
+You’re definitely in a minority.
+
+#### ef97efb769 | MONTOYA → BRUCE | x2
+That’s where I’m most at home.
+
+#### a6ed3d2f7f-SF | RENEE → BRUCE | x2
+I just wanted to let you know...
+
+#### 27f666885a | BRUCE → MONTOYA | x2
+Thanks, Renee.
+
+#### d48d002f09 | GORDON → MONTOYA | x2
+Coming down with us?
+
+#### a14d17b047 | MONTOYA → BRUCE, GORDON | x4
+Can’t. Interviewing a potential CI.
+
+#### cab19043a6 | GORDON → BRUCE | x2
+Come down straight after. {AngryA}I want people I trust on Falcone’s door.
+
+#### 982cec5b82-LM | RENEE → GORDON | x2
+You got it, Lieutenant.
+
+#### 60b0024e4a | BRUCE → HARVEY | x2
+Thank you. I appreciate the sentiment.
+
+#### a61333f50e-L? | choice/UI | x2
+You’ve looked better.
+
+#### 469192faa8 | choice/UI | x2
+You deserve to die in jail.
+
+#### 2de93bea65 | choice/UI, BRUCE → SPENCER | x4
+Watch your mouth.
+
+#### 8696e94690 | choice/UI | x2
+I’m starting to get it.
+
+#### 549ac4b702-LM | choice/UI → HARVEY | x2
+And you had him killed, too.
+
+#### f6155aa88a | DENT → GORDON | x2
+Finally put Falcone in a cage.
+
+#### 519d29fe1d | HARVEY → MONTOYA | x4
+Getting you in{FearA}{body-LeanR} to see Falcone like this --{AngryA}{body-HandsUp} I don’t have to tell you how many {body-A}rules we’re breaking.
+
+#### eca29cd87b-SM | HARVEY → BRUCE | x2
+I pulled all the strings I had with the lieutenant.
+
+#### 90452b282f | HARVEY → BRUCE | x2
+Both of us could get in serious trouble.{ThinkingB}{body-HandsUp} Gordon too.
+
+#### b02567ce89 | DENT → BRUCE | x2
+It’d sink the campaign.
+
+#### 6e192cfbc9 | choice/UI, BATMAN → HARVEY, VICKI | x4
+It’s important.
+
+#### e61ee4242f | choice/UI → HARVEY | x2
+No one needs to know.
+
+#### fb0bfb6a09 | BRUCE → HARVEY | x2
+I wouldn’t ask if it wasn’t important.
+
+#### ac91a44f1a-SM | BRUCE → HARVEY | x2
+You owe me, Harvey.{ConcernedA} And now I need your help.
+
+#### 189255ee35-LM | HARVEY → BRUCE | x2
+Those are donations, not loans.{body-HandsUp}{AngryA} You’re not entitled to a pound of flesh.
+
+#### 94477851ab | BRUCE → HARVEY | x2
+C’mon Harvey --{ThinkingA} this is more like an ounce.
+
+#### 88a25ac7ff | HARVEY → BRUCE, FALCONE | x4
+Everything’s important, that’s the problem.
+
+#### b4fbffd1ab | BRUCE → HARVEY | x2
+Relax. {body-HandsUp}No one needs to know.{AngryA}{body-A} I’ll be in and out before anyone even notices.
+
+#### 6c7e90ef8f | HARVEY → BRUCE | x2
+‘Relax’, he says. {body-A}You know...{SarcasticA} I’m starting to think you’re the reckless one.
+
+#### 59f07f644f | HARVEY → BRUCE | x2
+You know... I’m starting to think you’re the reckless one.
+
+#### b9c83accda | HARVEY → BRUCE | x2
+At least tell me what this is about.
+
+#### 04c61fa128 | choice/UI → HARVEY | x2
+It’s better you don’t know.
+
+#### fc085c2df5 | choice/UI → HARVEY | x2
+It’s personal, Harvey.
+
+#### e2367e4b28 | choice/UI → HARVEY | x2
+I think Falcone had my parents killed.
+
+#### 3b2e117324 | BRUCE → HARVEY | x2
+Trust me. {ConcernedA}You don’t want to know.
+
+#### 76f2d2a3bb | HARVEY → BRUCE | x2
+No, no, I do. That’s why I’m asking. {FearA}{body-HandsHips}I don’t ask questions I don’t{body-A} want to know the answers to.
+
+#### 2a3a895642-SM | BRUCE → HARVEY | x2
+I’m sorry Harvey.{ThinkingA} It’s better this way.
+
+#### a96c785fad | BRUCE → HARVEY | x2
+Sorry Harvey. It’s... personal.{ConcernedA}{body-HandsUp} Just do me a favor and keep out of it.
+
+#### 626fc426f3-SM | BRUCE → HARVEY | x2
+I’m not sure, but... {ThinkingB}I think Falcone {AngryA}put a hit on my parents.
+
+#### 9b33508983 | HARVEY → BRUCE | x2
+Wait. What!?
+
+#### ec0a8c6dd1-LM | DENT → BRUCE | x2
+How did you find that out?
+
+#### ba715b4b5d | BRUCE → HARVEY | x2
+That was my reaction too.
+
+#### ea3eb72865-LM | HARVEY → BRUCE | x2
+Of course, you think{AngryA}{body-HandsUp} you’re entitled to this kind of access.
+
+#### b906eaa170 | HARVEY → BRUCE | x2
+This better not come back to bite us.
+
+#### 3c3f5efaa7 | HARVEY → BRUCE | x2
+Except{body-A} I’m all the way in.{body-HandsUp} I have a right to know.
+
+#### 2a8f9ec6a8 | HARVEY | x2
+I blame Alfred for raising a brat.
+
+#### 4ab8117a74-SM | HARVEY → BRUCE | x2
+But I should at least know what I’m getting myself into.
+
+#### 2aa02306f9 | DENT → BRUCE | x2
+I”m all for blind support.
+
+#### dd9dcd4038 | HARVEY → BRUCE | x2
+Look, I’m all for blind support.
+
+#### 1b8c077235 | BRUCE → HARVEY | x2
+It’s{body-HandsUp} about my family,{body-A} not the campaign.
+
+#### e9959e9503-LM | HARVEY → BRUCE, FALCONE | x4
+That’s... that’s terrible. How did you find out?
+
+#### 04b1c3da48 | GORDON → BRUCE | x2
+Dent. Mr. Wayne.{body-StandA} Welcome to the GCPD.
+
+#### 220a3fadef | choice/UI → GORDON | x2
+We all help each other out.
+
+#### f99ff71f23-SM | choice/UI → GORDON | x2
+I won’t make a habit of it.
+
+#### f88334afbf | choice/UI → GORDON | x2
+Money talks.
+
+#### ba6197d886 | BRUCE → GORDON | x2
+One hand washes the other, Lieutenant.
+
+#### 704e087caf | BRUCE → GORDON | x2
+It’s nice to have money.{AmusedA} {body-HandsUp}Almost everything bends under the weight of billions.{body-A}
+
+#### 3db6bd9d66 | BRUCE → GORDON | x2
+I realize this is irregular, Lieutenant.
+
+#### c93744897a | GORDON → BRUCE | x2
+Even the law.
+
+#### cd182622e1 | GORDON → FALCONE | x2
+Coming down to the infirmary?
+
+#### 9df08ef404-SM | FALCONE → GORDON | x2
+I figured you finally worked it out. You and me, we’re practically blood.
+
+#### cc43e14831-LM | FALCONE → GORDON | x2
+Still, took half the media to bust a gut before you got a clue.
+
+#### a9839beea2 | FALCONE | x2
+Thomas never said he and Martha had them a slow kid.
+
+#### 3d3f4a8d07 | FALCONE → BRUCE | x4
+It’s a damn shame, you ask me.
+
+#### 8741f6518a-SM | FALCONE → BRUCE | x4
+Got a whole closet full of birthday presents I was never able to give you.
+
+#### 48dab35c6f | FALCONE → BRUCE | x2
+But then... your dad was pretty damn good at taking care of his own.
+
+#### 3276dec219 | FALCONE → BRUCE | x2
+Right up to the day he died.
+
+#### 406e27d0a3 | choice/UI → FALCONE | x2
+Stop joking or I’ll hurt you.
+
+#### 9ab6608c6c | FALCONE → BRUCE | x2
+So that’s what this is really about? The pup digging up a twenty year old killing.
+
+#### fee7001646 | BRUCE → FALCONE | x2
+Two killings. And they were never forgotten.
+
+#### 0ce105e8bf | FALCONE → BRUCE | x2
+Goddamn this pain. Can’t think through it.
+
+#### d75132d74b | FALCONE → BRUCE | x2
+Suck me.
+
+#### b44a7def2f | FALCONE → BRUCE | x2
+Be a good boy and help Uncle Carmine out.
+
+#### 134131866f | choice/UI → FALCONE, COA03 | x4
+[Hurt him]
+
+#### c9acdb1534 | choice/UI → FALCONE | x2
+[Ease his pain]
+
+#### be07025cde | BRUCE → FALCONE | x2
+You deserve to suffer for what you’ve done!
+
+#### db783121c9 | FALCONE → BRUCE | x2
+How easy it would be… just to keep on... squeezing. Snuff me out.
+
+#### 9a287a0bf3 | FALCONE → BRUCE | x2
+Of course, you’d never know the truth.
+
+#### 7b97371f89 | FALCONE → BRUCE | x4
+Is that who you are, Bruce?
+
+#### 8146188cbf | FALCONE → GORDON | x4
+How much of your old man is in you?
+
+#### 77b69ce39a | FALCONE → GORDON | x2
+Forty years I keep my veins clean of any of that gunk. But you never forget the tender kiss.
+
+#### b087c8ae07 | FALCONE → GORDON | x2
+It’d be so easy to give me the whole vial, wouldn’t it? Enough there to put an old dog down forever.
+
+#### 889cbc066c | FALCONE → GORDON | x2
+Of course, you’d never know the whole story.
+
+#### c1cbe2cd5f-SM | choice/UI → FALCONE | x2
+I need you coherent.
+
+#### 0c7a1d991a | choice/UI, ENFORCERCOLLEEN → FALCONE, ENFORCERLUKE | x4
+Don’t push me.
+
+#### fd5b10d6f8 | FALCONE | x2
+How much of your parents do you have in you?
+
+#### c4d88582cb | FALCONE → BRUCE | x2
+What kind of son did Thomas Wayne make?
+
+#### 67f2855b92 | FALCONE → BRUCE | x2
+What kind of son did he make?
+
+#### 47ea7369ef | FALCONE → BRUCE | x2
+Some people just have the brain for it.
+
+#### 2e465472a5-SM | BRUCE → FALCONE | x2
+I need you alive. But only until I have answers.
+
+#### 060af0169c | BRUCE → FALCONE | x2
+I’m no murderer, Falcone. Unlike you.
+
+#### a921a0a339-LM | FALCONE → BRUCE | x4
+Yeah. That’s why you were kept in the dark.
+
+#### d823bd2af1-LM | FALCONE → BRUCE | x2
+Apple didn’t fall far, did it? You got that Wayne seed.
+
+#### d2e5dd08c5-SM | BRUCE → FALCONE | x2
+Dent has plans for you. Gordon too. I won’t rob them of that.
+
+#### dec6d07ce5-LM | FALCONE, FLACONE → BRUCE, FALCONE | x8
+Apple didn’t fall far, did it? You got that Wayne streak.
+
+#### 5f43b3ed88-SM-LM | BRUCE → FALCONE | x2
+I need you coherent or you would be gone already.
+
+#### 40de2cc144 | BRUCE → FALCONE | x2
+I’m not a murderer.
+
+#### dac538e46b | BRUCE → FALCONE | x2
+Do not push me, Falcone.
+
+#### 146b44f44c-LM | FALCONE → FLACONE | x2
+No, you’re not. That’s why you were kept in the dark.
+
+#### 6c6ca538fd | FALCONE → FLACONE | x2
+There it is. That Wayne streak.
+
+#### e2b3225bbe | FALCONE → BRUCE | x5
+Your father was more ruthless than any of us. He had a switch, you know?
+
+#### 751eb86176 | BRUCE → FALCONE | x2
+What did my Father do for you?
+
+#### 58d7cf6b7e | FALCONE → BRUCE | x2
+Do for me!? You really gotta sharpen up, kid.
+
+#### 81a471e1b3-SM | FALCONE → BRUCE | x6
+I had the muscle. Hill smoothed things over with city hall.
+
+#### ecde1dfd49 | FALCONE → BRUCE | x2
+Hill was the silver tongue, buried in the dirty corridors of city hall.  We called ourselves the triumvirate. A Roman affectation.
+
+#### 7f21678d30 | FALCONE → BRUCE | x10
+Tommy was the one with the schemes.
+
+#### c81bf739b7 | FALCONE → BRUCE | x2
+We called ourselves the triumvirate. A Roman affectation.
+
+#### fd8b25caff-SM | FALCONE → BRUCE | x7
+Sure I worked with Joe Chill from time to time. Put a button on someone, he’d take ‘em out.
+
+#### d20695d63d-SM | FALCONE → BRUCE, MONTOYA | x12
+But I never ordered that hit on your parents.
+
+#### b67d6dd73e | BRUCE → FALCONE | x6
+So who did?
+
+#### 868907fb30 | FALCONE → BRUCE | x2
+Listen and listen good, because I’m about to speak the truth.
+
+#### 6d947a63af | FALCONE → BRUCE | x2
+Some people just have the mind for it.
+
+#### 00b2aad45d | FALCONE → BRUCE | x2
+Some
+
+#### bcb759aab1 | FALCONE → HARVEY | x2
+He was one of the most brilliant men I ever knew.
+
+#### 43a62412cc-LM | FALCONE → THOMAS, HARVEY | x5
+He protected his own, but if you got on his bad side…
+
+#### e53a827603 | HARVEY → FALCONE | x2
+Fighting crime. Preparing to debate the Mayor.
+
+#### c8b6016677 | FALCONE → HARVEY | x2
+Hey -- we’re talking here!!
+
+#### a82ce3f4f5 | FALCONE → HARVEY | x2
+Goddamn cocksucker --
+
+#### 2efd4a1362 | FALCONE → HARVEY | x2
+And I swear to you, Thomas and Martha Wayne did things that made even me shudder.
+
+#### 1f9fdfc469 | HARVEY → FALCONE | x2
+Now{body-HandsUp} hold on.{FearA} Nothing’s bending, {SarcasticA}we’re just skipping a little paperwork.
+
+#### f0f7f4ecfa | GORDON → MONTOYA | x4
+Renee! What are you doing?!
+
+#### 9f0f37936d | MONTOYA → FALCONE | x2
+I’m the one who should be thanking you.
+
+#### 3d30ffb2d2 | MONTOYA → HARVEY | x2
+There aren’t many of us, {body-X}{ThinkingA}but we exist.
+
+#### b4aa4008ab-SF | RENEE → GORDON | x2
+I only wanted to thank you.
+
+#### d08f85da97 | BRUCE → MONTOYA | x2
+I wouldn’t ask if there was another way.{body-A}
+
+#### 456ead188c | HARVEY → GORDON | x2
+I’m{body-A} vouching for him, Gordon.{SmugA}{body-HandsUp} Trust me, he’s one of the good guys.{body-A}
+
+#### 90419f1451 | GORDON → HARVEY | x2
+A good guy who always gets what they want.{AngryA} In my book, there’s no such thing.
+
+#### 464a3010db | HARVEY → GORDON | x2
+Of course. {body-A}{AngryA}Otherwise everyone has dirty hands.
+
+#### dae193b00d | GORDON → HARVEY | x2
+Is that how it works?
+
+#### f262fbac94-LM | GORDON → HARVEY, BRUCE | x4
+Bend the rules whenever you need it.
+
+#### e4cdd24161 | GORDON → BRUCE | x2
+...must be nice to have a DA in your pocket, Mr Wayne.
+
+#### fa3fcc7380 | BRUCE → GORDON | x2
+Thank you, Lieutenant.
+
+#### 8240e554c9 | BRUCE → GORDON | x2
+I’m starting to see it.
+
+#### 26c2368267 | BRUCE → GORDON | x2
+I feel like I’m missing a few details, though.
+
+#### 493d2fb266 | GORDON → MONTOYA | x7
+Montoya! Put the weapon down!
+
+#### 26efa2dedb | BRUCE → GORDON | x4
+She’s drugged!
+
+#### af9d894fbe | BRUCE → GORDON | x2
+These guys are fucked.
+
+#### 2f8edfb4a7 | FALCONE → BRUCE | x2
+Bruce... come give your uncle Carmine a hug.
+
+#### 7950a49ff0 | BRUCE → FALCONE | x2
+You know you’re going to die in jail.
+
+#### 817533afc0 | BRUCE → FALCONE | x2
+We need to talk, Falcone.
+
+#### d92cd9951e | FALCONE → BRUCE | x2
+No one’s sleeping, kid.
+
+#### 3c49fe0516 | BRUCE → FALCONE | x2
+Falcone-- S’the curtains. Nurse won’t pull ‘em back in case of snipers.
+
+#### eab09c41f2 | FALCONE → BRUCE, HARVEY | x4
+The hell -- Bruce Wayne...?
+
+#### 44600d3543 | FALCONE → BRUCE, HARVEY | x4
+They buried me down here... [cough] surrounded by a hundred cops.
+
+#### 9cb065926c | FALCONE → BRUCE | x6
+Surrounded by cops.
+
+#### b7aab3e672-L? | FALCONE | x2
+You found me.
+
+#### f9a3cd45da | FALCONE | x2
+Come give your uncle Carmine a hug.
+
+#### 8542d98533 | FALCONE | x2
+They got me buried in here. Surrounded by filthy cops.
+
+#### 8f0d85c4e2 | FALCONE → BRUCE | x6
+I hear they got witness protection in Tahiti.
+
+#### 2b1329a6a5 | FALCONE → BRUCE | x2
+Everyone here knows I’m getting off.
+
+#### 541a98f073 | BRUCE, choice/UI → FALCONE, OSWALD | x4
+You look like shit.
+
+#### 537e877c42 | FALCONE → BRUCE | x2
+Ennh, I’ll turn states and look beautiful doing it.
+
+#### 422a9f9d23 | BRUCE → FALCONE | x2
+Right. You’re an important man.
+
+#### 3b0047c8ee | FALCONE → BRUCE | x2
+They got me.
+
+#### afe8b6fd02 | HARVEY → FALCONE | x2
+Making sure Bruce is happy.
+
+#### 66c87f654e | FALCONE → HARVEY | x2
+They got me in the basement, surrounded by a hundred cops.
+
+#### c712f2261a-SM | FALCONE → BRUCE | x2
+But then I knew you’d come around. Especially after the press got their teeth into you.
+
+#### 4482014362-SM | BRUCE → FALCONE | x2
+That’s what I came to talk about.
+
+#### 9f5696768e | FALCONE → BRUCE | x2
+That’s what you wanna talk about right?
+
+#### 4eab420da2 | BRUCE → FALCONE | x2
+We are not family, Falcone. I’m nothing like you.
+
+#### eb00382c8c | choice/UI → FALCONE | x2
+Piss off the wrong guy?
+
+#### 592642400a-LM | BRUCE → FALCONE | x2
+You look like you tangled with the wrong guy.
+
+#### 04bab0da82-SM | FALCONE → BRUCE | x2
+This is nothing. You shoulda seen me before I became boss.
+
+#### 5e05a4ca82 | BRUCE, FALCONE, VICKI → HARVEY, BRUCE, BATMAN | x13
+You sure about that?
+
+#### 550066754e | FALCONE → BRUCE | x2
+That fucking bat...  I’ll skin him, if I have to make it my life’s work.
+
+#### 5471161780 | FALCONE → BRUCE | x2
+I’d show up all beat to hell. Your father would sew me back together.
+
+#### e80476a02b | BRUCE → FALCONE | x2
+What do you know about my father?
+
+#### 1f2126ba35 | BRUCE → FALCONE | x2
+They’ll never let you turn states. You’re gonna die in jail.
+
+#### 7e6227e64a | FALCONE → BRUCE | x2
+You’re a plain speaker. I like that.
+
+#### db86cde88d-SM | FALCONE → BRUCE | x2
+Goddamn Batman. I haven’t took a beating this bad since before I got made.
+
+#### 13e048de3b | FALCONE → BRUCE | x2
+Your father used to sew me up. Better than these cop doctors.
+
+#### 143e927182 | FALCONE | x2
+That’s why you’re hear isn’t it? To talk about you father?
+
+#### 195f2a7370-SM | FALCONE | x2
+Yeah, That’s right. Thomas Wayne and I were close.
+
+#### 41eecf8372-SM-LM | FALCONE → BRUCE | x2
+I tried to get through to you at Dent’s party. But you -- you showed me the door.
+
+#### 6d56e8abb7-LM | FALCONE → BRUCE | x2
+But you gave me the high hat.
+
+#### 54186ca6bf | FALCONE → BRUCE | x2
+You and me, we’re practically family.
+
+#### 332701eee8 | BRUCE → FALCONE | x2
+Watch it, Falcone. I still see some unbroken bones.
+
+#### 2850e3ac87 | FALCONE → BRUCE | x2
+Tough guy, eh?
+
+#### e747e4ee85-SM | FALCONE → BRUCE | x2
+I tried to get through to you at Dent’s party. Maybe I should have spelled it out.
+
+#### edf021b592 | FALCONE → BRUCE | x2
+Maybe I should have spelled it out.
+
+#### 8c1528b33d | FALCONE | x2
+Much better, kid. Thank you...
+
+#### 6de8380522 | FALCONE | x2
+You remind me of your mother.
+
+#### 3c0356c101 | FALCONE | x2
+Your father may have been the doctor, but Martha-- she had the human touch.
+
+#### 83561c9ff0-L? | FALCONE | x2
+Think you got more of her in you, tell the truth.
+
+#### bab4089a25 | FALCONE | x2
+Did she ever love you.
+
+#### 8ec9d6e8f0 | FALCONE | x2
+They both did.
+
+#### e9359b4c5d | FALCONE → BRUCE | x4
+But you know mothers and their sons.
+
+#### 8c206b0447 | FALCONE → BRUCE | x2
+Gesture like that, reminds me of your mother.
+
+#### 28ed17b159 | choice/UI → FALCONE | x2
+I don’t remember her.
+
+#### 2e160e5c27 | FALCONE → BRUCE | x2
+They both loved you.
+
+#### 556b01cf7b-SM-LM | BRUCE → FALCONE | x2
+Well, I wouldn’t know. You took her from me when I was nine years old.
+
+#### a5db5af1d6-SM | BRUCE → FALCONE | x2
+I lost her so young. I hardly remember anything about her.
+
+#### 6814149a43 | BRUCE → FALCONE | x2
+Don’t you dare talk about my mother.
+
+#### ecf741e95f-SM | FALCONE → BRUCE, GORDON | x8
+You really think I hired Chill?
+
+#### 8b8aa21afb | FALCONE → BRUCE | x2
+She had steel in her, did Martha.
+
+#### 731084cbfe | FALCONE → BRUCE | x2
+Knew how to sooth a troubled soul.
+
+#### fe7ab6227b | FALCONE | x2
+You’re your father’s son.
+
+#### 0f88cb4b9c | FALCONE → HARVEY | x4
+It’s like a mausoleum in here.
+
+#### d13fb8864e | FALCONE | x2
+Kid, you must have some clout. My own wife can’t get in to see me.
+
+#### 239d4a5621-SM | FALCONE | x2
+I thought you’d have figured that out by now.
+
+#### afe3296409 | FALCONE | x2
+Well hurry up, kid. Just let it in.
+
+#### 3570e90bfe | FALCONE | x2
+You must have some clout. [cough] My own wife can’t get in to see me.
+
+#### bfaa6003e5 | FALCONE | x2
+It’s like a god damn mausoleum.
+
+#### 2e83ff2615 | FALCONE → BRUCE | x2
+I’ll get witness protection in Tahiti, kid. I’m dying on the beach.
+
+#### e4e01cb351-LM | FALCONE → BRUCE | x2
+I bet you came to kick some answers out of me.
+
+#### 2b7988abcd-LM | FALCONE → BRUCE | x2
+There’s not much left, if you came for a piece of me.
+
+#### de411e4955 | BRUCE → FALCONE | x2
+Not if Gordon has anything to do with it.
+
+#### a877e27f3d | HARVEY → FALCONE | x2
+Lately those two things have become intertwined.
+
+#### 4c296a3e56 | GORDON → BRUCE | x2
+Gentlemen.
+
+#### 05fd711d26 | BRUCE → GORDON | x2
+What he means is... {body-HandsUp}we’ll repay the favor in kind.{body-A}
+
+#### b8c1e9836f | GORDON → HARVEY, FALCONE | x4
+I’m gonna call you on that.
+
+#### 5ee302859e | GORDON → BRUCE | x2
+I expect help in kind.
+
+#### 9ff0f45a5f | DENT, BRUCE → BRUCE, FALCONE | x4
+I wouldn’t have it any other way.
+
+#### 5361398477 | HARVEY → GORDON | x2
+Good to see you, Jim.
+
+#### 23ac8dc269 | BATMAN, DENT, BRUCE → GORDON, BATMAN | x8
+Jim.
+
+#### 0822ef251b | GORDON → HARVEY | x2
+We finally put Falcone in his cage.
+
+#### 650951e056 | GORDON → HARVEY | x2
+All we have to do now is make sure he never sees oustide again.
+
+#### 96b5d0f160-LM | GORDON → BRUCE | x2
+Thanks to the information you gave me, Bruce, {DisgustA}he won’t ever get out.
+
+#### 3637fe018b-SM | HARVEY → GORDON | x2
+Oh, I’m sorry -- information? What information?
+
+#### 9e4e335a67-SM-LM | GORDON → HARVEY | x2
+Oh... I assumed you knew.{ThinkingA} I was going to contact your office first thing.
+
+#### 9ea4038f77 | choice/UI → GORDON | x2
+It’s dirt on Falcone.
+
+#### 2d8c7491d5 | BRUCE → GORDON | x2
+It was nothing worth mentioning.
+
+#### 64188f80c3 | GORDON → BRUCE | x2
+Speaking of quid pro quo. I know you’re going to want Falcone to turn states.
+
+#### 348997f4a6 | choice/UI → GORDON | x2
+Falcone *will* pay for his crimes.
+
+#### cadbfa09b8 | choice/UI → GORDON | x2
+Some secrets should stay buried.
+
+#### 5d7148ecc7-SM | choice/UI → GORDON | x2
+I was going to tell you.
+
+#### cef916a480 | GORDON → BRUCE | x2
+You never struck me as a humble guy.
+
+#### 6c3aa7e8f8-LM | BRUCE → GORDON | x2
+You made the case.
+
+#### d8ec662404-LM | GORDON, BRUCE → BRUCE, GORDON | x4
+The information you gave will make Falcone’s case a slam dunk.
+
+#### 6ae1997b5c | HARVEY → GORDON | x2
+Not worth mentioning, huh?
+
+#### 9fb520dffa-SM | BRUCE → GORDON | x2
+I gave him some evidence against Falcone.
+
+#### 08aa8e9947 | GORDON → HARVEY | x2
+More like a catalogue of his entire criminal empire.
+
+#### 0229eb0136 | HARVEY, SELINA → BRUCE | x4
+Apparently not.
+
+#### 8d0f07af72 | GORDON → BRUCE, HARVEY | x4
+It’s a case that’ll put Falcone away for life.
+
+#### e869510c32 | GORDON → BRUCE | x2
+Between you and Batman, we really turned that gangster on his head.
+
+#### 7cfb218021 | GORDON → BRUCE | x2
+I tell you, it made it easier for me to bend the rules today.
+
+#### bf533b2efb-SM | BRUCE → GORDON | x2
+Sorry Harvey -{body-HandsUp} I was going to tell you.
+
+#### 5e9db2fd4d | GORDON → BRUCE | x2
+I tell you, it  made it easier for me to bend the rules for you today.
+
+#### 91d85d9e9b | HARVEY → GORDON | x6
+Is that a fact?
+
+#### 5e38868750 | HARVEY → GORDON | x2
+Tell me what?
+
+#### 575c4acb1e | GORDON → HARVEY | x2
+Your friend here gave us a case that’ll put Falcone away for life.{DisgustA} A catalogue of his entire criminal empire.
+
+#### 0b842ea235-LM | GORDON → HARVEY | x2
+I tell you, it  made it easier for me to bend the rules today, knowing you’d helped so much.
+
+#### f31af5e24c | GORDON → HARVEY | x2
+I tell you, it  made it easier for me to bend the rules today.
+
+#### 028a3c5d69 | GORDON → HARVEY | x2
+Ordinarily we’d never let you in to see Falcone,{TiredA} but...
+
+#### 04001155dd | GORDON → HARVEY | x2
+Speaking of quid pro quo - I want the bastard dying in jail.
+
+#### ba3cfe9479 | GORDON → HARVEY | x2
+I want that bastard in jail for the rest of his life.
+
+#### eb8f2fbfcb | DENT → GORDON | x2
+Hell yeah, I want him as a witness.
+
+#### c6e1dfb9ce | DENT → GORDON | x2
+Me too -- but think of the secrets that would come out!
+
+#### 96da2c508c | GORDON → HARVEY | x2
+Well, I want the bastard dying in jail.
+
+#### 910923faa6 | BRUCE → HARVEY | x2
+Falcone should rot in jail for his crimes.
+
+#### 2e6017ff9d | GORDON → HARVEY | x4
+Listen to your friend, Dent.
+
+#### 7d16d43ef8 | HARVEY → BRUCE, GORDON | x4
+It’s a wasted opportunity.
+
+#### c36088cb41 | BRUCE, GORDON → HARVEY | x4
+But Falcone will face the justice he deserves.
+
+#### cdea533967 | HARVEY → BRUCE | x2
+Falcone’s testimony could help clean up what’s left of crime in the city. It would save lives.
+
+#### 9918a6dabd | BRUCE → HARVEY | x2
+Maybe we’d even get to the Mayor.
+
+#### 3a1e17d2c3 | BRUCE → HARVEY | x2
+Some secrets aren’t worth digging up.
+
+#### b1ecd63284 | GORDON → HARVEY | x2
+You know the suffering Falcone’s caused. He deserves justice, not a country club retirment.
+
+#### 11ff845206 | HARVEY → GORDON | x2
+If we have the case, we should force Falcone to turn states.
+
+#### c90649a50a | DENT → GORDON | x2
+Give up the rest of the scum in Gotham
+
+#### c01f0d4b80 | GORDON → HARVEY | x2
+Except I want that bastard to die in jail.
+
+#### cc8517cffe | HARVEY, DENT → GORDON, FALCONE | x6
+Me too -- but think of the forty years of secrets we’d pull out of him.
+
+#### 7c76ca3e24 | HARVEY → GORDON | x2
+Falcone’s tendrils run deep.
+
+#### e168433cac | BRUCE → HARVEY | x2
+Gothan’s got enough trouble already, no need to go looking for more.
+
+#### 5ff79f63a5 | HARVEY → BRUCE | x2
+Fine, fine,{body-HandsUp} don’t tell me.{body-A}{ThinkingB} But I hope none of this comes back to bite us.
+
+#### 471716801f-LM | HARVEY → BRUCE | x2
+The last time you disappeared behind closed doors with Falcone, {AngryA}{body-HandsUp}the press made us pay.
+
+#### a62437d8d7 | choice/UI → HARVEY | x2
+I can’t say that for sure.
+
+#### eb1734219c | choice/UI → HARVEY | x2
+Nothing’s coming back on us.
+
+#### 1b401bfb94 | HARVEY → BRUCE | x2
+The last time we brushed shoulders with Falcone, {AngryA}{body-HandsUp}the press made us pay.
+
+#### 47ef3d338d | BRUCE → HARVEY | x2
+I don’t know, Harvey. I can’t say for sure.
+
+#### 5944b43971-LM | HARVEY → BRUCE | x2
+You know, in that moment, I just wish you’d lied.
+
+#### 0e91307471 | BRUCE → HARVEY | x2
+Harvey... Trust me. Nothing’s coming back on you, the campaign, or anything else.
+
+#### 90973ce84c | HARVEY → BRUCE | x2
+Well, that fills me with confidence.
+
+#### b29469cb60 | HARVEY → BRUCE | x2
+Sorry about him -- {body-HandsUp}he’s got a ton on his plate.
+
+#### 0a2d581e72-LM | HARVEY → GORDON | x2
+Whatever you need to talk to Falcone about -- tell me it’s not coming back to bite us.
+
+#### d11aa465de | GORDON → FALCONE | x2
+Arms up. Gotta pat you down.
+
+#### c0c28087dc-LM | GORDON → FALCONE | x2
+Alright... {AngryA}you got ten minutes and ten minutes only.
+
+#### 311851d4f9 | FALCONE → GORDON | x2
+If you’re anything like Thomas Wayne, then we’re not so different.
+
+#### 3f8fa606a0 | FALCONE → GORDON | x2
+Why not, kid?
+
+#### f86a5fb724-L? | FALCONE | x2
+But you showed me the door.
+
+#### 09255fe7a0 | FALCONE → BRUCE | x2
+One of the best brains I ever met.
+
+#### deb29993fe | FALCONE → BRUCE | x2
+And he was one of the smartest guys I ever met.
+
+#### 9e2708c111 | BRUCE → FALCONE | x2
+You must have had quite a grip on Gotham.
+
+#### 4bf7271a5b | FALCONE → BRUCE | x2
+You don’t know the half of it, kid. We owned it. Still do.
+
+#### e500456e73 | FALCONE → BRUCE | x4
+Still do.
+
+#### ce653f89fc-LM | BRUCE → FALCONE | x2
+If that’s true, why did you have him killed?
+
+#### f24ad1860c | BRUCE → FALCONE | x2
+That’s ridiculous. My father, a kingpin of Gotham?
+
+#### 458aba6513 | FALCONE → BRUCE | x2
+You don’t know the half of it, kid. We owned this city. Still do.
+
+#### 27d14eb247 | BRUCE → FALCONE | x2
+If that’s true, then why’d you have him killed?
+
+#### 5fd0d606d6-SM | BRUCE → FALCONE | x2
+Stop kidding around, Falcone. I’m not afraid to hurt you.
+
+#### 9c10e890f0 | FALCONE → BRUCE | x2
+No joke, kid. We owned this city. Still do.
+
+#### e85e176e9d | BRUCE → FALCONE | x2
+If that’s true, why’d you have him killed?
+
+#### 8cd2a422fd | FALCONE → BRUCE | x2
+Morphine’s on the side there.
+
+#### 1ae6aeb70a | RHONDA, FALCONE → BRUCE, SELINA | x8
+Good boy.
+
+#### 228c51cac2 | FALCONE → HILL | x2
+We were partners. Tommy. Hill. Me.
+
+#### 68e6a6b8e2 | FALCONE → BRUCE | x2
+It’s not the ‘who’ that matters. It’s the ‘why’.
+
+#### 3266dfb426 | FALCONE → BRUCE | x2
+Tommy ever put the brakes on, she was right in his ear telling him to speed up.
+
+#### b1effef207 | FALCONE → BRUCE, HARVEY, GORDON | x6
+She was the only one that ever had a hold on your father.
+
+#### 64a149e4a4-LM | BRUCE → FALCONE | x4
+Until you hired an assassin to kill them both.
+
+#### d24b58db09 | HARVEY → FALCONE | x2
+But you’re always at the top of my list.
+
+#### b01f27f2e6 | FALCONE → YOUNGBRUCE, HARVEY | x5
+Still... made us all rich. Including you.
+
+#### ecd6ebde68-LM | BRUCE → FALCONE | x2
+Until you hired an assassin to take him out.
+
+#### 3168fbc0af-SM | FALCONE → BRUCE | x6
+You really think I ordered the hit?
+
+#### 575e96c51a | FALCONE → BRUCE | x2
+He loved you, you know. He did it all for you.
+
+#### 3fc378ef4f-SM | BRUCE → FALCONE | x2
+I never asked for any of it.
+
+#### b9603bc928 | FALCONE → BRUCE | x2
+And yet the money spends, doesn’t it?
+
+#### 111bd9dfd7 | BRUCE → FALCONE | x2
+I hardly remember anything about him.
+
+#### 133bc9af3c | FALCONE → BRUCE | x2
+Yet you see his legacy every day -- in Wayne Enterprises.
+
+#### 98c6831e58-LM | BRUCE → FALCONE | x2
+He made you rich, but you still had him killed.
+
+#### dfec80ba6f-LM | BRUCE → FALCONE | x2
+He made everyone rich, and you still had him killed?
+
+#### 105980861c | GCPD01 → GORDON, FALCONE | x6
+Hands in the air!
+
+#### 2f6f9d81a0 | GCPD02, choice/UI → FALCONE, GORDON, ENFORCERFEMALE | x6
+Let her go.
+
+#### 5074620f95 | choice/UI → GORDON | x2
+You worry too much.
+
+#### 735116f21c | HARVEY → GORDON | x2
+But we might even get to Hill. The pros outway the cons.
+
+#### 84eebbaa49 | BRUCE → GORDON | x2
+I am not here to take care of you!
+
+#### 78609e5244 | GORDON → BRUCE, GCPD01 | x6
+Get a doctor! Secure this floor!
+
+#### dda0bbc594 | GORDON → BRUCE, HARVEY | x4
+No one gets in or out! Go!
+
+#### ebf9373f04 | BRUCE → GORDON | x2
+Get an ambulance.
+
+#### a721072029-SM | FALCONE → GORDON | x2
+Leave it kid, I’m done.
+
+#### 10922779e3 | BRUCE → FALCONE | x2
+Why were my parents killed?
+
+#### abd1be9f1e-LM | FALCONE → BRUCE | x2
+That woman... ask yourself... why’d she shoot me...
+
+#### 54192dafe5 | FALCONE → BRUCE | x2
+Arghhh... Damn you Wayne, you should have let her put one in my head.
+
+#### 561d388f4a | BRUCE → FALCONE | x2
+Why?! Tell me!
+
+#### c9355e9ecd | GORDON → HARVEY | x2
+Your friend gave us the whole case against Falcone.
+
+#### c4a6525b87-LM | BRUCE → HARVEY | x2
+You need to stop worrying so much.
+
+#### 76e64f1fc1 | HARVEY → BRUCE | x2
+Don’t put me in these situations then.
+
+#### 439faa0800 | FALCONE → HARVEY | x2
+The hell are you doing here?
+
+#### d6ac9b2c2c | FALCONE → HARVEY | x2
+And here I am dying.
+
+#### 878ef54a6e | FALCONE → HARVEY | x2
+You must have some clout. My own wife can’t get in to see me.
+
+#### 8e681343f2 | FALCONE → HARVEY | x2
+It’s.. happening... They’re coming for us all...
+
+#### 047ba46d28 | choice/UI → FALCONE | x2
+Falcone won’t escape justice.
+
+#### 0d862acff0 | choice/UI → FALCONE | x2
+There are bigger fish than Falcone.
+
+#### 0199669687 | choice/UI → FALCONE | x2
+It’s about my parent’s murder.
+
+#### 3bd1577b3f-SM | choice/UI → FALCONE | x2
+I only need a few minutes.
+
+#### 0cdeccc729 | choice/UI → GORDON | x2
+You can trust me, Lieutenant.
+
+#### 7d35625529 | choice/UI | x2
+The papers are wrong.
+
+#### 79385224a9 | choice/UI | x2
+You have the DA’s support.
+
+#### b0ae007e4a | choice/UI | x2
+Give me answers!
+
+#### 5ba4eab515 | choice/UI → HARVEY | x4
+I’m no murderer.
+
+#### f37d3dda85 | choice/UI | x2
+We’ll get the truth.
+
+#### a177ef2a18-LM | choice/UI → HARVEY | x2
+Until you hired Chill.
+
+#### 015a0ba13f | choice/UI → HARVEY | x2
+I should kill you right now.
+
+#### f2199a2da0 | HARVEY → FALCONE | x2
+First {body-HandsUp}you shut me out of that meeting with{body-A} Falcone. {AngryA}Now this?
+
+#### 0ce4a08c43-SM | HARVEY → GORDON | x2
+No way, Gordon. You know I need him to turn states.
+
+#### ee49dbf923 | BRUCE → HARVEY | x2
+And {body-HandsUp}what if everything they say is true?
+
+#### a70ce97aef | RENEE → HARVEY | x2
+We know the media’s biased against people like you.
+
+#### d19f1b5951 | MONTOYA → BRUCE | x2
+Sir...? I--{AngryA} that would be a shame.
+
+#### e83c265c4e | BRUCE → MONTOYA | x2
+For the record,{ThinkingB} it’s not.
+
+#### 45f3bf26e5 | RENEE → BRUCE | x2
+Despite what the media are saying.
+
+#### 831f3517e1-LF | BRUCE → MONTOYA | x2
+You{body-HandsUp} can’t believe everything{SkepticalA} you read in {body-A}the paper.
+
+#### fd06f0d96e | MONTOYA → BRUCE | x2
+Reporters are like dogs -- {body-X}happiest when digging in the dirt.
+
+#### ff569a5e54 | MONTOYA → BRUCE | x2
+Despite what the media say.
+
+#### 522941022d | BRUCE → MONTOYA | x2
+Trust me. Nothing’s going to happen.
+
+#### f96d4e1826 | BRUCE → MONTOYA | x2
+I’ll be in and out before you know it.
+
+#### 750b491ad9 | GORDON → BRUCE | x2
+See that it doesn’t.
+
+#### 3599a9477e | GORDON → BRUCE | x2
+See that you keep that promise.
+
+#### 25dc6cfe5c | BRUCE → GORDON | x2
+Don’t worry, Gordon.{SadA} {body-A}Harvey will back you up if anything goes wrong.
+
+#### 2851bb1e82 | BRUCE → GORDON | x2
+Harvey will back you up if anything goes wrong.
+
+#### a3fe97be90 | GORDON → BRUCE | x2
+That doesn’t exactly fill me with confidence.
+
+#### 1d58e89714 | GORDON → BRUCE | x2
+I’m not comfortable with this.
+
+#### ab70c4a24c-LM | GORDON → FALCONE | x2
+I hope you find out what you need to know.
+
+#### 2f81cc1439 | GORDON → FALCONE | x2
+You two have really put me in a bind.
+
+#### 5fed442c86 | FALCONE → GORDON | x2
+You weren’t so eager the last time we met.
+
+#### 60b74154e7 | FALCONE → GORDON | x2
+Your father was more of talker.
+
+#### b4e6ddb865 | FALCONE → HARVEY | x2
+Motherfucker --
+
+#### 90d0b38175 | FALCONE → HARVEY | x2
+Get this bitch away--
+]FALCONE:[ALT; seriously stressed] Goddamn cocksucker --
+
+#### 703052feb4 | HARVEY → FALCONE | x2
+I don’t like what you’re insinuating.
+
+#### 9eddb56142 | HARVEY → BRUCE | x2
+Bruce, I appreciate you opening up to me, but... {ConfusedA}
+
+#### 7c7eae0516 | BRUCE → HARVEY | x2
+It’s not.
+
+#### a5cbef9792 | GORDON → BRUCE | x2
+You never struck me as a humble guy, Bruce.
+
+#### 761a73fe85 | GORDON → HARVEY | x6
+Your friend gave us the whole case against Falcone.{DisgustA} A catalogue of his entire criminal empire.
+
+#### 6dd627fbe3 | HARVEY → GORDON | x2
+Now nothing’s bending,{FearA} we’re just taking a detour{SarcasticA} around procedure.{body-A}
+
+#### 18dc5bc10b | GORDON → HARVEY | x2
+Well there’s a tax on that road.
+
+#### 9c44740ebc | HARVEY → GORDON | x2
+I wouldn’t have it any other way.{body-A}
+
+#### c55c389547 | GORDON → HARVEY | x2
+Just calling it like I see it.
+
+#### a350a93a68 | HARVEY → GORDON | x2
+He’ll be in and out before you know it.
+
+#### d3a1f80583-SM | GORDON → FALCONE | x2
+See that he keeps that promise, or I’ll drag him out myself.
+
+#### 54445af8e5-LF | FALCONE → MONTOYA | x2
+You’re no killer. It’s why you were kept in the dark.
+
+#### 2f5e4f7ccf-LM | FALCONE → HARVEY | x2
+Apple didn’t fall far, did it? You got that Wayne core.
+
+#### a284efcff2 | FALCONE → GORDON | x2
+Just like every other time they tried to put me away.
+
+#### ac8dbbc33f-SM | FALCONE → HARVEY | x2
+Yeah, that’s right. Tommy and I were close.
+
+#### 0a1b5192b3 | HARVEY → FALCONE | x2
+Just try and keep it cool in there.
+
+#### c8615ec864 | FALCONE, OSWALD → BRUCE | x4
+Shit!
+
+#### 3c130f0ec9-LM | BRUCE → FALCONE | x2
+Until you sent Joe Chill to kill him.
+
+#### ee6ec283f7-LM | BRUCE → FALCONE | x2
+You’re weak. Far away from any of your goons.
+
+#### 0ac6b0e5f1 | BRUCE → FALCONE | x2
+So why’d you have him killed?
+
+#### 126c727c5c | FALCONE → BRUCE | x2
+So that’s why you’re here.
+
+#### e65d34260d | FALCONE → BRUCE | x2
+More than friends. More like cousins.
+
+#### 9b8fe30952-SM-LM | BRUCE → FALCONE | x2
+I could avenge my father’s death, right now, and there’s not a damn thing you could do to stop me.
+
+#### e442c50a98 | BRUCE → FALCONE, GORDON | x4
+You have to make it out of this room first.
+
+#### a28e6a8830 | FALCONE → BRUCE | x2
+Talk like that, you remind me of your father.
+
+#### 8304698046 | FALCONE → BRUCE | x2
+Avenge Tommy?
+
+#### d1a23e8c77-LM | FALCONE → BRUCE | x2
+No... I didn’t think so. You’re no killer, Bruce. That’s why you were kept in the dark.
+
+#### f09b791778 | FALCONE | x2
+Don’t look so happy about it.
+
+#### 240d92a112-L? | FALCONE | x2
+You’re angry kid. I can see that.
+
+#### 37c135cf91-SM | FALCONE | x2
+Maybe you think I had something to do with his death?
+
+#### c31b98da9c | FALCONE → HARVEY | x2
+Your father would sew me up.
+
+#### 0dce5bf6f3 | FALCONE → HARVEY | x2
+Going back decades.
+
+#### 552c6043ca-SM | FALCONE → HARVEY, GORDON | x4
+You really think I hired Chill to kill her?
+
+#### abf2c4fefa | BRUCE → FALCONE | x2
+It blew me away.
+
+#### c8c14cfe75 | HARVEY → BRUCE | x2
+Bruce, that’s... {body-HandsUp}that’s terrible{body-A}.
+
+#### 6d9c2992fc-SM | FALCONE → HARVEY | x2
+You really think I hired Chill to kill him?
+
+#### 167719c0e3-LM | BRUCE → GORDON | x2
+Well, I wish more of Gotham felt like you did.
+
+#### 1ed26e2818-SM | GORDON → BRUCE, FALCONE | x6
+It’s the main reason I said yes to this... unorthodox request.
+
+#### 2a45fef0ee-SM | GORDON → BRUCE | x2
+It’s {body-StandA}the reason I said yes to this... unorthodox request.
+
+#### 8ece80945c | choice/UI → GORDON | x4
+I think he’s a freak.
+
+#### 5a833a4705 | choice/UI, VICKI → GORDON | x4
+Why do you care?
+
+#### 73161a1076 | choice/UI → GORDON, HARVEY | x4
+Batman is a hero.
+
+#### bec1f067ff | BRUCE → GORDON | x2
+Batman is a monster. {SkepticalA}{body-A}That freak does more harm for Gotham than good.
+
+#### c9797a16fa | GORDON → BRUCE | x2
+I’m starting to think{body-ArmsX} you might be right.
+
+#### e266f338c3 | BRUCE → GORDON | x2
+Well whoever{body-HandsUp} he is behind the mask,{body-A}{ThinkingB} Batman’s a hero to me.
+
+#### 7b8358416f | GORDON → BRUCE | x2
+We had to put Falcone in the infirmary.
+
+#### dd8d18654f | GORDON → BRUCE | x2
+Batman practically tore him in half.
+
+#### b2367fefe3 | GORDON → BRUCE | x2
+He’s helped us a lot in the past, but if you ask me,{DisgustA} he’s out of control.
+
+#### fdf0ab2fda | GORDON → BRUCE | x2
+That isn’t the first time either.{AngryB} He nearly ripped a guy’s arm off at the docks.
+
+#### 4fe93f0b27 | BRUCE → GORDON | x2
+If it makes the city safer,{body-HandsUp}{ThinkingA} who cares if a few thugs get hurt?
+
+#### 102962ba50 | GORDON → HARVEY | x2
+I care. {AngryB}{body-ArmsX}That’s not the city I want to live in.
+
+#### bb799e486a | HARVEY → GORDON | x2
+At least{body-HandsUp} {ThinkingA}someone’s getting tough on these guys.{body-X}{SmugA} I tell you, I’d rather have Falcone in here, than out on the street.
+
+#### 2695e262bf | GORDON → HARVEY | x2
+And that’s the problem. {body-ArmsX}{DisgustA}People are either scared out of their wits or they’re trying to copy him.
+
+#### c131602ab9 | HARVEY → GORDON | x6
+At least someone’s getting tough on these guys. I’d rather have Falcone in here, than out on the street.
+
+#### 1db226cd3a | choice/UI → HARVEY | x2
+Gotham would be doomed.
+
+#### b87b40d4ab | choice/UI → GORDON | x2
+Batman for Mayor.
+
+#### f9f8c8bda8 | GORDON → HARVEY | x2
+We’re keeping Falcone in the infirmary.{DisgustA}{body-ArmsX} He’s lucky he didn’t get roughed up more.
+
+#### a97e39e54a | GORDON → HARVEY | x2
+I don’t know what we’d do without our caped friend. He’s done so much for Gotham.
+
+#### 4a74a6df62 | GORDON → BRUCE | x2
+He’s lucky he didn’t get roughed up more.
+
+#### da95174034-SM | GORDON → BRUCE | x2
+I could tell Batman wanted to kill him,{SadA} but he held back.
+
+#### 4b097bcbd4 | BRUCE → GORDON | x2
+I{body-HandsUp} know he does a lot for the department, {body-LeanR}{FearA} but honestly, Batman freaks me out.
+
+#### 6974d2fe49 | BRUCE → GORDON | x2
+Fighting crime and{body-X} looking good while doing it --{SmugA} maybe he should run for Mayor.
+
+#### 8987cbe491 | HARVEY → BRUCE | x2
+Wait a minute -- {SurpriseB}you’re giving him my whole campaign{AngryA} platform?!
+
+#### ade71d5482 | BRUCE → HARVEY | x2
+Sorry Harv. {SmugB}He makes what you do seem{HappyA} effortless.
+
+#### d0db4610d3 | HARVEY → BRUCE | x2
+You suck.
+
+#### b0ab79cfcf | BRUCE → HARVEY | x2
+Whoever he is behind that mask,{body-X}{SmugA} I’d say Gotham’s lucky to have him.
+
+#### e8623f360e | HARVEY → BRUCE | x2
+It’s{body-X}{ThinkingA} great to know he’s out there watching over the city.
+
+#### c4c299eec2 | BRUCE → HARVEY | x2
+Sorry Harvey -- he makes what you do seem effortless.
+
+#### b0f7a73f29 | HARVEY → BRUCE | x2
+I don’t know what to make of this disloyalty.
+
+#### 5531ee095b | HARVEY → BRUCE, GORDON | x8
+It’s great to know{SmugA} he’s out there{body-X} watching over the city.
+
+#### 6128026221-SM | HARVEY → GORDON | x2
+Oh he’s definitely freaky. {body-HandsUp}{ThinkingA}But I’m glad he’s out there{body-X} watching over the city.
+
+#### df40089fa2 | GORDON → HARVEY | x2
+The way he held back on that rooftop...
+
+#### d232b0d46f | GORDON → HARVEY | x2
+He cares about doing the right thing.
+
+#### 53f72299b2 | GORDON → HARVEY | x2
+You{body-StandA} weren’t there, Harvey.{AngryA} You didn’t see it.
+
+#### d80af9477b | GORDON → HARVEY | x4
+You weren’t there, Harvey. You didn’t see it.
+
+#### 0b8a7cc45d | BRUCE → GORDON | x2
+We’ll repay the favor in kind.{body-A}
+
+#### 9f95eaaf13 | GORDON → FALCONE | x2
+He’s got an innate sense of right and wrong.
+
+#### acc315e1ac | FALCONE → GORDON | x2
+You can’t trust anyone in Gotham, least of all those you call friend.
+
+#### 2fc233437d | FALCONE → GORDON | x2
+Tommy and Martha - they learned that the hard way.
+
+#### aeb3202176 | FALCONE → GORDON, HARVEY | x7
+Your parents learned that the har --
+
+#### 45d4d7c99c | FALCONE → GORDON | x4
+Good thing I’ll be out of here in a week.
+
+#### d896e1d3f6 | GORDON → FALCONE | x2
+But everything’s been a little busy.
+
+#### 0cbbb57df6 | FALCONE → GORDON | x2
+Goddam--
+
+#### 944ac8b0f8 | FALCONE → GORDON | x2
+What the hel--
+
+#### 59512a82f3 | MONTOYA → FALCONE | x2
+You want the truth -
+
+#### 85ea59db9b | FALCONE → HILL | x2
+Your father. Hill. And me. We ran this city. Still do.
+
+#### fe4e8cbd1b | BRUCE → FALCONE | x2
+I’ll settle for a handshake and a blind eye.
+
+#### b50682b132 | HARVEY → MONTOYA | x2
+I don’t want any headlines taking away from my debate with Hill.
+
+#### 20938f8285 | HARVEY → FALCONE | x2
+I don’t want headlines{body-A} taking away from my debate with Hill.
+
+#### fe0f9bfeec | MONTOYA → HARVEY | x2
+They’re always sniffing around the department,{NormalA} even though we’re doing our best.
+
+#### 80d03ce882 | FALCONE → MONTOYA | x2
+The only one that ever had a hold on your father.
+
+#### 4012f3d186 | MONTOYA → FALCONE | x2
+You want the truth -- I hope someone gets to him.{AngryA} I can’t bear to see that scumbag get off again.
+
+#### a1c1a42cbd | GORDON → FALCONE | x2
+Detective...
+
+#### da1a00cca3 | GORDON → FALCONE, HARVEY | x4
+GO!
+
+#### a532086472 | BRUCE → GORDON | x2
+That’s why I have to speak with him.{ThinkingA} I have to know for sure.
+
+#### 2aea79379d-LM | BRUCE → FALCONE | x2
+You’re crazy, Falcone.
+
+#### 500b987e1d | FALCONE → BRUCE | x2
+She was no saint.
+
+#### 70cde12eb3-SM | FALCONE → BRUCE | x2
+I got nothing but good things to say about her.
+
+#### 67d4ae1539 | FALCONE → BRUCE | x2
+There’s a kindness in you.
+
+#### 0a4a96af41 | FALCONE → BRUCE | x2
+You care about people -- even mean old bastards like me.
+
+#### 487e84f1fb | BRUCE → FALCONE | x2
+Keep bragging about it, you’ll be lucky to make it out of this room.
+
+#### 95aae612df | choice/UI → FALCONE | x2
+We’re lucky to have him.
+
+#### c4862d1bb3-LM | choice/UI → HARVEY | x2
+You took her from me.
+
+#### 3b19a1285f | BRUCE → HARVEY | x2
+Whoever{body-HandsUp} he is behind the mask,{body-A}{ThinkingB} Batman’s a hero to me.
+
+#### 4b9aaafb43 | GORDON → HARVEY | x2
+Do what you gotta do.
+
+#### 41fdd51289 | GORDON → HARVEY | x2
+And we’ll see you out.
+
+#### 06f52b9480-LM | choice/UI → HARVEY | x2
+So you took him out.
+
+#### 03fd798a77 | choice/UI → GORDON | x2
+I didn’t ask for it.
+
+#### f573d906a6 | choice/UI → GORDON | x2
+I barely knew him.
+
+#### a569231d15 | choice/UI → GORDON | x2
+Don’t talk about my mother.
+
+#### 09ddcf474a | choice/UI → HARVEY | x2
+Appealed to Harvey
+
+#### cf858dde29-LM | BRUCE → HARVEY | x2
+Did you have something to do with his death?
+
+#### b5d809edb1-SM | BATMAN, choice/UI → OSWALD, MONTOYA | x6
+I could be convinced.
+
+#### 97a70a1ec4 | BRUCE → HARVEY | x2
+This is a personal matter, Harvey.
+
+#### f482a1456d-SM | HARVEY → MONTOYA | x2
+I’m sorry. That was over the line.
+
+#### a58ee09a5d | MONTOYA → BRUCE | x2
+Nice job bringing in Falcone.
+
+#### 9b8b34764b | MONTOYA → BRUCE | x2
+We finally got that son of bitch Falcone!
+
+#### 85259f3413 | MONTOYA → HARVEY | x2
+We finally got Falcone!
+
+#### d76ee1f8a6 | MONTOYA → GORDON | x2
+That son of a bitch better not get off again...
+
+#### 6e9153eacd | MONTOYA → GORDON | x2
+The old bastard better not get off again...
+
+#### 6d2cb4539c | GORDON → MONTOYA | x2
+He’s not getting off the hook, Renee. Not this time.
+
+#### 544f2e6fbd | MONTOYA → GORDON | x2
+I swear I’ll get my own kind of justice if he doesr
+
+#### 1b903dd473 | BRUCE → GORDON | x2
+Harvey’s not in my pocket, Lieutenant. He always does what he thinks is right.
+
+#### 629b7d2ac8 | GORDON → MONTOYA | x2
+Well, it’s lucky your interests align.
+
+#### 6b5446a210 | BRUCE → MONTOYA | x2
+Convince me then. Tell me a story about our big, happy family.
+
+#### d00c699260 | FALCONE → BRUCE | x2
+The question is -- where do I start?
+
+#### 9cca56dfee-SM-LM | FALCONE → GORDON | x2
+There it is. Now I got you hooked.
+
+#### c33f8f5120 | MONTOYA → FALCONE | x2
+Or I don’t know what I’ll do.
+
+#### 0dd1583fbb | GORDON → MONTOYA | x2
+Alright. Falcone’s inside. Do what you gotta do.  We’ll be out here.
+
+#### ccd54cb88c | MONTOYA → GORDON | x2
+Bastard!!
+
+#### 7a48184db7 | MONTOYA → FALCONE, HARVEY | x5
+They’re waiting for you in hell!!
+
+#### 5b8d485fdb | MONTOYA → HARVEY, BRUCE | x4
+They were waiting for him in hell!
+
+#### 3484406a6b | MONTOYA → HARVEY, FALCONE | x7
+The bastard had to die!
+
+#### 8bc2a9fca9 | HARVEY → MONTOYA | x2
+Don’t get me wrong. I’m always here for you.
+
+#### ab5051dbfe | HARVEY → MONTOYA | x2
+But both of us could get in hot water. Gordon too.
+
+#### bfa7a3393c | HARVEY → MONTOYA | x2
+But this could land us in hot water.
+
+#### 8853d8f7f8 | choice/UI → HARVEY | x2
+And I appreciate it.
+
+#### 7359bdf186 | HARVEY → BRUCE | x2
+But this could land us both in hot water.
+
+#### b4547a68f2 | BRUCE → HARVEY | x2
+Look, I get that, Harv, okay? And it means a lot to me.
+
+#### c63dbecbf3 | HARVEY → BRUCE | x2
+Oh, “relax” he says. As if Bruce Wayne won’t turn every head in the building.
+
+#### 431ee23946 | HARVEY → BRUCE | x2
+I know it does, Bruce. Doesn’t make it any easier.
+
+#### 5dc30c1ce0 | GORDON → BRUCE | x2
+Alright. Falcone’s inside. Say what you gotta say. We’ll be out here.
+
+#### bc17d00f2e-SM | BRUCE → HARVEY | x2
+You owe me, Harvey. And now I need your help.
+
+#### ebdf5ede56 | BRUCE → HARVEY | x2
+Relax, Harv. No one needs to know.
+
+#### fedc79c1e4 | BRUCE → FALCONE | x2
+I’ll be in an out.
+
+#### d4dc05850a | BRUCE → FALCONE | x2
+We’ll be out of here in no time.
+
+#### c1617a60b5 | GORDON → BRUCE | x2
+You know, letting you in to see Falcone is highly irrigular but...
+
+#### 7dcd7636e2 | MONTOYA → FALCONE | x2
+You can’t get out of this one!
+
+#### d22c7578f6 | MONTOYA → FALCONE | x2
+You can’t get out this one!
+
+#### 322c51006e | BRUCE → MONTOYA | x2
+Thanks, Sergeant.
+
+#### 711562750d | choice/UI → MONTOYA | x2
+Falcone had my parents killed.
+
+#### c2e0698f99 | choice/UI → MONTOYA | x2
+It’s personal.
+
+#### 9df7d93ae2 | choice/UI, BRUCE → LELAND, FALCONE, GORDON | x12
+You don’t want to know.
+
+#### 3847553e11-SM | FALCONE → MONTOYA | x5
+Sure, I worked with Joe Chill from time to time. Put a button on someone, he’d take ‘em out.
+
+#### a9a6eb2035 | FALCONE → BRUCE | x2
+Hey. You can’t trust anyone in Gotham, least of all those you call “friend.“
+
+#### 8b2909eaeb | FALCONE → BRUCE | x2
+Your parents, they learned that the har --
+
+#### d7c03f1d83 | FALCONE → GORDON, BRUCE | x5
+You can’t trust anyone in Gotham, least of all those you call “friend.“
+
+#### 4b323060c1 | MONTOYA → HARVEY | x2
+You’re not getting away with it! Not this time!
+
+#### a423d7aac2 | HARVEY → FALCONE | x2
+Scalding, skin-stripping water.
+
+#### ed979a1a0b | HARVEY → GORDON | x2
+Gordon, too.
+
+#### e0fd536f5d | HARVEY → GORDON | x2
+I’m not trying to give you a hard time, but...
+
+#### 88e4cf5a19 | choice/UI → GORDON | x2
+He’s not in my pocket.
+
+#### 5c63e55479 | choice/UI → GORDON | x2
+How are we family?
+
+#### 12752364e8 | FALCONE → GORDON | x2
+Hey -- we?re talking here!!
+
+#### 71d3c2654f | BATMAN, choice/UI, BRUCE → GORDON, FALCONE, JOKER | x8
+Tell me what you know.
+

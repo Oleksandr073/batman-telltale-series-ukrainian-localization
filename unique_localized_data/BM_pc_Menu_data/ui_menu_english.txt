@@ -1,0 +1,1836 @@
+﻿#### ed946968d7 | choice/UI | x4
+Unable to download at this time. Please try again later.!
+
+#### a6049baa6f | choice/UI | x4
+Invalid Password
+
+#### be81ab98cb | choice/UI | x2
+Password:
+
+#### 313b1c29c5 | choice/UI | x2
+Installing Episode
+
+#### f50089206c | choice/UI | x2
+UPDATE REQUIRED
+
+#### a8729c3d28 | choice/UI | x2
+An update is required in order to access this content.
+
+#### fb6f15edd5 | choice/UI | x2
+Your Choices
+
+#### 1b81cfff93 | choice/UI | x2
+YOUR CHOICES
+
+#### a02a3b7f46 | choice/UI | x2
+Adjust the overall volume output.
+
+#### 808b582170 | choice/UI | x2
+Get more
+
+#### 3b7782ff05 | choice/UI | x2
+Extras
+
+#### 56b71e89fb | choice/UI | x2
+Videos
+
+#### 25a0d43972 | choice/UI | x2
+EXTRAS
+
+#### 1c54132b8e | choice/UI | x2
+Record
+
+#### 372608d9ab | choice/UI | x2
+^imageScale:0.7^<ui_legend_iconFacebook.d3dtx:-12> Share
+
+#### d38be653a4 | choice/UI | x2
+Share this video
+
+#### 15f26a39eb | choice/UI | x2
+Replay this video
+
+#### 6ee18130aa | choice/UI | x2
+Watch the next video
+
+#### ebb1e1e891 | choice/UI | x2
+Play/Pause
+
+#### fbb62b29a3 | choice/UI | x2
+Fast Forward
+
+#### 628befedeb | choice/UI | x2
+Share to Facebook
+
+#### c7dfb6f1d9 | choice/UI | x2
+Paused
+
+#### d264ca88bf | choice/UI | x2
+Fast Forwarding x{SPEED}
+
+#### 06eeb9c3c9 | choice/UI | x2
+Rewinding x{SPEED}
+
+#### 79a241d8c7 | choice/UI | x2
+Video contains spoilers
+
+#### 0555d17657 | choice/UI | x2
+Based on your current selected save file, it’s been determined that this video may spoil future plot details! It’s recommended you finish Episode {EPISODE NUMBER} before watching.
+
+#### 29485c3d55 | choice/UI | x2
+Stop Downloading
+
+#### 010b664c37 | choice/UI | x2
+Are you sure you want to stop the download? You can resume downloading at any time within the Episodes screen.
+
+#### b67625cfa2 | choice/UI | x2
+Watch Video
+
+#### 5ebde982ea | choice/UI | x2
+Stop Download
+
+#### 93b0d0fb98 | choice/UI | x2
+Continue Downloading
+
+#### 092d05ec0d | choice/UI | x2
+NOT PURCHASED
+
+#### 9fe5a1c299 | choice/UI | x2
+Content not yet purchased!
+
+#### b458cac2ac | choice/UI | x2
+You have successfully signed into your Telltale account and will be automatically logged in whenever you relaunch your game. For more information about your account, please visit ^color:#ffffff^Telltale.com/profile^^.
+
+#### 466224f24a | choice/UI | x2
+Cloud Saving will automatically save your game’s progress to a cloud, allowing you to retrieve it later on other devices. Go to Settings > Change Save File for more information.
+
+#### ab0be22e61 | choice/UI | x2
+Enable Cloud Saving?
+
+#### e0e9ae11fc | choice/UI | x2
+Telltale.com/crowdplay
+
+#### 72e6add603 | choice/UI | x2
+A free Telltale Account provides access to exclusive content and great community.
+
+#### 703027939e | choice/UI | x2
+You have successfully signed into your Telltale account and will be automatically signed in whenever you relaunch your game.
+
+For more information about your account, please visit ^color:#ffffff^Telltale.com/profile^^.
+
+#### 002a6157f6 | choice/UI | x2
+Complete the necessary fields to sign into Telltale.
+
+#### d3ec714d23 | choice/UI | x6
+The game is having a problem communicating with the Telltale server. Please visit Telltale.com/support for more information.
+
+#### 5576e5ed68 | choice/UI | x2
+Visit Telltale.com Online!
+
+#### 0d7afaeb09 | choice/UI | x2
+Telltale Account
+
+#### c94e5356d8 | choice/UI | x2
+Deleting {SAVE FILE NAME} in Save Slot 1 will delete both your local save and your Telltale Cloud Save. Click OK to delete both copies. Click Cancel to keep them.
+
+#### 469b96f88b | choice/UI | x2
+Are you sure you want to Copy over {SAVE FILE NAME}? The copy will replace your Telltale Cloud Save.
+
+#### 90401b275d | choice/UI | x2
+Restarting the Episode will delete your saved game for any Episode beyond this one, including the data in your Telltale Cloud Save.
+
+#### bdfb0b242e | choice/UI | x2
+Deleting this game will delete local save files. Get a Telltale account and enable Cloud Saves to download a copy of your game in the future.
+
+#### 16e05efa77 | choice/UI | x2
+You have successfully signed into your Telltale account and will be automatically logged in whenever you relaunch your game. For more information about your account, please visit ^color:#7ab1cc^Telltale.com/profile.
+
+#### 46f94d7e7b | choice/UI | x2
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.9^Get the full experience!
+^^
+Use a Telltale account to get access to exclusive videos & new features like Videos, Crowd Play & Sharing.
+
+More on Telltale account perks at ^color:#7ab1cc^Telltale.com/accounts
+
+#### 0aebc32da5 | choice/UI | x2
+See more of your choices online!
+Sign up for a Telltale account and then visit ^color:#46a159^Telltale.com/batman
+
+#### 7bafa41e7f | choice/UI | x2
+Enable Telltale Cloud Saving
+
+#### ffacec1b3d | choice/UI | x2
+The game is having a problem communicating with the Telltale server. Please visit ^color:#ffffff^Telltale.com/support^^ for more information.
+
+#### 0ab06ede1e | choice/UI | x2
+Telltale Cloud Sync Error
+
+#### 82af74223e | choice/UI | x2
+Trial Episode
+
+#### 49d641ba88 | choice/UI | x4
+Episodes
+
+#### 2e3a74313f | choice/UI | x2
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.8^Get the Season Pass
+^^
+Continue the journey with Batman. Get the final four episodes of the series.
+ More info at ^color: #7ab1cc^Telltale.com/batman
+
+#### c51f30fc14 | choice/UI | x2
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.9^See exclusive videos!
+^^
+Sign up for a Telltale account to gain full access to all episodes of Batman: Unmasked.
+
+#### 26449624ec | choice/UI | x2
+MORE OPTIONS
+
+#### c15c92c412 | choice/UI | x2
+<ui_legend_moreIcon.d3dtx:-10>More Options
+
+#### ca2910a4f4 | choice/UI | x2
+View Trailer
+
+#### 18d7b66f21 | choice/UI | x2
+Season Pass
+
+#### a4e482d238 | choice/UI | x2
+Play Video
+
+#### da016ea71c | choice/UI | x2
+Adjust Brightness
+
+#### fa6a49438a | choice/UI | x2
+Bruce Wayne navigates the treacherous waters of Gotham politics as a series of shocking allegations surface, while Batman confronts Gotham’s most notorious crime boss.
+
+#### a044fc1302 | choice/UI | x2
+Experience the entire 5-episode series with the Batman Season Pass.
+
+#### d4164c18e3 | choice/UI | x2
+An old friend becomes a new adversary as Bruce learns more about the Wayne family legacy and Batman escalates the fight against crime and corruption throughout Gotham.
+
+#### f300a064fe | choice/UI | x2
+With Gotham on the brink and Bruce under fire, a new generation of supervillains rise to prominence and threaten to overturn the traditional institutions of power.
+
+#### 31de561eda | choice/UI | x2
+Bruce and Batman must forge new alliances and fight old rivals to protect the innocent and keep Gotham from descending into chaos.
+
+#### 465a38c305 | choice/UI | x2
+The battle for control of Gotham intensifies, reaching a fevered pitch as Bruce discovers a renewed sense of purpose and Batman finds himself pushed to the limits in a desperate effort to restore order.
+
+#### 58fcd34747 | choice/UI | x4
+Error! Video unable to play
+
+#### 6ca26138af | choice/UI | x2
+The game is having a problem communicating with the Telltale server to load {VIDEO NAME}. Visit Telltale.com/support for more information.
+
+#### bbfa773e5a | choice/UI | x5
+Close
+
+#### 73432cf431 | choice/UI | x2
+Visit the forum
+
+#### 02b0a366c3 | choice/UI | x2
+^font:MenuBodyMedium.font^^glyphScale:.8^Episode 1
+^^Realm of Shadows
+
+#### 5044190392 | choice/UI | x2
+^font:MenuBodyMedium.font^^glyphScale:.8^Episode 2
+^^Children of Arkham
+
+#### c49f93ff30 | choice/UI | x2
+^font:MenuBodyMedium.font^^glyphScale:.8^Episode 3
+^^New World Order
+
+#### 48922d7e65 | choice/UI | x2
+^font:MenuBodyMedium.font^^glyphScale:.8^Episode 4
+^^Guardian of Gotham
+
+#### 36b54ff4bb | choice/UI | x2
+^font:MenuBodyMedium.font^^glyphScale:.8^Episode 5
+^^City of Light
+
+#### 137b01029c | choice/UI | x2
+Episode 4
+
+#### 0f3dce9736 | choice/UI | x2
+Episode 5
+
+#### 6b50e31a7e | choice/UI | x2
+Thank you
+
+#### fe26fea729 | choice/UI | x2
+Uninstall {EPISODE NUMBER}
+
+#### 56e3badc4e | choice/UI | x4
+Refresh
+
+#### fb9bd9445f | choice/UI | x2
+Rewatch Intro
+
+#### 8f2cf2aeb6 | choice/UI | x2
+^color:#6d1616^^font:MenuDisplayLarge^Invite your Friends
+^^^glyphScale:.1^
+^^Crowd Play mode allows a group of people to make story choices together.
+^glyphScale:.4^
+^^Participants get a game code, they watch your screen and vote with their own devices.
+^glyphScale:.4^
+^^Note: Playing via Twitch, YouTube or other streaming services is not advised due to network latency issues.
+
+#### 7b9ab66bab | choice/UI | x2
+Are you sure you want return to the Main Menu? All unsaved progress will be lost.
+
+#### e647dcb4e8 | choice/UI | x2
+New content has been downloaded and is ready to be installed. Install it by restarting the main menu?
+
+#### b093ad71ec | choice/UI | x2
+Are you sure you want to start this episode? Choices will be auto-generated for unfinished episodes.
+
+#### 817e9a1b8d | choice/UI | x2
+There was an error during the Cloud Save operation. Select Try Again to perform a Cloud Save operation. Select Disable Cloud Save to turn off Cloud Saving, allowing you to continue play with your local save file.
+
+#### dab59652ad | choice/UI | x2
+A conflict was found during cloud sync. Would you like to upload your local save file to the server or download the cloud save file to overwrite your local file?
+
+#### 805967fc9a | choice/UI | x2
+We have detected a Cloud Save operation on another device. After that operation completes, select Try Again to perform a Cloud Save operation. Select Disable Cloud Save to turn off Cloud Saving, allowing you continue play with your local save file.
+
+#### 0cc59e713c | choice/UI | x2
+An account with this email already exists.
+
+#### 49753a1f89 | choice/UI | x2
+^color:#6d1616^^font:MenuDisplayLarge^Join the Game
+^^Join on your phone, tablet or PC by going to
+^color:black^^font:MenuDisplayMedium^
+
+#### b75b446944 | choice/UI | x2
+^^Game code:^color:black^^font:MenuDisplayMedium^
+
+#### c1d15f90d0 | choice/UI | x2
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.8^Continue play on the go!
+^^
+Sign up for a Telltale account and use Cloud Save to securely save your progress in the cloud.
+
+#### 238116af46 | choice/UI | x2
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.8^Crowd Play with friends!
+^^
+Sign up for a Telltale account and invite friends to Crowd Play your story.
+
+#### c030f586ea | choice/UI | x2
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.8^Share your Experiences!
+^^
+Sign up for a Telltale account to share epic footage, bold choices, and surprising discoveries.
+
+#### 4ad6001843 | choice/UI | x2
+VIDEOS
+
+#### 814eef8387 | choice/UI | x2
+^font:MenuDisplayLarge.font^^glyphScale:.90^Buy!
+
+#### f3ff6f8794 | choice/UI | x2
+^font:MenuDisplayMedium.font^Buy Episode 1
+
+#### f7c400ed69 | choice/UI | x2
+Log in
+
+#### a2de849bc4 | choice/UI | x2
+^glyphScale:0.8^You currently are offline, so we cannot compare your choices and outcomes with the rest of the online community.
+
+#### a815f19234 | choice/UI | x2
+Got it, thank you
+
+#### 62b271ef03 | choice/UI | x2
+Upload local save
+
+#### 9d4ecf3d4f | choice/UI | x2
+Download Cloud Save
+
+#### b63e91b9c6 | choice/UI | x2
+Go to website
+
+#### b0d6f86165 | choice/UI | x2
+Adjust the slider so the Bat Symbol is BARELY visible.
+
+#### e36f592d2a | choice/UI | x2
+More Options
+
+#### 3fd30b6e90 | choice/UI | x2
+PURCHASED & INSTALLED
+
+#### 39e97d2566 | choice/UI | x2
+PURCHASED, COMING SOON
+
+#### 220ea8209d | choice/UI | x2
+PURCHASED, BUT NOT INSTALLED
+
+#### 4e5f0991ea | choice/UI | x2
+COMING SOON
+
+#### 68b56b51c5 | choice/UI | x4
+AVAILABLE NOW
+
+#### 0fd7ddf3a7 | choice/UI | x2
+PURCHASED
+
+#### 06eaa52ecb | choice/UI | x2
+PURCHASED, BUT NOT DOWNLOADED
+
+#### 937f3c4d7d | choice/UI | x2
+Batman Season Pass
+
+#### 8a7a0ad246 | choice/UI | x2
+Batman Multi-pack
+
+#### ed4f557c82 | choice/UI | x2
+<ui_carousel_lock.d3dtx:-2>{EPISODE NUMBER} Coming Soon
+
+#### 89aa8ae5c3 | choice/UI | x2
+Purchase the Season Pass
+
+#### f011a0a9fd | choice/UI | x4
+EPISODE 4
+^font:GameplayDisplayLarge.font^GUARDIAN OF GOTHAM
+
+#### 6288900a8f | choice/UI | x4
+EPISODE 5
+^font:GameplayDisplayLarge.font^CITY OF LIGHT
+
+#### 7f2f6a15cf | choice/UI | x4
+Error
+
+#### b1b392607d | choice/UI | x2
+Run
+
+#### 48e64e1457 | choice/UI | x2
+Fight Actions
+
+#### b5798c633d | choice/UI | x2
+Account Created
+
+#### 407ad8acaa | choice/UI | x2
+I agree to the Terms of Service
+
+#### 9cd1cdaf68 | choice/UI | x2
+Account Exists
+
+#### cb7cce3a8e | choice/UI | x2
+Invalid Email
+
+#### 121d62e53f-L? | choice/UI | x2
+You entered an invalid email.
+
+#### 5f23370780 | choice/UI | x2
+you password needs to be 6 characters or longer.
+
+#### 497a3f1881 | choice/UI | x4
+Connecting To Server...
+
+#### f979f15456 | choice/UI | x2
+Connecting To Server...
+
+Saving content. Please don’t turn off your console.
+
+#### 4c4e6b2d1d | choice/UI | x2
+Email:
+
+#### 2ba4023df4 | choice/UI | x2
+Sign Up
+
+#### 59e90e832b | choice/UI | x2
+Linking Accounts...
+
+#### da3ba76c4c | choice/UI | x2
+Keep me informed via email
+
+#### 613529f97c | choice/UI | x2
+Passwords Didn’t Match
+
+#### 4457368146 | choice/UI | x2
+Please re-enter your Password so that they match in the confirmation box.
+
+#### 82ffef9f84 | choice/UI | x2
+Re-enter Email or Password
+
+#### 81e17981bb-L? | choice/UI | x2
+You Are Signed In
+
+#### f8492cc1de | choice/UI | x2
+Sign In
+
+#### aa259b174e | choice/UI | x2
+Terms Of Service
+
+#### c103fc79dd | choice/UI | x2
+Please accept the Terms of Service
+
+#### f967543b86 | choice/UI | x2
+ACCOUNT
+
+#### a4d4ed7e65 | choice/UI | x2
+Incorrect Password
+
+#### 56538eac43-L? | choice/UI | x2
+The password you entered did not match our records. Please double-check and try again.
+
+#### 77aed43cc3 | choice/UI | x2
+Can’t Link Account
+
+#### 285cc7fd9a | choice/UI | x2
+An unknown error occurred.
+
+#### ae43a9e731 | choice/UI | x2
+Unknown Email
+
+#### b4ad92d569-L? | choice/UI | x2
+The email you entered is not registered. Please try again.
+
+#### 15d4851b08 | choice/UI | x2
+CROWD PLAY
+
+#### 220e38f4a3 | choice/UI | x2
+^^People in the crowd: ^color:black^^font:MenuDisplayMedium^
+
+#### 7415bcddcb | choice/UI | x2
+Crowd Play lets others play along by allowing them to suggest dialog choices.
+Would you like to enable Crowd Play?
+
+#### 3b3679aef7 | choice/UI | x2
+Actions/
+Dialog Choices
+
+#### 300d29fd5f | choice/UI | x2
+Inventory
+
+#### 21bd00c766 | choice/UI | x6
+Pause Menu
+
+#### 935f81764d | choice/UI | x4
+Move Reticle/
+Camera
+
+#### e24a4e08a9 | choice/UI | x4
+Show
+Selectables
+
+#### c20d2c8749 | choice/UI | x2
+Additional Actions
+
+#### f78d25a32d | choice/UI | x2
+Select Action
+
+#### 7df030e08c | choice/UI | x4
+Cycle Inventory
+
+#### a580dabc6a | choice/UI | x2
+Pause Menu/Previous Menu
+
+#### 02373779fc | choice/UI | x2
+Move or select by swiping, touching and dragging on the touch surface.
+
+#### 60a6065eb5 | choice/UI | x2
+Confirm Selection/Actions
+
+#### c639ad4c24 | choice/UI | x2
+Tap anywhere on screen to view touch controls.
+
+#### c3cd636a58 | choice/UI | x2
+Actions
+
+#### 06371ca163 | choice/UI | x2
+Move by touching and dragging the screen.
+
+#### 4a0e516b3d | choice/UI | x2
+ONLINE DISABLED
+
+#### e80ae8608f | choice/UI | x2
+Online service is disabled on your Sony Entertainment Network account due to parental control restrictions.
+
+#### 23e80a9e97 | choice/UI | x2
+Online service is disabled on your account due to parental control restrictions.
+
+#### 5587b0afcc | choice/UI | x2
+CANCELLED
+
+#### 49f5cc194e | choice/UI | x2
+The operation was canceled.
+
+#### ba2355e69c | choice/UI | x2
+CONNECTION FAILED
+
+#### 14f4d201da | choice/UI | x2
+Connection to the host failed.
+
+#### 1e0b1265c4 | choice/UI | x2
+CAN’T MAKE PAYMENTS
+
+#### 0a41269494 | choice/UI | x2
+Payments are not allowed on this account
+
+#### 79ec414983 | choice/UI | x2
+CAN’T RESOLVE HOST
+
+#### 7f6a7d3ed2 | choice/UI | x2
+The host could not be resolved.
+
+#### 4dc65c092b | choice/UI | x6
+NETWORK UNAVAILABLE
+
+#### 532b5be7d2-L? | choice/UI | x6
+You need to be signed into Xbox Live to access Xbox Live features.
+
+#### 12b90aa636 | choice/UI | x6
+Please connect your PlayStation®3 system to PlayStation™Network
+
+#### 3964cf39da | choice/UI | x6
+Please connect your PlayStation®4 computer entertainment system to PlayStation™Network
+
+#### 7d6ca72dfe | choice/UI | x6
+Please connect your Device to the Internet
+
+#### d47d7f07a9 | choice/UI | x6
+Please connect to the Internet
+
+#### 1b951b77ac | choice/UI | x4
+TRY AGAIN LATER
+
+#### 9eba6c5ca1 | choice/UI | x2
+There is no content available for download at this time. Please try again later.
+
+#### 6c8e407636 | choice/UI | x2
+UNABLE TO WRITE DATA
+
+#### f23616e283 | choice/UI | x2
+There was a problem trying to save a downloaded file to disk. You may be low on space.
+
+#### 8d33f3064f | choice/UI | x2
+FAILED
+
+#### d01e2931df | choice/UI | x2
+Content failed to download.
+
+#### a8ebe0d071 | choice/UI | x2
+ALREADY INSTALLED
+
+#### 966a50b0ac | choice/UI | x2
+Content Already Installed!
+
+#### 56e4da9045 | choice/UI | x2
+BUY EPISODE 1
+
+#### 6adaa021c5 | choice/UI | x2
+Purchase Episode 1 first!
+
+#### 8c92e9c504 | choice/UI | x2
+DLC NOT FOUND
+
+#### 7343829437 | choice/UI | x2
+Could not find DLC.
+
+#### e4f44fec11 | choice/UI | x2
+UNABLE TO CONNECT
+
+#### 17b4703530 | choice/UI | x2
+TIMED OUT
+
+#### 39da64f081 | choice/UI | x2
+Timed out connecting or waiting for response from server.
+
+#### 5b8f1af6e1 | choice/UI | x2
+UNSUPPORTED
+
+#### 53c42e3c4c | choice/UI | x2
+The purchase system is not supported at all on the current platform.
+
+#### fcc1a6c79b | choice/UI | x2
+Check Availability
+
+#### c58d9224c0 | choice/UI | x2
+Continue {EPISODE NUMBER}
+
+#### 9493ae48a6 | choice/UI | x2
+Download {EPISODE NUMBER}
+
+#### 6ddf768ad5 | choice/UI | x2
+Install {EPISODE NUMBER}
+
+#### a9c85cb1be | choice/UI | x2
+Purchase {EPISODE NUMBER}
+
+#### 55052512cb | choice/UI | x2
+Restart {EPISODE NUMBER}
+
+#### d08cd7adfd | choice/UI | x2
+Start {EPISODE NUMBER}
+
+#### 01e7677bdc | choice/UI | x2
+PARTIALLY DOWNLOADED
+
+#### 1c30d5c3ef | choice/UI | x2
+AUDIO/VIDEO SETTINGS
+
+#### 2a452e8e5c | choice/UI | x2
+SELECT A SLOT TO PASTE
+
+#### 6156cd6ac5 | choice/UI | x2
+COPYING
+
+#### 59c3ce3af8 | choice/UI | x2
+VIEW CREDITS
+
+#### c0010cde15 | choice/UI | x2
+CROWD PLAY SETTINGS
+
+#### 32964fc623 | choice/UI | x2
+SELECT A SLOT TO DELETE
+
+#### 002d895c76 | choice/UI | x2
+GAMEPLAY SETTINGS
+
+#### 20c8fac61a | choice/UI | x2
+GRAPHICS SETTINGS
+
+#### cd5d07c90b | choice/UI | x3
+PAUSED
+
+#### 188d8be615 | choice/UI | x2
+SELECT A SLOT TO RENAME
+
+#### 056a34455a | choice/UI | x2
+SAVE FILES
+
+#### c4b9243272 | choice/UI | x2
+SETTINGS
+
+#### 069592c28f | choice/UI | x2
+HOW TO PLAY
+
+#### c008f2c019 | choice/UI | x2
+CONTROLS
+
+#### bb54db510a | choice/UI | x2
+Accept
+
+#### a6634f24b2 | choice/UI | x2
+Achievements
+
+#### 3a1ef60b8e | choice/UI | x2
+Trophies
+
+#### 666c1b860b | choice/UI | x2
+Anti-Aliasing
+
+#### cfea419c3b | choice/UI | x2
+Apply
+
+#### 4d0262297f | choice/UI | x2
+Audio/Video
+
+#### 0ae5c7baa8 | choice/UI | x2
+Buy!
+
+#### 77dfd2135f | choice/UI | x8
+Cancel
+
+#### 04a9ea108b | choice/UI | x2
+Cloud Save
+
+#### e4115be258 | choice/UI | x2
+Coming soon
+
+#### 2e02623966 | choice/UI | x6
+Continue
+
+#### 4ec0039490 | choice/UI | x2
+How to play
+
+#### bee75ca77f | choice/UI | x2
+Controls
+
+#### 8e3df45a49 | choice/UI | x2
+Copied
+
+#### 43b7de9894 | choice/UI | x2
+Copying
+
+#### bfac50d642 | choice/UI | x2
+Credits
+
+#### 2ebb16aec8 | choice/UI | x2
+Crowd decides!
+
+#### cea38d8131 | choice/UI | x4
+Crowd Play
+
+#### 5157a58b30 | choice/UI | x2
+Current Save
+
+#### f6fdbe48dc | choice/UI | x8
+Delete
+
+#### 3359cd26e4 | choice/UI | x2
+Disable Cloud Save
+
+#### 3f07583398 | choice/UI | x2
+Display Game Code
+
+#### ada013c8c1 | choice/UI | x2
+Display Style
+
+#### a479c9c34e | choice/UI | x2
+Download
+
+#### 9b4592f9ae | choice/UI | x2
+Downloading
+
+#### 3159fe421b | choice/UI | x2
+Empty
+
+#### 20063ad905 | choice/UI | x2
+Enable
+
+#### ad224d60c7 | choice/UI | x2
+Episode 1
+
+#### 508123b9a8 | choice/UI | x2
+Episode 2
+
+#### c58f2fd857 | choice/UI | x2
+Episode 3
+
+#### ef09596668 | choice/UI | x2
+Exit Demo
+
+#### d2c8059d0f | choice/UI | x2
+Exit Game
+
+#### e04c712a30 | choice/UI | x2
+Gameplay
+
+#### ab255c27ae | choice/UI | x2
+Graphics
+
+#### b1a5954a48 | choice/UI | x2
+High
+
+#### f571887cec | choice/UI | x2
+Host decides
+
+#### fd6c3ebf7b | choice/UI | x2
+Install
+
+#### 7bb4405cdf | choice/UI | x2
+Installed
+
+#### 02f176c4ec | choice/UI | x2
+Invert Y
+
+#### e0d73143de | choice/UI | x2
+Join
+
+#### 738fd1d245 | choice/UI | x2
+Large
+
+#### a124947cbd | choice/UI | x2
+Low
+
+#### 758da74535 | choice/UI | x4
+Main Menu
+
+#### d404968ea9 | choice/UI | x2
+Medium
+
+#### a711cca9a4 | choice/UI | x2
+Minimal
+
+#### 776d1236fd | choice/UI | x4
+No, thank you
+
+#### e3de5ab0ca | choice/UI | x2
+Off
+
+#### 9ce3bd4224 | choice/UI | x2
+OK
+
+#### e0049a6651 | choice/UI | x2
+On
+
+#### 7f237b714b | choice/UI | x2
+Play Trial
+
+#### d3f4cb898f | choice/UI | x6
+Rename
+
+#### 516aae5295 | choice/UI | x2
+Resolution
+
+#### e40a04780f | choice/UI | x4
+Restart Demo
+
+#### c50a5b1a92 | choice/UI | x4
+Restart Episode
+
+#### 3cbe6d6b9a | choice/UI | x2
+Restore
+
+#### 2d5574135f | choice/UI | x2
+Restore Purchases
+
+#### 8a985dad01 | choice/UI | x4
+Resume Game
+
+#### 55e6401ee0 | choice/UI | x2
+Save 1
+
+#### 7f8c2a1403 | choice/UI | x2
+Save 2
+
+#### 01ef188d50 | choice/UI | x2
+Save 3
+
+#### 98636d749e | choice/UI | x2
+Save 4
+
+#### 0dd5d28473 | choice/UI | x2
+Save Files
+
+#### dc74a45eb8 | choice/UI | x2
+Rename save slot
+
+#### c7f73bb54d | choice/UI | x2
+Settings
+
+#### c300d6d433 | choice/UI | x2
+Shadow Quality
+
+#### c74fd9714e | choice/UI | x2
+Small
+
+#### 2dfa66079d | choice/UI | x2
+Standard
+
+#### c9957c0521 | choice/UI | x2
+Start Episode
+
+#### ede64a16e7 | choice/UI | x2
+Display Subtitles
+
+#### 023be3186c | choice/UI | x2
+Subtitle Size
+
+#### 96e585a50a | choice/UI | x2
+Texture Quality
+
+#### cef2fe093b | choice/UI | x2
+Try Again
+
+#### 2c9c1f7914 | choice/UI | x2
+Unavailable
+
+#### 5d8067da7a | choice/UI | x2
+Unlock Episode 1
+
+#### ad50e3dc57 | choice/UI | x2
+Master Volume
+
+#### 3d6052382b | choice/UI | x2
+Music Volume
+
+#### cb715b87a2 | choice/UI | x2
+Full Screen
+
+#### 42f24cfdee | choice/UI | x2
+<ui_legend_faceButtonDown.d3dtx:-6> Select       <ui_legend_faceButtonRight.d3dtx:-6> Cancel       <ui_legend_faceButtonUp.d3dtx:-6> Change Profile
+
+#### 76c74f213c | choice/UI | x2
+<ui_legend_faceButtonDown.d3dtx:-6> Select       <ui_legend_faceButtonRight.d3dtx:-6> Cancel
+
+#### 362bcdb709 | choice/UI | x4
+Apply Changes
+
+#### b52b36b726 | choice/UI | x2
+Back
+
+#### 7ceca51fca | choice/UI | x2
+Buy
+
+#### d4b0c8ab6a | choice/UI | x2
+Change Profile
+
+#### af74f7c536 | choice/UI | x4
+Copy
+
+#### f83b6fe3ae | choice/UI | x3
+Exit
+
+#### 2cce8dacf1 | choice/UI | x2
+Previous Menu
+
+#### 9514468601 | choice/UI | x2
+Refresh Stats
+
+#### 83814fce04 | choice/UI | x2
+Select Profile
+
+#### 8aa1d2eb55 | choice/UI | x2
+<ui_legend_backIcon.d3dtx:-10>Back
+
+#### d5eca63122 | choice/UI | x2
+^imageScale:0.5^<ui_legend_backIcon.d3dtx:-10>Previous Menu
+
+#### 433fde1668 | choice/UI | x2
+Restoring Purchases
+
+#### 191bfa39c5 | choice/UI | x2
+Cloud Sync Conflict
+
+#### edcc71373d | choice/UI | x2
+Cloud Save Temporarily Locked
+
+#### 9f0ac5ac98 | choice/UI | x2
+Local Save Out of Sync
+
+#### 970fffe15f | choice/UI | x2
+We’ve detected multiple devices playing this game and the version on the server is different from this device’s version. “Continue” will try to perform a Cloud Save operation. “Disable Cloud Save” will turn off Cloud Saves and you can continue to play with this device’s save file.
+
+#### bcdce8b5dd | choice/UI | x4
+Unable to Connect
+
+#### c9647ddf72 | choice/UI | x2
+Are you sure you want to delete: {SAVE FILE NAME}?
+
+#### 4c3ab91066 | choice/UI | x2
+An error occurred. Please try again!
+
+#### cbcd0d58a1 | choice/UI | x2
+New Content Downloaded
+
+#### 2f86979984 | choice/UI | x2
+Update to DLC is available
+
+#### 99840c5b9d | choice/UI | x2
+An update to this content is available. Would you like to download it?
+
+#### 16d60a0cfc | choice/UI | x2
+Are you sure you want to Copy over {SAVE FILE NAME}? It will overwrite all data in this slot!
+
+#### 0625c54e03 | choice/UI | x2
+Overwrite
+
+#### b25427ced0 | choice/UI | x2
+Partial Download
+
+#### a5d0eacb47 | choice/UI | x2
+This Episode was Partially Downloaded.
+Choose to Either Resume Download or Delete Partial Download.
+
+#### 88204151f4 | choice/UI | x2
+There are Partial Downloads detected. Please resolve the issue by going to “Episodes” and choosing to resume downloads or delete partial downloads.
+
+#### dd3db92fa7 | choice/UI | x2
+Quit Game
+
+#### 73f7a5cf0f | choice/UI | x2
+Are you sure you want to quit the game and return to the Xbox Dashboard? All unsaved progress will be lost.
+
+#### aec1004db3 | choice/UI | x2
+Are you sure you want to quit the game and return to the desktop? All unsaved progress will be lost.
+
+#### 553b7560ae | choice/UI | x2
+Unfinished Episodes
+
+#### fcd36131b7 | choice/UI | x2
+Restarting the Episode will cause all data past the selected Episode to be lost.
+
+#### 1782aee4bb | choice/UI | x2
+Are you sure you want to restart the demo?
+
+#### 9a6cc44916 | choice/UI | x2
+Settings Changed
+
+#### 012eb9a2a3-L? | choice/UI | x2
+You have changed your settings.  Save these changes?
+
+#### a735da1d32 | choice/UI | x2
+Uninstall
+
+#### dccacc73c6 | choice/UI | x2
+Are you sure you want to uninstall this episode? You will not lose any save data and you can always reinstall the episode.
+
+#### 567ff14009 | choice/UI | x2
+Uninstall Failed
+
+#### a8c8af0883 | choice/UI | x2
+Unable to uninstall this episode at this time.
+
+#### c94e855e54 | choice/UI | x2
+Warning!
+
+#### 2db30269c6 | choice/UI | x2
+Talking to the server...
+
+#### 63e6f99290 | choice/UI | x2
+Connecting to Server...
+
+#### fa27345d6f | choice/UI | x2
+Downloading from server...
+
+#### 796f9716ed | choice/UI | x2
+Purchasing content...
+
+#### 0483247b1c-L? | choice/UI | x2
+Uninstalling episodes frees up your HD space, but doesn’t delete your saves. As long as you don’t delete the app, you won’t lose your saves.
+
+#### 30d1376765 | choice/UI | x2
+Getting latest game stats from server...
+
+#### c3bee1b08d | choice/UI | x2
+Updating content
+
+#### 1aa537cc72 | choice/UI | x2
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.85^Thank you for playing!
+^^
+Continue your episode journey by upgrading to the full episode.
+
+#### 69b160ee34 | choice/UI | x4
+EPISODE 1
+^font:GameplayDisplayLarge.font^REALM OF SHADOWS
+
+#### 63d4ad6db3 | choice/UI | x4
+EPISODE 2
+^font:GameplayDisplayLarge.font^CHILDREN OF ARKHAM
+
+#### 29b4137089 | choice/UI | x4
+EPISODE 3
+^font:GameplayDisplayLarge.font^NEW WORLD ORDER
+
+#### d476c3c764 | choice/UI | x2
+Refresh to download the latest choices.
+
+#### 883842034c | choice/UI | x2
+Anti-aliasing smooths out geometry’s hard edges.
+Disable to improve performance.
+
+#### 80a820ef60 | choice/UI | x2
+Creates and displays a Crowd Play game code, allowing other players to join your game using an internet enabled second screen device.
+
+#### 923f1c3589 | choice/UI | x2
+Displays the game code during gameplay allowing others to join your game while in progress.
+
+#### 020bc1f3f1 | choice/UI | x2
+Standard shows all points of interests in the environment, whereas Minimal hides them.
+
+#### 6e4124a549 | choice/UI | x2
+Play the game in fullscreen mode.
+
+#### 497f5d645c | choice/UI | x2
+Determines which dialog choice is selected, the Host’s or the choice with the most votes.
+
+#### 163ea029c6 | choice/UI | x4
+Flips the Y-axis of the on screen reticle so it moves in the opposite direction of your input device.
+
+#### e8f3ac4935 | choice/UI | x2
+Adjust the resolution and aspect ratio.
+
+#### 8a4f6c9ad0 | choice/UI | x2
+Displays subtitles at the bottom of the screen.
+
+#### 48ebb464ac | choice/UI | x2
+Adjust the size of the subtitles.
+
+#### a9478eefa2 | choice/UI | x2
+Adjust resolution of textures.
+Lower to improve performance.
+
+#### a87f665016 | choice/UI | x2
+Adjust the music volume.
+
+#### 37fe4c7127 | choice/UI | x2
+Enter your Email
+
+#### f7338e702d | choice/UI | x2
+Create an account by entering Email and Password
+
+#### 77409a2adb | choice/UI | x2
+Enter your Password
+
+#### f41b9071f5 | choice/UI | x2
+Sign In with your Email and Password
+
+#### e375cad5d4 | choice/UI | x2
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.8^Continue the journey with Batman
+^^
+More info at Telltale.com/batman
+
+#### 75d39bfaed | choice/UI | x2
+Logged in
+
+#### 1e98aa7f7b | choice/UI | x2
+Not logged in
+^font:MenuDisplaySmall.font^^glyphScale:0.7^EXTRAS > TELLTALE ACCOUNT
+
+#### 9e253470c8 | choice/UI | x2
+Stop
+
+#### 7803ee2525 | choice/UI | x2
+Byte
+
+#### 8e5fdab92d | choice/UI | x2
+Bytes
+
+#### 315b39a0fc | choice/UI | x2
+KB
+
+#### 6e979f426b | choice/UI | x2
+MB
+
+#### 505a44faca | choice/UI | x2
+GB
+
+#### f7a16dc7be | choice/UI | x2
+Calculating...
+
+#### 4d2c77e63d | choice/UI | x2
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.8^The Season Pass is your best value!
+^^
+Save money and be the first to get new episodes with the Season Pass.
+
+#### 8ddd970851 | choice/UI | x2
+Buy just this Episode
+
+#### 25e9b914da | choice/UI | x2
+Buy the Season Pass
+
+#### bf30ab60de | choice/UI | x2
+<ui_carousel_lock.d3dtx:-2>Coming soon
+
+#### f87f4963a1 | choice/UI | x2
+Proceeding...
+
+#### ecbc9453d0 | choice/UI | x2
+^imageScale:0.7^<ui_legend_iconFacebook.d3dtx:-12> Facebook
+
+#### 1849c90a7e | choice/UI | x2
+^font:MenuDisplayMedium^^glyphScale:0.8^Experience My Batman Story
+^font:MenuBodySmall^^glyphScale:0.85^Telltale has an established track record of creating award-winning content for some of the best properties in the world such as: Minecraft, Game of Thrones and The Walking Dead.
+^color:#666666^www.Telltale.com/batman
+
+#### 555df7d78d | choice/UI | x2
+^font:MenuDisplaySmall^^color:#3b5998^Telltale will NEVER post without your permission!
+
+^font:MenuBodySmall^^color:#666666^This one-time setup, will link your Facebook profile with your Telltale Account. From now on, you will be able to quickly post to Facebook from any Telltale game!
+
+#### 247b2319dc | choice/UI | x4
+I agree to the Terms of Service
+^glyphScale:.8^www.telltale.com/tos/
+
+#### 2dacf65959 | choice/UI | x2
+Submit
+
+#### 8be3c943b1 | choice/UI | x2
+Password
+
+#### 84add5b295 | choice/UI | x2
+Email
+
+#### 9703026304 | choice/UI | x2
+name@example.com
+
+#### 97480d7869 | choice/UI | x2
+www.telltale.com/tos/
+
+#### e4f72ffdb4 | choice/UI | x2
+TelltaleFriend
+
+#### 872ffc2004 | choice/UI | x2
+Experience my Telltale story!
+
+#### e8b304e416 | choice/UI | x2
+share.Telltale.com
+
+#### 67cf38c153 | choice/UI | x2
+month %d, %Y
+
+#### 7a22d73d33 | choice/UI | x2
+January
+
+#### 5c3a35ef85 | choice/UI | x2
+February
+
+#### a0393902db | choice/UI | x2
+April
+
+#### c94f479833 | choice/UI | x2
+May
+
+#### a9db906761 | choice/UI | x2
+June
+
+#### df97a42549 | choice/UI | x2
+July
+
+#### 69d97c5797 | choice/UI | x2
+August
+
+#### 1c542e79c9 | choice/UI | x2
+September
+
+#### 87206ae236 | choice/UI | x2
+October
+
+#### 3c5bf776f5 | choice/UI | x2
+November
+
+#### 65640c6577 | choice/UI | x2
+December
+
+#### 433632ea5c | choice/UI | x2
+March
+
+#### 3608804052 | choice/UI | x2
+^font:font:MenuBodySmall^^glyphScale:0.8^No, thank you
+
+#### 5fb65cbfbb | choice/UI | x2
+Facebook Password
+
+#### e0d51b5f03 | choice/UI | x2
+Facebook Email
+
+#### 5301648dcf | choice/UI | x4
+Edit
+
+#### 5656400564 | choice/UI | x4
+Publish
+
+#### 9a7d4e0687 | choice/UI | x2
+Disable
+
+#### 4a111b0665 | choice/UI | x2
+Reset Password?
+
+#### 11207876d2-L? | choice/UI | x2
+If you wish to reset your password, we will send you a link, to the email address that you registered with, that will allow you to create a new password.
+
+#### a0b932900a-SM | choice/UI | x2
+I forgot my password...
+
+#### 3fb75e3bfe | choice/UI | x2
+Reset Password
+
+#### 79167df1dd | choice/UI | x2
+Password Reset
+
+#### d5ae0e2675 | choice/UI | x2
+An email has been sent to your email address. Please attempt to login with your new password after following the directions in the email.
+
+#### 8020f8bf17 | choice/UI | x2
+<ui_legend_menuButton.d3dtx:-6> Cancel
+
+#### c3651ab234 | choice/UI | x2
+Begin
+
+#### 25bde2d01f | choice/UI | x2
+Play/Stop Video
+
+#### a9e137b57e | choice/UI | x2
+Post to Facebook
+
+#### e5157b9df1 | choice/UI | x2
+Edit Post
+
+#### 946c4d21c7 | choice/UI | x2
+Intro to Crowd Play
+
+#### 4f20fccb1f | choice/UI | x2
+I am the night
+
+#### 39a06b3d34 | choice/UI | x2
+I’m the world’s greatest detective
+
+#### e0cd43917b | choice/UI | x2
+I’m Batman
+
+#### 7f85dc1ffa | choice/UI | x2
+Touch not supported
+
+#### da09687e26 | choice/UI | x2
+Crowd Play does not support touch screen controls on this device. Touch controls will be disabled for the duration of the Crowd Play session. Please proceed with either a mouse & keyboard or controller.
+
+#### 4c90a302ce | choice/UI | x4
+Could Not Post to Facebook
+
+#### d9299905af | choice/UI | x4
+The message could not be posted to your Facebook Wall at this time.  Please try again later.
+
+#### 031e3e9f25 | choice/UI | x2
+Sent!
+
+#### fc131a8fb7 | choice/UI | x2
+Your post has been sharedl!
+
+#### 9f5cd8a2e8 | choice/UI | x2
+Retry
+
+#### a542b071d4 | choice/UI | x2
+Toggle to World
+
+#### 6155ef8d69 | choice/UI | x2
+Toggle to Crowd
+
+#### c19c02e69a | choice/UI | x2
+<ui_telltaleCrowdPlay_dialogCount01.d3dtx:-2>more
+
+#### f7b6a25352 | choice/UI | x2
+Rewind
+
+#### d5cfce5c09 | choice/UI | x2
+Data Not Found
+
+#### c20a38731f | choice/UI | x2
+Some data needed to share this moment was not found.  Please try again later.
+
+#### 5d7f77b22d | choice/UI | x2
+Getting latest video data...
+
+#### 53401e7f8b | choice/UI | x2
+Ep1
+
+#### 892944ebd8 | choice/UI | x2
+Ep2
+
+#### 474d9d86b4 | choice/UI | x2
+Ep3
+
+#### e5b28de5c3 | choice/UI | x2
+Ep4
+
+#### 112caadd3a | choice/UI | x2
+Ep5
+
+#### 9fb4437516 | choice/UI | x2
+Share this choice
+
+#### 1100143048 | choice/UI | x2
+Share all your choices
+
+#### 982a0afeb1 | choice/UI | x2
+^font:GameplayDisplaySmall.font^IDENTIFIED INDIVIDUALS
+^font:GameplayDisplayLarge.font^CODEX ENTRIES
+
+#### 8af72d869d | choice/UI | x2
+Continue to “Next Time On”
+
+#### 743201717d | choice/UI | x2
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.8^Visit Telltale.com Online!
+^^
+This feature is not available at this time. Please try again later. Please visit ^color:#7ab1cc^Telltale.com/support^^ for more information.
+
+#### 7158b710ca | choice/UI | x4
+Reset Social Account
+
+#### 9d8e944fb7 | choice/UI | x2
+Are you sure you want to reset your social account? This means the next time you want to post, you will have to log in again.
+
+#### 8554a8c05e | choice/UI | x2
+|  ^imageScale:0.8^<ui_carousel_checkBoxMarked.d3dtx:-7>^color:#3399cc^ CROWD PLAY: ON
+
+#### d1d7a7fccf | choice/UI | x2
+|  ^imageScale:0.8^<ui_carousel_checkBox.d3dtx:-7>^color:#ffcc66^ CROWD PLAY: OFF
+
+#### a1c4536a14 | choice/UI | x2
+You’re One Step Away from Sharing Your Story
+
+#### ec5a3d76a6 | choice/UI | x2
+Batman just needs your permission to post to Facebook.  You will be redirected to the web to finish the post there.
+
+#### c814849187 | choice/UI | x2
+<ui_colorSelectButton1.d3dtx:-5> Blue
+
+#### 87ee522df2 | choice/UI | x2
+<ui_colorSelectButton2.d3dtx:-5> Red
+
+#### d786242504 | choice/UI | x2
+<ui_colorSelectButton3.d3dtx:-5> Yellow
+
+#### 3e940b65d3 | choice/UI | x2
+<ui_colorSelectButton4.d3dtx:-5> Purple
+
+#### fde83c11ab | choice/UI | x2
+Crowd Play On/Off
+
+#### 0fa1be5358 | choice/UI | x2
+SELECT A BAT-TECH COLOR
+
+#### 5dc9d4d3f4 | choice/UI | x2
+Your Bat-tech color determines the look of Batman’s gadgets, gear and UI.
+
+#### 96d40d92b6-L? | choice/UI | x2
+You are Logged In
+
+#### 94e104b9c0 | choice/UI | x2
+For more information, visit Telltale.com/profile
+
+#### 2bd3729b62 | choice/UI | x2
+Create a Telltale Account
+
+#### a54f37d9b1 | choice/UI | x2
+Get access to exclusive features and be the first to know about new episodes.
+
+#### 8184863a74 | choice/UI | x2
+Get Cloud Saving
+
+#### 3aea788954 | choice/UI | x2
+Create a Telltale Account and gain access to Cloud Saving and more.
+
+#### 3e4b15e0d5 | choice/UI | x2
+Cloud Save: Enabled
+
+#### a16977fb81 | choice/UI | x2
+Cloud Save: Disabled
+
+#### 9294a5af89 | choice/UI | x2
+Logged into Telltale.
+
+#### 730450eee4 | choice/UI | x2
+Say something about this...
+
+#### 4c93614ef2 | choice/UI | x2
+TELLTALE ACCOUNT
+
+#### 281364924c | choice/UI | x2
+Who Decides?
+
+#### 3960ec4ca5 | choice/UI | x2
+Host
+
+#### 966355535b | choice/UI | x2
+Crowd
+
+#### b7567452b5 | choice/UI | x2
+Return to Extras
+
+#### be85791703 | choice/UI | x2
+Everybody’s vote counts
+
+#### 200e26e36c | choice/UI | x2
+Thumbs up/down to show how you feel
+
+#### 59352c8a91 | choice/UI | x2
+Back to Episodes Menu
+
+#### bb43e2d543 | choice/UI | x2
+^color:#6d1616^^font:MenuDisplayLarge^Invite your Friends
+^^^glyphScale:.1^
+^^Crowd Play mode allows a group of people to make story choices together.
+^glyphScale:.4^
+^^Participants get a game code, they watch your screen and vote with their own devices.
+^glyphScale:.4^
+^^Note: Playing via Twitch, YouTube or other streaming services is not advised due to network latency issues.
+^glyphScale:.4^
+^^^font:MenuDisplaySmall^To activate Crowd Play, go to the Episodes Menu
+
+#### 5d94e4bcad | choice/UI | x2
+Your current connection does not allow for streaming video playback for {VIDEO NAME}. Please check your network connection and try again. Visit Telltale.com/support for more information.
+
+#### e99921ad8f | choice/UI | x2
+EDIT YOUR POST
+
+#### e70a2f87df | choice/UI | x2
+The Wolf Among Us
+^font:MenuBodyMedium.font^Season Pass
+
+#### 2d7b9a6152 | choice/UI | x2
+The Wolf Among Us is a five episode series based on Fables, an award-winning comic book by Bill Willingham.
+
+#### 489b36d30f | choice/UI | x2
+Batman Episodes
+
+#### 9c63b0def6 | choice/UI | x2
+Engaging narrative experiences where your choices tailor the story to make it your own.
+
+Get more from Telltale’s catalogue of award winning games.
+
+#### 838db00510 | choice/UI | x2
+More Telltale Games
+
+#### 0333a571d2 | choice/UI | x4
+Visit Xbox Store
+
+#### 76abee5740 | choice/UI | x4
+The Wolf Among Us
+
+#### 8a0129b701 | choice/UI | x2
+Next Level Story Telling
+
+#### ba2350613b | choice/UI | x2
+Videos & Extras
+
+#### b4772b0aa1 | choice/UI | x2
+Flips the Y-axis of the on screen reticle so it moves in the opposite direction of your right stick.
+
+#### 884b6ab60a | choice/UI | x2
+Network Connection Lost
+
+#### c1e7a548bf | choice/UI | x2
+The game is having a problem communicating with the Telltale server. Please check your internet connection, or visit Telltale.com/support for more information.
+
+#### d5100ddf64 | choice/UI | x2
+Continue Without Crowd Play
+
+#### 5c15fbe8bc | choice/UI | x2
+Season Premiere Trailer
+
+#### 2f6b6771f7 | choice/UI | x2
+TRAILER  |  1:09
+
+#### 5f0abb857b | choice/UI | x2
+As Bigby “THE big bad” Wolf, you will discover that a brutal, bloody murder is just a taste of things to come.
+
+#### 26013bccba | choice/UI | x2
+Trailer
+
+#### 015fe12b2d | choice/UI | x2
+5 Episodes Available Now
+
+#### da9f37a7ff | choice/UI | x2
+The Wolf Among Us
+^font:MenuBodyMedium.font^Episode 1
+
+#### eb4cbbe4f8 | choice/UI | x2
+This feature requires a login to a Telltale Account.
+
+#### bac10dcde4 | choice/UI | x2
+For Crowd Play questions and support, go to www.telltale.com/crowdplay/support
+
+#### 7b6be41a49 | choice/UI | x2
+Visit PlayStation®Store
+
+#### 243bc58c6a | choice/UI | x2
+Game of Thrones
+^font:MenuBodyMedium.font^^glyphScale:.8^A Telltale Series
+
+#### 17b817ecad | choice/UI | x2
+A six part episodic game series set in the world of HBO’s groundbreaking TV show, where you determine the fate of House Forrester through the choices you make.
+
+#### cfe2f2ee8e | choice/UI | x2
+^imageScale:1.1^<ui_legend_iconFacebook.d3dtx:-8> Share
+
+#### c99ea7245e | choice/UI | x2
+Are your drivers up to date?
+
+#### dc4e4afbbd | choice/UI | x2
+To experience the best possible performance, make sure that your graphics card drivers are up to date.
+
+#### 41825476ee | choice/UI | x2
+High Performance
+
+#### d807a85bff | choice/UI | x2
+High Quality
+
+#### d9200f8da0 | choice/UI | x2
+Crowd Play does not support touch screen controls on this device.
+
+#### a70dc47e3f | choice/UI | x2
+Exit Trial
+
+#### 4f813c17ae | choice/UI | x2
+Critical Patch Required
+
+#### 4ae37a4c5f | choice/UI | x2
+A critical patch is required to continue. Please select ‘Accept’ to proceed.
+
+#### eb3bea2001 | choice/UI | x2
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.9^Get the full experience!
+^^
+Use a Telltale account to get access to exclusive videos & new features like Videos & Sharing.
+
+More on Telltale account perks at ^color:#7ab1cc^Telltale.com/accounts
+
+#### 05dc773360 | choice/UI | x2
+Visit Store
+
+#### 9e0ec7995d | choice/UI | x2
+<ui_legend_editIcon.d3dtx:-10>Edit
+
+#### f11592a616 | choice/UI | x2
+<ui_legend_publishIcon.d3dtx:-10>Publish
+
+#### d3f65ea065 | choice/UI | x2
+Purchase the Multi-Pack
+
+#### 0f2f4d8884 | choice/UI | x2
+Purchase the Multi-Pack to own the entire 5-episode series.
+
+#### 98b07dac1b | choice/UI | x2
+The Wolf Among Us
+^font:MenuBodyMedium.font^Multi-Pack
+
+#### 8c0203b866 | choice/UI | x2
+Buy the Multi-Pack
+
+#### 998796a3ff | choice/UI | x2
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.8^Get the Multi-Pack
+^^
+Continue the journey with Batman. Get the final four episodes of the series.
+ More info at ^color:#7ab1cc^Telltale.com/batman
+
+#### ff77578522 | choice/UI | x2
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.8^The Multi-Pack is your best value!
+^^
+Save money and be the first to get new episodes with the Multi-Pack.
+
+#### d98f1b6c90 | choice/UI | x2
+Multi-Pack
+
+#### 0878e2c25a | choice/UI | x4
+Buy All Episodes
+
+#### c62469f6cf | choice/UI | x2
+<ui_legend_buyAllIcon.d3dtx:-10>Buy All Episodes
+
+#### 984a8ef142 | choice/UI | x2
+^imageScale:0.5^<ui_legend_moreIcon.d3dtx:-10>More Options
+
+#### 57c5f93a06 | choice/UI | x2
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.9^Get the full experience!
+^^
+Use a Telltale account to get access to new features & exclusive content.
+
+More on Telltale account perks at ^color:#7ab1cc^Telltale.com/accounts
+
+#### bd75346f63 | choice/UI | x2
+Achievements <ui_GooglePlayGameFeatures:-10>
+
+#### 0f274b19b3 | choice/UI | x2
+^color:#6d1616^^font:MenuDisplayLarge^Join the Game
+^^Join on your phone, tablet or PC by going to
+^color:black^^font:MenuDisplayMedium^Telltale.com/crowdplay
+
+^^Game code: ^color:black^^font:MenuDisplayMedium^{RoomCode}
+
+^^People in the crowd: ^color:black^^font:MenuDisplayMedium^{RoomPopulation}^^ <ui_telltaleCrowdPlay_crowdPlayRoomCount.d3dtx>
+
+#### 727b9b0ba3 | choice/UI | x2
+Render Quality
+
+#### 4d45ba4879 | choice/UI | x2
+Adjust lighting and shadow quality.
+Lower to improve performance.
+
+#### 48f2ebc308 | choice/UI | x2
+Preparing shaders for your device...
+
+#### 96a9b7cdbe | choice/UI | x2
+Preparing
+
+#### 041b9b3a2c | choice/UI | x2
+Your Batman/Bruce was...
+
+#### 4c14873812 | choice/UI | x2
+Merciful
+
+#### 7792e5ed02 | choice/UI | x2
+Cunning
+
+#### 9caa367403 | choice/UI | x2
+Honest
+
+#### 4ac8eff34d | choice/UI | x2
+Self-reliant
+
+#### 67efce7f86 | choice/UI | x2
+Collaborative
+
+#### 6790c56470 | choice/UI | x2
+Pragmatic
+
+#### 77fa36af1c | choice/UI | x2
+Compassionate
+
+#### e6002bf1f9 | choice/UI | x2
+Combat Proficiency
+
+#### 895b50c738 | choice/UI | x2
+Gotham saw a man that was uncompromising, forceful, and unafraid to employ extreme violence to effectively achieve his ends.
+
+#### bcf863e676 | choice/UI | x2
+It takes heroic restrainst when dealing with criminals, keeping oneself from taking it too far or inflicting unnecessary pain and suffering.
+
+#### ecf8da20b5 | choice/UI | x2
+Brutal’s description comes here. Brutal’s description comes here.
+Brutal’s description comes here.
+
+#### 1d1d55f20e | choice/UI | x2
+Sometimes one has to think like a criminal to catch a criminal, using deviousness or deception in order to protect the people of Gotham.
+
+#### ac88670738 | choice/UI | x2
+Being honest - committing oneself to truth in thought, word, and deed - is the hallmark of a hero, for without honesty there is no trust.
+
+#### 6e625c358e | choice/UI | x2
+In the war against crime, one must be self-reliant and ever ready, able to react immediately and independently to threats as they arise.
+
+#### f692340470 | choice/UI | x2
+^glyphScale:0.85^Defending Gotham is more than any single person should take upon themselves; it often requires a team of close friends and associates to be a powerful force for good.
+
+#### 98317c8251 | choice/UI | x2
+^glyphScale:0.85^Doing the right thing is seldom the popular thing but when it comes to defending Gotham and its people, doing what must be done means making difficult decisions.
+
+#### 5b4f7beb18 | choice/UI | x2
+^glyphScale:0.85^The crusade to defend Gotham is about helping people, being a beacon of hope in a dark world, to use one’s strength to lift people up instead of just beating villains down.
+
+#### a94f53a7e8 | choice/UI | x2
+Highest Quality
+
+#### 22c5e87a8e | choice/UI | x2
+Balanced Performance
+
+#### daf61b40c9 | choice/UI | x2
+Batman Season Overview
+^font:MenuBodySmall.font^Click to view your performance.
+
+#### 8ec514b1a7 | choice/UI | x2
+Batman Season Overview
+^font:MenuBodySmall.font^Analyzing your performance...
+
+#### 4134d00585 | choice/UI | x2
+Get My Season Overview
+
+#### 9f3d7cf286 | choice/UI | x2
+Batman Season Overview Unavailable
+
+^font:MenuBodySmall.font^To view your season performance,
+please complete all 5 episodes.
+
+#### a560e8cccc | choice/UI | x2
+Update {EPISODE NUMBER}
+
+#### 5f50cf1856 | choice/UI | x2
+<ui_carousel_updateRequired.d3dtx:-7> UPDATE REQUIRED
+
+#### d9cd09b2fa | choice/UI | x1
+Build Version: {BUILD_VERSION}
+Telltale Engine Version: {ENGINE_VERSION}
+
+Software code © 2016-17 Telltale, Inc. All other elements ©2016-17 DC Comics.  BATMAN and all related characters, their distinctive likenesses, and related elements are the property of DC Comics.  ™ & © 2016-17.
+
+#### 4012d26e8e | choice/UI | x2
+ABOUT
+
+#### 6b21fb791a | choice/UI | x2
+About
+
+#### ff98c4924c | choice/UI | x2
+Depth Of Field
+
+#### 2b2bb5d80a | choice/UI | x2
+Ambient Occlusion
+
+#### 5f3fc570ab | choice/UI | x2
+Simulation of the range of focus. Objects outside the range of focus are blurred.
+Lower or disable to improve performance.
+
+#### 608790069e | choice/UI | x2
+Set the quality of self-shadowing from ambient lighting for objects in the scene.
+Lower or disable to improve performance.
+
+#### 50050d5b62 | choice/UI | x2
+Ultra
+

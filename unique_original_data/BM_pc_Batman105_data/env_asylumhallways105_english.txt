@@ -1,0 +1,105 @@
+﻿#### 60f38e7d30 | LADYARKHAM → BATMAN, COP03 | x4
+He’s all yours!
+
+#### a4b5b8419f | GORDON → COP03 | x2
+Never thought I’d get the chance to save you.
+
+#### 82af451aff | COP03 → GORDON | x2
+Get on the ground!
+
+#### eec19f8856 | COP04 → GORDON | x2
+Hands above your heads!
+
+#### 6277fda135 | GORDON → COP03 | x2
+My guys have it here. Go.
+
+#### 986c21bb67 | GORDON → LADYARKHAM | x2
+Lock it down. Be thorough!
+
+#### 91296e92e5 | GORDON → LADYARKHAM | x2
+I’m with Batman.
+
+#### 34b35627ac | LADYARKHAM → GORDON, INMATE02 | x4
+You underestimate the true children of Arkham.
+
+#### 7241764109 | LADYARKHAM → GORDON, INMATE01 | x4
+Arkham! Listen to me!
+
+#### eb3741ab43 | LADYARKHAM → GORDON | x2
+If you know who I am--
+
+#### 4917283f34 | LADYARKHAM → COP04 | x2
+--then you should know that you can’t possibly win here.
+
+#### 0241ef380e | COP04 → BATMAN | x2
+We got your back, Batman!
+
+#### 30c5f8f47e | COP03 → LADYARKHAM | x2
+Come on! Round the inmates up!
+
+#### a2e5782f51 | INMATE02 → COP04, LADYARKHAM | x4
+He stuck me in here!
+
+#### 87d998d439 | INMATE03 → LADYARKHAM, INMATE02 | x4
+Me too!
+
+#### f0a88fa154 | BATMAN → LADYARKHAM | x2
+She’s got a hostage.
+
+#### 88e3f7058c | LADYARKHAM → INMATE02 | x2
+You can’t touch me here.
+
+#### 3455fe7d94 | LADYARKHAM → INMATE03, COP03 | x4
+Take him down!
+
+#### b916b14b83 | LADYARKHAM → BATMAN, COP03 | x4
+Put him down!
+
+#### 44b9439ac5 | LADYARKHAM → BATMAN | x2
+There’s nothing you can do, Batman!
+
+#### 839b43ed86-SF-L? | LADYARKHAM → COP03 | x2
+I told you-- you’re too late.
+
+#### 29f97ebd02 | LADYARKHAM → BATMAN, INMATE01 | x4
+These souls kept behind bars.
+
+#### 1cfb5d5052 | LADYARKHAM → BATMAN, INMATE01 | x4
+Open the doors!
+
+#### d2cbe725d1 | INMATE01 → LADYARKHAM, INMATE02 | x4
+Let me at him!
+
+#### 1eb41de0f7 | LADYARKHAM → INMATE01 | x4
+Freedom is yours! The only one standing in your way...
+
+#### f2cee19e5a | BRUCE, LADYARKHAM → ALFRED, BATMAN, INMATE02 | x10
+...is Batman.
+
+#### ce75454783-SM | BATMAN → LADYARKHAM | x2
+I need to follow her.
+
+#### 3bc37365b8 | INMATE02 → LADYARKHAM, INMATE01 | x4
+He’s the crazy one!
+
+#### e8e0182941 | LADYARKHAM → BATMAN | x2
+If you know who I {FaceAccent}am--
+
+#### 89c3812888 | LADYARKHAM → INMATE02 | x2
+--then you should know that you can’t {FaceAccent}possibly win here.
+
+#### f157ed8b89 | ORDERLY01 → INMATE03 | x2
+The entire security system is offline!
+
+#### 791e0cc1db | ORDERLY01 → INMATE02 | x2
+Every inmate is loose!
+
+#### 356beb4a21-L? | BATMAN → ORDERLY01 | x2
+The Children of Arkham leader? Did you see her?
+
+#### c03381afb9 | ORDERLY01 → LUCIUS | x2
+They went...
+
+#### ed3adb94d7 | choice/UI → LUCIUS | x2
+Throw Puck
+

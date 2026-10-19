@@ -1,0 +1,267 @@
+﻿#### be7e10d1c5 | choice/UI → GOON01, MONTOYA | x4
+Bad
+
+#### 18282db8f1 | choice/UI → GOON01 | x2
+He needs medical treatment
+
+#### 8d94f2b636-LM | GOON01 → GORDON | x2
+You’re done, Gordon!
+
+#### f91e0e0fdd | GOON01 → GORDON | x2
+Give up your badge and we’ll let you live.
+
+#### 6f55040c89 | GORDON → GOON01 | x2
+Sounds like an over-reach of municipal power.
+
+#### 779f882f4b | GORDON → BATMAN | x4
+Just in time, Batman.
+
+#### 20980bc1d7-SM | GORDON → GOON01, BATMAN | x4
+I knew I could count on you.
+
+#### f3d59478da | GORDON → BATMAN | x2
+We’ve had our differences in the past, but you’re the only one that can help us now.
+
+#### 16240e8d76 | GORDON → BATMAN | x2
+Mayor Dent’s lost his goddamn mind. His enforcers have overrun the city.
+
+#### fcb6bf5f88 | GORDON → BATMAN | x2
+Commissioner Grogan spoke out publicly after Dent put a bounty on Bruce Wayne.
+
+#### 39bcf90afd | BATMAN → GORDON | x2
+Dent’s clearly sick in the head.
+
+#### 565ef69787 | BATMAN → GORDON | x7
+Follow my lead.
+
+#### edac1d210e | BATMAN → GORDON | x2
+Dent’s a maniac. He needs to be stopped before he tears this city apart.
+
+#### 10068a80d9 | GORDON → BATMAN | x2
+Apparently our new Mayor doesn’t care much for dissent.
+
+#### 1d00b2b0e0 | GORDON → BATMAN | x2
+Well, maybe you can get him some therapy --
+
+#### 1d47f2080f | GORDON → BATMAN | x2
+After you stop him tearing the city apart.
+
+#### c574005511 | BATMAN → GORDON | x2
+Dent is a maniac. Stay out of his way.
+
+#### d6de8688af | GORDON → BATMAN | x4
+Don’t let me get in your way.
+
+#### b6c9092b05 | GORDON → BATMAN | x2
+After this, he better stay out of mine.
+
+#### 786ce58dd9 | GORDON → GOON01 | x4
+I’m top of his list for foiling his hit on Wayne.
+
+#### 1aed1c9021 | GORDON → GOON01 | x2
+Come on. The Commisoner’s still down there.
+
+#### 0ae148a169 | GOON01 → GORDON | x4
+Tsk, tsk, Gordon.
+
+#### 38ce751544 | GOON01 → GORDON | x2
+Now we gotta nail your tongue to the prencinct door. By order of City Hall.
+
+#### 81ef0177c3 | GOON01 → GORDON | x2
+No such thing! Not anymore!
+
+#### 52be7184e6 | GORDON → GOON01 | x2
+There is while I’m still standing.
+
+#### 1d4824d325 | RYDER → GOON01 | x2
+In an unprecedented breach of Mayoral Authority, Harvey Dent’s enforcers are implementing what critics say amounts to martial law.
+
+#### 6243d41140 | RYDER → GOON01 | x2
+While Dent insists that his harshly enforced curfew is for the safety of Gotham’s citizens, opponents of his authoritarian measures have been routinely silenced.
+
+#### 4706ed4a22 | RYDER → GORDON | x4
+The latest to speak out is Police Commissioner Grogan. He called Dent ‘an assault on democracy’ and demanded his immediate resignation.
+
+#### 97aede2acc | RYDER → BATMAN | x4
+Earlier this morning, hard line Dent supporters within the GCPD attempted to arrest Grogan, sparking violence in the precinct.
+
+#### 0a101b4705 | RYDER → GORDON | x2
+These are dark days in Gotham, and the question on everyone’s lips is ‘when will Batman --‘
+
+#### 0b4bae8177 | RYDER → GORDON | x2
+You can’t be in here. You --
+
+#### babc521684 | RYDER → GORDON | x2
+You can’t do this, you- !
+
+#### a1cf6bfbf5 | GORDON → RYDER, BATMAN | x4
+And he’s ordered a purge of all the honest cops left in the city.
+
+#### 8418ffa3af | GORDON → RYDER | x2
+You deadbeats have gone too far...
+
+#### 0592c03e23 | GOON01 → RYDER | x2
+You shoulda known better than to speak out against Mayor Dent.
+
+#### 4f0fdf06b4 | choice/UI → RYDER | x2
+Stay away from him.
+
+#### 41c9173a6f | RYDER → GORDON | x2
+Dent set off a bomb and burned down Wayne manor!!!!
+
+#### 4c6a2e5d59 | RYDER → GORDON | x2
+People dead!
+
+#### 887399f49e | RYDER → GOON01 | x2
+People who hate that bomb thing are getting silenced and kidnapped!
+
+#### 44e1a5e2af | RYDER → GORDON | x2
+While Dent insists that his harshly enforced curfew is for the safety of Gotham’s citizens, {SkepticalA}opponents of his authoritarian measures have been routinely silenced.
+
+#### 71facfbb20 | RYDER → GORDON | x2
+In an unprecedented breach of Mayoral Authority, {ThinkingA}Harvey Dent’s enforcers are implementing what critics say amounts to martial law.
+
+#### 0c938e9fad | GORDON → RYDER | x2
+Just try me.
+
+#### db12b95673 | GORDON → RYDER | x2
+You punks.
+
+#### 1277e76292 | GORDON → RYDER | x2
+Come on. The commissioner’s{AngryA} still down there.
+
+#### 91da21f7e0 | RYDER → GORDON | x2
+The city is still reeling from an explosion Dent set off that obliterated an entire city block and{NormalA} killed innocents.
+
+#### 406bf3eff8 | RYDER → GORDON | x2
+While Dent insists that his methods of answering the Children of Arkham’s violence with more violence are justified, {SkepticalA}opponents of his extreme measures have been routinely silenced.
+
+#### 6c3b8b445d | RYDER → BATMAN | x2
+The latest to speak out is Police Commissioner Grogan. He called Dent ‘a murderer and a terrorist’ and demanded his immediate resignation.
+
+#### 4da92d248f | GORDON → RYDER | x4
+Commissioner Grogan spoke out publically against Dent after the bombing.
+
+#### 98f1b35255 | BATMAN → RYDER | x2
+Dent is a sick man. He needs to be stopped before he hurts anyone else.
+
+#### 9ad6dc5d72 | BATMAN → RYDER | x2
+Dent is clearly sick in the head.
+
+#### fecc00d3bc | BATMAN → GORDON | x2
+Dent is a maniac. Let me handle it. I don’t want anyone else getting hurt.
+
+#### 2a548333d5 | GORDON → BATMAN | x2
+After this, Dent is the one who’s going to get hurt.
+
+#### bb207a75d8 | RYDER → BATMAN | x2
+These are dark days in Gotham, and the question on everyone’s lips is ‘when will{ConfusedA} Batman --‘
+
+#### 4c683c67b8 | RYDER → GOON01 | x2
+Hey... You can’t be in here.
+
+#### a53c5c7e0b | RYDER → GOON01 | x2
+struggling; off camera] Hey, you can’t do this! Hey! Let me go! Hey, hey! Stop!
+
+#### fedac5bf03 | GOON01 → GORDON | x2
+You should’ve known better, Gordon!
+
+#### 92e150e472 | GOON01 → GORDON | x2
+Now we nail your tongue to the precinct door, by order of city hall!
+
+#### 3c52ac4676 | GORDON → GOON01 | x2
+Apparently, our new mayor doesn’t care much for dissent.
+
+#### 708a1a4c9b | GORDON → BATMAN | x2
+Well, maybe you can get him some therapy...
+
+#### 337b38acd6 | GORDON → BATMAN | x2
+after you stop him tearing the city apart.
+
+#### e08b72929b | BATMAN → GORDON | x2
+Dent is a maniac and he needs to be stopped before he tears this city apart.
+
+#### 5e478b6ead | GORDON → RYDER | x2
+We’ve had our differences in the past, {ThinkingA}but you’re the only one that can help us now.
+
+#### 02246990ab | GORDON → RYDER | x2
+Mayor Dent’s lost his goddamn mind.{AngryA} His enforcers have overrun the city.
+
+#### e11154ccf7 | RYDER → GORDON | x2
+The city-- [starts over]
+
+#### 9bb96a0725 | RYDER → GORDON | x2
+When questioned about his extreme measures, Mayor Dent said he’ll use “any force necessary” to take down the Children of Arkham.
+
+#### 20d20e15f7 | RYDER | x2
+And opponents to
+
+#### a441905e1f | RYDER | x2
+Meanwhile, his opponents are routinely silenced.
+
+#### fa1f57483b | RYDER | x2
+How long will this Two Face stay in power?
+
+#### ae41aa5f94 | RYDER | x2
+These are dark days in Gotham.
+
+#### bac95f4ab9 | RYDER | x2
+And the question on everyone’s lips is...
+
+#### 300f76423e | RYDER | x2
+When will he be stopped?
+
+#### 91eece131e | RYDER | x2
+The city is still reeling from an explosion Mayor Harvey Dent set off that obliterated an entire city block and{NormalA} killed innocents.
+
+#### 380f1bf39b | RYDER | x2
+Our mayor promised us a better city, but delivers only more violence.
+
+#### 4751df5f37 | RYDER → GOON01 | x2
+My question to the people is...
+
+#### 35282d3264 | RYDER → GOON01 | x2
+How long do we let this ‘Two Face’ stay in power?
+
+#### 9325fc0031 | RYDER → GOON01 | x2
+How long can we--[stand by]
+
+#### 2555e5e9c7 | GOON01 → GORDON | x2
+Now, now, Gordon.
+
+#### 0820b32b20 | DEBORAH → GORDON | x2
+Testing
+
+#### 2518a689d3 | GORDON → GOON01 | x2
+He’s ordered a purge of every honest cop we have left...
+
+#### f38be5ce4a | GORDON → DEBORAH | x2
+which isn’t many.
+
+#### 3e6fff1f2f | RYDER → GORDON | x2
+How long do we let this two-faced mayor stay in power?
+
+#### 553adcb8d3 | GOON01 → GORDON | x2
+Time’s up!
+
+#### cd3d02cfef | GORDON → RYDER | x2
+Come on! The Commissioner’s down there!
+
+#### c07962f299 | GORDON → RYDER | x2
+More enforcers!
+
+#### 0c19a9ca1e | RYDER → GORDON | x2
+In response, Dent’s enforcers attempted to arrest Grogan, sparking violence inside the precinct.
+
+#### dbbb7d3d82 | RYDER → GORDON | x2
+The city is still reeling from an explosion Mayor Harvey Dent set off that obliterated an entire city block.
+
+#### 9c7c79d450 | RYDER → GORDON | x2
+When questioned about the event, Mayor Dent justified his extreme measures saying that the loss of innocent lives was an “unfortunate cost” to fighting the Children of Arkham.
+
+#### be3c224414 | choice/UI → RYDER | x2
+Dent’s a sick man.
+
+#### 5816dfa2a3 | choice/UI → RYDER | x2
+I’m going to stop him.
+

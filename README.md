@@ -2,19 +2,22 @@
 
 Ukrainian translation of the game text of *Batman: The Telltale Series* (season 1), for both the normal mode and
 Shadows (Noir) mode. The English text was extracted from the game's `.ttarch` archives as `.landb` → `.txt` files
-(`N) SPEAKER` header line + text lines). Translators work in one Excel table; a script writes the translation back
-into exact copies of the 222 game files.
+(`N) SPEAKER` header line + text lines). Translators work in one Excel table; one script then writes the translation into
+`unique_localized_data/` (each unique text once, to review) and `localized_data/` (exact copies of the 222 game files
+with the text replaced).
 
 ## Folders
 
 | Folder | What it is |
 |---|---|
 | `original_data/` | English game text (222 files). **Never edit.** `BM_*` = normal mode, `BAT_*` = Shadows/Noir mode. |
-| `localized_data/` | The same 222 files with Ukrainian text. Written only by the script below — don't edit by hand. |
+| `localized_data/` | The same 222 files with Ukrainian text — the final result for the game. Written only by the script below — don't edit by hand. |
+| `unique_original_data/` | Every unique English text once (the same ~44 000 texts as the table), in files named like the game files. Read-only. |
+| `unique_localized_data/` | The same, with the Ukrainian from the table (untranslated texts stay English). Written by the script. |
 | `analysis/translation_table.xlsx` | **The translation table**: one row per unique text (~44 000 rows). Type Ukrainian in the yellow column. The *Help* sheet explains every column. |
 | `analysis/speaker_genders.xlsx` | Gender of each speaker (M / F / ?), used for Ukrainian verb/adjective forms. |
 | `analysis/speakers.md` | Who talks to whom, with ти/ви decisions. |
-| `analysis/scenes/` | Read-only copies of every file in conversation order, to read the context of a line (not in git; see below). |
+| `analysis/scenes/` | Read-only copies of every game file in conversation order (all lines, with repeats) — for reading the context around a line. Not in git; see command 4. |
 | `.claude/skills/telltale-batman-localization/` | Format rules (`SKILL.md`), names glossary (`glossary.md`) and the scripts. |
 
 ## Setup (once)
@@ -29,20 +32,24 @@ Run all commands from this folder (the repo root). **Close the Excel files befor
 
 ## Commands
 
-**1. Put the translations into the game files** (after editing `translation_table.xlsx`):
+**1. Put the translations into the files** (after editing `translation_table.xlsx`):
 
 ```
-python .claude/skills/telltale-batman-localization/scripts/apply_translations.py original_data analysis/speaker_genders.xlsx analysis/translation_table.xlsx localized_data
+python .claude/skills/telltale-batman-localization/scripts/apply_translations.py original_data analysis/speaker_genders.xlsx analysis/translation_table.xlsx localized_data --unique unique_original_data unique_localized_data
 ```
 
-It rewrites all 222 files in `localized_data/`. Rows with an empty Ukrainian cell stay English. At the end it checks
+It rewrites `unique_original_data/`, `unique_localized_data/` and all 222 files in `localized_data/`. Rows with an empty Ukrainian cell stay English. At the end it checks
 every file (line count, header lines, tags, encoding) and must report `0 error(s)`. Safe to run any time.
 
 **2. See what changed:**
 
 ```
+git diff --word-diff=plain unique_localized_data
 git diff --word-diff=plain localized_data
 ```
+
+The first shows each new translation once (with who speaks and how many times it is used). The second shows every
+place in the game files where it was put.
 
 **3. After changing `speaker_genders.xlsx`, rebuild the table** (your translations are kept):
 

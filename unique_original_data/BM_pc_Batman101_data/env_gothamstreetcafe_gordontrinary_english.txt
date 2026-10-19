@@ -1,0 +1,270 @@
+﻿#### 4312919f7f-LM | GORDON → BRUCE | x2
+I don’t even want to know where you {FaceAccent} got this.
+
+#### ddd6818fe5 | GORDON → BRUCE | x2
+Sometimes I think this {SadA}{FaceAccent}whole city’s a crime scene.
+
+#### a7afa6078c | choice/UI → GORDON | x2
+Won’t Batman protect you?
+
+#### bd349b02e6 | choice/UI → GORDON | x4
+You’ll owe me.
+
+#### 0b8e2d6de9 | GORDON → BRUCE | x2
+So, you should know this {AngryA}[holds up the envelope]isn’t a gonna change a thing about the {SadA}investigation of your family.
+
+#### af8662beb8 | BRUCE → GORDON | x2
+There are no strings attached.
+
+#### 63d8b85826 | BRUCE → GORDON | x2
+I just want Falcone gone.
+
+#### 9d09b7e766 | BRUCE → GORDON | x2
+Everyone can be bought.
+
+#### b4d38e99aa | GORDON → BRUCE | x2
+Gonna pretend you’re all clear on that now.
+
+#### 84afc994cc | GORDON → BRUCE | x2
+Don’t want this to proceed under any false pretenses.
+
+#### 22f6a3cd66 | BRUCE → GORDON | x2
+I’m a businessman. {FaceAccent}I build relationships.
+
+#### 582b7574d7-LM | GORDON → BRUCE | x2
+I’ll just assume you were drawn to my {FaceAccent}{BodyAccent}effervescent personality.
+
+#### 2df615a012-SM-LM | BRUCE → GORDON | x2
+I heard you were the {ThinkingA}{BodyAccent}last honest man on the {AngryA}force.
+
+#### 4c45d3c582 | GORDON → BRUCE | x2
+I wouldn’t exactly say that -- {AngryA}but yeah I’ve seen him -- {ThinkingA}around.
+
+#### 1473ddcd67-SM | BRUCE → GORDON | x2
+I heard that you... {ConcernedA}{FaceAccent}{BodyAccent}work with the {AngryA}Batman sometimes.
+
+#### 85d1ac5329 | GORDON → BRUCE | x2
+Men that {FaceAccent}powerful -- they tend to be{FaceAccent} dangerous.
+
+#### b919b313a2-SM | GORDON → BRUCE | x2
+Yeah. He’s probably the only guy out there I would trust with my life.
+
+#### 74e8778729 | BRUCE → GORDON | x2
+That you two are... {ConcernedA}friends.
+
+#### f6d2dc3814 | BRUCE → GORDON | x2
+Well, I wouldn’t tell you anyways.
+
+#### 9371c9c4e7 | GORDON → BRUCE | x2
+Still... I gotta know one {AngryB}thing.
+
+#### 1b8bf99846 | GORDON → BRUCE | x2
+Why give this to me?
+
+#### 1f52ef8ca5 | GORDON → BRUCE | x2
+No need to blow smoke.
+
+#### 73356612f7 | BRUCE → GORDON | x2
+This isn’t about {AngryA}politics.
+
+#### 0421991d87 | BRUCE → GORDON | x2
+Gotham is {SkepticalA}{BodyAccent}safer with Falcone {ConcernedA}{FaceAccent}off the streets.
+
+#### a2cdf1a746-LM | GORDON → BRUCE | x2
+I’ve seen your house. Your cars. I know you’ve got the wallet for it...
+
+#### 481a0739aa | BRUCE → GORDON | x2
+Well, he could{ConcernedA} protect you.
+
+#### db7f2c88c1 | GORDON → BRUCE | x2
+He’s not as much of a{TiredA} hero as you think.
+
+#### af06e4c6f4-SM | choice/UI → GORDON | x2
+I’m sure you can handle it.
+
+#### 4fca6341cd | choice/UI → GORDON | x2
+Then stay out of harm’s way.
+
+#### d2174a3757 | BRUCE → GORDON | x2
+Something tells me that {FaceAccent}{AmusedA}you can handle it.
+
+#### 888e6f9154 | GORDON → BRUCE | x2
+Men as powerful as you... they don’t usually trust so easy.
+
+#### ae794c78db | BRUCE, GORDON → ALFRED, BRUCE | x18
+I gotta go.
+
+#### db1ea75e18-SM | GORDON → BRUCE | x2
+I came straight from a crime scene and I {AngryA}haven’t been home yet.
+
+#### 709d42f19a | GORDON → BRUCE | x2
+And we’re just {FaceAccent}{BodyAccent}walkin’ through it.
+
+#### 2379e3a0be | GORDON, MOBLADY03, BRUCE → BRUCE, MOBLADY02, HARVEY | x6
+You and me both.
+
+#### 839d7e3bf6 | GORDON → BRUCE | x2
+Tell me you {AngryA}didn’t leak this to the press.
+
+#### e89681dcde | BRUCE → GORDON | x2
+No. {SmugA}Just you.
+
+#### 7eb2cfa505 | GORDON → BRUCE | x2
+Keep it that way.
+
+#### cfbbe0eb0e | GORDON → BRUCE | x2
+Don’t get me wrong--I appreciate the hell outta this.
+
+#### 220ed1e0e9 | GORDON → BRUCE | x2
+It’s a first step in the marathon to {determined}fix this city.
+
+#### 97392b37a7-SM | GORDON → BRUCE | x2
+I’ve got enough {AngryB}{FaceAccent}{BodyAccent}cancer coming my way as it is.
+
+#### 242bca36d8 | GORDON → BRUCE | x2
+We wouldn’t want {FaceAccent}{BodyAccent}Falcone to know what’s coming.
+
+#### 51e373017a | GORDON → BRUCE | x2
+Thanks for the vote of confidence.
+
+#### a2def63e67-LM | BRUCE → GORDON | x2
+Don’t put {ConcernedA}yourself in harm’s way.
+
+#### 0eff721b03 | GORDON → BRUCE | x2
+I can’t be bought.
+
+#### ab3dbcb55f | choice/UI → GORDON | x2
+My family deserves justice.
+
+#### a4537a9886 | GORDON → BRUCE | x2
+You gotta understand--I’m bound to this badge.
+
+#### 6ad6aa4fa6 | BRUCE → GORDON | x2
+The investigation isn’t the problem--it’s the Wayne family name.
+
+#### fce169aa8a | GORDON → BRUCE | x2
+If your family’s clean, I’ll sing it from the rooftops.
+
+#### 124d020950 | GORDON → BRUCE | x2
+If they aren’t... I’ll still sing.
+
+#### d3bd19f472 | BRUCE → GORDON | x2
+Help me clear it.
+
+#### 653e3c11fd | GORDON → BRUCE | x2
+But I’m not for sale.
+
+#### 772b554f78 | BRUCE → GORDON | x2
+What you’re holding... {SadA}will make walking it much safer.
+
+#### 291bc00ef8-SM | GORDON → BRUCE | x2
+I’m tired of staring at his mugshot.
+
+#### 29815134eb | choice/UI → GORDON | x4
+I trust you.
+
+#### 78ce3b4064 | HARVEY, choice/UI → BOB, GORDON | x5
+No strings attached.
+
+#### 6bc4030e28 | choice/UI → GORDON | x2
+Everyone has a price.
+
+#### 224f2ec281 | GORDON → BRUCE | x2
+This... this is a silver bullet.
+
+#### 26d870e023 | GORDON → BRUCE | x2
+Everyone on the force will too.
+
+#### b0bc4f7ffe | GORDON → BRUCE | x2
+We’ve been lookin’ for this kinda firepower for years.
+
+#### 05f7229d50 | GORDON → BRUCE | x2
+But thank you, honestly.
+
+#### 30c2154bf2 | GORDON → BRUCE | x2
+Knowing this evidence can lock up Falcone... I’ll sleep like a goddamn baby. For once.
+
+#### d0b24403fe | BRUCE → GORDON | x2
+And it doesn’t hurt to have one with the GCPD.
+
+#### e3876483dd | GORDON → BRUCE | x2
+But this grants you an invitation for life.
+
+#### 7cf8596db8-LM | GORDON → BRUCE | x2
+If you wanted to attend one of my famous barbecues, all you had to do was ask.
+
+#### 9e1bb68fdd | GORDON → BRUCE | x2
+If I go after Falcone, I might not come back.
+
+#### 495659b23c | GORDON → BRUCE | x2
+Something like this--it’s the dividing line.
+
+#### 2a705d082a | BRUCE → GORDON | x2
+Between what?
+
+#### 00863ed9bb | GORDON → BRUCE | x2
+The guys who joined the force to make a difference... and those who just wanted to wear a gun.
+
+#### 07c1a8bc86 | GORDON → BRUCE | x2
+She’s why I go out there, night after night.
+
+#### e7932dc852-SM | GORDON → BRUCE | x2
+I’ve got a daughter... Barbara.
+
+#### f2e1314474 | GORDON | x2
+A father just wants his kids to sleep safe, y’know?
+
+#### d035ed494d | GORDON | x2
+And he’s wearing a mask, not a badge.
+
+#### 012fb0dd30 | GORDON → BRUCE | x2
+Can you believe that?
+
+#### 068320d94b | GORDON → BRUCE | x2
+I do it so others won’t have to, simple as that.
+
+#### 9d2562b327 | GORDON → BRUCE | x2
+That’s the job, Mr. Wayne.
+
+#### df72cc9fc1-LM | BRUCE → GORDON | x2
+Not many heroes like you left, Lieutenant.
+
+#### ccc6e7db11 | GORDON → BRUCE | x2
+It’s alright, I wouldn’t expect you to understand.
+
+#### 98ee8bfca7 | GORDON → BRUCE | x2
+Cops, we got a screw loose, but I don’t regret a single moment of sticking my neck out for this city.
+
+#### e9fb7ef5aa-LM | ALFRED → GORDON | x2
+Though, you’re not dressed for that kind of party.
+
+#### 0acacb51e6 | GORDON → ALFRED | x2
+You know, as much as I appreciate you callin’ me here, I gotta make one thing crystal...
+
+#### 52521b576c | GORDON → ALFRED | x2
+Until we find nothing, though, I gotta play bad cop.
+
+#### d1bc252ac9 | GORDON → BRUCE | x2
+The Waynes always supported the Gotham Police.
+
+#### 121ffe52b2 | GORDON → BRUCE | x2
+So I’d like to believe there’re no cloaks or daggers hidden in your closet.
+
+#### 344c608285 | GORDON → BRUCE | x2
+Hey, stick to “Jim.“
+
+#### 5e4b71c808 | BRUCE → GORDON | x2
+Well, Lieutenant.
+
+#### 5236509508-SM | GORDON → BRUCE | x2
+“Lieutenant” makes me sound old and I got plenty of asskickin’ left to do.
+
+#### 65c2021502 | ALFRED, BRUCE → BRUCE, GORDON | x8
+No, you don’t.
+
+#### 7ef83d928c | GORDON → BRUCE | x2
+I know... they’re all dead.
+
+#### 68c3b4df89 | GORDON → BRUCE | x2
+And it’s gonna put Falcone down once and for all.
+

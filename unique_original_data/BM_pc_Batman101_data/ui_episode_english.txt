@@ -1,0 +1,358 @@
+﻿#### 22ddc7be48 | choice/UI | x12
+He’ll remember that.
+
+#### 7db579d68e | choice/UI | x8
+She’ll remember that.
+
+#### 850cfa2df2 | choice/UI | x10
+They will remember that.
+
+#### af567ee644 | choice/UI | x10
+Silence is a valid option.
+
+#### 545c2a341b | choice/UI | x10
+You have a limited amount of time to make a choice.
+
+#### e0789f8c20 | choice/UI | x12
+Inspect the evidence at the crime scene.
+
+#### 5bbf58de20 | choice/UI | x12
+Items tagged with ^imageScale:0.8^<ui_notification_evidencePOI.d3dtx:-18> can be “linked” to related items to theorize a connection.
+
+#### 5bf8a05c66 | choice/UI | x12
+Find additional related evidence.
+
+#### 5e4bbafbc6 | choice/UI | x10
+This game series adapts to the choices you make.
+The story is tailored by how you play.
+
+#### 1882b5072a | choice/UI | x8
+This action will impact your gameplay experience.
+
+#### 10122d6a54 | choice/UI | x8
+Your choices have influenced this moment.
+
+#### e7ae67ee0d | choice/UI | x8
+Connect Scorch Mark evidence to the Exploded Remains to craft your theory.
+
+#### 8e5726f24e | choice/UI | x8
+A bonding moment
+
+#### 300f4c10b9 | choice/UI | x8
+Rude to Alfred, he’ll remember that.
+
+#### 8490f1efc4 | choice/UI | x8
+That’s going to leave a mark.
+
+#### babc7bb2ac | choice/UI | x12
+Not all connected items will reveal valid theories.  Break these links to reset them.
+
+#### 9569458143 | choice/UI | x28
+Drag to move.
+
+#### aa5ad70188 | choice/UI | x18
+To move use^imageScale:0.95^<ui_notification_keyboardAndMouseWasd.d3dtx:-20>
+
+#### d917c1da24 | choice/UI | x18
+To move use <ui_notification_analogStickLeft.d3dtx:-20>
+
+#### e363bf7187 | choice/UI | x10
+Use the mouse to look around.
+
+#### 11dead44ff | choice/UI | x10
+To look around use <ui_notification_analogStickRight.d3dtx:-20>.
+
+#### 58df73dd41 | choice/UI | x8
+Disagree with Alfred
+
+#### c204c273f9 | choice/UI | x8
+That was close!
+
+#### 4e6292b66e | choice/UI | x20
+Harvey will remember that.
+
+#### 7064b25320 | choice/UI | x8
+Press <ui_notification_facebuttonDown.d3dtx:-20> and <ui_notification_controllerTriggerRight.d3dtx:-20> to use your Finishing Blow!
+
+#### d78d726475 | choice/UI | x10
+Use <ui_notification_analogStickRight.d3dtx:-20> to move into the circle, then press the displayed button to attack.
+
+#### e83f45aa6e | choice/UI | x10
+Press <ui_notification_facebuttonDown.d3dtx:-20> and move <ui_notification_analogStickLeft.d3dtx:-20> simultaneously.
+
+#### eeee27bfd2 | choice/UI | x10
+Fill bars to earn an Expert Move.
+
+#### 03e322dd58 | choice/UI | x10
+Falcone will remember that.
+
+#### 50d670e7f5 | choice/UI | x10
+Gotham will hear of this.
+
+#### 0c2593e356-L? | choice/UI | x8
+You let Vicki stay.
+
+#### 12d6751bfa | choice/UI | x10
+Vicki will remember that.
+
+#### 5e1a15754f-L? | choice/UI | x8
+You let Harvey off the hook.
+
+#### 75caf5df73 | choice/UI | x10
+Alfred will remember that.
+
+#### 0eecf85416 | choice/UI | x10
+Gordon will remember that.
+
+#### 057a7e973b | choice/UI | x10
+The Codex has been updated!
+
+#### 4f94c109ed | choice/UI | x8
+Retrieve the Data Drive
+
+#### b82b8f9f58 | choice/UI | x8
+Use the Codex to Look Up Info on the Cat Burglar
+
+#### caf118d5b2 | choice/UI | x8
+Analyze the Data Drive at Batcomputer
+
+#### f59c49583a | choice/UI | x10
+Oswald will remember that.
+
+#### e8cba4ae32 | choice/UI | x8
+Oswald noted your callousness.
+
+#### fbf8cfb65a | choice/UI | x8
+Oswald noticed your kindness.
+
+#### 2ad075ba54 | choice/UI | x8
+Falcone noticed that.
+
+#### 0af96b4c76 | choice/UI | x8
+Use<ui_notification_keyboardAndMouseWasd.d3dtx:-15>to find the bullet, then Click to extract it.
+
+#### 0303cc1a08 | choice/UI | x8
+Drag left or right to find the bullet, then tap to extract it.
+
+#### 6dacbea53d | choice/UI | x8
+Use <ui_notification_analogStickLeft.d3dtx:-20> to find the bullet, then <ui_notification_faceButtonDown.d3dtx:-20> to extract it.
+
+#### c2d3bbe09f | choice/UI | x10
+Fill up the Bat Symbol by completing Expert moves to earn a Finishing Blow!
+
+#### 798cc02557 | choice/UI | x12
+Reconstruct what happened here by discovering which pieces of evidence best link together to tell the story.
+
+#### d62091275a | choice/UI | x8
+Continue linking related evidence to reconstruct the crime.
+
+#### ffdd3e2c0a | choice/UI | x8
+Link thugs to objects in the environment to plan your takedowns.
+
+#### 0de7553fed | choice/UI | x12
+You cannot make a connection until at least 2 linkable items have been discovered.
+
+#### eed9edd5a0 | choice/UI | x8
+Unlink items that dont seem to have a strong connection.
+
+#### dc968443d0 | choice/UI | x12
+These two items aren’t a match.  Break this link and look for a more direct connection.
+
+#### 1e07971c98 | choice/UI | x8
+To rotate the hologram use <ui_notification_analogStickLeft.d3dtx:-15>
+
+#### b1e78b0862 | choice/UI | x8
+To rotate the hologram use <ui_notification_keyboardAndMouseWasd.d3dtx:-15>
+
+#### 83b0ff260c | choice/UI | x8
+Drag to rotate the hologram.
+
+#### d11a6d8c15 | choice/UI → OSWALD | x8
+Oz
+
+#### 5f1cabc2ea | choice/UI → ALFRED | x18
+Bruce
+
+#### 5b2970baf7 | choice/UI, ALFRED, BRUCE → ALFRED, BRUCE, LUCIUS | x16
+Alfred
+
+#### 47b23b3975 | choice/UI | x10
+UPDATED
+
+#### cf428e581f | choice/UI | x8
+Oswald noticed that.
+
+#### 9412519b14 | choice/UI | x8
+Lieutenant Gordon noted your violence.
+
+#### 77b321aff2 | choice/UI | x8
+Lieutenant Gordon noted your nonviolent approach.
+
+#### a4942c26d0 | choice/UI | x14
+SELECT
+
+#### 64341bd1ba | choice/UI | x14
+DECRYPTING DEVICE
+
+#### fd59bce7c2 | choice/UI | x24
+Use the arrows buttons to Select and Rotate the pieces.
+
+#### 37f47f08d1 | choice/UI | x12
+<ui_batComputer_legendDpadUpDown.d3dtx:-12>Select <ui_batComputer_legendDpadLeftRight.d3dtx:-12>Rotate
+
+#### 3641f3bd30 | choice/UI | x8
+Locate the sniper nest
+
+#### 28ff775c9a | choice/UI | x8
+DECRYPTING DATA...
+
+#### 2c85a73cd1 | choice/UI | x8
+COMPLETE
+
+#### 357f05552f | choice/UI | x4
+Selina is going to remember that.
+
+#### 0b350cfbd6 | choice/UI | x2
+^color:#cbd6db^^font:GameplayBodyMedium^A Telltale story by
+^^ZACK KELLER
+^^CHRIS HOCKABOUT
+
+#### 573ba4b407 | choice/UI | x4
+^color:#cbd6db^^font:GameplayBodyMedium^Episode Directed by
+^^KENT MUDLE
+
+#### b101b5a924 | choice/UI | x10
+^color:#cbd6db^^font:GameplayBodyMedium^Art Direction
+^^MARTIN McDONALD
+
+#### 14037f5ed1 | choice/UI | x10
+^color:#cbd6db^^font:GameplayBodyMedium^Characters
+^^DAVEED KAPLAN
+
+#### a13e6ea757 | choice/UI | x10
+^color:#cbd6db^^font:GameplayBodyMedium^Environments
+^^CHRISTIAN DE LOS SANTOS
+
+#### 7b158233e4 | choice/UI | x10
+^color:#cbd6db^^font:GameplayBodyMedium^Animation
+^^MICHAEL TJOSVOLD
+
+#### c55bce210c | choice/UI | x2
+^color:#cbd6db^^font:GameplayBodyMedium^Choreography
+^^MATTHEW LEACH
+
+#### 82b7af4a15 | choice/UI | x2
+^color:#cbd6db^^font:GameplayBodyMedium^Programming
+^^TULLEY RAFFERTY
+^color:#cbd6db^^font:GameplayBodyMedium^Music by
+^^JARED EMERSON-JOHNSON
+
+#### a4dc894918 | choice/UI | x10
+^color:#cbd6db^^font:GameplayBodyMedium^Music by
+^^JARED EMERSON-JOHNSON
+
+#### fee5ccc316 | choice/UI | x10
+Tap screen to update Codex.
+
+#### 60534e0fbf | choice/UI | x10
+Press <ui_notification_keyboardAndMouseE.d3dtx:-20> to update Codex.
+
+#### 009713b299 | choice/UI | x10
+Press <ui_notification_facebuttonDown:-20> to update Codex.
+
+#### 5070379988 | choice/UI | x2
+Drag up to open the doors.
+
+#### 7d2075f742 | choice/UI | x8
+Use <ui_notification_analogStickLeft.d3dtx:-20> to open the doors
+
+#### 4b2135d093 | choice/UI | x8
+Use <ui_notification_keyboardAndMouseW.d3dtx:-20> to open the doors
+
+#### bc9921d7e0 | choice/UI | x8
+Use Bat-Tech to reveal trace evidence of phosphorus.
+
+#### 8692d030ac | choice/UI | x8
+HARD DRIVE ENCRYPTED
+
+#### 8003a80b27 | choice/UI | x8
+Maneuver the drone around the outside of the Skyline club to scan for Falcone’s location.
+
+#### b3b7cebb7c | choice/UI | x8
+Press <ui_notification_keyboardAndMouseA.d3dtx:-20> and <ui_notification_keyboardAndMouseD:-20> to use your Finishing Blow!
+
+#### f0b9693a33 | choice/UI | x8
+Press both prompts simultaneously to use your Finishing Blow!
+
+#### 9ee25ef4b8 | choice/UI | x8
+Your guests will remember that.
+
+#### cee3e8bd5c | choice/UI | x10
+Press both prompts simultaneously.
+
+#### fe59555c82 | choice/UI | x2
+Press <ui_notification_keyboardAndMouseShift.d3dtx:-20> and <ui_notification_keyboardAndMouseE.d3dtx:-20> simultaneously.
+
+#### c3008d673e | choice/UI | x10
+Gotham Media Feed
+
+#### c17049d240 | choice/UI | x10
+Swipe Up and Down to scroll.
+
+#### 1a862688bd | choice/UI | x10
+Use ^imageScale:0.8^<ui_batComputer_legendMouseW.d3dtx:-15> and ^imageScale:0.8^<ui_batComputer_legendMouseS.d3dtx:-15> to scroll.
+
+#### fca668073b | choice/UI | x11
+Use ^imageScale:0.8^<ui_batComputer_legendDpadUpDown.d3dtx:-15> or ^imageScale:0.8^<ui_batComputer_legendLeftStick.d3dtx:-15> to scroll.
+
+#### b23ce05fcd | choice/UI | x8
+<<id:377679995>><<:377679995>><<id
+City Hall, 8:32 PM
+
+#### 2884f2260d | choice/UI | x2
+^glyphScale:1.25^City Hall
+^glyphScale:.6^8:32 PM
+
+#### 4e0994f951 | choice/UI | x2
+^glyphScale:1.25^Cobblepot Park
+^glyphScale:.6^6:06 AM
+
+#### 0d223ff43a | choice/UI | x2
+^glyphScale:1.25^Cafe Triste
+^glyphScale:.6^5:23 PM
+
+#### 091503975b | choice/UI | x2
+^glyphScale:1.25^Eastside Docks
+^glyphScale:.6^6:44 PM
+
+#### 265f1d713b | choice/UI | x2
+^glyphScale:1.25^Skyline Club
+^glyphScale:.6^9:19 PM
+
+#### 207b8194aa | choice/UI | x10
+Right Click to exit.
+
+#### 2bdc653580 | choice/UI | x10
+^imageScale:0.5^<ui_notification_faceButtonRight.d3dtx:-15> to exit.
+
+#### 7266c992d0 | choice/UI | x8
+Harvey took notice.
+
+#### 2e2bd87900 | choice/UI | x8
+Harvey noticed.
+
+#### 0b311885d2 | choice/UI | x8
+He took notice.
+
+#### a23060bcb9 | choice/UI | x8
+He noticed that.
+
+#### e38f7b842a | choice/UI | x8
+Alfred noticed that.
+
+#### 8978804af1 | choice/UI | x10
+Use <ui_notification_mouseLeftClick.d3dtx:-20> to move into the circle, then press to attack.
+
+#### 91c528b37f | choice/UI | x2
+Tap the dot to attack.
+

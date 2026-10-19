@@ -1,0 +1,613 @@
+﻿#### d8a8bcf719 | BRUCE → DRUGDEALER2 | x2
+It isn’t what it {SadA}used to be.
+
+#### d371ffa512 | choice/UI → DRUGDEALER2, THOMAS | x4
+Graffiti
+
+#### 21555a15ba | choice/UI → DRUGDEALER2 | x2
+Plaque
+
+#### 802c153a33 | BRUCE → OSWALD | x4
+Where are you, Oz?
+
+#### 19876f9eb9 | choice/UI → OSWALD | x2
+Smoking Man
+
+#### 237d114fd9 | choice/UI → OSWALD | x2
+Statue
+
+#### c7190d8f48 | OSWALD → BRUCE | x2
+Gentlemen!
+
+#### 7ded4bb34d | DRUGDEALER1 → OSWALD | x2
+Keep walkin’, alright?
+
+#### e462045ee5 | OSWALD → DRUGDEALER2 | x2
+You see... that’s where you’re mistaken.
+
+#### dd0aee3f99 | BRUCE → FALCONE, OSWALD | x5
+Oz?
+
+#### 144cd336bb | OSWALD → DRUGDEALER1 | x2
+My old mate and I have some catching up to do...
+
+#### ebdbced18e | OSWALD → BRUCE | x2
+Woo! That was a right little {AngryB}scrap, eh?
+
+#### 96adf24f7e-LM | OSWALD → BRUCE | x2
+Ha, oh hey Bruce, {DisgustA}you’ve got a little...{SadB}
+
+#### c79f25c298 | OSWALD | x2
+There. Good as {HappyB}new!
+
+#### a0ac7efeb1 | OSWALD | x2
+Besides, someone needed to deal with the {AngryB}rubbish {DisgustB}situation here.
+
+#### b5d5cc818f-SM | OSWALD | x2
+Right now, I’m tryin’ to recognize{AngryB} the little Bruce I used to run ‘round this {DisgustB}place with.
+
+#### 5470c6d798 | OSWALD | x2
+Back when it wasn’t,{ThinkingB} y’know....  like {HappyA}‘this’.
+
+#### 75335c6210 | OSWALD | x2
+S’funny, huh?
+
+#### 71ed3dd04a | OSWALD | x2
+Used to run in the same circles, {HappyA}we did.
+
+#### d2eff92479-SM | OSWALD → BRUCE | x2
+Sorry, mate. {HappyB}This reunion got a lot more grim than I planned!
+
+#### 2b9cf42f44 | OSWALD → BRUCE | x2
+Which brings me to {DisgustB}you, Bruce.
+
+#### 463b9f0863 | OSWALD → BRUCE | x2
+When this whole thing starts... {DisgustA}make sure you’re on the {DisgustB}right side.
+
+#### 37a321b296 | BRUCE → OSWALD | x2
+Thanks for the backup.
+
+#### eb41fa6d8a-SM | BRUCE → OSWALD | x2
+Hey, I could have handled {AngryB}that myself.
+
+#### 247d029c0a | BRUCE → OSWALD | x2
+You didn’t need to {AngryA}take it so far.
+
+#### 0d86c8b88e | BRUCE → OSWALD | x2
+Well, those were better days.
+
+#### 4a4a40f15a | OSWALD → BRUCE | x2
+That they were, {AngryA}yeah.
+
+#### f19a32add5-SM | OSWALD → BRUCE | x2
+Thought we’d grow up to be {DisgustA}kings, I did.
+
+#### 71390139b7 | BRUCE → OSWALD | x2
+It’s better off {SkepticalB}bulldozed.
+
+#### b84d5e8aef | OSWALD → BRUCE | x2
+This park still matters {DisgustB}to me, Bruce.
+
+#### 9f0404b097 | OSWALD → BRUCE | x2
+It’s all my folks {FearA}left behind.
+
+#### d5bdcae804 | BRUCE → OSWALD | x2
+It’s a shame what happened.
+
+#### f80d372b83 | OSWALD → BRUCE | x2
+The last thing my parents {DisgustB}ever built...
+
+#### 17fe708bd8 | OSWALD → BRUCE | x2
+Both of us...
+
+#### 16f00e78af-SM | BRUCE → OSWALD | x2
+I’m sorry, Oz.
+
+#### 90a4a96acb | OSWALD → BRUCE | x2
+But we’re not the only {ThinkingA}ones suffering.
+
+#### 572672f9a6 | BRUCE → OSWALD | x2
+That’s just the way it goes sometimes.
+
+#### e48302d272 | OSWALD → BRUCE | x2
+Well obviously, {ThinkingA}but you don’t have to be {DisgustB}a dick about it.
+
+#### 461f4a64ca | BRUCE, CATWOMAN, choice/UI → LADYARKHAM, LUCIUS, OSWALD | x18
+Great.
+
+#### a7e480ff72 | choice/UI → DRUGDEALER1 | x2
+Running Late.
+Meet you by the statue.
+
+#### 791b8cd3e4 | DRUGDEALER1 → BRUCE | x2
+Watch. Wallet. Cash.
+
+#### f6ab3e2c43 | DRUGDEALER1 → BRUCE | x2
+Or this goes through you.
+
+#### 44625254e8 | choice/UI, BRUCE → DRUGDEALER1 | x4
+Try and take it.
+
+#### ca9300a7f2 | choice/UI → DRUGDEALER1 | x2
+Just walk away.
+
+#### 65c480247a-SM | choice/UI, BRUCE → DRUGDEALER1 | x4
+I’ve got nothing.
+
+#### f3e553da9c | BRUCE, choice/UI → DRUGDEALER1, ALFRED | x4
+You’re making a mistake.
+
+#### bb12bee84e-LM | DRUGDEALER1 → BRUCE | x2
+You already made one comin’ here.
+
+#### 278296c8ea | DRUGDEALER1 → BRUCE | x2
+The next one kills you.
+
+#### b1f554cbe6 | BRUCE, COA03, HARVEY → DRUGDEALER1, BATMAN, BRUCE | x6
+Go ahead.
+
+#### 2e3af6d3cb | DRUGDEALER1 → BRUCE | x2
+You want me to cut it out of you?
+
+#### 1d63c28c4f | BRUCE → OSWALD | x2
+That’s very thoughtful of you.
+
+#### 8de17a01bc | OSWALD → BRUCE | x2
+‘Least I can do is make sure you {HappyB}don’t get shanked.
+
+#### 45baf49eb2-SM | OSWALD → BRUCE | x2
+I yanked you away from your bloody {AngryB}ivory tower, {AngryA}Bruce.
+
+#### bee641bb00 | OSWALD → BRUCE | x2
+And by “handled” do you mean having a {AngryB}fucking knife handle {AngryC}in your back?
+
+#### 220164f296 | OSWALD, HARVEY → DRUGDEALER2, BATMAN | x4
+No offense.
+
+#### 01cd423b94 | OSWALD → DRUGDEALER2 | x2
+‘Cause that’s what would’ve happened, {AngryA}mate.
+
+#### 724bbaaf54 | OSWALD → BRUCE | x2
+Some folks have {AngryA}fine hearing, Bruce.
+
+#### f3b6cfb32e | DRUGDEALER2 → OSWALD | x2
+This don’t concern you, twerp!
+
+#### 8b56af931a | OSWALD → DRUGDEALER2 | x2
+You hear that?
+
+#### 9995d55ef9 | OSWALD → DRUGDEALER2 | x2
+Others don’t get the message unless {HappyA}it’s beaten{AngryB} into them.
+
+#### fcbd62d9b0 | BRUCE → OSWALD | x2
+And you know what, I haven’t been mugged {SmugB}once that entire {HappyA}time.
+
+#### e5175014f0-SM | OSWALD → BRUCE | x2
+That wasn’t why I {ThinkingA}brought you here, {AngryA}mate.
+
+#### e3f9c6eb5b | OSWALD → BRUCE | x2
+This park... it used to {DisgustA}mean something.
+
+#### f129737673 | OSWALD | x2
+People came from all over to visit.
+
+#### f0c4c2bac5 | OSWALD | x2
+Mum and Dad, they put so {ThinkingA}much work in here.
+
+#### ac0361cb1c | OSWALD | x2
+A place that was safe for kids, {ThinkingA}for families...
+
+#### 59c18f4005-LM | HARVEY, BRUCE, choice/UI, ENFORCERCOLLEEN → BATMAN, BRUCE, OSWALD | x24
+You’re right.
+
+#### d31d71c21f | choice/UI → OSWALD | x2
+The place is a wreck.
+
+#### c58421530e | choice/UI → OSWALD | x2
+This is a shame.
+
+#### bc4a912451 | OSWALD | x2
+Mum. Committed to{DisgustB} Arkham.
+
+#### e467ef56d3 | OSWALD | x2
+Dad. {DisgustA}Ended it himself, he did.
+
+#### 45c46fa708 | OSWALD → BRUCE | x2
+Gave you {DisgustB}the good life.
+
+#### 70085b0d1b | OSWALD → BRUCE | x2
+Same place that ground my family {AngryB}to dust...
+
+#### d256de8977-SM | choice/UI, BRUCE → OSWALD | x4
+I’m sorry, Oswald.
+
+#### 86b80f93e3 | HARVEY, VICKI, OSWALD, GORDON → BRUCE | x28
+Thanks, Bruce.
+
+#### 892f64de8f | BRUCE → OSWALD | x2
+No one should have to go {ConcernedA}through that.
+
+#### 8c05faf2d0-SM | choice/UI → OSWALD, GORDON | x4
+I lost my parents too.
+
+#### 246b3dee42 | BRUCE → OSWALD | x2
+My parents are gone too, {ConcernedB}Oz.
+
+#### 5695ae8b4a-SM | OSWALD → BRUCE | x2
+I know, Bruce. {AngryA}And I’m sorry for it.
+
+#### 2885bade98-SM | OSWALD → BRUCE | x2
+But I had my own funerals {DisgustB}to attend.
+
+#### b2de4bb3e2 | BRUCE → OSWALD | x2
+It’s out of our control.
+
+#### a6782dcc8f | OSWALD → BRUCE | x2
+On that, we can agree {HappyB}in earnest.
+
+#### 43e86f0dde | BRUCE → OSWALD | x2
+Falcone was an uninvited guest--{ThinkingB}that’s it.
+
+#### 5e1a01dc1e | BRUCE → OSWALD | x2
+I never want to see his face {AmusedA}again.
+
+#### 11ce177b4b-SM | BRUCE → OSWALD | x2
+No-no-no, no, no...I only agreed to meet him because of {ThinkingA}Harvey.
+
+#### 1cf8d562a4 | OSWALD → BRUCE | x2
+Beware of any man who smiles {DisgustA}that much, Bruce.
+
+#### f06375fb4a | choice/UI → OSWALD | x2
+It’s not what you think.
+
+#### e14cc39e04 | choice/UI → OSWALD | x2
+He wasn’t invited.
+
+#### 5e33339958 | OSWALD → BRUCE | x2
+It’ll be a treat to watch him {AngryB}hit pavement.
+
+#### e522f21562 | OSWALD → BRUCE | x2
+Falcone’s made a stack of cash and {AngryA}corpses a mile high ruining {AngryB}families like mine.
+
+#### 490ecacf1b | OSWALD | x2
+All he needs a little push {ThinkingB}and...
+
+#### 75844d4472-SM | choice/UI → OSWALD | x2
+I could give you money.
+
+#### 22614df110 | choice/UI → OSWALD | x2
+You want help with Falcone.
+
+#### 5d8485fb08 | choice/UI → OSWALD | x2
+You want to fix this city.
+
+#### 4c77c68de8 | OSWALD → BRUCE | x2
+Wasn’t the {SadA}point, honest.
+
+#### b8ddd069bf | OSWALD → BRUCE | x2
+You don’t give me enough {HappyA}credit, mate.
+
+#### 53c24f1ef0 | OSWALD → BRUCE | x2
+No handouts required.
+
+#### 8bd8732efa | BRUCE → OSWALD | x2
+Let’s cut through all {ConcernedA}this, Oz.
+
+#### 5cfccdeec1-LM | BRUCE → OSWALD | x2
+You need some cash {ConcernedB}to get back on your feet.
+
+#### 1dae63e14f | OSWALD → BRUCE | x2
+I’m in fighting form.
+
+#### af5c637705 | BRUCE → OSWALD | x2
+You want my help taking down {AmusedA}Falcone.
+
+#### ca8f3f4ad9 | OSWALD → BRUCE | x2
+Appreciate the offer, mate, I do.
+
+#### a4af4c9e13 | OSWALD → BRUCE | x2
+They’re usually hiding a {DisgustB}forked tongue.
+
+#### d10b5b1969 | OSWALD → BRUCE | x2
+But Falcone’s in my crosshairs. {AngryB}Not yours.
+
+#### f0b0139d98-LM | BRUCE → OSWALD | x2
+So you came back {AmusedB}to fix Gotham.
+
+#### 4165104efd | OSWALD → BRUCE | x2
+Gotham can’t{AngryB} be fixed.
+
+#### cfe1ef5741 | OSWALD → BRUCE | x2
+It needs to be burned up, {AngryB}torn down, and rebuilt {DisgustA}from the foundation.
+
+#### c3079b52bd | OSWALD → BRUCE | x2
+It’s a new Oswald. {ThinkingA}A new crew. {AngryA}And new plans.
+
+#### 91b0be2fbd | OSWALD | x2
+Things’re gonna be on the upswing {ThinkingA}soon though.
+
+#### 0648a5e6df | OSWALD | x2
+You see, you throw a rock in any direction, {DisgustA}you break a window that {DisgustB}Wayne Enterprises owns.
+
+#### 1ddc8a2ac3 | OSWALD | x2
+We grew up together. {HappyA}Got into scraps together. Hell, still get into scraps together.
+
+#### 7e9d789d40 | OSWALD → DRUGDEALER2 | x2
+Don’t know how much that meant to you, {ThinkingB}but it meant loads to me.
+
+#### f0db63b14d | OSWALD → DRUGDEALER2 | x2
+Which is why I’m warning you...
+
+#### e75ce55485-SM | OSWALD → BRUCE | x2
+I have got great affection for you, {ThinkingB}Bruce, I really do.
+
+#### 6b33117019 | DRUGDEALER2 → OSWALD | x2
+The hell’re you waiting for?
+
+#### adb9c7d4c1 | OSWALD → DRUGDEALER2 | x2
+Nothin’ kickstarts the system like a {AngryA}dash of {HappyB}adrenaline, eh?
+
+#### 8745551d94 | BRUCE → OSWALD | x2
+This place is {SadA}a wreck.
+
+#### cafc492097 | OSWALD → DRUGDEALER2 | x2
+Glad they never {DisgustB}saw it like this.
+
+#### 766c5ceed7 | OSWALD → BRUCE | x2
+My family’s fortune... {SadA}there’s nothing left, {SadA}Bruce.
+
+#### 1b2cce1455 | OSWALD | x2
+Hobnobbin’ parties. {HappyB}Round the world vacations. {SadA}Unlimited potential.
+
+#### ff4696fe4f | OSWALD | x2
+And what’s left in {SadB}this flask.
+
+#### c36d184fec | OSWALD | x2
+Let him choke on it.
+
+#### 90fbe46648 | OSWALD | x2
+Made himself right at home, {AngryB}that oily f--.
+
+#### 96043536f7-SM | OSWALD | x2
+Wish I could’ve punched {AngryA}that grin into the {DisgustB}back of his throat.
+
+#### a5d3fe78ca | OSWALD → DRUGDEALER2 | x2
+But seeing our old haunt, {ThinkingA}well, {ThinkingB}pretty {AngryA} haunted...
+
+#### 0289ce72e1 | OSWALD → DRUGDEALER2 | x2
+Hard to keep those gremlins {AngryA}under lock and key, eh?!
+
+#### 6b13d0b33a | OSWALD → DRUGDEALER2 | x2
+A revolution is knocking on Gotham’s door... {HappyA}and I’m here to let it in.
+
+#### 43e86ddb16-LM | DRUGDEALER2 → OSWALD | x2
+Hey, you heard him, man.
+
+#### d476e3e874 | DRUGDEALER2 → OSWALD | x2
+Huh?!
+
+#### 112dd5964c | OSWALD → DRUGDEALER2 | x2
+C’mere!
+
+#### 28efaedbf7 | OSWALD → DRUGDEALER2 | x2
+This used to be a nice place.
+
+#### eaeb80fd3e | OSWALD | x2
+You receiving the message?
+
+#### 73fef01e23 | HARVEY, BRUCE, OSWALD, THUG02 → ALFRED, BATMAN, COA04 | x42
+Huh?
+
+#### b9616c84d3 | OSWALD | x2
+HUH?!
+
+#### 853ff5599d | OSWALD | x2
+Get me now?!
+
+#### 04fb271242 | OSWALD | x2
+This is MY park. Mine!
+
+#### 8303cac565 | OSWALD | x2
+Place is a {AngryB}dump.
+
+#### aacd7d9d3a | BRUCE, OSWALD, VICKI → HARVEY | x7
+It’s the only way.
+
+#### d9fe4151cc | OSWALD | x2
+But when my revolution starts, {AngryA}we’re going to smash windows and{AngryB} cross off names all the way down.
+
+#### f0f161e43b | OSWALD → BRUCE | x2
+As the “rich and powerful” go, {DisgustA}you top Gotham’s list.
+
+#### 3ca2d54c5e-SM | OSWALD → BRUCE | x2
+Like I said, it’s not gonna be pretty... {DisgustA}it’s gonna be beautiful.
+
+#### 04204afe7a | OSWALD → BRUCE | x2
+And I can’t wait to {AngryB}get started.
+
+#### d49d0bb3e3 | choice/UI → OSWALD | x2
+Homeless Person
+
+#### 668eb3fb85 | choice/UI → OSWALD | x2
+Give Change
+
+#### 9e065bb247 | FALCONE, BRUCE → BRUCE, OSWALD | x5
+Yeah, right.
+
+#### 18da88d42c | OSWALD → BRUCE | x2
+Not exactly high society out here, innit?
+
+#### 79c9b440b5 | OSWALD → BRUCE | x2
+Some people can take a hint.
+
+#### bde921bef5 | BRUCE → OSWALD | x2
+It was beautiful once.
+
+#### 904e261ec8 | BRUCE → OSWALD | x2
+I know, Alfred told me.
+
+#### 8493f721db-SM | OSWALD → BRUCE | x2
+Y’know when I saw you at the party last night I thought...
+
+#### 3e508f0b55 | OSWALD → BRUCE | x2
+Bruce Wayne... {AngryA}hasn’t changed a bit.
+
+#### 1f23f25f6e-SM | OSWALD → BRUCE | x2
+But maybe I was wrong.
+
+#### e7b3ed535c-SM | OSWALD | x2
+Shouldnt’ve been a surprise when I saw you with Carmine Falcone.
+
+#### f46d9f42d1 | OSWALD → BRUCE | x2
+Good to know you haven’t changed, Bruce.
+
+#### e5e8ad453f-LM | OSWALD → BRUCE | x2
+You still care about something more than just yourself.
+
+#### b0f408882d-SM | OSWALD → BRUCE | x2
+Although I was surprised to see Carmine Falcone at your party last night.
+
+#### ba2533170d | choice/UI → OSWALD | x2
+That’s just politics.
+
+#### 32eb69b469 | BRUCE → OSWALD | x2
+It’s... politics, Oz.
+
+#### ee3249e58a | BRUCE → OSWALD | x2
+That’s how the game is played.
+
+#### 8576aef98c-SM-LM | OSWALD → BRUCE | x2
+I thought you had more integrity than that.
+
+#### 6651bad5c9-LM | OSWALD → BRUCE | x2
+What? You got nothing to say?
+
+#### 5fc0ec2556 | choice/UI, ENFORCERLUKE → OSWALD, JOKER, BRUCE | x10
+Is that a threat?
+
+#### 93f288df9b | choice/UI, BRUCE → OSWALD, SELINA | x4
+I’m not your enemy.
+
+#### c5a36d9394-LM | choice/UI → OSWALD | x2
+You won’t win that battle.
+
+#### 47caa956c3 | BRUCE → OSWALD | x2
+Are you threatening me, Oz?
+
+#### 6d325235e2 | OSWALD → BRUCE | x2
+Take it as you like.
+
+#### 260a986f22 | BRUCE → OSWALD | x2
+I’m not your enemy, Oz.
+
+#### ad0e5b1575 | OSWALD → BRUCE | x2
+That remains to be seen, don’t it?
+
+#### 7c8ba26120-LM | BRUCE → OSWALD | x2
+That’s a battle you won’t win, Oz.
+
+#### 6303fec20b-SM | OSWALD → BRUCE | x2
+No? I’ve learned a thing or three since we were kids.
+
+#### acd6a06d52 | OSWALD → BRUCE | x2
+Am I getting through to you, Bruce?
+
+#### 80611d50cf | choice/UI → OSWALD | x2
+That’s how things are.
+
+#### 960d841140-SM | choice/UI, BATMAN → OSWALD, ALFRED | x6
+I had it handled.
+
+#### 2e19a176ac | choice/UI → OSWALD, GORDON | x4
+Thanks for the help.
+
+#### bba86906c5-LM | choice/UI → OSWALD | x6
+You went too far.
+
+#### f2ec233785 | HOMELESSMAN, RYDER → OSWALD, BRUCE | x4
+Thank you, sir.
+
+#### 3550d84050 | BRUCE → OSWALD | x2
+There’s the statue, but... no Oz.
+
+#### 950387d0c4 | OSWALD → HOMELESSMAN | x2
+And you’re ruinin’ the moment!
+
+#### c92ad27ec6 | OSWALD → HOMELESSMAN | x2
+This city... chews right through people.
+
+#### fd5d7fe91d-SM | OSWALD → BRUCE | x2
+Now all I’ve got is this park...
+
+#### 5ebb89fb29 | BATMAN, OSWALD, SELINA, GCPD02 → PENGUIN, BRUCE, GCPD03 | x12
+Stay down!
+
+#### b2aa67578a | OSWALD | x2
+You mean a knife handle in the back?
+
+#### 89be05df32 | OSWALD → DRUGDEALER2 | x2
+It’s been what... two decades?
+
+#### e536ea530a | OSWALD → DRUGDEALER2 | x2
+It’s my only inheritance.
+
+#### f0f7f2f066-SM | OSWALD → BRUCE | x2
+Good seeing you, Bruce, but I’ve got some rocks to collect. Cheers.
+
+#### cb5c22e9c2 | DRUGDEALER2, COP02 → OSWALD, ALFRED | x4
+Hurry up!
+
+#### 5d6b7ba77f | DRUGDEALER2 → OSWALD | x2
+End him.
+
+#### c4f57a3658 | OSWALD → DRUGDEALER2 | x2
+And now it’s a... hell hole.
+
+#### c40220c63a | OSWALD → DRUGDEALER2 | x2
+Think that’ll do?
+
+#### 3abe8f19c6 | OSWALD → DRUGDEALER1 | x2
+Low lives like you don’t belong
+
+#### dbad1ea31b | choice/UI → OSWALD | x2
+Recent Newspaper
+
+#### 8328131d83 | choice/UI → OSWALD | x2
+Empty Can
+
+#### 90d67309ae | choice/UI → OSWALD | x2
+Shopping Cart
+
+#### e25105ba7f | choice/UI → ALFRED, OSWALD, GORDON | x81
+Examine
+
+#### c4d64d4a00 | choice/UI → DRUGDEALER1 | x2
+Entrance Sign
+
+#### aa19e0fef6 | choice/UI → DRUGDEALER1 | x2
+Burning Barrel
+
+#### 5a8841cdf3 | BRUCE, PATIENTTABOR → OSWALD, BRUCE, ZSASZ | x6
+Hey.
+
+#### 4168c6c43b | ORDERLY02, DRUGDEALER1 → BRUCE, OSWALD | x6
+Beat it.
+
+#### a3d6a1a8bc | DRUGDEALER1 → BRUCE | x2
+The hell’d you say?!
+
+#### 69a0be1f3e | DRUGDEALER1 → BRUCE | x2
+You don’t wanna do this, man.
+
+#### d7aeefc34a | BRUCE → DRUGDEALER1 | x2
+Sorry fellas.
+
+#### 0794e96513 | choice/UI → DRUGDEALER1 | x2
+Press conference for new hospital starts soon.
+
+#### 449947da68 | choice/UI → DRUGDEALER1 | x2
+Car waiting on south side of park.
+
+#### dfc8aa058f | BRUCE → DRUGDEALER1 | x2
+Just let me...
+

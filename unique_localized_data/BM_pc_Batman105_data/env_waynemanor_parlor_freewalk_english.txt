@@ -1,0 +1,790 @@
+﻿#### 14d2dbef45 | choice/UI | x2
+Scan hair sample
+
+#### c6b0c26901 | BRUCE → LUCIUS | x4
+Signs of a struggle.
+
+#### c3968061a3 | BRUCE → LUCIUS | x4
+Alfred put up quite a fight.  Good for him.
+
+#### 0ed9b7e7a5 | BRUCE | x2
+Looks like it was broken over someones head.
+
+#### 5f7c0a5999 | BRUCE | x2
+Swung so hard it broke in half.
+
+#### 495702ae36 | BRUCE | x2
+Alfred does like to fight dirty.
+
+#### 662dc47773 | BRUCE | x4
+Well done, old man...
+
+#### 2542ce78bc | BRUCE | x2
+Also not Alfred’s blood.
+
+#### 39657a5c48 | BRUCE | x6
+Damn Penguin.
+
+#### 20cb5fda5b | BRUCE | x4
+Damnit Penguin...
+
+#### c76b22f2ce | BRUCE | x4
+Thanks Oz.
+
+#### 94fe55ec3c | BRUCE | x6
+Alfred better not have been on the receiving end of this...
+
+#### 17012cf6c8 | BRUCE | x2
+A brutal fight.
+
+#### d6bf7bc6b3 | BRUCE | x2
+Someone’s hair?
+
+#### 8d065fd3be | BRUCE | x4
+Looks like Alfred’s.
+
+#### 6a90914799 | BRUCE | x2
+Blood pattern looks like it came off a high velocity hit.
+
+#### 4a72642763 | BRUCE | x2
+I hope you weren’t on the receiving end.
+
+#### ea87667c98 | BRUCE | x2
+You definitely got your licks in...
+
+#### 5d711e71f7 | BRUCE | x2
+Without my Bat Tech, I have no way of knowing if this is Alfred’s blood.
+
+#### fa63dcda0f-L? | BRUCE | x2
+How much of a fight did you put up Alfred?
+
+#### cbfa249648 | BRUCE | x2
+They didn’t try to break into my desk.
+
+#### 4811692deb | BRUCE | x2
+They just wanted Alfred...
+
+#### 235031ea04 | BRUCE | x2
+Broken glass.
+
+#### 97e15541e7 | BRUCE | x2
+And a missing picture...
+
+#### 0835ca516c | BRUCE | x2
+Someone placed this picture down dilberately
+
+#### c0dd0acd4f | BRUCE | x2
+She left me a link and password.
+
+#### 67637002e4 | BRUCE → LUCIUS | x2
+There’s been a break-in.
+
+#### 5ca4fec173 | LUCIUS → BRUCE | x6
+Is Alfred okay?
+
+#### ec735c7a7c | BRUCE → LUCIUS | x4
+I’m looking for him now.
+
+#### d0a951ef17 | COA01, COA02, LADYARKHAM, ALFRED → LUCIUS, BRUCE | x8
+Investigation mechanic!
+
+#### b27636c4a4 | choice/UI → LUCIUS | x2
+He’s as tough as they come.
+
+#### 0c83b06331 | choice/UI → LUCIUS | x2
+Alfred’s in serious trouble.
+
+#### fd688b2bbd | choice/UI → LUCIUS | x2
+Not now, Lucius.
+
+#### 7b3dd64f6a | BRUCE → LUCIUS | x6
+Alfred is missing.
+
+#### 9c90cb6b41 | BRUCE → LUCIUS | x2
+The lock’s been completely{SadA} destroyed.
+
+#### 1af29efebe | BRUCE | x2
+Alfred must have barricaded{AngryA} himself in here.
+
+#### 11531bedea | BRUCE | x2
+That would take quite a swing.
+
+#### cd3e92f07a-LM | BRUCE → ALFRED | x4
+How much of a fight did you put up, Alfred?
+
+#### 9a7acd2c05 | BRUCE | x6
+Alfred used the pool cue as a weapon.
+
+#### 325a2a0dd3 | BRUCE | x6
+He put up one hell of a fight...
+
+#### 74b32bf133 | BRUCE | x2
+Definitely from some sort of fight.
+
+#### 8faae999b4 | BRUCE | x2
+Hnh...
+
+#### 37eff054bb | BRUCE | x2
+Waste of scotch...
+
+#### fbe4115c9a | BRUCE | x4
+They tackled Alfred into the wall, knocking over the vase.
+
+#### 0a62e2e0d8 | BRUCE | x4
+Alfred managed to escape.
+
+#### 0e3f0ed48a | BRUCE | x6
+Animals...
+
+#### fadcfd21ef | BRUCE | x2
+Vase was knocked over in the struggle.
+
+#### 5c06106fb4 | BRUCE | x2
+Furniture scattered outwards from a single point.
+
+#### 8378f4c498 | BRUCE | x2
+There was a bunch of them.
+
+#### 54997a5ddc | BRUCE | x2
+This wasn’t a fair fight.
+
+#### 602abc027a | BRUCE | x4
+Lady Arkham must have used the concussion blast from her staff to try and stop Alfred.
+
+#### d0d6e2740e | BRUCE | x4
+The force of the blast must have caused Alfred to fly into the wall...
+
+#### 6eb5027fca | BRUCE | x2
+Something big was thrown against this wall...
+
+#### ede70b553b | BRUCE | x2
+Ash everywhere...
+
+#### 951f8e8654 | BRUCE | x4
+Alfred grabbed the fireplace poker to fend off Lady Arkham.
+
+#### 13b3c4b742 | BRUCE | x6
+But she knocked it aside.
+
+#### 8b35d79569 | BRUCE | x4
+And it lodged into the wall across the room.
+
+#### 91911c1c3f | BRUCE | x2
+A burning hot poker lodged in the far wall...
+
+#### 3ed01b117b | BRUCE → LUCIUS | x2
+Alfred doesn’t have the strength to do that...
+
+#### 4f1b562f04 | BRUCE → LUCIUS | x2
+That seems deliberate.
+
+#### e0c8c3e8bc | BRUCE → LUCIUS | x2
+Lady Arkham wanted me to find this.
+
+#### 044d0b68a8 | LUCIUS → BRUCE | x2
+Any luck?
+
+#### 4e86981ef1 | BRUCE → LUCIUS | x2
+Lady Arkham took Alfred and left behind a url and password for me to log into.
+
+#### 9ca65b5a18 | BRUCE, LUCIUS → LUCIUS, BRUCE | x6
+Do you think he’s okay?
+
+#### ad412acfa7 | BRUCE → LUCIUS | x2
+Alfred’s as tough as they come.
+
+#### 796aff8586 | LUCIUS → BRUCE | x2
+He’d have to be to raise Batman.
+
+#### a40a448234 | BRUCE → LUCIUS | x2
+It’s bad.
+
+#### 5cca4d70e3 | LUCIUS → BRUCE | x2
+At least he’s not dead.
+
+#### 3c3d9417a1 | BRUCE → LUCIUS | x2
+Just get down to the batcave.
+
+#### 25ffc10b14 | BRUCE → LUCIUS | x2
+There isn’t time to ponder.
+
+#### 945c563cfc | BRUCE → LUCIUS | x2
+Every second counts.
+
+#### 9127cf5b49 | LUCIUS → BRUCE | x2
+Sorry...  Of course.
+
+#### 5f709c1391 | LUCIUS → BRUCE | x2
+I’ll meet you in the batcave.
+
+#### 6104ba1acf | LUCIUS → BRUCE | x2
+What do you think it is?
+
+#### 30eb41650e | LUCIUS → BRUCE | x2
+From what you’ve seen, do you think he’s okay?
+
+#### afe52622fd | LUCIUS → BRUCE | x2
+We’ll get him back, Bruce.
+
+#### 8743497a69 | BRUCE → LUCIUS | x2
+Alfred’s in some serious trouble.
+
+#### ca1c6d2253 | choice/UI → LUCIUS | x2
+Yes, Call them
+
+#### 23ab24863c | choice/UI → LUCIUS | x2
+No, Batman can handle it.
+
+#### 711330a46a | choice/UI → LUCIUS | x2
+It’s not the time for that.
+
+#### c564c87db5 | choice/UI → LUCIUS | x2
+Let’s not discuss it.
+
+#### d31c49cfad | choice/UI → LUCIUS | x2
+Just get down here!
+
+#### f9a5d867c7 | choice/UI → LUCIUS | x2
+Just get over here.
+
+#### 7bfe70aaff | BRUCE → LUCIUS | x2
+Alfred’s missing.
+
+#### 57812aee46 | LUCIUS → BRUCE | x2
+We need to contact the GCPD.
+
+#### 97e26f150e | BRUCE → LUCIUS | x2
+We’ll need all the help we can get.
+
+#### 50ef828460 | BRUCE → LUCIUS | x2
+Call them while I look around.
+
+#### ad8a6ca336 | LUCIUS → BRUCE | x2
+Keep me posted.
+
+#### cbe7ef2ad3 | LUCIUS → BRUCE | x2
+Or do you want to handle this on your own?
+
+#### 73ed95eceb | BRUCE → LUCIUS | x4
+They’d just contaminate the crime scene and make my job tougher.
+
+#### c74be8983d | BRUCE → LUCIUS | x2
+Batman will handle this.
+
+#### 18c580575e | BRUCE → ALFRED | x2
+What did they do to you, Alfred?
+
+#### 8a99a58993 | BRUCE → LUCIUS | x2
+Need to focus.
+
+#### d6baba3057 | BRUCE → LUCIUS | x2
+Figure out which detail can help me find you.
+
+#### af2236ae47 | BRUCE → LUCIUS | x2
+Meet me down in the Batcave.
+
+#### 7ef1e25bc5 | BRUCE → LUCIUS | x2
+I’ll search the manor.
+
+#### 878e97b642 | LUCIUS → BRUCE | x2
+We’re gonna find him, Bruce.
+
+#### 35d86cc83e | choice/UI → LUCIUS | x2
+They have enough to handle.
+
+#### 64fc1840f5 | BRUCE → LUCIUS | x2
+Get over here as fast as you can.
+
+#### 213bdad98c | BRUCE → LUCIUS | x4
+We need to act while the trail is still hot.
+
+#### bd73bab401 | BRUCE → LUCIUS | x4
+The more time that passes, the harder it will be to locate Alfred.
+
+#### 463b373d55-LM | LUCIUS → BRUCE | x2
+Not that you can’t handle this yourself...
+
+#### c8e484b93b | LUCIUS → BRUCE | x2
+We’ll find him, Bruce.
+
+#### 276b42a36b | BRUCE → LUCIUS | x2
+The GCPD have enough on their plate.
+
+#### bd910e0a66 | BRUCE → LUCIUS | x2
+Time is of the essence.
+
+#### 6fed3b4ff7-SM | BRUCE → LUCIUS | x2
+I wanted to see for myself first.
+
+#### ea18e189a7 | BRUCE → LUCIUS | x2
+Reckoning...
+
+#### e00825946f | BRUCE | x2
+No. Yours...
+
+#### fbdd843029 | BRUCE | x2
+That would take tremendous force.
+
+#### 00ff032e4d-L? | BRUCE | x4
+You put up one hell of a fight, didn’t you?
+
+#### 73f3c97590 | BRUCE | x2
+Not Alfred’s.
+
+#### 5e810ce532 | BRUCE | x2
+Spray Pattern shows a high velocity hit.
+
+#### 209bb44245 | BRUCE | x2
+So much blood...
+
+#### de619be847 | BRUCE | x2
+If my Bat Tech worked I’d know if this was Alfred’s blood in seconds.
+
+#### 16acaddbc2 | BRUCE | x2
+Alfred better not have been on the receiving end.
+
+#### a222bd4b3a | BRUCE | x2
+It was thrown.
+
+#### f5f422599a | BRUCE | x2
+: [alt, dread]That looks like Alfred’s...
+
+#### 27db387515 | BRUCE | x2
+Mother’s favorite vase...
+
+#### 2cae2495a9 | BRUCE | x2
+Lady Arkham’s staff.
+
+#### 9b2f865d89 | BRUCE | x2
+She was here...
+
+#### eace730e89 | BRUCE | x2
+Alfred might have escaped...
+
+#### b080e7b6d4 | BRUCE | x4
+But Lady Arkham used a concussion blast from her staff to knock him into the wall, scattering the surrounding furniture.
+
+#### 1534081ffd | BRUCE | x2
+...in this room.
+
+#### b25c1a966c | BRUCE | x2
+Something was removed from inside the fireplace..
+
+#### 39c19f4538 | BRUCE | x2
+This is where Alfred fell...
+
+#### 29e5614cde | BRUCE | x2
+More blood on the mantle...
+
+#### 1b20fb30d9 | BRUCE | x2
+They smashed his face into it.
+
+#### d587dba748 | BRUCE | x2
+That picture was put here.
+
+#### 1fa7fb0fda | BRUCE | x2
+She wanted me to find this...
+
+#### d8cf3eb846 | BRUCE | x2
+The butler did it...
+
+#### 6db8c9429b | BRUCE | x2
+Bruce sees writing under the blood on the scrunched up paper.  it reads --
+ “The butler did it.“
+
+#### 292bb7c8bf | BRUCE | x2
+Password, Reckoning...
+
+#### 86ca00d9a2 | BRUCE | x2
+So Alfred grabs the nearest thing to use as a weapon to defend himself.
+
+#### e34a3b7796 | BRUCE | x2
+But Lady Arkham deflected Alfred’s attack and it lodged into the wall across the room.
+
+#### 6788e7f1e6 | BRUCE | x2
+Lady Arkham must have used the concussion blast from her staff to try to stop Alfred.
+
+#### b53c3ad1a8 | BRUCE | x2
+That’s why there’s a crack in the wall...
+
+#### 8fe40b8e44 | BRUCE | x2
+...throwing him against the wall by the fireplace.
+
+#### f151a93018 | BRUCE | x2
+...knocking over the vase.
+
+#### 6ed7e8a980 | BRUCE | x2
+The COA MErcinary garbbed Alfred’s hair.  But he manged to get free.  Alfred was grabbed by the hair but wrenctried to slip away, but the Arkham Zealot grabbed onto his hair, ripping some out.
+
+#### c00eb1a643 | BRUCE | x2
+He broke it across one of their head’s. Then stabbed him to get away.
+
+#### 7f6e23bbbe | BRUCE | x2
+He put up a hell of a fight...
+
+#### 849310c9ea | BRUCE | x2
+That picture doesn’t belong there...
+
+#### 4ae5d870b9 | BRUCE | x2
+I know what happened.
+
+#### ca5524d773 | BRUCE | x2
+He had just enough time to grab a pool cue as a weapon...
+
+#### 192d5d60e4 | BRUCE | x2
+...then stabbed him to get away.
+
+#### 328aec8e39 | BRUCE | x2
+Alfred almost escaped...
+
+#### d3ba59eca7 | BRUCE | x2
+...scattering all the furniture in her path.
+
+#### 95ac71d1fe | BRUCE → LUCIUS | x6
+Lucius, it’s Bruce.
+
+#### 0718044504 | BRUCE | x2
+I think I know what happened.
+
+#### a47d22fd79 | BRUCE | x2
+The Children of Arkham broke in.
+
+#### 77e1160c2e | BRUCE | x2
+So Alfred grabs the nearest thing to defend himself with...
+
+#### d10053b85e | BRUCE | x2
+Lady Arkham wanted me to find this...
+
+#### de7f6ae621-L? | BRUCE | x2
+You wanted me to find this...
+
+#### 7365e1c2a4 | LUCIUS → BRUCE | x2
+Do you want me to contact the GCPD?
+
+#### 7667558807 | LUCIUS → BRUCE | x2
+I’m on my way over.
+
+#### b1f4c0bf1f | BRUCE → LUCIUS | x2
+This pool cue was used as a weapon.
+
+#### 1c73b4c8d4 | BRUCE → LUCIUS | x2
+Not sure Alfred would be strong enough for that.
+
+#### 9be6c806b8 | BRUCE | x2
+If only my Bat Tech worked.
+
+#### e29c07887e | BRUCE | x2
+I’d be able to know if this was Alfred’s blood in seconds.
+
+#### 002fe57402 | BRUCE | x4
+Without my Bat Tech I can’t tell if this is Alfred’s blood.
+
+#### 7e28920bd0 | BRUCE | x4
+He has to be okay...
+
+#### 1b2064f52e | BRUCE → LUCIUS | x4
+Broke it across his attacker’s head.
+
+#### 6fd9e5e0ea | BRUCE → LUCIUS | x4
+When that didn’t stop him, he used the jagged end to stab him, spraying blood across the pool table.
+
+#### 1215424560 | BRUCE → LUCIUS | x2
+Call the GCPD while I search for clues.
+
+#### c6c7cdf631 | BRUCE → LUCIUS | x2
+Call the GCPD.
+
+#### 2e4e0e80a7 | BRUCE → LUCIUS | x2
+He better be okay...
+
+#### 404962c463 | BRUCE → LUCIUS | x2
+I hope you weren’t on the receiving end of this....
+
+#### 003cdca74c | BRUCE | x4
+Was it life and death?
+
+#### a1264218ac | BRUCE | x4
+Was it really life and death?
+
+#### b530bcdec2 | BRUCE | x2
+If Alfred did this, his adrenaline would have to have been off the charts.
+
+#### 46edf0f2c7 | BRUCE | x2
+Fighting for his survival...
+
+#### dd96de64f8 | BRUCE → LADYARKHAM | x4
+But one of them got a hold of his hair...
+
+#### 4847e937bf | BRUCE → LADYARKHAM | x2
+Like a body...
+
+#### ad2ab0f210 | LADYARKHAM → BRUCE | x2
+I want him alive!
+
+#### 96f629d41a | COA01 → BRUCE | x2
+Sonovabitch!
+
+#### 7b8613c702-SM | ALFRED → LADYARKHAM | x2
+I’m not afraid of you.
+
+#### 1c475279da | COA02 → ALFRED | x2
+Arhhh!
+
+#### 86c82ca9df | BRUCE → LADYARKHAM | x2
+Alfred barricaded himself inside the parlor.
+
+#### f955778b90 | BRUCE → ALFRED | x2
+...before Lady Arkham blasted the doors open.
+
+#### 6c02757625 | BRUCE → ALFRED | x2
+He broke it across one of their heads.
+
+#### 5820a51b82 | BRUCE → ALFRED | x2
+Another assailant tackled Alfred....
+
+#### 631751884f | ALFRED → BRUCE | x2
+Arrrrrgrgr
+
+#### 8dd1147b60 | BRUCE → ALFRED | x2
+The Mercenary grabbed Alfred’s hair.
+
+#### 841ca953a0 | BRUCE → ALFRED | x2
+But he manged to get free.
+
+#### dbb99de348 | BRUCE → ALFRED | x2
+...but then Lady Arkham entered the parlor...
+
+#### dbcea19df0 | BRUCE | x2
+...used her staff’s concussion blast...
+
+#### 399523fcfb | BRUCE | x2
+...scattering all the furniture in her path...
+
+#### 2da136a773 | BRUCE | x2
+But Lady Arkham deflected Alfred’s attack...
+
+#### b461442b55 | BRUCE | x2
+...causing the poker to fly across the room and lodge into the wall.
+
+#### 72a64abc24 | BRUCE | x2
+...but Lady Arkham deflected Alfred’s attack...
+
+#### 9968072675 | BRUCE | x2
+Alfred stopped fighting by the fireplace.
+
+#### ed35cefe25 | BRUCE → LUCIUS | x2
+Wood’s chipped.
+
+#### 2a30b5c9f7 | BRUCE → LUCIUS | x2
+She must have smashed his face into it.
+
+#### a517ea328c | BRUCE → LUCIUS | x4
+I don’t know yet.
+
+#### aa6e4371cd | BRUCE | x2
+Please be okay Alfred.
+
+#### 6397c0aab6 | BRUCE | x4
+Looks like one hell of a fight.
+
+#### 65b94fcd8b-L? | BRUCE | x2
+I just hope you’re okay.
+
+#### 81229f6454 | BRUCE | x2
+We have to find Alfred before the trail goes cold.
+
+#### b58a56e111-L? | BRUCE | x2
+Where are you Alfred?
+
+#### 9d747c5f1f | BRUCE | x2
+What happened to you, Al?
+
+#### 0cfe5f0aad | BRUCE | x2
+The fight left nothing untouched.
+
+#### 2a446d99fb | BRUCE | x2
+Or someone...
+
+#### 812cdf191c | BRUCE | x2
+It’s up to us.
+
+#### 4ac3a8c7d3 | BRUCE | x2
+Figure out what happened here...
+
+#### ed4fb4ddb9 | BRUCE | x4
+I have no way to tell if this is Alfred’s blood.
+
+#### 2ce6b58b56 | BRUCE | x4
+And ripped it out...
+
+#### 63272ccd3a | BRUCE | x2
+He broke the cue across one of their heads...
+
+#### 55ca04b5cf | BRUCE | x2
+You have no idea...
+
+#### ed31f96a14 | BRUCE | x2
+But they got in anyway.
+
+#### 09aa7ca492 | LUCIUS → BRUCE | x2
+We got cut off earlier.
+
+#### 972afb7d8b | BRUCE → LUCIUS | x2
+I’m at the manor.
+
+#### 08dd58d150 | BRUCE → LUCIUS | x2
+There’s been a break-in at the manor.
+
+#### 203ad3f1c3 | BRUCE → LUCIUS | x2
+He’s missing.
+
+#### ec439fab66 | BRUCE → LUCIUS | x2
+I’m going to search for clues.
+
+#### 243f217d98 | 37 → BRUCE | x2
+41 2016) obj_parlorDoorsBroken
+
+#### 63ca00f8f4 | 11 17 → BRUCE | x2
+07:49 2016) obj_vaseDamaged
+
+#### a8220be34a | BRUCE → 37 | x2
+No... No blood on the furniture.
+
+#### 9651006722 | BRUCE → 37 | x2
+The crack is a blunt impact. Pool cue didn’t make that.
+
+#### 888fba0c4f | BRUCE → 11 17 | x2
+Pool cue’s not burned. It’s not what’s missing from the fireplace.
+
+#### 87e24b655c | BRUCE | x2
+These don’t have anything to do with each other.
+
+#### 937865a0ea | BRUCE | x2
+There’s no blood on the furniture.
+
+#### ef77ebd1ac | BRUCE | x2
+No correlation there.
+
+#### b13d7ad0db | BRUCE | x2
+No, no blood on the poker.
+
+#### 7c60c16b7e | BRUCE | x2
+I don’t see a connection here.
+
+#### 3c15f49b91 | BRUCE → ALFRED | x2
+These weren’t scattered by the same event.
+
+#### 7f9d996a2b | BRUCE → ALFRED | x2
+The poker couldn’t have made that crack.
+
+#### 64b3175951 | ALFRED → BRUCE | x2
+You monster!
+
+#### 63c7318a9d | LADYARKHAM → BRUCE | x2
+You should be afraid.
+
+#### f328a41a98 | BRUCE → LUCIUS | x2
+...sending the poker into the ceiling.
+
+#### 6e9ba30731 | choice/UI → ALFRED | x4
+Pool Cue
+
+#### e9f9d8c185 | choice/UI → ALFRED | x2
+The broken, bloodied end of a pool cue.
+
+#### 304acec232 | choice/UI | x2
+Splashes of blood.
+
+#### 19f424b52d | choice/UI | x2
+Link Furniture
+
+#### 9983db698c | choice/UI | x2
+Overturned furniture.
+
+#### a9c7786d76 | choice/UI → LUCIUS | x4
+Broken Shelf
+
+#### c4c53c0c13 | choice/UI | x2
+A broad crack in the wall.
+
+#### 183d339ccf | choice/UI → LUCIUS | x4
+Fireplace
+
+#### 00a02d326c | choice/UI | x2
+The ash and coal-strewn fireplace.
+
+#### bc5510a457 | choice/UI → LUCIUS | x4
+Fire Poker
+
+#### 94ed420c89 | choice/UI | x2
+A metal fire iron.
+
+#### 41bbbe887b | choice/UI | x2
+Broken Lock
+
+#### d121936c99 | choice/UI | x2
+Busted Vase
+
+#### fe8691c1e0 | choice/UI | x2
+Furniture
+
+#### 61852524b8 | choice/UI → LUCIUS | x2
+Picture
+
+#### ffa5ec9af8 | LUCIUS → LADYARKHAM | x2
+Just tell me how I can I help.
+
+#### 593b6e37a5 | LADYARKHAM → LUCIUS | x2
+Don’t run.
+
+#### 3ada1ca9bd | LADYARKHAM → LUCIUS | x2
+A valiant effort. Too bad.
+
+#### f954de7a9a | LADYARKHAM → ALFRED | x2
+Not a Wayne in sight to hide behind now.
+
+#### eb44ea4700 | LADYARKHAM → BRUCE | x2
+Corner him!
+
+#### 5add05c85a | LADYARKHAM → BRUCE | x2
+He’s just one old man!
+
+#### 19d6378e64 | BRUCE → LADYARKHAM | x2
+How the hell...?
+
+#### def357466c | BRUCE → LADYARKHAM | x2
+What in the world...?
+
+#### f21b274e4b | BRUCE → LADYARKHAM | x2
+Alfred grabbed the fireplace poker to fend off an attacker.
+
+#### 10bded9033 | BRUCE | x2
+But it was knocked away.
+
+#### e80e1659d4 | BRUCE → LUCIUS | x2
+He’s not here.
+
+#### e721841646 | BRUCE → LUCIUS | x2
+He’s not answering.
+
+#### ba34278067 | BRUCE | x2
+I’m going to search the house.
+
+#### d207ca2c07 | BRUCE → ALFRED | x4
+Well done, Alfred.
+
+#### 21790a70a3 | BRUCE | x2
+Alfred said Lady Arkham came here. There have to be some clues.
+
+#### 33704aa550 | BRUCE | x2
+I wonder what could have caused this...
+
+#### f79db312be | BRUCE | x2
+A scuff mark...
+
+#### 7270321b55 | choice/UI | x6
+Scuff Mark
+
+#### 1d6a11a816 | choice/UI | x2
+Mantle Blood
+

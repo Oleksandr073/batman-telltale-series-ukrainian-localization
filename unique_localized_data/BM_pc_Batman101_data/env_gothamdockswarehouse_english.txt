@@ -1,0 +1,986 @@
+﻿#### 3d59cadb30 | choice/UI | x4
+Scorch Marks
+
+#### 4165a7a5df | choice/UI | x6
+Exploded Human Remains
+
+#### 307590f9b7 | choice/UI | x2
+Blast Epicentre
+
+#### 2268ff0047 | choice/UI, BATMAN → CHEMTHUG | x4
+You didn’t do this alone.
+
+#### 60bab906d6 | choice/UI → CHEMTHUG | x2
+Talk and I’ll spare you.
+
+#### 996dece080 | BATMAN → CHEMTHUG | x2
+Where’re the others?
+
+#### 9768be25e6 | CHEMTHUG, THUG04 → BATMAN, THUG01 | x4
+Agh!
+
+#### d15849894e | CHEMTHUG → BATMAN | x2
+You, you can’t make me talk.
+
+#### f6c85516bb | CHEMTHUG | x2
+NO! Stop! You can’t do this!
+
+#### 941d9fd1c1 | CHEMTHUG | x2
+You’re fucking Batman!
+
+#### 268ae9d08a | CHEMTHUG → BATMAN | x4
+You’re Batman.
+
+#### 142aea78b4-SM | CHEMTHUG | x4
+I was just here for a pick up. I swear.
+
+#### affedfc156 | CHEMTHUG | x2
+I fucking swear.
+
+#### 4e314fc6cc | CHEMTHUG | x2
+I don’t know shit, man!
+
+#### f26928f1f3-L? | CHEMTHUG | x2
+You’re supposed to be a good guy.
+
+#### ee80abfbfa | CHEMTHUG → MONTOYA | x2
+Arrest him!
+
+#### 20e62de581 | CHEMTHUG → MONTOYA | x2
+I don’t know. I don’t know... please.
+
+#### 37bee351b3 | choice/UI → CHEMTHUG | x2
+Chemical Residue
+
+#### d01845819e | choice/UI → CHEMTHUG | x2
+White Rose
+
+#### 3ab39f6134 | choice/UI → CHEMTHUG | x4
+Tire Tracks
+
+#### c59c91a37b | choice/UI → CHEMTHUG | x2
+Shot Cop
+
+#### 0fc480db65 | choice/UI | x2
+Burnt Cop
+
+#### 4c94cb3ef3 | choice/UI | x6
+Dead Mercenary
+
+#### da30241d6e | choice/UI | x2
+Shipping Container
+
+#### 1f0529d392 | choice/UI | x6
+Bloody Hands
+
+#### 497a4fafca | choice/UI | x2
+Entry Wound
+
+#### 2c4d4edf3e | choice/UI | x2
+Impact Hole
+
+#### fff6652839 | choice/UI | x4
+Canister Fragment
+
+#### fadc57d0f7 | choice/UI | x2
+Chemical Stain
+
+#### 229b8419f5 | choice/UI | x2
+Hand Gun
+
+#### 87138f8609 | choice/UI | x2
+Stubbed Cigarette
+
+#### 40eb5e1e45 | choice/UI | x2
+Bullet Casings
+
+#### 32f40e8e4b | choice/UI → CHEMTHUG | x4
+Phosphorus Residue Trace
+
+#### a42ef8720e | choice/UI | x2
+Sniper Rifle
+
+#### 054eb1152a | choice/UI | x2
+Ripped-Up Face
+
+#### 091d7f60d3 | choice/UI → MONTOYA, ALFRED | x4
+Incendiary Bullet
+
+#### 48b8e120c7 | choice/UI → MONTOYA, CHEMTHUG | x4
+Unscorched Area
+
+#### 6acc5210b0 | choice/UI → MONTOYA | x2
+[Talk to Gordon]
+
+#### 1522cda1a8 | choice/UI → MONTOYA | x2
+[Disappear]
+
+#### f01db385bc | MONTOYA, BATMAN → BATMAN, HARVEY | x4
+Don’t move.
+
+#### 07d0e54217 | choice/UI → MONTOYA | x2
+What you couldn’t.
+
+#### a6152498cc-SM | choice/UI → MONTOYA | x2
+Sorry, but I had to.
+
+#### 112988f991-SM | BATMAN → CHEMTHUG | x2
+I did what you couldn’t.
+
+#### 7c1329191f-SM | choice/UI → MONTOYA | x2
+I got a confession.
+
+#### 6badb51d46 | BATMAN → MONTOYA | x2
+Gordon --
+
+#### ea6448f8b2 | MONTOYA → BATMAN | x2
+You have the right to remain silent.
+
+#### d0998c5f5f-SF | MONTOYA → BATMAN | x2
+I said silent!
+
+#### 989f288c90-SM | BATMAN, choice/UI → MONTOYA, ALFRED | x4
+I did what I had to.
+
+#### 4428851a33 | MONTOYA → BATMAN | x2
+Who? Who tried to kill you?
+
+#### de39e640c5 | CHEMTHUG → BATMAN | x2
+He, he tried to kill me.
+
+#### cd5b2577b8 | choice/UI → CHEMTHUG | x2
+Tell her to stand down.
+
+#### b6db12f853 | choice/UI → MONTOYA | x2
+Go ahead and shoot me.
+
+#### 97ec2e0d94 | choice/UI → CHEMTHUG | x2
+Put down the gun.
+
+#### c3a7a08c0d | BATMAN, choice/UI → MONTOYA, BOY | x6
+I’m on your side.
+
+#### 6e44eb8ee8 | BATMAN → CHEMTHUG | x2
+Shoot me. See what happens.
+
+#### 96905e0008 | MONTOYA → BATMAN | x2
+If you say another word, I will shoot you.
+
+#### e0e751c087 | BATMAN → MONTOYA | x2
+Gordon, tell her to stand down.
+
+#### 437b8f9a92 | MONTOYA, LUCIUS → BATMAN, BRUCE | x4
+It doesn’t look like it.
+
+#### bc22fee56c | BRUCE, SELINA, MONTOYA → ALFRED, BRUCE, BATMAN | x22
+Oh, yeah?
+
+#### f98af12743 | BATMAN → MONTOYA | x2
+Put down the gun, Detective.
+
+#### 76b11aa3e6 | MONTOYA → BATMAN | x2
+I will. I swear to God I will.
+
+#### 0768918350 | MONTOYA → BATMAN | x2
+I don’t care if half the city thinks you’re a hero.
+
+#### 72377ca3cd | MONTOYA → BATMAN | x2
+Right now, you’re a suspect.
+
+#### 002c3babcc | MONTOYA → GORDON | x2
+Don’t you dare.
+
+#### 5cb7e9d820 | BATMAN → MONTOYA, CHEMTHUG | x4
+You’re making a mistake, Detective.
+
+#### 087b4f90e2 | BATMAN → MONTOYA, ALFRED | x4
+You want to hear what I have to say.
+
+#### 10a2fa1c06 | BATMAN → MONTOYA | x2
+It will when you hear what I have to say.
+
+#### e476ca8957 | choice/UI → CHEMTHUG | x2
+Good to see you too.
+
+#### 33f1c1cf65 | BATMAN → GORDON | x2
+Good to see you too, Gordon.
+
+#### 4dd24e07a9 | choice/UI, BATMAN → CHEMTHUG | x4
+I’m doing your job.
+
+#### 0b7895a977 | CHEMTHUG → BATMAN | x2
+What are you waiting for?!
+
+#### ab56514e20 | CHEMTHUG → BATMAN | x2
+Oh, thank God! He was, about to kill me!
+
+#### 2be5ec289f | GORDON → CHEMTHUG | x2
+Yeah, that’s the problem.
+
+#### b5472a821c | choice/UI → CHEMTHUG | x2
+Going after Falcone.
+
+#### 79dd868037 | CHEMTHUG → GORDON | x4
+You’re an animal.
+
+#### 2eabb88724 | BATMAN, choice/UI → CHEMTHUG | x4
+Give me a reason to stop.
+
+#### 0220866e87 | choice/UI, BATMAN → CHEMTHUG | x4
+Time to live up to my reputation.
+
+#### 7d8af2cb4e | choice/UI → CHEMTHUG | x2
+I’ll make you talk.
+
+#### 4719e20b5a | CHEMTHUG → BATMAN | x4
+I ain’t tellin’ you jack.
+
+#### 7a80053d7d-SM | CHEMTHUG → BATMAN | x2
+I told you he was about to kill me!
+
+#### ba311c212e | MONTOYA → BATMAN | x2
+You know each other?
+
+#### 423e0d1729 | GORDON → BATMAN | x2
+We’ll take it from here.
+
+#### 3805726f11 | BATMAN → CHEMTHUG | x2
+Not a bad angle.
+
+#### 9f0fe1f530 | BATMAN → MONTOYA | x2
+Both targets could’ve been shot from here.
+
+#### e5edaa9208 | BATMAN → GORDON | x2
+Clear vantage point.
+
+#### 444d15569e | BATMAN → CHEMTHUG | x2
+We have a winner.
+
+#### dc8bd96546-LM | CHEMTHUG → BATMAN | x2
+You won’t find them.
+
+#### 41c33be706 | CHEMTHUG → BATMAN | x2
+Long gone.
+
+#### ab24fa3a30 | choice/UI → CHEMTHUG, HILL, SELINA | x18
+[Punch him]
+
+#### c8b41f0357 | choice/UI → CHEMTHUG | x2
+[Slam into wall]
+
+#### c01ff8aaf2 | CHEMTHUG → GORDON | x2
+Please, please. He’ll kill me.
+
+#### d94c7a56fb | CHEMTHUG → GORDON | x2
+Please, don’t. Oh, god, no.
+
+#### c8a079a754 | GORDON → MONTOYA | x2
+Stand down, Montoya.
+
+#### a7a280f918-SM | BATMAN → GORDON | x2
+I got what I needed.
+
+#### d0d1e77a77 | GORDON → BATMAN | x2
+You’re damn right.
+
+#### a8c2474392 | BATMAN → GORDON | x2
+He confessed to everything.
+
+#### 5b9526eb79-SM-LM | GORDON → BATMAN | x2
+It’s how you got it I’m worried about.
+
+#### 35386c62e7 | BATMAN → GORDON | x2
+Falcone was behind this.
+
+#### 400e2291ca | GORDON → BATMAN | x2
+Thought he’d been a little quiet lately.
+
+#### 7736414747 | GORDON → FALCONE | x2
+Falcone, huh?
+
+#### bdbb639534 | BATMAN → GORDON | x4
+What did this?
+
+#### d421bef7b8 | ALFRED → BATMAN | x2
+That bad?
+
+#### 70d153353f | BATMAN → ALFRED | x2
+Face slashed. Throat torn open.
+
+#### 17a618c7ab | ALFRED → BATMAN | x2
+So... not natural causes then.
+
+#### bfda79c929 | BATMAN → ALFRED | x2
+Skyline Club.
+
+#### 56eaea69a4 | BATMAN → ALFRED | x2
+I’ve seen these outfits before.
+
+#### ac9221d49f | BATMAN → ALFRED | x2
+Someone drove off after the explosion.
+
+#### cec9e0466d | BATMAN → ALFRED | x2
+Seems like it arrived in this container.
+
+#### d7992e258e | ALFRED, BRUCE → BATMAN, ALFRED | x4
+Same chemical as the explosion site.
+
+#### 09d3580693 | ALFRED → BATMAN | x2
+Confirmed.
+
+#### 8ee4996b7d | BATMAN, BRUCE → GORDON, ALFRED, BLOCKBUSTER | x28
+Hmm.
+
+#### 706656fae9 | BATMAN → ALFRED | x2
+Looks like a bullet started this.
+
+#### 4032eece1a | ALFRED → BATMAN | x2
+A normal bullet couldn’t have caused that explosion.
+
+#### f58dedf027 | BATMAN → ALFRED | x2
+Doesn’t appear normal--the point of entry’s melted.
+
+#### e0ee348dbc | BATMAN → ALFRED | x2
+Killing time?
+
+#### 4ae2e26e7f | BATMAN → ALFRED | x2
+This is it.
+
+#### 9baee5591e | BATMAN → CHEMTHUG | x2
+Time to wake up.
+
+#### d03f0e9697 | BATMAN → CHEMTHUG | x2
+I think our shooter was here.
+
+#### 176b4a7037 | BATMAN, choice/UI → CHEMTHUG, BOY, OSWALD | x15
+Tell me.
+
+#### 7b255e4d58 | BATMAN → CHEMTHUG | x4
+Don’t make me do this.
+
+#### 3500f2f895 | BATMAN → CHEMTHUG | x2
+Take your last breath.
+
+#### b11f801684-SM | BATMAN → GORDON | x2
+I’m sorry, Gordon.
+
+#### 4342662a6e | BATMAN → ALFRED | x4
+The canister exploded, sending shrapnel right through the container door.
+
+#### 14479c9c1f-SM-LM | ALFRED → BATMAN | x2
+For once, I’m glad you arrived *after* the heist.
+
+#### 044a7e2040 | ALFRED → BATMAN | x2
+Find a connection?
+
+#### 728616ba7b | BATMAN → ALFRED | x2
+The bullet that killed the cop is the same type that blew up the canister.
+
+#### e168f18b04-SM | ALFRED → BATMAN | x2
+I’m sure they didn’t find that at a local gun store.
+
+#### 854c81efe7 | BATMAN → ALFRED | x2
+It appears military.
+
+#### aece4bde49 | ALFRED → BATMAN | x2
+God...
+
+#### 6ef62233e1 | ALFRED → BATMAN | x2
+What would cause someone to do that?
+
+#### 4c4c583f2e | BATMAN → ALFRED | x2
+No connection.
+
+#### 36f1e358dd | BATMAN → ALFRED | x2
+Doesn’t add up.
+
+#### c9b251745f | BATMAN → ALFRED | x2
+Don’t think so.
+
+#### cf3f9a7096 | BATMAN | x2
+Not likely.
+
+#### d95f726df9 | BATMAN → CHEMTHUG | x4
+No. Hmm.
+
+#### 232d7e8bd5 | BATMAN, BRUCE | x4
+Doesn’t connect.
+
+#### 91d11e0995 | BATMAN → ALFRED | x2
+Could be...
+
+#### 7f83918555 | BATMAN → ALFRED | x2
+Never seen a bullet do that.
+
+#### bbf9d9e475-LM | ALFRED → BATMAN | x2
+Have you put it together?
+
+#### 45e2343f98 | BATMAN → ALFRED | x2
+Cops moved in to stop the theft, Falcone’s men gunned them down.
+
+#### f29af9e6f7 | BATMAN → ALFRED | x2
+Dead cops, stolen chemicals...{ThinkingA} he’s making a big move.
+
+#### 9d67eb1fc8 | BATMAN → ALFRED | x2
+Falcone leaving his rose here--{NormalA}This is a message.
+
+#### fedcb6ddd9 | BATMAN → GORDON | x2
+And was put down. Same sniper, same type of bullet.
+
+#### 7223c60d6f | BATMAN → GORDON | x2
+No, but based on two impact trajectories--the canister and the dead cop...
+
+#### 24b3398bb9 | BATMAN → GORDON | x2
+The shooter could only have a clear shot from there, there... or there.
+
+#### d877cf4e22 | GORDON → BATMAN | x2
+Could’ve avoided this.
+
+#### 943ea5ce45-LM | GORDON → BATMAN | x2
+I wish you had waited for us.
+
+#### 67a21b38e5 | GORDON → BATMAN | x2
+I’ll get a task force on it.
+
+#### d9b77420d4 | BATMAN → GORDON | x2
+You already have one.
+
+#### bce0641417 | choice/UI | x7
+Search
+
+#### cf9b77061f | choice/UI → ALFRED, JOKER | x23
+Open
+
+#### 0e524de0b8 | choice/UI → ALFRED | x12
+Analyze
+
+#### d8e2c68d91 | choice/UI | x6
+Grapple to
+
+#### 2621f7bbea | BATMAN | x2
+Let’s have a talk.
+
+#### 66df3c110e | BATMAN | x2
+Time for a chat.
+
+#### 2b0ef9a199 | BATMAN | x2
+White rose.
+
+#### 21a403802d | choice/UI | x2
+Burnt Head
+
+#### e88cd152c7 | choice/UI | x2
+Clawed-Off Face
+
+#### 0bd05d64fd | choice/UI → HARVEY | x4
+Pocket
+
+#### f69a87119a | choice/UI | x2
+Shipping Container Door
+
+#### 93db152075 | choice/UI | x2
+Chemical Trace
+
+#### 55750a11d5 | choice/UI | x2
+Pallets
+
+#### df94dcb1b3 | choice/UI | x2
+Chemical burns covering the ground.
+
+#### 96ad7e5291 | choice/UI | x2
+Blast Epicenter
+
+#### 5b9a3173e2 | choice/UI | x2
+Ground zero of the chemical explosion.
+
+#### e3474874f7 | choice/UI | x2
+Military-grade bullet designed to superheat upon impact.
+
+#### 379481b029 | choice/UI | x6
+Stairs
+
+#### 1bf5eaa62f | choice/UI | x2
+Shelf
+
+#### 203bc66d70 | choice/UI | x2
+Face
+
+#### ba5b4c9dfb | choice/UI | x4
+Ribs
+
+#### 5f5af01a4d | choice/UI | x2
+Barrels [Intimidate]
+
+#### 7208816ba4 | choice/UI | x2
+Bullet Casing
+
+#### 14ee469cf8 | BATMAN | x2
+This man’s been badly burned, but... the damage seems to originate from inside his skull.
+
+#### 1f17bbbd86 | BATMAN | x2
+Something was here when the explosion occurred.
+
+#### d389220fab | BATMAN → CHEMTHUG | x2
+This is the right spot... so where did he go?
+
+#### 8a63652ef1 | BATMAN → CHEMTHUG | x2
+Trace stops here.
+
+#### 097564f9f0 | CHEMTHUG → CATWOMAN | x2
+That... Catwoman... was supposed to hand over a drive, had the container number we needed, but she flaked.
+
+#### 07f5454f11 | BATMAN → CHEMTHUG | x6
+What are the chemicals for?!
+
+#### 03d9c294b0 | BATMAN → CHEMTHUG | x6
+Used where?!
+
+#### 4e7a2962e6 | CHEMTHUG → BATMAN | x2
+I ain’t scared of you, man!
+
+#### 0589e2d35e | CHEMTHUG → BATMAN | x2
+If youre gonna hit me, hit me!
+
+#### 495ed67dc7 | BATMAN → CHEMTHUG | x2
+No trace of phosphorus though.
+
+#### 56cd8548d3 | BATMAN → CHEMTHUG | x2
+But no phosphorus trace.
+
+#### a4ad983303 | BATMAN → CHEMTHUG | x2
+Phosphorus spike.
+
+#### 33d7d99039 | BATMAN → CHEMTHUG | x2
+Whatever exploded... did so with enough force to obliterate the person standing next to it.
+
+#### bf446d7733 | BATMAN → CHEMTHUG | x2
+A cop ripped up a merc’s face with his bare hands.
+
+#### 9402e4f592 | CHEMTHUG → BATMAN | x2
+Rather chance them than talk to a clown like you.
+
+#### 518b9f9b19 | CHEMTHUG → BATMAN | x2
+You tryin’ to scare a confession outta me?
+
+#### ff213eeb56-SM | CHEMTHUG → BATMAN | x2
+I won’t break.
+
+#### 414011be72 | BATMAN → CHEMTHUG | x2
+Your bones will.
+
+#### 30056643c2 | CHEMTHUG → BATMAN | x2
+It’s true what they said about you.
+
+#### 6001935e94 | CHEMTHUG → BATMAN | x2
+But I ain’t afraid of you.
+
+#### 37ba56548a | CHEMTHUG → BATMAN | x2
+Some kinda chemicals.
+
+#### f13970f3ea | BATMAN → CHEMTHUG | x2
+Why risk open war with the GCPD?
+
+#### 5cc9f5c039 | BATMAN → CHEMTHUG | x6
+And keep breaking until you answer.
+
+#### 2e5cc4769a | BATMAN → CHEMTHUG | x6
+I start here.
+
+#### a9a86f4db4 | CHEMTHUG → BATMAN | x6
+The chemicals... [Cut-  MD] they’re some kinda explosive.
+
+#### 699df27ff6 | CHEMTHUG → BATMAN | x6
+Falcone said he’d use ‘em soon.
+
+#### b6db30d09b | CHEMTHUG → BATMAN | x6
+That’s all I know.
+
+#### fd9c044159 | CHEMTHUG → BATMAN | x2
+The Bat-man.
+
+#### 381f207ecc | BATMAN → CHEMTHUG | x2
+A cop shredded this merc to pieces. Bare handed.
+
+#### 37d0aa8f07 | CHEMTHUG → BATMAN | x2
+There isn’t any more.
+
+#### be0362f6d9 | CHEMTHUG → BATMAN | x2
+Call in cops, call in the judge.
+
+#### e659c66547-SM | CHEMTHUG → BATMAN | x4
+I told you everything I know.
+
+#### b4878058ab | CHEMTHUG → BATMAN | x2
+Everything!
+
+#### bccb251bc0-LM | CHEMTHUG → BATMAN | x2
+You got everything.
+
+#### 7f97f10033 | CHEMTHUG → BATMAN | x2
+I’m through with you.
+
+#### 2a3eac9f9f | BATMAN → CHEMTHUG | x2
+You’ll never hold a gun steady again.
+
+#### c761e90f76 | BATMAN → ALFRED | x2
+Found him.
+
+#### b88a9a763c | BATMAN → CHEMTHUG, ENFORCERCOLLEEN, ENFORCERLUKE | x8
+Time to go to work.
+
+#### d4ea0aa189 | BATMAN → ALFRED | x2
+No proof.
+
+#### 01fef2da4b | choice/UI | x2
+Bloody remnants of an obliterated human body.
+
+#### 2f0c8c58f3 | choice/UI | x2
+Face torn apart and throat ripped open.
+
+#### 272219d2df | choice/UI | x2
+Hands soiled with blood and bits of torn flesh.
+
+#### aabb6ef85d | choice/UI | x2
+Rubber tread marks from a large vehicle.
+
+#### 6e0fb1c809 | choice/UI | x2
+Scrap of metal with a melted hole in the middle.
+
+#### 5dca243fdb | choice/UI → ALFRED | x2
+Area devoid of explosion scorch marks indicates something was here when the blast occured.
+
+#### f7740a991e | BATMAN → ALFRED | x2
+Alfred.{ThinkingA} I’m at the warehouse.{SurpriseA} No sign of Catwoman’s contact.
+
+#### 8eb8c05abb | BATMAN → ALFRED | x2
+It’s quiet.
+
+#### 7c072e4093 | ALFRED → BATMAN | x2
+The sound of an ambush.
+
+#### 753c75aa6b | ALFRED → BATMAN | x2
+Stay on guard.
+
+#### a6305a014f | BATMAN → ALFRED | x2
+This wasn’t a handoff--it{ThinkingA} was a massacre.
+
+#### e68f86d2a1 | BRUCE, BATMAN → JOKER, ALFRED | x8
+My turn.
+
+#### 2b5908d080 | BATMAN → SELINA, ALFRED | x6
+I’d have to count the pieces.
+
+#### 60ece22d84 | ALFRED → BATMAN | x2
+Good lord.
+
+#### c4f1fe328e | ALFRED → BATMAN | x2
+Who could’ve done such a thing?
+
+#### a6a2fd45ed | VICKI, ALFRED → REPORTER01, REPORTER02, BATMAN | x28
+How many?
+
+#### b7a396d038 | BATMAN → ALFRED | x2
+Falcone! Why did he do this?
+
+#### 55691b9de7 | BATMAN → ALFRED | x2
+Don’t make me add your corpse to this graveyard.
+
+#### 250e1c9cde | BATMAN → ALFRED | x2
+The police won’t offer the same. Not to a copkiller!
+
+#### 29821caf5a | BATMAN | x2
+Talk and I spare you an ambulance ride.
+
+#### 3a027889bf | BATMAN | x2
+Whatever it takes to make you talk.
+
+#### c3bac041bb | BATMAN → ALFRED | x4
+That’s what I’m going to find out.
+
+#### 8cebe3edf4 | BATMAN → CHEMTHUG | x2
+You know, you can bleed to death without ever spilling a drop.
+
+#### 30b1b56752 | BATMAN → CHEMTHUG | x2
+All on the inside.
+
+#### 5481f15337 | BATMAN → MONTOYA | x2
+Tell me the plan... or I start swinging.
+
+#### 0c8eee38dd | CHEMTHUG → BATMAN | x6
+We were paid to steal ‘em, not ask questions.
+
+#### 47218067fa | MONTOYA → BATMAN | x2
+Send a clean up unit to the docks, warehouse one-three-three.
+
+#### e7ced66afe | MONTOYA → BATMAN | x2
+It’s Montoya.
+
+#### b89c84e95e-SF | MONTOYA → GORDON | x2
+Think I need to call the coroner instead...
+
+#### 25e6d01549 | GORDON → MONTOYA | x2
+Get an ambulance in here!
+
+#### 82f6345116-LM | MONTOYA → GORDON | x2
+Everyone you got.
+
+#### c09fc59cb2 | GORDON → MONTOYA | x2
+Jesus Christ...
+
+#### 7b0a70d98d | GORDON, ALFRED → MONTOYA, ALFRED, VICKI | x10
+Batman...
+
+#### 0d403d9dda | MONTOYA → GORDON | x2
+The hell is going on tonight, Lieutenant?
+
+#### badf819111-SF | MONTOYA → GORDON | x2
+I was wrong... gonna need that ambulance too.
+
+#### 8b5c23bd78 | BATMAN → MONTOYA | x2
+This may have been a distraction, or a way of destroying evidence.
+
+#### b5a2cf5fb9 | ALFRED → BATMAN | x2
+Well, it appears to have made a pretty big boom.
+
+#### 388613f469 | BATMAN → MONTOYA | x2
+But the chemicals themselves were inert, non-explosive.
+
+#### 8fd89f5c1c | BATMAN → ALFRED | x2
+One of his snipers hit a canister with an incendiary bullet, causing it to superheat and explode.
+
+#### 5b9dd6aeb0 | BATMAN → ALFRED | x2
+And would have contaminated himself with a phosphorus residue.
+
+#### c53c562dab | BRUCE, BATMAN, LUCIUS, choice/UI → REPORTER04, LUCIUS, PENGUIN | x41
+Yes.
+
+#### 6c264647a4 | ALFRED, ASSISTANT, choice/UI → BATMAN, HARVEY | x6
+Right away, sir.
+
+#### d6268708da | BATMAN → MONTOYA | x2
+Program the skimmers to pick up that signature.
+
+#### 9395db324a | MONTOYA, HARVEY → BATMAN | x4
+Oh god...
+
+#### 61aa13b55d-LF | GORDON → MONTOYA | x2
+What did you do to him?
+
+#### 01b84e253f | MONTOYA → GORDON | x2
+Now put up your hands! Don’t move!
+
+#### 714bed501f | MONTOYA → GORDON | x2
+We’re bringing you in, you son of a bitch.
+
+#### 769b4fee77 | GORDON → MONTOYA | x2
+I’d never do something like this.
+
+#### 738802c558 | GORDON → MONTOYA | x2
+You wanna tell me what the hell this is all about?
+
+#### be5962d940 | BATMAN → GORDON | x2
+Phosphorus residue.
+
+#### 159b8fd16e | BATMAN → GORDON | x2
+This could have superheated the contents of the canister.
+
+#### 43d1f7ac0f | ALFRED → BATMAN | x2
+Causing the aforementioned boom.
+
+#### 88313af826 | BATMAN → ALFRED | x2
+Sensors say it’s an incendiary round.
+
+#### d202ab0936-LM | ALFRED → BATMAN | x2
+Have you located the shooter?
+
+#### 4060e23043 | BATMAN → ALFRED | x2
+Have the computer catalogue the compound for further analysis.
+
+#### dafe43aa17 | ALFRED → SELINA, BATMAN | x8
+As you wish.
+
+#### 7b33fe1a16 | ALFRED → BATMAN | x2
+Be very very careful with that. Who knows what effects it may have.
+
+#### 685762d389 | BATMAN → ALFRED | x2
+Analyzing.
+
+#### e0667a1c26 | BATMAN → ALFRED | x2
+Nothing left to bury.
+
+#### 2065fa1b08 | BATMAN → ALFRED, BRUCE | x4
+Falcone’s calling card.
+
+#### 1db50217ff | ALFRED → BATMAN | x2
+He’s been busy as of late.
+
+#### 3b2ceb81a8 | BATMAN → ALFRED | x2
+Same mercs that broke into City Hall.
+
+#### d735486c9e | ALFRED → BATMAN | x2
+Perhaps it arrived in the container.
+
+#### 78f1de3476 | ALFRED → BATMAN | x2
+Then he should be nearby.
+
+#### b865aa4b28 | BATMAN → GORDON | x2
+Gordon. Eastside Docks, Warehouse 133.
+
+#### d7c4460f74 | GORDON → ALFRED | x2
+These’re cops!
+
+#### 11e6fafc3e | choice/UI → ALFRED | x2
+Container Hole
+
+#### 2644c1ed8e-SM-LM | ALFRED → BATMAN | x2
+For once, I’m glad you arrived after the heist.
+
+#### 274b9ee55f | ALFRED → BATMAN | x2
+Your armor would not have protected you against that.
+
+#### 9296df83bd | CHEMTHUG → BATMAN | x2
+I ain’t telling you nothin’!
+
+#### 896771ac9d | CHEMTHUG → BATMAN | x6
+I swear. I swear!
+
+#### a33936c234 | BATMAN → ALFRED | x2
+Send the Drones hunting.
+
+#### 45bf312858 | BATMAN → CHEMTHUG | x2
+I want to know his every move.
+
+#### 9eb456d667 | ALFRED → BATMAN | x2
+Good thinking, sir.
+
+#### ffe8a4be58 | BATMAN | x2
+You really wanna test me?
+
+#### de5b9c873d | BATMAN | x2
+I don’t do second chances.
+
+#### d326e6e20c | BATMAN | x2
+Don’t... fuck with me.
+
+#### f7b719f04a | BATMAN → CHEMTHUG | x2
+Talk!
+
+#### 71e9755906 | BATMAN → CHEMTHUG | x2
+I’ll see what I can piece back together.
+
+#### 717ae653f0-SM | BATMAN → CHEMTHUG | x2
+The scrap of metal is from the exploded canister, but I need to know what caused the explosion.
+
+#### 8c7f1b0722 | CHEMTHUG → BATMAN | x2
+So we had to find it ourselves.
+
+#### 6d655f1fc3 | CHEMTHUG → BATMAN | x2
+Falcone wanted ‘em.
+
+#### 06b8e57caa | CHEMTHUG → BATMAN | x2
+You’re a friggin’ animal.
+
+#### 4caf70d273 | CHEMTHUG → MONTOYA | x2
+Someone must’ve heard us, called the cops...
+
+#### a0c444be26 | CHEMTHUG → MONTOYA | x2
+Container by container.
+
+#### e7025cdcd7 | MONTOYA → CHEMTHUG | x2
+Freeze! Don’t move!
+
+#### c812b3785c | OSWALD, CHEMTHUG, BRUCE, GORDON → BATMAN, REGINA, CHEMTHUG | x35
+Hey!
+
+#### 4daf0d4bb5 | CHEMTHUG → MONTOYA | x2
+We were told no witnessses.
+
+#### 29f8480d64 | CHEMTHUG → BATMAN | x6
+A weapon, I dunno.
+
+#### d9eb85b26e | choice/UI → MONTOYA | x2
+Smash
+
+#### ea490aaa62 | choice/UI → CHEMTHUG | x3
+Hit
+
+#### 7c9d6bf311 | choice/UI → CHEMTHUG | x7
+Break
+
+#### e5748f5738 | choice/UI → CHEMTHUG | x2
+Arm
+
+#### da2f3fd9e6 | BATMAN → CHEMTHUG | x2
+With some sort of... phosphorus residue.
+
+#### 0e3b46fe67 | BATMAN → CHEMTHUG | x2
+Looks like Falcone’s men got what they wanted and escaped.
+
+#### f6d41756ff | BATMAN → CHEMTHUG | x2
+It’s a cop.
+
+#### b00c2057d0 | BATMAN → CHEMTHUG | x2
+The force grows thinner every day.
+
+#### f26928f1f3-LM | CHEMTHUG → BATMAN | x2
+You’re supposed to be a good guy.
+
+#### cc92e3dc33 | choice/UI → CHEMTHUG | x2
+Apply Pressure
+
+#### bb9b76f571 | BATMAN → CHEMTHUG | x2
+Gordon. Pay a visit to the docks. Warehouse 133.
+
+#### db4b5b7b5b | BATMAN → CHEMTHUG | x2
+Then... things turned grim.
+
+#### a0fd1af02f | BATMAN → CHEMTHUG | x2
+It’s a volatile chemical. Potential psycho-active nerve agent.
+
+#### c9c7e452b9 | BATMAN → CHEMTHUG | x2
+Vile stuff.
+
+#### 123e6d485e | BATMAN → CHEMTHUG | x2
+Possibly due to the psycho-active nerve agent...
+
+#### 3e2e323373 | BATMAN | x2
+We need to act before he releases it.
+
+#### 94c0464d0a | BATMAN | x2
+Falcone stole a shipment of chemicals -- appears to be a weaponized nerve agent.
+
+#### c1b311382a | BATMAN | x2
+Causes people to go berserk. Turn violent.
+
+#### 7721332f22 | BATMAN | x2
+Canisters were stored here.
+
+#### 687f3da156 | BATMAN | x2
+Canisters of what?
+
+#### 9ce24a880e | BATMAN | x2
+The nerve agent. Could make them psychotic.
+
+#### 36d8fc4a2f | BATMAN | x2
+Blood. Broken nails. Bits of human flesh.
+
+#### 96b5196200 | choice/UI | x2
+Broke Arm
+
+#### 1d2e6504cb | choice/UI | x2
+Beat Up
+
+#### 8e1e6b9d29 | choice/UI | x2
+Cigarette
+
+#### 82c18954cb | choice/UI | x2
+^font:GameplayDisplayLarge^Thug
+^^Apply Pressure
+
+#### 3f94a89dd2 | choice/UI | x2
+^font:GameplayDisplayLarge^Thug
+^^Break Arm
+
+#### c75f6304b3 | choice/UI | x2
+Catwalk
+

@@ -1,0 +1,68 @@
+﻿#### f70454c334 | choice/UI | x2
+Visit PlayStation™Store
+
+#### 2c686f4d05 | choice/UI | x1
+Build Version: {BUILD_VERSION}
+Telltale Engine Version: {ENGINE_VERSION}
+
+Software code © 2016-2019 LCG Entertainment, Inc. All other elements © DC (s16). DC LOGO, BATMAN and all related characters and elements © & ™ DC (s16).
+
+#### 2d9fda6912 | choice/UI | x1
+Join The Conversation!
+
+#### 2f4fc28e5c | choice/UI | x1
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.8^Join The Conversation!
+^^
+Don’t miss a moment! Get the latest in news, rumors, and community events on Telltale’s forums. Learn more at ^color:#7ab1cc^Telltale.com/community^^
+
+#### 923bfa16f4 | choice/UI | x1
+<ui_legend_faceButtonRight.d3dtx:-6> Select       <ui_legend_faceButtonDown.d3dtx:-6> Cancel
+
+#### 8ba603a05a | choice/UI | x1
+Play Shadows Edition
+
+#### 90b835219a | choice/UI | x1
+Play Classic Edition
+
+#### 63cdb34143 | choice/UI | x1
+Are you sure you want to stop the download?
+
+#### 988228e933 | choice/UI | x1
+Switch to Shadows Edition and restart the main menu?
+
+#### 6839bac618 | choice/UI | x1
+Shadows Edition is ready to download.
+Would you like to download it now?
+
+#### 93e872ca93 | choice/UI | x1
+^font:MenuDisplayMedium^^glyphScale:0.75^Batman: Shadows Mode^^ brings a captivating new look to the storied Telltale Batman games. Enhanced with remastered textures, replay your favorite Telltale Batman episodes and experience the twisted world of the Dark Knight in a sinister new way.
+
+#### 26822e67ed | choice/UI | x1
+Buy Shadows Mode
+
+#### 7da9755756 | choice/UI | x1
+Switch to Classic Edition and restart the main menu?
+
+#### d12aea4749 | choice/UI | x1
+Shadows Edition was partially downloaded.
+Choose to Resume Download or to Delete the partial download.
+
+#### 5d9c5257fe | choice/UI | x1
+Resume Download
+
+#### 61fd08ff5c | choice/UI | x1
+Sign Out
+
+#### 832e1af0b6 | choice/UI | x1
+You have been signed out.  Reconnect with us again soon!
+
+#### 5b0f2ac830 | choice/UI | x1
+Telltale Account Sign Out
+
+#### 0ec140244a | choice/UI | x1
+^font:MenuBodyLarge.font^^color:#7ab1cc^^glyphScale:0.8^Visit Telltale Online!
+^^Please visit us online at ^color:#7ab1cc^Telltale.com^^.
+
+#### 75b0d22a86 | choice/UI | x1
+Visit Telltale Online!
+

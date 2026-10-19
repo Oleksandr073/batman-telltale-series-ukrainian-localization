@@ -1,0 +1,2353 @@
+﻿#### 67a7de34db | choice/UI | x4
+Get out, Bob.
+
+#### 1c646e011d | choice/UI | x4
+Hill’s a scumbag.
+
+#### 60f3031a77 | choice/UI | x4
+Sorry, Bob.
+
+#### 19ccc2ca0f | choice/UI, BRUCE, HARVEY, BATMAN → HILL, LUCIUS, BRUCE | x30
+We need to talk.
+
+#### e4d62836a0-L? | choice/UI | x4
+You won’t like what I’m going to say.
+
+#### 64a18f2d49-SM | choice/UI | x4
+No, I got this.
+
+#### 6464c92b2e | choice/UI → ASSISTANT | x8
+Just stay out of my way.
+
+#### 6bf9b172fe | choice/UI | x4
+Yes, tell him I’m coming in.
+
+#### ef67d9ab3b | choice/UI | x4
+Don’t play innocent with me.
+
+#### 9eccf94636 | choice/UI | x4
+I’m here to see Hill.
+
+#### d9ae4307b9 | choice/UI | x4
+I have an appointment.
+
+#### a5abca24fd | choice/UI | x4
+I just want to talk
+
+#### e2e940c520 | choice/UI | x4
+The lies end here!
+
+#### 739163cb18 | choice/UI | x4
+Alarming facts have come to my attention.
+
+#### 39550cff44 | choice/UI | x4
+My father was a physician.
+
+#### 25341cc9e4 | choice/UI | x4
+I’m not my dad.
+
+#### 19ee60a99d | choice/UI | x4
+Why tell me now?
+
+#### 9b2df4cbc6 | choice/UI | x8
+You’re deflecting.
+
+#### ea08c94244-SM | choice/UI | x8
+I’ve heard of them.
+
+#### b21ab3d159 | choice/UI | x8
+They’re no threat.
+
+#### e29869dc1c | choice/UI → JOKER | x6
+Never.
+
+#### 062ed7cde2 | choice/UI | x4
+You’re going down.
+
+#### b9c9cbcd17 | choice/UI | x4
+Harvey will make things right.
+
+#### 7f48732dba | choice/UI | x8
+I’ll back you.
+
+#### d864e54163 | choice/UI → HILL | x12
+You’re a scumbag.
+
+#### b8b9f1367a | BRUCE, BATMAN, choice/UI, ALFRED → HARVEY, VICKI, BATMAN | x122
+No.
+
+#### 461643ed6d | choice/UI | x4
+Batman will
+
+#### 637d2699e0 | choice/UI | x8
+What do you propose.
+
+#### 757648ef8f | choice/UI → HILL | x12
+Good isn’t in your vocabulary.
+
+#### 5c3725a36a | choice/UI | x8
+How can I trust you.
+
+#### 6a658f26c1 | choice/UI | x8
+If the drug is good then why secrecy.
+
+#### fde5d8c264 | choice/UI → HILL | x12
+The drug makes people insane.
+
+#### b16a319cb2 | choice/UI | x4
+What proof do you have.
+
+#### 602d41a295 | choice/UI | x8
+You’re smuggling drugs
+
+#### 6a63c6d3b0 | choice/UI | x8
+You’re meddling with my business.
+
+#### 3894e0a17e | choice/UI | x4
+Falcone is dead.
+
+#### 95a8f689da | choice/UI → HILL | x8
+Leave my family out of this.
+
+#### 368ddc0a01 | choice/UI | x4
+Blood spilled won’t wash clean.
+
+#### ba479dcdc0 | choice/UI → HILL | x8
+Stop dosing Arkham.
+
+#### 20958701b8 | choice/UI | x4
+The corruption must end.
+
+#### 974726b3c6-L? | choice/UI | x4
+You killed him.
+
+#### ceec7464e8 | choice/UI | x4
+Falcone killed him.
+
+#### e853b37a30 | choice/UI → HILL | x8
+Your scheme killed him.
+
+#### 62c4542671 | choice/UI | x4
+You’re corrupt!
+
+#### 6f05a9c368 | choice/UI | x4
+You’re a liar!
+
+#### abe3cf3189-L? | choice/UI | x4
+Falcone’s dead. You’re scared.
+
+#### 2d16b5d36d | choice/UI | x4
+You represent everything bad!
+
+#### 8ccebf95da | choice/UI | x4
+Vicki Vale.
+
+#### 55c16c307d | choice/UI | x4
+James Gordon.
+
+#### 614cc8bbac | choice/UI | x4
+The Batman.
+
+#### 74ea6b6dfc | choice/UI → ASSISTANT | x4
+You’re a back-stabber!
+
+#### 32b16aa5af | choice/UI → ASSISTANT | x4
+You’re two-faced!
+
+#### c4dc4037e7-S? | ASSISTANT → BRUCE, ALFRED | x6
+I’m sorry, the mayor’s busy. Do you have an appointment?
+
+#### 42bc0b2a1b | choice/UI → ASSISTANT | x4
+Don’t need an appointment.
+
+#### ebf31494df | choice/UI → ASSISTANT | x4
+Better tell him I’m coming.
+
+#### 3b7da7db44 | ASSISTANT → BRUCE | x4
+The mayor’s in a meeting.
+
+#### 06bfed9425 | ASSISTANT → BRUCE | x8
+He really can’t be disturbed right now.
+
+#### 62470a627c | ASSISTANT → BRUCE | x8
+Excuse me, Mr. Wayne?
+
+#### bdd9ef8d44 | BRUCE → ASSISTANT | x4
+I don’t need to make an appointment.
+
+#### f3860a0cd0 | BRUCE → ASSISTANT | x4
+The mayor’s gonna see me.
+
+#### 1cf86b2817 | BRUCE → ASSISTANT | x6
+Nope. So you better tell him I’m coming.
+
+#### 070e1f6f41 | VICKI, ASSISTANT → BRUCE | x13
+Mr. Wayne...
+
+#### cf34c94227 | BRUCE → ASSISTANT | x6
+Not doing that either.
+
+#### 4b7df30c37 | ASSISTANT → BRUCE | x6
+I will if you’ll wait-
+
+#### 471595d5e7 | BATMAN, BRUCE, choice/UI → ASSISTANT, GORDON, MONTOYA | x12
+Stay out of my way.
+
+#### 40e9ec0459 | ASSISTANT → BRUCE, HILL | x8
+I’m calling security!
+
+#### 8dadc7f1e5 | HILL → ASSISTANT | x4
+Bruce Wayne! What a surprise!
+
+#### d46fe5a856 | HILL → ASSISTANT | x4
+...That doesn’t leave this room.  Understand-[interrupted]
+
+#### 486e139606 | choice/UI → HILL | x4
+You can’t hide from me!
+
+#### cacc6e27cf | choice/UI, BRUCE → HILL | x8
+Forget appointments.
+
+#### 6657e290e5 | HILL → ASSISTANT | x4
+It’s not hard.
+
+#### 384c6c985b | HILL → BRUCE | x4
+Just pick up the phone.
+
+#### 192fbec222 | BRUCE → HILL | x4
+We need to talk, Hill.
+
+#### 7a4c530bfa | HILL → BRUCE | x4
+As you can see, I’m in the middle of a meeting.
+
+#### 433eb53c89 | HILL → BRUCE | x4
+If you want to wait...
+
+#### c6b0c42c12 | BRUCE → HILL | x4
+No, we talk now.
+
+#### fb87cc9ba3 | BRUCE → HILL | x4
+Don’t play innocent with me. It’s not going to work.
+
+#### 538bd8de74-SM | HILL → BRUCE | x12
+Bruce, I’m not sure what you’re talking about.
+
+#### dde13b5f1a-S? | ASSISTANT → HILL | x4
+I tried to stop him...
+
+#### 12670cae5a | HILL, choice/UI → BRUCE, GORDON | x6
+Call them off.
+
+#### 7857275908 | HILL → ASSISTANT | x4
+Officer Marsh here was just briefing me on Carmine Falcone’s murder.
+
+#### b709281808 | BOB → HILL | x4
+But... our meeting...
+
+#### 3aacf2a437 | HILL → BOB | x4
+Reschedule.
+
+#### d5a9121ab6 | choice/UI → HILL | x4
+Forgive me, officer.
+
+#### 95d6dfc931 | choice/UI → HILL | x4
+The mayor knows a lot about murder.
+
+#### df4eac3552 | choice/UI → BOB | x4
+Get out, officer.
+
+#### 741f2e979a | HILL → BOB | x4
+Or call me later. You know my number.
+
+#### f0c2fa389e | BOB → HILL | x12
+I’ll be in touch after the debate.
+
+#### 61bc1b4a28 | BRUCE → BOB | x4
+Forgive me, officer. But this really can’t wait.
+
+#### f54af88091 | BOB → BRUCE | x4
+I...we... all right...
+
+#### b179ca4ad0 | BOB → BRUCE | x4
+Right now, you’re the only one in this room acting unpleasant.
+
+#### e8a6443e56-SM | BOB → BRUCE | x4
+But I won’t argue.
+
+#### d7cdc5a98a | BRUCE → BOB | x4
+Your meeting is with a scumbag, Bob. Hate to break it to you.
+
+#### 97fbf1ed33 | BOB → BRUCE | x4
+Your father would never have behaved this way.
+
+#### 3961624fc3 | BRUCE → BOB | x4
+First time for everything.
+
+#### caac091a89 | BRUCE → BOB | x4
+This is more important, officer. Get out.
+
+#### f1ebf3f682 | BOB → BRUCE | x4
+I’ve never been treated this way.
+
+#### dfec26bb25-LM | BOB → HILL | x4
+You won’t always get everything you want.
+
+#### cff0a1005c | BOB → HILL | x4
+Take a deep breath.
+
+#### 891978f09d | BOB → HILL | x4
+You seem... not well.
+
+#### 3288614c92 | choice/UI → BOB | x4
+The problem is yours!
+
+#### e1f6936f60 | choice/UI, BRUCE → BOB, HARVEY, RUCE | x10
+You’re a murderer!
+
+#### 5caa4445b7 | choice/UI → HILL | x4
+Lose the smile!
+
+#### 39727e881b | HILL → BRUCE | x4
+All right, Bruce. Let’s talk. You’re here because of Falcone’s murder, aren’t you.
+
+#### 95518fde20 | HILL → BOB | x4
+Usually I like a little chit-chat first.
+
+#### bfc9485880 | HILL → BRUCE | x4
+But time is short.
+
+#### ae3841706e | BRUCE → HILL | x4
+No, Hill. This problem is all yours.
+
+#### 841c2d0e05 | BRUCE → HILL | x4
+You and Falcone have been smuggling dangerous drugs into the city.
+
+#### 4cdbf792be-LM | BRUCE → HILL | x4
+And you used my company as a cover.
+
+#### d8403a2f51 | BRUCE | x4
+I know you and Falcone are smuggling dangerous drugs into the city.
+
+#### 666148dd8b | BRUCE | x4
+Don’t you dare lie to me.
+
+#### 4cdbf792be-L? | BRUCE | x4
+And you used my company as a cover.
+
+#### 4f9022c1e6-LM | BRUCE → HILL | x4
+And I know you used my company as a cover.
+
+#### b1c448fb54 | BRUCE → HILL | x4
+There is no “You and I,“ Hill.
+
+#### c4b6ca130d | BRUCE → HILL | x4
+But there is a “You and Falcone.“ I know about your drug smuggling.
+
+#### 7f125e3e09-SM | HILL → BRUCE | x4
+What? I had nothing to do with that!
+
+#### 881722dc88 | HILL → BRUCE | x4
+Your facts are off, Bruce. And that’s no lie.
+
+#### be816af1d3 | HILL → BRUCE | x4
+Actually, Bruce. It’s all three of us. Friendly or not.
+
+#### 46f8567e41 | HILL | x4
+I can’t do anything until I know who’s got you this riled up?
+
+#### 198438729b | choice/UI → HILL | x12
+Carmine Falcone
+
+#### eced53f470 | choice/UI → HILL | x4
+The Batman
+
+#### 67f68a16f5 | HILL | x4
+You must be talking to somebody.
+
+#### 47b69f97ad | HILL → BRUCE | x4
+You don’t strike me as the paranoid type.
+
+#### 525b8e85d7-LM | HILL → BRUCE | x4
+Can’t imagine you just woke up today and decided to confront me.
+
+#### 13708ef60c | HILL → BRUCE | x4
+That paper is half right, half the time. You should know better.
+
+#### d81ed11bda | BRUCE → HILL | x4
+It was Vicki Vale.
+
+#### d898ae520c | HILL → BRUCE | x4
+From the Gazette? Come on, Bruce...
+
+#### 926410bbcf | BRUCE → HILL | x4
+It was Jim Gordon. GCPD.
+
+#### 7d23bfda03 | HILL → GORDON | x4
+Gordon... Gordon... Not sure I know him.
+
+#### 8baa631c48-SM | HILL → BRUCE | x4
+But I’m sure gonna look him up now.
+
+#### 2269aa1942-SM | BRUCE → HILL | x4
+I got a visit from the Batman.
+
+#### 55a87ee79d-SM | HILL → BRUCE | x4
+Oh dear. Well I’m not sure what to tell you.
+
+#### 6cbcd2ac19 | HILL → BRUCE | x4
+If you’re believing information from a dangerous vigilante.
+
+#### aeeb3cb915 | HILL → BRUCE | x4
+You Waynes have always been good with your secrets.
+
+#### 3424e2a43e | HILL | x4
+Scarier problems.
+
+#### 34a5da2afa | HILL | x4
+Look, I know you want to throw me out of this office.
+
+#### 88baf84314 | HILL → BRUCE | x4
+Right now, we’ve got scarier problems than you realize.
+
+#### c203f01e3c | choice/UI → HILL | x4
+Jail time is scary.
+
+#### abe3cf3189-LM | choice/UI → HILL | x4
+Falcone’s dead. You’re scared.
+
+#### d67a92f743 | choice/UI → HILL | x4
+You’re trying to change the subject.
+
+#### b33e3765ba | choice/UI → HILL | x4
+You seem to know a lot about them.
+
+#### 71591d3426 | choice/UI, BRUCE → HILL | x8
+I know one of them.
+
+#### 923002abe5 | choice/UI → HILL, HARVEY | x6
+I can handle them.
+
+#### 12705cbb56 | HILL → BRUCE | x4
+Wayne Enterprises is all over the shipping manifest. If I go down, you do, too.
+
+#### dea5e04a47 | HILL → BRUCE | x8
+But that’s not the real issue.
+
+#### 1a53081a0c | BRUCE → HILL | x4
+You’ve been caught smuggling drugs into Gotham. The end of your administration must scare you to death.
+
+#### 6dc38ace25 | HILL → BRUCE | x4
+Yeah, that makes me nervous. But you should be nervous, too.
+
+#### fd9d340027-LM | BRUCE → HILL | x4
+Your business parter Falcone is dead. And you’re afraid you’ll be next.
+
+#### 593a3cabc7 | HILL → BRUCE | x4
+You’re in as much danger as I am.
+
+#### 9088cfbb1b-SM | HILL → BRUCE | x4
+It’s a little late for that, Bruce.  I’ve got connections there older than you are.
+
+#### ac048cd0ab-LM | BRUCE → HILL | x4
+I don’t know why you decided to mess with me or my company. But I’m going to put a stop to it.
+
+#### 6f6e397a46 | HILL → BRUCE | x4
+I don’t imagine much scares you. But this will.
+
+#### 8952223f17 | HILL → BRUCE | x4
+And I usually sleep like a baby.
+
+#### 133c4d6b57 | HILL | x4
+This stuff’s been keeping me up at night.
+
+#### 9f5b30e9c3 | HILL | x4
+Kind of a fancy name for what’s basically a  bunch of terrorists.
+
+#### 9683b6800b | HILL → BRUCE | x4
+They broke into my office. They pulled off that drug heist at the docks. They murdered Falcone.
+
+#### 4069325017 | HILL → BRUCE | x4
+And as you may have guessed, they’re probably coming after us next.
+
+#### 690644c4a1 | HILL → BRUCE | x8
+Stop being so naive!
+
+#### b3d237d7e8 | BRUCE → HILL | x4
+You’re trying to deflect my anger.
+
+#### f2afe30e1e | HILL → BRUCE | x4
+It’s a weapon.
+
+#### 94d6faae29 | HILL → BRUCE | x4
+But what these people stole isn’t some recreational drug.
+
+#### e901ac0999 | HILL → BRUCE | x4
+Throw whatever mud you want at me. I can take it.
+
+#### d616a4ffd2 | HILL → BRUCE | x4
+Because I doubt the cops will be able to do it.
+
+#### 2dd5cfd655 | choice/UI → HILL | x4
+If the drug is good, then why the secrecy
+
+#### 33eb3f80ba | HILL → BRUCE | x4
+No, Bruce. They’re *our* enemies. You’re just as in danger as I am.
+
+#### c0169bf8ce-SM-LM | BRUCE → HILL | x4
+I keep hearing about them. I’m not surprised you’ve made enemies like this.
+
+#### 924700a8ca | HILL → BRUCE | x4
+And now they control a drug more deadly than guns and bombs.
+
+#### c23ab58031 | HILL → BRUCE | x4
+They want to bury us like Falcone.
+
+#### 051909b925-LM | BRUCE → HILL | x4
+Seems like you made some powerful enemies. But they’re no threat to me.
+
+#### e9656429c1 | HILL → BRUCE | x4
+They have good reasons not to like you, Bruce.
+
+#### a25e22d667 | HILL → BRUCE | x4
+Those drugs they stole at the docks? They’re not for junkies.
+
+#### 792884668b | HILL → BRUCE | x8
+Those drugs are a weapon.
+
+#### 5ad60804e7 | HILL | x4
+And it’s all because your last name is Wayne.
+
+#### 99a3d0c6bd | HILL → BRUCE | x4
+Right now they control something that’s very powerful and very deadly.
+
+#### 9ac67f6fa2 | HILL → BRUCE | x4
+You don’t have to trust me. You don’t even have to like me. You just have to listen.
+
+#### f342c1bd01 | HILL → BRUCE | x4
+They don’t care about any of the good we’ve done for Gotham. They’re fanatical.
+
+#### 77df8d9d6a | HILL → BRUCE | x4
+Back in the day, he used that chemical to make a drug. It had a great effect on his patients at Arkham. It helped a lot of people.
+
+#### 2b81ffc757 | HILL → BRUCE | x4
+What *we* did. Including your father.
+
+#### 100cc06718 | HILL → BRUCE | x4
+Let’s just say not everybody your dad dosed at Arkham was crazy when they arrived. But that changed, quickly.
+
+#### 6f5e327a0d | BRUCE → HILL | x4
+If he was helping people, then why is this all so secret?
+
+#### 8ef78498a2 | HILL → BRUCE | x20
+Still is.
+
+#### 88f51c4adb | HILL → BRUCE | x16
+We discovered it became a good way to settle business disputes.
+
+#### 7c5f9765aa | HILL → BRUCE | x4
+Only when it’s used improperly.
+
+#### 8bb7f027e9 | BRUCE → HILL | x4
+You’re lying. That drug doesn’t help anyone. It makes people go crazy.
+
+#### 986b34b6a2 | HILL → BRUCE | x4
+Most of the time, they didn’t start that way.
+
+#### 02db54f850-LM | HILL → BRUCE | x4
+Did you ever notice anyone who crossed your parents turned out to be crazy?
+
+#### a4bd2ca902 | BRUCE → HILL | x4
+My father did good work in Arkham. Leave him out of this.
+
+#### 0cf6112d32-SM | HILL → BRUCE | x4
+You kidding? It was Thomas’ plan. You think Falcone or I were smart enough to think it up?
+
+#### daae35920e | HILL → BRUCE | x4
+In certain doses, the drug actually made people crazy.
+
+#### 2b00fb9640 | BRUCE → HILL | x4
+What plan?
+
+#### a43b0abd3e | HILL → BRUCE | x4
+Of course, the drug could be abused. Improper dosage actually turned people crazy.
+
+#### 82dbc68489 | HILL | x4
+It’s all about their sense of injustice.
+
+#### 104fe259b3 | HILL | x4
+Children of Arkham fixate on the negative.
+
+#### 5b28fddcd2 | choice/UI → HILL | x4
+I’d never do that
+
+#### 22211a0c6b | choice/UI → HILL | x4
+Children of Arkham would be after both of us.
+
+#### 3b083c488d | HILL → BRUCE | x4
+We discovered it became a good way to eliminate enemies. Consolidate power.
+
+#### 9f72c9e29b | HILL → BRUCE | x4
+How do you think your family got so rich? It wasn’t all luck.
+
+#### ddeea55f63 | HILL → BRUCE | x4
+Would still be doing the same thing today, if he was alive. And you’d probably be doing it along with him.
+
+#### 41249a14c1 | BRUCE → HILL | x4
+My father...
+
+#### a690d11a8a | HILL → BRUCE | x4
+I miss them.
+
+#### 54fe9ebab6 | HILL → BRUCE | x4
+It’s a shame what happened to your parents.
+
+#### bafbeb7d6d | HILL → BRUCE | x16
+But it wasn’t a surprise. He overstepped. Got greedy. Pissed off a lot of people.
+
+#### 7fe1735478 | HILL → BRUCE | x20
+You know, that Wayne arrogance.
+
+#### 7f26a0ec12-LM | BRUCE → HILL | x4
+Unfortunately, you had him killed.
+
+#### cdb1d2c908 | HILL → BRUCE | x12
+I don’t know who killed him, to be honest.
+
+#### f3d25b02dd | BRUCE → HILL | x4
+Falcone *must* have had my father killed.
+
+#### 4e81190a9b | HILL → BRUCE | x4
+Falcone found the trigger man, but he didn’t make the call.
+
+#### 589a941d79-LM | HILL → BRUCE | x4
+It was his scheme, but you’re right. It did get him killed.
+
+#### cc10a2e1ee-LM | BRUCE → HILL | x4
+You all thought you had this amazing scheme.
+
+#### 56bcf3d91f-SM | HILL → BRUCE | x4
+I wish I knew who killed him.
+
+#### 1932c13b5c | choice/UI → HILL | x4
+It’s too late.
+
+#### bfbb3773d8 | choice/UI → HILL | x4
+Resign.
+
+#### 5e44ace26d | HILL | x4
+We gotta put aside our differences.
+
+#### d8f19cb88f | HILL | x4
+I’ll clean up his mess if I have to. Whatever it takes.
+
+#### 52f1f01162-SM | HILL → BRUCE | x4
+I liked him. But he left behind a mess.
+
+#### 2b7ccb43bc | HILL → BRUCE | x4
+We can’t set anything right if we’re both dead.
+
+#### a1e2e149b4-LM | HILL → BRUCE | x4
+Maybe. I can try. But you’ve got to have my back.
+
+#### 01958b6112-LM | BRUCE → HILL | x4
+You ruined lives. You can’t just “clean” that.
+
+#### 6804c67e29 | HILL → BRUCE | x4
+You, me and the memory of Thomas Wayne.
+
+#### a8d756095c | HILL → BRUCE | x4
+We can do this together.
+
+#### fb82cbd75a-LM | HILL → BRUCE | x4
+But first, you’ve got to have my back.
+
+#### 5b4dfc24fe | HILL → BRUCE | x4
+Falcone’s gone. Thomas is gone. I make all the decisions now.
+
+#### 7bdff3d594-LM | BRUCE → HILL | x4
+What you were doing at Arkham -- *are* doing at Arkham -- it ends now.
+
+#### bd09269f4f-SM | HILL → BRUCE | x4
+I can’t do much if I’m dead. And neither can you. We’ve got to protect each other.
+
+#### 08ff446c65 | BRUCE → HILL | x4
+You want to do good? Resign.
+
+#### c10a815674 | HILL → BRUCE | x4
+You’re still trying to win his election for Dent?
+
+#### 4dd9d33bef | HILL → BRUCE | x4
+Here. This is yours.
+
+#### 0b540de511 | BRUCE → HILL | x4
+My laptop.
+
+#### cc1d84797c-SM | HILL → BRUCE | x4
+I had to clear it of all incriminating data. The rest is being shipped back to your mansion. It was for your own good -- *our* own good.
+
+#### 78efa4c4b5 | choice/UI → HILL | x4
+How can I trust you?
+
+#### 1a90c47549 | choice/UI → HILL | x4
+What do you propose?
+
+#### e619c61592 | choice/UI → HILL | x4
+I’ll do it for Gotham.
+
+#### f05e8dcb96-SM | HILL → BRUCE | x4
+Falcone’s out of the picture. Truth is, I never liked the guy.
+
+#### b7c82db354-SM | HILL → BRUCE | x4
+But you and I could really be a force for good.
+
+#### 62880be64e-SM | HILL | x4
+But I always admired you. Forget anything I may have said about you before. That was just politics. This is personal.
+
+#### c0949098d1 | HILL | x4
+And a new Wayne-Hill partnership.
+
+#### cb49b0a22d | HILL → BRUCE | x4
+It’s a new day.
+
+#### 7c0586790e-SM | HILL → BRUCE | x4
+You and I could really be a force for good.
+
+#### 38a04723e4 | HILL → BRUCE | x4
+I know where all the bodies are buried. And believe me, they’re buried deep.
+
+#### 21ca712ca3 | BRUCE → HILL | x4
+You’re a criminal. How can I trust you?
+
+#### 364015d2e0 | HILL → BRUCE | x4
+If you want to make this right, you’re gonna have to.
+
+#### 3fb4246bc4 | HILL → BRUCE | x4
+For now, we gotta figure out how to stay alive.
+
+#### 6645c3a7c2 | HILL → BRUCE | x4
+Stop the Children of Arkham while I figure out how to make this right.
+
+#### 1cccb649d5 | BRUCE → HILL | x4
+What exactly are you proposing?
+
+#### 40713b9b78 | HILL → BRUCE | x4
+All your moral outrage won’t mean much if we’re both dead.
+
+#### 896744ca64 | HILL → BRUCE | x4
+Only I can help you fix this.
+
+#### 1d7a856c52 | BRUCE → HILL | x4
+Good? Do you even know what that word means?
+
+#### aba8de0b64-LM | HILL → BRUCE | x4
+You’re angry. I get it.
+
+#### f2eaa7826a | HILL → BRUCE | x4
+Come on. I know you’re a smart guy like your dad.
+
+#### fcea5eb4ae | HILL → BRUCE | x4
+Together, we can stop the Children of Arkham and then fix the rest of these mistakes.
+
+#### 5a6ae87f89 | HILL | x4
+I mean, look at you!
+
+#### 33c64fbec5 | HILL | x4
+Look at this beautiful city! We all helped build it.
+
+#### a61d2cb81c | HILL | x4
+The Children of Arkham could ruin all of that.
+
+#### 0aa38fd15f | HILL → BRUCE | x4
+So what do you say? Are we going to save your family’s legacy?
+
+#### 022492a51d | HILL → BRUCE | x4
+I understand your pain right now.
+
+#### db2d752890-SM | HILL → BRUCE | x4
+But your dad and I were playing a long game. There were mistakes along the way. And there were triumphs.
+
+#### a101fab83d | BRUCE → HILL | x4
+We have to save Gotham.
+
+#### 38ed1b4b89 | HILL → BRUCE | x4
+We will.
+
+#### 0a2173736a-SM-LM | HILL → BRUCE | x4
+I thought you were as smart as your father. Maybe I was wrong.
+
+#### d7fb4da67f | BRUCE → HILL | x4
+Go to hell, you festering scumbag.
+
+#### 4576e88044 | HILL → BRUCE | x4
+Think it over.
+
+#### 8db8eedc1e | HILL → BRUCE | x4
+I respect you too much for that.
+
+#### 6037ecad8e | HILL → BRUCE | x4
+I’m not pressuring you.
+
+#### 2024266791 | HILL | x4
+I guess there’s nothing else to discuss.
+
+#### 3c1f27307e | HILL | x4
+Whatever happens now, you’re really on your own.
+
+#### a2f9110998 | HILL | x4
+Now if you’ll excuse me, I have a debate to prep for.
+
+#### c1fe0f66d7-SM | HILL → BRUCE | x4
+I’m so glad we had this talk, Bruce.
+
+#### cf40ca65bb | HILL | x4
+I’d love to chat more, but I have a debate to prep for.
+
+#### 2851d1748d | HILL | x4
+Oh, and Bruce?
+
+#### d5929dc7ef | HILL → BRUCE | x4
+Mr. Wayne’s ready to leave.
+
+#### 327c27dcca | HILL → BRUCE | x4
+Don’t forget to validate your parking.
+
+#### 2f5f207c3c | HILL, SELINA, LUCIUS → BRUCE | x10
+I’ll be in touch.
+
+#### 7c466f7670 | BRUCE → HILL, ALFRED | x6
+You’re really trying to tell me Bruce Wayne needs an appointment?
+
+#### a5c60811c8 | ASSISTANT → HILL, BRUCE | x8
+But the mayor...
+
+#### 7c0092f509 | BRUCE → HILL, ASSISTANT | x6
+Will be fine. And if he fires you, just come work for me.
+
+#### 26a9ea6b00 | BRUCE → HILL | x4
+It can’t wait.
+
+#### 4182ae8e8d-LM | HILL → BRUCE | x4
+The way you barged in here was my first clue.
+
+#### 0fdb2b69e4 | BRUCE → HILL | x4
+You can’t hide from me in here! Not anymore!
+
+#### 0552e0aacf | HILL → BRUCE | x4
+Whoa, there. Let’s just calm down a minute.
+
+#### 98873fc596 | GUARD → HILL | x4
+Hands in the air! Now!
+
+#### 1c7376ba2b | HILL → GUARD | x4
+It’s fine. False alarm.
+
+#### 56e6fc8762 | HILL → GUARD | x4
+Obviously didn’t try that hard. But it’s fine.
+
+#### 6950ff7fb1 | HILL → BRUCE | x4
+Leave us.
+
+#### 155091d477-LM | BRUCE → HILL | x4
+And it started when you had my parents killed.
+
+#### 8148f15036-LM | HILL → BRUCE | x4
+You’re wrong! That wasn’t me!
+
+#### 0377010322-LM | BRUCE → HILL | x4
+You murdered my parents!
+
+#### 6498bd42d1 | HILL → BRUCE | x4
+That’s a very serious accusation. And it’s not true.
+
+#### 49758782ab | BRUCE → HILL | x4
+Don’t stand there smiling at me.
+
+#### e6615c3d9e-LM | BRUCE → HILL | x4
+When we both know you killed my parents.
+
+#### 42c28dd0fe-SM | HILL → BRUCE | x4
+I always worried you’d blame me for his death.
+
+#### 4809a3bb72 | HILL → BRUCE | x4
+Holy shit, that’s why you’re here, isn’t it?
+
+#### eae337405a | HILL → BRUCE | x4
+Y’know, you remind me of your father, standing there like that.
+
+#### 290bdb317a-SM | HILL → BRUCE | x4
+I had nothing to do with that mess.
+
+#### 6493e393c3 | BRUCE → HILL | x4
+Carmine Falcone pointed me your way.
+
+#### bf38e1bf53 | BRUCE → HILL | x4
+Right before he was murdered, too.
+
+#### 3309fd7e9e | HILL → FALCONE | x4
+Falcone? [shakes his head]I don’t believe you.
+
+#### 7301250856 | HILL → BRUCE | x4
+You know, considering our history.
+
+#### 8d785d43ae | HILL → BRUCE | x4
+Accuse me of whatever you want. But do it later. Right now, we’re both in danger.
+
+#### a5aa1de87d | BRUCE → HILL | x4
+I’m gonna make sure you end up in jail. That’s gotta scare you to death.
+
+#### 81c1d9e291 | HILL → BRUCE | x4
+Look, your parents were assassinated. But if you’re not careful, the same thing is about to happen to you!
+
+#### bbbf340e1a | BRUCE → HILL | x4
+Stop trying to change the subject.
+
+#### f84d7946ff | HILL → BRUCE | x4
+And they’re coming after us next.
+
+#### 8069031bc0 | BRUCE → HILL | x4
+Terrorists coming after you has nothing to do with my parents murder.
+
+#### 46c2dc1d4b | HILL → BRUCE | x4
+It has everything to do with your parents!
+
+#### b56d2551ca | HILL → BRUCE | x4
+That chemical heist at the docks proves it. They want revenge.
+
+#### fa0484dd57-SM | HILL → BRUCE | x4
+You haven’t listened to a damn thing I’ve said!
+
+#### b0ae323af6-LM | BRUCE → HILL | x4
+I still think you killed him.
+
+#### 68829f8234-SM | HILL → BRUCE | x4
+It wasn’t a surprise, when I heard.
+
+#### 563740ca3f | HILL → BRUCE | x4
+Falcone hired the hitman. And I think that tells you everything.
+
+#### c4fb950c8f | HILL → BRUCE | x4
+He overstepped. Got greedy. Pissed off a lot of people.
+
+#### d0b3dbf378-SM-L? | HILL | x4
+I always knew you were smart. Just like Thomas.
+
+#### a09e3a836d | HILL → GCPD01 | x4
+It’s really too bad Falcone had to find that hitman.
+HILL We would all be so much richer today.
+
+#### 21888d1593-L? | HILL → GCPD01 | x4
+You don’t have to help me. Hell, I know you were just a kid when most of this happened.
+
+#### 5178da7189 | HILL → GCPD01 | x4
+But we’ve got to have each other’s backs right now. For our safety.
+
+#### 2823c12866 | GCPD01 → HILL | x4
+We’ve doubled patrols. This office is airtight-
+
+#### 0974ef739c | HILL → GCPD01 | x4
+Airtight. Yet somehow people can barge in here.
+
+#### 42c7421439 | HILL → BRUCE | x4
+You want to talk, Bruce? Make an appointment.
+
+#### 10ac7c8e61-SM | HILL → GCPD01 | x4
+As you can see, I’ve got my hands full at the moment.
+
+#### d8f2351512 | HILL → BRUCE | x4
+Or see my assistant. Her desk is right out there.
+
+#### 565a31c0e9 | BRUCE → HILL | x4
+You know who I am and you’ll see me on my schedule.
+
+#### 8127c133cf | HILL → GCPD01 | x4
+And to hell with what anyone else needs, huh?
+
+#### 39e8a88885 | GCPD01 → HILL | x4
+Command, we have 10-34. Mayor Hill’s office.
+
+#### ae6ecdb4d3 | GCPD01, BATMAN → HILL, ENFORCERLUKE | x6
+Stand down.
+
+#### cb3f930c19 | HILL → GCPD01 | x4
+Some disturbing details.
+
+#### 6644414a3d | GCPD01 → BRUCE | x4
+Mr. Wayne, this is time-sensitive information for the mayor.
+
+#### d979b70709 | ALFRED, GCPD01 → BRUCE, HILL, GORDON | x24
+Sir?
+
+#### f208ca2370 | HILL → GCPD01 | x4
+We can break for now. I’ll contact you with any follow-ups after the debate.
+
+#### 29d152c830 | BRUCE → GCPD01 | x4
+Murder is something the mayor here knows a thing or two about.
+
+#### 706bc443e1 | HILL → GCPD01 | x4
+It happens too often in this city.
+
+#### 201c398238-S? | GCPD01 → HILL | x4
+I can show myself out, sir.
+
+#### ec22636608 | GCPD01 → HILL | x4
+That’s standard protocol.
+
+#### eeb2c6b4f8 | GCPD01 → HILL | x4
+He should be briefed in private.
+
+#### 1a72f11ead-S? | GCPD01 → BRUCE | x4
+I could arrest you right now, Mr. Wayne.
+
+#### 23b93ad33e-L? | HILL → GCPD01 | x4
+But you won’t. Because our meeting is over.
+
+#### a2b27b4250 | HILL → GCPD01 | x4
+If I have any other questions, I’ll contact you after the debate.
+
+#### f2af6b2681 | HILL → GCPD01 | x4
+Let’s break for now.
+
+#### 428df99c4a | GCPD01 → HILL | x8
+You’re starting to create a bad reputation.
+
+#### 80f3d33678-LM | GCPD01 → BRUCE | x8
+Watch yourself, Mr. Wayne.
+
+#### 953118eedc | GCPD01 → HILL | x8
+A lot of people on the force think Gordon’s covering for you.
+
+#### 971f9947a1 | GCPD01 → HILL | x8
+I’m one of them.
+
+#### e3e6e6c2cf | HILL → GCPD01 | x4
+And he was just at your house.
+
+#### 5132b13245-SM | HILL → GCPD01 | x4
+I just heard about his murder.
+
+#### a4e37ceb4a | HILL → BRUCE | x4
+You must have been close.
+
+#### ead780469e | choice/UI, BRUCE, DENT, SELINA → HILL, GORDON, BRUCE | x12
+That’s right.
+
+#### 4f3e5a6199 | HILL → BRUCE | x4
+So you realize the danger you’re in.
+
+#### 9acb9ccfea | BRUCE → HILL | x4
+Right before he was murdered.
+
+#### 61fc86b244 | choice/UI → HILL | x4
+He told about your crimes.
+
+#### 28ca9bbf61 | BRUCE → HILL | x4
+Falcone told me about all the crimes you’ve done together.
+
+#### da0920fb5a | choice/UI → HILL | x4
+He told me about my parents
+
+#### e485709bd3 | HILL → BRUCE | x8
+You gotta start paying attention to what’s happening in front of you right now.
+
+#### 4aa849e9c9 | BRUCE → HILL | x4
+Falcone told me about my parents’ murder.
+
+#### 2700fae5d8 | BRUCE → HILL | x4
+Carmine Falcone, murdered in police custody.
+
+#### 5a792fb103 | HILL → BRUCE | x4
+You’re leaving a very important name out. Yours.
+
+#### 5e857343db-LM | BRUCE → HILL | x4
+I know what my father did. What you did with him.
+
+#### c7849d4085 | BRUCE → HILL | x4
+For twenty years, you’ve been right there in the open.
+
+#### 3651c66708 | HILL → BRUCE | x4
+We can talk all about your parents another time, Bruce.
+
+#### 6cde8da91d-SM | HILL → BRUCE | x4
+They broke into my office. Took everything I had on Falcone. Then they bumped him off.
+
+#### fbd3e31ef3 | BRUCE → HILL | x4
+The drugging of innocent people in Arkham to make them crazy.
+
+#### c553579158 | HILL → BRUCE | x4
+So what? This is all shit for your therapist.
+
+#### e4d08396b8 | BRUCE → HILL | x4
+But not before he started to talk.
+
+#### 22079ebc2d | BRUCE → HILL | x4
+And who was behind it.
+
+#### c7d39e263a | HILL → FALCONE | x4
+Me, Falcone... and your father.
+
+#### e470296472-LM | HILL → BRUCE | x4
+I guess you could say we’re responsible for them.
+
+#### 3d08d4d078 | BRUCE → HILL | x4
+You seem to know a lot about them and what they want.
+
+#### 76bff59766 | HILL → BRUCE | x4
+He’s got good reason to hate your father.
+
+#### 2450645ee3 | HILL → OSWALD | x4
+Cobblepot? Yeah, that doesn’t surprise me.
+
+#### 23da42c65e | BRUCE → HILL | x4
+His name’s Oswald Cobblepot. He was a friend of mine.
+
+#### 9967bc99b7-SM | HILL → BRUCE | x4
+We had a good thing going. If anything stood in our way, I sent ‘em to Arkham. Thomas dosed ‘em till they went nuts and Falcone swooped in and collected their assets.
+
+#### ee5e9b0875-LM | BRUCE → HILL | x4
+This is because of what you made my father do.
+
+#### 16c8fde9e6 | HILL → BRUCE | x4
+That’s how we got the land to build the Wayne Enterprises tower, you know.
+
+#### f20f95ddec | HILL → BRUCE | x4
+We took it from the Cobblepots.
+
+#### 00adfb1536-LM | choice/UI → HILL | x4
+You destroyed families.
+
+#### 13122695ab | choice/UI → HILL | x4
+You’re finally coming clean?
+
+#### f9c4878cb8 | choice/UI → HILL | x4
+You’ll pay for this.
+
+#### fc08e88777 | HILL → BRUCE | x4
+How do you think your family got so rich?
+
+#### 9cbebfd44d | HILL → BRUCE | x4
+Luck?
+
+#### 290fd13e6d | HILL → BRUCE | x4
+How else do you think your family got so rich?
+
+#### 12d653b864-LM | BRUCE → HILL | x4
+You destroyed families to get where you are.
+
+#### 14ed0ffe93 | BRUCE → HILL | x4
+Including mine.
+
+#### aa92caba68 | HILL → BRUCE | x4
+It was their bad luck to cross us.
+
+#### 0f6a5fe8c8 | HILL → BRUCE | x4
+Can’t change the past, Bruce.
+
+#### 08fd9e8a2d | HILL → BRUCE | x4
+Just gotta survive what happens next.
+
+#### 90751d1c7d | BRUCE → HILL | x4
+All these years, and you’re finally coming clean with me now?
+
+#### 3b83af0ac5 | HILL → BRUCE | x4
+Don’t have much choice.
+
+#### 7b2837c017 | HILL → BRUCE | x4
+Thomas is gone. Now Falcone.
+
+#### de293c9ce4 | BRUCE → HILL | x4
+You’re going to pay for this.
+
+#### a8d2fd1ffe | BRUCE → HILL | x4
+If Children of Arkham doesn’t do it, I will.
+
+#### 31728fd6c2 | HILL → BRUCE | x4
+You act like no one’s ever threatened me in my office before.
+
+#### 8bb74ff783-LM | HILL → BRUCE | x4
+I’d feel safer if you were coming after me. We’d both have a better chance to survive.
+
+#### bbb5fb496e-LM | HILL → BRUCE | x4
+Come on. You’ve had to suspect something.
+
+#### 261e93a177 | HILL | x4
+Nobody gets as rich as the Waynes on good intentions alone.
+
+#### 3d5a474a6f | HILL | x4
+Timing?
+
+#### b4119c73a8 | HILL → BRUCE | x4
+Good looks?
+
+#### 8a3788201c-SM | HILL → BRUCE | x4
+It was Thomas’ plan.  I sent ‘em to Arkham. He dosed ‘em till they went nuts and Falcone swooped in and collected their assets.
+
+#### c80c59012a | HILL → BRUCE | x4
+We’d still be doing it today, if he was alive. And you’d be doing it alongside him.
+
+#### 52347b08f6-LM | BRUCE → HILL | x4
+But I know you were behind that hit.
+
+#### db85badf1c | HILL → BRUCE | x4
+Haven’t you been listening?
+
+#### 632e57e8ed | HILL → BRUCE | x4
+It doesn’t matter who killed your dad!
+
+#### a35b31ff3b | BRUCE → HILL | x4
+You weren’t in the alley when he died.
+
+#### dea5f9416b | BRUCE → HILL | x4
+Even if he’d survived, the Children of Arkham would be after both of us now.
+
+#### c8f01c3610 | HILL → BRUCE | x4
+Bad karma was always gonna catch up with us one day. Just caught up with your father first.
+
+#### dfb506e5ba | BRUCE → HILL | x4
+And it’s going to be the thing that kills each of you.
+
+#### 68b40193be | HILL → BRUCE | x4
+But it hasn’t killed you and me yet.
+
+#### 0abe827edb-LM | HILL → BRUCE | x4
+Look on the bright side, you got the rewards without having to do the dirty work.
+
+#### 6480971515 | HILL → BRUCE | x4
+Really, I do.
+
+#### e314a1be60 | HILL | x4
+And you can do it with me.
+
+#### 0e2f290ad9-SM | HILL | x4
+Together, you and I could really be a force for good.
+
+#### d25e270a63 | choice/UI → HILL | x4
+You can’t run from them.
+
+#### d176213936 | choice/UI → HILL | x4
+It starts with you cleaning this mess.
+
+#### d8b5f301d3 | choice/UI → HILL | x4
+You can’t avoid a fight.
+
+#### 7b3224b2ba | HILL, BRUCE, LUCIUS → BRUCE, SELINA, TONY | x10
+Right here.
+
+#### 48d3a2b7bc | HILL → BRUCE | x4
+We need to form a plan.
+
+#### dc15f1c860 | HILL → BRUCE | x4
+I’m not running. And neither are you.
+
+#### cec077e404 | BRUCE → HILL | x4
+You can’t expect to escape from these people.
+
+#### 6f823ff3a0 | BRUCE → HILL | x4
+They got to Falcone. They’ll find a way to you.
+
+#### ab6de4f421 | HILL → BRUCE | x4
+We’re running out of time.
+
+#### d1b37bd2ca | HILL → BRUCE | x4
+These people move fast.
+
+#### c6b3e82eee | BRUCE → HILL | x4
+You have to find a way to clean up this mess.
+
+#### 1f0d96c1c2 | HILL → BRUCE | x4
+It’s your father’s mess. So you’re gonna help me.
+
+#### 146a4450c2 | BRUCE → HILL | x4
+You’ll have to fight them if you want to survive.
+
+#### aad3857b31 | HILL → BRUCE | x4
+At my age?
+
+#### fe935633c5-SM-LM | HILL → BRUCE | x4
+And I heard you were there to see it.
+
+#### a20a76ef7b | HILL → BRUCE | x4
+You and I have to find a way to survive.
+
+#### 8bea970515-LM | BRUCE → HILL | x4
+Did you kill him?
+
+#### 41e4236d4b | HILL → BRUCE | x4
+We have to be in alignment.
+
+#### 5fc3374dbe | HILL → BRUCE | x4
+Why do you think I’m telling you about all this?
+
+#### f4bd0f2470 | HILL → GCPD01 | x4
+Forget the political stuff.
+
+#### c48cf706ac | HILL → GCPD01 | x4
+Or let the Children of Arkham burn it to the ground?
+
+#### dd7c96ee83-LM | BRUCE → HILL | x4
+Seems like you made some powerful enemies.
+
+#### d576a30876 | BRUCE → GCPD01 | x4
+But I’ll handle them in my own way.
+
+#### f3b6abb627 | HILL → BRUCE | x4
+They’ll never listen to you, Bruce.
+
+#### 07452ea60c | HILL → BRUCE | x4
+Mostly.
+
+#### e5ba95dab2 | BRUCE → HILL | x4
+I’m not my father, Hill. I’d never do that to people.
+
+#### 0a2c966b61 | HILL → BRUCE | x4
+You still live in their house. You still spend their money.
+
+#### a572cadcd9-L? | HILL → GCPD01 | x4
+You loved your parents. Alive or dead.
+
+#### 0e97f8056d-SM | HILL → GCPD01 | x4
+I heard you and Harvey are finished.
+
+#### e18625cb35 | HILL → GCPD01 | x4
+Me? No. That was all Falcone’s doing.
+
+#### 9e179ff052 | HILL → GCPD01 | x4
+It’s a shame. We had a good thing going.
+
+#### 02c7d0e097 | HILL → BRUCE | x4
+That’s old news, Bruce.
+
+#### 1dcf3b70e7 | HILL | x4
+You’ll find your work assets waiting for you at home.
+
+#### 8ff0c35594 | HILL | x4
+They’re scrubbed. No connection between me and you will ever be found.
+
+#### a99bae303e-SM | HILL | x4
+I had to make sure they were scrubbed of anything connecting you and me.
+
+#### be207d75ab | HILL | x4
+It was for your protection. Our protection.
+
+#### 06e51c9dc2-L? | HILL | x4
+But since you’re so interested in what your dad was up to... here.
+
+#### 49cc8395af | HILL → BATMAN, BRUCE | x4
+Feel free to study up.
+
+#### 0a067d3ff1 | HILL → BATMAN, BRUCE | x4
+They don’t mean a thing to me.
+
+#### 879d8dd432 | HILL → BATMAN, BRUCE | x4
+You’ll find your work assets back at home. Cleaned for your protection. *Our* protection.
+
+#### d2245356d8 | choice/UI → HILL | x4
+It’s just you and me, old man!
+
+#### aa746afdcd | choice/UI → HILL | x2
+A little privacy.
+
+#### aaf697d568 | choice/UI → HILL | x2
+You know who I am.
+
+#### ef1c361ea2 | choice/UI, BATMAN → HILL, ALFRED | x8
+What are they planning?
+
+#### 135fdeced8 | choice/UI | x4
+Your sins are coming home to roost.
+
+#### bd2ec64ed1 | choice/UI | x4
+[Quote from Hill]
+
+#### 3674444daf | choice/UI | x2
+Last chance, tell me what they want from you!
+
+#### ca77f9d3ab | choice/UI | x2
+To watch you squirm.
+
+#### c656c775db-SM | choice/UI | x2
+I already told you. Run.
+
+#### 813393ef7d | choice/UI, BRUCE → HARVEY | x8
+There’s no way out.
+
+#### ef2f151782 | choice/UI | x4
+Want to keep your teeth?
+
+#### 4bee3f561f | choice/UI | x2
+They’re coming for you.
+
+#### bafef36b8b | choice/UI | x2
+Why’d they kill Falcone?
+
+#### 9d195c28f6 | choice/UI | x4
+Where did they come from?
+
+#### 023875bbe3 | choice/UI | x2
+Someone needs to protect you from ME.
+
+#### c1fdd9552f | choice/UI → HILL | x4
+Then you should earn it.
+
+#### 33eeb3dbb7 | choice/UI | x2
+Do they have it?
+
+#### 92c33b94e1 | choice/UI | x2
+[Take him in]
+
+#### bf1a7dd69a-SM | choice/UI → HILL | x4
+I need to know about Arkham.
+
+#### a3a40940d5 | choice/UI → ALFRED | x2
+Calm down, Alfred.
+
+#### 59c18f4005-L? | choice/UI | x2
+You’re right.
+
+#### 581e0539ad | choice/UI → ALFRED | x4
+Gotham’s protector.
+
+#### 0cd2c8a06e | choice/UI → HILL | x4
+What was your bargain?
+
+#### 711cd3fa7c-L? | choice/UI | x2
+What did you give them on Wayne?
+
+#### 7d319669b6 | choice/UI | x2
+She’s right in front of you.
+
+#### cc51645bc1 | BATMAN, choice/UI → PENGUIN | x10
+I’m going to hurt you.
+
+#### b3669a72bb | choice/UI → HILL | x4
+I promise you’ll talk.
+
+#### 96b61edf88 | choice/UI → ALFRED | x6
+The Children! Talk!
+
+#### 37da4086e2 | choice/UI | x4
+Tell me what I want to know!
+
+#### cf7d959555 | choice/UI | x4
+[Play recording]
+
+#### b80e14a53c | choice/UI | x2
+I’ll burn the building down with you in it.
+
+#### 684631c903 | choice/UI | x4
+I’ll burn the building down.
+
+#### 397f945210 | BATMAN → ALFRED | x2
+Don’t worry, Alfred...
+
+#### 688d22b0e8 | BATMAN → HILL | x4
+You know who I am...
+
+#### e2a181d5dd | BATMAN → HILL | x4
+... it’s time we finally met.
+
+#### 048499dcb0 | BATMAN → HILL, ALFRED | x6
+It’s just you and me...
+
+#### c6553a9fcf | BATMAN → ALFRED, HILL | x6
+...old man.
+
+#### f366cc29e4 | BATMAN → HILL | x2
+Mayor Hill...
+
+#### 073ca751ed | HILL → ALFRED | x2
+Get away, you-- you freak! What on earth d-do you want?
+
+#### 1451d5572b-LM | BATMAN → ALFRED | x2
+...you’re done giving orders for the night.
+
+#### 9ea773458a-SM | BATMAN → ALFRED | x2
+...I’m a light touch. When I need to be.
+
+#### ea00d157e2-LM | ALFRED → BATMAN | x2
+...the whole city is already afraid of the Batman after what you did to Falcone....
+
+#### f71505cf1d | ALFRED → BATMAN | x2
+Try not to make things worse.
+
+#### bef49c30d1-L? | choice/UI | x2
+You’re done giving orders for the night.
+
+#### ee06820195 | choice/UI | x2
+They’ll never find your body.
+
+#### a5a43873c2 | choice/UI | x2
+Work with me and I will.
+
+#### 39747ddd7b | choice/UI | x2
+How many of them are there?
+
+#### 3f41a789ad-LM | choice/UI → ALFRED, HILL | x6
+Did you know?!
+
+#### 223927a3de | BATMAN → HILL | x2
+Gotham wouldn’t worry about Batman if they were aware of the Children of Arkham.
+
+#### 1d3895a433 | HILL → BATMAN | x2
+Deborah, you incompetent!
+
+#### bb220bbbbc | BATMAN → HILL | x4
+Everything you know about the Children of Arkham --
+
+#### 1e7431a240 | HILL → BATMAN | x2
+omigod omigod omigod
+
+#### 44353e787f | HILL → BATMAN | x2
+Batman..!?
+
+#### 711cd3fa7c-LM | BATMAN, choice/UI → HILL | x6
+What did you give them on Wayne?
+
+#### f15b7d10d4 | HILL → BATMAN | x2
+Oh, god in heaven --
+
+#### 5f5f371576 | HILL | x2
+STUB:(Michael Kirkbride, Thu Jun 23 17:32:13 2016) Hill-- Yer nothin’ but a common thug! I ain’t tellin’ you a thing!
+
+#### 4016e74fd6 | HILL → BATMAN | x16
+AAHH!!
+
+#### e428f7bdc7 | HILL → BATMAN | x4
+Security?!
+
+#### 540949a370 | HILL → BATMAN | x4
+You’re are nothing more than a freak -- running amok over Gotham.
+
+#### 6f22f24af2 | HILL → BATMAN | x2
+AAAAAGHGGHG!
+
+#### a1e7272cc4 | HILL → BATMAN | x2
+You’re completely insane!
+
+#### a98963aed9 | HILL → BATMAN, ALFRED | x4
+You’re a freak.
+
+#### c4df94f8a3 | HILL → BATMAN, ALFRED | x4
+You’re damn well insane!
+
+#### 4b0c2faa3b | BATMAN → HILL | x4
+I’ll ask you again-- {AngryB}tell me about the Children!
+
+#### 6e76385e1d | HILL → BATMAN | x4
+I d-don’t know anything! They showed up outta nowhere, threatened to end me.
+
+#### ab7ff6cc16 | BATMAN → HILL | x2
+You’re lying. Says something specific to rattle Hill into telling the truth, eg, Everyone knows you and Falcone were in bed together. They took him out. That leaves you.
+
+#### 22a60b269f-LM | BATMAN → HILL | x12
+I know you made a deal with them, Hill.
+
+#### a3a8f192a2 | BATMAN, choice/UI, JOKER → HILL, BRUCE, SELINA | x10
+You’re lying.
+
+#### 0cb87f3fc5-SM | HILL → BATMAN | x4
+I’m not! Their message -- that was the first I heard of them.
+
+#### 4af19ab95b | BATMAN → HILL | x12
+Tell me why {ThinkingA}or I’ll make things unpleasant for you.
+
+#### c44b06df98 | HILL → BATMAN | x2
+They’re taking out the man at the top.  It’s It’s It’s an assault on order. On peace. On our whole notion of democracy.
+
+#### 25c28e7e67 | HILL → BATMAN | x2
+You want to keep the peace, then you have to protect me!
+
+#### 7e1f449b30 | HILL → BATMAN, ALFRED | x4
+You should be protecting me from them!
+
+#### c5dfa5327c | BATMAN → HILL | x4
+As if you stand for democracy -- {AngryA}don’t make me laugh.
+
+#### 883100de65 | BATMAN → HILL | x4
+You still have teeth in your mouth, Hill. {NormalA}You like them, {ThinkingA}you’ll answer my questions.
+
+#### dead67468f | HILL → BATMAN | x2
+I d-don’t know anything more than you!
+
+#### 7a22d707ac | BATMAN → FALCONE | x2
+They already took out your partner, Falcone -- I know they’re coming for you next.
+
+#### 6759aa7f2b | BATMAN → HILL | x2
+Start talking or I’ll drop you off on their doorstep.
+
+#### 73098ffb6a | BRUCE, HARVEY → HILL, BRUCE | x4
+Die.
+
+#### 95a9d5221a | BATMAN → HILL | x4
+Where are you going, fat man?  {ThinkingA}You already know there’s no way out.
+
+#### 2f7aca0c02 | BATMAN → HILL | x2
+You already know there’s no way out of this.
+
+#### 94fdf3f00a | BATMAN → HILL | x2
+If you want to survive this night, you’ll answer my questions.
+
+#### 4938ec1fdc | HILL, BRUCE, HARVEY → BATMAN, VICKI, BRUCE | x9
+Why are you doing this to me?
+
+#### e1e586187f | HILL → BATMAN | x4
+I’m begging you to stop.
+
+#### e466a7dc1f | HILL → BATMAN | x2
+Info about Arkham. They want retribution for Arkham Asylum.
+
+#### 7fcd88ff03 | HILL → BATMAN | x6
+The.. the people Thomas Wayne had committed there. Illegally.
+
+#### 6cfb2b116b | BATMAN → HILL | x6
+You’re in their crosshairs, Hill.
+
+#### 75caf0d921 | BATMAN → HILL | x2
+Tell me why or I”ll make it easy for them.
+
+#### f55f064730 | HILL → BATMAN | x12
+I d-don’t know anything about the Children! They showed up outta nowhere, threatened to end me.
+
+#### 061c2eb406 | BATMAN → HILL | x4
+Tell me why or I’ll make things easy for them.
+
+#### cc18d4b781-SM | HILL → BATMAN, ALFRED | x4
+I d-don’t know anything about the Children! Their message -- that was the first I heard of them.
+
+#### c967d48822 | HILL → BATMAN, ALFRED | x4
+I don’t know anything about the Children of Arkham.
+
+#### e4513bf5bf | GUARD → HILL | x2
+Shoot Batman.
+
+#### 5a85b46ce0 | SECURITY02 → HILL | x2
+It’s Batman! Shoot him!
+
+#### dee4b29798 | SECURITY01 → ALFRED | x2
+Come on, get the Mayor out of here!
+
+#### a97f67070d | ALFRED → HILL | x2
+You have to get out of there, but...
+
+#### 668b0df474 | ALFRED → HILL, BATMAN | x4
+What he said about your father-- it must be difficult to process.
+
+#### ad6ad83a2f | ALFRED → HILL, BATMAN | x4
+But you can’t stay there. You have to move.
+
+#### cc67c20ebb | ALFRED → BATMAN, HILL | x8
+Indeed. I’m just as frustrated as you are.
+
+#### a681077e82 | BATMAN → ALFRED | x4
+Alfred, I don’t think I can take much more. {ThinkingA}I’m losing control.
+
+#### 61a216c54c | BATMAN → ALFRED | x2
+Gotham’s protector...
+
+#### 6836e42e8e | HILL, BATMAN → ALFRED, BATMAN | x10
+Is that you?
+
+#### 4cdccbd91d | BATMAN → HILL | x4
+...and I’m protecting it from you.
+
+#### 0451e5cd1d | BATMAN → HILL | x12
+I know you’ve been in contact with them, Hill.
+
+#### 1b3d222e19 | HILL → BATMAN | x2
+They wanted me to give them information on Wayne Enterprises. The details of how Thomas Wayne got rich by destroying innocent people.
+
+#### 4accf15345 | HILL → BATMAN | x2
+I don’t know anything that you’re talking about!
+
+#### 22d8f9bc3a-SM | HILL → BATMAN, ALFRED, BRUCE | x20
+...I gave you everything I have on Wayne...
+
+#### 14795bc9a6 | HILL → ALFRED | x4
+... I’ve held up my end of the bargain and I expect you to do the same!‘
+
+#### 67e1cd4f1d | HILL → BATMAN | x4
+The Children of -- I don’t know what you’re talking about...
+
+#### 773c228fa5 | HILL → BATMAN, BRUCE | x14
+...I’ve held up my end of the bargain and I expect you to do the same.
+
+#### 4a17931463-LM | HILL → BATMAN | x2
+H---how did you get that?
+
+#### f321692a62 | BATMAN → HILL | x2
+no on can hide from me, i beat it out of the owner, they gave you up
+
+#### 1ae8dccbbe | BATMAN, choice/UI → HILL | x6
+You can’t keep secrets from me.
+
+#### 71ae489813-LM | choice/UI → HILL | x2
+You made a deal with them.
+
+#### a779c7136d-LM | BATMAN → HILL | x4
+What bargain did you make with them!?
+
+#### 8384c6ce43 | BATMAN → HILL | x2
+I know everything that happens in Gotham.
+
+#### 79492ffdc8 | HILL → BATMAN | x10
+P--partners? What do you mean?
+
+#### 0e5ef0800d-LM | BATMAN → HILL | x4
+I know you made a deal with them.
+
+#### fd462e7bee-SM | BATMAN → HILL | x2
+So I had to beat it out of him.
+
+#### 340cfed190 | BATMAN → HILL | x4
+The Children of Arkham gave you up, Hill.
+
+#### 16b96933e1 | BATMAN → HILL | x4
+There’s no one on your side, now.
+
+#### 2c2465a4b0 | HILL → BATMAN | x4
+I don’t know anything about them --
+
+#### 6c5b43e37d | HILL → BATMAN | x4
+The Children of-of-of Akrham?
+
+#### 12104ca8cd | HILL → BATMAN | x2
+I get it. You’re Batman.
+
+#### bb7e653cb8 | HILL → BATMAN | x2
+They-- they wanted info about Wayne. They said they’d expose me if I didn’t give it. At the debate.
+
+#### f714060a17 | BATMAN → HILL | x2
+What info?
+
+#### 504f1468d4 | BATMAN → HILL | x4
+Hill seems to think he’s safe -- but we need to protect the debate.
+
+#### 2a195e9ef6 | BATMAN → HILL | x2
+The Children of Arkham seem to know more about my family than I do.
+
+#### b756892282 | BATMAN → HILL | x8
+I always get to the truth.
+
+#### 91b409d34a | HILL → BATMAN | x4
+W-what secrets?  I’m not keeping secrets!!
+
+#### 32313ef086-SM | HILL → BATMAN | x4
+Deal? What deal?! I’m afraid you’re mistaken --
+
+#### 0bea67f9fd | HILL → BATMAN | x4
+I don’t know what you’re talking about!
+
+#### 8cd9690b63 | BATMAN → HILL | x14
+He can’t help you now.
+
+#### 6e38de95a7-SM | HILL → BATMAN | x2
+Dent’s up in the polls -- I need to crucifiy him in the debate or we can kiss re-election -- and your job --  goodbye.
+
+#### f6d9a2c654 | HILL → BATMAN | x2
+If you’re not back here in the next fifteen minutes
+
+#### 316ccd0b2d | HILL → BATMAN | x2
+Where in hell are those files on mental health?
+
+#### 67bce6b7f7 | HILL → BATMAN | x2
+You better be back here in the next fifteen minutes or I’m cutting your pay.
+
+#### 5fccaeb382 | BATMAN → HILL | x2
+They’re the present threat.
+
+#### a1fd12b7b7 | HILL → BATMAN | x4
+They -- they threatened to embarrass me, publicly -- at the debate.
+
+#### 09e0d98ff2-SM | HILL → BATMAN | x4
+I bought my safety -- with information about Wayne. And about Arkham. They want retribution for Arkham Asylum.
+
+#### 6dcb67331d | HILL → BATMAN, ALFRED | x6
+Among other things.
+
+#### 059dd4ec14 | BATMAN → HILL | x2
+We need to protect the debate.
+
+#### 3d8a276d9c-SM | BATMAN → HILL, ALFRED | x6
+I need to know what went on in Arkham Asylum --
+
+#### 265964104f | BATMAN, ALFRED → ALFRED, BATMAN | x6
+It’s the debate that’s got me worried --
+
+#### 017e77056a | BATMAN → ALFRED | x4
+Hill seems to think he’s safe, {AngryA}but Penguin’s still out there.
+
+#### f09a64f70e | ALFRED → BATMAN | x2
+Hill seems to think he’s safe, but Penguin’s still out there...
+
+#### a2b6585c63 | BATMAN → ALFRED | x2
+Hill seems to think he’s safe -- but Penguin’s still out there...
+
+#### d021d0cf43 | choice/UI → HILL | x2
+Penguin is still out there.
+
+#### eb60469e1d | OSWALD, HILL → BRUCE, ASSISTANT, REGINA | x22
+Security!
+
+#### b15f125509 | HILL → ALFRED | x4
+I’m being assaulted.
+
+#### 43b6f29fae | HILL, LADYARKHAM, INMATE03, COP03 → ALFRED, INMATE02, LADYARKHAM | x10
+Batman’s here!
+
+#### b4bd63c239 | HILL | x4
+Pick up goddamn it!
+
+#### 1d5b7b3618 | HILL | x4
+He’s here -- in the office!
+
+#### 82e4491e3d-L? | HILL | x4
+Send everyone you’ve got.
+
+#### 7cf0d26919 | HILL | x4
+Now damn it!
+
+#### 0bb3b6276d | HILL | x4
+He’s going to rip me apart!!
+
+#### 27612f0961 | HILL | x4
+I don’t know -- just hurry.
+
+#### 6420905217 | HILL → BATMAN | x4
+Please -- just get here now.
+
+#### a96baa2aba | HILL → BATMAN | x4
+He’s breaking through the door!!
+
+#### 262aeff7a8 | HILL → BATMAN | x4
+HEEELP!
+
+#### 21acfa97f7 | BATMAN → HILL, ALFRED | x4
+And we {AngryB}know that’s where they plan to strike.
+
+#### a50ec6d2ef | choice/UI → HILL | x2
+The Children gave you up.
+
+#### a98d167409 | choice/UI | x4
+No one keeps secrets from me.
+
+#### 34e4324c10 | choice/UI | x2
+Shut up and listen.
+
+#### 347106550b-L? | choice/UI | x2
+You made a deal with him.
+
+#### 70803a4df7 | choice/UI | x2
+It’s a bad idea to lie to me.
+
+#### 28bfe98e6b-LM | BATMAN → HILL | x2
+Were you expecting someone?
+
+#### 6850d29bc1-LM | choice/UI → HILL | x2
+No, you need protection from me.
+
+#### 9752ae98e1 | choice/UI | x2
+Expecting the Penguin?
+
+#### d884eef546 | choice/UI | x2
+You’re just another criminal.
+
+#### 76f5e8d555 | choice/UI → HILL | x2
+When was this?
+
+#### de30de5b46 | choice/UI → HILL | x2
+That all you have to say?
+
+#### cc46eadeef | choice/UI → HILL | x2
+Time to start talking.
+
+#### 2c98374eaf-SM | choice/UI → HILL | x2
+Not how I heard it.
+
+#### 619360cbf8 | choice/UI → HILL | x2
+Bruce Wayne is innocent.
+
+#### 9469a7e6e5 | choice/UI → HILL | x2
+Is that what Penguin told you?
+
+#### f4dbc4710b-LM | choice/UI → HILL | x2
+Is that what you told Penguin?
+
+#### b6b55e5a33 | choice/UI → HILL | x2
+Why do a deal with Penguin?
+
+#### 88c1c86d67 | choice/UI → HILL | x2
+Thomas Wayne wouldn’t do that.
+
+#### 9230318bf1 | choice/UI → HILL | x2
+That’s impossible.
+
+#### 2726180e9c | choice/UI, ALFRED → HILL, BATMAN | x4
+Do you have proof?
+
+#### 0e58ce1e56 | choice/UI → HILL | x2
+They’ll come for you too.
+
+#### 3cfd03e8f1 | choice/UI → HILL | x2
+Not on my watch.
+
+#### 809cd40d59 | choice/UI → HILL | x2
+Tell it to the police.
+
+#### 6d8b0efb3b | choice/UI | x2
+The truth or I break you.
+
+#### a9f6f77228 | choice/UI → ALFRED | x2
+You want to do this the hard way?
+
+#### 8f389eb636 | choice/UI → ALFRED | x2
+I’ll be fine, Alfred.
+
+#### fd1a7a3a83 | choice/UI → ALFRED | x2
+Nothing surprises me anymore.
+
+#### cf0023660c | BATMAN → ALFRED | x2
+Expecting someone?
+
+#### 2e31a84494 | BATMAN → ALFRED | x2
+Maybe the Penguin?
+
+#### dbe51e4457 | BATMAN → HILL | x2
+Tell me what you’re up to with the Penguin.
+
+#### bff35fce8d | HILL → BATMAN | x2
+The Penguin? What do I look like, a zookeeper?
+
+#### 83d47fac6e | HILL, GORDON → BATMAN, MONTOYA | x4
+I have no idea what you’re talking about.
+
+#### a1a75a8879 | HILL → BATMAN | x2
+And I’d like to keep it that way.
+
+#### 21540e4d6b | BATMAN → HILL | x4
+You can’t keep secrets from me. I always find the truth.
+
+#### 9ec77f308b | HILL → BATMAN | x4
+Secrets?
+
+#### bb252f07e5-LM | BATMAN → HILL | x4
+I know you made a deal with him.
+
+#### 771ea93d30 | HILL → BATMAN | x4
+A deal?
+
+#### 3d0e606c8f | HILL, BRUCE → BATMAN, HARVEY | x10
+What the hell are you talking about?
+
+#### 24f9ba1761 | BATMAN → HILL | x6
+I want the truth. And I’ll break every bone in your body to get it.
+
+#### b4d732a8d6-LM | HILL → BATMAN | x2
+You’re mad. I don’t know what the hell you’re talking about.
+
+#### 5f7c7487ab | HILL → BATMAN | x2
+Breaking in to my office.
+
+#### 3041853329 | HILL → BATMAN | x2
+Trying to scare me.
+
+#### 99c424e234-SM | HILL → BATMAN | x2
+I won’t be threatened.
+
+#### f190685737 | HILL → BATMAN | x2
+My security will be here any minute.
+
+#### bd1602f8a8 | BATMAN → HILL | x6
+You *know* who Penguin is!
+
+#### ed3fac3cfe | BATMAN → HILL | x2
+You know who Penguin is!
+
+#### 8585a98ad8 | BATMAN → HILL | x2
+Shouldn’t you know more about crime in your own city?
+
+#### bcba445eb5-SM | HILL → BATMAN | x2
+So I’ve heard of him. So what?
+
+#### 13013fc683 | BATMAN → HILL | x2
+You expect me to believe the Mayor of Gotham hasn’t heard of the Penguin?
+
+#### e2f3601fdd | BATMAN → HILL | x2
+The dumb act doesn’t suit you, Hill.
+
+#### 52c980ee1b | BATMAN → HILL | x2
+Gotham’s own Mayor doesn’t know about the criminals that threaten his city?
+
+#### 6d2d202107 | BATMAN → HILL | x2
+You’re leaving out a few details.
+
+#### 97ee1d6dec | HILL → BATMAN | x2
+If you think you know something, just say it!
+
+#### b8f44d6f1b | BATMAN → HILL | x2
+Patience isn’t my strong suit, Mayor. Talk!
+
+#### 806d5f2843 | HILL → BATMAN | x2
+I’m talking! You’re not listening!
+
+#### a59331b1f2-LM | BATMAN → HILL | x2
+You think people will still vote for you when you’ve got no teeth left?
+
+#### 2a9d5e9292 | HILL → BATMAN | x2
+Just tell me what you want!
+
+#### 116b30cf0d | HILL → BATMAN | x2
+So what?
+
+#### 20a941d8bb-SM | HILL → BATMAN | x2
+I’m sure he reached out to a lotta people.
+
+#### 011f178635 | HILL | x2
+A lot of people reach out to me. So what?
+
+#### 2771994800 | HILL | x2
+That’s what happens when you’re mayor!
+
+#### 16a8e9af3e | HILL | x2
+He reached out to me.
+
+#### 758fd47379 | HILL → BATMAN | x6
+You’re insane. Just like they say. A madman in a mask.
+
+#### 77c140a617 | HILL → BRUCE | x2
+Wayne! There’s the real problem!
+
+#### 2cb97639b8 | HILL | x2
+He’s the one you should be after!
+
+#### 11d4212375 | HILL → BATMAN | x2
+Every fiber of his being, built on LIES.
+
+#### c6873dc320 | HILL → BATMAN | x2
+His status. His fortune.
+
+#### 8c34ea658e | HILL → BATMAN | x2
+He should be held accountable.
+
+#### d9994545a1 | BATMAN → HILL | x2
+Nice try, but Bruce Wayne is clean.
+
+#### d257a8d2e3 | HILL, choice/UI, BATMAN → HILL, BATMAN | x6
+You really believe that?
+
+#### d2a3505fa9 | HILL → BATMAN | x2
+There’s no way to have been born into the pile of shit he was and come out clean.
+
+#### 97d9eb3f17-SM | HILL → BATMAN, ALFRED | x8
+I witnessed first hand the atrocities of his family! And he’s the one who profited!
+
+#### cd9e5f5207 | BATMAN → HILL | x2
+Or did Penguin convince you?
+
+#### 5f6f5099b3 | HILL → BATMAN | x2
+I didn’t need convincing! I’ve seen the Wayne family’s atrocities first hand!
+
+#### 0907830848 | HILL → BATMAN | x2
+And Bruce Wayne is the one who profited.
+
+#### 1d10485391 | BATMAN → HILL | x2
+What does Penguin want with Bruce Wayne?
+
+#### 39a0dd76dc | BATMAN → HILL | x2
+Why push you for information?
+
+#### 94cd16ff91 | HILL → BATMAN | x2
+He only wants to expose the Waynes for the criminals that they are!
+
+#### 79e2a58d82-SM | HILL → BATMAN | x2
+I witnessed their crimes first hand.
+
+#### 4c95471a96 | HILL → BATMAN | x2
+And even now, Bruce Wayne profits from them!
+
+#### eb53b3a9e7 | HILL → BATMAN, ALFRED | x4
+The atrocities that occurred at the hands of his father...
+
+#### c7da82dd79 | HILL → BATMAN | x2
+Even now, Bruce Wayne profits from them!
+
+#### c3db415938-LM | BATMAN → HILL | x2
+You’ve got nowhere to go but down.
+
+#### a428f61131-SM | HILL → BATMAN | x2
+Please! Penguin would have killed me! I had no choice!
+
+#### 3db09dd516 | HILL → BATMAN | x2
+Don’t kill me!
+
+#### a9152c1400 | HILL → BATMAN | x2
+I’ve done nothing wrong!
+
+#### e230204cb8 | BATMAN → HILL | x2
+What is he trying to do?
+
+#### 1498caf9d3 | BATMAN → HILL | x2
+What did he need the information for?
+
+#### 036a1b8d11 | BATMAN → HILL | x2
+Why come to you?
+
+#### bd31725b85-SM | HILL → BATMAN | x2
+All right, I’ve heard of Penguin. I’m the goddamn Mayor!
+
+#### dc260329cb | HILL → BATMAN | x2
+Do you hear me?
+
+#### e731ab8122-SM | HILL → BATMAN | x2
+I’ve got nothing to do with that low-life!
+
+#### 6f4ff4c6a6 | HILL → BATMAN | x2
+Goddammit! Listen to me!
+
+#### 68beaed60b | HILL → BATMAN | x2
+No one born into a pile of shit that deep can come out clean.
+
+#### 2d41e01cf9-LM | BATMAN → HILL | x2
+What did you tell him about the Waynes?
+
+#### d3d2ed9b4a-SM | HILL → BATMAN | x2
+I had no choice! He would have killed me!
+
+#### 19643711ab | HILL → BATMAN | x2
+And all he wanted are secrets
+
+#### 4c05859556 | HILL → BATMAN | x2
+Just dirt on a dead man!
+
+#### 270da683ca-SM | HILL → BATMAN | x2
+Please! I had no choice! Penguin would have killed me!
+
+#### 249463d97b | BATMAN → HILL | x2
+What did he want to know?
+
+#### 88bfed108f | HILL → BATMAN | x2
+Secrets that don’t matter anymore!
+
+#### 08164031d4-SM | HILL → BATMAN | x2
+Because I knew about Arkham Asylum! And what was done to those poor people!
+
+#### b293a5cfff | BATMAN → HILL | x2
+How did he know to come to you?
+
+#### b96706923a-LM | BATMAN → HILL | x2
+What dirt did you give him?
+
+#### 461f9ce735 | HILL → BATMAN | x2
+Nothing that matters anymore!
+
+#### a89514fa8d | BATMAN → HILL | x2
+You expect me to believe that’s all?
+
+#### 518030a62e | BATMAN → HILL | x2
+You’re as dirty as they come.
+
+#### b7fe37ffdf-SM | HILL → BATMAN | x2
+I had nothing to do with what happened at Arkham Asylum!
+
+#### 76b9e729a5 | HILL → BATMAN | x2
+Just the truth about what happened at Arkham Asylum.
+
+#### 8ba8ad7c10 | HILL → OSWALD, BATMAN | x5
+Penguin wants revenge for what happened to his mother.
+
+#### f6d06300b8 | HILL | x2
+Thomas Wayne sent innocents there, including Esther Cobblepot--the Penguin’s mother.
+
+#### 2c2b239816 | HILL → OSWALD | x5
+Thomas Wayne sent her to Arkham, along with who knows how many other innocents!
+
+#### 60b52b8577 | HILL | x2
+Anyone who got in his way.
+
+#### e706182a22 | HILL | x2
+Don’t believe me? Check the records.
+
+#### b67bdab8bd | HILL → BATMAN | x2
+Esther Cobblepot.
+
+#### dc3083ad9f | HILL → BATMAN | x2
+Nothing was wrong with any of them!
+
+#### f60140885a | HILL → BATMAN | x2
+Until Thomas locked them up.
+
+#### 096d3d7e93 | BATMAN → HILL | x2
+Why would Thomas Wayne lock up innocent people?
+
+#### f1379a8c60 | HILL → BATMAN | x2
+How do you think he became a billionaire?
+
+#### b49bf59784 | HILL → BATMAN | x2
+Good deeds and hand shakes?
+
+#### 48e9a2e88d | HILL → BATMAN | x2
+Anyone that stood in Thomas’s way got knocked down. One way or the other.
+
+#### 59d53e6797-SM | HILL → BATMAN | x2
+I only wish I could have done something about it back then...
+
+#### fb5d6438d3 | BATMAN → HILL | x2
+People aren’t thrown into Arkham without cause. Someone would have stopped him.
+
+#### c5c184d373 | HILL → BATMAN | x2
+You think no one tried?
+
+#### 5e5ace4a0d | HILL → BATMAN | x2
+But the ones that did... Well, no one tried after that.
+
+#### f379ebcb5f | BATMAN → HILL | x2
+This happened twenty years ago--and it’s only coming out now?
+
+#### d908d501a8 | BATMAN → HILL | x2
+Something this big couldn’t have been hidden. There’d be records.
+
+#### 0143f92991 | HILL → BATMAN | x4
+With enough money you can make anything--or anyone--disappear.
+
+#### b01e305f58 | HILL → BATMAN | x4
+I didn’t dare speak up.
+
+#### be20221574 | BATMAN → BRUCE | x2
+I know you’re part of this, Hill. You, Falcone, Wayne...
+
+#### 5a42ba6c24 | HILL → BATMAN | x2
+Whatever happened in the past it’s nothing compared to what’s happening now.
+
+#### 8b4b992629 | HILL → BATMAN | x2
+He’s not the only child of Arkham.
+
+#### 66b82c833b | HILL → BATMAN | x2
+This is bigger than just Penguin. There are more children of Arkham. People whose families were destroyed by Wayne.
+
+#### 7f955f7695 | HILL → REGINA, HARVEY | x5
+They’ll make Gotham pay for his sins.
+
+#### ae806476f8 | HILL → BATMAN | x2
+Penguin’s got planned now.
+
+#### 92ce5c89d9 | HILL → BATMAN | x2
+Then Thomas Wayne was murdered -- solved all our problems. Always wanted to thank Joe Chill for the favor.
+
+#### bad5e9a7b2 | HILL → BRUCE, BATMAN | x5
+Penguin isn’t the only child of Arkham. There are others whose families were destroyed by Wayne.
+
+#### 5038f47e5d | BATMAN → HILL | x2
+They’ll have to go through me first.
+
+#### 114fb43181 | BATMAN → HILL | x4
+And that’s not going to happen.
+
+#### f4239625f1 | BATMAN → HILL | x2
+Whatever they do to you. You deserve it.
+
+#### 78d5e8c445-LM | BATMAN → HILL | x2
+You don’t care about Gotham. You care about yourself.
+
+#### 43a21ed41c | BATMAN → HILL | x2
+You deserve whatever’s coming for you.
+
+#### e848bd95e0 | BATMAN → HILL | x2
+You can tell your story to the police. See what they think about it.
+
+#### 0fb6d30570 | HILL → BATMAN | x2
+You can’t hold me responsible for this!
+
+#### 36bcbf67dd-SM | HILL → BATMAN | x2
+It’s for everyone’s good that I kept Penguin happy.
+
+#### 25824491a1 | HILL → BATMAN | x2
+I’m going in front of all of Gotham tonight, if I hadn’t given him what he wanted--who knows what would have happened at the debate!
+
+#### 315f93ac49 | BATMAN → HILL | x2
+Gotham wouldn’t worry about Batman if they knew about Penguin and his crew.
+
+#### 0f7a8298cb | BATMAN → HILL | x2
+The city will thank me later if Hill tells me Penguin’s plans.
+
+#### 09f636ce1b | ALFRED → HILL | x4
+Battering the Mayor is not a good option.
+
+#### 1decb19454 | BATMAN → ALFRED | x2
+Someone has to protect Gotham--since the city’s own mayor won’t.
+
+#### 3d2bc2b3fe | HILL → BATMAN | x2
+If I hadn’t given Penguin what he wanted, he would have struck at the debate tonight.
+
+#### 1a932bdbfb-SM | HILL → ALFRED | x2
+I didn’t just do this for myself!
+
+#### e844be7b1a | ALFRED → BRUCE | x4
+Come home, Bruce. We’ll figure out how to foil Penguin’s plans.
+
+#### f6dcff49c0-LM | HILL → ALFRED | x2
+How did you get in here?
+
+#### ab9be8ceb4 | HILL → ALFRED | x2
+I’ll have to inform my security.
+
+#### 3fefe4745f | HILL → BATMAN | x2
+They’ll be here any moment.
+
+#### ba6d42e69d | HILL | x2
+But I certainly wouldn’t work with such a low life.
+
+#### 1a45113bc4 | HILL | x2
+I’m certainly not working with him.
+
+#### 05d3a600a6 | HILL → BATMAN | x2
+He’s no friend of mine. And I’m certainly not working with him.
+
+#### 0a74cdd78b | HILL → BATMAN | x2
+I know the threats to my city. But I’m not working with him.
+
+#### fea537aea7 | HILL → BATMAN | x2
+There’s nothing more to tell!
+
+#### 180c3833f7 | BATMAN → HILL | x2
+It’d be a shame to ruin that perfect smile of yours.
+
+#### 1a29ced410 | HILL → BATMAN | x2
+Just secrets that should have come out long ago!
+
+#### 9e0bee36df-LM | BATMAN → HILL | x2
+What secrets did you give him?
+
+#### 40d3a29d32 | BATMAN → HILL | x2
+You expect me to believe you’re blameless in all of this?
+
+#### ae8f53177f | HILL → BATMAN | x2
+After we saw what happened to them--people stopped trying.
+
+#### 9fc7aed474 | HILL → BATMAN | x2
+Joe Chill solved all our problems when he murdered Thomas Wayne.
+
+#### e70d4698d7 | HILL → BATMAN | x2
+The city should have given him a commendation.
+
+#### 244860a03a | HILL → BATMAN | x2
+I’m trying to protect Gotham!
+
+#### 9dcb72c457 | HILL → BATMAN | x2
+No one born into a pile of crap that deep can come out clean.
+
+#### 15219db998 | BATMAN → HILL | x2
+And we know that’s where he plans to strike.
+
+#### 2c6e4678b7 | HILL → ALFRED | x2
+Penguin and his partners have gathered an army of victims. The call themselves the Children of Arkham.
+
+#### 74122e107c | ALFRED → HILL | x2
+Remember...
+
+#### bb2a756555-SM | ALFRED → SELINA | x2
+I never thought I would echo Ms. Kyle?s advice, but remember...
+
+#### b4c8876805 | choice/UI, BRUCE → HILL, LUCIUS | x4
+Don’t lie to me!
+
+#### a0e6ab3962 | choice/UI → HILL | x2
+What proof do you have?
+

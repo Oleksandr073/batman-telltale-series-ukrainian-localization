@@ -1,0 +1,671 @@
+﻿#### 2d0974a181 | BATMAN, choice/UI → ALFRED, ASSISTANT, NEIGHBOR | x18
+I’m going in.
+
+#### 23b9f77155 | ALFRED → BATMAN | x2
+The Drone’s cameras and scanning tech are fully functional.
+
+#### bdc919c586 | BRUCE, BATMAN, LADYARKHAM, FALCONE → BRUCE, ALFRED, OSWALD | x33
+Good.
+
+#### 2fdc8bbb1f | BATMAN → ALFRED | x2
+Gotta be Falcone’s hideout.
+
+#### aed67c6054 | VICKI, ALFRED, SELINA, JOKER → BRUCE, BATMAN, ZSASZ | x49
+Bruce.
+
+#### 112ff46133 | ALFRED → BATMAN | x2
+Re-activating Drone cameras.
+
+#### be25a54419 | ALFRED, LUCIUS → BATMAN, BRUCE | x4
+Ready when you are.
+
+#### 7f420221db | BATMAN, COA01 → ALFRED, PENGUIN | x4
+Nothing here.
+
+#### acc8ab32a6 | BATMAN → ALFRED | x2
+Good point of entry.
+
+#### c5ad3f2ab3 | BATMAN → ALFRED | x2
+Cameras.
+
+#### 1f52cf3c61 | ALFRED → BATMAN | x2
+The entire floor is under surveillence.
+
+#### 9bc7fa9f59 | ALFRED → BATMAN | x2
+You’ll be detected as soon as you enter.
+
+#### 2cdac4682c | BATMAN → ALFRED | x2
+No time for subtlety.
+
+#### 9ce42408a4 | ALFRED → BATMAN | x2
+The barman appears to be armed.
+
+#### 837e1204f2 | BATMAN → ALFRED | x2
+Rough customers.
+
+#### 782b7c9847 | ALFRED, LUCIUS → BRUCE, BATMAN | x10
+Indeed.
+
+#### f62d990c3c | ALFRED → BATMAN | x2
+The white rose. Falcone’s symbol.
+
+#### cec81ff3a4 | BATMAN → FALCONE | x2
+A red rose, after tonight.
+
+#### 862d39150e-LM | FALCONE → ALFRED | x2
+Show yourself!
+
+#### 348cee5fa5 | FALCONE → ALFRED | x2
+Goddamn circus freak.
+
+#### be1ba52b81 | FALCONE, GORDON, LUCIUS → ALFRED, BATMAN, BRUCE | x6
+Christ!
+
+#### 2489e69953 | ALFRED → FALCONE | x2
+EMP armed.
+
+#### c1eba22907 | FALCONE → ALFRED | x2
+You can’t sneak up on me...
+
+#### 9cfb9ab5ff | FALCONE → ALFRED | x2
+Get your goddamn hands off of my suit!
+
+#### 51b7533094 | BATMAN → FALCONE | x4
+It’s over, Falcone.
+
+#### 0c607a41c8-LM | FALCONE → BATMAN | x4
+You got a lot to learn, kid.
+
+#### a6e6c754d6 | ALFRED → FALCONE | x2
+Explosives armed!
+
+#### 7668434e58 | ALFRED → FALCONE | x2
+Fire when ready!
+
+#### 5a010c41ee | MOBSTER01 → ALFRED | x2
+Still healing from the last time, I bet.
+
+#### e2298ee008 | MOBSTER02 → ALFRED | x2
+Yeah. No broken bones.
+
+#### d431487e70 | MOBSTER01 → FALCONE | x2
+You make your rounds?
+
+#### ac606034d3 | ALFRED → MOBSTER01 | x2
+Well, it won’t be as easy as ringing the doorbell.
+
+#### bd12c545a9 | ALFRED → FALCONE | x2
+That’s the most heavily guarded door in the building.
+
+#### 1aa6e53667 | FALCONE → ALFRED | x2
+How about this one?
+
+#### 0f4404b352 | FALCONE → ALFRED | x2
+Do you know who my lawyers... my lawyers are?!
+
+#### ce99969696 | FALCONE → BATMAN | x2
+For you.
+
+#### db4696632d-SM | BATMAN → FALCONE | x2
+I found your calling card at the docks.
+
+#### 5ac3ee4d47 | BATMAN → FALCONE | x2
+The white rose.
+
+#### 2c1f4224e1 | FALCONE → BATMAN | x2
+Something reeks about this whole thing.
+
+#### 0689f71dd9 | BATMAN → FALCONE | x2
+Answers! Now! Or you fall.
+
+#### 159364f743 | FALCONE → BATMAN | x2
+Go ahead, give them a show.
+
+#### d3f6b7ac90 | FALCONE → BATMAN | x2
+What a place to call home.
+
+#### 5f73256af4 | BATMAN → FALCONE | x2
+Let’s find Falcone.
+
+#### 17187cd843 | HARVEY, BATMAN, SELINA, GORDON → VICKI, FALCONE, HARVEY | x15
+Alright.
+
+#### 72d8852354-LM | ALFRED → FALCONE | x2
+Have you formulated your plan of attack?
+
+#### 5b109d9dcb | FALCONE → BATMAN | x2
+I run Gotham.
+
+#### 88fcb8d31b | FALCONE → BATMAN | x2
+And a masked monster like you is not gonna stop me.
+
+#### cd91362754 | FALCONE → ALFRED | x2
+You can’t do this to me!
+
+#### 99c9b0a716 | FALCONE | x2
+I’m a respectable businessman!
+
+#### b58c31700b-L? | FALCONE | x2
+You broke into my club!
+
+#### c0da0b2ac3 | FALCONE | x2
+Get your goddamn hands off of me!
+
+#### 6b9c770294 | FALCONE | x2
+You think that’s gonna work?
+
+#### ff88d2205e | FALCONE | x2
+I’m gonna light up this whole fucking place!
+
+#### 3b81e6f713 | FALCONE, GORDON → OSWALD | x4
+Heh.
+
+#### 72e8a8cdd6-SM | FALCONE | x2
+I got rights to defend myself.
+
+#### 6bf2eb9e00-LF | FALCONE → MOBLADY02 | x2
+You got no goddamn right to be here!
+
+#### be65b9e347 | BRUCE, HARVEY, SELINA, LUCIUS → BRUCE, VICKI, BATMAN | x124
+What?
+
+#### d071d25a65 | MOBLADY02 → FALCONE | x2
+Where’s Nikki?
+
+#### 3204e2bc24 | MOBLADY03 → MOBLADY02 | x2
+In lock-up.
+
+#### 37631f8dba | MOBLADY02 → MOBLADY03 | x2
+Again? Christ, Kimmy. What did they pinch him for now?
+
+#### 74b30c40a0 | MOBLADY03 → MOBLADY02 | x2
+Some hit down at the docks.
+
+#### 4fa9c5a668 | MOBLADY02 → MOBLADY03 | x2
+Nikki? No. I didn’t think he was a hatchet man.
+
+#### e4eb01edd1 | MOBLADY03 → MOBLADY04 | x2
+Honey, I’m always his alibi.
+
+#### 7b89fe7afa | MOBLADY04 → MOBLADY03 | x2
+I’d like to make a toast.
+
+#### dded9fa376 | MOBSTER06 → MOBLADY04 | x2
+Here’s to doing our part!
+
+#### a2378b0810 | MOBLADY04 → MOBLADY03 | x2
+To... Gotham: the official crime capital of the country!
+
+#### 7d744ade93 | MOBSTER05 → MOBLADY04 | x2
+I’ll toast to that.
+
+#### 162b2e9142 | MOBLADY04 → MOBLADY01 | x2
+Salude!
+
+#### c52cddb2de | MOBLADY01 → MOBLADY04 | x2
+Tell me another.
+
+#### a4738e8656 | MOBSTER04 → MOBLADY01 | x2
+So, are you alone?
+
+#### 1f5e988fec | MOBLADY01 → MOBSTER04 | x2
+Not any more I’m not.
+
+#### c86f5a33b9 | MOBSTER04 → MOBLADY01 | x2
+What’s the difference between the mafia and city council?
+
+#### f7ff150bfb | MOBSTER04 → MOBLADY01 | x2
+Only one of them is organized.
+
+#### 2e91733bb3 | MOBLADY01 → MOBSTER04 | x2
+I dunno. Aren’t they the same thing?
+
+#### df7f7b5910 | MOBLADY01 → MOBSTER04 | x2
+You’re cute.
+
+#### faaf2afa76 | MOBLADY02 → MOBLADY01 | x2
+Does he gotta an alibi?
+
+#### b49ecc8c50 | MOBSTER02 → MOBLADY01 | x2
+All it took was a couple of c-notes this time.
+
+#### ad59f79ff7 | MOBSTER02 → MOBSTER01 | x2
+Nice and easy.
+
+#### 6391c6d969-LM | MOBSTER01 → MOBSTER02 | x2
+Nice and easy, my ass. [hushed] I know you burned powder tonight. The whole city can smell it.
+
+#### c43765afc7 | MOBSTER02 → MOBSTER01 | x2
+It’ll make it hurt less.
+
+#### 4bbd886699 | MOBSTER02 → MOBSTER01 | x2
+Here. Have another drink.
+
+#### fe3f151534 | MOBSTER01 → MOBSTER02 | x2
+You’re a real punk.
+
+#### 2e4d7bc55d | MOBSTER02 → MOBSTER01 | x2
+That’s what they pay me for.
+
+#### d3cae750f7 | MOBSTER05 → MOBSTER02 | x2
+To what?
+
+#### 28ce5a623a | MOBSTERO1 → MOBSTER02 | x2
+Tell your bookie I’m puttin’ down 5-g on Dent to win.
+
+#### d1668c73a5 | MOBSTER02 → MOBSTER01 | x2
+I’m not going to Tony with that. Betting on that rat D.A. -- it’s heresy.
+
+#### d12151706a | MOBSTER01 → MOBSTER02 | x2
+The odds say he’s got the edge.
+
+#### 2363e4793e | MOBSTER02 → MOBSTERO1 | x2
+Politics, it ain’t horse racing. Whoever wins, there’s consequences that are bigger than your wallet.
+
+#### 00963d5627 | MOBSTER01 → MOBSTER02 | x2
+I don’t know... my wallet’s pretty damn big.
+
+#### 34cc8cef12-LM | MONBSTER02 → MOBSTER01 | x2
+I’ll remember you said that when I’m peelin’ your face of one of Falcone’s friers.
+
+#### 881dbf5601 | MOBSTERO1 → ALFRED | x2
+I’ll take my chances.
+
+#### ed7e110aa8 | choice/UI → MOBSTER02, ALFRED | x4
+Modern Art
+
+#### e496fd2013 | choice/UI → MOBSTER01 | x2
+Bar
+
+#### e542160526 | choice/UI → MONBSTER02 | x2
+Balcony
+
+#### 6c3a72eaf6 | choice/UI → MOBSTERO1 | x2
+Office
+
+#### 3e19acd6a8 | choice/UI | x2
+Rose Sigil
+
+#### 9634357db8 | choice/UI → LELAND | x4
+Security Camera
+
+#### acae9ab8b8 | choice/UI | x6
+Patrons
+
+#### 2b150fdae9 | choice/UI | x2
+Mobster
+
+#### 00c3660bba | choice/UI | x2
+Balcony Gunman
+
+#### 8b4854a021 | choice/UI | x2
+Isolated from guests inside, easy to take by surprise.
+
+#### b145951cde | choice/UI | x2
+Balcony Railing
+
+#### 9d80d48e7d | choice/UI | x2
+Presents an unexpected point of attack.
+
+#### b197d0df28 | choice/UI | x2
+Upper Balcony
+
+#### e240977414 | choice/UI | x2
+Offers direct access to main balcony and entry point.
+
+#### 15ccb289ff | choice/UI | x2
+Staircase
+
+#### f34ea14df8 | choice/UI | x2
+Large, steel frame staircase from upper floor. Turns on a single landing.
+
+#### ceed70128d | choice/UI | x2
+Marble Pillar
+
+#### 2f59e60190 | choice/UI | x2
+Load bearing structure is both impenetrable and immoveable.
+
+#### d1982c83f9 | choice/UI | x2
+Entryway Gunman
+
+#### 2676e10ad5 | choice/UI | x2
+Close to entry point. Strategically positioned, should be quickly neutralized.
+
+#### a0231ec8f8 | choice/UI | x2
+Large Coffee Table
+
+#### 7d73676f8f | choice/UI | x2
+Appears to be heavy, very solidly constructed.
+
+#### 63655d3bfb | choice/UI | x2
+Seated Gunman
+
+#### 2ee434a46a | choice/UI | x2
+Seated, talking to woman on sofa. Distracted and unprepared for action.
+
+#### 2e221ad764 | choice/UI | x2
+Folding Screen
+
+#### 58bc0d8044 | choice/UI | x2
+Large, wooden, three-paneled, folding privacy screen.
+
+#### 2295324583 | choice/UI | x2
+Outer Window Gunman
+
+#### 2291a69850 | choice/UI | x2
+Furthest from entry point, impossible to surprise. Will require stragetic attack.
+
+#### 419930790c | choice/UI → ALFRED | x2
+Large, solid cube-shaped piece made of ceramic and metal.
+
+#### 0da33d446b | choice/UI → ALFRED, MONTOYA | x6
+Hanging Light
+
+#### 3f575ff509 | choice/UI → ALFRED | x2
+Heavy light fixture hanging from ceiling, approximately 3m from floor
+
+#### 0489d3cb74 | ALFRED → BATMAN | x2
+Keep looking. I imagine Falcone’s office is well-protected.
+
+#### 9ed9b3d5d4 | ALFRED → BATMAN | x2
+Let’s get back on track.
+
+#### 52d7f11324-SM | BATMAN → ALFRED | x2
+I’m sure Falcone’s office is on this floor.
+
+#### 612bf979cb | BATMAN → ALFRED | x2
+Hmm. I see a couple of options for taking this guy down...
+
+#### 186e692e43 | ALFRED → BATMAN | x2
+This one might be tricky.  Any ideas?
+
+#### 1748711488-SM | BATMAN → ALFRED | x2
+I’ve got it covered, Al.
+
+#### 516981711c | ALFRED → BATMAN | x2
+Keep looking.
+
+#### be2b74957d | choice/UI, BATMAN → ALFRED, THOMAS, VICKI | x10
+Don’t make me hurt you.
+
+#### bcd9c05d91 | choice/UI → ALFRED | x2
+TALK!
+
+#### ecae71297e-LM | choice/UI → FALCONE | x2
+You’ve lost, Falcone!
+
+#### e6620876fc | ALFRED → BATMAN | x2
+Let ‘em have it, sir.
+
+#### 9ef0220162 | ALFRED → BATMAN | x2
+This isn’t a night club, it’s a bloody armory.
+
+#### 8ee83f54bc | ALFRED → BATMAN | x2
+Falcone’s thugs are armed to the teeth, they won’t go down easy.
+
+#### c2e867019d | BATMAN → ALFRED | x2
+I like a challenge.
+
+#### 3bb1494426 | ALFRED → FALCONE | x2
+There we are.
+
+#### 0b0af560b6 | FALCONE → BATMAN | x2
+I’m gonna light up this whole goddamn place!
+
+#### c0a54e93e4 | FALCONE → BATMAN | x4
+Alright, alright.
+
+#### 53cc73b879 | FALCONE → ALFRED, BATMAN | x4
+I’ll talk.
+
+#### d5640e28fb | FALCONE → BATMAN | x2
+You wouldn’t--
+
+#### 380bbe7526-LM | BATMAN → FALCONE | x2
+Spare yourself the pain, old man.
+
+#### 0075e111a1 | FALCONE → BATMAN | x2
+I been through worse--
+
+#### 47e47a3ee7 | FALCONE → BATMAN | x2
+Okay, alright, I’ll talk!
+
+#### 2c8f3be7d2 | FALCONE → BATMAN | x2
+What? You throwin’ in the towel already?
+
+#### d2d695dbe7-SM | FALCONE → BATMAN | x2
+I could go a few more rounds.
+
+#### 1a813ff84b-LM | BATMAN → FALCONE | x2
+You fought well, but it’s over.
+
+#### 8b9b4df691 | FALCONE → BATMAN | x2
+Goddamn psycho.
+
+#### 203a28ddf1 | FALCONE → BATMAN | x2
+It doesn’t scare me.
+
+#### d3884bc51d | FALCONE → BATMAN | x2
+Okay, alright!
+
+#### e7d2f47012 | FALCONE → BATMAN | x2
+This whole no talkin’ routine...
+
+#### 7e732b2299 | BATMAN → FALCONE | x2
+Don’t try me.
+
+#### 0720d201db | FALCONE → BATMAN | x2
+And it ain’t a dead bat!
+
+#### b9467dad92 | BATMAN → FALCONE, HARVEY | x4
+The chemicals!
+
+#### 44e66a6574 | BATMAN → FALCONE | x2
+Where are they?!
+
+#### 03c92d8c77-LM | FALCONE → BATMAN | x2
+Those chemicals you’re so riled up about--they’re mine, alright?
+
+#### 31339c5781-SM | FALCONE → BATMAN | x2
+But someone’s tryin’ to cut me out of the deal, because I did not make that mess at the docks.
+
+#### 50c6b66671 | FALCONE → BATMAN | x2
+Ha! Gotham!
+
+#### dc34ff0cc0 | FALCONE → BATMAN, HARVEY | x12
+It’s... the Waynes.
+
+#### ea93562af2 | FALCONE → BATMAN | x4
+Well... the Waynes are the biggest gangsters in Gotham!
+
+#### 99d45553b0 | FALCONE → BATMAN | x4
+They’re behind all this.
+
+#### c0ce14ad7f | BRUCE, BATMAN, LELAND, LUCIUS → ALFRED, HARVEY, REPORTER03 | x59
+What do you mean?
+
+#### 1b83ac9c21 | FALCONE → BATMAN | x2
+I’ll be walkin’ free by tomorrow morning.
+
+#### ad60a6e09e | FALCONE → BATMAN | x2
+You really-- you really wanna take down crime?
+
+#### e939d77294 | BATMAN → FALCONE | x2
+Still wanna play games?
+
+#### c8264236c9 | BATMAN → FALCONE | x4
+Spill it, Falcone.
+
+#### ff25203a65 | BRUCE, JOKER, BATMAN → MONTOYA, GORDON, LUCIUS | x10
+Nice.
+
+#### 0b171565e8 | MONTOYA → BATMAN | x2
+Take him out!
+
+#### ab18874a30 | MONTOYA → BATMAN | x2
+Now we only have to take one of you down.
+
+#### 32977d5514 | MONTOYA → BRUCE | x2
+Thanks for the assist.
+
+#### dae4641828 | MONTOYA → ALFRED | x2
+Open fire!
+
+#### a0721c0013 | MONTOYA → ALFRED | x2
+Oh my god...
+
+#### 5c6584a6d6 | ALFRED → MONTOYA | x2
+I’ll watch the fireworks from here.
+
+#### 49070dcea4-SM | FALCONE → MONTOYA | x2
+You think I wanted to lead YOU here?
+
+#### a6457ab4f3 | BATMAN → FALCONE | x2
+Then who did?
+
+#### 2e5d1ec6c9 | FALCONE → ALFRED | x2
+No, we’re done!
+
+#### ae8a97fee2 | FALCONE → BATMAN | x2
+Gotham’s watching now.
+
+#### b01c679643 | FALCONE → BATMAN | x2
+Wait, what the hell are you-
+
+#### cea6739148 | FALCONE | x2
+Woah, woah wait, wait oh, oh Jesus!
+
+#### 005a510097 | FALCONE → BATMAN | x2
+Augh! Christ almighty!
+
+#### 44efa85e57 | FALCONE → BATMAN | x2
+Ok, Ok! I’ll talk! I’ll talk!
+
+#### b712f55f87 | BATMAN → FALCONE | x4
+While you still can.
+
+#### f827d3479d | FALCONE → BATMAN | x2
+You really wanna save this city?
+
+#### 26e1219f3a | FALCONE → BATMAN | x2
+You wanna save this city?
+
+#### 44b551eeec | choice/UI → FALCONE | x2
+Drag in any direction to maneuver the drone.
+
+#### 0cf5214633 | choice/UI → FALCONE | x2
+Maneuver the drone using<ui_notification_keyboardAndMouseWasd.d3dtx:-20>
+
+#### a8fa548243 | choice/UI → FALCONE | x2
+Use the <ui_notification_analogStickLeft.d3dtx:-30> to maneuver the drone and <ui_notification_analogStickRight.d3dtx:-30> to move the reticle.
+
+#### 46afad781f | BATMAN → FALCONE | x2
+Alright... let’s find Falcone.
+
+#### 29673b9f2a | BATMAN → FALCONE | x4
+Stay down, Falcone.
+
+#### 0d63179485 | BATMAN → FALCONE | x4
+We can end this now.
+
+#### 5770f1faa3-LM | BATMAN → FALCONE | x2
+You’ve lost, Falcone.
+
+#### 4e25f2597c | BATMAN → FALCONE | x2
+It’s over, Falcone. I win.
+
+#### 7fd47c56d6 | BATMAN | x2
+The nerve agent... where is it?!
+
+#### d287927124 | BATMAN | x2
+Where’s it being released?!
+
+#### 28452a2db0 | BATMAN → FALCONE | x2
+The water supply?! The election?!
+
+#### ee6e603ac7 | choice/UI → FALCONE | x2
+Brutalize Falcone
+
+#### 0fa58b290d | choice/UI → FALCONE | x2
+Arrest Falcone
+
+#### 8074a2ec05 | choice/UI → FALCONE | x2
+Drone Shoot Office
+
+#### 658581fc37 | FALCONE → BATMAN | x2
+I smell a set up!
+
+#### ea90d1422d | ALFRED → BATMAN | x2
+Your turn to crash his party.
+
+#### 686bec5860 | FALCONE → ALFRED | x2
+We’re all bein’ played here... includin’ you.
+
+#### ee80b10709 | ALFRED → FALCONE | x2
+Your turn to be an unwelcome guest in his house.
+
+#### 96d5e6cd0d | ALFRED → BATMAN, BRUCE | x8
+Very good, sir.
+
+#### a26b30f6f6-SM | BATMAN → ALFRED | x2
+I planned for the hard way.
+
+#### 723cc53c1c | BATMAN → ALFRED | x2
+Wouldn’t mind breaking that.
+
+#### bb209cb730 | BATMAN → ALFRED | x2
+And Falcone didn’t lik
+
+#### 5732cb7e0c | BATMAN | x2
+Four armed guards.
+
+#### 9d5e3eeacd | BATMAN | x2
+Too many to sneak past.
+
+#### 69ca8e5505 | BATMAN | x2
+Armed guards.
+
+#### d25c0fe301 | BATMAN | x2
+Stealth isn’t an option.
+
+#### 8698f0302e | BATMAN → ALFRED | x2
+No way to enter quietly.
+
+#### 6aac860f4e | BATMAN → ALFRED | x2
+There are several armed goons, too many to sneak past.
+
+#### 4f83ec2851 | BATMAN → ALFRED | x2
+I’ll have to take them out.
+
+#### bb8f999af6 | ALFRED → BATMAN | x2
+You do prefer going in “loud.“
+
+#### 50dee0ef22 | BATMAN → ALFRED | x2
+I’ll put together a plan of attack. Stand by.
+
+#### 003c5577c0 | BATMAN → ALFRED | x2
+And possibly more out of sight.
+
+#### 27a8a588f8 | BATMAN → ALFRED | x2
+Several armed guards.
+
+#### 31421ea7b9 | ALFRED → BATMAN | x2
+Well... I know you’re fond of making an entrance.
+
+#### 4608cc5dce | choice/UI → ALFRED | x2
+Arrest
+
+#### d2de08b6c1 | choice/UI → ALFRED | x2
+Brutalize
+
+#### 98708aa0af | choice/UI → FALCONE | x2
+Falcone
+
+#### 6868244f61 | choice/UI | x2
+^font:GameplayDisplayLarge^Falcone
+^^Brutalize
+
+#### a02cfdbca6 | choice/UI | x2
+^font:GameplayDisplayLarge^Falcone
+^^Arrest
+
