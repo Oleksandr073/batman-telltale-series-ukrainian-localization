@@ -164,7 +164,7 @@ Ukrainian form depends on gender:
   listener is guessed (a `[to X]` note, a name used in direct address, or the neighbouring speaker), so check the
   scene when the note says so.
 Values: `M`, `F`, `?` (unknown: decide from the scene). Choice options are spoken by Bruce (M).
-Speaker genders live in `reference/speaker_genders.xlsx`. After editing it, run `build_tm.py` again; existing
+Speaker genders live in `speaker_genders.xlsx`. After editing it, run `build_tm.py` again; existing
 translations are kept and rows whose gender changed are marked "check gender forms".
 
 **ти/ви.** Decisions per character pair are in `reference/speakers.md` (suggested values plus line counts; the user
@@ -182,14 +182,14 @@ BAT_* folders); the scripts stop with a clear message if they are pointed at the
 
 Translation table (run from the repo root):
 ```
-python .claude/skills/telltale-batman-localization/scripts/build_tm.py data/original_data reference/speaker_genders.xlsx translation_table.xlsx [--unique-original data/unique_original_data]
-python .claude/skills/telltale-batman-localization/scripts/apply_translations.py data/original_data reference/speaker_genders.xlsx translation_table.xlsx data/localized_data --unique data/unique_original_data data/unique_localized_data [--overrides overrides.tsv] [--only BM_]
+python .claude/skills/telltale-batman-localization/scripts/build_tm.py data/original_data speaker_genders.xlsx translation_table.xlsx [--unique-original data/unique_original_data]
+python .claude/skills/telltale-batman-localization/scripts/apply_translations.py data/original_data speaker_genders.xlsx translation_table.xlsx data/localized_data --unique data/unique_original_data data/unique_localized_data [--overrides overrides.tsv] [--only BM_]
 python .claude/skills/telltale-batman-localization/scripts/scene_view.py data/original_data reference/scenes
 ```
 `build_tm.py` rebuilds the table and keeps filled translations (unmatched ones are saved to
 `translation_table.lost.xlsx`, never silently dropped). `apply_translations.py` never changes the English files;
 it writes `data/localized_data/` and validates every file. `scene_view.py` writes the read-only conversation-order views.
-Speaker statistics: `python .claude/skills/telltale-batman-localization/scripts/speakers.py data/original_data reference/speaker_genders.xlsx analysis`, then
+Speaker statistics: `python .claude/skills/telltale-batman-localization/scripts/speakers.py data/original_data speaker_genders.xlsx analysis`, then
 `python .claude/skills/telltale-batman-localization/scripts/make_speakers_md.py`.
 
 Validate a translation against the English originals (single file or whole folder tree):
@@ -220,7 +220,7 @@ file in them is a unique-text file (starts with `#### `), so a wrong folder name
 English record with its text lines replaced by the matching `data/unique_localized_data` entry (records not in the unique
 folder must be unchanged English). It reads only the folders, not the table, and catches hand edits and missed
 records [VERIFIED with deliberate mistakes]. Run it on its own any time:
-`python .claude/skills/telltale-batman-localization/scripts/check_consistency.py data/original_data reference/speaker_genders.xlsx data/unique_localized_data data/localized_data`.
+`python .claude/skills/telltale-batman-localization/scripts/check_consistency.py data/original_data speaker_genders.xlsx data/unique_localized_data data/localized_data`.
 `data/localized_data/` started as an exact copy, so `git diff data/localized_data`
 shows exactly which lines were replaced (`git diff --word-diff=plain` is easiest to read), and untranslated files stay byte-identical. An import
 with an empty table changes nothing [VERIFIED]. `.gitattributes` forces CRLF for both folders on every computer.

@@ -4,7 +4,7 @@ Usage:
   python build_tm.py EN_ROOT GENDERS OUT_TABLE [--unique-original UNIQUE_EN_DIR]
 
   EN_ROOT      folder with the English BM_* and BAT_* folders
-  GENDERS      reference/speaker_genders.xlsx (speaker_id, gender M/F/?)
+  GENDERS      speaker_genders.xlsx (speaker_id, gender M/F/?)
   OUT_TABLE    table to write: .xlsx (Excel/LibreOffice/Google Sheets, with a Help sheet) or .tsv.
                If it already exists, filled-in Ukrainian cells are kept (matched by key). Close it in Excel first.
   --unique-original  also (re)write this folder (data/unique_original_data): every unique English text once, built

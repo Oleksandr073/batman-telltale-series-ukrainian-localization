@@ -11,11 +11,11 @@ with the text replaced).
 | File / folder | What it is |
 |---|---|
 | `translation_table.xlsx` | **The translation table**: one row per unique text (~44 000 rows). Type Ukrainian in the yellow column. The *Help* sheet explains every column. |
+| `speaker_genders.xlsx` | Gender of each speaker (M / F / ?). It fills the *Speaker gender* / *Listener gender* columns of the translation table. Fill in the orange cells, then rebuild the table (command 3). |
 | `data/original_data/` | English game text (222 files). **Never edit.** `BM_*` = normal mode, `BAT_*` = Shadows/Noir mode. |
 | `data/localized_data/` | The same 222 files with Ukrainian text — the final result for the game. Written only by the script below — don't edit by hand. |
 | `data/unique_original_data/` | Every unique English text once (~43 900), in files named like the game files, built from `data/original_data/` only, never from the gender file. Each entry shows who speaks → to whom (guessed from the scene) and how many times the text is used. Read-only: the import only checks it. |
 | `data/unique_localized_data/` | The same entries with the Ukrainian from the table (untranslated texts stay English). Written by the script. The ~230 texts that need separate male/female Ukrainian versions appear once per version, marked e.g. `listener: female`. |
-| `reference/speaker_genders.xlsx` | Gender of each speaker (M / F / ?), used for Ukrainian verb/adjective forms. |
 | `reference/speakers.md` | Who talks to whom, with ти/ви decisions. |
 | `reference/scenes/` | Read-only copies of every game file in conversation order (all lines, with repeats) — for reading the context around a line. Not in git; see command 4. |
 | `reference/glossary.md` | Names of characters, places and gadgets — translate them the same way everywhere. |
@@ -37,7 +37,7 @@ Run all commands from this folder (the repo root). **Close the Excel files befor
 **1. Put the translations into the files** (after editing `translation_table.xlsx`):
 
 ```
-python .claude/skills/telltale-batman-localization/scripts/apply_translations.py data/original_data reference/speaker_genders.xlsx translation_table.xlsx data/localized_data --unique data/unique_original_data data/unique_localized_data
+python .claude/skills/telltale-batman-localization/scripts/apply_translations.py data/original_data speaker_genders.xlsx translation_table.xlsx data/localized_data --unique data/unique_original_data data/unique_localized_data
 ```
 
 It checks that `data/unique_original_data/` still matches `data/original_data/` (it never writes it), then writes the Ukrainian from the
@@ -63,13 +63,13 @@ want to see it anyway: `git diff --word-diff=plain data/localized_data`.
 **Check the folders again later** (for example after a merge or a hand edit), without changing anything:
 
 ```
-python .claude/skills/telltale-batman-localization/scripts/check_consistency.py data/original_data reference/speaker_genders.xlsx data/unique_localized_data data/localized_data
+python .claude/skills/telltale-batman-localization/scripts/check_consistency.py data/original_data speaker_genders.xlsx data/unique_localized_data data/localized_data
 ```
 
 **3. After changing `speaker_genders.xlsx`, rebuild the table** (your translations are kept):
 
 ```
-python .claude/skills/telltale-batman-localization/scripts/build_tm.py data/original_data reference/speaker_genders.xlsx translation_table.xlsx
+python .claude/skills/telltale-batman-localization/scripts/build_tm.py data/original_data speaker_genders.xlsx translation_table.xlsx
 ```
 
 A gender change can split a text into separate male/female rows. Then run command 1 again;

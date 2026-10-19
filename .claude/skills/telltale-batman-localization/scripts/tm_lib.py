@@ -8,7 +8,7 @@ Core text: each text line is split into  prefix + core + suffix.
 
 Ukrainian gender: a core is split into separate table rows by speaker gender when it has first-person
 past tense / "I'm sure"-type words, and by listener gender when it has "you" + past tense / adjective.
-Speaker gender comes from reference/speaker_genders.xlsx; the listener is guessed (see guess_listeners).
+Speaker gender comes from speaker_genders.xlsx; the listener is guessed (see guess_listeners).
 """
 import collections
 import hashlib

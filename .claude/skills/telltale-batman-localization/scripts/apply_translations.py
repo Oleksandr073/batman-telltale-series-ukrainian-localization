@@ -5,7 +5,7 @@ Usage:
                                [--overrides OVERRIDES_TSV] [--only PREFIX]
 
   EN_ROOT        English BM_* and BAT_* folders (never modified)
-  GENDERS        reference/speaker_genders.xlsx - must be the same file the table was built with
+  GENDERS        speaker_genders.xlsx - must be the same file the table was built with
   TABLE          table from build_tm.py (.xlsx or .tsv) with the "Ukrainian" column (partly) filled
   OUT_ROOT       where translated files are written (same folder structure as EN_ROOT)
   --overrides    optional TSV with columns: file, id, ukrainian[, comment]
