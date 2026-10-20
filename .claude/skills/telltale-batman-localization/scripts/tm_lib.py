@@ -381,7 +381,24 @@ def write_table(path, rows):
     for text in HELP:
         hs.append([text])
     hs['A1'].font = Font(bold=True, size=14)
-    wb.save(path)
+    save_stable(wb, path)
+
+
+def save_stable(wb, path):
+    """Save an .xlsx with fixed dates instead of the save time, so the same table gives exactly the same file and
+    git shows it as changed only when its content changes."""
+    import io
+    import zipfile
+    buf = io.BytesIO()
+    wb.save(buf)
+    src = zipfile.ZipFile(io.BytesIO(buf.getvalue()))
+    with zipfile.ZipFile(path, 'w', zipfile.ZIP_DEFLATED) as out:
+        for info in src.infolist():
+            data = src.read(info.filename)
+            if info.filename == 'docProps/core.xml':
+                data = re.sub(rb'(<dcterms:(?:created|modified)[^>]*>)[^<]*', rb'\g<1>2000-01-01T00:00:00Z', data)
+            out.writestr(zipfile.ZipInfo(info.filename, date_time=(2000, 1, 1, 0, 0, 0)), data,
+                         compress_type=zipfile.ZIP_DEFLATED)
 
 
 def reference_row_edits(path):
