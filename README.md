@@ -20,6 +20,7 @@ with the text replaced).
 | `ai_context/style_guide.md` | Translation style decisions: quotes, apostrophe, punctuation, swearing, tone. |
 | `ai_context/speakers.md` | Who talks to whom, with the confirmed ти/ви decisions. |
 | `ai_context/scenes/` | Read-only copies of every game file in conversation order (all lines, with repeats) — for reading the context around a line. Not in git; create with `npm run scenes`. |
+| `ai_context/official_usage.txt` | Which texts Telltale's official translations (8 languages) translated. It fills the *Official* column of the table. Made once from the official game files, which are not in this repo — keep it as it is. |
 | `ai_context/glossary.md` | Names of characters, places and gadgets — translate them the same way everywhere. |
 | `.claude/skills/telltale-batman-localization/` | Format rules (`SKILL.md`) and the scripts. |
 
@@ -100,6 +101,9 @@ The full commands behind each shortcut are in `package.json`.
 - Multi-line texts are joined with ` ¶ `. Keep the same number of lines: type `¶` or press Alt+Enter between them.
   A text without `¶` is one line in the game: no line breaks (Alt+Enter) in its translation. The import skips such
   rows and names their row number (`#` column).
+- The *Official* column says how many official translations translated the text: `yes 8/8` = shown in the game,
+  `no 0/8` = no language translated it, so it is almost surely never shown (cut lines, alternate takes). It is only
+  for information: translate every row as usual.
 - Choices like `[Ignore]` are shown in the game: translate inside the brackets and keep the brackets.
 - Keep `...`, `--` and the ending punctuation as in the English text.
 - Follow `ai_context/style_guide.md`. Names come from `ai_context/glossary.md`, ти/ви from `ai_context/speakers.md`, and gender forms follow the *Speaker gender* /

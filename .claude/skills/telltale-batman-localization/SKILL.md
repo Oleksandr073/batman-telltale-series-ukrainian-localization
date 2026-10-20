@@ -150,6 +150,9 @@ validates them. Rules for the table:
 - Tabs are written as `\t`. Empty `ukrainian` = stays English.
 - Left out on purpose (they stay English): writers' notes, texts without letters, and subtitles that are only
   `[sighs]`-type notes (not shown in game).
+- `Official` column: `yes 8/8` / `some N/8` / `no 0/8` - how many of Telltale's 8 official translations translated
+  the text (from `ai_context/official_usage.txt`, made once from the official game files, which are not in the repo). ~62% of rows are `no 0/8`: almost
+  surely never shown in game. Information only - every row is still translated.
 - `Translator notes` column (blue): free notes for people, kept on rebuild like the translations; scripts never
   read it. Write your own questions/doubts there, never in other columns (they are recreated).
 - `notes` column: `same as row #N (almost)` (reuse that translation), `keep markup inside`, `N lines: keep N-1 ¶`,

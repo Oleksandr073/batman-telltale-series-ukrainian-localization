@@ -1,7 +1,8 @@
 """Build the translation table: every text to translate once, in play order, with context.
 
 Usage:
-  python build_tm.py EN_ROOT GENDERS OUT_TABLE [--order PLAY_ORDER] [--unique-original UNIQUE_EN_DIR]
+  python build_tm.py EN_ROOT GENDERS OUT_TABLE [--order PLAY_ORDER] [--official OFFICIAL_USAGE]
+                    [--unique-original UNIQUE_EN_DIR]
 
   EN_ROOT      folder with the English BM_* and BAT_* folders (data/original_data)
   GENDERS      speaker_genders.xlsx (speaker_id, gender M/F/?)
@@ -10,6 +11,8 @@ Usage:
                Close it in Excel first.
   --order      ai_context/play_order.txt: sections and game files in play order. Without it, files are sorted
                by name.
+  --official   ai_context/official_usage.txt (made once, saved in the repo): fills the "Official" column - how many
+               of Telltale's official translations translated the text. "no 0/8" = almost surely never shown.
   --unique-original  also (re)write this folder (data/unique_original_data): every unique English text once, built
                from EN_ROOT only (no genders). The import only checks it. It changes only if the English files do.
 
@@ -38,6 +41,26 @@ COPY_OVERLAP = 0.5          # a file sharing >= 50% of its texts with an earlier
 
 def load_old(path):
     return {r['key']: r for r in read_table(path)} if exists(path) else {}
+
+
+def load_official(path):
+    """official_usage.txt -> {'counts': {text hash: languages}, 'total': languages}, or None without --official."""
+    if not path:
+        return None
+    if not exists(path):
+        print(f'WARNING: {path} not found - the "Official" column stays empty')
+        return None
+    counts, total = {}, 8
+    with open(path, encoding='utf-8-sig') as fh:
+        for line in fh:
+            m = re.search(r'of the (\d+) languages', line)
+            if line.startswith('#'):
+                total = int(m.group(1)) if m else total
+                continue
+            h, _, n = line.strip().partition('\t')
+            if h:
+                counts[h] = int(n)
+    return {'counts': counts, 'total': total}
 
 
 def read_play_order(path, files):
@@ -74,7 +97,7 @@ def read_play_order(path, files):
 def main():
     args = sys.argv[1:]
     opts = {}
-    for flag in ('--unique-original', '--order'):
+    for flag in ('--unique-original', '--order', '--official'):
         if flag in args:
             i = args.index(flag)
             if i + 1 >= len(args):
@@ -89,6 +112,7 @@ def main():
     files = txt_files(root)
     check_root(files, root)
     sections = read_play_order(opts.get('--order'), set(files))
+    official = load_official(opts.get('--official'))
 
     info = {rel: analyze_records(read_records(os.path.join(root, rel))[0], genders) for rel in files}
     recs_by_id = {rel: sorted(read_records(os.path.join(root, rel))[0], key=lambda x: x['id']) for rel in files}
@@ -209,6 +233,10 @@ def main():
                     used_old.add(ok)
                     kept += bool(row['ukrainian'])
                     break
+        if official is not None:
+            n = official['counts'].get(parts(key)[0], 0)
+            total = official['total']
+            row['official'] = f"{'yes' if n == total else 'no' if n == 0 else 'some'} {n}/{total}"
         if row['guessed']:
             row['notes'].append('listener guessed - check scene')
         row['speakers'] = ', '.join(s for s, _ in row['speakers'].most_common(4))
