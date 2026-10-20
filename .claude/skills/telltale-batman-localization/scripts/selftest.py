@@ -40,17 +40,26 @@ RESULTS = []
 TITLE = {c[0]: c[1] for c in TABLE_COLUMNS}
 
 # ---------------------------------------------------------------------------------------------------------
-LATIN = 'abcdefghijklmnopqrstuvwxyz'
-CYR = ['а', 'б', 'ц', 'д', 'е', 'ф', 'г', 'х', 'і', 'й', 'к', 'л', 'м', 'н', 'о', 'п', 'к', 'р', 'с', 'т', 'у', 'в',
-       'ш', 'кс', 'и', 'з']
-TR = {l: c for l, c in zip(LATIN, CYR)}
-TR.update({l.upper(): c.upper() for l, c in zip(LATIN, CYR)})
+# fake Ukrainian: English letters -> Cyrillic, using all 33 Ukrainian letters so the game font is fully tested
+# (ч ш ґ ю я є ї ь come from letter pairs, e.g. night -> ніґт, cheer -> чєр, all -> аль)
+PAIRS = {'ch': 'ч', 'sh': 'ш', 'gh': 'ґ', 'oo': 'ю', 'ea': 'я', 'ee': 'є', 'ie': 'ї', 'll': 'ль'}
+SINGLE = dict(zip('abcdefghijklmnopqrstuvwxyz', ['а', 'б', 'ц', 'д', 'е', 'ф', 'г', 'х', 'і', 'й', 'к', 'л', 'м', 'н',
+                                                 'о', 'п', 'щ', 'р', 'с', 'т', 'у', 'в', 'ш', 'ж', 'и', 'з']))
+FAKE_LETTERS = re.compile('|'.join(PAIRS) + '|[a-z]', re.I)
+
+
+def _swap(m):
+    s = m.group(0)
+    c = PAIRS.get(s.lower()) or SINGLE[s.lower()]
+    return c.upper() if s[0].isupper() else c
+
+
 KEEP = re.compile(r'(\{[^{}]*\}|\^[^^]*\^|<<[^<>]*>>|<[^<>]+>| ¶ |\\t|\[alt\b[^\[\]]*\])', re.I)
 
 
 def fake(cell):
     """English table cell -> fake Ukrainian with every tag, ¶ and \\t kept."""
-    return ''.join(p if KEEP.fullmatch(p) else ''.join(TR.get(ch, ch) for ch in p) for p in KEEP.split(cell))
+    return ''.join(p if KEEP.fullmatch(p) else FAKE_LETTERS.sub(_swap, p) for p in KEEP.split(cell))
 
 
 def check(name, ok, detail=''):

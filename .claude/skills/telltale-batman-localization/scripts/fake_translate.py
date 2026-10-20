@@ -1,5 +1,5 @@
 """Fill the table with a FAKE Ukrainian translation, for testing the game build: every English letter is swapped
-for a Cyrillic one (Hello -> Хелло), tags, ¶ and punctuation are kept. End credits stay English (as planned for
+for a Cyrillic one (Good night -> Гюд ніґт), using all 33 Ukrainian letters to test the game font; tags, ¶ and punctuation are kept. End credits stay English (as planned for
 the real translation).
 
 Usage:
