@@ -12,6 +12,7 @@ Decisions for everyone who translates (people and AI). Format rules for tags and
 | Quotation marks | Same characters as the English: `“ ”` (and `‘ ’` inside). No «». | *Він назвав себе “Пінгвіном”.* |
 | Apostrophe | The same `’` (U+2019) as the English, also inside Ukrainian words. Never `'`. | *п’ять, м’ята, комп’ютер, Брюсів* |
 | Punctuation | Copy from the English line: `...` stays `...`, `--` stays `--`, `…` stays `…`, and the line ends the same way (or without punctuation if the English has none). | *I just-- → Я просто--* |
+| Times (2026-10-20) | 24-hour format, always two digits for the hour (add 0 before 1–9). No AM/PM. A time on its own line stays on its own line. | *8:32 PM → 20:32 · 6:06 AM → 06:06 · 12:15 AM → 00:15* |
 | Tags | Copy `{…}`, `^…^`, `<…>`, `{percent}` exactly; leading `{tags}`/`[ALT]` are added automatically. | *It sounds like an intern is finally{SmugA} putting… → Схоже, якийсь стажер нарешті{SmugA} знайшов…* |
 
 ## Swearing — strong, like the English (confirmed 2026-10-19)

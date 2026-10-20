@@ -107,6 +107,7 @@ The full commands behind each shortcut are in `package.json`.
   for information: translate every row as usual.
 - Choices like `[Ignore]` are shown in the game: translate inside the brackets and keep the brackets.
 - Keep `...`, `--` and the ending punctuation as in the English text.
+- Times in 24-hour format with two-digit hours: `8:32 PM` → `20:32`, `6:06 AM` → `06:06`.
 - Follow `ai_context/style_guide.md`. Names come from `ai_context/glossary.md`, ти/ви from `ai_context/speakers.md`, and gender forms follow the *Speaker gender* /
   *Listener gender* columns.
 
