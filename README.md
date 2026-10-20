@@ -63,6 +63,24 @@ Extra checks any time, without changing anything: `npm run check` (222 files vs.
 `npm run validate` (structure of the 222 files). After `git pull`/merge, run `npm run import` (or at least
 `npm run check`) before packing.
 
+## AI drafts
+
+Claude can write a first draft into the table, scene by scene; people review it there.
+
+1. `npm run ai:export -- ai_context/batches/<name>.txt --scene BM_pc_Batman101_data/env_mayorsoffice`
+   (or `--next 200`, add `--shown-only` for rows the official translations used) — the rows with an empty
+   Ukrainian cell, with context: who speaks to whom, genders, glossary names, ти/ви.
+2. Claude translates them into `ai_context/batches/<name>.tsv` (`key <TAB> ukrainian <TAB> optional note`).
+3. `npm run ai:apply -- ai_context/batches/<name>.tsv` checks every row (lines, tags, leading spaces, ending
+   punctuation, `--`/`...`, no ASCII `'` or `"`) and writes the ones that pass **only into empty Ukrainian cells**,
+   with `AI draft` (and Claude's note, if any) in *Translator notes*. Rows that fail are listed, not written.
+4. Review in the table: fix the text if needed and **delete `AI draft`** from *Translator notes* when the row is
+   checked. `npm run ai:status` shows per episode how many rows are by people / AI drafts / empty.
+5. Then the usual `npm run import` and `npm run review`.
+
+Cells typed by people are never overwritten. `--replace-drafts` lets a new draft replace a row still marked
+`AI draft`. `ai_context/batches/` is not in git: the table is the source of truth.
+
 ## Commands
 
 All shortcuts are defined in `package.json` (`scripts`), like in any Node project.
@@ -79,6 +97,7 @@ All shortcuts are defined in `package.json` (`scripts`), like in any Node projec
 | `npm run unique-original` | Recreates `data/unique_original_data/` from the English files. | Only if `data/original_data/` changes |
 | `npm run test` | Self-test of the whole flow on random scenes in a temporary copy (fake Ukrainian, every record of the 222 files checked, rebuilds, gender change, deliberate mistakes). Changes nothing in the repo; ~5 min. Repeat a run with `npm run test -- --seed N`. | After changing the scripts |
 | `npm run fake` | **Test only, use a separate branch.** Fills the table with a fake translation (English letters swapped for Cyrillic, using all 33 Ukrainian letters to test the font; end credits stay English) and imports it, to check the game build. Stops if the table already has real translations. | Before packing a test build |
+| `npm run ai:status` / `ai:export` / `ai:apply` | AI drafts: progress per episode / export a batch / write checked drafts into empty cells (see *AI drafts*). | While translating |
 | `npm run setup` | Installs the Excel package for Python. | Once per computer |
 
 The steps in which to use them are in **Localization flow** above.

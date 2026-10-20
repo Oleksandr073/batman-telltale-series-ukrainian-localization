@@ -238,6 +238,16 @@ with an empty table changes nothing [VERIFIED]. `.gitattributes` forces CRLF for
 temporary copy, runs build/import, checks every record of the 222 files independently, rebuild/gender-change
 preservation and that deliberate mistakes are reported. It must end with `ALL PASSED`.
 
+### AI drafts (`scripts/ai_translate.py`, `npm run ai:*`)
+
+How Claude translates: `ai_translate.py export TABLE ai_context/batches/X.txt --scene <game file> [--shown-only]`
+(or `--next N`), read `ai_context/style_guide.md`, the scene view listed in the batch and the batch itself
+(glossary names and ти/ви pairs are included), write `ai_context/batches/X.tsv` = `key<TAB>ukrainian[<TAB>note]`
+(¶ between lines; gender keys -SM/-SF/-LM/-LF need that form; rows said by several characters of different
+genders must be gender-neutral), then `ai_translate.py apply TABLE X.tsv`. Apply writes only into empty cells, marks
+`AI draft` in Translator notes and rejects rows with a wrong line count, changed markup, leading spaces, ending
+punctuation, `--`/`...` count or ASCII quotes. Fix rejected rows and apply again. Never overwrite cells by people.
+
 ## 10b. Style decisions
 
 Read `ai_context/style_guide.md` before translating: confirmed rules (ти/ви, names, “ ” quotes, ’ apostrophe,

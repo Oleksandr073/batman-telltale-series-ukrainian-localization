@@ -246,6 +246,7 @@ HELP = [
     '    unchanged into the translation.',
     'Translator notes (blue) - free notes for people: questions, doubts, "check in game", ideas. Scripts never',
     '    use them; they are kept when the table is rebuilt, like the translations.',
+    '    "AI draft" = the Ukrainian text was written by Claude: check it, fix it, then delete "AI draft".',
     'Lines - how many lines the text has in the game. Your translation must have the same number (separate lines',
     '    with ¶ or Alt+Enter). The Ukrainian cell turns red while the number of lines is wrong.',
     'Speaker gender - filled only if the Ukrainian words depend on who speaks: M = male (бачив, певен),',

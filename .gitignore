@@ -4,3 +4,5 @@ __pycache__/
 ai_context/scenes/
 # raw statistics, recreated by speakers.py when needed
 ai_context/*.tsv
+# AI translation batches and drafts (the table is the source of truth)
+ai_context/batches/
