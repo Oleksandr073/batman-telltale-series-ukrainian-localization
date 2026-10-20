@@ -1,6 +1,6 @@
 """Fill the table with a FAKE Ukrainian translation, for testing the game build: every English letter is swapped
-for a Cyrillic one (Hello -> Хелло), tags, ¶ and punctuation are kept. Female versions of gendered texts end with
-" (ж)", so you can see them in the game. End credits stay English (as planned for the real translation).
+for a Cyrillic one (Hello -> Хелло), tags, ¶ and punctuation are kept. End credits stay English (as planned for
+the real translation).
 
 Usage:
   python fake_translate.py TABLE [--force]
@@ -28,7 +28,7 @@ def main():
         if 'ui_credits' in str(r['first_seen'] or ''):
             credits += 1
             continue
-        cell = T.fake(r['english']) + (' (ж)' if r['key'].endswith('F') else '')
+        cell = T.fake(r['english'])
         old = str(r['ukrainian'] or '')
         if old and old != cell:
             real.append(r['row'])
@@ -43,8 +43,7 @@ def main():
     except PermissionError:
         sys.exit(f'Cannot write {path} - close it in Excel / LibreOffice first.')
     print(f'Fake translation written into {len(plan)} row(s) of {path} '
-          f'({sum(1 for r in rows if r["key"].endswith("F") and r["row"] in plan)} female versions end with " (ж)"; '
-          f'{credits} end-credit rows left English). Now run: npm run import')
+          f'({credits} end-credit rows left English). Now run: npm run import')
 
 
 if __name__ == '__main__':
