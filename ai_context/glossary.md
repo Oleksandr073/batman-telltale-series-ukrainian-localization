@@ -33,10 +33,12 @@ When a name is declined/inflected in the target language, write the base form he
 | Bats | Кажан | 26 | nickname (Selina, Joker) |
 | Batboy | Бет-хлопчик | 4 | mocking |
 | Batmanny | Бетменчик | 1 | Joker |
+| Bat / the Bat | Кажан (кличний: Кажане) | ~140 | nickname for Batman (Catwoman, thugs, cops): “Bye, Bat.” → “Бувай, Кажане.”; “my money’s on the Bat” → “ставлю на Кажана” |
 | Dark Knight | Темний лицар | 13 | |
 | Caped Crusader | Хрестоносець у плащі | 5 | |
 | Alfred | Альфред | 1166 | |
 | Alfred Pennyworth | Альфред Пенніворт | 44 | |
+| Al | Ал | ~80 | Bruce's short name for Alfred: “It’s a scare tactic, Al.” → “Це тактика залякування, Ал.” |
 | Pennyworth | Пенніворт | 59 | |
 | Harvey Dent | Гарві Дент | 304 | |
 | Harvey | Гарві | 1926 | |
