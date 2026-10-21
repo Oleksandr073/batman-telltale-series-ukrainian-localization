@@ -248,6 +248,22 @@ genders must be gender-neutral), then `ai_translate.py apply TABLE X.tsv`. Apply
 `AI draft` in Translator notes and rejects rows with a wrong line count, changed markup, leading spaces, ending
 punctuation, `--`/`...` count or ASCII quotes. Fix rejected rows and apply again. Never overwrite cells by people.
 
+### Choices screen (`scripts/apply_choice_stats.py`, `npm run choice-stats`)
+
+The end-of-episode choices screen ("You and 67.1% of players…") is NOT in any landb file: its texts come from
+Telltale's server (9 languages, no Ukrainian) and the game shows them through `ChoiceStats_LocalizeText()` in
+`ChoiceStats.lua` [CONFIRMED in game]. Files in `choice_stats_data/`:
+- `original_script/ChoiceStats.lua` (decompiled game script) and `original_script/choice_stats_english.txt`
+  (133 English texts, game txt format, 1 line per record, `{percent}` = server number) - never edit;
+- `localized_script/choice_stats_english.txt` - translate this one (same rules as the game txt files; keep
+  `{percent}%` and the `^^` after it);
+- `localized_script/ChoiceStats.lua` - written by `apply_choice_stats.py choice_stats_data`: the original script
+  unchanged + an appended block that maps each English text (style tags stripped, numbers → `{percent}`) to the
+  Ukrainian and puts the live number back. Untranslated lines stay English; with nothing translated the output equals
+  the original. The script validates the txt pair with `validate.py` first and writes nothing on errors.
+Compiling and packing are outside this repo. The live copy of the script is in `BAT_pc_PC_Noir_Proj_compressed`
+(it overrides `BM_pc_Project_data`).
+
 ## 10b. Style decisions
 
 Read `ai_context/style_guide.md` before translating: confirmed rules (ти/ви, names, “ ” quotes, ’ apostrophe,

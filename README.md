@@ -16,6 +16,7 @@ with the text replaced).
 | `data/localized_data/` | The same 222 files with Ukrainian text — the final result for the game. Written only by the script below — don't edit by hand. |
 | `data/unique_original_data/` | Every unique English text once (~43 900), in files named like the game files, built from `data/original_data/` only, never from the gender file. Each entry shows who speaks → to whom (guessed from the scene) and how many times the text is used. Read-only: the import only checks it. |
 | `data/unique_localized_data/` | The same entries with the Ukrainian from the table (untranslated texts stay English). Written by the script. The ~230 texts that need separate male/female Ukrainian versions appear once per version (same English, entry ids ending in `-SM`/`-SF`/`-LM`/`-LF`). |
+| `choice_stats_data/` | Texts of the end-of-episode **choices screen** ("You and 67.1% of players…"). They come from Telltale's server, not from landb files, so they live here: `original_script/` = English `choice_stats_english.txt` + the decompiled game script `ChoiceStats.lua` (never edit); `localized_script/` = the same txt translated + `ChoiceStats.lua` written by `npm run choice-stats`. See *Choices screen* below. |
 | `ai_context/play_order.txt` | The story order of the game files, with scene titles. Edit it to fix the order, then `npm run rebuild`. Scenes marked `(?)` are guesses. |
 | `ai_context/style_guide.md` | Translation style decisions: quotes, apostrophe, punctuation, swearing, tone. |
 | `ai_context/speakers.md` | Who talks to whom, with the confirmed ти/ви decisions. |
@@ -98,6 +99,7 @@ All shortcuts are defined in `package.json` (`scripts`), like in any Node projec
 | `npm run test` | Self-test of the whole flow on random scenes in a temporary copy (fake Ukrainian, every record of the 222 files checked, rebuilds, gender change, deliberate mistakes). Changes nothing in the repo; ~5 min. Repeat a run with `npm run test -- --seed N`. | After changing the scripts |
 | `npm run fake` | **Test only, use a separate branch.** Fills the table with a fake translation (English letters swapped for Cyrillic, using all 33 Ukrainian letters to test the font; end credits stay English) and imports it, to check the game build. Stops if the table already has real translations. | Before packing a test build |
 | `npm run ai:status` / `ai:export` / `ai:apply` | AI drafts: progress per episode / export a batch / write checked drafts into empty cells (see *AI drafts*). | While translating |
+| `npm run choice-stats` | Writes `choice_stats_data/localized_script/ChoiceStats.lua` from the translated `choice_stats_english.txt` (see *Choices screen*). | After editing that txt |
 | `npm run setup` | Installs the Excel package for Python. | Once per computer |
 
 The steps in which to use them are in **Localization flow** above.
@@ -108,6 +110,21 @@ tab-separated file with columns `file`, `id`, `ukrainian`, `comment` (for exampl
 `npm run import -- --overrides overrides.tsv`.
 
 The full commands behind each shortcut are in `package.json`.
+
+## Choices screen
+
+The choices screen at the end of each episode (and in the menu) gets its texts from Telltale's server, in 9
+languages without Ukrainian. The game shows them through `ChoiceStats_LocalizeText()` in `ChoiceStats.lua`, so the
+Ukrainian goes into that script instead of a landb file.
+
+1. Translate `choice_stats_data/localized_script/choice_stats_english.txt` (133 texts, same format and rules as the
+   game txt files). Keep `{percent}%` (the number comes from the server) and the `^^` after it (it ends the green/red
+   part). A line left in English stays English in game.
+2. `npm run choice-stats`. It checks the txt against the English one (like `npm run validate`) and writes
+   `choice_stats_data/localized_script/ChoiceStats.lua` = the original script + a block with the Ukrainian texts at
+   the end. The original part is not changed; with nothing translated the file equals the original.
+3. That script is compiled (Lua 5.2 `luac`) and packed into `BAT_pc_PC_Noir_Proj_compressed.ttarch2` — **not**
+   `BM_pc_Project_data`: the Noir_Proj patch has its own copy of the script, which overrides the other one.
 
 ## Translation rules in short
 
