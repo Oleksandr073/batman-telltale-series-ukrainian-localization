@@ -1,36 +1,46 @@
-"""Put the Ukrainian choice-statistics texts into ChoiceStats.lua.
+"""Put the Ukrainian choice-statistics texts into ChoiceStats.lua - taken from the translation table.
 
 The end-of-episode choices screen ("You and 67.1% of players...") does not use landb files: its texts come from
 Telltale's server in 9 languages. The game passes every one of them through ChoiceStats_LocalizeText() in
-ChoiceStats.lua. This script appends a block to that script which replaces the English server text with the
-Ukrainian from the translated txt. The live percentage from the server is kept.
+ChoiceStats.lua. The same texts also exist in the game file BM_pc_Project_data/stats_english.txt, which is part of
+translation_table.xlsx - so they are translated there, once, like every other text. This script:
+  1. reads the English and the imported Ukrainian stats_english.txt (`npm run import` writes the Ukrainian one),
+  2. maps every translated text English -> Ukrainian (style tags like ^glyphScale:1.1^ at the start removed),
+  3. writes localized_script/choice_stats_english.txt (the 133 server texts in Ukrainian, for review with git diff),
+  4. writes localized_script/ChoiceStats.lua = the original script + a block with those 133 texts. The live
+     percentage from the server is kept.
+The screen (getWorldChoices in Menu_Stats.lua) shows only the choices the server sends: 26 choices, 133 unique texts
+(server data of 2017-03-28), all of them in stats_english.txt. The other ~190 texts of stats_english.txt are unused
+candidate choices and are left out of the script.
 
 Usage (from the repo root):
-  python apply_choice_stats.py choice_stats_data
+  python apply_choice_stats.py CHOICE_DIR STATS_EN STATS_UA
+  e.g. choice_stats_data data/original_data/BM_pc_Project_data/stats_english.txt
+       data/localized_data/BM_pc_Project_data/stats_english.txt
 
 Folder layout:
-  choice_stats_data/original_script/ChoiceStats.lua            decompiled game script - never edited
-  choice_stats_data/original_script/choice_stats_english.txt   English texts - never edited
-  choice_stats_data/localized_script/choice_stats_english.txt  the same file, translated
-  choice_stats_data/localized_script/ChoiceStats.lua           WRITTEN by this script (= original + Ukrainian block)
+  CHOICE_DIR/original_script/ChoiceStats.lua            decompiled game script - never edited
+  CHOICE_DIR/original_script/choice_stats_english.txt   the 133 English server texts - never edited
+  CHOICE_DIR/localized_script/choice_stats_english.txt  WRITTEN by this script (translate in the table, not here)
+  CHOICE_DIR/localized_script/ChoiceStats.lua           WRITTEN by this script (= original + Ukrainian block)
 
-The txt files use the game txt format ("N) " header + 1 text line, UTF-8 with BOM, CRLF). {percent} stands for the
-number from the server; keep it and the % after it. ^^ ends the coloured part (green/red), keep it after {percent}%.
-A text that is still English stays English in game. With nothing translated, the output equals the original script.
-Exit code 1 on any error; nothing is written then.
+{percent} stands for the number from the server. A text that is still English stays English in game. With nothing
+translated, both outputs equal the originals. Exit code 1 on any error; nothing is written then.
 """
 import os
+import re
 import sys
 import types
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from landb_txt import parse_lines, read_raw, split_lines  # noqa: E402
+from landb_txt import parse_lines, read_raw, split_lines, write_lines  # noqa: E402
 from validate import check_pair  # noqa: E402
 
 TXT = 'choice_stats_english.txt'
 LUA = 'ChoiceStats.lua'
 MARK_BEGIN = '-- ===== Ukrainian choice statistics (added by apply_choice_stats.py) ====='
 MARK_END = '-- ===== end of Ukrainian choice statistics ====='
+STYLE_PREFIX = re.compile(r'^(?:\^[A-Za-z]+:[^^]*\^)+')     # ^glyphScale:1.1^^font:..^^color:#24c246^ at the start
 
 # Lua code added after the original script. %TABLE% = the English -> Ukrainian lines.
 LUA_BLOCK = r'''
@@ -106,8 +116,13 @@ def lua_string(s):
     return '"' + s.replace('\\', '\\\\').replace('"', '\\"') + '"'
 
 
+def strip_style(text):
+    """The text without the leading style tags - the form ChoiceStats.lua matches (see uaSplit)."""
+    return STYLE_PREFIX.sub('', text.strip()).strip()
+
+
 def read_texts(path):
-    """Return {id: text} from a choice txt file (1 text line per record)."""
+    """Return {id: text} from a txt file with 1 text line per record."""
     lines, _ = split_lines(read_raw(path))
     recs, pre = parse_lines(lines)
     if pre:
@@ -120,18 +135,44 @@ def read_texts(path):
     return texts
 
 
+def translations(stats_en, stats_ua):
+    """-> ({English without style tags: Ukrainian without style tags}, [conflict messages])."""
+    en, ua = read_texts(stats_en), read_texts(stats_ua)
+    if set(en) != set(ua):
+        fail(f'{stats_ua} has other records than {stats_en} - run `npm run import` first')
+    out, conflicts = {}, []
+    for rid, e in en.items():
+        u = ua[rid]
+        if u == e:
+            continue
+        ke, ku = strip_style(e), strip_style(u)
+        if not ke or not ku:
+            continue
+        pe, pu = STYLE_PREFIX.match(e.strip()), STYLE_PREFIX.match(u.strip())
+        if (pe.group(0) if pe else '') != (pu.group(0) if pu else ''):
+            fail(f'{stats_ua}: record {rid}: style tags at the start differ from the English')
+        if ke.count('{percent}') != ku.count('{percent}'):
+            fail(f'{stats_ua}: record {rid}: {{percent}} count differs from the English')
+        if ke in out and out[ke] != ku:
+            conflicts.append(f'  "{ke[:60]}": "{out[ke][:40]}" / "{ku[:40]}" (record {rid}) - the first one is used')
+            continue
+        out[ke] = ku
+    return out, conflicts
+
+
 def main():
-    if len(sys.argv) != 2:
+    sys.stdout.reconfigure(encoding='utf-8')
+    if len(sys.argv) != 4:
         print(__doc__)
         sys.exit(2)
-    root = sys.argv[1]
+    root, stats_en, stats_ua = sys.argv[1:]
     orig_dir = os.path.join(root, 'original_script')
     loc_dir = os.path.join(root, 'localized_script')
     orig_lua = os.path.join(orig_dir, LUA)
     orig_txt = os.path.join(orig_dir, TXT)
     loc_txt = os.path.join(loc_dir, TXT)
     out_lua = os.path.join(loc_dir, LUA)
-    for p in (orig_lua, orig_txt, loc_txt):
+    for p in (orig_lua, orig_txt, stats_en, stats_ua):
         if not os.path.isfile(p):
             fail(f'missing file: {p}')
 
@@ -144,36 +185,48 @@ def main():
     if 'function ChoiceStats_LocalizeText(' not in lua:
         fail(f'{orig_lua} has no ChoiceStats_LocalizeText function - wrong script?')
 
-    # Same checks as validate.py for the game files: BOM, CRLF, headers, line count, markup ({percent}, ^^).
+    tr, conflicts = translations(stats_en, stats_ua)
+
+    # the localized choice txt = the original one with each known server text replaced (for review)
+    known = set(read_texts(orig_txt).values())
+    lines, _ = split_lines(read_raw(orig_txt))
+    out_lines, n_known = [], 0
+    for line in lines:
+        if line in known and line.strip() in tr:
+            out_lines.append(tr[line.strip()])
+            n_known += 1
+        else:
+            out_lines.append(line)
+    os.makedirs(loc_dir, exist_ok=True)
+    tmp_txt = loc_txt + '.new'
+    write_lines(tmp_txt, out_lines)
+    # the same checks as validate.py for the game files: BOM, CRLF, headers, line count, markup ({percent}, ^^)
     report = []
-    errs, warns, _ = check_pair(orig_txt, loc_txt, TXT, report,
+    errs, warns, _ = check_pair(orig_txt, tmp_txt, TXT, report,
                                 types.SimpleNamespace(show=50, untranslated=False, verbose=False))
     if report:
         print('\n'.join(report))
     if errs:
-        fail(f'{errs} error(s) in {loc_txt} (see above)')
+        os.remove(tmp_txt)
+        fail(f'{errs} error(s) in the Ukrainian choice texts (see above) - fix them in the table')
+    os.replace(tmp_txt, loc_txt)
 
-    english = read_texts(orig_txt)
-    ukrainian = read_texts(loc_txt)
-    pairs = []
-    for rid, en in english.items():
-        ua = ukrainian[rid]
-        if ua.strip() and ua != en:
-            if en.count('{percent}') != ua.count('{percent}'):
-                fail(f'record {rid}: {{percent}} count differs from the English')
-            pairs.append((en.strip(), ua.strip()))
-
+    # only the texts the server sends can reach the screen: the other stats_english.txt texts are left out
+    shown = {en: ua for en, ua in tr.items() if en in {k.strip() for k in known}}
     eol = '\r\n' if '\r\n' in lua else '\n'
-    if pairs:
-        table = '\n'.join(f'  [{lua_string(en)}] = {lua_string(ua)},' for en, ua in pairs)
+    if shown:
+        table = '\n'.join(f'  [{lua_string(en)}] = {lua_string(ua)},' for en, ua in sorted(shown.items()))
         block = LUA_BLOCK.replace('%TABLE%', table).replace('\n', eol)
         body = lua.rstrip('\r\n') + eol + block
     else:
         body = lua
     with open(out_lua, 'wb') as fh:
         fh.write(body.encode('utf-8'))
-    print(f'{len(pairs)} of {len(english)} texts translated, {warns} warning(s), 0 errors.')
-    print(f'Written: {out_lua}')
+    for c in conflicts:
+        print('WARNING: one English text, two translations:\n' + c)
+    print(f'{len(shown)} of {len(known)} choice-screen texts translated (taken from {stats_ua}), '
+          f'{warns} warning(s), 0 errors.')
+    print(f'Written: {loc_txt}\nWritten: {out_lua}')
 
 
 if __name__ == '__main__':

@@ -255,12 +255,16 @@ Telltale's server (9 languages, no Ukrainian) and the game shows them through `C
 `ChoiceStats.lua` [CONFIRMED in game]. Files in `choice_stats_data/`:
 - `original_script/ChoiceStats.lua` (decompiled game script) and `original_script/choice_stats_english.txt`
   (133 English texts, game txt format, 1 line per record, `{percent}` = server number) - never edit;
-- `localized_script/choice_stats_english.txt` - translate this one (same rules as the game txt files; keep
-  `{percent}%` and the `^^` after it);
-- `localized_script/ChoiceStats.lua` - written by `apply_choice_stats.py choice_stats_data`: the original script
-  unchanged + an appended block that maps each English text (style tags stripped, numbers → `{percent}`) to the
-  Ukrainian and puts the live number back. Untranslated lines stay English; with nothing translated the output equals
-  the original. The script validates the txt pair with `validate.py` first and writes nothing on errors.
+- the texts are translated in `translation_table.xlsx` (rows of `BM_pc_Project_data/stats_english`, the same texts
+  with `^glyphScale..^^font..^^color..^` style tags at the start); never translate them anywhere else;
+- `apply_choice_stats.py CHOICE_DIR STATS_EN STATS_UA` (`npm run choice-stats`, run automatically at the end of
+  `npm run import`) maps English → Ukrainian from the imported `stats_english.txt` (leading style tags stripped) and
+  writes `localized_script/choice_stats_english.txt` (133 known server texts, for review) and
+  `localized_script/ChoiceStats.lua` = the original script unchanged + an appended block with the 133 server texts
+  (numbers → `{percent}`, the live number is put back). The screen (`getWorldChoices` in `Menu_Stats.lua`) shows only
+  the 26 choices the server sends (133 texts, server data of 2017-03-28); the other ~190 stats texts are unused
+  candidates and are not put into the script. Untranslated lines stay English; with nothing
+  translated both outputs equal the originals. It validates the txt pair with `validate.py` and stops on errors.
 Compiling and packing are outside this repo. The live copy of the script is in `BAT_pc_PC_Noir_Proj_compressed`
 (it overrides `BM_pc_Project_data`).
 
