@@ -1,0 +1,1158 @@
+﻿1) 
+It’s not over til it’s over.
+2) 
+Impressive technology.
+3) 
+We need to talk.
+4) 
+...
+13) 
+...
+30) 
+[Shake his hand]
+5) 
+I’ll stand.
+6) 
+Of course. Thank you.
+7) 
+Examine.
+8) 
+Examine.
+9) 
+Examine.
+10) 
+Examine.
+338) 
+Examine.
+548) 
+Examine.
+553) 
+Examine.
+11) 
+Use.
+12) 
+Look At.
+21) 
+Look At.
+252) 
+Look At.
+253) 
+Look At.
+14) 
+You’re a traitor.
+15) 
+Can I trust you?
+24) 
+Can I trust you?
+16) 
+You lied to me!
+17) 
+You run a shadow organization.
+18) 
+You’ve been lying to me.
+19) 
+Never mind...
+20) 
+Wayne Tech is compromised.
+22) 
+Going somewhere?
+23) 
+Why are you so nervous?
+25) 
+You should have told me.
+26) 
+[ALT]You’ve cost me my company.
+27) 
+What’s done is done.
+28) 
+This is worse than I feared.
+29) 
+It’s not your fault.
+321) LUCIUS
+It’s not your fault.
+31) 
+I’m sorry I doubted you.
+32) 
+Don’t keep secrets from me.
+33) 
+We just have to figure this out.
+34) 
+Are you hiding something from me?
+35) 
+I’m lucky to have you.
+36) 
+There’s something else we need to discuss.
+37) 
+Wayne Enterprises has a deeper problem.
+38) 
+I don’t trust you.
+39) 
+This is harder than I expected.
+40) 
+Things are worse than you know.
+41) 
+Tell me I can trust you.
+42) 
+I’m sorry if I’ve upset you.
+43) 
+I know about Sanctus.
+44) 
+I want to believe you.
+45) 
+We aren’t the only secret in Wayne Enterprises.
+46) 
+You’re lying!
+47) BRUCE
+{SmugA}[intrigued]This one’s new.
+554) BRUCE
+{SmugA}[intrigued]This one’s new.
+48) BRUCE
+{HappyA}[awesome]Some kind of remote detonation device?
+49) BRUCE
+{SmugA}[impressed]You’ve been busy.
+50) BRUCE
+{HappyA}[fondly]One of the first.
+51) BRUCE
+{HappyA}Good thing I have back-ups.
+52) BRUCE
+{HappyA}Tiffany’s really taking after you...
+53) BRUCE
+{SmugA}... and Luke, stubborn as always.
+54) BRUCE
+[trying to put it together]Getting ready to make a run for it?
+55) BRUCE
+Or did he just see the writing on the wall?
+56) BRUCE
+Should be able to get access from here.
+57) BRUCE
+{SkepticalA}[to himself]Alright, who’s been putting these bugs in the system?
+58) BRUCE
+{ConfusedA}[reading]Sanctus?
+80) LUCIUS
+Sanctus?
+273) LUCIUS
+[repeating it]Sanctus.
+278) LUCIUS
+Sanctus.
+290) LUCIUS
+[shit]Sanctus.
+59) BRUCE
+{AngryA}[angry; under his breath]Come on!
+60) LUCIUS
+Bruce?
+573) 
+Bruce?
+61) LUCIUS
+What are you... [trails off]
+62) LUCIUS
+[insulted]What are you doing with my computer?
+63) LUCIUS
+What is this?
+64) LUCIUS
+Are you... spying on me?
+65) LUCIUS
+Bruce, what’s going on?
+66) BRUCE
+{SkepticalA}I need to know if I can trust you, Lucius.
+67) LUCIUS
+[hurt]Of course you can. What kind of question is that?
+68) LUCIUS
+I’ve kept your secret all these years. I’ve never hidden anything from you.
+69) BRUCE
+[{ConcernedA}sorry]I didn’t mean to upset you, Lucius. I’m just trying to get some answers.
+70) LUCIUS
+[hurt]You could’ve just asked me. Instead you broke into my computer...
+71) BRUCE
+{SkepticalA}[hard]I know about Sanctus, Lucius.
+72) LUCIUS
+[interested]So that’s what it is?
+73) LUCIUS
+[still unsettled; not sure what it is]I found the name by chance a few days ago. It’s some sort of hidden division or... system, but I can’t dig up anything more than that.
+74) LUCIUS
+I didn’t know if it was you or... or what it was. I wanted to find something concrete before I came to you in a panic over nothing.
+75) LUCIUS
+You’re not even gonna say anything?
+76) LUCIUS
+Just tell me.
+77) LUCIUS
+I’ve never given you any reason to doubt me, have I?
+78) BRUCE
+{ConcernedA}I want to belive you. I really do.
+79) BRUCE
+{SkepticalA}But there are things I’ve found hiding within Wayne Tech that are... hard to explain.
+81) BRUCE
+{ConcernedA}We aren’t the only secret hiding within Wayne Tech.
+82) LUCIUS
+This is Sanctus isn’t it?
+83) BRUCE
+{AngryA}[angry]Don’t lie to me!
+84) BRUCE
+{AngryA}I found this in the GCPD’s communication devices.
+288) BRUCE
+{AngryA}I found this in the GCPD’s communication devices.
+85) LUCIUS
+I... I don’t know much. I promise.
+86) LUCIUS
+It’s...
+87) LUCIUS
+It’s Sanctus, isn’t it?
+155) LUCIUS
+It’s Sanctus. Isn’t it?
+165) LUCIUS
+It’s Sanctus. Isn’t it?
+88) LUCIUS
+[to himself]I wasn’t sure what it was... but...
+89) LUCIUS
+I’m sorry, Bruce.
+90) LUCIUS
+I just didn’t know enough.
+91) LUCIUS
+Not enough to say anything.
+92) BRUCE
+{ConcernedA}You should’ve just told me.
+93) LUCIUS
+I know...
+94) BRUCE
+[annoyed]Do you understand what you’ve done? You might’ve cost me my company.
+95) BRUCE
+{ThinkingA}If I had known about this {AngryA}I could’ve done something.
+96) LUCIUS
+I’m so sorry, Bruce.
+97) LUCIUS
+I... I know that doesn’t help.
+98) BRUCE
+{ThinkingA}It doesn’t matter. What’s done is done.
+99) LUCIUS
+I messed up.
+100) LUCIUS
+I know that.
+101) 
+You better fix this.
+102) 
+I need your help.
+103) 
+Step aside.
+104) LUCIUS
+Look, I don’t know what it is and I don’t know how to stop it.
+105) LUCIUS
+[frustrated]Every time I try to get in I get this error.
+106) BRUCE
+{ConfusedA}[reading]Invalid security clearance?
+107) LUCIUS
+And if I try to hack it, this counter-hack starts trying to force its way into *our* system.
+108) LUCIUS
+We should be able to get in.
+109) BRUCE
+All I know is, you’d better find a way to fix this.
+110) BRUCE
+I need you to help me, Lucius. Please.
+111) LUCIUS
+Ever humble, aren’t you, Bruce.
+112) BRUCE
+Two of the smartest minds in Gotham should be able to figure it out, right.
+113) BRUCE
+Let me take a look at it.
+114) LUCIUS
+I can fix this.
+117) LUCIUS
+I can fix this.
+115) LUCIUS
+There has to be a way.
+116) LUCIUS
+I will.
+118) LUCIUS
+Bruce! Glad you called me about stopping over. I have something I’ve been wanting to show you.
+119) LUCIUS
+[good-humored]You might say I outdid myself here. [beat]C’mon, say it!
+120) BRUCE
+{HappyA}[smiling]Looks like another invaluable piece of Lucius Fox technology.
+121) LUCIUS
+I’ve spent the better part of a month fine-tuning it.
+122) LUCIUS
+I wanted to leave you well-equipped before...
+123) BRUCE
+You’re in an awfully good mood, considering.
+124) LUCIUS
+Considering the... current state of affairs, you mean?
+125) LUCIUS
+I thought sticking to business as usual might take your mind off things.
+126) BRUCE
+{ConcernedA}Look, Lucius... I think it’s time we had a conversation.
+127) LUCIUS
+You’re right. This can wait.
+128) LUCIUS
+What was I thinking?
+129) BRUCE
+That’s the polite way to put it.
+130) BRUCE
+{ThinkingA}Before my own company turns against me, too?
+131) LUCIUS
+I’ve been watching the news all day. Haven’t been able to tear myself away from it. “Bruce Wayne To Be Ousted as CEO of Wayne Enterprises?“
+132) LUCIUS
+At least it gave me a head start on packing up my desk.
+133) BRUCE
+{SurpriseA}[surprised and sad]{SadA}Lucius --
+134) LUCIUS
+[stubborn]You’re the only reason I’ve stuck around as long as I have. Helping Batman... that’s why I show up for work in the morning.
+135) BRUCE
+All that daytime TV’ll rot your brain.
+136) BRUCE
+{HappyA}I’m lucky to have you in my corner, Lucius.
+137) LUCIUS
+The feeling’s entirely mutual.
+138) LUCIUS
+But that isn’t what you wanted to talk to me about. Is it?
+139) LUCIUS
+Hey, it’s okay. I know you’re not big on the mushy stuff.
+140) LUCIUS
+I’m just really gonna miss it around here.
+141) LUCIUS
+I probably would’ve worked here for free, if you’d ever asked.
+142) LUCIUS
+... Maybe don’t quote me on that, though.
+143) BRUCE
+{ConcernedA}There’s actually something else I wanted to talk to you about.
+144) LUCIUS
+... Oh? Name it.
+145) BRUCE
+{SkepticalA}There’s something else going on at the company that I want to talk to you about.
+146) LUCIUS
+[concerned]Nothing to do with R&D, I hope?
+147) BRUCE
+[ALT]{SkepticalA}There’s still time to come clean, Lucius.
+148) LUCIUS
+I don’t know what you’re implying--
+149) BRUCE
+{AngryA}I think you’ve been hiding something from me.
+150) BRUCE
+You’re going to want to sit down for this.
+151) LUCIUS
+[nervous]Okay...
+152) LUCIUS
+[trying to cover his anxiety]What’s--what’s going on?
+153) BRUCE
+{ConcernedA}I didn’t know if I should bring this to you--if I could trust you...
+154) BRUCE
+{ConcernedA}But the things I’ve found--{ConfusedA}I can’t explain them. Not without your help.
+156) LUCIUS
+If this has something to do with the future of Wayne Enterprises...
+157) LUCIUS
+Then I *need* to know.
+158) LUCIUS
+You know you’ve always been able to tell me anything.
+159) BRUCE
+{AngryA}[harsh]Just stop, alright? It’s bad enough that you’ve been lying to me this whole time--now you’re gonna do it straight to my face.
+160) LUCIUS
+[shocked]Lying to you? I would never! I *have* never!
+161) BRUCE
+You mean to tell me there are bugs in our Wayne Tech, and you had nothing to do with it?
+162) LUCIUS
+That’s... Sanctus isn’t it?
+163) BRUCE
+{SkepticalA}I found... bugs in the Wayne Tech at the GCPD.
+164) LUCIUS
+Whatever it is, you know I can take it.
+166) LUCIUS
+[a bit snarky]You’re an old hand at this by now.
+167) LUCIUS
+[clarifying]Hacking into my computer.
+168) BRUCE
+Point taken, Lucius.
+169) BRUCE
+{ThinkingA}Their firewall’s tricky.
+170) LUCIUS
+Anything that has a lock can be picked.
+171) BRUCE
+{SkepticalA}Sure. If I can find the lock...
+172) BRUCE
+{SmugA}There! Got it.
+173) LUCIUS
+[dread]Oh my god.
+174) BRUCE
+Everything that Wayne Enterprises has built... everything that makes Gotham run... Sanctus has a backdoor into it.
+175) LUCIUS
+Illegal medical experimentation... market gouging... crooked low-income housing... even the Skyrail network! They control it all!
+176) LUCIUS
+How... how could I have let this happen?
+177) BRUCE
+This... is terrible. Much worse than I imagined.
+178) BRUCE
+None of this is your fault, Lucius.
+179) LUCIUS
+If I had just dug deeper -- maybe I could have done -- *some*thing to stop this!
+180) BRUCE
+A network this vast... it took decades to build. They didn’t just sneak in while one person was asleep at the wheel.
+181) LUCIUS
+If I’d known things were this bad... I would have come to you much sooner.
+182) LUCIUS
+If I’d known things were this bad... I would have come to you much sooner.
+183) BRUCE
+“Sanctus” has a hand in every rotten thing that’s happened in Gotham. If there’s a way to squeeze profit out of other people’s misery -- they’ve found it.
+184) LUCIUS
+They’ve wormed their way into the private sector...
+185) LUCIUS
+They’re practically running public services!
+186) LUCIUS
+The scale of it... it’s unbelievable.
+187) BRUCE
+We just have to figure out who’s behind it -- how they operate, and whose palms they’ve greased along the way.
+188) LUCIUS
+If I had just come to you sooner --
+189) BRUCE
+We both know now. We’ll unravel their web -- together.
+190) BRUCE
+Looks like I’ve got a guest.
+191) LUCIUS
+When the board president makes a personal visit --
+192) BRUCE
+[grim agreement]She’s not delivering good news.
+193) LUCIUS
+Quick -- give me the drive.
+194) LUCIUS
+Take this. Everything on Sanctus.
+195) LUCIUS
+I’ll cover our tracks down here.
+196) BRUCE
+{HappyA}I’m sorry I doubted you, Lucius.
+197) LUCIUS
+Don’t give it another thought.
+198) BRUCE
+{ThinkingA}Next time you’ve got something--no matter how small--{ConcernedA}I need you to tell me.
+199) LUCIUS
+I won’t make the same mistake twice.
+200) LUCIUS
+I hope you know that no matter what happens up there--
+201) LUCIUS
+I’ve got your back, Batman.
+203) LUCIUS
+I’ve got your back, Batman.
+202) LUCIUS
+Wipe the record so they don’t know we got in.
+204) LUCIUS
+No matter what.
+205) LUCIUS
+We’re the only ones who know about this lab. If things are heading south with Regina, signal me, and I’ll disable the lab entrance from down here.
+206) LUCIUS
+I’ll be watching. Just... give me a wave, and I’ll take care of the rest.
+207) LUCIUS
+So if “Sanctus” controls everything... who controls “Sanctus?“
+208) LUCIUS
+You think --
+209) BRUCE
+My bet? Either it’s an inside job.... or it was masterminded by the highest of the high-ups at City Hall.
+210) BRUCE
+{SmugA}[grumbly]Not sure I’ll ever get the first one back from Selina.
+211) LUCIUS
+I still shouldn’t have kept it from you. I’m sorry.
+212) LUCIUS
+These files go back decades. Property seizure, land development by Thomas Wayne. Arrest warrents and plea bargains of insanity, signed off by Mayor Hill. Payments made to Falcone...
+213) BRUCE
+{ConcernedA}We have to shut it down. All of it.
+214) 
+We need to shut it down.
+215) BRUCE
+With Falcone providing the muscle-- they were running Gotham.
+216) LUCIUS
+And through Wayne Enterprises, it gave them absolute legitimacy.
+217) LUCIUS
+How do you shut down an entire company? This isn’t a plug you can simply pull.
+218) 
+This is worse than I thought.
+219) BRUCE
+{ConcernedA}I had no idea it was this bad.
+220) 
+This is my fault.
+221) BRUCE
+{FearA}I should’ve known. I’ve run my father’s company for years.
+222) LUCIUS
+None of us did.
+223) LUCIUS
+I had no idea...
+224) LUCIUS
+Controlling Gotham with the approval of the city, without them ever knowing.
+225) LUCIUS
+[but who?]Falcone and Hill are both dead...
+226) LUCIUS
+Can you access the recorded login attempts?
+227) BRUCE
+Thomas Wayne. At 10 PM last night.
+228) LUCIUS
+That’s not possible.
+229) BRUCE
+{ConcernedA}[frazzled]The board meeting just let out. I need to get back up there to meet Regina.
+230) LUCIUS
+Good news, I hope?
+231) BRUCE
+{ConcernedB}If our last conversation is any indication, probably not.
+232) LUCIUS
+Here--
+302) LUCIUS
+Here.
+398) LUCIUS
+[pickup]{HappyA}Here.
+233) LUCIUS
+What is this all about?
+234) LUCIUS
+[nervous excitement]It’s a new sticky bomb.
+235) LUCIUS
+Arm it here, attach it to whatever you want... it can be detonated remotely with this.
+236) LUCIUS
+[in awe]Boom.
+527) LUCIUS
+[pickup]Boom.
+237) LUCIUS
+You can set it to a timer too if you want.
+238) BRUCE
+Someone’s using his login. See this?
+239) LUCIUS
+I don’t know who we can trust right now.
+240) LUCIUS
+It’s the least I can do.
+241) LUCIUS
+Thought it might cheer you up, you know... with everything that’s been going on lately.
+242) BRUCE
+{ConcernedA}I’m not giving up hope yet, Lucius.
+243) LUCIUS
+Good. And you shouldn’t.
+244) LUCIUS
+Keep fighting, till the very end.
+245) BRUCE
+{HappyA}Thanks.
+246) LUCIUS
+Of course you don’t want to hear about some flashy gadget--not after the kind of day you’ve had.
+247) BRUCE
+{ConfusedA}Lucius, what’s going on over there?
+248) BRUCE
+Twenty years ago the identification key changed.
+249) LUCIUS
+Someone took over your father’s identity within the system?
+250) BRUCE
+They kept it going, built up new firewalls...
+251) LUCIUS
+Before you do...
+254) 
+Hide Gadgets.
+255) LUCIUS
+It’s a sticky bomb. New and improved. You can detonate it from over one hundred meters away.
+256) LUCIUS
+[chuckles]I try to stay occupied.
+257) LUCIUS
+Back before we figured out the ideal weight. [chuckles]Those first few missions were certainly entertaining to watch. You were so confident all your equipment would work perfectly. And then... well.
+258) LUCIUS
+Good thing you were only going after petty thieves back then.
+259) LUCIUS
+Wonder if that’s the only thing she stole.
+260) BRUCE
+{ConfusedA}I always wondered why you had a table that could hide itself. {SmugA}Guess it’s coming in pretty handy now.
+261) LUCIUS
+Trust me, it was much more paranoia than precaution.
+262) LUCIUS
+I think of what Gotham has become. And I think of them. They give me all the reason I need to work with Batman. He’s the only one that will truly protect them.
+263) BRUCE
+{HappyA}And he will, Lucius. Always.
+264) BRUCE
+{SkepticalA}[about the computer]Let’s see what you’re hiding.
+265) BRUCE
+{SkepticalA}[ALT]Alright, now where did those bugs come from?
+266) LUCIUS
+And you control the size of the explosion.
+267) BRUCE
+{AngryA}I need to know how it got there.
+268) LUCIUS
+I wonder if this has to do with Sanctus.
+269) LUCIUS
+I’m sorry I didn’t come to you with this sooner.
+270) 
+This put people in danger!
+271) BRUCE
+{AngryA}This put a lot of innocent people in danger. The Children of Arkham were using this to spy on the GCPD. {ThinkingA}If I had known about this {AngryA}I could’ve done something.
+272) BRUCE
+{ConcernedA}What is it Lucius?
+274) BRUCE
+{ConcernedA}What is it Lucius?
+275) BRUCE
+{ConfusedA}What?
+279) BRUCE
+{ConfusedA}What?
+280) BRUCE
+{ConfusedA}What?
+276) BRUCE
+{SkepticalB}What do you know about it?
+277) LUCIUS
+Not much...
+281) BRUCE
+{ConcernedA}Can you hold it off?
+282) LUCIUS
+How much time do you need?
+283) BRUCE
+{ThinkingA}Not long.
+284) LUCIUS
+Ready when you are.
+285) BRUCE
+{AngryA}This was in the GCPD’s communication devices.
+286) BRUCE
+{SkepticalA}Then what was this doing in the GCPD’s communication devices?
+287) BRUCE
+{AngryA}This was hidden in the GCPD’s communication devices.
+289) BRUCE
+{AngryA}This was hidden in the GCPD’s communication devices.
+291) BRUCE
+{AngryA}And I found this in the GCPD’s communication devices.
+292) LUCIUS
+I’m on it.
+293) LUCIUS
+Just hurry it up.
+294) BRUCE
+{HappyA}Handle it.
+295) BRUCE
+[putting it together]They have eyes and ears everywhere. Not just the GCPD... they’re monitoring--
+296) LUCIUS
+[finishing his sentence]Everyone.
+297) BRUCE
+{ConcernedA}This tech is way too new though. {ThinkingA}This level of surveillance wasn’t possible twenty years ago.
+298) BRUCE
+{SurpriseA}[jesus christ]How long has {ConfusedA}this been going on?
+299) LUCIUS
+[starting to freak out]In the wrong hands someone could control the power grid, shut down the skyrail system or even Gotham itself.
+300) LUCIUS
+So someone’s been modifying it, protecting it.
+301) LUCIUS
+We should lock this stuff down... just in case.
+303) LUCIUS
+The blast radius is small, so they’re discreet, but they still pack a serious punch.
+304) LUCIUS
+Be careful. Those things pack a serious punch.
+305) LUCIUS
+Then, if you need to, press here.
+306) BRUCE
+{ThinkingA}Yeah, you’re right.
+307) BRUCE
+{ConcernedA}I may not have a position here much longer.
+308) 
+Lucius’s Computer
+309) 
+Sticky Bomb
+310) 
+Old Batarang
+311) 
+Bat Grapple
+312) 
+Batarang
+313) 
+Table
+314) 
+Photograph
+315) LUCIUS
+Not just cell phones, computers, and surveillance cameras... it can access Gotham’s entire infrastructure.
+316) LUCIUS
+It’s absolute power.
+317) LUCIUS
+Not to mention just the sheer amount of information.
+318) LUCIUS
+All of Gotham’s secrets... right here.
+319) LUCIUS
+It’s built into... everything.
+320) LUCIUS
+It was built into Wayne Enterprises... no one even knew where to look.
+322) LUCIUS
+It was built into Wayne Enterprises... no one even knew where to look.
+323) LUCIUS
+It was built into Wayne Enterprises... no one even knew where to look.
+324) BRUCE
+{ConcernedA}The counter-hack wasn’t automatic.{SkepticalA} Someone logged in around the same time we did. They were trying to keep us out.
+325) 
+They won’t get in my way.
+326) 
+I’m not worried.
+327) 
+Good news.
+328) 
+Bad news.
+329) 
+Just spit it out.
+330) 
+I use this for good.
+331) 
+Gotham doesn’t deserve privacy.
+332) 
+Please don’t lecture me.
+333) 
+We have a mole.
+334) 
+Hill took my computers.
+335) 
+Not my problem.
+336) 
+I’ll take care of you.
+337) 
+Make up a title.
+339) 
+Talk To.
+340) LUCIUS
+[pickup] [formal; acting like Regina]Mr. Wayne.
+341) BRUCE
+[pickup]{SmugA} A little formal, {FaceAccent}don’t you think, Lucius?
+342) BRUCE
+[pickup] {AmusedA}Spying on my conversations again?
+343) LUCIUS
+[pickup]Hey, I’m looking out for you.
+344) LUCIUS
+[pickup]There’ve been whispers that the board was going to take action against you.
+345) LUCIUS
+[pickup][serious] If you lose the company, Batman will take a massive hit too.
+346) LUCIUS
+[pickup]I know the cave is well equipped, but all of this is owned and paid for by the company.
+347) LUCIUS
+[pickup]You can’t afford to lose their resources.
+348) LUCIUS
+[pickup] Not when the Children of Arkham are coming after you.
+349) BRUCE
+[pickup] {AmusedA}It doesn’t matter what the board does. {SmugA}We’ll be fine.
+350) BRUCE
+[pickup] {AngryA}Batman doesn’t answer to anyone.
+351) LUCIUS
+[pickup] Try saying that when you can’t access this wing anymore.
+352) LUCIUS
+[pickup] Everything Batman uses, I repair and upgrade here.
+356) LUCIUS
+[pickup] Everything Batman uses, I repair and upgrade here.
+362) LUCIUS
+[pickup] Everything Batman uses, I repair and upgrade here.
+363) LUCIUS
+[pickup] Everything Batman uses, I repair and upgrade here.
+353) BRUCE
+[pickup]{ConcernedA} The board’s in a panic, {NormalA}but this’ll die down {ThinkingA}before it comes to that.
+354) BRUCE
+[pickup]{AngryA}I’m not gonna let anything get in the way of what we’re doing down here.
+355) LUCIUS
+[pickup] I’m glad you’re being optimistic about this. But I’m not so sure.
+357) LUCIUS
+[pickup] If it gets taken away, you’ll be saving Gotham in suits with tears and bullet holes.
+360) LUCIUS
+[pickup] If it gets taken away, you’ll be saving Gotham in suits with tears and bullet holes.
+470) LUCIUS
+[pickup] If it gets taken away, you’ll be saving Gotham in suits with tears and bullet holes.
+471) LUCIUS
+[pickup] If it gets taken away, you’ll be saving Gotham in suits with tears and bullet holes.
+358) BRUCE
+[pickup]{AmusedB} I don’t need to worry about the board. {SmugA}{BodyAccent}I’ve got plenty of money--{SmugB}{FaceAccent}we’ll make do.
+359) LUCIUS
+[pickup]Plenty now, but still not enough for all of this.
+361) LUCIUS
+[pickup] I’d like to be optimistic, but from where I’m sitting it doesn’t look good.
+364) BRUCE
+[pickup]{AngryA}My fate at the company can wait.
+365) BRUCE
+[pickup]{ThinkingA} What have you got?
+366) LUCIUS
+[pickup]You’re not going to like it.
+555) LUCIUS
+[pickup]You’re not going to like it.
+367) LUCIUS
+[pickup]As you know, Wayne Enterprises is a telecommunications giant.
+368) LUCIUS
+[pickup]So that’s the thing. [switching tactics]Do you want the good news or the bad news?
+369) BRUCE
+[pickup] {AngryA}Just get on with it, Lucius. {BodyAccent}We don’t have time for games.
+370) LUCIUS
+[pickup] [dry] Forgive me for trying to lighten the mood.
+371) LUCIUS
+[pickup]The backdoor they’re using... I was the one who built it.
+372) LUCIUS
+[pickup]Eye of the beholder, Bruce.
+373) LUCIUS
+[pickup]The good news is I should be able to shut down the backdoor.
+542) LUCIUS
+[pickup]The good news is I should be able to shut down the backdoor.
+374) LUCIUS
+[pickup]Well, you see this backdoor they’re using... I built it.
+375) LUCIUS
+[pickup] Really? Nothing? You’re not as fun as you used to be.
+376) LUCIUS
+[pickup]The thing is, this backdoor they’re using... I’m the one who built it.
+377) LUCIUS
+[pickup]I’ll be nice and let you pick.
+378) LUCIUS
+[pickup]Toss me that data transmitter?
+379) BRUCE
+[pickup]{NormalA}Yeah.
+380) BRUCE
+[pickup] {SkepticalA}Come on, Lucius. {AmusedA}It’s not spying. I only use it--[to fight crime]
+381) LUCIUS
+[pickup] To fight crime. Yes, I know.
+382) LUCIUS
+[pickup] Gotham’s just lucky you have a conscience. You’re a one-man NSA, Bruce.
+383) LUCIUS
+[pickup] [ALT] Gotham’s just lucky you have a conscience. You’re Big Brother in a Batsuit, Bruce.
+384) BRUCE
+[pickup]{NormalA} I need as much surveillance as I can get. {AngryA}Gotham can have its privacy when it isn’t crawling with criminals.
+385) LUCIUS
+[pickup]Sounds like recent events are coloring your judgement a bit, no?
+386) BRUCE
+[pickup]{AmusedA}How long have you known me, Lucius? {AngryA}Batman would never use this to control people’s lives.
+387) LUCIUS
+[pickup] Good to hear. Alfred isn’t the only one who needs to keep you honest.
+388) BRUCE
+[pickup] {ThinkingA}Are you going to start lecturing me about the sanctity of privacy? {SmugA}Because as much as I love that...
+389) LUCIUS
+[pickup] I just want to keep you honest, Bruce. Alfred can only do so much.
+390) LUCIUS
+[pickup] I know how useful it is, to listen in when you need to.
+391) LUCIUS
+[pickup] I just hope it doesn’t go to your head.
+392) LUCIUS
+[pickup] It’s how tyrants are born.
+393) LUCIUS
+[pickup] I just want to keep you honest. Alfred can only do so much.
+394) LUCIUS
+[pickup]The Children of Arkham won’t know we’re here.
+395) LUCIUS
+[pickup]I can fortify it, but it’s gonna take longer to force them out of the system.
+396) BRUCE
+[pickup] [with a sigh of relief] {HappyA}Good. {HappyB}That’s good news.
+397) LUCIUS
+[pickup] The question remains... how did the Children of Arkham find out about the backdoor in the first place?
+399) BRUCE
+[pickup]{ThinkingA}We have a mole. {AngryA}There’s no way they could have gained access without someone on the inside.
+400) LUCIUS
+[pickup]Only a handful of people at the highest level could possibly find out about the backdoor.
+401) LUCIUS
+[pickup] That’s a lot of hay to sift through to find a needle.
+402) BRUCE
+[pickup]{ThinkingA} There’s only one person I know that could manage something this big.
+403) BRUCE
+[pickup] {SmugA}And he happens to be sitting in that chair.
+404) LUCIUS
+[pickup][dry]You know, I was always suspicious of this Lucius Fox character.
+405) LUCIUS
+[pickup][dry]Never see him in his usual office. I think he might be hiding something.
+406) LUCIUS
+[pickup]They shouldn’t have been able to find it.
+407) LUCIUS
+[pickup] Whoever broke in certainly knew how to cover their tracks.
+408) LUCIUS
+[pickup]I’lll try to keep an eye out for any suspicious activity.
+409) LUCIUS
+[pickup] Maybe they’ll get sloppy and give themselves away.
+410) LUCIUS
+[pickup] In the meantime, here.
+411) LUCIUS
+[pickup]{ConcernedA}Get that back to the Batcomputer.
+412) LUCIUS
+[pickup]I’m serious about what I said before. You can’t lose your position as CEO of Wayne Enterprises.
+413) LUCIUS
+[pickup]The company doesn’t know what I really do here. Batman isn’t the only one in jeopardy--I’ll be in a jam too.
+414) LUCIUS
+[pickup] We can’t risk the company getting suspicious.
+415) LUCIUS
+[pickup] And if I’m not working on Batman’s equipment, I don’t know what I’m even doing here.
+416) BRUCE
+[pickup] {AmusedA}This is my only priority now. {NormalA}I’m sorry.
+417) LUCIUS
+[pickup] [dry] Thanks, Bruce. I’ll be sure to send that “Number One Boss” mug to the batcave.
+418) BRUCE
+[pickup]{NormalA} Don’t worry.{AmusedA} I’ll make sure you’re taken care of. No matter what.
+419) LUCIUS
+[with a relieved sigh] Thank you, Bruce. That means a lot.
+420) BRUCE
+[pickup] {AmusedA}Come on. You’re resourceful. {SmugA}You could find a new job in no time.
+421) BRUCE
+[pickup]{AmusedA} “Freelance hacker and technology guru for hire.“
+422) LUCIUS
+[pickup] [dry] I’m sure I could. And while I’m at it, I’ll let everyone know you’re Batman.
+423) LUCIUS
+[pickup] After all, it is a huge part of my resume.
+424) LUCIUS
+[pickup]I know you’re busy, but if you have time, you should look around.
+425) LUCIUS
+[pickup] There’s some new devices you might want to take. And plenty of upgrades.
+426) LUCIUS
+[pickup] I’m going to keep working on this Children of Arkham business. See if there’s a way to shut down their access entirely.
+427) BRUCE
+[pickup] Like this?
+428) LUCIUS
+[pickup] The signal is activated on the underside. Stick it wherever you need, and then you can detonate it from your gauntlet.
+429) LUCIUS
+[pickup] It’s discreet, but packs a major punch.
+430) LUCIUS
+[pickup] A new sticky bomb I developed. The signal is activated on the underside.
+431) LUCIUS
+[pickup] Attach it wherever you need, then detonate it remotely with your gauntlet.
+432) BRUCE
+[pickup] Nice.
+433) BRUCE
+[pickup]What’s this?
+434) LUCIUS
+[pickup]Something I’m still working on. Some new armament to assist you in the field.
+435) LUCIUS
+[pickup] There’s only so much you can do on your own.
+436) BRUCE
+[pickup][to himself]Lucius was one of my first allies as Batman.
+437) BRUCE
+[pickup][to himself] I hate that he’s been caught up in this scandal surrounding my family.
+438) BRUCE
+[pickup] So, anything new?
+439) LUCIUS
+[pickup] This is going to take some time.
+440) LUCIUS
+[pickup]Don’t worry, I’ll let you know as soon as I find something.
+441) LUCIUS
+[pickup] If you find a Wayne Enterprises device, and you think it might be compromised, you can shut it down with this.
+442) LUCIUS
+[pickup] It’ll send an electrical current through whatever it attaches to, frying its motherboard.
+443) LUCIUS
+[pickup] No more ears on the other end.
+444) LUCIUS
+[pickup] I guess I’ll just...figure something out.
+445) LUCIUS
+[pickup] Though I’ll be a little overqualified for every job after working for the biggest conglomerate on the eastern seaboard.
+446) FAIRCHILD
+[pickup]{ThinkingA}Newly elected mayor{FaceAccent} {BodyAccent}{DisgustA}Harvey Dent {NormalA}gave a rousing speech late last night refuting claims that the {ConcernedA}Children of Arkham were gaining control in Gotham.
+577) FAIRCHILD
+[pickup]{ThinkingA}Newly elected mayor{FaceAccent} {BodyAccent}{DisgustA}Harvey Dent {NormalA}gave a rousing speech late last night refuting claims that the {ConcernedA}Children of Arkham were gaining control in Gotham.
+447) FAIRCHILD
+[pickup]{ThinkingA}Despite his run in with the masked group on the way to the event, {ConfusedA}people are still hopeful that Mayor Dent can pull through on his campaign promises.
+578) FAIRCHILD
+[pickup]{ThinkingA}Despite his run in with the masked group on the way to the event, {ConfusedA}people are still hopeful that Mayor Dent can pull through on his campaign promises.
+448) FAIRCHILD
+[pickup][ALT]{ThinkingA}Newly elected mayor {AngryA}Harvey Dent gave a rousing speech early this morning refuting claims that the {ConfusedA}Children of Arkham were gaining control in Gotham.
+579) FAIRCHILD
+[pickup][ALT]{ThinkingA}Newly elected mayor {AngryA}Harvey Dent gave a rousing speech early this morning refuting claims that the {ConfusedA}Children of Arkham were gaining control in Gotham.
+449) HARVEY
+{SurpriseA}We are proud Citizens of Gotham! {AngryA}And this is our city!
+457) HARVEY
+{SurpriseA}We are proud Citizens of Gotham! {AngryA}And this is our city!
+450) HARVEY
+{AngryA}... People like the Children of Arkham want to tear us apart. {AngryB}They want to burn everything that we’ve built to the ground.
+451) HARVEY
+{ConfusedA}Who are the Children of Arkham really fighting for? {AngryA}Who is Batman really protecting?
+452) HARVEY
+{AngryA}Because it’s not us!
+453) HARVEY
+{AngryB}I will fight every day for Gotham! {AngryA}And I ask that you join me!
+454) HARVEY
+{AngryA}It’s time that {BodyAccent}we, not masked vigilantes and violent fringe groups, fought for ourselves!
+455) HARVEY
+{ConfusedA}They don’t choose to see the good in this city.
+456) HARVEY
+{AngryA}But I do.
+458) HARVEY
+{AngryA}And we will fight to protect that goodness.
+459) HARVEY
+{HappyA}Batman does.
+460) HARVEY
+{AngryB}Because we are not the Children of Arkham’s {BodyAccent}playthings.
+461) LUCIUS
+[pickup]It’s Wayne Tech, Bruce.
+462) BRUCE
+[pickup] {ThinkingA}There’s good news?{AngryA} If the Children of Arkham are accessing the Wayne Enterprises network,{SkepticalA} I can’t imagine there’s a bright side.
+463) FAIRCHILD
+[pickup]{SmugA}Next up we speak to Commissioner Grogan regarding increased security measures citywide.
+464) FAIRCHILD
+[pickup]{SmugA}Next up we speak to Commissioner Grogan regarding increased security measures citywide.
+465) BRUCE
+[pickup] {AmusedA}You know how much I love bad news.
+466) 
+My life just keeps getting better.
+467) 
+[ALT]They would have already attacked.
+468) 
+You messed up bad.
+469) LUCIUS
+[pickup]I don’t like the idea of being blindsided by something like that.
+472) LUCIUS
+[pickup]Phones, computers, security cameras, police scanners... every one in Gotham has a big fat “W” printed on it.
+473) LUCIUS
+[pickup]If someone were to, say, build a backdoor into that tech...
+474) BRUCE
+[pickup][putting it together]{ConcernedA}They’d be able to monitor nearly{AngryA} everything that happens in Gotham.
+475) BRUCE
+[pickup][worried]{AngryA}You’re telling me the {FaceAccent}{BodyAccent}Children of Arkham hacked into the system.
+476) LUCIUS
+[pickup][slightly sheepish]But that’s because I was the one that built it.
+477) BRUCE
+[pickup]{SkepticalA}No shortage of bad news lately. {SmugA}Might as well just pile more on.
+478) BRUCE
+[pickup]{ThinkingA}You? {ConfusedA}What are you talking about?
+479) LUCIUS
+[pickup]I should be able to figure out how far they got with it.
+480) LUCIUS
+[pickup]Not unless they knew what they were looking for.
+481) BRUCE
+[pickup]{HappyA}{FaceAccent}Thanks, Lucius.
+482) LUCIUS
+[pickup]{AngryA}It’ll install the added security measures.
+483) LUCIUS
+[pickup]But it’s not really ready yet.
+484) LUCIUS
+[pickup]I was worried that Regina might kick you to the curb as soon as you showed up.
+485) LUCIUS
+[pickup] It’s good to hear she’s still in your corner.
+486) LUCIUS
+[pickup] When your mission as Batman started, you needed a way to monitor the city.
+487) BRUCE
+[pickup]{HappyA} I remember.
+488) LUCIUS
+[pickup] Well, this is how. I piggybacked Batman’s surveillance onto the Wayne Enterprises’ signal.
+489) LUCIUS
+[pickup] Everything we use--the drones, the Batcomputer, your gauntlets... it’s possible because of that backdoor.
+490) BRUCE
+[pickup]{ThinkingA}If the Children of Arkham have access to the same system, {ConfusedA}does that mean they know my identity?
+491) LUCIUS
+[pickup]That’s what I’m about to find out.
+492) LUCIUS
+[pickup] But if it *is* a two way street, then Batman is in very hot water.
+493) BRUCE
+[pickup]{SkepticalA} This day just keeps getting better and better, doesn’t it?
+494) BRUCE
+[pickup]{SkepticalB} Can’t catch a break.
+495) LUCIUS
+[pickup] I’m sorry, Bruce. Let’s just hope we get lucky this time.
+496) BRUCE
+[pickup]{AngryA} I’m at the top of the Children of Arkham’s list. {ConcernedB}They would have come after me as soon as they found out I was Batman.
+497) BRUCE
+[pickup] {ConcernedA}They can’t know.
+498) LUCIUS
+[pickup] Let’s hope you’re right about that.
+499) BRUCE
+[pickup][majorly pissed]{SkepticalA} I think hot water’s an understatement, Lucius. {AngryA}{BodyAccent}You really screwed up this time.
+500) LUCIUS
+[pickup] We don’t know for sure, alright?
+501) LUCIUS
+[pickup]Let me find out if there’s something to actually get upset about before you bite my head off.
+502) LUCIUS
+[pickup] Don’t panic just yet, Bruce.
+503) LUCIUS
+[pickup] We don’t know anything for sure. Let me do some digging first.
+504) LUCIUS
+[pickup] It looks like they’ve only accessed the GCPD so far. Not a lot of activity otherwise.
+505) BRUCE
+[pickup]{AngryA} I’ll have Alfred warn Gordon. {NormalA}{BodyAccent}The GCPD needs to get rid of their Wayne Tech devices.
+506) LUCIUS
+[pickup] Smart move.
+507) LUCIUS
+[pickup]I don’t think The Children of Arkham know exactly what they stumbled on.
+508) LUCIUS
+[pickup]No doubt they’d be spying on the whole city like...well, like Batman.
+509) LUCIUS
+[pickup] I’ve encrypted our access.
+510) BRUCE
+[pickup]{NormalA} When the cops raided the manor, {AngryA}{BodyAccent}they seized every computer belonging to Wayne Enterprises.
+511) BRUCE
+[pickup]{NormalA}Mayor Hill must have given them to the {AngryA}Children of Arkham.
+512) LUCIUS
+[pickup] Trying to save himself, I’m sure.
+513) LUCIUS
+[pickup]You can sync this taser to your gauntlets or your watch and detonate it remotely.
+514) LUCIUS
+[pickup] {HappyA}I’ve always got your back, Batman.
+515) BRUCE
+[pickup][to himself]He jumped at the chance to make new experimental technology.
+516) BRUCE
+[pickup][to himself]I didn’t even have to ask for the car.
+517) LUCIUS
+[pickup]I’m always a fan of finding the silver lining in situations like this.
+518) LUCIUS
+[pickup] I should be able to pull up what they’ve accessed so far.
+519) LUCIUS
+[pickup] See how much they’ve been able to find.
+520) LUCIUS
+[pickup] Hopefully not enough to breach our own system.
+521) LUCIUS
+[pickup]Though maybe you don’t.
+522) LUCIUS
+[pickup]{AmusedA}You’ll also have all the info {FaceAccent}I’ve found on the Children of Arkham’s activity within the system.
+523) LUCIUS
+[pickup]Just be careful you don’t turn into one of them.
+524) BRUCE
+[pickup]{ThinkingA}Looks like Regina’s headed to my office. I should go.
+525) LUCIUS
+[pickup] You might need a little back-up.
+526) LUCIUS
+[pickup]{AmusedA}Now get out of here. {FaceAccent}Regina doesn’t like to be kept waiting.
+528) 
+I have faith in you.
+529) 
+Sure you didn’t tell them?
+530) BRUCE
+[pickup]{AngryB}{FaceAccent}Right now{BodyAccent} finding out how the Children of Arkham are spying on the police is more important.
+531) BRUCE
+[pickup][what the hell?]{ConfusedA}What was the good news then?
+532) LUCIUS
+[pickup]There isn’t any.
+533) LUCIUS
+[pickup][ALT]Well, this is how. I piggybacked Batman’s surveillance onto the Wayne Enterprises’ signal.
+534) BRUCE
+[pickup][Jesus Christ man]{ConfusedA}So I’m guessing that’s the bad news.
+535) LUCIUS
+[pickup]Bingo.
+536) BRUCE
+[pickup]{HappyA}I believe in you, Lucius.{SmugA} If anyone can crack this it’s you.
+537) LUCIUS
+[pickup]You’re just trying to butter me up.
+538) LUCIUS
+[pickup]It’s working.
+539) BRUCE
+[pickup]{AngryA}The Batcave would be under seige.
+540) LUCIUS
+[pickup]Gotham’s just lucky you have a conscience.
+541) BRUCE
+[pickup]{SkepticalA}It’s not you... right, Lucius?
+543) 
+Drone
+544) 
+Lucius
+545) BRUCE
+[pickup]We’d better lock this stuff down. Just in case.
+546) BRUCE
+[pickup][impressed]{SurpriseA}Thermal vision?
+547) BRUCE
+[pickup][impressed]{SmugA}You’ve been busy haven’t you, Lucius?
+549) 
+Cowl
+550) 
+Screen
+551) 
+Watch the News.
+552) 
+This will die down.
+556) 
+::Tell Gordon to break his com::
+557) 
+::They hacked our tech::
+558) 
+::Call the GCPD::
+559) 
+Whiteboard
+560) 
+Alfred, I’ve got news
+561) 
+Did Lucius find something?
+562) 
+Call Gordon. Tell him to break all their comms
+563) 
+What is it?
+564) 
+All of them?
+565) 
+Anything Wayne Tech. The Children of Arkham are using it to listen in
+566) 
+Right away, sir
+572) 
+Right away, sir.
+567) 
+The Children of Arkham hacked into Wayne Tech. That’s how they were listening in on the police
+568) 
+This is worse than I thought. I’ll contact the station
+569) 
+I need you to call the GCPD
+570) 
+What’s going on? Are you alright?
+571) 
+I’m fine. Just tell them their comms are compromised. They need to get rid of anything made by Wayne Tech
+574) 
+You can’t say that and then not respond!
+575) 
+I’ll just contact Lucius.
+576) 
+You’ll be the death of me.

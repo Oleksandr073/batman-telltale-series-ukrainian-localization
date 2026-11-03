@@ -1,0 +1,36 @@
+﻿#### 144f78fc9b | BATMANBRUCE → ALFRED | x2
+Al? Al what’s wrong?!
+
+#### 2774326710 | BATMANBRUCE, BRUCE → ALFRED, HARVEY, BRUCE | x6
+We need to cut the hardline, NOW!
+
+#### c7b50c5b7b | BATMANBRUCE, BRUCE, ALFRED → ALFRED, BRUCE, HARVEY | x10
+It’s Penguin!
+
+#### f6ac2a83a3 | ALFRED → BRUCE | x8
+Bruce! The computer!
+
+#### 5ec960a285 | ALFRED → BATMAN, BRUCE | x6
+Bruce - All of your Bat-Tech is linked to this computer-
+
+#### 336b9f1f32 | BATMANBRUCE → ALFRED | x2
+Take it offline, NOW!
+
+#### d01e2dc2a2 | BATMANBRUCE, BRUCE → ALFRED | x6
+If Penguin hacks in, he’ll have control of all of it - I have to shut it down!
+
+#### 02abc1a2ba | ALFRED → BATMAN, HARVEY, OSWALD | x8
+If you take it offline it will all be inoperable!
+
+#### 373d9c0005 | BATMANBRUCE → LUCIUS | x2
+Lucius, Al, what’s going on?
+
+#### e3a0125796 | LUCIUS → ALFRED | x2
+I-- I’ve been doing everything I can... but I can’t keep him out!
+
+#### 7541b684ff | choice/UI → ALFRED | x2
+Cut Hardline
+
+#### e9f3990393 | choice/UI → ALFRED | x4
+FIREWALL BREACHED
+

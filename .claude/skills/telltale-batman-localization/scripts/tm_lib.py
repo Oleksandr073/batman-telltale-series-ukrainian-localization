@@ -1,0 +1,582 @@
+"""Shared logic for the translation table (build_tm.py) and putting translations back (apply_translations.py).
+
+Core text: each text line is split into  prefix + core + suffix.
+  prefix = leading {tags} and [notes] (e.g. "{AngryA}[pickup][ALT]"), copied back untouched;
+  core   = what the translator translates (mid-line tags stay inside it);
+  suffix = trailing spaces/tabs.
+  A line that is only brackets ("[Ignore]", "[sighs]") keeps its brackets in the core.
+
+Ukrainian gender: a core is split into separate table rows by speaker gender when it has first-person
+past tense / "I'm sure"-type words, and by listener gender when it has "you" + past tense / adjective.
+Speaker gender comes from speaker_genders.xlsx; the listener is guessed (see guess_listeners).
+"""
+import collections
+import hashlib
+import os
+import sys
+import re
+
+NOTE = re.compile(r'^\(\w[\w .]*, \w{3} \w{3}')          # writers' timestamped notes
+MARKUP = re.compile(r'\{[^{}]*\}|\^[^^]*\^|<<[^<>]*>>|<[^<>]+>')
+PREFIX = re.compile(r'^(?:\s*(?:\{[^{}]*\}|\[[^\[\]]*\]))+\s*')
+TAGS_ONLY_PREFIX = re.compile(r'^(?:\s*\{[^{}]*\})+\s*')
+DEV_SPEAKER = re.compile(r'^(DIR|STUB|NOTES?|QUESTION|GAMEPLAY|CHANGED?|WRITING|VFX|QTE|FILE|HTTPS?|REF|TESTDIR)')
+LINE_SEP = ' ¶ '                                         # joins lines of a multi-line record in the table
+
+_IRREG = ('was|were|did|saw|made|had|went|got|told|said|thought|knew|found|left|took|gave|came|felt|kept|lost|'
+          'met|heard|meant|brought|bought|caught|fought|forgot|forgave|ran|sat|stood|understood|wrote|became|'
+          'began|broke|chose|drove|fell|flew|grew|hid|hit|hurt|let|put|read|rode|sent|shot|slept|spoke|spent|'
+          'stole|swore|taught|threw|tried|won|woke|could|would')
+_ADJ = ('sure|glad|sorry|ready|tired|afraid|happy|alone|wrong|right|done|busy|serious|grateful|curious|aware|'
+        'late|free|alive|dead|crazy|drunk|innocent|guilty|proud|scared|worried|surprised|impressed|interested|'
+        'disappointed|married|responsible|calm|safe|sick|honest|able|certain|positive|convinced|lucky|young|'
+        'old|good|fine|okay|alright|new|mad|angry|upset|lonely|jealous|stupid|smart|strong|weak|hungry|awake')
+_ADV = r'(?:just |never |already |really |always |only |even |also |not |so |very |too |quite |a little |still |all )*'
+SPEAKER_GENDERED = re.compile(
+    rf"\bI(?:’d|'d|’ve|'ve| had| have| would have)?\s+{_ADV}(?:\w+ed|{_IRREG})\b"
+    rf"|\bI(?:’m|'m| am| was)\s+{_ADV}(?:{_ADJ}|\w+ed)\b|\bmyself\b", re.I)
+LISTENER_GENDERED = re.compile(
+    rf"\byou(?:’d|'d|’ve|'ve| had| have| would have)?\s+{_ADV}(?:\w+ed|{_IRREG})\b"
+    rf"|\byou(?:’re|'re| are| were)\s+{_ADV}(?:{_ADJ}|\w+ed)\b|\b(?:did|were|have|had) you\b|\byourself\b", re.I)
+
+ALIAS = {'BATMANBRUCE': 'BATMAN', 'DENT': 'HARVEY', 'HARBEY': 'HARVEY', 'RENEE': 'MONTOYA', 'JOE CHILL': 'JOECHILL'}
+VOCATIVES = {
+    'BRUCE': r'Bruce|Mr\. Wayne|Master Bruce|Master Wayne|Brucie|Wayne', 'BATMAN': r'Batman|Bats',
+    'ALFRED': r'Alfred|Pennyworth', 'HARVEY': r'Harvey|Harv|Mr\. Dent|Dent|Mayor Dent',
+    'SELINA': r'Selina|Ms\. Kyle|Miss Kyle|Kyle', 'CATWOMAN': r'Catwoman',
+    'GORDON': r'Gordon|Jim|Lieutenant|Commissioner', 'OSWALD': r'Oswald|Oz|Ozzy|Cobblepot', 'PENGUIN': r'Penguin',
+    'VICKI': r'Vicki|Ms\. Vale|Miss Vale', 'LUCIUS': r'Lucius|Mr\. Fox', 'FALCONE': r'Falcone|Carmine',
+    'MONTOYA': r'Montoya|Renee', 'HILL': r'Mayor Hill|Hill|Mr\. Mayor', 'JOKER': r'John|Doe',
+    'LELAND': r'Dr\. Leland|Leland|Doctor', 'LADYARKHAM': r'Lady Arkham', 'ZSASZ': r'Zsasz|Victor',
+    'REGINA': r'Regina|Mrs\. Zellerbach'}
+_VOC_RE = {k: re.compile(rf'(?:^|[,!?.]\s*|--\s*)(?:{v})(?:\s*[,!?.]|\s*--|\s*$)') for k, v in VOCATIVES.items()}
+_TO_RE = re.compile(r'\[(?:[^\]]*;\s*)?to ([A-Za-z .’\-]+?)\s*[;\]]', re.I)
+
+
+def check_root(files, root):
+    """Stop early if EN_ROOT is not the folder that directly contains the BM_* / BAT_* folders."""
+    if not files or not all(f.startswith(('BM_', 'BAT_')) for f in files):
+        sys.exit(f'{root} must be the folder that directly contains the BM_* and BAT_* folders '
+                 f'(here: data/original_data). Found e.g.: {files[:1]}')
+
+
+def load_genders(path):
+    """speaker_id -> 'M' / 'F' / '?'  from speaker_genders.xlsx (or .tsv)."""
+    rows = []
+    if path.lower().endswith('.xlsx'):
+        _openpyxl()
+        from openpyxl import load_workbook
+        wb = load_workbook(path, read_only=True)
+        it = wb.worksheets[0].iter_rows(values_only=True)
+        next(it)
+        rows = [[('' if v is None else str(v)) for v in r[:2]] for r in it]
+        wb.close()
+    else:
+        with open(path, encoding='utf-8-sig') as fh:
+            next(fh)
+            rows = [line.rstrip('\r\n').split('\t') for line in fh]
+    return {r[0].strip(): (r[1].strip().upper() or '?') for r in rows if len(r) >= 2 and r[0].strip()}
+
+
+def norm_speaker(s):
+    return ALIAS.get(s, s)
+
+
+def is_dev_record(rec):
+    return bool(DEV_SPEAKER.match(rec['spk'])) or any(NOTE.match(l) for l in rec['body'][:1])
+
+
+TRAILING_ALT = re.compile(r'\s*\[alt\b[^\[\]]*\]$', re.I)
+
+
+def split_line(line):
+    """-> (prefix, core, suffix)."""
+    stripped = line.rstrip(' \t')
+    suffix = line[len(stripped):]
+    m = TRAILING_ALT.search(stripped)
+    if m and stripped[:m.start()].strip():
+        suffix = stripped[m.start():] + suffix
+        stripped = stripped[:m.start()]
+    m = PREFIX.match(stripped)
+    if m and stripped[m.end():].strip():
+        return stripped[:m.end()], stripped[m.end():], suffix
+    m = TAGS_ONLY_PREFIX.match(stripped)           # only brackets left: keep them in the core
+    if m and stripped[m.end():].strip():
+        return stripped[:m.end()], stripped[m.end():], suffix
+    return '', stripped, suffix
+
+
+def has_letters(text):
+    return any(c.isalpha() for c in MARKUP.sub('', text))
+
+
+def spoken(text):
+    return re.sub(r'\[[^\]]*\]', ' ', MARKUP.sub('', text))
+
+
+def guess_listeners(recs):
+    """recs sorted by id. Returns {id: (listener, how)} for records with a speaker (how = note/name/nearby).
+    Records without a speaker (choices) are spoken by Bruce/Batman to the nearest other speaker."""
+    seq = [(i, norm_speaker(r['spk'])) for i, r in enumerate(recs)
+           if r['spk'] and not is_dev_record(r) and any(l.strip() for l in r['body'])]
+    pos = {i: k for k, (i, _) in enumerate(seq)}
+    out = {}
+    for i, r in enumerate(recs):
+        if is_dev_record(r):
+            continue
+        me = norm_speaker(r['spk']) if r['spk'] else 'BRUCE'
+        text = MARKUP.sub('', ' '.join(r['body']))
+        target, how = None, None
+        m = _TO_RE.search(text)
+        if m:
+            name = re.sub(r'[^A-Z]', '', m.group(1).upper())
+            for k, rx in VOCATIVES.items():
+                alts = [re.sub(r'[^A-Z]', '', a.upper()) for a in rx.replace('\\.', '').split('|')]
+                if name == k or name in alts:
+                    target, how = k, 'note'
+                    break
+        if not target:
+            sp = spoken(text)
+            for k, rx in _VOC_RE.items():
+                if k != me and rx.search(sp):
+                    target, how = k, 'name'
+                    break
+        if not target:
+            if i in pos:
+                k0 = pos[i]
+                near = [s for _, s in seq[max(0, k0 - 3):k0 + 4] if s != me]
+            else:  # choice: look at speakers around it
+                around = [s for j, s in seq if abs(j - i) <= 4 and s not in ('BRUCE', 'BATMAN')]
+                near = around
+            if near:
+                target, how = collections.Counter(near).most_common(1)[0][0], 'nearby'
+        out[r['id']] = (target, how)
+    return out
+
+
+def record_key(cores, speaker_gender, listener_gender):
+    """Stable id of a table row. Gender parts are added only when the text needs them."""
+    joined = '\n'.join(cores)
+    sp = spoken(joined)
+    sg = speaker_gender if SPEAKER_GENDERED.search(sp) else ''
+    lg = listener_gender if LISTENER_GENDERED.search(sp) else ''
+    h = hashlib.sha1(joined.encode('utf-8')).hexdigest()[:10]
+    return h + (f'-S{sg}' if sg else '') + (f'-L{lg}' if lg else ''), sg, lg
+
+
+def analyze_records(recs, genders):
+    """recs: records of one file. Returns {id: info} for every record that belongs in the table.
+    info = dict(cores, key, sg, lg, speaker, listener, how). Missing id = stays English (notes, no letters,
+    subtitles that are only [sighs])."""
+    by_id = sorted(recs, key=lambda r: r['id'])
+    listeners = guess_listeners(by_id)
+    out = {}
+    for r in by_id:
+        if is_dev_record(r):
+            continue
+        cores = [split_line(l)[1] for l in r['body']]
+        if not has_letters(' '.join(cores)):
+            continue
+        if r['spk'] and not has_letters(re.sub(r'\[[^\[\]]*\]', '', ' '.join(cores))):
+            continue
+        spk = norm_speaker(r['spk']) if r['spk'] else 'BRUCE'
+        lst, how = listeners.get(r['id'], (None, None))
+        sg_all = genders.get(r['spk'], genders.get(spk, '?'))
+        lg_all = genders.get(lst, '?') if lst else '?'
+        key, sg, lg = record_key(cores, sg_all, lg_all)
+        out[r['id']] = {'cores': cores, 'key': key, 'sg': sg, 'lg': lg,
+                        'speaker': r['spk'] or 'choice/UI', 'listener': lst, 'how': how}
+    return out
+
+
+def split_translation(cell, n_lines):
+    """Table cell -> list of n_lines core lines, or None if the number of lines is wrong.
+    Lines are separated by " ¶ " or by a line break typed in Excel (Alt+Enter) - both work."""
+    cell = unescape_cell(cell)
+    # Excel line break = ¶. Spaces next to the break are kept: a line may really start with a space
+    # (e.g. " More info at ..." in ui_menu) and that space is part of the game layout.
+    cell = re.sub(r'\r\n|\r|\n', LINE_SEP, cell)
+    if n_lines == 1:
+        return None if '¶' in cell else [cell]
+    parts = cell.split(LINE_SEP)               # exact " ¶ " keeps spaces inside lines
+    if len(parts) != n_lines:
+        parts = re.split(r' ?¶ ?', cell)       # editor trimmed a space somewhere
+    return parts if len(parts) == n_lines else None
+
+
+def loose_text(s):
+    """Lower-case letters/digits only - for spotting near-identical rows."""
+    s = re.sub(r'\{[^}]*\}|\[[^\]]*\]|\^[^^]*\^|<[^>]*>', '', s).replace('’', "'").lower()
+    return re.sub(r'[^a-z0-9]+', ' ', s).strip()
+
+
+# --- translation table files: .xlsx (for people) or .tsv (plain text) ------------------------------------
+# (internal name, column title in Excel, width)
+TABLE_COLUMNS = [
+    ('row', '#', 7),
+    ('english', 'English', 60),
+    ('ukrainian', 'Ukrainian  ✎ (type here)', 60),
+    ('lines', 'Lines', 7),
+    ('translator_notes', 'Translator notes  ✎ (for people only)', 35),
+    ('speaker_gender', 'Speaker gender', 9),
+    ('listener_gender', 'Listener gender', 9),
+    ('speakers', 'Who speaks', 18),
+    ('listeners', 'To whom (guess)', 18),
+    ('count', 'Used (times)', 8),
+    ('official', 'Official', 9),
+    ('first_seen', 'Where (file : line)', 45),
+    ('notes', 'Notes', 40),
+    ('key', 'key (do not edit)', 16),
+]
+HELP = [
+    'How to use this file',
+    '',
+    'Type the Ukrainian translation into the yellow column "Ukrainian". Do not change any other column.',
+    'One row = one text. It is used in every place the game shows it ("Used (times)" says how many).',
+    '',
+    'Layout: the table follows the story (ai_context/play_order.txt). Dark rows = sections (episodes, menus, credits),',
+    'light-blue bold rows = scenes. Use the +/- buttons on the left to fold episodes or scenes.',
+    'Grey rows = the same text again later in the story, only for context: their Ukrainian cell repeats the',
+    'translation of the row in "see row #N". Never type in grey rows - type in row #N (the import warns you).',
+    'Empty Ukrainian cell = the game keeps the English text.',
+    '',
+    'Columns',
+    'English - the text to translate. Tags at the start of a line ({AngryA}, [pickup], [ALT]) are already removed;',
+    '    the script puts them back. Tags still inside the text ({SmugA}, ^font..^, <icon.d3dtx:-15>) must be copied',
+    '    unchanged into the translation.',
+    'Translator notes (blue) - free notes for people: questions, doubts, "check in game", ideas. Scripts never',
+    '    use them; they are kept when the table is rebuilt, like the translations.',
+    '    "AI draft" = the Ukrainian text was written by Claude: check it, fix it, then delete "AI draft".',
+    'Lines - how many lines the text has in the game. Your translation must have the same number (separate lines',
+    '    with ¶ or Alt+Enter). The Ukrainian cell turns red while the number of lines is wrong.',
+    'Speaker gender - filled only if the Ukrainian words depend on who speaks: M = male (бачив, певен),',
+    '    F = female (бачила, певна), ? = unknown, check the scene. Empty = gender does not matter here.',
+    'Listener gender - same, for the person spoken to ("Did you see?" -> бачив / бачила).',
+    'Who speaks / To whom - characters. "choice/UI" = a choice option or menu text (Bruce says choices).',
+    '    "To whom" is a guess from the scene.',
+    'Official - how many of Telltale’s official translations (8 languages) translated this text.',
+    '    "yes 8/8" = shown in the game. "no 0/8" = no language translated it: almost surely never shown (cut',
+    '    lines, alternate takes). For information only: translate every row as usual.',
+    'Where - the game file and line of this row. Open ai_context/scenes/<that file> to read the whole scene.',
+    'Notes - "keep N ¶": the text has several lines joined with " ¶ " - keep the same number of lines: type ¶',
+    '    between them, or press Alt+Enter for a line break (both work). A text without ¶ is ONE line in the game:',
+    '    never put a line break in it (the import skips such rows and tells you the row number).',
+    '    "same as row #N (almost)": nearly the same text as row N - reuse that translation.',
+    '    "listener guessed - check scene": the gender of the listener is a guess.',
+    '    "credits: people’s names stay in Latin".',
+    'key - technical id that links the row to the game files. Never edit it, never delete rows.',
+    '',
+    'Rules',
+    '- Keep "...", "--" and the ending punctuation the same as in the English text.',
+    '- Bracket-only choices like [Ignore] are visible in game: translate inside the brackets, keep the brackets.',
+    '- Use names exactly as in ai_context/glossary.md, and ти/ви as in ai_context/speakers.md.',
+    '- Turn off AutoCorrect if it changes "..." into "…" or "--" into a dash.',
+    '- The Ukrainian column is formatted as Text, so lines starting with -- or = are safe to type.',
+    '- You can sort and filter, but save as .xlsx (not .csv).',
+]
+
+
+def _openpyxl():
+    try:
+        import openpyxl
+        return openpyxl
+    except ImportError:
+        sys.exit('Excel files need the openpyxl package. Install it once with:  python -m pip install openpyxl')
+
+
+def table_column_letter(name):
+    """Excel column letter of a table column, e.g. 'ukrainian' -> 'C'."""
+    from openpyxl.utils import get_column_letter
+    return get_column_letter([c[0] for c in TABLE_COLUMNS].index(name) + 1)
+
+
+def write_table(path, rows):
+    """rows: list of dicts with internal column names and 'kind': section / scene / text / ref
+    (rows without 'kind' are text rows). Only text rows have a key."""
+    names = [c[0] for c in TABLE_COLUMNS]
+    if not path.lower().endswith('.xlsx'):
+        with open(path, 'w', encoding='utf-8-sig', newline='\r\n') as fh:
+            fh.write('\t'.join(n for n in names if n != 'row') + '\n')
+            for row in rows:
+                if row.get('kind', 'text') == 'text':
+                    fh.write('\t'.join(str(row.get(n, '')) for n in names if n != 'row') + '\n')
+        return
+    _openpyxl()
+    from openpyxl import Workbook
+    from openpyxl.formatting.rule import FormulaRule
+    from openpyxl.styles import Alignment, Border, Font, PatternFill, Side
+    from openpyxl.worksheet.properties import Outline
+    wb = Workbook()
+    ws = wb.active
+    ws.title = 'Translate'
+    ws.append([c[1] for c in TABLE_COLUMNS])
+    wrap = Alignment(wrap_text=True, vertical='top')
+    top = Alignment(vertical='top')
+    yellow = PatternFill('solid', fgColor='FFF2B3')
+    blue = PatternFill('solid', fgColor='DDEBF7')
+    header_fill = PatternFill('solid', fgColor='E7E6E6')
+    section_fill = PatternFill('solid', fgColor='1F3864')
+    scene_fill = PatternFill('solid', fgColor='D9E1F2')
+    ref_fill = PatternFill('solid', fgColor='F2F2F2')
+    small_grey = Font(color='999999', size=8)
+    ref_font = Font(color='808080', italic=True)
+    line = Side(style='thin', color='BFBFBF')
+    box = Border(left=line, right=line, top=line, bottom=line)  # fills hide Excel's gridlines
+    col = {n: i + 1 for i, n in enumerate(names)}
+    wrap_cols = {col['english'], col['ukrainian'], col['translator_notes'], col['notes']}
+    number_cols = {col['row'], col['count'], col['lines']}
+    ws.sheet_properties.outlinePr = Outline(summaryBelow=False)    # +/- buttons on the header rows
+    ncols = len(names)
+
+    def row_cells(r):     # direct lookups; ws[r] rescans the whole sheet each time (very slow on 60 000+ rows)
+        return [ws.cell(row=r, column=i) for i in range(1, ncols + 1)]
+
+    for n, row in enumerate(rows, 2):
+        kind = row.get('kind', 'text')
+        if kind in ('section', 'scene'):
+            ws.append(['', row['english']] + [''] * (len(names) - 2))
+            if kind == 'scene' and row.get('first_seen'):
+                ws.cell(row=n, column=col['first_seen']).value = row['first_seen']
+            for c in row_cells(n):
+                c.fill = section_fill if kind == 'section' else scene_fill
+                c.font = Font(bold=True, size=13, color='FFFFFF') if kind == 'section' else Font(bold=True)
+                c.border = box
+            ws.row_dimensions[n].outlineLevel = 0 if kind == 'section' else 1
+            continue
+        n_lines = row['english'].count('¶') + 1
+        ws.append([row.get('row', n) if c == 'row' else n_lines if c == 'lines' else row.get(c, '') for c in names])
+        for c in row_cells(n):
+            c.border = box
+            c.alignment = wrap if c.column in wrap_cols else top
+            if c.column not in number_cols and not (kind == 'ref' and c.column == col['ukrainian']):
+                c.data_type = 's'                 # never a formula, even if text starts with = or --
+            if kind == 'ref':
+                c.fill = ref_fill
+                c.font = ref_font
+        if kind == 'text':
+            u = ws.cell(row=n, column=col['ukrainian'])
+            u.fill, u.number_format = yellow, '@'
+            t = ws.cell(row=n, column=col['translator_notes'])
+            t.fill, t.number_format = blue, '@'
+            ws.cell(row=n, column=col['key']).font = small_grey
+        ws.row_dimensions[n].outlineLevel = 2
+
+    for name, title, width in TABLE_COLUMNS:
+        c = ws.cell(row=1, column=col[name])
+        ws.column_dimensions[c.column_letter].width = width
+        c.font, c.fill, c.border, c.alignment = Font(bold=True), header_fill, box, wrap
+    ws.cell(row=1, column=col['ukrainian']).fill = yellow
+    ws.cell(row=1, column=col['translator_notes']).fill = blue
+    # the Ukrainian cell turns red while its number of lines (¶ or Alt+Enter line breaks) differs from "Lines"
+    u, ln = table_column_letter('ukrainian'), table_column_letter('lines')
+    count = f'LEN(${u}2)-LEN(SUBSTITUTE(SUBSTITUTE(${u}2,"¶",""),CHAR(10),""))+1'
+    ws.conditional_formatting.add(f'{u}2:{u}{ws.max_row}', FormulaRule(
+        formula=[f'AND(${ln}2<>"",${u}2<>"",{count}<>${ln}2)'],
+        # Excel reads a conditional solid fill from bgColor (normal cells use fgColor) - set both
+        fill=PatternFill(fill_type='solid', start_color='FF9999', end_color='FF9999', bgColor='FF9999'),
+        font=Font(color='9C0006', bold=True)))
+    ws.freeze_panes = 'C2'
+    ws.auto_filter.ref = ws.dimensions
+    hs = wb.create_sheet('Help')
+    hs.column_dimensions['A'].width = 120
+    for text in HELP:
+        hs.append([text])
+    hs['A1'].font = Font(bold=True, size=14)
+    save_stable(wb, path)
+
+
+def save_stable(wb, path):
+    """Save an .xlsx with fixed dates instead of the save time, so the same table gives exactly the same file and
+    git shows it as changed only when its content changes."""
+    import io
+    import zipfile
+    buf = io.BytesIO()
+    wb.save(buf)
+    src = zipfile.ZipFile(io.BytesIO(buf.getvalue()))
+    with zipfile.ZipFile(path, 'w', zipfile.ZIP_DEFLATED) as out:
+        for info in src.infolist():
+            data = src.read(info.filename)
+            if info.filename == 'docProps/core.xml':
+                data = re.sub(rb'(<dcterms:(?:created|modified)[^>]*>)[^<]*', rb'\g<1>2000-01-01T00:00:00Z', data)
+            out.writestr(zipfile.ZipInfo(info.filename, date_time=(2000, 1, 1, 0, 0, 0)), data,
+                         compress_type=zipfile.ZIP_DEFLATED)
+
+
+def reference_row_edits(path):
+    """Grey reference rows whose Ukrainian cell was overwritten by hand -> [(row, master row), ...].
+    Scripts never read those cells, so such typing would be lost."""
+    if not path.lower().endswith('.xlsx'):
+        return []
+    _openpyxl()
+    from openpyxl import load_workbook
+    wb = load_workbook(path, read_only=True, data_only=False)
+    ws = wb['Translate'] if 'Translate' in wb.sheetnames else wb.worksheets[0]
+    it = ws.iter_rows(values_only=True)
+    by_title = {c[1]: c[0] for c in TABLE_COLUMNS}
+    cols = [by_title.get(str(t or ''), str(t or '')) for t in next(it)]
+    found = []
+    for n, vals in enumerate(it, 2):
+        row = dict(zip(cols, vals))
+        m = re.match(r'see row #(\d+)', str(row.get('notes') or ''))
+        uk = row.get('ukrainian')
+        if m and uk not in (None, '') and not str(uk).startswith('='):
+            found.append((n, int(m.group(1))))
+    wb.close()
+    return found
+
+
+def read_table(path):
+    """-> list of row dicts with internal column names (from .xlsx or .tsv)."""
+    if path.lower().endswith('.xlsx'):
+        _openpyxl()
+        from openpyxl import load_workbook
+        wb = load_workbook(path, read_only=True, data_only=False)
+        ws = wb['Translate'] if 'Translate' in wb.sheetnames else wb.worksheets[0]
+        it = ws.iter_rows(values_only=True)
+        titles = [str(t or '') for t in next(it)]
+        by_title = {c[1]: c[0] for c in TABLE_COLUMNS}
+        cols = [by_title.get(t, t) for t in titles]
+        rows = []
+        for vals in it:
+            row = {c: ('' if v is None else str(v)) for c, v in zip(cols, vals)}
+            if row.get('key'):
+                rows.append(row)
+        wb.close()
+        return rows
+    with open(path, encoding='utf-8-sig') as fh:
+        header = fh.readline().rstrip('\r\n').split('\t')
+        return [dict(zip(header, line.rstrip('\r\n').split('\t'))) for line in fh if line.strip()]
+
+
+# --- unique-text folders (data/unique_original_data / data/unique_localized_data) ----------------------------------
+# data/unique_original_data is built from the English game files ONLY (no genders, no guesses): every unique English
+# text once, in the file named after the game file where it first appears:
+#   #### <text id> | <who speaks, from the header lines> → <spoken to, guessed from the scene> | x<times used>
+# ("spoken to" comes from [to X] notes, names used in direct address and neighbouring speakers - all from the
+#  English files, never from the genders file)
+#   <text lines>
+#   <empty line>
+# data/unique_localized_data has the same entries with the Ukrainian from the table (untranslated = English). Only when
+# one English text needs several Ukrainian versions (male/female forms) does the entry appear once per version,
+# with the table key instead of the text id, e.g. "#### f156de4535-LF | BRUCE | x4" (no gender label).
+
+def file_order(rel):
+    """Default mode first (episode 101 -> 105, menus), then Noir; used for table rows and unique files."""
+    folder = rel.split('/')[0]
+    mode = 0 if folder.startswith('BM_') else 1
+    m = re.search(r'(10[1-5])', folder)
+    grp = m.group(1) if m else {'Menu': '200', 'Boot': '300', 'Project': '400'}.get(
+        next((g for g in ('Menu', 'Boot', 'Project') if g in folder), ''), '900')
+    return mode, grp, rel
+
+
+def english_unique(root):
+    """Every unique English text of the game files, in table order: {text id: entry}. Uses no genders."""
+    from landb_txt import read_records, txt_files
+    out = {}
+    for rel in sorted(txt_files(root), key=file_order):
+        recs = read_records(os.path.join(root, rel))[0]
+        info = analyze_records(recs, {})
+        for r in sorted(recs, key=lambda x: x['id']):
+            if r['id'] not in info:
+                continue
+            tid = info[r['id']]['key'].split('-')[0]
+            e = out.get(tid)
+            if e is None:
+                e = out[tid] = {'cores': info[r['id']]['cores'], 'file': rel,
+                                'speakers': collections.Counter(), 'listeners': collections.Counter(), 'count': 0}
+            e['count'] += 1
+            e['speakers'][r['spk'] or 'choice/UI'] += 1
+            if info[r['id']]['listener']:
+                e['listeners'][info[r['id']]['listener']] += 1
+    return out
+
+
+def _head(tid, e):
+    who = ', '.join(s for s, _ in e['speakers'].most_common(4))
+    to = ', '.join(s for s, _ in e['listeners'].most_common(3))
+    return f"#### {tid} | {who}{' → ' + to if to else ''} | x{e['count']}"
+
+
+def unique_files(root, rows=None):
+    """-> ({relative path: [lines]}, rows with a wrong ¶ count). rows=None: English folder.
+    rows = table rows: Ukrainian folder."""
+    eng = english_unique(root)
+    variants = collections.defaultdict(list)
+    for row in rows or []:
+        variants[row['key'].split('-')[0]].append(row)
+    files = collections.defaultdict(list)
+    bad = 0
+    for tid, e in eng.items():
+        if rows is None or len(variants.get(tid, [])) <= 1:
+            text = e['cores']
+            row = variants[tid][0] if rows is not None and variants.get(tid) else None
+            if row and row.get('ukrainian'):
+                tr = split_translation(row['ukrainian'], len(e['cores']))
+                if tr is None:
+                    bad += 1
+                else:
+                    text = tr
+            files[e['file']].extend([_head(tid, e)] + text + [''])
+            continue
+        # several Ukrainian versions of one English text (male/female forms): one entry each, in a fixed order.
+        # The entry header carries the table key (e.g. e9fb7ef5aa-LF) so the versions can be told apart and checked;
+        # no readable gender label (gender lives only in speaker_genders.xlsx and the table).
+        for row in sorted(variants[tid], key=lambda v: v["key"]):
+            text = e['cores']
+            if row.get('ukrainian'):
+                tr = split_translation(row['ukrainian'], len(e['cores']))
+                if tr is None:
+                    bad += 1
+                else:
+                    text = tr
+            files[e['file']].extend([_head(row['key'], e)] + text + [''])
+    return files, bad
+
+
+def _unique_folder_files(d):
+    """All files in d. Exits if d holds anything that is not a unique-text file (protects other folders)."""
+    from landb_txt import _long, read_raw
+    found = []
+    base = _long(d)
+    for dp, _, fn in os.walk(base):
+        for f in fn:
+            path = os.path.join(dp, f)
+            head = read_raw(path)[:20].decode('utf-8', 'replace').lstrip(chr(0xFEFF))
+            if not (f.endswith('.txt') and head.startswith('#### ')):
+                sys.exit(f'{d} contains {os.path.relpath(path, base)}, which is not a unique-text file - '
+                         f'refusing to touch this folder. Check the folder name.')
+            found.append(os.path.relpath(path, base).replace(os.sep, '/'))
+    return found
+
+
+def write_unique(files, d):
+    """Rewrite folder d with files from unique_files(). Only unique-text files are ever deleted."""
+    from landb_txt import _long, write_lines
+    for rel in _unique_folder_files(d):
+        if rel not in files:
+            os.remove(_long(os.path.join(d, rel)))
+    for rel, lines in files.items():
+        write_lines(os.path.join(d, rel), lines)
+    return len(files)
+
+
+def compare_unique(root, d):
+    """Is folder d exactly the English unique folder of root? -> list of problems (empty = yes)."""
+    from landb_txt import read_raw, split_lines
+    files, _ = unique_files(root)
+    have = set(_unique_folder_files(d)) if os.path.isdir(d) else set()
+    problems = [f'missing: {rel}' for rel in sorted(set(files) - have)]
+    problems += [f'not from the English files: {rel}' for rel in sorted(have - set(files))]
+    for rel in sorted(set(files) & have):
+        if split_lines(read_raw(os.path.join(d, rel)))[0] != files[rel]:
+            problems.append(f'differs: {rel}')
+    return problems
+
+
+def escape_cell(s):
+    return s.replace('\\', '\\\\').replace('\t', '\\t')
+
+
+def unescape_cell(s):
+    return re.sub(r'\\(\\|t)', lambda m: '\t' if m.group(1) == 't' else '\\', s)

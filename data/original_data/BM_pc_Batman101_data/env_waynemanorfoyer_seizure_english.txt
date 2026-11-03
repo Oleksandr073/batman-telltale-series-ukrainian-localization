@@ -1,0 +1,392 @@
+﻿1) 
+I didn’t do anything!
+81) BRUCE
+I didn’t do anything.
+2) 
+You’re making a mistake.
+3) ALFRED
+{NormalA}{BodyAccent}Of course, sir.
+4) BRUCE
+{SkepticalA}So you just do whatever Mayor Hill says?
+5) BRUCE
+{ConcernedA}And what do you expect to find?
+6) BRUCE
+{AngryA}Who authorized this?
+70) 
+Who authorized this?
+7) BRUCE
+{ConfusedA}And if I refuse?
+71) 
+And if I refuse?
+8) BRUCE
+{ConcernedB}I’m sorry, Are you arresting me?
+9) BRUCE
+{ConcernedB}There’s gotta be a mistake.
+10) BRUCE
+{ConcernedA}I understand. You’re just doing your job, Lieutenant.
+11) VICKI
+[concern]{ThinkingB}I... I didn’t mean to interrupt, but...
+12) 
+Go ahead, do your job.
+13) 
+I’m busy right now.
+14) 
+Stay out of this.
+15) 
+You keep showing up uninvited.
+16) 
+And you do what he says.
+17) 
+I’m friends with the D.A.
+18) 
+Mayor Hill’s corrupt.
+19) 
+This is politically motivated.
+20) 
+That story is pure fiction.
+21) 
+Justice will be served.
+22) 
+Falcone is behind this.
+23) 
+It’s a media frenzy.
+24) BRUCE
+What’s your angle?
+68) 
+What’s your angle?
+25) MARTHA
+[weak, dying]Bruce? Bruce?
+26) THOMAS
+[VO][an order]Bruce, stay back!
+27) GORDON
+{ThinkingB}It’s not personal.
+28) GORDON
+{ThinkingA}I had the boys turn their lights off and keep a low profile.
+29) GORDON
+{NormalA}Hopefully we can do our job and be{FaceAccent} outta here ASAP.
+30) GORDON
+{SadA}I meant what I said about{FaceAccent}{BodyAccent} “not personal.“
+31) GORDON
+{SurpriseA}We only want files {NormalA}related to {BodyAccent}Wayne Enterprises.
+32) BRUCE
+{SkepticalB}Well, then you should go to Wayne Enterprises.
+33) GORDON
+I have my people searching there too.
+34) GORDON
+{BodyAccent}I can’t comment.
+35) GORDON
+{ThinkingA}That’s for our analysts{BodyAccent} back at the precinct to figure out.
+36) GORDON
+{NormalA}I know you and the {FaceAccent}D.A. are {BodyAccent}buddy-buddy,{FaceAccent} but this one came from {BodyAccent}the top.
+37) GORDON
+{BodyAccent}But orders are orders,{FaceAccent}{BodyAccent} and this one comes from the top.
+38) GORDON
+{ThinkingB}Mayor Hill signed off on {AngryA}this himself.
+39) GORDON
+{AngryA}Hill and I... {FaceAccent}{BodyAccent}we have a vested interest to keep things{BodyAccent} professional.
+40) GORDON
+{FaceAccent}Doesn’t mean I like the words {BodyAccent}{FaceAccent}whistling through his {FaceAccent}windpipes.
+41) MARTHA
+[VO][terrified]Take whatever you want!
+42) VICKI
+[concern]{SurpriseA}Bruce?
+43) BRUCE
+{FearA}[regaining his senses]{AngryA}It’s not a problem,{SadA} really.
+44) 
+I appreciate it.
+45) ALFRED
+{AngryC}Then find out why he{FaceAccent} didn’t.
+46) VICKI
+{HappyA}{BodyAccent}Sorry, {FaceAccent}I lose the{FaceAccent} {BodyAccent}brain-to-mouth {FaceAccent}filter sometimes.
+112) VICKI
+{HappyA}{BodyAccent}Sorry, {FaceAccent}I lose the{FaceAccent} {BodyAccent}brain-to-mouth {FaceAccent}filter sometimes.
+47) GORDON
+{FaceAccent}We’re only collecting evidence today.
+48) GORDON
+{AngryA}The warrant covers your place,{FaceAccent} pardon me,{BodyAccent} {FaceAccent}places of residence.
+49) GORDON
+{BodyAccent}For {FaceAccent}Gotham’s sake.
+50) VICKI
+{SurpriseA}And it’s all hearsay. {ThinkingA}Flimsy sources.
+51) VICKI
+{FaceAccent}There isn’t a shred of hard proof.
+52) VICKI
+{ThinkingB}The Gazette received this supposed{BodyAccent} {FaceAccent}“evidence” like every other media outlet.
+53) GORDON
+{AngryA}Then we might have to make a scene, and {NormalA}that’s the{BodyAccent} last thing I want.
+54) BRUCE
+{SkepticalA}I enjoy my privacy.
+55) VICKI
+{HappyA}It’s difficult to book a {FaceAccent}meeting{BodyAccent} with you.
+56) VICKI
+{ThinkingA}{FaceAccent}Enjoyed.{BodyAccent}
+57) VICKI
+{SadB}I’m sorry,{BodyAccent} but if the press has {NormalA}{FaceAccent}their way... {SadA}you’re not gonna have any for a{BodyAccent} while.
+58) BRUCE
+{AngryA}This is the second time you’ve shown up {FaceAccent}uninvited.
+59) GORDON
+{ThinkingB}It’s a valid warrant,{AngryA}{BodyAccent} I gotta serve it.
+60) BRUCE
+{AngryA}The D.A. is going to hear about this.
+61) VICKI
+{SadA}You don’t need to put up a cover.
+62) BRUCE
+{BodyAccent}[alt]{FaceAccent}Who let you in?
+63) BRUCE
+[grim]{AngryB}Harvey’s the {FaceAccent}District Attorney, {FaceAccent}{BodyAccent}he should’ve told me this was coming.
+64) GORDON
+{DisgustB}{BodyAccent}{FaceAccent}[frustrated sigh]
+65) VICKI
+The public’s fascinated with you, Mr. Wayne.
+66) VICKI
+A scandal like this is a reporter’s dream.
+67) 
+No problem at all.
+69) 
+What do you expect to find?
+72) 
+Photo
+73) THOMAS
+[to chill] You.. you don’t have to do this!
+74) BRUCE
+Alfred, keep an eye on them. Make sure they take only what they have to.
+75) GORDON
+I’m afraid we can’t, Mr. Wayne.
+76) BRUCE
+Says who?
+77) BRUCE
+[frustrated]Hey! Hey, careful!
+78) BRUCE
+Put it back!
+79) GORDON
+This warrant.
+80) GORDON
+Maybe we made a mistake.
+82) GORDON
+Every battle’s uphill, in the rain, with skates on.
+83) GORDON
+Tryin’ to. It’s hard to be a cop in this city.
+84) GORDON
+And any companies you own.
+85) GORDON
+Your holdings are... extensive.
+86) GORDON
+I’d hate to be the guy doin’ your taxes.
+87) GORDON
+And I shoot.
+88) GORDON
+As long as he’s mayor, he calls the shots.
+89) GORDON
+Unless Harvey becomes mayor, there’s not much he can do.
+90) GORDON
+Can’t smile this thing to death.
+91) GORDON
+I dunno how your neck ended up on Mayor Hill’s chopping block, but here we are.
+92) GORDON
+That’d be a real shame. Mr. Dent’s the only D.A. I ever trusted to make a conviction stick.
+93) GORDON
+That’s what we’re here to find out.
+96) GORDON
+That’s what we’re here to find out.
+94) GORDON
+Not unless I’m forced to.
+95) GORDON
+Maybe you did.
+97) BRUCE
+Well Hill has a history of making his opposition... disappear.
+98) GORDON
+Rumors and allegations, Mr. Wayne. That’s all.
+99) GORDON
+But if they become fact, I’ll handcuff him myself same as any other crook.
+100) GORDON
+So consider yourself served.
+101) BRUCE
+Hill knows if I go down, Harvey’s campaign goes down too.
+102) GORDON
+For all our sakes, I pray you’ve got nothing to hide.
+103) GORDON
+As mayor, I think he can finally turn things around for us.
+104) VICKI
+After that dogpile of a press conference...
+105) VICKI
+I just...
+106) BRUCE
+[confused][collecting himself] Ms. Vale.
+107) VICKI
+I thought you could use someone not tearing out your jugular.
+108) VICKI
+[ALT]I saw what those assholes did here.
+109) BRUCE
+I’m a bit busy right now, Ms. Vale, as you can see Gotham’s finest... not the best house guests.
+110) BRUCE
+Gotham’s finest are lousy house guests.
+111) VICKI
+Yeah, I can see that. [scoffs]Assholes.
+113) VICKI
+Past tense.
+114) VICKI
+It’s a joke.
+115) VICKI
+It’s disgusting the way they blindsided you with that BS about your family.
+116) VICKI
+Not all reporters just want a headline.
+117) VICKI
+Some of us are old fashioned--I still want the truth.
+118) VICKI
+You deserve better treatment than this.
+119) VICKI
+The Waynes are synonymous with Gotham.
+120) BRUCE
+Stay out of this, Ms. Vale.
+121) VICKI
+I want to restore their legacy.
+122) BRUCE
+There’re enough reporters eviscerating my family’s legacy.
+123) BRUCE
+Trying to say, “I’m the good guy here”--
+124) BRUCE
+I appreciate the offer, Ms. Vale.
+125) VICKI
+Yeah, instantly makes you look bad.
+126) VICKI
+A scandal, surrounding a beloved family like yours, captures the public’s attention.
+127) VICKI
+I get it... so let me say it for you.
+128) VICKI
+Obviously, the sender didn’t identify themselves.
+129) BRUCE
+Someone is going after my family, after me.
+130) BRUCE
+Still, allegations like this... they don’t magically appear.
+131) VICKI
+We have no idea who it could be.
+132) VICKI
+The press saw the fumble, they grabbed the ball and ran.
+133) VICKI
+Not every day you get to go after a Wayne.
+134) VICKI
+No one’s even done their due diligence on this yet.
+135) VICKI
+You’re a kingmaker, Mr. Wayne, and Harvey Dent is Gotham’s knight in shining armor just waiting for the crown.
+136) BRUCE
+Carmine Falcone wants me to be in his pocket.
+137) VICKI
+Yeah well, maybe he thinks putting a little fear in you will make you jump.
+138) BRUCE
+He crashed Harvey’s fundraiser and pretty much said, “hop in.“
+139) BRUCE
+It won’t.
+140) BRUCE
+First guess: nosey reporters.
+141) VICKI
+Then go on the record--right here, right now--and stop it.
+142) VICKI
+By tonight, this scandal will be broadcast to every screen in Gotham. Everyone will be talking about it.
+143) BRUCE
+This isn’t my first pass through the rumor mill--I know the damage it can do.
+144) BRUCE
+This story about my family is exactly that--a story.
+145) BRUCE
+It’s a work of fiction all the way through.
+146) 
+My family is innocent.
+147) VICKI
+That’s exactly what the people of Gotham need to hear.
+150) VICKI
+That’s exactly what the people of Gotham need to hear.
+181) VICKI
+That’s exactly what the people of Gotham need to hear.
+148) BRUCE
+The Wayne family has always been a cornerstone of Gotham.
+149) BRUCE
+We have never had, and never will have, connections to organized crime.
+151) VICKI
+But Bruce--
+152) BRUCE
+Until I know what’s really going on, I’m not speaking to the press again.
+153) BRUCE
+Turn it off, Ms. Vale.
+154) VICKI
+You need to get out ahead of this.
+155) VICKI
+Otherwise people are gonna fill in the blanks, and it won’t be in your favor.
+165) VICKI
+Otherwise people are gonna fill in the blanks, and it won’t be in your favor.
+156) VICKI
+You gotta help yourself out here, Mr. Wayne.
+164) VICKI
+You gotta help yourself out here, Mr. Wayne.
+157) ALFRED
+I hate to admit it... but everyone smells smoke. A fire is heading this way.
+158) BRUCE
+Batman has made plenty of enemies, but my family? We’ve done nothing but support Gotham, even in its darkest days.
+159) ALFRED
+[sigh]All this.... on the anniversary of your parent’s...
+160) BRUCE
+It’s not a coincidence.
+161) 
+[Give Quote]
+162) 
+[Refuse]
+195) VICKI
+[ALT]
+163) BRUCE
+On the record then.
+166) VICKI
+Whenever you’re ready.
+167) BRUCE
+[alt] [thinking it over] Do you think is a coincidence?
+168) BRUCE
+Whoever fabricated these lies about my family, they will get what they deserve.
+169) GORDON
+I’m boring that way.
+170) VICKI
+I saw what those jerks did here.
+171) VICKI
+Jerks.
+172) VICKI
+I can help you get the right kind of attention.
+173) VICKI
+You’re the first target on Hill’s list.
+174) BRUCE
+[a threat]Understood?
+175) VICKI
+Your side is what matters, not wild speculation.
+176) VICKI
+You’re going to beat this, Bruce.
+177) VICKI
+Through my connections at the Gazette, I have all kinds of access.
+178) VICKI
+I can dig up whatever you need to fight this.
+179) VICKI
+The Waynes always come out on top.
+180) BRUCE
+Goodbye, Ms. Vale.
+182) BRUCE
+Hill wants me out of the picture because with my backing Harvey wins in a landslide.
+183) BRUCE
+[ALT]All signs point to Hill.
+184) VICKI
+[ALT]The cops ransacking your house--*that’s* the problem.
+185) VICKI
+[ALT]Then you’re a much more level-headed person than me.
+186) VICKI
+[ALT]If my house were being ransacked by the cops...
+187) VICKI
+Listen, Bruce...
+188) VICKI
+[ALT]This might be a worse clean up than that party you had.
+189) VICKI
+[ALT]You’ve had too many unwelcome guests
+190) VICKI
+[siding with Bruce]Yeah, the kind who steal things.
+191) VICKI
+Sorry I let myself in...
+192) VICKI
+[trying to make light of it]Bruce, first the Mayor’s office, now Wayne manor...
+193) VICKI
+Gotham continues its streak of break-ins.
+194) BRUCE
+Really going for the record, huh?
+196) VICKI
+Another day in Gotham, another

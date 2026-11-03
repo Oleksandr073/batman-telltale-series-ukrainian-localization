@@ -1,0 +1,872 @@
+﻿1) 
+Scorch Marks
+208) 
+Scorch Marks
+2) 
+Exploded Human Remains
+44) 
+Exploded Human Remains
+206) 
+Exploded Human Remains
+3) 
+Blast Epicentre
+4) 
+You didn’t do this alone.
+6) BATMAN
+[VOP batvoice]You didn’t do this alone.
+5) 
+Talk and I’ll spare you.
+7) BATMAN
+[VOP batvoice]Where’re the others?
+8) CHEMTHUG
+[screams in pain]
+17) CHEMTHUG
+[coughs trying to catch his breath]
+18) CHEMTHUG
+[screams in pain]
+19) CHEMTHUG
+[LOUDEST SCREAM YET]
+21) CHEMTHUG
+[gasps for air]
+22) CHEMTHUG
+[violent cough]
+23) CHEMTHUG
+[wheezes for air]
+24) CHEMTHUG
+[gasps for air]
+51) 
+[Talk to Gordon]
+52) 
+[Disappear]
+57) GORDON
+[gasps]
+64) CHEMTHUG
+[gasps for air]
+92) CHEMTHUG
+[startled scream]
+106) BATMAN
+[jump down and land effort]
+109) 
+[Punch him]
+110) 
+[Slam into wall]
+111) CHEMTHUG
+[dazed groan]
+113) CHEMTHUG
+[dazed groan]
+124) GORDON
+[gasps]
+127) BATMAN
+[grimace]
+144) CHEMTHUG
+[groaning, becoming conscious]
+178) BATMAN
+[bending metal bar effort]
+179) BATMAN
+[prying metal bar off door efforts]
+232) CHEMTHUG
+[Defiant, exhausted, mild pain, Spits on the ground]
+242) CHEMTHUG
+[pained grunt as he hits the ground]
+248) CHEMTHUG
+[struck hard in face]
+251) CHEMTHUG
+[struck hard in face]
+252) CHEMTHUG
+[coughs trying to catch his breath]
+285) CHEMTHUG
+[effort as gun is knocked away]
+357) BATMAN
+[biggest punch]
+358) BATMAN
+[growl]
+359) BATMAN
+[big punch]
+360) BATMAN
+[straining, then breaking someone’s arm]
+361) BATMAN
+[bigger punch]
+388) CHEMTHUG
+[screams in pain]
+408) CHEMTHUG
+[screams in pain]
+9) CHEMTHUG
+[shrieks]Agh!
+10) CHEMTHUG
+[pained]You, you can’t make me talk.
+11) CHEMTHUG
+[terrified] NO! Stop! You can’t do this!
+12) CHEMTHUG
+You’re fucking Batman!
+13) CHEMTHUG
+[alt] You’re Batman.
+400) CHEMTHUG
+[alt] You’re Batman.
+14) CHEMTHUG
+[crying in pain]I was just here for a pick up. I swear.
+399) CHEMTHUG
+[crying in pain]I was just here for a pick up. I swear.
+15) CHEMTHUG
+[crying in pain]I fucking swear.
+16) CHEMTHUG
+[crying in pain] I don’t know shit, man!
+20) CHEMTHUG
+[terrified] You’re supposed to be a good guy.
+401) CHEMTHUG
+[terrified] You’re supposed to be a good guy.
+25) CHEMTHUG
+[coughing, pained]Arrest him!
+26) CHEMTHUG
+[crying, scared]I don’t know. I don’t know... please.
+27) 
+Chemical Residue
+28) 
+White Rose
+197) BATMAN
+White rose.
+29) 
+Tire Tracks
+47) 
+Tire Tracks
+30) 
+Shot Cop
+31) 
+Burnt Cop
+32) 
+Dead Mercenary
+200) 
+Dead Mercenary
+203) 
+Dead Mercenary
+33) 
+Shipping Container
+34) 
+Bloody Hands
+45) 
+Bloody Hands
+198) 
+Bloody Hands
+35) 
+Entry Wound
+36) 
+Impact Hole
+37) 
+Canister Fragment
+48) 
+Canister Fragment
+38) 
+Chemical Stain
+39) 
+Hand Gun
+40) 
+Stubbed Cigarette
+41) 
+Bullet Casings
+42) 
+Phosphorus Residue Trace
+225) 
+Phosphorus Residue Trace
+43) 
+Sniper Rifle
+46) 
+Ripped-Up Face
+49) 
+Incendiary Bullet
+278) 
+Incendiary Bullet
+50) 
+Unscorched Area
+227) 
+Unscorched Area
+53) MONTOYA
+[to Batman]Don’t move.
+54) 
+What you couldn’t.
+55) 
+Sorry, but I had to.
+56) BATMAN
+[VOP batvoice]I did what you couldn’t.
+58) 
+I got a confession.
+59) BATMAN
+[VOP batvoice]Gordon --
+60) MONTOYA
+[to Batman]You have the right to remain silent.
+61) MONTOYA
+I said silent!
+62) BATMAN
+[VOP batvoice]I did what I had to.
+63) MONTOYA
+Who? Who tried to kill you?
+65) CHEMTHUG
+[coughing, pained]He, he tried to kill me.
+66) 
+Tell her to stand down.
+67) 
+Go ahead and shoot me.
+68) 
+Put down the gun.
+69) BATMAN
+[VOP batvoice]I’m on your side.
+70) BATMAN
+[VOP batvoice]Shoot me. See what happens.
+71) MONTOYA
+If you say another word, I will shoot you.
+72) BATMAN
+[VOP batvoice]Gordon, tell her to stand down.
+73) MONTOYA
+It doesn’t look like it.
+74) MONTOYA
+Oh, yeah?
+75) BATMAN
+[VOP batvoice]Put down the gun, Detective.
+76) MONTOYA
+I will. I swear to God I will.
+77) MONTOYA
+I don’t care if half the city thinks you’re a hero.
+78) MONTOYA
+Right now, you’re a suspect.
+79) MONTOYA
+[to Gordon]Don’t you dare.
+80) BATMAN
+[VOP batvoice]You’re making a mistake, Detective.
+83) BATMAN
+[VOP batvoice]You’re making a mistake, Detective.
+81) BATMAN
+[VOP batvoice]You want to hear what I have to say.
+149) BATMAN
+[VOP batvoice]You want to hear what I have to say.
+82) BATMAN
+[VOP batvoice]It will when you hear what I have to say.
+84) 
+Good to see you too.
+85) BATMAN
+[VOP batvoice]Good to see you too, Gordon.
+86) 
+I’m doing your job.
+87) BATMAN
+[VOP batvoice]I’m doing your job.
+88) CHEMTHUG
+[coughing, pained]What are you waiting for?!
+89) CHEMTHUG
+[pained, coughing]Oh, thank God! He was, about to kill me!
+90) GORDON
+Yeah, that’s the problem.
+91) 
+Going after Falcone.
+93) CHEMTHUG
+[alt]You’re an animal.
+398) CHEMTHUG
+[alt]You’re an animal.
+94) BATMAN
+[VOP batvoice]Give me a reason to stop.
+96) 
+Give me a reason to stop.
+95) 
+Time to live up to my reputation.
+295) BATMAN
+[VOP batvoice]Time to live up to my reputation.
+97) 
+I’ll make you talk.
+98) CHEMTHUG
+[coughing, gurgling]I ain’t tellin’ you jack.
+112) CHEMTHUG
+[coughing, gurgling]I ain’t tellin’ you jack.
+99) CHEMTHUG
+[pained]I told you he was about to kill me!
+100) MONTOYA
+[incredulous]You know each other?
+101) GORDON
+We’ll take it from here.
+102) BATMAN
+Not a bad angle.
+103) BATMAN
+Both targets could’ve been shot from here.
+104) BATMAN
+Clear vantage point.
+105) BATMAN
+We have a winner.
+107) CHEMTHUG
+You won’t find them.
+108) CHEMTHUG
+Long gone.
+114) CHEMTHUG
+[crying, scared] Please, please. He’ll kill me.
+115) CHEMTHUG
+[terrifed]Please, don’t. Oh, god, no.
+116) GORDON
+Stand down, Montoya.
+117) BATMAN
+[VOP batvoice]I got what I needed.
+118) GORDON
+You’re damn right.
+119) BATMAN
+[VOP batvoice]He confessed to everything.
+120) GORDON
+It’s how you got it I’m worried about.
+121) BATMAN
+[VOP batvoice]Falcone was behind this.
+122) GORDON
+Thought he’d been a little quiet lately.
+123) GORDON
+Falcone, huh?
+125) BATMAN
+[pensive]What did this?
+221) BATMAN
+[pensive]What did this?
+126) ALFRED
+[VOP comm_docks]That bad?
+128) BATMAN
+Face slashed. Throat torn open.
+129) ALFRED
+[VOP comm_docks]So... not natural causes then.
+130) BATMAN
+[reading the matchbook]Skyline Club.
+131) BATMAN
+I’ve seen these outfits before.
+132) BATMAN
+Someone drove off after the explosion.
+133) BATMAN
+Seems like it arrived in this container.
+134) ALFRED
+[over comm]Same chemical as the explosion site.
+339) BRUCE
+Same chemical as the explosion site.
+135) ALFRED
+[over comm]Confirmed.
+136) BATMAN
+Hmm.
+166) BATMAN
+[coverage]Hmm.
+137) BATMAN
+Looks like a bullet started this.
+138) ALFRED
+[VOP comm_docks]A normal bullet couldn’t have caused that explosion.
+139) BATMAN
+Doesn’t appear normal--the point of entry’s melted.
+140) BATMAN
+Killing time?
+141) BATMAN
+This is it.
+142) BATMAN
+[alt]Time to wake up.
+143) BATMAN
+[alt]I think our shooter was here.
+145) BATMAN
+[VOP batvoice][forceful]Tell me.
+249) BATMAN
+[VOP batvoice][forceful]Tell me.
+250) BATMAN
+[VOP batvoice][forceful]Tell me.
+146) BATMAN
+Don’t make me do this.
+387) BATMAN
+Don’t make me do this.
+147) BATMAN
+[alt][a threat]Take your last breath.
+148) BATMAN
+[VOP batvoice]I’m sorry, Gordon.
+150) BATMAN
+The canister exploded, sending shrapnel right through the container door.
+349) BATMAN
+The canister exploded, sending shrapnel right through the container door.
+151) ALFRED
+For once, I’m glad you arrived *after* the heist.
+348) ALFRED
+[VOP comm_docks]For once, I’m glad you arrived after the heist.
+152) ALFRED
+[VOP comm_docks][coverage]Find a connection?
+153) BATMAN
+[coverage]The bullet that killed the cop is the same type that blew up the canister.
+154) ALFRED
+[VOP comm_docks][coverage]I’m sure they didn’t find that at a local gun store.
+155) BATMAN
+[coverage]It appears military.
+156) ALFRED
+[VOP comm_docks][horrified]God...
+157) ALFRED
+[VOP comm_docks]What would cause someone to do that?
+158) BATMAN
+[coverage]No connection.
+159) BATMAN
+[coverage]Doesn’t add up.
+160) BATMAN
+[coverage]Don’t think so.
+161) BATMAN
+[coverage]Not likely.
+162) BATMAN
+[coverage]No. Hmm.
+224) BATMAN
+[coverage]No. Hmm.
+163) BATMAN
+[coverage]Doesn’t connect.
+164) BATMAN
+[coverage]Could be...
+165) BATMAN
+[coverage]Never seen a bullet do that.
+167) ALFRED
+[VOP comm_docks]Have you put it together?
+168) BATMAN
+Cops moved in to stop the theft, Falcone’s men gunned them down.
+169) BATMAN
+Dead cops, stolen chemicals...{ThinkingA} he’s making a big move.
+170) BATMAN
+{ThinkingA}Falcone leaving his rose here--{NormalA}This is a message.
+171) BATMAN
+{NormalA}And was put down. Same sniper, same type of bullet.
+172) BATMAN
+{body-A}{NormalA}No, but based on two impact trajectories--the canister and the dead cop...
+173) BATMAN
+[calling out the locations]The shooter could only have a clear shot from there, there... or there.
+174) GORDON
+Could’ve avoided this.
+175) GORDON
+I wish you had waited for us.
+176) GORDON
+I’ll get a task force on it.
+177) BATMAN
+[VOP batvoice]You already have one.
+180) 
+Examine
+181) 
+Examine
+182) 
+Examine
+183) 
+Examine
+184) 
+Examine
+185) 
+Examine
+187) 
+Examine
+190) 
+Examine
+191) 
+Examine
+351) 
+Examine
+186) 
+Search
+188) 
+Open
+189) 
+Analyze
+192) 
+Grapple to
+193) 
+Grapple to
+194) 
+Grapple to
+195) BATMAN
+[alt] Let’s have a talk.
+196) BATMAN
+[alt] Time for a chat.
+199) 
+Burnt Head
+201) 
+Clawed-Off Face
+202) 
+Pocket
+204) 
+Shipping Container Door
+205) 
+Chemical Trace
+207) 
+Pallets
+209) 
+Chemical burns covering the ground.
+210) 
+Blast Epicenter
+211) 
+Ground zero of the chemical explosion.
+212) 
+Military-grade bullet designed to superheat upon impact.
+213) 
+Stairs
+214) 
+Shelf
+215) 
+Face
+216) 
+Ribs
+218) 
+Ribs
+217) 
+Barrels [Intimidate]
+219) 
+Bullet Casing
+220) BATMAN
+This man’s been badly burned, but... the damage seems to originate from inside his skull.
+222) BATMAN
+Something was here when the explosion occurred.
+223) BATMAN
+This is the right spot... so where did he go?
+226) BATMAN
+Trace stops here.
+228) CHEMTHUG
+[In pain, still tough]That... Catwoman... was supposed to hand over a drive, had the container number we needed, but she flaked.
+229) BATMAN
+[VOP batvoice]What are the chemicals for?!
+385) BATMAN
+[VOP batvoice]What are the chemicals for?!
+411) BATMAN
+[VOP batvoice]What are the chemicals for?!
+230) BATMAN
+[VOP batvoice]Used where?!
+394) BATMAN
+[VOP batvoice]Used where?!
+410) BATMAN
+[VOP batvoice]Used where?!
+231) CHEMTHUG
+[Defiant, exhausted, mild pain]I ain’t scared of you, man!
+233) CHEMTHUG
+[Defiant, exhausted, mild pain][Struggling, hanging upsidedown]
+419) CHEMTHUG
+[Defiant, exhausted, mild pain][Struggling, hanging upsidedown]
+234) CHEMTHUG
+[Defiant, exhausted, mild pain]If youre gonna hit me, hit me!
+235) CHEMTHUG
+[Defiant, exhausted, mild pain][Struggling]
+418) CHEMTHUG
+[Defiant, exhausted, mild pain][Struggling]
+236) BATMAN
+No trace of phosphorus though.
+237) BATMAN
+But no phosphorus trace.
+238) BATMAN
+Phosphorus spike.
+239) BATMAN
+Whatever exploded... did so with enough force to obliterate the person standing next to it.
+240) BATMAN
+A cop ripped up a merc’s face with his bare hands.
+241) CHEMTHUG
+Rather chance them than talk to a clown like you.
+243) CHEMTHUG
+[pickup]You tryin’ to scare a confession outta me?
+244) CHEMTHUG
+[pickup]I won’t break.
+245) BATMAN
+[VOP batvoice][pickup]Your bones will.
+246) CHEMTHUG
+[defiant]It’s true what they said about you.
+247) CHEMTHUG
+But I ain’t afraid of you.
+253) CHEMTHUG
+[In pain, still tough]Some kinda chemicals.
+254) BATMAN
+[VOP batvoice]Why risk open war with the GCPD?
+255) BATMAN
+[VOP batvoice]And keep breaking until you answer.
+390) BATMAN
+[VOP batvoice]And keep breaking until you answer.
+403) BATMAN
+[VOP batvoice]And keep breaking until you answer.
+256) BATMAN
+[VOP batvoice]I start here.
+389) BATMAN
+[VOP batvoice]I start here.
+405) BATMAN
+[VOP batvoice]I start here.
+257) CHEMTHUG
+[in severe pain, pissed he’s giving up this info]The chemicals... [Cut-  MD] they’re some kinda explosive.
+391) CHEMTHUG
+[in severe pain, pissed he’s giving up this info]The chemicals... [Cut-  MD] they’re some kinda explosive.
+406) CHEMTHUG
+[in severe pain, pissed he’s giving up this info]The chemicals... [Cut-  MD] they’re some kinda explosive.
+258) CHEMTHUG
+[in pain, returning to defiance]Falcone said he’d use ‘em soon.
+393) CHEMTHUG
+[in pain, returning to defiance]Falcone said he’d use ‘em soon.
+404) CHEMTHUG
+[in pain, returning to defiance]Falcone said he’d use ‘em soon.
+259) CHEMTHUG
+That’s all I know.
+395) CHEMTHUG
+That’s all I know.
+409) CHEMTHUG
+That’s all I know.
+260) CHEMTHUG
+[pained, darkly]The Bat-man.
+261) BATMAN
+[coverage]A cop shredded this merc to pieces. Bare handed.
+262) CHEMTHUG
+[pained, defiant]There isn’t any more.
+263) CHEMTHUG
+[pained, defiant]Call in cops, call in the judge.
+264) CHEMTHUG
+[pained, defiant]I told you everything I know.
+397) CHEMTHUG
+[pained, defiant]I told you everything I know.
+265) CHEMTHUG
+[pained, defiant]Everything!
+266) CHEMTHUG
+[pained, defiant]You got everything.
+267) CHEMTHUG
+[pained, defiant]I’m through with you.
+268) BATMAN
+[VOP batvoice][pickup][grumbles]You’ll never hold a gun steady again.
+269) BATMAN
+[to Alfred]Found him.
+270) BATMAN
+[VOP batvoice]Time to go to work.
+271) BATMAN
+[coverage] No proof.
+272) 
+Bloody remnants of an obliterated human body.
+273) 
+Face torn apart and throat ripped open.
+274) 
+Hands soiled with blood and bits of torn flesh.
+275) 
+Rubber tread marks from a large vehicle.
+276) 
+Scrap of metal with a melted hole in the middle.
+277) 
+Area devoid of explosion scorch marks indicates something was here when the blast occured.
+279) BATMAN
+[over comm to Alfred]{body-A}{NormalA}Alfred.{ThinkingA} I’m at the warehouse.{SurpriseA} No sign of Catwoman’s contact.
+280) BATMAN
+{NormalA}It’s quiet.
+281) ALFRED
+[VOP comm_docks]The sound of an ambush.
+282) ALFRED
+[VOP comm_docks]Stay on guard.
+283) BATMAN
+{body-A}{DisgustA}[disgusted sound]
+284) BATMAN
+This wasn’t a handoff--it{ThinkingA} was a massacre.
+286) BATMAN
+[VOP batvoice][growl]My turn.
+287) BATMAN
+{DisgustA}I’d have to count the pieces.
+288) ALFRED
+[VOP comm_docks][sigh]Good lord.
+289) ALFRED
+[VOP comm_docks][unnerved]Who could’ve done such a thing?
+290) ALFRED
+[VOP comm_docks]How many?
+291) BATMAN
+[VOP batvoice][threatening]Falcone! Why did he do this?
+292) BATMAN
+[VOP batvoice][threatening]Don’t make me add your corpse to this graveyard.
+293) BATMAN
+[VOP batvoice]The police won’t offer the same. Not to a copkiller!
+294) BATMAN
+[VOP batvoice]Talk and I spare you an ambulance ride.
+296) BATMAN
+[VOP batvoice]Whatever it takes to make you talk.
+297) BATMAN
+{ThinkingA}That’s what I’m going to find out.
+298) BATMAN
+[VOP batvoice]You know, you can bleed to death without ever spilling a drop.
+299) BATMAN
+[VOP batvoice][pointed]All on the inside.
+300) BATMAN
+[VOP batvoice]Tell me the plan... or I start swinging.
+301) CHEMTHUG
+[defiant]We were paid to steal ‘em, not ask questions.
+386) CHEMTHUG
+[defiant]We were paid to steal ‘em, not ask questions.
+412) CHEMTHUG
+[defiant]We were paid to steal ‘em, not ask questions.
+302) MONTOYA
+[into radio]Send a clean up unit to the docks, warehouse one-three-three.
+303) MONTOYA
+[into radio]It’s Montoya.
+304) MONTOYA
+Think I need to call the coroner instead...
+305) GORDON
+Get an ambulance in here!
+306) MONTOYA
+[a beat]Everyone you got.
+307) GORDON
+Jesus Christ...
+308) GORDON
+[to himself, low]Batman...
+343) GORDON
+[disbelief]Batman...
+309) MONTOYA
+The hell is going on tonight, Lieutenant?
+310) MONTOYA
+I was wrong... gonna need that ambulance too.
+311) BATMAN
+This may have been a distraction, or a way of destroying evidence.
+312) ALFRED
+[VOP comm_docks]Well, it appears to have made a pretty big boom.
+313) BATMAN
+[thinking]But the chemicals themselves were inert, non-explosive.
+314) BATMAN
+{NormalA}One of his snipers hit a canister with an incendiary bullet, causing it to superheat and explode.
+315) BATMAN
+{ThinkingA}And would have contaminated himself with a phosphorus residue.
+316) BATMAN
+{body-A}{NormalA}Yes.
+317) ALFRED
+[VOP comm_docks]Right away, sir.
+318) BATMAN
+{NormalA}Program the skimmers to pick up that signature.
+319) MONTOYA
+Oh god...
+320) GORDON
+What did you do to him?
+321) MONTOYA
+Now put up your hands! Don’t move!
+322) MONTOYA
+We’re bringing you in, you son of a bitch.
+323) GORDON
+I’d never do something like this.
+324) GORDON
+You wanna tell me what the hell this is all about?
+325) BATMAN
+Phosphorus residue.
+326) BATMAN
+This could have superheated the contents of the canister.
+327) ALFRED
+[VOP comm_docks][putting the piece together]Causing the aforementioned boom.
+328) BATMAN
+[over comm to Alfred]Sensors say it’s an incendiary round.
+329) ALFRED
+[VOP comm_docks]Have you located the shooter?
+330) BATMAN
+Have the computer catalogue the compound for further analysis.
+331) ALFRED
+[VOP comm_docks]As you wish.
+332) ALFRED
+[VOP comm_docks]Be very very careful with that. Who knows what effects it may have.
+333) BATMAN
+Analyzing.
+334) BATMAN
+Nothing left to bury.
+335) BATMAN
+Falcone’s calling card.
+336) ALFRED
+[VOP comm_docks]He’s been busy as of late.
+337) BATMAN
+Same mercs that broke into City Hall.
+338) ALFRED
+[VOP comm_docks]Perhaps it arrived in the container.
+340) ALFRED
+[VOP comm_docks]Then he should be nearby.
+341) BATMAN
+{NormalA}Gordon. Eastside Docks, Warehouse 133.
+342) GORDON
+These’re cops!
+344) ALFRED
+[VOP comm_docks]You’re taking this too far, Bruce.
+345) ALFRED
+[VOP comm_docks]You’re taking this too far, Bruce.
+346) ALFRED
+[VOP comm_docks]You’re taking this too far, Bruce.
+347) 
+Container Hole
+350) ALFRED
+[VOP comm_docks]Your armor would not have protected you against that.
+352) CHEMTHUG
+I ain’t telling you nothin’!
+353) CHEMTHUG
+[ALT]I swear. I swear!
+396) CHEMTHUG
+[ALT]I swear. I swear!
+407) CHEMTHUG
+[ALT]I swear. I swear!
+354) BATMAN
+Send the Drones hunting.
+355) BATMAN
+I want to know his every move.
+356) ALFRED
+[VOP comm_docks]Good thinking, sir.
+362) BATMAN
+[threat]You really wanna test me?
+363) BATMAN
+[threat]I don’t do second chances.
+364) BATMAN
+[threat]Don’t... fuck with me.
+365) BATMAN
+[threat]Talk!
+366) BATMAN
+I’ll see what I can piece back together.
+367) BATMAN
+[pickup]The scrap of metal is from the exploded canister, but I need to know what caused the explosion.
+368) CHEMTHUG
+[In pain, still tough]So we had to find it ourselves.
+369) CHEMTHUG
+[In pain, still tough]Falcone wanted ‘em.
+370) CHEMTHUG
+[defiant]You’re a friggin’ animal.
+371) CHEMTHUG
+[In pain, still tough]Someone must’ve heard us, called the cops...
+372) CHEMTHUG
+[In pain, still tough]Container by container.
+373) MONTOYA
+Freeze! Don’t move!
+374) MONTOYA
+Hey!
+375) CHEMTHUG
+[In pain, still tough]We were told no witnessses.
+376) CHEMTHUG
+[In pain, still tough, fast]A weapon, I dunno.
+392) CHEMTHUG
+[In pain, still tough, fast]A weapon, I dunno.
+402) CHEMTHUG
+[In pain, still tough, fast]A weapon, I dunno.
+377) 
+Smash
+378) 
+Hit
+379) 
+Break
+413) 
+Break
+380) 
+Arm
+381) BATMAN
+[pickup][ALT]With some sort of... phosphorus residue.
+382) BATMAN
+Looks like Falcone’s men got what they wanted and escaped.
+383) BATMAN
+[dismay]It’s a cop.
+384) BATMAN
+[dismay]The force grows thinner every day.
+414) 
+Apply Pressure
+415) BATMAN
+[ALT]Gordon. Pay a visit to the docks. Warehouse 133.
+416) BATMAN
+[grim]Then... things turned grim.
+417) BATMAN
+[ALT]Not yet.
+420) BATMAN
+It’s a volatile chemical. Potential psycho-active nerve agent.
+421) BATMAN
+Vile stuff.
+422) BATMAN
+Possibly due to the psycho-active nerve agent...
+423) BATMAN
+[VOP batvoice]We need to act before he releases it.
+424) BATMAN
+[VOP batvoice]Falcone stole a shipment of chemicals -- appears to be a weaponized nerve agent.
+425) BATMAN
+Causes people to go berserk. Turn violent.
+426) BATMAN
+Canisters were stored here.
+427) BATMAN
+Canisters of what?
+428) BATMAN
+The nerve agent. Could make them psychotic.
+429) BATMAN
+Blood. Broken nails. Bits of human flesh.
+430) 
+Broke Arm
+431) 
+Beat Up
+432) 
+Cigarette
+433) 
+^font:GameplayDisplayLarge^Thug
+^^Apply Pressure
+434) 
+^font:GameplayDisplayLarge^Thug
+^^Break Arm
+435) 
+Catwalk

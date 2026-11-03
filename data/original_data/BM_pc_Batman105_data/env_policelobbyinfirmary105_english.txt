@@ -1,0 +1,12 @@
+﻿1) BATMAN
+[PKUP] Sure you’re up for this?
+2) GORDON
+[PKUP][determined] I have to be!
+3) GORDON
+[ALT][PKUP] Lead the way.
+4) BATMAN
+[to Gordon] {AngryA}Follow my lead.
+5) GCPD01
+[badly injured] {ConfusedA}...in the lobby... the commissioner--
+6) GCPD01
+[badly injured; if needed] {ConcernedB}They can’t hold out much longer...

@@ -1,0 +1,236 @@
+﻿1) ALFRED
+{body-A}{ThinkingA}You’ll see everything is in order. Signed this morning by Mr. Wayne’s lawyers.
+2) ALFRED
+{AngryA}He is to be released into my care.
+12) ALFRED
+{AngryA}He is to be released into my care.
+3) LELAND
+{body-A}{AngryA}You may have the money to make this go away, but this is going to hurt you in the long run.
+4) 
+
+5) 
+
+7) 
+
+9) 
+
+33) 
+
+39) HARVEY
+[gasps for air]
+40) HARVEY
+[coughs, catching his breath]
+55) JOKER
+[Low giggle, builds to laugh]
+75) JOKER
+[Low giggle, builds to laugh]
+91) 
+
+97) HARVEY
+[gasps for air]
+98) HARVEY
+[coughs, catching his breath]
+6) LELAND
+{body-A}{AngryA}I know it may seem like using your power and influence is the best way to make this all go away... but it’s just avoiding the problem.
+10) LELAND
+{body-A}{AngryA}I know it may seem like using your power and influence is the best way to make this all go away... but it’s just avoiding the problem.
+11) LELAND
+{body-A}{AngryA}I know it may seem like using your power and influence is the best way to make this all go away... but it’s just avoiding the problem.
+8) ALFRED
+{body-A}{ThinkingA}You’ll see everything is in order. Signed this morning with Lieutenant Gordon of the GCPD.
+13) BRUCE
+[pickup] [hurt] {AngryA}What do you mean you’re {ConfusedA}leaving?
+80) BRUCE
+[pickup] [hurt] {AngryA}What do you mean you’re {ConfusedA}leaving?
+14) SELINA
+[pickup1] {ConfusedA}Bruce - {DisgustA}Harvey’s clearly {FearA}lost it. {ThinkingA}He’s all over the news {FearA}yelling about how you need to be {DisgustA}brought to justice, {FearA}throwing whoever he wants in jail...
+15) SELINA
+{SternA}Not really interested in {ThinkingA}seeing what he has planned for {DoubtfulA}me.
+82) SELINA
+{SternA}Not really interested in {ThinkingA}seeing what he has planned for {DoubtfulA}me.
+16) BRUCE
+[pickup]Selina, I think you should get out of Gotham.
+116) BRUCE
+[pickup]Selina, I think you should get out of Gotham.
+17) BRUCE
+[pickup]It’s not just Harvey. The Children of Arkham are after you. It’s not safe right now.
+117) BRUCE
+[pickup]It’s not just Harvey. The Children of Arkham are after you. It’s not safe right now.
+18) SELINA
+[pickup]Yeah... maybe you’re right.
+118) SELINA
+[pickup]Yeah... maybe you’re right.
+19) GORDON
+{TiredA}{BodyAccent}Jesus.
+20) GORDON
+[Building frustration] Was this the Children of Arkham? Again? Why would they attack a family like the *Vales*?
+83) GORDON
+[Building frustration] Was this the Children of Arkham? Again? Why would they attack a family like the Vales?
+21) BATMAN
+Because their daughter, Vicki, IS Lady Arkham. She killed her own parents so she could use their company warehouse to stockpile the rest of her drugs.
+84) BATMAN
+Because their daughter, Vicki, is Lady Arkham. She killed her own parents so she could use their company warehouse to stockpile the rest of her drugs.
+22) ENFORCER01
+[OS] [walkie talkie] Ready to go.
+23) HARVEY
+Do it.
+24) BRUCE
+[in shock]What the hell did you do?
+85) BRUCE
+[in shock]What the hell did you do?
+25) HARVEY
+[into walkie]Are Lady Arkham’s drugs destroyed?
+86) HARVEY
+[into walkie]Are Lady Arkham’s drugs destroyed?
+26) ENFORCER01
+[walkie talkie][horrified]Yeah, but ...that blast was way bigger than you said. We must have taken out a whole city block with it.
+27) ENFORCER01
+[walkie talkie]We lost a bunch of our own guys, the apartment next door--! Jesus Christ!
+28) HARVEY
+We stopped the Children of Arkham, that’s all that matters.
+29) HARVEY
+That’s what a leader does.
+87) HARVEY
+That’s what a leader does.
+30) ALFRED
+[Comm] Bruce! Bruce! I’m seeing reports of a massive explosion - It looks like it was Vale Heating & Oil! The estimated casualities-- my god... so many people--!
+31) BATMAN
+[Accusatory] What did you do?!
+88) BATMAN
+[Accusatory] What did you do?!
+108) BATMAN
+[Accusatory] What did you do?!
+32) HARVEY
+[Cold] I destroyed Lady Arkham’s drugs.
+90) HARVEY
+[Cold] I destroyed Lady Arkham’s drugs.
+34) HARVEY
+[Two face, Cutting Batman off] --were a small price to pay.
+89) HARVEY
+[Two face, Cutting Batman off] --were a small price to pay.
+35) HARVEY
+That... that was me getting rid of Lady Arkham’s drugs.
+94) HARVEY
+That... that was me getting rid of Lady Arkham’s drugs.
+36) BATMAN
+But the innocent people--!
+38) BATMAN
+But the innocent people--!
+92) BATMAN
+But the innocent people--!
+95) BATMAN
+But the innocent people...!
+96) BATMAN
+But the innocent people...!
+37) HARVEY
+[Meek Harv] I did what I had to do! I had to make the choice about what sacrifices to make!
+93) HARVEY
+[Meek Harv] I did what I had to do! I had to make the choice about what sacrifices to make!
+41) HARVEY
+[Cough, almost delirious] You don’t understand, Batman. Without me... Gotham is doomed.
+99) HARVEY
+[Cough, almost delirious] You don’t understand, Batman. Without me... Gotham is doomed.
+42) GORDON
+Thank god he was finally stopped... Nice work, Batman.
+43) BATMAN
+My job’s not done yet. I still need to find Lady Arkham before it’s too late.
+101) BATMAN
+My job’s not done yet. I still need to find Lady Arkham before it’s too late.
+44) OSWALD
+[pained scream] AAAAARH!
+103) OSWALD
+[pained scream] AAAAARH!
+45) OSWALD
+[furious]You psycho!
+102) OSWALD
+[furious]You psycho!
+46) OSWALD
+[in pain]You can do whatever you want to me, but Lady Arkham’s plans are already in motion!
+104) OSWALD
+[in pain]You can do whatever you want to me, but Lady Arkham’s plans are already in motion!
+47) JOKER
+Guess that just about wraps up our time together, Bruce... but listen, when I get out of here you’re gonna owe me a favor, okay?
+68) JOKER
+Guess that just about wraps up our time together, Bruce... but listen, when I get out of here you’re gonna owe me a favor, okay?
+48) JOKER
+[creepy]Just one.
+69) JOKER
+[creepy]Just one.
+49) JOKER
+Just like I did you a favor today.
+50) BRUCE
+Let’s be clear about one thing. You’re are never, ever getting out of this place.
+70) BRUCE
+Let’s be clear about one thing. You’re are never, ever getting out of this place.
+51) BRUCE
+I’m not doing any favors for you, John.
+71) BRUCE
+I’m not doing any favors for you, John.
+52) BRUCE
+Sure. One favor. That seems fair.
+72) BRUCE
+Sure. One favor. That seems fair.
+53) JOKER
+[Oddly quiet and serious] Excellent. We’ll have loads of fun. You’ll see.
+73) JOKER
+[Oddly quiet and serious] Excellent. We’ll have loads of fun. You’ll see.
+54) JOKER
+[Quiet, dark] We will meet again. I promise you that.
+74) JOKER
+[Quiet, dark] We will meet again. I promise you that.
+56) FAIRCHILD
+...in which Mayor Dent announced the creation of a special ‘Enforcement Squad’ under his direct command to combat an ‘imminent threat’ from the Children of Arkham…
+76) FAIRCHILD
+...in which Mayor Dent announced the creation of a special ‘Enforcement Squad’ under his direct command to combat an ‘imminent threat’ from the Children of Arkham…
+57) HARVEY
+Rest assured, we will find these terrorists, their stockpile of drugs AND their leader “Lady Arkham,“ before they can strike again.
+77) HARVEY
+Rest assured, we will find these terrorists, their stockpile of drugs AND their leader “Lady Arkham,“ before they can strike again.
+58) BRUCE
+{AngryA}[Getting down to business]First things first, I need to know what Vicki--[catches himself]
+59) BRUCE
+{SkepticalA}[Continued]...Lady Arkham has been up to while I’ve been away.
+60) BRUCE
+[pickup]There were bigger plans than me, Alfred. Batman stopped her at the skyrail station--
+78) BRUCE
+[pickup]There were bigger plans than me, Alfred. Batman stopped her at the skyrail station--
+61) BRUCE
+[pickup]--and I can’t believe that she isn’t finding another way to use the drugs.
+79) BRUCE
+[pickup]--and I can’t believe that she isn’t finding another way to use the drugs.
+62) BATMANBRUCE
+It’s Penguin!
+63) BATMANBRUCE
+We need to cut the hardline, NOW!
+64) BATMANBRUCE
+[alt]Take it offline, NOW.
+65) ALFRED
+Bruce - All of your Bat-Tech is linked to this computer-
+105) ALFRED
+Bruce! All of your Bat-Tech is linked to this computer!
+66) ALFRED
+If you take it offline it will all be inoperable!
+106) ALFRED
+If you take it offline it will all be inoperable!
+67) BATMANBRUCE
+If Penguin hacks in, he’ll have control of all of it - I have to shut it down!
+107) BATMANBRUCE
+If Penguin hacks in, he’ll have control of all of it. I have to shut it down!
+81) SELINA
+[pickup1] {ConfusedA}Bruce - {DisgustA}Harvey’s clearly {FearA}lost it. {ThinkingA}All over the news {FearA}yelling about how you need to be {DisgustA}brought to justice, {FearA}throwing whoever he wants in jail...
+100) GORDON
+Well, thank god he was finally stopped. Nice work, Batman.
+109) SELINA
+{ThinkingA}I got some other {SternA}business I need to take care of.
+114) SELINA
+{ThinkingA}I got some other {SternA}business I need to take care of.
+110) JOKER
+It’s obvious that’s why Vicki hates you.[trimmed]
+111) JOKER
+Your dad helped bump off her parents!
+112) BRUCE
+Why would my father have the Vales killed?
+113) JOKER
+[dark, teasing] I never said he killed the Vales. She was born an Arkham. Victoria Arkham.
+115) BRUCE
+[Slight wince from drugs, shakes it off] {DisgustA}So where are you {ConcernedB}going to go?

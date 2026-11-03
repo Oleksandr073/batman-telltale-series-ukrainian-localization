@@ -1,0 +1,134 @@
+﻿1) NEWSCASTER
+...delivered a rousing speech that turned into a shocking assassination attempt on his life....
+2) NEWSCASTER
+...delivered a rousing speech that turned into a shocking assassination attempt on his life....
+38) NEWSCASTER
+...delivered a{ConcernedA} rousing speech that turned into a shocking assassination attempt on his life....
+65) RYDER
+[PKUP2] ...delivered a{ConcernedA} rousing speech that turned into a shocking assassination attempt on his life....
+67) RYDER
+[PKUP2] ...delivered a{ConcernedA} rousing speech that turned into a shocking assassination attempt on his life....
+3) NEWSCASTER
+Detective Montoya made short work of the assassin--
+39) RYDER
+{ThinkingA}Detective Montoya made short work of the assassin--
+4) NEWSCASTER
+Batman made short work of the assassin--
+43) RYDER
+[PKUP2]{ThinkingA}Batman made short work of the assassin.
+5) NEWSCASTER
+Just minutes ago, Bruce Wayne...
+37) NEWSCASTER
+{SurpriseA}Just minutes ago, Bruce Wayne...
+64) RYDER
+[PKUP2] {SurpriseA}Just minutes ago, Bruce Wayne...
+6) RHONDA
+Don’t believe a word he says after what he did to my bar.
+40) RHONDA
+{AngryA}Don’t believe a word he says after what he did to my bar.
+7) PATRON01
+{SkepticalA}But didn’t he send you a check for the damages?
+10) PATRON01
+{SkepticalA}But didn’t he send you a check for the damages?
+8) RHONDA
+{DisgustA}Sure, but money doesn’t buy my trust.
+11) RHONDA
+{DisgustA}Sure, but money doesn’t buy my trust.
+41) RHONDA
+{DisgustA}Sure, but money doesn’t buy my trust.
+9) NEWSCASTER
+Just minutes ago... Acting Commissioner James Gordon
+42) NEWSCASTER
+{SurpriseA}Just minutes ago... Acting Commissioner James Gordon
+66) RYDER
+[PKUP2]{SurpriseA}Just minutes ago... Acting Commissioner James Gordon
+12) RHONDA
+Wish Batman had shown up when Bruce Wayne was trashing my bar.
+13) JOKER
+[ALT] Next round’s on me!
+16) JOKER
+Next round’s on me!
+14) JOKER
+[ALT][crazy laugh]
+15) JOKER
+[ALT][cheers!] To a bright future for Gotham!
+17) JOKER
+[cheering]
+21) 
+
+22) JOKER
+[crazy laugh]
+18) JOKER
+Impressive, Batman!
+19) JOKER
+Such a pleasure to see your work in person!
+20) JOKER
+Truly inspiring!
+23) JOKER
+[amusement] I don’t know... Bruce Wayne’s not so bad.
+24) PATRON01
+{SkepticalA}But didn’t Wayne send you a check for the damages?
+25) JOKER
+From where I’m sitting, things are definitely looking up.
+26) JOKER
+I don’t know, Rhonda.
+27) RHONDA
+Another round?
+31) RHONDA
+Another round?
+28) JOKER
+Sure, why not?
+29) JOKER
+[sinister] I’m just getting started.
+30) JOKER
+Thanks, but no.
+32) JOKER
+[sinister] Busy days ahead.
+33) JOKER
+[ALT][sinister] Got a busy day ahead of me.
+34) JOKER
+[cheers!] To a bright future for Gotham!
+35) JOKER
+For your trouble.
+36) JOKER
+Ah.
+44) RHONDA
+{AngryA}Yeah, I wish Batman had shown up when Bruce Wayne was trashing my bar...
+45) JOKER
+Now this is good television!
+47) JOKER
+Now this is good television!
+46) JOKER
+I just can’t wait to see what happens next!
+48) JOKER
+[about Bruce]Look at Brucie go!
+49) JOKER
+[impressed; re Batman] Now that’s what I call entertainment!
+50) JOKER
+[about Bruce] Time to call in my favor...
+51) JOKER
+[about Bruce] Oh, he’s not so bad. And he owes me a favor...
+52) JOKER
+[about Bruce] I knew you’d put on a good show, Brucie!
+53) JOKER
+[about Bruce] You better watch what you say about Bruce Wayne... [amused] He’s a good friend of mine.
+54) JOKER
+Ooh, this is going to be so much fun!
+55) JOKER
+[about Batman] Ooh, I’ve just got to meet him!
+56) JOKER
+...aren’t we, Brucie?
+57) JOKER
+...aren’t we, Batman?
+58) JOKER
+[amused] Quite the show...
+59) JOKER
+Ooh boy, it’s gonna be tough to top that!
+60) JOKER
+[amused]But I’ll give it a shot...
+61) JOKER
+[about Bruce] The camera really does add 15 pounds!
+62) JOKER
+[about Bruce] He sure does clean up well!
+63) JOKER
+[about Bruce][sinister] See you soon, Brucie...

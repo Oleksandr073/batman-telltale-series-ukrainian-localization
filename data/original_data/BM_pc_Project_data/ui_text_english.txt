@@ -1,0 +1,208 @@
+﻿1) 
+^imageScale:.7^<ui_notification_faceButtonDown.d3dtx:-18> Compare Evidence
+2) 
+^imageScale:.7^<ui_notification_faceButtonRight.d3dtx:-18> Cancel
+3) 
+Kill
+4) 
+Knock On
+5) 
+Look At
+6) 
+Look In
+7) 
+Look Out
+8) 
+Look Over
+9) 
+Look Through
+10) 
+Look Under
+11) 
+Move
+12) 
+Open
+13) 
+Place
+14) 
+Pick Up
+15) 
+Pry
+16) 
+Pull
+17) 
+Punch
+18) 
+Approach
+19) 
+Attack
+20) 
+Break
+21) 
+Catch
+22) 
+Choose
+23) 
+Climb
+24) 
+Climb Down
+25) 
+Close
+26) 
+Complete
+27) 
+Cover
+28) 
+Crawl Through
+29) 
+Cut
+30) 
+Enter
+31) 
+Examine
+32) 
+Exit
+33) 
+Exit Through
+34) 
+Follow
+35) 
+Grab
+36) 
+Hack
+37) 
+Help
+38) 
+Hit
+39) 
+Jump On
+40) 
+Jump To
+41) 
+Kick
+42) 
+Push
+43) 
+Remove
+44) 
+Run To
+45) 
+Search
+46) 
+Shake
+47) 
+Shoot
+48) 
+Stab
+49) 
+Stomp On
+50) 
+Switch On
+51) 
+Take
+52) 
+Talk To
+53) 
+Throw
+54) 
+Turn
+55) 
+Unlock
+56) 
+Use
+57) 
+Walk To
+58) 
+Cancel Link
+62) 
+Cancel Link
+101) 
+Cancel Link
+59) 
+Link To
+99) 
+Link To
+60) 
+Link
+61) 
+Break Link
+104) 
+Break Link
+63) 
+HITS
+64) 
+^imageScale:0.85^<ui_station_backOut.d3dtx:-20> Back Out
+65) 
+Finish the fight
+66) 
+No
+67) 
+Yes
+68) 
+Okay
+69) 
+NEXT TIME ON
+70) 
+PREVIOUSLY ON
+71) 
+Right click to back out
+72) 
+Touch here to back out
+73) 
+PAUSED
+74) 
+Click to Try Again
+75) 
+Tap to Try Again
+76) 
+Press <ui_death_facebuttonDown.d3dtx:-15> to Try Again
+77) 
+Watching the Credits
+78) 
+Playing Episode 1
+79) 
+Playing Episode 2
+80) 
+Playing Episode 3
+81) 
+Playing Episode 4
+82) 
+Playing Episode 5
+83) 
+Exploring the Menus
+84) 
+Taking a Break
+85) 
+Comparing Choices
+86) 
+Game Over
+87) 
+Touch
+89) 
+Touch
+92) 
+Touch
+94) 
+Touch
+95) 
+Touch
+88) 
+Everything Else
+90) 
+Everything Else
+91) 
+Everything Else
+93) 
+Everything Else
+96) 
+Everything Else
+97) 
+Add Link
+98) 
+Back Out
+100) 
+Back Out
+102) 
+Back Out
+103) 
+Back Out

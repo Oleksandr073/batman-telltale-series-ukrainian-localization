@@ -1,0 +1,487 @@
+﻿#### 2ba83f1698 | choice/UI | x2
+^font:GameplayDisplayLarge.font^^glyphScale:0.8^New World Order
+
+#### 2b1ff692f8 | choice/UI | x2
+^^Theresa Cooley
+Andrew Hanson
+Zack Keller
+Luke McMullen
+James Windeler
+
+#### a0eea79730 | choice/UI | x2
+^^Andrew Baker
+Michael McCormick
+Matthew McManus
+
+#### 8644ec0531 | choice/UI | x2
+^^Eric Ingerson
+Shahbaaz Shah
+Mindwalk Studios
+Virtuos Games
+
+#### ec8f70dd83 | choice/UI | x2
+^^Patrick Clark
+Jonah Huang
+Zachary Macias
+Sean Manning
+Nick Marshall
+Andrew McDonell
+Jarann Yen Pan
+Jonathan Stauder
+
+#### 3c4c776ac6 | choice/UI | x2
+^^Jay Susuico
+Michael Vallejo
+Virtuos Games
+
+#### 7e9deb1aa3 | choice/UI | x2
+^^Mai Nguyen
+Layne Johnson
+Virtuos Games
+
+#### 7f3a8d1c4d | choice/UI | x2
+^^Brian Matyas
+
+#### d326e5c5d3 | choice/UI | x6
+^font:MenuDisplaySmall.font^ADDITIONAL SOUND DESIGN
+
+#### 30d79dcbd2 | choice/UI | x2
+^^Brian Correia
+Scott Gilmore
+Michael Patterson
+
+#### c56a738393 | choice/UI | x2
+^^Etienne Grunenwald
+Kyle Killian
+Bryan Roth
+
+#### c796750bb2 | choice/UI | x2
+^^Michael Daglow - Lead
+Max Giganti
+Alejandro Ibarra
+Tim Johnson
+Marylena LeBlanc
+Devon Mosley
+Bryson Perez
+William Quismorio
+Nicky Silber
+Eli Standard
+Randal West
+
+#### fb11a5f17f | choice/UI | x6
+^font:MenuDisplaySmall.font^DIRECTOR OF PUBLISHING
+
+#### ea66be8b0f | choice/UI | x6
+^^Joe Floyd
+Daniel Pangelina
+
+#### 43357bcc01 | choice/UI | x6
+^^Romel Alonzo
+Ricardo de Avila
+David Choe
+Elena Morillo-Peterson
+Cody Wade
+Johnny Wing
+
+#### b244f8a058 | choice/UI | x6
+^^Eric Baca
+James Chapman
+Tetsuji Gotanda
+Erik Speeckaert
+
+#### 14fb76e87d | choice/UI | x6
+^font:MenuDisplaySmall.font^INTERNAL TOOLS ENGINEER
+
+#### 25951ed371 | choice/UI | x6
+^^Jason Spafford
+
+#### 6bdf0490a3 | choice/UI | x2
+^^Nicola Smith
+Stephanie Keegan
+Jenna Poffenroth
+Megan Quinn
+
+#### b643eaee4b | choice/UI | x2
+^^Nicole Martinez - Lead
+Meredith Ainsworth
+Patrick Kevin Day
+Jessica Krause
+
+#### e6f252ab64 | choice/UI | x2
+^^Emily Garrison - Lead
+Michael Kirkbride
+Juan Vaca
+
+#### 71aa42eb53 | choice/UI | x2
+^^Jason Pyke
+
+#### 73b2288a05 | choice/UI | x2
+^^Greg Felber - Lead
+David Grem Armstrong
+Michael Carpenter
+Tulley Rafferty
+John Wetmiller
+
+#### d49456e36c | choice/UI | x2
+^^Michael Tjosvold - Lead
+Tyler Helton
+Michael Hollander
+Nick Malutama
+Chris McCormick
+Ryan Rasmussen
+Ramon Torralba
+Angel Wylie
+
+#### 4ed3e3d25e | choice/UI | x2
+^^Michael Gambino - Lead
+Bridget Bougan
+Kyle Cabral
+Katrina Carras
+Colter Coates
+Airyque Ervin
+Hillary Galvin
+Ori Gellman
+Rogelio Gonzalez
+Calvin Huang
+Marina Ilic
+Jane Kim
+Vincent Kings
+Jonathan Kwok
+Keenan Manely
+Patrick McQuade
+Brett Rogstad
+Daniel Rosales
+Sean Stewart
+Thomas Tan
+Ryann Lynn Weller
+Susie Zhang
+
+#### 708ccf8ce7 | choice/UI | x4
+^^Christian de los Santos - Lead
+Brian Gillies
+Julia Lichtblau
+Amanda Stewart
+Josh Michael Tyler
+Jan Wyss
+
+#### 7ab6886905 | choice/UI | x2
+^^Daveed Kaplan - Lead
+Jay Lenn Cardona
+John Carnabuci
+Brandon Cebenka
+John R Miller
+Davide Pagin
+Michael Sherak
+
+#### 876f2e5e03 | choice/UI | x2
+^^Johannes Holm
+Jason Merck
+Rolf Mohr
+Gray Rogers
+
+#### 6795132370 | choice/UI | x2
+^^Jeffrey Benjamin – Lead
+Tracey Landau
+Farhan Noor
+Emily Overfelt
+Michael Perretta
+Valeria Reznitskaya
+William L Walker
+
+#### e135c3ca59 | choice/UI | x2
+^^Lazar Levine - Lead
+Gregory deBeer
+Craig Deskins
+
+#### 5d57732829 | choice/UI | x6
+^^Anne Cunningham
+
+#### b7919383a3 | choice/UI | x6
+^^Greg Masto
+Andrew Smallwood
+Kathleen Tigue
+
+#### e0fb2f4523 | choice/UI | x4
+^^Kevin Bruner
+Zacariah Litton
+Jonathan Sgro
+Randy Tudor
+David Brady
+Lex Chesler
+Matt Davidson
+Michael Eads
+Scott Eberline
+Ben Ingram
+Tim Ingram
+Sofy Kabachek
+Alex Montgomery
+Son Nguyen
+Mike Parsons
+Karen Petersen
+Bernd Raabe
+Chris Schmelzle
+Michael Schwartz
+Ceri Stagg
+Nicholas Van Sickle
+Eric Yiskis
+
+#### aef5dd5eb3 | choice/UI → MONTOYA | x2
+^^In loving memory of Grandma Nancy Adams
+Greg Miller
+Ricky O’Connor
+Laura, Declan, & Aylish
+Erin Kerrigan
+Natalie Helton
+Alina Gomenyuk
+Maria, Mateo & Maximus Carpenter
+Ruby Robinson
+Emi Eads
+The Stewart & Nadler Families
+Kayla A. Chavez
+Wes Burnett
+Robert Wells
+Sgt James R. McIlvaine
+Jennifer Charlee Armstrong
+Julie, Violet, and Rory -- I love you.
+Kim, Alan, and Christopher Koepf
+Waifu
+Liza Vasquez
+Nick Topolos
+Owen & Luke Sgro
+Nikki Smith
+Michelle and Seraphine Nguyen
+Brittany Rivera
+The Vallejo Family
+Jeff Sinclair
+Selena Nadav
+Sarah Wawrzynoski
+Nicole, Penelope and Gwendolyn
+Misty Lord
+Caleb & Steph
+Miya McHugh, Rhian, James & Bruce Arp
+Kathleen Glover & Newell Emerson-Johnson
+Michelle, Danielle, Ariel, and Carmel
+The Gambino Family. My loving, supportive Family. Thank you. - Gambino
+Melanie Duong & The Afterburners
+Rachel McCormick
+Lisa, Hunter & Scarlett Rozmarin
+Susan Carras
+Joyce Walker, Devon Ramirez, Dina Tyler
+Kelly and Lisa O’Connor
+Karla (our brave little soldier), Sandra and Rogelio
+Hiro and Robyn Harada
+Snugglecakes & Neil Arthur
+Jennifer Turpin, Stephen Krause, Rachael Krause, and Brett Braker
+Michelle Steranko, Sage Wessner, Mav & Sophie
+Daniel Garrison, Robert Buck, Joan Buck, Julianna Buck, Jean Hillegass, Jack Hillegass, Bill Buck, David Garrison, Lynn Mason-Kellar, Gail Page-Kirlenko, Gary Kirlenko
+Dominick & Andre Shah
+Doki
+To the Morillo Family Ed, Lydia, Michael
+Denise Tosti, Ryan Tosti, Alexis Tosti
+Alice White and House McCarthy
+Alex Pearlstein
+Cameron and Colin McLaren Baird, John Thornton III
+Jessica Speeckaert
+Jim and Elliott Locker
+Josh Mobley and Linda Martinez
+Harrison “Harrylax” Simon
+Lance Hayward
+Stephen and Claire Sakai
+Yohanna “Cantik” Weller
+Michael, Cindy, Erin, Shannon, Renee, and Kevin
+Darya Makarava
+Brian Apthorp
+Loretta K
+Luis, Alicia, Alyn and Miguel Rosales, Jessica Matter, Dustin Garza, Deena Mustin
+Wayne Enterprises CEO Oswald Cobblepot
+To my Family, Dima and Remy. I love you!
+Haley Kavanagh
+Robert Alan Wylie
+
+
+and You
+
+#### 9540ba9cf4 | choice/UI | x1
+^^FeetFeet
+Loki Zammit
+Wrigley
+Shaunday
+Sophie
+Toby
+Jasper, The Pit
+RIP Midnight Carpenter
+Shiro
+Mr. Rocco, Chairman of the Board
+Lando, Obi, and Link
+Sadie Turkey Pants and Luna it’s 5AM
+Tique
+Siobhan, Finn, Molly, and Skywalker
+Seras
+Kiki
+Nugget the cat
+Athena, King and Lilly
+Maggie ‘Mae’ Vallejo
+Cody
+M and Fezzik
+Echo the Dog, Momo the Cat
+Colin and Sophie
+Luna & Vincent
+Mojo Jojo R.I.P.
+Tangle
+Emma Dashwood
+Cat
+Chloe, The french bulldog/marble loaf mix
+Miyuki
+Zim & Ziva
+Hyde & Kingston
+Sabrina Carras
+Spike (aka Spuddles)
+Kylo and Yuki
+Little BooBoo
+Murphy, Emma, Patrick, Vera, and Zoe.
+Penny & Desmond
+Odie
+Emma and Lara Kuku
+Ali the fighting kitten
+Flame & Peanut
+Dinah the Cat
+Pigeon
+Buffy and Scout, RIP Spike
+Gypsy & Marble
+Emmitt, Shasta, Lassen, Snowy, Leo, Harriett, Hendrick, Eddie, Freddie, Curly, Honda
+Turtle the Turtle, Mickey the Chihuahua
+Tankster
+Eddie, Riley, Maisy & Cricket
+Mimsy, Sophie, and Violeta
+Gumbo, Dagon, and Trash Belly
+Sharkey
+Meeko
+Sir “Nine Lives” Rosales
+Tobester Oven
+For Harley, Chris’ new Best Friend!
+Mr. Grumpy Gills the Beta Fish
+Miss Molly
+
+
+And Brenden Q. Ferguson
+
+#### 4cc7dfea13 | choice/UI | x2
+^font:MenuDisplaySmall.font^REGINA ZELLERBACH
+
+#### 1306c42b55 | choice/UI | x6
+^font:MenuDisplaySmall.font^LUCIUS FOX
+
+#### 54345f227d | choice/UI | x6
+^^Dave Fennoy
+
+#### 990b3a5bec | choice/UI | x2
+^font:MenuDisplaySmall.font^CHILDREN OF ARKHAM LEADER
+
+#### c964f4eeb8 | choice/UI | x2
+^font:MenuDisplaySmall.font^MODERATOR, ATTORNEY, ORDERLY
+
+#### afc2962a13 | choice/UI | x4
+^^John Sanders
+
+#### 4309535c3c | choice/UI | x2
+^font:MenuDisplaySmall.font^COA THUG, SECURITY GUARD
+
+#### 5e3c764e72 | choice/UI | x6
+^font:MenuDisplaySmall.font^PRODUCTION
+
+VICE PRESIDENT - PRODUCTION, CREATIVE, DC COMICS FRANCHISE
+
+#### 2d9ca1d59b | choice/UI | x6
+^font:MenuDisplaySmall.font^DIRECTOR, BRAND MARKETING
+
+#### 37085f91e4 | choice/UI | x6
+^font:MenuDisplaySmall.font^PR
+
+VICE PRESIDENT, WW COMMUNICATIONS AND PR
+
+#### 6503178e96 | choice/UI | x6
+^font:MenuDisplaySmall.font^DIRECTOR, INTEGRATED COMMUNICATIONS
+
+#### 5afa5f9140 | choice/UI | x6
+^font:MenuDisplaySmall.font^LEGAL
+
+DIRECTOR, RIGHTS AND CLEARANCES
+
+#### 001e1333bc | choice/UI | x6
+^font:MenuDisplaySmall.font^BUSINESS DEVELOPMENT
+
+VICE PRESIDENT, BUSINESS DEVELOPMENT AND LICENSING
+
+#### a98d65b5d7 | choice/UI | x6
+^font:MenuDisplaySmall.font^FINANCE
+
+VICE PRESIDENT, PRODUCTION FINANCE
+
+#### f4bae100f2 | choice/UI | x6
+^font:MenuDisplaySmall.font^EXECUTIVE MANAGEMENT
+
+PRESIDENT AND CHIEF CONTENT OFFICER, WARNER BROS. INTERACTIVE ENTERTAINMENT
+
+#### 463d741779 | choice/UI | x6
+^font:MenuDisplaySmall.font^PRESIDENT
+WARNER BROS. INTERACTIVE ENTERTAINMENT
+
+#### 800e28cd0a | choice/UI | x6
+^font:MenuDisplaySmall.font^EXECUTIVE VICE PRESIDENT
+WORLDWIDE PRODUCTION AND STUDIOS, WARNER BROS. INTERACTIVE ENTERTAINMENT
+
+#### ef18feb779 | choice/UI | x6
+^font:MenuDisplaySmall.font^SENIOR VICE PRESIDENT
+GLOBAL GENERAL MANAGER - PRODUCTION AND DEVELOPMENT
+
+#### 86b1c5f7a8 | choice/UI | x6
+^font:MenuDisplaySmall.font^SENIOR VICE PRESIDENT
+SALES & OPERATIONS, AMERICAS,
+WARNER BROS. INTERACTIVE ENTERTAINMENT
+
+#### 95e6abde07 | choice/UI | x6
+^font:MenuDisplaySmall.font^SENIOR VICE PRESIDENT
+FINANCE & ADMINISTRATION, AMERICAS, WARNER BROS. INTERACTIVE ENTERTAINMENT
+
+#### 13d4c7047f | choice/UI | x6
+^font:MenuDisplaySmall.font^VICE PRESIDENT AND ASSOCIATE GENERAL COUNSEL
+
+#### 53094a58a0 | choice/UI | x6
+^font:MenuDisplaySmall.font^VICE PRESIDENT, BUSINESS DEVELOPMENT AND LICENSING
+
+#### a89338906a | choice/UI | x6
+^font:MenuDisplaySmall.font^VICE PRESIDENT, HUMAN RESOURCES
+
+#### 895a25f0e2 | choice/UI | x2
+^font:MenuDisplaySmall.font^SENIOR VP
+MARKETING AND GLOBAL FRANCHISE MANAGEMENT
+
+#### c445c571fc | choice/UI | x4
+^font:MenuDisplaySmall.font^SENIOR VP - FINANCE AND OPERATIONS
+
+#### af248548dc | choice/UI | x2
+^^George Crayton
+Brendon Hour
+Vonzell Carter
+
+#### ce8b58de36 | choice/UI | x6
+^^Leif Estes
+
+#### 3a4a600d78 | choice/UI | x6
+^^Christopher Tarnow, GENUIN recording group, Germany
+
+#### 8c269c7440 | choice/UI | x6
+^font:MenuDisplaySmall.font^RECORDING PRODUCER
+
+#### 58d192933b | choice/UI | x6
+^font:MenuDisplaySmall.font^SENIOR BUILD PRODUCER
+
+#### 69734c58ea | choice/UI | x11
+^^Sara Guinness
+
+#### e2ac203273 | choice/UI | x6
+^font:MenuDisplaySmall.font^ASSOCIATE BUILD PRODUCER
+
+#### 7ecd81b2f5 | choice/UI | x6
+^^Christopher Rose
+

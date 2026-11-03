@@ -1,0 +1,1839 @@
+﻿1) BRUCE
+I’m in this scene!
+2) ALFRED
+I’m in this scene!
+3) LUCIUS
+I’m in this scene!
+4) THUG01
+I’m in this scene!
+5) THUG02
+I’m in this scene!
+6) THUG03
+I’m in this scene!
+7) ALFRED
+I’m in this scene (via hologram)
+8) COA01
+I’m in this scene! (via hologram)
+9) COA02
+I’m in this scene! (via hologram)
+10) LADYARKHAM
+I’m in this scene! (via hologram)
+11) 
+You’re right
+473) BRUCE
+You’re right...
+12) 
+Don’t lecture me.
+13) 
+Anger is a tool.
+14) 
+Found anything?
+15) 
+We don’t have much time left.
+16) 
+Alfred might’ve left us a clue.
+17) 
+If you can’t help, go.
+18) 
+Try harder!
+19) 
+I have faith in you.
+20) 
+I’ll find him no matter what.
+21) 
+I’m responsible.
+22) 
+Nice thoughts won’t save him.
+23) 
+The damage is already done.
+24) 
+[inspect Alfred]
+25) 
+[Inspect]
+26) 
+[read statement]
+27) 
+[inspect guard]
+28) 
+[Inspect]
+29) 
+[Inspect]
+30) 
+[Inspect]
+31) 
+[inspect hollow]
+32) 
+[inspect hollow]
+33) 
+[inspect furniture]
+34) 
+[inspect teddy bear]
+35) 
+[inspect water damage]
+36) 
+[inspect trophy case]
+37) 
+[inspect family photos]
+38) 
+[end simulation]
+56) 
+
+85) 
+[enter clues into computer]
+89) 
+[inspect plaque]
+90) 
+[enter clues into computer]
+94) 
+
+145) 
+
+251) 
+
+285) 
+
+296) 
+
+368) 
+
+381) 
+[analyze audio]
+382) 
+[examine reflection]
+383) 
+[search Gotham]
+384) 
+[inspect water heater]
+385) 
+[inspect stairs]
+386) 
+[Inspect]
+387) 
+[magnify image]
+388) 
+[enter water heater clue]
+389) 
+[enter mason clue]
+390) 
+[enter bus stop clue]
+391) 
+[basement clue]
+739) 
+[inspect stamp]
+755) 
+[Inspect]
+756) 
+[read statement]
+768) 
+
+775) 
+[Prototype Batsuit]
+776) 
+[High Tech Batsuit]
+834) LUCIUS
+[PKUP]
+836) 
+[location data]
+837) 
+[location data]
+838) 
+[location data]
+862) 
+[Examine Reflection]
+866) 
+[Inspect]
+869) 
+[Inspect]
+877) 
+[Location Data]
+878) 
+[Location Data]
+879) 
+[Location Data]
+895) 
+[BUILD YEAR]
+896) 
+[BUS STOPS]
+897) 
+[BASEMENTS]
+898) 
+[REPAIR LOGS]
+899) 
+[inspect boxes]
+915) 
+[Inspect]
+39) 
+Of course it’s a trap.
+40) 
+I have no choice.
+41) 
+Take care of yourself.
+42) ALFRED
+[on Batcomputer screen]My name is Alfred J. Pennyworth and I have worked for the Wayne family for decades. No longer.
+43) ALFRED
+[on Batcomputer screen]I come before you to renounce the Waynes as the cancer that is destroying Gotham from within.
+44) ALFRED
+[on Batcomputer screen]Together, we must erase their corrupt influence from our city and rebuild it as something better. Bruce Wayne must pay for his sins.
+45) LUCIUS
+I’ve already processed the video, trying to trace it back to the place of origin.
+46) LUCIUS
+But I haven’t turned up anything concrete.
+47) BATMAN
+[Bruce voice]Then you’re not trying hard enough!
+48) LUCIUS
+I’m doing the best I can.
+49) BATMAN
+[Bruce voice]I know you can do this, Lucius. But we don’t have much time.
+50) LUCIUS
+I appreciate your confidence, Bruce. We’ll get Alfred back.
+51) BATMAN
+[Bruce voice]I’m going to find him, Lucius. No matter what it takes.
+52) LUCIUS
+[nods]You don’t have to do this on your own. I’m not leaving this cave until we have something.
+53) LUCIUS
+We can run the audio through a filters to detect background noise and juice the video until something shakes loose...
+54) LUCIUS
+Bruce, he’s going to be okay.
+55) BATMAN
+[Bruce voice]I let him go out there. I should have anticipated the danger.
+57) LUCIUS
+Your anger and despair are precisely what Lady Arkham wants from you. Don’t give her the satisfaction.
+58) LUCIUS
+If Alfred was scared of danger, he would have quit a long time ago. No one blames you for anything.
+59) BATMAN
+[Bruce voice]Even if I find him alive, they’ve already hurt him. I can’t change that.
+60) LUCIUS
+I’m trying to stay positive.
+61) BATMAN
+[Bruce voice]Save your positive thoughts for later, Lucius. That’s not going to save him.
+62) LUCIUS
+You’re right. Let’s get to work.
+63) BATMAN
+[Bruce voice][found something]There. Looks like Alfred’s helping us out.
+64) BATMAN
+[Bruce voice]Lucius, let’s see this in more detail.
+65) BATMAN
+[Bruce voice]It’s the Vale house. That’s where she’s got him.
+66) LUCIUS
+Her foster parents? But I thought they died in a fire.
+67) BATMAN
+[Bruce voice]They did. Seems there’s more uncover there than I assumed.
+68) LUCIUS
+This could be a trap.
+69) BATMAN
+[Bruce voice]They can try to trap me. And they’ll regret it.
+70) LUCIUS
+Unfortunately, I believe they’re stupid enough to try.
+71) BATMAN
+[Bruce voice]Doesn’t matter if it’s a trap or not. That’s where they’ve got Alfred and that’s where I’m going.
+72) LUCIUS
+Just don’t let your emotions get the better of you.
+73) BATMAN
+[Bruce voice]If it is, then I’ll need you safe to keep things running smoothly.
+74) LUCIUS
+Wait. You’re coming back, aren’t you?
+75) 
+Has Tech
+82) 
+Has Tech
+83) 
+Has Tech
+76) 
+Has Allies
+81) 
+Has Allies
+84) 
+Has Allies
+77) 
+She’s using him to hurt me.
+78) 
+We need to get to work.
+79) 
+Unleash Batman.
+80) 
+Look for clues.
+86) 
+Water Heater Clue
+606) UCNOTES
+water heater clue
+87) 
+Construction clue
+88) 
+Date Clue
+91) 
+I plan to spring that trap.
+92) 
+She’s not expecting me.
+93) 
+It doesn’t matter if it is.
+95) LADYARKHAM
+[from the video; with disdain, talking directly to him]For the coward Bruce Wayne.
+96) LADYARKHAM
+There is no amount of money that can save you from my vengeance.
+97) LADYARKHAM
+I want nothing from you.
+107) LADYARKHAM
+I want nothing from you.
+127) LADYARKHAM
+I want nothing from you.
+98) LADYARKHAM
+I’ll take my pound of flesh off teh only thing you do care for in thsi world.  your man servant.
+99) LADYARKHAM
+If you won’t atone for your sins then your man-servant will.
+100) LADYARKHAM
+He’s just as guilty as any Wayne.
+101) LADYARKHAM
+Lying to everyone for years.
+102) LADYARKHAM
+But don’t worry.
+280) LADYARKHAM
+But don’t worry.
+103) BRUCE
+[to the Bat Computer]{AngryA}Play it again.
+104) LUCIUS
+{ConcernedB}Bruce, I got here as fast as I could. {SurpriseA}I -
+105) BRUCE
+Lady Arkham has Alfred.
+283) BRUCE
+Lady Arkham has Alfred.
+342) 
+Lady Arkham has Alfred
+106) LADYARKHAM
+[ALT]I want nothing[quarter beat]from you.
+108) ALFRED
+[defiant, looking at someone off screen]I most certainly will not...
+109) ALFRED
+Go to hell, Victoria.
+110) ALFRED
+[to Lady Arkham, british grit]He’s going to put a stop to you.
+111) LADYARKHAM
+Do you promise?
+112) ALFRED
+[steely British grit]Oh, I swear.
+113) LADYARKHAM
+[determined]Read it.
+370) COA01
+[violent]Read it.
+114) ALFRED
+[scoffs at her]You think Bruce would believe anything I say under these conditions?
+115) LADYARKHAM
+[it’s more for me]He doesn’t have to.
+116) LADYARKHAM
+Read it or lose the leg.
+117) ALFRED
+[stilted; clearly reading]{FearA}If the coward Bruce Wayne won’t take responsibility for his family’s wrong doings.
+118) BRUCE
+[to Bat Computer]{AngryB}Mute it.
+119) LUCIUS
+What is this psychological warfare?
+120) ALFRED
+[stilted; clearly reading]Then I will bear his punishment...
+121) LUCIUS
+They could be almost anywhere in Gotham by now.
+122) LUCIUS
+What are we going to do?
+123) BRUCE
+Isolate the audio track to see if it gets us closer to a region.
+124) BRUCE
+There’s work to be done.
+125) LUCIUS
+Bruce, it’s okay to--
+126) BRUCE
+[cuts him off]Alfred’s counting on us.
+128) LADYARKHAM
+[ALT]disdain; talking directly to camera]To the Coward Bruce Wayne.
+129) ALFRED
+[alt, bruce is going to unleash hell]he’s gonna
+130) ALFRED
+It doesn’t matter what you or I say.
+131) ALFRED
+[a moment of humanity; to his boy]I’m so sorry Master Bruce.
+330) ALFRED
+I’m so sorry, Master Bruce...
+333) ALFRED
+[sincere to camera]I’m so sorry, Master Bruce...
+132) BRUCE
+Why would I blame myself?
+133) BRUCE
+She’s clearly insane.
+134) LUCIUS
+We’re gonna get Alfred back.
+135) BRUCE
+[grim]Unleash Batman till Victoria Arkham and her army are nothing but charred dust and rubble.
+136) LUCIUS
+Bruce, you’re not to blame for what your father did.
+137) LUCIUS
+Don’t give Lady Arkham the satisfaction.
+138) BRUCE
+We need to look for clues.
+139) BRUCE
+You’re not the one being beaten and tied to a chair.
+140) LUCIUS
+Focus on the task at hand, Bruce.
+141) LUCIUS
+You’ll get to work off some of that aggression.
+142) LUCIUS
+[ALT]Are you watching this as Bruce or Batman?
+143) LUCIUS
+Don’t worry Bruce.  We’ll get Alfred back.
+144) LUCIUS
+Lady Arkham is going to pay.
+146) BRUCE
+Audio analysis is done.
+147) LUCIUS
+[laments] {AngryB}With the bat computer in the state its in, this might prove {ConcernedA}challenging.
+148) BRUCE
+[knows who he’s talking to]{AmusedA}But lucky for me you’re here--
+149) LUCIUS
+[thinking on the fly] {SkepticalB}I’ll jerry-rig something...
+150) BRUCE
+[glad he’s here]{AngryA}Thanks Lucius.
+770) 
+Thanks Lucius.
+151) LUCIUS
+Indeed.
+152) LUCIUS
+{AmusedA}Helps having one of the most powerful computers in the world at your fingertips.
+153) BRUCE
+Unfortunately Bruce Wayne and the GCPD don’t exactly see eye to eye these days.
+154) LUCIUS
+Then Gordon.
+155) BRUCE
+Neither do Gordon and Batman...
+156) BRUCE
+We have beyond DARPA technology literally at our fingertips.
+157) LUCIUS
+[amen; more to self]Humble brag.
+158) BRUCE
+Filter out what sounds you can.
+159) BRUCE
+{SkepticalA}Alfred was taken thirty-five minutes ago.
+160) BRUCE
+i got the video seven.
+161) BRUCE
+{AngryA}I received the video in the last seven minutes.
+162) BRUCE
+{ThinkingA}Here’s our search radius.
+163) LUCIUS
+{SkepticalA}Let’s see if we can narrow that down some...
+164) LUCIUS
+[only here for Alfred]That’s your problem...
+165) BRUCE
+[trained eye]{AngryB}Alfred keeps adjusting his glasses.
+166) BRUCE
+We just have to find it.
+167) BRUCE
+Using the Bat computer I can recreate the room Alfred’s being held in off the reflection on his glasses.
+168) LUCIUS
+You created?
+169) BRUCE
+I got to do something during the day besides train and sleep.
+170) LUCIUS
+This is impressive... Even for Batman.
+171) BRUCE
+[ALT, corrects Lucius]The Batman....
+172) BRUCE
+[to BAt computer Siri] Play through.
+173) LUCIUS
+[impressed]Smart, Alfred.
+174) LADYARKHAM
+You’ll get him back eventually...
+175) LADYARKHAM
+Piece by bloody piece.
+176) ALFRED
+[do your worst]No.
+177) LUCIUS
+The sooner we find Alfred, the sooner you’ll get to work off some of that aggression.
+178) BRUCE
+[working talking to Alfred]Show me what you see, Old Friend.
+179) BRUCE
+[to bat computer]Zoom in on right lens of glasses.
+180) BRUCE
+It’s not about what he’s saying, it’s where Alfred’s saying it.
+181) BRUCE
+Filter out Alfred and Lady Arkham’s voices.
+182) BRUCE
+Get down to the ambient noise surrounding them.
+183) BRUCE
+[ALT] The city will help us find Alfred.
+184) BRUCE
+I’ve narrowed it down to two possible regions within the search radius.
+185) LUCIUS
+[can’t help but be impressed]Impressive.
+186) BRUCE
+Not if it can’t help us find Alfred.
+187) LUCIUS
+[seeing this]Let me see if I can boost the resolution a little more.
+188) LUCIUS
+Better?
+189) BRUCE
+Much.
+190) BRUCE
+Alright Alfred. Where are you?
+191) BRUCE
+Fire damage.
+192) LUCIUS
+But not enough...
+193) BRUCE
+That should narrow down the search significantly.
+194) BRUCE
+[concerned]Stay strong Alfred.
+195) BRUCE
+[resolute]I will find you.
+196) LUCIUS
+What’s with the blank area?
+197) BRUCE
+The computer can’t recreate things Alfred can’t see.
+198) BRUCE
+Due to the limits of the technology most of this is illegible.
+199) LUCIUS
+So it goes with beta testing...
+200) BRUCE
+Another Child of Arkham.
+201) BRUCE
+They must have stolen it from Wayne Tower.
+202) BRUCE
+Looks like water damage.
+205) BRUCE
+Looks like water damage.
+211) BRUCE
+Looks like water damage.
+203) LUCIUS
+From a fire?
+204) BRUCE
+[still examining]Possibly...
+206) LUCIUS
+Add in the burnt pile of furniture.
+212) LUCIUS
+Add in the burnt pile of furniture.
+207) BRUCE
+This house was on fire.
+213) BRUCE
+This house was on fire.
+208) BRUCE
+Looks like the remnants of a house fire.
+209) LUCIUS
+Old Sofa, TV, Dining room set.
+210) LUCIUS
+They threw the whole house down here.
+214) BRUCE
+This pile of old furniture, plus the water damage clearly indicate this place was on fire.
+215) LUCIUS
+That’ll help narrow down our search.
+216) BRUCE
+We should have enough data to narrow down our search.
+217) BRUCE
+[reading plaque]Eberheart Construction...
+218) LUCIUS
+Eberheart Construction built suburban developments across the Queens River in Sheal and across the East River.
+219) BRUCE
+[seething]Lady Arkham...
+870) 
+Lady Arkham
+220) LUCIUS
+I wish we could tell how she entered.
+221) BRUCE
+If Alfred can’t see it, then neither can we...
+222) BRUCE
+A trophy case.
+223) BRUCE
+Interesting...
+224) LUCIUS
+Due to the video quality, it’s impossible to read the individual trophies.
+225) BRUCE
+I can make out the years on a couple of them.
+226) LUCIUS
+That should help us narrow down the search some.
+227) LUCIUS
+Is that a Teddy Bear?
+228) BRUCE
+Looks like it...
+229) BRUCE
+[process of deduction]Stairs leading up.
+230) BRUCE
+Lack of windows.
+231) BRUCE
+We’re in a basement.
+588) BRUCE
+We’re in a basement.
+232) LUCIUS
+[re CoA02]A basement being guarded.
+233) LUCIUS
+Lady Arkham comes out from under the stairs.
+234) BRUCE
+Too bad Alfred couldn’t see what was under there.
+235) BRUCE
+Let’s see what we come up with.
+236) LUCIUS
+All these clues have to help us narrow down the search...
+237) BRUCE
+[to computer]Cross reference known house fires occuring twenty years ago.
+238) LUCIUS
+[impressed]That narrows it down.
+239) BRUCE
+[to computer] Now cross reference known house fires of Eberheart Construction properties.
+242) BRUCE
+[to computer] Now cross reference known house fires of Eberheart Construction properties.
+240) LUCIUS
+Getting closer.
+243) LUCIUS
+Getting closer.
+241) BRUCE
+[to computer]Cross reference known Eberheart Construction Properties within the search radius.
+244) LUCIUS
+Unfortunately, taken by itself a year does not narrow our search enough.
+245) BRUCE
+Have faith Lucius.
+246) BRUCE
+We’re not done yet.
+334) BRUCE
+We’re not done yet.
+247) BRUCE
+[to computer]Now Cross reference known house fires from twenty years ago.
+248) LUCIUS
+Let’s try to narrow it down more.
+249) BRUCE
+This should narrow things down significantly.
+250) BRUCE
+{SkepticalA}Lady Arkham is back at the Vale House.
+252) LUCIUS
+[suitably impressed]X marks the spot.
+253) BRUCE
+This house belonged to the Vales.
+254) LUCIUS
+But I thought...
+255) BRUCE
+This is the home Vicki Vale grew up in, not the home her foster parents were murdered in.
+256) BRUCE
+And that’s where Alfred is.
+257) LUCIUS
+{SurpriseA}Bruce you can’t just run in {AngryB}without a plan.
+258) LUCIUS
+{FearA}What if this is a trap?
+259) BRUCE
+{AngryB}I’m counting on it.
+260) BRUCE
+{SkepticalA}They think they’re dealing with Bruce Wayne, {AmusedA}not Batman.
+261) LUCIUS
+{ThinkingA}Little do they know...
+262) BRUCE
+If I leave now I might be able to catch Lady Arkham unawares.
+263) LUCIUS
+There’s no way she could have expected us to find Alfred so soon.
+264) BRUCE
+Exactly.
+265) LUCIUS
+Good luck Bruce...
+266) BRUCE
+{AngryB}It doesn’t matter if this is a {AngryA}trap or not.
+267) LUCIUS
+I’d say safe travels, but unleash Hell seems more appropriate.
+268) LUCIUS
+{ThinkingB}We know anything about what {AngryA}Lady Arkham is doing there.
+269) LUCIUS
+{AngryB}Sure, you’re {SurpriseA}Batman.
+270) LUCIUS
+{AngryA}But Lady Arkham is clearly crazy, and she is {AngryB}holding Alfred.
+271) LUCIUS
+{ConcernedA}You have to be careful.
+272) BATMAN
+[all business]{AngryA}This ends {AngryB}tonight.
+323) BATMAN
+[all business]{AngryA}This ends {AngryB}tonight.
+273) BRUCE
+what do you want me to look at Alfred?
+274) LADYARKHAM
+Your father took away my family.
+275) LADYARKHAM
+Now I’ll take away what’s left of yours.
+276) LADYARKHAM
+You can’t buy your way out of my vengeance the way you used your wealth and influence to escape Arkham Asylum.
+277) LADYARKHAM
+[disdain; talking directly to camera]Bruce Wayne...
+278) LADYARKHAM
+Now you must suffer another way.
+279) LADYARKHAM
+You may have used your wealth and influence to escape Arkham Asylum.
+673) ADYARKHAM
+You may have used your wealth and influence to escape Arkham Asylum.
+674) LADYARKHAM
+[ALT; old] You may have used your wealth and influence to escape Arkham Asylum.
+281) LUCIUS
+How bad is it?
+282) LADYARKHAM
+An inch at a time.
+284) LUCIUS
+Doesn’t get more personal for you.
+286) BRUCE
+This is nothing we can’t handle.
+287) LUCIUS
+Imagine if Lady Arkham knew she was messing with Batman.
+288) BRUCE
+[in Batman mode]She won’t have to imagine for long after I find her.
+289) BRUCE
+We have to find him.
+480) BRUCE
+[pissed and anxious]We have to find him....
+639) BRUCE
+[pissed and anxious]We have to find him....
+703) LUCIUS
+{FearA}We have to find him.
+290) LUCIUS
+[knows it’s raw]We will Bruce.
+481) LUCIUS
+We will Bruce...
+291) BRUCE
+Lady Arkham has kidnapped and is torturing Alfred.
+292) BRUCE
+She’s become unhinged.
+293) BRUCE
+It’s time to put an end to Vicki Vale and her Children of Arkham once and for all.
+294) LUCIUS
+We’ll find him and put a stop to Lady Arkham.
+295) LUCIUS
+Any sign of Alfred?
+297) BRUCE
+Let’s get to it.
+298) LUCIUS
+Remind me never to get on your bad side.
+299) BRUCE
+That would be advisable.
+300) BRUCE
+Lady Arkham might not know she’s talking to Batman, but Alfred does.
+301) LUCIUS
+Alfred would definitely try to help us find him.
+302) LADYARKHAM
+I want to hear you say it...
+303) LUCIUS
+Let’s try to filter out some of the audio.
+304) BRUCE
+But he always does it on a different part of the room.
+305) LUCIUS
+Like he’s trying to show us something.
+306) BRUCE
+[knows it]He is.
+307) BRUCE
+I know where to go, but without a working Batsuit this is going to be hard.
+308) LUCIUS
+[well...]{AmusedA}Actually...
+309) BRUCE
+{SkepticalA}One of the early batsuit prototypes?
+310) LUCIUS
+{ThinkingA}It has basic cowl functionality, {ConfusedA}but outside of that...
+311) BRUCE
+{ConfusedA}You want me to wear {SurpriseB}that?{ConfusedA}
+312) LUCIUS
+{SurpriseA}It’s all we have.
+313) BRUCE
+{AngryB}I don’t need a cape and cowl to be {SkepticalA}Batman...
+314) BRUCE
+{AngryB}It’s all we got, {SkepticalB}It’ll have to do.
+315) LUCIUS
+{AmusedA}That’s the spirit.
+316) BRUCE
+{SkepticalA}It is the man that makes the suit.
+317) BRUCE
+{HappyA}Good call. Thank you, Lucius.
+318) LUCIUS
+[ALT]{SkepticalA}It might not have all the tech and gadgets.
+319) LUCIUS
+{AmusedA}But it should still scare the crap out of criminals.
+320) LUCIUS
+{AmusedA}I was always fond of this design.
+321) LUCIUS
+{HappyA}Glad to see it get some use.
+322) LUCIUS
+{AngryA}And it’s all we have...
+324) LUCIUS
+[ALT][hold the phone]{SurpriseA}Where she {FearA} killed her foster parents?
+325) BRUCE
+She went back to the scene of her most violent crime.
+730) BRUCE
+[worried] {DisgustA}She went back to the scene of her most violent crime.
+326) BRUCE
+{AngryB}Alfred needs my help.
+327) BRUCE
+[ALT] What is Gotham City saying?
+328) LADYARKHAM
+Tell him how much you love him, Alfred.
+329) LADYARKHAM
+This could be your last chance.
+332) LADYARKHAM
+This could be your last chance.
+331) LADYARKHAM
+Tell Bruce how much you love him, Alfred.
+335) LUCIUS
+Alfred doesn’t look like he can take much more of this...
+336) BRUCE
+His stomach is bleeding.
+747) BRUCE
+His stomach is bleeding.
+337) LUCIUS
+Good to know he got in a couple of licks.
+338) BRUCE
+This must be one of the thugs Alfred fought upstairs.
+339) LUCIUS
+They seem to follow Lady Arkham blindly.
+340) BRUCE
+[disdain]Zealots...
+341) BRUCE
+Keep searching...
+343) 
+Nothing we can’t handle.
+344) 
+As bad as it gets.
+345) ALFRED
+[sincere]I’m sorry Master Bruce.
+346) BRUCE
+{SurpriseA}Alfred’s mapping out the room for {AmusedA}us using the reflection in his glasses.
+347) BRUCE
+He adjusted his glasses again.
+348) LUCIUS
+He’s definitely leaving us a signal.
+349) BRUCE
+It’s like he’s painting a picture of the room for us with his glasses.
+350) BRUCE
+[woah!]{SurpriseA}You are {AngryB}not going to believe this.
+351) BRUCE
+I have to get Alfred out of there.
+352) LUCIUS
+Too bad we can’t see what’s in that area.
+353) LADYARKHAM
+[alt disdain; talking directly to camera]To the coward, Bruce Wayne...
+354) LADYARKHAM
+[alt]Your father destroyed my family.  So now I’ll destroy what’s left of yours.
+355) LADYARKHAM
+But you’ll never be free of my vengeance.
+356) LADYARKHAM
+So run and try to hide like the coward you are.
+357) LUCIUS
+[alt feeder]What did you find out?
+358) BRUCE
+She’s going to punish him for the Wayne family sins.
+359) BRUCE
+[alt]She’s going to punish him until Bruce Wayne gives himself up.
+360) BRUCE
+Alfred can handle himself.
+361) BRUCE
+We just have to find out where he is.
+362) BRUCE
+This is as bad as it gets.
+363) LUCIUS
+I know how important Alfred is to you, Bruce.
+364) LUCIUS
+You’re not alone here.
+365) LUCIUS
+[more to himself]We have to...
+366) LUCIUS
+I know this is hard on you, Bruce.
+367) LUCIUS
+Losing Alfred like this, it doesn’t get more personal for you.
+369) LUCIUS
+[shocked]{SurpriseA}My {FearA}God....
+371) ALFRED
+[alt]Go to hell.
+372) LADYARKHAM
+If you want to keep your head on your shoulders, he better...
+373) COA01
+[alt]If you want to keep your head on your shoulders, he better...
+374) ALFRED
+[alt]Then I will bear the wrath of Arkham.
+375) LUCIUS
+{ThinkingB}They made that video fast.
+376) LUCIUS
+The more time that passes the harder it will be to find Alfred.
+377) BRUCE
+[ALT][baffled] {ThinkingB}It appears so... and according to its {AngryB}records it has a basement.
+378) LUCIUS
+Where the hell are they?
+379) 
+[ALT] She hit me where i”m most vulnerable.
+380) 
+[ALT] I’m going to make her pay.
+392) 
+Use Alfred to hurt me.
+393) 
+To control Bruce Wayne.
+394) 
+Her own destruction.
+395) 
+It’s a bit flashy.
+396) 
+I love it.
+397) 
+I’d be devastated.
+757) 
+I’d be devastated.
+398) 
+I’d avenge him.
+758) 
+I’d avenge him.
+399) 
+Don’t even ask that.
+759) 
+Don’t even ask that.
+400) 
+He knew the risks.
+401) 
+I don’t have time for guilt.
+402) 
+I feel responsible.
+403) BRUCE
+[ALT]There’s no time to waste.
+404) LUCIUS
+{SkepticalB}It doesn’t protect much more than your {AmusedA}identity, I’m afraid.
+405) LADYARKHAM
+Not until the day I decide to kill you.
+406) LADYARKHAM
+[ALT; old]But you’ll never escape my vengeance.
+407) LADYARKHAM
+I’ll take out on your manservant.
+408) LADYARKHAM
+Hide like the coward you are.
+409) LADYARKHAM
+[alt]So run and hide like the Wayne coward you are.
+410) LADYARKHAM
+Anything I could want from you.
+411) LADYARKHAM
+You’re worthless.
+412) LUCIUS
+[beyond the pale]{FearA}Good {DisgustA}Lord!
+413) LUCIUS
+[how did this happen?]{FearA}Alfred...?
+414) LUCIUS
+Why woulkd Lady Arkham do this to Alfred?
+415) LUCIUS
+What could she possibly hope to achieve?
+416) LUCIUS
+Why would Lady Arkham do this to Alfred?
+417) BRUCE
+She’s trying to punish me.
+418) BRUCE
+Vicki is furious I got out of Arkham Asylum.
+419) BRUCE
+If she can’t punish me directly for my father’s crimes.
+420) BRUCE
+She’ll punish the people I care about.
+421) LUCIUS
+[scary]She’s obsessed.
+422) LUCIUS
+[alt, can’t fathom her actions]To be so warped....
+423) BRUCE
+Vicki thinks she’s keeping me in line.
+424) BRUCE
+[alt extra]That I’ll be at her beck and call now.
+425) BRUCE
+She could have killed me, but instead she put me in Arkham to suffer.
+426) BRUCE
+She not’s done with me yet.
+427) LUCIUS
+[alt]Or she’ insane...
+428) BRUCE
+She has to deal with Batman first.
+429) BRUCE
+So she wants to hold Bruce Wayne in place while she works out her real plans...
+430) BRUCE
+[alt]She has to deal with Gotham first.
+431) BRUCE
+She wants me out of the way, because she not’s done with me yet.
+432) BRUCE
+It doesn’t matter.
+433) BRUCE
+Tonight I put an end to Lady Arkham.
+434) BRUCE
+[the most important]And get Alfred back.
+435) LUCIUS
+She has no idea she’s messing with Batman.
+436) BRUCE
+[alt, badass determined]She will.
+437) TUB
+(kmudle, Fri Sep 30 16:17:42 2016) I don’t care what twisted purpose she thinks this serves.
+438) LUCIUS
+What are we going to do Bruce?
+439) LUCIUS
+[doing the math...]So they made this within twenty eight minutes of the abduction.
+440) LUCIUS
+Twenty three minutes.
+441) BRUCE
+{ThinkingB}Almost anywhere...
+442) BRUCE
+Say three to five minutes to set up the video.
+443) LUCIUS
+[shit...]{FearA}They could be anywhere in Gotham.
+444) BRUCE
+[why he’s the Batman]{ConfusedA}And with his left hand.
+445) LUCIUS
+[catching on] {HappyA}He always does it on a {AmusedA}different part of the room.
+446) LUCIUS
+[genuinely impressed]Very smart...
+447) LUCIUS
+[weird for him too...]I know you’re the Batman, but you’re still a man.
+448) LUCIUS
+What’s happened to Alfred...
+449) LUCIUS
+[cut] In no way is this your fault.
+450) LUCIUS
+I just want you to know...
+451) LUCIUS
+I hope you don’t blame yourself....
+452) LUCIUS
+For Alfred being taken.
+453) LUCIUS
+[alt]For Alfred getting abducted.
+454) LUCIUS
+[heartfelt awkward] Listen Bruce...
+455) LUCIUS
+[alt]For what’s happened to Alfred...
+456) BRUCE
+{AngryB}We’ve got all the data we need.
+457) BRUCE
+{AmusedA}The batcomputer should tell us where they took Alfred.
+458) BRUCE
+Alfred knows the risks...
+459) BRUCE
+[as real as it gets]He believed in The Batman when even I didn’t think it was possible.
+460) LUCIUS
+[Alfred loves you, man]I think Alfred would have helped you no matter what path you chose.
+461) BRUCE
+[he’s my surroaget father figure]I know...
+466) BRUCE
+[back to Batman] I know...
+462) BRUCE
+[might be lying]Even if I did feel guilty, there’s no time.
+463) BRUCE
+I have to get Alfred back.
+464) BRUCE
+That’s the only thing that matters now.
+465) LUCIUS
+[knows how much Alfred means]I’ll help you however I can...
+467) BRUCE
+This is my fault.
+468) BRUCE
+I could have stopped Lady Arkham back at the skyrail.
+469) BRUCE
+If only I had figured out Lady Arkham was Vicki Vale sooner....
+470) BRUCE
+[emotional]Alfred would never have gotten hurt....
+471) LUCIUS
+You cannot beat yourself up.
+472) LUCIUS
+That won’t help us get Alfred back...
+474) LUCIUS
+It’s not your fault...
+475) LUCIUS
+Victoria Arkham is insane.
+476) LUCIUS
+[alt]Lady Arkham is insane....
+477) LUCIUS
+[alt]Vicki Vale is insane....
+478) LUCIUS
+Jesus, how much more of this can he take?
+479) LUCIUS
+[alt]How much more punishment can Alfred take?
+482) LUCIUS
+[doesn’t want to, has to ask...]I just...
+483) LUCIUS
+[uber delicate, hard for him]Batman stands for something...
+484) BRUCE
+[leery]What exactly do you mean Lucius?
+485) LUCIUS
+[hard for him]What if you find Alfred dead?
+486) LUCIUS
+[alt extra]He’s just an old man.
+487) LUCIUS
+Lady Arkham is out of control.
+488) LUCIUS
+She’s clearly in rampage mode.
+493) LUCIUS
+She’s clearly in rampage mode.
+489) LADYARKHAM
+[ALT; old][alt]But you’ll never escape my wrath.
+490) LADYARKHAM
+[alt]But you’ll never escape me...
+491) BRUCE
+[fucking means it]No matter what...
+492) LUCIUS
+She’s out of control.
+494) LUCIUS
+[alt, disgusted]Bastards...
+495) ALFRED
+[alt, scoffs at her]You think Master Bruce would believe anything I say under these conditions?
+496) LADYARKHAM
+[alt, it’s for me]It’s not for him...
+497) BRUCE
+{SkepticalA}Except Alfred is {AngryB}right handed.
+498) LUCIUS
+This isn’t your fault Bruce.
+499) LUCIUS
+Vicki Vale is sick...
+500) BRUCE
+What are you getting at Lucius?
+501) LUCIUS
+What are you going to do?
+502) LUCIUS
+It’s a possibility.
+503) BRUCE
+How could you even ask me that?
+504) BRUCE
+[Batman mode]We’re getting him back alive.
+505) BRUCE
+[do not push me]End of discussion.
+506) LUCIUS
+[realizes he messed up]Bruce, I’m sorry...
+507) LUCIUS
+[abashed]Of course we are.
+508) BRUCE
+If Lady Arkham kills Alfred I’d hunt her to the end of the earth.
+509) BRUCE
+Nothing would stop me from making her pay.
+510) LUCIUS
+[knows he woke the monster]We’ll make sure it doesn’t come to that.
+511) LUCIUS
+I didn’t mean to upset you, Bruce.
+512) LUCIUS
+Sorry I even brought it up.
+513) LUCIUS
+We will find him.
+514) BRUCE
+It would destroy me.
+515) BRUCE
+Alfred has been the one constant in my entire life.
+516) BRUCE
+To lose him like I lost my parents...
+517) BRUCE
+[vunerable]I’m not sure what I would do...
+518) LUCIUS
+We won’t let that happen.
+519) LUCIUS
+{SkepticalB}Well...
+520) LUCIUS
+{HappyA}I have something to help you out.
+521) BRUCE
+{SurpriseA}What is {ConfusedA}that?
+522) LUCIUS
+[ALT; OTN]Since you were able to keep Penguin out of the batcomputer, I had the resources to make some upgrades to your suit.
+523) LUCIUS
+[showmanship]{HappyB}It’s the most advanced version {AmusedA}yet.
+524) LUCIUS
+{SkepticalA}You’ve been long over {AmusedA}due for an upgrade.
+525) LUCIUS
+[can’t help being proud]{HappyA}This suit is beyond state of the art.
+526) BRUCE
+[pleased]{HappyA}Well done, Lucius.
+527) BRUCE
+{AmusedB}This will be a big {SmugA}help.
+528) LUCIUS
+{AmusedA}[ALT]Just try not to break it the first time you wear it.
+529) BRUCE
+{SkepticalB}I don’t {AngryB}know about all these {ConfusedA}glowly bits.
+530) BRUCE
+{AngryB}Batman hides in the shadows, {SkepticalA}he doesn’t illuminate them.
+531) BRUCE
+{SkepticalB}It seems kind of flashy.
+532) LUCIUS
+{HappyA}Besides, the flashy {SkepticalA}means it’s working.
+533) LUCIUS
+{AngryB}Don’t worry.  {AmusedA}There’s a stealth mode.
+534) BRUCE
+[loves it]{HappyB}Wow.{SmugA}
+535) BRUCE
+[impressed]{AmusedA}You’ve really outdone yourself Lucius.
+536) LUCIUS
+[pleased]{AmusedA}Wait till you try it.
+537) LUCIUS
+{AmusedA}I’ve made a few modifications.
+538) LUCIUS
+{AmusedA}Just in case she’s expecting you.
+539) LUCIUS
+{HappyA}I think you’ll approve.
+540) BRUCE
+[fuck...]{AngryA}Great.
+541) BRUCE
+{ConcernedA}We know where Alfred is.
+542) BRUCE
+{AngryB}But I’m without a working Batsuit.
+543) LUCIUS
+You’ll have basic cowl functions back.
+544) LUCIUS
+Holo-Vision and the like.
+545) LUCIUS
+[admittedly]But otherwise it’s quite limited.
+546) LUCIUS
+[matter of fact]It doesn’t protect much more than your identity, I’m afraid.
+547) BATMAN
+[alt, all business]One way or another, this ends tonight.
+548) LADYARKHAM
+[alt, true disdain]Tell your master how much you love him...
+549) ALFRED
+[alt, defiant to Vicki]You have no idea what awaits you...
+550) BRUCE
+Now let’s see what the images in Alfred’s glasses show us.
+551) BRUCE
+[ALT] Alfred knows that with the bat computer I can recreate the room he’s in based solely off the reflection of his glasses.
+552) LUCIUS
+[ALT] And Lady Arkham would have no clue he’s helping you.
+553) BRUCE
+Okay Lucius, freeze frame on the first signal Alfred gives.
+554) LUCIUS
+[hopes this works]Paint us a picture...
+555) BRUCE
+[searching...then]I can see the installation date and manufacturer on the water heater.
+556) LUCIUS
+That should help us narrow things down.
+557) BRUCE
+[impatient]Yeah, but not enough...
+558) BRUCE
+Eberhart construction.
+559) LUCIUS
+[does some digging]Looks like Eberheart was purchased by a rival company in the late 70’s.
+560) DIOR
+Some targets disappear.
+561) BRUCE
+That helps narrow it down considerably.
+562) BRUCE
+[alt]That helps narrow it down.
+563) BRUCE
+There’s a bus stop.
+564) LUCIUS
+That should narrow down our locations considerably.
+565) LUCIUS
+Is that a basement window?
+566) BRUCE
+Zoom in and continue scrubbing.
+567) BRUCE
+Excellent.
+568) BRUCE
+We have to find a way to narrow this down further.
+569) BRUCE
+We have to find other clues.
+570) LUCIUS
+Let’s keep looking...
+607) BRUCE
+Let’s keep looking.
+738) BRUCE
+Let’s keep looking.
+571) BRUCE
+Okay. Looks like we’ve seen all there is to see in this frame.
+889) BRUCE
+Okay. Looks like we’ve seen all there is to see in this frame.
+893) BRUCE
+Okay. Looks like we’ve seen all there is to see in this frame.
+572) BRUCE
+Let’s move on to Alfred’s next signal.
+890) BRUCE
+Let’s move on to Alfred’s next signal.
+892) BRUCE
+Let’s move on to Alfred’s next signal.
+573) LUCIUS
+You got it.
+576) LUCIUS
+You got it.
+599) LUCIUS
+You got it.
+886) LUCIUS
+You got it.
+887) LUCIUS
+You got it.
+891) LUCIUS
+You got it.
+894) LUCIUS
+You got it.
+574) BRUCE
+This isn’t telling us anything.
+575) BRUCE
+Let’s move on.
+581) BRUCE
+Let’s move on.
+751) BRUCE
+Let’s move on.
+577) LUCIUS
+Must be one of the thugs Alfred fought upstairs.
+748) LUCIUS
+Must be one of the thugs Alfred fought upstairs.
+578) BRUCE
+Lady Arkham’s manifesto.
+752) BRUCE
+Lady Arkham’s manifesto.
+579) LUCIUS
+[crazy town]Looks like it was written with a sharpie.
+754) LUCIUS
+[crazy town]Looks like it was written with a sharpie.
+580) BRUCE
+[it’s worthless]This shows her state of mind, not where Alfred is.
+753) BRUCE
+[it’s worthless]This shows her state of mind, not where Alfred is.
+582) BRUCE
+Doesn’t seem to be anything else here.
+745) BRUCE
+Doesn’t seem to be anything else here.
+583) LUCIUS
+[already on it]Moving on...
+585) LUCIUS
+[already on it]Moving on...
+609) LUCIUS
+Moving on...
+749) LUCIUS
+[already on it]Moving on...
+750) LUCIUS
+[already on it]Moving on...
+584) BRUCE
+This isn’t getting anywhere, lets’ keep looking.
+746) BRUCE
+This isn’t getting anywhere, lets’ keep looking.
+586) BRUCE
+Someone guarding the base of the stairs.
+587) LUCIUS
+Looks like a door right above.
+589) LUCIUS
+Residential.
+590) LUCIUS
+But not an apartment building...
+591) BRUCE
+We need to narrow our search more.
+592) BRUCE
+Keep looking for something concrete.
+593) BRUCE
+Nothing else here.
+594) BRUCE
+Next segment.
+595) BRUCE
+Let’s see if there’s anything else.
+596) BRUCE
+Cement walls.
+597) BRUCE
+That’s something, but it’s not enough.
+598) BRUCE
+Jump to Alfred’s next signal.
+885) BRUCE
+Jump to Alfred’s next signal.
+888) BRUCE
+Jump to Alfred’s next signal.
+600) BRUCE
+It’s something.
+601) BRUCE
+Lets see if there’s anything else that’ll help zero in on their location.
+602) BRUCE
+[reads make and model]Zaftig 221
+603) BRUCE
+Using the production date of this make and model, we can eliminate any homes built after.
+604) LUCIUS
+That certainly helps narrow it down, but not by much.
+605) RNOTES
+water heater clue
+
+:
+Let’s keep looking./
+608) BRUCE
+Nothing else to see here.
+610) BRUCE
+We need more clues.
+619) BRUCE
+We need more clues.
+624) BRUCE
+We need more clues.
+632) BRUCE
+We need more clues.
+741) BRUCE
+We need more clues.
+611) LUCIUS
+I’m moving on to Alfred’s next gesture.
+612) BRUCE
+Okay, I think we have enough to pinpoint a location.
+615) BRUCE
+Okay, I think we have enough to pinpoint a location.
+620) BRUCE
+Okay, I think we have enough to pinpoint a location.
+628) BRUCE
+Okay, I think we have enough to pinpoint a location.
+743) BRUCE
+Okay, I think we have enough to pinpoint a location.
+613) LUCIUS
+Let’s hope.
+616) LUCIUS
+Let’s hope.
+621) LUCIUS
+Let’s hope.
+629) LUCIUS
+Let’s hope.
+742) LUCIUS
+Let’s hope.
+614) BRUCE
+Lets see what else we can find.
+617) LUCIUS
+We’re getting closer.
+622) LUCIUS
+We’re getting closer.
+630) LUCIUS
+We’re getting closer.
+740) LUCIUS
+We’re getting closer.
+618) BRUCE
+Yeah, but we’re not there yet.
+623) BRUCE
+Yeah, but we’re not there yet.
+631) BRUCE
+Yeah, but we’re not there yet.
+744) BRUCE
+Yeah, but we’re not there yet.
+625) BRUCE
+A basement window?
+626) LUCIUS
+Can you see through it?
+627) BRUCE
+Give me a second.
+633) BRUCE
+They’re by a bus stop.
+634) LUCIUS
+That will help us immensely.
+635) BRUCE
+{SkepticalA}Lady Arkham thinks she’s dealing with {AmusedA}Bruce Wayne.
+636) BRUCE
+{AngryB}She has no idea she’s dealing with The Batman.
+637) BRUCE
+{ThinkingA}She’d have no idea Alfred’s {ThinkingB}giving us clues.
+638) BRUCE
+{AngryA}This is how we’ll catch her!
+640) LADYARKHAM
+For now your manservant will bear the suffering you deserve.
+641) LADYARKHAM
+[ALT] Just as my parents suffered at the hands of your father.
+642) LADYARKHAM
+[ALT; old]If I can’t find you, I’ll have to settle for making you manservant suffer in your place.
+643) LADYARKHAM
+[alt]A small taste of how the Arkhams suffered due to the Wayne’s tyranny on Gotham.
+644) LUCIUS
+[ALT] How are we going to get Alfred back?
+645) LUCIUS
+How could she have sent this so fast?
+646) LUCIUS
+Is this too personal for Batman to handle?
+647) ALFRED
+[alt, stilted, clearly reading]Thomas Wayne was a criminal and murderer.
+648) ALFRED
+[alt, stilted, clearly reading]He manipulated the judicial system in order to incarcerate innocent people that stood in his way.
+649) ALFRED
+[alt, stilted, clearly reading]He then covered up his actions by silencing those who would stand against him.
+650) ALFRED
+[alt, stilted, clearly reading]Now the son shall pay for the sins of the father...
+651) ALFRED
+[alt, stilted, clearly reading]Now a new day has dawned and the son shall pay for the sins of the father.
+652) LUCIUS
+[worried] {FearA}Alfred looks {SadA}terrible.
+653) LUCIUS
+How much {FearA}more of this can he take?
+654) LUCIUS
+how are we going to find Alfred?
+655) LUCIUS
+What are you going to do when you find Lady Arkham?
+656) BRUCE
+I’m not afraid of a trap.
+657) BRUCE
+She’s expecting Bruce Wayne.  She doesn’t realize she’s dealing with Batman.
+658) BRUCE
+Do I look afraid of a trap?
+659) BRUCE
+[alt]Good.  Then we’ll know we’re on the right trail.
+660) BRUCE
+[alt]Only Alfred matters now.
+661) BRUCE
+[alt]It’s only a trap if you get caught in it.
+662) LUCIUS
+{SkepticalB}Otherwise you can’t go as Batman.
+663) LUCIUS
+{AmusedA}But it helps....
+664) 
+There are always clues
+691) BRUCE
+{AngryB}There are always clues.
+665) 
+We have work to do.
+819) 
+We have work to do.
+666) 
+She’ll make a mistake.
+667) TUBNOTES
+NEW -->
+668) LUCIUS
+[ALT] I don’t like his chances.
+669) 
+He’s tougher than he looks.
+670) 
+We need to work fast.
+671) 
+Don’t despair, Lucius.
+672) LADYARKHAM
+You deserve pain.
+675) LADYARKHAM
+But instead of accepting the fate you deserve, you used bribery and corrupt authority to deny it.
+676) LADYARKHAM
+You deserve suffering.
+677) LADYARKHAM
+You should be rotting in a padded cell.
+678) LADYARKHAM
+[ALT] But instead of accepting the fate you deserve, you used your stolen wealth and influence to deny it.
+679) LADYARKHAM
+Now your butler--
+680) LADYARKHAM
+He’ll know the pain owed to you--and your entire bloodline.
+681) LADYARKHAM
+The pain owed to your bloodline.
+682) LADYARKHAM
+will suffer in your place.
+683) LADYARKHAM
+The man who raised you like his own son--
+684) LADYARKHAM
+[ALT] A line poisoned by Thomas Wayne
+685) LADYARKHAM
+[ALT] With what’s left of the men and women your father wrongly committed.
+686) BRUCE
+Lady Arkham has him.
+687) LUCIUS
+Let’s get him back. Where should we start?
+688) LUCIUS
+We’ll get him back. Where do we start?
+689) LUCIUS
+{ConcernedB}How will we get him back?
+690) LUCIUS
+[agitated] {AngryA}Where do we start?
+692) BRUCE
+This video will tell us more than what Lady Arkham wants.
+693) BRUCE
+{SkepticalA}And no matter how careful Lady {AngryA}Arkham was, she {AngryB}won’t be able to hide them from me.
+694) LUCIUS
+{FearA}[cut] I hope you’re right.
+695) BRUCE
+{AngryA}We have to keep a cool head, {ThinkingA}Lucius.
+696) BRUCE
+{ThinkingB}Worrying isn’t going to help Alfred. We need to {AngryB}focus.
+697) LUCIUS
+[nodding] {AngryA}You’re right. Let’s get started.
+769) LUCIUS
+[nodding] {AngryA}You’re right. Let’s get started.
+698) BRUCE
+{AngryB}Lady Arkham is a fanatic.
+699) BRUCE
+{SkepticalA}And fanatics make mistakes.
+700) BRUCE
+{ThinkingA}We’ll find her {AngryA}weaknesses, and {AngryB}exploit them.
+701) LUCIUS
+{SkepticalB}From where I’m standing, she’s not {AngryA}looking very weak...
+702) LUCIUS
+{ConcernedA}But I trust you.
+704) BRUCE
+Alfred was taken a little less than an hour ago.
+705) BRUCE
+[ALT] I received the video in the last ten minutes.
+706) LUCIUS
+[ALT] He’s looking around a lot...
+707) LUCIUS
+[ALT] Like he’s studying his surroundings...
+708) BRUCE
+[ALT][realizing] He’s mapping out the room.
+709) BRUCE
+[ALT] Giving us a clear reflection of everything in it.
+710) LUCIUS
+[worried] He doesn’t look like he can take much more abuse.
+711) LUCIUS
+[ALT]He’s an old man.
+712) LUCIUS
+{ConcernedA}He can’t recover like you can.
+713) LUCIUS
+{ConcernedB}If they hurt him too badly...
+714) BRUCE
+{AngryB}Alfred is tougher than he looks.
+715) BRUCE
+{ConcernedA}And one of the bravest people I know.
+716) BRUCE
+[ALT; maybe?] He suffered far worse when he served overseas.
+717) LUCIUS
+[ALT; maybe?] I didn’t know he served.
+718) BRUCE
+[ALT; maybe?] He doesn’t talk about it much. It was before he became my family’s butler.
+719) LUCIUS
+[ALT; maybe?] The man does have a remarkable calmness. I always just thought it was was from serving rich people, not from serving in the military.
+720) LUCIUS
+[ALT; maybe?] I’d believe he’s seen some things in his day.
+721) BRUCE
+{ConcernedA}Lucius--I’m worried too--
+722) BRUCE
+{AngryA}But we need to work fast.
+723) LUCIUS
+And we will.
+724) BRUCE
+[ALT] I don’t know.
+725) BRUCE
+[ALT] That’s why we have to work fast.
+726) BRUCE
+{ConcernedA}Lucius--we’re going to find him in time.
+727) BRUCE
+{AngryA}He’ll be okay.
+728) LUCIUS
+{AngryA}I know he will.
+729) LUCIUS
+[ALT][hold the phone] Where she murdered her adoptive parents?
+731) BRUCE
+{AngryB}I have to get there.
+732) BRUCE
+They don’t know who they’re dealing with.
+733) LUCIUS
+{AmusedA}Something I almost didn’t get to finish {SkepticalA}because of Penguin...
+734) LUCIUS
+{HappyA}Upgrades to your suit.
+735) LUCIUS
+[ALT] But since you stopped him...
+736) BRUCE
+[ALT] If I don’t have any other choice...
+737) LUCIUS
+[ALT] I’d tell you if you did.
+760) LUCIUS
+Bruce, I don’t want to come off as callous, but...
+761) LUCIUS
+Alfred’s an old man.
+762) BRUCE
+Your point?
+763) LUCIUS
+He’s tough as nails, don’t get me wrong.
+764) LUCIUS
+But this situation, the torture, Lady Arkham...
+765) LUCIUS
+I just... want you to be mentally prepared.
+766) LUCIUS
+What if you find Alfred... and he’s dead?
+767) LUCIUS
+(TTGConf, Wed Oct 19 10:49:45 2016) We changed the DT and feeders.
+771) 
+It’ll have to do.
+772) 
+That thing?
+773) 
+Agreed. It’s urgent we find him.
+774) LUCIUS
+[PKUP][hopeless] How will we ever find him...
+777) BRUCE
+[PKUP] This video was posted in the last ten minutes.
+778) BRUCE
+[PKUP] Look at that.
+779) LUCIUS
+[PKUP] What is it?
+916) LUCIUS
+[PKUP] What is it?
+780) LUCIUS
+[PKUP] Hmm... you think it means something?
+781) BRUCE
+[PKUP] Let’s find out.
+782) BRUCE
+[PKUP]He’s doing it again. It’s definitely a signal.
+783) LUCIUS
+[PKUP] For what, though?
+784) BRUCE
+[PKUP]He wants me to see something...
+785) BRUCE
+[PKUP]The reflection...
+786) BRUCE
+[PKUP]He’s making sure I see the reflection in his glasses.
+787) BRUCE
+[PKUP]He knows the batcomputer can use multiple reflection angles to recreate the room that he’s in.
+788) LUCIUS
+[PKUP][under breath] Good thinking, Alfred.
+789) BRUCE
+It shouldn’t take long.
+790) BRUCE
+[PKUP] Lady Arkham thinks she holds all the cards.
+791) LUCIUS
+[PKUP] At least you won’t have to worry about Lady Arkham attacking you with drones--I’ve made sure of that.
+792) BRUCE
+[PKUP]He knows the batcomputer can stitch together the reflected images, essentially giving us a picture of the room he’s in.
+793) LUCIUS
+[PKUP]Which means they didn’t leave Gotham.
+794) LUCIUS
+[PKUP][determined]And I’ll figure something out.
+795) LUCIUS
+[ALT][PKUP]Just giving the computer some specifics... there.
+796) LUCIUS
+[ALT][PKUP]Let’s hope so-- we’ve gone through everything.
+797) LUCIUS
+[PKUP]What’s that outside?
+798) LUCIUS
+[PKUP][pleased]There we go.
+799) LUCIUS
+[ALT][PKUP]And Lady Arkham none the wiser. Clever, Alfred.
+800) LUCIUS
+[ALT][PKUP]Here we go...
+801) LUCIUS
+[PKUP][determined, low]No matter what’s there-- you’ll get him back.
+802) LUCIUS
+[PKUP]It doesn’t have all the bells and whistles...
+803) LUCIUS
+[ALT][PKUP]Had to put it on hold when Cobblepot took over at Wayne Enterprises, but now that we’re back online...
+804) BRUCE
+[PKUP][reading the name]Rogers Plumbing... the service company for the water heater.
+805) BRUCE
+[PKUP]I’l
+806) BRUCE
+[PKUP]Last date was
+807) LUCIUS
+[PKUP]Last service date is 11/19, but there’s no year.
+808) BRUCE
+[PKUP]It will still help narrow the search.
+809) BRUCE
+[PKUP]I can use their records to find home addresses for their clients.
+810) BRUCE
+[PKUP]A mason’s stamp.
+811) LUCIUS
+[PKUP]Only one Masonic Lodge in the city: Gotham City Fraternal Order of Stone Masons.
+812) BRUCE
+[PKUP]So the house was built in 1945, by them.
+813) BRUCE
+[PKUP]That’s a big lead.
+814) BRUCE
+[ALT][PKUP]That will help.
+815) LUCIUS
+[PKUP][shocked, upset, a low breath]Alfred.
+816) LUCIUS
+[PKUP][shocked noise]
+817) 
+Vicki will pay for this.
+818) 
+This is my fault, Lucius.
+820) BRUCE
+[PKUP]Alfred is strong.
+821) BRUCE
+[PKUP][regret]I’m responsible for this.
+822) LUCIUS
+[PKUP]Bruce, no. Vicki did this.
+823) BRUCE
+[PKUP]Alfred is paying for the things my family has done.
+824) BRUCE
+[PKUP]This is my responsibility.
+825) BRUCE
+[PKUP]He’ll hold out, but I need to find him.
+826) LUCIUS
+[PKUP][comforting]We’ll find him.
+827) BRUCE
+[PKUP][cold, furious]Vicki will pay for this. I’ll make sure of that.
+828) LUCIUS
+[PKUP][shaken]Bruce--
+829) BRUCE
+[PKUP][hard]No, Lucius. No platitudes.
+830) BRUCE
+[PKUP]Look at what she’s doing to him.
+831) BRUCE
+[PKUP]Mercy is too good for her.
+832) LUCIUS
+[Taking a steadying breath]Alright, well. Then let’s get to work.
+883) LUCIUS
+[Taking a steadying breath]Alright, well. Then let’s get to work.
+833) BRUCE
+[PKUP][cool, focused]Let’s get to work.
+835) LUCIUS
+[PKUP]Tell me what happened.
+839) BRUCE
+{ThinkingA}See what we can find out about this location.
+840) BRUCE
+[ALT; coverage][PKUP][a little shellshocked; reporting the facts] She just posted it...
+841) BRUCE
+[PKUP][annoyed sigh]Dammit.
+842) BRUCE
+[PKUP] A corner store...
+843) BRUCE
+[PKUP] Seems unlikely.
+844) BRUCE
+These are all the homes serviced by this water heater company on the days and months listed.
+845) LUCIUS
+[ALT]A year would be useful.
+846) BRUCE
+[ALT]We’re lucky we have it at all.
+847) BRUCE
+[ALT]It’ll narrow our focus quite a lot.
+848) LUCIUS
+No year?
+849) BRUCE
+Unfortunately, no.
+850) BRUCE
+But it still helps filter our search.
+851) BRUCE
+Okay. Filtering for all homes built on that date.
+852) BRUCE
+[ALT] This gives me the name of the transit agency, but not the stop number.
+853) BRUCE
+This will help pinpoint the neighborhood.
+854) BRUCE
+I can get the bus line from this, but no stop number.
+855) BRUCE
+[ALT][PKUP] Wouldn’t have a basement.
+856) BRUCE
+[PKUP] Bowling Alley.
+857) BRUCE
+[PKUP] He’s wounded.
+858) BRUCE
+[PKUP] Camera from the press conference.
+859) LUCIUS
+AV equipment would be easy for a reporter to get access to.
+860) BRUCE
+[PKUP] Vicki’s a reporter. She’d have no issue getting camera equipment.
+861) BRUCE
+[PKUP] Professional-grade camera. Probably came from the Gazette’s office.
+863) 
+Cowl VR
+864) 
+Child Of Arkham
+865) 
+Camera
+867) 
+Stairs
+868) 
+Water Heater
+871) 
+Masons Stamp
+872) 
+Window
+873) 
+Access.
+874) 
+Access.
+875) 
+Gotham Feed
+876) 
+Codex
+880) 
+Bat Suit [Mark 2]
+882) 
+Bat Suit
+881) 
+Equip.
+884) LUCIUS
+Then let’s get to work.
+900) BRUCE
+[PKUP2] And I can view the virtual image using my cowl.
+901) BRUCE
+[PKUP2] Dammit.
+903) BRUCE
+[PKUP2] Dammit.
+902) BRUCE
+[PKUP2] Still offline.
+904) BRUCE
+[PKUP2] Still offline.
+905) BRUCE
+[ALT][PKUP2] The codex is still offline.
+907) BRUCE
+[ALT][PKUP2] The codex is still offline.
+906) BRUCE
+[ALT][PKUP2] The feed is still offline.
+908) BRUCE
+[ALT][PKUP2] The feed is still offline.
+909) BRUCE
+[PKUP2] Alfred’s trying to look at things that might give us a clue to where he’s being held.
+910) BRUCE
+[PKUP2] Lady Arkham will have no idea what I’ve got up these sleeves…
+911) BRUCE
+[PKUP2][impressed, thinking] Hmph...
+912) BRUCE
+[ALT][PKUP2] And Lady Arkham won’t have any idea what *this* suit is capable of....
+913) BRUCE
+[ALT][PKUP2][cold, furious] Lady Arkham will pay for this. I’ll make sure of that.
+914) 
+Boxes
+917) BRUCE
+[PKUP2][confirming] According to its records it has a basement.
+918) BRUCE
+[PKUP2] Where she killed her foster parents.

@@ -1,0 +1,2386 @@
+﻿1) BRUCE
+Here
+2) ALFRED
+Here
+3) OSWALD
+Here (no dialogue/visible on monitor)
+4) TUB
+(Michael Kirkbride, Fri Jun 10 00:24:54 2016) ...but then Thomas Wayne’s voice booms loud over the speakers.
+5) 
+I trust her.
+6) 
+That’s not important.
+7) 
+We’re all on the same side.
+8) 
+Y
+20) 
+Y
+73) 
+Y
+78) 
+Y
+401) 
+Y
+525) 
+Y
+9) 
+N
+21) 
+N
+80) 
+N
+406) 
+N
+526) 
+N
+10) 
+Give us more time.
+79) 
+Give us more time.
+402) 
+Give us more time.
+530) 
+Give us more time.
+11) 
+That’s a terrible idea.
+399) 
+That’s a terrible idea.
+531) 
+That’s a terrible idea.
+12) 
+I trust your judgment.
+75) 
+I trust your judgment.
+407) 
+I trust your judgment.
+532) 
+I trust your judgment.
+13) TUB
+(Michael Kirkbride, Thu Jun  9 22:58:38 2016) Penguin, donned in tuxedo and plague doctor mask, is acting as emcee on the stage. Mayor Hill and Harvey Dent are standing at their podiums on either side of him, guns to their heads.
+14) 
+Don’t get used to it.
+63) 
+Don’t get used to it.
+334) 
+Don’t get used to it.
+445) 
+Don’t get used to it.
+15) 
+I’m putting my faith in you.
+64) 
+I’m putting my faith in you.
+152) BATMAN
+I’m putting my faith in you.
+433) BATMAN
+I’m putting my faith in you.
+443) 
+I’m putting my faith in you.
+16) 
+Try not to break it.
+65) 
+Try not to break it.
+252) 
+Try not to break it.
+444) 
+Try not to break it.
+650) 
+Try not to break it.
+17) 
+No one else dies.
+58) 
+No one else dies.
+679) 
+No one else dies.
+18) 
+I know that.
+57) 
+I know that.
+19) 
+Don’t think about the odds.
+22) 
+And I know that you killed him.
+23) 
+You finished?
+71) 
+You finished?
+400) 
+You finished?
+521) 
+You finished?
+24) 
+You mean the man you shot?
+70) 
+You mean the man you shot?
+404) 
+You mean the man you shot?
+533) 
+You mean the man you shot?
+25) 
+I need you to trust me.
+69) 
+I need you to trust me.
+405) 
+I need you to trust me.
+522) 
+I need you to trust me.
+26) 
+I heard what happened.
+68) 
+I heard what happened.
+403) 
+I heard what happened.
+523) 
+I heard what happened.
+27) 
+You’ll do fine.
+66) 
+You’ll do fine.
+398) 
+You’ll do fine.
+524) 
+You’ll do fine.
+28) 
+He’s insane.
+59) 
+He’s insane.
+29) 
+I don’t like where this is going.
+56) 
+I don’t like where this is going.
+30) 
+I’m tuning him out.
+31) 
+I underestimated him.
+32) 
+Friend of yours?
+62) 
+Friend of yours?
+33) 
+What’s with the get up?
+34) 
+Smart ass.
+35) 
+It’s almost refreshing.
+36) 
+It’s political suicide.
+37) 
+Time to up your game.
+60) 
+Time to up your game.
+630) 
+Time to up your game.
+38) 
+I’ve got this under control.
+39) 
+Storm the building and people die.
+40) 
+Things just got worse.
+41) TUB
+(Michael Kirkbride, Fri Jun 17 02:15:15 2016) Catwoman-- They’re obviously not onsite.
+42) TUB
+(Michael Kirkbride, Fri Jun 10 00:25:45 2016) On stage, above the cacophany, Penguin motions to the projection booth and uses his umbrella as a microphone--
+43) 
+I know you can do it.
+54) 
+I know you can do it.
+629) 
+I know you can do it.
+44) 
+Fine, then leave it to me.
+53) 
+Fine, then leave it to me.
+245) BATMAN
+Fine. Then leave it to me.
+617) BATMAN
+Fine. Then leave it to me.
+628) 
+Fine, then leave it to me.
+45) 
+Things keep getting worse.
+61) 
+Things keep getting worse.
+46) 
+Be quiet!
+47) 
+He’s dead.
+48) SELINASTUB
+(Michael Kirkbride, Fri Jun 17 22:55:22 2016) BLAM BLAM BLAM
+49) BATMAN
+Jim. Anything out of the ordinary?
+50) MONTOYA
+Batman.
+385) MONTOYA
+Batman.
+477) MONTOYA
+Batman.
+763) PENGUIN
+Batman!?!
+930) GORDON
+[greeting; startled] Batman.
+51) BATMAN
+Montoya.
+52) MONTOYA
+Batman. Listen, I know Gordon trusts you... (something about how that doesn’t extend to her)
+55) 
+Neither did I.
+67) 
+We make mistakes, people die.
+72) 
+The night where a cop shot me?
+410) 
+The night where a cop shot me?
+529) 
+The night where a cop shot me?
+74) 
+Just hold the perimeter.
+76) 
+That’s not important right now.
+409) 
+That’s not important right now.
+527) 
+That’s not important right now.
+77) 
+She’s making up for it.
+408) 
+She’s making up for it.
+528) 
+She’s making up for it.
+81) MONTOYA
+Listen, I know Gordon trusts you.
+82) MONTOYA
+Listen, I know you and Lieutenant Gordon have some kind of special trust... but I have my doubts about working with you.
+386) MONTOYA
+Listen, I know you and Lieutenant Gordon have some kind of special trust... but I have my doubts about working with you.
+476) MONTOYA
+Listen, I know you and Lieutenant Gordon have some kind of special trust... but I have my doubts about working with you.
+83) MONTOYA
+Especially after what you did to Falcone at the Skyline.
+387) MONTOYA
+Especially after what you did to Falcone at the Skyline.
+475) MONTOYA
+Especially after what you did to Falcone at the Skyline.
+84) BATMAN
+You really want to bring up Falcone? After you shot him in his hospital bed?
+395) BATMAN
+You really want to bring up Falcone? After you shot him in his hospital bed?
+468) BATMAN
+You really want to bring up Falcone? After you shot him in his hospital bed?
+85) MONTOYA
+H-how did you...?
+396) MONTOYA
+H-how did you...?
+470) MONTOYA
+H-how did you...?
+86) BATMAN
+Not important. Keep your head in the game, Detective. There are lives at stake.
+397) BATMAN
+Not important. Keep your head in the game, Detective. There are lives at stake.
+508) BATMAN
+Not important. Keep your head in the game, Detective. There are lives at stake.
+87) BATMAN
+Whenever you’re finished handing out judgment, we have people to save.
+390) BATMAN
+Whenever you’re finished handing out judgment, we have people to save.
+464) BATMAN
+Whenever you’re finished handing out judgment, we have people to save.
+88) MONTOYA
+It’s no surprise most of the cops are afraid of you.
+389) MONTOYA
+It’s no surprise most of the cops are afraid of you.
+467) MONTOYA
+It’s no surprise most of the cops are afraid of you.
+89) BATMAN
+Keep your head in the game, Detective. There are lives at stake.
+391) BATMAN
+Keep your head in the game, Detective. There are lives at stake.
+465) BATMAN
+Keep your head in the game, Detective. There are lives at stake.
+90) MONTOYA
+Impaling him on that reinforced bar... you took it too far.
+388) MONTOYA
+Impaling him on that reinforced bar... you took it too far.
+466) MONTOYA
+Impaling him on that reinforced bar... you took it too far.
+91) MONTOYA
+Batman. I know Lieutenant Gordon is usually the one that, you know, handles the meetings.
+373) MONTOYA
+Batman. I know Lieutenant Gordon is usually the one that, you know, handles the meetings.
+509) MONTOYA
+Batman. I know Lieutenant Gordon is usually the one that, you know, handles the meetings.
+92) MONTOYA
+He... he can’t be here tonight, so I’m...
+374) MONTOYA
+He... he can’t be here tonight, so I’m...
+510) MONTOYA
+He... he can’t be here tonight, so I’m...
+93) BATMAN
+If we’re going to work together, you need to trust me.
+392) BATMAN
+If we’re going to work together, you need to trust me.
+463) BATMAN
+If we’re going to work together, you need to trust me.
+94) BATMAN
+This partnership doesn’t work without it.
+393) BATMAN
+This partnership doesn’t work without it.
+462) BATMAN
+This partnership doesn’t work without it.
+95) CATWOMAN
+I found a way to get inside without being seen.
+96) MONTOYA
+[to Batman] She’s the one who broke into the mayor’s office --
+341) MONTOYA
+[to Batman] She’s the one who broke into the mayor’s office --
+498) MONTOYA
+[to Batman] She’s the one who broke into the mayor’s office --
+97) BATMAN
+The same night one of your men shot me in the back?
+360) BATMAN
+The same night one of your men shot me in the back?
+485) BATMAN
+The same night one of your men shot me in the back?
+98) CATWOMAN
+[Oh snap] Meow. Watch out for those claws.
+361) CATWOMAN
+[Oh snap] Meow. Watch out for those claws.
+488) CATWOMAN
+[Oh snap] Meow. Watch out for those claws.
+99) BATMAN
+I think she’s mending her ways.
+100) CATWOMAN
+No I haven’t.
+101) BATMAN
+The break-in isn’t important.  Protecting the debate is.
+102) MONTOYA
+Easier said than done. But I’ll try for the sake of the hostages.
+394) MONTOYA
+Easier said than done. But I’ll try for the sake of the hostages.
+461) MONTOYA
+Easier said than done. But I’ll try for the sake of the hostages.
+103) BATMAN
+I know about the mess with Jim and Falcone.
+382) BATMAN
+I know about the mess with Jim and Falcone.
+513) BATMAN
+I know about the mess with Jim and Falcone.
+104) BATMAN
+Keep your secrets, Detective. Jim knows what he’s doing.
+384) BATMAN
+Keep your secrets, Detective. Jim knows what he’s doing.
+515) BATMAN
+Keep your secrets, Detective. Jim knows what he’s doing.
+105) BATMAN
+Don’t worry, Detective. You’ll make Jim proud.
+377) BATMAN
+Don’t worry, Detective. You’ll make Jim proud.
+516) BATMAN
+Don’t worry, Detective. You’ll make Jim proud.
+106) BATMAN
+He starts by telling me what I need to know about the situation.
+379) BATMAN
+He starts by telling me what I need to know about the situation.
+518) BATMAN
+He starts by telling me what I need to know about the situation.
+107) BATMAN
+We can work on the rapport later.
+380) BATMAN
+We can work on the rapport later.
+519) BATMAN
+We can work on the rapport later.
+108) MONTOYA
+Understood.
+381) MONTOYA
+Understood.
+520) MONTOYA
+Understood.
+109) MONTOYA
+I hope you’re right.
+378) MONTOYA
+I hope you’re right.
+517) MONTOYA
+I hope you’re right.
+110) MONTOYA
+I’m standing in for him.
+375) MONTOYA
+I’m standing in for him.
+511) MONTOYA
+I’m standing in for him.
+111) MONTOYA
+It doesn’t feel right to me, either.
+376) MONTOYA
+It doesn’t feel right to me, either.
+512) MONTOYA
+It doesn’t feel right to me, either.
+112) CATWOMAN
+Really? You’re going to drag out that dead horse?
+342) CATWOMAN
+Really? You’re going to drag out that dead horse?
+497) CATWOMAN
+Really? You’re going to drag out that dead horse?
+113) GORDON
+What’s she doing here?
+343) MONTOYA
+What’s she doing here?
+506) MONTOYA
+What’s she doing here?
+114) BATMAN
+I’d say that was more important.
+115) MONTOYA
+Over thirty hostages, including Mayor Hill and DA Harvey Dent. The perps, calling themselves the Children of Arkham, are heavily armed and organized, but the GCPD has no idea how many of them there are.
+116) MONTOYA
+It ain’t looking good.
+117) GORDON
+We got at least thirty hostages, including Mayor Hill and Harvey Dent.
+344) MONTOYA
+We got at least thirty hostages, including Mayor Hill and Harvey Dent.
+507) MONTOYA
+We got at least thirty hostages, including Mayor Hill and Harvey Dent.
+118) GORDON
+The perps are armed and organized -- we don’t have an exact numb--
+345) MONTOYA
+The perps are armed and organized -- we don’t have an exact numb--
+501) MONTOYA
+The perps are armed and organized -- we don’t have an exact numb--
+119) MONTOYA
+But the GCPD has no idea how many of them there are.
+120) CATWOMAN
+Ten in the main hall, six in the back covering the exit.
+346) CATWOMAN
+Ten in the main hall, six in the back covering the exit.
+503) CATWOMAN
+Ten in the main hall, six in the back covering the exit.
+121) GORDON
+[awed; suspicious] How do you know that?
+347) MONTOYA
+[awed; suspicious] How do you know that?
+504) MONTOYA
+[awed; suspicious] How do you know that?
+122) BATMAN
+Nevermind. We’ll take it from here, Lieutenant.
+123) CATWOMAN
+You should be thrilled.
+124) MONTOYA
+Just keep a lid on the mutiliation. If you pull that shit again, the GCPD can’t have your back.
+125) BATMAN
+I’ll do what needs to be done.
+126) MONTOYA
+If you pull that shit again tonight, you and the GCPD are finished.
+127) BATMAN
+We don’t have time for this.
+128) MONTOYA
+We don’t, but if you pull that shit again tonight, you and the GCPD are done.
+129) GORDON
+[worried] I can buy you about ten minutes. After that, we’re storming the building.
+130) CATWOMAN
+You don’t want to do that. You come rushing in, everyone will die.
+131) MONTOYA
+Thirty minutes. And that’s assuming things don’t go pear-shaped.
+132) MONTOYA
+In the meantime - what can I do to help?
+133) BATMAN
+Not much of a window.
+134) GORDON
+With the mayor in there it’s as wide as it’s going to get.
+135) BATMAN
+You come charging in, people are going to die.
+136) BATMAN
+It’s risky, but I trust you to make the right call.
+356) BATMAN
+It’s risky, but I trust you to make the right call.
+491) BATMAN
+It’s risky, but I trust you to make the right call.
+137) BATMAN
+Sounds like a vote for Dent, Lieutenant.
+138) GORDON
+We are seriously underfunded at the GCPD.
+352) MONTOYA
+We are *seriously* underfunded at the GCPD.
+493) MONTOYA
+We are *seriously* underfunded at the GCPD.
+139) CATWOMAN
+Oh, Batman. You’re letting me play with your toys?
+447) CATWOMAN
+Oh, Batman. You’re letting me play with your toys?
+140) BATMAN
+Memorize their positions. We have to act quickly.
+446) BATMAN
+Memorize their positions. We have to act quickly.
+141) MONTOYA
+[to herself; of Catwoman] Not bad.
+350) MONTOYA
+[to herself; of Catwoman] Not bad.
+490) MONTOYA
+[to herself; of Catwoman] Not bad.
+142) GORDON
+Damn. You guys got all the gadgets, huh...
+351) MONTOYA
+Damn. You guys got all the gadgets, huh...
+489) MONTOYA
+Damn. You guys got all the gadgets, huh...
+143) PENGUIN
+Apologies, ladies and gents. As you might have guessed, there’s been a change to tonight’s program.
+460) PENGUIN
+Apologies, ladies and gents. As you might have guessed, there’s been a change to tonight’s program.
+144) PENGUIN
+First up, firing the moderator.
+145) PENGUIN
+First up, firing the moderator
+146) PENGUIN
+First order of business -- firing the moderator.
+147) PENGUIN
+-- firing the moderator.
+1192) PENGUIN
+-- firing the moderator.
+148) PENGUIN
+First order of business --
+1190) PENGUIN
+First order of business --
+149) SIRTUB
+(Michael Kirkbride, Thu Jun 16 00:13:12 2016) Batman-- Just try not to break it.
+150) BATMAN
+Just try not to break it.
+151) BATMAN
+This partner thing -- it’s got its perks.
+153) BATMAN
+It’s a one time thing.  Don’t get used to it.
+196) BATMAN
+It’s a one time thing. Don’t get used to it.
+439) BATMAN
+It’s a one time thing. Don’t get used to it.
+638) BATMAN
+It’s a one time thing. Don’t get used to it.
+154) CATWOMAN
+And here I thought you were starting to let your guard down.
+197) CATWOMAN
+And here I thought you were starting to let your guard down.
+440) CATWOMAN
+And here I thought you were starting to let your guard down.
+647) CATWOMAN
+And here I thought you were starting to let your guard down.
+155) 
+
+201) 
+
+202) 
+
+250) 
+
+254) 
+
+266) 
+
+333) 
+
+535) ESTHER
+[anguished cry as sanity breaks]
+606) 
+
+666) ESTHER
+[anguished cry as sanity breaks]
+732) 
+
+770) 
+
+774) 
+[Save Selina]
+775) 
+[Save Harvey]
+857) CATWOMAN
+[startled gasp]
+885) 
+
+888) PENGUIN
+[grunt of violent exertion]
+893) 
+
+895) VICKI
+[gasps as she’s shoved and falls]
+909) ESTHER
+[anguished cry as sanity breaks]
+920) 
+
+921) 
+
+949) ESTHER
+[begging; ALT]
+1035) PENGUIN
+[PICKUP]
+1075) VICKI
+[gasp as she gets yanked up]
+1084) LADYARKHAM
+[modulated]
+1092) 
+
+1093) 
+
+156) CATWOMAN
+These guys are armed to the teeth.
+677) CATWOMAN
+These guys are armed to the teeth.
+682) CATWOMAN
+[awed] These guys are armed to the teeth.
+1187) CATWOMAN
+[awed] These guys are armed to the teeth.
+157) BATMAN
+One step at a time.
+158) BATMAN
+That’s what faith is.
+159) CATWOMAN
+Sweet. What makes you sure I won’t cut and run?
+442) CATWOMAN
+Sweet. What makes you sure I won’t cut and run?
+160) BATMAN
+I said I had faith, not certainy. Don’t let me down.
+441) BATMAN
+I said I had faith, not certainy. Don’t let me down.
+161) CATWOMAN
+[dismayed] I hate to be a downer, but not everyone’s getting out alive.
+678) CATWOMAN
+[dismayed] I hate to be a downer, but not everyone’s getting out alive.
+162) CATWOMAN
+This partner thing -- I could get used to it.
+255) CATWOMAN
+This partner thing -- I could get used to it.
+434) CATWOMAN
+This partner thing -- I could get used to it.
+438) CATWOMAN
+This partner thing -- I could get used to it.
+163) CATWOMAN
+This isn’t a jewel heist. Or a simple stick up.
+164) CATWOMAN
+The Children are disciplined. They’re soldiers.
+675) CATWOMAN
+The Children are disciplined. They’re soldiers.
+165) CATWOMAN
+This is no simple stick up.
+674) CATWOMAN
+This is no simple stick up.
+166) PENGUIN
+In the left corner-- hard of heart, soft in gut-- our down and dirty incumbent, Mayor Hill!
+432) PENGUIN
+In the left corner-- hard of heart, soft in gut-- our down and dirty incumbent, Mayor Hill!
+167) PENGUIN
+And in the right -- a man whose always smiling to your face - our despicable District Attorney, Harvey Dent!
+428) PENGUIN
+And in the right -- a man whose always smiling to your face - our despicable District Attorney, Harvey Dent!
+168) PENGUIN
+I can tell by your applause you feel sooo much love for these two gentlemen.
+429) PENGUIN
+I can tell by your applause you feel sooo much love for these two gentlemen.
+169) PENGUIN
+[regretful] He just didn’t have a head for the issues.
+1188) PENGUIN
+[regretful] He just didn’t have a head for the issues.
+170) BATMAN
+Here. Take this.
+171) CATWOMAN
+Uh... thanks Batman. But I can take care of myself.
+172) HILL
+I know who you are-- and-- and what you want...
+431) HILL
+I know who you are-- and-- and what you want...
+173) PENGUIN
+Save it for the opening statements.
+430) PENGUIN
+Save it for the opening statements.
+174) HARVEY
+Birdmask guy-- whatever your name is--
+427) HARVEY
+Birdmask guy-- whatever your name is--
+451) HARVEY
+Bird mask guy-- whatever your name is--
+175) PENGUIN
+Play then, and we’ll see.  Coin toss.  Heads --
+421) PENGUIN
+Play then, and we’ll see.  Coin toss.  Heads --
+455) PENGUIN
+Play then, and we’ll see.  Coin toss.  Heads --
+176) BATMAN
+Don’t let the odds get to your head, you’ll make mistakes.
+177) BATMAN
+You’ll make mistakes, and those mistakes will cost lives.
+178) BATMAN
+You’re right. The odds are against it.
+179) BATMAN
+There are going to be casualties. It’s just a question of how many.
+667) BATMAN
+There are going to be casualties. It’s just a question of how many.
+180) CATWOMAN
+You really know how to pep a girl up.
+251) CATWOMAN
+You really know how to pep a girl up.
+181) BATMAN
+They’re going to--
+182) CATWOMAN
+[VO, over comms] Don’t worry -- they’re not getting away.
+183) BATMAN
+If we’re quick and incisive, no one else has to die.
+184) CATWOMAN
+If you say so. But Penguin’s playing for keeps.
+671) CATWOMAN
+If you say so. But Penguin’s playing for keeps.
+185) BATMAN
+Fanatics always do.
+672) BATMAN
+Fanatics always do.
+186) PENGUIN
+A few debate rules.
+187) CATWOMAN
+[in earpiece] Tangos down. Making my way back to you.
+188) CATWOMAN
+Are you listening to this stuff? He’s off the rails.
+189) MONTOYA
+I... It wasn’t...
+383) MONTOYA
+I... It wasn’t...
+514) MONTOYA
+I... It wasn’t...
+190) CATWOMAN
+[ALT; more detail] There’s a drop down into the loading bay.
+191) CATWOMAN
+I’d keep that holstered if I were you.
+340) CATWOMAN
+I’d keep that [gun] holstered if I were you.
+469) CATWOMAN
+I’d keep that [gun] holstered if I were you.
+192) GORDON
+And double the trouble from the looks of it.
+372) MONTOYA
+And double the trouble from the looks of it.
+483) MONTOYA
+And double the trouble from the looks of it.
+193) BATMAN
+We’re all on the same side, Jim.
+194) BATMAN
+Let’s focus on the problem at hand.
+364) BATMAN
+Let’s focus on the problem at hand.
+479) BATMAN
+Let’s focus on the problem at hand.
+195) PENGUIN
+Goes --
+422) PENGUIN
+Goes --
+459) PENGUIN
+Goes --
+198) BATMAN
+I’m not an idiot.
+199) PENGUIN
+First.
+424) PENGUIN
+First.
+458) PENGUIN
+First.
+1072) 
+First
+1073) 
+First
+200) CATWOMAN
+That has to be a good sign.
+435) CATWOMAN
+That has to be a good sign.
+646) CATWOMAN
+That has to be a good sign.
+203) GORDON
+Then you better move quickly, because my hands are tied.
+355) MONTOYA
+Then you better move quickly, because my hands are tied.
+496) MONTOYA
+Then you better move quickly, because my hands are tied.
+204) GORDON
+I’ll try and give you as much time as possible.
+357) MONTOYA
+I’ll try and give you as much time as possible.
+492) MONTOYA
+I’ll try and give you as much time as possible.
+205) GORDON
+I just hope the ends justify the means.
+370) MONTOYA
+I just hope the ends justify the means.
+481) MONTOYA
+I just hope the ends justify the means.
+206) GORDON
+[cowed] I didn’t order that...
+207) CATWOMAN
+Nonsense. The only error I made was letting you get in my way.
+208) CATWOMAN
+There’s a drop down into the loading bay. We can get inside there without being seen.
+339) CATWOMAN
+There’s a drop down into the loading bay. We can get inside there without being seen.
+500) CATWOMAN
+There’s a drop down into the loading bay. We can get inside there without being seen.
+209) CATWOMAN
+He’s right, Lieutenant. I don’t do the bad things any more.
+210) CATWOMAN
+[suggestive] Unless it’s on request.
+367) CATWOMAN
+Unless it’s on request.
+472) CATWOMAN
+Unless it’s on request.
+739) CATWOMAN
+Unless it’s on request.
+211) BATMAN
+Can we focus on the problem at hand?
+368) BATMAN
+Can we focus on the problem at hand?
+471) BATMAN
+Can we focus on the problem at hand?
+212) BATMAN
+What’s the status?
+213) PENGUIN
+Call me Penguin.
+425) PENGUIN
+Call me Penguin.
+448) PENGUIN
+Call me Penguin.
+214) HARVEY
+Penguin then. We’ll play your game-- just, please, let these people out of here.
+423) HARVEY
+Penguin then. We’ll play your game-- just, please, let these people out of here.
+215) PENGUIN
+Rule one! Talk when I say talk. Shut your gob when I say shut your gob. Easy.
+216) PENGUIN
+Rule two! Scratching, biting and kicking each other in the nads are all encouraged.
+217) BATMAN
+I hear him. And I don’t like where he’s headed.
+224) BATMAN
+I hear him. And I don’t like where he’s headed.
+218) BATMAN
+[to one of the reporters] Keep your heads down. Make for the police line.
+219) BATMAN
+I won’t let that happen.
+559) BATMAN
+I won’t let that happen.
+220) CATWOMAN
+With those theatrics --
+225) CATWOMAN
+With those theatrics --
+230) CATWOMAN
+With those theatrics --
+943) CATWOMAN
+With those theatrics --
+221) CATWOMAN
+I don’t think we’re going to hear a list of demands, if you know what I mean.
+226) CATWOMAN
+I don’t think we’re going to hear a list of demands, if you know what I mean.
+231) CATWOMAN
+I don’t think we’re going to hear a list of demands, if you know what I mean.
+944) CATWOMAN
+I don’t think we’re going to hear a list of demands, if you know what I mean.
+222) BATMAN
+Agreed. Hill and Dent aren’t hostages. They’re props in Penguin’s show.
+232) BATMAN
+Agreed. Hill and Dent aren’t hostages. They’re props in Penguin’s show.
+223) BATMAN
+There’s no trace of the Oswald I knew. He’s lost his mind.
+227) BATMAN
+Hill and Dent aren’t hostages. They’re props in Penguin’s show.
+228) BATMAN
+I might have underestimated his... commitment.
+229) BATMAN
+I knew he was dangerous, but not like this...
+233) CATWOMAN
+Power routes. Sprinkler system. Security doors--
+621) CATWOMAN
+Power routes. Sprinkler system. Security doors--
+234) BATMAN
+Find a way to disable this lockdown. We need those doors open.
+620) BATMAN
+Find a way to disable this lockdown. We need those doors open.
+235) CATWOMAN
+My thing is breaking in to places, not busting out of them.
+627) CATWOMAN
+My thing is breaking in to places, not busting out of them.
+236) HOSTAGE01
+[grateful; relieved] Thanks, Batman. God-- God bless you.
+237) BATMAN
+Think of it as on the job training.
+622) BATMAN
+Think of it as on the job training.
+238) PENGUIN
+Even if it hurts.
+239) PENGUIN
+If you lie, Penguin will know. He can see into your fibbin’ heart.
+240) PENGUIN
+Questions! Ask them questions!
+241) VICKI
+[frightened; attempting professionalism] Um... ok... Mr. Dent, the... the subject on everyone’s mind is the new Wayne Mental Health Facility...
+242) BATMAN
+I know you can handle it.
+618) BATMAN
+I know you can handle it.
+243) BATMAN
+Just in case.
+244) BATMAN
+Just in case.
+615) BATMAN
+Just in case.
+623) BATMAN
+Just in case.
+246) IR
+(Michael Kirkbride, Sat Jun 18 00:00:51 2016) He holds up his handscanner towards the wall. The eyes of his mask start pulsing at he pulls down tactical data.
+247) PENGUIN
+And now a word from our sponsor.
+248) THOMAS
+[recorded] Subject Nine...
+249) THOMAS
+...and committed to Arkham indefinitely as a ward of the state.
+253) BATMAN
+Try to keep it in one piece.
+436) BATMAN
+Try to keep it in one piece.
+640) BATMAN
+Try to keep it in one piece.
+256) PENGUIN
+Rule three! Always, always tell the truth. Even if it hurts. It’ll hurt worse if you don’t.
+257) PENGUIN
+And he’ll punish the bollocks out of you.
+258) HARVEY
+Uh... the facility. Of course --
+259) PENGUIN
+I told you I want the truth! Not that sterile on-message rubbish!
+260) MONTOYA
+[earpiece]Batman, the brass is pushing for us to make a move.
+616) MONTOYA
+[earpiece]Batman, the brass is pushing for us to make a move.
+631) MONTOYA
+[earpiece]Batman, the brass is pushing for us to make a move.
+635) GORDON
+[earpiece]Batman, the brass is pushing for us to make a move.
+652) MONTOYA
+[earpiece]Batman, the brass is pushing for us to make a move.
+261) BATMAN
+Hold them off. Your men aren’t prepped for a siege.
+624) BATMAN
+Hold them off. Your men aren’t prepped for a siege.
+653) BATMAN
+Hold them off. Your men aren’t prepped for a siege.
+262) MONTOYA
+[earpiece]   So help me out with that.
+626) MONTOYA
+[earpiece]   So help me out with that.
+633) MONTOYA
+[earpiece]   So help me out with that.
+636) GORDON
+[earpiece]   So help me out with that.
+654) MONTOYA
+[earpiece]   So help me out with that.
+263) BATMAN
+Let me see what I can do.
+619) BATMAN
+Let me see what I can do.
+634) BATMAN
+Let me see what I can do.
+655) BATMAN
+Let me see what I can do.
+264) BATMAN
+Montoya, sending you feeds from inside the building.
+625) BATMAN
+Montoya, sending you feeds from inside the building.
+265) MONTOYA
+[earpiece] We’re receiving. I’ll keep my men back until--
+614) MONTOYA
+[earpiece] We’re receiving. I’ll keep my men back until--
+657) MONTOYA
+[earpiece] We’re receiving. I’ll keep my men back until--
+658) GORDON
+[earpiece] We’re receiving. I’ll keep my men back until--
+267) BATMAN
+I knew this was too big for Oswald alone. Someone else is pulling the strings.
+268) DENT
+[calling it] Heads.
+426) DENT
+[calling it] Heads.
+457) HARVEY
+[calling it; scared] Heads.
+269) LADYARKHAM
+[modulated] My downtrodden brothers and sisters of Gotham.
+270) LADYARKHAM
+[modulated] We are the Children of Arkham.
+271) LADYARKHAM
+It is time you learned the truth.
+272) CATWOMAN
+[admiring] Smart. Let someone else do the dirty work.
+273) BATMAN
+[thoughtful] Too risky to trace the transmission. We could give up that we’re here.
+274) BATMAN
+Did you ever meet the guy on the screen?
+275) CATWOMAN
+[admiring] Nope. Smart to let someone else do your dirty work.
+276) CATWOMAN
+And from somewhere offsite too.
+285) CATWOMAN
+And fromsomewhere offsite too.
+277) TUB
+(Michael Kirkbride, Fri Jun 17 02:06:27 2016) Batman says it’s too risky to try and trace the transmission’s source. It might give up that he and Catwoman are inside the theater.
+278) BATMAN
+[thoughtful] Too risky to trace the source of the transmission. We might expose that we’re here.
+279) 
+Things are getting worse.
+280) BATMAN
+This is spiralling out of control -- they have no idea about the man behind the mask.
+281) BATMAN
+I don’t have files on whoever’s behind the mask.
+282) CATWOMAN
+It seems like they’re offsite.
+283) BATMAN
+[thoughtful] Too risky to trace the source of the transmission. We could give up that we’re here.
+284) CATWOMAN
+[admiring] Whoever it is, they’re smart. Let someone else get their hands dirty.
+286) HILL
+If you ask me, the real problem with this city is the poor --
+287) HILL
+If I had my way, we’d round up every homeless person in the city and burn them. Use their ashes to fertilize the park.
+575) HILL
+If I had my way, we’d round up every homeless person in the city and burn them. Use their ashes to fertilize the park.
+584) HILL
+If I had my way, we’d round up every homeless person in the city and burn them. Use their ashes to fertilize the park.
+288) HILL
+Lazy degenerates waiting for handouts because they can’t be bothered to get a damn job.
+308) HILL
+Lazy degenerates waiting for handouts because they can’t be bothered to get a damn job.
+574) HILL
+Lazy degenerates waiting for handouts because they can’t be bothered to get a damn job.
+595) HILL
+Lazy degenerates waiting for handouts because they can’t be bothered to get a damn job.
+602) HILL
+Lazy degenerates waiting for handouts because they can’t be bothered to get a damn job.
+289) LADYARKHAM
+[modulated] For too long, the rich and powerful have lulled you to sleep with their lies.
+290) LADYARKHAM
+Look into the hearts of these spineless creatures -- chosen to lead.
+566) LADYARKHAM
+Look into the hearts of these spineless creatures -- chosen to lead.
+587) LADYARKHAM
+Look into the hearts of these spineless creatures -- chosen to lead.
+597) LADYARKHAM
+[to Audience] Look into the hearts of these spineless creatures, chosen to lead.
+291) LADYARKHAM
+Their true selves are a horror to behold.
+292) LADYARKHAM
+Tell the people of Gotham how you really feel!
+293) TUB
+(Michael Kirkbride, Fri Jun 17 02:21:35 2016) Batman-- It’s political suicide. And Harvey is next.
+294) CATWOMAN
+Woah...
+567) CATWOMAN
+Woah...
+596) CATWOMAN
+Woah...
+601) CATWOMAN
+Woah...
+295) BATMAN
+This is political armeggedon. [worried] And Harvey’s next.
+563) BATMAN
+This is political armeggedon. [worried] And Harvey’s next.
+593) BATMAN
+This is political armeggedon. [worried] And Harvey’s next.
+296) LADYARKHAM
+And you, Mr. Dent? What makes you think you deserve the public trust?
+297) HARVEY
+[trying to resist the drug]   You really want to hear what I think?
+569) HARVEY
+[trying to resist the drug]   You really want to hear what I think?
+586) HARVEY
+[trying to resist the drug]   You really want to hear what I think?
+608) HARVEY
+[trying to resist the drug]   You really want to hear what I think?
+298) BATMAN
+You don’t know me very well.
+437) BATMAN
+You don’t know me very well.
+648) BATMAN
+You don’t know me very well.
+299) CATWOMAN
+[fearing the worse] Oh no, Harvey...
+570) CATWOMAN
+[fearing the worse] Oh no, Harvey...
+581) CATWOMAN
+[fearing the worse] Oh no, Harvey...
+609) CATWOMAN
+[fearing the worse] Oh no, Harvey...
+300) BATMAN
+Montoya, get ready to move in.
+547) BATMAN
+Montoya, get ready to move in.
+686) BATMAN
+Montoya, get ready to move in.
+301) PENGUIN
+So this is for her.
+552) PENGUIN
+So this is for her.
+691) PENGUIN
+So this is for her.
+302) PENGUIN
+Where’s your mate, Bruce Wayne? Your biggest supporter, and he didn’t even turn up?
+303) PENGUIN
+Renounce Bruce Wayne and I’ll let you live.
+557) PENGUIN
+Renounce Bruce Wayne and I’ll let you live.
+304) PENGUIN
+[enraged] Admit it!
+305) IR
+(James Windeler, Tue Jun 21 07:18:25 2016) Penguin turns his attention to Dent.
+306) HARVEY
+Gotham is flawed, sure. What city isn’t? It’s flaws are what make it beautiful.
+577) HARVEY
+Gotham is flawed, sure. What city isn’t? It’s flaws are what make it beautiful.
+588) HARVEY
+Gotham is flawed, sure. What city isn’t? Its flaws are what make it beautiful.
+610) HARVEY
+Gotham is flawed, sure. What city isn’t? Its flaws are what make it beautiful.
+307) LADYARKHAM
+Show Gotham your true selves. Tell them your true feelings about the city you pretend to love.
+578) LADYARKHAM
+Show Gotham your true selves. Tell them your true feelings about the city you pretend to love.
+592) LADYARKHAM
+Show Gotham your true selves. Tell them your true feelings about the city you pretend to love.
+309) HILL
+Crime would go down-- I have it from a reliable source.
+576) HILL
+Crime would go down-- I have it from a reliable source.
+583) HILL
+Crime would go down-- I have it from a reliable source.
+604) HILL
+Crime would go down. I have it from a reliable source.
+310) LADYARKHAM
+Candidates! Take off your masks!
+579) LADYARKHAM
+Candidates! Take off your masks!
+585) LADYARKHAM
+Candidates! Take off your masks!
+598) LADYARKHAM
+[to Dent and Hill] Candidates! Take off your masks!
+311) HARVEY
+The flaws are what drive me. I wake up everyday and say to myself, I want to make Gotham better. I want to smooth over the cracks.
+572) HARVEY
+The flaws are what drive me. I wake up everyday and say to myself, I want to make Gotham better. I want to smooth over the cracks.
+582) HARVEY
+The flaws are what drive me. I wake up everyday and say to myself, I want to make Gotham better. I want to smooth over the cracks.
+312) BATMAN
+There’s the Harvey I know.
+564) BATMAN
+There’s the Harvey I know.
+590) BATMAN
+There’s the Harvey I know.
+313) BATMAN
+No Gordon! Damn it, I need a few more minutes!
+314) IR
+(Michael Kirkbride, Fri Jun 17 22:15:56 2016) Batman seals his mask shut, its rebreathers kicking in.
+315) PENGUIN
+Ladies and gentlemen - we’re coming to the climax of the show!
+316) PENGUIN
+[to projector booth] ROLL THE TAPE!
+973) PENGUIN
+[to booth; with menace and darkness, as if about to show the tape of his mother being hurt] Roll the tape!
+317) CATWOMAN
+It’s going to be a bloodbath.
+562) CATWOMAN
+It’s going to be a bloodbath.
+318) MONTOYA
+Time’s up, Batman. I’m being overruled by the bosses.
+561) MONTOYA
+Time’s up, Batman. I’m being overruled by the bosses.
+319) BATMAN
+Dad..?
+558) BATMAN
+Dad..?
+684) BATMAN
+Dad..?
+320) CATWOMAN
+Whose voice is that? I thought your father was dead..
+560) CATWOMAN
+Whose voice is that? I thought your father was dead..
+321) HARVEY
+...my best friend. He’s nothing like the man in that video -
+322) HARVEY
+[pain] Agh...
+323) HILL
+[matter of fact] First off, we should incinerate the poor.
+573) HILL
+[matter of fact] First off, we should incinerate the poor.
+591) HILL
+[matter of fact] First off, we should incinerate the poor.
+600) HILL
+[matter of fact] First off, we should incinerate the poor.
+324) PENGUIN
+Spoken like some somone who’s never been poor. Dent? Got anything to say?
+568) PENGUIN
+Spoken like some somone who’s never been poor. Dent? Got anything to say?
+594) PENGUIN
+Spoken like some somone who’s never been poor. Dent? Got anything to say?
+607) PENGUIN
+[off Hill] Spoken like some somone who’s never been poor. Dent? Got anything to say?
+325) CATWOMAN
+I knew he was gross... but this?
+571) CATWOMAN
+I knew he was gross... but this?
+589) CATWOMAN
+I knew he was gross... but this?
+326) HARVEY
+I won’t. He’s... he’s a good man...
+327) HARVEY
+[rote] It’s a much needed state-of-the-art mental health care hospital that will offer treatment for the most unfortunate of Gotham’s citizens--
+328) HARVEY
+For all its citizens, rich, poor or inbetween.
+565) HARVEY
+For all its citizens, rich, poor or inbetween.
+580) HARVEY
+For all its citizens, rich, poor or inbetween.
+612) HARVEY
+For all its citizens-- rich, poor, or in between.
+329) PENGUIN
+How did the world go crazy? When did the rich and powerful learn to control Gotham and keep this all under the radar until tonight?
+330) PENGUIN
+Penguin starts caning Harvey’s face off, every blow a punishment following every heartfelt accolade Harvey gives to Bruce Wayne.
+331) HILL
+Arghhhh--- [death gurgle].
+332) PENGUIN
+I suppose you’ll have to answer for his crimes instead!
+335) PENGUIN
+[kicking corpse] Ask that guy.
+336) CATWOMAN
+Who said anything abuot
+337) CATWOMAN
+Speak for yourself, Bat.
+338) BATMAN
+Detective Montoya.
+499) BATMAN
+Detective Montoya.
+348) BATMAN
+Nevermind. We’ll take it from here, Detective.
+505) BATMAN
+Nevermind. We’ll take it from here, Detective.
+349) MONTOYA
+I can buy you about half an hour. After that, we’re storming the building.
+502) MONTOYA
+I can buy you about half an hour. After that, we’re storming the building.
+353) BATMAN
+Sounds like a vote for Dent, Detective.
+494) BATMAN
+Sounds like a vote for Dent, Detective.
+354) BATMAN
+You come charging in, people are gonna die.
+495) BATMAN
+You come charging in, people are gonna die.
+358) BATMAN
+Thirty minutes isn’t much of a window.
+478) BATMAN
+Thirty minutes isn’t much of a window.
+359) MONTOYA
+The mayor’s in there. It’s as wide as it’s going to get.
+484) MONTOYA
+The mayor’s in there. It’s as wide as it’s going to get.
+362) MONTOYA
+Sorry about that...
+486) MONTOYA
+Sorry about that...
+363) BATMAN
+We’re all on the same side tonight, detective.
+487) BATMAN
+We’re all on the same side tonight, detective.
+365) BATMAN
+She’s seen the error of her ways since then, Detective. She’s here to help.
+474) BATMAN
+She’s seen the error of her ways since then, Detective. She’s here to help.
+366) CATWOMAN
+He’s right, detective. I don’t do the bad things any more.
+473) CATWOMAN
+He’s right, detective. I don’t do the bad things any more.
+369) BATMAN
+The break in isn’t important now. Freeing those hostages is.
+480) BATMAN
+The break in isn’t important now. Freeing those hostages is.
+371) CATWOMAN
+You should be thrilled. You’re getting a two-fer.
+482) CATWOMAN
+You should be thrilled. You’re getting a two-fer.
+411) GORDON
+[to Batman; concerned] She was part of that robbery at the Mayor’s Office --
+412) 
+I can live with that.
+413) 
+Gotham needs me.
+414) 
+They can’t handle this.
+415) 
+I do whatever it takes.
+416) 
+You’re in a difficult spot.
+417) 
+At least I’m on your side.
+418) 
+If you say so.
+996) CATWOMAN
+If you say so.
+419) 
+I doubt it.
+420) 
+I hope so.
+449) PENGUIN
+And on the right -- always smiling to your face-- our despicable DA, Harvey Dent!
+450) PENGUIN
+On the left -- hard of heart, soft in gut-- our down and dirty incumbent, Mayor Hill!
+452) PENGUIN
+Save it for the opening statements, pillock.
+453) HILL
+[pleading] We had a d--deal -- I gave you what you wanted -- ooof--
+454) PENGUIN
+[sarcasm] I can tell by your applause you feel sooo much love for these two gents.
+456) HARVEY
+Yes, of course. Penguin then. We will play your game-- just, please, let these people go.
+534) YOUNGHILL
+[conversation off camera] Have the Cobblepot land deeds sent to my office... what?!
+911) YOUNGHILL
+[conversation off camera] Have the Cobblepot land deeds sent to my office... what?!
+536) YOUNGHILL
+[ALT; even more] No-- We’re not running a charity here - take everything they own!
+663) YOUNGHILL
+[ALT; even more] No-- We’re not running a charity here - take everything they own!
+537) ESTHER
+[feeble] Please-- I’ll sell you the land.  Please don’t do this--
+538) YOUNGHILL
+[ALT; even more] Are you stupid! We’re not a charity -- take everything they own!
+915) YOUNGHILL
+[ALT; even more] Are you stupid! We’re not a charity -- take everything they own!
+539) YOUNGHILL
+[ALT; Falcone too] Lawyer gives you any trouble, call Carmine. Get him to crack his head...
+664) YOUNGHILL
+[ALT; Falcone too] Lawyer gives you any trouble, call Carmine, get him to crack his head...
+917) YOUNGHILL
+[ALT; Falcone too] Lawyer gives you any trouble, call Carmine. Get him to crack his head...
+540) THOMAS
+Commencing the proceedure --
+908) THOMAS
+Commencing the proceedure --
+541) HILL
+No, please -- I made amends --
+687) HILL
+No, please -- I made amends --
+542) PENGUIN
+You could never.
+543) HILL
+I---I took out Thomas Wayne!
+544) PENGUIN
+That won’t bring back my poor old mum.
+545) PENGUIN
+Where’s Bruce Wayne? Your biggest supporter, and he didn’t even turn up for the show.
+693) PENGUIN
+Where’s Bruce Wayne? Your biggest supporter, and he didn’t even turn up for the show.
+546) PENGUIN
+You’ll have to answer for his crimes instead.
+694) PENGUIN
+You’ll have to answer for his crimes instead.
+548) HILL
+No, please -- I made ammends --
+549) PENGUIN
+You could never  do enough--
+688) PENGUIN
+You could never  do enough--
+550) HILL
+I did! I took out Thomas Wayne! I had him killed because he went too far!
+689) HILL
+I did! I took out Thomas Wayne! I had him killed because he went too far!
+551) PENGUIN
+That won’t bring back my poor old mum will it?
+690) PENGUIN
+That won’t bring back my poor old mum will it?
+553) HILL
+Arghhhjh--- [death gurgle].
+692) HILL
+Arghhhjh--- [death gurgle].
+554) HARVEY
+He’s... he’s a good man...
+555) PENGUIN
+Admit it. You made a deal with the devil.
+556) HARVEY
+He’s... he’s a good man. My best friend. He’s nothing like the man in that video -
+599) LADYARKHAM
+Show Gotham your true selves! Tell them what you really think about the city you pretend to love.
+603) HILL
+If I had my way, we’d round up every homeless person and burn them. Use their ashes to fertilize the park.
+605) CATWOMAN
+This is political suicide. [worried] And Harvey’s next.
+611) HARVEY
+The flaws are what drive me. I want to smooth over the cracks and make the city better --
+613) BATMAN
+That’s the Harvey I know.
+632) BATMAN
+[short] Hold them off. Your men will be coming in blind.
+637) CATWOMAN
+This partner thing -- maybe I could get used to it.
+639) CATWOMAN
+This partner thing -- maybe I could get used to it.
+760) CATWOMAN
+This partner thing -- maybe I could get used to it.
+641) BATMAN
+I said faith, not certainty.
+642) BATMAN
+I have faith in you.
+649) 
+I have faith in you.
+643) CATWOMAN
+How sweet. What makes you so sure I won’t add it to my collection?
+644) CATWOMAN
+Oh, Batman. Letting me play with your toys?
+645) PENGUIN
+So sorry, ladies and gents. As you might have guessed, there’s been a change to tonight’s program.
+1193) PENGUIN
+So sorry, ladies and gents. As you might have guessed, there’s been a change to tonight’s program.
+651) 
+Just this once.
+656) BATMAN
+Sending you feeds from inside the building.
+659) THOMAS
+...to be disappeared into Arkham Asylum for the rest of her days.
+660) THOMAS
+Subject 09, formerly Esther Cobblepot, having been declared criminally insane, is now undergoing suppression treatment...
+661) ESTHER
+[feeble] Please... I’ll sell you the land... you don’t have to do this... I have a boy...
+662) YOUNGHILL
+Send all the land deeds to my office. Now that Mrs Cobblepot here is a ward of the state, we can transfer -- what? -- No -- transfer it all to Wayne Enterprises. Everything has to go through Wayne Enterprises.
+665) THOMAS
+I’m starting the proceedure --
+668) CATWOMAN
+Inspiring. You really know how to pep a girl up.
+669) BATMAN
+Don’t think about the odds or you’ll make mistakes.
+670) CATWOMAN
+Speak for yourself, Batman.
+673) BATMAN
+Casualties are inevitable. It’s only a question of how many.
+676) BATMAN
+If we’re quick and decisive, no one else has to die.
+680) 
+Don’t get distracted.
+681) 
+This is going to be messy.
+683) CATWOMAN
+[grim] I hate to be a downer, but these hostages --
+1185) CATWOMAN
+[grim] I hate to be a downer, but these hostages --
+685) CATWOMAN
+Whose voice is that?
+695) GORDON
+Just so we’re clear. After tonight, you and I are done.
+696) BATMAN
+Lieutenant---
+704) GORDON
+Lieutenant---
+697) GORDON
+But your excessive violence, it’s a problem -- I can’t partner with that.
+698) GORDON
+The GCPD has orders to take you in. After tonight, I can’t stand in their way anymore.
+1175) GORDON
+The GCPD has orders to take you in. After tonight, I can’t stand in their way anymore.
+699) BATMAN
+Fine by me. Just give me the report so I can protect the debate.
+700) BATMAN
+Jim, I know this can work. Give me a chance to change your mind.
+701) BATMAN
+You’re making a mistake, Gordon.
+702) GORDON
+Most of the GCPD already think you’re a monster. Don’t prove ‘em right.
+703) GORDON
+Thanks for calling this in, Batman.
+705) GORDON
+I’m glad I took a chance on this -- this collaboration of ours.
+706) GORDON
+Keep on doing what you’re doing and the rest of Gotham will start to see you like I do.
+707) BATMAN
+I appreciate the sentiment, Jim.
+708) BATMAN
+Let’s focus on the problem in front of us.
+709) BATMAN
+‘Hero’ is a lofty title. I hope I live up to it.
+710) GORDON
+Could be tonight’s the night to prove it.
+711) GORDON
+Batman’s been through a lot lately. The way Jim thinks of him now might be tested. The city, too.
+712) GORDON
+GORDOBatman’s been through a lot lately. The way Jim thinks of him now might be tested. The city, too.
+713) BATMAN
+The enemies we’re facing -- the things I’ll have to do... Gotham might not want to see.
+714) GORDON
+A hero.
+715) GORDON
+I have faith in you, Batman. Right now, let’s focus on the problem in front of us.
+716) GORDON
+[curt] Fine. Just do it without splitting anyone in half, huh?
+717) GORDON
+My hands are tied.
+718) GORDON
+You’re the monster they always said you were.
+719) BATMAN
+You need me and you know it.
+720) GORDON
+That may be true-- but you’ve gone too far. My hands are tied.
+721) BATMAN
+Gotham is under threat and your force isn’t up to dealing with it.
+722) GORDON
+Let’s do what we can for these hostages and we’ll say goodbye.
+723) GORDON
+Just so we’re clear. You and me -- we’re on shaky ground.
+724) GORDON
+No, listen to me. The excessive violence-- it can’t go on.
+725) BATMAN
+Jim, listen--
+726) BATMAN
+I appreciate the heads up, Jim. But I can’t promise anything.
+727) GORDON
+I suppose there’s nothing more to say. My hands are tied.
+728) BATMAN
+I do what the police can’t. I get the job done. Now give me the report so I can do my job.
+729) GORDON
+[curt] Fine. Just do it without splitting anyone in half.
+730) BATMAN
+I’m sorry for putting you in a difficult spot, Jim.  I value our ‘working relationship’.
+731) GORDON
+So do I, Batman. That’s why I need you to rein it in.
+733) BATMAN
+You’re lucky I’m on your side.
+734) BATMAN
+Gotham’s facing great danger and your force isn’t up to stopping it
+735) GORDON
+That may be true-- but I can’t ally with a violent thug.
+736) BATMAN
+I’ll do what I can. Right now, let’s focus on the situation in front of us.
+737) BATMAN
+I get that. But we should focus on the situation in front of us.
+738) CATWOMAN
+I don’t do the bad things any more, Lieutenant.
+740) GORDON
+Well don’t just stand there! Go do what you guys do!
+741) BATMAN
+[explaining] This will give you eyes on what’s coming up ahead of us.
+742) BATMAN
+Here, take a look.
+743) BATMAN
+Let’s go.
+744) GORDON
+Can’t do it, we’re storming the place now.
+745) GORDON
+We’re out of time, Batman. The brass is going nuts with those two drugged on stage.
+746) GORDON
+People are terrified of you.
+747) GORDON
+We’ve got a job to do. Try to do it without breaking anyone in half.
+748) GORDON
+They blew a hole in the wall...
+749) CATWOMAN
+-- not everyone’s getting out of here alive.
+750) BATMAN
+You have to stay focused.
+751) LADYARKHAM
+[modulated] You have nothing to fear.
+752) LADYARKHAM
+[modulated] We are here to open your eyes.
+1088) LADYARKHAM
+[modulated; ALT] We are here to open your eyes.
+753) LADYARKHAM
+[modulated] But tonight, you wake.
+754) PENGUIN
+I warned you about lying!
+755) PENGUIN
+You’ve been wonderful, but your candidates-- well, they just don’t have the words.
+756) PENGUIN
+Luckily, we’ve got just the thing.
+757) THOMAS
+Subject Nine... Esther Cobblepot. You’ve been declared criminally insane...
+758) HILL
+That --that [pointing at screen] was all him -- he didn’t know when to stop --  I had him killed because of it!
+759) YOUNGHILL
+[conversation off camera] No! Sign them over to Wayne Enterprises. Everything goes through Wayne Enterprises!
+912) YOUNGHILL
+[conversation off camera] No! Sign them over to Wayne Enterprises. Everything goes through Wayne Enterprises!
+761) BATMAN
+Three hostiles. Gotta take ‘em out quietly.
+762) YOUNGHILL
+[ALT] You had your chance. You should have made the deal we offered you.
+913) YOUNGHILL
+You had your chance. You should have made the deal we offered you.
+764) BATMAN
+I’m not here to join you. I’m here to crush you.
+765) BATMAN
+Your revolution is over, Penguin.
+766) PENGUIN
+On the contrary. We’re just getting started!
+767) BATMAN
+Let Dent go!
+768) PENGUIN
+And what if I don’t?
+769) BATMAN
+I’ll crush every bone in your body.
+771) PENGUIN
+That’s what I was afraid of.
+772) PENGUIN
+I knew you’d say something like that!
+773) CATWOMAN
+Um, no. Not happening.
+776) 
+No time for jokes.
+777) 
+Couldn’t stay away, huh?
+778) 
+I knew you’d help.
+779) 
+This is no bar fight.
+780) 
+You don’t owe me.
+781) 
+There’s hope for you yet.
+782) 
+We’re going in.
+783) 
+The Penguin is here.
+784) 
+Yes
+1124) 
+Yes
+1126) 
+Yes
+1129) 
+Yes
+1130) 
+Yes
+1131) 
+Yes
+1161) 
+Yes
+1168) 
+Yes
+1170) 
+Yes
+1172) 
+Yes
+785) 
+No
+1036) HARVEY
+[PICKUP] No--
+1125) 
+No
+1127) 
+No
+1128) 
+No
+1147) 
+No
+1148) 
+No
+1149) 
+No
+1160) 
+No
+1164) 
+No
+1165) 
+No
+1166) 
+No
+1167) 
+No
+1169) 
+No
+1171) 
+No
+786) CATWOMAN
+Gordon’s men.
+787) CATWOMAN
+Don’t think I don’t see you checking me out.
+788) BATMAN
+Anything out of the ordinary?
+789) GORDON
+Nothing out of the ordinary yet. I’ve got my best men doing patrols.
+790) GORDON
+Listen… I value what you’ve done for the city.
+791) GORDON
+But this violence -- you’ve gone too far.
+792) GORDON
+I just had the Mayor in my ear about your... visit. And after what you did to Falcone --
+1173) GORDON
+I just had the Mayor in my ear about your... visit. And after what you did to Falcone --
+793) GORDON
+I can’t defend you.
+794) CATWOMAN
+Let me guess -- you guys are up here gazing at stars.
+801) CATWOMAN
+Let me guess -- you guys are up here gazing at stars.
+795) BATMAN
+Jim...
+796) CATWOMAN
+Either that or this is a great spot for peeping.
+797) BATMAN
+You just couldn’t stay away, could you?
+798) CATWOMAN
+Oh, I could. I just didn’t want to miss the fun.
+799) BATMAN
+Is it me? Or are you hooked on the scent of trouble?
+800) SELINA
+In my experience, the two go hand in hand.
+802) CATWOMAN
+Either that or you’re peeping on Gotham’s poor, unsuspecting citizens.
+803) SELINA
+‘t that make you quite the pussy magnet.
+804) BATMAN
+I knew I could count on you to back me up.
+805) CATWOMAN
+Oh, did you now? Who said anything about that?
+806) BATMAN
+Isn’t that why you’re here?
+807) BATMAN
+[tense] This is no time for jokes.
+808) BATMAN
+[ALT] The Children could strike at any moment -- we need to be alert.
+809) CATWOMAN
+Uh oh. Did I touch a nerve?
+810) CATWOMAN
+Uh oh. Looks like I hit the mark.
+811) BATMAN
+You’re an addict -- you’re hooked on trouble.
+812) SELINA
+Or maybe you’re a pussy magnet, Batman. Ever think of that?
+813) CATWOMAN
+I know you’re worried about handling the Children by yourself, Batman.
+814) CATWOMAN
+That... um... incident in the bar...
+815) CATWOMAN
+I don’t like being in debt.
+816) SELINA
+What’s the matter, cat got you’re toungue?
+817) BATMAN
+You’re hooked on danger -- it’s not healthy.
+818) CATWOMAN
+Easy, Batman. I’m always ready.
+819) CATWOMAN
+Not that I needed your help or anything, but you had my back.
+820) CATWOMAN
+Debt is its own kind of cage-- I can’t stand being in it.
+821) CATWOMAN
+[teasing] Since you’re worried the Children are too much for you by yourself --
+822) CATWOMAN
+I thought I’d repay the favor.
+823) BATMAN
+This is no bar fight. They’re coming with everything they have.
+824) CATWOMAN
+Good. That brawl barely had me break a sweat.
+825) GORDON
+This better not come back to bite me.
+826) CATWOMAN
+Besides...
+827) GORDON
+[to radio] Alpha Patrol, come in.
+836) GORDON
+Alpha Patrol -- come in.
+828) GORDON
+No need to say anything. Just know I’m grateful.
+829) CATWOMAN
+Relax -- I’m always alert. And tonight I’m on your side.
+830) BATMAN
+You don’t owe me anything. Those scum had it coming.
+831) GCPD01
+[from radio; static] Go ahead...
+832) CATWOMAN
+[smirking] And they say chivalry is dead.
+833) CATWOMAN
+Even so -- I’d rather not have any doubt. Besides, after this, maybe you’ll owe me.
+834) CATWOMAN
+[enjoying the thought] Besides -- after this, maybe you’ll owe me.
+835) BATMAN
+Doing the right thing? Maybe there’s hope for you yet.
+837) GORDON
+[increasingly urgent] Alpha -- do you read?
+838) GORDON
+[urgent] Sergeant Connors -- report.
+839) GORDON
+[grim] None of my men on the ground are responding.
+1180) GORDON
+[grim] None of my men on the ground are responding.
+840) GORDON
+Including my cops.
+841) CATWOMAN
+Even so, I can’t have the obligation hanging over my head.
+842) CATWOMAN
+Don’t read too much into it -- I’m just allergic to owing you anything.
+843) BATMAN
+Afraid people will see you doing the right thing?
+844) CATWOMAN
+I’m just allergic to obligation.
+845) CATWOMAN
+You know, like ‘You scratch my back, I cut some people up?‘
+846) BATMAN
+So much for ‘increased security.
+847) BATMAN
+Enough waiting. We’re going in.
+848) BATMAN
+They’re already inside.
+1176) BATMAN
+They’re already inside.
+849) CATWOMAN
+It’s the Children of Arkham. They’re already inside.
+850) CATWOMAN
+Don’t get too excited.
+851) CATWOMAN
+Is that what you get up to when you’re not fighting crime?
+852) CATWOMAN
+Trying to fill the void of loneliness?
+853) CATWOMAN
+Now aren’t you glad I’m here?
+854) CATWOMAN
+Now aren’t you glad I’m here?
+855) CATWOMAN
+Now aren’t you glad I’m here?
+856) CATWOMAN
+Now aren’t you glad I’m here?
+1177) CATWOMAN
+Now aren’t you glad I’m here?
+858) HARVEY
+[grunt on being stomped out] Uhg--
+859) HARVEY
+[surprise; pain on being injected] Ow.
+860) HILL
+[surprise; pain on being injected] Ahhg!
+861) CATWOMAN
+-- I don’t like their chances.
+862) CATWOMAN
+[ALT] -- some of them aren’t getting out alive.
+863) BATMAN
+Can’t get a visual from here. Hard to tell how many guards there are.
+864) CATWOMAN
+We’ll have to move in closer before I can do anything there.
+865) BATMAN
+You take that one.
+866) CATWOMAN
+Just the one?
+867) BATMAN
+That one’s yours.
+868) CATWOMAN
+Really? Can I keep him?
+869) BATMAN
+Take him out -- Quietly. I’ll handle the others.
+870) BATMAN
+Just the one. I’ll handle the others.
+871) BATMAN
+Quick and quiet.
+872) CATWOMAN
+You got it.
+873) BATMAN
+And ‘non-lethal’!
+874) CATWOMAN
+Aw. I was afraid you were going to say that.
+875) CATWOMAN
+Can’t get to him without tackling the bruiser first.
+876) CATWOMAN
+I thought your father was dead...
+877) CATWOMAN
+You’re getting a two-fer.
+878) CATWOMAN
+[ALT]        You’re getting two for the price of one.
+879) GORDON
+Gamma Patrol -- come in goddamn it!
+1181) GORDON
+Gamma Patrol -- come in goddamn it!
+880) GORDON
+Do you read? Alpha Patrol? Do you read?
+1179) GORDON
+Do you read? Alpha Patrol? Do you read?
+881) CATWOMAN
+No wonder they weren’t responding...
+882) CATWOMAN
+[ALT; dry]        At least we know why they weren’t responding.
+883) CATWOMAN
+This is no clown show.
+884) CATWOMAN
+[alt] This is no smash and grab operation.
+886) PENGUIN
+[ALT; british; no pun] -- sacking the moderator.
+1186) PENGUIN
+[ALT; british; no pun] -- sacking the moderator.
+887) PENGUIN
+[ALT; split the difference] -- terminating the moderator.
+1183) PENGUIN
+[ALT; split the difference] -- terminating the moderator.
+889) HILL
+[pain] Ooof.
+890) PENGUIN
+We need a new moderator -- You there! Yes -- you! Thank you for volunteering --
+891) PENGUIN
+Go on then -- introduce the candidates!
+892) PENGUIN
+Stage fright, huh? Alright, I’ll get you started, but this is your show.
+894) PENGUIN
+[of Vick; frustratedi] Come on you! You have to give both candidates equal time -
+896) PENGUIN
+[of Vick] You know what? Forget it -- More trouble than you’re worth...
+897) PENGUIN
+[of Hill] Spoken like some someone who’s never been poor.
+898) PENGUIN
+Dent? Do you have anything to say?
+899) VICKI
+Thank you.
+1062) HARVEY
+Thank you.
+900) VICKI
+Why? I mean, why do you do it?
+901) BATMAN
+It’s what I do.
+902) BATMAN
+Someone has to.
+903) BATMAN
+I get a kick out of hurting criminals.
+904) BATMAN
+I had a traumatic childhood.
+905) VICKI
+[after him] Can I quote you on that?
+906) VICKI
+[to herself] Better you than me.
+907) VICKI
+[to herself] Didn’t we all.
+910) THOMAS
+...and will be committed to Arkham indefinitely.
+914) THOMAS
+Subject 9... formerly Esther Cobblepot, having been declared criminally insane, is now undergoing suppression treatment...
+916) ESTHER
+[feeble] Please-- I’ll sell you the land.  Please don’t do this--  I have a boy.
+918) YOUNGHILL
+[to Thomas] Give her the drug.
+919) THOMAS
+[cold] Commence the procedure.
+922) ESTHER
+[begging] Thomas -- we-- we’re friends. Our boys play together --
+923) THOMAS
+[grim] You were warned, Esther. You know I always get what I want.
+924) THOMAS
+Hey--
+926) THOMAS
+[discovering spy] Hey...
+925) YOUNGHILL
+[ALT]    Now everything is ours. All your land. All your assets. Everything.
+927) LADYARKHAM
+Now you know. Now you will see.
+928) LADYARKHAM
+Now you know. Now you will see.
+929) LADYARKHAM
+Show your anger!
+931) PENGUIN
+[ALT; enraged] You
+932) PENGUIN
+[enraged] You made a pact with the devil!
+933) PENGUIN
+The revolution’s already started! It’s too late to join!
+934) PENGUIN
+I told you - when the revolution started it’d be too late to join.
+935) LADYARKHAM
+[ALT; frying pan] The current Mayor of Gotham!
+936) LADYARKHAM
+Tear the mayor limb from limb!
+937) VICKI
+[getting yanked on stage]                Please, no!
+938) GORDON
+[please get ambient coverage of Gordon
+939) BATMAN
+[comms] Gordon -- we found one of your patrols -- they’ve been terminated.
+940) GORDON
+[upset] That’s... that’s terrible news...
+941) BATMAN
+[comms] I’m sorry. Setting up now.
+942) DIRDIR
+(Stauder, Thu Jul 14 01:41:54 2016) Batman frowns, his concern mounting.  Penguin SNATCHES her purse, throws it into the crowd. Takes her UMBRELLA for use as a prop.
+945) BATMAN
+[quietly] Catwoman?
+983) 
+Catwoman
+984) 
+Catwoman
+986) 
+Catwoman
+988) 
+Catwoman
+990) 
+Catwoman
+1110) 
+Catwoman
+1116) 
+Catwoman
+1122) 
+Catwoman
+1134) 
+Catwoman
+1135) 
+Catwoman
+1140) 
+Catwoman
+946) ESTHER
+[begging; ALT]  Please --
+947) ESTHER
+[begging; ALT]  Don’t do this --
+948) ESTHER
+[begging; ALT]  I’ll do anything --
+950) HILL
+[ALT] I did! I was part of taking out Thomas Wayne. We had him killed because he went too far.
+951) CATWOMAN
+[playful] I’m here to help Batman save the day.
+952) PENGUIN
+Batman! You certainly know how to make an entrance!
+953) BATMAN
+[to Vicki] Go!
+954) PENGUIN
+If I didn’t know better, I’d say you were trying to steal the show.
+955) PENGUIN
+[though pain] You saw what Hill did to those poor people in Arkham --
+977) PENGUIN
+[though pain] You saw what Hill did to those poor people in Arkham --
+956) PENGUIN
+Why don’t you kick the crap out of him?
+957) PENGUIN
+Go on love. You know what to do.
+958) THOMAS
+[cold] Give her a dose she won’t come back from.
+959) PENGUIN
+Look at that. The DA’s got himself a gun.
+960) PENGUIN
+But does he have what it takes to pull the trigger?
+961) PENGUIN
+That’s what I thought.
+1042) PENGUIN
+[PICKUP] That’s what I thought.
+962) 
+They’re no match for Penguin.
+963) 
+Oswald has partners.
+964) 
+I’m not here to join.
+965) 
+It’s over, Penguin.
+966) 
+Let him go!
+967) BATMAN
+No, Gordon! Keep your men out!
+968) GORDON
+[comms; devestated] Those goddamn sons of bitches...
+1182) GORDON
+[comms; devestated] Those goddamn sons of bitches...
+969) PENGUIN
+[ALT] Why don’t you give him the justice he deserves?!
+970) HILL
+[ALT] I gave you what you wanted!
+971) HILL
+Everything you asked for!!
+972) HILL
+That -- that was all Thomas Wayne -- not me. I tried to get him to stop!
+974) PENGUIN
+Some things just aren’t
+975) HILL
+We had a deal --
+976) HILL
+I gave you the tape!
+978) 
+Big TV
+1132) 
+Big TV
+979) 
+Table
+1112) 
+Table
+1136) 
+Table
+980) 
+Thug
+981) 
+Thug
+991) 
+Thug
+982) 
+Ceiling
+1118) 
+Ceiling
+1139) 
+Ceiling
+985) 
+Camera Stand
+1108) 
+Camera Stand
+1133) 
+Camera Stand
+1163) 
+Camera Stand
+987) 
+Door
+1114) 
+Door
+1137) 
+Door
+989) 
+Light Stand
+1120) 
+Light Stand
+1138) 
+Light Stand
+992) BATMAN
+Then I’ll put him in the ground.
+993) BATMAN
+[alt][grunt of approval]
+994) CATWOMAN
+I’ll set him up?
+995) BLOCKBUSTER
+[PICKUP] Keep it quiet back there.
+1191) BLOCKBUSTER
+[PICKUP] Keep it quiet back there.
+997) CATWOMAN
+Sounds fun.
+998) CATWOMAN
+[PICKUP] [ALT][confident] I can cover that one, for sure.
+999) CATWOMAN
+[PICKUP] [sarcastic] I guess being partners means you do everything and I sit on the sidelines.
+1000) CATWOMAN
+[PICKUP] [sarcastic] Glad I could help.
+1001) CATWOMAN
+Maybe next time.
+1002) HARVEY
+[PICKUP] It’s not too late to save this city.
+1003) HARVEY
+[PICKUP] To take it back from the corrupt politicians.
+1004) PENGUIN
+[PICKUP] And what about the corrupt elite?
+1005) PENGUIN
+[PICKUP] The men whose fortunes are built on corpses?
+1006) PENGUIN
+[PICKUP] Men like your friend, Bruce Wayne!
+1007) PENGUIN
+[PICKUP] You’re as bad as he is! Happy to look away from what you don’t want to see!
+1008) PENGUIN
+[PICKUP] Your friend has cost this city countless lives. Lives you claim to care so much about.
+1009) PENGUIN
+[PICKUP] You’re just his lap dog, aren’t you?
+1010) CATWOMAN
+[PICKUP] What’s the plan?
+1011) BLOCKBUSTER
+[PICKUP] AARRRGH!
+1012) BLOCKBUSTER
+[PICKUP] Son of a bitch!
+1013) BLOCKBUSTER
+[PICKUP] [evil laugh]
+1014) HARVEY
+[PICKUP] I won’t let you kill anyone else!
+1015) PENGUIN
+[PICKUP] Wait your turn, Dent!
+1016) PENGUIN
+[PICKUP] Stop pretending to be a hero, Dent.
+1017) PENGUIN
+[PICKUP] You’re just a dog on a short leash. That reminds me...
+1018) PENGUIN
+[PICKUP] You know, Bruce and I were friends once too.
+1019) PENGUIN
+[PICKUP] Thought he was a true pal.
+1020) PENGUIN
+[PICKUP] But that’s the thing about good ol’ Brucie.
+1021) PENGUIN
+[PICKUP] He’s a friend of convenience.
+1022) PENGUIN
+[PICKUP] You’re convenient, Harvey.
+1023) PENGUIN
+[PICKUP] Just another puppet he can use.
+1024) PENGUIN
+[PICKUP] You think he cares about you one lick?
+1025) PENGUIN
+[PICKUP] He’s not even bloody here!
+1026) PENGUIN
+[PICKUP] Where’s your so-called friend?
+1038) PENGUIN
+[PICKUP] Where’s your so-called friend?
+1027) PENGUIN
+[PICKUP] Huh?
+1028) PENGUIN
+[PICKUP] I think you know the truth.
+1029) PENGUIN
+[PICKUP] Soon as you stop being useful, he’s nowhere to be found.
+1030) PENGUIN
+[PICKUP] Just bloody disappears.
+1031) PENGUIN
+[PICKUP] Don’t
+1032) HARVEY
+[PICKUP] That’s not true, he’s--
+1033) HARVEY
+[PICKUP; ALT] I’m sure there’s a good reason--
+1034) PENGUIN
+[PICKUP] There’s a very good reason.
+1037) PENGUIN
+[PICKUP] Then where is he?
+1039) CATWOMAN
+[PICKUP] Hope you’ve got another trick in that belt of yours.
+1040) PENGUIN
+[PICKUP] Lookie here! Big Bad Harvey Dent has a gun!
+1041) PENGUIN
+[PICKUP] Think he knows how to use it?
+1043) CATWOMAN
+Smart.
+1044) GORDON
+[from off screen] Hold your fire, dammit!
+1047) GORDON
+[from off screen] Hold your fire, dammit!
+1045) GORDON
+[from off screen] [alt] Goddammit, stop shooting up the place!
+1048) GORDON
+[from off screen] [alt] Goddammit, stop shooting up the place!
+1046) GORDON
+Where’s the maniac in the mask?
+1050) GORDON
+Where’s the maniac in the mask?
+1049) BATMAN
+Harvey...
+1051) GORDON
+We need paramedics over here now!
+1105) GORDON
+We need paramedics over here now!
+1052) BATMAN
+We have bigger things to worry about right now.
+1053) BATMAN
+Your security has been compromised.
+1054) GORDON
+Compromised!?
+1055) GORDON
+I’ve got patrols on every door!
+1056) BATMAN
+[ALT] Penguin disabled all the security cameras at the debate.
+1057) GORDON
+[ALT] Disabled?
+1058) GORDON
+[comms; devestated; ALT; no bitch] Those goddamn sons of... [he trails off, overcome by emotion]
+1184) GORDON
+[comms; devestated; ALT; no bitch] Those goddamn sons of... [he trails off, overcome by emotion]
+1059) BATMAN
+Penguin could strike at any moment -- we need to be alert.
+1060) GORDON
+[ALT; fewer patrols] Alpha Patrol -- come in goddamn it!
+1178) GORDON
+[ALT; fewer patrols] Alpha Patrol -- come in goddamn it!
+1061) BATMAN
+Mr. Dent.
+1063) BATMAN
+You better check on them.
+1064) GORDON
+Listen
+1065) GORDON
+[grim] Maybe you’re right, Batman...
+1066) GORDON
+Yeah, all quiet so far.
+1067) GORDON
+I’ve got my best men on patrols.
+1068) GORDON
+I’ve got my best men doing patrols.
+1069) BATMAN
+I’ve got a feeling that’s about to change.
+1070) GORDON
+Listen... I value you looking out for the city -- really.
+1174) GORDON
+Listen... I value you looking out for the city -- really.
+1071) GORDON
+I appreciate you looking out for the city, Batman. I really do. But...
+1074) YOUNGHILL
+You had your chance. You should have taken the deal.
+1076) HARVEY
+I told him not to come --
+1077) CATWOMAN
+Just let the D.A. go.
+1078) CATWOMAN
+Dammit!
+1079) PENGUIN
+A parting gift to remember the night your buddy Bruce didn’t show up!
+1080) HARVEY
+I-- thanks.
+1081) HARVEY
+[grunt with each mash] Uhgh-- uhgh-- uhgh--
+1082) HARVEY
+[ALT; face mashed; semi-conscious; for voice tech test] Batman -- you left me...
+1083) BLOCKBUSTER
+[PICKUP] [being electrocuted]Aarrrggh!
+1085) LADYARKHAM
+[modulated; ALT] I am the scion of the Children of Arkham.
+1086) LADYARKHAM
+[modulated; ALT] I am the Warden of the Children of Arkham.
+1087) LADYARKHAM
+[modulated] For too long, Gotham’s elite have
+1089) LADYARKHAM
+[modulated] We are here to end the masquerade.
+1090) LADYARKHAM
+For too long men like your esteemed mayor have profited from the pain of innocents.
+1091) CATWOMAN
+Someone else is pulling the strings.
+1094) LADYARKHAM
+Tonight we show you the truth.
+1095) CATWOMAN
+[admiring] Smart. Let someone else do your dirty work.
+1096) LADYARKHAM
+[modluated] And expose the corruption at root in your city.
+1097) BLOCKBUSTER
+[Pulling vicki out] You’ll do. Get out here.
+1098) BLOCKBUSTER
+[ALT; pulling Vicki] Come on, you.
+1189) BLOCKBUSTER
+[ALT; pulling Vicki] Come on, you.
+1099) 
+Shoot Grapple Gun
+1100) MODERATOR
+Good evening everyone and welcome to our live debate for the next mayor of Gotham City.
+1101) MODERATOR
+This is an important debate for these two candidates, incumbent Mayor Hamilton Hill and the challenger, Gotham District Attorney Harvey Dent.
+1102) MODERATOR
+And it’s also important for you, the citizens of Gotham, who will soon head to the polls to decide the future of your home -- a city that’s faced its share of hardships in recent years.
+1103) MODERATOR
+Rising crime rates, income inequality and yes, a masked vigilante loose on our streets. The candidates will tackle it all.
+1104) MODERATOR
+So let’s begin. Mr. Mayor, the first question goes to you...
+1106) 
+TV
+1162) 
+TV
+1107) 
+Large, surface-distributed force.
+1109) 
+Bludgeoning, capable of breaking gunman’s armor.
+1111) 
+Agile, fierce, never misses her quarry.
+1117) 
+Agile, fierce, never misses her quarry.
+1123) 
+Agile, fierce, never misses her quarry.
+1113) 
+Sturdy surface, welded frame.
+1115) 
+Heavy duty, muffles sound to and from stage.
+1119) 
+Reinforced steel I-beams above ceiling tile.
+1121) 
+Quick takedown, potential to disorient other gunmen.
+1141) 
+Forward Gunman
+1142) 
+Facing away, vulnerable.
+1143) 
+Stage Exit Gunman
+1144) 
+Flanking position, able to call for help.
+1145) 
+Rear Gunman
+1146) 
+Clear sightline across the whole room.
+1150) GORDON
+[PICKUP]Be careful. We’ve got a packed house of civilians in there.
+1153) GORDON
+[PICKUP]Be careful. We’ve got a packed house of civilians in there.
+1154) GORDON
+[PICKUP]Be careful. We’ve got a packed house of civilians in there.
+1155) GORDON
+[PICKUP]Be careful. We’ve got a packed house of civilians in there.
+1151) GORDON
+[PICKUP][urgent]Everybody in Gotham saw that moderater get shot on live TV.
+1152) GORDON
+[PICKUP][urgent][Alt]Don’t let anyone else get killed!
+1156) GORDON
+[PICKUP]You two can sneak in there quieter than my SWAT guys.
+1157) GORDON
+[ALT]You have a better shot than my SWAT team of getting in there quietly.
+1158) GORDON
+[PICKUP][urgent]What’s going on in there?
+1159) DHOREIR
+(Stauder, Thu Aug 18 16:28:12 2016) Batman looks around the stage. Penguin is no where in sight. However, he does see on the floor: one of the syringes Vicki used to drug Dent and Hill.

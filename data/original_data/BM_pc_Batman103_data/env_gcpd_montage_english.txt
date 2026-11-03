@@ -1,0 +1,1500 @@
+﻿1) 
+Listen.
+3) 
+Listen.
+6) 
+Listen.
+55) 
+Listen.
+64) 
+Listen.
+67) 
+Listen.
+2) 
+Travel To.
+4) 
+Travel To.
+5) 
+Travel To.
+56) 
+Travel To.
+65) 
+Travel To.
+66) 
+Travel To.
+7) GOON01
+... twenty crates of rifles, tonight. They said fifty crates of mags, too.
+8) BATMAN
+Alfred, I’m heading over to the docks.
+9) ALFRED
+Very good, sir. I’ll keep the drones stable.
+11) ALFRED
+Very good, sir. I’ll keep the drones stable.
+52) ALFRED
+Very good, sir. I’ll keep the drones stable.
+58) ALFRED
+Very good, sir. I’ll keep the drones stable.
+10) BATMAN
+Alfred, I’m heading over to the new hospital site.
+12) BATMAN
+Do a search for the Children of Arkham. Show me anywhere they’re currently active.
+43) BATMAN
+Do a search for the Children of Arkham. Show me anywhere they’re currently active.
+13) ALFRED
+They’re out in force tonight.
+42) ALFRED
+They’re out in force tonight.
+14) NEWSCASTER
+...and as polls begin to shutter around Gotham, Election Day comes to a close not with a bang -- but something closer to a whimper.
+33) NEWSCASTER
+...and as polls begin to shutter around Gotham, Election Day comes to a close not with a bang -- but something closer to a whimper.
+15) NEWSCASTER
+With Harvey Dent running the final week of his campaign effectively unopposed, many feel the results are a foregone conclusion.
+34) NEWSCASTER
+With Harvey Dent running the final week of his campaign effectively unopposed, many feel the results are a foregone conclusion.
+16) NEWSCASTER
+While some voters appeared resigned to the results, elsewhere in Gotham, protests raged.
+17) NEWSCASTER
+We’re getting reports of a peaceful rally turning violent after members of the so-called Children of Arkham appeared on the scene.
+36) NEWSCASTER
+We’re getting reports of a peaceful rally turning violent after members of the so-called Children of Arkham appeared on the scene.
+18) NEWSCASTER
+Overturned vehicles, vocal crowds, and the rumors of armed assailants have been pouring in. A few have come forward claiming to see their mysterious masked leader, but we have yet to recieve confirmation of--
+37) NEWSCASTER
+Overturned vehicles, vocal crowds, and the rumors of armed assailants have been pouring in. A few have come forward claiming to see their mysterious masked leader, but we have yet to recieve confirmation of--
+19) BATMAN
+Alfred.
+41) BATMAN
+Alfred.
+20) BATMAN
+With any luck, their leader will have come along for the ride.
+44) BATMAN
+With any luck, their leader will have come along for the ride.
+21) GOON02
+Not a big window to unload all of that.
+49) COA02
+Not a big window to unload all of that.
+22) GOON01
+[frustrated]They said they wanted it done tonight. So it’s gotta be done. You wanna argue with them be my guest.
+50) COA01
+[frustrated]They said they wanted it done tonight. So it’s gotta be done. You wanna argue with them be my guest.
+23) GOON02
+Must need ‘em for something big.
+48) COA02
+Must need ‘em for something big.
+24) GOON01
+I didn’t ask questions.
+47) COA01
+I didn’t ask questions.
+25) GOON02
+Why the hell not?
+51) COA02
+Why the hell not?
+26) GOON01
+Would you?
+53) COA01
+Would you?
+27) GOON01
+[just shut up]The boss’ll be here soon. Just shut up and wait for the shipment.
+45) COA01
+[just shut up]The boss’ll be here soon. Just shut up and wait for the shipment.
+28) COP01
+It’s not looking good down here.
+59) COP01
+It’s not looking good down here.
+29) GORDON
+[distorted through radio]You’re not gonna get back-up for a while, Jenson. I need you to handle it.
+30) COP01
+Understood. [to the cops on location]Keep an eye on the left side.
+31) COP02
+Three in masks heading for the back.
+60) COP02
+Three in masks heading for the back.
+137) COP02
+Three in masks heading for the back.
+32) COP01
+On ‘em.
+63) COP01
+On ‘em.
+35) NEWSCASTER
+While some voters appear resigned to the results, elsewhere in Gotham, protests rage.
+38) GORDON
+[OS]--goddamnit, I don’t care what’s wrong with you!
+39) GORDON
+[OS]You report for duty tonight or you can take retirement tomorrow!
+40) GORDON
+[soft, worried]Shit.
+46) COA01
+... Fifty crates of rifles, tonight. They said twenty crates of mags, too.
+54) BATMAN
+I’m headed to the docks.
+57) BATMAN
+Headed to the construction site.
+61) COP01
+On ‘em. [yelling to off to the side]Holtz, keep an eye on the left!
+62) GORDON
+[to Batman]
+89) 
+...
+93) 
+...
+105) 
+...
+145) 
+
+146) 
+
+174) 
+...
+179) 
+
+182) 
+
+186) 
+...
+187) 
+...
+216) 
+...
+266) 
+...
+300) 
+...
+304) 
+
+305) 
+
+306) 
+
+319) 
+...
+322) 
+
+328) 
+
+330) 
+...
+332) 
+
+360) 
+
+396) 
+
+404) 
+...
+409) 
+
+447) 
+...
+473) 
+...
+483) 
+
+582) 
+
+630) 
+
+675) 
+...
+708) GORDON
+[PICKUP]
+710) 
+
+68) GORDON
+[spooked, and then grumbly]Christ. The idea of that thing was not for you to give me a heart attack.
+69) 
+I’m not your errand boy.
+155) 
+I’m not your errand boy.
+164) 
+I’m not your errand boy.
+70) 
+Cute light.
+157) 
+Cute light.
+166) 
+Cute light.
+71) 
+This is dangerous.
+156) 
+This is dangerous.
+165) 
+This is dangerous.
+72) GORDON
+My insurance isn’t great.
+149) GORDON
+My insurance isn’t great.
+158) GORDON
+My insurance isn’t great.
+73) GORDON
+Next time, I don’t know. Knock.
+150) GORDON
+Next time, I don’t know. Knock.
+159) GORDON
+Next time, I don’t know. Knock.
+74) GORDON
+Or grumble. Something.
+151) GORDON
+Or grumble. Something.
+160) GORDON
+Or grumble. Something.
+75) BATMAN
+I’m not on your payroll.
+76) BATMAN
+Cute light. Didn’t know GCPD was funding arts and crafts projects.
+152) BATMAN
+Cute light. Didn’t know GCPD was funding arts and crafts projects.
+161) BATMAN
+Cute light. Didn’t know GCPD was funding arts and crafts projects.
+77) BATMAN
+This sort of thing is dangerous. It’s going to get you in trouble.
+153) BATMAN
+This sort of thing is dangerous. It’s going to get you in trouble.
+162) BATMAN
+This sort of thing is dangerous. It’s going to get you in trouble.
+78) BATMAN
+It’s a little obvious.
+190) BATMAN
+It’s a little obvious.
+192) BATMAN
+It’s a little obvious.
+287) 
+It’s a little obvious.
+289) 
+It’s a little obvious.
+79) GORDON
+Says the man dressed like a bat.
+191) GORDON
+Says the man dressed like a bat.
+193) GORDON
+Says the man dressed like a bat.
+80) BATMAN
+Aren’t you worried about people knowing you’re working with me?
+81) GORDON
+‘Course I am-- especially when you pull stunts like you did at the Monarch.
+82) GORDON
+You flying solo?
+83) GORDON
+Last time you and I saw each other, you showed up with that cat... woman.
+84) GORDON
+She put a bunch of my guys on the injured list. I need to know.
+85) GORDON
+I’m just curious to know if I always get two for the price of one.
+86) 
+I work alone.
+348) 
+I work alone.
+350) 
+I work alone.
+353) BATMAN
+I work alone.
+87) 
+My partners, my business.
+91) 
+My partners, my business.
+88) 
+She saved your men.
+90) 
+It wasn’t her fault.
+92) 
+It won’t happen again.
+94) GORDON
+Montoya. I wish we had her out on the streets tonight.
+95) BATMAN
+We take down the Childred of Gotham and we clear both of their names.
+96) BATMAN
+Help me to help you.
+97) GORDON
+[to himself]What am I doing?
+98) GORDON
+[to himself]Making that thing to call the Batman.
+99) 
+It worked.
+100) BATMAN
+It worked.
+285) 
+It worked.
+288) 
+It worked.
+101) GORDON
+Half the problem, isn’t it? I don’t even know that I can trust you.
+102) 
+Of course you can.
+103) 
+You can’t.
+104) 
+This is bigger than us.
+106) BATMAN
+It doesn’t matter if you trust me. We both do what we do for Gotham.
+107) BATMAN
+You can trust that.
+108) GORDON
+I have no way to keep tabs on you.
+109) GORDON
+Road to Hell, I guess.
+110) GORDON
+With the election and everything, my guys have been playing catch-up all night.
+111) GORDON
+[frustrated]We’re two steps behind everything the Children of Arkham are doing.
+112) GORDON
+But the bottom line is that you’ve got those...
+113) BATMAN
+Drones.
+114) GORDON
+Yeah. And I need all the resources that I can get right now.
+115) 
+You’ll owe me.
+116) 
+I’m with you.
+117) 
+I do this my way.
+118) GORDON
+You’re outside the law.
+119) GORDON
+And honestly, you’re a grown man dressing like a bat.
+120) GORDON
+I’ve got calls from all over; the Children of Arkham are out of control.
+121) GORDON
+I’ve been monitoring, sending out the guys I can.
+122) GORDON
+It feels like they’re trying to spread us out, keep us off balance, and--[that would be bad.]
+123) GORDON
+So it’s a whole operation.
+124) BATMAN
+With any luck, their leader will have come along for the ride tonight.
+125) 
+I can’t tell you.
+126) 
+You don’t want to know.
+127) 
+Charitible donations.
+128) BATMAN
+It’s none of your business.
+129) GORDON
+[harrumps]Truth be told, I’d rather not know anything.
+130) GORDON
+Come the day we’re not on the same side anymore, I want to feel good about throwing you in jail.
+131) BATMAN
+What are we looking at, Gordon?
+132) GORDON
+Thanks.
+133) GORDON
+Thanks.
+135) GORDON
+Thanks.
+134) BATMAN
+I’m headed over to Dent.
+136) COP02
+You heard the Commissioner. We’re not getting any back up. This is on us.
+138) HARVEY
+[terse]Please, just -- leave it! It’s not going to get any better.
+139) ASSISTANT
+[slightly panicked]But--but you’re bleeding.
+140) HARVEY
+[snapping]Then let Gotham see it!
+141) ASSISTANT
+Is that --[car following us?]
+142) HARVEY
+No, I told you it’s fine!
+143) ASSISTANT
+No! No, I mean. That car behind us, it’s pretty close.
+144) HARVEY
+[seeing the car; concerned]Yeah, you’re right... who is that?
+147) GORDON
+And god help you if you get any of them hurt.
+148) GORDON
+GCPD are stretched thin.
+154) BATMAN
+I’m not on your payroll, Jim.
+163) BATMAN
+I’m not on your payroll, Jim.
+167) GORDON
+[scared]Christ!
+168) GORDON
+You’re a spook, you know that?
+169) GORDON
+[angry]Christ! I don’t think anyone would blame me for shooting you.
+170) GORDON
+And thank god for that. You’re more trouble than you’re worth.
+171) GORDON
+Half hoping you wouldn’t show.
+172) GORDON
+That was the best thing I could come up with on short notice to get your attention.
+173) GORDON
+[snorts rudely]You talking about the light or associating with viligantes?
+175) GORDON
+I can’t believe I’m doing this.
+176) GORDON
+And I wouldn’t want you there.
+177) BATMAN
+The light?
+276) BATMAN
+The light.
+178) GORDON
+Not that I trust you with your methods being so unreliable--
+180) GORDON
+Small favors for both of us -- I’d hate to be your boss.
+181) BATMAN
+[dry]The light has a bat on it.
+499) BATMAN
+[dry]The light has a bat on it.
+183) GORDON
+I’m just glad it got your attention.
+184) GORDON
+Life is dangerous for us, Batman. Sometimes we have to pick our battles.
+185) GORDON
+Then I expect for you to bail me out of the fire.
+188) GORDON
+[under his breath]Guess you do.
+189) GORDON
+You wouldn’t get half my good will from the next guy in line for this desk.
+194) GORDON
+Look. I made it because as much as it galls me, I need your help.
+195) GORDON
+I made it because I need your help. It might not be the best option...
+196) GORDON
+But it’s the only one I got.
+197) GORDON
+I made it because I need your help.
+198) GORDON
+You and I, we can help each other here.
+199) BATMAN
+I help you tonight and you owe me one.
+200) BATMAN
+I help you tonight and you owe me one.
+201) GORDON
+Shouldn’t have expected more.
+202) GORDON
+[beat]Fine, damnit. You help me tonight and I owe you a favor.
+203) GORDON
+You help me out tonight and whatever I can do for you, I’m more than happy to do it.
+204) BATMAN
+Tell me what you need me to do.
+205) BATMAN
+Tell me what you need me to do.
+344) BATMAN
+Tell me what you need me to do.
+206) GORDON
+Didn’t think it would be that easy.
+207) BATMAN
+You and I don’t see eye to eye, but that won’t stop me from helping Gotham.
+208) GORDON
+[relieved]I’m glad you feel that way.
+209) BATMAN
+Don’t expect me to follow your rules.
+211) BATMAN
+Don’t expect me to follow your rules.
+346) BATMAN
+Don’t expect me to follow your rules.
+210) GORDON
+I know I can’t control you, but I really hope you don’t make me regret this.
+212) GORDON
+Hey--we’re both on the same side here. Let’s at least play nice.
+213) GORDON
+We’re just spread too thin.
+214) GORDON
+And sitting on our damn thumbs.
+215) GORDON
+It’s ridiculous.
+217) GORDON
+This is bigger than us. I don’t like it, maybe you don’t either.
+218) GORDON
+But we need to work as a team.
+219) GORDON
+It’s not the best situation in the world, but we need to work as a team.
+220) BATMAN
+You can trust me.
+221) GORDON
+Easy for you to say.
+222) BATMAN
+I’ve been telling you all along, you just weren’t listening.
+223) BATMAN
+You can’t trust me.
+224) GORDON
+That... does not inspire confidence.
+225) BATMAN
+That’s life. Suck it up.
+226) BATMAN
+That doesn’t mean that we can’t work together.
+227) GORDON
+But you’re all that I got.
+228) GORDON
+Surprisingly, I do.
+229) GORDON
+Guess it doesn’t matter, does it? We both care about Gotham.
+230) BATMAN
+I generally work alone.
+250) BATMAN
+I generally work alone.
+252) BATMAN
+I generally work alone.
+231) GORDON
+Good to know. I don’t need another liability on my hands.
+253) GORDON
+Good to know. I don’t need another liability on my hands.
+232) BATMAN
+That’s my business.
+247) BATMAN
+That’s my business.
+233) GORDON
+Not if we’re working together. I need to know my resources.
+234) BATMAN
+I’m helping you, not signing up for a job.
+235) BATMAN
+She saved the lives of some of your men.
+236) GORDON
+And I thank her for that, and you.
+237) GORDON
+I just like knowing my resources.
+238) GORDON
+Bats and Cats.
+240) GORDON
+Bats and Cats.
+239) GORDON
+What the hell is this city coming to?
+241) GORDON
+What the hell is this city coming to?
+242) BATMAN
+What she did wasn’t her fault. She was drugged.
+243) GORDON
+I don’t know her from the next vigilante -- but I saw what that stuff did to Montoya.
+244) GORDON
+Still. There’s going to be trouble if she comes around.
+245) BATMAN
+I’m not her keeper.
+246) BATMAN
+She was out of control at the debate.
+248) GORDON
+Not if we’re working together. She’s a liability.
+249) BATMAN
+She won’t be a problem.
+251) GORDON
+Good. I don’t need that kind of
+254) GORDON
+There’s going to be trouble if she shows up.
+255) GORDON
+Right.
+256) GORDON
+Doesn’t exactly help me out.
+257) BATMAN
+It’s the best I can do.
+258) BATMAN
+If I told you, I’d have to kill you.
+259) GORDON
+You shouldn’t joke wi
+260) BATMAN
+You know I can’t answer that.
+261) BATMAN
+You probably don’t want to know.
+262) GORDON
+You make it sound illegal.
+263) BATMAN
+Don’t ask questions you don’t want answered, Detective.
+264) BATMAN
+It’s all thanks to charitible donations.
+265) GORDON
+You know jokes don’t work with that mask, right?
+267) GORDON
+It would probably just get me in trouble anyway. Last thing I need is to be booked as an accomplice.
+268) GORDON
+Holographics.
+269) GORDON
+Flying... whatever the hell those were.
+270) GORDON
+A nicer car than I’ve ever driven, that’s for sure.
+271) NOTE
+This is a redressed env of the rooftop of the Mayor’s Office, minus the helipad.
+272) GORDON
+How did they know you were there?
+273) COP01
+[on radio]I don’t know! We walked in and they were behind us. Richards is down.
+274) GORDON
+Christ on a crutch -- pull back! Just pull back for now.
+275) GORDON
+I’m working on something. Gordon out.
+277) BATMAN
+What is that?
+278) BATMAN
+What is that?
+279) GORDON
+I thought you might be too busy to show.
+280) 
+Here I am.
+281) 
+[ALT] Quite the stunt...
+282) 
+Of course it got my attention.
+283) BATMAN
+It’s pretty obvious.
+494) BATMAN
+It’s pretty obvious.
+505) BATMAN
+It’s pretty obvious.
+284) GORDON
+[biting]Says the man dressed like a giant bat.
+495) GORDON
+[pointing out the obvious]Says the man dressed like a giant bat.
+506) GORDON
+[smiling]Says the man dressed like a giant bat.
+286) 
+[ALT] I don’t have time for this.
+313) BATMAN
+I don’t have time for this.
+290) 
+Good idea.
+427) 
+Good idea.
+291) GORDON
+Probably a mistake, but it was the best thing I could come up with.
+292) GORDON
+I didn’t have much time and needed to get your attention.
+293) BATMAN
+Well, it worked. I’m here.
+493) BATMAN
+Well, it worked. I’m here.
+502) BATMAN
+Well, it worked. I’m here.
+294) GORDON
+Yeah. Let’s just hope it’s worth it.
+295) BATMAN
+I don’t have time for stunts like this.
+296) GORDON
+[clipped]Well make time. Tonight this is bigger than both of us.
+314) GORDON
+[clipped]Well make time. Tonight this is bigger than both of us.
+297) GORDON
+I don’t like you, but tonight I need you.
+298) GORDON
+I didn’t call you here to sling mud.
+299) GORDON
+[dismissive]It did its job anyway.
+498) GORDON
+It did its job anyway.
+301) GORDON
+And I don’t really care what you think about it, it did its job.
+320) GORDON
+And I don’t really care what you think about it, it did its job.
+302) GORDON
+Misappropriation of precinct resources is what it is.
+303) GORDON
+Calling vigilantes.
+307) GORDON
+I hate this, having to resort to asking you for help, but there it is.
+308) GORDON
+I’m calling a truce. Just for tonight.
+309) BATMAN
+Why?
+310) GORDON
+Honestly, I don’t know if I can trust you-- your methods are all over the map.
+311) BATMAN
+Well, it worked.
+312) GORDON
+And now, we find out if it was a good idea.
+315) GORDON
+You going off the handle tonight could get me in a lot of trouble.
+316) BATMAN
+It’s obvious.
+317) GORDON
+It was supposed to be.
+318) GORDON
+Tonight it’s important.
+321) BATMAN
+It worked. I’m here.
+323) GORDON
+I appreciate it. Things are a mess.
+324) BATMAN
+It’s a good idea, Jim.
+325) GORDON
+Yeah, well. Function over form, I guess. It got the job done.
+425) GORDON
+Yeah, well. Function over form, I guess. It got the job done.
+326) BATMAN
+It’s a little bit... obvious.
+327) GORDON
+[flat]You haven’t looked in the mirror lately, have you.
+329) GORDON
+Look, it was meant to be obvious. I needed you here.
+331) GORDON
+I apologize for steppin’ on your toes, but it was important.
+333) GORDON
+I needed to get your attention and this is what I could come up with on short notice.
+334) GORDON
+You’re all over the map.
+335) GORDON
+But you’re the best bet I have right now.
+336) GORDON
+The only bet.
+337) GORDON
+I may not always agree with your methods, but I need your help.
+338) GORDON
+I’m down to the wire here.
+339) BATMAN
+What’s going on?
+340) GORDON
+I know you have Gotham at heart.
+341) GORDON
+We’re on the same side.
+342) GORDON
+You’ve been a good friend to the force in the past, hopefully you don’t mind me calling on you for help now.
+343) BATMAN
+Bring me up to speed.
+687) BATMAN
+Bring me up to speed.
+345) GORDON
+[relieved]Thank you.
+347) GORDON
+I’ll give you your head, since I know you’ll use it.
+349) 
+She’s not my partner.
+351) 
+You don’t get to decide that.
+352) BATMAN
+We’re not partners.
+354) BATMAN
+That’s something you don’t get a say in.
+355) GORDON
+Coulda fooled me.
+357) GORDON
+Coulda fooled me.
+356) GORDON
+But good. I’m asking you for help tonight, not her.
+358) GORDON
+But better for you -- she caused a real mess at the debate.
+359) GORDON
+Glad to hear it. I called you and you alone tonight.
+361) GORDON
+Those are my cops out there and she’s been implicit in a whole bunch of criminal activity.
+362) GORDON
+I don’t need my guys deciding to shoot at her.
+363) GORDON
+Good to hear. I only want to have to worry about you tonight.
+364) 
+She helped save your men.
+365) 
+What happened wasn’t her fault.
+366) BATMAN
+She helped me save your men at the debate.
+367) GORDON
+Didn’t say she didn’t--I just don’t want to be responsible for two of you tonight.
+368) BATMAN
+She wasn’t in control of herself at the debate. She’d been drugged.
+369) GORDON
+Just like Montoya.
+370) BATMAN
+Yes.
+686) 
+yes
+371) GORDON
+[sighs]Be that as it may, I’d rather not be responsible for the both of you tonight.
+372) GORDON
+What is it with you people and animals?
+377) GORDON
+What is it with you people and animals?
+373) GORDON
+It’s weird.
+374) GORDON
+I’m glad to hear that.
+375) GORDON
+Besides, the Commissioner doesn’t know that I’m up here right now.
+376) GORDON
+He’s not the biggest fan of vigilantes.
+378) GORDON
+You ask me, I think it’s weird.
+379) BATMAN
+Pauling.
+380) GORDON
+Yeah. So let’s wrap this up.
+381) 
+We’re good for this city.
+382) GORDON
+Reorganizing the guys I can’t.
+383) 
+No one’s going to tell him.
+384) GORDON
+But it’s too much of the latter. It’s like they’re trying to wear us down.
+385) GORDON
+Considering that I’ve got the Commissioner breathing down my neck and he does not like vigilantes.
+386) BATMAN
+Pauling doesn’t know you’re here with me?
+387) GORDON
+You kidding? I like my job -- and he’s a good guy and a good cop. I’d rather not piss him off.
+388) GORDON
+So let’s make this fast.
+389) GORDON
+I need you to go in and back up the cops.
+390) 
+It’s not a good plan.
+391) 
+I could back her up.
+392) 
+She hasn’t earned my help.
+393) BATMAN
+Getting this “Voice” is my first priority.
+394) GORDON
+You think if you get him--
+395) BATMAN
+All their momentum will fall apart.
+397) BATMAN
+Together we’ll keep the people safe.
+398) BATMAN
+I’m no one’s backup. You need to tell your men to stay out of my way.
+399) GORDON
+Don’t make me regret asking you for help.
+400) GORDON
+They’ll stay clear, but try not to do anything to piss them off.
+401) BATMAN
+I get him and their movement falls apart.
+402) GORDON
+Don’t let innocent people get in the way of your goal.
+403) GORDON
+That’s what I like to hear.
+405) GORDON
+[grumbles]I’m not trying to tell you how to work, here.
+406) GORDON
+Just go in and... do what you do.
+407) GORDON
+We’re seriously understaffed out there.
+408) GORDON
+At this rate we’re hardly holding our own.
+410) GORDON
+Attacks are scattered all over the city, but I think I see where they’re going.
+411) GORDON
+You’ll have to narrow it down.
+412) GORDON
+So here’s what we got. While I was waiting for you, I was listening to the radio.
+413) GORDON
+So here’s what we got. While I was waiting for you, I was listening to the radio.
+414) GORDON
+Attacks are scattered all over the city, but we can’t get our men in there for intel without tipping them off.
+415) BATMAN
+I’m on it.
+416) BATMAN
+[to Alfred]You there?
+417) ALFRED
+[OS]Always.
+418) BATMAN
+Launch the drones. I need eyes on the city.
+419) ALFRED
+[OS]Lucius has made some upgrades. I’ll let him explain.
+420) LUCIUS
+[OS]The original drones were entirely visual in design, but I thought that audio might be helpful as well.
+421) 
+Nice work.
+613) BATMAN
+[PICKUP]Nice work.
+422) LUCIUS
+Now you’ll be able to pick up conversations as well as display. The complete AV package.
+423) GORDON
+Mind telling me where you get the funding for all this stuff?
+424) BATMAN
+Not a bad idea. I’m impressed.
+496) BATMAN
+Not a bad idea. I’m impressed.
+503) BATMAN
+Not a bad idea. I’m impressed.
+426) 
+I’m impressed.
+428) BATMAN
+It’s a good idea.
+429) 
+He doesn’t know you’re here...
+430) 
+No one likes vigilantes.
+431) 
+Allied
+432) 
+Shaken
+433) 
+Broken
+434) 
+You wanted help.
+435) 
+My butler.
+442) BATMAN
+My butler.
+436) 
+None of your concern.
+437) 
+Just what I needed.
+438) 
+Why didn’t I already have this?
+439) GORDON
+Who are you talking to?
+440) BATMAN
+A friend who can help us.
+441) GORDON
+You mind telling me that friend’s name?
+443) GORDON
+A bat with a butler, funny. Don’t quit your dayjob.
+444) BATMAN
+Batman gives Gordon a steely-bat glare.
+445) BATMAN
+That’s none of your concern, Gordon.
+446) GORDON
+Don’t know why I thought I’d get an answer.
+448) ALFRED
+Alright, patching you through to R&D in Wayne Enterprises.
+449) LUCIUS
+Batman. So listen...
+450) LUCIUS
+Pretty neat, isn’t it?
+451) BATMAN
+Nice work, Lucius.
+452) LUCIUS
+Thanks. I’ll talk to you soon.
+453) BATMAN
+Thank you, Lucius. This is just what I needed.
+454) LUCIUS
+[joking]Being one step ahead of Batman is kinda my job.
+455) LUCIUS
+Signing off.
+456) BATMAN
+And why didn’t I already have this?
+457) LUCIUS
+Tech upgrades take time.
+458) LUCIUS
+I do run your [stress]actual Research and Development department as well.
+459) LUCIUS
+Which I guess I’ll get back to.
+460) LUCIUS
+[with a sigh]Yeah, you’re welcome.
+461) LUCIUS
+Just keep in mind it’s a limited directional cone, so you need to point the microphone exactly at what you want to hear.
+462) LUCIUS
+Over and out.
+463) LUCIUS
+Other than that, you’ll be good.
+464) BATMAN
+Can’t say I’m surprised. Not many people like vigilantes.
+465) GORDON
+But to tell you the truth you’ve started to change my mind.
+466) GORDON
+Doesn’t mean I’m not still keeping my eye on you.
+467) GORDON
+Yeah, well. You step on a lot of toes that way.
+468) GORDON
+And spare me the “it takes broken eggs to make an omlette” B.S.
+469) GORDON
+You don’t give people many reasons to like you.
+470) 
+You must really need help.
+471) BATMAN
+You must be desperate for help.
+472) GORDON
+I’m not going to say yes to that, but let’s just say you’re not my first choice to handle the situation.
+474) GORDON
+Just do me a favor and keep a low profile, okay?
+475) GORDON
+Just don’t mention who sent you.
+476) GORDON
+Like police doing police work.
+477) GORDON
+[dry]Pretty old-school like that.
+478) LUCIUS
+Pretty much the full package, now.
+479) LUCIUS
+Nothing you can’t do with these guys.
+480) LUCIUS
+You’re like... Big Brother.
+481) GORDON
+Don’t make me regret this, Batman.
+482) GORDON
+I’m going out on a--[limb]
+484) GORDON
+[into the radio]Hang in there alright.
+706) GORDON
+[into the radio]Hang in there alright.
+485) COP01
+[over the radio]They knew we’d be there, Jim. We don’t have enough officers to deal with this!
+486) GORDON
+[into the radio]Look, everyone’s stretched thin. I’m doing what I can.
+487) GORDON
+[into the radio]I have to go.
+488) GORDON
+I didn’t have a lot of options.
+489) GORDON
+So, here we are.
+490) GORDON
+[cold]I have good ones every now and then.
+497) GORDON
+[shrugs]I have good ones, every now and then.
+491) GORDON
+I’d rather have you arrested than come to you for help, but the truth is we’re desperate.
+492) GORDON
+The GCPD needs your help.
+500) BATMAN
+[dry]That light, has a bat on it, Jim.
+501) GORDON
+You give me a number to call, I’ll rethink my methods.
+504) GORDON
+[good-natured]Yeah well I do have them from time to time.
+507) GORDON
+With the election and everything, we’re always two steps behind the Children of Arkham.
+508) GORDON
+We need a hand.
+509) GORDON
+It’s like they know our every move.
+510) GORDON
+We can’t keep up like this.
+511) GORDON
+So I’m asking for your help.
+512) GORDON
+I respect your judgment. I won’t question you now.
+513) GORDON
+Fine. I owe you a favor. If that’s what it takes for you to help Gotham.
+514) GORDON
+But I have my limits, Batman.
+515) GORDON
+[to himself]Figures.
+516) GORDON
+Fine. Whatever you need, I’m more than happy to do it.
+517) GORDON
+Don’t make me beg, alright?
+518) GORDON
+You’re good at what you do. We need you.
+519) GORDON
+I guess that’s not a “no”.
+520) GORDON
+Your partner isn’t gonna show up out of the blue is she?
+521) GORDON
+Let’s just keep this between us, alright.
+522) GORDON
+Commissioner Grogan isn’t a big fan... and he doesn’t exactly know you’re here.
+523) GORDON
+Catwoman.
+524) GORDON
+I don’t need to be worried about two of you out there tonight.
+530) GORDON
+I don’t need to be worried about two of you out there tonight.
+525) 
+Do you want her here?
+526) BATMAN
+Why? Do you want her here?
+527) GORDON
+No!
+528) GORDON
+I only want to be responsible for one of you out there tonight.
+529) GORDON
+Well I hope it’s just you anyway.
+531) 
+Going rogue, Gordon?
+532) GORDON
+He’s got a thing about vigilantes.
+533) GORDON
+I’d rather just keep him out of it.
+534) GORDON
+He’s a good cop.
+535) GORDON
+And I don’t like hiding things from him.
+536) GORDON
+I didn’t either.
+537) GORDON
+I won’t lie to you. We’re in way over our heads with this one.
+538) BATMAN
+Never took you for a rule-breaker.
+539) GORDON
+Yeah well don’t get used to it. This is a one time thing.
+540) GORDON
+I don’t like keeping thin
+541) GORDON
+But I have to keep people safe.
+542) GORDON
+One of you is bad enough.
+543) GORDON
+There are innocent people out there, Batman.
+544) GORDON
+Do what you have to, but their safety comes first. Always.
+545) GORDON
+It took a lot just to convince them not to shoot you.
+546) GORDON
+You got a whole team or something?
+547) GORDON
+I guess you’re not gonna give me a name then huh.
+548) GORDON
+[dry]Yeah, hilarious.
+549) GORDON
+Yeah that’s what I thought you’d say.
+550) LUCIUS
+The first model was only equipped for visual surveillance, but seeing how you used them at the Skyline... I thought you’d need an audio feed as well.
+551) LUCIUS
+The microphones are incredibly sensitive... they can pick up sounds from up to five hundred yards.
+552) LUCIUS
+In some cases you’ll even be able to hear through walls.
+553) LUCIUS
+Like x-ray... hearing.
+554) LUCIUS
+I’ll think of a better name.
+555) LUCIUS
+Alright, they’re all yours.
+556) LUCIUS
+I gotta go. My turn to put the kids to bed.
+557) LUCIUS
+Good luck out there, Batman.
+558) GORDON
+High-tech drones...
+559) GORDON
+These things don’t come cheap.
+560) 
+[ALT]You ask a lot of questions.
+561) BATMAN
+You ask a lot of questions.
+562) GORDON
+It’s kind of my job.
+563) GORDON
+[mostly to himself]Why do I even ask?
+564) GORDON
+And now this Voice is out there, organizing them...
+565) BATMAN
+[ALT]Tell me where the hotspots are.
+566) GORDON
+We’ve got some activity down at the new Wayne Hospital construction site. I’ve got two cops on the ground, but they can’t get close.
+567) GORDON
+A few of those masked goons were spotted over near the docks. Not sure what they’re up to.
+568) GORDON
+And we’re trying to keep eyes on Harvey.
+569) GORDON
+Just don’t think that... [this means we’re partners.]
+570) GORDON
+There were some people hanging around at his acceptance speech, seemed like they were following him.
+571) GORDON
+[ALT]With Harvey’s election and everything, my guys have been playing catch-up all night.
+572) BATMAN
+[dissaproving]You’re calling their leader the Voice?
+573) GORDON
+The news is. That’s not the point.
+574) 
+Renee Montoya
+575) 
+Alley
+576) 
+Docks
+578) 
+Docks
+577) 
+Harvey Dent
+579) GORDON
+Montoya’s on leave. We don’t have nearly enough support out there.
+580) GORDON
+I’ll let my guys know you’re on your way.
+581) GORDON
+You know, so they don’t shoot at you again.
+583) GORDON
+[into the radio]We’ve got help coming to the docks.
+584) GORDON
+[into the radio]We’ve got help coming to the construction site.
+585) GORDON
+[into the radio]Sqaud three, pick up.
+586) COP01
+[pickup]Gordon, you there?
+587) GORDON
+Yeah. You’ve got help incoming. Fall back and regroup with squad two.
+588) COP01
+[pickup]You got it.
+589) COA01
+[pickup]--barrels of this stuff to transfer.
+590) COA01
+[pickup]And don’t spill any of it.
+591) COMMISSIONER
+[into the radio]No... thank you. I’ll handle it.
+592) COMMISSIONER
+[introducing himself]Commissioner Grogan.
+593) COMMISSIONER
+Only way I could think of to get your attention.
+594) 
+Tell me what you want.
+595) 
+Not very subtle.
+596) 
+I like it.
+597) BATMAN
+You didn’t call me down here to see the view did you?
+598) BATMAN
+Not one for subtlety are you, Grogan?
+599) COMMISSIONER
+That’s Commissioner to you.
+600) COMMISSIONER
+And I didn’t have a lot of time. Obvious is better than nothing.
+601) COMMISSIONER
+No... I’ve got a problem.
+602) BATMAN
+Not a bad idea.
+603) COMMISSIONER
+Thanks. I do have them every now and then.
+604) COMMISSIONER
+It’s not much, but...
+605) COMMISSIONER
+It did the trick.
+606) COMMISSIONER
+Not much of a talker are you?
+607) COMMISSIONER
+Listen, Gordon’s gone missing.
+608) COMMISSIONER
+I put him on desk duty after that disaster at the debate, but he keeps talking about going after the Children of Arkham, clearing Montoya’s name...
+609) COMMISSIONER
+Then he’s just gone. No word. No sign of him for days.
+610) 
+I haven’t seen him.
+611) 
+Why wait to tell me?
+612) 
+You waited DAYS?
+614) BATMAN
+[PICKUP]This is just what I needed. Thank you.
+615) GORDON
+[PICKUP]One of my officers is in danger.
+616) BATMAN
+[PICKUP]Name?
+617) GORDON
+[PICKUP]Right. Renee Montoya. One of my officers.
+618) GORDON
+[PICKUP]She’s supposed to be on leave, but she got a tip on the Children of Arkham’s chemical stash. Went rogue.
+619) GORDON
+[PICKUP]I told her to wait, but this is personal.
+620) GORDON
+[PICKUP]She’s out there alone and I can’t spare anyone to back her up.
+621) GORDON
+[PICKUP]She’s a good cop. One of my best.
+622) GORDON
+[PICKUP]She could be in real danger.
+623) GORDON
+[PICKUP]But I don’t have any men to spare right now.
+624) GORDON
+[PICKUP]I hear you. But the Children still have a lot of that chemical out there.
+625) GORDON
+[PICKUP]The Children stole a lot of that chemical at the warehouse. Find their supply and you may find this... “Voice.“
+626) GORDON
+[PICKUP][ALT]But do what you have to do. God knows, I can’t give you orders.
+627) GORDON
+[PICKUP]You help Montoya find their stash and this... “leader” will have one less weapon.
+628) BATMAN
+[PICKUP]Montoya tried to take me down. She can handle this herself.
+629) GORDON
+[PICKUP][skeptical]Really... [sarcastic]Who’s gonna break the news to Catwoman?
+631) GORDON
+[PICKUP]The Children of Arkham pumped her full of that junk.
+632) BATMAN
+[PICKUP]I’ll find her. We’ll take down the Children of Arkham together.
+633) GORDON
+[PI
+634) GORDON
+[PICKUP]Please. We need your help. I need your help.
+635) GORDON
+[PICKUP]{ThinkingA}Gordon here.
+636) COP02
+[PICKUP]Gordon, this is Schultz. Over.
+637) COP02
+[PICKUP]I don’t know! We lost him. He took off and left us behind.
+638) GORDON
+[PICKUP][frustrated]{AngryB}Christ! One more crisis I can’t deal with right now!
+639) GORDON
+[PICKUP]We’ve gotta keep both Montoya and Dent safe. [unsure how to do it]Somehow.
+640) GORDON
+[PICKUP]I heard Montoya say she was headed to the Wayne Hospital construction site.
+641) BATMAN
+[PICKUP]What about Dent?
+642) GORDON
+[PICKUP]Probably headed to his acceptance speech. They’d just left the hospital when we lost sight of him.
+643) MONTOYA
+[PICKUP]Nobody move! This is the police!
+644) COA02
+[PICKUP][shouting]Get her!
+645) BATMAN
+[PICKUP]Harvey’s in transit. He’s going to need your help.
+646) GORDON
+[PICKUP]I’ll do what I can.
+648) GORDON
+[PICKUP]I’ll do what I can.
+647) BATMAN
+[PICKUP]You better send whoever you’ve got to Montoya.
+649) BATMAN
+[PICKUP]Getting their leader is my first priority.
+650) GORDON
+[PICKUP][disappointed]Thought I could count on you. But maybe I was mistaken.
+651) GORDON
+[PICKUP]She’s trying to clear her name after those animals manipulated her into killing Falcone.
+652) HARVEY
+[PICKUP]What do you keep looking at?
+653) ASSISTANT
+[PICKUP]That car’s been behind us since the hospital.
+750) ASSISTANT
+[PICKUP]That car’s been behind us since the hospital.
+654) HARVEY
+[PICKUP]You don’t think I already noticed that?
+655) ASSISTANT
+[PICKUP]Are we in danger?
+656) HARVEY
+[PICKUP]Just drive faster.
+657) GORDON
+[PICKUP][ALT]Commissioner Grogan wants you arrested and I’d do it, but the truth is we’re desperate.
+658) GORDON
+[PICKUP][ALT]Commissioner Grogan wants you off the streets.
+659) GORDON
+[PICKUP][ALT]Commissioner Grogan may not like you, but I don’t care.
+660) BATMAN
+[PICKUP]Send whatever men you can spare after Dent.
+661) BATMAN
+[PICKUP]Your guys are gonna have to handle Montoya.
+662) COP03
+[PICKUP]Unit six requesting backup. Corner of 15th and Main.
+663) GORDON
+[PICKUP]{AngryB}These Children of Arkham are everywhere all of a sudden.
+664) GORDON
+[PICKUP]{TiredA}Where the hell’d they all come from?!
+665) 
+Ask Cobblepot.
+666) BATMAN
+[PICKUP]{ThinkingA}You want answers? Ask Oswald Cobblepot.
+667) GORDON
+[PICKUP]{ThinkingB}Cobblepot? I’ll bring him in for questioning.
+668) 
+It’s Thomas Wayne’s fault.
+669) BATMAN
+[PICKUP]{ThinkingA}You saw the video from Arkham Asylum. The whole city did.
+670) GORDON
+[PICKUP]{ThinkingA}That all happened a long time ago.
+671) BATMAN
+[PICKUP]{AngryA}It got dug up. And so did all the anger.
+672) 
+Focus on ending them.
+673) BATMAN
+[PICKUP]{AngryA}Nevermind how this began. We have to focus on ending it.
+674) GORDON
+[PICKUP]{AngryA}If you’ve got any bright ideas how to do that, I’m all ears.
+676) GORDON
+[PICKUP]I {TiredA}never heard of them before.
+677) GORDON
+[PICKUP]And now they’re tearing up the entire city.
+678) GORDON
+[PICKUP]Then that debate...
+679) GORDON
+[PICKUP{TiredA}]I wasn’t expecting all the answers now.
+680) GORDON
+[PICKUP]{AngryA}But an answer would have been nice.
+681) GORDON
+[PICKUP]I’ll round up what officers I can. Gonna have to head out there myself too.
+682) GORDON
+[PICKUP][ALT]I heard Montoya say she was headed to a construction site.
+683) GORDON
+[PICKUP]Could be where the handoff is happening.
+684) COA01
+[PICKUP]You just keep an eye out for that cop.
+685) GORDON
+[PICKUP]Montoya’s car was spotted crossing the bridge to Arkham Island.
+688) BATMAN
+[PICKUP]The one who tried to shoot me.
+689) GORDON
+[PICKUP]I know, but hear me out...
+690) BATMAN
+[PICKUP]She went rogue and you didn’t try to stop her?
+691) GORDON
+[PICKUP][angry]I did what I could, all right?
+692) COP02
+[PICKUP]We got a problem with the mayor, sir.
+693) GORDON
+[PICKUP][panicked]What happened? Is he okay?
+694) BATMAN
+[PICKUP][annoyed]I’ll answer your questions when I’m not busy.
+695) GORDON
+[PICKUP][peace]Say no more.
+696) BATMAN
+[PICKUP]Okay, Gordon. Where should we look for them?
+697) COP03
+[PICKUP]We got a major disturbance here. Several armed suspects on the loose.
+698) GORDON
+[PICKUP][ALT]How did this start?
+699) GORDON
+[PICKUP]What’s caused this to happen?
+700) BATMAN
+[PICKUP]Thomas Wayne caused this mess.
+701) GORDON
+[PICKUP]You’re right. Keep moving forward.
+702) GORDON
+[PICKUP][paternal]I know this is risky, Batman. Just be caref-[realizes he’s alone]
+703) GORDON
+[PICKUP][frustrated]Oh.
+704) COP03
+[PICKUP]Unit Six in pursuit of suspects westbound on 15th Street.
+732) COP03
+[PICKUP]Unit Six in pursuit of suspects westbound on 15th Street.
+705) COP04
+[PICKUP][shocked]Holy-
+707) COP04
+[PICKUP]They got a car behind us now!
+709) GORDON
+[PICKUP]Is it them? Can you confirm?
+729) GORDON
+[PICKUP]Is it them? Can you confirm?
+711) COP03
+[PICKUP]Negative. They’re taking shots at us whenever we get close.
+731) COP03
+[PICKUP]Negative. They’re taking shots at us whenever we get close.
+712) GORDON
+[PICKUP]Understood. [beat]Stay on em. We’ll think of something.
+734) GORDON
+[PICKUP]Understood. [beat]Stay on em. We’ll think of something.
+713) COP03
+[PICKUP]A little help would be nice.
+733) COP03
+[PICKUP]A little help would be nice.
+714) GORDON
+[PICKUP]Nine Adam Three Seven, I haven’t forgotten you.  Dealing with situations all over the city.
+715) GORDON
+[Pickup] Nine Adam Three Seven come in.
+716) COP01
+[Pickup] Nine Adam Three Seven, here.
+717) BATMAN
+[pickup]Nice.
+718) BATMAN
+[pickup][ALT]I got your message.
+719) GORDON
+[PICKUP]That friend got a name?
+720) BATMAN
+[PICKUP][to Gordon]Any idea where they might be?
+721) GORDON
+[PICKUP]Is it the Children of Arkham? Can you confirm?
+730) GORDON
+[PICKUP]Is it the Children of Arkham? Can you confirm?
+722) GORDON
+[PICKUP]Doing what I can.
+735) GORDON
+[PICKUP]Doing what I can.
+723) GORDON
+[PICKUP]I’m asking for your help.
+724) COP03
+[PICKUP][it’s the Children of Arkham]It’s them, sir.
+725) GORDON
+[PICKUP]We need a visual on Montoya and Dent, but I don’t have enough guys to spare.
+726) BATMAN
+[PICKUP]A little busy at the moment, Jim.
+727) BATMAN
+[PICKUP][ALT]Any leads?
+728) GORDON
+[PICKUP][ALT]
+736) 
+You let her go rogue!
+737) 
+Give me a moment.
+738) ASSISTANT
+[to the driver]Take a left down here!
+747) ASSISTANT
+[to the driver]Take a left down here!
+739) BATMAN
+[worried]Harvey...
+740) ALFRED
+That didn’t sound good.
+741) HARVEY
+Dammit!
+749) HARVEY
+Dammit!
+742) HARVEY
+God, is this guy trying to drive us off the road.
+745) HARVEY
+God, is this guy trying to drive us off the road.
+743) HARVEY
+What the--?
+748) HARVEY
+What the--?
+744) ASSISTANT
+Oh god, he’s been following us for the last five blocks.
+746) ASSISTANT
+Oh god, he’s been following us for the last five blocks.

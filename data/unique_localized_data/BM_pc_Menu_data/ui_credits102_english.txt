@@ -1,0 +1,546 @@
+﻿#### 719a9a07cd | choice/UI | x2
+^font:GameplayDisplayLarge.font^^glyphScale:0.8^Children of Arkham
+
+#### d453004ccc | choice/UI | x8
+^^Mark Anquoe
+
+#### 2a8a6df07a | choice/UI | x2
+^^Meredith Ainsworth
+Zachary Keller
+
+#### 8d3e64d999 | choice/UI | x2
+^^Mark Darin
+Chris Hockabout
+Luke Maulding
+Juan Vaca
+
+#### 402fcd9bcb | choice/UI | x4
+^^Eric Ingerson
+Mindwalk Studios
+
+#### 23fb6c3969 | choice/UI | x2
+^^Linda Bork
+Mark Droste
+Matthew Leach
+Andrew McDonell
+Christopher Rieser
+
+#### ca565e332f | choice/UI | x2
+^^Virtuous Games
+Anthony Scarlata
+Jay Susuico
+
+#### b8bc6ce841 | choice/UI | x4
+^^Virtuos Games
+
+#### e7325bfd4b | choice/UI | x2
+^^John Grello
+
+#### 70aa27be21 | choice/UI | x10
+^font:MenuDisplaySmall.font^ADDITIONAL TECHNICAL ART AND EFFECTS
+
+#### 7284c5fb41 | choice/UI | x2
+^^Jason Armstrong
+Tracey Landau
+Valeria Reznitskaya
+
+#### 4863309fd8 | choice/UI | x2
+^^Etienne Grunewald
+Bryan Roth
+Adam Sarasohn
+
+#### 7b5110230d | choice/UI | x2
+^^Michael Daglow - Lead
+Romel Alonzo
+Kasen Bien
+James Chapman
+Max Giganti
+Richard D Heath
+Alejandro Ibarra
+Tim Johnson
+Marylena LeBlanc
+Devon Mosley
+Bryson Perez
+William Quismorio
+Benjamin Vizcaino
+Randal West
+
+#### 5c52677d60 | choice/UI | x4
+^font:MenuDisplaySmall.font^BATMAN, BRUCE WAYNE, THOMAS WAYNE
+
+#### f7b1a14aeb | choice/UI | x8
+^font:MenuDisplaySmall.font^SONG TITLE 1
+
+#### 4386a8824f | choice/UI | x8
+^^Song Info
+
+#### e0f8e71046 | choice/UI | x8
+^^Babel
+
+#### 2f77394efa | choice/UI | x8
+^font:MenuDisplaySmall.font^____  2 SERVICES PROVIDED BY
+
+#### 786d20f741 | choice/UI | x12
+^^Name of Company(s)
+
+#### a3ee5eef75 | choice/UI | x8
+^font:MenuDisplaySmall.font^SENIOR PLATFORM ENGINEER
+
+#### e689613712 | choice/UI | x8
+^^Oleg Zilberman
+
+#### 903004f545 | choice/UI | x2
+^^Ricardo de Avila
+David Choe
+Elena Morillo-Peterson
+Cody Wade
+Johnny Wing
+
+#### 010ba1588d | choice/UI | x4
+^^Matthew Pedonti
+Ashley Burns
+
+#### 0c18953deb | choice/UI | x2
+^^Portions Copyright
+
+FMOD Studio by Firelight Technologies
+
+Uses Simplygon (TM), Copyright © 2014 Donya(TM) Labs AB
+©2002 Jean-Marc Valin
+
+Uses Oodle.  Copyright (C) 2008-2016 by RAD Game Tools, Inc.
+
+Copyright © 1994–2016 Lua.org, PUC-Rio.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
+associated documentation files (the Software), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the
+following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial
+portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT
+OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+
+This game is a work of fiction. All of the characters, events, locations, logos, and entities portrayed are
+fictional. Any resemblance to real persons, living or dead, or actual events, is purely coincidental.
+
+Software code © 2016 Telltale, Inc. All other elements ©2016 DC Comics. BATMAN and all related
+characters, their distinctive likenesses, and related elements are the property of DC Comics. ™ &©
+2016. Telltale, Telltale Games, Crowdplay, the Crowd Play logo and the Telltale logo are trademarks
+and/or registered trademarks of Telltale, Inc. All rights reserved.
+
+WBIE LOGO, WB SHIELD: ™&© Warner Bros. Entertainment Inc.
+
+All other trademarks are the property of their respective owners. All rights reserved.
+
+#### a7e312f994 | choice/UI | x4
+^^In memory of Mark Neil
+
+#### aedfa2edcb | choice/UI | x2
+^^James Windeler - Lead
+Patrick Day
+Andrew Hanson
+Shanon Ingles
+Meghan Thornton
+
+#### c1592867c0 | choice/UI | x2
+^^Michael Kirkbride - Lead
+Emily Garrison
+Matthew McManus
+
+#### 02960ec13a | choice/UI | x2
+^^Jonathan Stauder
+
+#### 804f5324c6 | choice/UI | x2
+^^Jason Kim - Lead
+David Grem Armstrong
+Michael Carpenter
+Greg Felber
+Tulley Rafferty
+John Wetmiller
+
+#### 8baa877ebd | choice/UI | x2
+^^Michael Tjosvold  - Lead
+Tyler Helton
+Michael Hollander
+Nick Diazambi Malutama
+Chris McCormick
+Ryan Rasmussen
+Ramon Torralba
+Angelita R Wylie
+
+#### fff49bb085 | choice/UI | x2
+^^Sean Manning - Lead
+Marissa E Bernstel
+Bridget Bougan
+Kyle Cabral
+Ryan Chan
+Patrick Clark
+Colter Coates
+Justin M Dunkle
+Airyque Ervin
+Hillary Galvin
+Michael Gambino
+Ori Gellman
+Andrew Goh
+Rogelio Gonzalez
+Marina Ilic
+Jane Kim
+Erin King
+Jonathan Kwok
+Zachary Macias
+Emma Camila Magrane
+Keenan Manely
+Nicholas Marshall
+Jarann Yen Pan
+Brett R Rogstad
+Daniel Rosales
+Sean Stewart
+Ryann Lynn Weller
+Robert Wilson
+Shu Yu Zhang
+
+#### 758f45c399 | choice/UI | x2
+^^Christian de los Santos - Lead
+Brian Gillies
+Julia Lichtblau
+Amanda Stewart
+Josh Tyler
+Jan Wyss
+
+#### 7c34fadc11 | choice/UI | x2
+^^Daveed Kaplan - Lead
+Jay Lenn Cardona
+John Carnabuci
+Brandon Cebenka
+Davide Pagin
+John R. Miller
+Michael Sherak
+Michael Vallejo
+
+#### 82d398987c | choice/UI | x8
+^^Craig Schiller - Lead
+Derek Godat
+
+#### b466f77d05 | choice/UI | x2
+^^Gray Rogers
+Michael Broussard
+Brian G Matyas
+Jason Merck
+Rolf Mohr
+
+#### e9b9438e50 | choice/UI | x8
+^^David Reed Monroe - Lead
+Luke Aiello
+Hain Lee
+Adrianne Pugh
+Katie Zammit
+
+#### 18ba60af46 | choice/UI | x2
+^^Jeffrey Benjamin – Lead
+Farhan Noor
+Emily Overfelt
+Michael Perretta
+William L Walker
+
+#### ff3697e07e | choice/UI | x2
+^^Lazar Levine - Lead
+Brian Correia
+Craig Deskins
+Michael Patterson
+
+#### b2100d9f63 | choice/UI | x4
+^^Will Beckman - Lead
+Arthur von Nagel
+
+#### f6f58c6b6f | choice/UI | x6
+^font:MenuDisplaySmall.font^CREATIVE LEADS
+
+#### 92abae6441 | choice/UI | x6
+^^Andrew Grant
+Kent Mudle
+
+#### b0e4a68ebe | choice/UI | x2
+^^Anne Cunningham
+Lisa Schulz
+
+#### 460082fbb3 | choice/UI | x8
+^^Jay Chaney
+Chris Vossen
+
+#### 6a0e34d585 | choice/UI | x2
+^^Greg Masto
+Andrew Smallwood
+
+#### 07fcd0b059 | choice/UI | x2
+^^Kevin Bruner
+Zacariah Litton
+Jonathan Sgro
+Randy Tudor
+David Brady
+Lex Chesler
+Matt Davidson
+Michael Eads
+Scott Eberline
+Benn Herrera
+Ben Ingram
+Tim Ingram
+Alex Montgomery
+Mike Parsons
+Karen Petersen
+Bernd Raabe
+Chris Schmelzle
+Michael Schwartz
+Ceri Stagg
+Nicholas Van Sickle
+Eric Yiskis
+
+#### 3e28fb5e9e | choice/UI | x2
+^^Greg Miller
+Rachel McCormick
+Nic at Night, Power Penny and Super Gwen
+Alina Gomenyuk
+Michelle, Danielle, Ariel, and Carmel
+Megan Rawr
+Selena Nadav
+Heidi, Mike, Ashley, Ben, Laura, Deb
+Justin “Rock Lee” Wong, Loretta Kwok
+Sarah Wawrzynowski, The Masto Family
+Susan Kim
+Allison Gazdik
+Cameron and Colin Baird, John Thornton III
+Omar Bruce
+Misty Lord
+Dina Tyler, Joyce Walker, Devin Ramirez
+Raajen Patel
+Jenny “Overwatchdog” Hamlin
+Yohanna “Cantik” Weller
+Jennifer Charlee armstrong
+Nikki Smith
+Emi Eads
+Heid and Virginia Ann Stauder
+Jessica Speeckaert
+Natalie Helton
+Hiro Harada
+Lisa, Hunter & Scarlett Rozmarin
+Omma, Appa, and the other Kimbling
+Kathleen Glover
+Laura, Declan & Aylish
+A.J IV and Helen Riebli
+The Vallejo Family
+Joe Arcovitch
+Ruby Robinson
+Michelle and Seraphine Nguyen
+Ima, Daddy, Natalie, Ron, and Jonah
+Karla, Sandra, and Rogelio
+Kim, Alan, and Christopher Koepf
+Darya Makarave
+Lynn Coates
+Nick Topolos
+Alexis Chesler
+Jim & Elliot Locker
+Daniel Garrison
+Kelly & Lisa O’Connor
+Abby & Uncle Butch
+Adam & Mishauno, Pat Evans, The Otters & Tatty!
+Amber von Nagel
+JEff Sinclair
+Doki
+Denis Tosti, Ryan Tosti, Alexis Tosti
+Luis Alicia
+Luis, Alicia, Alyn and Miguel Rosales, Deena Mustin, Dustin Garza, Jessica Matter
+To my brother, Robert Alan Wylie
+Haley Kavanagh
+Coffee Bean & Tea Leaf
+To my Habibtak Dima and Habibi Remy!
+Denae Beirnes
+The Go Family
+My Wife Hezachan
+Steph & Caleb Rogers
+John Sanders, Henrietta Sanders
+Julie, Violet and Rory
+Owen & Luke Sgro
+Harrison “Harryllax” Simon
+Erin Kerrigan
+To the Morillo Family and that special giants fan in my life
+Zenas and Christian Burns
+Elizabeth Goode
+Cookie (AF)
+Ferrell Chaney
+Michelle Steranko, Mav & Sophie
+
+
+and You
+
+#### c96ff3ff94 | choice/UI | x1
+^^Loki Zammit
+Zim & Ziva
+Colin and Sophie
+Tobias Franklin Gomenyuk
+Cat
+Indie
+Oni & Shoki
+M and Fezzik
+Tangle
+Dollie, JacknLuna
+Meeko
+Echo the Dog, Momo the Cat
+Adonis & Aphrodite
+Buffy and Scout, RIP Spike
+Mayor Rocco
+King Banjo the Destroyer
+(in memory of) O’Henry
+Charlotte & Howl
+Tique
+Geordi The Shiba
+Tankster
+Lando, Obi, and Link
+Nugget the cat
+Shiro
+Harley Quinn, Ivy, and Zatanna
+Gypsy & Marble
+Chato and cookie
+Sophie
+Kylo and Yuki
+Maia (AKA Chunkers)
+Hyde & Kingston
+Toto
+Lala and DiDi
+Emma Dashwood
+Wrigley
+Reilly
+Punkin
+Maggie ‘Catdog’ Mae
+Freddie Mercury & Cat Stevens
+Gretel
+Athena, King and Lilly
+Gumbo, Dagon, and Trashbelly
+Seras Victoria (the police cat)
+Emmitt, Shasta, Lassen, Snowy, Leo, Harriett,
+Hendrick, Eddie, Freddie, Curly, Honda, Timmy, & Barry (RIP)
+Spike (aka Spuddles)
+Caramel, Chai & Mocha
+Odo
+Cody
+Emma and Lara Kuku
+Pigeon
+Peanut & Flame
+El Gato SIR!
+Miss Molly
+Toby
+Mr. Grumpy Gills the Betta Fish
+Sammy the Snake Killer
+Princess Chelsea
+Mamba the Cool Cat
+Jinro the Shibe
+Luna & Vincent
+Dr. Claw
+Kiki
+Shaunday
+Ali the fighting kitten
+The unforgettable Charlie Cricket Junior, and Snowflake
+Bean Goode
+Sadie “sassie cat” and Luna “pity kitty”
+Penny & Desmond
+
+And Brenden Q. Ferguson
+
+#### 4e1dfa875f | choice/UI | x4
+^font:MenuDisplaySmall.font^RENEE MONTOYA, VESPER FAIRCHILD, ASSISTANT
+
+#### d26aa229ca | choice/UI | x4
+^font:MenuDisplaySmall.font^MODERATOR
+
+#### 8575923699 | choice/UI | x10
+^^Chris Cox
+
+#### 9026de528a | choice/UI | x2
+^font:MenuDisplaySmall.font^MAYOR HILL
+
+#### 3e8ae6ac0d | choice/UI | x2
+^^Bob Pescovitz
+
+#### 110a7dac59 | choice/UI | x2
+^font:MenuDisplaySmall.font^BLOCKBUSTER
+
+#### 1435a0525d | choice/UI | x8
+^^Steve Blum
+
+#### 260dd9ca18 | choice/UI | x8
+^font:MenuDisplaySmall.font^OSWALD COBBLEPOT, PENGUIN
+
+#### 0cbb4239d6 | choice/UI | x2
+^font:MenuDisplaySmall.font^JOE CHILL
+
+#### 7e021af306 | choice/UI | x2
+^font:MenuDisplaySmall.font^MARTHA WAYNE, ESTHER COBBLEPOT, BARTENDER
+
+#### c6d1b3af27 | choice/UI | x4
+^font:MenuDisplaySmall.font^BAR PATRON
+
+#### d6338b1412 | choice/UI | x8
+^^Beau Hudak
+Murad Peret
+Jake Smith
+
+#### 263777fb2f | choice/UI | x2
+^font:MenuDisplaySmall.font^PRODUCTION
+
+VICE PRESIDENT - PRODUCTION & CREATIVE, DC COMICS FRANCHISE
+
+#### 5b0881ce10 | choice/UI | x8
+^font:MenuDisplaySmall.font^MARKETING
+
+VICE PRESIDENT, BRAND MARKETING
+
+#### 47c491cd6d | choice/UI | x2
+^font:MenuDisplaySmall.font^PR
+
+VICE PRESIDENT - WW COMMUNICATIONS & PR
+
+#### d7f0926f7d | choice/UI | x2
+^font:MenuDisplaySmall.font^LEGAL
+
+DIRECTOR - RIGHTS & CLEARANCES
+
+#### 5aaa888dce | choice/UI | x2
+^font:MenuDisplaySmall.font^BUSINESS DEVELOPMENT
+
+VICE PRESIDENT - BUSINESS DEVELOPMENT & LICENSING
+
+#### 03d5280c9d | choice/UI | x2
+^font:MenuDisplaySmall.font^FINANCE
+
+VICE PRESIDENT - PRODUCTION FINANCE
+
+#### 01b2c3deb1 | choice/UI | x2
+^font:MenuDisplaySmall.font^EXECUTIVE MANAGEMENT
+
+PRESIDENT & CHIEF CONTENT OFFICER
+WARNER BROS. INTERACTIVE ENTERTAINMENT
+
+#### 0169925904 | choice/UI | x2
+^font:MenuDisplaySmall.font^SENIOR VICE PRESIDENT
+FINANCE & ADMINISTRATION AMERICAS
+WARNER BROS. INTERACTIVE ENTERTAINMENT
+
+#### 791e0edbf0 | choice/UI | x8
+^font:MenuDisplaySmall.font^SENIOR VICE PRESIDENT, GAMES, EU
+
+#### 2108967962 | choice/UI | x8
+^font:MenuDisplaySmall.font^WB GAMES INC.
+
+#### 3a27754db7 | choice/UI | x2
+^^Brendon Huor
+Mickey Facchinello
+Dennis Ruel
+Michael Lehr
+Jimmy Chhiu
+Gui DaSilva
+

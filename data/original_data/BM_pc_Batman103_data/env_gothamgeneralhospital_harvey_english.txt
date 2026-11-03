@@ -1,0 +1,1542 @@
+﻿1) 
+You look good.
+2) 
+You look terrible.
+3) 
+I’m so sorry...
+4) BRUCE
+Hey, Harvey. Lookin’ good.
+490) BRUCE
+{HappyA}Hey, Harvey. Lookin’ good.
+5) HARVEY
+[amused in a self-depricating way]{SarcasticA}Ah jeez, doesn’t your charm have an off button?
+6) BRUCE
+{AmusedA}Not that I’ve found, no.
+7) BRUCE
+But I’m serious.
+8) BRUCE
+Regardless, I’m glad to see you up and about.
+9) HARVEY
+[sighs]To an extent, anyway.
+10) HARVEY
+I’ve been told by the doctors, repeatedly, that I am not to move around much.
+11) BRUCE
+{SadA}You should probably listen to the doctors. They know what they’re talking about.
+12) HARVEY
+[disgusted]{ConfusedB}Well, I’ve been very good invalid, Bruce. Don’t worry.
+13) 
+Has Selina visited?
+14) 
+You should listen to them.
+15) 
+Do what you need to.
+16) 
+That’s odd.
+533) 
+That’s odd.
+17) 
+You’ll hear from her.
+257) BRUCE
+You’ll hear from her.
+18) 
+Forget about her.
+19) BRUCE
+Of course I did. Wanted to see for myself that you were doing okay.
+20) HARVEY
+Sitting here and having nothing but time to think about what happened.
+21) HARVEY
+I am not okay. Gotham is going to hell and here Harvey sits, convalescing!
+22) HARVEY
+Those terrorists just walked in there and we were… [a beat, then, low]helpless.
+23) HARVEY
+Helpless.
+24) HARVEY
+The guards, the moderator, Hill. The reporter was lucky she didn’t get shot too.
+25) 
+Sounds terrifying.
+26) 
+You’re the lucky one.
+27) BRUCE
+[low, pushing calm]You’re the lucky one.
+28) HARVEY
+[wry]The randomness of the universe, coming to my aid.
+29) 
+Good thing Batman was there.
+30) HARVEY
+The real point is that these Children of Arkham, whoever they are--
+31) HARVEY
+--they think they have the upper hand after what happened.
+32) HARVEY
+But I don’t plan to give them Gotham without a fight.
+33) BRUCE
+None of us do, Harvey.
+34) HARVEY
+I’ll be fine. It’s better this way.
+35) HARVEY
+When I walk out onto that stage tonight, the people will see that some of us still have the strength to keep going.
+36) 
+It’s too dangerous.
+37) BRUCE
+You were nearly killed two days ago-- stepping up onto that podium tonight is painting a target on your chest.
+38) BRUCE
+You can’t go out there and give your speech tonight.
+39) HARVEY
+Like hell I can’t.
+40) HARVEY
+Gotham needs a mayor and I’m the only one it’s got.
+41) BRUCE
+There’s a good chance that the COA won’t back off.
+42) BRUCE
+Stepping up to that podium is putting a bulls-eye on your chest.
+43) HARVEY
+Gotham needs every person that it can get. [stressing the object]It needs me.
+44) HARVEY
+[voice tight]Seeing it again and watching that lunatic. The Penguin.
+45) HARVEY
+What he did to Hill. To the moderator--
+46) HARVEY
+And now he and his boss are out there, planning whatever comes next, while Harvey Dent sits here convalescing!
+47) 
+I don’t think he’s the leader.
+48) BRUCE
+I’m not so sure he’s the one pulling the strings.
+49) HARVEY
+You’re talking about the guy on the screens.
+50) BRUCE
+We shouldn’t discount the idea that there’s someone else running the show.
+51) BRUCE
+I just don’t think the Penguin seems like the type of man to be a the driving force behind an operation like Children of Arkham.
+52) HARVEY
+Either way, he’ll get his.
+53) 
+
+81) 
+
+109) 
+...
+119) 
+...
+138) 
+...
+150) 
+...
+158) 
+...
+167) 
+
+188) 
+...
+196) 
+...
+197) 
+
+222) 
+...
+247) 
+...
+254) 
+
+265) 
+...
+277) 
+
+299) 
+
+300) 
+[alt]
+301) 
+
+304) 
+
+308) 
+...
+314) 
+...
+333) 
+
+369) 
+
+388) HARVEY
+[laughs]
+417) 
+
+463) 
+[Turn off the TV]
+464) 
+[Let him vent]
+623) HARVEY
+[pickup]
+54) HARVEY
+You look tired, Bruce.
+55) 
+It’s been a rough week.
+56) 
+I’m fine.
+57) BRUCE
+I’m fine.
+58) HARVEY
+You talk about the bullseye on my chest, but what about yours? They’re out for your blood.
+59) HARVEY
+Maybe I can get you some protection.
+60) BRUCE
+You had protection at the debate; the cops aren’t a match for the Children of Arkham.
+61) HARVEY
+[cool]No, maybe they aren’t.
+62) HARVEY
+[breathes out]But that doesn’t mean I’m going to stand by and watch them hurt you.
+63) 
+The cops are useless.
+64) HARVEY
+Hill and Falcone, good riddance.
+65) HARVEY
+But you’re my friend and you need to be ready for whatever they have up their sleeve.
+66) BRUCE
+I can do that without being in the middle of a ring of cops.
+67) BRUCE
+Plus, who knows how many of them wouldn’t mind shooting me themselves.
+68) HARVEY
+It’s bullshit that we even have to consider it.
+69) BRUCE
+The tape that was played at the debate-- I need to know if it’s real.
+70) HARVEY
+Real? Do you think your father is innocent?
+71) 
+I can handle myself.
+72) 
+Security footage.
+73) BRUCE
+No. He was clearly involved with too many things to discount the validity of the accusations.
+74) BRUCE
+But if that tape is real, then there may be more information where that came from.
+75) HARVEY
+Christ, that would be bad.
+76) 
+This is all my fault.
+77) BRUCE
+{SadA}Harvey, what you did for me at the debate...
+78) BRUCE
+I’m sorry that I put you in that situation.
+79) HARVEY
+C’mon, you didn’t do anything. I told the truth, and I would tell it again-- even if I wasn’t drugged.
+80) HARVEY
+You’re one of the good guys, Bruce.
+82) HARVEY
+They’ll come around. They don’t know you like I do.
+83) BRUCE
+{ThinkingA}She’s probably just busy. Hasn’t had a chance to come by yet.
+84) BRUCE
+I’m sure she’d want to know how you’re doing. You’ll hear from her.
+85) HARVEY
+[mutters]{SmugA}Easy for you to be optimistic about women.
+86) BRUCE
+[laughing]You’re right-- because I make sure to write it on a hundred-dollar bill.
+87) HARVEY
+{ConfusedA}What is that?
+88) 
+It’s a message.
+89) BRUCE
+Teenagers
+90) HARVEY
+Looks like it’s coming from the GCPD building. Maybe the police finally decided that fighting Batman wasn’t worth the trouble.
+91) BRUCE
+You’ll find out before I do, I’m sure.
+92) BRUCE
+I saw your car downstairs. I’ll find a nurse to take you down.
+93) HARVEY
+Then let him deal with it. Stay here. Share some jello.
+94) 
+[ALT] They told me ten minutes.
+95) 
+There’s someplace I need to be.
+96) 
+I have a date.
+97) BRUCE
+As tempting as that sounds, no thanks. I have things to take care of.
+98) BRUCE
+I’ll see you soon.
+99) HARVEY
+Hey, Bruce? Be careful with these goons around. Don’t stick your neck out.
+100) BRUCE
+I could say the same for you.
+101) BRUCE
+You’re bleeding.
+102) HARVEY
+When you get half your face crushed in, it has a tendancy to bleed.
+103) BRUCE
+... yeah.
+104) HARVEY
+That’s been happening.
+105) BRUCE
+Harvey...
+259) BRUCE
+Harvey...
+371) BRUCE
+Harvey...
+624) BRUCE
+[pickup]Harvey--
+106) BRUCE
+{SadA}Harvey, I am so sorry this happened.
+107) HARVEY
+Hey, c’mon. It’s not your fault.
+108) BRUCE
+Call it survivor’s guilt.
+110) HARVEY
+[dark humor]{SarcasticA}A shame it’s not a little closer to Halloween, right?
+111) BRUCE
+{SadA}Do what you need to do, Harvey. I know how important this election is to you.
+112) HARVEY
+{HappyA}Thanks. Glad to know that someone around here understands that.
+113) HARVEY
+Haven’t had to lift a finger.
+114) HARVEY
+It’s awful.
+115) 
+The Mayor makes the rules.
+116) BRUCE
+[laughing]{HappyA}Well. you never did play by the rules, did you?
+117) HARVEY
+[lighter]You know, that’s a good point.
+118) HARVEY
+But they’ve threatened me with a personal nurse.
+120) HARVEY
+Feels like I’m on death row, just waiting for the switch to be thrown.
+121) HARVEY
+They all tip-toe around me.
+122) HARVEY
+[mocking]{SarcasticA}Stay in the chair, Mr. Dent.
+123) HARVEY
+[mocking]Oh, don’t over-exert yourself, Mr. Dent.
+124) BRUCE
+{HappyA}I uh...I  brought you some flowers.
+125) HARVEY
+Alfred picked them out, didn’t he?
+126) HARVEY
+[laughs]{SmugB}Yeah, well, my mother and my secretary. {PainA}Every sick boy’s dream.
+127) HARVEY
+{SadA}The one woman I thought would visit... or at least call... hasn’t.
+128) HARVEY
+Selina’s been a no-show.
+129) BRUCE
+What’s wrong with that?
+130) BRUCE
+{ThinkingA}That surprises me. You two seemed... friendly.
+131) HARVEY
+{SarcasticA}Yeah, I thought so, but this disappearing act seems to {PainA}say otherwise.
+132) BRUCE
+Maybe she just didn’t want to get caught on camera.
+133) HARVEY
+He says, with all the surety of a man who’s never been dumped.
+134) BRUCE
+{SadA}Well, it’s probably for the best to forget about her.
+135) HARVEY
+[ouch]{SadA}Wow. I was kinda hoping you’d be a little more optimistic.
+136) BRUCE
+I just don’t know if she has your best interests at heart.
+137) HARVEY
+Maybe I don’t care.
+139) HARVEY
+{SarcasticA}Sounds pathetic to say it out loud, waiting on a girl, but--
+140) HARVEY
+There it is.
+141) HARVEY
+{SadA}Guess we weren’t as close as I thought.
+645) HARVEY
+{SadA}Guess we weren’t as close as I thought.
+142) HARVEY
+Or maybe that’s just my bruised ego showing.
+143) HARVEY
+{HappyA}I am glad you’re here though.
+144) HARVEY
+The [stressing]Children of Arkham.
+145) BRUCE
+It sounds like a terrifying experience. I’m sorry you had to go through it.
+146) HARVEY
+I have nightmares. Every night, to tell you the truth.
+147) BRUCE
+It’s a good thing that Batman was there.
+148) HARVEY
+Might have had no face left at all if he hadn’t stepped in.
+149) HARVEY
+Makes me feel like he’s on my side, though. That he believes in the mission.
+151) HARVEY
+[making a sound of disgust]You don’t want to hear about the gorey details anyway.
+152) HARVEY
+Flip of a coin, right? Me or the next guy.
+153) HARVEY
+It’s enough to give you nightmares.
+154) BRUCE
+But you’re in no shape for a fight right now.
+155) BRUCE
+But you don’t believe that.
+156) HARVEY
+They might now, but it won’t stay that way.
+157) 
+You’ll give them hope.
+159) BRUCE
+You can’t get up there.
+160) BRUCE
+That’s good. Seeing you out there will give Gotham hope.
+161) HARVEY
+Hope is the one thing we’ve always had going for us.
+162) BRUCE
+The Pengiun. What did he say to you up there?
+163) 
+I’m proud of you.
+164) HARVEY
+To me. He liked it. He was having fun.
+165) BRUCE
+Gotham needs a mayor.
+166) BRUCE
+Let someone else handle it
+168) BRUCE
+Harvey, there’s no shame in taking time to heal.
+169) HARVEY
+They think they have the upper hand, but I’m going to prove them wrong.
+170) HARVEY
+When I walk out on that stage tonight for my acceptance speech I’ll be proving how strong Gotham can be.
+171) BRUCE
+I’m proud of you. Gotham is lucky to have you.
+172) HARVEY
+[gruff, almost awkward]Gotham needs a mayor and I’m what it’s got.
+173) HARVEY
+But... thanks.
+401) HARVEY
+But thanks.
+174) HARVEY
+I don’t need your blessing, Bruce. Just don’t try to stand in my way.
+175) HARVEY
+This is important.
+176) BRUCE
+The Children of Arkham have a targeted painted on your back.
+177) HARVEY
+Get some cops to look out for you.
+178) 
+That might be more dangerous.
+179) BRUCE
+Putting me in the middle of a ring of armed cops might be more dangerous.
+180) HARVEY
+They don’t all believe the story. Plus, they’re professionals.
+181) BRUCE
+I’m talking about the Children of Arkham.
+182) BRUCE
+Don’t forget what we saw Detective Montoya do.
+183) BRUCE
+You might not believe this, but I can handle myself.
+184) HARVEY
+This is serious, Bruce.
+185) BRUCE
+I’m *being* serious, Harvey.
+186) HARVEY
+You shouldn’t be walking around unprotected.
+187) HARVEY
+There’s no reason for it.
+189) HARVEY
+You know you don’t have to like it. I could just order it done.
+190) HARVEY
+It’s not right.
+191) BRUCE
+I appreciate the solidarity, Harvey, but I don’t think they care.
+192) BRUCE
+That tape they showed at the debate... those things that my father said.
+193) HARVEY
+It could have been faked.
+194) 
+Scare tactics.
+195) 
+A declaration of war.
+198) BRUCE
+Something to get my attention.
+199) BRUCE
+In their eyes my father is guilty -- and so am I.
+200) HARVEY
+Speaking as the ex-District Attorney and the current Mayor, that’s a crock.
+201) HARVEY
+But if that tape is real --
+202) BRUCE
+Then there may be more revelations where that came from.
+203) BRUCE
+You might be right, it might be faked. It would be nice to clear my family’s name.
+204) BRUCE
+Or at least earn the benefit of the doubt.
+205) HARVEY
+Now you’re thinking like a detective.
+206) HARVEY
+These days it’s not hard to fake that kind of proof.
+207) HARVEY
+You wouldn’t believe the technology that goes into figuring fakes out.
+208) HARVEY
+We all know that the news can lie. Sensationalism.
+209) HARVEY
+Sensationalism.
+210) HARVEY
+{SarcasticA}I wish I could make myself turn it off completely.{SadA} Watching footage of the debate over and over...
+211) HARVEY
+Look at me, preaching at what a great guy you are while I go and get my...face bashed in.
+212) HARVEY
+But I can’t stop.
+213) 
+I tried to warn you.
+214) BRUCE
+Why are you doing this, Harvey? Replaying that moment won’t change what happened.
+215) HARVEY
+Yeah. I know. And yet here I am.
+216) 
+Don’t torture yourself.
+217) BRUCE
+{SadA}Don’t do this to yourself. There’s nothing you can do to change what happened. Replaying that moment will only drive you crazy.
+218) HARVEY
+Seeing people die like that...
+219) HARVEY
+Maybe the attack rattled something loose inside me.
+220) HARVEY
+You’re speaking from experience.
+221) BRUCE
+[gravely, sure]It’ll take time.
+223) HARVEY
+{SadA}It’s easy.
+766) HARVEY
+{SadA}It’s easy.
+769) HARVEY
+{SadA}It’s easy.
+224) HARVEY
+Every news station is showing it.
+762) HARVEY
+Every news station is showing it.
+768) HARVEY
+Every news station is showing it.
+225) HARVEY
+[very dry]They say any press is good press.
+226) HARVEY
+The Children of Arkham coming after you for the things that your father did, it’s not right.
+227) HARVEY
+{ConfusedA}What they did to Hill. To the moderator{SadA}... I have to live with that.
+228) HARVEY
+We seem to be short on good guys, these days.
+229) HARVEY
+There’s no time. When I give my acceptance speech tonight I’ll prove how strong Gotham is.
+230) HARVEY
+Up there.
+231) HARVEY
+Unafraid.
+232) HARVEY
+I have to be a symbol for Gotham.
+233) HARVEY
+Something important?
+234) BRUCE
+Alfred’s dealing with a pest problem.
+235) HARVEY
+The jello’s lime.
+236) HARVEY
+I could probably also rustle up some pudding.
+237) 
+<<I’m on my way.>>
+238) 
+<<That’s a big light.>>
+239) 
+<<The police need help.>>
+240) 
+<<Could be a trap.>>
+241) BRUCE
+As much as I love jello...
+242) HARVEY
+[laughing]You have to go. More for me, that’s fine.
+243) HARVEY
+It’s lime, Bruce. Lime.
+244) BRUCE
+That’s disgusting, Harvey.
+245) HARVEY
+It’s amazing how much it grows on you.
+246) BRUCE
+Disgusting. Really disgusting.
+248) HARVEY
+{SarcasticA}It’s fine. I don’t want to be here either.
+249) HARVEY
+... guess you could.
+250) HARVEY
+Nothing to feel guilty about. You weren’t there.
+251) BRUCE
+You’re getting released in an hour.
+252) HARVEY
+{SmugA}All the doctors keep telling me to take it easy, but how can I?
+253) HARVEY
+At least they’re releasing me.
+255) HARVEY
+Speaking of women.
+256) HARVEY
+Hardly been able to go to the bathroom alone for two days.
+258) HARVEY
+The new assistant is coming to pick me up.
+260) HARVEY
+I want to know who that guy on the screen giving orders was. What are they planning?
+261) BRUCE
+To you.
+262) 
+You need to be careful.
+263) 
+Remember, I’m next.
+264) 
+Gotham is in danger.
+266) HARVEY
+Yeah, sorry. Guess that sort of question is above your pay grade.
+267) BRUCE
+{ThinkingA}Batman stopped them from killing you the other night, but they will try again.
+268) HARVEY
+Me? I was just in the wrong place at the wrong time.
+269) BRUCE
+You’re trying to fight them.
+270) HARVEY
+{AngryA}I won’t hide from them, Bruce.
+271) BRUCE
+{AngryA}They’re after me. They’re not going to rest until the all the names are crossed off their list.
+272) HARVEY
+{SadA}I can’t just stand aside and let that happen.
+273) HARVEY
+At tonight’s speech they’ll know where I stand.
+422) HARVEY
+At tonight’s speech they’ll know where I stand.
+492) HARVEY
+At tonight’s speech they’ll know where I stand.
+274) HARVEY
+They’ll see it tonight.
+275) BRUCE
+You get up on that on that podium and they’re going to come after you.
+276) HARVEY
+Let them.
+278) HARVEY
+My face. The tape of your father... somone needs to hit them back.
+279) BRUCE
+{ThinkingA}I don’t know what’s next for them, but I do know that no one is safe.
+280) BRUCE
+Gotham is in real danger.
+281) HARVEY
+{PainA}All the more reason for me to stand up tonight and give the people hope.
+282) HARVEY
+They’re trying to cause discord.
+283) HARVEY
+Stir people up.
+284) HARVEY
+Gotham needs a rally point.
+285) HARVEY
+It doesn’t matter. Tonight I’m going to let people know -- as long as we’re united against them. We need to stand together.
+286) BRUCE
+We’ve seen what they can do, the damage they can cause.
+287) BRUCE
+They’re clearly well-connected. The tape they played at the debate --
+288) HARVEY
+Your father and Esther Cobblepot. That was awful.
+289) HARVEY
+What the hell *was* that?
+290) BRUCE
+They must have faked it.
+291) HARVEY
+If it is a fake, then there’s no line for them.
+292) BRUCE
+[stressed]It’s not uncommon to record footage when an experiment is being done.
+293) 
+A calling card.
+294) HARVEY
+Christ, Bruce. [beat]I’m sorry.
+295) BRUCE
+My father’s indecresions are in the past. I have other things to deal with.
+296) HARVEY
+Sorry if it’s a sore spot.
+297) HARVEY
+They got it from somewhere.
+298) HARVEY
+Archives or...
+302) BRUCE
+That tape was a scare tactic.
+303) BRUCE
+They’re trying to show that the system is broken because of the elite.
+305) BRUCE
+Shown of proof of a big, elitist machine that will crush Gotham.
+306) HARVEY
+Bruce... [softly]It’s not untrue.
+307) BRUCE
+[sharp, but controlled]Gotham is not beyond saving, Harvey, no matter what my father did.
+309) HARVEY
+I’m on your side, here. I wish I felt like you believed that.
+310) HARVEY
+You’re more than a wallet to me.
+311) BRUCE
+I know, Harv. I just--[like my privacy.]
+312) 
+Looks like a trap.
+313) 
+Someone likes bats.
+315) HARVEY
+That’s one way to get Batman’s attention, I guess.
+316) BRUCE
+Someone must really like bats.
+317) HARVEY
+That... is true.
+318) BRUCE
+Looks like a trap for Batman.
+319) HARVEY
+It’s coming from near the GCPD. Not the best planning if that’s the case.
+320) BRUCE
+{SkepticalA}Batman’s symbol. Probably a message.
+321) HARVEY
+Coming from near the GCPD... That’s one way to {PainA}get the guy’s attention.
+322) BRUCE
+[under his breath]One way.
+323) HARVEY
+Lucky for them it’s cloudy.
+324) BRUCE
+{ConcernedB}Look, I should get going, Harv.
+325) HARVEY
+{SurpriseA}Wha-- Already?
+326) HARVEY
+{SurpriseA}What else do you have to do?
+327) BRUCE
+The doctor told me ten minutes. “Not to rile you up,“ was the exact phrasing if I remember correctly.
+328) HARVEY
+[sighing]Can’t wait to get out of here.
+329) BRUCE
+{ThinkingA}I have a call to make. I’m sorry, Harvey--it can’t wait.
+330) BRUCE
+{SmugA}I, uh...I have a date, actually.
+331) HARVEY
+Bruce, I’m shocked. Is there a lady friend you haven’t introduced me to?
+332) BRUCE
+[dry, amused]Yeah. She’s got a great mustache.
+334) BRUCE
+Be careful tonight.
+335) HARVEY
+Careful? I’m going to give ‘em hell.
+336) HARVEY
+{SarcasticA}I think rich people are always on the phone.
+337) BRUCE
+{HappyA}It’s a curse.
+338) HARVEY
+Come by the office soon, okay?
+339) HARVEY
+We’ll... just have a cup of coffee. Something nice. Relaxing.
+340) BRUCE
+I can’t make any promises.
+350) BRUCE
+I can’t make any promises.
+341) HARVEY
+Neither can I, but it sounded good. See ya around.
+342) FAIRCHILD
+It’s the night of the mayoral election and Gotham is still in shambles following the events of last week’s debate.
+345) RYDER
+{ThinkingA}It’s the night of the mayoral election and Gotham is still in shambles following the events of last week’s debate.
+343) FAIRCHILD
+Many are calling for Bruce Wayne’s resignation as CEO of Wayne Enterprises as violent protests rage throughout the city.
+344) FAIRCHILD
+The question of everyone’s mind tonight... can Harvey Dent rein in the chaos? We bring in Janel M-- [cut off]
+346) RYDER
+The group calling themselves the Children of Arkham continue to terrorize the city, though we’ve heard nothing further from the “Voice of Arkhzam” who appeared on screen to deliver evidence of Thomas Wayne’s corruption.
+538) RYDER
+The group calling themselves the Children of Arkham continue to terrorize the city, though we’ve heard nothing further from the “Voice of Arkhzam” who appeared on screen to deliver evidence of Thomas Wayne’s corruption.
+683) RYDER
+The group calling themselves the Children of Arkham continue to terrorize the city, though we’ve heard nothing further from the “Voice of Arkhzam” who appeared on screen to deliver evidence of Thomas Wayne’s corruption.
+747) RYDER
+The group calling themselves the Children of Arkham continue to terrorize the city, though we’ve heard nothing further from the “Voice of Arkhzam” who appeared on screen to deliver evidence of Thomas Wayne’s corruption.
+347) RYDER
+Many are now calling for Bruce Wayne’s resignation as CEO of Wayne Enterprises as violent protests rage throughout the city.
+539) RYDER
+Many are now calling for Bruce Wayne’s resignation as CEO of Wayne Enterprises as violent protests rage throughout the city.
+599) RYDER
+Many are now calling for Bruce Wayne’s resignation as CEO of Wayne Enterprises as violent protests rage throughout the city.
+748) RYDER
+Many are now calling for Bruce Wayne’s resignation as CEO of Wayne Enterprises as violent protests rage throughout the city.
+348) RYDER
+The question on everyone’s mind tonight... can Harvey Dent rein in the chaos? We bring in political analyst, Janel M-- [cut off]
+540) RYDER
+The question on everyone’s mind tonight... can Harvey Dent rein in the chaos? We bring in political analyst, Janel M-- [cut off]
+349) RYDER
+Though we’ve heard nothing further from the “Voice of Arkham” who appears to be their leader.
+351) HARVEY
+Neither can I, but it might be good for both of us. To... you know.
+352) HARVEY
+Decompress.
+353) BRUCE
+{SadA}You uh...you rest up, Harv.
+354) HARVEY
+{HappyA}Thanks, Bruce.
+552) HARVEY
+{HappyA}Thanks, Bruce.
+355) HARVEY
+[ALT]Tell Alfred he’s got good taste.
+356) HARVEY
+Pretty sure no one ever loses Bruce Wayne’s number.
+357) HARVEY
+At least I’m getting out of here soon. My assistant is coming to pick me up.
+358) HARVEY
+{ThinkingA}My assistant is on her way to pick me up. With the election today I {PainB}was able to talk the hospital into releasing me early.
+359) HARVEY
+With the election tonight, I need to be out there.
+360) HARVEY
+But they won’t listen.
+361) HARVEY
+With the election today she was able to talk them into releasing me early.
+362) HARVEY
+{SarcasticA}Not that they’re too happy about it.
+363) HARVEY
+But I can’t afford to take it easy right now.
+364) HARVEY
+{ConfusedA}That’s not really how I operate.
+365) 
+[ALT]Stay in the hospital.
+366) BRUCE
+You need to stay here and get better. I know how much this election means to you, but it’s not worth it.
+367) HARVEY
+I can’t stay here another day, Bruce.
+368) HARVEY
+Regurgitating the same old sound bites.
+761) HARVEY
+Regurgitating the same old sound bites.
+767) HARVEY
+Regurgitating the same old sound bites.
+370) HARVEY
+I know.
+724) HARVEY
+[pickup]I know.
+372) HARVEY
+I know, okay? I know.
+373) HARVEY
+{SadA}Yeah, I know that. But here I am.
+374) HARVEY
+I want to... but I can’t.
+375) BRUCE
+You have to try.
+376) HARVEY
+There has to be something I missed.
+377) HARVEY
+I know this can’t be over, Bruce.
+378) HARVEY
+What they did to Hill, and the moderator--
+379) HARVEY
+It isn’t just The Penguin anymore.
+380) HARVEY
+{ConfusedA}But you heard them up there... The Penguin and that voice...
+381) HARVEY
+{SadA}This isn’t over.
+382) HARVEY
+That stunt at the debate was just the first step.
+383) HARVEY
+Gotham needs a mayor who’s going to stand up for this city.
+384) HARVEY
+Someone had to be helping them. How else did they get that tape of your dad?
+385) HARVEY
+I keep thinking there’s something I missed.
+386) HARVEY
+[in pain]{HappyA}Hey Bruce.
+387) BRUCE
+{AmusedA}You look terrible, Harv.
+389) HARVEY
+[laughs]{SarcasticA}You know you are actually the first person to say that.
+390) BRUCE
+Well, I’m sorry anyway.
+391) HARVEY
+Could’ve been a lot worse.
+544) HARVEY
+Could’ve been a lot worse.
+731) HARVEY
+[pickup]Could’ve been a lot worse.
+736) HARVEY
+Could’ve been a lot worse.
+738) HARVEY
+Could’ve been a lot worse.
+739) HARVEY
+Could’ve been a lot worse.
+392) HARVEY
+{SarcasticA}I’m just lucky Batman decided to step in. {ThinkingA}Though for the life of me I can’t figure out why.
+545) HARVEY
+{SarcasticA}I’m just lucky Batman decided to step in. {ThinkingA}Though for the life of me I can’t figure out why.
+393) HARVEY
+{SurpriseA}When I saw that friend of his get shot I just assumed {SadA}I was gonna be on my own.
+394) HARVEY
+Not that I’m complaining.
+395) HARVEY
+{SmugB}I’m definitely glad I got to keep the other half of my face.
+396) 
+Batman believes in you.
+397) 
+She could handle herself.
+398) 
+[ALT] You should ask him.
+399) BRUCE
+{ConcernedA}I think he did it because he believes in you. You’re what Gotham needs right now.
+400) HARVEY
+{HappyA}I think you’re projecting a little bit.
+402) BRUCE
+{ThinkingA}He probably figured his partner could handle herself.
+403) HARVEY
+{SadA}Not sure that really makes me feel better.
+404) HARVEY
+I’d rather not be the guy that always needs saving.
+405) BRUCE
+Maybe you should ask him yourself.
+406) HARVEY
+I’m sure that’ll go over well... “Hey buddy, what’s the big idea saving me?“
+407) BRUCE
+[laughs]Only if you phrase it like that.
+408) HARVEY
+I doubt I’ll get the chance anyway.
+409) HARVEY
+{SarcasticA}Not like I can just send the guy a thank you card.
+410) HARVEY
+I’ll probably never know anyway.
+411) HARVEY
+{SarcasticA}Oh. What’ve you got there?
+412) BRUCE
+{AmusedA}Though I see I’m not the first.
+413) HARVEY
+[down]{ThinkingA}Maybe you’re right.
+414) HARVEY
+God, it’s been... infuriating. {SadA}Just sitting here and having nothing but time to think about what happened.
+415) BRUCE
+{DespairA}I tried to warn you, Harvey...
+416) HARVEY
+I know, Bruce. I was stubborn.
+418) BRUCE
+Trust me. You need to stop.
+419) HARVEY
+I was stubborn.
+420) HARVEY
+And everybody paid for it.
+421) HARVEY
+{ThinkingA}I need to stay ahead of them.
+423) HARVEY
+{ConfusedA}I won’t let them make Gotham afraid.
+424) BRUCE
+[worried]{ConcernedA}Wait, tonight? I thought you were supposed to be recovering.
+425) HARVEY
+The votes still need to be counted, but
+426) HARVEY
+{SarcasticA}You say that like it’s a bad thing.
+427) HARVEY
+{SadA}C’mon, you’d do the same in my position.
+428) HARVEY
+Which is why I won’t even try to tell you to not look into those tapes.
+429) HARVEY
+I know how much you loved your father, Bruce. I know that debate was hard on you too.
+771) HARVEY
+I know how much you loved your father, Bruce. I know that debate was hard on you too.
+430) 
+My family’s being set up.
+431) 
+[ALT]There has to be more to it.
+432) 
+My father hid the truth.
+433) HARVEY
+I know you aren’t taking this lying down.
+434) HARVEY
+Finding out your dad drugged Esther Cobblepot...
+435) HARVEY
+It’s a lot to process.
+436) BRUCE
+{AngryB}Well, I’m not even convinced that tape was real. It had to be fake... doctored to look like something else.
+437) HARVEY
+{SadA}I hope you’re right.
+438) BRUCE
+There has to be more to the story. It just doesn’t add up.
+439) HARVEY
+For you sake I hope that’s true.
+440) HARVEY
+But it’ll take a lot to prove that to the public.
+441) HARVEY
+But the evidence is pretty damning at the moment.
+442) BRUCE
+{AngryB}This just proves that I never really knew him. He was just hiding who he really was.
+443) HARVEY
+{SadA}I’m sorry.
+473) HARVEY
+{SadA}I’m sorry...
+498) HARVEY
+{SadA}I’m sorry.
+576) SELINA
+[pickup]I’m sorry.
+444) HARVEY
+I know you’ll pull through this.
+445) HARVEY
+They must be getting desperate.
+446) HARVEY
+It’s coming from near the GCPD.
+448) HARVEY
+It’s coming from near the GCPD.
+447) HARVEY
+Never thought the GCPD were big Batman supporters.
+449) HARVEY
+{SarcasticA}My assistant won’t be here for another hour.
+450) HARVEY
+Go on then.
+451) HARVEY
+{SurpriseA}What? Why didn’t you say so?
+452) HARVEY
+{HappyA}Don’t keep a lady waiting on my account.
+453) BRUCE
+Thanks, Harv.
+454) HARVEY
+I do wanna hear all about her later though, alright.
+455) HARVEY
+Well, go on then.
+456) HARVEY
+I’ll see you on the outside.
+457) BRUCE
+You got it.
+458) HARVEY
+You’ve got more important things to do than watch me
+459) HARVEY
+You can...you can stay if you want.
+460) HARVEY
+{SadA}Wouldn’t want you to keep them waiting.
+461) 
+She’s a criminal.
+462) 
+The Cobblepots were friends.
+465) 
+Alfred needs me.
+466) 
+Take their advice
+467) 
+Do what you need to do
+468) BRUCE
+{SmugA}Hmm Catwoman... known thief, and soon-to-be mayor. Pretty sure that trumps criminal accomplices... {SadA}even if they were working together.
+469) HARVEY
+{HappyA}That’s one way to look at it.
+470) HARVEY
+Thanks.
+688) SELINA
+[pickup]Thanks.
+471) HARVEY
+Yeah I can...I can still hear him laughing.
+472) HARVEY
+Yeah I can...I can still hear him laughing.
+474) HARVEY
+Just because I keep reliving it doesn’t mean you want to.
+475) BRUCE
+[almost to himself]{SadB}Oswald and I were best friends when we were kids. I knew his mother, talked to her...
+476) BRUCE
+And my dad ruined her life.
+477) HARVEY
+{SadA}She didn’t deserve that.
+478) BRUCE
+No...no she didn’t.
+479) BRUCE
+{ThinkingA}It’s uh...it’s Alfred.
+480) HARVEY
+{ThinkingA}Is he okay?
+481) BRUCE
+Yeah, yeah, yeah... He just needs to talk to me.
+482) HARVEY
+{HappyA}Yeah, of course. Go ahead.
+483) HARVEY
+Tell the old man I say hi.
+484) HARVEY
+[smiling]Only because you told me to.
+485) HARVEY
+Don’t want the doctors getting cocky.
+486) HARVEY
+Who needs rest? I’ve got work to do, just like you said.
+487) HARVEY
+You know that’s not gonna happen.
+488) HARVEY
+I don’t play by the rules remember?
+489) HARVEY
+Yeah well, no promises.
+491) BRUCE
+This can’t happen again.
+493) HARVEY
+Look, I uh... I realize what a terrible friend I’ve been to you.
+494) HARVEY
+I was so focused on the campaign. I thought distancing myself from you was the only option.
+495) HARVEY
+But I was wrong to do that to you.
+496) 
+It’s a bit late for that.
+497) BRUCE
+{AngryA}It’s a bit late for apologies isn’t it, Harvey?
+499) 
+You did what you had to.
+500) BRUCE
+{ConcernedA}You don’t have to explain yourself to me, Harvey. It was the right call for the campaign. I get that.
+501) HARVEY
+Still. I abandoned you when you needed me.
+502) HARVEY
+That’s not the kind of friend I want to be.
+503) 
+Thanks, Harvey.
+504) BRUCE
+{HappyA}Thanks, Harvey... I appreciate that.
+753) BRUCE
+{HappyA}Thanks, Harvey... I appreciate that.
+505) HARVEY
+I wasn’t there for you.
+506) HARVEY
+Yeah... I guess it is.
+507) HARVEY
+I’ll make it up to you.
+752) HARVEY
+I’ll make it up to you.
+508) HARVEY
+I’ll make this right, Bruce. All of it.
+509) 
+He needs you.
+510) 
+I understand.
+511) 
+Don’t make me do this alone.
+512) 
+Don’t owe you a reason.
+513) 
+I care about you.
+514) 
+You have my back.
+515) SELINA
+{ConfusedA}{body-X}Why did you do{SurpriseA} it?
+517) SELINA
+{ConfusedA}{body-X}Why did you do{SurpriseA} it?
+516) SELINA
+[genuinely confused]Harvey{PainA} needed you. {ConfusedA}Why save me?
+518) SELINA
+[genuinely confused]Harvey{PainA} needed you. {ConfusedA}Why save me?
+519) SELINA
+{ThinkingA}Harvey’s your best{ThinkingB} friend.
+520) SELINA
+I’m nothing{ConfusedA} to you.
+521) SELINA
+I just {PainA}don’t get it.
+522) BRUCE
+{ThinkingB}I don’t owe you {AngryA}an explanation.
+523) SELINA
+{NormalA}You owe{SternA} Harvey one.
+524) BRUCE
+No.{ConcernedB} I don’t.
+525) BRUCE
+{SadA}I did it... because I care{ConcernedA} about you.
+526) SELINA
+{DoubtfulB}Well maybe you{DisgustA} shouldn’t.
+527) BRUCE
+{ConcernedA}I need you as an ally.
+528) SELINA
+[unimpressed]{DisgustA}So it all boils down to{SternA} strategy then.
+529) SELINA
+{DoubtfulA}Fine. Forget{DisgustA} it.
+530) 
+Prepare yourself.
+531) 
+You’ll be alright.
+532) 
+You’re beautiful on the inside.
+534) 
+She was here.
+535) HARVEY
+[pickup]{ConfusedA}But you heard them up there... The Penguin and that voice on the screen...
+536) HARVEY
+[pickup][clarifying]Their leader.
+537) HARVEY
+[pickup][same read but without “today”]{ThinkingA}My assistant is on her way to pick me up. With the election I {PainB}was able to talk the hospital into releasing me early.
+541) 
+Congratulations, Mr. Mayor.
+542) 
+That’s quite the look.
+543) 
+[ALT]You look well.
+546) 
+Don’t think like that.
+547) 
+You can defend yourself.
+548) 
+Batman’s a hero.
+549) 
+You should listen to her.
+550) 
+I think you know best.
+551) 
+[ALT]Thanks for telling me.
+553) RYDER
+[pickup]Gotham is still reeling after last week’s mayoral debate.
+596) RYDER
+[pickup]Gotham is still reeling after last week’s mayoral debate.
+681) RYDER
+[pickup]Gotham is still reeling after last week’s mayoral debate.
+754) RYDER
+[pickup]Gotham is still reeling after last week’s mayoral debate.
+554) RYDER
+[pickup]Dent was sworn into office while still in the hospital recovering from the severe-- but not mortal-- injuries he himself sustained that night.
+597) RYDER
+[pickup]Dent was sworn into office while still in the hospital recovering from the severe-- but not mortal-- injuries he himself sustained that night.
+674) RYDER
+[pickup]Dent was sworn into office while still in the hospital recovering from the severe-- but not mortal-- injuries he himself sustained that night.
+555) RYDER
+[pickup]Both candidates were drugged on live television at the hands of the terrorist group calling themselves the “Children of Arkham.“
+556) RYDER
+[pickup]And while we’ve heard nothing further from the so-called “Voice of Arkham” who appeared on screen to deliver evidence of Thomas Wayne’s corruption--
+598) RYDER
+[pickup]And while we’ve heard nothing further from the so-called “Voice of Arkham” who appeared on screen to deliver evidence of Thomas Wayne’s corruption--
+557) BRUCE
+[pickup][soft]Hey-- Harvey’s going to be okay.
+558) SELINA
+[pickup]Won by default. [smiles]He’s probably pissed he didn’t get his landslide fair and square.
+559) BRUCE
+[pickup]“Mayor Dent.“ You know, I always assumed Harvey would win but not like this.
+560) SELINA
+[pickup][still worried]You don’t know that.
+561) SELINA
+[pickup]I can’t do this.
+562) BRUCE
+[pickup]What are you talking about?
+563) SELINA
+[pickup]I don’t want to see what -- [they did to him]
+564) BRUCE
+[pickup]Harvey needs you right now. Do it for him.
+565) SELINA
+[pickup]I’m sorry, Bruce. I wish I could but--
+566) SELINA
+[pickup][upset]No. [more quietly]If you hadn’t --[saved me]
+567) BRUCE
+[pickup]It’s okay. I get it.
+568) SELINA
+[pickup][disbelief]You...you do?
+569) BRUCE
+[pickup]I don’t blame you for not wanting to be here.
+570) BRUCE
+[pickup]I don’t want to do this alone, Selina.
+571) SELINA
+[pickup]It’s just too much. Seeing him like that...
+572) BRUCE
+[pickup]You think this isn’t hard for me too?
+573) SELINA
+[pickup][regretfully]I’m sorry.
+574) SELINA
+[pickup]I know what you must think of me, but... I can’t go in there.
+575) SELINA
+[pickup]Just go in without me.
+577) SELINA
+[pickup]Please, Bruce. Don’t tell him I was here.
+578) SELINA
+[pickup]I don’t think he’d understand.
+745) SELINA
+[pickup]I don’t think he’d understand.
+579) RYDER
+[pickup]As these Children of Arkham continue to terrorize the city--
+601) RYDER
+[pickup]As these Children of Arkham continue to terrorize the city--
+580) BRUCE
+[pickup]You can.
+581) HARVEY
+[pickup]{SadA}I haven’t actually seen it yet.
+582) HARVEY
+[pickup]It’s just been numb.
+583) HARVEY
+[pickup]Maybe it’s not that bad?
+584) BRUCE
+[pickup][realistic, deep breath]I, uh...I think you should probably prepare for the worst, Harvey.
+585) BRUCE
+[pickup]Just in case.
+586) HARVEY
+[pickup][saddened]Oh. Well. [dejected]Yeah. Yeah, you’re probably right.
+587) BRUCE
+[pickup]Hey, I’m sure it’ll heal up nicely. You’ll have some scarring, but it won’t be that bad.
+588) HARVEY
+[pickup]True or not, it’s good to hear you think so.
+589) HARVEY
+[pickup][more cheerily]Optimism, right?
+590) BRUCE
+[pickup]It’s...it’s what’s on the inside that counts, right? You’ll always be beautiful to me, Harv.
+591) HARVEY
+[pickup][physically-pained laughter]Aw, man. C’mon, that’s what they tell the girl who doesn’t get asked to prom.
+592) BRUCE
+[pickup][laughs quietly, then calms]I’m serious, though. You’re mayor now. What you look like doesn’t matter.
+593) HARVEY
+[pickup]I shouldn’t get my hopes up I guess.
+594) HARVEY
+[pickup]I mean, my family... we heal quick.
+595) HARVEY
+[pickup]Could be fine.
+600) RYDER
+[pickup]Word is he’s still being held for observation. Meanwhile...
+602) HARVEY
+[pickup][happy]Bruce! Finally, a friendly face.
+603) BRUCE
+[pickup]Congratulations, Mayor Dent.
+749) BRUCE
+[pickup]Congratulations, Mayor Dent.
+750) BRUCE
+[pickup]Congratulations, Mayor Dent.
+751) BRUCE
+[pickup]Congratulations, Mayor Dent.
+604) HARVEY
+[pickup][laughs]It would feel better if I were out of here. I’m ready to get back into it.
+605) BRUCE
+[pickup]That is... quite the look.
+606) HARVEY
+[pickup][joking]What? I’m mayor now. Thought I’d start a new trend.
+607) BRUCE
+[pickup][laughs]That’s one way to make an impression.
+608) HARVEY
+[pickup][with a sigh]Really, though... I can’t wait to get out of here. Gown included.
+609) BRUCE
+[pickup]You look good, Harvey. Rested, healthy.
+610) HARVEY
+[pickup]Thanks. Now, you mind telling that to my doctors? I’m ready to be out of here.
+611) HARVEY
+[pickup]Maybe your presence is a good omen. I’m ready for life back on the outside.
+612) HARVEY
+[pickup]It’s good to see you.
+613) HARVEY
+[pickup]Really good.
+614) HARVEY
+[pickup][frustrated]The drug’s been out of my system for days, but they’re still keeping me here. Something about making sure it didn’t have any lasting effects.
+711) HARVEY
+[pickup][frustrated]The drug’s been out of my system for days, but they’re still keeping me here. Something about making sure it didn’t have any lasting effects.
+615) BRUCE
+[pickup]They’re just being cautious.
+712) BRUCE
+[pickup]They’re just being cautious.
+616) HARVEY
+[pickup]Yeah, and so are my new mayoral security detail. Doctors on one side, security on the other. Between the two it’s amazing I get to go to the bathroom alone.
+713) HARVEY
+[pickup]Yeah, and so are my new mayoral security detail. Doctors on one side, security on the other. Between the two it’s amazing I get to go to the bathroom alone.
+617) HARVEY
+[pickup]Doctors on one side, security on the other. Between the two I’m lucky to go to the bathroom alone.
+618) HARVEY
+[pickup]But... maybe it’s not so bad, considering.
+619) HARVEY
+[pickup]He and Catwoman were working together that night. When she went down-- I just assumed that I’d be on my own.
+620) BRUCE
+[pickup]Considering?
+621) HARVEY
+[pickup]I just... don’t understand.
+622) HARVEY
+[pickup]I know... I know that I’d be dead if it wasn’t for Batman.
+625) HARVEY
+[pickup][helpless, sad]I was helpless, Bruce, helpless. I couldn’t do anything...
+626) HARVEY
+[pickup][helpless; worried]If Batman hadn’t been there I would be--
+627) BRUCE
+[pickup][alarmed]You can’t think like that. Batman was there, and he helped you.
+628) BRUCE
+[pickup]What-if’s never did anyone any good.
+629) HARVEY
+[pickup][winding down]I... yeah. I guess I’m overreacting.
+630) BRUCE
+[pickup]I know you, Harvey. And I know you’re more than capable of defending yourself.
+631) HARVEY
+[pickup][sad laugh]Right. Except that I tried and that-- that Pengiun beat me up anyway. Twice.
+632) BRUCE
+[pickup]No one wants you dead, Harv. Someone would have stepped up and helped.
+633) HARVEY
+[pickup]It’s a nice thought, Bruce, but the truth is that no one did. Nobody but Batman.
+634) HARVEY
+[pickup]The people in that room would have left me to die.
+635) HARVEY
+[pickup]Batman was the one who stepped up.
+764) HARVEY
+[pickup]Batman was the one who stepped up.
+636) HARVEY
+[pickup]He’s the reason I’m sitting here.
+765) HARVEY
+[pickup]He’s the reason I’m sitting here.
+637) HARVEY
+[pickup]Enough about... that.
+638) HARVEY
+[pickup][clears his throat]
+639) HARVEY
+[pickup]I thought she’d at least come by to congratulate me, if nothing else.
+640) HARVEY
+[pickup]I thought she’d at least come by to congratulate me, if nothing else.
+641) BRUCE
+[pickup]She uh... she was here.
+642) HARVEY
+[pickup][surprised]What? When?
+643) BRUCE
+[pickup]I met her coming in. She said she had to go.
+644) HARVEY
+[pickup][disappointed]Oh. [beat]Thanks for letting me know.
+646) HARVEY
+[pickup][harder]Guess I can’t blame her, the way I look now.
+647) HARVEY
+[pickup][bitter]Sworn into office wearing a paper gown.
+648) HARVEY
+[pickup][bitter]Sworn into office with my ass hanging out.
+649) BRUCE
+[pickup][alt]I wished you’d listened to me.
+650) HARVEY
+[pickup]{ConfusedA}But you heard them up there... The Penguin and that maniac on screen...
+651) HARVEY
+[pickup][dry]Of course the doctors aren’t thrilled about me leaving.
+652) BRUCE
+[pickup][not understanding] If you’ve been cleared of the drug...
+653) HARVEY
+[pickup][slowly admitting]I-- I’ve had some trouble in the past with...[fades out]
+654) HARVEY
+[pickup][this is hard for him]I’ve had to have psychiatric help before, Bruce.
+655) HARVEY
+[pickup]She wants me to take it easy. To go slow.
+656) BRUCE
+[pickup]I think that you should listen to your therapist, Harvey. She’s looking out for you.
+657) HARVEY
+[pickup][exasperated]I know! I know. But sitting here, this isn’t doing me any good.
+658) BRUCE
+[pickup]Do what you think is best, Harvey. You know what you need better than anybody.
+659) HARVEY
+[pickup]Exactly. Resting and doing nothing is just going to drive me up the wall.
+660) BRUCE
+[pickup][heartfelt]I’m really glad you told me this, Harvey. Thank you.
+661) HARVEY
+[pickup]You’re my friend, and I trust you.
+662) HARVEY
+[pickup]I’ve learned that keeping busy helps. It focuses me.
+663) HARVEY
+[pickup]I know what you’re thinking, but rest isn’t going to help.
+664) HARVEY
+[pickup]I just need to keep busy. Get back to work.
+665) HARVEY
+[pickup]I mean, that’s impossible right?
+666) HARVEY
+[pickup]I’m not going to be able to ‘take it easy.‘
+667) HARVEY
+[pickup]Honestly, I’m fine. [pointed]Besides, I know I’m not the only one dealing with the fallout from that debate.
+668) BRUCE
+[pickup]Harvey, don’t.
+669) HARVEY
+[pickup]You should talk about it.
+670) BRUCE
+[pickup][shocked]Batman’s symbol.
+671) BRUCE
+[pickup]You keep your head up, Harvey.
+672) RYDER
+[pickup]Ex-mayor Hill was executed in front of the crowd and the cameras, giving Harvey Dent the mayor’s seat by default.
+673) RYDER
+[pickup]Ex-mayor Hill was executed in front of the crowd and the cameras, giving Harvey Dent the mayor’s seat by default.
+675) HARVEY
+[pickup]Or maybe she just saw me being a coward.
+676) 
+Did you see it?
+677) BRUCE
+[pickup]Batman’s a real hero.
+678) HARVEY
+[pickup][fervent agreement]And I’m not going to forget it anytime soon, trust me.
+679) RYDER
+[pickup]With the drugging and subsequent murder of Mayor Hamilton Hill, Harvey Dent was left running unopposed. After a rather lackluster election, Mayor Dent was sworn in from his hospital bed.
+682) RYDER
+[pickup]With the drugging and subsequent murder of Mayor Hamilton Hill, Harvey Dent was left running unopposed. After a rather lackluster election, Mayor Dent was sworn in from his hospital bed.
+746) RYDER
+[pickup]With the drugging and subsequent murder of Mayor Hamilton Hill, Harvey Dent was left running unopposed. After a rather lackluster election, Mayor Dent was sworn in from his hospital bed.
+680) RYDER
+[pickup]Word is he’s still recovering from major injuries sustained at the event. Meanwhile...
+684) SELINA
+[pickup]I just-- I keep wondering...
+685) SELINA
+[pickup]I don’t think I can do this.
+686) SELINA
+[pickup]I just can’t. Okay?
+687) SELINA
+[pickup]I have to go.
+689) SELINA
+[pickup]I know it was almost me in
+690) SELINA
+[pickup]I can’t look at him and pretend I didn’t have anything to do with why he’s here.
+691) SELINA
+[pickup]It’s my fault he’s in there. I don’t have anything to say to him that would make this better.
+692) SELINA
+[pickup]It’s my fault he’s in there. I don’t have anything to say to him that would make this better.
+693) HARVEY
+[pickup]They’ve had me wrapped up this whole time... [small laugh]{HappyA}and numbed beyond belief.
+694) HARVEY
+[pickup]Right?
+695) BRUCE
+[pickup]How does it feel?
+696) BRUCE
+[pickup]Nice outfit, Harv.
+697) HARVEY
+[pickup] Easy. I appreciate the effort though.
+698) HARVEY
+[pickup]Guess I shouldn’t complain.
+699) HARVEY
+[pickup]I’m definitely glad I didn’t get my face beaten in.
+700) HARVEY
+[pickup]I don’t mean to complain...
+737) HARVEY
+[pickup]I don’t mean to complain.
+701) HARVEY
+[pickup]Look I know it’s silly to gripe about it.
+714) HARVEY
+[pickup]Look I know it’s silly to gripe about it.
+702) HARVEY
+[pickup][paranoid]And everyone else... No one tried to help. They just sat there watching. I bet they wanted it to happen.
+703) HARVEY
+[pickup]No one else even did a damn thing.
+763) HARVEY
+[pickup]No one else even did a damn thing.
+704) BRUCE
+[pickup]Don’t drive yourself crazy thinking about hypotheticals.
+705) HARVEY
+[pickup]They’re all just wolves, waiting for the leftovers--[catching himself, he sighs]
+706) HARVEY
+[pickup][figuring out how to phrase it]My...therapist is worried the drug might have caused some issues to resurface... make them unmanageable.
+707) HARVEY
+[pickup][scoffs]How am I supposed to do that?
+708) HARVEY
+[pickup]I need to get back to work. To try and be effective.
+709) HARVEY
+[pickup]Scars are cool. Rugged. Manly.
+710) BRUCE
+[pickup]Exactly.
+715) HARVEY
+[pickup][frustrated at the news]God, they are crucifying me before I’m even in the office.
+716) BRUCE
+[pickup2]The press are vultures, Harvey. Don’t listen to them.
+717) HARVEY
+[pickup]Yeah, easier said than done.
+718) HARVEY
+[pickup]Penguin would have just... beaten me to death, right there in front of everyone. He wanted to.
+770) HARVEY
+[pickup]Penguin would have just... beaten me to death, right there in front of everyone. He wanted to.
+719) HARVEY
+[pickup][frustrated]I can’t even get a minute to myself.
+720) HARVEY
+[pickup]It’s ridiculous.
+721) HARVEY
+[pickup]I wish they’d just...
+722) HARVEY
+[pickup]Leave me alone.
+723) BRUCE
+[pickup2]Are you kidding? You were nearly killed. Can you blame them for wanting to keep an eye on you.
+725) 
+Should I leave you alone?
+726) 
+You could have died!
+727) BRUCE
+[pickup2]You... want me to go?
+728) BRUCE
+[pickup2]Didn’t realize a visit would be such a burden.
+729) HARVEY
+[pickup]No, Bruce... no. I didn’t mean you.
+730) HARVEY
+[pickup]I know I shouldn’t complain.
+732) 
+People want you safe.
+733) BRUCE
+[pickup2]Everyone just wants to make sure you stay safe.
+734) BRUCE
+[pickup2]You know, ‘cause you’re so important and all.
+735) HARVEY
+[pickup]I’m overreacting aren’t I?
+740) BRUCE
+[pickup2]We all have demons, Harvey.
+741) HARVEY
+[pickup]Yeah... isn’t that the truth.
+742) BRUCE
+[pickup2][pushy; are you kidding?]You have to listen to your therapist, Harvey. That should be obvious.
+743) BRUCE
+[pickup2][ALT]Glad you’re alright, Harvey.
+744) BRUCE
+[pickup2][ALT]Glad you’re still in one piece, Harvey.
+755) RYDER
+[pickup]Many are now calling for Bruce Wayne’s resignation as CEO of Wayne Enterprise as-- [cut off]
+756) HARVEY
+[pickup]Hill admitting to having both of them killed...
+757) RYDER
+[pickup]The group calling themselves the Children of Arkham continue to terrorize the city, though we’ve heard nothing further from their leader who appeared on screen to deliver evidence of Thomas Wayne’s corruption.
+758) RYDER
+[pickup]The group calling themselves the Children of Arkham continue to terrorize the city, though we’ve heard nothing further from their leader who appeared on screen to deliver evidence of Thomas Wayne’s corruption.
+759) 
+Don’t listen to the press.
+760) 
+We all have demons.

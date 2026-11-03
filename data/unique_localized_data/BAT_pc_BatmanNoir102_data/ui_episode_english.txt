@@ -1,0 +1,12 @@
+﻿#### 6cd447aa0b | choice/UI | x1
+^imageScale:0.6^<ui_notification_facebuttonRight.d3dtx:-15> Go as Bruce
+
+#### 2a325aae48 | choice/UI | x1
+^imageScale:0.6^<ui_notification_facebuttonRight.d3dtx:-15> Go as Batman
+
+#### 0f77986d41 | choice/UI | x1
+^imageScale:0.7^<ui_notification_analogStickLeft.d3dtx:-16> Navigate  <ui_notification_facebuttonRight.d3dtx:-15> Scan
+
+#### 0653c841f3 | choice/UI | x1
+Press <ui_notification_faceButtonRight.d3dtx:-20> when you find a portion of the signal.
+

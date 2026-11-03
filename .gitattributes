@@ -1,0 +1,6 @@
+# Game text files must keep Windows line endings (CRLF) on every computer, or the game import breaks.
+data/original_data/** text eol=crlf
+data/localized_data/** text eol=crlf
+data/unique_original_data/** text eol=crlf
+data/unique_localized_data/** text eol=crlf
+choice_stats_data/** text eol=crlf

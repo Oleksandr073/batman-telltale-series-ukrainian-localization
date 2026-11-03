@@ -1,0 +1,26 @@
+﻿1) ALFRED
+{ThinkingA}You don’t think someone at Wayne Enterprises is{SkepticalA} involved?
+2) BATMAN
+{AngryA}So we look higher. At the person who runs{ThinkingA} Wayne Tech.
+3) ALFRED
+{ThinkingA}You mean Lucius {SkepticalA}Fox?
+4) ALFRED
+{ConcernedA}He’s one of the few people who know Batman’s identity.
+5) REGINA
+{HappyA}The Waynes have always run this company. {ConcernedA}But now...
+6) REGINA
+{DisgustA}You are the topic of discussion for the board.{ConcernedA} They want to decide what your future at this company will be.
+7) HARVEY
+After that news about your father sending innocent people to Arkham... the whole city wants your head on a pike.
+8) LADYARKHAM
+The corruption in Gotham is too deep, too ingrained, to do anything but bleed it out.
+9) LADYARKHAM
+Then we’ll see each other for we really are.
+10) LADYARKHAM
+No more hiding.
+11) LADYARKHAM
+Not for anyone.
+12) CATWOMAN
+You know what I want.
+13) BATMAN
+[tense]What do you want from me?

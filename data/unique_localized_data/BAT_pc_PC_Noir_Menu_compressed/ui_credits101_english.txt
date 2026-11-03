@@ -1,0 +1,312 @@
+﻿#### 2f00f5bfdf | choice/UI | x1
+FMOD Studio by Firelight Technologies
+Uses Simplygon (TM), Copyright © 2014 Donya(TM) Labs AB
+©2002 Jean-Marc Valin
+
+Uses Oodle. Copyright (C) 2008-2016 by RAD Game Tools, Inc.
+
+Copyright © 1994–2016 Lua.org, PUC-Rio.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+This game is a work of fiction.  All of the characters, events, locations, logos, and entities portrayed are fictional.  Any resemblance to real persons, living or dead, or actual events, is purely coincidental.
+
+
+Software code © 2016-2019 LCG Entertainment, Inc. All other elements © DC (s16). DC LOGO, BATMAN and all related characters and elements © & ™ DC (s16). Telltale, Telltale Games, Crowd Play, the Crowd Play logo and the Telltale logo are trademarks and/or registered trademarks of LCG Entertainment, Inc. All rights reserved.
+WBIE LOGO, WB SHIELD: ™ & © Warner Bros. Entertainment Inc. (s16)
+
+All other trademarks are the property of their respective owners.  All rights reserved.
+
+#### 7bf620a77d | choice/UI | x1
+^^Loki Zammit
+Tangle
+Colin and Sophie
+Kissy Noise the Cat
+Toto
+Henrietta & Oslo
+Lizzie
+Torgo & Fingal
+Gordy Kikoboy
+Mamba the Cat
+Portillo
+Hyde & Lightning
+Maggie ‘Penguin’ Mae
+Summer
+Nacho
+Toby
+Athena, King and Lilly
+Shiro
+Gypsy & Marble
+Luke and the Gang
+Adonis & Aphrodite
+Quake “Not Quite Ace the Bat-Hound”
+Gretel
+Toby
+Seras
+Momo the Cat, Echo the Dog
+Robin
+Tique
+Penny & Desmond
+Emma Dashwood (& R.I.P Ernst)
+Fezzik and M
+Lilly
+Chewie
+Ali the fighting kitten
+Meeko
+Commissioner Rocco
+Dolli, and Looni
+Cody
+Indie
+Spike (aka Spuddles)
+Maia (AKA Chunkers)
+Mr. Popo (R.I.P.)
+Kylo and Yuki
+Snowflake and Charlie Cricket Junior
+Emmitt, Shasta, Lassen, Leo, Snowy, Harriett, Hendrick, Eddie, Freddy and Curly
+Wrigley
+Rowdy
+Shaunday
+Lando, Obi, and Link
+NewCatStar
+Odo the BatCorg
+Peanut & Flame
+Nugget the cat
+Cat
+Penny “Batdog” Widmore
+Zim & Ziva
+Bean Goode
+Sophie
+Emma and Lara Kuku
+Inky & Pistol
+Gumbo, Dagon, and Trash Belly
+Sadie the turkey cat
+Banjo the Chicken Dog
+Sadie the Chatty Cat
+Jinro the Shibe
+Geordi the Shiba
+Dr. Claw
+Frodo, Cinnamon, Tux, Baby, and Frank
+R.I.P. “Good Girl” Midnight Carpenter
+JuJu,  we miss you Tobie
+Chewie
+Fisher ,The 3-Legged Wonder Dog!
+Mocha, Chai & Caramel
+Indie Mc Floof n’ Poop
+Gordon the Cat
+SIR!
+Miss Molly
+Frankie and Penny
+Mr. Grumpy Gills the Betta Fish
+and
+Brenden Q. Ferguson
+
+#### efd0f336c1 | choice/UI | x5
+^font:MenuDisplaySmall.font^BATMAN: SHADOWS MODE
+
+#### 8520e5b7c4 | choice/UI | x5
+^font:MenuDisplaySmall.font^DEVELOPED BY
+LCG ENTERTAINMENT, INC.
+
+#### 6bf7db9e2f | choice/UI | x5
+^^Jamie Ottilie
+
+#### ff00a6adf3 | choice/UI | x5
+^font:MenuDisplaySmall.font^CRO
+
+#### bd629ba63f | choice/UI | x5
+^^Brian Waddle
+
+#### eee0070294 | choice/UI | x5
+^font:MenuDisplaySmall.font^DIRECTOR OF OPERATIONS
+
+#### 55aa4e88a0 | choice/UI | x5
+^^Matt Saia
+
+#### d36b128e4b | choice/UI | x5
+^^Joe Paolinelli
+
+#### ba81c54029 | choice/UI | x5
+^font:MenuDisplaySmall.font^BUILD ENGINEERING
+
+#### 57dede80b8 | choice/UI | x5
+^^Mario Valencia
+
+#### 60876636ee | choice/UI | x5
+^font:MenuDisplaySmall.font^SERVER ENGINEERING
+
+#### 54bb3eeb68 | choice/UI | x5
+^^Dave Miller
+
+#### dd101ca1c7 | choice/UI | x5
+^^Eli Standard - Lead
+Mark Vargas
+
+#### a912ba6fc8 | choice/UI | x5
+^^Andrew Raabe
+
+#### 6f7122a3f9 | choice/UI | x5
+^^Brett R. Rogstad
+Michael Sherak
+Denise Tomlin
+
+#### ddc609535a | choice/UI | x5
+^font:MenuDisplaySmall.font^QUALITY ASSURANCE
+
+#### 745abfa4cb | choice/UI | x5
+^font:MenuDisplaySmall.font^SUBMISSIONS
+
+#### eb5569ec7a | choice/UI | x5
+^^James Chan
+Erik Erwitt
+Erick Ely
+Jesse Wagstaff
+Ben Ingram
+Ashley Burns
+
+#### e771d39b99 | choice/UI | x5
+^^Randy Tudor
+
+#### 71254959f1 | choice/UI | x5
+^font:MenuDisplaySmall.font^ART
+
+#### 626ac1f7aa | choice/UI | x5
+^^Erik Heiberg
+
+#### 2c49e7263c | choice/UI | x5
+^font:MenuDisplaySmall.font^SENIOR MANAGER GLOBAL BRAND
+
+#### daca190b86 | choice/UI | x5
+^font:MenuDisplaySmall.font^PUBLISHED BY ATHLON GAMES, INC.
+
+#### 6d6551fd79 | choice/UI | x5
+^^Geoff Chandler
+
+#### 3dd13850ca | choice/UI | x5
+^font:MenuDisplaySmall.font^SR. DIRECTOR SOCIAL AND COMMUNITY
+
+#### 102529c1ea | choice/UI | x5
+^^Craig Mitchel
+
+#### c671894c16 | choice/UI | x5
+^font:MenuDisplaySmall.font^VP, GLOBAL BRAND & MARKETING
+
+#### 4ca47398dc | choice/UI | x5
+^font:MenuDisplaySmall.font^MANAGER GLOBAL COMMUNITY
+
+#### 1f9b21a2ae | choice/UI | x5
+^^Trevor Smith
+
+#### 8f116b4ba8 | choice/UI | x5
+^font:MenuDisplaySmall.font^ASSOCIATE, GLOBAL BRAND & MARKETING
+
+#### cbf662bbde | choice/UI | x5
+^^Andrew Lewis
+
+#### 4bf3b6d0da | choice/UI | x5
+^^Alex Friend
+
+#### 6bcb42f0a1 | choice/UI | x5
+^font:MenuDisplaySmall.font^DIRECTOR, EMEA PUBLISHING
+
+#### b697653f27 | choice/UI | x5
+^font:MenuDisplaySmall.font^DIRECTOR, GLOBAL PR
+
+#### fb914534f0 | choice/UI | x5
+^^Tom Goldberger
+
+#### 75919b7c67 | choice/UI | x5
+^font:MenuDisplaySmall.font^TESTED BY QLOC S.A.
+
+#### 5b0bcc5b35 | choice/UI | x5
+^^Adam Piesiak
+
+#### 01fc6918da | choice/UI | x5
+^font:MenuDisplaySmall.font^GENERAL MANAGER
+
+#### 62af43ca73 | choice/UI | x5
+^font:MenuDisplaySmall.font^VICE PRESIDENT, BUSINESS DEVELOPMENT
+
+#### 95ea1edf1d | choice/UI | x5
+^^Pawel Ziajka
+
+#### 41d47a7ed7 | choice/UI | x5
+^^Elena Roor
+
+#### 135d0619c6 | choice/UI | x5
+^font:MenuDisplaySmall.font^BUSINESS DEVELOPMENT MANAGER
+
+#### c28b3e0ca8 | choice/UI | x5
+^font:MenuDisplaySmall.font^BUSINESS DEVELOPMENT DEPUTY DIRECTOR
+
+#### 0082bd0775 | choice/UI | x5
+^^Jakub Trudzik
+
+#### e92bc4c4f1 | choice/UI | x5
+^font:MenuDisplaySmall.font^QA LAB MANAGERS
+
+#### d4761a001d | choice/UI | x5
+^^Lukasz Miroslawski
+Pawel Strzelczyk
+
+#### a57798c362 | choice/UI | x5
+^^Sergiusz Slosarczyk
+
+#### 9058d96273 | choice/UI | x5
+^font:MenuDisplaySmall.font^DIRECTOR OF QUALITY ASSURANCE
+
+#### 90d95ab561 | choice/UI | x5
+^font:MenuDisplaySmall.font^QA PROJECT MANAGERS
+
+#### 77aa64bea9 | choice/UI | x5
+^^Maciej Grabowski
+Andrzej Tsupko
+
+#### 6dcf381cfd | choice/UI | x5
+^font:MenuDisplaySmall.font^COMPLIANCE MANAGER
+
+#### 4a2bbccbd4 | choice/UI | x5
+^^Jacek Fajfer
+
+#### fbb3481e0a | choice/UI | x5
+^font:MenuDisplaySmall.font^CQA TESTERS
+
+#### cfae52926b | choice/UI | x5
+^font:MenuDisplaySmall.font^QA TRAINING MANAGER
+
+#### a293a33d4e | choice/UI | x5
+^^Michal Raczynski
+
+#### 80b9fb6650 | choice/UI | x5
+^^Yukari Baba
+Bartlomiej Beton
+Vincent Gileta
+Choi Hoseong
+Tomasz Klebecki
+Dorota Kobylanska
+Lukasz Poblocki
+Sebastian Stolarczyk
+Filip Switek
+
+#### 57a128beb8 | choice/UI | x5
+^font:MenuDisplaySmall.font^QA TEAM LEADERS
+
+#### e5d4ba179d | choice/UI | x5
+^^Ewa Angielska
+Pawel Bucko
+Grzegorz Lewinski
+Michal Siwiecki
+
+#### d7d74bad22 | choice/UI | x5
+^font:MenuDisplaySmall.font^QAF TESTERS
+
+#### f9c26398be | choice/UI | x5
+^^Bartlomiej Zarek
+
+#### ddc5f57b89 | choice/UI | x5
+^^Tomasz Dziedzic
+
+#### 3caea19af2 | choice/UI | x5
+^font:MenuDisplaySmall.font^IT MANAGER
+

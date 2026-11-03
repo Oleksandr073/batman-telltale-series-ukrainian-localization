@@ -1,0 +1,292 @@
+---
+name: telltale-batman-localization
+description: Rules and tools for translating Telltale "Batman - The Telltale Series" landb text exports (files like env_*_english.txt, ui_*_english.txt with "N) SPEAKER" headers), including the Shadows/Noir mode (BAT_* folders). Use whenever translating, editing, checking or syncing these .txt files, or when line counts / tags / headers must be preserved.
+---
+
+# Telltale Batman S1 — landb .txt localization rules
+
+Analysis base: 222 files, ~185 000 records, ~43 600 unique English strings (~365 000 words).
+Folders: `BM_*` = default mode, `BAT_*` = Shadows/Noir mode.
+
+Confidence tags used below:
+- **[100%]** measured on every file, zero exceptions.
+- **[VERIFIED + exceptions]** measured; the exceptions are listed.
+- **[LIKELY]** strong evidence, not proven in-game.
+- **[TEST IN GAME]** cannot be decided from the text alone.
+
+---
+
+## 1. File format — breaking any of these breaks import
+
+| Rule | Confidence |
+|---|---|
+| Encoding is UTF-8 **with BOM** (`EF BB BF`). | [100%] |
+| Line endings are **CRLF** only. No LF-only, no CR-only lines. | [100%] |
+| File ends with CRLF after the last text line. | [100%] |
+| A record = 1 header line + 1..N text lines. Header regex: `^\d+\) .*$` — digits, `)`, **one space**, speaker. | [100%] |
+| Empty speaker ⇒ the header ends in `) ` (trailing space). Speaker present ⇒ no trailing space (`43) VICKI`). | [100%] |
+| Record IDs are unique within a file. | [100%] |
+| IDs are NOT sorted (209 of 222 files): the order is the landb storage order. Never reorder records. | [100%] |
+| Most records have 1 text line (184 900), but 2 645 have 2–103 lines (credits, codex, location cards, phone texts, dev notes). | [100%] |
+| 4 064 records have an **empty** text line (`5) ` then an empty line). That empty line must stay. | [100%] |
+| No text line in any English file starts with `digits) `. A translated line that does will be read as a new record. | [100%] |
+
+**Hard translation rules derived from this:**
+1. Do not touch header lines at all. Not the number, not the speaker, not the trailing space.
+2. Keep **exactly the same number of text lines per record**. Then the total line count of the file is the same automatically.
+3. Empty text lines stay empty. Non-empty lines stay non-empty (in multi-line credits/codex, empty lines are layout).
+4. A translated line must never start with `<digits>) `. If a translation would, reword it (for example, put a word before the number).
+5. Save as UTF-8 with BOM + CRLF. Run `scripts/validate.py` after every editing session.
+
+## 2. Record types and what the player sees
+
+| Record kind | How to recognise | Visible? | Action |
+|---|---|---|---|
+| Subtitle | header has speaker (`BRUCE`, `HARVEY`, …) | yes, without `{}`/`[]` parts | translate |
+| Choice option / UI string | empty speaker (`17) `) | yes | translate |
+| Speaker name in header | `43) VICKI` | no [LIKELY] — subtitles in this game show no names | never change |
+| Writers'/director notes | speaker `DIR…`, `STUB…`, `NOTE(S)`, `QUESTION`, `GAMEPLAY`, `CHANGED`, `WRITING`, `VFX`, `QTE`, or text starting `(Name, Thu Jul 14 01:41:54 2016)` (~470 records) | no | leave in English (harmless to translate) |
+| Cut/placeholder | `<<Insert Image Here: …>>`, URLs (`HTTPS` speaker + `//docs.google…`), `<<id:…>>` junk | no | leave untouched |
+| Leftovers from other games / other platforms | `chapters_english.txt` ("Dave Goes Camping"), iOS/iCloud/PlayStation boot strings | probably not on PC | low priority, translate last |
+
+Weird speaker names such as `HTTPS`, `16`, `1 20`, `ANOTHER SECURITY CAM FEED CATCHES HIS EYE` come from Telltale's script tool cutting text at the first `:`. So `https://…` became speaker `HTTPS` + text `//…`, and `…Jul 21 20:14:13 2016)` became speaker `1 20` + text `14:13 2016) …`. They are notes, not dialogue. [100% for the split pattern]
+
+## 3. Markup reference
+
+| Markup | Example | Rendered? | Rule | Confidence |
+|---|---|---|---|---|
+| `{Emotion}` / `{body-…}` / `{FaceAccent}` / `{BodyAccent}` / `{Intensity-…}` | `{ConcernedB}It sounds…finally{SmugA} putting…` | no — animation/emotion cues | keep every tag, character for character. Keep it at the start if it was at the start. Put mid-line tags at roughly the same point in the sentence. | keep: [100%] / exact position matters: [LIKELY no — animations are baked] |
+| Runtime placeholders `{percent}` `{EPISODE NUMBER}` `{SAVE FILE NAME}` `{VIDEO NAME}` `{SPEED}` `{RoomCode}` `{RoomPopulation}` `{BUILD_VERSION}` `{ENGINE_VERSION}` | `You and {percent}% of players…` | **replaced with a value** | keep exactly, keep the `%` after `{percent}`, move as a unit if the word order needs it | [100% keep] |
+| `[direction]` inside a **subtitle** | `[pickup]`, `[ALT]`, `[V.O.]`, `[laughs]`, `[beat]` (3 400+ kinds) | no | keep. Translating it is optional; keeping English is safest and saves time | [LIKELY] |
+| Bracket-only **choice** (empty speaker) | `[Ignore]`, `[Ignore Them]`, `[Read text]`, `[Punch him]` (966 records) | **yes** — shown as a choice option | **translate the words inside, keep the brackets** | [CONFIRMED by user] |
+| `[ALT]` (any case, also `[ALT; coverage]`, `[alt]`) | `[ALT]Violence breeds violence.` | **no** | **never touch `[ALT]` itself**; translate the text after it. The validator reports any change as an error | [CONFIRMED by user] |
+| Other bracket prefixes on a choice | `[lie]A yatch salesman.`, `[play dumb]…` | prefix probably not shown | keep the prefix untouched, translate the rest | [TEST IN GAME] |
+| Bracket-only subtitle | `VICKI` → `[sighs]` (1 529 records) | effort sound, no visible text | leave as is | [LIKELY] |
+| `^font:Name^` `^color:#hex^` `^glyphScale:n^` `^imageScale:n^` | `^glyphScale:1.25^City Hall` | no — styling | keep exactly. Text after a tag gets that style | [100%] |
+| `^^` | `^^KENT MUDLE`, `…{percent}%^^ of players` | no — "reset style" | keep. If it closes a coloured span, the translated words that should be coloured must stay **between** the opening tag and `^^` | [100%] |
+| `<image.d3dtx:-15>` | `Press ^imageScale:0.8^<ui_boot_facebuttonDown.d3dtx:-15> to Begin` | shows a button icon (number = vertical offset) | keep exactly, including the spaces on both sides. You may move the whole `^imageScale^<icon>` group if the word order needs it | [100% keep] |
+| `<<…>>` | `<<id:377679995>>`, `<<guid:{…}>>` | no | never touch | [100%] |
+| `*word*` | `No one has *ever* managed…` (1 152 lines) | probably shown literally or as emphasis | keep the asterisk convention on the matching translated word | [TEST IN GAME] |
+| Tabs | `[O.S.]\t...the whole city…` (38 lines) | no | keep. The Noir build removed some of them; either way works | [VERIFIED] |
+| Double spaces, leading/trailing spaces | `Navigate  <icon> Scan`, `Cobblepot Park `, `' Vicki.'` | layout or typo | keep spacing next to tags. Elsewhere it does not matter | [VERIFIED] |
+
+**Tag sanity in the English source** — don't "fix" these, just keep them as they are:
+- `{AngryA{body-A}}`, `{FaceAccent{AngryA}}`, `{{callback}}` — nested braces (3 places).
+- 55 lines with unbalanced `[` / `]` (truncated notes, e.g. `[pick`, `[confiBut they…`).
+- `<ui_notification_facebuttonRight:-20>` without `.d3dtx` (ui_episode 105 Noir).
+- `PlayStation®Store` (default) vs `PlayStation™Store` (Noir).
+
+## 4. English writing conventions
+
+**Decision (user):** the inconsistencies below are NOT normalised. Mirror each line as it is:
+`...` stays three dots (and `…` stays `…`, `....` stays `....`), `--` stays `--` (and `–`/`—`/`-` stay as they are),
+and a line keeps its own ending punctuation (or lack of it). Don't "fix" anything to make it consistent.
+
+| Convention | Count | Confidence |
+|---|---|---|
+| Only typographic apostrophes `’` — **zero** straight `'` in all files | 89 434 vs 0 | [100%] |
+| Only typographic double quotes `“ ”` — **zero** straight `"` | 3 239 vs 0 | [100%] |
+| Trailing off / hesitation = three dots `...` (the `…` character is rare) | 19 034 vs 296 | [VERIFIED + exceptions: 382 cases of 4+ dots, 296 `…`] |
+| Interrupted speech = double hyphen `--` at the end or start | 14 217 | [VERIFIED + exceptions: 64 `–`, 8 `—`, 474 lines ending in a single `-`] |
+| Subtitles end with punctuation: `.` 108k, `?` 19k, `!` 8k, `...` 7k, `--` 2k | ~98% | [VERIFIED + exceptions: ~2 600 end in a letter] |
+| Choice options: about 2/3 end with `.`, about 1/3 have no final punctuation (short actions, UI labels) | — | [VERIFIED, inconsistent] |
+| Choice capitalisation is inconsistent (`[Ignore Them]` vs `[Read text]`) | — | not a rule |
+| UI headers are often ALL CAPS (`COMPLETE`, `CONNECTING`) | — | keep the case style |
+| Same English line repeated under many IDs (choice text + spoken version, recaps "Previously on"/"Next time on" repeat scene lines) | 185k records → 43.6k unique | translate once, reuse the same translation (watch for context, e.g. gender) |
+
+The translation must use the target language's own typography (for example Ukrainian/Russian `«…»` and `’`). The game font must contain those glyphs. Check that in game early, because font patching is a separate task.
+
+## 5. Default (BM_*) vs Shadows/Noir (BAT_*)
+
+Noir is **not** a lightly edited copy. It is a re-export from the later LCG Entertainment (2019) build. Facts [100%]:
+
+- Record IDs are the same between the two modes. **Same ID + same English text ⇒ same translation.**
+- 91 of 110 Noir files are byte-identical to their default counterparts; 19 differ.
+- The differences:
+  - typo fixes: `Copplepot` → `Cobblepot` (2 lines, ep. 103 `env_gothamwayneenterprisesexterior`);
+  - removed tabs (`env_gothamrooftops` id 452, credits);
+  - new UI prompts: about 10 in `ui_episode` (e.g. `… to exit.`, `Go as Bruce/Batman`, scan/filter prompts);
+  - new LCG/"Shadows Mode" credits: 68 records in each `ui_credits10x`;
+  - new menu strings and new legal text in `ui_menu` (26 new, id 658 changed);
+  - some lines **blanked** in Noir (`env_skylineclub102_batman` id 2425, `env_batcave` 105 ids 898–900, `env_previouslyonbat105`) and some blank default lines **filled in** (`env_gothamexteriormontage_constructionsite` 103, 17 ids). The blank records also moved in the file order. Don't reorder anything yourself.
+- Present only in default: `env_previouslyonbat104`, `env_policelobbyinfirmary105`, `BM_pc_Project_data/*` (stats, ui_media, ui_text).
+- Noir duplicates: `BAT_pc_PC_Noir_Batman10x_compressed/*` and `BAT_pc_BatmanNoir10x_data/*` contain the same files. Translate them identically.
+
+**Workflow:** the translation table (section 9) covers both modes at once, because Noir-only texts are extra rows at the end.
+
+## 6. Known corrupt characters in the source
+
+- `U+FFFD` (`�`) is stored in the source files themselves (6 lines in each of 4 ep. 103 files, e.g. `He�s a voter like anyone else`). It was an apostrophe. Just translate the line normally.
+- `U+00AD` soft hyphens in `env_gothamskyrailwarehouse_action` (`you promised\xad\xad`, used as an interruption dash).
+
+## 7. Things to test in game (cannot be decided from the files)
+
+1. (Resolved: bracket-only choices are visible and get translated; `[ALT]` is hidden and stays untouched.)
+2. Are other prefixes like `[lie]` / `[play dumb]` on choice text hidden?
+3. Are `*asterisks*` shown literally?
+4. Does changing the speaker name in a header have any effect? (Keep it unchanged anyway; the validator treats it as an error.)
+5. Length limits: choice buttons and UI labels have fixed widths, so long translations may be cut off or overflow. Check the choice wheel and menus.
+6. Font coverage for your alphabet.
+
+## 8. Names glossary
+
+`ai_context/glossary.md` lists every character, place, organisation, gadget and nickname found in the visible
+text, with counts, plus source typos and what they should be. **Before translating, read it and use the
+`Translation` column for every name. When you translate a name that isn't filled in yet, add it to the glossary first**,
+so every file uses the same form. Speaker IDs in headers and the people in the credits are not translated.
+
+## 9. Ukrainian workflow: translation table, context, gender, ти/ви
+
+**Main way to translate: the translation table, not the game files.**
+`translation_table.xlsx` (Excel; a Help sheet explains every column; type only in the yellow column) has one yellow row per unique text for both modes (~44 200 rows, ~373 000 words, built
+from ~185 000 records), plus section/scene header rows and grey reference rows for context. Fill only the `ukrainian` column. Then `apply_translations.py` writes all 222 game files and
+validates them. Rules for the table:
+- Leading `{tags}` and `[notes]` (`{AngryA}[pickup][ALT]`) and a trailing `[alt]` are **not** in the table; they are
+  put back automatically. Everything else in the `english` cell (mid-line `{tags}`, `^..^`, `<icons>`, `[beat]`,
+  bracket-only choices like `[Ignore]`) follows the markup rules in section 3.
+- Multi-line texts are joined with ` ¶ `. Keep exactly the same number of lines; `¶` and an Excel line break
+  (Alt+Enter) both count as a line separator. One-line texts must not contain a line break. A wrong number of lines
+  leaves that table row in English and is reported once with its `#` row number, before anything is written.
+- Tabs are written as `\t`. Empty `ukrainian` = stays English.
+- Left out on purpose (they stay English): writers' notes, texts without letters, and subtitles that are only
+  `[sighs]`-type notes (not shown in game).
+- `Official` column: `yes 8/8` / `some N/8` / `no 0/8` - how many of Telltale's 8 official translations translated
+  the text (from `ai_context/official_usage.txt`, made once from the official game files, which are not in the repo). ~62% of rows are `no 0/8`: almost
+  surely never shown in game. Information only - every row is still translated.
+- `Translator notes` column (blue): free notes for people, kept on rebuild like the translations; scripts never
+  read it. Write your own questions/doubts there, never in other columns (they are recreated).
+- `notes` column: `same as row #N (almost)` (reuse that translation), `keep markup inside`, `N lines: keep N-1 ¶`,
+  `credits: people’s names stay in Latin`, `listener guessed - check scene`.
+- Rows follow the story: `ai_context/play_order.txt` lists the game files per episode in play order (location
+  cards + story knowledge; `(?)` = guess). Section rows (episodes, MENUS & UI, CREDITS, SHADOWS MODE) and scene rows
+  have no key. Each text is translated once in its first (yellow) row; later occurrences are grey reference rows
+  (`see row #N`, Ukrainian = formula) that scripts ignore - the import warns if someone types in one. Files that are
+  mostly copies of an earlier file (shared dialogue databases, 50%+ overlap, common in ep. 2-3) get no reference rows.
+  Translate top to bottom; open `ai_context/scenes/<same path>` for more context. `#` = Excel row number.
+- One row = one translation everywhere. If one scene needs a different wording, put it in an overrides TSV
+  (`file`, `id`, `ukrainian`, `comment`) passed with `--overrides`.
+
+**Gender (Ukrainian verbs and adjectives).** The same English text is split into separate rows when the
+Ukrainian form depends on gender:
+- `speaker_gender` is set when the line has first-person past tense or "I'm sure / glad / ready…" (бачив/бачила,
+  певен/певна);
+- `listener_gender` is set when it has "you" + past tense or adjective ("Did you see?" → бачив/бачила). The
+  listener is guessed (a `[to X]` note, a name used in direct address, or the neighbouring speaker), so check the
+  scene when the note says so.
+Values: `M`, `F`, `?` (unknown: decide from the scene). Choice options are spoken by Bruce (M).
+Speaker genders live in `speaker_genders.xlsx`. After editing it, run `build_tm.py` again; existing
+translations are kept and rows whose gender changed are marked "check gender forms".
+
+**ти/ви.** Decisions per character pair are in `ai_context/speakers.md` (suggested values plus line counts; the user
+confirms them). Apply them consistently. Talking to several people is always ви.
+
+**Context order [VERIFIED].** File order is NOT conversation order: the exporter groups identical texts, so 26% of
+neighbouring records are copies. Sorted by record number (the order lines were written), only 1.5% are, and each
+conversation reads together. Branching answers sit next to each other, so it isn't perfectly linear.
+
+## 10. Tools (`scripts/`, Python 3)
+
+The Excel files (`.xlsx`) need the `openpyxl` package once: `python -m pip install openpyxl`. Everything else
+uses only standard Python. The English files live in `data/original_data/` (the folder that directly contains the BM_* and
+BAT_* folders); the scripts stop with a clear message if they are pointed at the wrong folder.
+
+**Shortcuts:** `package.json` in the repo root defines `npm run import | review | review:all | check | validate |
+rebuild | scenes | unique-original | test | setup` for the commands below. Prefer them; extra arguments go after `--`
+(e.g. `npm run import -- --overrides overrides.tsv`).
+
+Translation table (run from the repo root):
+```
+python .claude/skills/telltale-batman-localization/scripts/build_tm.py data/original_data speaker_genders.xlsx translation_table.xlsx [--unique-original data/unique_original_data]
+python .claude/skills/telltale-batman-localization/scripts/apply_translations.py data/original_data speaker_genders.xlsx translation_table.xlsx data/localized_data --unique data/unique_original_data data/unique_localized_data [--overrides overrides.tsv] [--only BM_]
+python .claude/skills/telltale-batman-localization/scripts/scene_view.py data/original_data ai_context/scenes
+```
+`build_tm.py` rebuilds the table and keeps filled translations (unmatched ones are saved to
+`translation_table.lost.xlsx`, never silently dropped). `apply_translations.py` never changes the English files;
+it writes `data/localized_data/` and validates every file. `scene_view.py` writes the read-only conversation-order views.
+Speaker statistics: `python .claude/skills/telltale-batman-localization/scripts/speakers.py data/original_data speaker_genders.xlsx analysis`, then
+`python .claude/skills/telltale-batman-localization/scripts/make_speakers_md.py`.
+
+Validate a translation against the English originals (single file or whole folder tree):
+```
+python .claude/skills/telltale-batman-localization/scripts/validate.py  EN_FOLDER  TRANSLATED_FOLDER
+python .claude/skills/telltale-batman-localization/scripts/validate.py  en/file.txt  tr/file.txt  --untranslated
+```
+Errors: BOM/CRLF, line count, changed or shifted headers, **the first broken record** (the exact record where a line was added or removed), a text line that looks like a header, filled/emptied lines, and lost or changed `{}` `^^` `<>` `<<>>` `[ALT…]` markup. Warnings: markup order, whitespace/tab changes, straight `"`. The exit code is 1 when there are errors.
+
+
+**Folders and git.** `data/original_data/` = English, never edited. `data/localized_data/` = the game files with Ukrainian,
+written only by `apply_translations.py` (don't edit it by hand: the next import overwrites it, so put changes in the
+table or the overrides file). `data/unique_original_data/` is built from `data/original_data/` ONLY (never from the genders file):
+every unique English text once, entry header `#### <text id> | <speakers> → <listeners> | x<count>` (speakers from
+the header lines; listeners guessed from `[to X]` notes, names in direct address and neighbouring speakers). It is
+written only by `build_tm.py --unique-original` and never changes unless the English files do; the import only
+checks it. `data/unique_localized_data/` (rewritten by every import with `--unique`) has the same entries with the
+Ukrainian; an English text with several table rows (male/female versions, ~230 texts) appears once per version,
+header `#### <table key> | ...` (the key ends in -SM/-SF/-LM/-LF; no readable gender label). Together they hold every text once, English and Ukrainian, in files that mirror the game folders (each text where it first appears; entry =
+`#### key | speaker → listener | x<count>`, the text lines, an empty line). Untranslated rows keep English, so
+`git diff data/unique_localized_data` shows each translation once. Before deleting anything in these folders the scripts check that every
+file in them is a unique-text file (starts with `#### `), so a wrong folder name is refused. After writing, the import runs `check_consistency.py`: every record of the 222 final files must equal the
+English record with its text lines replaced by the matching `data/unique_localized_data` entry (records not in the unique
+folder must be unchanged English). It reads only the folders, not the table, and catches hand edits and missed
+records [VERIFIED with deliberate mistakes]. Run it on its own any time:
+`python .claude/skills/telltale-batman-localization/scripts/check_consistency.py data/original_data speaker_genders.xlsx data/unique_localized_data data/localized_data`.
+`data/localized_data/` started as an exact copy, so `git diff data/localized_data`
+shows exactly which lines were replaced (`git diff --word-diff=plain` is easiest to read), and untranslated files stay byte-identical. An import
+with an empty table changes nothing [VERIFIED]. `.gitattributes` forces CRLF for both folders on every computer.
+
+**After changing any script, run `npm run test`** (`selftest.py`): it fills random scenes with fake Ukrainian in a
+temporary copy, runs build/import, checks every record of the 222 files independently, rebuild/gender-change
+preservation and that deliberate mistakes are reported. It must end with `ALL PASSED`.
+
+### AI drafts (`scripts/ai_translate.py`, `npm run ai:*`)
+
+How Claude translates: `ai_translate.py export TABLE ai_context/batches/X.txt --scene <game file> [--shown-only]`
+(or `--next N`), read `ai_context/style_guide.md`, the scene view listed in the batch and the batch itself
+(glossary names and ти/ви pairs are included), write `ai_context/batches/X.tsv` = `key<TAB>ukrainian[<TAB>note]`
+(¶ between lines; gender keys -SM/-SF/-LM/-LF need that form; rows said by several characters of different
+genders must be gender-neutral), then `ai_translate.py apply TABLE X.tsv`. Apply writes only into empty cells, marks
+`AI draft` in Translator notes and rejects rows with a wrong line count, changed markup, leading spaces, ending
+punctuation, `--`/`...` count or ASCII quotes. Fix rejected rows and apply again. Never overwrite cells by people.
+
+### Choices screen (`scripts/apply_choice_stats.py`, `npm run choice-stats`)
+
+The end-of-episode choices screen ("You and 67.1% of players…") is NOT in any landb file: its texts come from
+Telltale's server (9 languages, no Ukrainian) and the game shows them through `ChoiceStats_LocalizeText()` in
+`ChoiceStats.lua` [CONFIRMED in game]. Files in `choice_stats_data/`:
+- `original_script/ChoiceStats.lua` (decompiled game script) and `original_script/choice_stats_english.txt`
+  (133 English texts, game txt format, 1 line per record, `{percent}` = server number) - never edit;
+- the texts are translated in `translation_table.xlsx` (rows of `BM_pc_Project_data/stats_english`, the same texts
+  with `^glyphScale..^^font..^^color..^` style tags at the start); never translate them anywhere else;
+- `apply_choice_stats.py CHOICE_DIR STATS_EN STATS_UA` (`npm run choice-stats`, run automatically at the end of
+  `npm run import`) maps English → Ukrainian from the imported `stats_english.txt` (leading style tags stripped) and
+  writes `localized_script/choice_stats_english.txt` (133 known server texts, for review) and
+  `localized_script/ChoiceStats.lua` = the original script unchanged + an appended block with the 133 server texts
+  (numbers → `{percent}`, the live number is put back). The screen (`getWorldChoices` in `Menu_Stats.lua`) shows only
+  the 26 choices the server sends (133 texts, server data of 2017-03-28); the other ~190 stats texts are unused
+  candidates and are not put into the script. Untranslated lines stay English; with nothing
+  translated both outputs equal the originals. It validates the txt pair with `validate.py` and stops on errors.
+Compiling and packing are outside this repo. The live copy of the script is in `BAT_pc_PC_Noir_Proj_compressed`
+(it overrides `BM_pc_Project_data`).
+
+## 10b. Style decisions
+
+Read `ai_context/style_guide.md` before translating: confirmed rules (ти/ви, names, “ ” quotes, ’ apostrophe,
+punctuation copied from English) and any open decisions. Never decide a style question on your own if the guide
+marks it as open - ask.
+
+## 11. Checklist when translating
+
+- [ ] Style as in `ai_context/style_guide.md`.
+- [ ] Names translated exactly as in `ai_context/glossary.md` (new names added there first).
+- [ ] Gender forms match `speaker_gender` / `listener_gender`; ти/ви match `ai_context/speakers.md`.
+- [ ] In the table: same number of ` ¶ ` as the English cell; `apply_translations.py` reports 0 errors.
+- [ ] Header lines untouched (copy them; translate only text lines).
+- [ ] Same number of text lines in every record; empty lines stay empty.
+- [ ] Every `{…}`, `^…^`, `^^`, `<…>`, `<<…>>` present and unchanged; `{percent}%` intact.
+- [ ] Spaces around icon tags preserved.
+- [ ] Bracket-only choices (`[Ignore Them]`) translated inside the brackets; `[ALT]` untouched.
+- [ ] `...`, `--` and end punctuation mirrored from the English line, not normalised.
+- [ ] No translated line starts with `number) `.
+- [ ] Notes (`DIR`, `STUB`, timestamped `(Name, Day Mon …)`) left alone.
+- [ ] Saved as UTF-8 with BOM, CRLF.
+- [ ] `validate.py` reports 0 errors.

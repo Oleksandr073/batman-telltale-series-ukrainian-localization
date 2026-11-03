@@ -1,0 +1,1633 @@
+﻿1) 
+[Protect Wayne Manor]
+2) 
+[Assault Wayne Enterprises]
+19) 
+
+64) 
+
+107) 
+
+157) 
+[Remove Handcuffs]
+158) 
+[Kick Car Door]
+159) 
+[Attack Cop]
+261) 
+[Assault Wayne Enterprises]
+262) 
+[Protect Wayne Manor]
+322) 
+
+406) ENFORCERCOLLEEN
+[upset]
+416) 
+
+465) 
+
+523) 
+[Stop Penguin]
+524) 
+[Stop Two-Face]
+529) 
+
+533) BRUCE
+[PICKUP]
+567) 
+[Look away]
+575) ENFORCERCOLLEEN
+[PICKUP]
+3) 
+I got lucky.
+201) 
+I got lucky.
+4) 
+I wish you weren’t in this position.
+5) 
+You’re better off not knowing.
+202) 
+You’re better off not knowing.
+6) 
+I only survived because you showed up.
+203) 
+I only survived because you showed up.
+7) 
+You can be a symbol.
+8) 
+One match lights a wildfire.
+9) 
+Keep gathering allies.
+10) 
+Break the chain.
+235) 
+Break the chain.
+11) 
+Go around the system.
+236) 
+Go around the system.
+682) 
+Go around the system.
+12) 
+Change the system from within.
+239) 
+Change the system from within.
+13) 
+Undermine Grogan’s support.
+14) 
+Denounce the Mayor’s actions.
+15) 
+Out Penguin as Oswald Cobblepot.
+16) 
+Let me know if I can help.
+17) 
+You’ll make the right choice.
+18) 
+Batman will always back you up.
+20) 
+You don’t know who you’re screwing with.
+21) 
+Stop the car immediately.
+22) 
+Thought I smelled bacon.
+23) 
+I’ll break your faces.
+24) 
+Care for a hefty bribe?
+25) 
+Lt. Gordon is a personal friend.
+26) 
+You got a key for these?
+27) 
+These things really chafe.
+28) 
+Breaking out.
+29) 
+Please don’t shoot.
+30) 
+Go ahead, I dare you.
+31) 
+You’re suposed to be a cop.
+32) COP01
+Yeah- slow down... The street’s coming up on the right...
+33) COP01
+Right up there, see? “Park Row.“
+34) COP02
+[still tense]Yeah, I see it.
+35) COP02
+[still tense]Look- I just want to get this over with, okay?
+36) COP02
+[driving, tense]Are we almost there?
+37) COP01
+So calm down already.
+38) COP01
+Don’t worry.  It’ll all be over soon.
+39) COP01
+[urgent]Hey!
+112) COP01
+[dammit]HEY!
+477) GORDON
+[calling you] Hey!
+40) COP01
+[annoyed]What do you think you’re doing?!?
+41) COP01
+[alt, annoyed]What the hell do you think you’re doing?!?
+42) COP01
+[annoyed]Cut that out-
+43) COP01
+[annoyed]Sit still.
+44) COP01
+[sharp]Stop moving-
+45) BRUCE
+You got the key for these things?
+46) COP01
+[confused]What-?
+111) COP02
+[confused]What?
+331) ENFORCERCOLLEEN
+[huh?]{ConfusedA}What?
+47) BRUCE
+It would just make this go much easier-
+48) BRUCE
+These things seriously chafe.
+49) COP01
+[annoyed]Well, tough.
+50) BRUCE
+Any chance either of you officers might have any hand lotion on you? Perhaps a travel-size container?
+51) BRUCE
+[frankly]I’m breaking out of here-
+52) BRUCE
+[smirk]I don’t get any points for honesty?
+53) COP01
+[sharp]Cut it out!
+54) COP01
+[sharp]-or I’ll put you right back to sleep.
+55) COP01
+[dammit!]He’s loose!
+56) COP01
+[alt]Sonuvabitch!
+57) COP02
+[struggling]He’s trying to crash the-[interrupted]
+58) COP01
+[furious/injured]Hey! Don’t move.
+59) COP01
+[alt]You dumb bastard!
+60) COP01
+You stupid idiot!
+61) BRUCE
+[pleading]Don’t shoot me.  Please.
+62) BRUCE
+[alt]You know I can pay you-
+63) BRUCE
+I dare you to.
+65) BRUCE
+Guys like you are why people fear the police.
+66) COP01
+[taunting]Don’t got any smart-ass last words, do ya?
+67) COP01
+[angry]Now you’re going to die just like dear ol’ mom and dad-
+68) COP01
+[alt][taunting]I guess the apple didn’t fall far from the tree, eh?
+69) GORDON
+[disbelief]How the hell did you survive all this while you were cuffed?
+192) GORDON
+[disbelief]How the hell did you survive all this while you were cuffed?
+70) BRUCE
+[happy]I’m a lucky man!
+194) BRUCE
+[happy]I’m a lucky man!
+71) GORDON
+[disbelief]Yeah- I guess you’d have to be.
+72) BRUCE
+You really don’t want to know.
+200) BRUCE
+You really don’t want to know.
+73) GORDON
+[considering]Yeah... I guess some things just defy explanation.
+195) GORDON
+[considering]Yeah... I guess some things just defy explanation.
+74) GORDON
+[considering]Yeah... you might just be right about that, eh?
+199) GORDON
+[considering]Yeah... you might just be right about that, eh?
+75) BRUCE
+[alt]I’d say I owe you my life.
+198) BRUCE
+[alt]I’d say I owe you my life.
+76) BRUCE
+I only survived because of your timely appearance, Lieutenant.
+197) BRUCE
+I only survived because of your timely appearance, Lieutenant.
+77) BRUCE
+[alt, wry]Except, of course, you know, the last time I was here.
+78) GORDON
+[alt,somber]Yeah, I guess so.
+193) GORDON
+[alt,somber]Yeah, I guess so.
+79) GORDON
+You should make yourself scarce.
+80) GORDON
+I’ll clean up this mess.
+81) BRUCE
+[nodding]Okay.  Thank you.
+82) GORDON
+[calling after him]And, thanks for the advice!
+83) BRUCE
+[to Alfred, into radio] Alfred. It’s me.
+259) BRUCE
+[to Alfred, into radio] Alfred. It’s me.
+502) BATMAN
+[to Alfred, into radio] Alfred. It’s me.
+84) ALFRED
+[over radio/interrupting]Mr. Den’t is pulling up to the manor as we speak!
+258) ALFRED
+[over radio/interrupting]Mr. Den’t is pulling up to the manor as we speak!
+85) BRUCE
+[to Alfred]Harvey’s threatened to -
+256) BRUCE
+[to Alfred]Harvey’s threatened to -
+86) BRUCE
+[realizing]He’s already there?!?
+260) BRUCE
+[realizing]He’s already there?!?
+87) BRUCE
+[bad-ass]I’m on my way-
+257) BRUCE
+[bad-ass]I’m on my way-
+507) BATMAN
+[bad ass]I’m on my way.
+684) BRUCE
+[pickup] I’m on my way.
+88) ALFRED
+[urgent]Sir-! That’s not all-
+254) ALFRED
+[urgent]Sir-! That’s not all-
+89) ALFRED
+I am sorry to report that the C.O.A’s attempts to breach the cave’s security is nearly through our final firewalls-
+255) ALFRED
+I am sorry to report that the C.O.A’s attempts to breach the cave’s security is nearly through our final firewalls-
+90) BRUCE
+[alt]What is it?
+249) BRUCE
+[alt]What is it?
+91) BRUCE
+[finishing thought, “Dammit”]-while Wayne Manor is under siege.
+252) BRUCE
+[finishing thought, “Dammit”]-while Wayne Manor is under siege.
+92) ALFRED
+Lucius was pretty clear, you’d have to go to Wayne Tower to stop him...
+251) ALFRED
+Lucius was pretty clear, you’d have to go to Wayne Tower to stop him...
+93) ALFRED
+Yes, sir- there’s no way you can be in both places at once.
+94) ALFRED
+Yes, sir - I’m afraid not even you can handle both threats at the same time.
+253) ALFRED
+Yes, sir - I’m afraid not even you can handle both threats at the same time.
+95) ALFRED
+[over radio]Very well, sir. I’ll prepare for your arrival.
+264) ALFRED
+[over radio]Very well, sir. I’ll prepare for your arrival.
+96) BRUCE
+[into radio]I’m coming home, Alfred.
+265) BRUCE
+[into radio]I’m coming home, Alfred.
+97) BRUCE
+[into radio]I’m headed home, Alfred.
+263) BRUCE
+[into radio]I’m headed home, Alfred.
+98) BRUCE
+I’m sorry, Alfred, I’m going to have to ask you to hold the house for as long as you can-
+247) BRUCE
+I’m sorry, Alfred, I’m going to have to ask you to hold the house for as long as you can-
+99) ALFRED
+[over radio]Of course, sir.
+245) ALFRED
+[over radio]Of course, sir.
+100) BRUCE
+[alt]Thank you.
+246) BRUCE
+[alt]Thank you.
+101) BRUCE
+I’m going to head into the office and attempt to mount a hostile takeover.
+244) BRUCE
+I’m going to head into the office and attempt to mount a hostile takeover.
+102) ALFRED
+[over radio]How do you want to proceed?
+248) ALFRED
+[over radio]How do you want to proceed?
+103) ALFRED
+[over radio]Sir?
+250) ALFRED
+[over radio]Sir?
+104) COP02
+It’s kinda twisted that Mayor Dent insist we do this in Crime Alley.
+105) COP01
+Who the hell knows?
+106) COP01
+He’s just sentimental, I guess.
+108) COP01
+[alt]“Easier” than what?
+109) BRUCE
+[alt] THIS.
+110) BRUCE
+[alt]This is where I’ll get out-
+113) COP01
+[alt]I shoulda known you’d be soft.
+114) BRUCE
+I guess I have your one-man crusade for justice to thank for keeping alive.
+212) BRUCE
+I guess I have your one-man crusade for justice to thank for keeping alive.
+115) GORDON
+I’ve been keeping my eye on the Mayor.
+116) GORDON
+My crusade against corruption.
+117) GORDON
+“Crusade for Justice,“ ha. I’ve been keeping my eye on Dent. Figured he’d put together his own personal squad of corrupt cops.
+210) GORDON
+“Crusade for Justice,“ ha. I’ve been keeping my eye on Dent. Figured he’d put together his own personal squad of corrupt cops.
+118) GORDON
+And I knew he’d put together his own personal squad of corrupt cops- or, at least, ones willing to follow any order he gives-
+119) GORDON
+The rest of the force isn’t much better-
+120) BRUCE
+Yeah. We met.
+126) 
+Yeah we met.
+129) BRUCE
+[Scoff] Yeah. We met.
+216) BRUCE
+[Scoff] Yeah. We met.
+234) 
+Yeah we met.
+121) GORDON
+Commissioner Grogan is still following the orders of an insane, brutal Mayor because that’s “the chain of command.“
+122) BRUCE
+Sounds to me like it’s time to break that chain, Lieutenant.
+123) GORDON
+What exactly does that mean, Mr. Wayne?
+226) GORDON
+{ThinkingA}What exactly does that mean, Mr. Wayne?
+124) BRUCE
+[smiling]Whatever it needs to.
+221) BRUCE
+[smiling]{AmusedB}Whatever it needs to.
+125) BRUCE
+[alt]And call me Bruce.
+222) BRUCE
+[alt]{AmusedB}And call me Bruce.
+127) 
+Doesn’t sound like you approve.
+238) 
+Doesn’t sound like you approve.
+128) 
+What about the Commissioner?
+237) 
+What about the Commissioner?
+130) GORDON
+Try not to judge everyone by these sleazebags, Mr. Wayne.
+213) GORDON
+Try not to judge everyone by these sleazebags, Mr. Wayne.
+131) BRUCE
+Doesn’t sound like you approve, Lieutenant.
+220) BRUCE
+Doesn’t sound like you approve, Lieutenant.
+132) GORDON
+Of course I don’t. Can hardly find anyone I *do* approve of right now.
+217) GORDON
+Of course I don’t. Can hardly find anyone I *do* approve of right now.
+133) BRUCE
+Where does Commissioner Grogan stand? He can’t be in Dent’s pocket, right?
+223) BRUCE
+Where does Commissioner Grogan stand? He can’t be in Dent’s pocket, right?
+134) GORDON
+God no, of course not.
+219) GORDON
+God no, of course not.
+135) GORDON
+They’re all too “by the book” for their own good.
+136) GORDON
+They’re all too “by the book” for their own good.
+137) GORDON
+You got these corrupt bastards, and the ones that aren’t corrupt are too “By-the-book” for their own good.
+139) GORDON
+You got these corrupt bastards, and the ones that aren’t corrupt are too “By-the-book” for their own good.
+215) GORDON
+You got these corrupt bastards, and the ones that aren’t corrupt are too “By-the-book” for their own good.
+218) GORDON
+You got these corrupt bastards, and the ones that aren’t corrupt are too “By-the-book” for their own good.
+138) GORDON
+If it’s not one thing, it’s another...
+214) GORDON
+If it’s not one thing, it’s another...
+140) GORDON
+Or, at least, cops willing to do whatever he asks.
+211) GORDON
+Or, at least, cops willing to do whatever he asks.
+141) GORDON
+Like his own personal Goon Patrol. Feh.
+209) GORDON
+Like his own personal Goon Patrol. Feh.
+142) BRUCE
+Lieutenant, if the system’s not working for you... maybe it’s time to go around it.
+143) GORDON
+Mr. Wayne, the law is the one thing in this messed-up world that I’m sure of. Going around it... I don’t know if I can do that.
+144) BRUCE
+If this city keeps going the way it’s going, you might not have a choice soon.
+145) BRUCE
+Lieutenant you’re clearly a good cop - I imagine one of the best. A man like you can make a lot of difference.
+146) BRUCE
+You need to help the GCPD reform from the inside. Because if there’s a good man like you trying to fix things... maybe I don’t have to give up on this city just yet.
+147) GORDON
+I’ve been trying, there are just so many obstacles--
+148) BRUCE
+Then don’t let them stop you. Because if there’s a good man like you trying to fix things... maybe I don’t have to give up on this city just yet.
+149) GORDON
+[Touched, trying to be tough] That means a lot, Mr. Wayne.
+229) GORDON
+[Touched, trying to be tough] That means a lot, Mr. Wayne.
+150) GORDON
+He’s been my mentor and friend for years... But I don’t know if I can stand by him while he does this.
+151) GORDON
+Never really been in a situation like this before.
+207) GORDON
+{ThinkingB}Never really been in a situation like this before.
+152) GORDON
+Whole city’s going to hell... Just hope I can find my way.
+153) BRUCE
+Call me Bruce.
+155) BRUCE
+Call me Bruce.
+224) BRUCE
+{AmusedA} Call me Bruce.
+230) BRUCE
+{AmusedA} Call me Bruce.
+154) GORDON
+I’ll keep that in mind, Mr. Wayne.
+233) GORDON
+{ThinkingA}I’ll keep that in mind, Mr. Wayne.
+156) GORDON
+And hey. Thanks for the advice, Bruce.
+240) GORDON
+And hey. Thanks for the advice, Bruce.
+160) COP01
+Just sit down and shut up.  We’re almost there.
+161) COP01
+Not one damn muscle.
+162) BRUCE
+Go ahead!  Shoot me!
+163) BRUCE
+There’s no way this is gonna look like a suicide anymore.
+164) COP01
+[alt][defeated] Shit.
+165) COP01
+[defeated] Dammit.
+166) COP01
+Sorry, orders are orders.
+167) BRUCE
+You’re suposed to uphold the law.  Start acting like a cop!
+168) COP01
+I have orders from the Mayor! He’ll kill me if I don’t follow through!
+169) GORDON
+Bruce!  You okay?
+191) GORDON
+Bruce!  You okay?
+170) GORDON
+Just doing my job.
+196) GORDON
+Just doing my job.
+171) 
+There’s no reason to kill me!
+172) 
+I can pay you.
+173) 
+Don’t mess with me.
+174) 
+You’re pathetic and disgrace your badge.
+175) 
+I believe you’ll do the right thing.
+176) 
+You’re worse than
+177) 
+You’re worse than Harvey.
+178) 
+The CoA would want you to do this.
+179) NOTES
+unconvinced
+180) 
+This isn’t your fault.
+181) 
+You are part of the problem.
+182) 
+We have to fight together.
+183) 
+Batman will hunt you down.
+184) 
+But Harvey Dent is wrong!
+185) 
+My death won’t solve anything.
+186) 
+Then shoot me, you coward.
+187) 
+You aren’t even listening to reason.
+188) TUB
+Notes: she shoots
+189) 
+No one is forcing you to do this.
+190) 
+Would you execute anyone?
+204) GORDON
+{ThinkingA}Mr. Wayne, the law is the one thing in this messed-up world that I’m sure of. {ThinkingB}Going around it... I don’t know if I can do that.
+205) GORDON
+[Disdainful] {AngryA}Grogan’s still blindly following the orders of an unstable Mayor because that’s “the chain of command.“
+206) GORDON
+{TiredA}He’s been my mentor and friend for years... {ThinkingA}But I don’t know if I can stand by him while he does this.
+208) BRUCE
+{ThinkingA}Lieutenant, if the system’s not working for you... {AmusedA}maybe it’s time to go around it.
+225) BRUCE
+{ThinkingA}Sounds to me like it’s time to break that chain,{AmusedA} Lieutenant.
+227) BRUCE
+{ThinkingA}Lieutenant you’re clearly a good cop -{AmusedA} I imagine one of the best. A man like you can make a lot of difference.
+228) BRUCE
+{NormalA}You need to help the GCPD reform from the inside.{ThinkingA} Because if there’s a good man like you trying to fix things... {AmusedA}maybe I don’t have to give up on this city just yet.
+231) GORDON
+{AngryA}Whole city’s going to hell... Just {ThinkingA}hope I can find my way so it doesn’t take me with it.
+232) BRUCE
+{ConcernedA}If this city keeps going the way it’s going,{AngryA} you might not have a choice soon.
+241) GORDON
+[gesturing to the subdued enforcers]{BodyAccent}{TiredA}I’ll clean up this mess.
+242) BRUCE
+[nodding]{FaceAccent}{ConcernedA}Right.  {AmusedA}Thank you.
+243) GORDON
+{ThinkingA}You better make yourself scarce.
+266) ENFORCERLUKE
+[matter-of-fact]We just gotta take poor little rich boy down to where his parents got whacked in front of him when he was a kid, pour some bourbon down his throat and shoot one into his head, up close... We’ve got this guy in the Medical Examiner’s office who usually takes care of the rest-
+436) ENFORCERLUKE
+[matter-of-fact]We just gotta take poor little rich boy down to where his parents got whacked in front of him when he was a kid, pour some bourbon down his throat and shoot one into his head, up close... We’ve got this guy in the Medical Examiner’s office who usually takes care of the rest-
+443) ENFORCERLUKE
+[matter-of-fact]We just gotta take poor little rich boy down to where his parents got whacked in front of him when he was a kid, pour some bourbon down his throat and shoot one into his head, up close... We’ve got this guy in the Medical Examiner’s office who usually takes care of the rest-
+267) ENFORCERCOLLEEN
+[concerned]...so how do we make this “look like a suicide?“
+435) ENFORCERCOLLEEN
+[concerned]...so how do we make this “look like a suicide?“
+444) ENFORCERCOLLEEN
+[concerned]...so how do we make this “look like a suicide?“
+268) ENFORCERCOLLEEN
+[unsure]You know this is a lot higher profile than “usual,“ right? Maybe we should check to make sure that-[interrupted]
+438) ENFORCERCOLLEEN
+[unsure]You know this is a lot higher profile than “usual,“ right? Maybe we should check to make sure that-[interrupted]
+445) ENFORCERCOLLEEN
+[unsure]You know this is a lot higher profile than “usual,“ right? Maybe we should check to make sure that-[interrupted]
+269) ENFORCERLUKE
+[interrupting]-We got our orders, partner.  Look, if we start  second-guessing, this whole thing falls apart, trust me.
+437) ENFORCERLUKE
+[interrupting]-We got our orders, partner.  Look, if we start  second-guessing, this whole thing falls apart, trust me.
+446) ENFORCERLUKE
+[interrupting]-We got our orders, partner.  Look, if we start  second-guessing, this whole thing falls apart, trust me.
+270) ENFORCERLUKE
+[leading] You understand...?
+440) ENFORCERLUKE
+[leading] You understand...?
+447) ENFORCERLUKE
+[leading] You understand...?
+271) ENFORCERCOLLEEN
+[not sounding convinced]Yeah... I understand.
+439) ENFORCERCOLLEEN
+[not sounding convinced]Yeah... I understand.
+448) ENFORCERCOLLEEN
+[not sounding convinced]Yeah... I understand.
+272) ENFORCERLUKE
+[upbeat]{BodyAccent}We’re here. {AngryA} Okay, let’s do this.
+273) ENFORCERCOLLEEN
+[hesitant]{ConcernedA}Yeah... right...{AngryA} let’s get it over with.
+530) ENFORCERCOLLEEN
+[hesitant]{ConcernedA}Yeah... right...{AngryA} let’s get it over with.
+274) ENFORCERLUKE
+{SkepticalA}{BodyAccent}C’mon, rich boy,{AngryA} get moving.
+275) ENFORCERCOLLEEN
+[hesitant]{ConcernedA}Maybe I should keep the black and white running...?
+276) ENFORCERLUKE
+[firm]{AngryA}Mayor Dent gave us orders- {BodyAccent}and WE are following them, {AngryB}you got me?
+277) ENFORCERCOLLEEN
+Yeah, I got it.  I believe in what the Mayor’s trying to do-
+278) ENFORCERLUKE
+[firmly]If you’re gonna make chage, you have to take drastic steps.
+420) ENFORCERLUKE
+[firmly]If you’re gonna make chage, you have to take drastic steps.
+441) ENFORCERLUKE
+[firmly]If you’re gonna make chage, you have to take drastic steps.
+449) ENFORCERLUKE
+[firmly]If you’re gonna make chage, you have to take drastic steps.
+279) ENFORCERLUKE
+[impatient]C’mon, let’s keep it moving.
+280) ENFORCERLUKE
+Finally we have a mayor who’s not afraid.
+421) ENFORCERLUKE
+Finally we have a mayor who’s not afraid.
+442) ENFORCERLUKE
+Finally we have a mayor who’s not afraid.
+450) ENFORCERLUKE
+Finally we have a mayor who’s not afraid.
+281) BRUCE
+[interjecting]I am not a threat to you two.
+282) BRUCE
+[interjecting]Dent has lost his mind!
+283) BRUCE
+And you’ve got to be crazier than him to be following his orders-
+284) BRUCE
+[interjecting]You’re not thinking for yourself are you!?
+285) BRUCE
+[to Colleen]You know this doesnt feel right!
+286) ENFORCERLUKE
+Shut up! Keep moving!
+287) ENFORCERLUKE
+Shut up! Keep moving!
+288) ENFORCERLUKE
+Shut up! Keep moving!
+289) ENFORCERLUKE
+(Luke McMullen, Wed Sep  7 13:42:16 2016) [to Bruce]Move it!
+290) BRUCE
+[to EnforcerColleen]You’ll do the right thing- I have faith in humanity and decency-[interrupted]
+291) ENFORCERLUKE
+You and the Dalai Lama-
+292) ENFORCERLUKE
+Move!
+293) BRUCE
+[looking back at her] Do the right thing.
+294) BRUCE
+This is exactly what the Children of Arkham wants you to do-
+bri
+295) BRUCE
+What kind of good cop does the bidding of the people tearing this city apar-?[interrupted]
+296) ENFORCERLUKE
+[interrupting] -stifle yourself!
+297) BRUCE
+You disgust me- you’re a disgrace to your badge!
+298) ENFORCERLUKE
+[angry]Shut your mouth!
+300) ENFORCERLUKE
+[angry]Shut your mouth!
+299) BRUCE
+[harsh]You are worse than Dent.  He’s broken and can’t help himself but you- you’re choosing to do this.
+301) ENFORCERLUKE
+Hey, shut up, rich boy.
+349) ENFORCERLUKE
+Hey, shut up, rich boy.
+350) ENFORCERLUKE
+Hey, shut up, rich boy.
+302) ENFORCERLUKE
+Let’s get this over with.
+303) ENFORCERLUKE
+[alt]Some of us got places to be-
+304) ENFORCERCOLLEEN
+[considering]I don’t... know if we should be doing this-
+305) ENFORCERLUKE
+Calm down. It’s no big deal-
+306) ENFORCERCOLLEEN
+[passionately]It is a big deal-! This is wrong- and you know it-!
+307) ENFORCERCOLLEEN
+[insistent]We should let him go-
+308) ENFORCERCOLLEEN
+[hesistent]I dunno...let’s just get this done.
+309) ENFORCERLUKE
+[smiling]That’s the spirit.
+310) ENFORCERCOLLEEN
+[shakey]{ConfusedA}Don’t make this harder than it has to be-
+539) ENFORCERCOLLEEN
+[PICKUP]Don’t make this harder than it has to be.
+311) ENFORCERCOLLEEN
+{ConcernedA}This just has to happen-
+312) BRUCE
+[foreboding]{ThinkingA}You know what Batman’s going to do, right?{AngryA} If you go through with this?
+313) ENFORCERCOLLEEN
+[wary]{ConcernedA}What? {ThinkingA}He’ll never find out- {AngryA}no one will.
+314) BRUCE
+[ominous]{ThinkingA}Of course, he will. {ConcernedA}That’s what he does.
+315) BRUCE
+[threatening]{AngryA}He will find you.
+316) BRUCE
+{SkepticalA}My death does no one any good. {ConcernedA} Nothing will improve by increasing Gotham’s body count.
+317) ENFORCERCOLLEEN
+[upset]{ThinkingA}Yes, it will- {AngryA}it has to-
+318) BRUCE
+[glum]{DespairA}You’re just fooling yourself.
+319) BRUCE
+[spiteful]{ConcernedA}Then just do it.  {FaceAccent}{AngryA}You coward!
+320) ENFORCERCOLLEEN
+[confused]{ConfusedA}Wha-?
+321) BRUCE
+[doubling down]{SkepticalA}Why aren’t you shooting?{AngryA} Don’t you always follow orders?
+323) ENFORCERLUKE
+{SkepticalA}You wouldn’t understand.
+324) ENFORCERLUKE
+{SkepticalA}Really? {SkepticalB}No last words?
+325) ENFORCERCOLLEEN
+[upset]-{SadA}it isn’t just about you.  {ConcernedA}The Mayor is making the hard choices necessary to fix this city...
+326) BRUCE
+[firmly]{AngryA}You’re not being forced to do this-
+327) ENFORCERCOLLEEN
+[finding her resolve]-{AngryA}so I have to do the same...
+328) BRUCE
+{ConcernedA}You’re in control,{ConcernedB} you can stop this anytime-
+329) ENFORCERCOLLEEN
+{AngryA}Stop! [trying to convince herself]{ConcernedA}I don’t know...
+330) BRUCE
+{AngryA}Would you execute anybody they told you to?
+332) BRUCE
+{ThinkingA}What about a child? {SkepticalA}Your mother? {AngryA}How far is too far?
+333) ENFORCERCOLLEEN
+[struggling]{ConcernedA}I-
+334) BRUCE
+[insistent]{AngryA}The Mayor is wrong!
+335) ENFORCERCOLLEEN
+[mad]{AngryA}No, he isn’t!
+336) BRUCE
+[dismissive]{SkepticalA}I’m done trying to reason with you.
+337) BRUCE
+[dismissive]{AngryA}You’re clearly not hearing it.
+338) ENFORCERCOLLEEN
+[resigned]{AngryA}No. I’m not.
+339) ENFORCERCOLLEEN
+[resolved]{ConcernedA}Yeah... {AngryA}there’s really nothing more to say, is there?
+340) ENFORCERLUKE
+{ConcernedA}Goodbye, Mr. Wayne.
+341) GORDON
+{AngryA}[from down the alley]OFFICER, DROP YOUR WEAPON!
+410) GORDON
+{AngryA}[from down the alley]OFFICER, DROP YOUR WEAPON!
+342) ENFORCERCOLLEEN
+[surprise]Lieutenant?
+
+
+
+drops the gun. She looks ashamed.
+343) ENFORCERCOLLEEN
+[surprise]{SurpriseA}Lieutenant?
+665) ENFORCERCOLLEEN
+[surprise]{SurpriseA}Lieutenant?
+344) GORDON
+[an order]{AngryA}Put it down, officer!
+411) GORDON
+[an order]{AngryA}Put it down, officer!
+668) GORDON
+[an order]{AngryA}Put it down, officer!
+345) GORDON
+[dammit!]What the blazes is going on here?!?
+413) GORDON
+[dammit!]What the blazes is going on here?!?
+346) ENFORCERCOLLEEN
+That’s not what the Mayor says.
+347) ENFORCERLUKE
+Is that right?  Weren’t *you* the one recently in Arkham Asylum?
+348) ENFORCERCOLLEEN
+This is Gotham, nothing ever feels right.
+351) DESDIR
+(Luke Maulding, Fri Sep  2 15:57:49 2016) Bruce disables the threat of Enforcer Luke, knocking him out cold.
+352) DESDIR
+(Luke Maulding, Thu Sep  8 16:28:48 2016) Bruce disables the threat of Enforcer Luke, knocking him out cold.
+353) 
+You showed up.
+354) 
+I put my trust in him.
+355) 
+You should have stopped it.
+356) 
+Harvey is a cancer to Gotham.
+357) 
+Harvey needs to be arrested for this.
+358) 
+We have to arrest Harvey.
+359) 
+Batman will deal with these enforcers.
+360) BRUCE
+These two screwed up- if they’d killed me quicker... well, I’d be dead right now.
+361) BRUCE
+[with a grin]It’s good to have friends, eh?
+362) BRUCE
+[a grin]I guess it’s good to have friends, eh?
+363) GORDON
+Yeah, you got lucky-
+364) BRUCE
+Not lucky, I had a friend looking out for me- thank you.
+365) GORDON
+You’re welcome.
+366) BRUCE
+I put my faith in this officer.
+367) GORDON
+[wry]You got lucky: That’s not such a safe bet in Gotham City these days.
+368) BRUCE
+[to self]A “large, sudden increase in violent Children of Arkham activity,“ eh?
+369) BRUCE
+[alt, to self]Damn.
+370) BRUCE
+[alt, to self]Gordon said “a large, sudden increase in violent Children of Arkham activity?“
+371) GORDON
+[on the phone]-keep me posted.
+372) GORDON
+[on the phone]-let me know.
+373) GORDON
+[answering phone]This is Gordon... okay...
+374) GORDON
+[to Bruce]There’s been a large, sudden increase in violent Children of Arkham activity- officers are being deployed all over Gotham-
+375) GORDON
+[scoff]{ThinkingA}You know, {BodyAccent}I thought I understood cops padding their pockets to look the other way sometimes,{ThinkingB} but these so-called “enforcer squads”--
+376) BRUCE
+[huh?]{SkepticalA}“Enforcer squads?“
+377) GORDON
+{NormalA}Mayor Dent asked for volunteers for a special task force. Grogan approved it. {ThinkingA}It sounded good on paper. {AngryA}Then I saw what these “enforcers” were doing in the name of the law-
+378) BRUCE
+[firm]You could have stopped it- you knew what they were up to-
+379) GORDON
+[annoyed]This is Gotham, Bruce. There’s not much one man can do-
+380) BRUCE
+[impassioned]Not if they don’t try. One man *can* change things.
+381) GORDON
+The Commissioner. Batman. Dent. They’ve each changed Gotham, haven’t they?  Why not me?
+382) BRUCE
+You have to arrest Harvey. You have all the evidence you need for a conspiracy to commit murder charge. This has to stop.
+383) GORDON
+[thinking]It will, but it’s going to take time.
+384) GORDON
+It won’t be easy.
+385) BRUCE
+[emphatic]Harvey’s an immediate threat!
+386) GORDON
+But he’s got the Commissioner in his pocket.
+387) GORDON
+[alt]You might be right- Batman. Dent. The Commissioner. They’ve each changed Gotham.
+388) BRUCE
+Batman will deal with the enforcers.
+389) GORDON
+[disbelief]Batman’s going to take on Dent’s Enforcers AND the Children of Arkham? He can’t do all that-
+390) BRUCE
+[emphatic]If he has to, he will-
+391) GORDON
+[amused]Yeah, that’s probably true. The Commissioner wont be happy about it though.
+392) GORDON
+So I guess I owe it to him to back him up.
+393) GORDON
+What a flaming crap sandwich this whole thing has turned into- with the Commissioner fanning the flames...
+394) ENFORCERCOLLEEN
+What’s going on... is... that I’m turning myself in.
+395) ENFORCERCOLLEEN
+{ConcernedA}Mayor Dent ordered us to kill Mr. Wayne. {SadA}For the good of Gotham.
+396) ENFORCERCOLLEEN
+{ConcernedA}[upset]...I just don’t know how this city could’ve gone to hell so quickly...
+397) BRUCE
+[comforting]{ConcernedA}This isn’t your fault. {AngryA}Mayor Dent is *very* good at convincing people that he’s right.
+398) ENFORCERCOLLEEN
+Thanks.
+399) ENFORCERCOLLEEN
+[alt]Thanks, Mister Wayne.
+400) BRUCE
+[harsh]You’re the problem. It’s people like you who are turning Gotham into a cesspit.
+401) BRUCE
+[alt]The city you vowed to protect.
+402) ENFORCERCOLLEEN
+[depressed]{SadA}You’re right.
+403) BRUCE
+{ConcernedA}Because we all have to fight together. {ConcernedB}That’s the only way to pull Gotham out of the cesspool.
+404) ENFORCERCOLLEEN
+[upset]Wish I had thought of that sooner.
+405) ENFORCERCOLLEEN
+[upset]{ConcernedA}The mayor just wants to bring back order.
+669) ENFORCERCOLLEEN
+[upset]{ConcernedA}The mayor just wants to bring back order.
+407) ENFORCERCOLLEEN
+[upset]{ConfusedA}The anger... {SadA}The hatred...
+408) ENFORCERCOLLEEN
+[alt, upset]{SadA}I’m so sorry.
+666) ENFORCERCOLLEEN
+[alt, upset]{SadA}I’m so sorry.
+409) ENFORCERCOLLEEN
+{SadA}I’m truly sorry.
+679) ENFORCERCOLLEEN
+{SadA}I’m truly sorry.
+412) GORDON
+{ThinkingA}You okay?
+414) BRUCE
+Mayor Dent ordered these two to kill me.
+415) ENFORCERCOLLEEN
+Just keep moving.
+417) ENFORCERCOLLEEN
+{AngryB}He’s been traumatized,{FaceAccent} but that doesn’t make him wrong!
+418) ENFORCERLUKE
+{AngryA}Don’t let him get in your head.
+419) ENFORCERLUKE
+{AngryB}Stand over there.
+700) ENFORCERFEMALE
+Stand over there.
+718) ENFORCERFEMALE
+Stand over there.
+422) ENFORCERLUKE
+{AngryB}That’s enough!
+423) ENFORCERLUKE
+{AngryA}You’re gonna drink this.  All of it. The papers will report it as just another dead, {AngryB}drunk scumbag in crime alley.
+424) SXF
+THUNK of a thick glass bottle hitting a head!
+425) GORDON
+Until you’re on the other side of it.
+426) GORDON
+{AngryA}Until you’re on the other side of it.
+427) BRUCE
+[harsh]{AngryA}You’re the problem.
+428) BRUCE
+{SkepticalA}When the people can’t trust the police, {AngryA}then everyone becomes an enemy.
+429) ENFORCERCOLLEEN
+[upset]{SadA}Maybe...
+430) GORDON
+She’ll live.
+431) GORDON
+[disgusted]{DisgustA}And the sonofabitch brought you to this alley to do it.{AngryA}  Of course.
+498) GORDON
+[disgusted]{DisgustA}And the sonofabitch brought you to this alley to do it.{AngryA}  Of course.
+432) GORDON
+That sonofabitch.
+433) GORDON
+Some friend he turned out to be.
+434) GORDON
+Never trust a politician.
+451) GORDON
+{SadA} I’m sorry, Bruce. {ThinkingA}I know this place must hold a lot of meaning for you.
+499) GORDON
+{SadA} I’m sorry, Bruce. {ThinkingA}I know this place must hold a lot of meaning for you.
+452) GORDON
+{ThinkingA}I know it was a long time ago...
+453) GORDON
+{NormalA}I’m glad you’ve found a way to deal with the grief.
+454) GORDON
+{SadA}But something like that never goes away.
+455) 
+This is where I first met you.
+456) 
+It doesn’t mean anything.
+457) BRUCE
+{SadA}The day my parents died,{ConcernedA} you were there for me.
+458) BRUCE
+{ConcernedA}Right here on this spot, {ConcernedB}telling me that everything was going to be okay.
+459) GORDON
+{ThinkingA}Yeah, well, what else can you say to a kid?
+460) BRUCE
+{SkepticalA}It meant a lot.  {AmusedA}Thank you.
+461) BRUCE
+{DespairA}This alley will live in my nightmares forever.
+462) BRUCE
+{SkepticalA}They say that the pain fades over time,{ConcernedA} but that’s not true...
+463) BRUCE
+{SkepticalA}I’ve gone over that night a thousand times in my head. {ConcernedA} Every time it’s a little different. {AngryA} Since then I’ve learned new things, my perspective has shifted...
+464) BRUCE
+{SadA}But the pain... that never changes.
+466) GORDON
+[Sympathetic]{SadA} I know. {ThinkingA}God I know.
+467) BRUCE
+{DespairA}It just digs in a little deeper.
+468) BRUCE
+{ConcernedA}It does, but...
+469) BRUCE
+{ThinkingA}It’s different now.
+470) GORDON
+{ThinkingA}Well, you seem to have turned out alright.
+471) GORDON
+Thanks for having my back.
+479) GORDON
+Thanks for having my back.
+481) GORDON
+Thanks for having my back.
+472) GORDON
+Maybe there’s still a way I can make changes from the inside.  I’m not giving up.
+473) GORDON
+{NormalA}And hey... {ThinkingA}About what you said...
+475) GORDON
+{NormalA}And hey... {ThinkingA}About what you said...
+478) GORDON
+{NormalA}And hey... {ThinkingA}About what you said...
+482) GORDON
+{NormalA}And hey... {ThinkingA}About what you said...
+483) GORDON
+{NormalA}And hey... {ThinkingA}About what you said...
+474) GORDON
+... On occasion.
+476) GORDON
+Maybe there is some room to go around the system.
+480) GORDON
+Maybe it is time I break the chain.
+484) BRUCE
+{AmusedA}I believe you.
+485) BRUCE
+{AmusedA}I believe you.
+486) BRUCE
+{AmusedA}Take care, Jim.
+487) BRUCE
+{AmusedA}Take care, Jim.
+488) BRUCE
+Take care, Jim.
+489) BRUCE
+{AmusedA}Take care, Jim.
+490) GORDON
+[Disdainful] {DisgustA}They’re just gestapos with a more polite name.
+491) GORDON
+{SadA}I’m... I’m sorry.
+492) STUBDIR
+(Luke Maulding, Fri Sep  2 15:14:57 2016) Luke physically forces Bruce to walk, keeping his gun dug firmly into his game.
+493) ENFORCERLUKE
+{SkepticalA}You volunteered for this,{ConcernedA} same as the rest of us.
+494) ENFORCERCOLLEEN
+[alt]{ThinkingA}Yeah, but {ConcernedA}I didn’t think it meant doing something like...
+495) ENFORCERLUKE
+It does. And we’re doing it.
+496) ENFORCERCOLLEEN
+[ALT] Yeah, but I didn’t think it meant doing something like... murdering Bruce Wayne.
+497) BRUCE
+{SkepticalA}You mean besides the fact Harvey wants me dead?
+500) BRUCE
+[pickup]{AngryB}Shoot an unarmed man!
+501) 
+Crime Alley will haunt me forever.
+503) BATMAN
+[to Alfred]My talk with Harvey didn’t go-
+504) ALFRED
+[over radio/interrupting]Mr. Dent is pulling up to the manor as we speak!  And he’s not alone.
+505) BATMAN
+[realizing]He’s trying to take the manor.
+506) ALFRED
+I don’t think he intends to leave anything to take.
+508) BATMAN
+[frustrated]Not now!
+509) BATMAN
+Lucius?
+771) BRUCE
+Lucius?
+510) LUCIUS
+I just saw!
+511) LUCIUS
+[pickup1] But I can’t explain it... the sheer number of server pings could only mean some sort of high-volume DDOS repeater--
+512) BATMAN
+[impatient] English, Lucius!
+513) LUCIUS
+[pickup1][tension] He’s put together a computer--a “Black Box” device--for the express purpose of smashing through the Batcave firewalls! I don’t know how, but he found the Batcave’s encrypted network!
+514) BATMAN
+What can Oswald access?
+515) LUCIUS
+[pickup1] Nothing yet. But I can’t keep him out much longer. Maybe an hour, at best.
+516) LUCIUS
+[pickup1] I’m going to keeping routing him, but you need to get to Wayne Tower and destroy that Black Box!
+517) BATMAN
+[to himself] Meanwhile Wayne Manor is under siege.
+518) LUCIUS
+[sympathetic] Even Batman can’t be in two places at once.
+519) LUCIUS
+[alt]I wish I could be more help, but you’re on your own for this.
+520) BATMAN
+I’m going home.
+521) BATMAN
+[alt] I’m coming home.
+522) BATMAN
+[to himself] Time to go to work.
+525) 
+Attack Luke
+526) ENFORCERCOLLEEN
+[PICKUP]Careful.
+527) ENFORCERLUKE
+[PICKUP]Let him fall.
+528) ENFORCERLUKE
+[PICKUP]He’s not gonna be worried about anything at all.
+531) ENFORCERLUKE
+[PICKUP]In a couple minutes, bruises are gonna be the least of his worries.
+532) BRUCE
+[PICKUP]That’s right, I am rich. And I can pay you double whatever Dent’s paying you.
+534) ENFORCERCOLLEEN
+[PICKUP]Triple.
+535) ENFORCERLUKE
+[PICKUP]Forget it. Keep your dirty money, Wayne.
+536) ENFORCERCOLLEEN
+[PICKUP][apologetic]Gotta follow orders.
+537) BRUCE
+[PICKUP]This is your only warning. Don’t mess with me.
+538) ENFORCERLUKE
+[PICKUP][scoffs]Or you’ll do what? It’s too late for threats.
+540) ENFORCERLUKE
+[PICKUP]Look around, Wayne. Crime Alley. Seem familiar to you?
+541) ENFORCERLUKE
+[PICKUP][Chuckles to himself]
+542) ENFORCERLUKE
+[PICKUP]Bring back any memories?
+543) ENFORCERLUKE
+[PICKUP]I hear you’re a regular visitor.
+544) 
+Reminds me of murder.
+545) 
+Trying to frighten me?
+546) BRUCE
+[PICKUP]Of course I know this place.
+547) BRUCE
+[PICKUP]You’re trying to upset me, but it won’t work.
+548) BRUCE
+[PICKUP]This is nothing compared to the pain I’ve faced.
+549) 
+You’re disgusting.
+550) BRUCE
+[PICKUP]You bring me to the place my parents were murdered? Why?
+551) BRUCE
+[PICKUP]To torture me? You’re disgusting.
+552) BRUCE
+[PICKUP]This is the place my parents were murdered.
+553) BRUCE
+[PICKUP]Makes sense murderers would bring me here.
+554) ENFORCERLUKE
+[PICKUP][disappointed]Give up?
+555) ENFORCERLUKE
+[PICKUP]It’s the alley where your parents died.
+556) ENFORCERLUKE
+[PICKUP][chuckles to himself]And now you’re gonna join ‘em.
+557) ENFORCERCOLLEEN
+[PICKUP][to EnforcerLuke]Enough. Let’s just get this done.
+558) ENFORCERCOLLEEN
+[PICKUP][mumbles]It’s nothing personal.
+559) ENFORCERCOLLEEN
+[PICKUP][mumbles]It’s nothing personal.
+560) ENFORCERCOLLEEN
+[PICKUP][mumbles]It’s nothing personal.
+561) ENFORCERCOLLEEN
+[PICKUP]We’re only doing what we have to.
+562) ENFORCERCOLLEEN
+[PICKUP]Quiet. That’s enough out of you.
+563) ENFORCERCOLLEEN
+[PICKUP][angry]Stop looking at me!
+564) ENFORCERCOLLEEN
+[PICKUP][upset]Close your eyes or something!
+565) ENFORCERLUKE
+[PICKUP]Don’t let him get under your skin.
+566) ENFORCERLUKE
+[PICKUP]He’s just another rotten Wayne.
+568) ENFORCERLUKE
+[PICKUP]Look right at me instead. And keep on looking until she turns your lights off.
+569) 
+Make me.
+570) BRUCE
+[PICKUP]I’ve got the guts to face my attacker.
+571) BRUCE
+[PICKUP]It doesn’t have to be like this.
+572) 
+Having second thoughts?
+573) BRUCE
+[PICKUP]It’s harder to kill someone than you think. Maybe you’re having second thoughts?
+574) BRUCE
+[PICKUP]But do you have the guts to pull the trigger?
+576) ENFORCERLUKE
+[PICKUP]Don’t worry. If she doesn’t, I do.
+577) ENFORCERCOLLEEN
+[PICKUP]Don’t push me.
+578) ENFORCERCOLLEEN
+[PICKUP][tense]You really want to force this, huh?
+579) ENFORCERLUKE
+[PICKUP]You’re gonna drink this. All of it.
+580) GORDON
+[PICKUP][regretful]I hate to hit a cop. Even a dirty one.
+581) 
+Dent got into your head.
+662) 
+Dent got into your head.
+582) ENFORCERCOLLEEN
+[PICKUP][upset]I was just following his command.
+673) ENFORCERCOLLEEN
+[PICKUP][upset]I was just following his command.
+583) 
+You’re going to rot in jail.
+663) 
+You’re going to rot in jail.
+584) BRUCE
+[PICKUP]This mess isn’t your fault.
+585) BRUCE
+[PICKUP]Mayor Dent is out of his mind.
+672) BRUCE
+[PICKUP]Mayor Dent is out of his mind.
+586) GORDON
+[PICKUP]She won’t be the last, I’m afraid.
+677) GORDON
+[PICKUP]She won’t be the last, I’m afraid.
+587) BRUCE
+[PICKUP]You’re going to jail. For a long time.
+676) BRUCE
+[PICKUP]You’re going to jail. For a long time.
+588) 
+You can make this right.
+664) 
+You can make this right.
+589) BRUCE
+[PICKUP]I know what’s best for Gotham. And it isn’t paid thugs like you.
+590) BRUCE
+[PICKUP]You can still make this right.
+675) BRUCE
+[PICKUP]You can still make this right.
+591) ENFORCERCOLLEEN
+[PICKUP]How?
+678) ENFORCERCOLLEEN
+[PICKUP]How?
+774) BRUCE
+How?
+592) BRUCE
+[PICKUP]Fight the real criminals.
+674) BRUCE
+[PICKUP]Fight the real criminals.
+593) BRUCE
+[PICKUP] Yeah, you really showed up in the nick of time.
+594) GORDON
+[PICKUP]But it looks like your best friend Dent wants you dead.
+595) GORDON
+[PICKUP]I don’t know about you, but that would mess me up for at least an afternoon.
+596) GORDON
+[PICKUP]Probably longer.
+597) 
+Harvey needs help.
+598) 
+This is war.
+599) 
+I’m running out of friends.
+600) BRUCE
+[PICKUP]Harvey’s damaged. He needs help.
+601) GORDON
+[PICKUP]I don’t disagree, but who’s gonna tell him?
+602) BRUCE
+[PICKUP]Harvey may have declared war on me. But I’m going to finish it.
+603) GORDON
+[PICKUP]This is bigger than your feud.
+604) BRUCE
+[PICKUP]Harvey’s not my friend.
+605) BRUCE
+[PICKUP]A guy like me can’t afford to have friends.
+606) GORDON
+[PICKUP]Well, I’m still here.[beat]Just don’t annoy me.
+607) GORDON
+[PICKUP]Sorry. Didn’t mean to pry.
+608) GORDON
+[PICKUP]You’re lucky I’ve been keeping tabs on you.
+609) GORDON
+[PICKUP]He’s left the rest of the force scrambling to keep order.
+610) GORDON
+[PICKUP][shaking his head]Blowing up a city block? It’s madness.
+611) GORDON
+[PICKUP]I don’t know what’s worse, the Children of Arkham or the mayor.
+612) GORDON
+[PICKUP]Before all this is over, they may have to lock *me* up.
+613) GORDON
+[PICKUP]Trying to figure out what the hell Dent is up to.
+614) 
+Be careful.
+615) BRUCE
+[PICKUP]You can’t fight him, but you can’t get too close.
+616) GORDON
+[PICKUP]You? No offense, but you would have been dead here if I hadn’t shown up.
+617) GORDON
+[PICKUP][regretful]She used to be a good cop.
+618) GORDON
+[PICKUP]Someone’s got to stop him.
+619) GORDON
+[PICKUP]There’s a lot of lives at stake here. Don’t ever forget that.
+620) GORDON
+[PICKUP]Better leave it to the pros.
+621) 
+No one better than you.
+622) BRUCE
+[PICKUP]There’s no one better than you.
+623) BRUCE
+[PICKUP]Take him down and the people will cheer. They need to see someone like you triumph.
+624) GORDON
+[PICKUP]I’ll do that. Even if it kills me.
+625) GORDON
+[PICKUP]Dent’s gotta be stopped through proper channels.
+626) 
+You have to quit.
+627) BRUCE
+[PICKUP]Walk away. Dent will destroy anything close to him.
+628) GORDON
+[PICKUP]If we wait much longer, he could blow up half the city.
+629) GORDON
+[PICKUP]Eh, it’s not your problem, I guess.
+630) GORDON
+[PICKUP]If you need me to drive you somewhere, I can.
+631) GORDON
+[PICKUP]You need a ride or what?
+632) BRUCE
+[PICKUP]Go on. I think I’ll walk.
+633) ENFORCERLUKE
+[PICKUP]The papers are gonna report how Bruce Wayne just couldn’t live with the guilt anymore.
+634) ENFORCERCOLLEEN
+[PICKUP]Mayor Dent ordered us to kill you. For the good of Gotham, he said.
+667) ENFORCERCOLLEEN
+[PICKUP]Mayor Dent ordered us to kill you. For the good of Gotham, he said.
+635) BRUCE
+[PICKUP]And it seems like he messed up your head, too.
+671) BRUCE
+[PICKUP]And it seems like he messed up your head, too.
+636) BRUCE
+[PICKUP]And I’m going to forget you even exist.
+670) BRUCE
+[PICKUP]And I’m going to forget you even exist.
+637) BRUCE
+[PICKUP]Add Harvey to my list of former friends.
+638) BRUCE
+[PICKUP]It’s getting longer every day.
+639) GORDON
+[PICKUP]Dent’s out of control. Trying to kill you.
+640) GORDON
+[PICKUP]And blowing up a city block? It’s madness.
+641) GORDON
+[PICKUP]How am I supposed to serve a guy like that?
+642) BRUCE
+[PICKUP]Just be very
+643) BRUCE
+[PICKUP]You have to be very careful.
+644) GORDON
+[PICKUP]I’ll just keep my head down. Even though that makes me sick.
+645) BRUCE
+[PICKUP]Fight his insanity. Rally the force to your side.
+646) GORDON
+[PICKUP]Easier said than done. I happen to love this town.
+647) GORDON
+[PICKUP]And I’m going down with it, one way or the other.
+648) ENFORCERFEMALE
+Come on, keep walking.
+812) ENFORCERFEMALE
+Come on, keep walking.
+649) BRUCE
+[groggy]Wait-- just wait I...
+650) ENFORCERMALE
+Shut up. Just keep moving.
+651) 
+Why are you doing this?
+652) 
+You know this is wrong!
+653) 
+You’re going to regret this.
+654) 
+Cops protect people!
+655) 
+You’re not helping Gotham.
+656) 
+You sound brainwashed!
+657) 
+Harvey’s lost his mind!
+658) 
+Yes
+659) 
+No
+660) 
+Think for yourselves!
+661) BRUCE
+[pickup][Calm, trying to get through to him] Listen to me...
+680) 
+Let Batman handle Dent.
+681) 
+You need to clean up the GCPD.
+683) NOTE
+The device works by sending out and amplified mirror signal as contained in the “Wayne Exploit”.  This creates a feedback loop in the Bat Gadget causing it to glitch out or shut down.  It is not a “Targeted” attack, so we never know exactly what is going to be affected or when.
+Additionally, the device is also being used to smash through the Batcave firewalls!  Somehow Oswald has tapped into the Batcave’s encrypted network.
+If the Bat Computer is hacked, he’ll have access to EVERYTHING!
+The source of the signal for The Device is coming from somewhere in Wayne Tower.
+To save your technology and your secret, you’ll have to destroy the black box!
+685) BRUCE
+Please - Why are you doing this?
+686) ENFORCERFEMALE
+[Stern] Hey. He said shut up!
+688) ENFORCERFEMALE
+[Stern] Hey. He said shut up!
+690) ENFORCERFEMALE
+[Stern] Hey. He said shut up!
+687) BRUCE
+Look at what you’re doing - This is wrong and you know it.
+689) BRUCE
+I don’t know how you think this is going to end; but trust me you will regret this.
+691) BRUCE
+You’re cops! You’re supposed to protect people, keep them safe...
+692) BRUCE
+Is this really what your badge stands for?
+693) ENFORCERMALE
+This is how we’re keeping people safe!
+694) BRUCE
+Any way you cut this, this is murder. Is that what you want?
+695) ENFORCERMALE
+[Chin raised] Sometimes you need to do a little bad to do a lot of good.
+699) ENFORCERMALE
+[Chin raised] Sometimes you need to do a little bad to do a lot of good.
+696) ENFORCERMALE
+This is our “little bad.“
+697) BRUCE
+I know that when you put that uniform on in the morning you do it because you want to help Gotham.
+698) BRUCE
+You are better than this! This is not how you help the city!
+701) ENFORCERMALE
+[Obviously you don’t get it, but Mayor Dent has a plan here.-trim] The Children of Arkham are trying to tear the city apart - We’re saving it.
+702) ENFORCERFEMALE
+Yeah. We’ve finally got a leader who wants results. [One who’s letting us fight force with force.-trim]
+703) BRUCE
+Listen to yourself, you sound brainwashed!
+704) BRUCE
+Harvey knows you’re scared and he’s using that against you to make you do exactly what he wants!
+705) ENFORCERMALE
+[Seed of doubt] No, he hasn’t brainwashed us. We’re helping him. We’re doing the right thing--
+706) ENFORCERFEMALE
+The Mayor’s the only one brave enough to take real action against our enemies.
+710) ENFORCERFEMALE
+The Mayor’s the only one brave enough to take real action against our enemies.
+714) ENFORCERFEMALE
+The Mayor’s the only one brave enough to take real action against our enemies.
+783) ENFORCERFEMALE
+The Mayor’s the only one brave enough to take real action against our enemies.
+785) ENFORCERFEMALE
+The Mayor’s the only one brave enough to take real action against our enemies.
+707) BRUCE
+Come on. This is not the same Harvey that first started running for mayor - He’s lost his mind!
+711) BRUCE
+Come on. This is not the same Harvey that first started running for mayor - He’s lost his mind!
+708) ENFORCERMALE
+[Seed of doubt] He’s... He’s just had to get more firm in the face of the Children of Arkham. He’s still got the city’s best interests at heart.
+713) ENFORCERMALE
+[Seed of doubt] He’s... He’s just had to get more firm in the face of the Children of Arkham. He’s still got the city’s best interests at heart.
+782) ENFORCERMALE
+[Seed of doubt] He’s... He’s just had to get more firm in the face of the Children of Arkham. He’s still got the city’s best interests at heart.
+709) BRUCE
+You got to see it - What the Penguin did to him... it changed him.
+712) BRUCE
+You got to see it - What the Penguin did to him... it changed him.
+715) BRUCE
+You had to see it - When Lady Arkham drugged him... He changed.
+716) BRUCE
+[Incredulous] Harvey’s not going to save Gotham - He’s going to destroy it!
+717) BRUCE
+[Accusing] Your Mayor just blew up a city block!
+719) ENFORCERMALE
+[Glancing at enforcerfemale, this sounds rehearsed] Sometimes to help the greater good, there’s a price to pay--
+720) BRUCE
+[Getting angry] People DIED - Innocent. People.
+721) ENFORCERMALE
+[Shaken] I-- But...
+722) BRUCE
+And if you think that’s where he’s going to stop, you’re just as crazy as he is!
+723) ENFORCERFEMALE
+I knew you didn’t have the stones for this -
+726) ENFORCERFEMALE
+[Bitter, to male enforcer] I knew you didn’t have the stones for this.
+729) ENFORCERFEMALE
+[Bitter, to male enforcer] I knew you didn’t have the stones for this.
+724) ENFORCERFEMALE
+[Getting angry too] Shut up! [Back to Bruce] You just don’t get it - You don’t understand! That’s why we need to take you out.
+725) BRUCE
+[Quieter] If you really think that killing me is the way to save Gotham, then go ahead and do it.
+727) ENFORCERMALE
+[Nervous] You’re right... Oh god I was about to... I’m sorry--
+730) ENFORCERMALE
+[Nervous] You’re right... Oh god I was about to... I’m sorry--
+728) BRUCE
+[Looking him dead in the eye] You know I’m telling the truth and I know you’re hearing me.
+731) BRUCE
+Just think for yourselves! You’re not Harvey’s puppets, you are more than that!
+732) ENFORCERFEMALE
+This isn’t about the Mayor - This is about protecting the city.
+734) ENFORCERFEMALE
+This isn’t about the Mayor - This is about protecting the city.
+733) ENFORCERFEMALE
+[Emphasis on “we” to reinspire male enforcer’s lagging faith] And that’s why we are not afraid to do what it takes.
+735) ENFORCERFEMALE
+[Emphasis on “we” to reinspire male enforcer’s lagging faith] And that’s why we are not afraid to do what it takes.
+736) ENFORCERMALE
+Maybe... Well...
+737) ENFORCERFEMALE
+“Maybe” what?
+738) ENFORCERMALE
+I... nothing.
+739) BRUCE
+[Realization] How’d you even find me? Dent just blew up a whole city block!
+740) GORDON
+[Frustrated, angry] I know - The man’s gone insane! I’ve never seen something so misguided, so- so...
+741) GORDON
+[Deep breath] Grogan tasked me with cracking down on which officers helped Dent pull it off.
+742) 
+Can’t you arrest him?
+743) 
+We need to stop him!
+744) 
+How could this happen?
+745) BRUCE
+You got to be able to arrest him after this, right?
+746) GORDON
+We’re doing what we can, Bruce, but there aren’t a whole lot of contigency plans for what to do when your mayor starts blowing up the city!
+747) BRUCE
+Dent needs to be stopped, Jim. Now. Or that block won’t be the last thing that gets destroyed.
+748) GORDON
+Oh, we’ll stop him. But it ain’t going to be easy... it’s a mess out there.
+749) BRUCE
+I just don’t understand how this could happen - He’s not emperor, he’s just mayor.
+750) GORDON
+[Bitter] He’s declared martial law - Basically whatever he says goes if he believes it’s for the good of the city.
+751) GORDON
+Never seen a city go to hell so fast...
+752) GORDON
+[macabre] The amount of blood on his hands... he and Lady Arkham might be neck and neck on body count by this point.
+753) GORDON
+He’s supposedly trying to stop the Children of Arkham, but now he’s become a goddamn terrorist himself!
+754) GORDON
+I’m trying to figure out what I can do to help, but I feel like my hands are tied every direction I turn.
+755) BRUCE
+Harvey’s power comes from abusing the system - Maybe you should let someone outside of the system take care of him.
+756) BRUCE
+Doesn’t seem like he lets that stuff stop him.
+757) GORDON
+I’m going to pretend I didn’t hear that.
+758) GORDON
+But... noted.
+759) BRUCE
+Sounds to me like you’re already on the right path - Weeding the bad seeds out of the Department, cutting down the “Enforcers”...
+760) GORDON
+Yeah, I just hope it’ll be enough.
+761) BRUCE
+All that red tape and legal hassle is just proof that the system is broken.
+762) GORDON
+Hey - I swore an oath to uphold the law above all else.
+763) BRUCE
+Dent’s power comes from bending the law to work around you - Maybe you need to do the same.
+764) GORDON
+But you are right that with Dent changing the rules... we might need to update our playbook too.
+765) GORDON
+I’ve never felt this frustrated with the system in my entire career.
+766) GORDON
+But it’s like my hands are tied.
+767) GORDON
+Sorry, just thinking outloud - You’ve probably already got enough to worry about.
+768) GORDON
+I’m going to keep trying to rally the people that actually care about Gotham... see if I c
+769) BRUCE
+[To self] Lucius. [To Gordon, gesturing w/phone] Jim, I actually have to take this..
+770) GORDON
+[Weary] Sure sure. I’ll be right here.
+772) LUCIUS
+[On phone] Bruce! I figured out how Cobblepot is causing the feedback loop.
+773) BRUCE
+Thanks Jim. For everything.
+775) LUCIUS
+[on phone] He got his hands on a “Black Box” device that he’s using to override all of my new security - It’s causing a feedback loop in your tech.
+776) BRUCE
+That’s not good.
+777) LUCIUS
+[on phone] And it gets worse - He’s using it like a wrecking ball on the Bat Computer’s firewalls. I don’t know how, but he’s tapped into the Batcave’s encrypted network!
+778) BRUCE
+If he gets through those firewalls... he’ll have access to *everything.* How do I stop it?
+779) LUCIUS
+[On phone] Everything. Yes. The signal is coming from Wayne Tower -
+780) LUCIUS
+[on phone] The device’s signal is coming from Wayne Tower. You need to find the Black Box... and destroy it. If you don’t - Your identity, your technology... Penguin will have it all.
+781) ENFORCERFEMALE
+This city is at war.  Sometimes casualities are the cost of winning the war.
+784) ENFORCERFEMALE
+[seed of doubt] No he won’t.
+786) GORDON
+[Spiteful] A terrorist with half the city’s support behind him.
+787) GORDON
+Grogan’s out for Batman’s head - As soon as he can figure out a way to do it.
+788) 
+Ok, Then pull the trigger.
+789) BRUCE
+[ALT] People died - your fellow officers DIED!
+790) BRUCE
+[Firm] Look at what he’s already done tonight! Do you think that’s going to be the last city block he blows up to get his way?
+791) ENFORCERMALE
+[seed of doubt] No, no-no-no... he won’t.
+792) ENFORCERMALE
+I.. hadn’t thought about it that way.
+793) ENFORCERFEMALE
+Hey. Don’t listen to his crap.
+794) ENFORCERMALE
+I... [to enforcerfemale] Maybe he has a point--
+795) BRUCE
+[Challenging] Go on then. Pull the trigger.
+796) BRUCE
+Do it.
+797) ENFORCERFEMALE
+[Resentful, to self] Shouldn’t have had to do that...
+798) GORDON
+I know, I know. The reports I’m hearing are... just awful. Dent’s gone way, way too far.
+799) GORDON
+I can’t help but feel guilty... Batman gave me the information on where to find Lady Arkham’s drug stockpile.
+800) GORDON
+[Grim, deflated] I hand it into my superiors and... god, this happens.
+801) BRUCE
+Like Batman.
+802) GORDON
+Maybe... Maybe I need to start taking things into my own hands.
+803) BRUCE
+You need to rally those that actually care about Gotham - see if you can get enough people together to stand up to Harvey and the Children of Arkham.
+804) GORDON
+[You’re right. Damn, you’re right.-trim] I need to get back to the station right away.
+805) GORDON
+Do you need a ride?
+806) BRUCE
+Thanks, but I’ve got it taken care of.
+807) 
+This is murder!
+808) 
+He’ll destroy Gotham!
+809) 
+You know I’m right.
+810) DEBORAH
+If silent, we skip the next set of questions.
+811) ENFORCERMALE
+Mayor Dent says you’re getting in the way of protecting the city.

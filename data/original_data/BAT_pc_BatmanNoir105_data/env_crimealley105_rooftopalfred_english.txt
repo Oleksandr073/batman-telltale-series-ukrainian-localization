@@ -1,0 +1,170 @@
+﻿1) 
+I’ll distract him from the hostages.
+2) BATMAN
+[Bruce voice; to self] It’s time to end this, Harvey...
+65) BATMAN
+[Bruce voice; to self] {AngryA}It’s time to end this, Harvey...
+3) ALFRED
+There’s not much I can do to back you up if things go wrong.
+4) BATMAN
+[Bruce voice] I’ll draw his focus from the hostages.
+63) BATMAN
+[Bruce voice] {AngryA}I’ll draw his focus from the hostages.
+5) ALFRED
+But who am I to argue?
+6) BATMAN
+[Bruce voice] I know the old Harvey is still in there somewhere.
+60) BATMAN
+[Bruce voice] {DisgustA}I know the old Harvey is still in there somewhere.
+7) BATMAN
+[Bruce voice] If anyone can pull him to the surface, I can.
+8) BATMAN
+[Bruce voice] I should be able to keep Harvey talking long enough to get close.
+61) BATMAN
+[Bruce voice]{AngryA} I should be able to keep Harvey talking long enough to get close.
+9) BATMAN
+[Bruce voice] Then I’ll make my move.
+62) BATMAN
+[Bruce voice]{AngryA} Then I’ll make my move.
+10) BATMAN
+[Bruce voice] Their lives are the priority now.
+11) ALFRED
+You’ll be handing yourself up on a platter.
+12) ALFRED
+[earpiece] I sincerely hope you’re right...
+13) ALFRED
+[earpiece; concerned] That’s a dreadful risk, Bruce.
+14) ALFRED
+[earpiece] Just remember -- your life is important too.
+15) BATMAN
+[Bruce voice] Alfred, stay in the batcave until this is over.
+16) ALFRED
+[earpiece; reluctant] Understood, Bruce.
+17) BATMAN
+[Bruce voice] Alfred -- are you safe?
+56) BATMAN
+[Bruce voice] {ThinkingA}Alfred, are you safe?
+18) ALFRED
+[earpiece; urgent]Yes. I’m barricaded in the batcave.
+19) ALFRED
+If anyone can reach Harvey now, it’s you.
+20) BATMAN
+[Bruce voice; to self] But it’s not a risk I’m willing to take.
+21) ALFRED
+[earpiece; grave] Do you really think he’s capable of such a thing?!
+22) ALFRED
+[earpiece; concerned] How will that help?
+23) BATMAN
+[Bruce voice; to self] Once and for all.
+66) BATMAN
+[Bruce voice; to self] {AngryB}Once and for all.
+24) BATMAN
+[Bruce voice] Harvey asked for Bruce Wayne alone. I don’t want anything to set him off.
+25) BATMAN
+[Bruce voice;decisive] I’ll have to face Harvey without the suit.
+26) BATMAN
+[Bruce voice] I know. He said he’ll kill them all if he so much as catches a glimpse of Batman.
+57) BATMAN
+[Bruce voice]{AngryA} I know. He said he’ll kill them all if he so much as catches a glimpse of Batman.
+27) ALFRED
+[earpiece; urgent; grave] He’s taken hostages, Bruce. Quite a few.
+28) ALFRED
+[earpiece; protesting] But I want to help--
+29) 
+He’s capable of anything.
+30) 
+I really hope not.
+32) BRUCE
+I really hope not.
+31) BATMAN
+[bruce voice] Harvey is capable of anything.
+33) BRUCE
+I don’t know, but we need to prepare for the worst.
+34) BATMAN
+[Bruce voice; to self] It’s not a risk I’m willing to take.
+58) BATMAN
+[Bruce voice; to self]{DisgustA} It’s not a risk I’m willing to take.
+35) BATMAN
+[Bruce voice; to self] In any case, it’s not a risk I’m willing to take.
+36) ALFRED
+[earpiece] But it might be your best chance.
+37) ALFRED
+[earpiece; urgent; yes] I heard gunshots but then Harvey’s men disabled the cameras.
+38) ALFRED
+I suppose we can’t take the risk.
+39) ALFRED
+[earpiece; reluctant] I will be standing by.
+40) 
+Expect the worst.
+41) 
+I can reach the old Harvey.
+42) 
+I can get close and disarm him.
+43) ALFRED
+Killing innocents in cold blood?
+44) ALFRED
+It’s dangerous, but...
+45) ALFRED
+How will you stop him as Bruce?
+46) ALFRED
+You can’t go in there without a plan.
+47) ALFRED
+That seems rather risky.
+48) ALFRED
+I hope you have a plan to compensate for your lack of armaments?
+49) ALFRED
+[ALT] Perhaps there’s a way to turn it to your advantage?
+50) ALFRED
+AAAAA
+51) ALFRED
+Well. I assume you’ve thought of something.
+52) ALFRED
+[earpiece] If anyone can pull him to the surface, you can.
+53) ALFRED
+You can certainly overpower mister Dent, should it come to that.
+54) ALFRED
+[earpiece] It may be your best chance.
+55) ALFRED
+[earpiece; reluctant] I’ll be standing by if you need me.
+59) BATMAN
+[ALT][Bruce voice;decisive]{AngryA} I’ll have to face Harvey without the suit.
+64) BATMAN
+[Bruce voice]{AngryA} Their lives are the priority.
+67) 
+I‘ll get close and disarm him.
+68) ALFRED
+[PKUP] Even without the suit, you’re a formidable opponent.
+69) ALFRED
+[PKUP] I’ve no doubt you’ll come up with something.
+70) ALFRED
+[ALT][PKUP][darkly] We certainly know he’s capable of such violence.
+71) BATMAN
+[PKUP] He’s already killed one of the hostages.
+72) BATMAN
+[PKUP] I have no choice.
+73) BATMAN
+[PKUP][Bruce voice;decisive] I have to face Harvey as Bruce Wayne.
+74) BATMAN
+[PKUP][Bruce voice] Otherwise he’ll just keep killing people.
+75) BATMAN
+[ALT][PKUP][Bruce voice] Harvey’s taken hostages.
+76) BATMAN
+[ALT][PKUP][Bruce voice][grave] He’s already killed one of them. And he says he’ll kill more if he catches a glimpse of anyone other than Bruce Wayne.
+77) BATMAN
+[ALT][PKUP][Bruce voice] I have no choice.
+78) BATMAN
+[PKUP][Bruce voice] I have to face him without the suit.
+79) ALFRED
+[ALTi][PKUP][sharp intake of breath]
+80) ALFRED
+[ALT][PKUP]We certainly know he’s capable of such a thing...
+81) BATMAN
+[ALTi][PKUP][Bruce voice] Including Batman...
+82) ALFRED
+[PKUP] Perhaps going as Bruce could be an advantage?
+83) BATMAN
+[ALTi][PKUP] Anything else will just result in more death.
+84) ALFRED
+[PKUP][earpiece] If anyone can reach him, it’s you.
+85) BATMAN
+[ALT][PKUP]On my way.

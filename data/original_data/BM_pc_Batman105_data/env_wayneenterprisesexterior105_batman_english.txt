@@ -1,0 +1,334 @@
+﻿1) 
+I can be a symbol of hope.
+2) 
+You’re the hero Gotham needs.
+3) 
+We need to work together.
+4) 
+Probably wanted this to be your day
+5) 
+He’s laying low.
+6) BATMAN
+Your{ThinkingA} first address to the city as {FaceAccent}acting commissioner.
+7) BATMAN
+{NormalA}It’s an important{FaceAccent} day.
+8) GORDON
+{NormalA}I’m glad you{FaceAccent} feel that way.
+9) BATMAN
+{NormalA}You’re in the limelight now. That means you could be a target.
+10) GORDON
+[under breath]{AngryA} Always the {FaceAccent}optimist...
+11) GORDON
+We have a{TiredA} full security {FaceAccent}detail.
+12) BATMAN
+[a little sarcastic] One{DisgustA} more can’t{FaceAccent} hurt.
+13) GORDON
+{NormalA}Especially when it’s {FaceAccent}you. [accepting] Well, I’m{NormalA} honored.
+14) GORDON
+{ThinkingA}After all, Lady Arkham might have{FaceAccent} escaped if not for{ThinkingB} you.
+18) GORDON
+{ThinkingA}After all, Lady Arkham might have{FaceAccent} escaped if not for{ThinkingB} you.
+15) GORDON
+I wish she’d have{AngryA}{FaceAccent} lived long enough to be brought to {FaceAccent}justice.
+16) GORDON
+I’m still having a{TiredA} hard time accepting that it was {FaceAccent}Vicki Vale under that{BodyAccent} mask.
+19) GORDON
+I’m still having a{TiredA} hard time accepting that it was {FaceAccent}Vicki Vale under that{BodyAccent} mask.
+17) GORDON
+But at least{TiredA}Bruce Wayne got his {FaceAccent}butler back.
+20) GORDON
+She’ll be brought to{FaceAccent} justice, all thanks to {NormalA}you. And Bruce Wayne must be grateful to have his {BodyAccent}butler back.
+21) GORDON
+He probably had more important things to do.
+22) BATMAN
+{ThinkingA}He’s probably cleaning up the mess{FaceAccent} Cobblepot made at {AngryA}Wayne Enterprises.
+23) BATMAN
+That can’t{FaceAccent} be{AngryA} an easy task.
+24) GORDON
+{ThinkingA}You’ve got a good{FaceAccent} point.
+25) BATMAN
+[ALT] {ThinkingA}Those supermodels won’t {AngryA}just date {FaceAccent}themselves.
+69) BATMAN
+[ALT] {ThinkingA}Those supermodels won’t {AngryA}just date {FaceAccent}themselves.
+26) GORDON
+[surprised laugh]
+40) GORDON
+[unsurprised laugh]
+54) GORDON
+[sigh]
+66) COA03
+[cry of pain]
+70) GORDON
+[surprised laugh]
+123) GORDON
+[deep breath]
+124) 
+
+27) GORDON
+[ALT] {AngryA}Maybe. {FaceAccent}Though I’ve learned{TiredA} there’s more to the man than his questionable{FaceAccent} romantic choices.
+71) GORDON
+[ALT] {AngryA}Maybe. {FaceAccent}Though I’ve learned{TiredA} there’s more to the man than his questionable{FaceAccent} romantic choices.
+28) BATMAN
+[acting disinterested] {ThinkingA}Hmm.
+72) BATMAN
+[acting disinterested] {ThinkingA}Hmm.
+110) BATMAN
+[acting disinterested] {ThinkingA}Hmm.
+29) GORDON
+{ThinkingA}Maybe he’s off on his yacht,{TiredA} trying to put these last few weeks behind him.
+30) GORDON
+I wouldn’t{TiredB} blame{FaceAccent} him.
+31) BATMAN
+{ThinkingA}Bruce Wayne has been through a{AngryA} lot{FaceAccent} these last few weeks.
+32) BATMAN
+He may just need time to{FaceAccent} recuperate.
+33) GORDON
+{TiredB}Don’t we {BodyAccent}all...
+34) GORDON
+You’re{FaceAccent} right.
+35) GORDON
+[thoughtful] If I were{TiredB} him, I’d probably be off on a yacht somewhere{BodyAccent}, trying to forget{NormalA} these past few{FaceAccent} weeks.
+36) GORDON
+{NormalA}I know you’re not {ThinkingA}a man of many {FaceAccent}words...
+37) GORDON
+...but I’d like to {NormalA}say something to Gotham, on {BodyAccent}your behalf.
+38) GORDON
+{ThinkingA}Is there anything you’d like them to{FaceAccent} know?
+39) GORDON
+Maybe about{ThinkingB} how you’d like to be seen?{BodyAccent} Moving forward?
+41) GORDON
+{NormalA}Had a feeling{FaceAccent} you’d say {BodyAccent}that.
+42) BATMAN
+{ThinkingA}Tell them...
+49) BATMAN
+{ThinkingA}Tell them...
+153) BATMAN
+{ThinkingA}Tell them...
+43) BATMAN
+To think of me as a symbol of {FaceAccent}hope. I’ll fight tirelessly for this city. I’ll be the {BodyAccent}hero that {AngryA}Gotham needs.
+44) GORDON
+{NormalA}I’m sure they’ll appreciate{FaceAccent} hearing that.
+154) GORDON
+{NormalA}I’m sure they’ll appreciate{FaceAccent} hearing that.
+45) BATMAN
+{ThinkingA}Tell them I stand{BodyAccent} behind you.
+46) BATMAN
+You are the {NormalA}hero that Gotham needs, {FaceAccent}Commissioner.
+47) GORDON
+{TiredB}I hope I don’t let{BodyAccent} them down.
+48) BATMAN
+You{FaceAccent} won’t.
+50) BATMAN
+I’ll work alongside{BodyAccent} you and the GCPD to protect Gotham.
+51) BATMAN
+The criminals of this city will stand no chance against us.
+52) GORDON
+[confident chuckle] That they won’t.
+53) GORDON
+[under breath] I should probably {NormalA}be used{FaceAccent} to that by now.
+55) GORDON
+[continuing] -- {ThinkingB}until we hold elections for a new{FaceAccent} Mayor, I, as {ThinkingA}acting police commissioner, will work with the GCPD and city council to restore order, and see that justice is served to the{AngryA} last of Lady’s Arkham’s {FaceAccent}so-called Children.
+56) GORDON
+[solemn, from the heart] {ThinkingB}During times like{BodyAccent} these, it can feel impossible to{FaceAccent} hold onto hope. {NormalA}But I have{FaceAccent} hope.
+57) GORDON
+Hope that,{FaceAccent} together, we can rebuild what{TiredA} was lost.
+58) GORDON
+[cut] I’m counting on{BodyAccent} each and every {NormalA}one of you.
+59) GORDON
+And in the last few weeks, as{DisgustA} much {BodyAccent}violence and terror as I’ve seen--{TiredA}I’ve also seen the citizens of this community{FaceAccent} band together to fight those threats.
+60) GORDON
+One of those citizens is{FaceAccent} Batman.
+61) GORDON
+{ThinkingA}A symbol of hope in dark{FaceAccent} times.
+62) GORDON
+{ThinkingA}He’ll work alongside the{FaceAccent} GCPD to lift Gotham out of these dark times.
+63) GORDON
+{ThinkingA}I asked him to speak here tonight. But he’s a {ThinkingB}man of action{FaceAccent} and few words.
+167) GORDON
+[ALT]{ThinkingA}I asked him to speak here tonight. But he’s a {ThinkingB}man of action{FaceAccent} and few words.
+64) GORDON
+We {BodyAccent}need men and women like that, heroes who will{BodyAccent} fight to lift Gotham out of the darkness, rather than simply talking about making a {FaceAccent}difference.
+65) COA03
+{AngryC}Hey,{FaceAccent} Commish! Speak{BodyAccent} to this!
+67) 
+Celebrating with supermodels.
+68) 
+Celebrating with supermodels.
+73) 
+Back to his playboy lifestyle.
+74) 
+Back to his playboy lifestyle.
+75) MONTOYA
+{ThinkingA}They’re ready for {BodyAccent}you,{FaceAccent} Commissioner.
+76) 
+The city needs reassurance
+77) 
+Criminals need to fear me
+78) 
+Wanted to stand by you
+79) GORDON
+{NormalA}{BodyAccent}Batman!
+80) GORDON
+{TiredB}Is everything all{FaceAccent} right?
+81) GORDON
+{NormalA}I assume{FaceAccent} you’re not here to give a {FaceAccent}speech.
+82) GORDON
+So, {ThinkingB}what is{FaceAccent} it?
+83) GORDON
+{ThinkingA}Got it. Well, I appreciate{FaceAccent} the extra pair of eyes.
+84) BATMAN
+{NormalA}I wanted to show Gotham that I {ThinkingA}stand with its new {FaceAccent}Commissioner.
+85) GORDON
+[correcting] {DisgustA}*Acting*{FaceAccent} commissioner.
+86) GORDON
+But all {NormalA}the same, I appreciate{BodyAccent} it.
+87) GORDON
+It’ll be good{FaceAccent} for Gotham to know we’re{ThinkingA} on their side. After all that this city has {ThinkingB}been through, they need to know we’re fighting {FaceAccent}for them.
+88) BATMAN
+I wanted you{NormalA} to know that I stand with you.
+89) GORDON
+I know you and I{ThinkingA} don’t always {FaceAccent}agree on our methods. And I{TiredA} don’t expect that to change{FaceAccent} overnight...
+93) GORDON
+I know you and I{ThinkingA} don’t always {FaceAccent}agree on our methods. And I{TiredA} don’t expect that to change{FaceAccent} overnight...
+90) GORDON
+But I do hope this is the start of a closer partnership.
+91) GORDON
+I think we’d{NormalA} make a pretty good {FaceAccent}team.
+92) BATMAN
+{NormalA}I’m glad to {FaceAccent}hear it.
+96) BATMAN
+{NormalA}I’m glad to {FaceAccent}hear it.
+94) GORDON
+But I{ThinkingA} think we proved back at {FaceAccent}Arkham that we make a{NormalA} pretty good{BodyAccent} team.
+95) GORDON
+I’d like that partnership{FaceAccent} to continue.
+97) GORDON
+{TiredA}I’m a little surprised that Wayne didn’t make{BodyAccent} an appearance himself.
+98) GORDON
+{TiredA}His reputation is on the{FaceAccent} upswing. He put his life{ThinkingA} on the line to stop{BodyAccent} Penguin.
+99) GORDON
+{ThinkingA}The people are waiting to see {BodyAccent}what he’ll do next. Hell{FaceAccent}, even {NormalA}I’m curious.
+100) GORDON
+There must be {BodyAccent}good reason he didn’t{TiredB}{FaceAccent} make an appearance.
+101) GORDON
+{TiredA}His reputation is on the {FaceAccent}upswing. He put his life on{ThinkingA} the line to{BodyAccent} stop Harvey Dent.
+102) BATMAN
+[wry] {ThinkingA}Well, after what happened at his {FaceAccent}manor, he’s probably drowning himself in{FaceAccent} tequila and{AngryA} supermodels.
+103) GORDON
+[amused] {NormalA}Not a big fan, are{FaceAccent} you?
+106) GORDON
+[amused] {NormalA}Not a big fan, are{FaceAccent} you?
+104) GORDON
+{NormalA}If he is, I wouldn’t {FaceAccent}{TiredA}blame him.
+107) GORDON
+{NormalA}If he is, I wouldn’t {FaceAccent}{TiredA}blame him.
+105) GORDON
+[more serious] {TiredB}Hell of a thing to go{FaceAccent} through.
+108) BATMAN
+[wry] {ThinkingA}Well, after what happened in{FaceAccent} Cobblepot Park, he’s probably drowning himself in tequila{FaceAccent} and{AngryA} supermodels.
+109) GORDON
+But I’ve learned he’s a {FaceAccent}man who{TiredA} might surprise you.
+111) BATMAN
+{ThinkingA}He’s probably celebrating your win against {FaceAccent}Penguin--
+112) BATMAN
+--in a hottub filled {AngryA}with champagne and{FaceAccent} supermodels.
+113) BATMAN
+--in a hottub filled {AngryA}with champagne and{FaceAccent} supermodels.
+114) BATMAN
+He’s probably celebrating his defeat of Harvey Dent--
+115) GORDON
+{ThinkingA}Though I’ve learned there’s{NormalA} more to the man than his questionable{FaceAccent} lifestyle choices.
+118) GORDON
+{ThinkingA}Though I’ve learned there’s{NormalA} more to the man than his questionable{FaceAccent} lifestyle choices.
+116) GORDON
+[joking] {NormalA}Well{FaceAccent}, you know those{BodyAccent} supermodels won’t just date {FaceAccent}themselves.
+117) GORDON
+[joking] {NormalA}Well{FaceAccent}, you know those{BodyAccent} supermodels won’t just date {FaceAccent}themselves.
+119) MONTOYA
+[ALT]{ConfusedA} {FaceAccent}Commissioner,{WorriedA} one minute...
+120) GORDON
+[ALT] A lot of them still{BodyAccent} fear you.
+121) GORDON
+{NormalA}Thanks, {FaceAccent}Renee.
+122) GORDON
+[ALT] {NormalA}Thank you, {FaceAccent}Sergeant.
+125) GORDON
+[anxious] I’d take an{BodyAccent} army of villains any day over{TiredA} this.
+126) GORDON
+[to Bats] I’ll let you in on a little {FaceAccent}secret...
+127) GORDON
+{ThinkingA}He told me I was the{FaceAccent} hero this city needs.
+128) GORDON
+Oh, I intend to live {ThinkingB}up to that, but I can’t do it alone.
+129) GORDON
+I need all of you, too.
+130) GORDON
+{AngryA}Another {FaceAccent}shooter!
+131) GORDON
+{AngryB}Clear the{BodyAccent} area!
+132) GORDON
+{TiredA}God help us if {FaceAccent}this is the new normal.
+133) GORDON
+{ThinkingA}The only way we can move forward is{FaceAccent} together.
+134) GORDON
+United.{BodyAccent} Strong. And{NormalA} hopeful.
+135) GORDON
+But one hero cannot change Gotham on{ThinkingB} his own.
+136) GORDON
+He needs all of {FaceAccent}you, too.
+137) GORDON
+But I’m not only asking{BodyAccent} Batman and my {ThinkingB}officers to be heroes.
+138) GORDON
+I’m asking all of you, too.
+139) GORDON
+Let {NormalA}Gotham be a city of {BodyAccent}heroes.
+140) GORDON
+Let {NormalA}Gotham be a city of {BodyAccent}heroes.
+141) GORDON
+Let {NormalA}Gotham be a city of {BodyAccent}heroes.
+142) GORDON
+Let {NormalA}Gotham be a city of {BodyAccent}heroes.
+143) BATMAN
+{AngryA}Violence in this city won’t end{FaceAccent} just because Lady Arkham is {DisgustA}gone.
+144) GORDON
+{TiredB}Wish I {FaceAccent}didn’t agree.
+145) GORDON
+Get those{BodyAccent} bastards{AngryC} to lockup!
+146) GORDON
+Go {BodyAccent}on!
+147) GORDON
+Get them out of my{FaceAccent} sight!
+148) 
+[ALT] I will always be watching.
+149) GORDON
+[ALT; brett] {ThinkingA}You don’t usually {FaceAccent}make public appearances...
+150) GORDON
+[ALT; brett] Why are {ThinkingB}you here?
+151) BATMAN
+[ALT; brett] I want Gotham to know that there are{DisgustA} those who will{BodyAccent} fight for them.
+152) BATMAN
+I’ll always be{FaceAccent} watching out for them.
+155) BATMAN
+[ALT; agrant][wry] {ThinkingA}After what happened at his{FaceAccent} manor, he’s probably gone {AngryA}back to{BodyAccent} his playboy lifestyle.
+156) NEWSCASTER
+This is Monica Mitchell reporting live from outside Gotham Police Headquarters.
+157) MONTOYA
+{WorriedA}Commissioner{FaceAccent} Gordon.
+158) MONTOYA
+{ThinkingA}He’s here.
+159) GORDON
+[more to self]{ThinkingA}Commissioner{BodyAccent} Gordon...
+160) GORDON
+[honest to self]Uh, doesn’t {FaceAccent}sound{TiredB} right...
+161) NEWSCASTER
+We’re currently awaiting newly appointed Police Commissioner James Gordon, who will address the city for the first time in the wake of the terrorist attacks perpetrated by Lady Arkham.
+162) GORDON
+There must be {BodyAccent}good reason he didn’t{TiredB}{FaceAccent} show.
+163) GORDON
+[PKUP] He wanted me to tell you all that he’ll be watching...
+164) GORDON
+[PKUP] ...ensuring the safety of our good citizens.
+165) GORDON
+[ALT; only one][PKUP] Get that bastard to lockup!
+166) GORDON
+[PKUP]He’s a man of action, and few words.

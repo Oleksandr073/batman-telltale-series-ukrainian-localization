@@ -1,0 +1,2000 @@
+﻿1) BATMAN
+[Getting on comm w/ Alfred] Alfred. I’m here.
+306) BATMAN
+[Getting on comm w/ Alfred] Alfred. I’m here.
+310) BATMAN
+[Getting on comm w/ Alfred] Alfred. I’m here.
+329) BATMAN
+[Getting on comm w/ Alfred] Alfred. I’m here.
+331) BATMAN
+[Getting on comm w/ Alfred] Alfred. I’m here.
+2) ALFRED
+[Over comm] Does it appear they’re home, sir?
+308) ALFRED
+[Over comm] Does it appear they’re home, sir?
+311) ALFRED
+[Over comm] Does it appear they’re home, sir?
+330) ALFRED
+[Over comm] Does it appear they’re home, sir?
+3) BATMAN
+Hard to say. I’m gonna check it out.
+307) BATMAN
+Hard to say. I’m gonna check it out.
+312) BATMAN
+Hard to say. I’m gonna check it out.
+328) BATMAN
+Hard to say. I’m gonna check it out.
+332) BATMAN
+Hard to say. I’m gonna check it out.
+4) BATMAN
+Gordon.
+5) GORDON
+Evening, Batman. I appreciate the call.
+6) 
+Always good to have backup.
+7) 
+Just you?
+8) 
+Don’t mention it.
+9) GORDON
+[Re: house] You think there’s going to be trouble in there?
+10) BATMAN
+Not sure what we’ll be getting into in there. Thought I might need backup.
+11) GORDON
+Well I’m happy to provide whatever help I can.
+12) BATMAN
+Couldn’t convince anyone else to come?
+13) GORDON
+[Correcting] Couldn’t risk anyone not being on duty. Gotham’s threatening to boil over, and Dent won’t stop turning the heat up.
+14) BATMAN
+Don’t mention it. Just glad you could make it.
+15) GORDON
+If this could be our chance to take down “Lady Arkham...“
+16) GORDON
+I damn sure well want to be there.
+17) GORDON
+[Should’ve expected that] Right.
+441) ALFRED
+[Over comm] Right.
+18) BATMAN
+Come on.
+19) SATMTUB
+(Eric Stirpe, Mon Aug 22 15:44:40 2016) Batman goes to open the door... and it’s unlatched. A beat... and then the SECURITY ALARM GOES OFF--
+20) NSTUB
+(Eric Stirpe, Mon Aug 22 15:44:40 2016) Batman goes to open the door... and it’s unlatched. A beat... and then the SECURITY ALARM GOES OFF--
+21) BATMAN
+Hm. Unlocked.
+309) BATMAN
+Hm. Unlocked.
+313) BATMAN
+Hm. Unlocked.
+22) GORDON
+[Hushed] I’ll have to remember that trick the next time I can’t remember my door code.
+23) BATMAN
+[Hushed] House alarm was on. Motion-activated, on a timer--
+24) ALFRED
+[On radio] --Meaning that no one has been in or out for some time. Hm.
+25) BATMAN
+[Hushed] {NormalA}The door was unlocked.
+317) BATMAN
+[Hushed] {NormalA}The door was unlocked.
+494) BATMAN
+[Hushed] {NormalA}The door was unlocked.
+496) BATMAN
+[Hushed] The door was unlocked.
+26) GORDON
+Jesus.
+27) 
+
+50) MRVALE
+[Death rattle]
+65) BOY
+[Terrified gasp, cower]
+98) BOY
+[Terrified cry]
+99) GORDON
+[Grunt as he gets out of the way]
+100) BOY
+[Terrified cry]
+116) BOY
+[Whimper]
+117) BOY
+[Sniffle]
+124) 
+
+150) 
+
+162) 
+
+179) 
+
+215) 
+
+233) BOY
+[small gasp]
+245) 
+
+256) 
+
+265) BOY
+[Whimper]
+270) ALFRED
+[Hushed, just to Batman]
+318) BOY
+[Terrified gasp, cower]
+320) BOY
+[Terrified cry]
+373) BOY
+[Whimper]
+502) BOY
+[Worried cry]
+530) BATMAN
+[Wincing from pain]
+555) 
+
+611) 
+
+690) ALFRED
+[pickup]
+725) BOY
+[gasp]
+731) BOY
+[Retch]
+737) 
+[Approach him]
+740) BOY
+[Whimper]
+746) 
+
+846) 
+
+28) BATMAN
+Don’t touch anything. I’m going to see what I can figure out.
+29) GORDON
+Oh believe me. I’m not touching anything.
+30) BATMAN
+{SurpriseA}Alfred?{ThinkingA} {BodyAccent}The Vales are dead. One body confirmed,{SurpriseA}{FaceAccent} but there is a LOT of blood.{NormalA} Alert Gordon.
+327) BATMAN
+{SurpriseA}Alfred?{ThinkingA} {BodyAccent}The Vales are dead. One body confirmed,{SurpriseA}{FaceAccent} but there is a LOT of blood.{NormalA} Alert Gordon.
+31) ALFRED
+Any bodies?
+32) BATMAN
+At least one.
+33) ALFRED
+Do you think it was the work of Miss Vale?
+34) ALFRED
+[Over comm] Will do.
+326) ALFRED
+[Over comm] Will do.
+35) BATMAN
+Stand clear, Gordon. I’m going to get this open--
+36) BATMAN
+[To Alfred] Found some sort of crawlspace - It’s been nailed shut.
+37) ALFRED
+[Comm] That sounds ominous.
+38) BATMAN
+I’m going to get it open.
+39) GORDON
+[Disgust] God.
+40) BATMAN
+{FaceAccent}I’m going to see what I can learn from the body.
+44) BATMAN
+{FaceAccent}I’m going to see what I can learn from the body.
+41) BATMAN
+[To Alfred] Alfred - Found Mr. Vale.
+42) ALFRED
+[Comm] Alive?
+43) BATMAN
+No.
+721) BATMAN
+No.
+45) MRVALE
+[Delusional, delirious] Retribution-- Retribution, consequence--
+46) GORDON
+[Stunned] He’s *alive*?
+47) GORDON
+This is Gordon - I’ve got a heavily injured man--
+48) BATMAN
+Easy.
+49) BATMAN
+[To Alfred] Alfred, Mr. Vale is--
+51) GORDON
+[On radio] Cancel that.
+52) GORDON
+Damn.
+53) ALFRED
+[Comm] Sir?
+55) ALFRED
+Sir?
+54) BATMAN
+Never mind, Alfred. He’s gone.
+56) S
+(Luke Maulding, Fri Aug 19 15:47:47 2016) Return to freewalk!
+259) DDES
+(Luke Maulding, Fri Aug 19 15:47:47 2016) Return to freewalk!
+260) DRES
+(Luke Maulding, Fri Aug 19 15:47:47 2016) Return to freewalk!
+57) BATMAN
+I’m going to keep searching.
+58) BATMAN
+Something’s not adding up, and it points to this closet.
+59) GORDON
+More bodies?
+60) BATMAN
+Let’s hope not.
+64) BATMAN
+Let’s hope not.
+61) BATMAN
+Alfred. I’m starting to think there’s more going on here than just Vicki and the Vales.
+62) BATMAN
+It has something to do with this closet.
+63) ALFRED
+Do you suspect more bodies, sir?
+66) 
+What are you doing here.
+67) 
+Easy, I wont hurt you.
+68) 
+Who are you?
+869) BATMAN
+[Cautious] Who are you?
+69) BATMAN
+{AngryA}What are you doing in here?
+359) BATMAN
+What are you doing in here?
+363) 
+What are you doing in here?
+70) BATMAN
+{NormalA}It’s okay.{ThinkingA}. I’m not going to hurt you.
+71) BATMAN
+{SurpriseA}{FaceAccent}Well hi there. {NormalA}{BodyAccent}Didn’t expect to find you in here.
+72) BOY
+Please... I don’t wanna get killed.
+73) 
+I’ll keep you safe.
+74) 
+I asked you a question.
+75) BOY
+Are you... Are you friends with her?
+76) BOY
+That lady with the freaky voice?
+77) 
+Tell me what you saw.
+78) 
+I’m sorry I scared you.
+79) 
+No, I’m the good guy.
+381) 
+No, I’m the good guy.
+80) 
+Tell me where she went.
+382) 
+Tell me where she went.
+81) 
+Don’t worry, she’s gone.
+380) 
+Don’t worry, she’s gone.
+82) BOY
+My mom and dad... they got attacked.
+83) GORDON
+Batman, I heard--
+84) GORDON
+[Seeing kid] My god.
+85) GORDON
+Come here.
+86) ALFRED
+[Comm] Sir? Is everything all right?
+87) 
+They’re dead.
+396) 
+They’re dead.
+507) 
+They’re dead.
+88) 
+You shouldn’t look.
+395) 
+You shouldn’t look.
+506) 
+You shouldn’t look.
+89) 
+You need to be brave.
+394) 
+You need to be brave.
+505) 
+You need to be brave.
+90) BATMAN
+I found a boy. In the closet.
+91) ALFRED
+[Comm] The things he must have seen...
+847) ALFRED
+[Comm] The things he must have seen...
+92) 
+He’s scared half to death.
+93) 
+He won’t tell me anything.
+94) 
+He’ll recover in time.
+95) GORDON
+How is he?
+96) GORDON
+What the hell--?
+97) BATMAN
+[To boy]{AngryB} Get down!
+347) BATMAN
+[To boy] Get down!
+101) PENGUIN
+[Speaker] Well if it ain’t the biggest, bleedin’, pleasure to see your sour mug again.
+321) PENGUIN
+[Speaker] Well if it ain’t the biggest, bleedin’, pleasure to see your sour mug again.
+848) PENGUIN
+[Speaker] Well if it ain’t the biggest, bleedin’, pleasure to see your sour mug again.
+102) BATMAN
+[Growl] {DisgustA}{FaceAccent}Penguin.
+324) BATMAN
+[Growl] {DisgustA}{FaceAccent}Penguin.
+103) PENGUIN
+[Speaker] You’ve been keeping me up at night, Batman. Haven’t slept a wink since our last encounter imagining all the horrible ways I want to kill you.
+322) PENGUIN
+[Speaker] You’ve been keeping me up at night, Batman. Haven’t slept a wink since our last encounter imagining all the horrible ways I want to kill you.
+104) PENGUIN
+[Speaker] Luckily I found these lovely new toys just lying around the basement of Wayne Tower to help make that happen.
+323) PENGUIN
+[Speaker] Luckily I found these lovely new toys just lying around the basement of Wayne Tower to help make that happen.
+105) PENGUIN
+[Speaker, last words] Tah.
+325) PENGUIN
+[Speaker, last words] Tah.
+535) PENGUIN
+[Speaker, last words] Tah.
+106) BOY
+Hyah!
+353) BOY
+Hyah!
+107) BATMAN
+[To boy] {SurpriseA}{FaceAccent}Nice work, kid.
+108) BATMAN
+[Deadpan]{NormalA} I’m not going to kill you.
+109) BATMAN
+{FaceAccent}Promise.
+110) BATMAN
+{AngryA}I asked you a question. {BodyAccent}What are you doing in here?
+111) BOY
+[scared]... Go away!
+113) BOY
+[scared]... Go away!
+649) BOY
+[scared]... Go away!
+655) BOY
+[scared]... Go away!
+656) BOY
+[scared]... Go away!
+841) BOY
+[scared]... Go away!
+845) BOY
+[scared]... Go away!
+992) BOY
+[scared]... Go away!
+112) BATMAN
+{AngryA}Tell me what you saw.{BodyAccent} Why are you hiding in here?
+114) BATMAN
+{ThinkingA}I’m sorry I scared you. It’s going to be okay.
+115) BOY
+Yeah?
+122) BOY
+Yeah?
+189) BOY
+Yeah?
+214) BOY
+[From Batman to Gordon] Yeah?
+372) BOY
+Yeah?
+378) BOY
+Yeah?
+118) BOY
+I... I...
+370) BOY
+I... I...
+119) BOY
+I never wanna see her again...
+366) BOY
+I never wanna see her again...
+120) BATMAN
+{ThinkingA}No, I’m not friends with her.
+379) BATMAN
+No, I’m not friends with her.
+121) BATMAN
+{NormalA}I’m the {FaceAccent}good guy.
+123) BATMAN
+{AngryA}Where did this {BodyAccent}“lady with the freaky voice” go?
+125) BATMAN
+{FaceAccent}Tell me.
+375) BATMAN
+Tell me.
+126) BOY
+[Trying not to cry] I... I don’t know. I don’t know.
+374) BOY
+[Trying not to cry] I... I don’t know. I don’t know.
+127) BOY
+[Starting to cry] I just never want to see her again.
+365) BOY
+[Starting to cry] I just never want to see her again.
+128) BATMAN
+I found the boy. Alive. He was hiding in a vent.
+129) BATMAN
+{SurpriseA}He’s terrified. {ThinkingA}Whatever he saw scared him half to death.
+130) GORDON
+[Grim] Judging by what we saw? Yeah. That makes sense.
+131) GORDON
+That poor kid.
+132) ALFRED
+[Comm] Of course. From what you’ve described, he’s certainly traumatized.
+133) ALFRED
+[Comm] That poor boy...
+205) ALFRED
+[Comm] That poor boy...
+652) ALFRED
+[Comm] That poor boy...
+134) GORDON
+I know that’s a pretty obvious question but...
+135) GORDON
+What else can you say?
+136) ALFRED
+[Comm] No one should have to witness that...
+137) ALFRED
+[Comm] Least of all a child.
+138) BATMAN
+{DisgustA}I tried to ask him what he saw but he won’t tell me anything.
+139) GORDON
+He’s a kid, Batman. This is going to take a little while.
+140) ALFRED
+[Comm] Be understanding- A young boy, traumatized by the sight of his parents being killed in front of him...
+141) ALFRED
+[alt][Comm] Surely you must be able to empathize with that to some degree.
+142) GORDON
+Hmf. Neighbors must’ve called the cops.
+143) GORDON
+{ThinkingA}{FaceAccent}Batman!
+144) GORDON
+Looks like the neighbors must’ve called the cops.
+145) 
+Lady Arkham killed two people.
+146) GORDON
+Who’s this?
+147) BATMAN
+I was investigating a lead and the Children of Arkham ambushed me.
+148) 
+I was ambushed by the CoA.
+149) 
+I was trying to keep it quiet.
+151) BATMAN
+Word of warning - There’s a nasty crime scene in there.
+152) BATMAN
+You’ll want to get a forensics team in there - Lady Arkham killed two people. It’s a nasty piece of work.
+153) GORDON
+Thanks for the heads-up.
+929) GORDON
+Thanks for the heads up...
+999) GORDON
+Thanks for the heads up...
+154) GORDON
+But Batman--
+160) GORDON
+But Batman--
+155) BATMAN
+I was investigating a crime scene and I was ambushed by some CoA drones.
+156) GORDON
+God. Are there people inside...?
+157) GORDON
+“Crime scene?“
+158) BATMAN
+You’ll see when you get inside.
+159) BATMAN
+I need you to take this boy.
+161) GORDON
+My god. Where are his parents?
+163) GORDON
+I see...
+202) GORDON
+I see.
+164) GORDON
+Batman. I need you to work with me here - This place looks like a warzone!
+165) GORDON
+This house looks like a war zone!
+166) BATMAN
+Then I guess that’s my cue.
+167) BAR
+TMAN:I need to figure out how Penguin knew where to find me.
+168) GORDON
+I assume you’re going to take that as your cue to vanish?
+169) 
+I’ve got work to do.
+170) 
+Less complicated that way.
+172) BATMAN
+Less complicated that way.
+171) BATMAN
+I’ve got work to do. Namely figuring out how Penguin knew where I was going to be.
+173) 
+You know me so well.
+174) BATMAN
+I really feel like we’re getting to know each other, Jim.
+175) GORDON
+Less paperwork, too.
+176) GORDON
+Hmf.
+177) BADIR
+: (Eric Stirpe, Wed Aug 24 16:23:28 2016) He hefts the drone.
+178) DITMANR
+(Eric Stirpe, Wed Aug 24 16:23:28 2016) He hefts the drone.
+180) GORDON
+Jesus, is that a kid--?
+182) GORDON
+Jesus, is that a kid--?
+184) GORDON
+Jesus, is that a kid--?
+268) GORDON
+Jesus, is that a kid--?
+181) BATMAN
+The two people were his adopted parents.
+183) BATMAN
+His adopted parents were... part of the crime scene.
+269) BATMAN
+His adopted parents were... part of the crime scene.
+185) BOY
+[Hesitant] Thank you. For saving me, I mean.
+406) BOY
+[Hesitant] Thank you. For saving me, I mean.
+453) BOY
+[Quiet] Thank you. For saving me I mean.
+186) 
+You’re going to be okay.
+187) BATMAN
+{ThinkingA}Don’t worry. {FaceAccent}She’s gone now.
+188) BATMAN
+And I’m going to stop her so she can never scare you again.
+369) BATMAN
+And I’m going to stop her so she can never scare you again.
+190) BATMAN
+{ThinkingA}They’re... {FaceAccent}gone.
+512) BATMAN
+{ThinkingA}They’re... {FaceAccent}gone.
+191) BOY
+Oh.
+194) BOY
+Oh.
+198) BOY
+Oh.
+230) BOY
+[Quiet, scared] Oh.
+383) BOY
+[Devastated] Oh.
+385) BOY
+[Devastated] Oh.
+393) BOY
+[Devastated] Oh.
+408) BOY
+[Quiet, scared] Oh.
+445) BOY
+Oh.
+448) BOY
+Oh.
+503) BOY
+[Relieved] Oh.
+508) BOY
+Oh.
+513) BOY
+Oh.
+515) BOY
+Oh.
+192) BATMAN
+{ThinkingA}When you come out of the closet... {AngryA}{FaceAccent}don’t look{FaceAccent} okay?
+522) BATMAN
+{ThinkingA}When you come out of the closet... {AngryA}{FaceAccent}don’t look{FaceAccent} okay?
+193) BATMAN
+{ThinkingA}It’ll be better if you don’t look.
+386) BATMAN
+It’ll be better if you don’t look.
+521) BATMAN
+{ThinkingA}It’ll be better if you don’t look.
+526) BATMAN
+It’ll be better if you don’t look.
+195) BATMAN
+{ThinkingA}Your parents aren’t going to be around to take care of you anymore.
+391) BATMAN
+Your parents aren’t going to be around to take care of you anymore.
+520) BATMAN
+{ThinkingA}Your parents aren’t going to be around to take care of you anymore.
+528) BATMAN
+Your parents aren’t going to be around to take care of you anymore.
+196) BATMAN
+{AngryA}It’s going to be hard. And it’s going to be scary. But you need to do your best to be brave. {SurpriseA}Can you do that?
+519) BATMAN
+{AngryA}It’s going to be hard. And it’s going to be scary. But you need to do your best to be brave. {SurpriseA}Can you do that?
+197) BOY
+[Trying to rally] Okay. I can.
+390) BOY
+[Trying to rally] Okay. I can.
+518) BOY
+[Trying to rally] Okay. I can.
+199) BOY
+Are they... okay?
+388) BOY
+Are they... okay?
+517) BOY
+Are they... okay?
+200) BATMAN
+{NormalA}He’s in shock. {SurpriseA}{FaceAccent}Completely traumatized.
+201) BATMAN
+{ThinkingA}But in time... {FaceAccent}He’ll recover.
+203) ALFRED
+[Comm] I... I see.
+204) GORDON
+Well... We’ll make sure he’s taken care of.
+206) 
+Thanks for the help.
+207) 
+Don’t be scared. You’re safe now.
+208) BATMAN
+{NormalA}You don’t have to be scared anymore.{BodyAccent} You’re safe now.
+209) GORDON
+[To boy, changing subject] Come on, son.
+217) GORDON
+[To boy, changing subject] Come on, son.
+237) GORDON
+[To boy, changing subject] Come on, son.
+241) GORDON
+[To boy, changing subject] Come on, son.
+242) GORDON
+[To boy, changing subject] Come on, son.
+409) GORDON
+[To boy, changing subject] Come on, son.
+413) GORDON
+[To boy, changing subject] Come on, son.
+210) 
+You’re going with this man.
+211) BATMAN
+{NormalA}Gordon’s going to take you somewhere safe. {ThinkingA}{BodyAccent}He’s a nice man.
+212) BATMAN
+Right Gordon?
+213) GORDON
+Ah, that’s right
+216) GORDON
+{ThinkingA} Yeah.{ThinkingB} Yeah that’s right.
+454) GORDON
+{ThinkingA} Yeah.{ThinkingB} Yeah that’s right.
+218) BOY
+Why do you do this stuff?
+405) BOY
+Why do you do this stuff?
+219) 
+I’m Batman.
+540) BATMAN
+[Whispered] I’m Batman.
+220) 
+I was hurt too.
+221) 
+Bad people need to be stopped.
+222) BATMAN
+{NormalA}I’m Batman. It’s my job.
+410) BATMAN
+I’m Batman. It’s my job.
+223) BATMAN
+{NormalA}When I was young,{FaceAccent} I was hurt too.
+224) BOY
+[Quiet] Cool job.
+420) BRUOY
+[Quiet] Cool job.
+225) BATMAN
+{AngryA}But I promised when I grew up {BodyAccent}I would try and protect innocent people.{NormalA}{FaceAccent} That’s why.
+226) BOY
+Someone hurt *you*?
+412) BOY
+Someone hurt *you*?
+227) BOY
+[Quiet] Wow.
+415) BOY
+[Quiet] Wow.
+228) BATMAN
+{NormalA}{BodyAccent}The world is full of bad people; Criminals. Thieves. {FaceAccent{AngryA}}Murderers.
+229) BATMAN
+Someone has to stop them.
+231) BOY
+Um. N-nevermind.
+407) BOY
+Um. N-nevermind.
+232) BATMAN
+{NormalA}I know it feels impossible right now{ThinkingA}{FaceAccent}, but someday you’re going to be okay.
+234) BATMAN
+{NormalA}{FaceAccent}Hey you did pretty good back there.
+235) BATMAN
+{BodyAccent}Thanks for the hand with this.
+236) BOY
+[Quiet, hesitant] You’re welcome.
+238) GORDON
+Come on son, maybe we can hit a drive-thru on the way to the station. You like fries, right?
+239) GORDON
+Come on son, maybe we can hit a drive-thru on the way to the station. You like fries, right?
+240) GORDON
+Come on son, maybe we can hit a drive-thru on the way to the station. You like fries, right?
+416) GORDON
+Come on son, maybe we can hit a drive-thru on the way to the station. You like fries, right?
+419) GORDON
+Come on son, maybe we can hit a drive-thru on the way to the station. You like fries, right?
+243) BOY
+[whispering] Does he always leave like that?
+661) BOY
+[whispering] Does he always leave like that?
+244) GORDON
+{NormalA}{BodyAccent}You get used to it.
+658) GORDON
+{NormalA}{BodyAccent}You get used to it.
+246) ALFRED
+Recent family photo?
+247) BATMAN
+He’s gone. 12 hours at least, judging by the status of his soft tissues.
+248) BATMAN
+{NormalA}He’s gone. {ThinkingA}{BodyAccent}Ten hours at least, judging by the state of his soft tissues.
+249) BATMAN
+[“To boy”] Hopefully that’s not YOUR blood.
+250) BATMAN
+{NormalA}There’s an injection wound on her neck.{FaceAccent} Same kind Montoya and I both received,{AngryA} but this one’s much worse.
+251) BATMAN
+This was a crime of passion.
+252) BATMAN
+{NormalA}It appears Mrs. Vale attempted to fight back with this knife...{ThinkingA}{BodyAccent} but only managed to slice through a piece of leather clothing.
+697) BATMAN
+{NormalA}It appears Mrs. Vale attempted to fight back with this knife...{ThinkingA}{BodyAccent} but only managed to slice through a piece of leather clothing.
+253) BATMAN
+{DisgustA}Large amounts of blood spatter across the walls.
+254) ALFRED
+The knife you found, sir?
+255) BATMAN
+No, it didn’t have any blood on it. Whatever weapon did this, I haven’t seen it yet.
+257) BATMAN
+Whatever did this, I haven’t found it yet.
+258) BATMAN
+If that boy is here I need to find him. Hopefully alive...
+261) BATMAN
+Alfred - I’m scanning some fingerprints. Let me know if they turn up any results.
+262) ALFRED
+[Affirmative] On it.
+263) ALFRED
+Nothing in the usual records - But Bruce, they’re very small - Do you suppose...?
+264) BATMAN
+Yes. I’m starting to think the boy from the photos is in here somewhere.
+266) BATMAN
+Believe it or not, Jim, I was trying to keep things quiet.
+267) GORDON
+So I see...
+271) GORDON
+If the parents are ...gone... we need to start figuring out where he’s going to go..
+402) GORDON
+If the parents are ...gone... we need to start figuring out where he’s going to go..
+272) 
+You have it under control, right?
+273) 
+Let me know if I can help.
+274) 
+You could take him.
+275) BATMAN
+I assume you’ll take it from here?
+276) GORDON
+Yeah... Yeah I’ve done this before.
+277) BATMAN
+Let me know if there’s anything I can do to help.
+278) BATMAN
+A child doesn’t deserve this.
+279) BATMAN
+You’re a father, right Jim? You could take him.
+280) GORDON
+True... It’s definitely an option.
+281) GORDON
+We’ll make sure he doesn’t have to go through it alone.
+282) GORDON
+I’m not letting him fall through the cracks in some orphanage.
+283) GORDON
+[To the boy]{ThinkingA} First things first, son, let’s get you to the station so we can clean you up, huh?
+403) GORDON
+[To the boy] First things first, son, let’s get you to the station so we can clean you up, huh?
+284) BOY
+Uh huh.
+404) BOY
+Uh huh.
+285) NOTES
+Investigatory Freewalk
+286) YNOTES
+Investigatory Freewalk
+287) BATMAN
+That’s what I’m about to find out...
+288) 
+They’ll be sorry if it is.
+342) 
+They’ll be sorry if it is.
+289) 
+This looks too personal.
+341) 
+This looks too personal.
+290) BATMAN
+If this is a trap, the person who set it is going to be sorry.
+291) ALFRED
+[Over comm] I don’t envy them.
+292) BATMAN
+Doesn’t feel like a set-up. This crime was personal.
+293) 
+Good thing I wore the suit.
+344) 
+Good thing I wore the suit.
+345) 
+Good thing I wore the suit.
+294) 
+Maybe I should have worn the suit.
+343) 
+Maybe I should have worn the suit.
+346) 
+Maybe I should have worn the suit.
+295) BATMAN
+Could be. I’m glad I wore the suit.
+296) BATMAN
+Maybe I should have put on the suit.  At least I brought along a few gadgets.
+338) BATMAN
+Maybe I should have put on the suit.  At least I brought along a few gadgets.
+297) BATMAN
+{ThinkingA}Are you alright?
+360) BATMAN
+Are you alright?
+298) 
+Good job, kid.
+299) 
+That was stupid.
+356) 
+That was stupid.
+300) BATMAN
+{DisgustA}That was really stupid.  {AngryB}{FaceAccent}{BodyAccent}I handle the dangerous stuff. {BodyAccent}You stay hidden.
+301) 
+Are you ok?
+302) BATMAN
+{AngryA}Are you safe?  Were you wounded?
+351) BATMAN
+Are you safe?  Were you wounded?
+303) BOY
+[quiet] I’m okay.
+348) BOY
+[quiet] I’m okay.
+304) BOY
+[quiet] Sorry.
+349) BOY
+[quiet] Sorry.
+305) BATMAN
+{ThinkingA}You’ll be okay.  The police will be here soon.
+354) BATMAN
+You’ll be okay. The police will be here soon.
+314) 
+Knock
+315) 
+Kick
+316) 
+Turn Knob
+319) STUDIR
+(Eric Stirpe, Wed Aug 24 07:56:03 2016) Bruce lowers his flashlight a touch - it’s a YOUNG BOY, no older than 8. And he looks relieved to see Bruce.
+333) BATMAN
+[Hushed] I’m going in.
+334) BATMAN
+[Hushed] I’m going in.
+335) BATMAN
+Alfred, The Vales are dead. One body confirmed, but there is a LOT of blood.  Alert Gordon.
+336) BATMAN
+Good thing I put on the suit.  Don’t worry, I’ll watch my back.
+337) BATMAN
+I don’t think this is a set up... The way this person was murdered, it looks personal.
+339) ALFRED
+I don’t doubt it.  Assuming you discover who’s behind it.
+340) BATMAN
+If this is some kind of trap, whoever set it will be sorry they did.
+350) BATMAN
+[To boy] Nice work, kid.
+352) BATMAN
+That was really stupid.  I handle the dangerous stuff. You stay hidden.
+355) 
+Were you injured?
+357) 
+Nice work.
+358) BATMAN
+It’s okay. It’s okay. I’m not going to hurt you.
+361) BATMAN
+Well hi there. Didn’t expect to find you in here.
+362) 
+Hi, are you alright?
+364) 
+Easy, I’m not going to hurt you.
+367) BOY
+I.. I heard you out there and I was scared you were friends with her.
+368) BOY
+The nightmare lady?
+371) BATMAN
+Don’t worry. She’s gone now.
+376) BATMAN
+Where did this “lady with the freaky voice” go?
+377) BATMAN
+I’m the good guy.
+384) BATMAN
+When you come out of the closet... don’t look okay?
+525) BATMAN
+When you come out of the closet... don’t look okay?
+387) BATMAN
+It’s going to be hard. And it’s going to be scary. But you need to do your best to be brave. Can you do that?
+529) BATMAN
+It’s going to be hard. And it’s going to be scary. But you need to do your best to be brave. Can you do that?
+389) BATMAN
+They’re... gone. It was the “nightmare lady.“
+392) BOY
+My mom and dad... I heard them yelling.
+397) GORDON
+Batman! We got calls from every house on the block - What the hell are you doing here?
+398) 
+I was jogging in the area.
+399) 
+I was looking for Vicki Vale.
+400) 
+That’s none of your business.
+401) 
+Waiting for you to arrive.
+411) BATMAN
+When I was young, I was hurt too.
+414) BATMAN
+But I promised when I grew up I would try and protect innocent people. That’s why.
+541) RUCE
+But I promised when I grew up I would try and protect innocent people. That’s why.
+417) BATMAN
+The world is full of bad people; Criminals. Murderers. Thieves.
+418) BATMAN
+If good people like us don’t stand up to them... who will?
+421) 
+It was the right thing to do.
+422) 
+Can you keep a secret?
+539) BATMAN
+Can you keep a secret?
+423) 
+I lost my parents too.
+424) 
+This boy was in grave danger.
+425) 
+You helped me once, help him too.
+426) 
+It was a coincidence.
+427) 
+You should trust me by now.
+428) ALFRED
+[Over comm] Perhaps they’re not home?
+495) ALFRED
+[Over comm] Perhaps they’re not home?
+429) 
+That’s too simple.
+484) 
+That’s too simple.
+430) 
+Good time to look around.
+486) 
+Good time to look around.
+431) 
+I’ve got a bad feeling.
+485) 
+I’ve got a bad feeling.
+432) ALFRED
+[Over comm] Well be careful.
+435) ALFRED
+[Over comm] Well be careful.
+437) ALFRED
+[Over comm] Well be careful.
+439) ALFRED
+[Over comm] Well be careful.
+487) ALFRED
+[Over comm] Well be careful.
+490) ALFRED
+[Over comm] Well be careful.
+491) ALFRED
+[Over comm] Well be careful.
+493) ALFRED
+[Over comm] Well be careful.
+433) BATMAN
+[Hushed]{ThinkingA}{FaceAccent} It’s got to be more complicated than that. I’m going to check it out.
+488) BATMAN
+[Hushed]{ThinkingA}{FaceAccent} It’s got to be more complicated than that. I’m going to check it out.
+434) ALFRED
+[Over comm] Well be ca
+436) BATMAN
+[Hushed]{ThinkingA} If they are, then it’s a good time to look around...
+489) BATMAN
+[Hushed]{ThinkingA} If they are, then it’s a good time to look around...
+498) BATMAN
+[Hushed] If they are, then it’s a good time to look around...
+438) BATMAN
+[Hushed]{NormalA} I’ve got a bad feeling about this, Alfred.{ThinkingA} I’m going in.
+492) BATMAN
+[Hushed]{NormalA} I’ve got a bad feeling about this, Alfred.{ThinkingA} I’m going in.
+440) ALFRED
+[Over comm] You and me both, Bruce.
+442) ALFRED
+[Over comm] I’ll alert Gordon. Keep me posted of your progress.
+443) BATMAN
+{NormalA}I’m {BodyAccent}sorry.
+446) BATMAN
+{NormalA}I’m {BodyAccent}sorry.
+449) BATMAN
+{NormalA}I’m {BodyAccent}sorry.
+509) BATMAN
+{NormalA}I’m {BodyAccent}sorry.
+511) BATMAN
+{NormalA}I’m {BodyAccent}sorry.
+444) BOY
+They weren’t always nice. But they gave me a place to live--
+447) BOY
+They weren’t always nice. But they gave me a place to live--
+450) BOY
+They weren’t always nice. But they gave me a place to live--
+510) BOY
+They weren’t always nice. But they gave me a place to live--
+514) BOY
+They weren’t always nice. But they gave me a place to live--
+516) BOY
+They weren’t always nice. But they gave me a place to live--
+451) PENGUIN
+[Speaker] Our mutual friend asked me to keep an eye on this place with my new toy here.
+533) PENGUIN
+[Speaker] Our mutual friend asked me to keep an eye on this place with my new toy here.
+452) PENGUIN
+[Speaker] Like it? I found a whole FLEET of the things in the basement of Wayne Tower.
+534) PENGUIN
+[Speaker] Like it? I found a whole FLEET of the things in the basement of Wayne Tower.
+455) BOY
+[Quiet] If you say so...
+456) GORDON
+{TiredA}{BodyAccent}Jesus!
+859) GORDON
+{TiredA}{BodyAccent}Jesus!
+457) BATMAN
+{ThinkingA}{FaceAccent}Alfred, I found what{BodyAccent} appear to be adoption papers. Can you cross-check this ID number and see who they’re for?
+458) ALFRED
+[Over comm] Certainly... Aha. That number is showing up as the record of when Victoria Arkham was adopted by the Vale family. You say you found them..?
+459) BATMAN
+{DisgustA}Yeah.{FaceAccent} Stuffed down Mrs. Vale’s throat.
+460) BATMAN
+{ThinkingA}Photo of the Vales with {FaceAccent}Vicki is definitely older than the one of them with the boy...
+461) BATMAN
+{NormalA}{FaceAccent}They must have adopted another child later.
+462) BATMAN
+This is the pen Vicki used on me at the press conference.
+463) BATMAN
+The spring I found in Mrs. Vale’s wound must be part of the pen’s inner mechanism.
+464) BATMAN
+[Alt] The cartridge I found lodged in Mrs. Vale’s wound must be part of the pen’s hidden drug mechanism.
+465) BATMAN
+{AngryA}{FaceAccent}Vicki showed up in costume to attack her adopted parents.{ThinkingA} {BodyAccent}But only the mother was there at first.
+466) BATMAN
+{NormalA}Mrs. Vale fought back and was able to slice off part of Vicki’s costume,{ThinkingA}{BodyAccent} but the tough leather meant she wasn’t able to do much damage.
+467) BATMAN
+{NormalA}Vicki then subdued her with the same drug she used on me but a{ThinkingA}{FaceAccent} much, much larger dose.{BodyAccent} Nearly lethal.
+468) BATMAN
+{ThinkingA}She stuffed adoption aid papers down Mrs. Vale’s throat, {DisgustA}{FaceAccent}until she choked on them.
+469) BATMAN
+{ThinkingA}Sometime during this, Mr. Vale entered.{BodyAccent} Vicki attacked him with his own belt, striking with the buckle until he was unconcious and bleeding out.
+470) BATMAN
+{NormalA}Finally, she dragged him to the closet,{BodyAccent} and hung him with the belt. {ThinkingA}{FaceAccent}[TRIM  - The blood-loss got him way before the hanging did. - (MD)]
+471) BATMAN
+Status of the boy from the photographs is unknown, but it’s clear that Vicki’s sole motive here was revenge.
+472) ALFRED
+[Over comm] But why? And why now?
+473) BATMAN
+With Vicki Vale fully assuming her new identity of “Lady Arkham,” seems like she didn’t need the Vales around to support her old one.
+474) BATMAN
+A sort of violent metamorphosis.
+475) BATMAN
+[Loudly] Attention. Is there anyone in this house?
+476) BATMAN
+Hello?
+477) BATMAN
+[Hushed] Definitely something in the walls. I’m going to check it out.
+478) BATMAN
+{ThinkingA}There’s something in her throat.
+479) BATMAN
+There are numerous lacerations on Mr. Vale’s body - Judging by how many are on his back, they were probably inflicted while he was fleeing from his attacker.
+480) BATMAN
+Skin discoloration indicates blood-loss as the cause of death.
+481) BATMAN
+{ThinkingA}{FaceAccent}Suffocation wasn’t the cause of death... {BodyAccent}This was done after he died.
+482) BATMAN
+{NormalA}Looks like Mr. Vale was murdered with his own belt, {BodyAccent}{ThinkingA}but the attack actually started in the living room.
+483) BATMAN
+{AngryA}{FaceAccent}I’m going to find out who did this.
+497) BATMAN
+[Hushed] It’s got to be more complicated than that. I’m going to check it out.
+499) BATMAN
+[Hushed] I’ve got a bad feeling about this, Alfred. I’m going in.
+500) ALFRED
+[Over comm] But, ah, won’t the police find it strange to discover *Bruce Wayne* at a crime scene?
+501) BATMAN
+Don’t worry. I’ll be gone way before Gordon gets here.
+504) BOY
+The lady with the freaky voice.
+523) BATMAN
+They’re... gone.
+524) BATMAN
+I’m really sorry...
+527) BATMAN
+I’m really sorry...
+531) PENGUIN
+[Speaker, incredulous] Bruce Wayne!?  Theyin’ to get some revenge on your old pal, Vicki?  You won’t find her here I’m afraid!
+532) BATMAN
+[Angry] Oz.
+536) PENGUIN
+[Speaker] And this is just a taste of what’s to come, mate.
+572) PENGUIN
+[Speaker] And this is just a taste of what’s to come, mate.
+537) PENGUIN
+[Speaker] Lady Arkham’s got bi-ig plans for ‘em.
+538) PENGUIN
+[Speaker] Lady Arkham’s got bi-ig plans for ‘em.
+542) BATMAN
+When I was a kid, not much older than you... Someone took my parents from me too.
+543) BATMAN
+[To boy] Just wait right here, okay?
+544) BOY
+Wait! I... I have a question.
+545) ALFRED
+[Over comm] Bruce?
+546) BATMAN
+Talk to me, Al.
+547) ALFRED
+[Over comm] Gordon and his men are approaching the house.
+548) BOY
+[Beat] Why did you save me? It was dangerous. You could have died too.
+549) BATMAN
+What is it?
+550) BOY
+[Mulling it over] “Good people...“
+551) GORDON
+[From outside, talking to cops] I’m going into the house. With me.
+552) BATMAN
+[To boy] I have to go now. But the man coming in is one of the best people I know. He’ll take good care of you.
+553) GORDON
+[On walkie] I need paramedic and forensic teams. Now.
+554) BATMAN
+Lady Arkham killed this boy’s parents. The drone and gun fire are... unrelated.
+556) BATMAN
+WayneTech... But how did he get it?
+557) BATMAN
+And then I need to figure out how Penguin got his hands on this...
+558) BATMAN
+It was Lady Arkham.
+559) GORDON
+This is a lot to take in, Batman... Do you have evidence for all of this?
+560) 
+I’ll forward my report.
+561) 
+You don’t believe me?
+562) 
+It’s not important.
+563) BATMAN
+I’ll have my people send you my report.
+564) BATMAN
+But what’s important right now is the boy.
+566) BATMAN
+But what’s important right now is the boy.
+565) BATMAN
+That shouldn’t be your priority right now. What’s important is this boy.
+567) GORDON
+Right, yes, of course.
+568) GORDON
+Right, yes, of course.
+569) BATMAN
+What’s the matter, Gordon? Don’t believe me?
+570) GORDON
+No, of course not. I’m just... trying to do my job.
+571) GORDON
+Without evidence this is just... going to be tougher, is all I’m saying.
+573) BATMAN
+Finding Bruce Wayne at a crime scene just after my release from the asylum. Might not look so good, huh?
+574) GORDON
+It’s okay, son.  You’re going to be fine.
+575) BATMAN
+Doesn’t look like anyone’s home.
+576) BATMAN
+{ThinkingA}{FaceAccent}This must be Vicki shortly after she was adopted.
+577) BATMAN
+{ThinkingA}{BodyAccent}Vicki’s not in it.
+578) BATMAN
+{NormalA}It’s clean.{FaceAccent}  This wasn’t used as a murder weapon.
+579) ALFRED
+Then why was it lying on the the floor?
+580) BATMAN
+{FaceAccent}{NormalA}Leather.  {ThinkingA}Could be from a piece of clothing.
+691) BATMAN
+{FaceAccent}{NormalA}Leather.  {ThinkingA}Could be from a piece of clothing.
+581) ALFRED
+Anything unique about it?
+692) ALFRED
+Anything unique about it?
+582) BATMAN
+It was cut at a downward angle. {BodyAccent} Probably with some force based on how clean the slice is.
+693) BATMAN
+It was cut at a downward angle. {BodyAccent} Probably with some force based on how clean the slice is.
+583) ALFRED
+Dear god.
+584) BATMAN
+{ThinkingA}{FaceAccent}This device is what Vicki used to inject me during the press conference.
+585) BATMAN
+{NormalA}Yes, {FaceAccent}but this is several times{BodyAccent} stronger than the dosage I received.
+586) ALFRED
+Maybe she’s escalating?
+587) BATMAN
+{AngryA}This seems personal.
+588) ALFRED
+Is this the same drug?
+589) BATMAN
+{ThinkingA}Same device, same drug...{AngryA}{BodyAccent} this confims that Lady Arkham is the murderer.
+590) ALFRED
+This is much worse that anything we’ve seen from her previously.
+591) BATMAN
+{ThinkingA}{FaceAccent}Wait.  There’s a slight indentation where something bloody struck the wall with force.
+592) ALFRED
+Something thrown?
+593) BATMAN
+{BodyAccent}Nothing I can see.
+594) BATMAN
+Found the dad.
+595) ALFRED
+What about the boy?  In the photograph?
+596) ALFRED
+You didn’t mention him.
+597) ALFRED
+I hope you haven’t found a third body amongst the victims.
+598) BATMAN
+He wasn’t among the victims. I’ll look for a heat signature.  If there’s anyone else here, I’ll find them.
+599) BATMAN
+Clear.   Nothing here.
+600) BATMAN
+{FaceAccent}{BodyAccent}No.
+601) ALFRED
+Anything?
+602) ALFRED
+Well, better than finding a body.
+603) BATMAN
+Nothing.
+604) 
+Scan
+605) 
+Scan
+606) 
+Scan
+607) 
+Scan
+608) 
+Open
+685) 
+Open
+955) 
+Open
+972) 
+Open
+609) BATMAN
+{SurpriseA}{BodyAccent}There’s someone here, under the stairs. {ThinkingA}Alive.
+610) ALFRED
+Oh thank heavens.
+612) PENGUIN
+I had a feeling you’d be stopping by.
+613) 
+Final Blow Success
+614) 
+Final Blow Success
+615) GORDON
+{ThinkingA}First Vicki Vale goes missing,{BodyAccent}{DisgustA}then her parents get murdered?
+616) 
+Vicki is Lady Arkham.
+617) 
+Lady Arkham killed them all.
+618) GORDON
+{ThinkingA}{FaceAccent}This has to be connected to Lady Arkham somehow.
+619) GORDON
+{AngryA}{FaceAccent}She claimed to be responsible for Vicki’s disapearance.
+620) 
+Have you found Lady Arkham?
+621) GORDON
+{ThinkingA}{BodyAccent}What kind of sick game is she playing?
+622) BATMAN
+{NormalA}Vicki Vale {FaceAccent}{BodyAccent}*is* Lady Arkham.
+623) GORDON
+{AngryA}So you’re saying she did this{BodyAccent} to her own family?{DisgustA}{FaceAccent} That’s... horrible.
+624) BATMAN
+{ThinkingA}There is{FaceAccent} one survivor.
+625) BATMAN
+{AngryA}Lady Arkham is responsible for the death{BodyAccent} of all of them.
+626) GORDON
+{DisgustB}{BodyAccent}This whole city is going to hell.
+627) BATMAN
+{NormalA}{BodyAccent}But there are still innocents that need protecting.
+628) BATMAN
+{ThinkingA}{FaceAccent}Have you found her?
+629) GORDON
+{ThinkingA}No. {DisgustA} With Mayor Dent turning every neighborhood{DisgustB}{BodyAccent} into a militarized zone and{DisgustA}{FaceAccent} Commisoner Gorgan afraid of pushing back, I’m trying to handle everything inbetween.
+630) GORDON
+{ThinkingA}{FaceAccent} [concerned]...Who’s the kid?
+631) GORDON
+{ThinkingA}{FaceAccent} [concerned]...Who’s the kid?
+632) BATMAN
+The Vale’s appeared to be his parents.  I found him hiding under the stairs.
+633) BATMAN
+Not related.
+634) BATMAN
+{ThinkingA}{FaceAccent}The leather scrap didn’t come from the belt.
+635) BATMAN
+The leather scrap didn’t come from the belt.
+636) BATMAN
+The leather scrap didn’t come from the belt.
+637) BATMAN
+{ThinkingA}No blood on the knife.  {NormalA}{FaceAccent}No match.
+638) BATMAN
+{ThinkingA}No blood on the knife.  {NormalA}{FaceAccent}No match.
+639) BATMAN
+No blood on the kinfe.  No match.
+640) BATMAN
+{SurpriseA}{FaceAccent}A knife didn’t cause this wound.
+641) BATMAN
+{ThinkingA}The blood isn’t from the wound.
+642) BATMAN
+{ThinkingA}No blood on the leather.
+643) BATMAN
+{ThinkingA}{FaceAccent}The belt buckle didn’t cause this.
+701) BATMAN
+{ThinkingA}{FaceAccent}The belt buckle didn’t cause this.
+702) BATMAN
+{ThinkingA}{FaceAccent}The belt buckle didn’t cause this.
+644) GROGAN
+Lieutenant!  Whats going on here?
+660) GROGAN
+Lieutenant!  Whats going on here?
+645) GORDON
+{NormalA}{FaceAccent}Securing the crime scene commissioner.
+663) GORDON
+{NormalA}{FaceAccent}Securing the crime scene commissioner.
+646) GROGAN
+Not anymore you’re not.  I’m taking over this investigation.
+659) GROGAN
+Not anymore you’re not.  I’m taking over this investigation.
+647) GROGAN
+I can’t risk you allowing your good friend Batman to show up.
+662) GROGAN
+I can’t risk you allowing your good friend Batman to show up.
+865) GROGAN
+I can’t risk you allowing your good friend Batman to show up.
+648) BATMAN
+I’m here to keep you safe.
+650) BATMAN
+The boy is okay. Aside from some bruises he seems unharmed.
+849) BATMAN
+The boy is okay. Aside from some bruises he seems unharmed.
+651) ALFRED
+[Comm]Sounds familiar.
+653) BOY
+[alt]That lady from TV with the freaky voice?
+654) BATMAN
+And I’m going to stop her so she can never do bad things again.
+657) BATMAN
+{NormalA}It seems the Vale’s adopted another child.{FaceAccent} I found him hiding under the stairs.
+664) MONTOYA
+Oh my god.
+665) MONTOYA
+Who?
+666) BATMAN
+[To Alfred]{NormalA}{FaceAccent} Alfred - Found Mr. Vale.
+667) 
+Pantry
+668) 
+Desk Drawer
+669) 
+Mouth
+670) 
+Papers
+671) 
+Old Photo
+672) 
+Family Photo
+703) 
+Family Photo
+673) 
+Knife
+709) 
+Knife
+674) 
+Leather Scrap
+675) 
+Neck Wound
+711) 
+Neck Wound
+676) 
+Couch
+677) 
+Blood Spatter
+678) 
+Belt
+679) 
+Start Investigation
+680) 
+Skip Investigation
+681) BATMAN
+[pickup]Her eyes are gone. Stabbed out.
+682) BATMAN
+[pickup] She then removed the mother’s eyes indicating a deeply personal motivation.  This was obviously some sort of vendetta.
+683) ALFRED
+[pickup] That’s disturbing.
+684) 
+Hidden Panel
+686) 
+Mrs Vale’s Body
+687) BOY
+Someone was.. someone was hurting my parents. You’re not with her, right?
+688) BATMAN
+[pickup]I need to know where she went!
+689) BATMAN
+[pickup]The papers are receipts. Check stubs for federal aid the Vale’s were recieving for adopting Vicki.
+694) BATMAN
+I found a lock of hair
+695) BATMAN
+It doesn’t belong to Mrs. Vale.  Possibly the assailant’s.
+696) BATMAN
+[pickup]{NormalA}Mrs. Vale fought back and was able to slice off part of Vicki’s hair.
+698) BATMAN
+{NormalA}It appears Mrs. Vale attempted to fight back with this knife...{ThinkingA}{BodyAccent} but only managed to slice through the attacker’s hair.
+699) BATMAN
+[pickup]{AngryA}{FaceAccent}Vicki showed up to attack her adopted parents.{ThinkingA} {BodyAccent}But only the mother was there at first.
+700) 
+Hair
+707) 
+Hair
+704) 
+Vale Family Photo, featuring Mr. Vale’s Company.
+705) 
+Wall Indentation
+706) 
+An indentation in the wall made by the force of a thick object.
+708) 
+A lock of hair.
+710) 
+A clean kitchen knife.
+712) 
+Visible side effects of the drug surround the puncture wound.
+713) 
+Syringe
+714) 
+Same type of syringe used to drug Harvey Dent and the former Mayor Hill.
+715) 
+Belt Buckle
+716) 
+Belt with a blood-stained heavy buckle.
+717) 
+Link Key Chain
+718) 
+Key Chain Description
+719) BOY
+Someone was.. someone was hurting my parents. You’re not with... whoever that was, right?
+720) BOY
+I keep hearing them...
+722) BATMAN
+I’m going to get you out of here, but in the other room... it’s going to be hard to see.
+723) BATMAN
+The person that attacked your parents was twisted. Evil. So when you see what happened to them... you need to be brave.
+724) BOY
+M-maybe my sister too? I couldn’t tell.
+726) BOY
+[Choked up]Th- they’re dead.
+727) BOY
+[terrified] Mom... Dad...
+728) BOY
+[Starting to cry] I... I’m sorry. I can’t be brave.
+729) BOY
+[Starting to cry] I wish I hadn’t looked.
+730) BOY
+And... and it smells.
+732) BOY
+I’m... I’m sad. But angry too.
+733) BOY
+Like a stomachache kind of angry.
+734) 
+That doesn’t go away.
+735) 
+The police will be here soon.
+736) BATMAN
+Just stay right there. The police will be here soon.
+738) 
+This will make you stronger.
+739) BATMAN
+I know it probably feels impossible right now... but you’re going to be okay.
+741) 
+You’re in shock.
+742) 
+Let it motivate you.
+743) BATMAN
+Those emotions you’re feeling... someday you’ll learn how to use them... to channel them.
+749) BATMAN
+Those emotions you’re feeling... someday you’ll learn how to use them... to channel them.
+744) BATMAN
+You might not understand now, but someday it will make you stronger.
+750) BATMAN
+You might not understand now, but someday it will make you stronger.
+745) BATMAN
+You’re just in shock, it’s very normal. Give it time.
+747) BATMAN
+I will tell you from experience, those feelings don’t go away.
+748) BATMAN
+They get... fuzzier over time, but they’ll always be there.
+751) BATMAN
+Jim - One last thing. I know where the drugs are. Lady Arkham is stockpiling them at Vale Heating and Oil.
+752) GORDON
+I’ll get an APB on it right away. Thanks Batman.
+753) BATMAN
+I’ll do what I can soon - First I’ve got a... personal matter to deal with.
+754) BATMAN
+[PICKUP]I’m inside the Vale house.
+755) BATMAN
+[PICKUP]It smells like a slaughterhouse in here.
+756) BATMAN
+[PICKUP]Alfred, get word to Gordon. This is a murder scene.
+757) BATMAN
+[PICKUP]I need to figure out what happened.
+758) BATMAN
+[PICKUP][matter of fact]Syringe.
+759) BATMAN
+[PICKUP]Seems she hasn’t given up her old tricks.
+760) BATMAN
+[PICKUP]It’s a letter from Gotham Social Services.
+761) BATMAN
+[PICKUP]About a monthly stipend for foster parents.
+762) ALFRED
+[PICKUP]Vicki’s a bit old for that, isn’t she?
+763) BATMAN
+[PICKUP]It’s not for Vicki. They have a boy.
+764) BATMAN
+[PICKUP][ALT][reading]Duke.
+765) BATMAN
+[PICKUP][ALT][reading]Jason.
+766) BATMAN
+[PICKUP]Found a recent family photo.
+767) BATMAN
+[PICKUP]Vicki’s not in it.
+768) BATMAN
+[PICKUP]It’s not steady like arterial spray.
+769) BATMAN
+[PICKUP]Someone was swinging wildly.
+770) BATMAN
+[PICKUP][reading]Looks like a company logo.
+771) BATMAN
+[PICKUP]Looks like he had his own business.
+772) BATMAN
+[PICKUP][ALT]Looks like he had his own heating oil business.
+773) BATMAN
+[PICKUP]His key chain’s broken.
+774) BATMAN
+[PICKUP]Keys on the floor.
+775) BATMAN
+[PICKUP]Someone must have wanted one of them.
+776) BATMAN
+[PICKUP]You don’t normally store keys on the pantry floor.
+777) ALFRED
+[PICKUP]Most definitely not.
+778) BATMAN
+[PICKUP]No apparent signs of a break-in.
+779) BATMAN
+[PICKUP]This room wasn’t tossed. Doesn’t seem like a robbery.
+780) BATMAN
+[PICKUP]Looks like there was a struggle.
+781) BATMAN
+[PICKUP]Hmm. That shouldn’t be there.
+782) BATMAN
+[PICKUP]Something’s off about this.
+783) BATMAN
+[PICKUP]That doesn’t belong here.
+784) BATMAN
+[PICKUP]Mr. Vale owned an oil and heating company.
+785) BATMAN
+[PICKUP]But I don’t see that key around here anymore.
+786) BATMAN
+[PICKUP]Hmm. Don’t see the belt buckle in this photo.
+787) BATMAN
+[PICKUP]Blood on the buckle, but not the knife. They weren’t used together.
+788) BATMAN
+[PICKUP]No sign of the drug on this belt buckle.
+789) BATMAN
+[PICKUP]A photo didn’t cause this mess.
+790) BATMAN
+[PICKUP]There’s no blood on this hair.
+791) BATMAN
+[PICKUP]No blood on the syringe. No signs of the drug in this mess on the wall.
+792) BATMAN
+[PICKUP]No one in this photo has this kind of hair.
+793) BATMAN
+[PICKUP][ALT]Vicki showed up to attack her parents. Found her mother here alone.
+794) BATMAN
+[PICKUP]She’s covering her tracks.
+795) BATMAN
+[pickup] This is
+796) BATMAN
+She also has the keys to his work fleet, any one of those trucks could be compromised.
+797) BATMAN
+[PICKUP]I don’t know how this is connected to the drugs yet.  Whatever they knew about it, Vicki made sure they kept quiet.
+798) BATMAN
+[PICKUP]But there still might be something here to point me to the drugs.
+799) BATMAN
+[PICKUP]I need to look around.
+800) BATMAN
+[PICKUP]After we stopped her at the rail station, Vicki needed a place to hide her supply of drugs. Her father’s trucks and warehouse offered the perfect cover.
+801) BATMAN
+[PICKUP]To do that, she needed them out of the way.
+802) BATMAN
+[PICKUP][ALT]It would have broken her mother down to her basest impulses.
+803) BATMAN
+[PICKUP][ALT]Obviously, Vicki didn’t like what she saw and cut out her mother’s eyes.
+804) BATMAN
+[PICKUP][ALT]Richard.
+805) BATMAN
+[PICKUP]There’s nothing to connect these two.
+806) BATMAN
+[PICKUP]There’s no connection between these things.
+807) BATMAN
+[PICKUP]No trace of the drug on this photo.
+808) BATMAN
+[PICKUP]No trace of the drug on this knife.
+809) BATMAN
+[PICKUP]No blood on the keychain. They weren’t used together.
+810) BATMAN
+[PICKUP]I don’t think the knife broke this keychain.
+811) BATMAN
+[PICKUP]Hmm. No connection between these two things.
+812) BATMAN
+[PICKUP]These things aren’t related at all.
+813) BATMAN
+[PICKUP]This keychain didn’t make that wound.
+814) BATMAN
+[PICKUP]There’s nothing to connect these two things.
+815) BATMAN
+[PICKUP]There’s nothing to connect these two things.
+816) BATMAN
+[PICKUP]I don’t see a connection.
+817) BATMAN
+[PICKUP]This doesn’t add up.
+818) BATMAN
+[PICKUP]Unrelated.
+819) BATMAN
+[PICKUP]Eliminating every bit of the old Vicki Vale.
+820) BATMAN
+[PICKUP]Including her adopted parents.
+821) BATMAN
+[PICKUP]Including her adopted parents.
+822) ALFRED
+[comm]Looking it up now.
+823) ALFRED
+[comm]Yes, he’s got a sizeable warehouse in the industrial district, and a fleet of delivery trucks.
+824) BATMAN
+And now Vicki’s got it.
+825) BATMAN
+[alt]And Vicki has access to all of it.
+826) 
+Company Logo
+827) ALFRED
+What exactly happened in that house?
+828) BATMAN
+I think I know...
+829) ALFRED
+[pickup] Well, that’s horrific!  She never acted out in such a violent way before.
+830) ALFRED
+Why would she-
+831) BATMAN
+[hushed] Alfred...
+832) BATMAN
+[hushed]I think someone’s still in the house.
+833) BATMAN
+I’m going to look for a heat signature.  If anyone else is here, I’ll find them.
+834) ALFRED
+[pickup] Be careful.  It could be a trap.
+835) BATMAN
+[pickup]It’s a kid, Alfred.  The boy from the photo.
+836) ALFRED
+[pickup]Is he alright?
+837) BATMAN
+[pickup]Aside from the shock and a few bruises, he seems okay.
+838) BATMAN
+[pickup]He might be able to tell me more about what happened.
+839) 
+You’re going to be alright.
+840) 
+Tell me what happened.
+842) 
+Sorry I scared you.
+843) 
+Stop hiding.
+994) 
+Stop hiding.
+844) 
+I need your help.
+850) BATMAN
+But you’re not.
+851) 
+I’m sorry...
+852) 
+You need to be strong
+853) 
+Look away.
+854) 
+We’ll find you new home.
+855) 
+Gordon will help you.
+856) MONTOYA
+[pickup][caring] Come on, let’s get you out of here.
+857) BOY
+[pickup][quiet] Batman won’t hurt me, will he?
+858) BOY
+[pickup][quiet] Batman won’t hurt me, will he?
+860) BOY
+[alt][pickup][quiet] He saved me.
+861) BATMAN
+[alt] [angry/quickly]The hell?!
+936) BATMAN
+[alt] [angry/quickly]The hell?!
+862) 
+Just look after him.
+863) 
+He’s a witness
+864) 
+He lives here.
+866) GROGAN
+[pickup] I can’t risk you allowing Batman to contaminate our crime scene again.
+867) GORDON
+[pickup] I--
+868) GORDON
+[to himself] He did it to me again.
+870) ALFRED
+[pickup] Possibly... but if that’s the road you go down, please do it with caution.
+871) ALFRED
+[pickup] You of all people can appreciate the gravity of his situation - Don’t make this night any worse for him.
+872) BATMAN
+Hey, it’s going to be okay. You’re going to be alright.
+873) BATMAN
+[stern] I need to know what happened. Tell me what you saw.
+874) BATMAN
+How about you come on out.
+875) BOY
+No. No!
+876) BATMAN
+Why are you hiding?
+878) BATMAN
+Why are you hiding?
+995) 
+Why are you hiding?
+877) BOY
+Please, please just leave me alone.
+881) BOY
+Please, please just leave me alone.
+879) BOY
+I... I heard screams. Lots of screams. So I hid. I didn’t see what happened.
+880) BATMAN
+[Calm] Something bad happened out here. I know it might be scary, but I need your help. Can you do that?
+882) BATMAN
+[Calm] Something bad happened out here. I know it might be scary, but I need your help. Can you do that?
+883) BOY
+[Quiet] Okay.
+884) BOY
+What do you want?!
+885) BATMAN
+I know you’re scared, but you don’t have to be scared of me.
+886) BATMAN
+My job is to protect you, and anything you can tell me about what happened will help me do my job.
+887) BOY
+[Focusing, remembering] My dad... was talking to someone. I don’t know who. A stranger.
+888) BOY
+[Focusing, remembering] He told the stranger that... he doesn’t have any more trucks.
+889) BOY
+[Getting slowly scared again] And... and it was.. it was after that the screaming started.
+890) BATMAN
+I need you to tell me if you saw, or heard, anything.
+891) BATMAN
+This is important.
+892) BOY
+[Nervous, scared] I... I heard someone say something... something about drugs? Fighting the police? I don’t know who.
+893) BOY
+[starting to panic] I don’t know who because I didn’t see anything, I didn’t see anything because I hid in here - Please don’t send me to punishment!
+894) BATMAN
+Calm down.
+895) BATMAN
+See, that does help me. Thank you.
+996) BATMAN
+See, that does help me. Thank you.
+896) PENGUIN
+Well hello Batman! What a, ahem, pleasure to see you.
+897) PENGUIN
+Let me guess - You’re trying to figure out our next move? Figure out where the drugs are?
+898) PENGUIN
+Did I get it? Am I close? Pathetic.
+899) PENGUIN
+Now I
+900) PENGUIN
+I’ve got these little bat traps all over the city, but I should’ve known a good double murder would be what brought you out into the open.
+901) BATMAN
+I’m so sorry that I couldn’t save your parents.
+902) BATMAN
+You don’t know how sorry.
+903) BATMAN
+Yes, they are... but you’re not. You’re still alive.
+904) BATMAN
+I promise - I won’t stop until I catch the person that did this.
+905) BATMAN
+And make them pay for what they did.
+906) BOY
+[Quiet, almost to self] But... but what’s going to happen to me?
+907) BATMAN
+They’re going to find you a new family. One that will love you and take care of you.
+908) BATMAN
+You won’t be left alone.
+909) BATMAN
+There’s a man coming right now that’s going to come and help you.
+910) BATMAN
+He’ll make sure you’re taken care of. When I was about your age, he helped me too.
+911) BATMAN
+[Small smile] You’re the kid who saved Batman.
+912) BATMAN
+And no matter what happens, no matter where you go, that will always be true.
+913) BATMAN
+And I will always owe you one.
+914) BOY
+[Quiet, almost to self] Where will I go...
+915) BATMAN
+He was the only survivor.
+916) GORDON
+[Building frustration] Was this the Children of Arkham? Again? Why would they attack a family like the Vales?
+917) BATMAN
+Because their daughter, Vicki, IS Lady Arkham. She killed her own parents so she could use their company warehouse to stockpile the rest of her drugs.
+918) GORDON
+[Stunned] Vicki-- Vicki Vale the reporter? SHE’S Lady Arkham? My god, that’s... I can hardly believe it...
+919) GORDON
+[Realization] And this is what she did? To her own PARENTS? That’s sick!
+920) GORDON
+And so... who was the boy then?
+921) BATMAN
+He was hiding in a closet when the attack started. He may know more than he realizes.
+922) BATMAN
+Just make sure he’s taken care of and doesn’t fall through the cracks. After what he’s been through he needs a good home.
+923) GORDON
+[Melancholy] Yeah I... I actually know the drill.
+924) BATMAN
+That boy was the Vales’ adopted son. According to the papers I found, they were receiving a pretty significant stipend.
+925) GORDON
+Did he tell you anything? Did he SEE anything?
+926) GORDON
+He wasn’t... involved, was he?
+927) BATMAN
+He says he heard something about drugs, and attacking the police.
+1000) BATMAN
+He says he heard something about drugs, and attacking the police.
+928) BATMAN
+Can’t confirm anything, but it sounds like the Children of Arkham might be plotting something with those drugs against your people.
+998) BATMAN
+Can’t confirm anything, but it sounds like the Children of Arkham might be plotting something with those drugs against your people.
+930) BATMAN
+He overheard Lady Arkham asking for more trucks.
+931) BATMAN
+Seems like she might be getting ready to mobilize her drug supply. Take them out of Gotham.
+932) BATMAN
+The warehouse is Vale Oil & Heating. You should secure it as soon as possible.
+933) GORDON
+I’ll get on it right away. What about you?
+934) BATMAN
+I’ve got something I need to look into.
+935) GORDON
+[Alt][to himself] Son of a bitch did it again.
+937) 
+Throw Batarang
+938) 
+Throw Taser
+939) 
+Examine Eyes
+940) 
+Examine Neck
+941) 
+Open Drawer
+942) 
+Examine Old Photo
+943) 
+Examine Paperwork
+944) 
+Logo
+945) 
+The patch on Mr. Vale’s jacket might be a company logo.
+946) 
+Neck
+947) 
+Eyes
+948) 
+Come on out.
+949) 
+Kitchen
+950) 
+Location1
+951) 
+Living Room
+952) 
+Stairs
+953) 
+Young Boy
+954) 
+Paperwork
+956) 
+Examine
+957) 
+Examine
+958) 
+Examine
+959) 
+Examine
+960) 
+Examine
+961) 
+Examine
+962) 
+Examine
+963) 
+Examine
+964) 
+Examine
+965) 
+Examine
+966) 
+Examine
+967) 
+Examine
+968) 
+Examine
+969) 
+Examine
+973) 
+Examine
+974) 
+Examine
+970) 
+Search
+971) 
+Search
+975) 
+Scan for Heat Signature
+976) 
+Scan for Heat Signature
+977) 
+Scan for Heat Signature
+978) 
+Scan for Heat Signature
+979) 
+Move
+980) BATMAN
+[emphatic]I will if I have to.
+981) BATMAN
+[pickup2]It shows the Vales with another child in front of an industrial office.
+982) BATMAN
+[Pickup2] There’s a logo on the building.
+983) BATMAN
+The belt buckle is covered in blood. Before he was hung with the belt, Mr. Vale was beaten with it.
+984) BATMAN
+[pickup2]The indentation matches the shape of the belt buckle.  It must have impacted with the wall during the attack.
+985) BATMAN
+[pickup2] The logos match.
+986) GORDON
+[alt]Vicki-- Vicki Vale the reporter?
+987) 
+Be strong, you’re a hero!
+988) BATMAN
+[pickup]{AngryA}{FaceAccent}Vicki showed up to attack her foster parents.{ThinkingA} {BodyAccent}But at first, only the mother was there.
+989) BATMAN
+[pickup]That boy was the Vales’ foster son. According to the papers I found, they were receiving a pretty significant stipend.
+990) BATMAN
+[pickup]My guess is he’s another foster child living with the Vales.
+991) BATMAN
+{ThinkingA}{FaceAccent}This must be Vicki shortly after the Vales took her into their care.
+993) 
+I said stop hiding.
+997) BATMAN
+I’m on your side.

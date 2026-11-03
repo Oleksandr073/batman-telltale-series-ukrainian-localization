@@ -1,0 +1,361 @@
+﻿1) 
+He’ll remember that.
+2) 
+She’ll remember that.
+3) 
+They will remember that.
+4) 
+Silence is a valid option.
+5) 
+You have a limited amount of time to make a choice.
+6) 
+Inspect the evidence at the crime scene.
+7) 
+Items tagged with ^imageScale:0.8^<ui_notification_evidencePOI.d3dtx:-18> can be “linked” to related items to theorize a connection.
+8) 
+Find additional related evidence.
+9) 
+This game series adapts to the choices you make.
+The story is tailored by how you play.
+10) 
+
+47) 
+
+11) 
+This action will impact your gameplay experience.
+12) 
+Your choices have influenced this moment.
+13) 
+Connect Scorch Mark evidence to the Exploded Remains to craft your theory.
+14) 
+A bonding moment
+15) 
+Rude to Alfred, he’ll remember that.
+16) 
+That’s going to leave a mark.
+17) 
+Not all connected items will reveal valid theories.  Break these links to reset them.
+18) 
+Drag to move.
+21) 
+Drag to move.
+132) 
+Drag to move.
+19) 
+To move use^imageScale:0.95^<ui_notification_keyboardAndMouseWasd.d3dtx:-20>
+134) 
+To move use^imageScale:0.95^<ui_notification_keyboardAndMouseWasd.d3dtx:-20>
+20) 
+To move use <ui_notification_analogStickLeft.d3dtx:-20>
+133) 
+To move use <ui_notification_analogStickLeft.d3dtx:-20>
+22) 
+Use the mouse to look around.
+23) 
+To look around use <ui_notification_analogStickRight.d3dtx:-20>.
+24) 
+Disagree with Alfred
+25) 
+That was close!
+26) 
+Harvey will remember that.
+31) 
+Harvey will remember that.
+27) 
+Press <ui_notification_facebuttonDown.d3dtx:-20> and <ui_notification_controllerTriggerRight.d3dtx:-20> to use your Finishing Blow!
+28) 
+Use <ui_notification_analogStickRight.d3dtx:-20> to move into the circle, then press the displayed button to attack.
+29) 
+Press <ui_notification_facebuttonDown.d3dtx:-20> and move <ui_notification_analogStickLeft.d3dtx:-20> simultaneously.
+30) 
+Fill bars to earn an Expert Move.
+32) 
+Falcone will remember that.
+33) 
+Gotham will hear of this.
+34) 
+You let Vicki stay.
+35) 
+Vicki will remember that.
+36) 
+You let Harvey off the hook.
+37) 
+Alfred will remember that.
+38) 
+Gordon will remember that.
+39) 
+The Codex has been updated!
+40) 
+Retrieve the Data Drive
+41) 
+Use the Codex to Look Up Info on the Cat Burglar
+42) 
+Analyze the Data Drive at Batcomputer
+43) 
+Oswald will remember that.
+44) 
+Oswald noted your callousness.
+45) 
+Oswald noticed your kindness.
+46) 
+Falcone noticed that.
+48) 
+Use<ui_notification_keyboardAndMouseWasd.d3dtx:-15>to find the bullet, then Click to extract it.
+49) 
+Drag left or right to find the bullet, then tap to extract it.
+50) 
+Use <ui_notification_analogStickLeft.d3dtx:-20> to find the bullet, then <ui_notification_faceButtonDown.d3dtx:-20> to extract it.
+51) 
+Fill up the Bat Symbol by completing Expert moves to earn a Finishing Blow!
+52) 
+Reconstruct what happened here by discovering which pieces of evidence best link together to tell the story.
+53) 
+Continue linking related evidence to reconstruct the crime.
+54) 
+Link thugs to objects in the environment to plan your takedowns.
+55) 
+You cannot make a connection until at least 2 linkable items have been discovered.
+56) 
+Unlink items that dont seem to have a strong connection.
+57) 
+These two items aren’t a match.  Break this link and look for a more direct connection.
+58) 
+To rotate the hologram use <ui_notification_analogStickLeft.d3dtx:-15>
+59) 
+To rotate the hologram use <ui_notification_keyboardAndMouseWasd.d3dtx:-15>
+60) 
+Drag to rotate the hologram.
+61) 
+Oz
+62) 
+Bruce
+63) 
+Alfred
+64) 
+UPDATED
+65) 
+Oswald noticed that.
+66) 
+Lieutenant Gordon noted your violence.
+67) 
+Lieutenant Gordon noted your nonviolent approach.
+68) 
+SELECT
+69) 
+DECRYPTING DEVICE
+70) 
+Use the arrows buttons to Select and Rotate the pieces.
+71) 
+Use the arrows buttons to Select and Rotate the pieces.
+72) 
+<ui_batComputer_legendDpadUpDown.d3dtx:-12>Select <ui_batComputer_legendDpadLeftRight.d3dtx:-12>Rotate
+73) 
+Locate the sniper nest
+74) 
+DECRYPTING DATA...
+75) 
+COMPLETE
+76) 
+Selina will remember that.
+121) 
+Selina will remember that.
+77) 
+^color:#cbd6db^^font:GameplayBodyMedium^A Telltale story by
+^^NICOLE MARTINEZ
+^^EMILY GARRISON
+78) 
+^color:#cbd6db^^font:GameplayBodyMedium^Episode Directed by
+^^JASON PYKE
+79) 
+^color:#cbd6db^^font:GameplayBodyMedium^Art Direction
+^^MARTIN McDONALD
+80) 
+^color:#cbd6db^^font:GameplayBodyMedium^Characters
+^^DAVEED KAPLAN
+81) 
+^color:#cbd6db^^font:GameplayBodyMedium^Environments
+^^CHRISTIAN DE LOS SANTOS
+82) 
+^color:#cbd6db^^font:GameplayBodyMedium^Animation
+^^MICHAEL TJOSVOLD
+83) 
+^color:#cbd6db^^font:GameplayBodyMedium^Choreography
+^^MICHAEL GAMBINO
+84) 
+^color:#cbd6db^^font:GameplayBodyMedium^Programming
+^^GREG FELBER
+85) 
+^color:#cbd6db^^font:GameplayBodyMedium^Music by
+^^JARED EMERSON-JOHNSON
+86) 
+Tap screen to update Codex.
+87) 
+Press <ui_notification_keyboardAndMouseE.d3dtx:-20> to update Codex.
+88) 
+Press <ui_notification_facebuttonDown:-20> to update Codex.
+89) 
+Drag to open the doors.
+90) 
+Use <ui_notification_analogStickLeft.d3dtx:-20> to open the doors
+91) 
+Use <ui_notification_keyboardAndMouseW.d3dtx:-20> to open the doors
+92) 
+Use Bat-Tech to reveal trace evidence of phosphorus.
+93) 
+HARD DRIVE ENCRYPTED
+94) 
+Maneuver the drone around the outside of the Skyline club to scan for Falcone’s location.
+95) 
+Press <ui_notification_keyboardAndMouseA.d3dtx:-20> and <ui_notification_keyboardAndMouseD:-20> to use your Finishing Blow!
+96) 
+Press both prompts simultaneously to use your Finishing Blow!
+97) 
+Your guests will remember that.
+98) 
+Press both prompts simultaneously.
+99) 
+Press <ui_notification_keyboardAndMouseShift.d3dtx:-20> and <ui_notification_keyboardAndMouseQ.d3dtx:-20> simultaneously.
+100) 
+Gotham Media Feed
+101) 
+Swipe Up and Down to scroll.
+102) 
+Use ^imageScale:0.8^<ui_batComputer_legendMouseW.d3dtx:-15> and ^imageScale:0.8^<ui_batComputer_legendMouseS.d3dtx:-15> to scroll.
+103) 
+Use ^imageScale:0.8^<ui_batComputer_legendDpadUpDown.d3dtx:-15> or ^imageScale:0.8^<ui_batComputer_legendLeftStick.d3dtx:-15> to scroll.
+104) 
+<<id:377679995>><<:377679995>><<id
+City Hall, 8:32 PM
+105) 
+City Hall, 8:32 PM
+106) 
+Cobblepot Park, 6:06 AM
+107) 
+Cafe Triste, 5:23 PM
+108) 
+Eastside Docks, 6:44 PM
+109) 
+Skyline Club, 9:19 PM
+110) 
+Right Click to exit.
+111) 
+^imageScale:0.5^<ui_notification_faceButtonRight.d3dtx:-15> to exit.
+112) 
+Harvey took notice.
+113) 
+Harvey noticed.
+114) 
+He took notice.
+115) 
+He noticed that.
+116) 
+Alfred noticed that.
+117) 
+Use <ui_notification_mouseLeftClick.d3dtx:-20> to move into the circle, then press to attack.
+118) 
+Move the reticle into the circle, then press to attack.
+119) 
+Montoya will remember that.
+120) 
+Montoya noticed that.
+122) 
+Selina noticed that.
+123) 
+Penguin will remember that.
+124) 
+Penguin noticed  that.
+125) 
+Catwoman will remember that.
+126) 
+Catwoman noticed that.
+127) 
+Rhonda noticed that.
+128) 
+Hill noticed that.
+129) 
+Hill will remember that.
+130) 
+Hill is terrified of you.
+131) 
+Hill won’t forget that.
+135) 
+Selina
+136) 
+Crime Alley, 5:38 AM
+137) 
+GCPD, 8:56 AM
+138) 
+Skyline Club, 5:38 PM
+139) 
+Skyline Club, 6:26 PM
+140) 
+City Hall, 8:02 PM
+141) 
+City Hall, 8:11 PM
+142) 
+Wayne Memorial Auditorium, 9:27 PM
+143) 
+GCPD, 10:27 AM
+144) 
+Regina will remember that.
+145) 
+Deborah will remember that.
+146) 
+You played the odds.
+147) 
+Unlock the secret entrance.
+148) 
+Ladies and gentlemen, in light of recent allegations against my family, I have decided to voluntarily step down as CEO of Wayne Enterprises.
+149) 
+I was horrified to learn of my father’s corruption. I am ashamed of his actions, and would like to apologize to Gotham for the pain he has caused so many of you.
+150) 
+It is important that I stress now that Wayne Enterprises is free of the corruption brought forth by the Wayne family. The company is not responsible for any wrongdoing.
+151) 
+I have complete faith in the board as they work towards righting the wrongs of the past.
+152) 
+With that I am excited to announce Oswald Cobblepot. He’s an international entrepreneur with a Gotham Legacy. He is, by far, the best candidate to replace me.
+153) 
+The company is in great hands. Oswald Cobblepot will lead Wayne Enterprises and Gotham City into a new era of financial prosperity. 
+And with that... Oswald Cobblepot!
+154) 
+^glyphScale:1.25^Gotham General Hospital
+^glyphScale:.6^8:45 PM
+155) 
+^glyphScale:1.25^GCPD
+^glyphScale:.6^12:05 AM
+156) 
+^glyphScale:1.25^Wayne Tower
+^glyphScale:.6^7:29 AM
+157) 
+^glyphScale:1.25^City Hall
+^glyphScale:.6^6:07 PM
+158) 
+^glyphScale:1.25^Cobblepot Park
+^glyphScale:.6^7:15 PM
+159) 
+^glyphScale:1.25^Sky Train Depot
+^glyphScale:.6^ 8:55 PM
+160) 
+^glyphScale:1.25^Selina’s Apartment
+^glyphScale:.6^11:58 PM
+161) 
+INSTALLING...
+162) 
+You can read the article in your codex menu.
+163) 
+SCANNING BACK DOOR
+164) 
+RECORDING...
+165) 
+Monitor the drones on your gauntlet.
+166) 
+Check for upgrades and then hide your Bat Tech.
+167) 
+UNAUTHORIZED
+ENCRYPTION
+168) 
+Regina
+169) 
+MUTE
+170) 
+^imageScale:0.5^<ui_notification_faceButtonDown.d3dtx:-15> to exit.

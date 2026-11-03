@@ -1,0 +1,402 @@
+﻿1) NEWSCASTER
+This is Monica Mitchell reporting live from outside Gotham Police Headquarters.
+2) MONTOYA
+{WorriedA}Commissioner{FaceAccent} Gordon.
+3) MONTOYA
+{ThinkingA}He’s here.
+4) GORDON
+[more to self]{ThinkingA}Commissioner{BodyAccent} Gordon...
+5) BRUCE
+{AmusedA}Don’t worry. It {FaceAccent}will.
+6) BRUCE
+It means a{HappyA} lot for me to be{BodyAccent} here.
+7) GORDON
+[ALT; invited] {ThinkingA}To be honest, I didn’t think you’d{FaceAccent} come.
+8) BRUCE
+{ConcernedA}I loved my father, but {FaceAccent}nothing can excuse what{ThinkingB} he did.
+9) 
+It’s time I took responsibility.
+10) 
+I’ve come to apologize.
+11) 
+I have no excuse for my Dad’s actions
+12) 
+We can’t change the past.
+13) GORDON
+I don’t mean that as an insult.
+14) GORDON
+Gotham needs a “golden boy.“
+15) NEWSCASTER
+We’re currently awaiting newly appointed Police Commissioner James Gordon, who will address the city for the first time in the wake of the terrorist attacks perpetrated by Lady Arkham.
+189) NEWSCASTER
+[CUT] We’re currently awaiting newly appointed Police Commissioner James Gordon, who will address the city for the first time in the wake of the terrorist attacks perpetrated by Lady Arkham.
+16) GORDON
+[honest to self]Uh, doesn’t {FaceAccent}sound{TiredB} right...
+17) BRUCE
+So {SternA}today, I stand before you as my{BodyAccent} own man.
+18) BRUCE
+Heir not to the {FaceAccent}{NormalA}Wayne legacy, but to{FaceAccent} Gotham’s.
+19) 
+I want to help the city.
+20) 
+I’ll show them that the Waynes care.
+21) BRUCE
+{ConcernedA}Gotham doesn’t have to like me, but I do hope they’ll hear me out.
+22) BRUCE
+I need to take responsibility for what my parents did.
+23) BRUCE
+{ConcernedA}It’s time I owned{FaceAccent} my family’s {ThinkingA}past.
+24) BRUCE
+So we can all move forward.
+25) BRUCE
+As his son, I have to{DisgustA} live with that.
+26) BRUCE
+It’s time for us to {BodyAccent}stop living in the past and{FaceAccent} focus on {ThinkingA}building the future.
+27) 
+He’s protecting Gotham.
+28) 
+Do you trust him?
+29) 
+I’d like to meet him.
+30) 
+I’ll help put an end to corruption.
+31) 
+I will be Gotham’s servant
+163) 
+I will be Gotham’s servant.
+32) 
+It’s time I started paying back.
+33) MONTOYA
+{ThinkingA}They’re ready for {BodyAccent}you,{FaceAccent} Commissioner.
+34) GORDON
+{AngryA}After that{FaceAccent} business at Cobblepot Park, I thought you might be {BodyAccent}off on a {NormalA}yacht somewhere, recuperating.
+35) GORDON
+And I wouldn’t{TiredA} blame{FaceAccent} you.
+194) GORDON
+[CUT] And I wouldn’t{TiredA} blame{FaceAccent} you.
+36) GORDON
+[chuckles]{NormalA} My wife wanted me to {BodyAccent}postpone this {TiredA}address, to do some recuperating myself.
+37) BRUCE
+{ConcernedA}How are you{FaceAccent} feeling?
+38) GORDON
+I’ve{NormalA} taken worse hits. But {FaceAccent}thanks for asking.
+39) GORDON
+{NormalA}That said, I thought we made a pretty good {FaceAccent}team back there, and I hoped that{ThinkingA} could continue.
+40) BRUCE
+{AmusedB}I feel the {FaceAccent}same.
+41) GORDON
+{ThinkingA}What you did is no{FaceAccent} secret...
+42) GORDON
+{AngryA}After that nasty{FaceAccent} business at your manor...
+43) GORDON
+I know{SadA} Harvey was a good friend of{BodyAccent} yours. A loss like that... I would have{TiredA} understood{FaceAccent} if you turned me down.
+44) GORDON
+{TiredA}I wish it could have{FaceAccent} ended better... but several of his hostages made it{ThinkingA} out alive, and I have you{FaceAccent} to{NormalA} thank for that.
+45) GORDON
+{ThinkingA}But you showed {FaceAccent}true courage that night, saved a lot of lives. I--and{FaceAccent} all{NormalA} those people--owe you a{BodyAccent} debt of gratitude.
+46) GORDON
+These people all{BodyAccent} saw there’s more to {NormalA}Bruce Wayne than {BodyAccent}just the playboy. Public opinion{FaceAccent} is bound to swing around.
+47) GORDON
+[half-joking] {NormalA}Before long, you’ll be Gotham’s{FaceAccent} “golden boy” again{BodyAccent}.
+48) GORDON
+Most of our other public figures are a bit more... tarnished.
+49) BRUCE
+{ConcernedA}These people have no idea who Bruce Wayne really is. But that’s about to change.
+201) BRUCE
+{ConcernedA}These people have no idea who Bruce Wayne really is... but that’s about to change.
+50) GORDON
+Oh?
+51) GORDON
+Well, I look forward to knowing the real Bruce Wayne as well.
+52) BRUCE
+I just want to help this city--in whatever way I can.
+53) GORDON
+I appreciate that.
+54) GORDON
+I’m glad you came, Bruce.
+55) GORDON
+I’m glad you came.
+56) GORDON
+It’s good that you came.
+57) GORDON
+That can’t be easy. But I’m glad that you’re here.
+58) GORDON
+[ALT; invited]{ThinkingB}It looks like Batman is a no-show.
+59) GORDON
+[ALT; invited] {NormalA}I’ll admit, I wasn’t incredibly{TiredB} optimistic he’d come.
+60) GORDON
+[ALT; invited] But {BodyAccent}still... I was {SadA}hoping.
+61) BRUCE
+{ConcernedA}If Batman isn’t here, it’s because{ThinkingA} he’s more needed somewhere{BodyAccent} else.
+62) BRUCE
+[light]{AmusedB} I wouldn’t take it {FaceAccent}personally.
+63) GORDON
+[light] {NormalA}Good advice when it comes to {FaceAccent}that guy.
+64) BRUCE
+{ConcernedA}So, does this mean you{SkepticalB} trust{FaceAccent} the Batman?
+65) GORDON
+[ALT;invited] [light] {ThinkingA}Not to be my prom{FaceAccent} date, apparently...
+66) GORDON
+[serious] But to fight{AngryA} for this city?{BodyAccent} Hell, yes.
+67) BRUCE
+{AmusedA}Too bad he’s not{FaceAccent} here.
+68) BRUCE
+Wouldn’t{HappyA} mind meeting him.
+69) GORDON
+{ThinkingA}Yeah?{FaceAccent} Hmph.
+70) GORDON
+Well, he’s not{TiredA} much of a {FaceAccent}talker.
+71) GORDON
+Though maybe you could trade{NormalA} notes on{BodyAccent}expensive cars.
+72) GORDON
+[to himself] That is one {FaceAccent}hell of a car...
+73) GORDON
+[continuing] -- {ThinkingB}until we hold elections for a new{FaceAccent} Mayor, I, as {ThinkingA}acting police commissioner, will work with the GCPD and city council to restore order, and see that justice is served to the{AngryA} last of Lady’s Arkham’s {FaceAccent}so-called Children.
+74) GORDON
+[solemn, from the heart] {ThinkingB}During times like{BodyAccent} these, it can feel impossible to{FaceAccent} hold onto hope. {NormalA}But I have{FaceAccent} hope.
+75) GORDON
+[cut] I’m counting on{BodyAccent} each and every {NormalA}one of you.
+76) GORDON
+Hope that,{FaceAccent} together, we can rebuild what{TiredA} was lost.
+77) GORDON
+And in the last few weeks, as{DisgustA} much {BodyAccent}violence and terror as I’ve seen--{TiredA}I’ve also seen the citizens of this community{FaceAccent} band together to fight those threats.
+78) GORDON
+One of those{NormalA} people is {BodyAccent}Bruce Wayne.
+79) GORDON
+[ALT] Bruce, {BodyAccent}come on up.
+80) BRUCE
+{AmusedA}Thank you, {FaceAccent}Commissioner Gordon.
+81) BRUCE
+[joke; warming up] Tough act{AmusedB} to follow...{ConcernedA}
+82) BRUCE
+I’m here today to {SternA}not only show my support for{FaceAccent} our Acting Commissioner, but also for this{ThinkingA} city. Many of you have {BodyAccent}suffered terrible losses.
+83) BRUCE
+And some of those {ConcernedA}{FaceAccent}losses... [difficult] came at the hands of my {BodyAccent}own father, or at least as a{DisgustA} result of his {FaceAccent}actions.
+84) BRUCE
+{ConcernedA}I want to take this opportunity to {FaceAccent}apologize...
+85) BRUCE
+...to tell you how sorry{ThinkingB} I am for the pain the {FaceAccent}Wayne family has caused this{BodyAccent} community.
+86) BRUCE
+And I’m sorry that I {BodyAccent}haven’t been a very{FaceAccent} good member of this community{DespairA} before now.
+87) BRUCE
+{ConcernedA}No matter how much I {FaceAccent}want to, I can’t change the{ThinkingB} past.
+88) BRUCE
+Gotham’s so-called{FaceAccent} “golden age” was{DisgustA} built on corruption and lies, but that doesn’t mean that going forward, we can’t do things{BodyAccent}{SternA} differently.
+89) BRUCE
+We{AngryA} have{FaceAccent} to do things{SternA} differently.
+90) GORDON
+[clears throat]
+113) BRUCE
+[clears throat]
+188) 
+
+91) BRUCE
+{ThinkingA}If my recent {AngryA}incident{FaceAccent} with Harvey Dent has shown me anything... it’s that I{ConcernedA} can no longer sit on the{BodyAccent} sidelines.
+92) BRUCE
+{ThinkingA}If my recent{FaceAccent} incident{AngryA} with Oswald Cobblepot has shown me anything... it’s that I can no longer{DisgustA} hide from what my{BodyAccent} family did.
+93) BRUCE
+{ConcernedA}My family’s wealth was{SadA} {FaceAccent}built on the suffering{BodyAccent} of others.
+195) BRUCE
+{ConcernedA}My family’s wealth was{SadA} {FaceAccent}built on the suffering{BodyAccent} of others.
+198) BRUCE
+{ConcernedA}My family’s wealth was{SadA} {FaceAccent}built on the suffering{BodyAccent} of others.
+94) BRUCE
+I think it’s time to{SternA} {FaceAccent}repay that debt. I plan to use my resources to improve{ThinkingA} the city, and make the lives of its {FaceAccent}citizens better.
+199) BRUCE
+I think it’s time to{SternA} {FaceAccent}repay that debt. I plan to use my resources to improve{ThinkingA} the city, and make the lives of its {FaceAccent}citizens better.
+95) BRUCE
+Corruption{DisgustA} has ruled this city for{FaceAccent} far too long.
+96) BRUCE
+It’s time to{AngryA} put an {BodyAccent}end to that.
+97) BRUCE
+I’ll do{SternA} everything in my power to ensure {FaceAccent}Gotham is freed from the spectres of {DisgustA}Carmine Falcone, Hamilton Hill, and my{ThinkingB} own {FaceAccent}father.
+98) BRUCE
+{SkepticalA}I need to be more than just the{SkepticalB} shallow subject of gossip{FaceAccent} magazines. {SternA}I need to {BodyAccent}contribute.
+197) BRUCE
+{SkepticalA}I need to be more than just the{SkepticalB} shallow subject of gossip{FaceAccent} magazines. {SternA}I need to {BodyAccent}contribute.
+99) BRUCE
+Whatever I can {FaceAccent}do for this city--{AngryA}I {FaceAccent}will.
+196) BRUCE
+Whatever I can {FaceAccent}do for this city--{AngryA}I {FaceAccent}will.
+100) BRUCE
+{ThinkingB}A closer{FaceAccent} alliance between the GCPD and {BodyAccent}Wayne Enterprises will provide{ThinkingA} the police force with the support, with the training and the {FaceAccent}equipment they need to make{SternA} Gotham safer than it ever has {FaceAccent} been before.
+101) BRUCE
+{ThinkingA}Together, we can{FaceAccent} make a difference.
+102) COA03
+[shouting]{AngryB} {FaceAccent}Hey! {BodyAccent}Wayne!
+103) COA03
+[shouting] Shut{AngryC} your lying{FaceAccent} mouth!
+104) 
+Giving away much of my wealth.
+105) 
+Partnering with the GCPD.
+106) BRUCE
+{HappyA}Thank you for having me, {AmusedA}{FaceAccent}Commissioner.
+107) GORDON
+{ThinkingA}To be honest, I was {FaceAccent}surprised{SadA} to get your call.
+108) GORDON
+{ThinkingB}I was half-hoping {FaceAccent}Batman might show up too.
+109) GORDON
+{ThinkingB}I wouldn’t {FaceAccent}mind knowing he was keeping an{TiredA} eye on things here.
+110) GORDON
+Not to{FaceAccent} mention... he makes one{ThinkingB} hell of an impression on people.
+111) GORDON
+{ThinkingB}To play by my rules? {FaceAccent}No{TiredA}.
+112) GORDON
+[ALT; no “hell”][serious] But to fight for this city? Yes.
+114) BRUCE
+{ThinkingB}And to {BodyAccent}that end....
+115) BRUCE
+{ThinkingB}I will be giving up{FaceAccent} 90% of my shares in{BodyAccent} Wayne {SternA}Enterprises...
+116) BRUCE
+And {FaceAccent}donating them to a range of Gotham charities and{BodyAccent} philanthropic{AmusedA} non-profits, to address the{FaceAccent} serious social issues that plague the people of our fair city.
+117) BRUCE
+I intend to {ThinkingA}help those in{FaceAccent} need--whether it be people suffering from{BodyAccent} mental illness, or victims of abuse--and make sure they have the {SternA}care they{BodyAccent} deserve!
+118) BRUCE
+The GCPD will be the most{BodyAccent} technologically advanced police force in the {FaceAccent}country...
+119) BRUCE
+...because the people of {AmusedA}Gotham deserve to feel{FaceAccent} safe!
+120) GORDON
+{SadA}Someone{FaceAccent} help Wayne!
+121) GORDON
+{AngryB}My {FaceAccent}God, he’s been{BodyAccent} shot!
+122) GORDON
+{AngryA}Another {FaceAccent}shooter!
+123) GORDON
+{AngryB}Clear the{BodyAccent} area!
+186) GORDON
+{AngryB}Clear the{BodyAccent} area!
+124) GORDON
+{TiredA}God help us if {FaceAccent}this is the new normal.
+125) BRUCE
+{ConcernedA}This only shows how{BodyAccent} much we need to{SternA} stand{FaceAccent} together.
+126) BRUCE
+[darkly] We {AngryB}won’t let{FaceAccent} them win.
+127) GORDON
+{TiredA}Not while I have{AngryB} breath{FaceAccent} in my body.
+128) GORDON
+Get those{BodyAccent} bastards{AngryC} to lockup!
+129) GORDON
+Go {BodyAccent}on!
+130) GORDON
+Get them out of my{FaceAccent} sight!
+131) GORDON
+[ALT][thinking of those who died] {TiredA}What happened was a{SadA} terrible tragedy... but {BodyAccent}lives were saved too--and{ThinkingA} I have you{FaceAccent} to thank for that.
+169) GORDON
+[CUT][thinking of those who died] {TiredA}What happened was a{SadA} terrible tragedy... but {BodyAccent}lives were saved too--and{ThinkingA} I have you{FaceAccent} to thank for that.
+132) GORDON
+[amused] {NormalA}Wouldn’t have been the{FaceAccent} worst PR move.
+133) GORDON
+[ALT] {NormalA}You’ll be Gotham’s favorite{FaceAccent} son again soon enough.
+134) BRUCE
+[ALT; brett] I’ll be {ConcernedA}Gotham’s servant.
+135) BRUCE
+[ALT; brett]{ThinkingA} I’ll lead Gotham in its{FaceAccent}{SternA} fight for what is right.
+175) BRUCE
+{ThinkingA} I’ll lead Gotham in its{FaceAccent}{SternA} fight for what is right.
+136) 
+Shark bit me.
+137) 
+Cut myself shaving.
+143) BRUCE
+Cut myself shaving.
+138) 
+Skiing accident.
+153) BRUCE
+[ALT] Skiing accident.
+139) GORDON
+What happened to you?
+140) GORDON
+What, uh, happened to your ear?
+141) BRUCE
+Tiger shark.  Diving in Belize.
+142) GORDON
+Lifestyles of the rich...
+150) GORDON
+Lifestyles of the rich...
+144) GORDON
+What’d you use, a chainsaw?
+145) GORDON
+Seriously?
+146) BRUCE
+Skiing in Aspen.
+147) BRUCE
+Took a bad fall.
+148) GORDON
+How’d you find the time to--?
+149) GORDON
+Nevermind.
+151) GORDON
+[ALT] You didn’t have it before...
+152) GORDON
+Looks painful.
+154) 
+[ALT] Close haircut.
+155) BRUCE
+My barber got a little too eager with the clippers.
+156) GORDON
+[ALT] I’ll say.
+157) GORDON
+I can recommend a guy if you need a new one.
+158) GORDON
+Ouch.
+159) GORDON
+All right, I don’t need to know.
+160) 
+I’ll show them the real Bruce Wayne.
+161) 
+Show them the real Bruce Wayne.
+162) 
+No excuse for my father.
+164) 
+[ALT] I was mugged.
+165) BRUCE
+I was mugged...
+166) GORDON
+Perhaps you should consider a bodyguard.
+167) BRUCE
+I’ll be alright.
+168) GORDON
+[ALT][PKUP] I know Harvey was a good friend of yours. A loss like that... I wouldn’t blame you for lying low.
+170) BRUCE
+Take responsibility for what my father did.
+171) 
+Want them to hear me out.
+172) 
+Time to own my family’s past.
+173) 
+We can’t live in the past.
+174) 
+I’ll root out Gotham’s corruption.
+176) BRUCE
+[PKUP] No matter the personal cost.
+177) BRUCE
+I am ceasing all construction of the Wayne mental health facility.
+178) BRUCE
+So that it
+179) BRUCE
+Instead, I will be devoting my time and energy entirely to improving Arkham Asylum.
+180) BRUCE
+I am ceasing construction on the Wayne mental health facility.
+181) BRUCE
+Instead, I’ll be devoting all my resources to improving the existing Arkham Asylum.
+182) BRUCE
+It will be the most advanced mental health treatment facility in the country...
+183) BRUCE
+...in keeping with the vision of its founders.
+184) 
+A 21st Century Arkham Asylum.
+185) 
+A better Arkham Asylum.
+187) NEWSCASTER
+[PKUP] We’re currently awaiting newly appointed Acting Police Commissioner James Gordon, who will address the city for the first time in the wake of the terrorist attacks perpetrated by Lady Arkham.
+193) RYDER
+[PKUP2] We’re currently awaiting newly appointed Acting Police Commissioner James Gordon, who will address the city for the first time in the wake of the terrorist attacks perpetrated by Lady Arkham.
+190) GORDON
+[ALT][PKUP] You’ll be back in their good books before long.
+191) GORDON
+[ALT; only one][PKUP] Get that bastard to lockup!
+192) GORDON
+[ALT][continuing] -- {ThinkingB}until we hold elections for a new{FaceAccent} Mayor, I, as {ThinkingA}acting police commissioner, will work with the GCPD and city council to restore order, and see that justice is served to the{AngryA} last of Lady’s Arkham’s {FaceAccent}so-called Children.
+200) 
+A stronger Gotham Police.

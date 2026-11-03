@@ -1,0 +1,894 @@
+﻿1) 
+Strange place to hang out.
+2) 
+Not going to jump, are you?
+3) 
+We need to talk.
+362) BATMAN
+We need to talk.
+4) 
+I’ll do whatever I need to.
+5) 
+That’s not my style.
+6) 
+Just wanted to talk.
+7) 
+It’s a long way down.
+8) 
+
+9) 
+
+162) 
+[Leave]
+186) HARVEY
+[two face]
+414) BATMAN
+[Growl]
+10) 
+Let me be your ally.
+11) 
+I’m *Gotham’s* ally.
+12) 
+Consider me an Enemy.
+13) 
+I don’t make exceptions.
+14) 
+That depends.
+15) 
+Cut the high and mighty act.
+16) 
+I prefered the old Harvey.
+17) 
+You’re being delusional!
+18) 
+Don’t go too far.
+19) 
+I’m working on it.
+20) 
+You’re no better.
+21) 
+I can handle it.
+22) 
+I can do that alone.
+23) 
+Then forget Wayne.
+24) 
+Drop the high and mighty act.
+25) 
+He’s a good cop.
+26) 
+Because he won’t obey you?
+27) 
+You can’t do that!
+28) 
+You’ll regret this.
+29) 
+Thanks for the tip.
+166) BATMAN
+[Gritted teeth] Thanks for the tip.
+30) 
+Our alliance is over.
+31) 
+You just made an enemy, Dent.
+32) HARVEY
+[Muttering to self, Two Face]{body-A}{BodyAccent}{AngryA}{FaceAccent} I’m telling you Harv, {AngryB}{FaceAccent}you did the right thing. You did the right thing.
+33) HARVEY
+[Muttering to self] {ConfusedA}{FaceAccent}God,{SadA}{FaceAccent} I just hope you’re right...
+34) HARVEY
+[Muttering to self, meek harvey] {body-A}{BodyAccent}{SadA}{FaceAccent}I don’t know if that was the right thing to do.{ConfusedB}{FaceAccent} Why did I do that?
+35) HARVEY
+[Muttering to self, Two Face] {AngryA}{FaceAccent}{body-HandsUp}{BodyAccent}I’m telling you, Harvey, {AngryB}{FaceAccent}you can’t keep second-guessing yourself. {ThinkingB}{FaceAccent}Go with your gut. It’s done.{AngryB}{FaceAccent} Over. Kaput.
+36) BATMAN
+{body-A}{BodyAccent}{AngryA}{FaceAccent}Dent. We need to talk.
+37) BATMAN
+{ThinkingA}{FaceAccent}It’s a long way down.
+38) BATMAN
+{body-A}{BodyAccent}{AngryA}{FaceAccent}Dangerous place to stand.
+39) BATMAN
+{body-A}{BodyAccent}{ThinkingA}{FaceAccent}I’m not interrupting anything, am I?
+40) HARVEY
+[Muttering to self, meek Harvey] {body-A}{BodyAccent}{AngryA}{FaceAccent}Ah, I just can’t... just can’t {SadA}{FaceAccent}second-guess myself.
+41) HARVEY
+[Hiding surprise] Oh - Batman.
+193) HARVEY
+[Hiding surprise] Oh - Batman.
+292) HARVEY
+[Hiding surprise] Oh - Batman.
+42) HARVEY
+[Not pleased] What a surprise to see you on my roof.
+43) HARVEY
+Oh, you scared the hell out of me, but it is good to see you.
+44) BATMAN
+{body-A}{AngryA}{FaceAccent}I’m here about Wayne.
+45) HARVEY
+[skeptical]{ThinkingB}{FaceAccent}{body-HandsHips}{BodyAccent} What-- is this about the whole “seizing his assets” thing?
+46) HARVEY
+[Skeptical]{SmugA}{FaceAccent}{body-HandsHips} What’re you going to do?{body-HandsUp}{BodyAccent}{AngryA}{FaceAccent} You going to break my legs?
+47) HARVEY
+[Trying to make a joke] {body-HandsHips}{SmugA}You’re not gonna break my{AngryA}{FaceAccent} legs, are you?
+48) BATMAN
+[Threatening]{AngryA}{body-A} If it comes to that.
+196) BATMAN
+[Threatening]{AngryA}{body-A} If it comes to that.
+49) BATMAN
+{body-A}{AngryA}No. {DisgustA}{FaceAccent}Not my style.
+50) BATMAN
+{body-A}{AngryA}Calm down, Dent.{NormalA}{FaceAccent} I just want to talk.
+197) BATMAN
+{body-A}{AngryA}Calm down, Dent.{NormalA}{FaceAccent} I just want to talk.
+51) HARVEY
+[skeptical] {AngryA}{body-A}Oh{body-HandsHips}{BodyAccent} really. {AngryB}{FaceAccent}Guy like you seems like he {body-A}doesn’t do a{body-HandsUp}{BodyAccent} whole lot of “just talking.“
+52) HARVEY
+{body-A}{SmugA} Sounds good to me.
+53) HARVEY
+{AngryA}{body-HandsHips}Hmm, I’ll hope that’s a “no” then.
+54) BATMAN
+[Threatening] I have other ways of convincing you.
+55) HARVEY
+[scoff]{body-A}{AngryA} Little{body-HandsHips} {SmugA}{FaceAccent}{BodyAccent}brutish,{AngryB}{FaceAccent} dont you think?
+56) HARVEY
+[sarcastic] {body-A}{AngryA}Well, I guess I should {body-HandsHips}{BodyAccent}{AngryB}{FaceAccent}count my blessings then.
+57) HARVEY
+[Two Face] {NormalA}{body-HandsHips}So.{body-X}{BodyAccent}{ThinkingA}{FaceAccent} Wayne, huh?
+58) HARVEY
+[Two Face]{ThinkingB}{FaceAccent} I hear you’ve been {body-HandsUp}{BodyAccent}quite the hero around town lately...
+59) HARVEY
+[Two Face] {AngryA}{FaceAccent}{body-A}{BodyAccent}Wouldn’t have expected {body-LeanR}{BodyAccent}a guy like {SurpriseA}{FaceAccent}you {body-HandsUp}{BodyAccent}to get wrapped up protecting{body-HandsHips}{BodyAccent}{AngryB}{FaceAccent} someone like Wayne.
+198) HARVEY
+[Two Face] {AngryA}{FaceAccent}{body-A}{BodyAccent}Wouldn’t have expected {body-LeanR}{BodyAccent}a guy like {SurpriseA}{FaceAccent}you {body-HandsUp}{BodyAccent}to get wrapped up protecting{body-HandsHips}{BodyAccent}{AngryB}{FaceAccent} someone like Wayne.
+60) HARVEY
+[Two Face] {ThinkingB}{FaceAccent}I hear you’ve been{body-HandsUp}{BodyAccent} quite the nightmare to some of Gotham’s... seedier types lately.
+61) 
+He was your friend.
+62) BATMAN
+I just don’t like to see someone kicked when they’re down.
+63) BATMAN
+I want you to stop kicking.
+64) HARVEY
+[Two Face] Hm. Fair enough.
+65) 
+Because I’m telling you to!
+66) BATMAN
+Don’t make me ask twice. It won’t end well for you.
+67) HARVEY
+[Two Face]{body-A}{SarcasticA} Sounds like you’re threatening me.
+68) 
+To save yourself.
+69) BATMAN
+This isn’t just about Wayne. I protect everyone.
+70) HARVEY
+{body-A}{AngryB}Oh is that so?
+71) BATMAN
+You’ll know when I’m threatening you.
+72) HARVEY
+{body-A}{ThinkingA}So it seems...
+73) HARVEY
+{body-A}{AngryA}I was a lawyer for years, Batman.{AngryB}{FaceAccent} The silent trick only works for so long.
+74) HARVEY
+[Two Face] Tell you what. I’ll reconsider the whole mess with Wayne. Maybe I’ll just let him dangle for the night.
+75) HARVEY
+[Two Face] In case you haven’t noticed, you’re on MY turf, Batman. I don’t intimidate that easily.
+76) HARVEY
+[Two Face] Politics aside, I’m glad you came by. Our last encounter... didn’t go like I’d hoped.
+77) BATMAN
+Good.
+78) HARVEY
+Now that that unpleasantness is out of the way, I’m actually glad to see you here, Batman.
+79) HARVEY
+[Two Face] Gotham is going through some... Growing pains. The Children of Arkham, upsets at Wayne Enterprises, unrest at the GCPD...
+80) HARVEY
+A tough time to step into the mayoral office. And, well, I was nervous at first.
+81) HARVEY
+[Two Face] But ever since the Children of Arkham’s little... attack, I’ve had a lot of new clarity in my life.
+82) BATMAN
+Really.
+83) HARVEY
+[Two Face] Oh yeah. The old Harvey? He was a little too soft on people. Weak. Now I’m the Harvey that Gotham needs.
+84) HARVEY
+[Two Face] A strong Harvey.
+85) HARVEY
+[Two Face] A Harvey that isn’t afraid to be a little... bad.
+86) BATMAN
+Personally I prefer the *old* Harvey.
+87) HARVEY
+[Two face, snarl] Of course you would.
+88) HARVEY
+[Two Face] He was... a people-pleaser.
+89) BATMAN
+You’re being delusional, Dent. You need to get it together.
+90) HARVEY
+[Two Face] I’M delusional? At least I’m not trying to help the city by dressing up like a damn *bat*.
+91) HARVEY
+[Clears throat] Sorry.
+92) BATMAN
+Just don’t take it too far, Harvey. You know what they say about the road to Hell.
+93) HARVEY
+[Two Face] I don’t need *you* lecturing me about checks and balances.
+94) HARVEY
+I’m trying my best here, Batman. But it’s hard. And scary sometimes.
+95) HARVEY
+[Two Face] I don’t know who’s an enemy, who’s an ally...
+96) HARVEY
+Are you my ally, Batman?
+97) HARVEY
+[Two Face] This city is on a slow slide to hell and I’M the only one who can save it.
+98) HARVEY
+That’s a good point, a good point. And a good reminder.
+99) HARVEY
+It’s a hard transition to keep up with.
+100) HARVEY
+[Two Face] That means finding allies, eliminating enemies... And identifying which is which before it becomes all-out war.
+101) HARVEY
+[Two Face] You gonna be my ally in that war, Batman?
+102) BATMAN
+I could be that ally.  If your willing to see reason.
+103) BATMAN
+I’m looking out for *Gotham*, Dent. If you’re really willing to be the city’s ally, then I’ll be your ally too.
+104) HARVEY
+[Two Face] Good to know.
+105) BATMAN
+Once I thought we were on the same side - But you’ve changed, Dent. I don’t think I can be the ally you want anymore.
+106) HARVEY
+[Two Face, sneer] Fine.
+107) HARVEY
+[Two Face, sneer] Fine.
+108) HARVEY
+I’m glad to hear that. I really am.
+109) HARVEY
+I’m glad because you have way bigger concerns than ME to worry about.
+110) HARVEY
+[Two Face] Penguin, the Children of Arkham, that masked leader of theirs...
+111) HARVEY
+That’s why we need to help each other.
+112) BATMAN
+I don’t need your help - I can do this alone.
+113) HARVEY
+[Two Face] Well isn’t that a shame.
+169) HARVEY
+[Two Face] Well isn’t that a shame.
+114) BATMAN
+If you want to help me then drop this ridiculous attack against Wayne.
+115) HARVEY
+Of course, of course. I’ll throw in a public apology while I’m at it.
+116) HARVEY
+[Two Face, sneer] I’ll consider it.
+117) BATMAN
+You can cut the pleading, Dent. I’m not buying this Pious Mayor act for a second.
+118) HARVEY
+[Two face, sneer] Well, don’t say I never tried to do anything nice for you.
+119) HARVEY
+[Two face, sneer] Well, don’t say I never tried to do anything nice for you.
+120) HARVEY
+[Two Face] Y’know, Batman, I’m not your enemy. You’ve got waay bigger concerns to deal with than me.
+121) HARVEY
+[Two Face] Penguin... The Children of Arkham... That insane masked leader of theirs.
+122) HARVEY
+[Two Face] *They’re* who you should be worrying about.
+123) BATMAN
+I’m already working on taking them down.
+124) BATMAN
+From where I’m standing you’re no better, Dent. This city doesn’t need any would-be dictators.
+125) BATMAN
+Thanks for the warning, but I can handle it.
+126) HARVEY
+[Two Face, warning] Careful, Batman. You’re on very thin ice.
+127) HARVEY
+[Two Face] And yet they haven’t gone anywhere yet, have they?
+128) HARVEY
+[Two Face, sneer] Let’s hope, for all our sakes.
+129) HARVEY
+[Two Face, sneer] I guess I’m a bit easier of a target to harass though, aren’t I?
+130) HARVEY
+[Two Face] I’m glad we could talk about this, mano a mano.
+131) HARVEY
+[Two Face]{AngryA}{body-A} I’m still{body-HandsHips}{BodyAccent} not sure about you Batman... {AngryB}{FaceAccent}But I’m glad we’ve had this chance to chat.
+132) HARVEY
+[Two Face] When you came slinking out of the shadows, I was so sure it was going to be about Gordon.
+133) BATMAN
+“Gordon?“
+134) HARVEY
+[Two Face] Ah, so you haven’t heard. That little lieutenant friend of yours has been a pain in my ass ever since I got into office - Internal affairs, upsetting the chain of command...
+135) HARVEY
+[Two Face] Ah, you don’t know. Regrettably, Lieutenant Gordon has made something of a nuisance of himself lately. Lot of poking his nose where it doesn’t belong. Upsetting the chain of command.
+136) HARVEY
+[Two Face] So I’m having him taken care of.
+137) BATMAN
+That’s a huge mistake - Gordon’s a good cop.
+138) BATMAN
+“Upsetting the chain of command...“ Does that mean you’re getting rid of him because he won’t obey you?
+139) HARVEY
+[Two Face] A good cop wouldn’t try to stir up trouble in a city that’s already got enough on its plate.
+140) HARVEY
+[Two Face] That’s the least of it, Batman.
+141) BATMAN
+[Seething] You can’t do that, Dent. It’s abusing your authority.
+142) HARVEY
+[Two Face, snarl] If people would *respect* that authority I wouldn’t have to abuse it.
+143) HARVEY
+[Two Face] In a position like mine you need to be able to look a few moves ahead to identify the flies most likely to land in your ointment.
+146) HARVEY
+[Two Face] In a position like mine you need to be able to look a few moves ahead to identify the flies most likely to land in your ointment.
+144) HARVEY
+[Two Face] Oh don’t look at me like that, Batman.
+145) HARVEY
+[Two Face] In a position like mine you need to look a few moves ahead to identify the flies most likely to land in your ointment.
+147) HARVEY
+[Two Face] Quickly. Quietly.
+148) HARVEY
+[Two Face] You know how dangerous the streets of this city can be.
+149) BATMAN
+[Seething] Call it off, Dent.
+150) HARVEY
+[Two Face] Should be pretty soon, actually.
+151) HARVEY
+[Two Face] How about we flip for it? Heads, I’ll call my boys off... Tails? Well.
+152) HARVEY
+Heads. Whaddya know.
+153) HARVEY
+[Hailing] Helmuth. Mulling. You two there?
+154) HARVEY
+Hm. Guess they’ve already gone radio silent. [Grin, Two-Face] Off-duty cops and all that.
+155) BATMAN
+[Seething] Where are they?
+156) HARVEY
+You know where Crime Alley is, don’t you?
+157) HARVEY
+[Apologetic, Two Face] Sorry. It’s tails.
+158) BATMAN
+[Threatening] Dent--
+159) HARVEY
+[Two Face] Sorry, Batman. Those are the rules. But I’m not completely heartless.
+160) HARVEY
+But I’m a man of my word, Batman, so I’ll tell you this - They’re heading to Crime Alley. If you hurry you might still be able to stop them.
+161) HARVEY
+[Two Face] My boys are bringing the Lieutenant to Crime Alley to do the job. So if you’re fast... you might still be able to catch them.
+163) HARVEY
+[Two Face, grin] See ya later, Batman.
+164) BATMAN
+[Seething] You’ll regret this, Dent.
+165) HARVEY
+[Two Face, cold] I’d hurry up. Not much time.
+167) HARVEY
+[Two Face, sneer] Say hi to Gordon for me.
+168) BATMAN
+[Gritted teeth] This alliance is over.
+170) BATMAN
+[Gritted teeth] You just made a dangerous enemy, Dent.
+171) HARVEY
+[Two Face] I appreciate the warning.
+172) HARVEY
+{body-A}{AngryA}You think that even{body-HandsUp}{BodyAccent}{AngryB}{FaceAccent} comes close to what{AngryC}{FaceAccent} you let happen to my face?!
+173) BATMAN
+{ThinkingA}{body-A}I’m asking you nicely...{AngryB}{FaceAccent} back off.
+199) BATMAN
+{ThinkingA}{body-A}I’m asking you nicely...{AngryB}{FaceAccent} back off.
+174) HARVEY
+[two face][Challenging] {AngryC}{FaceAccent}{body-A}{body-HandsUp}{BodyAccent}Why should I?!
+200) HARVEY
+[two face][Challenging] {AngryC}{FaceAccent}{body-A}{body-HandsUp}{BodyAccent}Why should I?!
+175) BATMAN
+{body-A}{NormalA}Wayne was your friend. {AngryA}{FaceAccent} He put his faith in you, {DisgustA}{FaceAccent}supported your campaign...
+176) HARVEY
+[burst of anger]{AngryC}{body-A}{body-HandsUp}{BodyAccent} He betrayed me!
+177) HARVEY
+He lied to my face while sneaking around behind my back!
+178) HARVEY
+[two face] [Relenting] {body-A}{NormalA}Yeah, Harvey and Bruce were like{AngryA}{FaceAccent} two peas in a pod, eh?
+179) HARVEY
+[twoface]{AngryB}{FaceAccent}{body-HandsUp}{BodyAccent}I’m just trying to give the people what they want, but...{body-A}{BodyAccent} Maybe I could cut him some slack.
+180) BATMAN
+{body-A}{AngryA}I’m telling you {AngryB}{FaceAccent}to back off.
+181) BATMAN
+But it’s not too late to save your reputation.
+182) BATMAN
+You’re clearly unstable, Dent. Running this city like a police state, your enforcers... You’re losing your mind and everyone can see it.
+183) HARVEY
+You want to save me?
+184) BATMAN
+I protect everyone.
+185) HARVEY
+{SadA}{body-A} I guess I do owe you one.
+187) HARVEY
+{body-HandsHips}{AngryA} You’re getting quite{HappyA}{FaceAccent} a reputation around town.
+188) HARVEY
+{body-HandsUp}{BodyAccent} {AngryA}{BodyAccent}You dont just make threats,{AngryC}{BodyAccent} you back them up!
+189) HARVEY
+{body-HandsHips}{AngryA}Heh, or maybe you’re just gonna make threats?
+190) HARVEY
+{body-HandsUp}{SmugA}{FaceAccent}Word’s out that you don’t{AngryA}{FaceAccent} get violent unless you have to.
+191) HARVEY
+[Two Face] And that puts me in a precarious position.
+192) HARVEY
+[Two Face] I’d like to think we’re both working toward the same end.
+194) HARVEY
+Batman!
+195) HARVEY
+[suprised to hear this] {body-A}{SurpriseA}{FaceAccent}Wayne?
+201) HARVEY
+[Two Face] {NormalA}{body-HandsHips}So you want to talk about Bruce Wayne...
+202) 
+Hope in Harvey
+203) STUB
+Harvey has he’ll burn this city if he has to.  Sometimes you have to tear it to the ground to build something better.
+204) HARVEY
+[two face]{body-A} See,{body-HandsUp}{BodyAccent}{SmugA}{FaceAccent}{body-HandsUp}{BodyAccent} here I thought{AngryA}{FaceAccent} you showed up as payback for Gordon.
+205) BATMAN
+{body-A}{ThinkingA}{FaceAccent}What about Gordon?
+206) HARVEY
+[smug] ... you don’t know.
+207) BATMAN
+{AngryB}{FaceAccent}Where’s Gordon?!
+208) HARVEY
+[as Harvey] {SadA}{body-A}{body-HandsUp}{BodyAccent}We can work with him... {ThinkingB}{FaceAccent}I know we can.
+209) HARVEY
+[two face]{AngryB}{FaceAccent} That’s not your call to make, Harvey!
+210) 
+cut - [Punch him]
+211) 
+TELL ME WHERE HE IS!
+407) 
+TELL ME WHERE HE IS!
+212) 
+I should tear you apart.
+408) 
+I should tear you apart.
+411) 
+I should tear you apart.
+213) 
+Gordon’s on Gotham’s side!
+406) 
+Gordon’s on Gotham’s side!
+214) HARVEY
+[as Harvey] [rushed]They’ve taken him to Crime Alley.  There’s still time--
+215) HARVEY
+[two face] Shut up, Harvey!
+216) BATMAN
+[pickup1] {body-A}{NormalA}Dent, I understand that you blame me for what happened to your face,{ThinkingA}{FaceAccent} but that doesn’t have to make us enemies.
+217) HARVEY
+[pickup1] {AngryA{body-A}}No... No {body-HandsUp}{BodyAccent}it’s this damn city against me yet again.
+218) HARVEY
+[pickup1]{body-HandsHips}{BodyAccent}{AngryB}{FaceAccent} I try to cut down on crime, it gives me the Children of Arkham. I try to bring the Waynes to justice and end corruption... it gives me *you*.
+221) HARVEY
+[pickup1]{body-HandsHips}{BodyAccent}{AngryB}{FaceAccent} I try to cut down on crime, it gives me the Children of Arkham. I try to bring the Waynes to justice and end corruption... it gives me *you*.
+219) HARVEY
+[Pickup1]{AngryA}{body-A}{body-HandsHips}{BodyAccent} The problem isn’t you, Batman.{AngryB}{FaceAccent} It’s Gotham.{body-HandsUp}{BodyAccent} It just can’t help itself.
+220) HARVEY
+[pickup1] It’s Gotham. It just can’t help itself.
+222) BATMAN
+[pickup1]{body-A}{ThinkingA} What about the platform you ran under?{AngryA}{body-X}{BodyAccent} “Put a Dent in Crime?“
+223) HARVEY
+[pickup1] {body-A}{BodyAccent}{SadA}{FaceAccent}I barely know what I’m doing anymore...
+224) HARVEY
+[pickup1][frustrated]{body-HandsUp}{BodyAccent} What do I have to do {body-A}to get ahead?
+225) HARVEY
+[pickup1][frustrated]{AngryA} {body-HandsHips}Yeah, a nice pithy slogan.{body-HandsUp}{BodyAccent} It’s really sending the Children of Arkham packing.
+226) BATMAN
+[pickup1]{body-A} You{body-X}{BodyAccent}promised to give Gotham a new face. What happened to that?
+228) BATMAN
+[pickup1]{body-A} You{body-X}{BodyAccent}promised to give Gotham a new face. What happened to that?
+227) HARVEY
+[pickup1][Two face] {body-A}{ConfusedA}“A new face?“{AngryA}{FaceAccent}{body-HandsHips}{BodyAccent} That your idea of a joke, Batman?
+229) HARVEY
+[pickup1] {body-A}{AngryA}So far all of the{body-HandsUp}{BodyAccent} “new faces” have been psychopaths covered in masks.
+230) HARVEY
+[pickup1][Hasty]{body-A}{BodyAccent}{SadA}{FaceAccent} No offense.
+231) BATMAN
+[pickup1] {body-A}{NormalA}Dent, {body-X}{BodyAccent}you{AngryA}{FaceAccent} need to remember the platform you were running under - “We Put Our Hope In Harvey.“ That’s who the people elected.
+232) HARVEY
+[pickup1]{body-A}{ThinkingA} “Hope?“{body-HandsUp}{BodyAccent}{AngryB}{FaceAccent} “Hope?!“ Look where all those hopes went!
+233) BATMAN
+[pickup1]{ThinkingA}{body-A} The{body-X}{BodyAccent} people elected you because they trusted you. Believed in you.{AngryA}{FaceAccent} You have to remember that.
+234) HARVEY
+[pickup1][Frustrated]{body-A}{AngryA} Yeah{body-HandsUp}{BodyAccent}{AngryB}{FaceAccent} well look where that got them.
+235) BATMAN
+[pickup1]{NormalA}{body-A} Dent, {body-X}{BodyAccent}I’m out here trying to protect Gotham {AngryA}{FaceAccent}and I know you’re doing the same.
+236) BATMAN
+[pickup1]{body-A} We’re{body-X}{BodyAccent} both on the same side. {AngryA}{FaceAccent}Gotham’s side.
+237) HARVEY
+{body-A}[pickup1]{SadA} I... I suppose you’re right.{ThinkingA}{FaceAccent} Gotham is what’s important here.
+238) BATMAN
+[pickup1][Getting tough]{body-A}{NormalA} You’re {body-X}the mayor, Dent,{AngryA}{FaceAccent}{body-X} {BodyAccent}and you need to start acting like it.
+239) BATMAN
+[pickup1] If you don’t,{body-A}{BodyAccent}{AngryB} {BodyAccent}you’ll have me waiting to remind you again.
+240) HARVEY
+[pickup1][A beat]{body-A}{AngryA} See{body-HandsUp}{BodyAccent}{AngryB}{FaceAccent} this is why I don’t understand you, Batman.{ThinkingA}{FaceAccent}{body-HandsHips} {BodyAccent}One minute you want to talk reasonably, the next {ConfusedB}{body-HandsUp}you’re right back to threats.
+241) BATMAN
+[pickup1][“Come on.“]{body-A}{BodyAccent}{DisgustA}{FaceAccent} Dent--
+242) HARVEY
+[pickup1]{ConfusedA}{FaceAccent}{body-A} No... {body-HandsUp}No but you’re right. {ThinkingA}{FaceAccent}That’s a good reminder.
+244) HARVEY
+[pickup1]{ConfusedA}{FaceAccent}{body-A} No... {body-HandsUp}No but you’re right. {ThinkingA}{FaceAccent}That’s a good reminder.
+243) BATMAN
+[pickup1] {body-A}{BodyAccent}{ThinkingA}{FaceAccent}Perhaps a poor choice of words.
+245) BATMAN
+[pickup1]{NormalA}{FaceAccent}{body-A}{BodyAccent} None taken.
+246) HARVEY
+[pickup1] {ThinkingA}{body-HandsUp}{BodyAccent}You’re right though.... {body-HandsHips}{BodyAccent}That’s a good reminder.
+247) HARVEY
+[pickup1] {body-A}{AngryA}A dark, brooding protector... {body-HandsHips}{BodyAccent}Are you really what Gotham needs?
+248) HARVEY
+[pickup1]{body-HandsHips}{ThinkingA} I’m finally starting to understand... {body-A}{SadA}to see just how sick Gotham really is.
+249) HARVEY
+[pickup1]{body-A}{ThinkingA} A fever burns out the flu to save the body...
+250) HARVEY
+[pickup1]{body-HandsHips}{AngryA} To save Gotham I{body-HandsUp}{BodyAccent}{AngryB}{FaceAccent} need to do some bad before it gets better.
+251) HARVEY
+{body-HandsHips}{ThinkingA}What do I do about *you?*
+252) BATMAN
+[pickup1] {AngryA}{body-A}You’re better than this, Dent!{AngryB}{FaceAccent} The city needs you, {DisgustA}{FaceAccent}but not like that.
+253) HARVEY
+[pickup1][true harvey] {body-A}{SadA}See, that’s why you’re the hero this city needs--
+259) HARVEY
+[pickup1][true harvey] {body-A}{SadA}See, that’s why you’re the hero this city needs--
+254) HARVEY
+[pickup1][Two Face] {SmugA}{FaceAccent}But *I’m* what they’re going to get.
+260) HARVEY
+[pickup1][Two Face] {SmugA}{FaceAccent}But *I’m* what they’re going to get.
+255) BATMAN
+[pickup1] {body-A}{AngryB}Dent, doing that will only destroy the city even further.
+256) BATMAN
+[pickup1][Warning] {DisgustA}{FaceAccent}Don’t leave it as scarred as you.
+257) HARVEY
+[pickup1][Two Face]{body-A} {AngryB}I’ll burn Gotham to the ground if I have to!{SmugA}{FaceAccent}{body-HandsUp}{BodyAccent} And then I’ll rebuild it from the ashes.
+258) BATMAN
+[pickup1]{body-A} {AngryA}Dent, doing that will only tear Gotham apart. {DisgustA}{FaceAccent}I saved you to give you a chance{NormalA}{FaceAccent} to save the city!
+261) BATMAN
+[pickup1][Threatening] {AngryA}You won’t get the chance to do that, Dent.{AngryB}{FaceAccent} Because I’ll be there to stop you.
+262) HARVEY
+[pickup1][Two Face]{AngryA}{body-HandsHips} Oh will you now?
+263) HARVEY
+[pickup1][Two Face]{body-A}{SmugA} Nothin’, huh?
+264) HARVEY
+[pickup1][Two Face]{SarcasticA}{FaceAccent} You know what they say about making omelettes, Batman.
+265) HARVEY
+[pickup1]{SmugA} Oh, you’re so full of big scary talk...
+401) HARVEY
+[pickup1]{SmugA} Oh, you’re so full of big scary talk...
+266) HARVEY
+[pickup1]{SmugB} {FaceAccent}If you wanna save the city, this is how you have to do it.
+405) HARVEY
+[pickup1]{SmugB} {FaceAccent}If you wanna save the city, this is how you have to do it.
+267) BATMAN
+[pickup1][Threatening] {AngryC}{body-A}TELL ME WHERE HE IS, NOW!
+275) BATMAN
+[pickup1][Threatening] {AngryC}{body-A}TELL ME WHERE HE IS, NOW!
+397) BATMAN
+[pickup1][Threatening] {AngryC}{body-A}TELL ME WHERE HE IS, NOW!
+268) HARVEY
+[pickup1][chuckling]{HappyA}{body-A} You’re too late Batman. {SarcasticB}{FaceAccent}By now he’s just another corpse in Crime Alley.
+276) HARVEY
+[pickup1][chuckling]{HappyA}{body-A} You’re too late Batman. {SarcasticB}{FaceAccent}By now he’s just another corpse in Crime Alley.
+277) HARVEY
+[pickup1][chuckling]{HappyA}{body-A} You’re too late Batman. {SarcasticB}{FaceAccent}By now he’s just another corpse in Crime Alley.
+400) HARVEY
+[pickup1][chuckling]{HappyA}{body-A} You’re too late Batman. {SarcasticB}{FaceAccent}By now he’s just another corpse in Crime Alley.
+404) HARVEY
+[pickup1][chuckling]{HappyA}{body-A} You’re too late Batman. {SarcasticB}{FaceAccent}By now he’s just another corpse in Crime Alley.
+269) BATMAN
+[pickup1][Getting stern]{body-A} {AngryA}Harvey, do the right thing here. {AngryB}{FaceAccent}Tell me where he is.
+270) HARVEY
+[pickup1][true harvey, rushed]{ThinkingA} I... {SadA}{FaceAccent}Crime Alley. They took him to Crime Alley--
+273) HARVEY
+[pickup1][true harvey, rushed]{ThinkingA} I... {SadA}{FaceAccent}Crime Alley. They took him to Crime Alley--
+402) HARVEY
+[pickup1][true harvey, rushed]{ThinkingA} I... {SadA}{FaceAccent}Crime Alley. They took him to Crime Alley--
+432) HARVEY
+[pickup1][true harvey, rushed]{ThinkingA} I... {SadA}{FaceAccent}Crime Alley. They took him to Crime Alley--
+433) HARVEY
+[pickup1][true harvey, rushed]{ThinkingA} I... {SadA}{FaceAccent}Crime Alley. They took him to Crime Alley--
+434) HARVEY
+[pickup1][true harvey, rushed]{ThinkingA} I... {SadA}{FaceAccent}Crime Alley. They took him to Crime Alley--
+437) HARVEY
+[pickup1][true harvey, rushed]{ThinkingA} I... {SadA}{FaceAccent}Crime Alley. They took him to Crime Alley--
+271) HARVEY
+[pickup1][Two face, pissed]{AngryC}{FaceAccent} Dammit Harvey, shut up!
+274) HARVEY
+[pickup1][Two face, pissed]{AngryC}{FaceAccent} Dammit Harvey, shut up!
+272) BATMAN
+[pickup1][frustrated]{body-A} {AngryA}Gordon’s on our side,{AngryB}{FaceAccent} Harvey! He’s fighting for Gotham too!
+403) BATMAN
+[pickup1][frustrated]{body-A} {AngryA}Gordon’s on our side,{AngryB}{FaceAccent} Harvey! He’s fighting for Gotham too!
+278) HARVEY
+[pickup1][considering]{body-A}{AngryB}{body-HandsUp}{BodyAccent} “Back off of Wayne,“ huh?
+279) HARVEY
+[pickup1]{body-A}{AngryA}{FaceAccent} Heh! Let’s take a ride, gentlemen.
+280) 
+That’s a dangerous road.
+281) 
+You’re wrong.
+282) 
+You need to step down.
+283) BATMAN
+[pickup1]{AngryA} {body-A}You’re not well, Harvey.{DisgustA}{FaceAccent} You need to step down.
+284) HARVEY
+[pickup1] {AngryA}{body-A}On the contrary, Batman... {body-HandsHips}{BodyAccent}{SmugA}{FaceAccent}I’m starting to realize I need to step UP.
+285) BATMAN
+[pickup1][Warning] {body-A}{AngryB}Careful, Dent.{DisgustA}{FaceAccent} That’s a dangerous road to start down.
+286) HARVEY
+[pickup1] {AngryA}{body-A}Don’t worry.{body-HandsHips}{BodyAccent}{SmugA}{FaceAccent}I know what I’m doing.
+287) BATMAN
+[pickup1][Threatening]{AngryB}{body-A} You’re wrong. {DisgustA}{FaceAccent}{body-A}{BodyAccent}More bad is never the answer.
+288) HARVEY
+[pickup1] {AngryB}{FaceAccent}No?
+289) HARVEY
+[pickup1] {ConfusedA}{body-A}What? {body-HandsHips}{BodyAccent}{ThinkingA}{FaceAccent}You know what I’m talking about.
+290) HARVEY
+[pickup1]{body-A}{ThinkingA} I need to get firmer.{body-HandsUp}{BodyAccent}{AngryA}{FaceAccent} Get a tighter grip on the city.
+291) HARVEY
+[pickup1][Two face]{AngryA} {FaceAccent}{body-HandsUp}{BodyAccent}Squeeze out the crime and corruption the hard way.
+293) 
+Your campaign made promises.
+294) 
+We both want what’s best for Gotham.
+295) 
+You’re the mayor- Act like it!
+296) 
+I won’t let you.
+297) 
+You’re better than this!
+298) 
+You’ll destroy the city!
+299) GOON01
+[From walkie] Ready to go.
+300) HARVEY
+[looking forward to something] Speaking of which...
+330) HARVEY
+[Meek Harvey, has been dreading this moment.] Speaking of which...
+301) HARVEY
+[Cold] I destroyed Lady Arkham’s drugs.
+302) BATMAN
+[Accusatory] What the hell was that?
+370) BATMAN
+[Accusatory] What the hell was that?
+303) HARVEY
+I feel like I should thank you, seeing as you did give Gordon that tip.
+304) 
+You’ve crossed the line.
+305) 
+That tip was for Gordon, not you!
+306) 
+There were other ways!
+307) HARVEY
+[Chuckle] I was just telling someone how much I’d love to get you on my payroll...
+308) HARVEY
+[sneer] Funny. Would’ve thought that this Wayne situation would be a little... beneath you, Batman.
+309) HARVEY
+After everything Bruce has done, why should I do anything for him?
+310) HARVEY
+I’ll admit I’m surprised to see you helping Wayne. Seems kind of... small potatoes for you.
+311) HARVEY
+Maybe you haven’t seen the news but he hasn’t been the most upright citizen lately. Why should I do anything to help him?
+312) BATMAN
+[Threatening] Because I’m the one who’s telling you to.
+313) BATMAN
+You think I’m someone who makes idle threats?
+314) HARVEY
+[irritated] No. I suppose you’re not.
+315) HARVEY
+Wayne is just another curveball this stupid city threw my way.
+316) HARVEY
+Hill and his goons, the Waynes, the Children of Arkham,[ you... -trim]
+317) 
+You’ve lost your way.
+368) BATMAN
+You’ve lost your way.
+318) 
+Make allies instead of enemies.
+319) 
+Just back off of Wayne.
+320) HARVEY
+[Exasperated, annoyed]When is it going to stop?
+321) BATMAN
+We’re on the same side here, Dent. You don’t need to count me among your enemies.
+322) HARVEY
+[Sneer] I am fighting for Gotham, Batman. I just finally realized that you don’t have any followthrough.
+323) HARVEY
+I am fighting for Gotham, Batman! It’s just... it’s Gotham trying to pit us against each other.
+324) BATMAN
+That list of enemies is only going to get longer if you keep doing this.
+325) BATMAN
+You need to start crafting alliances instead.
+326) BATMAN
+Call off this pathetic crusade of yours and you can cross me and Wayne off your list.
+327) HARVEY
+[Two face] And in a city like this I can’t have any doubts.
+328) HARVEY
+[scoff] Says the only man with more enemies in this city than me.
+329) HARVEY
+I’m trying, Batman. Like with you. Our alliance. But this crazy city is making it very, very difficult.
+331) HARVEY
+That... that was me getting rid of Lady Arkham’s drugs.
+332) HARVEY
+You’re really focusing on Wayne? While Lady Arkham and her terrorists are plotting the entire city’s destruction?
+333) HARVEY
+Batman, I really want us to be able to work together but if you’re going to let something like this, this Wayne incident, stand in the way of our alliance...
+334) HARVEY
+Well I guess I should’ve expected it in this city.
+335) HARVEY
+Why can’t anything in this crazy city just be... simple.
+336) HARVEY
+To get rid of Lady Arkham’s drugs.
+337) HARVEY
+[Meek Harv] I, I had heard that you were the one who supplied the location. Right?
+423) HARVEY
+[Meek Harv] I, I had heard that you were the one who supplied the location. Right?
+338) BATMAN
+You’ve crossed the line, Dent. Think of all the innocent lives you just destroyed!
+339) HARVEY
+[Two Face] Seems like a pretty small price to pay for stopping Lady Arkham’s plans once and for all.
+346) HARVEY
+[Two Face] Seems like a pretty small price to pay for stopping Lady Arkham’s plans once and for all.
+340) HARVEY
+I... Oh god. I know, I know, but how else was I going to stop her? I had to! Don’t you understand? Dammit I had to!
+341) BATMAN
+I gave that information to *Gordon*, not you.
+342) HARVEY
+[Two face] Chain of command, Batman. Anything Gordon has, belongs to me.
+343) HARVEY
+I know, I know, but Grogan said he heard about it, and it seemed like a good opportunity!
+345) HARVEY
+I know, I know, but Grogan said he heard about it, and it seemed like a good opportunity!
+344) BATMAN
+You got rid of Lady Arkham’s drugs by blowing up a city block?! There were other ways, Dent!
+347) HARVEY
+[Two face] It’s what I had to do, Batman.
+348) HARVEY
+It... It wasn’t an easy decision to make.
+349) BATMAN
+[Angry] When the police find out what you’ve done--
+350) HARVEY
+“Find out--?“ Batman. I don’t know if you’ve noticed, but *I’m* running things now.
+351) HARVEY
+[Two face] This is how we’re achieving
+352) HARVEY
+[sneer] The police? The smart ones already answer to me. Otherwise...
+353) HARVEY
+Like Gordon - He really wasn’t happy when I went over his head to get the location of the drug stockpile... But I had him taken care of.
+354) HARVEY
+[challenging] Getting what’s coming to him.
+355) HARVEY
+[Meek Harv] Now hang on, Batman, hang on. [Trim - ( MDarin )If it really means that much to you, I’ll tell you where he is!]
+356) BATMAN
+[Growl] I should tear you apart right here.
+399) BATMAN
+[Growl] I should tear you apart right here.
+415) BATMAN
+[Growl] I should tear you apart right here.
+357) HARVEY
+[Relishing this] You could, but that wouldn’t bring him back. By now he’s already another corpse in Crime Alley.
+398) HARVEY
+[Relishing this] You could, but that wouldn’t bring him back. By now he’s already another corpse in Crime Alley.
+358) HARVEY
+You’re welcome to
+359) HARVEY
+Batman- Batman please! If it’s really that important to you, I sent him to Crime Alley! If you hurry--
+360) HARVEY
+[muttering to self] It was the right thing to do. Yeah, of course. Of course it was the right thing to do.
+361) BATMAN
+[Conversational threat] Be so easy to slip and fall.
+363) BATMAN
+Bit of a strange place to hang out, isn’t it Dent?
+364) BATMAN
+You’ve gone too far. Leave Wayne alone.
+365) BATMAN
+You’re losing your mind and everyone can see it, Dent.
+366) BATMAN
+Running this city like a police state, your enforcers shaking down innocent civillians to find the Children of Arkham.
+367) BATMAN
+What happened, Dent? We used to be on the same side. Both fighting for Gotham.
+369) HARVEY
+[sneer] That’s what you should be worried about.
+371) ALFRED
+[Comm] Bruce! Bruce! I’m seeing reports of a massive explosion - It looks like it was Vale Heating & Oil! The estimated casualities-- my god... so many people--!
+372) BATMAN
+[Accusatory] Do you know how many innocent lives you just destroyed?!
+373) BATMAN
+[Accusatory] What did you do?!
+374) BATMAN
+But the casualties--!
+376) BATMAN
+But the casualties--!
+375) HARVEY
+[Two face, Cutting Batman off] --were a small price to pay.
+377) HARVEY
+[Meek Harv] I did what I had to do! I had to make the choice about what sacrifices to make!
+378) 
+You’re worse than the Children of Arkham.
+379) 
+Innocent people died!
+380) BATMAN
+Doing this... You’re no better than the Children of Arkham. You’re worse.
+381) HARVEY
+No. I’m saving Gotham.
+382) BATMAN
+I doubt the police would see it that way.
+385) BATMAN
+I doubt the police would see it that way.
+383) BATMAN
+I don’t care what your end goal was; even one innocent life is too high a cost.
+384) HARVEY
+[Sneer] Then you’re thinking too small.
+386) BATMAN
+[Seething] Turn yourself in now - The police will never let you get away with this.
+387) HARVEY
+[Sneer] Oh don’t you give me that look - You’re just as bad as the cowards at the GCPD.
+388) HARVEY
+Oh please. The police answer to ME now.
+389) HARVEY
+Oh please. The police answer to ME now.
+390) HARVEY
+Oh please. The police answer to ME now.
+391) HARVEY
+It’s just like I tried to explain to the police...
+392) HARVEY
+Well I think Gordon is already a perfect example of what happens to the not-so-smart ones.
+393) HARVEY
+There has been some conflict with the police, that’s true...
+394) BATMAN
+What did you say about Gordon?
+395) BATMAN
+Where is he?!
+396) HARVEY
+[Meek Harv] I... I had him sent to Crime Alley.
+409) 
+Gordon’s on our side, Harvey!
+410) 
+Gordon’s death helps no one.
+412) HARVEY
+[Meek Harv] I had to make an example of him.
+413) HARVEY
+[Meek Harv] To get people to respect me.
+416) HARVEY
+Batman. I’m sorry, it’s like I told you--
+419) HARVEY
+Batman. I’m sorry, it’s like I told you--
+420) HARVEY
+Batman. I’m sorry, it’s like I told you--
+436) HARVEY
+Batman. I’m sorry, it’s like I told you--
+417) BATMAN
+[pickup1][frustrated]{body-A} {AngryA}Gordon is on Gotham’s side,{AngryB}{FaceAccent} Harvey! He’s fighting for this city too!
+418) BATMAN
+[pickup1][frustrated]{body-A} {AngryA}Gordon is on Gotham’s side,{AngryB}{FaceAccent} Harvey! He’s fighting for this city too!
+421) HARVEY
+And here I thought we could work together...
+422) HARVEY
+[Smirk] Good of you to give Gordon that tip on the location.
+424) 
+You just killed innocent people!
+425) 
+Gordon would never work with you.
+426) 
+That information wasn’t yours.
+427) BATMAN
+But the innocent people--!
+428) BATMAN
+But the innocent people--!
+429) HARVEY
+Bet he wishes he had just handed over the location of the drug stockpile when I asked.
+430) HARVEY
+[Meek Harv] I owe you that much at least!
+431) 
+You won’t get away with it!
+435) BATMAN
+Gordon’s death does no one any good.  Nothing will improve by increasing Gotham’s body count.
+438) ENFORCER01
+[OS] [walkie talkie] Ready to go.
+439) HARVEY
+Do it.
+440) BRUCE
+[in shock]What the hell did you do?
+441) HARVEY
+[into walkie]Are Lady Arkham’s drugs destroyed?
+442) ENFORCER01
+[walkie talkie][horrified]Aw man, but ...that blast was way bigger than you said. We must have taken out a whole city block with it.
+443) ENFORCER01
+[walkie talkie]We lost a bunch of our own guys, the apartment next door--! Jesus Christ!
+444) HARVEY
+We stopped the Children of Arkham, that’s all that matters.
+445) HARVEY
+That’s what a leader does.
+446) HARVEY
+[Meek Harv] Now hang on, Batman, hang on.
+447) HARVEY
+[two face]Don’t screw this up, Harvey!

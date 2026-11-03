@@ -1,0 +1,2542 @@
+﻿1) BATMAN
+I’m in this scene!
+2) NEIGHBOR
+I’m in this scene!
+3) NEIGHBOR
+I’m in this scene!
+4) BATMAN
+I’m in this scene!
+519) BATMAN
+I’m in this scene!
+5) 
+Something’s here.
+6) 
+Alfred’s in danger.
+7) 
+I’m going in.
+160) BATMAN
+I’m going in.
+8) 
+Examine
+11) 
+Examine
+370) 
+Examine.
+374) 
+Examine.
+549) 
+Examine.
+552) 
+Examine.
+561) 
+Examine.
+1185) 
+Examine.
+9) 
+Cut
+10) 
+Break
+12) 
+Open
+19) 
+Open
+24) 
+Open
+30) 
+Open
+35) 
+Open
+13) 
+Kick
+586) 
+Kick.
+14) 
+Look at
+15) 
+Look at
+16) 
+Look at
+17) 
+Look at
+18) 
+Look at
+20) 
+Look at
+21) 
+Look at
+22) 
+Look at
+23) 
+Look at
+25) 
+Look at
+26) 
+Look at
+27) 
+Look at
+28) 
+Look at
+29) 
+Look at
+31) 
+Look at
+54) 
+Look At
+373) 
+Look at
+524) 
+Look At
+555) 
+Look At.
+563) 
+Look At
+564) 
+Look At
+590) 
+Look At
+1067) 
+Look At.
+1098) 
+Look At
+1258) 
+Look At.
+32) 
+Take
+33) 
+Enter
+559) 
+Enter.
+34) 
+Wipe
+36) 
+Vengeful response
+37) 
+[interrogate goon]
+38) 
+[
+39) 
+[punch goon]
+42) 
+[analyze blood stains]
+43) 
+[inspect chair]
+44) 
+[connect]
+45) 
+[inspect trophy case]
+46) 
+[Look At Trophy Shelf]
+47) 
+[inspect teddy bear]
+48) 
+[Look At Washing Machine]
+49) 
+[Move Washing Machine]
+50) 
+[Inspect Hatch]
+51) 
+[Inspect Padlock]
+52) 
+[Open Hatch]
+53) 
+[Enter Oubliette]
+55) 
+[Look At Wall]
+56) 
+[connect]
+57) 
+[connect]
+58) 
+[analyze foot print]
+59) 
+[Lift Rug]
+60) 
+[inspect]
+61) 
+[connect]
+69) COA01
+[getting punched]
+70) 
+
+78) 
+
+105) COA02
+[getting punched]
+107) 
+
+185) 
+
+186) 
+
+191) BATMAN
+[mumur]
+193) 
+
+194) 
+
+205) 
+
+214) BATMAN
+[frustrated]
+219) 
+
+220) 
+
+221) 
+
+234) LUCIUS
+[draws a sharp breath]
+241) 
+
+246) 
+[inspect blood stains]
+251) 
+[analyze blood]
+252) 
+[connect]
+253) 
+[Analyze Drag Marks]
+254) 
+[pick up]
+255) 
+[connect]
+256) 
+[Look At Dust]
+257) 
+[connect]
+258) 
+[look at]
+271) 
+
+290) 
+
+294) 
+[open door]
+295) 
+[Look at broken trophy]
+297) 
+[pick up broken trophy]
+302) 
+[connect]
+303) 
+[connect]
+309) 
+[Look At Carpet Corner]
+331) 
+[look at big shard]
+334) 
+[Turn On]
+338) 
+[Analyze Blood]
+339) 
+[Analyze Blood]
+341) 
+[Analyze Blood Stains]
+342) 
+[Examine Blood Stains]
+346) 
+[Analyze Boot Print]
+347) 
+[Examine Boot Print]
+348) 
+[Analyze Blood]
+349) 
+[Analyze Drag Marks]
+350) 
+[Examine Drag Marks]
+353) 
+[Analyze Boot Print]
+354) 
+[Examine Boot Print]
+357) 
+[Look At]
+358) 
+[Take Doll]
+376) 
+[Connect]
+377) 
+[Examine Pastel]
+378) 
+[Analyze Pastel]
+384) 
+[Look At]
+385) 
+[Analyze Finger Print]
+386) 
+[Look At Finger Print]
+387) 
+[Analyze Finger Print]
+388) 
+[Examine Finger Print]
+390) 
+[Connect]
+404) 
+[Examine Blood]
+419) 
+
+545) 
+[Look At]
+547) 
+[Look At]
+548) 
+[Look At]
+553) 
+[Push]
+554) 
+[Punch]
+565) 
+[connect]
+583) 
+[Push]
+584) 
+[Punch]
+615) BATMAN
+[alt]
+792) LUCIUS
+[
+841) 
+
+870) 
+
+873) 
+
+874) 
+
+875) 
+
+876) 
+
+877) 
+
+878) 
+
+879) 
+
+880) 
+
+881) 
+
+882) 
+
+883) 
+
+884) 
+
+885) 
+
+886) 
+
+1044) LUCIUS
+[V.O.]
+1069) 
+
+1096) 
+
+1097) 
+
+1110) BATMAN
+[PKUP]
+1111) BATMAN
+[PKUP]
+1119) LUCIUS
+[ALT][
+1190) 
+[connect]
+1192) 
+
+40) 
+Tell me. Now.
+41) 
+If you’ve hurt him...
+62) BATMAN
+[to comm]Lucius?
+63) LUCIUS
+Right here.
+64) BATMAN
+What do you see?
+674) LUCIUS
+What do you see?
+896) LUCIUS
+What do you see?
+65) LUCIUS
+There are two Children of Arkham in there.
+66) BATMAN
+Easy enough.
+67) LUCIUS
+That’s the good news.
+68) LUCIUS
+I think they’re arming a bomb.
+71) COA02
+[surpised]What--?
+319) LUCIUS
+What?
+683) LUCIUS
+[V.O.]What?!?
+703) LUCIUS
+[V.O. Alamred]What?
+72) COA02
+[sneering]Too late this time, Batman.
+73) COA02
+This whole place is wired to blow.
+74) BATMAN
+Gordon?
+75) BATMAN
+[to Lucius]Make him aware of the bomb.
+76) COA02
+She figure’d you show up.
+77) COA02
+But too late.
+79) GORDON
+I’m here, Batman.
+80) BATMAN
+Get your men over to the Vale house. And be careful, there’s a rigged bomb.
+81) GORDON
+A rigged *bomb*?--
+82) BATMAN
+[scary bat]Tell me where he is. Now.
+83) COA02
+Remenants of a good time.
+196) COA02
+Remenants of a good time.
+84) BATMAN
+[menacing]I swear, if you’ve hurt him...
+85) BATMAN
+What? You gonna call the cops on me?
+86) COA02
+What? You gonna tie my wrists a little tighter?
+197) COA02
+What? You gonna tie my wrists a little tighter?
+87) COA02
+All sound and no fury.
+88) COA02
+If you can find anything at all.
+89) COA02
+With what’s left.
+90) GORDON
+--man! Damnit, I don’t have time for--[this.]
+91) BATMAN
+They were holding him in the basement. I’m headed down.
+92) GORDON
+If that place is really wired to blow, touching anything might trip it.
+93) GORDON
+It’s going to take awhile but I’ll get you backup.
+94) GORDON
+You go down there and you risk blowing the whole neighbor to pieces.
+95) GORDON
+Wait for backup. It’ll be out as soon as I can get it.
+96) BATMAN
+I have to go, Jim.
+97) GORDON
+I can’t get them there faster! Gotham’s total chaos and the GCPD is dealing with too much. Backup is going to take time.
+98) BATMAN
+[somber]Too much time.
+99) GORDON
+Batman--!
+605) LUCIUS
+[alt, V.O.]Batman!
+100) BATMAN
+Alfred’s gone.
+101) LUCIUS
+[noisy exhale]He’s a smart guy. If he could have left something for you to find...
+102) BATMAN
+He would have.
+103) LUCIUS
+[sad]If he’s alive.
+104) BATMAN
+Vicki wants Bruce Wayne. Until she gets him Alfred is her only bargaining chip. He’s alive. I’m going to look around.
+106) BATMAN
+Blood. Not dried completely.
+108) BATMAN
+A-negative, Alfred’s blood type. And it’s less than an hour old.
+109) LUCIUS
+They haven’t got much of a head-start, then.
+110) BATMAN
+Bootprints.
+111) BATMAN
+[ALT]A-negative, Alfred’s blood type. Based on temperature and coagulation, it was spilled less than an hour ago.
+112) LUCIUS
+Lucky for us they assumed there would be a big boom to do all the sterilizing.
+113) BATMAN
+The weight distrubtion here suggests that the person was leaning toward that chair.
+114) BATMAN
+Considering the blood...
+115) BATMAN
+[low rage]They beat him.
+116) BATMAN
+And Vicki stood there and watched it happen.
+117) BATMAN
+All of this furniture is old.
+118) LUCIUS
+The whole house is a shambles.
+119) BATMAN
+No... old, used.
+120) LUCIUS
+And that helps us with Alfred, how?
+121) BATMAN
+The chair. It has blood stains on it.
+122) BATMAN
+The wear patterns, the broken springs. The Vales spent time here.
+124) BATMAN
+The wear patterns, the broken springs. The Vales spent time here.
+123) LUCIUS
+In the basement? What odd people.
+125) LUCIUS
+In the basement? What odd people.
+129) LUCIUS
+In the basement? What odd people.
+126) BATMAN
+The wear patterns, the broken springs. The Vales must have spent a lot of time down here.
+127) BATMAN
+This was their family room.
+128) BATMAN
+This was their family room.
+130) BATMAN
+This is where they hung their accomplishments.
+131) BATMAN
+Photos of the Vales.
+132) BATMAN
+The only ones that have Vicki in them are professionally taken.
+133) LUCIUS
+Is that strange?
+134) BATMAN
+When there’s a wall of casual shots? Yes.
+135) BATMAN
+All of these pictures are so... formal. Vicki’s not smiling in any of them.
+136) LUCIUS
+Not to break it to you, Batman, but your family pictures were too. Portraits--
+137) BATMAN
+Portraits. Not candid photos.
+138) BATMAN
+[alt]They’re all of awards, of ceremonies. No candid, happy moments.
+139) BATMAN
+If this is where they hung their accomplishments, they must have spent a lot of time down here.
+140) BATMAN
+The dust here on the floor...
+141) BATMAN
+They dragged Alfred out of the chair.
+142) LUCIUS
+Where does it go?
+143) BATMAN
+Just under the stairs, but there’s no indication of where they dropped him.
+144) BATMAN
+The washing machine wasn’t sitting here before.
+145) LUCIUS
+How could you know that?
+146) BATMAN
+Because it was in the image we saw from the video.
+147) BATMAN
+It was back there.
+148) BATMAN
+[low and stormy]Lucius. There’s a hatch in the floor.
+149) LUCIUS
+[tight-throated]You don’t think... you said that he’s a bargaining chip.
+150) BATMAN
+An oubliette.
+151) LUCIUS
+A what?
+152) BATMAN
+A place you put people to forget about them.
+153) LUCIUS
+In the basement of a house in the suburbs?
+154) BATMAN
+The Vales weren’t what they seemed.
+888) 
+The Vales weren’t what they seemed.
+901) BATMAN
+The Vales weren’t what they seemed.
+155) BATMAN
+They left it unlocked...
+156) BATMAN
+They must have used it to lock Alfred down there.
+157) BATMAN
+Vicki knew the oubliette existed. The lock was brought with them.
+158) LUCIUS
+They locked Alfred down there?
+159) BATMAN
+Yes.
+990) BATMAN
+[grim] {DisgustA}Yes.
+161) LUCIUS
+[V.O.]Be careful.
+599) LUCIUS
+[V.O.]Be careful.
+869) LUCIUS
+[V.O.]Be careful.
+162) BATMAN
+She knew the hole was here because she’s been in it.
+163) BATMAN
+{ThinkingA}There are drawings...
+164) BATMAN
+[ALT] {SurpriseA}Vicki did them as a child {DisgustA}while she was kept prisoner down here.
+165) LUCIUS
+[awed, unnerved]There are so many.
+166) BATMAN
+The Vales put here down here. It was her punishment for misbehaving.
+167) LUCIUS
+[A shocked breath. His voice shakes when he speaks.]She was just a child!
+168) BATMAN
+It’s a wonder that she can even function on a normal level, as Vicki Vale, at all.
+169) BATMAN
+A stub of pastel left.
+379) BATMAN
+A stub of pastel left.
+170) LUCIUS
+Traces of Alfred’s DNA.
+171) BATMAN
+He managed to leave a message.
+172) BATMAN
+I know he’s drawn something here, something for me to find.
+173) BATMAN
+But what? [frustrated]They all look the same!
+174) LUCIUS
+He must have meant it to blend in so that Vicki wouldn’t know.
+175) LUCIUS
+There has to be a way to understand.
+176) BATMAN
+The color.
+177) BATMAN
+Arkham Asylum wasn’t just a symbol of their movement.
+178) LUCIUS
+What are you taking about?
+179) BATMAN
+Lady Arkham. Vicki didn’t take the name because she was their leader. She believed that she was connected to the place.
+180) BATMAN
+She’s going to lure Bruce Wayne there.
+181) LUCIUS
+But--the belltower burnt down decades ago. Still hasn’t been repaired.
+380) LUCIUS
+But--the belltower burnt down decades ago. Still hasn’t been repaired.
+182) LUCIUS
+No one cared enough.
+383) LUCIUS
+No one cared enough.
+183) BATMAN
+The belltower at Arkham Asylum. Alfred’s telling me that’s where they’re taking him.
+382) BATMAN
+The belltower at Arkham Asylum. Alfred’s telling me that’s where they’re taking him.
+184) BATMAN
+Someone does now.
+381) BATMAN
+Someone does now.
+187) LUCIUS
+[nervous]Use the sonar scopes.
+188) LUCIUS
+[OS]Good for going in fast.
+189) LUCIUS
+[nervous]Use the thermal scopes.
+190) LUCIUS
+[OS]It’ll be great for sneaking up on people.
+192) BATMAN
+[low, angry]Alfred’s not here.
+673) BATMAN
+Alfred’s not here...
+982) BATMAN
+{AngryA}Alfred’s not here.
+195) COA02
+The bat can’t keep away.
+198) COA02
+Lady’s long gone.
+199) BATMAN
+She was right. Where’s Pennyworth?
+200) COA02
+[smarmy]Don’t know who you’re talking about.
+201) 
+I don’t think so.
+202) 
+I hope you’re wrong.
+203) 
+Be quiet.
+204) BATMAN
+The house... there’s nothing left.
+206) 
+Don’t placate me.
+207) 
+Nothing about this is objective.
+208) 
+You’re right.
+980) LUCIUS
+[V.O.]You’re right.
+209) BATMAN
+I’m not a child, Lucius. Don’t treat me like one.
+210) BATMAN
+[growling snap]This is Alfred! The man raised me. Nothing about this is objective.
+211) BATMAN
+[breathing out]... I know. You’re right.
+212) LUCIUS
+Emotion makes thing messy.
+213) LUCIUS
+You’re the detective.
+215) BATMAN
+[scary bat]If I find Alfred hurt... [beat]or worse...
+335) BATMAN
+[scary bat]If I find Alfred hurt... [beat]or worse...
+216) LUCIUS
+[voice of reason]Just calm down.
+336) LUCIUS
+[voice of reason]Just calm down.
+217) LUCIUS
+You have to stay objective.
+337) LUCIUS
+You have to stay objective.
+218) LUCIUS
+You might miss something.
+222) LUCIUS
+But that--it’s the right place. It has to be.
+223) LUCIUS
+I’m sure you can find something.
+262) LUCIUS
+I’m sure you can find something.
+224) LUCIUS
+Maybe they can pick up something new.
+225) BATMAN
+[low]Empty.
+226) LUCIUS
+[sad]We were too late.
+227) BATMAN
+Brick is a poor conductor of sound.
+228) LUCIUS
+Not hollow, then.
+229) BATMAN
+The building is still wired for power.
+230) LUCIUS
+The fire damage must have been confined to the interior.
+231) LUCIUS
+See if you can turn anything else on.
+232) LUCIUS
+Careful!
+233) LUCIUS
+Careful!
+235) BATMAN
+Alfred.
+591) BATMAN
+Alfred...
+707) LUCIUS
+[V.O.]Alfred?
+1061) LUCIUS
+[V.O.]Alfred...?
+1075) BATMAN
+Alfred...
+236) BATMAN
+We don’t know that. Just because we can’t see him doesn’t mean he’s not here.
+237) LUCIUS
+I don’t want to think about that.
+238) BATMAN
+I have to.
+239) BATMAN
+I’m going to look around. I need to know what happened to him.
+240) LUCIUS
+On it.
+242) BATMAN
+Which means the worst.
+243) BATMAN
+It looks empty.
+244) LUCIUS
+Could be a trap.
+245) BATMAN
+This is it, Lucius. Alfred was sitting here during the recording.
+247) BATMAN
+Some blood here.
+248) BATMAN
+It’s still tacky.
+340) BATMAN
+It’s still tacky.
+249) BATMAN
+[dark]Blood.
+402) BATMAN
+[dark]Blood.
+250) BATMAN
+The pattern of the blood here matches the punch that we saw.
+259) BATMAN
+Forward me the video feed.
+260) BATMAN
+Then help get me down there, Lucius. [scary]Now.
+261) BATMAN
+[scary]Now.
+263) LUCIUS
+Is Alfred...?
+264) 
+Alfred isn’t here.
+618) BATMAN
+{AngryA}Alfred isn’t here.
+265) 
+Something’s not right.
+266) 
+They wouldn’t kill him.
+267) BATMAN
+[low]If Lady Arkham was here before, she’s not anymore.
+268) BATMAN
+No sign of Alfred.
+398) BATMAN
+No sign of Alfred.
+269) LUCIUS
+Okay. That’s not necessarily a bad thing.
+270) BATMAN
+This isn’t right. This isn’t the room where the video was taken.
+272) BATMAN
+This house doesn’t have a basement.
+273) BATMAN
+This is wrong.
+274) BATMAN
+This is wrong. They should be here.
+275) LUCIUS
+They might have just filmed and moved on.
+276) BATMAN
+They’re not going to kill him. Alfred is Vicki’s bargaining chip.
+277) BATMAN
+Until she gets Bruce Wayne, Alfred will be alive.
+278) LUCIUS
+We hope.
+279) LUCIUS
+Vicki wouldn’t kill him. Alfred is her only way to get to Bruce.
+280) LUCIUS
+I’m sorry. I didn’t mean it like that.
+281) LUCIUS
+I--no, you’re right. Of course you’re going to be biased.
+282) LUCIUS
+We’ll get him back. We will.
+283) LUCIUS
+[awkward]Of course, I mean... that’s bound to be hard to do.
+284) LUCIUS
+[V.O.]Then we can’t be that far behind them.
+285) BATMAN
+[scary]They hit him hard enough to draw blood.
+286) BARTMAN
+[growling]I’m going to find them and make sure they pay for this.
+345) BATMAN
+[growling]I’m going to find them and make sure they pay for this.
+287) BATMAN
+These marks lead away from the chair.
+351) BATMAN
+These marks lead away from the chair.
+288) LUCIUS
+The soot and dirt hold everything.
+352) LUCIUS
+The soot and dirt hold everything.
+289) BATMAN
+She doesn’t look happy.
+355) BATMAN
+She doesn’t look happy.
+291) BATMAN
+These sat in the same place until very recently.
+292) BATMAN
+New dust hasn’t had time to settle.
+293) BATMAN
+Something hit this shelf with enough force to do this.
+296) BATMAN
+This must have fallen from the shelf.
+298) BATMAN
+Not Alfred’s blood.
+316) BATMAN
+Not Alfred’s blood.
+372) BATMAN
+Not Alfred’s blood.
+422) BATMAN
+Not Alfred’s blood.
+299) BATMAN
+This is different. Someone else’s.
+300) LUCIUS
+[V.O.]Lady Arkham’s?
+301) BATMAN
+Or one of her extremists.
+304) BATMAN
+He fought back. Good.
+356) BATMAN
+He fought back. Good.
+305) BATMAN
+The floor here is almost clean compared to the rest of the basement.
+306) BATMAN
+This was a heavy traffic area.
+307) BATMAN
+The floor’s clean here, too.
+308) BATMAN
+That doesn’t make sense.
+310) BATMAN
+Hmm.
+311) BATMAN
+It would take a lot of weight to do this to cement.
+312) LUCIUS
+And a lot of repetition.
+313) BATMAN
+This could have done it.
+314) LUCIUS
+The Vales don’t seem like they were the picture of a suburban family.
+315) BATMAN
+They must have put Alfred down there.
+317) BATMAN
+Someone trying to get out.
+371) BATMAN
+Someone trying to get out.
+318) BATMAN
+Oh my god.
+320) 
+She was a prisoner.
+367) 
+She was a prisoner.
+321) 
+She’s insane.
+366) 
+She’s insane.
+322) 
+Alfred’s in serious danger.
+323) BATMAN
+This is a prison. They locked her down here.
+362) BATMAN
+This is a prison. They locked her down here.
+324) LUCIUS
+Vicki?
+501) LUCIUS
+[V.O.]Vicki?
+325) BATMAN
+Like a criminal.
+364) BATMAN
+Like a criminal.
+326) LUCIUS
+[V.O.]That’s... awful.
+360) LUCIUS
+[V.O.]That’s... awful.
+327) BATMAN
+Vicki’s insane.
+363) BATMAN
+Vicki’s insane.
+328) BATMAN
+She was locked down here and her mind snapped.
+365) BATMAN
+She was locked down here and her mind snapped.
+329) LUCIUS
+[V.O.]Your silence is never a good thing.
+359) LUCIUS
+[V.O.]Your silence is never a good thing.
+441) LUCIUS
+Your silence is never a good thing.
+330) LUCIUS
+She’s more dangerous than we thought.
+361) LUCIUS
+She’s more dangerous than we thought.
+332) BATMAN
+Arkham Asylum.
+528) BATMAN
+[reads]Arkham Asylum.
+540) BATMAN
+[reads]Arkham Asylum.
+569) BATMAN
+[reads]Arkham Asylum.
+580) BATMAN
+[reads]Arkham Asylum.
+595) BATMAN
+[reads]Arkham Asylum.
+333) BATMAN
+[alt]This house.
+343) BATMAN
+It hasn’t congealed yet.
+344) BATMAN
+It hasn’t congealed yet.
+368) 
+The Vales were monsters.
+680) BATMAN
+The Vales were monsters.
+823) BATMAN
+The Vales were monsters.
+828) BATMAN
+The Vales were monsters.
+369) 
+Scan.
+375) 
+Scan.
+550) 
+Scan.
+551) 
+Scan.
+562) 
+Scan.
+389) DIR
+Batman holds his finger scanner up to the print.
+391) LUCIUS
+[V.O.]Good luck, Bruce.
+392) BATMAN
+{ThinkingA}Call Gordon and the GCPD.
+949) BATMAN
+{ThinkingA}Call Gordon and the GCPD.
+393) BATMAN
+I’m going after Alfred.
+394) LUCIUS
+[V.O.]Will do.
+395) BATMAN
+Lady Arkham is heading to Arkham Asylum.
+396) BATMAN
+Lucius, I’ve found the basement.
+397) LUCIUS
+[V.O.]Any sign of Alfred?
+513) LUCIUS
+Any sign of Alfred?
+671) LUCIUS
+[V.O. anxious and concerned]Any sign of Alfred?
+399) BATMAN
+This is where they had Alfred.
+400) BATMAN
+This is where they had Alfred.
+629) BATMAN
+{SurpriseA}This is where they had Alfred.
+401) LUCIUS
+[V.O.]We’ll find him Bruce.
+403) BATMAN
+[reads off his scan]{ThinkingA}Alfred’s blood is still fresh.
+405) BATMAN
+More Blood.
+406) BATMAN
+[grim]Not just Alfred’s...
+407) BATMAN
+There’s blood everywhere.
+408) LUCIUS
+[V.O. worried]It can’t all be Alfred’s...
+409) BATMAN
+They dragged him away.
+410) BATMAN
+They dragged him away.
+411) LUCIUS
+Not good...
+412) BATMAN
+Alfred took a big hit.
+413) BATMAN
+Alfred took a big hit.
+414) BATMAN
+Alfred took a big hit.
+454) BATMAN
+Alfred took a big hit.
+479) BATMAN
+Alfred took a big hit.
+415) BATMAN
+He struggled and they threw him into it, scattering the trophies.
+416) BATMAN
+He struggled and they threw him into it, scattering the trophies.
+457) BATMAN
+He struggled and they threw him into it, scattering the trophies.
+417) LUCIUS
+[V.O.]The guy never gives up.
+455) LUCIUS
+[V.O.]The guy never gives up.
+418) BATMAN
+Vicki was quite the athlete.
+420) LUCIUS
+[V.O.]She’d have to be to become Lady Arkham.
+421) BATMAN
+Here’s another bootprint.
+423) BATMAN
+Someone used this trophy as a weapon.
+424) LUCIUS
+[V.O.]Alfred is resourceful.
+425) BATMAN
+I always knew you fought dirty, Old Friend...
+426) BATMAN
+Alfred stabbed one of the CoA extremists in the foot with the trophy.
+427) LUCIUS
+[V.O.]I never knew Alfred fought dirty.
+428) BATMAN
+He fought to survive...
+429) BATMAN
+They were hiding the scrape marks.
+430) BATMAN
+They keep moving the washing machine...
+431) BATMAN
+They keep moving the washing machine...
+432) LUCIUS
+[V.O.]And they left it back in place?
+433) LUCIUS
+[V.O.]Maybe Alfred’s in there...
+434) BATMAN
+Blueprints for the house don’t have this hole.
+435) BATMAN
+The Vales must have dug it...
+436) BATMAN
+Or Vicki...
+437) BATMAN
+Lucius, Do the blueprints for the Vale House have a  sub-basement?
+438) LUCIUS
+[V.O.]No why?
+439) BATMAN
+Because they dug one...
+440) BATMAN
+{AngryA}Alfred!{SurpriseA}
+558) BATMAN
+{AngryA}Alfred!{SurpriseA}
+658) BATMAN
+[calls down]{AngryA}Alfred!{SurpriseA}
+442) 
+She was a victim.
+443) R
+(M Ainsworth, Sun Aug 14 10:48:15 2016) Batman doesn’t answer.
+444) BATMAN
+Vicki was a victim too.
+445) LUCIUS
+[V.O.]That doesn’t justify what she’s done.
+446) BATMAN
+Nothing can justify what she’s done to Gotham.
+447) BATMAN
+This blood’s too old to be Alfred’s.
+448) LUCIUS
+[V.O.]Not sure if that’s good or bad...
+449) BATMAN
+[leery]Creepy doll...
+560) BATMAN
+[leery]Creepy doll...
+450) BATMAN
+It looks like they took Alfred from his chair, leading him across the room. But when they got near this case...
+456) BATMAN
+It looks like they took Alfred from his chair, leading him across the room. But when they got near this case...
+451) 
+Save Alfred.
+452) 
+Make Vicki pay.
+453) 
+Find out Vicki’s plan.
+458) LUCIUS
+[V.O.]We’ll find him
+459) BATMAN
+Stay on the line.
+623) BATMAN
+[ALT] Stay on the line.
+460) LUCIUS
+[V.O.]Of course. Anything.
+461) BATMAN
+I may need you to analyze evidence while I keep searching.
+462) LUCIUS
+I’m on it.
+775) LUCIUS
+[dire stakes]I’m on it.
+872) LUCIUS
+I’m on it.
+953) LUCIUS
+[dire stakes]I’m on it.
+463) BATMAN
+I’m getting Alfred back.
+464) BATMAN
+And god help anyone that gets in my way.
+465) BATMAN
+I’m going to make her pay.
+466) BATMAN
+What Vicki’s done is unforgivable.
+556) BATMAN
+What Vicki’s done is unforgivable.
+467) LUCIUS
+What was done to that poor girl was unforgiavbel to.
+468) BATMAN
+Especially if she knows what it feels like to be done to her.
+469) BATMAN
+Victoria Arkham returning to Arkham Asylum can’t just be to punish Alfred.
+470) BATMAN
+We have to find out Vicki’s plan.
+471) LUCIUS
+Her free behind the walls of Arkham is a scary thought.
+472) LUCIUS
+Why do I ever expect to a goodbye from you?
+473) LUCIUS
+What are you going to do?
+474) BATMAN
+Looks like they kept beating him.
+475) BATMAN
+Multiple spray patterns...
+480) BATMAN
+Multiple spray patterns...
+476) BATMAN
+They beat him repeatedly.
+481) BATMAN
+They beat him repeatedly.
+477) BATMAN
+They’ll all pay.
+482) BATMAN
+They’ll all pay.
+478) BATMAN
+Stubborn old man...
+483) BATMAN
+Looks like the shelf took the brunt of the impact.
+484) BATMAN
+The glass is cracked and several trophies are knocked over.
+485) BATMAN
+No he doesn’t.
+486) BATMAN
+What’s that doing over there?
+487) BATMAN
+Vicki Vale... track and field, first place.
+488) BATMAN
+This must have come from the shelf across the room.
+489) BATMAN
+Once the video ended.
+490) BATMAN
+They dragged Alfred off.
+491) BATMAN
+And he kept fighting.
+492) BATMAN
+But then the trail ends in this corner.
+493) LUCIUS
+[fears worst]Dear lord...
+494) BATMAN
+I’m going to take a closer look...
+495) BATMAN
+The Vales were not what they seemed.
+496) LUCIUS
+[V.O.]What did you find?
+497) BATMAN
+It looks like some sort of prison cell under the house.
+498) BATMAN
+{AngryA}I’m going inside.
+868) BATMAN
+I’m going inside.
+499) BATMAN
+It’s too dark.
+500) BATMAN
+The Vales held her down here.
+502) BATMAN
+[disgusting]They kept their own child in a prison.
+503) LUCIUS
+[V.O.]Bruce, what do you mean? They kept her in that hole?
+504) LUCIUS
+What did the Vales do?
+505) BATMAN
+What was done down here to a little girl...
+506) BATMAN
+The Vales are monsters.
+507) LUCIUS
+[V.O]No wonder she’s so angry.
+508) LUCIUS
+I can’t even imagine the psychological toll this kind of punishment would take on a little girl who just lost her parents...
+509) LUCIUS
+It drove Victoria Arkham mad.
+510) BATMAN
+They twisted her.
+511) BATMAN
+Made Vicki Vale into Lady Arkham.
+512) BATMAN
+Then Vicki Vale became LAdy Arkham.
+514) BATMAN
+No.
+672) BATMAN
+[shaken]{SurpriseA}No...
+708) BATMAN
+{AngryA}No.
+515) LUCIUS
+Maybe he left us another clue?
+516) BATMAN
+[ALT; recorded] {SurpriseA}Wait, {ThinkingA}in the painting closest to Alfred’s blood some of the chalk is different.
+517) BATMAN
+{SurpriseA}Newer...
+518) BATMAN
+I think I found Alfred’s clue.
+520) COA01
+I’m a hologram revealed in the investigation!
+521) COA02
+I’m a hologram revealedin the investigation!
+522) LADYARKHAM
+I’m a hologram revealedin the investigation!
+523) ALFRED
+I’m a hologram revealed in the investigation!
+525) BATMAN
+He hid a clue in the drawing for me to find.
+566) BATMAN
+He hid a clue in the drawing for me to find.
+526) LUCIUS
+How?
+527) BATMAN
+He knew I could use my cowl to filter out colors.
+529) BATMAN
+That must be where they’re heading.
+541) BATMAN
+That must be where they’re heading.
+567) BATMAN
+That must be where they’re heading.
+568) BATMAN
+That must be where they’re heading.
+530) BATMAN
+Catacombs?
+573) BATMAN
+Catacombs?
+531) BATMAN
+Alfred’s trying to tell us they’re heading to the catacombs under Arkham Asylum.
+572) BATMAN
+Alfred’s trying to tell us they’re heading to the catacombs under Arkham Asylum.
+532) LUCIUS
+[V.O.]Catacombs under Arkham?
+571) LUCIUS
+[V.O.]Catacombs under Arkham?
+533) BATMAN
+They were built pre civil war.
+570) BATMAN
+They were built pre civil war.
+534) LUCIUS
+[V.O.]Didn’t think that place could get more creepy.
+576) LUCIUS
+[V.O.]Didn’t think that place could get more creepy.
+535) BATMAN
+Belltower?
+575) BATMAN
+Belltower?
+536) BATMAN
+And it’s pointing to this drawing of Arkham Asylum.
+574) BATMAN
+And it’s pointing to this drawing of Arkham Asylum.
+537) BATMAN
+This must be where they’re going.
+579) BATMAN
+This must be where they’re going.
+538) LUCIUS
+[V.O.]Wasn’t the bell tower condemned?
+578) LUCIUS
+[V.O.]Wasn’t the bell tower condemned?
+539) BATMAN
+Years ago.  Perfect place to hide.
+577) BATMAN
+Years ago.  Perfect place to hide.
+542) BATMAN
+Regardless of what happened to her growing up.
+543) LUCIUS
+Why would the Vales need a prison cell?
+544) BATMAN
+I’m going to look around some more.
+546) 
+Pull.
+557) 
+Call Out.
+581) DES
+(M Ainsworth, Sun Aug 14 11:07:45 2016) The drawings on the wall are horrific, mad scribbles of someone going insane. There are childish drawings pointing to a vast amount of growing up done in the hole.
+582) 
+Hope that Alfred’s still alive.
+585) 
+Push.
+587) 
+A place of sadness.
+588) 
+To keep Vicki in line.
+889) 
+To keep Vicki in line.
+589) 
+Some people are just evil.
+891) 
+Some people are just evil.
+592) 
+Tear her apart.
+593) 
+She’s going to pay for her crimes.
+594) 
+Use this knowledge as a weapon.
+596) BATMAN
+{ThinkingA}{FaceAccent}Lucius.
+597) LUCIUS
+[V.O.]What’s the situation?
+598) BATMAN
+{AngryA}Quiet.
+600) LUCIUS
+We can’t predict what Lady Arkham has in store.
+601) BATMAN
+{AngryA}Or what she’s done with Alfred.
+602) BATMAN
+[alt]Found the basement...
+603) BATMAN
+[alt]{AngryA}No sign of Alfred {SurpriseA}or the {AngryB}Children of Arkham.
+604) LUCIUS
+[V.O.]Bruce!
+606) LUCIUS
+[V.O.]Are you alright?
+607) BATMAN
+{AngryA}I’m {FaceAccent}fine.
+608) BATMAN
+[alt]There was a shotgun trap triggered to go off as I opened the basement door.
+609) LUCIUS
+How could Lady Arkham know you were coming here?
+610) BATMAN
+She couldn’t.
+611) BATMAN
+She’s being cautious.
+866) BATMAN
+She’s being cautious.
+612) BATMAN
+[ALT; OTN] There’s something down here she doesn’t want anyone to find.
+613) BATMAN
+[alt] Unclear.
+614) BATMAN
+She’s being very cautious.
+616) BATMAN
+[To Lucius]{ThinkingA}I’ve {FaceAccent}found where the video was {FaceAccent}{BodyAccent}filmed.
+617) BRUCE
+But Lady Arkham deflected Alfred’s attack
+619) BATMAN
+{SurpriseA}[ALT]There’s {FaceAccent}blood on the walls.
+1109) BATMAN
+{SurpriseA}[ALT]There’s {FaceAccent}blood on the walls.
+620) LUCIUS
+[ALT][V.O.]Dear god.
+621) BATMAN
+[cut] [annoyed]We’re still a step behind them.
+622) LUCIUS
+[ALT][V.O.]They can’t have gotten far.
+624) BATMAN
+[ALT] {ThinkingA}And send you what I find.
+625) LUCIUS
+[V.O. he’s ready]I’m ready.
+626) LUCIUS
+[V.O]We’re going to find Alfred...
+627) BATMAN
+[grim, more to himself] {AngryA}No matter what.
+628) BATMAN
+[ALT] {AngryA}I’ll look for clues...
+630) BATMAN
+[ALT][anger rising]{AngryA}They kept beating him.
+631) LUCIUS
+[breaking protocol]Stay focused, Bruce.
+632) LUCIUS
+[V.O.]Alfred needs you now.
+633) BATMAN
+[alt, surpressing anger]They’ll pay for this...
+967) BATMAN
+[alt, surpressing anger]{AngryB}They’ll pay for this...
+634) LUCIUS
+[V.O.]Alfred’s a tough old bugger.
+635) LUCIUS
+[V.O.]Means we can’t be far behind them.
+636) LUCIUS
+[V.O.]Means we can’t be far behind them.
+637) BATMAN
+[more to himself]{ThinkingA}Blood hasn’t congealed yet...
+638) BATMAN
+{DisgustA}What they did to him...
+639) BATMAN
+[ALT] {AngryB}It’s sadistic...
+640) LUCIUS
+[tense]Alfred won’t break.
+641) LUCIUS
+He won’t break.
+642) BATMAN
+[ALT][grim, knows]{AngryA}Everyone breaks.
+643) BATMAN
+[ALT][hint of worry]{AngryA}We have to find him before that happens.
+644) LUCIUS
+[getting personal for him]He’s stronger than that.
+645) BATMAN
+[ALT] After they beat him they dragged Alfred away.
+646) BATMAN
+{ThinkingA}Looks like they dragged Alfred away after they {AngryA}finished beating him.
+647) BATMAN
+[ALT]{SurpriseA}Odd...
+648) BATMAN
+[ALT]{ThinkingA}The blood trail doesn’t pool up against the wall.
+649) LUCIUS
+[V.O.]Sounds like there’s more to this basement than it would appear.
+650) BATMAN
+{AngryA}Taking a closer look...
+651) BATMAN
+[ALT]{ThinkingA}It goes {SurpriseA}under it.
+652) BATMAN
+{ThinkingA}The wall is a facade.
+653) LUCIUS
+Why would the Vales have a false wall in their basement?
+654) BATMAN
+{AngryA}I’m about to find out.
+655) BATMAN
+{AngryA}[alt]No time for delicacy.
+656) BATMAN
+{AngryA} Let’s find out what the Vales were hiding...
+1078) BATMAN
+{AngryA} Let’s find out what the Vales were hiding...
+657) BATMAN
+[talking to Lucius]{AngryA}There’s a small room...
+659) LUCIUS
+Did you find him?
+660) BATMAN
+...with a man made hole dug in the floor.
+661) BATMAN
+It’s grated.
+662) LUCIUS
+[alt V.O.]Like a dungeon?
+663) BATMAN
+{AngryA}They dragged Alfred down into it.
+664) BATMAN
+[genuine worry]{AngryA}Not sure...
+665) BATMAN
+{AngryA}I can’t see anything.
+666) BATMAN
+And there’s no answer.
+667) BATMAN
+{AngryA}I’m going down.
+668) BATMAN
+[ALT]{ThinkingA}The Vales used a rope ladder to climb in and out.
+669) LUCIUS
+[ALT][V.O.]That also means if anyone was left at the bottom, they couldn’t get back up.
+670) LUCIUS
+[ALT][V.O.]Just what was going on here?
+675) LUCIUS
+What is it?
+685) LUCIUS
+[V.O.]What is it?
+688) LUCIUS
+[V.O.]What is it?
+809) LUCIUS
+[V.O.]What is it?
+817) LUCIUS
+[V.O.]What is it?
+819) LUCIUS
+[V.O.]What is it?
+895) LUCIUS
+What is it?
+676) LUCIUS
+[can tell something is wrong]What’s wrong?
+677) BATMAN
+I’ve seen the dark side of Gotham, but this...
+897) BATMAN
+I’ve seen the dark side of Gotham, but this-
+678) BATMAN
+...This is horror beyond belief...
+679) BATMAN
+[ALT]What the Vales did down here...
+686) BATMAN
+[ALT]What the Vales did down here...
+807) BATMAN
+[ALT]What the Vales did down here...
+681) BATMAN
+Vicki Vale...
+899) BATMAN
+Vicki Vale...
+682) BATMAN
+They were kept down here...
+684) BATMAN
+[alt]To intentionally harm children like this...
+687) BATMAN
+[alt]To intentionally harm children like this...
+808) BATMAN
+[alt]To intentionally harm children like this...
+689) BATMAN
+{ThinkingA}It’s some sort of... {AngryA}dungeon.
+690) BATMAN
+They kept Vicki down here as a child.
+691) LUCIUS
+[V.O. grotesque for him to say]To torture a child...
+692) LUCIUS
+[V.O.]Vicki and what about their foster child?
+693) BATMAN
+[alt, remembers...]Duke...
+694) LUCIUS
+[V.O.][to himself]To their own daughter...??
+695) LUCIUS
+[ALT; V.O.]Who could be that cruel?
+696) BATMAN
+[steely anger rising]{AngryA}And now she has {AngryB}Alfred.
+697) LUCIUS
+[V.O.]It’s deplorable.
+698) LUCIUS
+[V.O.]Vicki and what about their adoptive son?
+699) BATMAN
+If he was left down here by himself he would have left me a clue.
+700) LUCIUS
+[ALT][V.O.]If he was conscious...
+701) BATMAN
+{ThinkingA}Got to keep investigating...
+702) BATMAN
+[shocked exhale]{SurpriseA}Hnhh...{DisgustA}
+704) BATMAN
+{AngryA}Bloody Scratches...
+705) BATMAN
+{AngryA}Someone tried to climb out.
+706) BATMAN
+{DisgustA}Fingernails...
+709) BATMAN
+[ALT] {AngryA}A child...
+710) LUCIUS
+[ALT][those motherfuckers, V.O.]To torment a child like that....
+711) BATMAN
+{AngryA}I’m going to keep searching....
+712) BATMAN
+{ThinkingA}This blood is fresher than the rest.
+713) BATMAN
+Alfred lied down here
+714) BATMAN
+{AngryA}Must be Alfred’s.
+715) BATMAN
+[anger rising]{SurpriseA}They just {AngryA}let him {AngryB}bleed...
+716) LUCIUS
+[V.O]Focus Bruce.
+717) LUCIUS
+[ALT][V.O.]That means Alfred’s still alive.
+718) LUCIUS
+[alt, V.O.]That’s good...
+719) BATMAN
+[alt]{SurpriseA}insane scribblings....
+720) BATMAN
+[ALT] [this takes him aback]{SurpriseA}My God.
+1079) BATMAN
+[ALT] [this takes him aback]{SurpriseA}My God.
+721) LUCIUS
+[fears the worst]What Bruce?!?
+722) BATMAN
+{SurpriseA}Lady Arkham.
+723) BATMAN
+While Vicki Vale was down in this hole as a child she created Lady Arkham.
+724) LUCIUS
+The horror you’ve been describing would break the strongest of us, let alone a child.
+725) BATMAN
+[doesn’t see the irony]She created her own persona to deal with it.
+726) BATMAN
+Some one that could confront the lies the world was telling her.
+727) BATMAN
+Someone to get vengeance on those who hurt her.
+728) BATMAN
+{AngryA}This is where Vicki Vale {SurpriseA}became Lady Arkham.
+729) LUCIUS
+[alt]Holy shit...
+730) BATMAN
+[ALT]{ThinkingA}What was used to draw these?
+731) BATMAN
+{SurpriseA}Vicki’s childhood doll...
+732) BATMAN
+{DisgustA}Disturbing...
+733) BATMAN
+{DisgustA}Shackles.
+1183) 
+Shackles
+734) BATMAN
+{ThinkingA}Blood on them.
+735) BATMAN
+[disgusted anger]{AngryA}chained to the wall.
+736) LUCIUS
+[can’t handle it, V.O.]The Vales kept vicki chained down there.
+1054) LUCIUS
+[can’t handle it, V.O.]The Vales kept vicki chained down there.
+737) LUCIUS
+[anger, V.O.]They’re lucky they’re already dead.
+1055) LUCIUS
+[anger, V.O.]They’re lucky they’re already dead.
+738) LUCIUS
+[can’t fathom, V.O.]This is beyond the pale...
+1056) LUCIUS
+[can’t fathom, V.O.]This is beyond the pale...
+739) BATMAN
+{AngryA}Vicki did to Alfred what was done to her.
+740) LUCIUS
+[V.O.]But why?
+1003) LUCIUS
+But...why?
+741) BATMAN
+[matter of fact, realizes]{ThinkingA}She wants someone to pay.  {AngryA}Someone to hurt like she did.  {DisgustA}Like the Vales hurt her.
+742) LUCIUS
+[oh shit, V.O.]And if she can’t torture Bruce Wayne...
+743) LUCIUS
+[fuck... V.O.]She’ll torture Alfred....
+744) BATMAN
+[ALT; recorded]{AngryA}Layers of blood on it.
+745) BATMAN
+It was used for punishment...
+746) LUCIUS
+Weren’t the Vales strangled with belts?
+747) LUCIUS
+[V.O]Wasn’t Mr. Vale strangled with a belt?
+748) LUCIUS
+[V.O.]Nothing a child could do would deserve that kind of beating....
+749) LUCIUS
+[can’t stomach the though, V.O.]I can’t even...
+750) BATMAN
+Seems Vicki Vale returned the favor when she killed her adoptive father.
+751) BATMAN
+[alt]Seems Vicki Vale returned the favor when she killed her foster father.
+752) LUCIUS
+[realizes, V.O.]Wait...
+753) LUCIUS
+And Alfred?
+754) BATMAN
+[yep]There’s fresh blood.
+755) BATMAN
+Lady Arkham isn’t breaking the cycle of violence, she’s continuing it....
+756) BATMAN
+[alt]Lady Arkham isn’t breaking the cycle of violence inflicted on her, she’s paying it forward...
+757) BATMAN
+[ALT; recorded][oh shit]{DisgustA}A whipping belt.
+758) BATMAN
+[discovers]{ThinkingA}Blue...
+759) BATMAN
+[discovers]{ThinkingA}Red...
+760) BATMAN
+[discovers]{ThinkingA}Yellow...
+761) BATMAN
+[discovers]{ThinkingA}Purple...
+1270) BATMAN
+[discovers]{ThinkingA}Purple...
+762) BATMAN
+{ThinkingA}Alfred hid a clue in one of Vicki’s drawings.
+1099) BATMAN
+{ThinkingA}Alfred hid a clue in one of Vicki’s drawings.
+1100) BATMAN
+{ThinkingA}Alfred hid a clue in one of Vicki’s drawings.
+1101) BATMAN
+{ThinkingA}Alfred hid a clue in one of Vicki’s drawings.
+763) BATMAN
+[confident] {AngryA}Lady Arkham has taken Alfred to Arkham Asylum.
+764) BATMAN
+[confident] {AngryA}Lady Arkham has taken Alfred to Arkham Asylum.
+765) BATMAN
+[confident] {AngryA}Lady Arkham has taken Alfred to Arkham Asylum.
+766) BATMAN
+[confident] {AngryA}Lady Arkham has taken Alfred to Arkham Asylum.
+1066) BATMAN
+[confident] {AngryA}Lady Arkham has taken Alfred to Arkham Asylum.
+767) BATMAN
+{ThinkingA}That’s the final piece...
+941) BATMAN
+{ThinkingA}That’s the final piece...
+1158) BATMAN
+{ThinkingA}That’s the final piece...
+768) BATMAN
+{DisgustA}Lady Arkham had {AngryA}Penguin become Wayne Enterprises CEO to get {FaceAccent}{BodyAccent}access to buildings with {FaceAccent}Wayne Tech security systems.
+942) BATMAN
+{DisgustA}Lady Arkham had {AngryA}Penguin become Wayne Enterprises CEO to get {FaceAccent}{BodyAccent}access to buildings with {FaceAccent}Wayne Tech security systems.
+769) BATMAN
+[ALT] {AngryB}Arkham Asylum being one of them...
+944) BATMAN
+[ALT] {AngryB}Arkham Asylum being one of them...
+770) LUCIUS
+[not good...V.O.]Oswald could have opened every cell door in Arkham with the push of a button!
+945) LUCIUS
+[not good...V.O.]Oswald could have opened every cell door in Arkham with the push of a button!
+771) BATMAN
+{AngryA}But with Penguin out of power...
+946) BATMAN
+{AngryA}But with Penguin out of power...
+772) BATMAN
+[ALT;cut]{ThinkingA}Lady Arkham needs to go there in person.
+943) BATMAN
+[ALT;cut]{ThinkingA}Lady Arkham needs to go there in person.
+773) LUCIUS
+[ALT][V.O.]But why take Alfred there?
+952) LUCIUS
+[ALT][V.O.]But why take Alfred there?
+774) BATMAN
+[ALT] {DisgustA}She’s not done punishing him...
+948) BATMAN
+[ALT] {DisgustA}She’s not done punishing him...
+776) BATMAN
+[alt]{AngryA}Tell them it’s urgent they get to Arkham Asylum.
+947) BATMAN
+[alt]{AngryA}Tell them it’s urgent they get to Arkham Asylum.
+777) BATMAN
+[ALT] {SurpriseA}If Lady Arkham opens all the cell doors, {AngryA}I’ll need their help to contain the outbreak.
+950) BATMAN
+[ALT] {SurpriseA}If Lady Arkham opens all the cell doors, {AngryA}I’ll need their help to contain the outbreak.
+778) LUCIUS
+[V.O.]After all you’ve seen here...
+955) LUCIUS
+[V.O.]After all you’ve seen here...
+779) LUCIUS
+[ALT, V.O.]What are you going to do when you find Lady Arkham?
+956) LUCIUS
+[ALT, V.O.]What are you going to do when you find Lady Arkham?
+780) LUCIUS
+She’s a victim too.
+781) LUCIUS
+She’s clearly insane.
+782) BATMAN
+After what she did to Alfred, to Harvey, to the people of Gotham...
+783) BATMAN
+I’m gonna tear her apart.
+784) BATMAN
+I’m going to get Alfred back.
+785) BATMAN
+No matter what it takes...
+786) 
+[ALT]Get Alfred back.
+787) BATMAN
+{AngryA}Regardless of {FaceAccent}what happened to her down {FaceAccent}{BodyAccent}here.
+788) BATMAN
+{AngryB}She’s a {FaceAccent}criminal.
+789) BATMAN
+{AngryB}Who’s going to {BodyAccent}{FaceAccent}pay for her {FaceAccent}crimes.
+790) BATMAN
+{AngryB}And see the inside of a {FaceAccent}cell for the rest of her {FaceAccent}{BodyAccent}life.
+791) LUCIUS
+[alt, V.O.]Amen...
+793) LUCIUS
+[alt, V.O.]Amen...
+794) LUCIUS
+[a warning, V.O.]Don’t forget Bruce you’re accountable for your actions...
+795) LUCIUS
+[V.O.]...even as The Batman...
+796) BATMAN
+{ThinkingA}Lady Arkham has no {BodyAccent}{FaceAccent}idea I know about this {FaceAccent}place....
+797) BATMAN
+Lady Arkham is dangerous in a head on fight, but-
+937) BATMAN
+Lady Arkham is dangerous in a head on fight, but-
+798) BATMAN
+She has no idea I know about this place.
+799) BATMAN
+...{SurpriseA}{FaceAccent}or about{ThinkingA} her {FaceAccent}{BodyAccent}past.
+800) BATMAN
+{AngryA}{BodyAccent}{FaceAccent}That’s my weapon to {BodyAccent}{FaceAccent}get Alfred back.
+801) BATMAN
+[alt]Her obsession will be her downfall.
+940) BATMAN
+Her obsession will be her downfall.
+802) BATMAN
+{ThinkingA}I can use this to get into her head...
+803) LUCIUS
+[ALT][V.O.]Good luck.
+804) 
+Why she killed the Vales.
+805) 
+[ALT]Cruelty beyond belief.
+806) 
+Where her anger comes from.
+810) 
+Why she wants revenge.
+811) 
+I’m going to reason with her.
+812) BATMAN
+[ALT; OTN] {AngryA}There was a {FaceAccent}shotgun trap {FaceAccent}triggered to go off as I went {FaceAccent}down the stairs.
+813) BATMAN
+[alt]I’m not sure she did...
+814) BATMAN
+Horror beyond belief...
+815) BATMAN
+...and the boy.
+816) LUCIUS
+[V.O.]It must be really bad...
+820) LUCIUS
+[V.O.]It must be really bad...
+818) BATMAN
+[dour]It’s a place of sadness
+821) 
+ALT A place beyond hope.
+822) BATMAN
+A place beyond hope.
+824) BATMAN
+They kept their children down here.
+829) BATMAN
+They kept their children down here.
+825) LUCIUS
+[V.O.]What exactly do you see?
+832) LUCIUS
+[V.O.]What exactly do you see?
+826) BATMAN
+Vicki and the Boy.
+830) BATMAN
+Vicki and the Boy.
+827) BATMAN
+[alt]Vicki and Duke.
+831) BATMAN
+[alt]Vicki and Duke.
+833) LUCIUS
+[V.O.]What parent could do that...[unable to finish his thought]
+834) BATMAN
+{ThinkingA}Vicki was kept down here...
+835) BATMAN
+[sickened]{DisgustA}Punished {FaceAccent}{BodyAccent}down here.
+836) LUCIUS
+To willfully hurt a child...
+837) LUCIUS
+[angry]It’s barbaric...
+838) BATMAN
+The Vales were inhuman monsters.
+839) BATMAN
+But that doesn’t give Vicki Vale the right to murder them.
+840) LUCIUS
+[ALT; V.O.]Agreed.
+842) BATMAN
+{SurpriseA}No wonder Vicki is consumed {AngryA}with hate.
+843) BATMAN
+{ThinkingA}It’s all she’s ever known.
+844) LUCIUS
+[sadness]To experience such abuse so early in life...
+845) LUCIUS
+[V.O.]I can’t even begin to imagine what she’s gone through...
+846) BATMAN
+The Vales intentionally destroyed Victoria Arkham’s innocence.
+847) BATMAN
+[ALT] {AngryB}Gotham failed her by putting her with the Vales.
+848) LUCIUS
+[ALT][V.O.]The system helped make her a monster.
+849) BATMAN
+[ALT]{AngryA}That doesn’t give her an excuse for what she’s done.
+850) LUCIUS
+[ALT][V.O.]Of course not.
+851) LUCIUS
+[V.O.]To think of children being treated so cruelly.
+852) LUCIUS
+[V.O.]I hope the boy is okay.
+853) LUCIUS
+[alt, V.O.]I hope Duke is okay.
+854) BATMAN
+[alt; confident] She’s taken Alfred to Arkham Asylum.
+855) BATMAN
+[alt; confident] She’s taken Alfred to Arkham Asylum.
+856) BATMAN
+[alt; confident] She’s taken Alfred to Arkham Asylum.
+857) BATMAN
+[alt; confident] She’s taken Alfred to Arkham Asylum.
+1065) BATMAN
+[alt; confident] She’s taken Alfred to Arkham Asylum.
+1256) BATMAN
+[PKUP2] She’s taken Alfred to Arkham Asylum...
+858) BATMAN
+[alt]{AngryA}Tell them it’s urgent they get to the Asylum.
+951) BATMAN
+[alt]{AngryA}Tell them it’s urgent they get to the Asylum.
+859) LUCIUS
+[V.O.]What’s your plan when you find her?
+860) BATMAN
+Now that I’ve seen this, I’m going to try to reason with her.
+930) BATMAN
+Now that I’ve seen this, I’m going to try to reason with her.
+1019) BATMAN
+Now that I’ve seen this, I’m going to try to reason with her.
+861) BATMAN
+Try appealing to Vicki Vale rather than dealing with Lady Arkham.
+933) BATMAN
+Try appealing to Vicki Vale rather than dealing with Lady Arkham.
+1020) BATMAN
+Try appealing to Vicki Vale rather than dealing with Lady Arkham.
+862) LUCIUS
+[V.O.]I hope it works.
+931) LUCIUS
+[V.O.]I hope it works.
+863) BATMAN
+[sorry for her]{DisgustA}Me too...
+932) BATMAN
+[sorry for her]{DisgustA}Me too...
+864) LUCIUS
+[V.O.]She’s clearly unstable.
+865) LUCIUS
+[V.O.]You’ll have to be careful.
+867) LUCIUS
+[V.O.]What are you going to do when you find her?
+954) LUCIUS
+[V.O.]What are you going to do when you find her?
+871) BATMAN
+Call Gordon and the GCPD. Tell them it’s urgent they get to Arkham.
+887) 
+Exploit her weakness
+890) 
+Bring her to justice.
+892) 
+Reason with her.
+893) LUCIUS
+Bruce? What’s down there? Do you see Alfred?
+894) BATMAN
+No... no he’s not here. But what is here...
+898) BATMAN
+It’s a nightmare.
+900) BATMAN
+She was kept down here as a child.
+902) BATMAN
+They were monsters.
+903) BATMAN
+It’s some kind of... torture chamber.
+904) BATMAN
+Shackles, belts... blood.
+905) BATMAN
+And it looks like those held down here... may have been children.
+906) LUCIUS
+Jesus.
+907) LUCIUS
+Children? Oh dear god...
+908) LUCIUS
+To Vicki... and that foster Boy...
+909) LUCIUS
+How could the Vales have done something so horrible?
+910) LUCIUS
+It’s deplorable. I think of my own daughter, and I...
+911) LUCIUS
+I could never imagine being so cruel. It’s inhuman.
+912) BATMAN
+The Vales’ foster children may have not been the only ones to suffer here.
+913) BATMAN
+I followed Alfred’s blood into this hole.
+914) BATMAN
+He must have left something behind.
+915) BATMAN
+This explains Vicki leaving the adoption papers at the scene of her parent’s murder.
+916) BATMAN
+The Vales adopted children to get payments from the city.
+917) BATMAN
+And outside of those checks, they didn’t care much for their kids.
+918) BATMAN
+Young Vicki must have been quite the handful.
+919) BATMAN
+Always asking questions. Always looking for the truth.
+920) BATMAN
+The Vales didn’t take her rebellious streak with much grace.
+921) BATMAN
+I’m not here to understand why the Vales did this.
+922) BATMAN
+They were bad people. Criminals.
+923) BATMAN
+And so is their daughter.
+924) LUCIUS
+To treat children like that-
+925) LUCIUS
+I can’t believe it.
+926) LUCIUS
+It’s unthinkable.
+927) LUCIUS
+And when you find her-
+928) LUCIUS
+Find the person that put Alfred through all this pain...
+929) LUCIUS
+What will you do?
+934) BATMAN
+She’s a criminal, just like any other.
+935) BATMAN
+I’ll put her in the hands of the GCPD, ensure she faces justice.
+936) BATMAN
+And sees the other side of a cell for the rest of her life.
+938) BATMAN
+She has no idea I know about this place. About her past.
+939) BATMAN
+That’s my weapon.
+957) BATMAN
+Arkham Asylum. That’s the final missing piece.
+958) BATMAN
+Lady Arkham had Penguin become Wayne Enterprises CEO to get access to buildings with Wayne Tech security systems.
+959) BATMAN
+Arkham Asylum among them.
+960) BATMAN
+Lucius - She could have opened every cell door in Arkham with the push of a button from the Wayne Tower!
+961) BATMAN
+But without Penguin in that chair...
+965) LUCIUS
+But without Penguin in that chair...
+962) BATMAN
+She’ll have to go there in person.
+963) LUCIUS
+And she must have brought Alfred with her!
+964) LUCIUS
+She could have opened every cell door in Arkham with the push of a button from the Wayne Tower!
+966) BATMAN
+If she opens the doors, I’ll need their help to contain the outbreak.
+968) BATMAN
+[alt] He’s not here...
+969) 
+More questions.
+970) BATMAN
+The Vales’ abuse destroyed Vicki’s innocence.
+971) BATMAN
+[ALT]She’s going to pay for what she’s done to Alfred.
+972) BATMAN
+[ALT]I’m going to make sure she sees the inside of a cell for the rest of her life.
+973) BATMAN
+[thoughtful; grim]{AngryA}I’m beginning to understand.
+974) LUCIUS
+[ALT][perplexed]Understand what?
+975) LUCIUS
+[ALT; perplexed]What do you mean?
+976) BATMAN
+It explains why she killed them.
+977) BATMAN
+[ALT]It’s why she killed them.
+978) BATMAN
+[disgusted]...Demented and cruel.
+979) LUCIUS
+[V.O]Indeed...
+981) BATMAN
+It’s why she’s so consumed with anger... hatred.
+983) LUCIUS
+[ALT]What *is* down there?
+984) LUCIUS
+[ALT; V.O.]I hope the boy will be okay.
+985) DIR
+wedging his body, suspending himself above in the stairwell.
+986) LUCIUS
+[V.O.] Send me your scans. [determined] We’re going to find out what happened.
+987) LUCIUS
+[ALT; coverage] She ma
+988) LUCIUS
+[V.O.] Watch your back. There could be more traps.
+989) LUCIUS
+Punished? [shocked] You mean...?
+991) BATMAN
+[ALT; coverage] {DisgustA}They locked her up... {AngryA}beat her...
+992) LUCIUS
+[shocked] What is there to understand?
+993) BATMAN
+{AngryA}It’s why she killed the Vales.
+994) BATMAN
+[ALT]{AngryB}Revenge for what they did to her.
+995) LUCIUS
+[V.O.]I am not saying what she did was right...
+996) LUCIUS
+[V.O.]But... I can’t imagine what she went through.
+997) LUCIUS
+[V.O.]But this paints a different picture of her motives.
+998) BATMAN
+{DisgustA}Vicki was just a child...
+999) BATMAN
+[dark] {AngryA}And the Vales destroyed her innocence.
+1000) LUCIUS
+[horrified, thinking of his own daughter] Their own daughter...
+1001) BATMAN
+If he’d any opportunity at all-- he’ll have left me a clue.
+1002) LUCIUS
+Knowing Alfred, he’d have found a way.
+1004) BATMAN
+She’s un
+1005) LUCIUS
+She wants to break into Arkham? But... why? [realizing] Oh no...
+1006) BATMAN
+{AngryA}She doesn’t want to break in. {AngryB}She wants to set the inmates free.
+1007) BATMAN
+{DisgustA}And she’d planned to use Oswald to do it.
+1008) BATMAN
+[ALT; confident] She’s going to Arkham Asylum.
+1009) BATMAN
+[ALT;cut]{AngryB}Including Arkham Asylum.
+1010) BATMAN
+She doesn’t want to break in. She wants to set the truth free... The inmates.
+1011) BATMAN
+[ALT] {AngryA}And she took Alfred with her.
+1012) BATMAN
+If Lady Arkham succeeds, I’ll need their help putting the inmates back in
+1013) BATMAN
+[ALT] I’m going to need their help if Lady Arkham succeeds.
+1014) BATMAN
+{ThinkingA}I’m going to try to reason with her.
+1015) BATMAN
+{ThinkingA}Appeal to Vicki Vale, {AngryA}rather than Lady Arkham.
+1016) LUCIUS
+[V.O.] You’ve seen what she went through as a child...
+1017) LUCIUS
+[V.O.] But she also tortured Alfred...
+1018) LUCIUS
+[V.O.] Killed her parents...
+1021) LUCIUS
+She’s dangerous and needs to be stopped.
+1022) LUCIUS
+[ALT] You’ll get him back, Bruce.
+1023) BATMAN
+This is where Alfred sat...
+1024) BATMAN
+[anger rising] {AngryA}Where they beat him.
+1025) BATMAN
+{DisgustA}That’s what I’m worried about...
+1026) BATMAN
+{AngryA}If Lady Arkham can’t break him, {SurpriseA}what will she do?
+1027) BATMAN
+{DisgustA}When they were done beating Alfred, {AngryA}they dragged him away...
+1028) BATMAN
+The trail stops at the wall. Actually... [looks closer] it goes under it.
+1029) BATMAN
+[ALT] The trail is cut off by the wall. Almost like the wall wasn’t there when he was dragged...
+1030) LUCIUS
+[ALT][V.O] A false wall.
+1031) BATMAN
+[worried]...{SurpriseA}with a hole in the floor.
+1032) BATMAN
+[worried] {ThinkingA}Covered by a grate.
+1033) BATMAN
+[calling down] {SurpriseA}Alfred!{AngryA}
+1034) BATMAN
+[worried] {AngryA}No answer.
+1035) BATMAN
+[ALT] {AngryA}Looks like Alfred was thrown into it.
+1036) BATMAN
+{ThinkingA}A rope ladder...
+1037) LUCIUS
+[V.O.]Easy to throw down... and [grim] easy to take away.
+1038) BATMAN
+{DisgustA}Someone smaller...
+1039) BATMAN
+[ALT] Probably a child.
+1040) LUCIUS
+[V.O.] Smaller?
+1041) LUCIUS
+[V.O.][horrified] You think... a child...?
+1042) BATMAN
+[disgusted] I don’t know.
+1043) BATMAN
+{ThinkingA}Alfred lay down here.
+1045) LUCIUS
+[V.O.][realizes the implications] Oh God...
+1046) BATMAN
+{DisgustA}Vicki must have drawn them when she was a prisoner.
+1047) BATMAN
+{ThinkingA}Vicki created her here. {DisgustA}In this room.
+1048) BATMAN
+{AngryA}A childhood fantasy of revenge--{DisgustA}she made it a reality.
+1049) LUCIUS
+[ALT] I can’t help but feel sorry for her--knowing what she went through, it’s no wonder she lost her mind.
+1050) BATMAN
+{ThinkingA}The chalk here is different...
+1051) BATMAN
+[ALT][disgusted anger] Anchored to the wall.
+1052) BATMAN
+{AngryA}Old... and new.
+1053) LUCIUS
+My God...
+1057) BATMAN
+[matter of fact, realizes]{AngryA}She wants someone to pay.  {DisgustA}She wants someone to hurt like she did.
+1058) BATMAN
+{ThinkingA}The belt...
+1059) BATMAN
+[ALT; coverage] {AngryA}Used as a weapon...
+1060) BATMAN
+[horrified] {DisgustA}It’s caked in blood.
+1062) BATMAN
+{AngryA}Yes, it looks {DisgustA}like it was used on him too.
+1063) LUCIUS
+[V.O.]All the horrors done to her... and now Alfred.
+1064) LUCIUS
+[ALT][V.O.][quietly] Mr. Vale was strangled with a belt...
+1068) BATMAN
+A trap. Rigged to go off as I entered.
+1070) LUCIUS
+Standing by.
+1114) LUCIUS
+Standing by.
+1071) BATMAN
+Blood leads away from the chair.
+1072) BATMAN
+There’s a boot print in the blood.
+1076) BATMAN
+There’s a boot print in the blood.
+1073) BATMAN
+Lady Arkham’s soldiers dragged him...
+1077) BATMAN
+Lady Arkham’s soldiers dragged him...
+1074) BATMAN
+Leading towards the wall...
+1080) QUINZEL
+Poor chocie space.
+1081) BATMAN
+[PKUP] Lady Arkham won’t be expecting us--we’ll catch her by surprise.
+1082) BATMAN
+[CUT] Tell them I’ll meet them there. Lady Arkham has no idea we’re on to her, so we’ll
+1083) LUCIUS
+[ALT][PKUP]Do you think--
+1084) LUCIUS
+[ALT][PKUP]He’s a fighter. Might not be his.
+1085) LUCIUS
+[PKUP][confused]Under?
+1086) BATMAN
+[PKUP]Let’s find out.
+1087) LUCIUS
+[PKUP][upset]Could Alfred be... [down there?]
+1088) LUCIUS
+[PKUP]Anyone down there would be trapped.
+1089) LUCIUS
+[PKUP][shocked, quiet]What?
+1090) LUCIUS
+[PKUP][shaken]Children?
+1091) LUCIUS
+[ALT][PKUP][shaken, to himself]Who could do that their child?
+1092) BATMAN
+[ALT][PKUP][reading the signature, to himself]Vicki...
+1093) BATMAN
+[PKUP][ALT]
+1094) BATMAN
+[PKUP][dark]Revenge must seem like the only choice.
+1095) LUCIUS
+[ALT][PKUP]But since you’ve taken down Penguin...
+1102) BATMAN
+[ALT][PKUP]The house has been broken into.
+1103) BATMAN
+[ALT][PKUP]Vicki didn’t bother to cover her tracks.
+1104) BATMAN
+[PKUP][angry]She’s playing games.
+1167) BATMAN
+[PKUP][angry]She’s playing games.
+1105) BATMAN
+[ALT][PKUP][angry]Alfred isn’t here.
+1106) LUCIUS
+[PKUP][frantic]Batman! Batman!
+1107) BATMAN
+[PKUP][pissed]I’m alright.
+1108) BATMAN
+[PKUP][angry]There’s no one here, [tightly]no Alfred.
+1112) LUCIUS
+[PKUP][frustrated]Dammit.
+1113) BATMAN
+[ALT][PKUP][cold]He was here.
+1115) BATMAN
+[PKUP][low]Heading into the basement.
+1116) BATMAN
+[ALT][PKUP]She was kept down here. Locked away.
+1117) LUCIUS
+[PKUP][teeth-clenched]It doesn’t give her the right to take it out on others.
+1118) BATMAN
+[PKUP]They abused her.
+1120) BATMAN
+[ALT][PKUP]Scanning for fresh chalk markings.
+1129) BATMAN
+[ALT][PKUP]Scanning for fresh chalk markings.
+1134) BATMAN
+[ALT][PKUP]Scanning for fresh chalk markings.
+1139) BATMAN
+[ALT][PKUP]Scanning for fresh chalk markings.
+1121) LUCIUS
+[ALT][PKUP]Vicki already left a readied shotgun. Do I have to say that this might be another trick?
+1130) LUCIUS
+[ALT][PKUP]Vicki already left a readied shotgun. Do I have to say that this might be another trick?
+1135) LUCIUS
+[ALT][PKUP]Vicki already left a readied shotgun. Do I have to say that this might be another trick?
+1140) LUCIUS
+[ALT][PKUP]Vicki already left a readied shotgun. Do I have to say that this might be another trick?
+1122) BATMAN
+[ALT][PKUP]Not this. I know he’s been here.
+1131) BATMAN
+[ALT][PKUP]Not this. I know he’s been here.
+1136) BATMAN
+[ALT][PKUP]Not this. I know he’s been here.
+1141) BATMAN
+[ALT][PKUP]Not this. I know he’s been here.
+1123) BATMAN
+[ALT][PKUP]Bars wouldn’t dampen conversation. He heard them.
+1132) BATMAN
+[ALT][PKUP]Bars wouldn’t dampen conversation. He heard them.
+1137) BATMAN
+[ALT][PKUP]Bars wouldn’t dampen conversation. He heard them.
+1142) BATMAN
+[ALT][PKUP]Bars wouldn’t dampen conversation. He heard them.
+1124) NDIR
+(chockabout, Mon Oct 31 16:31:19 2016) Alfred had covered two words so that when exposed to the UI light they stand out among all the rest. The letters, cribbed from other words, “T”, “A”, “K”, “I”, “N”, “G”, and the word “ME” are highlighted, along with a series of arrows that point to the drawing of Arkham Asylum.
+1125) IR
+(chockabout, Mon Oct 31 16:31:19 2016) Alfred had covered two words so that when exposed to the UI light they stand out among all the rest. The letters, cribbed from other words, “T”, “A”, “K”, “I”, “N”, “G”, and the word “ME” are highlighted, along with a series of arrows that point to the drawing of Arkham Asylum.
+1126) BATMAN
+[PKUP]This is what he wanted me to find. To see.
+1133) BATMAN
+[PKUP]This is what he wanted me to find. To see.
+1138) BATMAN
+[PKUP]This is what he wanted me to find. To see.
+1143) BATMAN
+[PKUP]This is what he wanted me to find. To see.
+1127) BATMAN
+[PKUP]He’s spelled it out here-- ‘taking me.‘
+1128) BATMAN
+[PKUP]And used Vicki’s own drawing of Arkham for the location.
+1144) BATMAN
+[PKUP]He’s modified one of her own Lady Arkham drawings to include himself...
+1145) BATMAN
+[PKUP]And these two words: ‘To Arkham.‘
+1146) LUCIUS
+[PKUP]Then she’s--[cut off]
+1147) BATMAN
+[PKUP]Going to Arkham, and she’s taken Alfred with her.
+1148) BATMAN
+[ALT][PKUP]The newest chalk-- he’s added what looks like a small army to the gates of an old drawing of Arkham Asylum.
+1149) BATMAN
+[PKUP]The words highlighted are ‘she,‘ ‘will,‘ and ‘liberate.‘
+1150) LUCIUS
+[PKUP]‘She will liberate’? I don’t see what that has to do with Alfred.
+1151) BATMAN
+[PKUP]Arkham.
+1159) BATMAN
+[PKUP]Arkham.
+1152) BATMAN
+[ALT;cut][PKUP]She’s been using Wayne Enterprises to get access to the buildings with Wayne Tech security systems.
+1153) BATMAN
+[PKUP]She wants to punish Gotham-- what better way to do it
+1154) BATMAN
+[PKUP]Alfred is... quoting her. “The gates shall be thrown open and a tide of vengence will be unleashed.“
+1155) BATMAN
+[PKUP]And he’s pointing me to her drawing of Arkham.
+1156) LUCIUS
+[PKUP]Sounds like something out of a fire and brimstone sermon.
+1157) BATMAN
+[PKUP][dawning realization]That’s exactly what it is.
+1160) LUCIUS
+[ALT][PKUP]But the asylum is public. That doesn’t make sense.
+1161) BATMAN
+[PKUP][dawning realization]Alfred’s just along for the ride...
+1162) BATMAN
+[PKUP][dawning realization]Alfred’s just along for the ride...
+1163) BATMAN
+[PKUP][holy shit it all makes sense!]She’s going to open the doors. Release the inmates.
+1164) BATMAN
+[PKUP][concern]Alfred’s glasses...
+1165) BATMAN
+[PKUP][concern; tension] There’s blood on the walls.
+1166) BATMAN
+[ALT][PKUP] She’s hiding something...
+1168) BATMAN
+[PKUP][cold] I’m going to see what I can find.
+1169) BATMAN
+[PKUP]And the Vales locked her in the dark... beat her...
+1170) LUCIUS
+[ALT][PKUP][horrified] I can’t even imagine.
+1171) BATMAN
+[ALT][PKUP] He could hear them.
+1172) LUCIUS
+[PKUP] Arkham? But people would know--the staff would see them.
+1173) BATMAN
+[PKUP] The newest chalk--he’s added to an old drawing of Arkham Asylum.
+1174) BATMAN
+[PKUP] He drew figures outside the gates.
+1175) BATMAN
+[PKUP][looking closer, to himself] Like they’re running away...
+1176) 
+Chair
+1177) 
+Blood Trail
+1178) 
+Wall
+1179) 
+Rope Ladder
+1180) 
+Grate
+1181) 
+Hole
+1182) 
+Doll
+1184) 
+Alfred’s Glasses
+1186) 
+Belt
+1187) 
+Bloody Clawing
+1188) 
+Chalk
+1189) 
+Drawings
+1191) LOGDIR
+(chockabout, Mon Nov 14 16:03:28 2016) Investigation hologram - Alfred kneeling by the wall, hand raised to write upon it.
+1193) 
+Red chalk drawings.
+1194) 
+Crude blue chalk scribble.
+1199) 
+Crude blue chalk scribble.
+1195) 
+Drawings in yellow chalk.
+1196) 
+Sketch in red chalk.
+1197) 
+Drawings in blue chalk.
+1198) 
+Yellow chalk scratches.
+1200) 
+Purple chalk drawings.
+1201) 
+Link Left Drawing
+1202) 
+A secret message scrawled in blue chalk.
+1203) 
+Link Right Drawing
+1204) 
+A hastily drawn group of stick figures in blue chalk.
+1205) 
+Link Chalk
+1206) 
+A nub of blue chalk
+1207) 
+Drawing Left
+1208) 
+Drawing Right
+1209) BATMAN
+[PKUP2][thinking] Hmm... The same color as my tech...
+1210) BATMAN
+[PKUP2][thinking] Hmm... The same color as my tech...
+1211) BATMAN
+[PKUP2][thinking] Hmm... The same color as my tech...
+1212) BATMAN
+[PKUP2][thinking] Hmm... The same color as my tech...
+1227) BATMAN
+[PKUP2][thinking] Hmm... The same color as my tech...
+1228) BATMAN
+[PKUP2][thinking] Hmm... The same color as my tech...
+1229) BATMAN
+[PKUP2][thinking] Hmm... The same color as my tech...
+1213) BATMAN
+[PKUP2] {ThinkingA}Can’t be a coincidence...
+1226) BATMAN
+[PKUP2] {ThinkingA}Can’t be a coincidence...
+1214) BATMAN
+[PKUP2] {ThinkingA}These newer drawings were done in the same color as my tech.
+1215) BATMAN
+[PKUP2] Same as on the other wall.
+1218) BATMAN
+[PKUP2] Same as on the other wall.
+1216) BATMAN
+[ALT][PKUP2] {ThinkingA}These newer drawings were done in chalk the color of my tech.
+1217) BATMAN
+[PKUP2] {ThinkingA}Same color as my tech readouts...
+1219) BATMAN
+[PKUP2] {ThinkingA}Just like on the other wall...
+1220) BATMAN
+[PKUP2] {ThinkingA}Just like on the other wall...
+1221) BATMAN
+[PKUP2] Alfred left me another clue...
+1222) BATMAN
+[PKUP2] He left me a message using this chalk.
+1224) BATMAN
+[PKUP2] He left me a message using this chalk.
+1223) BATMAN
+[PKUP2] But there must be more to it.
+1225) BATMAN
+[PKUP2] But there must be more to it.
+1230) BATMAN
+[PKUP]Alfred has highlighted “shall....be.....unleashed.“
+1231) BATMAN
+[PKUP2] One piece apart from the others.
+1232) BATMAN
+[PKUP2] One piece apart from the others.
+1233) BATMAN
+[PKUP2] One piece apart from the others.
+1234) BATMAN
+[PKUP2] One piece apart from the others.
+1235) BATMAN
+[PKUP2] Maybe...
+1236) BATMAN
+[PKUP2] Letters.
+1237) BATMAN
+[PKUP2] They’re highlighted...
+1238) BATMAN
+[PKUP2][reading aloud] Taking... me....
+1239) BATMAN
+[PKUP2] Those towers...
+1240) BATMAN
+[PKUP2] That must be Arkham Asylum.
+1241) BATMAN
+[ALT][PKUP2][recognizing] Arkham Asylum.
+1242) BATMAN
+[PKUP2] Is that Arkham Asylum?
+1243) BATMAN
+[PKUP2] Figures.... fleeing from something.
+1244) BATMAN
+[ALT][PKUP2] People... fleeing...
+1245) BATMAN
+[PKUP2] Some of the words have been highlighted.
+1246) BATMAN
+[PKUP2] [reading] She... will.... liberate.
+1247) BATMAN
+[PKUP2] Alfred’s highlighted three words...
+1248) BATMAN
+[PKUP2] [reading] Shall... be... unleashed...
+1249) BATMAN
+[PKUP2] An arrow...
+1250) BATMAN
+[PKUP2] Pointing to a building.
+1251) BATMAN
+[PKUP2][recognizing] Arkham?
+1252) BATMAN
+[PKUP2] That drawing...
+1253) BATMAN
+[PKUP2][surprised] Looks like Alfred.
+1254) BATMAN
+[PKUP2] The highlighted words read...
+1255) BATMAN
+[PKUP2][reading] To... Arkham...
+1257) BATMAN
+[ALT][PKUP2] Lady Arkam’s taken Alfred to Arkham Asylum...
+1259) 
+A message in red chalk hastily left behind by Alfred.
+1260) 
+Alfred has highlighted some text here in yellow chalk.
+1261) 
+A crude sketch of Lady Arkham, drawn over in purple chalk.
+1262) 
+A crude drawing of a building done in red chalk.
+1263) 
+Arrows scrawled upon the wall in yellow chalk.
+1264) 
+The image of a building in scribbled purple chalk.
+1265) 
+A nub of red chalk.
+1266) 
+A nub of yellow chalk.
+1267) 
+A nub of purple chalk.
+1268) 
+Crude purple chalk sketches.
+1269) 
+Fresh Blood
+1271) 
+Blood Splatter

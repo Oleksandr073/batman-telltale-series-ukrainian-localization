@@ -1,0 +1,851 @@
+﻿1) BRUCE
+I’m in this scene!
+2) 
+Look At.
+5) 
+Look At
+6) 
+Look At
+13) 
+Look At.
+14) 
+Look At.
+56) 
+Look At.
+59) 
+Look At
+68) 
+Look At.
+72) 
+Look At.
+73) 
+Look At.
+354) 
+Look At.
+414) 
+Look At
+418) 
+Look At.
+424) 
+Look At.
+3) 
+Examine
+11) 
+Examine.
+12) 
+Examine
+336) 
+Examine.
+416) 
+Examine.
+4) 
+Pick Up
+15) 
+Pick Up.
+7) 
+Scan hair sample
+8) 
+No
+158) BRUCE
+No.
+366) BRUCE
+{AngryA}[PKUP]No.
+393) LUCIUS
+[PKUP]No.
+9) 
+Yes
+10) 
+Yes
+16) BRUCE
+{FearA}Alfred?
+17) BRUCE
+[ALT]Alfred!
+18) BRUCE
+{FearA}Alfred?
+19) BRUCE
+[ALT]Alfred!
+35) BRUCE
+[grimaces]Alfred...
+186) BRUCE
+[reads password aloud]Alfred
+216) BRUCE
+[most concerned he’s been]{ConcernedB}Alfred...
+417) BRUCE
+[most concerned he’s been]{ConcernedB}Alfred...
+20) BRUCE
+Signs of a struggle.
+49) BRUCE
+Signs of a struggle.
+21) BRUCE
+[ALT]Alfred put up quite a fight.  Good for him.
+50) BRUCE
+[ALT]Alfred put up quite a fight.  Good for him.
+22) BRUCE
+Looks like it was broken over someones head.
+23) BRUCE
+{SurpriseA}Swung so hard it broke in half.
+24) BRUCE
+[re cue ball]Alfred does like to fight dirty.
+25) BRUCE
+{ConcernedA}Not Alfred’s blood.
+55) BRUCE
+Not Alfred’s blood.
+26) BRUCE
+{SmugA}[ALT][can’t help but be a little proud]Well done, old man...
+276) BRUCE
+{SmugA}[ALT][can’t help but be a little proud]Well done, old man...
+27) BRUCE
+Also not Alfred’s blood.
+28) BRUCE
+{AngryA}[alt, frustrated]Damn Penguin.
+196) BRUCE
+{AngryA}[alt, frustrated]Damn Penguin.
+277) BRUCE
+{AngryA}[alt, frustrated]Damn Penguin.
+29) BRUCE
+[Alt, simmering]Damnit Penguin...
+197) BRUCE
+[Alt, simmering]Damnit Penguin...
+30) BRUCE
+[Alt, simmering]Thanks Oz.
+198) BRUCE
+[Alt, simmering]Thanks Oz.
+31) BRUCE
+{AngryA}[alt, on the edge of vengeance]Alfred better not have been on the receiving end of this...
+199) BRUCE
+{AngryA}[alt, on the edge of vengeance]Alfred better not have been on the receiving end of this...
+275) BRUCE
+{AngryA}[alt, on the edge of vengeance]Alfred better not have been on the receiving end of this...
+32) BRUCE
+A brutal fight.
+33) BRUCE
+[not good..]Someone’s hair?
+34) BRUCE
+[getting pissed]Looks like Alfred’s.
+36) BRUCE
+[concerned]Looks like Alfred’s.
+37) BRUCE
+{AngryA}Blood pattern looks like it came off a high velocity hit.
+38) BRUCE
+{SadA}[grim, thinking of Alfred]I hope you weren’t on the receiving end.
+39) BRUCE
+{ThinkingA}[still not reassured]You definitely got your licks in...
+40) BRUCE
+{ConcernedA}[feels useless]Without my Bat Tech, I have no way of knowing if this is Alfred’s blood.
+41) BRUCE
+[genuinely concerned]How much of a fight did you put up Alfred?
+85) BRUCE
+{ThinkingA}[thinking of Alfred]How much of a fight did you put up, Alfred?
+195) BRUCE
+{ThinkingA}[thinking of Alfred]How much of a fight did you put up, Alfred?
+42) BRUCE
+They didn’t try to break into my desk.
+43) BRUCE
+They just wanted Alfred...
+44) BRUCE
+Broken glass.
+45) BRUCE
+[leery]And a missing picture...
+46) DRI
+(Matt McManus, Fri Sep  9 10:50:41 2016) Bruce is puzzled.
+47) BRUCE
+[puzzled]Someone placed this picture down dilberately
+48) BRUCE
+[to himself]She left me a link and password.
+51) BRUCE
+{AngryB}There’s been a break-in.
+52) LUCIUS
+[V.O.]Is Alfred okay?
+312) LUCIUS
+[ALT; worried]Is Alfred okay?
+313) LUCIUS
+[ALT; worried]Is Alfred okay?
+53) BRUCE
+I’m looking for him now.
+81) BRUCE
+I’m looking for him now.
+54) LUCIUS
+[V.O.]I’m on my way.
+173) LUCIUS
+[V.O.]I’m on my way.
+182) LUCIUS
+I’m on my way.
+183) LUCIUS
+[V.O.]I’m on my way.
+57) 
+Connect
+58) 
+Connect
+60) 
+Connect
+61) 
+Connect
+66) 
+Connect
+67) 
+Connect
+69) 
+Connect
+70) 
+Connect
+71) 
+Connect
+62) COA01
+Investigation mechanic!
+63) COA02
+Investigation mechanic!
+64) LADYARKHAM
+Investigation mechanic!
+65) ALFRED
+Investigation mechanic!
+74) 
+He’s as tough as they come.
+75) 
+Alfred’s in serious trouble.
+76) 
+[ALT]I’m responsible.
+77) 
+Not now, Lucius.
+78) LUCIUS
+[V.O.]Any sign of Alfred?
+79) LUCIUS
+[V.O.]Any sign of Alfred?
+80) BRUCE
+Alfred is missing.
+338) BRUCE
+{AngryA}Alfred is missing.
+340) BRUCE
+{AngryA}Alfred is missing.
+82) BRUCE
+{ThinkingA}The lock’s been completely{SadA} destroyed.
+83) BRUCE
+Alfred must have barricaded{AngryA} himself in here.
+84) BRUCE
+[ALT]That would take quite a swing.
+86) BRUCE
+{ThinkingA}Alfred used the pool cue as a weapon.
+89) BRUCE
+{ThinkingA}Alfred used the pool cue as a weapon.
+279) BRUCE
+{ThinkingA}Alfred used the pool cue as a weapon.
+87) BRUCE
+[ALT]He put up one hell of a fight...
+90) BRUCE
+[ALT]He put up one hell of a fight...
+283) BRUCE
+[ALT]He put up one hell of a fight...
+88) BRUCE
+Definitely from some sort of fight.
+91) BRUCE
+Hnh...
+92) BRUCE
+[alt]Waste of scotch...
+93) BRUCE
+{SkepticalA}[to himself]They tackled Alfred into the wall, knocking over the vase.
+97) BRUCE
+{SkepticalA}[to himself]They tackled Alfred into the wall, knocking over the vase.
+94) BRUCE
+[to himself]Alfred managed to escape.
+98) BRUCE
+[to himself]Alfred managed to escape.
+95) BRUCE
+[alt, spits it out]Animals...
+99) BRUCE
+[alt, spits it out]Animals...
+229) BRUCE
+[alt, almost spits it out]Animals...
+96) BRUCE
+Vase was knocked over in the struggle.
+100) BRUCE
+{AngryA}Furniture scattered outwards from a single point.
+101) BRUCE
+There was a bunch of them.
+102) BRUCE
+This wasn’t a fair fight.
+103) BRUCE
+Lady Arkham must have used the concussion blast from her staff to try and stop Alfred.
+105) BRUCE
+Lady Arkham must have used the concussion blast from her staff to try and stop Alfred.
+104) BRUCE
+The force of the blast must have caused Alfred to fly into the wall...
+106) BRUCE
+The force of the blast must have caused Alfred to fly into the wall...
+107) BRUCE
+{ThinkingA}[has a bad feeling]Something big was thrown against this wall...
+108) BRUCE
+{SkepticalA}[Puzzled]Ash everywhere...
+109) BRUCE
+{AngryA}Alfred grabbed the fireplace poker to fend off Lady Arkham.
+112) BRUCE
+{AngryA}Alfred grabbed the fireplace poker to fend off Lady Arkham.
+110) BRUCE
+{SadA}But she knocked it aside.
+113) BRUCE
+{SadA}But she knocked it aside.
+221) BRUCE
+But she knocked it aside.
+111) BRUCE
+{ThinkingA}And it lodged into the wall across the room.
+114) BRUCE
+{ThinkingA}And it lodged into the wall across the room.
+115) BRUCE
+{SkepticalA}[sees scorch mark around hole]A burning hot poker lodged in the far wall...
+116) BRUCE
+{SadA}[worrisome]Alfred doesn’t have the strength to do that...
+117) BRUCE
+[alt]That seems deliberate.
+118) BRUCE
+Lady Arkham wanted me to find this.
+246) BRUCE
+{AngryA}Lady Arkham wanted me to find this...
+119) LUCIUS
+[V.O.]Any luck?
+120) BRUCE
+Lady Arkham took Alfred and left behind a url and password for me to log into.
+121) LUCIUS
+Do you think he’s okay?
+339) BRUCE
+[worried]Do you think he’s okay?
+341) BRUCE
+[worried]Do you think he’s okay?
+122) BRUCE
+Alfred’s as tough as they come.
+123) LUCIUS
+He’d have to be to raise Batman.
+124) BRUCE
+Alfred can handle himself.
+125) BRUCE
+[worried]It’s bad.
+126) LUCIUS
+At least he’s not dead.
+127) BRUCE
+Not yet.
+152) BRUCE
+Not yet.
+250) BRUCE
+Not yet.
+290) LADYARKHAM
+Not yet...
+128) BRUCE
+[through gritted teeth]One way or another.
+129) BRUCE
+Just get down to the batcave.
+130) BRUCE
+There isn’t time to ponder.
+131) BRUCE
+Every second counts.
+132) LUCIUS
+Sorry...  Of course.
+133) LUCIUS
+Bruce are you there?
+134) LUCIUS
+I’ll meet you in the batcave.
+135) LUCIUS
+[V.O.]Where’s Alfred?
+136) LUCIUS
+[ALT, V.O.]Bruce!
+148) LUCIUS
+[ALT, V.O.]Bruce!
+137) LUCIUS
+[V.O.]Is he okay?
+342) LUCIUS
+[ALT; worried]Is he okay?
+138) LUCIUS
+What do you think it is?
+139) LUCIUS
+From what you’ve seen, do you think he’s okay?
+140) LUCIUS
+We’ll get him back, Bruce.
+141) BRUCE
+Alfred’s in some serious trouble.
+142) 
+Yes, Call them
+143) 
+No, Batman can handle it.
+144) 
+[ALT] It’s not the time for that.
+145) 
+[ALT] Let’s not discuss it.
+146) 
+[ALT] Just get down here!
+147) 
+Just get over here.
+149) BRUCE
+Alfred’s missing.
+150) 
+
+243) 
+
+245) 
+
+301) 
+
+151) LUCIUS
+[V.O.] We need to contact the GCPD.
+153) BRUCE
+We’ll need all the help we can get.
+154) BRUCE
+Call them while I look around.
+155) LUCIUS
+[V.O.] Of course.
+156) LUCIUS
+Keep me posted.
+157) LUCIUS
+Or do you want to handle this on your own?
+159) BRUCE
+They’d just contaminate the crime scene and make my job tougher.
+252) BRUCE
+They’d just contaminate the crime scene and make my job tougher.
+160) BRUCE
+Batman will handle this.
+161) LUCIUS
+[V.O.]Understood.
+181) LUCIUS
+[V.O.]Understood.
+162) BRUCE
+[to himself, emotional]{ConcernedB}What did they do to you, Alfred?
+163) BRUCE
+[to himself, snapping back]{AngryA}Need to focus.
+164) BRUCE
+[alt][to himself]Figure out which detail can help me find you.
+165) BRUCE
+Meet me down in the Batcave.
+166) BRUCE
+I’ll search the manor.
+167) LUCIUS
+[V.O.]Will do.
+168) LUCIUS
+[trying to reassure]We’re gonna find him, Bruce.
+169) BRUCE
+[more Batman than Bruce]{AngryB}I know...
+170) 
+They have enough to handle.
+171) BRUCE
+{AngryA}Get over here as fast as you can.
+172) BRUCE
+We need to act while the trail is still hot.
+179) BRUCE
+We need to act while the trail is still hot.
+174) BRUCE
+[alt]The more time that passes, the harder it will be to locate Alfred.
+180) BRUCE
+[alt]The more time that passes, the harder it will be to locate Alfred.
+175) LUCIUS
+[alt, abashed, V.O.]Not that you can’t handle this yourself...
+176) LUCIUS
+[V.O. thinks he’s upset]We’ll find him, Bruce.
+177) BRUCE
+The GCPD have enough on their plate.
+178) BRUCE
+Time is of the essence.
+184) BRUCE
+I wanted to see for myself first.
+185) BRUCE
+[reads paper]{ThinkingB}Reckoning...
+187) BRUCE
+No. Yours...
+188) BRUCE
+That would take tremendous force.
+189) BRUCE
+{ThinkingA}[thinking of Alfred]You put up one hell of a fight, didn’t you?
+282) BRUCE
+{ThinkingA}[thinking of Alfred]You put up one hell of a fight, didn’t you?
+190) BRUCE
+{ConcernedA}[semi-relieved]Not Alfred’s.
+191) BRUCE
+[Alt]Spray Pattern shows a high velocity hit.
+192) BRUCE
+{FearA}[worried]So much blood...
+193) BRUCE
+If my Bat Tech worked I’d know if this was Alfred’s blood in seconds.
+194) BRUCE
+[Alt, grim]Alfred better not have been on the receiving end.
+200) BRUCE
+It was thrown.
+201) BRUCE
+: [alt, dread]That looks like Alfred’s...
+202) BRUCE
+[Alt, shit...]Mother’s favorite vase...
+203) BRUCE
+Odd...
+204) BRUCE
+{ConcernedA}[realizes]Lady Arkham’s staff.
+205) BRUCE
+{ThinkingA}[motherfucker...]She was here...
+206) BRUCE
+{SadA}[putting it together for himself]Alfred might have escaped...
+207) BRUCE
+{ConcernedA}But Lady Arkham used a concussion blast from her staff to knock him into the wall, scattering the surrounding furniture.
+226) BRUCE
+But Lady Arkham used a concussion blast from her staff to knock him into the wall, scattering the surrounding furniture.
+208) BRUCE
+[alt] ...in this room.
+209) BRUCE
+Something was removed from inside the fireplace..
+210) BRUCE
+{AngryB}This is where Alfred fell...
+211) BRUCE
+[grim]{ThinkingB}More blood on the mantle...
+212) BRUCE
+[motherfuckers...]They smashed his face into it.
+213) BRUCE
+That picture was put here.
+214) BRUCE
+[Alt]She wanted me to find this...
+215) BRUCE
+[reads, dread]{SkepticalB}The butler did it...
+217) BRUCE
+[alt, I’m gonna kill you]{AngryC}Vicki...
+218) BRUCE
+Bruce sees writing under the blood on the scrunched up paper.  it reads --
+ “The butler did it.“
+219) BRUCE
+[alt, reads paper]{ThinkingB}Password, Reckoning...
+220) BRUCE
+{ThinkingA}So Alfred grabs the nearest thing to use as a weapon to defend himself.
+222) BRUCE
+But Lady Arkham deflected Alfred’s attack and it lodged into the wall across the room.
+223) BRUCE
+Lady Arkham must have used the concussion blast from her staff to try to stop Alfred.
+224) BRUCE
+That’s why there’s a crack in the wall...
+225) BRUCE
+{AngryB}...throwing him against the wall by the fireplace.
+227) BRUCE
+{ThinkingA}...knocking over the vase.
+228) BRUCE
+The COA MErcinary garbbed Alfred’s hair.  But he manged to get free.  Alfred was grabbed by the hair but wrenctried to slip away, but the Arkham Zealot grabbed onto his hair, ripping some out.
+230) BRUCE
+He broke it across one of their head’s. Then stabbed him to get away.
+231) BRUCE
+He put up a hell of a fight...
+232) BRUCE
+[suspicious]{SkepticalB}That picture doesn’t belong there...
+233) BRUCE
+{SkepticalA}I know what happened.
+234) BRUCE
+{AngryA}He had just enough time to grab a pool cue as a weapon...
+235) BRUCE
+[looking at blood pattern]{ThinkingB}...then stabbed him to get away.
+236) BRUCE
+{ThinkingA}Alfred almost escaped...
+237) BRUCE
+...scattering all the furniture in her path.
+304) BRUCE
+{ThinkingB}...scattering all the furniture in her path...
+238) DIR
+Alfred escapes him, but gets grabbed by the hair.  He yanks free losing a clump of his scalp.
+239) BRUCE
+{AngryB}Lucius, it’s Bruce.
+240) BRUCE
+{AngryB}Lucius, it’s Bruce.
+343) BRUCE
+{AngryB}Lucius, it’s Bruce.
+241) BRUCE
+[alt]I think I know what happened.
+242) BRUCE
+[now I can see...]{AngryB}The Children of Arkham broke in.
+244) BRUCE
+So Alfred grabs the nearest thing to defend himself with...
+247) BRUCE
+[Alt]You wanted me to find this...
+248) BRUCE
+[alt, dead serious, batman will bring the reckoning]{AngryB}Indeed...
+249) BRUCE
+It doesn’t look good.
+314) BRUCE
+It doesn’t look good.
+251) LUCIUS
+[V.O.] Do you want me to contact the GCPD?
+253) LUCIUS
+I’m on my way over.
+254) BRUCE
+Good.
+255) BRUCE
+{AngryA}This pool cue was used as a weapon.
+256) BRUCE
+[not good][alt]Not sure Alfred would be strong enough for that.
+257) BRUCE
+If only my Bat Tech worked.
+258) BRUCE
+I’d be able to know if this was Alfred’s blood in seconds.
+259) BRUCE
+{FearA}Without my Bat Tech I can’t tell if this is Alfred’s blood.
+278) BRUCE
+{FearA}Without my Bat Tech I can’t tell if this is Alfred’s blood.
+260) BRUCE
+{SadA}[starting to fray]He has to be okay...
+274) BRUCE
+{SadA}[starting to fray]He has to be okay...
+261) BRUCE
+{AngryA}Broke it across his attacker’s head.
+280) BRUCE
+{AngryA}Broke it across his attacker’s head.
+262) BRUCE
+{SkepticalA}When that didn’t stop him, he used the jagged end to stab him, spraying blood across the pool table.
+281) BRUCE
+{SkepticalA}When that didn’t stop him, he used the jagged end to stab him, spraying blood across the pool table.
+263) BRUCE
+[alt]Call the GCPD while I search for clues.
+264) LUCIUS
+[alt]You got it.
+265) BRUCE
+[alt]Call the GCPD.
+266) BRUCE
+[alt, concerned]He better be okay...
+267) BRUCE
+{SadA}[alt, concerned]I hope you weren’t on the receiving end of this....
+268) BRUCE
+Was it life and death?
+270) BRUCE
+Was it life and death?
+269) BRUCE
+[alt]Was it really life and death?
+271) BRUCE
+[alt]Was it really life and death?
+272) BRUCE
+If Alfred did this, his adrenaline would have to have been off the charts.
+273) BRUCE
+{SadA}[feels helpless]Fighting for his survival...
+284) BRUCE
+[to himself]But one of them got a hold of his hair...
+285) BRUCE
+[to himself]But one of them got a hold of his hair...
+286) BRUCE
+{ConcernedA}[alt, bad feeling]Like a body...
+287) LADYARKHAM
+I want him alive!
+288) COA01
+[being stabbed]Sonovabitch!
+289) ALFRED
+[hurt bad, defiant to Lady Arkham]I’m not afraid of you.
+291) COA02
+Arhhh!
+292) ALFRED
+[gruinting, fightinhg]Gah!
+293) BRUCE
+{SkepticalB}Alfred barricaded himself inside the parlor.
+294) BRUCE
+{AngryB}...before Lady Arkham blasted the doors open.
+295) BRUCE
+{SkepticalA}He broke it across one of their heads.
+296) BRUCE
+{SkepticalA}Another assailant tackled Alfred....
+297) ALFRED
+[loosing hair]Arrrrrgrgr
+298) ALFRED
+[barricaded against doors, gut check time]Oh, bloody hell!
+299) BRUCE
+{AngryB}The Mercenary grabbed Alfred’s hair.
+300) BRUCE
+{ThinkingB}But he manged to get free.
+302) BRUCE
+{AngryA}...but then Lady Arkham entered the parlor...
+303) BRUCE
+{SkepticalB}...used her staff’s concussion blast...
+305) BRUCE
+But Lady Arkham deflected Alfred’s attack...
+307) BRUCE
+[continues on]{AngryB}...but Lady Arkham deflected Alfred’s attack...
+306) BRUCE
+{SkepticalA}...causing the poker to fly across the room and lodge into the wall.
+308) BRUCE
+[Alt]Alfred stopped fighting by the fireplace.
+309) BRUCE
+{AngryA}Wood’s chipped.
+310) BRUCE
+[alt, motherfuckers...]{AngryB}She must have smashed his face into it.
+311) BRUCE
+[alt, realizes]{ConfusedA}Wait...
+315) BRUCE
+{DisgustA}I don’t know yet.
+316) BRUCE
+{DisgustA}I don’t know yet.
+317) BRUCE
+[alt, worried]Please be okay Alfred.
+318) BRUCE
+{AngryA} [alt, concerned]Looks like one hell of a fight.
+319) BRUCE
+{AngryA} [alt, concerned]Looks like one hell of a fight.
+320) BRUCE
+{SadA}[alt, holding out hope]I just hope you’re okay.
+321) BRUCE
+[alt]We have to find Alfred before the trail goes cold.
+322) BRUCE
+[alt]{FearA}Where are you Alfred?
+323) BRUCE
+[and more importantly]What happened to you, Al?
+324) BRUCE
+{ThinkingA}[looking at chaos]The fight left nothing untouched.
+325) BRUCE
+Or someone...
+326) BRUCE
+It’s up to us.
+327) BRUCE
+[to himself] {ThinkingA}Figure out what happened here...
+328) BRUCE
+I have no way to tell if this is Alfred’s blood.
+329) BRUCE
+I have no way to tell if this is Alfred’s blood.
+330) BRUCE
+[to himself][dark anger] And ripped it out...
+331) BRUCE
+[to himself][dark anger] And ripped it out...
+332) BRUCE
+He broke the cue across one of their heads...
+333) BRUCE
+[angry, thinking of Lady Arkham] {AngryB}You have no idea...
+334) BRUCE
+{AngryB}[darkly, concerned] But they got in anyway.
+335) 
+Scan.
+337) 
+Scan.
+415) 
+Scan.
+344) LUCIUS
+[ALT; concerned]We got cut off earlier.
+345) LUCIUS
+[concerned]What’s going on?
+346) BRUCE
+{AngryA}I’m at the manor.
+347) LUCIUS
+Jesus!
+348) BRUCE
+[ALT]There’s been a break-in at the manor.
+349) BRUCE
+He’s missing.
+350) LUCIUS
+[ALT]Christ!
+351) BRUCE
+{AngryB}I’m going to search for clues.
+352) 37
+41 2016) obj_parlorDoorsBroken
+353) 11 17
+07:49 2016) obj_vaseDamaged
+355) BRUCE
+{ThinkingB}[PKUP]No... No blood on the furniture.
+356) BRUCE
+{AngryA}[PKUP]The crack is a blunt impact. Pool cue didn’t make that.
+357) BRUCE
+{SkepticalA}[PKUP]Pool cue’s not burned. It’s not what’s missing from the fireplace.
+358) BRUCE
+{SkepticalA}[PKUP]That can’t be right.
+359) BRUCE
+[ALT][pickup]These don’t have anything to do with each other.
+360) BRUCE
+{ThinkingA}[PKUP]There’s no blood on the furniture.
+361) BRUCE
+{AngryA}[PKUP]No correlation there.
+362) BRUCE
+{SkepticalB}[PKUP]Doesn’t connect.
+363) BRUCE
+{ThinkingA}[PKUP]No, no blood on the poker.
+364) BRUCE
+{ConcernedA}[PKUP]I don’t see a connection here.
+365) BRUCE
+{SkepticalA}[PKUP]These weren’t scattered by the same event.
+367) BRUCE
+{ConcernedA}[PKUP]The poker couldn’t have made that crack.
+368) ALFRED
+[PKUP]Stay away!
+369) ALFRED
+[PKUP]You monster!
+370) LADYARKHAM
+[PKUP]You should be afraid.
+371) BRUCE
+...sending the poker into the ceiling.
+372) 
+Pool Cue
+386) 
+Pool Cue
+373) 
+The broken, bloodied end of a pool cue.
+374) 
+Blood Splatter
+387) 
+Blood Splatter
+375) 
+Splashes of blood.
+376) 
+Link Furniture
+377) 
+Overturned furniture.
+378) 
+Broken Shelf
+389) 
+Broken Shelf
+379) 
+A broad crack in the wall.
+380) 
+Fireplace
+390) 
+Fireplace
+381) 
+The ash and coal-strewn fireplace.
+382) 
+Fire Poker
+391) 
+Fire Poker
+383) 
+A metal fire iron.
+384) 
+Broken Lock
+385) 
+Busted Vase
+388) 
+Furniture
+392) 
+Picture
+394) LUCIUS
+[ALT][PKUP]Alfred--
+395) LUCIUS
+[PKUP]Just tell me how I can I help.
+396) ALFRED
+[PKUP]Get back!
+397) LADYARKHAM
+[PKUP]Don’t run.
+398) LADYARKHAM
+[PKUP]A valiant effort. Too bad.
+399) LADYARKHAM
+[PKUP]Not a Wayne in sight to hide behind now.
+400) LADYARKHAM
+[PKUP]Get him!
+401) LADYARKHAM
+[PKUP]Corner him!
+402) LADYARKHAM
+[PKUP]He’s just one old man!
+403) BRUCE
+[PKUP][Puzzled]How the hell...?
+404) BRUCE
+[PKUP][ALT][Puzzled]What in the world...?
+405) BRUCE
+{AngryA}[PKUP]Alfred grabbed the fireplace poker to fend off an attacker.
+406) BRUCE
+{SadA}[PKUP]But it was knocked away.
+407) BRUCE
+[PKUP][to Lucius] He’s not here.
+408) BRUCE
+[ALT][PKUP][upset] Dammit...
+409) BRUCE
+[ALT][PKUP][to Lucius] He’s not answering.
+410) BRUCE
+[ALT; coverage][PKUP] I’m going to search the house.
+411) BRUCE
+[PKUP][can’t help but be a little proud] Well done, Alfred.
+412) BRUCE
+[PKUP][can’t help but be a little proud] Well done, Alfred.
+413) BRUCE
+[ALT; coverage][PKUP] Alfred said Lady Arkham came here. There have to be some clues.
+419) BRUCE
+[PKUP2] I wonder what could have caused this...
+420) BRUCE
+[ALT][PKUP2] A scuff mark...
+421) 
+Scuff Mark
+422) 
+Scuff Mark
+423) 
+Scuff Mark
+425) 
+Mantle Blood

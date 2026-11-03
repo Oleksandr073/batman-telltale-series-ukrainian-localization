@@ -1,0 +1,164 @@
+﻿1) LADYARKHAM
+He’s all yours!
+23) LADYARKHAM
+He’s all yours!
+2) BATMAN
+[to himself]Not today.
+3) COP03
+[morale boosted]It’s Batman!
+4) GORDON
+[breathing hard, amused]Never thought I’d get the chance to save you.
+5) COP03
+Get on the ground!
+6) COP04
+Hands above your heads!
+7) GORDON
+My guys have it here. Go.
+8) GORDON
+Lock it down. Be thorough!
+9) GORDON
+I’m with Batman.
+10) LADYARKHAM
+You underestimate the true children of Arkham.
+45) LADYARKHAM
+You underestimate the true children of Arkham.
+11) LADYARKHAM
+[calling out]Arkham! Listen to me!
+43) LADYARKHAM
+[calling out]Arkham! Listen to me!
+12) LADYARKHAM
+If you know who I am--
+39) LADYARKHAM
+If you know who I {FaceAccent}am--
+13) LADYARKHAM
+--then you should know that you can’t possibly win here.
+40) LADYARKHAM
+--then you should know that you can’t {FaceAccent}possibly win here.
+14) COP04
+We got your back, Batman!
+15) COP03
+[to all]Come on! Round the inmates up!
+16) INMATE01
+Batman?
+41) INMATE01
+{FaceAccent}Batman?
+49) INMATE01
+Batman?
+53) ORDERLY
+Batman?!
+17) INMATE02
+He stuck me in here!
+48) INMATE02
+He stuck me in here!
+18) INMATE03
+Me too!
+51) INMATE03
+Me too!
+19) BATMAN
+[grave]She’s got a hostage.
+20) LADYARKHAM
+You can’t touch me here.
+21) LADYARKHAM
+[ALT]Take him down!
+24) LADYARKHAM
+[ALT]Take him down!
+22) LADYARKHAM
+[ALT]Put him down!
+25) LADYARKHAM
+[ALT]Put him down!
+26) COP03
+[ALT]Batman’s here!
+27) GORDON
+Alright.
+28) LADYARKHAM
+There’s nothing you can do, Batman!
+29) LADYARKHAM
+I told you-- you’re too late.
+30) BATMAN
+Vicki!
+38) BATMAN
+{AngryB}Vicki!
+31) LADYARKHAM
+These souls kept behind bars.
+42) LADYARKHAM
+These souls kept behind bars.
+32) LADYARKHAM
+Open the doors!
+44) LADYARKHAM
+Open the doors!
+33) INMATE01
+Let me at him!
+50) INMATE01
+Let me at him!
+34) LADYARKHAM
+Freedom is yours! The only one standing in your way...
+47) LADYARKHAM
+Freedom is yours! The only one standing in your way...
+35) LADYARKHAM
+[dark]...is Batman.
+46) LADYARKHAM
+[dark]...is Batman.
+36) BATMAN
+[ALT]I need to follow her.
+37) INMATE02
+He’s the crazy one!
+52) INMATE02
+He’s the crazy one!
+54) ORDERLY01
+The entire security system is offline!
+55) ORDERLY01
+Every inmate is loose!
+56) BATMAN
+The Children of Arkham leader? Did you see her?
+57) ORDERLY01
+They went...
+58) LUCIUS
+[ALT][comm]Without our tech, I’m not going to be much help finding Alfred.
+59) LUCIUS
+[ALT] [comm] But I’ll do what I can.
+60) LUCIUS
+[PKUP]Lieutenant Gordon says that the GCPD are on their way. He’s leading the team himself.
+61) LUCIUS
+[PKUP] If you can find Alfred, maybe you can get him outta there before all hell breaks loose.
+79) LUCIUS
+[PKUP] If you can find Alfred, maybe you can get him outta there before all hell breaks loose.
+62) LUCIUS
+[ALT][PKUP]Until they arrive-- you should see if you can find Alfred.
+80) LUCIUS
+[ALT][PKUP]Until they arrive-- you should see if you can find Alfred.
+63) LUCIUS
+[ALT][PKUP]Maybe you can find Alfred before things get too hairy--get him to safety.
+81) LUCIUS
+[ALT][PKUP]Maybe you can find Alfred before things get too hairy--get him to safety.
+64) COA01
+Go ahead. I got this.
+65) BATMAN
+[PKUP][low hiss]Lucius?
+66) COA01
+Everything good?
+67) BATMAN
+[PKUP][low, to himself]Something’s blocking the comms.
+68) BATMAN
+[comm]The Children of Arkham have taken over.
+69) COA02
+Orderlies are rounded up.
+70) LUCIUS
+[PKUP]Good--[luck, cut off][static]
+71) COA01
+That’s the last of it, then.
+72) COA01
+Copy. On our way.
+73) BATMAN
+[PKUP][low] I’m on it.
+74) BATMAN
+[ALT][PKUP][low hiss] Lucius?!
+75) COA02
+[over walkie]Almost ready. Let her know.
+76) BATMAN
+[ALT][PKUP][low, to himself]She’s jamming communications--
+77) LUCIUS
+[PKUP]That suit’s no slouch. You’re well prepared for a fight.
+78) LUCIUS
+[PKUP]And the GCPD are on their way to deal with the inmates.
+82) 
+Throw Puck

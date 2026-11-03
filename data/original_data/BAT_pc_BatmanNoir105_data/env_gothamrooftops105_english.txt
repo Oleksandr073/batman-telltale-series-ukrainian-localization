@@ -1,0 +1,214 @@
+﻿1) 
+Good
+2) 
+Bad
+3) 
+He needs medical treatment
+4) GOON01
+[from the other side of the door] You’re done, Gordon!
+5) GOON01
+[from the other side of the door] Give up your badge and we’ll let you live.
+6) GORDON
+[fighting through pain] Sounds like an over-reach of municipal power.
+7) GORDON
+Just in time, Batman.
+64) GORDON
+{TiredA}Just in time, Batman.
+8) GORDON
+I knew I could count on you.
+72) GORDON
+[ALT]{TiredA}I knew I could count on you.
+9) GORDON
+We’ve had our differences in the past, but you’re the only one that can help us now.
+10) GORDON
+Mayor Dent’s lost his goddamn mind. His enforcers have overrun the city.
+11) GORDON
+Commissioner Grogan spoke out publicly after Dent put a bounty on Bruce Wayne.
+12) BATMAN
+Dent’s clearly sick in the head.
+13) BATMAN
+[to Gordon] Follow my lead.
+14) BATMAN
+Dent’s a maniac. He needs to be stopped before he tears this city apart.
+15) GORDON
+[irony] Apparently our new Mayor doesn’t care much for dissent.
+65) GORDON
+{DisgustA}[irony] Apparently, our new mayor doesn’t care much for dissent.
+16) GORDON
+[dry] Well, maybe you can get him some therapy --
+68) GORDON
+{TiredA}[dry] Well, maybe you can get him some therapy...
+17) GORDON
+After you stop him tearing the city apart.
+69) GORDON
+{AngryA}after you stop him tearing the city apart.
+18) BATMAN
+Dent is a maniac. Stay out of his way.
+19) GORDON
+Don’t let me get in your way.
+71) GORDON
+{ThinkingA}Don’t let me get in your way.
+20) GORDON
+After this, he better stay out of mine.
+21) GORDON
+I’m top of his list for foiling his hit on Wayne.
+66) GORDON
+{ThinkingA}I’m top of his list for foiling his hit on Wayne.
+22) GORDON
+Come on. The Commisoner’s still down there.
+23) GOON01
+Tsk, tsk, Gordon.
+61) GOON01
+{AmusedA}Tsk, tsk, Gordon.
+24) GOON01
+Now we gotta nail your tongue to the prencinct door. By order of City Hall.
+25) GOON01
+No such thing! Not anymore!
+26) GORDON
+There is while I’m still standing.
+27) RYDER
+In an unprecedented breach of Mayoral Authority, Harvey Dent’s enforcers are implementing what critics say amounts to martial law.
+28) RYDER
+While Dent insists that his harshly enforced curfew is for the safety of Gotham’s citizens, opponents of his authoritarian measures have been routinely silenced.
+29) RYDER
+The latest to speak out is Police Commissioner Grogan. He called Dent ‘an assault on democracy’ and demanded his immediate resignation.
+50) RYDER
+{ThinkingB}[ALT] The latest to speak out is Police Commissioner Grogan. He called Dent ‘an assault on democracy’ and demanded his immediate resignation.
+30) RYDER
+Earlier this morning, hard line Dent supporters within the GCPD attempted to arrest Grogan, sparking violence in the precinct.
+57) RYDER
+{NormalA}[ALT] Earlier this morning, hard line Dent supporters within the GCPD attempted to arrest Grogan, sparking violence in the precinct.
+31) RYDER
+These are dark days in Gotham, and the question on everyone’s lips is ‘when will Batman --‘
+32) RYDER
+You can’t be in here. You --
+33) RYDER
+[struggling; off camera] You can’t do this, you- !
+34) GORDON
+And he’s ordered a purge of all the honest cops left in the city.
+67) GORDON
+{AngryA}And he’s ordered a purge of all the honest cops left in the city.
+35) GORDON
+[ALT; less cocky] You deadbeats have gone too far...
+36) GOON01
+You shoulda known better than to speak out against Mayor Dent.
+37) 
+Stay away from him.
+38) 
+He needs to be stopped.
+39) RYDER
+[WRITE] Dent set off a bomb and burned down Wayne manor!!!!
+40) RYDER
+[WRITE]People dead!
+41) RYDER
+[WRITE]People who hate that bomb thing are getting silenced and kidnapped!
+42) RYDER
+{ConfusedA}[ALT; old] While Dent insists that his harshly enforced curfew is for the safety of Gotham’s citizens, {SkepticalA}opponents of his authoritarian measures have been routinely silenced.
+43) RYDER
+[CUT][a little desperate] {NormalA}In an unprecedented breach of Mayoral Authority, {ThinkingA}Harvey Dent’s enforcers are implementing what critics say amounts to martial law.
+44) GORDON
+{DisgustA} Just try me.
+45) GORDON
+{AngryA} You punks.
+46) 
+
+47) GORDON
+{ThinkingA}Come on. The commissioner’s{AngryA} still down there.
+48) RYDER
+[upset] {ConcernedA}The city is still reeling from an explosion Dent set off that obliterated an entire city block and{NormalA} killed innocents.
+49) RYDER
+{ConfusedA}While Dent insists that his methods of answering the Children of Arkham’s violence with more violence are justified, {SkepticalA}opponents of his extreme measures have been routinely silenced.
+51) RYDER
+The latest to speak out is Police Commissioner Grogan. He called Dent ‘a murderer and a terrorist’ and demanded his immediate resignation.
+52) GORDON
+{ThinkingA}[ALT] Commissioner Grogan spoke out publically against Dent after the bombing.
+95) GORDON
+{ThinkingA}[ALT] Commissioner Grogan spoke out publically against Dent after the bombing.
+53) BATMAN
+{AngryA}Dent is a sick man. He needs to be stopped before he hurts anyone else.
+54) BATMAN
+[ALT] Dent is clearly sick in the head.
+55) BATMAN
+Dent is a maniac. Let me handle it. I don’t want anyone else getting hurt.
+56) GORDON
+After this, Dent is the one who’s going to get hurt.
+58) RYDER
+{ConcernedA}These are dark days in Gotham, and the question on everyone’s lips is ‘when will{ConfusedA} Batman --‘
+59) RYDER
+{SkepticalA}Hey... You can’t be in here.
+60) RYDER
+{SurpriseA}struggling; off camera] Hey, you can’t do this! Hey! Let me go! Hey, hey! Stop!
+62) GOON01
+{SkepticalA}You should’ve known better, Gordon!
+63) GOON01
+{AmusedA}Now we nail your tongue to the precinct door, by order of city hall!
+70) BATMAN
+{AngryA}Dent is a maniac and he needs to be stopped before he tears this city apart.
+73) GORDON
+{TiredA}We’ve had our differences in the past, {ThinkingA}but you’re the only one that can help us now.
+74) GORDON
+{TiredA}Mayor Dent’s lost his goddamn mind.{AngryA} His enforcers have overrun the city.
+75) RYDER
+[PKUP][deep breath, clears throat]
+76) RYDER
+[ALT][PKUP] The city-- [starts over]
+77) RYDER
+[PKUP] When questioned about his extreme measures, Mayor Dent said he’ll use “any force necessary” to take down the Children of Arkham.
+78) RYDER
+[PKUP] And opponents to
+79) RYDER
+[PKUP][grave] Meanwhile, his opponents are routinely silenced.
+80) RYDER
+How long will this Two Face stay in power?
+81) RYDER
+[PKUP][grave, sincere] These are dark days in Gotham.
+82) RYDER
+And the question on everyone’s lips is...
+83) RYDER
+When will he be stopped?
+84) RYDER
+[PKUP][upset, with gravitas] {ConcernedA}The city is still reeling from an explosion Mayor Harvey Dent set off that obliterated an entire city block and{NormalA} killed innocents.
+85) RYDER
+[PKUP] Our mayor promised us a better city, but delivers only more violence.
+86) RYDER
+[ALT][PKUP] My question to the people is...
+87) RYDER
+[PKUP] How long do we let this ‘Two Face’ stay in power?
+88) RYDER
+[PKUP] How long can we--[stand by]
+89) GOON01
+[PKUP] Now, now, Gordon.
+90) DEBORAH
+Testing
+91) GORDON
+[PKUP][urgent] Someone’s got to stop him.
+92) GORDON
+[PKUP] He’s ordered a purge of every honest cop we have left...
+93) GORDON
+[PKUP][disturbed] which isn’t many.
+94) GORDON
+[PKUP] He’s
+96) RYDER
+[ALT][PKUP] How long do we let this two-faced mayor stay in power?
+97) GOON01
+[PKUP] Time’s up!
+98) GORDON
+[ALT][PKUP][urgent] Come on! The Commissioner’s down there!
+99) GORDON
+[ALT; if needed][PKUP][urgent, surprise] More enforcers!
+100) GORDON
+[PKUP][pained noise]
+101) GORDON
+[PKUP][another pained grunt of effort as he hurries towards the door]
+102) GORDON
+[PKUP][hissed breath; in pain]
+103) RYDER
+[PKUP] In response, Dent’s enforcers attempted to arrest Grogan, sparking violence inside the precinct.
+104) RYDER
+[ALT][PKUP2]The city is still reeling from an explosion Mayor Harvey Dent set off that obliterated an entire city block.
+105) RYDER
+[ALT][PKUP2] When questioned about the event, Mayor Dent justified his extreme measures saying that the loss of innocent lives was an “unfortunate cost” to fighting the Children of Arkham.
+106) 
+Dent’s a sick man.
+107) 
+I’m going to stop him.

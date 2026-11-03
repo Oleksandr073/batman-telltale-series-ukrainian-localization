@@ -1,0 +1,1610 @@
+﻿#### 5e3593cfa1 | choice/UI | x14
+^font:MenuDisplaySmall.font^WRITTEN BY
+
+#### d2d01cd508 | choice/UI | x14
+^font:MenuDisplaySmall.font^DESIGNED BY
+
+#### a03a656553 | choice/UI | x2
+^^Chris Hockabout - Lead
+Mark Darin
+Emily Garrison
+Michael Kirkbride
+Luke Maulding
+
+#### 16b35c7570 | choice/UI | x14
+^font:MenuDisplaySmall.font^DIRECTED BY
+
+#### 80bf6b871f | choice/UI | x4
+^^Kent Mudle
+
+#### 54fd0b3bbb | choice/UI | x14
+^font:MenuDisplaySmall.font^ART DIRECTION BY
+
+#### 84094740ab | choice/UI | x10
+^^Martin McDonald
+
+#### 713133cf1a | choice/UI | x1
+FMOD Studio by Firelight Technologies
+Uses Simplygon (TM), Copyright © 2014 Donya(TM) Labs AB
+©2002 Jean-Marc Valin
+
+
+Uses Oodle. Copyright (C) 2008-2016 by RAD Game Tools, Inc.
+
+Copyright © 1994–2016 Lua.org, PUC-Rio.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+This game is a work of fiction.  All of the characters, events, locations, logos, and entities portrayed are fictional.  Any resemblance to real persons, living or dead, or actual events, is purely coincidental.
+
+
+Software code © 2016 Telltale, Inc. All other elements ©2016 DC Comics.  BATMAN and all related characters, their distinctive likenesses, and related elements are the property of DC Comics.  ™ & © 2016.  Telltale, Telltale Games, Crowdplay, the Crowd Play logo and the Telltale logo are trademarks and/or registered trademarks of Telltale, Inc. All rights reserved.
+WBIE LOGO, WB SHIELD: ™ & © Warner Bros. Entertainment Inc. (s16)
+
+All other trademarks are the property of their respective owners.  All rights reserved.
+
+#### 3e42254449 | choice/UI | x2
+In Memoriam
+
+Jory Prum
+1975 - 2016
+
+Stuart Waterman
+1973 - 2016
+
+#### ca7652d09f | choice/UI | x10
+^font:MenuDisplaySmall.font^MUSIC BY
+
+#### c4443088c4 | choice/UI | x19
+^font:MenuDisplaySmall.font^CONTENT PROGRAMMING
+
+#### 629797dc93 | choice/UI | x14
+^font:MenuDisplaySmall.font^ANIMATION
+
+#### 6e37d8f7c2 | choice/UI | x14
+^font:MenuDisplaySmall.font^CINEMATIC ARTISTS
+
+#### 94b749c20c | choice/UI | x10
+^^Jared Emerson-Johnson
+
+#### f31d9248b2 | choice/UI | x2
+^^Zack Keller - Lead
+Patrick Kevin Day
+Shanon Ingles
+Nicole Martinez
+James Windeler
+
+#### 2006697a84 | choice/UI | x2
+^^Matthew Leach - Lead
+Linda Bork
+Bridget  Bougan
+Kyle Cabral
+Patrick Clark
+Colter Coates
+Mark Droste
+Justin M Dunkle
+Hillary Galvin
+Michael Gambino
+Ori Gellman
+Tamara Go
+Andrew Goh
+Rogelio Gonzalez
+Scott Hammack
+Jonah Huang
+Jane Kim
+Zachary Macias
+Keenan Manely
+Andrew McDonell
+Christopher Rebbert
+Christopher Rieser
+Brett R. Rogstad
+Daniel Rosales Mendoza
+Jonathan Stauder
+Sean Stewart
+Ryann Lynn Weller
+Robert Wilson
+
+#### 6f92b073f1 | choice/UI | x2
+^^Michael Tjosvold - Lead
+Caitlin Geels
+Michael Hall
+Ryan Hayford
+Tyler Helton
+Michael Hollander
+Marcia Hunsicker
+Eric Ingerson
+Jason Malinowsky
+Dianzambi Nick Malutama
+Chris McCormick
+Ryan Rasmussen
+Justin Rosenthal-Kambic
+Ramon Torralba
+Angelita R. Wylie
+
+#### bf8da61896 | choice/UI | x2
+^^Tulley Rafferty - Lead
+David Grem Armstrong
+Michael Carpenter
+Gregory Felber
+Jason Kim
+John Wetmiller
+
+#### f7030fdf3f | choice/UI | x14
+^font:MenuDisplaySmall.font^ENVIRONMENT ART
+
+#### ff1fe411d3 | choice/UI | x2
+^^Christian De Los Santos - Lead
+Jonathan Armstrong
+Brenton Corns
+Julia Lichtblau
+Farhan Noor
+Mark Sheppard
+Amanda Stewart
+Josh Michael Tyler
+Jan Wyss
+
+#### cd61bb2c3c | choice/UI | x14
+^font:MenuDisplaySmall.font^CHARACTER ART
+
+#### 3794b28e40 | choice/UI | x2
+^^Daveed Kaplan - Lead
+Jay Lenn Cardona
+John Carnabuci
+Brandon Cebenka
+Davide Pagin
+Michael Sherak
+John Susuico
+Michael Vallejo
+
+#### 7a088463f0 | choice/UI | x14
+^font:MenuDisplaySmall.font^LIGHTING
+
+#### 927533e0af | choice/UI | x2
+^^Leif Estes- Lead
+Craig Schiller
+
+#### 1dc6b8bdcc | choice/UI | x14
+^font:MenuDisplaySmall.font^CONCEPT ART
+
+#### 13f61a0987 | choice/UI | x2
+^^Michael Broussard
+Gray Rogers
+Derek Stratton
+
+#### f96f62828b | choice/UI | x14
+^font:MenuDisplaySmall.font^USER INTERFACE
+
+#### 777264b24b | choice/UI | x2
+^^David R. Monroe - Lead
+Luke Aiello
+Hain Lee
+Adrianne Pugh
+Katie Zammit
+
+#### 50e2eecce9 | choice/UI | x14
+^font:MenuDisplaySmall.font^TECHNICAL ART AND EFFECTS
+
+#### 7e804fe386 | choice/UI | x2
+^^Jeffrey Benjamin - Lead VFX
+Ricky Lee O’Connor - Lead Rigging
+Tracey Landau
+Emily Overfelt
+Michael Perretta
+Valeria Reznitskaya
+William L. Walker
+
+#### 8a71d55aff | choice/UI | x14
+^font:MenuDisplaySmall.font^SOUND DESIGN
+
+#### d8c4a6f491 | choice/UI | x2
+^^Lazar Levine - Lead
+Brian Correia
+Scott Gilmore
+Michael Kamper
+
+#### cf98be2cb9 | choice/UI | x14
+^font:MenuDisplaySmall.font^VO DIRECTION
+
+#### b814132a61 | choice/UI | x2
+^^William Beckman - Lead
+Arthur Von Nagel
+
+#### 7728e56373 | choice/UI | x10
+^font:MenuDisplaySmall.font^ASSISTANT DIRECTOR
+
+#### 33b4caca64 | choice/UI | x192
+^^Name(s)
+
+#### 988819b5bb | choice/UI | x4
+^font:MenuDisplaySmall.font^CREATIVE LEAD
+
+#### 5bcf6218e8 | choice/UI | x4
+^^Andrew Grant
+
+#### a8fa1f7b05 | choice/UI | x10
+^^Brett Tosti
+
+#### cbe1d832cf | choice/UI | x15
+^font:MenuDisplaySmall.font^CREATIVE DIRECTOR
+
+#### a6600321de | choice/UI | x10
+^font:MenuDisplaySmall.font^EXECUTIVE PRODUCER
+
+#### 8993f939d8 | choice/UI | x10
+^^Sean O’Connor
+
+#### 68e7899f2c | choice/UI | x10
+^font:MenuDisplaySmall.font^SENIOR  PRODUCER
+
+#### c2a4660ec4 | choice/UI | x10
+^^Brodie Andersen
+
+#### 7b3f7aa9c0 | choice/UI | x8
+^font:MenuDisplaySmall.font^PRODUCERS
+
+#### 4c77f9aff9 | choice/UI | x2
+^^Bryan Roth
+Lisa Schulz
+
+#### 4bc99f5924 | choice/UI | x2
+^^Jay Chaney
+Christopher Vossen
+
+#### b150d69fc8 | choice/UI | x10
+^font:MenuDisplaySmall.font^ASSOCIATE PRODUCERS
+
+#### 911fd1cbd9 | choice/UI | x10
+^font:MenuDisplaySmall.font^ASSISTANT PRODUCERS
+
+#### 43340fa1a7 | choice/UI | x2
+^^Gregory Masto
+Andrew Smallwood
+
+#### 291c958d04 | choice/UI | x8
+^font:MenuDisplaySmall.font^CREATIVE ASSISTANTS
+
+#### 8ed9ccf2ff | choice/UI | x2
+^^Mark Anquoe
+Juan Vaca
+
+#### 058af0d366 | choice/UI | x14
+^font:MenuDisplaySmall.font^ADDITIONAL WRITING
+
+#### c8f85f5217 | choice/UI | x2
+^^Meredith Ainsworth
+Michael Choung
+Andrew Hanson
+Pierre Shorette
+
+#### 38d8b65a72 | choice/UI | x14
+^font:MenuDisplaySmall.font^ADDITIONAL DESIGN
+
+#### e2e78f60b5 | choice/UI | x2
+^^Ryan Kaufman
+Matthew McManus
+
+#### dfa20d1704 | choice/UI | x10
+^font:MenuDisplaySmall.font^ADDITIONAL DIRECTION
+
+#### ed7222ff38 | choice/UI | x2
+^^Nicholas Herman
+
+#### c62581a4d4 | choice/UI | x14
+^font:MenuDisplaySmall.font^ADDITIONAL ART DIRECTION
+
+#### 32d93f8d82 | choice/UI | x10
+^^Derek Sakai
+
+#### 4311e416b0 | choice/UI | x10
+^font:MenuDisplaySmall.font^ADDITIONAL MUSIC
+
+#### ddb713075a | choice/UI | x14
+^font:MenuDisplaySmall.font^ADDITIONAL CONTENT PROGRAMMING
+
+#### 1c7e9e5542 | choice/UI | x14
+^font:MenuDisplaySmall.font^ADDITIONAL ANIMATION
+
+#### 7df89388d3 | choice/UI | x2
+^^Mindwalk Studios
+West Munz
+Chris Waltner
+
+#### 9de818a0ce | choice/UI | x2
+^^Ryan Chan
+Airyque Ervin
+Scott Hammack
+Jonah Huang
+Marina Ilic
+Jonathan T. Kwok
+Sean Manning
+Robert Wilson
+
+#### 9ad7961ceb | choice/UI | x14
+^font:MenuDisplaySmall.font^ADDITIONAL CINEMATIC ARTISTS
+
+#### e820044348 | choice/UI | x2
+^^Ricardo Boronat
+Kelsey Martin
+John R. Miller
+Virtuos Games
+
+#### 862fab7176 | choice/UI | x14
+^font:MenuDisplaySmall.font^ADDITIONAL CHARACTER ART
+
+#### 628a174f73 | choice/UI | x2
+^^Jonathan Garcia
+Brian Flora (matte paintings)
+Jim Moore (matte paintings)
+Virtuos Games
+Volta (matte paintings)
+
+#### 0fa76538f1 | choice/UI | x14
+^font:MenuDisplaySmall.font^ADDITIONAL ENVIRONMENT ART
+
+#### de98df0f03 | choice/UI | x16
+^font:MenuDisplaySmall.font^ADDITIONAL LIGHTING
+
+#### 21a29317e9 | choice/UI | x14
+^font:MenuDisplaySmall.font^ADDITIONAL CONCEPT ART
+
+#### 1a01bdd330 | choice/UI | x2
+^^Robin Chyo
+Min Fu
+John Grello
+Brian Matyas
+Dilanka Samaratunga
+
+#### edb8f68a1c | choice/UI | x10
+^font:MenuDisplaySmall.font^ADDITIONAL USER INTERFACE
+
+#### 09eea0c304 | choice/UI | x2
+^^Crystal Rogers
+
+#### 60f6941cac | choice/UI | x2
+^font:MenuDisplaySmall.font^ADDITIONAL
+TECHNICAL ART AND EFFECTS
+
+#### c4c7061211 | choice/UI | x2
+^^Jason Armstrong
+Brian Eby
+Nora Falcon
+Jordan Levitt
+
+#### 9e1a269477 | choice/UI | x10
+^font:MenuDisplaySmall.font^ADDITIONAL ART TEAM SUPPORT
+
+#### fbcb916d08 | choice/UI | x14
+^font:MenuDisplaySmall.font^ADDITIONAL PRODUCTION
+
+#### 572620bd81 | choice/UI | x2
+^^Todd Q. Jefferson
+Justin M. Lambros
+
+#### b044283460 | choice/UI | x2
+^^Michael Daglow - Lead
+Romel Alonzo
+James Chapman
+Richard Heath
+Marylena LeBlanc
+William Quismorio
+Benjamin Vizcaino
+
+#### 17db9ffe03 | choice/UI | x14
+^font:MenuDisplaySmall.font^DEVELOPMENT QUALITY ASSURANCE
+
+#### 2a956a2c00 | choice/UI | x10
+^font:MenuDisplaySmall.font^VO PRODUCTION
+
+#### cea201064d | choice/UI | x14
+^font:MenuDisplaySmall.font^CAST
+
+#### 0f209acba9 | choice/UI | x10
+^^Troy Baker
+
+#### 3de467c9f4 | choice/UI | x2
+^font:MenuDisplaySmall.font^BATMAN, BRUCE WAYNE,
+THOMAS WAYNE
+
+#### d09465611e | choice/UI | x8
+^font:MenuDisplaySmall.font^CATWOMAN, SELINA KYLE
+
+#### 96a05074f4 | choice/UI | x12
+^^Laura Bailey
+
+#### 89ae148923 | choice/UI | x10
+^font:MenuDisplaySmall.font^SONGS
+
+#### 7d1e7662b8 | choice/UI | x2
+^font:MenuDisplaySmall.font^BIRDS OF THE HEART
+
+#### 2d08db53ef | choice/UI | x4
+^^Words and Music by John di Martino
+© 2015 John di Martino Music BMI
+All rights reserved.
+
+#### 5d59e82adf | choice/UI | x12
+^font:MenuDisplaySmall.font^LIVE ORCHESTRA PRODUCTION BY
+
+#### bd3796f6b2 | choice/UI | x8
+^^Dynamedion
+
+#### 974fb38ee3 | choice/UI | x6
+^^Emmanuel Manzanares
+Vlad Rimburg
+
+#### 421154a670 | choice/UI | x10
+^font:MenuDisplaySmall.font^STUNT/FIGHT COORDINATORS
+
+#### a6c4491a71 | choice/UI | x16
+^font:MenuDisplaySmall.font^TELLTALE, INC.
+
+#### 52250f4a18 | choice/UI | x19
+^font:MenuDisplaySmall.font^CEO
+
+#### 0a3cbb83d2 | choice/UI | x14
+^^Kevin Bruner
+
+#### c672219b91 | choice/UI | x14
+^font:MenuDisplaySmall.font^CFO
+
+#### a9ab149f8c | choice/UI | x14
+^^Larry Castro
+
+#### dd6b213d41 | choice/UI | x14
+^font:MenuDisplaySmall.font^SENIOR VICE PRESIDENT OF PUBLISHING
+
+#### 1684bcf12e | choice/UI | x14
+^^Steve Allison
+
+#### 2a5f35813a | choice/UI | x14
+^^Dan Connors
+
+#### c344248666 | choice/UI | x14
+^font:MenuDisplaySmall.font^EXECUTIVE ADVISOR
+
+#### e6a9276ff0 | choice/UI | x14
+^font:MenuDisplaySmall.font^VICE PRESIDENT OF DEVELOPMENT
+
+#### 1c91197d5b | choice/UI | x14
+^^Paul Mathus
+
+#### 7d8295fd8d | choice/UI | x14
+^font:MenuDisplaySmall.font^VICE PRESIDENT OF ENGINEERING
+
+#### 17126e6d1e | choice/UI | x14
+^^Zacariah Litton
+
+#### 55c21af9dd | choice/UI | x14
+^font:MenuDisplaySmall.font^VICE PRESIDENT OF ONLINE
+
+#### bd9c9110d0 | choice/UI | x14
+^^Steve Crystal
+
+#### 2e39993e1c | choice/UI | x14
+^font:MenuDisplaySmall.font^DIRECTOR OF HUMAN RESOURCES
+
+#### 4845c637f9 | choice/UI | x14
+^^Kara Henander
+
+#### e4a734a3c6 | choice/UI | x14
+^^Richard Iggo
+
+#### c39066f843 | choice/UI | x14
+^font:MenuDisplaySmall.font^SENIOR DIRECTOR OF MARKETING
+
+#### 68cacadeb9 | choice/UI | x14
+^font:MenuDisplaySmall.font^DIRECTOR OF ANALYTICS
+
+#### a0a9123fc7 | choice/UI | x14
+^^Nathan West
+
+#### 18e03d2019 | choice/UI | x14
+^font:MenuDisplaySmall.font^DIRECTOR OF ART DEPARTMENT
+
+#### d30861320c | choice/UI | x14
+^^Dave Bogan
+
+#### 73e9f910c5 | choice/UI | x14
+^^Michael Kamper
+
+#### 8abbc04fec | choice/UI | x14
+^font:MenuDisplaySmall.font^DIRECTOR OF AUDIO
+
+#### 20f7b4be56 | choice/UI | x14
+^font:MenuDisplaySmall.font^DIRECTOR OF CINEMATICS
+
+#### 95241a0b30 | choice/UI | x14
+^^Vahram Antonian
+
+#### 791facbf91 | choice/UI | x14
+^font:MenuDisplaySmall.font^DIRECTOR OF CONTENT ENGINEERING
+
+#### e9ed6ca366 | choice/UI | x14
+^^Keenan Patterson
+
+#### 449e37f6a2 | choice/UI | x14
+^font:MenuDisplaySmall.font^DIRECTOR OF CREATIVE COMMUNICATIONS
+
+#### 98eb011922 | choice/UI | x14
+^^Job J. Stauffer
+
+#### 0df9df0708 | choice/UI | x14
+^font:MenuDisplaySmall.font^DIRECTOR OF DESIGN
+
+#### 4e3a4ff720 | choice/UI | x14
+^^Ryan Kaufman
+
+#### 533def1428 | choice/UI | x14
+^^John Merlino
+
+#### 079e180c9e | choice/UI | x14
+^font:MenuDisplaySmall.font^DIRECTOR OF DISTRIBUTION AND RELEASE
+
+#### 08176c01f1 | choice/UI | x14
+^font:MenuDisplaySmall.font^DIRECTOR OF EXTERNAL PRODUCTION
+
+#### 9ffc6782aa | choice/UI | x14
+^^Dennis Cooper
+
+#### 70b5dcb4d1 | choice/UI | x14
+^font:MenuDisplaySmall.font^DIRECTOR OF PLATFORM TECHNOLOGY
+
+#### 9e966d6fb6 | choice/UI | x14
+^^David Brady
+
+#### 36ec95d9f3 | choice/UI | x14
+^font:MenuDisplaySmall.font^DIRECTOR OF PRODUCT MANAGEMENT
+
+#### 471861420b | choice/UI | x14
+^^Tamir Nadav
+
+#### cadb48ecaf | choice/UI | x14
+^font:MenuDisplaySmall.font^DIRECTOR OF PRODUCTION
+
+#### 722760d395 | choice/UI | x14
+^^Alyssa Finley
+
+#### 3e99ee3dbb | choice/UI | x14
+^font:MenuDisplaySmall.font^DIRECTOR OF PRODUCTION TECHNOLOGIES
+
+#### dc66daa530 | choice/UI | x14
+^^Jonathan Sgro
+
+#### d1ba71b815 | choice/UI | x14
+^font:MenuDisplaySmall.font^DIRECTOR OF STRATEGIC PLANNING AND CONSUMER INSIGHTS
+
+#### b285165578 | choice/UI | x14
+^^Jerry Liu
+
+#### 8c328690e8 | choice/UI | x10
+^font:MenuDisplaySmall.font^DIRECTOR OF TECHNICAL ART
+
+#### 247040a800 | choice/UI | x10
+^^Jason Armstrong
+
+#### 1d7ddb468f | choice/UI | x14
+^font:MenuDisplaySmall.font^DIRECTOR OF THIRD PARTY PUBLISHING
+
+#### 522d14da9e | choice/UI | x14
+^^John Miller
+
+#### 27db8c630f | choice/UI | x14
+^font:MenuDisplaySmall.font^DIRECTOR OF TOOLS TECHNOLOGY
+
+#### 21a8bdd42e | choice/UI | x14
+^^Alex Montgomery
+
+#### 3149777d41 | choice/UI | x14
+^^Pierre Shorette
+
+#### 9b85352a6b | choice/UI | x14
+^font:MenuDisplaySmall.font^DIRECTOR OF WRITING
+
+#### 19a469eac3 | choice/UI | x14
+^font:MenuDisplaySmall.font^CHOREOGRAPHY DEPARTMENT SUPERVISOR
+
+#### 0f997b4419 | choice/UI | x14
+^^Rebekah Gamin Arcovitch
+
+#### d1b22cc675 | choice/UI | x14
+^^Kim Lyons
+
+#### eaaa77f2fd | choice/UI | x14
+^font:MenuDisplaySmall.font^STUDIO ART MANAGER
+
+#### 40e8a4a890 | choice/UI | x14
+^font:MenuDisplaySmall.font^STUDIO CREATIVE MANAGER
+
+#### 9f563694b5 | choice/UI | x14
+^^A.J. Riebli III
+
+#### 3f6d84ab23 | choice/UI | x14
+^^Mari Aizawa Burns
+
+#### 0fbb6f3e10 | choice/UI | x14
+^font:MenuDisplaySmall.font^STUDIO PRODUCTION MANAGER
+
+#### 27350db4c8 | choice/UI | x14
+^^James Chan
+
+#### 479afbbdfb | choice/UI | x14
+^font:MenuDisplaySmall.font^STUDIO TECHNOLOGY MANAGER
+
+#### 907987b0d4 | choice/UI | x8
+^font:MenuDisplaySmall.font^SENIOR MARKETING AND RELEASE MANAGER
+
+#### 17e107eece | choice/UI | x14
+^^Jonathan “JR” Rosales
+
+#### 7cefa98534 | choice/UI | x14
+^^Paolo Asuncion
+
+#### 68ae356821 | choice/UI | x14
+^font:MenuDisplaySmall.font^SENIOR CREATIVE SERVICES MANAGER
+
+#### 709924e4cf | choice/UI | x10
+^font:MenuDisplaySmall.font^MARKETING MEDIA PRODUCER
+
+#### 24e4c78f83 | choice/UI | x10
+^^Shaun Finney
+
+#### 9acb804063 | choice/UI | x14
+^font:MenuDisplaySmall.font^COMMUNITY AND VIDEO MANAGER
+
+#### ebfa62546b | choice/UI | x14
+^^Nathan Ortega
+
+#### 34ed609a5c | choice/UI | x14
+^font:MenuDisplaySmall.font^CREATIVE COMMUNICATIONS MANAGER
+
+#### d25cf86eaa | choice/UI | x14
+^^Laura Perusco
+
+#### 383be19be3 | choice/UI | x14
+^font:MenuDisplaySmall.font^VIDEO EDITORS
+
+#### 617bce9017 | choice/UI | x6
+^^Murad Peret
+Jake Smith
+
+#### 018a5879d0 | choice/UI | x14
+^font:MenuDisplaySmall.font^ASSISTANT GRAPHIC DESIGNER
+
+#### 154bf302d8 | choice/UI | x14
+^^Jonathan Rozmarin
+
+#### 314c4e9d63 | choice/UI | x14
+^^Evan Koepf
+
+#### 84e6c9ebd4 | choice/UI | x14
+^font:MenuDisplaySmall.font^ASSISTANT RELEASE MANAGER
+
+#### 0dde3087c7 | choice/UI | x4
+^^Joe Floyd
+Sara Guinness
+Daniel Pangelina
+
+#### 0bb134ac19 | choice/UI | x14
+^font:MenuDisplaySmall.font^BUILD PRODUCERS
+
+#### f21d36c8d5 | choice/UI | x14
+^font:MenuDisplaySmall.font^BUILD ENGINEERS
+
+#### 1dde0c3d2a | choice/UI | x10
+^^Sharif Gaines
+Fern Heintz
+Scott LaGrasta
+Mario Valencia
+
+#### 89f2558d66 | choice/UI | x14
+^font:MenuDisplaySmall.font^QA COMPLIANCE LEADS
+
+#### 93efada70a | choice/UI | x10
+^^Carlos Flores
+Seferino Gallardo
+
+#### 4d0c180b00 | choice/UI | x2
+^^Ricardo de Avila
+Elena Morillo
+Cody Wade
+
+#### 974657795d | choice/UI | x14
+^font:MenuDisplaySmall.font^QA COMPLIANCE SPECIALISTS
+
+#### f82af41293 | choice/UI | x14
+^font:MenuDisplaySmall.font^QA ENGINEERS
+
+#### 17d0f089e2 | choice/UI | x8
+^^Eric Baca
+Tetsuji Gotanda
+Erik Speeckaert
+
+#### 0399d8b3d7 | choice/UI | x14
+^font:MenuDisplaySmall.font^SUBMISSION SPECIALIST
+
+#### be457ffa84 | choice/UI | x14
+^^Mason Nguyen
+
+#### 57a629a2f0 | choice/UI | x14
+^font:MenuDisplaySmall.font^SENIOR WEB ARCHITECT
+
+#### f47e42fd12 | choice/UI | x18
+^^John Gamble
+
+#### 7c3b605cd1 | choice/UI | x10
+^font:MenuDisplaySmall.font^LEAD WEB ARCHITECT
+
+#### c925a097b5 | choice/UI | x6
+^^Dwayn Matthies
+
+#### 2c97826aed | choice/UI | x14
+^font:MenuDisplaySmall.font^WEB DEVELOPMENT ENGINEER
+
+#### 36ec231e26 | choice/UI | x14
+^^Jesse Wagstaff
+
+#### a42f80b848 | choice/UI | x14
+^font:MenuDisplaySmall.font^LEAD ONLINE ENGINEER
+
+#### 57ebf581c5 | choice/UI | x14
+^^Erik Erwitt
+
+#### 2cfd3cb957 | choice/UI | x14
+^font:MenuDisplaySmall.font^TECHNICAL DIRECTOR
+
+#### 825b5f60e7 | choice/UI | x14
+^^Michael Perretta
+
+#### 873805fcb7 | choice/UI | x10
+^font:MenuDisplaySmall.font^JUNIOR CREATIVE EXECUTIVE
+
+#### c57e0185a6 | choice/UI | x10
+^^Adam Miller
+
+#### c014eea3a7 | choice/UI | x20
+^font:MenuDisplaySmall.font^EXECUTIVE ASSISTANT
+
+#### c69b5152e4 | choice/UI | x10
+^^Betsy Delis
+
+#### b65e7c8a60 | choice/UI | x14
+^font:MenuDisplaySmall.font^STUDIO PRODUCTION ASSISTANT
+
+#### 14691f7e3b | choice/UI | x14
+^^Adrian Emery
+
+#### c3bbb1eab2 | choice/UI | x14
+^font:MenuDisplaySmall.font^HUMAN RESOURCES
+
+#### 3b1830125a | choice/UI | x12
+^^Amy Gosman
+Keena Hom
+Kimberly Ng
+
+#### bb5c784195 | choice/UI | x4
+^^Nicola Smith
+Stephanie Keegan
+Tim Nguyen
+Jenna Poffenroth
+Megan Quinn
+
+#### b3af6e567c | choice/UI | x14
+^font:MenuDisplaySmall.font^RECRUITING
+
+#### 384d882d49 | choice/UI | x10
+^^Nadja Bebout
+Michael Hitson
+Claudia Menjivar
+
+#### fbb84b55b4 | choice/UI | x14
+^font:MenuDisplaySmall.font^OPERATIONS
+
+#### 93dcd5cf31 | choice/UI | x2
+^font:GameplayDisplayLarge.font^^glyphScale:0.8^REALM OF SHADOWS
+
+#### f860ff82e6 | choice/UI | x10
+^^Rhoda Gravador
+Glenn Horita
+Richard Hung
+Olga Malkiman
+Serena Sinn
+Dale Wang
+Matthew Williams
+
+#### 3464308863 | choice/UI | x14
+^font:MenuDisplaySmall.font^FINANCE
+
+#### 06fea630ea | choice/UI | x14
+^^Mark Barbolak
+
+#### 8704959b07 | choice/UI | x14
+^font:MenuDisplaySmall.font^LEGAL
+
+#### c3b965ce00 | choice/UI | x14
+^font:MenuDisplaySmall.font^IT
+
+#### cad8e44924 | choice/UI | x10
+^^Erick Ely
+Melanie Jacobson
+Alan Malicse
+Manish Patel
+Vern Roberts
+
+#### 58ab159636 | choice/UI | x14
+^font:MenuDisplaySmall.font^PRODUCT SUPPORT
+
+#### e6f321f3b4 | choice/UI | x4
+^^Matthew Pedonti
+Kasen Bien
+Ashley Burns
+
+#### fdfebeef61 | choice/UI | x14
+^font:MenuDisplaySmall.font^CREATED WITH THE TELLTALE TOOL
+
+#### c8d1a0cb2e | choice/UI | x2
+^^Kevin Bruner
+Zacariah Litton
+Jonathan Sgro
+Randy Tudor
+Jeremy Bernstein
+David Brady
+Lex Chesler
+Matt Davidson
+Michael Eads
+Scott Eberline
+Benn Herrera
+Ben Ingram
+Tim Ingram
+Sofy Kabacheck
+Alex Montgomery
+Mike Parsons
+Karen Petersen
+Bernd Raabe
+Chris Schmelzle
+Michael Schwartz
+Ceri Stagg
+Nicholas Van Sickle
+Eric Yiskis
+
+#### e4190556d2 | choice/UI | x10
+^font:MenuDisplaySmall.font^FOCUS TESTERS
+
+#### 74b021dc9a | choice/UI | x2
+^^Dominic and Levi Smith
+Nicole, Penelope and Gwendolyn
+Vanessa Ishii and Nick “Robin” Rebbert
+Lindsey Lydecker Keller
+Katie Fleet
+Alex Dudley
+Torralba Clan
+Taryn, Tamon, and Mom
+Kim, Alan, and Christopher Koepf
+Javier M, Izzy D, Adrian Y, and Max D
+Lisa, Hunter & Scarlett Rozmarin
+The Vallejo Family
+Meagan, Avery & Benjamin Grant
+Oz, my darling garbage angel
+Michelle and Seraphine Nguyen
+Daniel Garrison
+Emi Eads
+Greg Miller
+Shane & Ty Allison
+Jessica Speeckaert
+Nicole, Enzo & Antonello Munz
+Susan Kim
+Dixie De La Tour, Stephanie Corns, Art & Pam Pullem, John B. Corns
+Lessa, Mal and Oli
+Owen & Luke Sgro
+Alina Gomenyuk
+Jackie, Eliana, and Devin Hayford
+Nick Topolos
+Elena & Everett Rafferty
+Sarah Wawryznowski, The Masto Family
+Northbound 101
+Michelle Steranko, Maverick & Sophie, Sage W.
+Kathleen Glover
+Selena Nadav
+Quismorio Family
+Lydia, Ed and Michael Morillo
+Anne Appleman
+Elliot & Alison K.
+Abby
+Kayla A. Chavez
+Marissa Lecount
+Mama Conchita
+James Ryan McIlvaine
+Wesley Burnett
+Johnny Ray Arnold
+Debra Birrell
+Heidi & Virginia Ann Stauder
+Ken & Nancy Temoyan
+The Heuser Family
+Jeff Sinclair
+Kelly and Lisa O’Connor
+Marina Bennett
+Karla, Sandra, and Rogelio
+Hiro Harada
+Zenas and Christian Burns
+Jim & Elliott Locker
+Vern Roberts
+Laura, Declan, & Aylish
+Yohanna “Cantik” Weller
+Erin Kerrigan
+Jennifer Charlee Armstrong
+Leah & Griffin RK
+My Wife, Ellie and the 2 twins on the way
+Amber von Nagel
+Denise Tosti, Alexis Tosti, Ryan Tosti
+Nikki Smith
+Michelle, Danielle, Ariel and Carmel
+The Miller Family
+Rachel Reynolds
+Natalie Helton
+Doki
+Devon Ramirez, Dina Tyler, Joyce Walker, Joe McClelland
+Kaidan and Hunter Falcon
+Julie H.
+Darya Makarava Kirkbride
+Ferrell!!!!!
+For Dima and Remy and for making my dreams come true.
+Julie, Violet, and Rory - I love you
+My wife Hezachan
+John and Henrietta Sanders
+Stacey, Isabella, and Tasi
+Red Whale Coffee
+Melissa Mast
+Maria, Mateo & Maximus Carpenter
+Harmony, Stephen, and Claire Sakai
+Michael Gong
+Laurie Shaw
+Patrick Wright
+Ctenai, Pat (Patman) Evans, Caelan Donahue, Mateo Cortez, Tia & Jae, Sean & Alli, Analise, The Otters
+Tatty!!
+Ima, Daddy, Natalie, Ron and Jonah
+My brothers, Quinn, Michael, Jake, Elon, and Won Ho
+Mandy, Jodessa, Mark, Matt, Ebony, Peter, Leah
+Harrison “Harryllax” Simon - Rest in Peace, my brother
+Alexis Chesler
+Luis, Alicia, Alyn and Miguel Rosales, Jessica Matter, Deena Mustin, Dustin Garza, Jessie Torres, Lili Torres, Alex Barrio, Daniel Barrio, Alan Barrio, Lara Olexiuc, Ruben Torres
+Robbie Alan Wylie
+Claire(Mom) and Jim(Dad)
+Welcome baby Hunter Tjosvold!
+Haley Kavanagh, Samantha & Matthew Pietanza
+
+
+and You
+
+#### 4e77632f75 | choice/UI | x21
+^font:MenuDisplaySmall.font^SPECIAL THANKS
+
+#### 621a12b765 | choice/UI | x10
+^font:MenuDisplaySmall.font^VERY SPECIAL THANKS
+
+#### 56965e2656 | choice/UI | x1
+^^Loki Zammit
+Tangle
+Colin and Sophie
+Kissy Noise the Cat
+Toto
+Henrietta & Oslo
+Lizzie
+Torgo & Fingal
+Gordy Kikoboy
+Mamba the Cat
+Portillo
+Hyde & Lightning
+Maggie ‘Penguin’ Mae
+Summer
+Nacho
+Toby
+Athena, King and Lilly
+Shiro
+Gypsy & Marble
+Luke and the Gang
+Adonis & Aphrodite
+Quake “Not Quite Ace the Bat-Hound”
+Gretel
+Toby
+Seras
+Momo the Cat, Echo the Dog
+Robin
+Tique
+Penny & Desmond
+Emma Dashwood (& R.I.P Ernst)
+Fezzik and M
+Lilly
+Chewie
+Ali the fighting kitten
+Meeko
+Commissioner Rocco
+Dolli, and Looni
+Cody
+Indie
+Spike (aka Spuddles)
+Maia (AKA Chunkers)
+Mr. Popo (R.I.P.)
+Kylo and Yuki
+Snowflake and Charlie Cricket Junior
+Emmitt, Shasta, Lassen, Leo, Snowy, Harriett, Hendrick, Eddie, Freddy and Curly
+Wrigley
+Rowdy
+Shaunday
+Lando, Obi, and Link
+NewCatStar
+Odo the BatCorg
+Peanut & Flame
+Nugget the cat
+Cat
+Penny “Batdog” Widmore
+Zim & Ziva
+Bean Goode
+Sophie
+Emma and Lara Kuku
+Inky & Pistol
+Gumbo, Dagon, and Trash Belly
+Sadie the turkey cat
+Banjo the Chicken Dog
+Sadie the Chatty Cat
+Jinro the Shibe
+Geordi the Shiba
+Dr. Claw
+Frodo, Cinnamon, Tux, Baby, and Frank
+R.I.P. “Good Girl” Midnight Carpenter
+JuJu,  we miss you Tobie
+Chewie
+Fisher ,The 3-Legged Wonder Dog!
+Mocha, Chai & Caramel
+Indie Mc Floof n’ Poop
+Gordon the Cat
+SIR!
+Miss Molly
+Frankie and Penny
+Mr. Grumpy Gills the Betta Fish
+
+And Brenden Q. Ferguson
+
+#### 9786a6a8a1 | choice/UI | x14
+^font:MenuDisplaySmall.font^TELLTALE PETS
+
+#### 7d040d2f95 | choice/UI | x4
+^font:MenuDisplaySmall.font^CARMINE FALCONE
+
+#### 78619f2407 | choice/UI | x4
+^^Richard McGonagle
+
+#### 5715286721 | choice/UI | x10
+^^Travis Willingham
+
+#### 9b96756e0d | choice/UI | x6
+^font:MenuDisplaySmall.font^HARVEY DENT
+
+#### bb31fdce7d | choice/UI | x10
+^^Enn Reitel
+
+#### bdfe53ddb5 | choice/UI | x10
+^font:MenuDisplaySmall.font^ALFRED J. PENNYWORTH
+
+#### f47aee8e2d | choice/UI | x6
+^font:MenuDisplaySmall.font^VICKI VALE
+
+#### ccdfd2fc6c | choice/UI | x10
+^^Erin Yvette
+
+#### b8fb9c605a | choice/UI | x10
+^font:MenuDisplaySmall.font^JAMES GORDON
+
+#### ff2d852e6f | choice/UI | x10
+^^Murphy Guyer
+
+#### 055bfd2904 | choice/UI | x2
+^font:MenuDisplaySmall.font^OSWALD COBBLEPOT, WAITER
+
+#### 22612c7022 | choice/UI | x10
+^^Jason Spisak
+
+#### e69f2bc3dd | choice/UI | x2
+^font:MenuDisplaySmall.font^RENEE MONTOYA, MENDEZ
+
+#### 7a45c48b95 | choice/UI | x10
+^^Krizia Bajos
+
+#### 2d48a8464f | choice/UI | x6
+^^Lorri Holt
+
+#### 49273773af | choice/UI | x2
+^font:MenuDisplaySmall.font^REGINA ZELLERBACH, MARTHA WAYNE, COUNCILWOMAN
+
+#### 0577639c08 | choice/UI | x2
+^font:MenuDisplaySmall.font^BOB ZELLERBACH, THUG
+
+#### 37f92e044b | choice/UI | x4
+^^Jarion Monroe
+
+#### 89dbd2b175 | choice/UI | x2
+^font:MenuDisplaySmall.font^DRUG DEALER, FALCONE ASSISTANT, GCPD, REPORTER, THUG
+
+#### f4fb1a4775 | choice/UI | x6
+^^Christian Lanz
+
+#### 289e4813ae | choice/UI | x6
+^^Zack Villa
+
+#### 21effb2ffc | choice/UI | x2
+^font:MenuDisplaySmall.font^COP, DRUG DEALER, REPORTER, THUG, THUG BOSS
+
+#### 5e0e12b5c0 | choice/UI | x6
+^font:MenuDisplaySmall.font^NEWSCASTER
+
+#### a426e1b44f | choice/UI | x10
+^^Robert Clotworthy
+
+#### f3ba4d2c76 | choice/UI | x2
+^font:MenuDisplaySmall.font^ETHERIC DANCE
+
+#### 5c0aba3201 | choice/UI | x2
+^font:MenuDisplaySmall.font^HAYDN STRING QUARTET
+NO. 66 IN G MAJOR, OP. 77, NO.1
+
+#### f693481897 | choice/UI | x2
+^^Written by Franz Joseph Haydn
+Performed by Kodaly Quartet
+Courtesy of Naxos
+By arrangement with Source/Q
+
+#### 168baf3790 | choice/UI | x2
+^^Brendon Huor
+Jimmy Chhiu
+Amy Johnston
+Dennis Ruel
+Michael Lehr
+
+#### fa43d7ba8f | choice/UI | x10
+^font:MenuDisplaySmall.font^STUNT PERFORMERS
+
+#### 9de141a5dd | choice/UI | x10
+^font:MenuDisplaySmall.font^QA SERVICES PROVIDED BY
+
+#### 437480c35c | choice/UI | x2
+^^Babel
+VMC
+
+#### dcf38d6b44 | choice/UI | x8
+^font:MenuDisplaySmall.font^AUDIO SERVICES PROVIDED BY
+
+#### 0ed2f78319 | choice/UI | x8
+^^Fantasy Studios
+Pomann Sound
+Shelly Shenoy’s Loop Group
+Studiopolis
+The Studio: Portland
+
+#### 177ef867f1 | choice/UI | x8
+^font:MenuDisplaySmall.font^LOCALIZATION SERVICES PROVIDED BY
+
+#### 0cc8822490 | choice/UI | x8
+^^MoGi Ltd.
+
+#### c78c52c24c | choice/UI | x8
+^^Diana David
+Claudio Santos
+
+#### 2de4b456b7 | choice/UI | x8
+^font:MenuDisplaySmall.font^VOICE EDITING AND MASTERING
+
+#### 517882e79f | choice/UI | x2
+^^Laura Jacqmin
+Jeff Juhasz
+Steve Tzirlin
+
+#### 0c23eb5ba6 | choice/UI | x2
+^font:MenuDisplaySmall.font^ADDITIONAL STORY DEVELOPMENT
+
+#### 0fe8a9eef7 | choice/UI | x10
+^^David Bowman
+
+#### 6d7d1a49e9 | choice/UI | x10
+^font:MenuDisplaySmall.font^VICE PRESIDENT OF PRODUCTION
+
+#### 9b0a3ea45c | choice/UI | x10
+^^Jason Robertson
+
+#### 3f2dd3e755 | choice/UI | x10
+^font:MenuDisplaySmall.font^ONLINE CAMPAIGN MANAGER
+
+#### cdb8e290ff | choice/UI | x10
+^font:MenuDisplaySmall.font^SENIOR PRODUCT MANAGER
+
+#### 6400c8d92e | choice/UI | x10
+^^Shiaw-Ling Lai
+
+#### 71f761fb64 | choice/UI | x10
+^^Brandon Newton
+
+#### 0f239ffb98 | choice/UI | x10
+^font:MenuDisplaySmall.font^FRONT END DEVELOPER
+
+#### 65de51700d | choice/UI | x10
+^font:MenuDisplaySmall.font^UX DESIGNER
+
+#### 81d447e00c | choice/UI | x10
+^^Todd Pound
+
+#### 7ab5edd4a8 | choice/UI | x22
+^font:MenuDisplaySmall.font^WB GAMES INC.
+
+
+
+VICE PRESIDENT - PRODUCTION & CREATIVE, DC COMICS FRANCHISE
+
+#### c8cc691bf7 | choice/UI | x10
+^^Ames Kirshen
+
+#### 00eaead754 | choice/UI | x2
+^^Dynamedion
+
+Marcell Kelemen
+Session producer & orchestrator: David Christiansen
+
+Orchestra: Brandenburg State Orchestra Frankfurt
+Conductor: Christian Frank
+
+Recording producer: Christopher Tarnow, GENUIN recording group, Germany
+Recording engineer: Thomas Bößl
+
+Editing engineer: Thomas Bößl, Christopher Tarnow
+Mixing engineer: Christopher Tarnow
+
+#### 1d2d7cb48d | choice/UI | x8
+^^David Christiansen
+
+#### d85bcbc5fa | choice/UI | x8
+^font:MenuDisplaySmall.font^SESSION PRODUCER & ORCHESTRATOR
+
+#### 52380fe43e | choice/UI | x2
+^^Dynamedion
+
+SESSION MANAGEMENT
+Marcell Kelemen
+
+SESSION PRODUCER & ORCHESTRATOR
+David Christiansen
+
+ORCHESTRA
+Brandenburg State Orchestra Frankfurt
+
+CONDUCTOR
+Christian Frank
+
+RECORDING PRODUCER
+Christopher Tarnow, GENUIN recording group, Germany
+Recording engineer: Thomas Bößl
+
+EDITING ENGINEER
+Thomas Bößl, Christopher Tarnow
+
+MIXING ENGINEER
+Christopher Tarnow
+
+#### 5c5e7b9aaf | choice/UI | x8
+^font:MenuDisplaySmall.font^ORCHESTRA
+
+#### 313dbefa33 | choice/UI | x8
+^^Brandenburg State Orchestra Frankfurt
+
+#### 45e7f77fe5 | choice/UI | x8
+^font:MenuDisplaySmall.font^CONDUCTOR
+
+#### 201fe0f7f4 | choice/UI | x8
+^^Christian Frank
+
+#### 0d5d13c5c8 | choice/UI | x8
+^^Marcell Kelemen
+
+#### b06e497b30 | choice/UI | x8
+^font:MenuDisplaySmall.font^SESSION MANAGEMENT
+
+#### 46fad8e5c5 | choice/UI | x2
+^font:MenuDisplaySmall.font^GENUIN RECORDING GROUP, GERMANY
+
+RECORDING PRODUCER
+
+#### 43f7b703a4 | choice/UI | x10
+^^Christopher Tarnow
+
+#### 28eaf0e7d1 | choice/UI | x8
+^^Thomas Bößl
+
+#### 80e7671a84 | choice/UI | x8
+^font:MenuDisplaySmall.font^RECORDING ENGINEER
+
+#### 5f0c73c976 | choice/UI | x8
+^font:MenuDisplaySmall.font^EDITING ENGINEERS
+
+#### d01e995ec2 | choice/UI | x8
+^^Thomas Bößl
+Christopher Tarnow
+
+#### df456c45e4 | choice/UI | x8
+^font:MenuDisplaySmall.font^MIXING ENGINEER
+
+#### 2e5f1e9e9b | choice/UI | x10
+^font:MenuDisplaySmall.font^ASSOCIATE PRODUCER
+
+#### e48545c758 | choice/UI | x10
+^^Derek C. Smith
+
+#### 657dc87a11 | choice/UI | x10
+^^Susan Hawn
+
+#### 95edc12dfd | choice/UI | x2
+^font:MenuDisplaySmall.font^VICE PRESIDENT, BRAND MARKETING
+
+#### 6ab422c2bd | choice/UI | x10
+^^Matthew Geyer
+
+#### a228d7902f | choice/UI | x4
+^font:MenuDisplaySmall.font^DIRECTOR, BRAND MARKETING.
+
+#### 3f986b8f9d | choice/UI | x10
+^^Craig Mitchell
+
+#### 7f363503b3 | choice/UI | x10
+^^Remi Sklar
+
+#### 617845b3ae | choice/UI | x2
+^font:MenuDisplaySmall.font^VICE PRESIDENT - WW COMMUNICATIONS & PR
+
+#### 8e0a92c754 | choice/UI | x4
+^font:MenuDisplaySmall.font^DIRECTOR - INTEGRATED COMMUNICATIONS
+
+#### 1843198357 | choice/UI | x10
+^^Kehau Rodenhurst
+
+#### d1bdf4d27b | choice/UI | x2
+^font:MenuDisplaySmall.font^DIRECTOR - RIGHTS & CLEARANCES
+
+#### e2926650a5 | choice/UI | x10
+^^Jane Elms
+
+#### 8f2a778509 | choice/UI | x6
+^font:MenuDisplaySmall.font^VICE PRESIDENT - BUSINESS DEVELOPMENT & LICENSING
+
+#### a9091f5f32 | choice/UI | x10
+^^Ben Elliott
+
+#### 8b1dcac917 | choice/UI | x2
+^font:MenuDisplaySmall.font^VICE PRESIDENT - PRODUCTION FINANCE
+
+#### 3867a4c587 | choice/UI | x10
+^^Steve Chalk
+
+#### 384863c0ee | choice/UI | x20
+^^Diane Nelson
+
+#### 0099cdac5a | choice/UI | x2
+^font:MenuDisplaySmall.font^PRESIDENT & CHIEF CONTENT OFFICER
+WARNER BROS. INTERACTIVE ENTERTAINMENT
+
+#### 80a59cb699 | choice/UI | x10
+^^Ron Sanders
+
+#### 58cb24f9cf | choice/UI | x10
+^font:MenuDisplaySmall.font^PRESIDENT
+WARNER BROS. WORLDWIDE HOME ENTERTAINMENT DISTRIBUTION
+
+#### 6e4bd07d68 | choice/UI | x4
+^font:MenuDisplaySmall.font^PRESIDENT
+WARNER BROS.
+INTERACTIVE ENTERTAINMENT
+
+#### 7ae23942a6 | choice/UI | x10
+^^David Haddad
+
+#### 9b693fd0c6 | choice/UI | x4
+^font:MenuDisplaySmall.font^EXECUTIVE VICE PRESIDENT
+WORLDWIDE PRODUCTION AND STUDIOS
+WARNER BROS. INTERACTIVE ENTERTAINMENT
+
+#### 2a0bd5d936 | choice/UI | x10
+^^Steven Chiang
+
+#### bfb6599243 | choice/UI | x4
+^font:MenuDisplaySmall.font^SENIOR VICE PRESIDENT
+GLOBAL GENERAL MANAGER - PRODUCTION & DEVELOPMENT
+
+#### cae1338708 | choice/UI | x10
+^^Peter Wyse
+
+#### 613b7b9732 | choice/UI | x10
+^^Russell Arons
+
+#### c552edacdb | choice/UI | x10
+^font:MenuDisplaySmall.font^SENIOR VICE PRESIDENT
+WORLDWIDE MARKETING
+WARNER BROS. INTERACTIVE ENTERTAINMENT
+
+#### 225427d124 | choice/UI | x6
+^font:MenuDisplaySmall.font^SENIOR VICE PRESIDENT
+SALES & OPERATIONS AMERICAS
+WARNER BROS. INTERACTIVE ENTERTAINMENT
+
+#### e35a1e3965 | choice/UI | x10
+^^Kevin Kebodeaux
+
+#### 607aa230e1 | choice/UI | x2
+^font:MenuDisplaySmall.font^SENIOR VICE PREISDENT, GAMES, EU
+
+#### cb5e79c3a2 | choice/UI | x10
+^^Olivier Wolff
+
+#### 6bd1ddd09f | choice/UI | x4
+^font:MenuDisplaySmall.font^VICE PRESIDENT & ASSOCIATE GENERAL COUNSEL
+
+#### 89a046a6f8 | choice/UI | x10
+^^Jennifer Stump
+
+#### 5bd496eddb | choice/UI | x10
+^^Scott Johnson
+
+#### ad8f593622 | choice/UI | x10
+^^John Simmons
+
+#### d01abb63d1 | choice/UI | x4
+^font:MenuDisplaySmall.font^VICE PRESIDENT - HUMAN RESOURCES
+
+#### 5da42e2371 | choice/UI | x8
+^font:MenuDisplaySmall.font^CHIEF CREATIVE OFFICER
+
+#### 4c7caf6fbe | choice/UI | x10
+^^Geoff Johns
+
+#### e48a76adfc | choice/UI | x6
+^font:MenuDisplaySmall.font^CREATIVE DIRECTOR - INTERACTIVE
+
+#### 5460d4b739 | choice/UI | x10
+^^Patrick McCallum
+
+#### 30a08b929c | choice/UI | x6
+^font:MenuDisplaySmall.font^CREATIVE EXECUTIVE - INTERACTIVE
+
+#### a31046c61e | choice/UI | x8
+^^Randy Ma
+
+#### 435479e65f | choice/UI | x15
+^font:MenuDisplaySmall.font^PRESIDENT
+
+#### ba95e5e162 | choice/UI | x8
+^font:MenuDisplaySmall.font^CO-PUBLISHERS
+
+#### c5ce054da3 | choice/UI | x8
+^^Dan DiDio
+Jim Lee
+
+#### 0b21c99d4e | choice/UI | x4
+^font:MenuDisplaySmall.font^SENIOR VP
+MARKETING & GLOBAL FRANCHISE MANAGEMENT
+
+#### 1b3c0a5c0e | choice/UI | x10
+^^Amit Desai
+
+#### 1242263325 | choice/UI | x8
+^^Nairi Gardiner
+
+
+
+
+BATMAN created by Bob Kane with Bill Finger.
+
+#### fb70fcc027 | choice/UI | x4
+^font:MenuDisplaySmall.font^SENIOR VP - FINANCE & OPERATIONS
+
+#### a558ccae93 | choice/UI | x20
+^^Ames Kirshen
+
+Associate Producer
+Derek C. Smith
+
+Executive Assistant
+Susan Hawn
+
+MARKETING
+Vice President, Brand Marketing
+Matthew Geyer
+
+Director, Brand Marketing
+Craig Mitchell
+
+PR
+Vice President, WW Communications and PR
+Remi Sklar
+
+Director, Integrated Communications
+Kehau Rodenhurst
+
+LEGAL
+Director, Rights and Clearances
+Jane Elms
+
+BUSINESS DEVELOPMENT
+Vice President, Business Development and Licensing
+Ben Elliott
+
+FINANCE
+Vice President, Production Finance
+Steve Chalk
+
+EXECUTIVE MANAGEMENT
+President and Chief Content Officer, Warner Bros. Interactive Entertainment
+Diane Nelson
+
+President, Warner Bros. Worldwide Home Entertainment Distribution
+Ron Sanders
+
+President, Warner Bros. Interactive Entertainment
+David Haddad
+
+Executive Vice President, Worldwide Production and Studios, Warner Bros. Interactive Entertainment
+Steven Chiang
+
+Senior Vice President, Global General Manager - Production and Development
+Peter Wyse
+
+Senior Vice President, Worldwide Marketing, Warner Bros. Interactive Entertainment
+Russell Arons
+
+Senior Vice President, Sales & Operations, Americas, Warner Bros. Interactive Entertainment
+Kevin Kebodeaux
+
+Senior Vice President, Sales & Operations, Americas, Warner Bros. Interactive Entertainment
+Doug Regan
+
+Senior Vice President, Games, EU
+Olivier Wolff
+
+Vice President and Associate General Counsel
+Jennifer Stump
+
+Vice President, Business Development and Licensing
+Scott Johnson
+
+Vice President, Human Resources
+John Simmons
+
+
+DC Entertainment
+
+CHIEF CREATIVE OFFICER
+Geoff Johns
+
+CREATIVE DIRECTOR, INTERACTIVE
+Patrick McCallum
+
+CREATIVE EXECUTIVE, INTERACTIVE
+Randy Ma
+
+PRESIDENT
+Diane Nelson
+
+CO-PUBLISHERS
+Dan DiDio and Jim Lee
+
+SENIOR VP – MARKETING AND GLOBAL FRANCHISE MANAGEMENT
+Amit Desai
+
+SENIOR VP – FINANCE AND OPERATIONS
+Nairi Gardiner
+
+BATMAN created by Bob Kane with Bill Finger.
+
+#### 8c2187be48 | choice/UI | x30
+^font:MenuDisplaySmall.font^DC ENTERTAINMENT
+
+#### eec0c8bed3 | choice/UI | x10
+^^Doug Regan
+
+#### c8b9099911 | choice/UI | x2
+^^Steven Lashower
+Nate Trost
+

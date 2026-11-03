@@ -1,0 +1,522 @@
+﻿1) 
+Come to gloat?
+2) 
+You must be bored.
+3) 
+You’ve made a huge mistake.
+4) ALFRED
+[concerned] Bruce -- this is a dangerously unsecure line.
+5) BATMAN
+[Bruce voice; regret] With the batcomputer off-line, it’s all we’ve got.
+6) BATMAN
+[Bruce voice; deep regret] We lost Commissioner Grogan...
+7) OSWALD
+Batman!
+8) OSWALD
+Life off the grid must be treating you well, eh!
+9) OSWALD
+I bet you’re learning about yourself, in all sorts of brilliant and unexpected ways.
+10) OSWALD
+Getting in touch with nature and all that.
+11) BATMAN
+Here to gloat, Penguin?
+12) OSWALD
+I won’t lie -- it’s fun watching you flop about like a crippled bird.
+13) OSWALD
+But that’s not why I’m here.
+14) BATMAN
+You’ve made a huge mistake, Penguin.
+15) OSWALD
+[ALT] Ever the optimist, aren’t you?
+16) OSWALD
+We’ve been at this a while now, eh?
+17) BATMAN
+Must be boring in Wayne Tower if you’re stalking me, Penguin.
+18) OSWALD
+Round ‘an round. The endless merry-go-round of bat and bird.
+19) OSWALD
+It’s like you’ve had your wings clipped!
+20) BATMAN
+[ALT] But this is more business than pleasure.
+148) OSWALD
+But this is more business than pleasure.
+21) OSWALD
+Oh you know I’m your biggest fan, Batman.
+22) BATMAN
+[bruce voice] The batsuit’s already ruined -- it couldn’t protect me from a knife, let alone Penguin’s new arsenal.
+23) ALFRED
+If they really can track you, you’d be walking into certain death.
+245) ALFRED
+[ALT]If they really can track you, you’d be walking into certain death.
+24) BATMAN
+[bruce voice] If Batman can’t take the fight to Penguin...
+25) BATMAN
+[bruce voice] ...maybe Bruce Wayne can.
+26) ALFRED
+[concerned] Face Penguin as Bruce?
+196) ALFRED
+[concerned] Face Penguin as Bruce?
+27) 
+He underestimates Bruce.
+28) BATMAN
+Cobblepot thinks he knows me.
+257) BATMAN
+[ALT] Cobblepot thinks he knows me...
+29) BATMAN
+Penguin’s just a pawn in Lady Arkham’s game.
+237) BRUCE
+Penguin’s just a pawn in Lady Arkham’s game.
+30) BATMAN
+Penguin will be expecting Batman.
+31) ALFRED
+[ALT] I suppose we don’t have a choice.
+32) BATMAN
+[bruce voice] Get Gordon on the line.
+33) ALFRED
+Penguin means to bring a lot of firepower to this fight.
+34) ALFRED
+And you’ll be no more than a civilian.
+35) BATMAN
+[to self] He improved the armor...
+36) OSWALD
+Communing with the paleo-bat.
+37) ALFRED
+[faint, from speaker] Bruce? What are you doing?
+38) BATMAN
+[bruce voice] If I can just find a way into the network…
+232) BATMAN
+[bruce voice] If I can just find a way into the network…
+39) ALFRED
+[from speaker] Is it worki--
+40) BATMAN
+[bruce voice] Ssshhh… listen.
+41) OSWALD
+[static] -- see that!? That’s how you bait an ego-driven psycho like Batman!
+42) OSWALD
+[static; orders] Set the final trap up in Cobblepot Park --
+43) OSWALD
+[static] -- the pillock doesn’t know we can track any piece of him, down to his bat-knickers --
+44) OSWALD
+So when he drops in, we’ll be ready.
+45) OSWALD
+[static] Now we just have to wait till he comes at me again.
+46) BATMAN
+but he has no idea what I’m really capable of.
+47) BATMAN
+Seeing Bruce would throw Oswald off for sure.
+48) ALFRED
+[ALT; if needed for stronger feeder] Is that really a good idea?
+49) BATMAN
+[Bruce voice; deep regret] Because my tech failed.
+50) ALFRED
+[wry] Well, now we know where to find him.
+51) BATMAN
+[bruce voice] Besides. I won’t be going alone.
+52) BATMAN
+[bruce voice] I may have lost my tech, but stopping Harvey’s reign of terror left me with allies.
+53) OSWALD
+[incredulous] You can’t even stop me offing the police commissioner!
+54) OSWALD
+My point is you’re at the end of your rope.
+55) BATMAN
+What’s your point?
+56) OSWALD
+[ALT] Just turn yourself over to my goons.
+57) OSWALD
+The only thing left for a sad sack like you is surrender.
+58) OSWALD
+Scout’s honor, they’ll go easy on you.
+59) OSWALD
+Without your toys, you’re nothing --
+60) 
+I don’t need tech.
+61) 
+Face me man to man.
+62) 
+I’m going to make you suffer.
+63) BATMAN
+I don’t need toys to deal with the likes of you.
+64) OSWALD
+Those are just words, Batman.
+65) OSWALD
+What you need is armor and bullets!
+66) BATMAN
+You’re a coward, Penguin.
+221) BATMAN
+[ALT]You’re a coward, Penguin.
+67) BATMAN
+Come out and face me, man to man!
+68) OSWALD
+Now why would I do that --
+69) OSWALD
+[even more incredulous] The Police Commissioner, Batman!!
+70) OSWALD
+When I can shred you with this wicked drone!
+71) BATMAN
+I am going to make you suffer.
+224) BATMAN
+[ALT] I am going to make you suffer.
+72) BATMAN
+Remember this moment, Penguin.
+73) OSWALD
+Ah, Batman. Those are just words.
+74) OSWALD
+Unlike this drone, which is designed to cause quite a bit of pain.
+228) PENGUIN
+Unlike this drone, which is designed to cause quite a bit of pain.
+75) OSWALD
+Words can never hurt you --
+76) OSWALD
+If only looks could kill half as well as this drone.
+77) OSWALD
+Crap --
+78) OSWALD
+All that’ll be left is a bat-shaped splat on the pavement.
+79) OSWALD
+Cheerio, Batman!
+80) OSWALD
+[static; orders] I want the entire anti-bat arsenal deployed this time. Everything we’ve got!
+81) ALFRED
+[wry] Smack bang in a trap designed specifically to destroy Batman.
+82) OSWALD
+[static] We’ll need a fancy hostage or two, of course--
+83) GOON04
+[static; faint] Understood, sir. That freak comes in range, he’s toast.
+84) BATMAN
+[bruce voice] Some of the best people in Gotham.
+85) 
+[Attack the Drone]
+112) ALFRED
+[sigh]
+176) OSWALD
+[giggle]
+215) 
+...
+220) BATMAN
+[PKUP2]
+235) BATMAN
+[PKUP2]
+247) BATMAN
+[bruce voice]
+86) BATMAN
+[bruce voice] Tell him that Commissioner Grogan’s killer is waiting in Cobblepot Park.
+87) BATMAN
+[ALT] I don’t need gadgets to deal with the likes of you.
+88) OSWALD
+So eager to die!
+89) OSWALD
+[ALT] Bloody hell --
+90) OSWALD
+[ALT] Ta ta, Batman!
+149) OSWALD
+Ta ta, Batman!
+91) OSWALD
+[ALT] You seem to be struggling now that you’ve been sent back to the stone age.
+92) BATMAN
+[bruce voice; ALT] This drone is connected to Penguin’s network -- if I can just activate it...
+93) BATMAN
+[bruce voice; ALT; if needed for transition] And tell him to meet me there.
+94) OSWALD
+Impressive as ever!
+95) OSWALD
+[ALT] Life must be ever so difficult now that we’ve taken your tech.
+96) ALFRED
+He gave his life... so that you could continue fighting.
+97) BATMAN
+He should have stayed out of the way.
+98) BATMAN
+I had it handled.
+99) ALFRED
+The Commissioner had too much courage to sit idly by.
+100) BATMAN
+Commissioner Grogan will be the last to die.
+101) BATMAN
+He didn’t have to die.
+102) BATMAN
+Penguin is going to pay for this.
+103) BATMAN
+[grim] The Commissioner will be avenged.
+104) BATMAN
+I need to get back to the batcave...
+105) BATMAN
+I can’t let him keep hurting innocent- [cut off]
+106) BATMAN
+Figure out Penguin’s next move.
+107) OSWALD
+[ALT][mocking] Your poor little wings clipped...
+108) OSWALD
+[as if to himself] Lord! Will he ever get a sense of humor?
+225) PENGUIN
+[as if to himself] Lord! Will he ever get a sense of humor?
+226) OSWALD
+[as if to himself] Lord! Will he ever get a sense of humor?
+109) OSWALD
+Just turn yourself over to my men.
+110) OSWALD
+[ALT][static; orders]Set another trap in Cobblepot Park --
+111) ALFRED
+Granted, a very skilled civilian...
+113) ALFRED
+Yet I can’t see another choice.
+114) 
+[ALT] He died a hero.
+145) 
+He died a hero.
+115) BATMAN
+[grim] I’m going to end this.
+116) ALFRED
+He knew you could stop Penguin.
+144) ALFRED
+He knew you could stop Penguin.
+117) ALFRED
+He believed in you, in the end.
+118) BATMAN
+[ALT] No one else dies.
+120) 
+No one else dies.
+119) 
+I’ll avenge him.
+121) 
+He should have listened to me.
+122) BATMAN
+[ALT] He should have listened to me.
+123) BATMAN
+Commissioner Grogan died a hero.
+124) BATMAN
+[grim, vengeful promise] The last hero who dies because of Penguin.
+125) ALFRED
+[ALT] You can’t fault the man for his courage.
+126) BATMAN
+One you’ll pay dearly for.
+127) BATMAN
+[ALT] Even if he thinks he’s the King.
+154) BATMAN
+Even if he thinks he’s the King.
+128) BATMAN
+[ALT] Despite his lofty ambitions.
+129) 
+I’ll be the perfect hostage.
+261) BRUCE
+[ALT] I’ll be the perfect hostage.
+130) BATMAN
+Penguin wants hostages to bait Batman.
+131) BATMAN
+and I would be the perfect hostage.
+132) 
+[ALT]It’ll throw him off.
+133) BATMAN
+Wish I could say the same.
+134) ALFRED
+[concerned] Bruce -- this is a dangerously unsecure connection.
+135) ALFRED
+Are you alright sir? I saw on the news-
+136) ALFRED
+Being cut off like this, no way of communicating
+137) BATMAN
+Alfred.
+138) ALFRED
+Ah, thank god!
+139) 
+He should have let me handle it.
+140) ALFRED
+With the comms offline, I’ve no idea what’s happening out there.
+141) ALFRED
+I always fear the worst.
+142) BATMAN
+[Bruce voice; deep regret] He died protecting me.
+143) ALFRED
+Then, he gave his life... so that you could continue fighting.
+146) BATMAN
+I could have handled it.
+147) OSWALD
+[mocking] Your poor little wings clipped...
+150) OSWALD
+Oh, bloody hell!
+151) ALFRED
+[from speaker] Anything?
+152) OSWALD
+[static; orders]Set another trap in Cobblepot Park --
+153) ALFRED
+Perhaps there’s a way to turn it to your advantage.
+155) ALFRED
+Hmm...
+156) ALFRED
+Even without your armor, you’re more than a match for Oswald.
+157) ALFRED
+Without your armor, you’ll be more vulnerable.
+158) ALFRED
+But far from helpless.
+159) ALFRED
+And meeting him as Batman would play right into his hand.
+160) BATMAN
+[PICKUP] That arrogance will lead to mistakes.
+161) ALFRED
+That arrogance may be his undoing.
+162) ALFRED
+He certainly doesn’t.
+163) ALFRED
+And that may be his undoing.
+164) ALFRED
+You’d also be the perfect victim.
+165) ALFRED
+That overconfidence may be his undoing.
+166) ALFRED
+But I’m confident you won’t let that happen.
+167) ALFRED
+[realizing] We don’t have much choice.
+168) ALFRED
+I’m sure you’ll find a way to turn the situation to your advantage.
+169) ALFRED
+And by the time he does--it’ll be too late.
+170) ALFRED
+[ALT] Perhaps you can use that arrogance to your advantage.
+171) ALFRED
+[ALT] He certainly won’t see you coming.
+172) ALFRED
+You can get close, and strike when he least expects it.
+173) BATMAN
+[bruce voice] I may have lost my gadgets, but stopping Harvey’s reign of terror left me with allies.
+174) OSWALD
+Oh come on, just stay put!
+175) OSWALD
+Dance Batman, dance!
+177) BATMAN
+Penguin’s been making some improvements.
+178) BATMAN
+Even deadlier than before.
+179) OSWALD
+[barely audible radio chatter heard through static] almost got...... Bat.... he’ll never.....
+180) BATMAN
+Wayne tech.
+181) BATMAN
+In Penguin’s hands, it’s a dangerous weapon.
+182) BATMAN
+The shell is much tougher than the original model.
+183) BATMAN
+What is Penguin gearing up for?
+184) BATMAN
+Capable of firing armor piercing rounds.
+185) BATMAN
+This could tear the city apart, if Penguin has his way.
+186) BATMAN
+Change of branding, huh?
+187) BATMAN
+Probably doesn’t want the police to trace this back to Wayne Enterprises, or Penguin might be exposed.
+188) BATMAN
+[PKUP][bruce voice] Tell him that Bruce Wayne will meet him there.
+189) OSWALD
+[PKUP] You sure about that, Batman?
+190) OSWALD
+[PKUP] Because from the look of it, you could use a little help.
+191) OSWALD
+[PKUP] When I can have this drone do all the work for me?
+192) BATMAN
+[ALT][PKUP]He died a hero.
+193) BATMAN
+[PKUP]Killing Grogan was the wrong move.
+194) ALFRED
+[ALT][PKUP]And your suit--
+195) ALFRED
+[ALT][PKUP]Your suit won’t take much more damage. If Penguin really does have more drones...
+197) BATMAN
+[ALT][PKUP]Oswald has my tech, but I don’t plan to go without resources of my own.
+198) BATMAN
+[PKUP][bruce voice]Give him our files on Oswald Cobblepot. Tell him that we did a little digging after he took my position as CEO.
+199) BATMAN
+[ALT][PKUP][bruce voice]He should know who really killed Commissioner Grogan, and where to find him.
+200) OSWALD
+[ALT][PKUP] I really doubt that.
+227) OSWALD
+[ALT][PKUP] I really doubt that.
+201) BATMAN
+[ALT][PKUP] Oswald may have my tech, but I have other resources.
+202) BATMAN
+[PKUP][bruce] Found out he was Penguin. Let him know... Commissioner Grogan’s killer is headed to Cobblepot Park--and Bruce Wayne will meet him there.
+203) BATMAN
+[PKUP][bruce voice] He should know who really killed Commissioner Grogan, and that the killer will be in Cobblepot Park.
+204) 
+Gash
+205) 
+Upgraded Armor
+206) 
+Machine Guns
+207) 
+Penguin Logo
+208) 
+Look At.
+209) 
+Tear Out.
+210) 
+Listen.
+211) 
+Wire into Phone.
+212) 
+I don’t need toys.
+213) 
+You’ll pay for Grogan.
+214) 
+I think you’re scared.
+219) BATMAN
+[PKUP2] I think you’re scared.
+216) 
+He’ll talk to Bruce Wayne.
+217) 
+He’ll underestimate me.
+218) WRIDIR
+(Kent Mudle, Wed Sep  7 12:54:09 2016) Batman looks up, resolute.
+222) BATMAN
+[PKUP2] Grogan’s death is on you.
+223) BATMAN
+[PKUP2] And I’m here to make sure you pay for it.
+229) BATMAN
+[PKUP2][bruce voice] If I can find a way to hack into it...
+230) BATMAN
+[PKUP2] I can get to Penguin.
+231) BATMAN
+[ALT][PKUP2]If I can find a way in... reverse the signal...
+233) BATMAN
+[PKUP2]Penguin would never pass up an opportunity to gloat.
+234) BATMAN
+[PKUP2]He’ll be happy to talk to his “old friend,“ Bruce Wayne.
+236) ALFRED
+[PKUP2] And while he’s busy talking, you’ll be figuring out a way to stop him.
+238) BATMAN
+[ALT][PKUP2] but I’m not without allies.
+239) BATMAN
+[ALT][PKUP2] Time to call in a favor...
+240) BATMAN
+[ALT][PKUP2] I may not have all my gadgets...
+241) BATMAN
+[PKUP2][to self] Penguin improved the armor...
+242) BATMAN
+[ALT][to self] Ugh, he improved the armor...
+243) BATMAN
+[ALT][Bruce voice; deep regret] We lost Commissioner Grogan...
+244) 
+Exposed Wires
+246) BATMAN
+[ALT][bruce voice] The batsuit’s already ruined -- it couldn’t protect me from a knife, let alone Penguin’s new arsenal.
+248) ALFRED
+[PKUP] Your suit can’t take much more damage. If Penguin has more of those
+249) ALFRED
+[PKUP2] If Penguin has more drones...
+250) BATMAN
+[PKUP2][bruce voice] One of his men used a device that targeted my armor. If Penguin has more  devices like that...
+251) ALFRED
+[PKUP2] The batsuit will be a liability.
+252) ALFRED
+[PKUP2][grim] Another trap.
+253) BATMAN
+[PKUP2][bruce voice] Full of whatever the device is that fried my suit.
+254) BATMAN
+[ALT][PKUP2]One of his men used a device that fried my armor. If Penguin has more of those...
+255) BATMAN
+[PKUP2][bruce voice] It’s already in bad shape. It couldn’t protect me from a knife, let alone Penguin’s new arsenal.
+256) BATMAN
+[PKUP2] Penguin thinks he knows me...
+258) BATMAN
+[PKUP2] He’s made improvements.
+259) BATMAN
+[PKUP2] These could tear the city apart.
+260) BATMAN
+[PKUP2] Bruce Wayne will be the perfect hostage.

@@ -1,0 +1,1324 @@
+﻿1) 
+Wayne Enterprises is a front.
+2) 
+It’s part of Falcone’s criminal empire.
+3) 
+It’s tied to Hill’s political corruption.
+4) 
+He’s a Children of Arkham plant.
+5) 
+This is his revenge.
+6) 
+They think I’m corrupt.
+7) 
+Bad time to be a Wayne...
+8) 
+It was a PR move.
+9) 
+Wayne Enterprises cleaned the dirt off.
+10) 
+Sanctus works in the shadows.
+11) 
+My parents created this.
+12) 
+Change the legacy.
+13) 
+Reinvent themselves.
+14) 
+YES
+16) 
+YES
+17) 
+YES
+18) 
+YES
+77) 
+Yes
+127) 
+Yes
+129) 
+yes
+130) 
+yes
+131) 
+yes
+15) 
+NO
+19) 
+NO
+76) 
+No
+128) 
+No
+20) BRUCE
+[tense]The board voted me out.
+21) BRUCE
+Oswald thinks he’s owed something. This is revenge -- he blames me for what my father did and he’ll lie and cheat to bring me down.
+22) BRUCE
+Oswald turned my own company against me. He faked his resume, his entire past, and my board voted him in.
+23) 
+...
+27) 
+...
+32) 
+...
+498) BRUCE
+[single laugh]
+563) ALFRED
+[pickup]
+604) 
+
+24) ALFRED
+Oswald is a criminal. I can’t imagine that he’ll be in your seat for very long.
+25) BRUCE
+Illegal experiments, cheap phamacuetical tests. Human test subjects.
+26) BRUCE
+They wrongfully imprisoned people in order to seize their bank accounts, to take them out as players in Gotham.
+28) ALFRED
+Something like this... existing inside of Wayne Enterprises...
+29) BRUCE
+The reach is enormous. Sanctus touches everything.
+30) BRUCE
+They think that I’m as corrupt as my parents. The apple, apparently, can never fall far from the tree.
+31) BRUCE
+It’s a bad time to be a part of this family. The name means nothing anymore.
+33) ALFRED
+Meaning Oswald Cobblepot can find Sanctus.
+34) BRUCE
+*If* he knows to look for it, yes. And if Oswald gets his hands on this, then the Children of Arkham will have it.
+35) ALFRED
+Surely Lucius will try to keep him away from it.
+36) BRUCE
+He’s trying, but he’s only one man.
+37) ALFRED
+And with Lucius here with us...
+38) BRUCE
+We’ll just have to tackle the problem ourselves.
+39) BRUCE
+Let me pull up the map of Gotham.
+40) BRUCE
+Now I can filter the data from the Sactus file.
+41) ALFRED
+[awed]This... this covers almost half of Gotham. How could this happen?
+42) BRUCE
+My company is responsible. We built the structure to protect Batman and it allowed Wayne Enterprises access to cover its tracks.
+43) BRUCE
+Sanctus did this. I know from experience that people don’t tend to look into the shadows.
+44) BRUCE
+My father started this. The very land that Wayne Enterprises sits on was stolen.
+45) ALFRED
+If this got into the wrong hands...
+46) ALFRED
+If Oswald does manage to find the information...
+47) ALFRED
+Gotham is going to be in trouble.
+48) BRUCE
+Everything that was being done under the umbrella of Sanctus... it was all to amass land. Businesses. Wealth.
+49) ALFRED
+Stealing it.
+50) BRUCE
+A piece at a time until they have everything.
+51) ALFRED
+We’re treading dark water here, Bruce. We can’t let this information fall into the wrong hands.
+52) BRUCE
+You carry the burden of your parents. I know.
+53) BRUCE
+They have an opportunity to change their legacy.
+54) BRUCE
+They’ll have to start from nothing and make a new name for themselves.
+55) ALFRED
+Now that we have the information, perhaps we can make sure that their lives are different.
+56) BRUCE
+There are names here... old families. Gates. Arkham.
+57) BRUCE
+Cobblepot.
+58) BRUCE
+My parents authored the fall of the Cobblepot family.
+59) BRUCE
+[reading]There’s a list of pay-offs by Mayor Hill.
+60) BRUCE
+He was connected to illegal warrants and seizures... forging arrest records.
+61) ALFRED
+The children from the seizures must have ended up at Saint Mark’s.
+62) BRUCE
+Oswald.
+150) ALFRED
+Oswald?
+63) ALFRED
+Oswald had been sent to boarding school. He missed getting thrown into the system.
+64) ALFRED
+The original families-- Oswald’s parents had sent him to boarding school. He missed getting thrown into the system.
+65) BRUCE
+{ThinkingA}Not suprised to see the Skyline Club on here. [reading]All of Falcone’s operations were run out of this building, everything he had his hands in. Docks... transportation... utilities.
+66) BRUCE
+[reading]Blue Plains Medical Facility.
+67) ALFRED
+The municipal hospital near the water?
+68) BRUCE
+Yes. This is where the experiments were being performed. This is awful, Alfred. Trial pharmaceutical runs... genome tests...
+69) BRUCE
+The youngest children from the hunted families were sent to the orphanage-- but the older ones, the ones who could understand... they were sent here.
+70) ALFRED
+And then sent out again via the train tunnels to the funeral home for...
+71) BRUCE
+[bleak]Disposal.
+73) BRUCE
+[bleak]Disposal.
+72) ALFRED
+The test subjects who didn’t make it must have been taken to the funeral home for...
+74) BRUCE
+{ThinkingA}Gotham Courthouse. Sanctus is able to hear anything--case files, material witnesses, jury selection...
+75) ALFRED
+[dismayed, emotional]How did it get this bad? What began as a land grab is now manipulating nearly every aspect of Gotham life.
+78) BRUCE
+You bear some of the responsibility here, hiding what you knew.
+79) BRUCE
+There’s no way that you could have known what it would become.
+80) 
+Money is a strong motivator.
+81) 
+Absolute power.
+82) BRUCE
+Some people will do anything for money.
+83) ALFRED
+Bruce, your parents--[loved you.]
+84) BRUCE
+None of their reasons matter now, Alfred. I need to fix what they put into motion.
+85) BRUCE
+Power corrupts. The only motivation here was to gain control over Gotham.
+86) ALFRED
+[soft]A silly question, I suppose...
+87) BRUCE
+We need to figure out what the Children of Gotham could do with Sanctus.
+88) ALFRED
+Perhaps locating them would be a start.
+89) BRUCE
+I’m sure that I could find one of them to shake down...
+90) ALFRED
+I have better news--the recording of the voice from the debate.
+91) ALFRED
+This was never the intention--
+92) BRUCE
+For us? No.
+93) BRUCE
+But whoever ran Sanctus in the years since my parents died... they’ve been planning something different.
+94) ALFRED
+Only too true. They’ve made no waves, so no one noticed.
+95) BRUCE
+Until now. I have to stop this.
+96) ALFRED
+Bruce, your father was--
+97) BRUCE
+A criminal, Alfred. He may have loved me, and he may have thought I would take over for him, but to call him anything other than a criminal would be dishonest.
+98) BRUCE
+Sanctus was his legacy, and mine to dismantle.
+99) ALFRED
+That fact does not resolve an old man of guilt, Bruce.
+100) BRUCE
+Then let me. You were protecting me, and I will fight this.
+101) ALFRED
+And I feel the weight of it, seeing this.
+102) BRUCE
+You should have told me, Alfred.
+103) ALFRED
+I chose my path, Bruce.
+104) ALFRED
+But what they’re doing...
+105) BRUCE
+It’s disgusting. And it needs to be stopped.
+106) 
+Oswald stole my company.
+107) 
+It’s my fault.
+108) 
+You’re right, Alfred
+109) 
+I’m still responsible
+110) 
+I could’ve done something.
+111) ALFRED
+[lower]Bruce, it’s all over the news-- you stepped down?
+112) ALFRED
+That’s ludicrious.
+113) BRUCE
+Maybe if I’d talked to Oswald more, been on his side.
+114) BRUCE
+I could have prevented this from happening.
+115) ALFRED
+His mind was made up from the beginning.
+116) BRUCE
+If I’d disagreed with Oswald, pushed back.
+117) BRUCE
+Maybe things would have been different.
+118) BRUCE
+You’re right. He’s part of the Children and came back to Gotham for a reason.
+119) ALFRED
+Nothing you could have said would have shifted his agenda.
+120) BRUCE
+The responsibilty is still mine. I couldn’t stop him and now he has my company.
+121) ALFRED
+I’m sure that his time in your chair is limited.
+122) BRUCE
+The things they’ve been doing...
+123) 
+I found Sanctus.
+124) 
+Carry the burden.
+125) BRUCE
+But with the firwall breached, anyone with the CEO clearances will have access to it.
+126) 
+He turned my company against me.
+132) REPORTER01
+Coming up next, we go in-depth on the recent interview with Mayor Harvey Dent. Gotham Gazette reporter, Vicki Vale claims there may be something more sinister hiding behind that smile. Is she right?
+133) REPORTER01
+We’ll discuss... after the break.
+135) REPORTER01
+We’ll discuss... after the break.
+134) REPORTER01
+Coming up next, we go in-depth on the recent article by Gotham Gazette reporter Vicki Vale. She claims something sinister is lurking within Wayne Enterprises. With the investigation underway, what do we expect to find?
+136) ALFRED
+[knowing; not judgy]Seems there are a few things you forgot to mention.
+137) ALFRED
+The reports say you were forcibly removed from the building.
+138) ALFRED
+The reports say you’ve stepped down.
+139) ALFRED
+Wayne Enterprises is your company.
+140) ALFRED
+I don’t understand.
+141) BRUCE
+Oswald’s behind this. He orchestrated this whole thing to get me out of my position.
+142) ALFRED
+You mean?
+143) BRUCE
+He’s the new CEO of Wayne Enterprises.
+144) BRUCE
+Well, the good news is I found the shadow organization.
+145) BRUCE
+It’s called Sanctus.
+146) ALFRED
+If that’s the good news, I’m not sure I want to hear the bad.
+147) ALFRED
+Knowing you, this couldn’t have been voluntary.
+148) BRUCE
+Oswald told me the Children of Arkham were going to target me next.
+149) BRUCE
+Now they’ve got him sitting in my chair... who knows what they’re planning.
+151) BRUCE
+Afraid so.
+152) BRUCE
+It’s clearly a PR move. They’re trying to distance themselves from the Wayne name.
+153) BRUCE
+St. Mark’s orphanage. These names... they’re all elite Gotham families.
+154) ALFRED
+St. Mark’s was notorious for misplacing files and losing children to the system.
+155) BRUCE
+The parents were shipped off  to Arkham Asylum.
+156) ALFRED
+Leaving the children to be sent to the orphanage.
+157) BRUCE
+I can’t -- I can’t help but think if circumstances were different... it would have been me in that orphange.
+158) ALFRED
+Thinking like that helps nothing, Bruce.
+159) ALFRED
+{ThinkingA}Run by Penguin now.
+160) BRUCE
+Falcone got most of his arms shipments through the docks.
+161) ALFRED
+And now Penguin controls that as well.
+162) BRUCE
+Children of Arkham have been using it to run their own shipments.
+163) BRUCE
+The Union is one that’s willing to look the other way if money’s involved.
+164) BRUCE
+{ThinkingA}Patients committed to Arkham, going back twenty years.
+165) ALFRED
+{ThinkingA}A rather extensive list.
+166) BRUCE
+Napier, Wesker, Fugit...
+167) ALFRED
+If Penguin finds the same log, he would look for his parents first.
+168) BRUCE
+{ThinkingA}My father orchestrated the false diagnoses, and had all of them shipped to Arkham.
+169) ALFRED
+{ThinkingA}He must have been very careful, as to not raise suspicion.
+170) BRUCE
+{ThinkingA}They have the same doctor listed as overseeing their transfers.
+171) ALFRED
+{ThinkingA}Thomas Wayne.
+172) BRUCE
+{ThinkingA}There’s a list of his patients. Lots of high level people here...
+173) BRUCE
+These are the same patients that were sent off to Arkham.
+174) ALFRED
+With Thomas Wayne’s signature, giving the transfer legitimacy.
+175) BRUCE
+Falsified medical records implying insanity. Made it easy to get rid of all of his patients.
+176) ALFRED
+And made it easy to seize their estates.
+177) ALFRED
+It used to be the botanical gardens.
+178) ALFRED
+They’d be able to access everything. Records, evidence, the GCPD arsenal...
+179) 
+Gotham becomes a police state.
+180) BRUCE
+If they control the GCPD, there’s nothing stopping them from turning Gotham into a police state.
+181) ALFRED
+That would certainly give the public reason to revolt.
+182) BRUCE
+Which is exactly what they want.
+186) BRUCE
+Which is exactly what they want.
+183) 
+They can hold the GCPD hostage.
+184) BRUCE
+They would be able to hold the entire GCPD hostage. No police means no order.
+185) ALFRED
+Which means chaos in the streets.
+187) 
+They can release dangerous criminals.
+188) BRUCE
+Sanctus could shut off the Wayne Tech inside the GCPD. Releasing every criminal currently in GCPD’s lockup.
+189) ALFRED
+Causing pure pandemonium. The carnage would be astronomical.
+190) BRUCE
+Exactly what the Children of Arkham wants.
+191) ALFRED
+The GCPD is the only thing that keeps this city together. Imagine the carnage if the Children of Arkham shuts it down through Sanctus.
+192) BRUCE
+Gordon?
+193) GORDON
+[Did you]-- finish your math homework?
+194) GORDON
+Good girl. Did you get your test back today?
+195) GORDON
+Well, we’ll have to have that discussion with your teachers--
+196) BRUCE
+The Children of Arkham were able to hack and broadcast the debate to every television channel in Gotham. False credentials would be easy for them.
+197) ALFRED
+Well, before you were...
+243) ALFRED
+Well, before you were...
+198) ALFRED
+Before you stepped down, were you able to find what you were looking for?
+244) ALFRED
+Before you stepped down, were you able to find what you were looking for?
+199) BRUCE
+The shadow organization definitely exists. It’s called Sanctus.
+245) BRUCE
+The shadow organization definitely exists. It’s called Sanctus.
+200) ALFRED
+And now Sanctus has become even more dangerous. Imagine if Penguin gets hold of this information.
+201) BRUCE
+My father, Hill, and Falcone have been controlling the city through Sanctus. They’ve been able to work in the shadows because they used Wayne Enterprises as a front.
+202) ALFRED
+Giving them legitimacy.
+203) BRUCE
+Hamilton Hill was able to falsify records and arrest warrants to seize the land of Gotham elites -- then my father helped cover it up by using Wayne Enterprises to legitimize it.
+204) BRUCE
+Sanctus is practically an extension of Falcone’s criminal empire. Both Mayor Hill and my father contributed to it.
+205) ALFRED
+And now The Penguin sits at the head of Wayne Enterprises. If he gets hold of this information...
+206) ALFRED
+And now that you’ve been taken from your own company, you can’t do anything about Sanctus.
+207) BRUCE
+It’ll only be worse if my replacement finds it.
+208) ALFRED
+Your replacement?
+209) BRUCE
+[grimly]Oswald Cobblepot.
+210) BRUCE
+Any shady dealings involving City Hall, Sanctus had a hand in it.
+211) ALFRED
+We’re limited in the actions we can take against Sanctus, especially without your position as CEO.
+212) ALFRED
+Have they at least announced a replacement? One we can trust?
+213) BRUCE
+[scoffs]I wouldn’t put “trust” and Oswald Cobblepot in the same sentence.
+214) BRUCE
+Yeah, and I don’t see them welcoming me back with open arms anytime soon.
+215) BRUCE
+My father’s login still had administrative access, so someone’s been using it to run Sanctus even now.
+216) BRUCE
+With a well respected company like Wayne Enterprises acting as a front, they could let Sanctus grow and fester.
+217) ALFRED
+And no one would be the wiser.
+218) BRUCE
+My family name made it easy to clean the dirt off.
+219) BRUCE
+Sanctus is ingrained within the city, through Wayne Tech, through Falcone’s criminal empire...
+220) ALFRED
+They’ve created the perfect monster.
+221) BRUCE
+One capable of outliving all of them. They have eyes and ears in every nook and cranny of Gotham.
+222) ALFRED
+Their leader is exceptional. I tried to remove the modulation from their voice, but there are too many layers to sort through. They took every precaution to make sure they were never identified. However--
+223) BRUCE
+Perhaps we can use the underlying noise to pinpoint her location.
+224) BRUCE
+There. That’s where they’re going.
+225) ALFRED
+The Skyrail Depot.
+226) BATMAN
+I need you to monitor from here, Alfred. Let me know if anything changes at the depot before I get there.
+227) ALFRED
+I don’t need to remind you to be careful, do I?
+228) BRUCE
+With Lucius’ help I uncovered Sanctus, but we had to break the firewall around the information.
+229) BRUCE
+These are names and specific addresses. If I add a new layer onto the map...
+230) BRUCE
+Then let’s get a closer look, and we can figure out how deep this goes. We need to find out what Sanctus is running before Oz does.
+231) ALFRED
+I can’t believe the board would agree to this.
+232) ALFRED
+How could they do this to you?
+233) ALFRED
+Your own company.
+234) ALFRED
+I suppose dealing with Sanctus will require more than your normal methods.
+246) ALFRED
+I suppose dealing with Sanctus will require more than your normal methods.
+235) BRUCE
+He won’t. At least not yet.
+239) BRUCE
+[putting him at ease]He won’t. At least not yet.
+242) BRUCE
+He won’t. At least not yet.
+236) ALFRED
+Lucky you were able to get this out of there.
+237) ALFRED
+What is all this?
+238) BRUCE
+The board made it very clear I’m not welcome there.
+240) ALFRED
+Without you, what’s to stop The Penguin from gaining access to Sanctus?
+241) ALFRED
+If he gets hold of this information...
+247) BRUCE
+This was hidden behind a pretty robust firewall.
+248) BRUCE
+Lucius and I were able to circumvent it, but I doubt Oswald is even aware it exits.
+249) ALFRED
+I take it Lucius wasn’t involved then.
+250) BRUCE
+He had no idea what it was.
+251) BRUCE
+But now we do.
+252) ALFRED
+{SurpriseA}All of this...?
+253) BRUCE
+{AngryA}It’s Sanctus.
+576) BRUCE
+{AngryA}It’s Sanctus.
+254) BRUCE
+{SkepticalB}He’s been busy alright.
+255) BRUCE
+The GCPD?
+256) BRUCE
+Sanctus has control of the security cameras.
+257) BRUCE
+Cameras are all Wayne Tech. Phones, police scanners... that’s how they’re getting in.
+258) 
+I need to warn Gordon.
+259) 
+The police are dirty.
+260) 
+Sanctus is spying on them.
+261) ALFRED
+What does this mean?
+262) 
+Someone inside gave Sanctus access.
+263) BRUCE
+The police must be in on it. They’re working with Sanctus.
+264) BRUCE
+They must have no idea. Sanctus is keeping track of their every move.
+265) BRUCE
+Someone within the GCPD must’ve given them access. They’re working with Sanctus somehow.
+266) 
+I can’t trust Gordon.
+267) ALFRED
+Are you sure?
+268) ALFRED
+The implications are... dizzying.
+269) ALFRED
+This must’ve been going on for years.
+270) ALFRED
+Who would do such a thing?
+271) ALFRED
+Do you think they know?
+272) BRUCE
+I have to warn Jim.
+273) ALFRED
+If he’s being watched, you’ll need to be cautious.
+274) GORDON
+I’m not sure. I --
+275) GORDON
+I’m sorry, Babs. I have to go.
+276) ALFRED
+What about Gordon?
+277) BRUCE
+I’m not sure if I can trust him. For now, this stays between us.
+278) BRUCE
+City Hall...
+279) BRUCE
+{ThinkingA}City Hall...
+551) 
+City Hall
+280) BRUCE
+Record of Gotham Mayors.
+281) ALFRED
+Hill had been in office for so long it’s hard to remember a time when he wasn’t mayor.
+282) BRUCE
+Look at this.
+283) BRUCE
+Theodore Cobblepot.
+293) BRUCE
+[putting it together]{ThinkingA}Theodore Cobblepot.
+284) ALFRED
+Oswald’s grandfather I believe.
+285) BRUCE
+[reading]Deceased. Two weeks before the election.
+286) BRUCE
+[grim]My father got rid of him so Hill would win.
+287) BRUCE
+My father used to work in this building.
+288) BRUCE
+Nygma, Arkham... Cobblepot.
+289) ALFRED
+{ThinkingA}Esther?
+290) BRUCE
+And her husband, Nathan. All diagnosed with mental disorders and sent to Arkham Asylum.
+291) BRUCE
+[putting it together]{AngryA}T. Cobblepot.
+292) BRUCE
+There’s another one here, “T. Cobblepot”. In good health for years until he suddenly died of a heart attack during a routine check-up.
+294) ALFRED
+{SkepticalA}Seems strange doesn’t it?
+295) ALFRED
+{SurpriseA}Hill’s predecessor.
+296) BRUCE
+[grim]{AngryA}The timing is too much to be coincidence.
+297) BRUCE
+This can’t be a coincidence.
+298) BRUCE
+He was killed so Hill could take office.
+299) ALFRED
+We can’t let the Children of Arkham find out about this. Especially not with Oswald in prime position to take it over.
+300) BRUCE
+Where are we with tracking down their leader? We need to know what they’re up to and if they have any idea Sanctus exists.
+301) ALFRED
+Good news on that front.
+302) ALFRED
+Not a Sanctus location at least. But the land is held by Wayne Enterprises.
+303) BRUCE
+With Oswald in charge, they’re putting their plan in motion.
+304) BRUCE
+I could kiss you, Alfred.
+305) ALFRED
+Please don’t.
+306) BRUCE
+{SmugA}It feels strange to spy on my own company.
+307) ALFRED
+{ThinkingB}Stranger to know others have been spying on it for years.
+308) ALFRED
+[just as dry]As it will be awfully hard to punch a company.
+309) ALFRED
+[just as dry]As it will be awfully hard to punch a company.
+310) BRUCE
+Here they are.
+311) BRUCE
+{ThinkingA}This is the site of the new Mental Health Facility.
+312) BRUCE
+{SkepticalA}I was told the land was vacant.
+313) ALFRED
+It appears it wasn’t.
+314) BRUCE
+They were able to work in the shadows, and all their dealings were completely legitimate under the Wayne name.
+315) BRUCE
+It’s how Falcone was able to control it so easily.
+316) FAIRCHILD
+Up next we discuss the recent interview with the Children of Arkham’s leader, for now only known as “The Voice”...
+317) FAIRCHILD
+More on that in a moment.
+318) FAIRCHILD
+The masked leader sat down with Gotham Gazette reporter Vicki Vale to discuss their cause and what they hope to achieve in Gotham.
+319) BRUCE
+In the wrong hands, someone could easily make any critical witness in a court case disappear.
+320) ALFRED
+{ConcernedA}Or stack the witness log in the defendent’s favor.
+321) BRUCE
+Harvey’s still not doing well. And Sanctus has direct access into City Hall.
+322) ALFRED
+Keeping an eye out on who’s in the Mayor’s seat and what they’re doing. No wonder Hill stayed in office for so long.
+323) BRUCE
+Sanctus was helping him keep his seat.
+324) BRUCE
+{ThinkingA}Eyes and ears on everyone, apparently. Even in Arkham Asylum.
+325) ALFRED
+{ThinkingA}Perhaps to keep an eye on all your father’s patients after they were committed.
+326) GORDON
+It’s a risk we’ve got to take, Commissioner. If the Children of Arkham can hack into our systems, we’re completely ineffective.
+327) BRUCE
+This must have been how the Children of Arkham were able to compromise the GCPD’s tech.
+328) ALFRED
+Because Sanctus has control over all the surveillance.
+329) BRUCE
+So Gordon and I were right all along. At least now we have a name to go after.
+330) COMMISSIONER
+Look, I need all this tech cleared out by midnight tonight. If we’re being bugged we need a full sweep of everything.
+331) GROGAN
+This is ridiculous, Gordon. Do you know how much all this equipment costs? We don’t have the budget to replace it all.
+332) GROGAN
+And you think going into situations completely blind is any better?
+333) COP01
+Everything, sir?
+334) COMMISSIONER
+Did I stutter, Lieutenant?
+335) COP01
+No sir. Just...even the computers?
+336) COMMISSIONER
+If it’s got a god damn “W” on it, it goes in the dumpster.
+337) CIVILIAN01
+Account #4561892. Deposit of $50,000. Account #3287055. Deposit of $22,000.
+338) CIVILIAN02
+Hey, did you get the new passcode for the vaults? My computer is on the fritz.
+339) CIVILIAN01
+Sure, let me check.
+340) CIVILIAN01
+It’s B5674PMJ.
+341) CIVILIAN02
+Thanks! You’re a doll!
+342) ALFRED
+{ThinkingA}Gotham City Bank. It’s the most secure bank in the entire city. Their vaults are impenatrable.
+343) BRUCE
+{SkepticalA}Not if someone got hold of this.
+344) BRUCE
+{AngryA}Who needs to break in when you can just listen in for the vault passcodes?
+345) HARVEY
+The whole thing was a disaster!
+346) ASSISTANT
+[pickup1]No, no! I thought you looked great, Mister Dent!
+347) HARVEY
+[Two-Face]Don’t coddle me!
+348) HARVEY
+[Settling down]Oh god. I’m sorry Deborah. I didn’t mean to...
+349) ASSISTANT
+[pickup1]It’s... it’s okay, Mister Dent. Maybe you should head home early.
+350) HARVEY
+No, no. I’m fine. Can you connect me to that cell number I gave you?
+351) ASSISTANT
+[pickup1]Right away, sir.
+352) HARVEY
+Hi, Selina? It’s Harvey. I just... I just haven’t talked to you in a while and I...
+353) HARVEY
+It’s just been rough. With the Mayor’s Seat and these Children of Arkham... well, that’s nothing for you to worry about. I was just...
+354) HARVEY
+I was hoping to see you. For coffee maybe? Gimme a call back. I... I’d really like to hear your voice.
+355) REGINA
+It feels so empty, with Bruce gone. Like this place is full of ghosts.
+356) BOB
+He’s not dead, dear.
+357) REGINA
+I know. But the company--[was important to him]
+358) BOB
+Bruce Wayne barely showed his face in the office to begin with. Too busy driving his fancy cars and escorting women at his parties.
+359) REGINA
+Bob, don’t be insensitive. Bruce is a wonderful man.
+360) BOB
+He’s a smart kid. But he should’ve put his intelligence into this company instead of throwing it away.
+361) ALFRED
+Bob Zellerbach is a little too prickly for my tastes. But Regina has always had a soft spot for you.
+362) REGINA
+Don’t say that. I know you were fond of him.
+363) BOB
+[sighs]Of course I’m fond of him. But we can’t change what’s happened. We have to keep moving forward.
+364) ASSISTANT
+[pickup1][scared]Yes, sir. Sorry.
+365) ALFRED
+I was able to pinpoint the frequency they used to hijack the debate coverage, and...
+366) 
+I’ll use it to protect Gotham.
+367) 
+We’ll beat them at their own game.
+368) 
+This feels wrong...
+369) 
+She’s playing with fire.
+370) 
+She’s a fine journalist.
+371) 
+Vicki is an asset.
+372) BRUCE
+Back when my father started working with Hill and Falcone, it was about land acquisition. It’s grown much bigger than that.
+373) ALFRED
+She’s been more than helpful in the past.
+374) BRUCE
+She’s in over her head. Protecting your sources is one thing, but these people are criminals... terrorists.
+375) FAIRCHILD
+Bruce Wayne will speak on the issue at a press event tomorrow morning, where we’ll learn more about his decision to step down.
+376) ALFRED
+{SadA}I still can’t believe it.
+377) BRUCE
+{SkepticalA}Which part?
+378) ALFRED
+{SadA}I wish life were easier for you, Bruce.
+379) ALFRED
+{SadA}It’s just one thing after another.
+380) ALFRED
+Losing your parents...
+381) ALFRED
+The truth about your father...
+382) ALFRED
+And it seems there’s no end to the secrets he hid from you.
+383) 
+I don’t want easy.
+384) 
+At least I have you.
+385) 
+I’d like that too.
+386) BRUCE
+{SmugA}I don’t know, having it easy... sounds a little boring.
+387) ALFRED
+{AmusedA}Perhaps that’s why you never take a vacation.
+388) BRUCE
+{HappyA}[earnest]That’s why I’m glad I have you, Al.
+389) BRUCE
+{SmugA}[sighs]Yeah, I wouldn’t mind easy for a change.
+390) ALFRED
+{SadA}Someday.
+391) ALFRED
+{SadA}I’m sorry, Bruce.
+392) ALFRED
+{ConcernedA}Always.
+393) 
+[ALT]We have a job to do.
+394) BRUCE
+[all business]We have a job to do, Alfred.
+395) ALFRED
+Of course.
+396) ALFRED
+You said you thought you knew how to find the Voice.
+397) BRUCE
+Vicki was recording our conversation. I’m willing to bet she did the same with her other subjects.
+398) BRUCE
+Maybe there’s something there.
+399) ALFRED
+I’m surprised she wouldn’t just tell you.
+400) BRUCE
+If she’s not careful she’s gonna get hurt.
+401) ALFRED
+Maybe this is her way of protecting herself.
+402) ALFRED
+Keep your enemies close as they say.
+403) ALFRED
+Though I suppose that was to Bruce Wayne...
+404) ALFRED
+Not Batman.
+405) BRUCE
+She’s just doing her job. Protecting her sources.
+406) BRUCE
+She’s a good journalist.
+407) ALFRED
+As long as that same protection applies to you as well.
+408) BRUCE
+I know the evidence against me looks bad, but she’s still on our side. She’s trying to find the truth.
+409) ALFRED
+That’s the best we can hope for.
+410) ALFRED
+I guess you’re not surprised then.
+411) ALFRED
+So how do you plan to find the interview?
+412) BRUCE
+She mentioned handing it off to her editor. If I can access their files I’m sure I can find it.
+413) ALFRED
+You plan to hack into their server?
+414) BRUCE
+No need.
+415) ALFRED
+Does Oswald know about this?
+416) BRUCE
+They had access to the GCPD, but it doesn’t look like they were keyed into anything else.
+417) BRUCE
+I don’t think they know how far Sanctus goes.
+418) ALFRED
+Hopefully we can keep it that way.
+419) ALFRED
+If the Children of Arkham get ahold of this...
+420) BRUCE
+They’d control Gotham... just like my father did.
+421) ALFRED
+Nice to see Sanctus is at least useful.
+422) BRUCE
+They’re on the skyrail.
+423) ALFRED
+It helped us find the Children of Arkham.
+424) BRUCE
+It may have been built for all the wrong reasons, but we can use it to protect Gotham.
+425) BRUCE
+We can stay one step ahead of the Children of Arkham.
+426) ALFRED
+Hard to argue with that.
+427) BRUCE
+We’re beating the Children of Arkham at their own game. And they have no idea we’re watching.
+428) ALFRED
+Let’s use our advantage while we have it.
+429) BRUCE
+This... doesn’t feel right. Knowing what this was built to do...
+430) ALFRED
+If there’s anyone I trust with something like this, it’s you.
+431) ALFRED
+Not really it’s intended purpose, I’m sure.
+432) ALFRED
+Well I’m glad we could find a way to make some good come from this.
+433) BRUCE
+{ThinkingA}They know exactly who is in the building at any given time. Look at this.
+434) ALFRED
+{ConcernedA}Information like this in the wrong hands...
+435) BRUCE
+{ThinkingA}If they wanted to attack the company they’d be able to plan the perfect moment.
+436) BRUCE
+Didn’t really help, did it.
+437) BRUCE
+{ThinkingA}Look at this. Oswald’s public record.
+438) BRUCE
+[frowns]None of this is right.
+439) ALFRED
+{SkepticalA}This is what the Children of Arkham were using.
+440) BRUCE
+{SkepticalA}Wonder if they’ve cleared out all the Wayne Tech.
+441) GORDON
+Considering the alternative? Yes.
+442) ALFRED
+{HappyA}Sounds like they’ve got the situation under control.
+445) ALFRED
+{HappyA}Sounds like they’ve got the situation under control.
+443) BRUCE
+{SkepticalA}Good.
+446) BRUCE
+{SkepticalA}Good.
+444) BRUCE
+One less problem to deal with.
+447) BRUCE
+One less problem to deal with.
+448) BRUCE
+Or it could be used to plan an escape.
+449) HARVEY
+[on the phone]Hey, Selina... Look, I’m sorry. For the other day...
+450) HARVEY
+I know we left things in a weird place, but can we meet for coffee or something? Let me know... bye.
+451) BRUCE
+Good way to get blackmail.
+452) ALFRED
+Was Hill aware his office was bugged?
+453) BRUCE
+Could’ve been for his own protection... or my father wanted to keep him in line.
+454) HARVEY
+[muttering Two Face]So desperate.
+455) HARVEY
+[upset whisper]Stop.
+456) ALFRED
+Or there was never one there to begin with.
+457) BRUCE
+My father must’ve disabled it.
+458) BRUCE
+{ThinkingA}The couryard was build on top of what was supposed to be Cobblepot Manor.
+459) ALFRED
+{SadA}The family planned to start construction not long after Esther was put away in Arkham Asylum.
+460) BRUCE
+{SadA}Then my father stole the land for himself.
+461) ALFRED
+His whole criminal history doesn’t exist as far as the rest of the world is concerned.
+462) BRUCE
+{SurpriseA}This must be what the board saw.
+463) ALFRED
+Not a blemish in sight.
+464) BRUCE
+{SkepticalA}Sounds empty.
+465) ALFRED
+{SkepticalA}Probably cleared out of there once Batman showed up.
+466) BRUCE
+Smarter than he looks.
+467) BRUCE
+Looks like Sanctus had someone on their payroll.
+468) ALFRED
+Miss Vale seems to have kept her nose clean.
+469) BRUCE
+This all started before she started working there anyway. This information goes back years.
+470) ALFRED
+Private e-mails, contact information... Sanctus has access to everything on their server.
+471) BRUCE
+Look.
+472) BRUCE
+This is Vicki’s interview with Batman.
+473) ALFRED
+She didn’t get much from you did she?
+474) ALFRED
+Anything else uploaded from the same location?
+475) BRUCE
+Way ahead of you.
+476) ALFRED
+Good thing we scrambled the call.
+477) ALFRED
+Think you can trace it?
+478) BRUCE
+They did the interview remotely. Over a secure line.
+479) BRUCE
+Including all the personal computers.
+480) BRUCE
+That’s the Voice!
+481) ALFRED
+{SurpriseA}You’re going out there? {SadA}Bruce, you haven’t slept.
+482) BRUCE
+{SadA}I have to do this, Alfred.
+483) BRUCE
+{SkepticalA}Wonder if anyone was listening in that night.
+484) ALFRED
+{ThinkingA}The debate...
+485) BRUCE
+I need to find the Children of Arkham and figure out what they’re planning.
+486) ALFRED
+Sanctus was built to maintain absolute control over Gotham.
+487) ALFRED
+Information is power.
+488) ALFRED
+So few can be trusted to wield it.
+489) ALFRED
+[urgent]They cannot be allowed to gain control of Sanctus.
+490) ALFRED
+Thomas assured Sanctus would be nearly impossible to destroy.
+491) ALFRED
+At least not without dismantling Wayne Enterprises in the process.
+492) ALFRED
+Wayne Enterprises is a complex web... built to hide secrets... secrets like yours.
+493) ALFRED
+And secrets like your father’s.
+494) ALFRED
+[ALT]Only way to know for sure is to find them... see what they know.
+495) BRUCE
+The Voice used a phone. If I can locate where it is now...
+496) BRUCE
+But it was over the phone.
+497) ALFRED
+{AmusedA}Sounds like you’re not the only one running on fumes and a prayer.
+499) BRUCE
+That why you brought me coffee? It’s usually tea.
+500) ALFRED
+...there’s a lot going on.
+501) BRUCE
+There’s a lot going on...
+502) BRUCE
+{SmugA}I have work to do.
+503) ALFRED
+[knowing]You have work to do.
+504) ATTORNEY
+Look, I need Section 9 witness statements against Paul Dekker.
+505) ATTORNEY
+Can they corroborate with the evidence pulled from the scene?
+506) ATTORNEY
+Make it happen, okay. [beat]No. I don’t care. Just do it.
+507) JANITOR
+God, that’s a lot of blood. [calling out]Jim get the hell out here!
+508) JANITOR
+[to himself]This is gonna take all damn day.
+509) DOCTOR
+The drug in her system... I can’t find anything about it in our records. I even started looking in the old undigitized files. Nothing.
+510) ORDERLY02
+Want me to call Ms. Montoya in again?
+511) DOCTOR
+No, no... I’ll find something. [yawn]She’s been through enough.
+512) ORDERLY02
+Need another cup of coffee?
+513) DOCTOR
+If there’s any left. I think I drank it all.
+514) ORDERLY02
+I’ve got you covered.
+515) ORDERLY01
+You think they’re still gonna close this place down?
+516) ORDERLY02
+Not after what happened.
+517) ORDERLY01
+Yeah, who’s gonna risk opening a new hospital with Thomas Wayne’s name on it.
+518) ORDERLY01
+[switching topics]You got that discharge for Wesker?
+519) ORDERLY02
+No... cancelled.
+520) ORDERLY01
+[sigh]I’ll go tell him. It’s my turn to do the rounds anyway.
+521) BRUCE
+Sanctus... it’s about absolute control.
+522) BRUCE
+Whoever controls Sanctus controls Gotham.
+523) BRUCE
+It’s about controlling information. Manipulating people to get what they want.
+524) BRUCE
+My father used this system to hide what he did... to keep people under his thumb.
+525) BRUCE
+Hill, Falcone, and my father... they used this system to hide what they were doing.
+526) BRUCE
+Now someone else is keeping it alive.
+527) BRUCE
+The Children of Arkham can’t find out about this.
+528) 
+Listen
+531) 
+Listen
+533) 
+Listen
+534) 
+Listen
+538) 
+Listen
+539) 
+Listen
+541) 
+Listen
+545) 
+Listen
+529) 
+GCPD
+530) 
+View Records.
+532) 
+View Records
+536) 
+View Records.
+537) 
+View Records
+540) 
+View Records
+543) 
+View Records
+556) 
+View Records
+558) 
+View Records.
+615) 
+View Records.
+618) 
+View records
+535) 
+Listen To.
+544) 
+Listen To.
+542) 
+Examine Clue
+546) 
+Court House
+547) 
+Skyline Club
+548) 
+Wayne Tower
+549) 
+Cobblepot Manor
+550) 
+Theater
+552) 
+Doctors Office
+553) 
+Arkham Asylum
+554) 
+Botanical Gardens
+555) 
+Gazette
+616) 
+Gazette
+557) 
+Bank
+559) BRUCE
+[pickup]{SurpriseA}Harvey has no idea...
+560) ALFRED
+[pickup]Any action he takes against the Children of Arkham, they’d see it coming.
+561) BRUCE
+[pickup]I have to warn him.
+562) BRUCE
+[pickup]I have to warn him.
+564) ALFRED
+[pickup]His phone lines will be compromised.
+565) BRUCE
+[pickup]Then I’ll do it in person.
+566) ALFRED
+[pickup]Are you done here, sir?
+567) 
+I have to go warn Harvey.
+569) BRUCE
+[pickup]I have to go warn Harvey.
+568) 
+Give me a minute.
+570) ALFRED
+[pickup]I’ll keep an eye on things from here.
+571) BRUCE
+[pickup]{AngryA}Not yet.
+572) BRUCE
+[pickup]{AngryA}And they could find the perfect moment to attack him again.
+573) BRUCE
+[pickup]{AngryA}I’ve seen enough.
+574) HARVEY
+[calling out; kind but businesslike]Deborah! Get the Commissioner on the phone, please. I need an update on that task force.
+575) 
+Warn Harvey
+662) 
+Warn Harvey
+577) EIR
+map. These are all locations tied to the CoA exploit in some way.
+578) BRUCE
+[pickup]Bring up a searchable network of all possible electronic traffic related to Wayne Enterprises.
+579) BRUCE
+[pickup]If the Children of Arkham are in our system, all of this is potentially accessible.
+637) BRUCE
+[pickup]If the Children of Arkham are in our system, all of this is potentially accessible.
+580) BRUCE
+[pickup]Lucius was very thorough.
+638) BRUCE
+[pickup] Lucius was very thorough.
+581) BRUCE
+[pickup]It means that they could have eyes and ears into almost everything in Gotham-- just like Batman.
+639) BRUCE
+[pickup]It means that they could have eyes and ears into almost everything in Gotham--just like Batman.
+582) BRUCE
+[pickup]They had access to the GCPD, we know that. The real question is what else they’d be interested in.
+640) BRUCE
+[pickup]They had access to the GCPD, we know that. The real question is what else they’d be interested in.
+583) ALFRED
+[pickup]What are the chances that they began and ended with the police department?
+584) BRUCE
+[pickup]After we shut down the precinct’s equipment? I’d say slim.
+585) BRUCE
+[pickup]Filter for possible targets based on known Children of Arkham activity.
+641) BRUCE
+[pickup]Filter for possible targets based on known Children of Arkham activity.
+586) BRUCE
+[pickup]Gotham Hall of Justice. All public records pass through this place.
+587) BRUCE
+[pickup]To what end?
+588) ALFRED
+[pickup]Lieutenant Gordon got in touch while you were out.
+589) ALFRED
+[pickup]He said that there’s nothing to be done about Oswald Cobblepot-- all of his records are spotless. He needs proof to dig further.
+590) ALFRED
+[pickup]He needs proof.
+591) BRUCE
+[pickup]Penguin’s slippery alright.
+592) ALFRED
+[pickup]They could rig a jury, listen to witnesses...
+593) BRUCE
+[pickup]Gotham Courthouse. All public records pass through this place.
+594) BRUCE
+[pickup]Keep an eye on this, Alfred, and have Lucius look into it as well.
+595) BRUCE
+[pickup]We need to find a way to lock them out.
+596) ALFRED
+[pickup]Very good, sir.
+597) BRUCE
+[pickup]With my father’s signature as the transferring doctor.
+598) BRUCE
+[pickup]Security footage.
+599) ALFRED
+[pickup]These date back decades.
+600) BRUCE
+[pickup]Alfred, the video at the debate... it’s real.
+601) ALFRED
+[pickup][sad]Bruce...
+602) BRUCE
+[pickup][hard, focused]This is how they found their evidence.
+603) ALFRED
+[pickup]However damning for Hill, it doesn’t prove that the Children of Arkham are using the system.
+605) HARVEY
+[pickup]Commissioner, hello, good to hear from you. Any new details?
+606) HARVEY
+[pickup][beat]Already armed is good. It’s good.
+607) HARVEY
+[pickup][beat]No, I-- yes. Yes, I know it takes time, but...
+608) HARVEY
+[pickup]Yes. Just, please let me know when it happens. The Children of Arkham aren’t going to wait on us.
+609) HARVEY
+[pickup]Now he probably thinks I’m sitting around doing nothing.
+610) HARVEY
+[pickup]Stupid!
+611) HARVEY
+[pickup][two-face]Soft, too soft!
+612) HARVEY
+[pickup][moans]It’s not his fault...
+613) HARVEY
+[pickup][moans]It’s not his fault...
+614) BRUCE
+[pickup]It’s impossible to tell if the Children of Arkham have access to this, but if they do, any action he takes against them... they’ll see coming.
+617) 
+Ace Chemicals
+619) 
+View Security
+620) BRUCE
+[pickup][ALT]Noted.
+621) BRUCE
+[pickup][ALT]Give me a minute.
+622) BRUCE
+[pickup]At least now I know the truth.
+623) BRUCE
+[pickup][ALT]Something Hill did gave them access.
+624) BRUCE
+[pickup][ALT]The assets Hill gave them... that’s how they got in.
+625) RYDER
+Gotham is still reeling after the Children of Arkham, including the criminal known as the Penguin, killed former Mayor Hamilton Hill and [drugged/disfigured] newly appointed Mayor Harvey Dent.
+626) RYDER
+Dent has been uncharacteristically quiet since the events of the debate, causing some Gothamites to worry about his overall health.
+627) RYDER
+An investigation into the mayoral debate has begun, and an APB has been issued for the Penguin, but authorities remain tightlipped on how they expect to catch the masked man.
+628) RYDER
+The leader of the Children of Arkham finally revealed himself to the citizens of Gotham at the recent mayoral debate.
+629) RYDER
+The Leader condemned Thomas Wayne for wrongfully committing several victims to Arkham Asylum, with the help of the late Hamilton Hill and Carmine Falcone.
+630) RYDER
+While there is truth to the Leader’s allegations against Thomas Wayne, citizens of Gotham are not keen to rise up in support of the Children of Arkham, especially following the very public murder of former Mayor Hill.
+631) RYDER
+The whirlwind race for the Mayor’s seat has come to an end, after Harvey Dent cemented himself as the nominee.
+632) RYDER
+Dent finished his campaign unopposed after former Mayor Hamilton Hill was killed by the Children of Arkham at last week’s debate.
+633) RYDER
+Harvey Dent has just recently been released from Gotham General Hospital, where he has been recuperating since the attack, but representatives for Dent have confirmed that the new Mayor is eager to begin work.
+634) RYDER
+The fire that has been burning for over a week at the Otisburg processing center has been contained for now.
+635) RYDER
+The Gotham City Fire Department is optimistic they will be able to settle the blaze, but while they have prevented the fire from spreading further, there remains no indication the flames will be extinguished anytime soon.
+636) BRUCE
+[pickup]With the Children of Arkham acessing Wayne Tech... [shakes his head]I have to figure out what their next move is.
+642) 
+Access.
+643) 
+Access.
+644) 
+Check Lucius’s Drive.
+645) 
+Gotham Feed
+646) 
+Codex
+647) 
+Main Screen
+648) COMMISSIONER
+The understatement of the century, considering I’ve got at least one of my guys in the ER.
+649) GROGAN
+Well that’s the understatement of the century, considering I’ve got at least one of my guys in the ER.
+650) GROGAN
+Suppose I can understand the truth of that.
+651) COMMISSIONER
+Things used to be easy. No people in tights. No lunatics trying to run the streets.
+652) COMMISSIONER
+Now look at us.
+653) 
+Audio Feed
+658) 
+Audio Feed
+654) 
+GCPD Records
+655) 
+Recorded XX:XX:XX
+656) 
+Public Records
+657) 
+Patient Records
+659) 
+Election History
+660) 
+Yeah, sure. Come by the office
+661) 
+Need to talk to you

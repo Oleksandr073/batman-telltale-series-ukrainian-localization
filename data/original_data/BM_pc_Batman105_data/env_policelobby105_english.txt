@@ -1,0 +1,216 @@
+﻿1) GCPD03
+[radio] Lieutenant Gordon. Gordon! Come in!
+2) BATMAN
+[to Gordon] Follow my lead.
+58) BATMAN
+[to Gordon] {AngryA}Follow my lead.
+3) COMMISSIONER
+Batman?!
+27) GORDON
+Batman...
+52) GORDON
+[ALT] {AngryA}Batman?!
+53) GROGAN
+Batman?!
+83) GORDON
+[CUT]{ThinkingA}Batman...
+92) GROGAN
+[PKUP] Batman!
+4) GORDON
+The Commissioner, is he...
+61) GORDON
+{DisgustA}The commissioner, is he...
+5) GORDON
+[distraught] Goddamn it, no...
+62) GORDON
+[distraught] {AngryB}Goddamn it, no...
+6) GCPD01
+[badly injured] In the lobby -- the Commissioner --
+59) GCPD01
+[badly injured] {ConfusedA}...in the lobby... the commissioner--
+7) GCPD01
+[badly injured; if needed] They can’t hold out much longer...
+60) GCPD01
+[badly injured; if needed] {ConcernedB}They can’t hold out much longer...
+8) BATMAN
+[ALT][grave] I’m sorry, Jim.
+64) BATMAN
+[ALT][grave] {ThinkingA}I’m sorry, Jim.
+9) BATMAN
+[stern] Keep it together, Lieutenant. Your men will be looking to you to lead.
+67) BATMAN
+[stern] {AngryA}Keep it together, Lieutenant. Your men will be looking to you to lead.
+10) GORDON
+[distraught] This... this is not your fault.
+65) GORDON
+[distraught] {ThinkingA}This... this is not your fault.
+11) BATMAN
+[ALT] Believe me, Jim -- Dent will pay for this!
+72) BATMAN
+[ALT]{AngryA} Believe me, Jim. Dent will pay for this!
+12) GORDON
+[distraught] It’s that bastard Dent’s!
+66) GORDON
+[distraught] {AngryA}It’s that bastard Dent’s!
+13) COMMISSIONER
+[expiring] I was wrong, Batman...
+49) GORDON
+[expiring] I was wrong, Batman...
+14) GORDON
+[seething, under his breath] I’m going to tear that bastard apart.
+74) GORDON
+[seething, under his breath] {DisgustB}I’m going to tear that bastard apart.
+15) GORDON
+Sergeant Kelly?! Report!
+16) GCPD03
+[radio] It’s the mayor! At Wayne Manor.
+17) GORDON
+Kelly, get out of there!
+79) GORDON
+{AngryB}Kelly, get out of there!
+18) GCPD03
+[radio] Sir, I’m-
+19) HARVEY
+[faint; radio] I’ll let the coin decide.
+20) GORDON
+Kelly! Kelly?! Damn it!!
+81) GORDON
+{DisgustB}Kelly! Kelly?! Damn it!!
+21) GORDON
+It’s time to take back our city, people!
+85) GORDON
+{AngryA}It’s time to take back our city, people!
+22) GORDON
+[commanding] I want every available uniform back on the streets right now!
+84) GORDON
+[commanding]{AngryA} I want every available uniform back on the streets right now!
+23) GORDON
+[commanding] Lock down City Hall.
+24) GCPD01
+[shouted] Yessir!
+25) GCPD03
+[radio] He says... he says, cops show up, he’ll kill another.
+26) GORDON
+[pained] I can’t go out there like this.
+28) GORDON
+[upset] Not you too, old friend --
+78) GORDON
+[upset] {AngryB}Not you too, old friend --
+29) GORDON
+[snapping] Goddamn it, give me a moment!
+69) GORDON
+[snapping]{AngryB} Goddamn it, give me a moment!
+30) GORDON
+[sorrow] I’m sorry, Batman. I--  this is a blow.
+70) GORDON
+[sorrow]{SadA} I’m sorry, Batman. I--  This is a blow.
+31) GORDON
+If you don’t take him down, I’ll tear him apart myself.
+32) GCPD03
+[radio] He’s got hostages, and he’s killing them one by one until Bruce Wayne shows.
+33) GCPD03
+[radio] Batman shows up, he’ll kill em all...
+34) GCPD02
+[shouted] Hell yeah!
+35) GORDON
+[commanding] And get me Bruce Wayne on the phone.
+36) GORDON
+[commanding] Arrest Harvey’s enforcers -- use extreme force if necessary.
+37) MONTOYA
+[shouted] Let’s do it!
+86) MONTOYA
+[shouted] {AngryA}Let’s do it!
+38) GORDON
+[emotional] Grogan was a good man. A family man.
+75) GORDON
+[emotional] {SadA}Grogan was a good man. A family man...
+39) GORDON
+[emotional; ALT] He devoted his life to the force.
+76) GORDON
+[emotional; ALT] {SadA}He devoted his life to the force.
+40) GORDON
+[emotional] It’s just not right...
+77) GORDON
+[emotional]{SadA} It’s just not right...
+41) COMMISSIONER
+[expiring] This city... needs you...
+50) GORDON
+[expiring] This city... needs you...
+42) COMMISSIONER
+[expiring; ALT] You have to...  stop Dent...
+51) GORDON
+[expiring; ALT] You have to...  stop Dent...
+56) GROGAN
+[expiring] You have to...  stop Dent...
+43) BATMAN
+[grave] I’m sorry, Lieutenant.
+63) BATMAN
+[grave]{ThinkingA} I’m sorry, Lieutenant.
+44) BATMAN
+[ALT][stern] Keep it together, Jim. Your men will be looking to you to lead.
+68) BATMAN
+[ALT][stern]{AngryA}Keep it together, Jim. Your men will be looking to you to lead.
+45) BATMAN
+Believe me, Lieutenant -- Dent will pay for this!
+71) BATMAN
+{AngryA}Believe me, Lieutenant. Dent will pay for this!
+46) 
+I’m sorry Gordon.
+47) 
+Be strong for your men.
+48) 
+Dent will pay.
+54) GROGAN
+[CUT][expiring] I was wrong, Batman...
+55) GROGAN
+[ALT][expiring] This city... needs you...
+57) HARVEY
+[faint; radio] [2face] I’ll let the coin decide...
+73) GORDON
+{AngryA}If you don’t take him down,{AngryB} I’ll tear him apart myself.
+80) GORDON
+{ThinkingA}S-Sergeant Kelly?! Report!
+82) GORDON
+[CUT][pained]{DisgustA} I can’t go out there like this.
+87) 
+I will avenge him!
+88) GORDON
+[upset][quiet] Not you, too.
+89) BATMAN
+[PKUP] Sure you’re up for this?
+90) GORDON
+[PKUP][determined] I have to be!
+91) GORDON
+[ALT][PKUP] Lead the way.
+93) GROGAN
+[PKUP] Look out!
+94) BATMAN
+[PKUP] No!
+95) BATMAN
+[PKUP] Commissioner!
+96) GORDON
+[pained] Argh.
+97) GORDON
+[ALT][grunt of pain]
+98) BATMAN
+[PKUP] Get yourself to a hospital, Lieutenant.
+99) GORDON
+[ALT][PKUP] I know, I just--
+100) BATMAN
+[ALT][PKUP] You need to get yourself patched up, Lieutenant.
+101) GORDON
+[ALT][PKUP][frustrated]Dammit, I know!
+102) GORDON
+I want every officer in the vicinity of Wayne Manor on standby.
+103) GORDON
+No one makes a move, until we’re sure we can get the hostages out alive.
+104) GORDON
+And someone... find out where the hell Bruce Wayne is.
+105) 
+No time to grieve.
+106) 
+He gave his life for Gotham.
+107) BATMAN
+[PKUP2] giving his life for Gotham.
+108) BATMAN
+[PKUP2] He died a hero--

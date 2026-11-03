@@ -1,0 +1,742 @@
+﻿1) LADYARKHAM
+[modulated{AngryA}]Nothing you need{AngryB} to worry about.
+2) CATWOMAN
+[grunts]{ConfusedA}What’s in here, {AngryA}anyway?
+3) CATWOMAN
+Call it a {AngryA}professional point of pride that I like to know who’s{SarcasticB} cookie jar I’m sticking my hand into.
+4) BATMAN
+{ThinkingA}Everything’s dark,{DisgustA} quiet. It’s{AngryA} empty.
+5) ALFRED
+[through comm]No sign of the Children of Arkham?
+6) 
+They’ll be here.
+7) BATMAN
+{ThinkingA}They’ll show eventually.
+8) ALFRED
+[through comm]I don’t doubt you.
+9) 
+Gives me some time.
+10) 
+This is suspicious.
+11) BATMAN
+{ThinkingA}No security. No emergency{AngryA} staff.
+12) BATMAN
+If we’re {AngryB}right, it shouldn’t{DisgustA} be this quiet.
+13) BATMAN
+{ThinkingA}Thanks. I’m going to have a{AngryA} look around.
+14) BATMAN
+The rails themselves are powered down, probably for maintenance.
+15) BATMAN
+Tools are still lying around.
+16) BATMAN
+{AngryA}Something{ThinkingA}{FaceAccent} spilled here.
+17) BATMAN
+{NormalA}The {FaceAccent}{SurpriseA}same drug from the {FaceAccent}{AngryA}debate.
+18) ALFRED
+[through comm]I feared we hadn’t seen the last of it.
+19) BATMAN
+Looks like some kind of sprinkler system.
+20) ALFRED
+[through comm]They could cover entire neighborhoods in minutes.
+21) CATWOMAN
+[off screen]{DisgustA}If I’d known{AngryA} you were going to make me{DisgustA} lug this thing myself, I would have worn more comfortable {SarcasticA}shoes.
+22) BATMAN
+[to himself]{AngryA}Catwoman?
+24) ALFRED
+[through comm]Catwoman?
+23) BATMAN
+[whisper]{AngryB}Their leader is here... with{SurpriseA} Catwoman.
+25) ALFRED
+[through comm]What’s she doing here?
+26) ALFRED
+[through comm]What can you see?
+27) BATMAN
+[whisper]Looks{DisgustA} like she’s working{AngryA} with them again.
+28) BATMAN
+[whisper]Doesn’t {DisgustA}sound like she’s too{ThinkingA} happy to be here.
+29) ALFRED
+[through comm]She might need your help.
+30) BATMAN
+[whisper]She{AngryB} plays whatever side meets{AngryA} her needs.
+31) ALFRED
+[through comm]Currently her “needs” seem focused on keeping all nine of her lives.
+32) ALFRED
+[through comm]Have you found out what they’re up to?
+33) BATMAN
+[whisper]{AngryA}I’m going in.
+34) ALFRED
+[through comm]Good luck, sir.
+35) CATWOMAN
+{FearA}I’m not with{AngryB} this guy!
+36) BATMAN
+{AngryA}I didn’t need her{AngryB} help to find you.
+37) BATMAN
+The Children{DisgustA} of Arkham leave their fingerprints {AngryA}everywhere.
+38) LADYARKHAM
+Unlike the {AmusedA}corrupt men running this city,{AmusedB} we don’t mind showing our work.
+39) BATMAN
+{AngryA}You’re not the only one{AngryB} Catwoman played.
+40) BATMAN
+{AngryA}Catwoman led me right to you. {AngryB}Exactly as planned.
+41) LADYARKHAM
+Then we’ll{AngryA} see each other for we really are.
+42) BATMAN
+Whatever this city may be, it’s my home.
+43) LADYARKHAM
+This isn’t a home. It’s a madhouse.
+44) BATMAN
+There are still good people in Gotham. They deserve to be protected.
+45) LADYARKHAM
+{AmusedA}Soon the masquerade will be over.
+46) CATWOMAN
+[worry, just shy of frantic]{SurpriseA}Hang in there.{PainA} Don’t pass {FaceAccent}{FearA}out on me.
+47) CATWOMAN
+{ThinkingB}I’m gonna get you{PainA} somewhere safe...
+48) ALFRED
+Be on your guard.
+66) ALFRED
+Be on your guard.
+49) BATMAN
+I know this is the right place.
+50) ALFRED
+I’ll continue monitoring the drone feeds from here.
+51) ALFRED
+Nothing unusual about that.
+52) ALFRED
+What’s it doing here?
+53) ALFRED
+A work in progress probably.
+54) BATMAN
+Means they’re coming back.
+55) BATMAN
+{AngryA}Not yet. I’m not{AngryB} finished looking around.
+56) BATMAN
+More traces of the drug.
+57) BATMAN
+They’re going to release it from the bottom of the skyrail cars.
+58) ALFRED
+Is there a way to disable it?
+59) LADYARKHAM
+{AmusedB}At least the bat knows when to {AngryA}keep his mouth shut.
+60) CATWOMAN
+{FearA}Come on, {WindedA}{FaceAccent}bats.
+61) CATWOMAN
+Just stay with{SurpriseA} me.
+62) BATMAN
+{ThinkingA}Not for the moment.{AngryA} Means I have time to see what they’ve been up to.
+63) ALFRED
+[over comms]Just be careful. We don’t want any surprises.
+64) ALFRED
+They may not have gone far.
+65) ALFRED
+They should be there.
+67) BATMAN
+These cars run all over Gotham. More being built every day...
+330) BATMAN
+These cars run all over Gotham. More being built every day...
+68) ALFRED
+She must have a good reason for being there.
+69) ALFRED
+They did have a price on her head, after all.
+70) BATMAN
+These sprinklers...
+71) CATWOMAN
+{AngryB}Hey, you wanted me to steal{SarcasticA} a thing; I stole the thing.
+72) CATWOMAN
+He has {AngryB}nothing to do with our agreement--I{FearA} did what you asked!
+73) CATWOMAN
+{AngryA}I didn’t bring{AngryB} him here.
+74) LADYARKHAM
+{ConcernedA}The corruption in Gotham is{AngryA} too deep, too ingrained, to do {AngryB}anything but bleed it out.
+75) LADYARKHAM
+You {ThinkingA}can’t fix them.
+76) BATMAN
+It doesn’t deserve what you’re doing.
+77) BATMAN
+[through a clenched jaw]{AngryA}Should {FaceAccent}have{AngryC}... gone... {AngryB}after.... {FaceAccent}{DisgustA}[them]{SurpriseA}
+78) CATWOMAN
+[soft, relieved]{SarcasticA}Shut up.{HappyA}
+79) LADYARKHAM
+So shortsighted.
+80) CATWOMAN
+Batman!
+81) CATWOMAN
+Catch!
+82) BATMAN
+[Being shocked; intense pain]Ah!
+83) LADYARKHAM
+You have to face the truth sometime, Batman.
+84) BATMAN
+Nice toys. I’ve got some of my own.
+85) LADYARKHAM
+Go on. Show me how you’ll save your precious city.
+86) LADYARKHAM
+Just like the other liars.
+87) LADYARKHAM
+How about a little shock therapy?
+88) ALFRED
+Part of a recent Wayne Enterprises initiative... “everyone gets to work on time,” was the slogan if I remember.
+332) ALFRED
+Part of a recent Wayne Enterprises initiative... “everyone gets to work on time,” was the slogan if I remember.
+89) BATMAN
+Never thought I’d be breaking into my own warehouse.
+331) BATMAN
+Never thought I’d be breaking into my own warehouse.
+90) LADYARKHAM
+All talk, no action.
+91) LADYARKHAM
+You can’t protect Gotham from itself.
+92) LADYARKHAM
+They lit the fire... we’re just here to stoke the flames.
+93) LADYARKHAM
+There’s nothing you can do to stop it.
+94) LADYARKHAM
+Saddest thing is they don’t even see the smoke.
+95) BATMAN
+The people of Gotham are stronger than you think. They won’t let this city fall into chaos.
+96) LADYARKHAM
+You’d be surprised. Fear can be incredibly persuasive.
+97) BATMAN
+You do a lot of talking. Not sure you can back it up.
+98) LADYARKHAM
+Try me.
+99) LADYARKHAM
+And I can’t wait to see them.
+100) ALFRED
+I thought they were after her.
+101) BATMAN
+Yeah{AngryB} me too.
+102) BATMAN
+I’ve got an idea.
+103) LADYARKHAM
+{AngryA}Take away the mask{AngryB} and everyone’s the same. Selfish,{AngryA} cruel... broken.
+104) LADYARKHAM
+You can dress it up any way you like, but that doesn’t change what it is.
+105) LADYARKHAM
+Soon everyone will see it.
+106) LADYARKHAM
+[modulated]You expect me{AmusedB} to tell you because {AngryB}of your pride?
+107) CATWOMAN
+Look, {AngryA}you know what? I {DisgustA}don’t really care.
+108) CATWOMAN
+We’re {AngryA}done here right?
+109) LADYARKHAM
+[modulated]Not yet.
+110) CATWOMAN
+No{ConfusedA} no no {AngryB}no. There’s no part{DisgustA} two of this.
+111) LADYARKHAM
+[modulated]You {AngryB}don’t want to walk {ConcernedA}away from me.
+112) CATWOMAN
+I got you{DoubtfulA} what you wanted. {AngryA}I’m done.
+113) CATWOMAN
+Is that {FlirtA}so?
+114) LADYARKHAM
+[modulated] We{ThinkingA} have more to talk about.
+115) LADYARKHAM
+[modulated]Your{AngryA} future for one thing.
+116) CATWOMAN
+I’m {DoubtfulA}not interested in a guidance {SarcasticB}counselor, thanks.
+117) CATWOMAN
+They{SarcasticA} always think they know{SmugA} what’s best for you.
+118) LADYARKHAM
+[modulated]You should {AngryB}learn to listen.
+119) CATWOMAN
+I will when I{FlirtA} start hearing something interesting.
+120) CATWOMAN
+You’re{AngryA} stalling.
+121) CATWOMAN
+So are {AngryB}we good or not?
+122) CATWOMAN
+I’ve got{AngryA} places to be.
+123) LADYARKHAM
+[modulated]We’re {AngryA}good when I say we are. Now sit down.
+124) LADYARKHAM
+[modulated]You can{AngryA} leave when the{AngryB} job is done.
+125) CATWOMAN
+I think{MockingA} I’ll stand.
+126) LADYARKHAM
+[modulated]I thought{AmusedA} your feet {AmusedB}were tired.
+127) LADYARKHAM
+[modulated]But {AngryB}suit yourself.
+128) LADYARKHAM
+[amused]This way.
+129) LADYARKHAM
+Just add it to the list of your mistakes.
+130) LADYARKHAM
+Must be why you didn’t come through on your last assignment.
+131) CATWOMAN
+[deadpan]{DoubtfulA}Great.
+132) LADYARKHAM
+{AngryA}I knew you’d just{AngryB} disappoint me again.
+133) LADYARKHAM
+I suppose{ThinkingA} it’s my fault for believing in you.
+134) LADYARKHAM
+Well{AmusedA} then you’re just{AmusedB} extremely unlucky.
+135) LADYARKHAM
+Either way, {AngryB}the deal’s off.
+136) CATWOMAN
+You can’t{AngryB} do that!
+137) LADYARKHAM
+{AngryA}Whine all you {AmusedB}want, my dear.
+138) LADYARKHAM
+{AngryA}And I’m guessing that’s the last time {AmusedB}either of us make that mistake.
+139) LADYARKHAM
+{AmusedB}How’s that working out for you?
+140) LADYARKHAM
+{AmusedA}But whose fault{AngryB} is it really? The liar...
+141) LADYARKHAM
+Or the ones{AngryB} who refused to see the truth?
+142) CATWOMAN
+{FearA}I didn’t lie to you.
+143) LADYARKHAM
+Just{AngryB} like you can’t fix Gotham.
+144) LADYARKHAM
+No {ThinkingA}more hiding.
+145) LADYARKHAM
+Not for{AngryB} anyone.
+146) BATMAN
+[intense]{AngryB}Then why are you hiding?{AngryC} Why don’t you take off your mask?
+147) LADYARKHAM
+{AmusedA}You’re impatient.{AngryA} I understand.
+148) LADYARKHAM
+The masquerade will{AmusedA} be over soon.
+149) LADYARKHAM
+{AmusedA}Those “good people” will get{AngryA} exactly what they deserve soon enough.
+150) LADYARKHAM
+Just like{AngryB} Hill and Falcone before them.
+151) LADYARKHAM
+{AmusedA}Too bad you won’t {AngryA}be around to witness it.
+152) LADYARKHAM
+[ALt]Poor choice of footwear.
+153) COA02
+[pickup] Train’s ready! Move out!
+154) LADYARKHAM
+[pickup] Don’t get ahead of yourself.
+155) LADYARKHAM
+[pickup] I decide when this ends.
+156) BATMAN
+[pickup]This is the{FaceAccent} {ThinkingA}drug they’ve been using.{AngryA}{FaceAccent} Refined.
+157) BATMAN
+This doesn’t add up.
+371) BATMAN
+This doesn’t add up.
+158) BATMAN
+[pickup]{AngryB}{FaceAccent}Laser grid.
+159) BATMAN
+[pickup]{AngryA}{FaceAccent}Is thermal vision {FaceAccent}online?
+160) ALFRED
+[pickup]It is.
+161) BATMAN
+[pickup]{ThinkingA}Better not take any chances.
+162) ALFRED
+[ALT][pickup][appreciative]Very clever.
+163) ALFRED
+[pickup]Rather high security for a train maintenance depot.
+164) BATMAN
+[pickup]{ThinkingA}{FaceAccent}My thoughts exactly.
+165) BATMAN
+[pickup]The entire laser grid is orginating from this panel.
+166) BATMAN
+[pickup]One of the Children of Arkham. Loyalty doesn’t get you much with these people does it?
+167) BATMAN
+[pickup]He’s been dead for a while from the looks of it.
+168) BATMAN
+[pickup]He was shot in the chest.
+177) BATMAN
+[pickup]He was shot in the chest.
+169) ALFRED
+[pickup]How terrible.
+170) BATMAN
+[pickup]There’s something else...
+178) BATMAN
+[pickup]There’s something else...
+171) BATMAN
+[pickup]The officer that was taken from the constuction site. Shot in the chest.
+172) BATMAN
+[pickup]This train car has been modified.
+173) BATMAN
+[pickup]These barrels match the shrapnel that I found at the docks.
+174) BATMAN
+[pickup]This must be the power supply for the laser grid.
+175) BATMAN
+[ALT][pickup]I’ll have to turn off the lasers before I can head down.
+176) BATMAN
+[ALT][pickup] I recognize these barrels. They’re the same ones stolen from the docks.
+179) BATMAN
+[pickup]This man’s veins...
+180) BATMAN
+[pickup]They look like Montoya’s veins after she was drugged, only...
+181) BATMAN
+[pickup]They’re so much worse.
+182) BATMAN
+[pickup]They get more pronounced the closer they get to the wrist.
+183) BATMAN
+[pickup]{NormalA}There’s no {FaceAccent}{ThinkingA}puncture mark here. No entry{FaceAccent} point for an injection.
+184) BATMAN
+Someone’s been practicing chemistry.
+185) BATMAN
+[pickup]Seems a little more thorough than a home chemisty set.
+369) BATMAN
+[pickup]Seems a little more thorough than a home chemisty set.
+186) BATMAN
+[pickup]{ThinkingA}This{FaceAccent} chemical could render a drug {FaceAccent}soluble enough{NormalA} to be absorbed through skin contact.
+187) BATMAN
+[pickup]{NormalA}This solvent{FaceAccent} increases{ThinkingA} dermal permability.
+188) BATMAN
+[ALT][pickup]{NormalA}This {FaceAccent}could be used to{ThinkingA} increase dermal absorbtion.
+189) BATMAN
+[ALT][pickup]{ThinkingA}This{FaceAccent} would make a {NormalA}drug {FaceAccent}absorbant.
+190) BATMAN
+[pickup]{ThinkingA}It’s the {FaceAccent}same as the one given to {ThinkingA}Montoya and{FaceAccent} Harvey.
+191) BATMAN
+[pickup]They’ve altered the drug it so that it can be absorbed through the skin.
+192) BATMAN
+[pickup]Doesn’t look like he wanted to cooperate.
+193) ALFRED
+[pickup]Ghastly.
+194) ALFRED
+[pickup]The possibilities...
+195) BATMAN
+[pickup]I know.
+196) BATMAN
+[pickup]{NormalA}He was {FaceAccent}shot dead-center, {FaceAccent}twice.
+197) BATMAN
+[pickup]{ThinkingA}Executed.
+198) ALFRED
+[pickup][distaste]He’d outlived his usefulness, I suppose.
+298) ALFRED
+[pickup][distaste]He’d outlived his usefulness, I suppose.
+199) BATMAN
+[pickup]The drug is being modified here. They’re changing it.
+363) BATMAN
+[pickup]The drug is being modified here. They’re changing it.
+200) ALFRED
+[pickup]They can hardly make the effect worse.
+201) BATMAN
+[pickup][thoughtful sound]Hmm.
+370) BATMAN
+[pickup][thoughtful sound]Hmm.
+202) BATMAN
+[pickup]Two different compounds. This wasn’t used directly on the victim.
+203) BATMAN
+[pickup]This is the same drug the Children of Arkham have been using...
+204) BATMAN
+[pickup]But that drug had to be injected and there’s no signs of that on the body.
+205) BATMAN
+[pickup]They’re manufacturing the drug so that it can be absorbed through the skin.
+206) BATMAN
+[pickup]What are they planning to do with this?
+207) BATMAN
+[pickup]{NormalA}A {FaceAccent}detonation{ThinkingA} device. But it’s{FaceAccent} disabled.
+208) BATMAN
+[pickup]Not your standard power source. This is a custom job.
+209) ALFRED
+[pickup]{SkepticalA}They must have {FaceAccent}intended to hook it up{ThinkingB} to something.
+210) BATMAN
+[pickup]This depot is pretty centrally located.
+211) BATMAN
+[pickup]{ThinkingA}There are {FaceAccent}numbers scribbled here. {AngryA}Hard to make{FaceAccent} them out.
+212) BATMAN
+[ALT][pickup]Red sixteen, yellow eleven.
+213) BATMAN
+[pickup]{NormalA}Needle-nose pliers, {AngryA}wire-cutters...
+214) BATMAN
+[pickup]{NormalA}The{FaceAccent} timer is set for {AngryA}twenty-seven minutes and{FaceAccent} thirteen seconds.
+215) ALFRED
+[pickup][alarmed]From now?
+216) BATMAN
+[pickup]{NormalA}The numbers aren’t{ThinkingA}{FaceAccent} moving. Doesn’t seem to be{AngryA} counting {FaceAccent}down yet.
+217) BATMAN
+[pickup]Whatever they’re building, they didn’t finish.
+218) BATMAN
+[pickup]They’ve been referencing the map. Whatever they’re building must hinge on it somehow.
+219) BATMAN
+[pickup]Whatever they’re working on must need a lot of power.
+220) BATMAN
+[pickup]Timer’s off. Doesn’t really tell me anything.
+221) BATMAN
+[pickup]Not really seeing a connection here.
+222) BATMAN
+[pickup]{ThinkingA}Alfred, what {FaceAccent}stations are within a {AngryA}twenty-seven minute {FaceAccent}train ride from this depot?
+223) ALFRED
+[pickup]Looking into the transporation database now.
+224) ALFRED
+[pickup][shocked]Sir, there’s just one.
+225) ALFRED
+[ALT][pickup]Gotham Central Station.
+226) BATMAN
+[pickup]So we know where... but what are they planning?
+361) BATMAN
+[pickup]So we know where... but what are they planning?
+227) BATMAN
+[pickup]{SurpriseA}It’s one of the{FaceAccent} busiest places {AngryB}in the{FaceAccent} city.
+228) BATMAN
+[pickup]{AngryA}Thousands of people go {FaceAccent}in and out{AngryB} every{FaceAccent} hour.
+229) BATMAN
+[pickup]Looks like they ran out of the chemical they were mixing it with.
+333) BATMAN
+[pickup]Looks like they ran out of the chemical they were mixing it with.
+230) BATMAN
+[pickup]The train car was raised to make working beneath it easier.
+231) BATMAN
+[pickup][dry]Aftermarket modifications.
+232) ALFRED
+[pickup]Doubtful they’re planning to put out fires.
+233) BATMAN
+[pickup]Clearly the holding tank. It’s empty, for now.
+234) BATMAN
+[pickup]Easy access.
+235) BATMAN
+[pickup]They wanted to get this done fast.
+236) BATMAN
+[pickup]The train car is their delivery system.
+237) ALFRED
+[pickup]Maximum coverage.
+238) BATMAN
+[pickup]It doesn’t make sense.
+239) BATMAN
+[pickup]This wouldn’t work.
+240) BATMAN
+[pickup]I should try something else.
+241) BATMAN
+[pickup]There has to be a clearer connection.
+242) BATMAN
+[pickup]There has to be another way.
+243) BATMAN
+[pickup]I must be missing something.
+244) ALFRED
+[pickup]Mercy Street Station.
+245) ALFRED
+[pickup]Seems strange.
+246) ALFRED
+[pickup]How do you mean?
+247) BATMAN
+[ALT][pickup]The Children of Arkham are going to use the drug at Gotham Central Station.
+248) BATMAN
+And all it will have to do is come in contact with skin to take effect.
+249) ALFRED
+[pickup]The sheer number of people...
+250) BATMAN
+[pickup][dark]I know.
+251) BATMAN
+[pickup]The train will just roll into the station as normal...
+258) BATMAN
+[pickup]The train will just roll into the station as normal...
+252) BATMAN
+[pickup]Dousing everyone below in this stuff.
+259) BATMAN
+[pickup]Dousing everyone below in this stuff.
+253) ALFRED
+[pickup][in shock]We aren’t prepared to contain something of that scale.
+260) ALFRED
+[pickup][in shock]We aren’t prepared to contain something of that scale.
+286) ALFRED
+[pickup][in shock]We aren’t prepared to contain something of that scale.
+254) BATMAN
+[pickup]I have to shut it down.
+255) ALFRED
+[pickup][urgent]There’s a train coming!
+256) ALFRED
+[pickup][urgent]Take cover!
+257) BATMAN
+[pickup]I need to know what they’re going to do with the drug, exactly how they’re planning on releasing it.
+261) BATMAN
+[pickup]{ThinkingA}They’re loading the modified drug into the tanks on the train cars, {AngryA}dispersing it through the sprinklers.
+262) BATMAN
+[pickup]{ThinkingA}All the drug needs to do is {FaceAccent}{BodyAccent}touch skin.
+263) ALFRED
+[pickup]Let’s hope they don’t.
+264) BATMAN
+[pickup]Not the entire city... just a major station.
+265) BATMAN
+[pickup]Mercy Street.
+266) BATMAN
+[ALT][pickup]Gotham Central.
+267) ALFRED
+[pickup]Releasing a drug like that in so populated an area would be devastating.
+268) BATMAN
+[pickup]They could infect the entire city if they had enough.
+269) BATMAN
+[pickup]They haven’t finished making all of the drug yet. I have time to figure this out.
+270) BATMAN
+[pickup]I need to know where these trains will be headed.
+271) BATMAN
+[pickup]I need to know where their target is.
+364) BATMAN
+[pickup]I need to know where their target is.
+365) BATMAN
+[pickup]I need to know where their target is.
+366) BATMAN
+[pickup]I need to know where their target is.
+272) BATMAN
+[pickup]The stations...
+273) BATMAN
+[pickup]They’re going to disperse the drug at Mercy Street Station.
+274) BATMAN
+[ALT][pickup]They’re going to disperse the drug at Gotham Central Station.
+275) BATMAN
+[pickup]{ThinkingA}The timers are set to go off {FaceAccent}{BodyAccent}just as it rolls in over the crowds.
+276) BATMAN
+[pickup]The modified train car is going to be sent to Mercy Street station.
+277) BATMAN
+[ALT][pickup]The modified train car is going to be sent to Gotham Central Station.
+278) BATMAN
+[pickup]The trains... they’re turning them into automated weapons.
+279) BATMAN
+[pickup]With a drug that can absorb into skin, it will affect hundreds of people at once.
+280) BATMAN
+[pickup]This isn’t completed yet, the tank on the train is empty.
+362) BATMAN
+[pickup]This isn’t completed yet, the tank on the train is empty.
+281) BATMAN
+[pickup]I still have time.
+282) BATMAN
+[pickup]What exactly are they planning to release?
+283) BATMAN
+[pickup]{AngryB}The drug. {AngryC}The Children of Arkham {BodyAccent}{FaceAccent}must have found a way to {AngryC}{FaceAccent}{BodyAccent}weaponize it.
+284) BATMAN
+[ALT][pickup]The trains will roll into the the station and the timers will release the drug over the crowd.
+285) ALFRED
+[pickup][ALT]Good thing you reduced their supply at the construction site.
+287) ALFRED
+[pickup]So how did it get in his body?
+288) BATMAN
+[pickup]{NormalA}Looks like they {FaceAccent}{ThinkingA}ran out of the absorbing {FaceAccent}agent.
+289) ALFRED
+[pickup][ALT]And why is it in a train depot?
+290) BATMAN
+[pickup]Traces of both chemicals here.
+291) BATMAN
+[pickup]{AngryA}They used the modified drug on him.
+292) BATMAN
+[pickup]{NormalA}Everything you’d{FaceAccent} need to{AngryA} make a {FaceAccent}bomb.
+293) ALFRED
+[pickup][ALT]Wonder what it connects to.
+294) BATMAN
+[pickup][ALT]{ThinkingA}Some kind of{FaceAccent} device. {AngryA}But it’s disabled.
+295) BATMAN
+[pickup][ALT]The drugs in his system match the refined version used on Montoya.
+296) BATMAN
+[pickup][ALT]This isn’t the same drug that’s in his system.
+297) ALFRED
+[pickup][distaste]I suppose they no longer had need of a hostage.
+299) BATMAN
+[ALT]{ThinkingA} Looks like they{AngryA}{FaceAccent} ran out.
+300) BATMAN
+[pickup]The numbers on the map. Sixteen and eleven, red line and yellow line.
+301) BATMAN
+[pickup]{FaceAccent}{AngryA}This is how they were{FaceAccent} timing their route.
+302) ALFRED
+[pickup] Do you see anything?
+303) BATMAN
+[Pickup] If Vicki’s right, it shouldn’t be this quiet.
+304) BATMAN
+[Pickup]{ThinkingA}There’s a body {FaceAccent}here. {AngryA}{FaceAccent}{BodyAccent}Likely the work of the {FaceAccent}Children of Arkham. {ThinkingA}{FaceAccent}{BodyAccent}I’m going to look around, {AngryA}{FaceAccent}{BodyAccent}see what they’ve been up to.
+305) BATMAN
+[pickup]{ThinkingA}I’ll have to cut the power {FaceAccent}{BodyAccent}before going down. {AngryA}No doubt the {FaceAccent}{BodyAccent}lasers are connected to an {FaceAccent}alarm...
+306) BATMAN
+[pickup][ALT] But how are they planning to release it?
+307) BATMAN
+[pickup][ALT] And they have barrels of this stuff. They could infect the entire city if they had enough dermal absorbsion stuff.
+308) ALFRED
+[pickup][ALT] Let’s hope they can’t find any more.
+309) BATMAN
+[pickup][ALT] They haven’t finished mixing the compound with the drugs yet. I have time to figure this out.
+310) BATMAN
+[pickup][ALT] They’ve altered the drug, so that it can be absorbed through the skin.
+311) BATMAN
+[pickup][ALT] And he must have been their test subject.
+312) BATMAN
+[pickup] Thankfully, there wasn’t enough of the chemical to mix with the rest of the stockpile of drugs.
+313) ALFRED
+[pickup][ALT] Perhaps that’s all they could find?
+314) BATMAN
+[pickup][ALT] Maybe...
+315) ALFRED
+[pickup][ALT]That seems oddly specific.
+316) BATMAN
+[pickup][ALT] {NormalA}Some kind of clock or {FaceAccent}timer.{ThinkingA} But it’s {FaceAccent}disabled.
+317) 
+Security Panel
+318) 
+Laser grid security system
+319) 
+Laser Panel
+320) 
+Laser Power
+321) 
+Power Supply
+322) 
+Local power supply.
+323) 
+Table
+324) 
+Map
+325) 
+Sky Train Car
+344) 
+Sky Train Car
+326) 
+Battery
+327) 
+Timer Parts
+328) 
+Timer
+329) 
+Map of the Sky Train System
+334) BATMAN
+[pickup]This isn’t dangerous enough to be their plan.
+336) BATMAN
+[pickup]This isn’t dangerous enough to be their plan.
+335) BATMAN
+[pickup][ALT]Looks like they’re running out of this agent.
+337) 
+Mercy Station
+338) 
+Mercy Central Sky Train Station.
+339) 
+Chemistry Equipment
+340) 
+Chemical Barrels
+342) 
+Chemical Barrels
+341) 
+Dead Body
+343) 
+The chemicals stolen from the docks.
+345) 
+Gunshot Wounds
+346) 
+Wrist
+347) 
+Modified Drug
+348) 
+Drug confirmed. No injection.
+349) 
+Ladder
+350) 
+Sprinkler Nozzle
+351) 
+Chemical Tank
+352) 
+Modified Sky Train Car
+353) 
+Sky Train car with modified sprinkler system attached.
+354) 
+Empty Container
+358) 
+Empty Container
+355) 
+Absorbing Agent.
+356) 
+Tools
+357) 
+Chemical Spill
+359) 
+Chemistry Lab
+360) 
+A laboratory for mixing chemicals.
+367) 
+Gives me time to investigate.
+368) HTTP
+//qissus.tumblr.com/post/150119679091/the-bat-and-the-cat-i-played-batman-telltale

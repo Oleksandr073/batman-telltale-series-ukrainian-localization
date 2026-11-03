@@ -1,0 +1,63 @@
+﻿1) 
+Click to Begin
+2) 
+Tap to Begin
+3) 
+CONNECTING
+4) 
+Connecting To Server...
+5) 
+Checking For DLC...
+6) 
+Logging In...
+7) 
+Updating Event Log...
+8) 
+Updating Choices...
+9) 
+Setting Up DLC...
+10) 
+Updating Unlocks...
+11) 
+Progress is saved whenever this indicator is displayed.
+Please do not turn the power off while the indicator is on screen.
+24) 
+Progress is saved whenever this indicator is displayed.
+Please do not turn the power off while the indicator is on screen.
+12) 
+Acquiring episode...
+13) 
+Download Error
+14) 
+Failed to download. Please ensure you have enough hard drive space and try again.
+15) 
+For the best experience, we recommend playing with headphones/earbuds.
+16) 
+This game was built to run on iPhone 5’s or iPad3’s or newer.
+17) 
+Not Signed In to iCloud
+18) 
+Please sign in to iCloud or game progress will not be saved.
+19) 
+EXIT
+20) 
+IGNORE
+21) 
+Software Code © 2017-2019 LCG Entertainment, Inc. All other elements © DC (s16). DC LOGO, BATMAN and all related characters and elements © & ™ DC (s16). Telltale, Telltale Games, Crowd Play, the Crowd Play logo and the Telltale logo are trademarks and/or registered trademarks of LCG Entertainment, Inc. All rights reserved.
+22) 
+Press ^imageScale:0.8^<ui_boot_facebuttonDown.d3dtx:-15> to Begin
+23) 
+WBIE LOGO, WB SHIELD:™ & © Warner Bros. Entertainment Inc. (s16)
+25) 
+Progress is saved when this indicator is displayed.
+Sign in to automatically save to the cloud.
+26) 
+WARNING
+27) 
+This game will not perform properly on this device.  It is designed for newer devices. Please install on an iPhone 6 or iPad Pro or newer. Check the app store for system requirements.
+28) 
+Update Required
+29) 
+A performance optimizing update is now available for BATMAN: The Telltale Series. Please re-download Episodes 2-5 for the ideal experience.
+30) 
+Press ^imageScale:0.8^<ui_boot_facebuttonRight.d3dtx:-10> to Begin

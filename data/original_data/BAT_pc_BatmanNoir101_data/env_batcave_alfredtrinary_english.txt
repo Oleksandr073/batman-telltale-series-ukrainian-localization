@@ -1,0 +1,290 @@
+﻿1) BRUCE
+{ThinkingA}We should leak this to the press, {SmugA}blow the roof off Falcone’s empire.
+2) ALFRED
+{ThinkingA}I suppose it comes down to {ThinkingB}who you want to help most.
+3) ALFRED
+{SkepticalA}Or who you think could do the most good.
+4) BRUCE
+{ConcernedA}She’ll get the story out the way it needs to be told.
+5) BRUCE
+{ConcernedA}Gordon needs this more than anyone.
+6) BRUCE
+{ThinkingB}The cops are on the frontlines of this war.
+7) BRUCE
+{ThinkingA}Vicki showed faith in me. She cares about the truth.
+8) 
+We take this to the police.
+9) 
+We leak this to the press.
+10) 
+I don’t want to hear it.
+11) 
+I did what I had to do.
+12) 
+He’s still alive.
+13) BRUCE
+{ThinkingA}I’ve heard this before, Alfred.
+14) BRUCE
+{ThinkingA}Look, I did--
+15) ALFRED
+{AngryA}Well, my words passed straight through you.
+16) ALFRED
+{SadA}I see.
+17) ALFRED
+{ThinkingA}Illegal arms dealing, {SurpriseA}drug running, {SurpriseB}mob hits, money laundering...
+18) 
+He’s taking down Falcone.
+19) 
+They’re working together.
+20) 
+It’s some kind of blackmail.
+21) ALFRED
+{ConfusedA}To win the election?
+22) ALFRED
+{SurpriseA}That Gotham {ThinkingA}Gazette reporter, Ms. Vale,{HappyA} already offered you her support.
+23) ALFRED
+{SurpriseA}What about that reporter from the Gazette--
+24) BRUCE
+{AmusedA}Vicki.
+25) ALFRED
+{SurpriseA}Then again, {SkepticalA}Gordon is a stalwart professional.
+26) ALFRED
+[VOP comm_docks]You’re taking this too far, Bruce.
+27) ALFRED
+{ConcernedA}You assume the persona of a bat, {ConcernedB}but you are not an animal.
+28) ALFRED
+{AngryA}You nearly killed a man tonight.
+29) ALFRED
+{ConcernedA}You beat that man half to death.
+30) ALFRED
+{ConcernedB}Your parents didn’t raise you that way.
+31) ALFRED
+{ConcernedA}And neither did I.
+32) ALFRED
+{SkepticalA}There used to be a difference between Batman and the criminals he locked up in Arkham.
+33) ALFRED
+{ConcernedB}[pointed]That difference is shrinking.
+34) ALFRED
+{ConcernedA}What you had to.
+35) ALFRED
+{ConcernedA}We both know how this argument goes.
+36) ALFRED
+{ConcernedA}And in the hospital.
+37) BRUCE
+{ThinkingA}He’s still alive, isn’t he?
+38) ALFRED
+{ThinkingA}You’re a good man, Bruce -- {ConcernedB}good just like your parents.
+39) 
+It’s not that easy.
+40) 
+Trust me, I won’t.
+41) ALFRED
+{SadA}Don’t lose that.
+42) 
+I can’t live up to them.
+43) ALFRED
+[ALT]{ConcernedA}There is room for Bruce {ThinkingA}and Batman{ConcernedB} inside that suit.
+44) ALFRED
+{SkepticalA}But at what cost?
+45) ALFRED
+{ConcernedB}[sigh]
+46) 
+[Accept the tickets]
+47) 
+[Tear them up]
+123) BRUCE
+[relieved sigh, small]
+48) ALFRED
+{ConcernedA}You bury the person, Bruce,{ThinkingA} but you never bury the memory.
+49) BRUCE
+{SurpriseA}Hill could have been building a case {ThinkingA}against Falcone.
+50) ALFRED
+{ThinkingA}I’ll run a search... {SkepticalA}but so far I don’t.
+51) ALFRED
+{HappyA}Yes, Ms. Vale. {HappyB}She could release this evidence through proper channels.
+52) ALFRED
+{HappyB}A wise decision, sir.
+53) ALFRED
+{HappyA}We’ll attack Falcone on two fronts tonight.
+54) BRUCE
+{AmusedA}I won’t forget.
+55) ALFRED
+{HappyA}Neither will I.
+56) BRUCE
+{SkepticalA}I have to move on.
+57) BRUCE
+{ThinkingB}Trust me, I won’t lose my way.
+58) BRUCE
+{SadB}I could never match that.
+59) ALFRED
+{ThinkingA}You won’t.
+60) ALFRED
+{HappyA}You will far surpass them.
+61) BRUCE
+{ConcernedA}Who my parents were... {SadA}the life they led...
+62) BRUCE
+{SurpriseA}Gotham revered them.
+63) ALFRED
+{ConcernedA}I suppose you did whatever you thought was necessary.
+64) BRUCE
+{ThinkingA}It would bolster his campaign{AmusedA} if he eliminated Gotham’s most notorious crime family.
+65) BRUCE
+{ThinkingA}This is a police matter.
+66) ALFRED
+{AmusedA}Gordon through the police.
+67) ALFRED
+{AmusedA}Vicki through the media.
+68) ALFRED
+{ConcernedA}And Batman...
+69) BRUCE
+{ConcernedA}By any means necessary.
+70) BRUCE
+{ConcernedA}Whatever Falcone is planning... {AngryA}it ends tonight.
+71) ALFRED
+Next time it might be the morgue.
+72) ALFRED
+[alt] Your parents didn’t raise you this way.
+73) ALFRED
+[firm] Especially now, during this preposterous attack on your family, you must show the world the true nature of a Wayne.
+74) BRUCE
+[a bit on edge]Giving everything to this city and then being murdered for it?
+75) ALFRED
+[showing concern]My thoughts exactly every time you leave this cave.
+76) ALFRED
+That is your gift and your curse.
+77) BRUCE
+Sometimes I wish I could.
+78) ALFRED
+Being Batman can allow you to turn back the tide of treachery that’s reached this city’s shores... or drown you in its sorrow.
+79) ALFRED
+When you doubt your fate, remember why you started all this.
+80) ALFRED
+Remember that boy in the alley.
+81) BRUCE
+I can’t let their memory hold me back anymore.
+82) BRUCE
+Sometimes... this job requires hard decisions.
+83) ALFRED
+You’re the right man to make them.
+84) ALFRED
+In fact, I think you’re the only one who can.
+85) ALFRED
+It’s quite understandable to stray from the path now and again.
+86) ALFRED
+So long as you can find your way back.
+87) ALFRED
+[changing gears]Well... back into the fray again.
+88) ALFRED
+[disheartened]Well... work to the rescue, it seems.
+89) ALFRED
+[darkly]Shall we?
+90) BRUCE
+Looks like that egg finally cracked.
+91) BRUCE
+More than I could’ve imagined...
+92) BRUCE
+This is a complete manifest of Carmine Falcone’s criminal organization.
+93) ALFRED
+[disbelief]What in the world was Hill doing with all this?
+94) ALFRED
+That would explain why he’s never made a move against him.
+95) ALFRED
+It’s too complex, too entrenched.
+96) ALFRED
+Falcone’s been involved in everything.
+97) ALFRED
+And it goes back years!
+98) ALFRED
+Or perhaps Ms. Vale--the press can be rather effective in such situations.
+99) ALFRED
+You can’t do this alone, Bruce, there are too many moving pieces... even for Batman.
+100) ALFRED
+Where would we possibly begin to dismantle it?
+101) ALFRED
+Breaking it down piece by piece... that could take years!
+102) ALFRED
+And there’s only one cop we can trust to handle this evidence correctly.
+103) BRUCE
+Lieutenant Gordon.
+104) ALFRED
+Such a fine thing shouldn’t go to waste.
+105) ALFRED
+It is a rare gift.
+106) BRUCE
+[cocky, almost in Batman voice]I haven’t tried yet.
+107) ALFRED
+He’s a spider, Bruce. Eyes everywhere, a dense web of goons poised to trap you.
+108) ALFRED
+All the while draining your resources.
+109) ALFRED
+Spreading you thin.
+110) ALFRED
+No one has *ever* managed to bring him down.
+111) ALFRED
+[alt][angrier]My thoughts exactly every time you leave this cave.
+112) 
+JAMES GORDON
+113) 
+VICKI VALE
+137) 
+Vicki Vale
+114) 
+Bat Computer
+115) BRUCE
+This is it, Alfred.
+116) BRUCE
+Every illegal operation, every mafia connection... this is what I need.
+117) BRUCE
+That night... that alleyway... it made me who I am... I can’t get it out of my head.
+118) BRUCE
+[ALT]And inside Mayor Hill was hiding...
+119) BRUCE
+This is an insurance policy.
+120) BRUCE
+Sure as hell better than any bodyguard.
+121) BRUCE
+Do you see dad’s name on any of these documents?
+122) BRUCE
+Hill could expose Falcone if he didn’t play along.
+124) BRUCE
+With this proof, we can finally knock out Falcone’s organization.
+125) BRUCE
+She might just be the catalyst we need.
+126) BRUCE
+He could mobilize the entire police force against Falcone.
+127) BRUCE
+He could mobilize the entire police force against Falcone.
+128) BRUCE
+[ALT]The cops are on the frontlines against Falcone.
+129) BRUCE
+Well, Lieutenant Gordon knows how to deal with criminals.
+130) BRUCE
+Whatever Falcone is planning to do with those chemicals... it ends now.
+131) BRUCE
+[ALT]Whatever Falcone is planning... it ends now.
+132) 
+Access
+133) 
+Access
+134) 
+<<id:377652221>>Rogue’s Gallery
+135) 
+Gotham Feed
+136) 
+Gordon
+138) 
+Give Data
+139) 
+I deal with this alone.
+140) ALFRED
+[sigh]I don’t mean to be a doddering old fool on the subject.
+141) ALFRED
+[emphasis on your][ALT]That is your gift and your curse.
+142) ALFRED
+[ALT]There are so few left in this city who st
+143) ALFRED
+But, as a friend, the burden of advise falls on me.
+144) 
+<<id:377652231>><<id:0>>Codex
+145) 
+Codex

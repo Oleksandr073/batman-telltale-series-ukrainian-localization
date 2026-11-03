@@ -1,0 +1,195 @@
+﻿#### 5c67ace287 | choice/UI | x1
+^imageScale:.7^<ui_notification_faceButtonDown.d3dtx:-18> Compare Evidence
+
+#### 116793d040 | choice/UI | x1
+^imageScale:.7^<ui_notification_faceButtonRight.d3dtx:-18> Cancel
+
+#### 8b54bad1b8 | choice/UI | x1
+Knock On
+
+#### 0d6e2b8793 | choice/UI | x1
+Look In
+
+#### 935569fa49 | choice/UI | x1
+Look Out
+
+#### 439895a7ec | choice/UI | x1
+Look Over
+
+#### e49022d4ba | choice/UI | x1
+Look Under
+
+#### c32a0147f2 | choice/UI | x1
+Place
+
+#### 2691182ede | choice/UI | x1
+Pry
+
+#### 5219eb9a71 | choice/UI | x1
+Pull
+
+#### 0fff4fb3bd | choice/UI | x1
+Punch
+
+#### 0d3907c725 | choice/UI | x1
+Approach
+
+#### 1b81f28b5a | choice/UI | x1
+Attack
+
+#### a7c51e67b6 | choice/UI | x1
+Catch
+
+#### 78b7c9f6d6 | choice/UI | x1
+Choose
+
+#### c71c49e444 | choice/UI | x1
+Climb
+
+#### ececc5e296 | choice/UI | x1
+Climb Down
+
+#### 1f5a1abf2f | choice/UI | x1
+Complete
+
+#### 8b656a5dd9 | choice/UI | x1
+Cover
+
+#### 9194953c82 | choice/UI | x1
+Crawl Through
+
+#### afbcae0cfe | choice/UI | x1
+Exit Through
+
+#### 66587a7a62 | choice/UI | x1
+Follow
+
+#### cf673a9c87 | choice/UI | x1
+Grab
+
+#### 7979df70bf | choice/UI | x1
+Hack
+
+#### c47ae15370 | choice/UI | x1
+Help
+
+#### 90a761aa06 | choice/UI | x1
+Jump On
+
+#### 0ef3309e3b | choice/UI | x1
+Jump To
+
+#### 8f7f57b519 | choice/UI | x1
+Push
+
+#### 37df879eb7 | choice/UI | x1
+Run To
+
+#### 1cee99ef61 | choice/UI | x1
+Shake
+
+#### 8fd2268cb2 | choice/UI | x1
+Stab
+
+#### 3d3f29d216 | choice/UI | x1
+Stomp On
+
+#### 74454044aa | choice/UI | x1
+Switch On
+
+#### 368e8081b7 | choice/UI | x1
+Turn
+
+#### 1526a17ee7 | choice/UI | x1
+Unlock
+
+#### aafc66a742 | choice/UI | x1
+Walk To
+
+#### a1ceb69de1 | choice/UI | x3
+Cancel Link
+
+#### efd1e04d73 | choice/UI | x2
+Link To
+
+#### d0517071aa | choice/UI | x1
+Link
+
+#### 38b6f20083 | choice/UI | x2
+Break Link
+
+#### 21837163bd | choice/UI | x1
+HITS
+
+#### f10faa8b80 | choice/UI | x1
+^imageScale:0.85^<ui_station_backOut.d3dtx:-20> Back Out
+
+#### 97ef1506ee | choice/UI | x1
+Finish the fight
+
+#### d5445583ef | choice/UI | x1
+Okay
+
+#### 6e7af770a0 | choice/UI | x1
+NEXT TIME ON
+
+#### 9fc9aca749 | choice/UI | x1
+PREVIOUSLY ON
+
+#### 2242524ad7 | choice/UI | x1
+Right click to back out
+
+#### 83d0125add | choice/UI | x1
+Touch here to back out
+
+#### c785ddd9bc | choice/UI | x1
+Click to Try Again
+
+#### d10f8630db | choice/UI | x1
+Tap to Try Again
+
+#### 4029aa3edb | choice/UI | x1
+Press <ui_death_facebuttonDown.d3dtx:-15> to Try Again
+
+#### 87b857c930 | choice/UI | x1
+Watching the Credits
+
+#### f9bcbfc4c7 | choice/UI | x1
+Playing Episode 1
+
+#### 7a8c2ae968 | choice/UI | x1
+Playing Episode 2
+
+#### 17b93e932e | choice/UI | x1
+Playing Episode 3
+
+#### 0641e43ed8 | choice/UI | x1
+Playing Episode 4
+
+#### f2c93fba89 | choice/UI | x1
+Playing Episode 5
+
+#### 66b6105ff4 | choice/UI | x1
+Exploring the Menus
+
+#### f0400a5312 | choice/UI | x1
+Taking a Break
+
+#### 0d22df19e6 | choice/UI | x1
+Comparing Choices
+
+#### 8627240182 | choice/UI | x1
+Game Over
+
+#### e3f139abb7 | choice/UI | x5
+Touch
+
+#### d0c304cb0d | choice/UI | x5
+Everything Else
+
+#### 2cf006b191 | choice/UI | x1
+Add Link
+
+#### 0224413b5a | choice/UI | x4
+Back Out
+
