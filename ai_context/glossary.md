@@ -10,8 +10,9 @@ When a name is declined/inflected in the target language, write the base form he
 - Possessive `’s` and family plurals (`the Waynes`, `the Vales`, `the Arkhams`, `the Cobblepots`, `the Falcones`,
   `the Zellerbachs`, `the Dents`) follow the same translated stem.
 - Source typos (bottom table) are translated as the **correct** name.
-- Translations below are first suggestions (G → г, H → г: Готем, Гордон, Гарві). Change any of them here,
-  before they are used in the table. Inflect as normal Ukrainian (Брюса, Брюсові, Брюсе; Готема).
+- Translations below are first suggestions (G → г, H → г: Гордон, Гарві; the one exception is **Gotham → Ґотем**,
+  confirmed 2026-11-04). Change any of them here,
+  before they are used in the table. Inflect as normal Ukrainian (Брюса, Брюсові, Брюсе; Ґотема).
 - Cobblebot (joke on Cobblepot): Кобблбот.
 
 ## Main characters
@@ -21,9 +22,9 @@ When a name is declined/inflected in the target language, write the base form he
 | Bruce Wayne | Брюс Вейн | 658 | |
 | Bruce | Брюс | 3645 | |
 | Wayne | Вейн | 2752 | also in Wayne Enterprises, Wayne Manor, etc. |
-| Mr. Wayne | містер Вейн | 419 | |
-| Master Bruce | майстер Брюс (кличний: майстре Брюсе) | 69 | Alfred's form of address |
-| Master Wayne | майстер Вейн | 4 | |
+| Mr. Wayne | містер Вейн | 419 | Mr./Ms./Mrs. → містер/міс/місіс everywhere (confirmed 2026-11-04) |
+| Master Bruce | пан Брюс (кличний: пане Брюсе) | 69 | Alfred's form of address (confirmed 2026-11-04) |
+| Master Wayne | пан Вейн (кличний: пане Вейне) | 4 | |
 | Brucie | Брюсик | 49 | mocking nickname (Joker, Selina, Penguin) |
 | Bru | Брю | 3 | cut-off "Bruce" |
 | Bwucie | Бвюсик | 1 | Joker baby-talk |
@@ -66,6 +67,7 @@ When a name is declined/inflected in the target language, write the base form he
 | Gordon | Гордон | 589 | |
 | Jim | Джим | 131 | |
 | Lt. Gordon | лейтенант Гордон | 77 | also `Lieutenant Gordon` |
+| kid (Falcone to Bruce) | хлопче | ~100 | confirmed 2026-11-04 |
 | Carmine Falcone | Кармайн Фальконе | 161 | |
 | Carmine | Кармайн | 168 | |
 | Falcone | Фальконе | 1129 | |
@@ -164,10 +166,10 @@ When a name is declined/inflected in the target language, write the base form he
 
 | English | Translation | Count | Notes |
 |---|---|---|---|
-| Gotham | Готем | 2319 | |
-| Gotham City | Готем-Сіті | 120 | |
+| Gotham | Ґотем | 2319 | |
+| Gotham City | Ґотем-Сіті | 120 | |
 | Gothamites | готемці | 37 | residents of Gotham |
-| Arkham Asylum | Притулок Аркгем | 286 | |
+| Arkham Asylum | лікарня Аркгем | 286 | “психлікарня Аркгем” in rough speech (confirmed 2026-11-04) |
 | Arkham | Аркгем | 2054 | also the family name |
 | Wayne Manor | маєток Вейнів | 32 | |
 | Batcave | Бетпечера | 38 | also `batcave` |
@@ -181,9 +183,9 @@ When a name is declined/inflected in the target language, write the base form he
 | Cafe Triste | кафе Трист | 4 | |
 | Monarch Theatre | театр Монарх | 6 | debate venue |
 | Blackgate | Блекгейт | 25 | prison; also `Black Gate`, `Blackgate Prison` |
-| Gotham General Hospital | Центральна лікарня Готема | 7 | |
+| Gotham General Hospital | Центральна лікарня Ґотема | 7 | |
 | Wayne Memorial | Меморіальна лікарня Вейнів | 29 | hospital; also "Wayne Memorial Psychiatric Hospital" |
-| Gotham Central Station | Центральний вокзал Готема | 5 | |
+| Gotham Central Station | Центральний вокзал Ґотема | 5 | |
 | Eastside | Іст-Сайд | 6 | "Eastside Docks", "Eastside Shoreline" |
 | Otisburg | Отісбург | 3 | |
 | Bludhaven | Бладгейвен | 1 | |
@@ -193,10 +195,10 @@ When a name is declined/inflected in the target language, write the base form he
 
 | English | Translation | Count | Notes |
 |---|---|---|---|
-| GCPD | ПДГ (Поліцейський департамент Готема) | 460 | Gotham City Police Department |
+| GCPD | in dialogue: поліція Ґотема (or just поліція); on screens/UI/documents: ПДГ | 460 | Gotham City Police Department = Поліцейський департамент Ґотема (confirmed 2026-11-04) |
 | Children of Arkham | Діти Аркгема | 740 | |
 | CoA | ДА | 19 | abbreviation of Children of Arkham |
-| Wayne Enterprises | Вейн Ентерпрайзис | 336 | |
+| Wayne Enterprises | Вейн Ентерпрайзес | 336 | |
 | Wayne Foundation | Фонд Вейнів | 52 | |
 | Wayne Tech | Вейн-Тек | 87 | also `WayneTech`, `Waynetech` |
 | Cobblepot Tech | Кобблпот-Тек | 4 | |
@@ -205,8 +207,8 @@ When a name is declined/inflected in the target language, write the base form he
 | Major Crimes Unit | відділ тяжких злочинів | 15 | |
 | D.A. | прокурор | 120 | District Attorney; also `DA` |
 | District Attorney | окружний прокурор | 54 | |
-| Gotham Gazette | Готем Газетт | 87 | newspaper |
-| Gotham Globe | Готем Глоуб | 12 | newspaper |
+| Gotham Gazette | Ґотем Газетт | 87 | newspaper |
+| Gotham Globe | Ґотем Глоуб | 12 | newspaper |
 | Tribune | Трибюн | 50 | newspaper |
 | The Digital Standard | Діджитал Стандард | 12 | news site |
 | Random Lengths | Рендом Ленгтс | 8 | newspaper |

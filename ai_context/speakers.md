@@ -34,7 +34,7 @@ workers): ви; → children: ти. Wayne parents ↔ young Bruce: ти.
 | Gordon → Batman | 817 | **ти** | Batman → Gordon | 608 | **ти** | gruff cop and vigilante, allies; ви also works if you want Gordon formal | confirmed |
 | Lucius → Bruce | 1060 | **ви** | Bruce → Lucius | 1136 | **ви** | older employee, mutual respect | confirmed |
 | Lucius → Batman | 850 | **ви** | Batman → Lucius | 944 | **ви** |  | confirmed |
-| Vicki → Bruce | 913 | **ви** | Bruce → Vicki | 1241 | **ви** | ви in public (press conference); ти in private once they get close — decide per scene | confirmed |
+| Vicki → Bruce | 913 | **ви** | Bruce → Vicki | 1241 | **ви** | ви in episode 1; ти from their first private scene in episode 2 (confirmed 2026-11-04) | confirmed |
 | Vicki → Batman | 498 | **ви** | Batman → Vicki | 329 | **ви** | reporter and vigilante | confirmed |
 | Lady Arkham → Batman | 649 | **ти** | Batman → Lady Arkham | 386 | **ти** | enemies | confirmed |
 | Oswald → Bruce | 556 | **ти** | Bruce → Oswald | 623 | **ти** | childhood friends ("mate", "Oz"); stays ти when they become enemies | confirmed |

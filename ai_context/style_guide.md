@@ -7,8 +7,9 @@ Decisions for everyone who translates (people and AI). Format rules for tags and
 
 | Topic | Rule | Example |
 |---|---|---|
-| ти/ви | Exactly as in `speakers.md` (confirmed). Talking to several people = ви. | Alfred → Bruce: *Ви поранені, майстре Брюсе?* · Bruce → Alfred: *Ти мав рацію.* |
-| Names | As in `glossary.md` (G and H → г: Готем, Гордон, Гарві). Inflect normally. | *Брюса, Брюсові, Брюсе; у Готемі* |
+| ти/ви | Exactly as in `speakers.md` (confirmed). Talking to several people = ви. | Alfred → Bruce: *Ви поранені, пане Брюсе?* · Bruce → Alfred: *Ти мав рацію.* |
+| Names | As in `glossary.md` (G and H → г: Гордон, Гарві; but **Gotham → Ґотем**). Inflect normally. | *Брюса, Брюсові, Брюсе; у Ґотемі* |
+| Forms of address (2026-11-04) | Alfred’s “Master Bruce” → *пане Брюсе*. Mr./Ms./Mrs. → *містер/міс/місіс*. Falcone’s “kid” → *хлопче*. | *Пане Брюсе, ваші гості йдуть. · Послухай мене, хлопче.* |
 | Quotation marks | Same characters as the English: `“ ”` (and `‘ ’` inside). No «». | *Він назвав себе “Пінгвіном”.* |
 | Apostrophe | The same `’` (U+2019) as the English, also inside Ukrainian words. Never `'`. | *п’ять, м’ята, комп’ютер, Брюсів* |
 | Punctuation | Copy from the English line: `...` stays `...`, `--` stays `--`, `…` stays `…`, and the line ends the same way (or without punctuation if the English has none). | *I just-- → Я просто--* |
