@@ -62,7 +62,7 @@ Weird speaker names such as `HTTPS`, `16`, `1 20`, `ANOTHER SECURITY CAM FEED CA
 | `[ALT]` (any case, also `[ALT; coverage]`, `[alt]`) | `[ALT]Violence breeds violence.` | **no** | **never touch `[ALT]` itself**; translate the text after it. The validator reports any change as an error | [CONFIRMED by user] |
 | Other bracket prefixes on a choice | `[lie]A yatch salesman.`, `[play dumb]…` | prefix probably not shown | keep the prefix untouched, translate the rest | [TEST IN GAME] |
 | Bracket-only subtitle | `VICKI` → `[sighs]` (1 529 records) | effort sound, no visible text | leave as is | [LIKELY] |
-| `^font:Name^` `^color:#hex^` `^glyphScale:n^` `^imageScale:n^` | `^glyphScale:1.25^City Hall` | no — styling | keep exactly. Text after a tag gets that style | [100%] |
+| `^font:Name^` `^color:#hex^` `^glyphScale:n^` `^imageScale:n^` | `^glyphScale:1.25^City Hall` | no — styling | keep exactly. Text after a tag gets that style, also on the following lines of the same text (`^glyphScale^` confirmed in game) | [100%] |
 | `^^` | `^^KENT MUDLE`, `…{percent}%^^ of players` | no — "reset style" | keep. If it closes a coloured span, the translated words that should be coloured must stay **between** the opening tag and `^^` | [100%] |
 | `<image.d3dtx:-15>` | `Press ^imageScale:0.8^<ui_boot_facebuttonDown.d3dtx:-15> to Begin` | shows a button icon (number = vertical offset) | keep exactly, including the spaces on both sides. You may move the whole `^imageScale^<icon>` group if the word order needs it | [100% keep] |
 | `<<…>>` | `<<id:377679995>>`, `<<guid:{…}>>` | no | never touch | [100%] |
@@ -253,8 +253,10 @@ punctuation, `--`/`...` count or ASCII quotes. Fix rejected rows and apply again
 The only exception to "same number of lines per record": the records listed in `TARGETS` in `credits.py` -
 record 658 of `ui_menu_english.txt` (main menu About screen) ← `credits/about.txt`, and record 21 of
 `boot_english.txt` (boot screen copyright) ← `credits/boot.txt`, both modes. `apply_translations.py --credits DIR`
-appends every line of each file after its record's text. `validate.py` and `check_consistency.py` take the same
-`--credits DIR`, remove exactly these lines before their checks, and report an error if they are missing or changed
+appends every line of each file after its record's text. Font size settings in a file (lines starting with `#` are not
+shown): `# scale original: N` puts `^glyphScale:N^` at the start of every non-empty original line of that record,
+`# scale credits: N` of every credit line, `# scale: N` of both (the specific ones win). Size 1 adds no tag, except on credit lines below resized original text (`^glyphScale:1^`, because the size carries over). `validate.py` and `check_consistency.py` take the same
+`--credits DIR`, remove exactly these lines and size tags before their checks, and report an error if they are missing or changed
 (without `--credits` the extra lines are line-count errors). Unknown file names in the folder are refused. The
 `npm run` shortcuts pass it. Lines must not start with `number) `. [TEST IN GAME: extra lines in a record, box
 height]

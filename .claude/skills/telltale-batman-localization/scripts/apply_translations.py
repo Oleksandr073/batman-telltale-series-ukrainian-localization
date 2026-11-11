@@ -107,13 +107,15 @@ def main():
     problems, missing_keys = [], set()
     written, credited = [], set()
 
-    def add_credit(rel, rec_id, out):
-        """After a record's text: add the credit lines that belong to it (see credits.py)."""
-        c = credit_for(rel, rec_id, credits)
+    def add_credit(rel, rec, out):
+        """After a record's text: set the size of its lines and add the credit lines (see credits.py)."""
+        c = rec and credit_for(rel, rec['id'], credits)
         if c:
-            out.extend(c[1])
-            st[f'credits added to the {c[0]}: {len(c[1])} line(s)'] += 1
-            credited.add((os.path.basename(rel), rec_id))
+            n = len(rec['body'])
+            out[len(out) - n:] = c.style_original(out[len(out) - n:])
+            out.extend(c.styled_credits())
+            st[f'credits added to the {c.label}: {len(c.lines)} line(s){c.describe()}'] += 1
+            credited.add((os.path.basename(rel), rec['id']))
 
     for rel in txt_files(a.en):
         if not rel.startswith(a.only):
@@ -121,10 +123,10 @@ def main():
         recs, pre, _, _ = read_records(os.path.join(a.en, rel))
         info = analyze_records(recs, genders)
         out = list(pre)
-        prev_id = None
+        prev = None
         for r in recs:
-            add_credit(rel, prev_id, out)
-            prev_id = r['id']
+            add_credit(rel, prev, out)
+            prev = r
             out.append(r['hdr'])
             i = info.get(r['id'])
             cell = overrides.get((rel, r['id']))
@@ -152,7 +154,7 @@ def main():
                 prefix, core, suffix = split_line(line)
                 out.append('' if line == '' else prefix + tr + suffix)
             st['translated (override)' if src == 'override' else 'translated'] += 1
-        add_credit(rel, prev_id, out)
+        add_credit(rel, prev, out)
         write_lines(os.path.join(a.out, rel), out)
         written.append(rel)
 

@@ -353,10 +353,17 @@ def main():
         credit_lines = {'about.txt': ['', 'Українська локалізація v0.0.0 (тест)', 'Друга лінія: https://t.me/example',
                                       '', 'Дякую!'],
                         'boot.txt': ['', 'Локалізація (тест) · t.me/example']}
+        # about: different sizes for the original text and the credits; boot: normal-size credits under resized
+        # text must still get ^glyphScale:1^ (the game keeps the size for the following lines)
+        settings = {'about.txt': '# scale: 0.5\n# scale original: 0.7\n# scale credits: 0.9\n',
+                    'boot.txt': '# scale original: 0.8\n# scale credits: 1\n'}
+        scales = {'about.txt': ('0.7', '0.9'), 'boot.txt': ('0.8', '1')}         # (original, credits)
         os.makedirs(os.path.join(tmp, 'credits'))
         for name, lines in credit_lines.items():
             with open(os.path.join(tmp, 'credits', name), 'w', encoding='utf-8', newline='\r\n') as fh:
-                fh.write('\n'.join(lines) + '\n\n')
+                fh.write(settings[name] + '\n'.join(lines) + '\n\n')
+        size = lambda lines, s: ['' if x == '' else f'^glyphScale:{s}^' + x for x in lines]  # noqa: E731
+        tag = lambda name, body: size(body, scales[name][0]) + size(credit_lines[name], scales[name][1])  # noqa: E731
         code2, out = run(imp + ['--credits', 'credits'], tmp)
         check('import with --credits exit code 0', code == 0 and code2 == 0,
               re.findall(r'credits added .*|Validation: .*|Consistency: .*', out))
@@ -365,10 +372,12 @@ def main():
             rec_id = CREDIT_TARGETS[name][1]
             for rel in rels:
                 after = read_records(os.path.join(game, rel))[0]
-                want = [r['body'] + credit_lines[name] if r['id'] == rec_id else r['body'] for r in before[rel]]
+                want = [tag(name, r['body']) if r['id'] == rec_id else r['body']
+                        for r in before[rel]]
                 ok.append([r['body'] for r in after] == want)
                 n += 1
-        check('credit lines added after the original text, both modes, nothing else changed', n == 4 and all(ok),
+        check('credit lines added after the original text (+ separate size tags), both modes, nothing else changed',
+              n == 4 and all(ok),
               f'{n} file(s): ' + ', '.join(sum(targets.values(), [])))
         path = os.path.join(game, targets['about.txt'][0])
         write_lines(path, [x.replace('Дякую!', 'Дякую!!') for x in split_lines(read_raw(path))[0]])
@@ -377,6 +386,13 @@ def main():
         check('changed credit line reported by the consistency check', code == 1 and 'About screen' in out)
         code, out = run([S('validate.py'), 'data/original_data', 'data/localized_data', '--credits', 'credits'], tmp)
         check('changed credit line reported by the validator', code == 1 and 'About screen' in out)
+        lines = [x.replace('Дякую!!', 'Дякую!') for x in split_lines(read_raw(path))[0]]
+        first = lines.index(f"{CREDIT_TARGETS['about.txt'][1]}) ") + 1                # first text line of About
+        lines[first] = lines[first].replace('^glyphScale:0.7^', '', 1)
+        write_lines(path, lines)
+        code, out = run([S('check_consistency.py'), 'data/original_data', 'speaker_genders.xlsx',
+                         'data/unique_localized_data', 'data/localized_data', '--credits', 'credits'], tmp)
+        check('missing size tag reported', code == 1 and 'does not start with ^glyphScale:0.7^' in out)
     finally:
         if a.keep:
             print(f'\nKept: {tmp}')

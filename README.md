@@ -142,7 +142,14 @@ Ukrainian goes into that script instead of a landb file.
 | `credits/boot.txt` | record 21 of `boot_english.txt` (`BM_pc_Boot_data`, `BAT_pc_PC_Noir_Boot_compressed`) | Boot screen: after the copyright at the bottom. Keep it to 1–2 short lines |
 
 Edit a file (plain text, UTF-8; each line = one line on screen), then run `npm run import`. A line must not start
-with `number) `. These are the only records allowed to have more lines than the English: `npm run validate` and
+with `number) `. Lines starting with `#` are not shown. **Font size** (1 = normal, 0.8 = 80%; the game's size tag
+`^glyphScale:N^` is put at the start of every line):
+- `# scale original: 0.7` - the original game text above your info;
+- `# scale credits: 0.9` - your info;
+- `# scale: 0.8` - both at once (the two lines above win over it).
+
+Delete a line to keep that text at normal size. The game keeps a size for the lines below it, so when the original
+text is resized, your info always gets its own tag (`^glyphScale:1^` for normal size). These are the only records allowed to have more lines than the English: `npm run validate` and
 `npm run check` know these lines and report it if they are missing or different. The original texts themselves are
 still translated in the table as usual. Other file names in `credits/` are refused; to add a new place, add it to
 `TARGETS` in `scripts/credits.py`.
