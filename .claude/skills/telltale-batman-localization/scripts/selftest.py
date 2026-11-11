@@ -17,6 +17,8 @@ What it does:
      keeps translations and notes, and that a gender change keeps translations (marked "check gender forms").
   4. makes deliberate mistakes (line break in a one-line text, typing in a reference row, a deleted tag) and checks
      that each one is reported.
+  5. About screen: an import with --about adds the lines to record 658 of both ui_menu files and passes all checks;
+     a changed About line is reported.
 Exit code 0 = all checks passed.
 """
 import argparse
@@ -32,7 +34,8 @@ import time
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
-from landb_txt import BOM, read_raw, read_records, split_lines, txt_files  # noqa: E402
+from about import ABOUT_ID  # noqa: E402
+from landb_txt import BOM, read_raw, read_records, split_lines, txt_files, write_lines  # noqa: E402
 from tm_lib import (LINE_SEP, TABLE_COLUMNS, analyze_records, escape_cell, load_genders, split_line,  # noqa: E402
                     unescape_cell)
 
@@ -336,6 +339,34 @@ def main():
         check('only the file(s) with the deleted tag have errors', bad_tag_files and all(
             '{' in open(os.path.join(tmp, 'data/original_data', f), encoding='utf-8-sig').read() for f in bad_tag_files),
             f'{len(bad_tag_files)} file(s)')
+
+        print('\n[7] About screen lines (--about)')
+        wb, ws, col = load_sheet(os.path.join(tmp, 'translation_table.xlsx'))   # undo the mistakes of step 6
+        for r in (one, ref, tagged):
+            ws.cell(row=r['row'], column=col['ukrainian']).value = r['ukrainian'] or None
+        wb.save(os.path.join(tmp, 'translation_table.xlsx'))
+        about_lines = ['', 'Українська локалізація v0.0.0 (тест)', 'Друга лінія: https://t.me/example', '', 'Дякую!']
+        with open(os.path.join(tmp, 'about.txt'), 'w', encoding='utf-8', newline='\r\n') as fh:
+            fh.write('\n'.join(about_lines) + '\n\n')
+        code, out = run(imp + ['--about', 'about.txt'], tmp)
+        check('import with --about exit code 0', code == 0,
+              re.findall(r'About screen: .*|Validation: .*|Consistency: .*', out))
+        menus = [r for r in txt_files(os.path.join(tmp, 'data/original_data')) if r.endswith('/ui_menu_english.txt')]
+        ok = []
+        for rel in menus:
+            en = {r['id']: r for r in read_records(os.path.join(tmp, 'data/original_data', rel))[0]}
+            loc = {r['id']: r for r in read_records(os.path.join(tmp, 'data/localized_data', rel))[0]}
+            ok.append(loc[ABOUT_ID]['body'] == en[ABOUT_ID]['body'] + about_lines
+                      and all(loc[i]['body'] == en[i]['body'] for i in en if i != ABOUT_ID))
+        check('About lines added after the original text in both modes', len(menus) == 2 and all(ok), f'{menus}')
+        path = os.path.join(tmp, 'data/localized_data', menus[0])
+        lines = split_lines(read_raw(path))[0]
+        write_lines(path, [x.replace('Дякую!', 'Дякую!!') for x in lines])
+        code, out = run([S('check_consistency.py'), 'data/original_data', 'speaker_genders.xlsx',
+                         'data/unique_localized_data', 'data/localized_data', '--about', 'about.txt'], tmp)
+        check('changed About line reported by the consistency check', code == 1 and 'About screen' in out)
+        code, out = run([S('validate.py'), 'data/original_data', 'data/localized_data', '--about', 'about.txt'], tmp)
+        check('changed About line reported by the validator', code == 1 and 'About screen' in out)
     finally:
         if a.keep:
             print(f'\nKept: {tmp}')

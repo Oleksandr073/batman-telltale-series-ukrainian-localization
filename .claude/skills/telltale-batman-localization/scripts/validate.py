@@ -1,7 +1,9 @@
 """Compare translated landb .txt files against the English originals.
 
 Usage:
-  python validate.py ORIGINAL  TRANSLATED   [--show N] [--untranslated]
+  python validate.py ORIGINAL  TRANSLATED   [--show N] [--untranslated] [--about ABOUT_TXT]
+  --about: the same file as for the import; its lines must end the About record (658 of ui_menu_english.txt)
+           and are the only lines allowed to be extra. See about.py.
   (ORIGINAL/TRANSLATED can both be files or both be folders; folders are matched by relative path)
 
 ERRORS (file will break or import wrong):
@@ -22,6 +24,7 @@ import os
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from about import read_about, strip_about  # noqa: E402
 from landb_txt import HDR, exists, parse_lines, read_raw, split_lines, tokens, txt_files, visible_text  # noqa: E402
 
 
@@ -32,6 +35,9 @@ def check_pair(orig_path, tr_path, rel, out, args):
 
     o_lines, o_info = split_lines(read_raw(orig_path))
     t_lines, t_info = split_lines(read_raw(tr_path))
+    t_lines, about_err = strip_about(rel, t_lines, getattr(args, 'about', None))
+    if about_err:
+        E(0, about_err)
 
     if o_info['bom'] and not t_info['bom']:
         E(0, 'UTF-8 BOM missing (save as "UTF-8 with BOM")')
@@ -116,7 +122,9 @@ def main():
     ap.add_argument('--show', type=int, default=30, help='max messages per file (default 30)')
     ap.add_argument('--untranslated', action='store_true', help='list lines identical to English')
     ap.add_argument('-v', '--verbose', action='store_true', help='also print files without problems')
+    ap.add_argument('--about', help='About file given to the import (its lines are allowed at the end of record 658)')
     args = ap.parse_args()
+    args.about = read_about(args.about)
 
     if os.path.isdir(args.original):
         rels = txt_files(args.original)

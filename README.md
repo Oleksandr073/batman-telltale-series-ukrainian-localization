@@ -17,6 +17,7 @@ with the text replaced).
 | `data/unique_original_data/` | Every unique English text once (~43 900), in files named like the game files, built from `data/original_data/` only, never from the gender file. Each entry shows who speaks → to whom (guessed from the scene) and how many times the text is used. Read-only: the import only checks it. |
 | `data/unique_localized_data/` | The same entries with the Ukrainian from the table (untranslated texts stay English). Written by the script. The ~230 texts that need separate male/female Ukrainian versions appear once per version (same English, entry ids ending in `-SM`/`-SF`/`-LM`/`-LF`). |
 | `choice_stats_data/` | Texts of the end-of-episode **choices screen** ("You and 67.1% of players…"). They come from Telltale's server, not from landb files, so they live here: `original_script/` = English `choice_stats_english.txt` + the decompiled game script `ChoiceStats.lua` (never edit); `localized_script/` = the same txt in Ukrainian + `ChoiceStats.lua`, both written by `npm run import` from the table (don't edit). See *Choices screen* below. |
+| `about_localization.txt` | Localization credits for the **About** screen of the main menu. Each line here = one line on screen (empty lines are kept). `npm run import` adds them after the original About text in both modes. |
 | `ai_context/play_order.txt` | The story order of the game files, with scene titles. Edit it to fix the order, then `npm run rebuild`. Scenes marked `(?)` are guesses. |
 | `ai_context/style_guide.md` | Translation style decisions: quotes, apostrophe, punctuation, swearing, tone. |
 | `ai_context/speakers.md` | Who talks to whom, with the confirmed ти/ви decisions. |
@@ -130,6 +131,15 @@ Ukrainian goes into that script instead of a landb file.
    that never reach the screen (unused candidates); they stay in the table but are not put into the script.
 3. That script is compiled (Lua 5.2 `luac`) and packed into `BAT_pc_PC_Noir_Proj_compressed.ttarch2` — **not**
    `BM_pc_Project_data`: the Noir_Proj patch has its own copy of the script, which overrides the other one.
+
+## About screen (localization credits)
+
+The About screen (main menu) shows record 658 of `ui_menu_english.txt`: build and engine version, then the
+copyright. `npm run import` adds every line of `about_localization.txt` to the end of that record, in both modes
+(`BM_pc_Menu_data` and `BAT_pc_PC_Noir_Menu_compressed`). Edit the file (plain text, UTF-8), then run
+`npm run import`. A line must not start with `number) `. This is the only record allowed to have more lines than
+the English one: `npm run validate` and `npm run check` know these lines and report it if they are missing or
+different. The original About text itself is still translated in the table as usual (rows `Build Version: …`).
 
 ## Translation rules in short
 

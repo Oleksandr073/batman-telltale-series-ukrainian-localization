@@ -2,7 +2,7 @@
 
 Usage:
   python apply_translations.py EN_ROOT GENDERS TABLE OUT_ROOT [--unique UNIQUE_EN UNIQUE_UK]
-                               [--overrides OVERRIDES_TSV] [--only PREFIX]
+                               [--overrides OVERRIDES_TSV] [--only PREFIX] [--about ABOUT_TXT]
 
   EN_ROOT        English BM_* and BAT_* folders (never modified)
   GENDERS        speaker_genders.xlsx - must be the same file the table was built with
@@ -11,6 +11,8 @@ Usage:
   --overrides    optional TSV with columns: file, id, ukrainian[, comment]
                  a translation for one specific record (file = path like BM_pc_Batman101_data/x_english.txt),
                  used when one table row needs a different translation in one scene. Same ¶ rules as the table.
+  --about        optional text file whose lines are added to the end of the About screen text (record 658 of
+                 ui_menu_english.txt, both modes) - the localization credits. See about.py.
   --only         only write files whose path starts with this (e.g. BM_ or BAT_pc_BatmanNoir103_data)
   --unique       UNIQUE_EN UNIQUE_UK: the folders with every unique text once (see build_tm.py).
                  UNIQUE_EN (data/unique_original_data) is only CHECKED against EN_ROOT, never written; if it does not
@@ -28,6 +30,7 @@ import sys
 import types
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from about import ABOUT_ID, is_about, read_about  # noqa: E402
 from landb_txt import read_records, txt_files, write_lines  # noqa: E402
 from tm_lib import (analyze_records, check_root, compare_unique, load_genders, read_table, reference_row_edits,  # noqa: E402
                     split_line, split_translation, unique_files, write_unique)
@@ -49,11 +52,13 @@ def main():
     ap.add_argument('out')
     ap.add_argument('--overrides')
     ap.add_argument('--only', default='')
+    ap.add_argument('--about', help='text file with lines added to the end of the About screen text')
     ap.add_argument('--unique', nargs=2, metavar=('UNIQUE_EN_DIR', 'UNIQUE_UK_DIR'),
                     help='also write every unique text once (English / Ukrainian) for easy git diff')
     a = ap.parse_args()
 
     check_root(txt_files(a.en), a.en)
+    about = read_about(a.about)
     genders = load_genders(a.genders)
     rows = read_table(a.table)
     # Check every filled row first: a wrong number of lines (¶ or Alt+Enter line breaks) is reported once, with the
@@ -107,7 +112,12 @@ def main():
         recs, pre, _, _ = read_records(os.path.join(a.en, rel))
         info = analyze_records(recs, genders)
         out = list(pre)
+        prev_id = None
         for r in recs:
+            if out and about and is_about(rel, prev_id):
+                out.extend(about)
+                st[f'About screen: {len(about)} line(s) added'] += 1
+            prev_id = r['id']
             out.append(r['hdr'])
             i = info.get(r['id'])
             cell = overrides.get((rel, r['id']))
@@ -135,9 +145,14 @@ def main():
                 prefix, core, suffix = split_line(line)
                 out.append('' if line == '' else prefix + tr + suffix)
             st['translated (override)' if src == 'override' else 'translated'] += 1
+        if about and is_about(rel, prev_id):
+            out.extend(about)
+            st[f'About screen: {len(about)} line(s) added'] += 1
         write_lines(os.path.join(a.out, rel), out)
         written.append(rel)
 
+    if about and not any(k.startswith('About screen') for k in st) and not a.only:
+        problems.append(f'--about given, but no record {ABOUT_ID} found in any ui_menu_english.txt')
     print(f'Wrote {len(written)} file(s) to {a.out}')
     for k, v in st.most_common():
         print(f'  {k}: {v}')
@@ -150,7 +165,7 @@ def main():
         print(f'  ... {len(problems) - 30} more')
 
     print('\nValidating...')
-    args = types.SimpleNamespace(show=10, untranslated=False, verbose=False)
+    args = types.SimpleNamespace(show=10, untranslated=False, verbose=False, about=about)
     msgs, errors = [], 0
     for rel in written:
         e, _, _ = validate.check_pair(os.path.join(a.en, rel), os.path.join(a.out, rel), rel, msgs, args)
@@ -160,7 +175,7 @@ def main():
     mismatches = 0
     if a.unique and not a.only:
         print(f'\nComparing {a.out} with {a.unique[1]}...')
-        mismatches = check_consistency.check(a.en, a.genders, a.unique[1], a.out, a.overrides)
+        mismatches = check_consistency.check(a.en, a.genders, a.unique[1], a.out, a.overrides, about=about)
     if row_problems:
         print(f'\n{len(row_problems)} table row(s) were skipped (see the top of '
               f'the output). Fix them in the table and run the import again.')

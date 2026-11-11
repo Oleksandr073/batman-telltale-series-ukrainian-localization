@@ -2,6 +2,7 @@
 
 Usage:
   python check_consistency.py ORIGINAL GENDERS UNIQUE_LOCALIZED LOCALIZED [--overrides OVERRIDES_TSV]
+                               [--about ABOUT_TXT]
 
   ORIGINAL          data/original_data            (English game files)
   GENDERS           speaker_genders.xlsx (same file the table was built with)
@@ -16,6 +17,8 @@ It does not read the translation table. For every record of every file in ORIGIN
   - header lines must be identical.
 It also reports unique entries that no game file uses, and files missing in LOCALIZED.
 Records listed in --overrides are allowed to differ (reported separately).
+--about: the About record (658 of ui_menu_english.txt) must end with exactly the lines of that file; they are
+removed before the comparison. See about.py.
 Exit code 1 on any mismatch.
 """
 import argparse
@@ -23,7 +26,8 @@ import os
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from landb_txt import exists, read_records, split_lines, read_raw, txt_files  # noqa: E402
+from about import read_about, strip_about  # noqa: E402
+from landb_txt import exists, parse_lines, read_records, split_lines, read_raw, txt_files  # noqa: E402
 from tm_lib import analyze_records, check_root, load_genders, split_line  # noqa: E402
 
 
@@ -56,7 +60,7 @@ def read_override_keys(path):
     return keys
 
 
-def check(original, genders_path, unique_dir, localized, overrides=None, show=20):
+def check(original, genders_path, unique_dir, localized, overrides=None, show=20, about=None):
     genders = load_genders(genders_path)
     files = txt_files(original)
     check_root(files, original)
@@ -70,7 +74,11 @@ def check(original, genders_path, unique_dir, localized, overrides=None, show=20
             problems.append(f'{rel}: missing in {localized}')
             continue
         en_recs = read_records(os.path.join(original, rel))[0]
-        loc_recs = read_records(loc_path)[0]
+        loc_lines, about_err = strip_about(rel, split_lines(read_raw(loc_path))[0], about)
+        if about_err:
+            problems.append(f'{rel}: {about_err}')
+            continue
+        loc_recs = parse_lines(loc_lines)[0]
         if len(en_recs) != len(loc_recs):
             problems.append(f'{rel}: {len(loc_recs)} records, English has {len(en_recs)}')
             continue
@@ -130,8 +138,10 @@ def main():
     ap.add_argument('localized')
     ap.add_argument('--overrides')
     ap.add_argument('--show', type=int, default=20)
+    ap.add_argument('--about', help='About file given to the import')
     a = ap.parse_args()
-    sys.exit(1 if check(a.original, a.genders, a.unique_localized, a.localized, a.overrides, a.show) else 0)
+    sys.exit(1 if check(a.original, a.genders, a.unique_localized, a.localized, a.overrides, a.show,
+                        read_about(a.about)) else 0)
 
 
 if __name__ == '__main__':
