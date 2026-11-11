@@ -17,7 +17,7 @@ with the text replaced).
 | `data/unique_original_data/` | Every unique English text once (~43 900), in files named like the game files, built from `data/original_data/` only, never from the gender file. Each entry shows who speaks → to whom (guessed from the scene) and how many times the text is used. Read-only: the import only checks it. |
 | `data/unique_localized_data/` | The same entries with the Ukrainian from the table (untranslated texts stay English). Written by the script. The ~230 texts that need separate male/female Ukrainian versions appear once per version (same English, entry ids ending in `-SM`/`-SF`/`-LM`/`-LF`). |
 | `choice_stats_data/` | Texts of the end-of-episode **choices screen** ("You and 67.1% of players…"). They come from Telltale's server, not from landb files, so they live here: `original_script/` = English `choice_stats_english.txt` + the decompiled game script `ChoiceStats.lua` (never edit); `localized_script/` = the same txt in Ukrainian + `ChoiceStats.lua`, both written by `npm run import` from the table (don't edit). See *Choices screen* below. |
-| `credits/` | Localization credits: `about.txt` (About screen of the main menu) and `boot.txt` (boot screen, under the copyright). Each line here = one line on screen (empty lines are kept). `npm run import` adds them after the original text in both modes. See *Localization credits* below. |
+| `credits/` | Localization credits: `about.txt` (About screen of the main menu), `boot.txt` (boot screen, under the copyright) and `credits.txt` (start of the end credits of all 5 episodes). Each line here = one line on screen (empty lines are kept). `npm run import` adds them after the original text in both modes. See *Localization credits* below. |
 | `ai_context/play_order.txt` | The story order of the game files, with scene titles. Edit it to fix the order, then `npm run rebuild`. Scenes marked `(?)` are guesses. |
 | `ai_context/style_guide.md` | Translation style decisions: quotes, apostrophe, punctuation, swearing, tone. |
 | `ai_context/speakers.md` | Who talks to whom, with the confirmed ти/ви decisions. |
@@ -132,7 +132,7 @@ Ukrainian goes into that script instead of a landb file.
 3. That script is compiled (Lua 5.2 `luac`) and packed into `BAT_pc_PC_Noir_Proj_compressed.ttarch2` — **not**
    `BM_pc_Project_data`: the Noir_Proj patch has its own copy of the script, which overrides the other one.
 
-## Localization credits (About screen, boot screen)
+## Localization credits (About screen, boot screen, end credits)
 
 `npm run import` adds the lines of each file in `credits/` to the end of one game text, in both modes:
 
@@ -140,6 +140,7 @@ Ukrainian goes into that script instead of a landb file.
 |---|---|---|
 | `credits/about.txt` | record 658 of `ui_menu_english.txt` (`BM_pc_Menu_data`, `BAT_pc_PC_Noir_Menu_compressed`) | Main menu → About: after build/engine version and copyright |
 | `credits/boot.txt` | record 21 of `boot_english.txt` (`BM_pc_Boot_data`, `BAT_pc_PC_Noir_Boot_compressed`) | Boot screen: after the copyright at the bottom. Keep it to 1–2 short lines |
+| `credits/credits.txt` | the episode title: record 216 of `ui_credits101_english.txt`, record 1 of `ui_credits102…105_english.txt` (`BM_pc_Menu_data`, `BAT_pc_PC_Noir_Menu_compressed`) | End credits of every episode: one small line right under the episode title. The credits blocks have fixed positions (more lines would overlap "WRITTEN BY"), so keep it to one line with no empty line before it. The title's large font carries over - keep it small with `^glyphScale:0.4^`. (Or put `# same line` at the top to add the text to the end of the title line instead.) |
 
 Edit a file (plain text, UTF-8; each line = one line on screen), then run `npm run import`. A line must not start
 with `number) `. Lines starting with `#` are not shown. **Font size** (1 = normal, 0.8 = 80%; the game's size tag

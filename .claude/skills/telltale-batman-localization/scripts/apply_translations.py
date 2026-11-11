@@ -108,13 +108,12 @@ def main():
     written, credited = [], set()
 
     def add_credit(rel, rec, out):
-        """After a record's text: set the size of its lines and add the credit lines (see credits.py)."""
+        """After a record's text: set the size of its lines and add the credits (see credits.py)."""
         c = rec and credit_for(rel, rec['id'], credits)
         if c:
             n = len(rec['body'])
-            out[len(out) - n:] = c.style_original(out[len(out) - n:])
-            out.extend(c.styled_credits())
-            st[f'credits added to the {c.label}: {len(c.lines)} line(s){c.describe()}'] += 1
+            out[len(out) - n:] = c.apply(out[len(out) - n:])
+            st[f'credits added to the {c.label}: {c.describe()}'] += 1
             credited.add((os.path.basename(rel), rec['id']))
 
     for rel in txt_files(a.en):

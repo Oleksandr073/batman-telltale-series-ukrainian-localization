@@ -252,7 +252,13 @@ punctuation, `--`/`...` count or ASCII quotes. Fix rejected rows and apply again
 
 The only exception to "same number of lines per record": the records listed in `TARGETS` in `credits.py` -
 record 658 of `ui_menu_english.txt` (main menu About screen) ← `credits/about.txt`, and record 21 of
-`boot_english.txt` (boot screen copyright) ← `credits/boot.txt`, both modes. `apply_translations.py --credits DIR`
+`boot_english.txt` (boot screen copyright) ← `credits/boot.txt`, and the episode title at the start of the end
+credits (record 216 of `ui_credits101_english.txt`, record 1 of `ui_credits102..105_english.txt`) ←
+`credits/credits.txt`, both modes. New records can't be added (the game shows a fixed list of record ids), so extra
+text always goes at the end of an existing record. End credits blocks have fixed positions [CONFIRMED in game: extra
+lines overlap the next block], so `credits.txt` is ONE small line right under the title (`^glyphScale:0.4^`, no
+empty line before it), which fits in the gap. Another option is `# same line`: the single text line is appended to
+the end of the record's last line (the title line) instead of adding lines. `apply_translations.py --credits DIR`
 appends every line of each file after its record's text. Font size settings in a file (lines starting with `#` are not
 shown): `# scale original: N` puts `^glyphScale:N^` at the start of every non-empty original line of that record,
 `# scale credits: N` of every credit line, `# scale: N` of both (the specific ones win). Size 1 adds no tag, except on credit lines below resized original text (`^glyphScale:1^`, because the size carries over). `validate.py` and `check_consistency.py` take the same
