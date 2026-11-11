@@ -1,0 +1,8 @@
+# Telegram button on the About screen (main menu and pause menu, both modes): it opens the url in the browser.
+# Edit the two lines below, then run `npm run about-button` (it also runs at the end of `npm run import`).
+#   text: what the button says (one line; also shown for controller players next to the X / Square button)
+#   url:  the link. For a Telegram channel use the https://t.me/s/NAME form - plain t.me/NAME tries to open the
+#         Telegram app, which the Steam overlay browser can't do (it shows an error page).
+# Lines starting with # are comments.
+text: Відкрити Telegram канал
+url: https://t.me/s/Just1ce_UA_channel

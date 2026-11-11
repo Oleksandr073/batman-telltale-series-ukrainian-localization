@@ -17,6 +17,7 @@ with the text replaced).
 | `data/unique_original_data/` | Every unique English text once (~43 900), in files named like the game files, built from `data/original_data/` only, never from the gender file. Each entry shows who speaks → to whom (guessed from the scene) and how many times the text is used. Read-only: the import only checks it. |
 | `data/unique_localized_data/` | The same entries with the Ukrainian from the table (untranslated texts stay English). Written by the script. The ~230 texts that need separate male/female Ukrainian versions appear once per version (same English, entry ids ending in `-SM`/`-SF`/`-LM`/`-LF`). |
 | `choice_stats_data/` | Texts of the end-of-episode **choices screen** ("You and 67.1% of players…"). They come from Telltale's server, not from landb files, so they live here: `original_script/` = English `choice_stats_english.txt` + the decompiled game script `ChoiceStats.lua` (never edit); `localized_script/` = the same txt in Ukrainian + `ChoiceStats.lua`, both written by `npm run import` from the table (don't edit). See *Choices screen* below. |
+| `about_button_data/` | The **"Open Telegram channel" button** on the About screen. `button.txt` = the button text and the link (**edit this**); `original_script/Menu_About.lua` = the decompiled game script (never edit); `localized_script/Menu_About.lua` = the script with the button, written by `npm run import` (don't edit). See *About-screen button* below. |
 | `credits/` | Localization credits: `about.txt` (About screen of the main menu), `boot.txt` (boot screen, under the copyright) and `credits.txt` (start of the end credits of all 5 episodes). Each line here = one line on screen (empty lines are kept). `npm run import` adds them after the original text in both modes. See *Localization credits* below. |
 | `ai_context/play_order.txt` | The story order of the game files, with scene titles. Edit it to fix the order, then `npm run rebuild`. Scenes marked `(?)` are guesses. |
 | `ai_context/style_guide.md` | Translation style decisions: quotes, apostrophe, punctuation, swearing, tone. |
@@ -101,6 +102,7 @@ All shortcuts are defined in `package.json` (`scripts`), like in any Node projec
 | `npm run fake` | **Test only, use a separate branch.** Fills the table with a fake translation (English letters swapped for Cyrillic, using all 33 Ukrainian letters to test the font; end credits stay English) and imports it, to check the game build. Stops if the table already has real translations. | Before packing a test build |
 | `npm run ai:status` / `ai:export` / `ai:apply` | AI drafts: progress per episode / export a batch / write checked drafts into empty cells (see *AI drafts*). | While translating |
 | `npm run choice-stats` | Writes `choice_stats_data/localized_script/` (choice txt + `ChoiceStats.lua`) from the imported `stats_english.txt`. Runs automatically at the end of `npm run import` (see *Choices screen*). | Automatic |
+| `npm run about-button` | Writes `about_button_data/localized_script/Menu_About.lua` from `about_button_data/button.txt`. Runs automatically at the end of `npm run import` (see *About-screen button*). | After editing `button.txt` |
 | `npm run setup` | Installs the Excel package for Python. | Once per computer |
 
 The steps in which to use them are in **Localization flow** above.
@@ -131,6 +133,25 @@ Ukrainian goes into that script instead of a landb file.
    that never reach the screen (unused candidates); they stay in the table but are not put into the script.
 3. That script is compiled (Lua 5.2 `luac`) and packed into `BAT_pc_PC_Noir_Proj_compressed.ttarch2` — **not**
    `BM_pc_Project_data`: the Noir_Proj patch has its own copy of the script, which overrides the other one.
+
+## About-screen button
+
+The About screen (main menu and pause menu, both modes) gets a second button next to "Previous Menu" that opens a
+link in the browser (on Steam: the Steam overlay browser). Controller players get the same on X / Square. The button
+text is set in the game script `Menu_About.lua`, not in a landb file, so it is not in the table.
+
+1. Edit `about_button_data/button.txt`:
+   ```
+   text: Відкрити Telegram канал
+   url: https://t.me/s/Just1ce_UA_channel
+   ```
+   Text: one line, up to 40 characters, no `^` or `<`. For a Telegram channel keep the `t.me/s/NAME` form: plain
+   `t.me/NAME` tries to open the Telegram app, which the Steam overlay browser can't do (error page). The script
+   refuses a plain `t.me/NAME` link.
+2. `npm run about-button` (or `npm run import`, which runs it at the end). It writes
+   `about_button_data/localized_script/Menu_About.lua` = the original script + the button. Review it with `git diff`.
+3. That script is compiled (Lua 5.2 `luac`) and packed into **both** `BM_pc_Menu_data.ttarch2` and
+   `BAT_pc_BatmanNoirMenu_compressed.ttarch2` (not `BAT_pc_PC_Noir_Menu_compressed` — the About script is not there).
 
 ## Localization credits (About screen, boot screen, end credits)
 

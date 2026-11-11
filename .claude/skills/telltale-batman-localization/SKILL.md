@@ -287,6 +287,23 @@ Telltale's server (9 languages, no Ukrainian) and the game shows them through `C
 Compiling and packing are outside this repo. The live copy of the script is in `BAT_pc_PC_Noir_Proj_compressed`
 (it overrides `BM_pc_Project_data`).
 
+### About-screen button (`scripts/apply_about_button.py`, `npm run about-button`)
+
+A second button next to "Previous Menu" on the About screen opens a link (`PlatformOpenURL`; on Steam the overlay
+browser) [CONFIRMED in game 2026-11-11]. Controller: X / Square in the bottom legend. Files in `about_button_data/`:
+- `button.txt` - `text: ...` and `url: ...` (the only file people edit; `#` lines are comments);
+- `original_script/Menu_About.lua` - decompiled game script, never edit;
+- `localized_script/Menu_About.lua` - written by `apply_about_button.py ABOUT_DIR` (run at the end of `npm run import`):
+  the original + 3 inserted blocks (settings and `Menu_About_OpenTelegram()` at the top, the controller legend entry,
+  the mouse `LegendButton` after `legendButton:Place`). Each insertion point must occur exactly once in the original.
+Rules the script enforces: text one line, ≤ 40 chars, no `^`/`<`; url `https://...`; Telegram links must be
+`t.me/s/NAME` (plain `t.me/NAME` → `tg://` redirect → error page in the Steam overlay [CONFIRMED in game]).
+Game facts behind the code: the `ui_legendButton.prop` is linked to landb node `legendButton_back` (arrow + "Previous
+Menu"), and a landb link wins over "Text String", so the script clears "Text Dialog 2.0 Node Name" before setting the
+text, repeating for 15 frames. `Menu_Text(x)` returns `x` itself when no landb node matches, so the legend takes raw
+text. The button text is not a landb text and not in the table. Compiling and packing are outside this repo; the
+script goes into both `BM_pc_Menu_data` and `BAT_pc_BatmanNoirMenu_compressed`.
+
 ## 10b. Style decisions
 
 Read `ai_context/style_guide.md` before translating: confirmed rules (ти/ви, names, “ ” quotes, ’ apostrophe,
