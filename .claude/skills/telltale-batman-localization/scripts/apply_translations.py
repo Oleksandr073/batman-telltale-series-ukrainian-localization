@@ -2,7 +2,7 @@
 
 Usage:
   python apply_translations.py EN_ROOT GENDERS TABLE OUT_ROOT [--unique UNIQUE_EN UNIQUE_UK]
-                               [--overrides OVERRIDES_TSV] [--only PREFIX] [--about ABOUT_TXT]
+                               [--overrides OVERRIDES_TSV] [--only PREFIX] [--credits CREDITS_DIR]
 
   EN_ROOT        English BM_* and BAT_* folders (never modified)
   GENDERS        speaker_genders.xlsx - must be the same file the table was built with
@@ -11,8 +11,8 @@ Usage:
   --overrides    optional TSV with columns: file, id, ukrainian[, comment]
                  a translation for one specific record (file = path like BM_pc_Batman101_data/x_english.txt),
                  used when one table row needs a different translation in one scene. Same ¶ rules as the table.
-  --about        optional text file whose lines are added to the end of the About screen text (record 658 of
-                 ui_menu_english.txt, both modes) - the localization credits. See about.py.
+  --credits      optional folder with the localization credits (about.txt, boot.txt): their lines are added to the
+                 end of the About screen text and the boot screen copyright, both modes. See credits.py.
   --only         only write files whose path starts with this (e.g. BM_ or BAT_pc_BatmanNoir103_data)
   --unique       UNIQUE_EN UNIQUE_UK: the folders with every unique text once (see build_tm.py).
                  UNIQUE_EN (data/unique_original_data) is only CHECKED against EN_ROOT, never written; if it does not
@@ -30,7 +30,7 @@ import sys
 import types
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from about import ABOUT_ID, is_about, read_about  # noqa: E402
+from credits import credit_for, read_credits  # noqa: E402
 from landb_txt import read_records, txt_files, write_lines  # noqa: E402
 from tm_lib import (analyze_records, check_root, compare_unique, load_genders, read_table, reference_row_edits,  # noqa: E402
                     split_line, split_translation, unique_files, write_unique)
@@ -52,13 +52,13 @@ def main():
     ap.add_argument('out')
     ap.add_argument('--overrides')
     ap.add_argument('--only', default='')
-    ap.add_argument('--about', help='text file with lines added to the end of the About screen text')
+    ap.add_argument('--credits', help='folder with credits files (about.txt, boot.txt) added to the end of some texts')
     ap.add_argument('--unique', nargs=2, metavar=('UNIQUE_EN_DIR', 'UNIQUE_UK_DIR'),
                     help='also write every unique text once (English / Ukrainian) for easy git diff')
     a = ap.parse_args()
 
     check_root(txt_files(a.en), a.en)
-    about = read_about(a.about)
+    credits = read_credits(a.credits)
     genders = load_genders(a.genders)
     rows = read_table(a.table)
     # Check every filled row first: a wrong number of lines (¶ or Alt+Enter line breaks) is reported once, with the
@@ -105,7 +105,16 @@ def main():
 
     st = collections.Counter()
     problems, missing_keys = [], set()
-    written = []
+    written, credited = [], set()
+
+    def add_credit(rel, rec_id, out):
+        """After a record's text: add the credit lines that belong to it (see credits.py)."""
+        c = credit_for(rel, rec_id, credits)
+        if c:
+            out.extend(c[1])
+            st[f'credits added to the {c[0]}: {len(c[1])} line(s)'] += 1
+            credited.add((os.path.basename(rel), rec_id))
+
     for rel in txt_files(a.en):
         if not rel.startswith(a.only):
             continue
@@ -114,9 +123,7 @@ def main():
         out = list(pre)
         prev_id = None
         for r in recs:
-            if out and about and is_about(rel, prev_id):
-                out.extend(about)
-                st[f'About screen: {len(about)} line(s) added'] += 1
+            add_credit(rel, prev_id, out)
             prev_id = r['id']
             out.append(r['hdr'])
             i = info.get(r['id'])
@@ -145,14 +152,13 @@ def main():
                 prefix, core, suffix = split_line(line)
                 out.append('' if line == '' else prefix + tr + suffix)
             st['translated (override)' if src == 'override' else 'translated'] += 1
-        if about and is_about(rel, prev_id):
-            out.extend(about)
-            st[f'About screen: {len(about)} line(s) added'] += 1
+        add_credit(rel, prev_id, out)
         write_lines(os.path.join(a.out, rel), out)
         written.append(rel)
 
-    if about and not any(k.startswith('About screen') for k in st) and not a.only:
-        problems.append(f'--about given, but no record {ABOUT_ID} found in any ui_menu_english.txt')
+    if not a.only:
+        for game_file, rec_id in sorted(set(credits) - credited):
+            problems.append(f'credits: record {rec_id} not found in any {game_file}')
     print(f'Wrote {len(written)} file(s) to {a.out}')
     for k, v in st.most_common():
         print(f'  {k}: {v}')
@@ -165,7 +171,7 @@ def main():
         print(f'  ... {len(problems) - 30} more')
 
     print('\nValidating...')
-    args = types.SimpleNamespace(show=10, untranslated=False, verbose=False, about=about)
+    args = types.SimpleNamespace(show=10, untranslated=False, verbose=False, credits=credits)
     msgs, errors = [], 0
     for rel in written:
         e, _, _ = validate.check_pair(os.path.join(a.en, rel), os.path.join(a.out, rel), rel, msgs, args)
@@ -175,7 +181,7 @@ def main():
     mismatches = 0
     if a.unique and not a.only:
         print(f'\nComparing {a.out} with {a.unique[1]}...')
-        mismatches = check_consistency.check(a.en, a.genders, a.unique[1], a.out, a.overrides, about=about)
+        mismatches = check_consistency.check(a.en, a.genders, a.unique[1], a.out, a.overrides, credits=credits)
     if row_problems:
         print(f'\n{len(row_problems)} table row(s) were skipped (see the top of '
               f'the output). Fix them in the table and run the import again.')

@@ -17,8 +17,8 @@ What it does:
      keeps translations and notes, and that a gender change keeps translations (marked "check gender forms").
   4. makes deliberate mistakes (line break in a one-line text, typing in a reference row, a deleted tag) and checks
      that each one is reported.
-  5. About screen: an import with --about adds the lines to record 658 of both ui_menu files and passes all checks;
-     a changed About line is reported.
+  5. localization credits: an import with --credits adds the lines to the About screen (ui_menu) and boot screen
+     (boot) records of both modes, changes nothing else and passes all checks; a changed credit line is reported.
 Exit code 0 = all checks passed.
 """
 import argparse
@@ -34,7 +34,7 @@ import time
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
-from about import ABOUT_ID  # noqa: E402
+from credits import TARGETS as CREDIT_TARGETS  # noqa: E402
 from landb_txt import BOM, read_raw, read_records, split_lines, txt_files, write_lines  # noqa: E402
 from tm_lib import (LINE_SEP, TABLE_COLUMNS, analyze_records, escape_cell, load_genders, split_line,  # noqa: E402
                     unescape_cell)
@@ -340,33 +340,43 @@ def main():
             '{' in open(os.path.join(tmp, 'data/original_data', f), encoding='utf-8-sig').read() for f in bad_tag_files),
             f'{len(bad_tag_files)} file(s)')
 
-        print('\n[7] About screen lines (--about)')
+        print('\n[7] Localization credits (--credits: About screen, boot screen)')
         wb, ws, col = load_sheet(os.path.join(tmp, 'translation_table.xlsx'))   # undo the mistakes of step 6
         for r in (one, ref, tagged):
             ws.cell(row=r['row'], column=col['ukrainian']).value = r['ukrainian'] or None
         wb.save(os.path.join(tmp, 'translation_table.xlsx'))
-        about_lines = ['', 'Українська локалізація v0.0.0 (тест)', 'Друга лінія: https://t.me/example', '', 'Дякую!']
-        with open(os.path.join(tmp, 'about.txt'), 'w', encoding='utf-8', newline='\r\n') as fh:
-            fh.write('\n'.join(about_lines) + '\n\n')
-        code, out = run(imp + ['--about', 'about.txt'], tmp)
-        check('import with --about exit code 0', code == 0,
-              re.findall(r'About screen: .*|Validation: .*|Consistency: .*', out))
-        menus = [r for r in txt_files(os.path.join(tmp, 'data/original_data')) if r.endswith('/ui_menu_english.txt')]
-        ok = []
-        for rel in menus:
-            en = {r['id']: r for r in read_records(os.path.join(tmp, 'data/original_data', rel))[0]}
-            loc = {r['id']: r for r in read_records(os.path.join(tmp, 'data/localized_data', rel))[0]}
-            ok.append(loc[ABOUT_ID]['body'] == en[ABOUT_ID]['body'] + about_lines
-                      and all(loc[i]['body'] == en[i]['body'] for i in en if i != ABOUT_ID))
-        check('About lines added after the original text in both modes', len(menus) == 2 and all(ok), f'{menus}')
-        path = os.path.join(tmp, 'data/localized_data', menus[0])
-        lines = split_lines(read_raw(path))[0]
-        write_lines(path, [x.replace('Дякую!', 'Дякую!!') for x in lines])
+        code, _ = run(imp, tmp)                                                # files without credits, to compare
+        game = os.path.join(tmp, 'data/localized_data')
+        targets = {name: [rel for rel in txt_files(game) if os.path.basename(rel) == f]
+                   for name, (f, _, _) in CREDIT_TARGETS.items()}
+        before = {rel: read_records(os.path.join(game, rel))[0] for rels in targets.values() for rel in rels}
+        credit_lines = {'about.txt': ['', 'Українська локалізація v0.0.0 (тест)', 'Друга лінія: https://t.me/example',
+                                      '', 'Дякую!'],
+                        'boot.txt': ['', 'Локалізація (тест) · t.me/example']}
+        os.makedirs(os.path.join(tmp, 'credits'))
+        for name, lines in credit_lines.items():
+            with open(os.path.join(tmp, 'credits', name), 'w', encoding='utf-8', newline='\r\n') as fh:
+                fh.write('\n'.join(lines) + '\n\n')
+        code2, out = run(imp + ['--credits', 'credits'], tmp)
+        check('import with --credits exit code 0', code == 0 and code2 == 0,
+              re.findall(r'credits added .*|Validation: .*|Consistency: .*', out))
+        ok, n = [], 0
+        for name, rels in targets.items():
+            rec_id = CREDIT_TARGETS[name][1]
+            for rel in rels:
+                after = read_records(os.path.join(game, rel))[0]
+                want = [r['body'] + credit_lines[name] if r['id'] == rec_id else r['body'] for r in before[rel]]
+                ok.append([r['body'] for r in after] == want)
+                n += 1
+        check('credit lines added after the original text, both modes, nothing else changed', n == 4 and all(ok),
+              f'{n} file(s): ' + ', '.join(sum(targets.values(), [])))
+        path = os.path.join(game, targets['about.txt'][0])
+        write_lines(path, [x.replace('Дякую!', 'Дякую!!') for x in split_lines(read_raw(path))[0]])
         code, out = run([S('check_consistency.py'), 'data/original_data', 'speaker_genders.xlsx',
-                         'data/unique_localized_data', 'data/localized_data', '--about', 'about.txt'], tmp)
-        check('changed About line reported by the consistency check', code == 1 and 'About screen' in out)
-        code, out = run([S('validate.py'), 'data/original_data', 'data/localized_data', '--about', 'about.txt'], tmp)
-        check('changed About line reported by the validator', code == 1 and 'About screen' in out)
+                         'data/unique_localized_data', 'data/localized_data', '--credits', 'credits'], tmp)
+        check('changed credit line reported by the consistency check', code == 1 and 'About screen' in out)
+        code, out = run([S('validate.py'), 'data/original_data', 'data/localized_data', '--credits', 'credits'], tmp)
+        check('changed credit line reported by the validator', code == 1 and 'About screen' in out)
     finally:
         if a.keep:
             print(f'\nKept: {tmp}')

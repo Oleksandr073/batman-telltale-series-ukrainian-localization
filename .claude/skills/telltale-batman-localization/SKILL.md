@@ -248,14 +248,16 @@ genders must be gender-neutral), then `ai_translate.py apply TABLE X.tsv`. Apply
 `AI draft` in Translator notes and rejects rows with a wrong line count, changed markup, leading spaces, ending
 punctuation, `--`/`...` count or ASCII quotes. Fix rejected rows and apply again. Never overwrite cells by people.
 
-### About screen (`scripts/about.py`, `--about about_localization.txt`)
+### Localization credits (`scripts/credits.py`, `--credits credits`)
 
-The only exception to "same number of lines per record": record 658 of `ui_menu_english.txt` (both modes) is the
-main menu About screen. `apply_translations.py --about FILE` appends every line of `FILE` (the repo's
-`about_localization.txt`: localization version, author, channel) after that record's text. `validate.py` and
-`check_consistency.py` take the same `--about FILE`, remove exactly these lines before their checks, and report an
-error if they are missing or changed (without `--about` the extra lines are line-count errors). The `npm run`
-shortcuts pass it. Lines must not start with `number) `. [TEST IN GAME: extra lines in a record, box height]
+The only exception to "same number of lines per record": the records listed in `TARGETS` in `credits.py` -
+record 658 of `ui_menu_english.txt` (main menu About screen) ← `credits/about.txt`, and record 21 of
+`boot_english.txt` (boot screen copyright) ← `credits/boot.txt`, both modes. `apply_translations.py --credits DIR`
+appends every line of each file after its record's text. `validate.py` and `check_consistency.py` take the same
+`--credits DIR`, remove exactly these lines before their checks, and report an error if they are missing or changed
+(without `--credits` the extra lines are line-count errors). Unknown file names in the folder are refused. The
+`npm run` shortcuts pass it. Lines must not start with `number) `. [TEST IN GAME: extra lines in a record, box
+height]
 
 ### Choices screen (`scripts/apply_choice_stats.py`, `npm run choice-stats`)
 
