@@ -352,9 +352,9 @@ def main():
                           if os.path.basename(rel) == f]
                    for name, (_, records) in CREDIT_TARGETS.items()}
         before = {rel: read_records(os.path.join(game, rel))[0] for recs in targets.values() for rel, _ in recs}
-        credit_lines = {'about.txt': ['', 'Українська локалізація v0.0.0 (тест)', 'Друга лінія: https://t.me/example',
+        credit_lines = {'about.txt': ['', 'Українська локалізація v0.0.0 (тест)', 'Друга лінія: https://t.me/example_channel',
                                       '', 'Дякую!'],
-                        'boot.txt': ['', 'Локалізація (тест) · t.me/example'],
+                        'boot.txt': ['', 'Локалізація (тест) · t.me/example_channel'],
                         'credits.txt': ['   ^glyphScale:0.5^· Локалізація (тест)']}            # "# same line"
         # about: different sizes for the original text and the credits; boot: normal-size credits under resized
         # text must still get ^glyphScale:1^ (the game keeps the size for the following lines)
@@ -362,9 +362,14 @@ def main():
                     'boot.txt': '# scale original: 0.8\n# scale credits: 1\n', 'credits.txt': '# same line\n\n'}
         scales = {'about.txt': ('0.7', '0.9'), 'boot.txt': ('0.8', '1'), 'credits.txt': (None, None)}  # (orig, cred)
         os.makedirs(os.path.join(tmp, 'credits'))
+        # the files use the {telegram...} placeholders (links.py); telegram.txt holds the channel
+        with open(os.path.join(tmp, 'telegram.txt'), 'w', encoding='utf-8') as fh:
+            fh.write('# test\nchannel: example_channel\n')
         for name, lines in credit_lines.items():
+            text = '\n'.join(lines).replace('https://t.me/example_channel', '{telegram}')
+            text = text.replace('t.me/example_channel', '{telegram_short}')
             with open(os.path.join(tmp, 'credits', name), 'w', encoding='utf-8', newline='\r\n') as fh:
-                fh.write(settings[name] + '\n'.join(lines) + '\n\n')
+                fh.write(settings[name] + text + '\n\n')
         size = lambda lines, s: ['' if x == '' or not s else f'^glyphScale:{s}^' + x for x in lines]  # noqa: E731
         tag = lambda name, body: (body[:-1] + [body[-1] + credit_lines[name][0]] if name == 'credits.txt'  # noqa: E731
                                   else size(body, scales[name][0]) + size(credit_lines[name], scales[name][1]))

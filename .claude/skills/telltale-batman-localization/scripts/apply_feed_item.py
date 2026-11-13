@@ -26,6 +26,9 @@ import os
 import re
 import sys
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from links import expand  # noqa: E402
+
 LUA = 'UI_Feed.lua'
 SETTINGS = 'feed_item.txt'
 IMAGE = 'ui_imageUATelegramFeed.d3dtx'
@@ -115,7 +118,7 @@ def read_settings(path):
             fail(f'{path} line {n}: expected "header:", "url:", "qr:" or "line1:".."line3:", got {line!r}')
         if m.group(1) in values:
             fail(f'{path} line {n}: "{m.group(1)}:" is given twice')
-        values[m.group(1)] = m.group(2)
+        values[m.group(1)] = expand(m.group(2), os.path.dirname(path), path)  # {telegram...}, see links.py
     return values
 
 

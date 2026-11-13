@@ -17,6 +17,7 @@ with the text replaced).
 | `data/unique_original_data/` | Every unique English text once (~43 900), in files named like the game files, built from `data/original_data/` only, never from the gender file. Each entry shows who speaks → to whom (guessed from the scene) and how many times the text is used. Read-only: the import only checks it. |
 | `data/unique_localized_data/` | The same entries with the Ukrainian from the table (untranslated texts stay English). Written by the script. The ~230 texts that need separate male/female Ukrainian versions appear once per version (same English, entry ids ending in `-SM`/`-SF`/`-LM`/`-LF`). |
 | `choice_stats_data/` | Texts of the end-of-episode **choices screen** ("You and 67.1% of players…"). They come from Telltale's server, not from landb files, so they live here: `original_script/` = English `choice_stats_english.txt` + the decompiled game script `ChoiceStats.lua` (never edit); `localized_script/` = the same txt in Ukrainian + `ChoiceStats.lua`, both written by `npm run import` from the table (don't edit). See *Choices screen* below. |
+| `telegram.txt` | **The Telegram channel**, the only place to change it (`channel: NAME`). Other files use `{telegram}` (https://t.me/NAME), `{telegram_short}` (t.me/NAME) and `{telegram_web}` (https://t.me/s/NAME), filled in by the scripts. See *Telegram link* below. |
 | `about_button_data/` | The **"Open Telegram channel" button** on the About screen. `button.txt` = the button text and the link (**edit this**); `original_script/Menu_About.lua` = the decompiled game script (never edit); `localized_script/Menu_About.lua` = the script with the button, written by `npm run import` (don't edit). See *About-screen button* below. |
 | `feed_item_data/` | The **Telegram item in the main-menu feed** (the carousel at the bottom left). `feed_item.txt` = header text, link, QR link and picture text (**edit this**); `original_script/UI_Feed.lua` = the decompiled game script (never edit); `localized_script/UI_Feed.lua` = the script with the item, written by `npm run import` (don't edit); `texture/ui_imageUATelegramFeed.d3dtx` = the picture (made by `npm run feed-texture`). See *Main-menu feed item* below. |
 | `credits/` | Localization credits: `about.txt` (About screen of the main menu), `boot.txt` (boot screen, under the copyright) and `credits.txt` (start of the end credits of all 5 episodes). Each line here = one line on screen (empty lines are kept). `npm run import` adds them after the original text in both modes. See *Localization credits* below. |
@@ -147,7 +148,7 @@ text is set in the game script `Menu_About.lua`, not in a landb file, so it is n
 1. Edit `about_button_data/button.txt`:
    ```
    text: Відкрити Telegram канал
-   url: https://t.me/s/Just1ce_UA_channel
+   url: {telegram_web}
    ```
    Text: one line, up to 40 characters, no `^` or `<`. For a Telegram channel keep the `t.me/s/NAME` form: plain
    `t.me/NAME` tries to open the Telegram app, which the Steam overlay browser can't do (error page). The script
@@ -156,6 +157,20 @@ text is set in the game script `Menu_About.lua`, not in a landb file, so it is n
    `about_button_data/localized_script/Menu_About.lua` = the original script + the button. Review it with `git diff`.
 3. That script is compiled (Lua 5.2 `luac`) and packed into **both** `BM_pc_Menu_data.ttarch2` and
    `BAT_pc_BatmanNoirMenu_compressed.ttarch2` (not `BAT_pc_PC_Noir_Menu_compressed` — the About script is not there).
+
+## Telegram link
+
+The channel is written once, in `telegram.txt` (`channel: Just1ce_UA_channel`). `credits/*.txt`,
+`about_button_data/button.txt` and `feed_item_data/feed_item.txt` use placeholders instead of the link:
+
+| Placeholder | Becomes | Use it for |
+|---|---|---|
+| `{telegram}` | `https://t.me/NAME` | QR code, text people copy: opens the Telegram app on phones |
+| `{telegram_short}` | `t.me/NAME` | short text on screen |
+| `{telegram_web}` | `https://t.me/s/NAME` | buttons clicked in game: the Steam overlay browser can't open the app |
+
+To change the channel, edit `telegram.txt` and run `npm run import`. An unknown `{telegram...}` placeholder or a
+missing `telegram.txt` stops the scripts with an error.
 
 ## Main-menu feed item
 
@@ -168,8 +183,8 @@ text. The texts are set in the script and the picture, not in a landb file, so t
 1. Edit `feed_item_data/feed_item.txt`:
    ```
    header: Telegram канал перекладу             <- text under the picture (one line, up to 32 characters)
-   url: https://t.me/s/Just1ce_UA_channel        <- what a click opens (t.me/s/NAME form, as for the About button)
-   qr: https://t.me/Just1ce_UA_channel           <- what the QR code opens on a phone (plain t.me/NAME is right here)
+   url: {telegram_web}                          <- what a click opens (t.me/s/NAME form, as for the About button)
+   qr: {telegram}                               <- what the QR code opens on a phone (plain t.me/NAME is right here)
    line1: Just1ce_UA                             <- text right of the QR code: large bold,
    line2: Telegram канал                         <-   medium,
    line3: Скануй або натисни                     <-   small

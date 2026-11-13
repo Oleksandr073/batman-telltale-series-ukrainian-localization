@@ -20,12 +20,14 @@ and report an error if they are missing or different. A missing file = nothing c
 
 File format: plain UTF-8 text, one line = one line on screen; empty lines are kept (empty lines at the end are
 ignored). Lines starting with "#" are settings/comments and are not shown, e.g. "# scale original: 0.7".
+{telegram}, {telegram_short}, {telegram_web} are replaced with the channel link from telegram.txt (see links.py).
 A line must not start with "number) " - it would become a new record.
 """
 import os
 import re
 
 from landb_txt import HDR, read_raw, split_lines
+from links import expand
 
 # credits file -> (what the player sees, [(game file name, record id), ...])
 TARGETS = {
@@ -123,7 +125,7 @@ def read_credits(folder):
                     raise SystemExit(f'{path}: write the size as "# scale: 0.8", "# scale original: 0.7" or '
                                      f'"# scale credits: 0.9", not {line!r}')
                 continue
-            lines.append(line)
+            lines.append(expand(line, folder, path))  # {telegram...} placeholders, see links.py
         while lines and lines[-1].strip() == '':
             lines.pop()
         bad = [line for line in lines if HDR.match(line)]

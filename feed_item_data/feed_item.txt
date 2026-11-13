@@ -11,10 +11,11 @@
 #           open the Telegram app, which the Steam overlay browser can't do (it shows an error page).
 #   qr:     what the QR code in the picture opens on a phone - here plain t.me/NAME is right (opens the app)
 #   line1, line2, line3: text right of the QR code (large bold / medium / small)
+# {telegram}, {telegram_web}: the channel link from telegram.txt in the repo root - change the channel there.
 # Lines starting with # are comments.
 header: Telegram канал перекладу
-url: https://t.me/s/Just1ce_UA_channel
-qr: https://t.me/Just1ce_UA_channel
+url: {telegram_web}
+qr: {telegram}
 line1: Just1ce_UA
 line2: Telegram канал
 line3: Скануй або натисни

@@ -267,6 +267,14 @@ shown): `# scale original: N` puts `^glyphScale:N^` at the start of every non-em
 `npm run` shortcuts pass it. Lines must not start with `number) `. [TEST IN GAME: extra lines in a record, box
 height]
 
+### Telegram link (`telegram.txt`, `scripts/links.py`)
+
+The channel name is stored ONCE, in `telegram.txt` in the repo root (`channel: NAME`). Never write the link itself
+into `credits/*.txt`, `about_button_data/button.txt` or `feed_item_data/feed_item.txt`; use the placeholders that
+`links.expand()` fills in when those files are read: `{telegram}` = `https://t.me/NAME` (QR, text), `{telegram_short}`
+= `t.me/NAME`, `{telegram_web}` = `https://t.me/s/NAME` (anything clicked in game: Steam overlay). Unknown
+placeholders and a missing `telegram.txt` are errors.
+
 ### Choices screen (`scripts/apply_choice_stats.py`, `npm run choice-stats`)
 
 The end-of-episode choices screen ("You and 67.1% of players…") is NOT in any landb file: its texts come from

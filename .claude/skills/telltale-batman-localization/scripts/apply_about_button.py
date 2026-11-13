@@ -22,6 +22,9 @@ import os
 import re
 import sys
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from links import expand  # noqa: E402
+
 LUA = 'Menu_About.lua'
 SETTINGS = 'button.txt'
 MARK = '-- ===== Ukrainian localization: Telegram button'
@@ -122,7 +125,7 @@ def read_settings(path):
             fail(f'{path} line {n}: expected "text: ..." or "url: ...", got {line!r}')
         if m.group(1) in values:
             fail(f'{path} line {n}: "{m.group(1)}:" is given twice')
-        values[m.group(1)] = m.group(2)
+        values[m.group(1)] = expand(m.group(2), os.path.dirname(path), path)  # {telegram...}, see links.py
     text, url = values.get('text', ''), values.get('url', '')
     if not text:
         fail(f'{path}: "text:" is missing or empty')
