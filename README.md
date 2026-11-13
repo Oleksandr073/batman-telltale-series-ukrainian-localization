@@ -163,7 +163,7 @@ text is set in the game script `Menu_About.lua`, not in a landb file, so it is n
 
 ## Telegram link
 
-The channel is written once, in `telegram.txt` (`channel: Just1ce_UA_channel`). `data/game_text/credits/*.txt`,
+The channel is written once, in `telegram.txt` (`channel: NAME`, where NAME is the part after `t.me/`). `data/game_text/credits/*.txt`,
 `data/about_button/button.txt` and `data/feed_item/feed_item.txt` use placeholders instead of the link:
 
 | Placeholder | Becomes | Use it for |

@@ -8,8 +8,9 @@ scripts replace when they read the file:
                                           open the Telegram app (plain t.me/NAME shows an error page there)
 Used by: data/game_text/credits/*.txt (credits.py), data/about_button/button.txt (apply_about_button.py),
 data/feed_item/feed_item.txt (apply_feed_item.py, make_feed_texture.py).
-telegram.txt is looked up in the folder of the settings file and then in each folder above it, so the repo root is
-found for data/game_text/credits/ as well as for data/about_button/ and data/feed_item/.
+telegram.txt is looked up in the folder of the settings file and then in each folder above it, up to the repo root
+(the folder with .git or package.json) and never beyond it - so the repo root's telegram.txt is found for
+data/game_text/credits/ as well as for data/about_button/ and data/feed_item/.
 """
 import os
 import re
@@ -24,9 +25,12 @@ def load(folder):
     start = here = os.path.abspath(folder)
     while not os.path.isfile(os.path.join(here, FILE)):
         up = os.path.dirname(here)
-        if up == here:
-            raise SystemExit(f'ERROR: {FILE} not found in {start} or any folder above it - it holds the Telegram '
-                             f'channel ("channel: NAME"), which the {{telegram...}} placeholders need')
+        # stop at the repo root (it has .git or package.json), so a telegram.txt outside the repo is never used
+        at_root = any(os.path.exists(os.path.join(here, m)) for m in ('.git', 'package.json'))
+        if at_root or up == here:
+            raise SystemExit(f'ERROR: {FILE} not found in {start} or the folders above it up to the repo root - it '
+                             f'holds the Telegram channel ("channel: NAME"), which the {{telegram...}} placeholders '
+                             f'need')
         here = up
     path = os.path.join(here, FILE)
     if path in _cache:
