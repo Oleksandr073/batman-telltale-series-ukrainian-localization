@@ -6,3 +6,5 @@ ai_context/scenes/
 ai_context/*.tsv
 # AI translation batches and drafts (the table is the source of truth)
 ai_context/batches/
+# previews of the feed picture, remade by npm run feed-texture
+feed_item_data/texture/*.png

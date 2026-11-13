@@ -18,6 +18,7 @@ with the text replaced).
 | `data/unique_localized_data/` | The same entries with the Ukrainian from the table (untranslated texts stay English). Written by the script. The ~230 texts that need separate male/female Ukrainian versions appear once per version (same English, entry ids ending in `-SM`/`-SF`/`-LM`/`-LF`). |
 | `choice_stats_data/` | Texts of the end-of-episode **choices screen** ("You and 67.1% of players…"). They come from Telltale's server, not from landb files, so they live here: `original_script/` = English `choice_stats_english.txt` + the decompiled game script `ChoiceStats.lua` (never edit); `localized_script/` = the same txt in Ukrainian + `ChoiceStats.lua`, both written by `npm run import` from the table (don't edit). See *Choices screen* below. |
 | `about_button_data/` | The **"Open Telegram channel" button** on the About screen. `button.txt` = the button text and the link (**edit this**); `original_script/Menu_About.lua` = the decompiled game script (never edit); `localized_script/Menu_About.lua` = the script with the button, written by `npm run import` (don't edit). See *About-screen button* below. |
+| `feed_item_data/` | The **Telegram item in the main-menu feed** (the carousel at the bottom left). `feed_item.txt` = header text, link, QR link and picture text (**edit this**); `original_script/UI_Feed.lua` = the decompiled game script (never edit); `localized_script/UI_Feed.lua` = the script with the item, written by `npm run import` (don't edit); `texture/ui_imageUATelegramFeed.d3dtx` = the picture (made by `npm run feed-texture`). See *Main-menu feed item* below. |
 | `credits/` | Localization credits: `about.txt` (About screen of the main menu), `boot.txt` (boot screen, under the copyright) and `credits.txt` (start of the end credits of all 5 episodes). Each line here = one line on screen (empty lines are kept). `npm run import` adds them after the original text in both modes. See *Localization credits* below. |
 | `ai_context/play_order.txt` | The story order of the game files, with scene titles. Edit it to fix the order, then `npm run rebuild`. Scenes marked `(?)` are guesses. |
 | `ai_context/style_guide.md` | Translation style decisions: quotes, apostrophe, punctuation, swearing, tone. |
@@ -103,6 +104,9 @@ All shortcuts are defined in `package.json` (`scripts`), like in any Node projec
 | `npm run ai:status` / `ai:export` / `ai:apply` | AI drafts: progress per episode / export a batch / write checked drafts into empty cells (see *AI drafts*). | While translating |
 | `npm run choice-stats` | Writes `choice_stats_data/localized_script/` (choice txt + `ChoiceStats.lua`) from the imported `stats_english.txt`. Runs automatically at the end of `npm run import` (see *Choices screen*). | Automatic |
 | `npm run about-button` | Writes `about_button_data/localized_script/Menu_About.lua` from `about_button_data/button.txt`. Runs automatically at the end of `npm run import` (see *About-screen button*). | After editing `button.txt` |
+| `npm run feed-item` | Writes `feed_item_data/localized_script/UI_Feed.lua` from `feed_item_data/feed_item.txt` (header + link). Runs automatically at the end of `npm run import` (see *Main-menu feed item*). | After editing `header:` / `url:` |
+| `npm run feed-texture` | Remakes the feed picture `feed_item_data/texture/ui_imageUATelegramFeed.d3dtx` (QR code + text) from `feed_item.txt`, plus `preview.png` (not in git). Needs `npm run setup:texture` once. Also runs at the end of `npm run import`, which skips it with a note if Pillow/qrcode are not installed. | After editing `qr:` / `line1:`–`line3:` |
+| `npm run setup:texture` | Installs Pillow and qrcode for Python (only needed for `npm run feed-texture`). | Once per computer, if you remake the picture |
 | `npm run setup` | Installs the Excel package for Python. | Once per computer |
 
 The steps in which to use them are in **Localization flow** above.
@@ -152,6 +156,40 @@ text is set in the game script `Menu_About.lua`, not in a landb file, so it is n
    `about_button_data/localized_script/Menu_About.lua` = the original script + the button. Review it with `git diff`.
 3. That script is compiled (Lua 5.2 `luac`) and packed into **both** `BM_pc_Menu_data.ttarch2` and
    `BAT_pc_BatmanNoirMenu_compressed.ttarch2` (not `BAT_pc_PC_Noir_Menu_compressed` — the About script is not there).
+
+## Main-menu feed item
+
+The news carousel at the bottom left of the main menu normally shows Telltale's news from their server. The game
+script `UI_Feed.lua` is changed so that our item is always shown **first** (Telltale's items follow; the arrows and
+the auto-switch every 9 s work as before). If the server feed can't be loaded, our item is shown instead of the
+"offline" tile. Clicking it opens a link (on Steam: the Steam overlay browser). The picture is a QR code with some
+text. The texts are set in the script and the picture, not in a landb file, so they are not in the table.
+
+1. Edit `feed_item_data/feed_item.txt`:
+   ```
+   header: Telegram канал перекладу             <- text under the picture (one line, up to 32 characters)
+   url: https://t.me/s/Just1ce_UA_channel        <- what a click opens (t.me/s/NAME form, as for the About button)
+   qr: https://t.me/Just1ce_UA_channel           <- what the QR code opens on a phone (plain t.me/NAME is right here)
+   line1: Just1ce_UA                             <- text right of the QR code: large bold,
+   line2: Telegram канал                         <-   medium,
+   line3: Скануй або натисни                     <-   small
+   ```
+2. `npm run feed-item` (or `npm run import`, which runs it at the end) for `header:` / `url:`. It writes
+   `feed_item_data/localized_script/UI_Feed.lua` = the original script + the item. Review it with `git diff`.
+3. For `qr:` / `line1:`–`line3:`: `npm run setup:texture` once on your computer; after that `npm run import` (or
+   `npm run feed-texture` alone) remakes the picture each time. Without Pillow/qrcode the import skips the picture with
+   the note "Feed picture NOT remade" and keeps the one in git. It
+   writes `feed_item_data/texture/ui_imageUATelegramFeed.d3dtx`, plus `preview.png` and `preview_visible_band.png` (the
+   red box is the part the game shows; the previews are only for you to look at and are not in git). The script stops if a line is too wide. Uses the Windows fonts Segoe UI.
+4. Compile the script (Lua 5.2 `luac`) and pack:
+
+   | File | Archives |
+   |---|---|
+   | `UI_Feed.lua` (compiled) | **both** `BM_pc_Menu_data.ttarch2` and `BAT_pc_PC_Noir_Menu_compressed.ttarch2` |
+   | `ui_imageUATelegramFeed.d3dtx` | **both** `BM_pc_Menu_data.ttarch2` and `BAT_pc_BatmanNoirMenu_compressed.ttarch2` |
+
+   `BAT_pc_BatmanNoirMenu_compressed` is loaded only in Shadows mode — with the picture only there, classic mode
+   shows the default picture.
 
 ## Localization credits (About screen, boot screen, end credits)
 

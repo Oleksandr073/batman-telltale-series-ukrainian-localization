@@ -304,6 +304,38 @@ text, repeating for 15 frames. `Menu_Text(x)` returns `x` itself when no landb n
 text. The button text is not a landb text and not in the table. Compiling and packing are outside this repo; the
 script goes into both `BM_pc_Menu_data` and `BAT_pc_BatmanNoirMenu_compressed`.
 
+### Main-menu feed item (`scripts/apply_feed_item.py` + `scripts/make_feed_texture.py`)
+
+The news feed at the bottom left of the main menu (`UI_Feed.lua`, items normally from Telltale's server `feed.prop`)
+gets our item first [CONFIRMED in game 2026-11-13, both modes]. Files in `feed_item_data/`:
+- `feed_item.txt` - `header:`, `url:` (used by the script), `qr:`, `line1:`..`line3:` (used by the picture); the only
+  file people edit; `#` lines are comments;
+- `original_script/UI_Feed.lua` - decompiled game script, never edit;
+- `localized_script/UI_Feed.lua` - written by `apply_feed_item.py FEED_DIR` (`npm run feed-item`, run at the end of
+  `npm run import`): the original + a block after `local mbOffline = false` (settings, `Feed_UA_OpenTelegram()`,
+  `kUAFeedItem`, `uaFeedAddItem()` which moves server items 0..n-1 to 1..n and puts ours at 0), one line at the start
+  of `feedPopulate` (`feedData = feedData or kUAFeedItem`: offline → our item instead of the "offline" tile), and in
+  `Feed:Initialize` `mFeedData = {}`, `mNumItems = 0` before `feedSetup()` and `uaFeedAddItem()` after it (the list
+  is rebuilt each time the main menu opens, so the item is never added twice). Each insertion point must occur
+  exactly once. The item uses the game's own feed type `"lua"` (a click runs `data` as Lua), so `feedPopulate` itself
+  is not changed beyond that one line.
+- `texture/ui_imageUATelegramFeed.d3dtx` - written by `make_feed_texture.py FEED_DIR` (`npm run feed-texture`; also the
+  last step of `npm run import` with `--if-available`: missing Pillow/qrcode/fonts → note + exit 0, the picture in git
+  is kept; mistakes in feed_item.txt still stop the import; needs
+  Pillow + qrcode, `npm run setup:texture`): the file = `D3DTX_HEADER` in the script (313 bytes: the header of the
+  game's `ui_imageTelltaleAccountFeed.d3dtx` with the name string and its two size fields changed) + the BC1 pixels.
+  Also writes `preview*.png` (git-ignored).
+Rules the scripts enforce: header one line, ≤ 32 chars, no `^`/`<`; `url:` https and `t.me/s/NAME` for Telegram
+(same Steam-overlay reason as the About button); `qr:` https (plain `t.me/NAME` is right: phones open the app);
+picture text must fit right of the QR code; QR modules ≥ 4 px.
+Game facts: feed pictures are 512x512 BC1 (DXT1), 1 mip; the tile shows the full width but only rows ~113..316;
+classic mode tints them red (QR checked to still decode). `ResourceExists()` falls back to `ui_imageDefaultFeed.d3dtx`
+when the picture is not found. `BAT_pc_BatmanNoirMenu_compressed` is enabled only in Shadows mode (resdesc
+`enableMode = "localization"`), so the picture must also be in a classic `Menu` set archive [CONFIRMED: with it only
+in the Noir archive, classic mode showed the default picture]. Compiling and packing are outside this repo: the
+script → `BM_pc_Menu_data` + `BAT_pc_PC_Noir_Menu_compressed`; the picture → `BM_pc_Menu_data` +
+`BAT_pc_BatmanNoirMenu_compressed`.
+
 ## 10b. Style decisions
 
 Read `ai_context/style_guide.md` before translating: confirmed rules (ти/ви, names, “ ” quotes, ’ apostrophe,
