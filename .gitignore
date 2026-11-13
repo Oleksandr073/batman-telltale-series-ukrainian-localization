@@ -1,10 +1,10 @@
 __pycache__/
 *.pyc
-# generated read-only views (python .claude/skills/telltale-batman-localization/scripts/scene_view.py data/original_data ai_context/scenes)
+# generated read-only views (python .claude/skills/telltale-batman-localization/scripts/scene_view.py data/game_text/original_data ai_context/scenes)
 ai_context/scenes/
 # raw statistics, recreated by speakers.py when needed
 ai_context/*.tsv
 # AI translation batches and drafts (the table is the source of truth)
 ai_context/batches/
 # previews of the feed picture, remade by npm run feed-texture
-feed_item_data/texture/*.png
+data/feed_item/texture/*.png

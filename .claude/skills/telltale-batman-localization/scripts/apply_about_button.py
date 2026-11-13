@@ -7,7 +7,7 @@ the script - it is not a landb text, so it is not in the translation table.
 
 Usage (from the repo root):
   python apply_about_button.py ABOUT_DIR
-  e.g. about_button_data
+  e.g. data/about_button
 
 Folder layout:
   ABOUT_DIR/button.txt                       EDIT THIS: the button text and the link

@@ -9,7 +9,7 @@ translation table.
 
 Usage (from the repo root):
   python apply_feed_item.py FEED_DIR
-  e.g. feed_item_data
+  e.g. data/feed_item
 
 Folder layout:
   FEED_DIR/feed_item.txt                    EDIT THIS: header text and link (+ picture settings, see make_feed_texture.py)

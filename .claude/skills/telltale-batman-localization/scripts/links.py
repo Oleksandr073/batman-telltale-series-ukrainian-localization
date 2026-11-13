@@ -6,9 +6,10 @@ scripts replace when they read the file:
   {telegram_short}  t.me/NAME             short link for text on screen
   {telegram_web}    https://t.me/s/NAME   web view - for links clicked in game: the Steam overlay browser can't
                                           open the Telegram app (plain t.me/NAME shows an error page there)
-Used by: credits/*.txt (credits.py), about_button_data/button.txt (apply_about_button.py),
-feed_item_data/feed_item.txt (apply_feed_item.py, make_feed_texture.py).
-telegram.txt is looked up next to the folder of the settings file (the repo root for all of the above).
+Used by: data/game_text/credits/*.txt (credits.py), data/about_button/button.txt (apply_about_button.py),
+data/feed_item/feed_item.txt (apply_feed_item.py, make_feed_texture.py).
+telegram.txt is looked up in the folder of the settings file and then in each folder above it, so the repo root is
+found for data/game_text/credits/ as well as for data/about_button/ and data/feed_item/.
 """
 import os
 import re
@@ -19,13 +20,17 @@ _cache = {}
 
 
 def load(folder):
-    """-> {placeholder: value} from telegram.txt next to folder (in its parent folder)."""
-    path = os.path.join(os.path.dirname(os.path.abspath(folder)), FILE)
+    """-> {placeholder: value} from the nearest telegram.txt: in folder or in a folder above it."""
+    start = here = os.path.abspath(folder)
+    while not os.path.isfile(os.path.join(here, FILE)):
+        up = os.path.dirname(here)
+        if up == here:
+            raise SystemExit(f'ERROR: {FILE} not found in {start} or any folder above it - it holds the Telegram '
+                             f'channel ("channel: NAME"), which the {{telegram...}} placeholders need')
+        here = up
+    path = os.path.join(here, FILE)
     if path in _cache:
         return _cache[path]
-    if not os.path.isfile(path):
-        raise SystemExit(f'ERROR: {path} not found - it holds the Telegram channel ("channel: NAME"), which the '
-                         f'{{telegram...}} placeholders need')
     name = None
     with open(path, encoding='utf-8-sig') as fh:
         for n, line in enumerate(fh, 1):

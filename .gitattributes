@@ -1,10 +1,10 @@
 # Game text files must keep Windows line endings (CRLF) on every computer, or the game import breaks.
-data/original_data/** text eol=crlf
-data/localized_data/** text eol=crlf
-data/unique_original_data/** text eol=crlf
-data/unique_localized_data/** text eol=crlf
-choice_stats_data/** text eol=crlf
-about_button_data/** text eol=crlf
-feed_item_data/** text eol=crlf
+data/game_text/original_data/** text eol=crlf
+data/game_text/localized_data/** text eol=crlf
+data/game_text/unique_original_data/** text eol=crlf
+data/game_text/unique_localized_data/** text eol=crlf
+data/choice_stats/** text eol=crlf
+data/about_button/** text eol=crlf
+data/feed_item/** text eol=crlf
 # ...except the picture, which is binary
-feed_item_data/**/*.d3dtx binary
+data/feed_item/**/*.d3dtx binary

@@ -3,5 +3,5 @@
 #   {telegram}        https://t.me/NAME     (QR code, text: opens the Telegram app on phones)
 #   {telegram_short}  t.me/NAME             (short text on screen)
 #   {telegram_web}    https://t.me/s/NAME   (buttons clicked in game: the Steam overlay browser needs the web view)
-# Used in credits/about.txt, credits/boot.txt, about_button_data/button.txt, feed_item_data/feed_item.txt.
+# Used in data/game_text/credits/about.txt, data/game_text/credits/boot.txt, data/about_button/button.txt, data/feed_item/feed_item.txt.
 channel: Just1ce_UA_channel

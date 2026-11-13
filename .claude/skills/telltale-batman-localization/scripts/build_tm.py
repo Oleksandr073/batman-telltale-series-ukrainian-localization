@@ -4,7 +4,7 @@ Usage:
   python build_tm.py EN_ROOT GENDERS OUT_TABLE [--order PLAY_ORDER] [--official OFFICIAL_USAGE]
                     [--unique-original UNIQUE_EN_DIR]
 
-  EN_ROOT      folder with the English BM_* and BAT_* folders (data/original_data)
+  EN_ROOT      folder with the English BM_* and BAT_* folders (data/game_text/original_data)
   GENDERS      speaker_genders.xlsx (speaker_id, gender M/F/?)
   OUT_TABLE    table to write: .xlsx (Excel/LibreOffice/Google Sheets, with a Help sheet) or .tsv.
                If it already exists, Ukrainian cells and translator notes are kept (matched by key).
@@ -13,7 +13,7 @@ Usage:
                by name.
   --official   ai_context/official_usage.txt (made once, saved in the repo): fills the "Official" column - how many
                of Telltale's official translations translated the text. "no 0/8" = almost surely never shown.
-  --unique-original  also (re)write this folder (data/unique_original_data): every unique English text once, built
+  --unique-original  also (re)write this folder (data/game_text/unique_original_data): every unique English text once, built
                from EN_ROOT only (no genders). The import only checks it. It changes only if the English files do.
 
 Table rows (Excel):

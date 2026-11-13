@@ -6,7 +6,7 @@ Needs Pillow and qrcode (`npm run setup:texture`) and the Windows fonts Segoe UI
 
 Usage (from the repo root):
   python make_feed_texture.py FEED_DIR [--if-available]
-  e.g. feed_item_data
+  e.g. data/feed_item
   --if-available (used by `npm run import`): if Pillow/qrcode or the fonts are missing, skip with a note and exit 0
   instead of stopping. Mistakes in feed_item.txt (bad qr link, text too wide) still stop with an error.
 

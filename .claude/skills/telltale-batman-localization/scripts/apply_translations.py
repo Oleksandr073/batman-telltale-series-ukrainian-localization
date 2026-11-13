@@ -15,8 +15,8 @@ Usage:
                  end of the About screen text and the boot screen copyright, both modes. See credits.py.
   --only         only write files whose path starts with this (e.g. BM_ or BAT_pc_BatmanNoir103_data)
   --unique       UNIQUE_EN UNIQUE_UK: the folders with every unique text once (see build_tm.py).
-                 UNIQUE_EN (data/unique_original_data) is only CHECKED against EN_ROOT, never written; if it does not
-                 match, the script stops. UNIQUE_UK (data/unique_localized_data) is rewritten with the Ukrainian
+                 UNIQUE_EN (data/game_text/unique_original_data) is only CHECKED against EN_ROOT, never written; if it does not
+                 match, the script stops. UNIQUE_UK (data/game_text/unique_localized_data) is rewritten with the Ukrainian
                  from the table (untranslated rows keep English), so `git diff UNIQUE_UK` shows each
                  translation once. After writing, the 222 files are compared with UNIQUE_UK.
 
