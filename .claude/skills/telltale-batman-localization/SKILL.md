@@ -332,7 +332,7 @@ gets our item first [CONFIRMED in game 2026-11-13, both modes]. Files in `data/f
   is kept; mistakes in feed_item.txt still stop the import; needs
   Pillow + qrcode, `npm run setup:texture`): the file = `D3DTX_HEADER` in the script (313 bytes: the header of the
   game's `ui_imageTelltaleAccountFeed.d3dtx` with the name string and its two size fields changed) + the BC1 pixels.
-  Also writes `preview*.png` (git-ignored).
+  Also writes `preview.png` (in git: the committed picture as an image) and `preview_visible_band.png` (git-ignored).
 Rules the scripts enforce: header one line, ≤ 32 chars, no `^`/`<`; `url:` https and `t.me/s/NAME` for Telegram
 (same Steam-overlay reason as the About button); `qr:` https (plain `t.me/NAME` is right: phones open the app);
 picture text must fit right of the QR code; QR modules ≥ 4 px.

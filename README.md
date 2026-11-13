@@ -109,7 +109,7 @@ All shortcuts are defined in `package.json` (`scripts`), like in any Node projec
 | `npm run choice-stats` | Writes `data/choice_stats/localized_script/` (choice txt + `ChoiceStats.lua`) from the imported `stats_english.txt`. Runs automatically at the end of `npm run import` (see *Choices screen*). | Automatic |
 | `npm run about-button` | Writes `data/about_button/localized_script/Menu_About.lua` from `data/about_button/button.txt`. Runs automatically at the end of `npm run import` (see *About-screen button*). | After editing `button.txt` |
 | `npm run feed-item` | Writes `data/feed_item/localized_script/UI_Feed.lua` from `data/feed_item/feed_item.txt` (header + link). Runs automatically at the end of `npm run import` (see *Main-menu feed item*). | After editing `header:` / `url:` |
-| `npm run feed-texture` | Remakes the feed picture `data/feed_item/texture/ui_imageUATelegramFeed.d3dtx` (QR code + text) from `feed_item.txt`, plus `preview.png` (not in git). Needs `npm run setup:texture` once. Also runs at the end of `npm run import`, which skips it with a note if Pillow/qrcode are not installed. | After editing `qr:` / `line1:`–`line3:` |
+| `npm run feed-texture` | Remakes the feed picture `data/feed_item/texture/ui_imageUATelegramFeed.d3dtx` (QR code + text) from `feed_item.txt`, plus `preview.png` (in git: what the committed picture looks like). Needs `npm run setup:texture` once. Also runs at the end of `npm run import`, which skips it with a note if Pillow/qrcode are not installed. | After editing `qr:` / `line1:`–`line3:` |
 | `npm run setup:texture` | Installs Pillow and qrcode for Python (only needed for `npm run feed-texture`). | Once per computer, if you remake the picture |
 | `npm run setup` | Installs the Excel package for Python. | Once per computer |
 
@@ -198,7 +198,7 @@ text. The texts are set in the script and the picture, not in a landb file, so t
    `npm run feed-texture` alone) remakes the picture each time. Without Pillow/qrcode the import skips the picture with
    the note "Feed picture NOT remade" and keeps the one in git. It
    writes `data/feed_item/texture/ui_imageUATelegramFeed.d3dtx`, plus `preview.png` and `preview_visible_band.png` (the
-   red box is the part the game shows; the previews are only for you to look at and are not in git). The script stops if a line is too wide. Uses the Windows fonts Segoe UI.
+   red box is the part the game shows; `preview.png` is in git, so you can see the committed picture without unpacking the `.d3dtx`; `preview_visible_band.png` is not). The script stops if a line is too wide. Uses the Windows fonts Segoe UI.
 4. Compile the script (Lua 5.2 `luac`) and pack:
 
    | File | Archives |

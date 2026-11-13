@@ -1,7 +1,7 @@
 """Make the picture of the Telegram item in the main-menu feed: FEED_DIR/texture/ui_imageUATelegramFeed.d3dtx.
 
 A QR code (the qr: line of feed_item.txt) on the left and line1..line3 on the right. Also writes
-texture/preview.png and texture/preview_visible_band.png (red box = the part the game shows; not in git).
+texture/preview.png and texture/preview_visible_band.png (red box = the part the game shows). preview.png is in git, preview_visible_band.png is not.
 Needs Pillow and qrcode (`npm run setup:texture`) and the Windows fonts Segoe UI / Segoe UI Bold.
 
 Usage (from the repo root):

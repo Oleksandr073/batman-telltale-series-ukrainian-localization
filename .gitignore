@@ -6,5 +6,6 @@ ai_context/scenes/
 ai_context/*.tsv
 # AI translation batches and drafts (the table is the source of truth)
 ai_context/batches/
-# previews of the feed picture, remade by npm run feed-texture
-data/feed_item/texture/*.png
+# helper preview of the feed picture (red box = visible part), remade by npm run feed-texture.
+# preview.png itself IS in git: it shows what the committed .d3dtx looks like.
+data/feed_item/texture/preview_visible_band.png
