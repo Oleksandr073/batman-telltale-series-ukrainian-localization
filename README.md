@@ -3,20 +3,27 @@
 Ukrainian translation of the game text of *Batman: The Telltale Series* (season 1), for both the normal mode and
 Shadows (Noir) mode. The English text was extracted from the game's `.ttarch` archives as `.landb` → `.txt` files
 (`N) SPEAKER` header line + text lines). Translators work in one Excel table; one script then writes the translation into
-`data/unique_localized_data/` (each unique text once, to review) and `data/localized_data/` (exact copies of the 222 game files
+`data/game_text/unique_localized_data/` (each unique text once, to review) and `data/game_text/localized_data/` (exact copies of the 222 game files
 with the text replaced).
 
 ## Folders
+
+Everything the scripts read and write lives in `data/`: `data/game_text/` (the game's landb text) and one folder
+per extra game script (`data/choice_stats/`, `data/about_button/`, `data/feed_item/`). Put new ones there too.
 
 | File / folder | What it is |
 |---|---|
 | `translation_table.xlsx` | **The translation table**, in story order: episodes and scenes as header rows, each unique text once (~44 000 yellow rows to translate), plus grey rows where a text appears again later (for context, filled automatically). The *Help* sheet explains every column. |
 | `speaker_genders.xlsx` | Gender of each speaker (M / F / ?). It fills the *Speaker gender* / *Listener gender* columns of the translation table. Fill in the orange cells, then run `npm run rebuild`. |
-| `data/original_data/` | English game text (222 files). **Never edit.** `BM_*` = normal mode, `BAT_*` = Shadows/Noir mode. |
-| `data/localized_data/` | The same 222 files with Ukrainian text — the final result for the game. Written only by the script below — don't edit by hand. |
-| `data/unique_original_data/` | Every unique English text once (~43 900), in files named like the game files, built from `data/original_data/` only, never from the gender file. Each entry shows who speaks → to whom (guessed from the scene) and how many times the text is used. Read-only: the import only checks it. |
-| `data/unique_localized_data/` | The same entries with the Ukrainian from the table (untranslated texts stay English). Written by the script. The ~230 texts that need separate male/female Ukrainian versions appear once per version (same English, entry ids ending in `-SM`/`-SF`/`-LM`/`-LF`). |
-| `choice_stats_data/` | Texts of the end-of-episode **choices screen** ("You and 67.1% of players…"). They come from Telltale's server, not from landb files, so they live here: `original_script/` = English `choice_stats_english.txt` + the decompiled game script `ChoiceStats.lua` (never edit); `localized_script/` = the same txt in Ukrainian + `ChoiceStats.lua`, both written by `npm run import` from the table (don't edit). See *Choices screen* below. |
+| `data/game_text/original_data/` | English game text (222 files). **Never edit.** `BM_*` = normal mode, `BAT_*` = Shadows/Noir mode. |
+| `data/game_text/localized_data/` | The same 222 files with Ukrainian text — the final result for the game. Written only by the script below — don't edit by hand. |
+| `data/game_text/unique_original_data/` | Every unique English text once (~43 900), in files named like the game files, built from `data/game_text/original_data/` only, never from the gender file. Each entry shows who speaks → to whom (guessed from the scene) and how many times the text is used. Read-only: the import only checks it. |
+| `data/game_text/unique_localized_data/` | The same entries with the Ukrainian from the table (untranslated texts stay English). Written by the script. The ~230 texts that need separate male/female Ukrainian versions appear once per version (same English, entry ids ending in `-SM`/`-SF`/`-LM`/`-LF`). |
+| `data/choice_stats/` | Texts of the end-of-episode **choices screen** ("You and 67.1% of players…"). They come from Telltale's server, not from landb files, so they live here: `original_script/` = English `choice_stats_english.txt` + the decompiled game script `ChoiceStats.lua` (never edit); `localized_script/` = the same txt in Ukrainian + `ChoiceStats.lua`, both written by `npm run import` from the table (don't edit). See *Choices screen* below. |
+| `data/about_button/` | The **"Open Telegram channel" button** on the About screen. `button.txt` = the button text and the link (**edit this**); `original_script/Menu_About.lua` = the decompiled game script (never edit); `localized_script/Menu_About.lua` = the script with the button, written by `npm run import` (don't edit). See *About-screen button* below. |
+| `data/feed_item/` | The **Telegram item in the main-menu feed** (the carousel at the bottom left). `feed_item.txt` = header text, link, QR link and picture text (**edit this**); `original_script/UI_Feed.lua` = the decompiled game script (never edit); `localized_script/UI_Feed.lua` = the script with the item, written by `npm run import` (don't edit); `texture/ui_imageUATelegramFeed.d3dtx` = the picture (made by `npm run feed-texture`). See *Main-menu feed item* below. |
+| `data/game_text/credits/` | Localization credits: `about.txt` (About screen of the main menu), `boot.txt` (boot screen, under the copyright) and `credits.txt` (start of the end credits of all 5 episodes). Each line here = one line on screen (empty lines are kept). `npm run import` adds them after the original text in both modes. See *Localization credits* below. |
+| `author.txt` | **The author's name and the Telegram channel**, the only place to change them (`author: NAME`, `channel: NAME`). Other files use `{author}`, `{telegram}` (https://t.me/NAME), `{telegram_short}` (t.me/NAME) and `{telegram_web}` (https://t.me/s/NAME), filled in by the scripts. See *Author and Telegram link* below. |
 | `ai_context/play_order.txt` | The story order of the game files, with scene titles. Edit it to fix the order, then `npm run rebuild`. Scenes marked `(?)` are guesses. |
 | `ai_context/style_guide.md` | Translation style decisions: quotes, apostrophe, punctuation, swearing, tone. |
 | `ai_context/speakers.md` | Who talks to whom, with the confirmed ти/ви decisions. |
@@ -44,11 +51,11 @@ Run everything from this folder (the repo root). **Close the Excel files before 
    "check gender forms" in *Notes*. Skip steps 1–2 if no gender changed.
 3. **Translate:** fill the yellow *Ukrainian* column of `translation_table.xlsx`, by hand or with AI. Follow
    `ai_context/style_guide.md`, `ai_context/glossary.md` and `ai_context/speakers.md`. Save and close the file.
-4. **Import:** `npm run import`. It writes `data/unique_localized_data/` and the 222 files in `data/localized_data/`,
+4. **Import:** `npm run import`. It writes `data/game_text/unique_localized_data/` and the 222 files in `data/game_text/localized_data/`,
    and checks them. The output must end with `0 error(s)` and `0 mismatch(es)`:
    - **validation** — every final file has the same structure as the English one (line count, header lines, tags,
      encoding);
-   - **consistency** — every text in the 222 files is exactly the text from `data/unique_localized_data/`, and
+   - **consistency** — every text in the 222 files is exactly the text from `data/game_text/unique_localized_data/`, and
      everything not translated is unchanged English.
 
    If there are errors, the output names the file, line and problem. Fix the table and run `npm run import` again.
@@ -56,13 +63,65 @@ Run everything from this folder (the repo root). **Close the Excel files before 
 5. **Review the translations:** `npm run review` — each new or changed text once, English → Ukrainian, with who
    speaks to whom. This is the main review. Wrong wording → fix it in the table and go back to step 4.
 6. **Review the game files (optional):** `npm run review:all` — every place in the 222 files of
-   `data/localized_data/` where the text was replaced. You don't need to read it all: step 4 already proved these
+   `data/game_text/localized_data/` where the text was replaced. You don't need to read it all: step 4 already proved these
    files match step 5.
-7. **Commit** (table + `data/` folders together), then pack `data/localized_data/` into the game archives.
+7. **Commit** (table + `data/` folders together), then build the game archives — see *Building the game archives*
+   below for what goes into which archive.
 
 Extra checks any time, without changing anything: `npm run check` (222 files vs. unique texts) and
 `npm run validate` (structure of the 222 files). After `git pull`/merge, run `npm run import` (or at least
 `npm run check`) before packing.
+
+## Building the game archives
+
+Everything the game needs comes out of `data/`. Compiling and packing happen outside this repo.
+
+**First run `npm run import`.** The three `localized_script/` Lua files are kept in git as plain copies of the
+original game scripts. Only `npm run import` writes the Ukrainian changes into them (the choices texts, the About
+button, the feed item). If you pack them without importing, the game gets the unchanged English scripts.
+
+### What goes where
+
+| From the repo | What to do with it | Into which archive(s) |
+|---|---|---|
+| `data/game_text/localized_data/<ARCHIVE>/*.txt` (222 files) | Convert back to `.landb` (the same way the English files were exported) | The archive named by the folder: `BM_pc_Menu_data/` → `BM_pc_Menu_data.ttarch2`, `BAT_pc_PC_Noir_Menu_compressed/` → `BAT_pc_PC_Noir_Menu_compressed.ttarch2`, and so on |
+| `data/choice_stats/localized_script/ChoiceStats.lua` | Compile (see below) | `BAT_pc_PC_Noir_Proj_compressed` |
+| `data/about_button/localized_script/Menu_About.lua` | Compile | `BM_pc_Menu_data` **and** `BAT_pc_BatmanNoirMenu_compressed` |
+| `data/feed_item/localized_script/UI_Feed.lua` | Compile | `BM_pc_Menu_data` **and** `BAT_pc_PC_Noir_Menu_compressed` |
+| `data/feed_item/texture/ui_imageUATelegramFeed.d3dtx` | Nothing — add as it is (a new file, it replaces nothing) | `BM_pc_Menu_data` **and** `BAT_pc_BatmanNoirMenu_compressed` |
+
+Each packed file keeps its name: `Menu_About.lua`, `UI_Feed.lua`, `ChoiceStats.lua`, `ui_imageUATelegramFeed.d3dtx`.
+The scripts and the `.landb` files replace the game's files of the same name in the archive.
+
+**Not packed:** everything in `original_script/` folders, `data/choice_stats/localized_script/choice_stats_english.txt`
+(only for review), `data/feed_item/feed_item.txt`, `data/about_button/button.txt`, `data/feed_item/texture/*.png`,
+`data/game_text/unique_*` and `data/game_text/credits/` (the credits are already inside the `.landb` texts).
+
+Why some files go into two archives: the `BM_pc_*` archives are the classic game, the `BAT_pc_*` archives are the
+Shadows Edition. `BAT_pc_BatmanNoirMenu_compressed` is loaded **only in Shadows mode**, so a file that classic mode
+needs must also be in a `BM_pc_Menu_*` archive (with the picture only in the Noir archive, classic mode showed the
+default picture). `ChoiceStats.lua` goes only into `BAT_pc_PC_Noir_Proj_compressed`, because that patch archive has
+its own copy of the script, which overrides the one in `BM_pc_Project_data`.
+
+### Compiling the Lua scripts
+
+The game runs compiled Lua 5.2. Use the `luac.exe` of Telltale Script Editor (`resources\luac.exe` in its folder):
+
+```
+luac.exe -o C:\build\UI_Feed.lua E:\full\path\to\repo\data\feed_item\localized_script\UI_Feed.lua
+```
+
+- Give the **full path** of the source file: `luac` stores that path inside the compiled file, so the same path
+  always gives the same bytes.
+- The output keeps the original name (`UI_Feed.lua`, not `UI_Feed.luac`).
+- A compiled file starts with the bytes `1B 4C 75 61 52` (`\x1bLuaR`), the same as the game's own scripts after
+  Telltale Explorer extracts them.
+
+### Packing (TTG Tools → Archive Packer)
+
+ttarch2, version 2, **"Encrypt Lua for new games" checked**, "Don't encrypt Lua" unchecked, "Encrypt archive"
+unchecked, key 58 (Batman), custom key unchecked. Compression is optional. With unencrypted Lua the game hangs on a
+black screen at start.
 
 ## AI drafts
 
@@ -88,18 +147,22 @@ All shortcuts are defined in `package.json` (`scripts`), like in any Node projec
 
 | Command | What it does | When |
 |---|---|---|
-| `npm run import` | Writes the translations from `translation_table.xlsx` into `data/unique_localized_data/` and all 222 files in `data/localized_data/`, then validates and cross-checks them. | **Every time** the table was edited |
-| `npm run review` | Shows each new or changed translation once (git diff of `data/unique_localized_data/`). | After every import |
+| `npm run import` | Writes the translations from `translation_table.xlsx` into `data/game_text/unique_localized_data/` and all 222 files in `data/game_text/localized_data/`, then validates and cross-checks them. | **Every time** the table was edited |
+| `npm run review` | Shows each new or changed translation once (git diff of `data/game_text/unique_localized_data/`). | After every import |
 | `npm run review:all` | Shows every place in the 222 game files where the text was replaced. | Optional |
 | `npm run check` | Checks again that the 222 files match the unique texts — changes nothing. | Optional, e.g. after a git merge |
 | `npm run validate` | Checks the structure of the 222 files (line count, headers, tags, encoding) — changes nothing. | Optional |
 | `npm run rebuild` | Rebuilds `translation_table.xlsx` from the English files and `speaker_genders.xlsx`. Translations and translator notes are kept; everything else in the table is recreated. | After editing `speaker_genders.xlsx` |
 | `npm run scenes` | Creates `ai_context/scenes/` (conversation-order views, not in git). | After a fresh clone |
-| `npm run unique-original` | Recreates `data/unique_original_data/` from the English files. | Only if `data/original_data/` changes |
+| `npm run unique-original` | Recreates `data/game_text/unique_original_data/` from the English files. | Only if `data/game_text/original_data/` changes |
 | `npm run test` | Self-test of the whole flow on random scenes in a temporary copy (fake Ukrainian, every record of the 222 files checked, rebuilds, gender change, deliberate mistakes). Changes nothing in the repo; ~5 min. Repeat a run with `npm run test -- --seed N`. | After changing the scripts |
 | `npm run fake` | **Test only, use a separate branch.** Fills the table with a fake translation (English letters swapped for Cyrillic, using all 33 Ukrainian letters to test the font; end credits stay English) and imports it, to check the game build. Stops if the table already has real translations. | Before packing a test build |
 | `npm run ai:status` / `ai:export` / `ai:apply` | AI drafts: progress per episode / export a batch / write checked drafts into empty cells (see *AI drafts*). | While translating |
-| `npm run choice-stats` | Writes `choice_stats_data/localized_script/` (choice txt + `ChoiceStats.lua`) from the imported `stats_english.txt`. Runs automatically at the end of `npm run import` (see *Choices screen*). | Automatic |
+| `npm run choice-stats` | Writes `data/choice_stats/localized_script/` (choice txt + `ChoiceStats.lua`) from the imported `stats_english.txt`. Runs automatically at the end of `npm run import` (see *Choices screen*). | Automatic |
+| `npm run about-button` | Writes `data/about_button/localized_script/Menu_About.lua` from `data/about_button/button.txt`. Runs automatically at the end of `npm run import` (see *About-screen button*). | After editing `button.txt` |
+| `npm run feed-item` | Writes `data/feed_item/localized_script/UI_Feed.lua` from `data/feed_item/feed_item.txt` (header + link). Runs automatically at the end of `npm run import` (see *Main-menu feed item*). | After editing `header:` / `url:` |
+| `npm run feed-texture` | Remakes the feed picture `data/feed_item/texture/ui_imageUATelegramFeed.d3dtx` (QR code + text) from `feed_item.txt`, plus `preview.png` (in git: what the committed picture looks like). Needs `npm run setup:texture` once. Also runs at the end of `npm run import`, which skips it with a note if Pillow/qrcode are not installed. | After editing `qr:` / `line1:`–`line3:` |
+| `npm run setup:texture` | Installs Pillow and qrcode for Python (only needed for `npm run feed-texture`). | Once per computer, if you remake the picture |
 | `npm run setup` | Installs the Excel package for Python. | Once per computer |
 
 The steps in which to use them are in **Localization flow** above.
@@ -121,8 +184,8 @@ Ukrainian goes into that script instead of a landb file.
    `BM_pc_Project_data/stats_english` (section MENUS & UI). Keep `{percent}%` (the number comes from the server) and
    the `^^` after it (it ends the green/red part).
 2. `npm run import` (it runs `npm run choice-stats` at the end). That reads the imported `stats_english.txt` and
-   writes `choice_stats_data/localized_script/choice_stats_english.txt` (the 133 known server texts in Ukrainian,
-   for review with git diff) and `choice_stats_data/localized_script/ChoiceStats.lua` = the original script + a block
+   writes `data/choice_stats/localized_script/choice_stats_english.txt` (the 133 known server texts in Ukrainian,
+   for review with git diff) and `data/choice_stats/localized_script/ChoiceStats.lua` = the original script + a block
    with those 133 texts. The original part is not changed; with nothing translated both files equal the originals.
    A text left in English stays English.
 
@@ -130,6 +193,98 @@ Ukrainian goes into that script instead of a landb file.
    that never reach the screen (unused candidates); they stay in the table but are not put into the script.
 3. That script is compiled (Lua 5.2 `luac`) and packed into `BAT_pc_PC_Noir_Proj_compressed.ttarch2` — **not**
    `BM_pc_Project_data`: the Noir_Proj patch has its own copy of the script, which overrides the other one.
+
+## About-screen button
+
+The About screen (main menu and pause menu, both modes) gets a second button next to "Previous Menu" that opens a
+link in the browser (on Steam: the Steam overlay browser). Controller players get the same on X / Square. The button
+text is set in the game script `Menu_About.lua`, not in a landb file, so it is not in the table.
+
+1. Edit `data/about_button/button.txt`:
+   ```
+   text: Відкрити Telegram канал
+   url: {telegram_web}
+   ```
+   Text: one line, up to 40 characters, no `^` or `<`. For a Telegram channel keep the `t.me/s/NAME` form: plain
+   `t.me/NAME` tries to open the Telegram app, which the Steam overlay browser can't do (error page). The script
+   refuses a plain `t.me/NAME` link.
+2. `npm run about-button` (or `npm run import`, which runs it at the end). It writes
+   `data/about_button/localized_script/Menu_About.lua` = the original script + the button. Review it with `git diff`.
+3. That script is compiled (Lua 5.2 `luac`) and packed into **both** `BM_pc_Menu_data.ttarch2` and
+   `BAT_pc_BatmanNoirMenu_compressed.ttarch2` (not `BAT_pc_PC_Noir_Menu_compressed` — the About script is not there).
+
+## Author and Telegram link
+
+The author's name and the channel are written once, in `author.txt` (`author: NAME` and `channel: NAME`, where the
+channel NAME is the part after `t.me/`). `data/game_text/credits/*.txt`, `data/about_button/button.txt` and
+`data/feed_item/feed_item.txt` use placeholders instead:
+
+| Placeholder | Becomes | Use it for |
+|---|---|---|
+| `{author}` | the `author:` name | credits text |
+| `{telegram}` | `https://t.me/NAME` | QR code, text people copy: opens the Telegram app on phones |
+| `{telegram_short}` | `t.me/NAME` | short text on screen |
+| `{telegram_web}` | `https://t.me/s/NAME` | buttons clicked in game: the Steam overlay browser can't open the app |
+
+To change the name or the channel, edit `author.txt` and run `npm run import`. An unknown placeholder or a missing
+`author.txt` stops the scripts with an error.
+
+## Main-menu feed item
+
+The news carousel at the bottom left of the main menu normally shows Telltale's news from their server. The game
+script `UI_Feed.lua` is changed so that our item is always shown **first** (Telltale's items follow; the arrows and
+the auto-switch every 9 s work as before). If the server feed can't be loaded, our item is shown instead of the
+"offline" tile. Clicking it opens a link (on Steam: the Steam overlay browser). The picture is a QR code with some
+text. The texts are set in the script and the picture, not in a landb file, so they are not in the table.
+
+1. Edit `data/feed_item/feed_item.txt`:
+   ```
+   header: Telegram канал перекладу             <- text under the picture (one line, up to 32 characters)
+   url: {telegram_web}                          <- what a click opens (t.me/s/NAME form, as for the About button)
+   qr: {telegram}                               <- what the QR code opens on a phone (plain t.me/NAME is right here)
+   line1: Just1ce_UA                             <- text right of the QR code: large bold,
+   line2: Telegram канал                         <-   medium,
+   line3: Скануй або натисни                     <-   small
+   ```
+2. `npm run feed-item` (or `npm run import`, which runs it at the end) for `header:` / `url:`. It writes
+   `data/feed_item/localized_script/UI_Feed.lua` = the original script + the item. Review it with `git diff`.
+3. For `qr:` / `line1:`–`line3:`: `npm run setup:texture` once on your computer; after that `npm run import` (or
+   `npm run feed-texture` alone) remakes the picture each time. Without Pillow/qrcode the import skips the picture with
+   the note "Feed picture NOT remade" and keeps the one in git. It
+   writes `data/feed_item/texture/ui_imageUATelegramFeed.d3dtx`, plus `preview.png` and `preview_visible_band.png` (the
+   red box is the part the game shows; `preview.png` is in git, so you can see the committed picture without unpacking the `.d3dtx`; `preview_visible_band.png` is not). The script stops if a line is too wide. Uses the Windows fonts Segoe UI.
+4. Compile the script (Lua 5.2 `luac`) and pack:
+
+   | File | Archives |
+   |---|---|
+   | `UI_Feed.lua` (compiled) | **both** `BM_pc_Menu_data.ttarch2` and `BAT_pc_PC_Noir_Menu_compressed.ttarch2` |
+   | `ui_imageUATelegramFeed.d3dtx` | **both** `BM_pc_Menu_data.ttarch2` and `BAT_pc_BatmanNoirMenu_compressed.ttarch2` |
+
+   `BAT_pc_BatmanNoirMenu_compressed` is loaded only in Shadows mode — with the picture only there, classic mode
+   shows the default picture.
+
+## Localization credits (About screen, boot screen, end credits)
+
+`npm run import` adds the lines of each file in `data/game_text/credits/` to the end of one game text, in both modes:
+
+| File | Game text | Where on screen |
+|---|---|---|
+| `data/game_text/credits/about.txt` | record 658 of `ui_menu_english.txt` (`BM_pc_Menu_data`, `BAT_pc_PC_Noir_Menu_compressed`) | Main menu → About: after build/engine version and copyright |
+| `data/game_text/credits/boot.txt` | record 21 of `boot_english.txt` (`BM_pc_Boot_data`, `BAT_pc_PC_Noir_Boot_compressed`) | Boot screen: after the copyright at the bottom. Keep it to 1–2 short lines |
+| `data/game_text/credits/credits.txt` | the episode title: record 216 of `ui_credits101_english.txt`, record 1 of `ui_credits102…105_english.txt` (`BM_pc_Menu_data`, `BAT_pc_PC_Noir_Menu_compressed`) | End credits of every episode: one small line right under the episode title. The credits blocks have fixed positions (more lines would overlap "WRITTEN BY"), so keep it to one line with no empty line before it. The title's large font carries over - keep it small with `^glyphScale:0.4^`. (Or put `# same line` at the top to add the text to the end of the title line instead.) |
+
+Edit a file (plain text, UTF-8; each line = one line on screen), then run `npm run import`. A line must not start
+with `number) `. Lines starting with `#` are not shown. **Font size** (1 = normal, 0.8 = 80%; the game's size tag
+`^glyphScale:N^` is put at the start of every line):
+- `# scale original: 0.7` - the original game text above your info;
+- `# scale credits: 0.9` - your info;
+- `# scale: 0.8` - both at once (the two lines above win over it).
+
+Delete a line to keep that text at normal size. The game keeps a size for the lines below it, so when the original
+text is resized, your info always gets its own tag (`^glyphScale:1^` for normal size). These are the only records allowed to have more lines than the English: `npm run validate` and
+`npm run check` know these lines and report it if they are missing or different. The original texts themselves are
+still translated in the table as usual. Other file names in `data/game_text/credits/` are refused; to add a new place, add it to
+`TARGETS` in `scripts/credits.py`.
 
 ## Translation rules in short
 

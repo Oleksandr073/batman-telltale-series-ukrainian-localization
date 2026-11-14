@@ -15,8 +15,8 @@ candidate choices and are left out of the script.
 
 Usage (from the repo root):
   python apply_choice_stats.py CHOICE_DIR STATS_EN STATS_UA
-  e.g. choice_stats_data data/original_data/BM_pc_Project_data/stats_english.txt
-       data/localized_data/BM_pc_Project_data/stats_english.txt
+  e.g. data/choice_stats data/game_text/original_data/BM_pc_Project_data/stats_english.txt
+       data/game_text/localized_data/BM_pc_Project_data/stats_english.txt
 
 Folder layout:
   CHOICE_DIR/original_script/ChoiceStats.lua            decompiled game script - never edited

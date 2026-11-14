@@ -34,7 +34,7 @@ Confidence tags used below:
 **Hard translation rules derived from this:**
 1. Do not touch header lines at all. Not the number, not the speaker, not the trailing space.
 2. Keep **exactly the same number of text lines per record**. Then the total line count of the file is the same automatically.
-3. Empty text lines stay empty. Non-empty lines stay non-empty (in multi-line credits/codex, empty lines are layout).
+3. Empty text lines stay empty. Non-empty lines stay non-empty (in multi-line data/game_text/credits/codex, empty lines are layout).
 4. A translated line must never start with `<digits>) `. If a translation would, reword it (for example, put a word before the number).
 5. Save as UTF-8 with BOM + CRLF. Run `scripts/validate.py` after every editing session.
 
@@ -62,7 +62,7 @@ Weird speaker names such as `HTTPS`, `16`, `1 20`, `ANOTHER SECURITY CAM FEED CA
 | `[ALT]` (any case, also `[ALT; coverage]`, `[alt]`) | `[ALT]Violence breeds violence.` | **no** | **never touch `[ALT]` itself**; translate the text after it. The validator reports any change as an error | [CONFIRMED by user] |
 | Other bracket prefixes on a choice | `[lie]A yatch salesman.`, `[play dumb]…` | prefix probably not shown | keep the prefix untouched, translate the rest | [TEST IN GAME] |
 | Bracket-only subtitle | `VICKI` → `[sighs]` (1 529 records) | effort sound, no visible text | leave as is | [LIKELY] |
-| `^font:Name^` `^color:#hex^` `^glyphScale:n^` `^imageScale:n^` | `^glyphScale:1.25^City Hall` | no — styling | keep exactly. Text after a tag gets that style | [100%] |
+| `^font:Name^` `^color:#hex^` `^glyphScale:n^` `^imageScale:n^` | `^glyphScale:1.25^City Hall` | no — styling | keep exactly. Text after a tag gets that style, also on the following lines of the same text (`^glyphScale^` confirmed in game) | [100%] |
 | `^^` | `^^KENT MUDLE`, `…{percent}%^^ of players` | no — "reset style" | keep. If it closes a coloured span, the translated words that should be coloured must stay **between** the opening tag and `^^` | [100%] |
 | `<image.d3dtx:-15>` | `Press ^imageScale:0.8^<ui_boot_facebuttonDown.d3dtx:-15> to Begin` | shows a button icon (number = vertical offset) | keep exactly, including the spaces on both sides. You may move the whole `^imageScale^<icon>` group if the word order needs it | [100% keep] |
 | `<<…>>` | `<<id:377679995>>`, `<<guid:{…}>>` | no | never touch | [100%] |
@@ -187,7 +187,7 @@ conversation reads together. Branching answers sit next to each other, so it isn
 ## 10. Tools (`scripts/`, Python 3)
 
 The Excel files (`.xlsx`) need the `openpyxl` package once: `python -m pip install openpyxl`. Everything else
-uses only standard Python. The English files live in `data/original_data/` (the folder that directly contains the BM_* and
+uses only standard Python. The English files live in `data/game_text/original_data/` (the folder that directly contains the BM_* and
 BAT_* folders); the scripts stop with a clear message if they are pointed at the wrong folder.
 
 **Shortcuts:** `package.json` in the repo root defines `npm run import | review | review:all | check | validate |
@@ -196,14 +196,14 @@ rebuild | scenes | unique-original | test | setup` for the commands below. Prefe
 
 Translation table (run from the repo root):
 ```
-python .claude/skills/telltale-batman-localization/scripts/build_tm.py data/original_data speaker_genders.xlsx translation_table.xlsx [--unique-original data/unique_original_data]
-python .claude/skills/telltale-batman-localization/scripts/apply_translations.py data/original_data speaker_genders.xlsx translation_table.xlsx data/localized_data --unique data/unique_original_data data/unique_localized_data [--overrides overrides.tsv] [--only BM_]
-python .claude/skills/telltale-batman-localization/scripts/scene_view.py data/original_data ai_context/scenes
+python .claude/skills/telltale-batman-localization/scripts/build_tm.py data/game_text/original_data speaker_genders.xlsx translation_table.xlsx [--unique-original data/game_text/unique_original_data]
+python .claude/skills/telltale-batman-localization/scripts/apply_translations.py data/game_text/original_data speaker_genders.xlsx translation_table.xlsx data/game_text/localized_data --unique data/game_text/unique_original_data data/game_text/unique_localized_data [--overrides overrides.tsv] [--only BM_]
+python .claude/skills/telltale-batman-localization/scripts/scene_view.py data/game_text/original_data ai_context/scenes
 ```
 `build_tm.py` rebuilds the table and keeps filled translations (unmatched ones are saved to
 `translation_table.lost.xlsx`, never silently dropped). `apply_translations.py` never changes the English files;
-it writes `data/localized_data/` and validates every file. `scene_view.py` writes the read-only conversation-order views.
-Speaker statistics: `python .claude/skills/telltale-batman-localization/scripts/speakers.py data/original_data speaker_genders.xlsx analysis`, then
+it writes `data/game_text/localized_data/` and validates every file. `scene_view.py` writes the read-only conversation-order views.
+Speaker statistics: `python .claude/skills/telltale-batman-localization/scripts/speakers.py data/game_text/original_data speaker_genders.xlsx analysis`, then
 `python .claude/skills/telltale-batman-localization/scripts/make_speakers_md.py`.
 
 Validate a translation against the English originals (single file or whole folder tree):
@@ -214,23 +214,23 @@ python .claude/skills/telltale-batman-localization/scripts/validate.py  en/file.
 Errors: BOM/CRLF, line count, changed or shifted headers, **the first broken record** (the exact record where a line was added or removed), a text line that looks like a header, filled/emptied lines, and lost or changed `{}` `^^` `<>` `<<>>` `[ALT…]` markup. Warnings: markup order, whitespace/tab changes, straight `"`. The exit code is 1 when there are errors.
 
 
-**Folders and git.** `data/original_data/` = English, never edited. `data/localized_data/` = the game files with Ukrainian,
+**Folders and git.** `data/game_text/original_data/` = English, never edited. `data/game_text/localized_data/` = the game files with Ukrainian,
 written only by `apply_translations.py` (don't edit it by hand: the next import overwrites it, so put changes in the
-table or the overrides file). `data/unique_original_data/` is built from `data/original_data/` ONLY (never from the genders file):
+table or the overrides file). `data/game_text/unique_original_data/` is built from `data/game_text/original_data/` ONLY (never from the genders file):
 every unique English text once, entry header `#### <text id> | <speakers> → <listeners> | x<count>` (speakers from
 the header lines; listeners guessed from `[to X]` notes, names in direct address and neighbouring speakers). It is
 written only by `build_tm.py --unique-original` and never changes unless the English files do; the import only
-checks it. `data/unique_localized_data/` (rewritten by every import with `--unique`) has the same entries with the
+checks it. `data/game_text/unique_localized_data/` (rewritten by every import with `--unique`) has the same entries with the
 Ukrainian; an English text with several table rows (male/female versions, ~230 texts) appears once per version,
 header `#### <table key> | ...` (the key ends in -SM/-SF/-LM/-LF; no readable gender label). Together they hold every text once, English and Ukrainian, in files that mirror the game folders (each text where it first appears; entry =
 `#### key | speaker → listener | x<count>`, the text lines, an empty line). Untranslated rows keep English, so
-`git diff data/unique_localized_data` shows each translation once. Before deleting anything in these folders the scripts check that every
+`git diff data/game_text/unique_localized_data` shows each translation once. Before deleting anything in these folders the scripts check that every
 file in them is a unique-text file (starts with `#### `), so a wrong folder name is refused. After writing, the import runs `check_consistency.py`: every record of the 222 final files must equal the
-English record with its text lines replaced by the matching `data/unique_localized_data` entry (records not in the unique
+English record with its text lines replaced by the matching `data/game_text/unique_localized_data` entry (records not in the unique
 folder must be unchanged English). It reads only the folders, not the table, and catches hand edits and missed
 records [VERIFIED with deliberate mistakes]. Run it on its own any time:
-`python .claude/skills/telltale-batman-localization/scripts/check_consistency.py data/original_data speaker_genders.xlsx data/unique_localized_data data/localized_data`.
-`data/localized_data/` started as an exact copy, so `git diff data/localized_data`
+`python .claude/skills/telltale-batman-localization/scripts/check_consistency.py data/game_text/original_data speaker_genders.xlsx data/game_text/unique_localized_data data/game_text/localized_data`.
+`data/game_text/localized_data/` started as an exact copy, so `git diff data/game_text/localized_data`
 shows exactly which lines were replaced (`git diff --word-diff=plain` is easiest to read), and untranslated files stay byte-identical. An import
 with an empty table changes nothing [VERIFIED]. `.gitattributes` forces CRLF for both folders on every computer.
 
@@ -248,11 +248,39 @@ genders must be gender-neutral), then `ai_translate.py apply TABLE X.tsv`. Apply
 `AI draft` in Translator notes and rejects rows with a wrong line count, changed markup, leading spaces, ending
 punctuation, `--`/`...` count or ASCII quotes. Fix rejected rows and apply again. Never overwrite cells by people.
 
+### Localization credits (`scripts/credits.py`, `--credits data/game_text/credits`)
+
+The only exception to "same number of lines per record": the records listed in `TARGETS` in `credits.py` -
+record 658 of `ui_menu_english.txt` (main menu About screen) ← `data/game_text/credits/about.txt`, and record 21 of
+`boot_english.txt` (boot screen copyright) ← `data/game_text/credits/boot.txt`, and the episode title at the start of the end
+credits (record 216 of `ui_credits101_english.txt`, record 1 of `ui_credits102..105_english.txt`) ←
+`data/game_text/credits/credits.txt`, both modes. New records can't be added (the game shows a fixed list of record ids), so extra
+text always goes at the end of an existing record. End credits blocks have fixed positions [CONFIRMED in game: extra
+lines overlap the next block], so `credits.txt` is ONE small line right under the title (`^glyphScale:0.4^`, no
+empty line before it), which fits in the gap. Another option is `# same line`: the single text line is appended to
+the end of the record's last line (the title line) instead of adding lines. `apply_translations.py --credits DIR`
+appends every line of each file after its record's text. Font size settings in a file (lines starting with `#` are not
+shown): `# scale original: N` puts `^glyphScale:N^` at the start of every non-empty original line of that record,
+`# scale credits: N` of every credit line, `# scale: N` of both (the specific ones win). Size 1 adds no tag, except on credit lines below resized original text (`^glyphScale:1^`, because the size carries over). `validate.py` and `check_consistency.py` take the same
+`--credits DIR`, remove exactly these lines and size tags before their checks, and report an error if they are missing or changed
+(without `--credits` the extra lines are line-count errors). Unknown file names in the folder are refused. The
+`npm run` shortcuts pass it. Lines must not start with `number) `. [TEST IN GAME: extra lines in a record, box
+height]
+
+### Author and Telegram link (`author.txt`, `scripts/links.py`)
+
+The author's name and the channel name are stored ONCE, in `author.txt` in the repo root (`author: NAME`,
+`channel: NAME`). Never write the name or the link itself into `data/game_text/credits/*.txt`,
+`data/about_button/button.txt` or `data/feed_item/feed_item.txt`; use the placeholders that `links.expand()` fills in
+when those files are read: `{author}` = the author's name, `{telegram}` = `https://t.me/NAME` (QR, text), `{telegram_short}`
+= `t.me/NAME`, `{telegram_web}` = `https://t.me/s/NAME` (anything clicked in game: Steam overlay). Unknown
+placeholders and a missing `author.txt` are errors.
+
 ### Choices screen (`scripts/apply_choice_stats.py`, `npm run choice-stats`)
 
 The end-of-episode choices screen ("You and 67.1% of players…") is NOT in any landb file: its texts come from
 Telltale's server (9 languages, no Ukrainian) and the game shows them through `ChoiceStats_LocalizeText()` in
-`ChoiceStats.lua` [CONFIRMED in game]. Files in `choice_stats_data/`:
+`ChoiceStats.lua` [CONFIRMED in game]. Files in `data/choice_stats/`:
 - `original_script/ChoiceStats.lua` (decompiled game script) and `original_script/choice_stats_english.txt`
   (133 English texts, game txt format, 1 line per record, `{percent}` = server number) - never edit;
 - the texts are translated in `translation_table.xlsx` (rows of `BM_pc_Project_data/stats_english`, the same texts
@@ -267,6 +295,75 @@ Telltale's server (9 languages, no Ukrainian) and the game shows them through `C
   translated both outputs equal the originals. It validates the txt pair with `validate.py` and stops on errors.
 Compiling and packing are outside this repo. The live copy of the script is in `BAT_pc_PC_Noir_Proj_compressed`
 (it overrides `BM_pc_Project_data`).
+
+### About-screen button (`scripts/apply_about_button.py`, `npm run about-button`)
+
+A second button next to "Previous Menu" on the About screen opens a link (`PlatformOpenURL`; on Steam the overlay
+browser) [CONFIRMED in game 2026-11-11]. Controller: X / Square in the bottom legend. Files in `data/about_button/`:
+- `button.txt` - `text: ...` and `url: ...` (the only file people edit; `#` lines are comments);
+- `original_script/Menu_About.lua` - decompiled game script, never edit;
+- `localized_script/Menu_About.lua` - written by `apply_about_button.py ABOUT_DIR` (run at the end of `npm run import`):
+  the original + 3 inserted blocks (settings and `Menu_About_OpenTelegram()` at the top, the controller legend entry,
+  the mouse `LegendButton` after `legendButton:Place`). Each insertion point must occur exactly once in the original.
+Rules the script enforces: text one line, ≤ 40 chars, no `^`/`<`; url `https://...`; Telegram links must be
+`t.me/s/NAME` (plain `t.me/NAME` → `tg://` redirect → error page in the Steam overlay [CONFIRMED in game]).
+Game facts behind the code: the `ui_legendButton.prop` is linked to landb node `legendButton_back` (arrow + "Previous
+Menu"), and a landb link wins over "Text String", so the script clears "Text Dialog 2.0 Node Name" before setting the
+text, repeating for 15 frames. `Menu_Text(x)` returns `x` itself when no landb node matches, so the legend takes raw
+text. The button text is not a landb text and not in the table. Compiling and packing are outside this repo; the
+script goes into both `BM_pc_Menu_data` and `BAT_pc_BatmanNoirMenu_compressed`.
+
+### Main-menu feed item (`scripts/apply_feed_item.py` + `scripts/make_feed_texture.py`)
+
+The news feed at the bottom left of the main menu (`UI_Feed.lua`, items normally from Telltale's server `feed.prop`)
+gets our item first [CONFIRMED in game 2026-11-13, both modes]. Files in `data/feed_item/`:
+- `feed_item.txt` - `header:`, `url:` (used by the script), `qr:`, `line1:`..`line3:` (used by the picture); the only
+  file people edit; `#` lines are comments;
+- `original_script/UI_Feed.lua` - decompiled game script, never edit;
+- `localized_script/UI_Feed.lua` - written by `apply_feed_item.py FEED_DIR` (`npm run feed-item`, run at the end of
+  `npm run import`): the original + a block after `local mbOffline = false` (settings, `Feed_UA_OpenTelegram()`,
+  `kUAFeedItem`, `uaFeedAddItem()` which moves server items 0..n-1 to 1..n and puts ours at 0), one line at the start
+  of `feedPopulate` (`feedData = feedData or kUAFeedItem`: offline → our item instead of the "offline" tile), and in
+  `Feed:Initialize` `mFeedData = {}`, `mNumItems = 0` before `feedSetup()` and `uaFeedAddItem()` after it (the list
+  is rebuilt each time the main menu opens, so the item is never added twice). Each insertion point must occur
+  exactly once. The item uses the game's own feed type `"lua"` (a click runs `data` as Lua), so `feedPopulate` itself
+  is not changed beyond that one line.
+- `texture/ui_imageUATelegramFeed.d3dtx` - written by `make_feed_texture.py FEED_DIR` (`npm run feed-texture`; also the
+  last step of `npm run import` with `--if-available`: missing Pillow/qrcode/fonts → note + exit 0, the picture in git
+  is kept; mistakes in feed_item.txt still stop the import; needs
+  Pillow + qrcode, `npm run setup:texture`): the file = `D3DTX_HEADER` in the script (313 bytes: the header of the
+  game's `ui_imageTelltaleAccountFeed.d3dtx` with the name string and its two size fields changed) + the BC1 pixels.
+  Also writes `preview.png` (in git: the committed picture as an image) and `preview_visible_band.png` (git-ignored).
+Rules the scripts enforce: header one line, ≤ 32 chars, no `^`/`<`; `url:` https and `t.me/s/NAME` for Telegram
+(same Steam-overlay reason as the About button); `qr:` https (plain `t.me/NAME` is right: phones open the app);
+picture text must fit right of the QR code; QR modules ≥ 4 px.
+Game facts: feed pictures are 512x512 BC1 (DXT1), 1 mip; the tile shows the full width but only rows ~113..316;
+classic mode tints them red (QR checked to still decode). `ResourceExists()` falls back to `ui_imageDefaultFeed.d3dtx`
+when the picture is not found. `BAT_pc_BatmanNoirMenu_compressed` is enabled only in Shadows mode (resdesc
+`enableMode = "localization"`), so the picture must also be in a classic `Menu` set archive [CONFIRMED: with it only
+in the Noir archive, classic mode showed the default picture]. Compiling and packing are outside this repo: the
+script → `BM_pc_Menu_data` + `BAT_pc_PC_Noir_Menu_compressed`; the picture → `BM_pc_Menu_data` +
+`BAT_pc_BatmanNoirMenu_compressed`.
+
+### Building the game archives (outside this repo; full version in README *Building the game archives*)
+
+Run `npm run import` first: the three `localized_script/*.lua` are committed as plain copies of the originals and
+get the Ukrainian changes only from the import.
+
+| From the repo | Into |
+|---|---|
+| `data/game_text/localized_data/<ARCHIVE>/*.txt` → `.landb` | the archive named by the folder |
+| `data/choice_stats/localized_script/ChoiceStats.lua` (compiled) | `BAT_pc_PC_Noir_Proj_compressed` (overrides `BM_pc_Project_data`) |
+| `data/about_button/localized_script/Menu_About.lua` (compiled) | `BM_pc_Menu_data` + `BAT_pc_BatmanNoirMenu_compressed` |
+| `data/feed_item/localized_script/UI_Feed.lua` (compiled) | `BM_pc_Menu_data` + `BAT_pc_PC_Noir_Menu_compressed` |
+| `data/feed_item/texture/ui_imageUATelegramFeed.d3dtx` (as is) | `BM_pc_Menu_data` + `BAT_pc_BatmanNoirMenu_compressed` |
+
+Never packed: `original_script/`, `choice_stats_english.txt`, `button.txt`, `feed_item.txt`, `texture/*.png`,
+`unique_*`, `credits/` (already inside the landb texts). `BAT_pc_BatmanNoirMenu_compressed` is enabled only in
+Shadows mode (resdesc `enableMode = "localization"`), so classic mode needs its own copy in a `BM_pc_Menu_*` archive
+[CONFIRMED]. Compile: Lua 5.2 `luac.exe` (Telltale Script Editor `resources\`) with the source's full path (it is stored
+in the bytecode); header `1b4c75615200010404040400`; same file name. Pack with TTG Tools: ttarch2 v2, "Encrypt Lua
+for new games" checked, encrypt archive unchecked, key 58 [CONFIRMED: unencrypted Lua → black screen at start].
 
 ## 10b. Style decisions
 

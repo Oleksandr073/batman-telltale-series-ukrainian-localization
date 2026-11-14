@@ -1,0 +1,21 @@
+# Telegram item in the main-menu feed (the news carousel at the bottom left of the main menu, both modes).
+# It is always shown first; Telltale's news items follow. Clicking it opens the url in the browser.
+#
+# Edit the lines below, then:
+#   header / url        -> `npm run feed-item` (it also runs at the end of `npm run import`)
+#   qr / line1..line3   -> the picture; also remade by `npm run import` (or `npm run feed-texture` alone),
+#                          after `npm run setup:texture` once - without it the import skips the picture with a note
+#
+#   header: the text under the picture (one line, up to 32 characters)
+#   url:    what a click opens. For a Telegram channel use the https://t.me/s/NAME form - plain t.me/NAME tries to
+#           open the Telegram app, which the Steam overlay browser can't do (it shows an error page).
+#   qr:     what the QR code in the picture opens on a phone - here plain t.me/NAME is right (opens the app)
+#   line1, line2, line3: text right of the QR code (large bold / medium / small)
+# {telegram}, {telegram_web}: the channel link from author.txt in the repo root - change the channel there.
+# Lines starting with # are comments.
+header: Telegram канал перекладу
+url: {telegram_web}
+qr: {telegram}
+line1: Just1ce_UA
+line2: Telegram канал
+line3: Скануй або натисни

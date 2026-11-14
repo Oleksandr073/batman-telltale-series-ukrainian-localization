@@ -1,0 +1,10 @@
+# The localization author and Telegram channel - the ONLY place to change them.
+# The other files use placeholders that the scripts fill in from here:
+#   {author}          the name below
+#   {telegram}        https://t.me/NAME     (QR code, text: opens the Telegram app on phones)
+#   {telegram_short}  t.me/NAME             (short text on screen)
+#   {telegram_web}    https://t.me/s/NAME   (buttons clicked in game: the Steam overlay browser needs the web view)
+# channel: write only the name after t.me/
+# Used in data/game_text/credits/*.txt, data/about_button/button.txt, data/feed_item/feed_item.txt.
+author: Олександр Just1ce
+channel: Just1ce_UA_channel

@@ -3,7 +3,7 @@
 Usage (from the repo root):
   python .claude/skills/telltale-batman-localization/scripts/selftest.py [--seed N] [--scenes K] [--keep]
 
-Nothing in the repo is changed: data/original_data, data/unique_original_data, speaker_genders.xlsx and
+Nothing in the repo is changed: data/game_text/original_data, data/game_text/unique_original_data, speaker_genders.xlsx and
 ai_context/play_order.txt are copied to a temporary folder, and every script runs there.
 
 What it does:
@@ -17,6 +17,8 @@ What it does:
      keeps translations and notes, and that a gender change keeps translations (marked "check gender forms").
   4. makes deliberate mistakes (line break in a one-line text, typing in a reference row, a deleted tag) and checks
      that each one is reported.
+  5. localization credits: an import with --credits adds the lines to the About screen (ui_menu) and boot screen
+     (boot) records of both modes, changes nothing else and passes all checks; a changed credit line is reported.
 Exit code 0 = all checks passed.
 """
 import argparse
@@ -32,7 +34,8 @@ import time
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
-from landb_txt import BOM, read_raw, read_records, split_lines, txt_files  # noqa: E402
+from credits import TARGETS as CREDIT_TARGETS  # noqa: E402
+from landb_txt import BOM, read_raw, read_records, split_lines, txt_files, write_lines  # noqa: E402
 from tm_lib import (LINE_SEP, TABLE_COLUMNS, analyze_records, escape_cell, load_genders, split_line,  # noqa: E402
                     unescape_cell)
 
@@ -168,24 +171,24 @@ def main():
     seed = a.seed if a.seed is not None else random.randrange(1_000_000)
     rnd = random.Random(seed)
     repo = os.getcwd()
-    for need in ('data/original_data', 'data/unique_original_data', 'speaker_genders.xlsx', 'ai_context/play_order.txt'):
+    for need in ('data/game_text/original_data', 'data/game_text/unique_original_data', 'speaker_genders.xlsx', 'ai_context/play_order.txt'):
         if not os.path.exists(os.path.join(repo, need)):
             sys.exit(f'Run this from the repo root ({need} not found).')
     tmp = tempfile.mkdtemp(prefix='bm_selftest_')
     t0 = time.time()
     print(f'Self-test, seed {seed} (repeat with --seed {seed}). Working copy: {tmp}')
     try:
-        for sub in ('data/original_data', 'data/unique_original_data'):
+        for sub in ('data/game_text/original_data', 'data/game_text/unique_original_data'):
             shutil.copytree(os.path.join(repo, sub), os.path.join(tmp, sub))
         os.makedirs(os.path.join(tmp, 'ai_context'))
         shutil.copy(os.path.join(repo, 'ai_context/play_order.txt'), os.path.join(tmp, 'ai_context'))
         shutil.copy(os.path.join(repo, 'speaker_genders.xlsx'), tmp)
         S = lambda n: os.path.join(HERE, n)  # noqa: E731
-        build = [S('build_tm.py'), 'data/original_data', 'speaker_genders.xlsx', 'translation_table.xlsx',
+        build = [S('build_tm.py'), 'data/game_text/original_data', 'speaker_genders.xlsx', 'translation_table.xlsx',
                  '--order', 'ai_context/play_order.txt']
-        imp = [S('apply_translations.py'), 'data/original_data', 'speaker_genders.xlsx', 'translation_table.xlsx',
-               'data/localized_data', '--unique', 'data/unique_original_data', 'data/unique_localized_data']
-        uniq_before = tree_hash(os.path.join(tmp, 'data/unique_original_data'))
+        imp = [S('apply_translations.py'), 'data/game_text/original_data', 'speaker_genders.xlsx', 'translation_table.xlsx',
+               'data/game_text/localized_data', '--unique', 'data/game_text/unique_original_data', 'data/game_text/unique_localized_data']
+        uniq_before = tree_hash(os.path.join(tmp, 'data/game_text/unique_original_data'))
         genders = load_genders(os.path.join(tmp, 'speaker_genders.xlsx'))
 
         print('\n[1] Build a fresh table')
@@ -247,24 +250,24 @@ def main():
         print('\n[3] Import and check every record of every game file')
         code, out = run(imp, tmp)
         check('import exit code 0', code == 0, re.findall(r'Validation: .*|Consistency: .*', out))
-        problems, n_tr, n_same, n_files = verify_game_files(os.path.join(tmp, 'data/original_data'),
-                                                            os.path.join(tmp, 'data/localized_data'), genders, filled)
+        problems, n_tr, n_same, n_files = verify_game_files(os.path.join(tmp, 'data/game_text/original_data'),
+                                                            os.path.join(tmp, 'data/game_text/localized_data'), genders, filled)
         check('every record correct in all game files', not problems and n_tr > 0,
               f'{n_files} files, {n_tr} translated records, {n_same} unchanged English'
               + (f'; first problem: {problems[0]}' if problems else ''))
         bat_tr = 0
-        for rel in txt_files(os.path.join(tmp, 'data/localized_data')):
+        for rel in txt_files(os.path.join(tmp, 'data/game_text/localized_data')):
             if rel.startswith('BAT_'):
-                body = open(os.path.join(tmp, 'data/localized_data', rel), encoding='utf-8-sig').read()
+                body = open(os.path.join(tmp, 'data/game_text/localized_data', rel), encoding='utf-8-sig').read()
                 bat_tr += sum(1 for c in filled.values() if c.split('\n')[0].split(' ¶ ')[0][:25] in body)
         check('translations also reach Noir (BAT_*) files', bat_tr > 0, f'{bat_tr} hits')
         fem = [k for k in filled if k.endswith('F')]
         check('male/female versions routed separately', not fem or not problems, f'{len(fem)} female version(s) filled')
-        check('data/unique_original_data untouched', tree_hash(os.path.join(tmp, 'data/unique_original_data')) == uniq_before)
+        check('data/game_text/unique_original_data untouched', tree_hash(os.path.join(tmp, 'data/game_text/unique_original_data')) == uniq_before)
         uk_text = ''.join(open(os.path.join(dp, f), encoding='utf-8-sig').read()
-                          for dp, _, fn in os.walk(os.path.join(tmp, 'data/unique_localized_data')) for f in fn)
+                          for dp, _, fn in os.walk(os.path.join(tmp, 'data/game_text/unique_localized_data')) for f in fn)
         missing = [k for k, c in filled.items() if unescape_cell(c.replace('\n', LINE_SEP)).split(LINE_SEP)[0] not in uk_text]
-        check('each translation appears in data/unique_localized_data', not missing,
+        check('each translation appears in data/game_text/unique_localized_data', not missing,
               f'missing {missing[:3]}' if missing else f'{len(filled)} found')
         check('no gender labels in unique folders', 'listener: ' not in uk_text and 'speaker: ' not in uk_text)
 
@@ -276,9 +279,9 @@ def main():
         check('every grey reference row points to a text row with the same English', not bad_refs,
               f'{len(refs)} reference rows' + (f'; bad: {bad_refs[:5]}' if bad_refs else ''))
 
-        h1 = tree_hash(os.path.join(tmp, 'data/localized_data'))
+        h1 = tree_hash(os.path.join(tmp, 'data/game_text/localized_data'))
         code, _ = run(imp, tmp)
-        check('second import gives identical files', code == 0 and tree_hash(os.path.join(tmp, 'data/localized_data')) == h1)
+        check('second import gives identical files', code == 0 and tree_hash(os.path.join(tmp, 'data/game_text/localized_data')) == h1)
 
         print('\n[4] Rebuild keeps translations and notes')
         code, out = run(build, tmp)
@@ -334,8 +337,69 @@ def main():
         check(f"deleted tag reported (row #{tagged['row']})", 'markup differs' in out)
         bad_tag_files = set(re.findall(r'== (\S+): \d+ error', out))
         check('only the file(s) with the deleted tag have errors', bad_tag_files and all(
-            '{' in open(os.path.join(tmp, 'data/original_data', f), encoding='utf-8-sig').read() for f in bad_tag_files),
+            '{' in open(os.path.join(tmp, 'data/game_text/original_data', f), encoding='utf-8-sig').read() for f in bad_tag_files),
             f'{len(bad_tag_files)} file(s)')
+
+        print('\n[7] Localization credits (--credits: About screen, boot screen, end credits)')
+        wb, ws, col = load_sheet(os.path.join(tmp, 'translation_table.xlsx'))   # undo the mistakes of step 6
+        for r in (one, ref, tagged):
+            ws.cell(row=r['row'], column=col['ukrainian']).value = r['ukrainian'] or None
+        wb.save(os.path.join(tmp, 'translation_table.xlsx'))
+        code, _ = run(imp, tmp)                                                # files without credits, to compare
+        game = os.path.join(tmp, 'data/game_text/localized_data')
+        # credits file -> [(game file path, record id)], both modes
+        targets = {name: [(rel, rec_id) for f, rec_id in records for rel in txt_files(game)
+                          if os.path.basename(rel) == f]
+                   for name, (_, records) in CREDIT_TARGETS.items()}
+        before = {rel: read_records(os.path.join(game, rel))[0] for recs in targets.values() for rel, _ in recs}
+        credit_lines = {'about.txt': ['', 'Українська локалізація v0.0.0 (тест)', 'Друга лінія: https://t.me/example_channel',
+                                      '', 'Дякую!'],
+                        'boot.txt': ['', 'Локалізація (тест) · t.me/example_channel'],
+                        'credits.txt': ['   ^glyphScale:0.5^· Локалізація (тест): Тест Автор']}  # "# same line"
+        # about: different sizes for the original text and the credits; boot: normal-size credits under resized
+        # text must still get ^glyphScale:1^ (the game keeps the size for the following lines)
+        settings = {'about.txt': '# scale: 0.5\n# scale original: 0.7\n# scale credits: 0.9\n',
+                    'boot.txt': '# scale original: 0.8\n# scale credits: 1\n', 'credits.txt': '# same line\n\n'}
+        scales = {'about.txt': ('0.7', '0.9'), 'boot.txt': ('0.8', '1'), 'credits.txt': (None, None)}  # (orig, cred)
+        os.makedirs(os.path.join(tmp, 'credits'))
+        # the files use the {author} / {telegram...} placeholders (links.py); author.txt holds the name and channel
+        with open(os.path.join(tmp, 'author.txt'), 'w', encoding='utf-8') as fh:
+            fh.write('# test\nauthor: Тест Автор\nchannel: example_channel\n')
+        for name, lines in credit_lines.items():
+            text = '\n'.join(lines).replace('https://t.me/example_channel', '{telegram}')
+            text = text.replace('t.me/example_channel', '{telegram_short}').replace('Тест Автор', '{author}')
+            with open(os.path.join(tmp, 'credits', name), 'w', encoding='utf-8', newline='\r\n') as fh:
+                fh.write(settings[name] + text + '\n\n')
+        size = lambda lines, s: ['' if x == '' or not s else f'^glyphScale:{s}^' + x for x in lines]  # noqa: E731
+        tag = lambda name, body: (body[:-1] + [body[-1] + credit_lines[name][0]] if name == 'credits.txt'  # noqa: E731
+                                  else size(body, scales[name][0]) + size(credit_lines[name], scales[name][1]))
+        code2, out = run(imp + ['--credits', 'credits'], tmp)
+        check('import with --credits exit code 0', code == 0 and code2 == 0,
+              re.findall(r'credits added .*|Validation: .*|Consistency: .*', out))
+        ok, n = [], 0
+        for name, recs in targets.items():
+            for rel, rec_id in recs:
+                after = read_records(os.path.join(game, rel))[0]
+                want = [tag(name, r['body']) if r['id'] == rec_id else r['body']
+                        for r in before[rel]]
+                ok.append([r['body'] for r in after] == want)
+                n += 1
+        check('credit lines added after the original text (+ separate size tags), both modes, nothing else changed',
+              n == 14 and all(ok), f'{n} record(s) in {len(before)} file(s)')
+        path = os.path.join(game, targets['about.txt'][0][0])
+        write_lines(path, [x.replace('Дякую!', 'Дякую!!') for x in split_lines(read_raw(path))[0]])
+        code, out = run([S('check_consistency.py'), 'data/game_text/original_data', 'speaker_genders.xlsx',
+                         'data/game_text/unique_localized_data', 'data/game_text/localized_data', '--credits', 'credits'], tmp)
+        check('changed credit line reported by the consistency check', code == 1 and 'About screen' in out)
+        code, out = run([S('validate.py'), 'data/game_text/original_data', 'data/game_text/localized_data', '--credits', 'credits'], tmp)
+        check('changed credit line reported by the validator', code == 1 and 'About screen' in out)
+        lines = [x.replace('Дякую!!', 'Дякую!') for x in split_lines(read_raw(path))[0]]
+        first = lines.index(f"{targets['about.txt'][0][1]}) ") + 1                     # first text line of About
+        lines[first] = lines[first].replace('^glyphScale:0.7^', '', 1)
+        write_lines(path, lines)
+        code, out = run([S('check_consistency.py'), 'data/game_text/original_data', 'speaker_genders.xlsx',
+                         'data/game_text/unique_localized_data', 'data/game_text/localized_data', '--credits', 'credits'], tmp)
+        check('missing size tag reported', code == 1 and 'does not start with ^glyphScale:0.7^' in out)
     finally:
         if a.keep:
             print(f'\nKept: {tmp}')
