@@ -65,11 +65,63 @@ Run everything from this folder (the repo root). **Close the Excel files before 
 6. **Review the game files (optional):** `npm run review:all` — every place in the 222 files of
    `data/game_text/localized_data/` where the text was replaced. You don't need to read it all: step 4 already proved these
    files match step 5.
-7. **Commit** (table + `data/` folders together), then pack `data/game_text/localized_data/` into the game archives.
+7. **Commit** (table + `data/` folders together), then build the game archives — see *Building the game archives*
+   below for what goes into which archive.
 
 Extra checks any time, without changing anything: `npm run check` (222 files vs. unique texts) and
 `npm run validate` (structure of the 222 files). After `git pull`/merge, run `npm run import` (or at least
 `npm run check`) before packing.
+
+## Building the game archives
+
+Everything the game needs comes out of `data/`. Compiling and packing happen outside this repo.
+
+**First run `npm run import`.** The three `localized_script/` Lua files are kept in git as plain copies of the
+original game scripts. Only `npm run import` writes the Ukrainian changes into them (the choices texts, the About
+button, the feed item). If you pack them without importing, the game gets the unchanged English scripts.
+
+### What goes where
+
+| From the repo | What to do with it | Into which archive(s) |
+|---|---|---|
+| `data/game_text/localized_data/<ARCHIVE>/*.txt` (222 files) | Convert back to `.landb` (the same way the English files were exported) | The archive named by the folder: `BM_pc_Menu_data/` → `BM_pc_Menu_data.ttarch2`, `BAT_pc_PC_Noir_Menu_compressed/` → `BAT_pc_PC_Noir_Menu_compressed.ttarch2`, and so on |
+| `data/choice_stats/localized_script/ChoiceStats.lua` | Compile (see below) | `BAT_pc_PC_Noir_Proj_compressed` |
+| `data/about_button/localized_script/Menu_About.lua` | Compile | `BM_pc_Menu_data` **and** `BAT_pc_BatmanNoirMenu_compressed` |
+| `data/feed_item/localized_script/UI_Feed.lua` | Compile | `BM_pc_Menu_data` **and** `BAT_pc_PC_Noir_Menu_compressed` |
+| `data/feed_item/texture/ui_imageUATelegramFeed.d3dtx` | Nothing — add as it is (a new file, it replaces nothing) | `BM_pc_Menu_data` **and** `BAT_pc_BatmanNoirMenu_compressed` |
+
+Each packed file keeps its name: `Menu_About.lua`, `UI_Feed.lua`, `ChoiceStats.lua`, `ui_imageUATelegramFeed.d3dtx`.
+The scripts and the `.landb` files replace the game's files of the same name in the archive.
+
+**Not packed:** everything in `original_script/` folders, `data/choice_stats/localized_script/choice_stats_english.txt`
+(only for review), `data/feed_item/feed_item.txt`, `data/about_button/button.txt`, `data/feed_item/texture/*.png`,
+`data/game_text/unique_*` and `data/game_text/credits/` (the credits are already inside the `.landb` texts).
+
+Why some files go into two archives: the `BM_pc_*` archives are the classic game, the `BAT_pc_*` archives are the
+Shadows Edition. `BAT_pc_BatmanNoirMenu_compressed` is loaded **only in Shadows mode**, so a file that classic mode
+needs must also be in a `BM_pc_Menu_*` archive (with the picture only in the Noir archive, classic mode showed the
+default picture). `ChoiceStats.lua` goes only into `BAT_pc_PC_Noir_Proj_compressed`, because that patch archive has
+its own copy of the script, which overrides the one in `BM_pc_Project_data`.
+
+### Compiling the Lua scripts
+
+The game runs compiled Lua 5.2. Use the `luac.exe` of Telltale Script Editor (`resources\luac.exe` in its folder):
+
+```
+luac.exe -o C:\build\UI_Feed.lua E:\full\path\to\repo\data\feed_item\localized_script\UI_Feed.lua
+```
+
+- Give the **full path** of the source file: `luac` stores that path inside the compiled file, so the same path
+  always gives the same bytes.
+- The output keeps the original name (`UI_Feed.lua`, not `UI_Feed.luac`).
+- A compiled file starts with the bytes `1B 4C 75 61 52` (`\x1bLuaR`), the same as the game's own scripts after
+  Telltale Explorer extracts them.
+
+### Packing (TTG Tools → Archive Packer)
+
+ttarch2, version 2, **"Encrypt Lua for new games" checked**, "Don't encrypt Lua" unchecked, "Encrypt archive"
+unchecked, key 58 (Batman), custom key unchecked. Compression is optional. With unencrypted Lua the game hangs on a
+black screen at start.
 
 ## AI drafts
 

@@ -344,6 +344,26 @@ in the Noir archive, classic mode showed the default picture]. Compiling and pac
 script → `BM_pc_Menu_data` + `BAT_pc_PC_Noir_Menu_compressed`; the picture → `BM_pc_Menu_data` +
 `BAT_pc_BatmanNoirMenu_compressed`.
 
+### Building the game archives (outside this repo; full version in README *Building the game archives*)
+
+Run `npm run import` first: the three `localized_script/*.lua` are committed as plain copies of the originals and
+get the Ukrainian changes only from the import.
+
+| From the repo | Into |
+|---|---|
+| `data/game_text/localized_data/<ARCHIVE>/*.txt` → `.landb` | the archive named by the folder |
+| `data/choice_stats/localized_script/ChoiceStats.lua` (compiled) | `BAT_pc_PC_Noir_Proj_compressed` (overrides `BM_pc_Project_data`) |
+| `data/about_button/localized_script/Menu_About.lua` (compiled) | `BM_pc_Menu_data` + `BAT_pc_BatmanNoirMenu_compressed` |
+| `data/feed_item/localized_script/UI_Feed.lua` (compiled) | `BM_pc_Menu_data` + `BAT_pc_PC_Noir_Menu_compressed` |
+| `data/feed_item/texture/ui_imageUATelegramFeed.d3dtx` (as is) | `BM_pc_Menu_data` + `BAT_pc_BatmanNoirMenu_compressed` |
+
+Never packed: `original_script/`, `choice_stats_english.txt`, `button.txt`, `feed_item.txt`, `texture/*.png`,
+`unique_*`, `credits/` (already inside the landb texts). `BAT_pc_BatmanNoirMenu_compressed` is enabled only in
+Shadows mode (resdesc `enableMode = "localization"`), so classic mode needs its own copy in a `BM_pc_Menu_*` archive
+[CONFIRMED]. Compile: Lua 5.2 `luac.exe` (Telltale Script Editor `resources\`) with the source's full path (it is stored
+in the bytecode); header `1b4c75615200010404040400`; same file name. Pack with TTG Tools: ttarch2 v2, "Encrypt Lua
+for new games" checked, encrypt archive unchecked, key 58 [CONFIRMED: unencrypted Lua → black screen at start].
+
 ## 10b. Style decisions
 
 Read `ai_context/style_guide.md` before translating: confirmed rules (ти/ви, names, “ ” quotes, ’ apostrophe,
