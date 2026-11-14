@@ -20,7 +20,8 @@ and report an error if they are missing or different. A missing file = nothing c
 
 File format: plain UTF-8 text, one line = one line on screen; empty lines are kept (empty lines at the end are
 ignored). Lines starting with "#" are settings/comments and are not shown, e.g. "# scale original: 0.7".
-{telegram}, {telegram_short}, {telegram_web} are replaced with the channel link from telegram.txt (see links.py).
+{author}, {telegram}, {telegram_short}, {telegram_web} are replaced with the name and channel link from author.txt
+(see links.py).
 A line must not start with "number) " - it would become a new record.
 """
 import os

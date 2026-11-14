@@ -23,7 +23,7 @@ per extra game script (`data/choice_stats/`, `data/about_button/`, `data/feed_it
 | `data/about_button/` | The **"Open Telegram channel" button** on the About screen. `button.txt` = the button text and the link (**edit this**); `original_script/Menu_About.lua` = the decompiled game script (never edit); `localized_script/Menu_About.lua` = the script with the button, written by `npm run import` (don't edit). See *About-screen button* below. |
 | `data/feed_item/` | The **Telegram item in the main-menu feed** (the carousel at the bottom left). `feed_item.txt` = header text, link, QR link and picture text (**edit this**); `original_script/UI_Feed.lua` = the decompiled game script (never edit); `localized_script/UI_Feed.lua` = the script with the item, written by `npm run import` (don't edit); `texture/ui_imageUATelegramFeed.d3dtx` = the picture (made by `npm run feed-texture`). See *Main-menu feed item* below. |
 | `data/game_text/credits/` | Localization credits: `about.txt` (About screen of the main menu), `boot.txt` (boot screen, under the copyright) and `credits.txt` (start of the end credits of all 5 episodes). Each line here = one line on screen (empty lines are kept). `npm run import` adds them after the original text in both modes. See *Localization credits* below. |
-| `telegram.txt` | **The Telegram channel**, the only place to change it (`channel: NAME`). Other files use `{telegram}` (https://t.me/NAME), `{telegram_short}` (t.me/NAME) and `{telegram_web}` (https://t.me/s/NAME), filled in by the scripts. See *Telegram link* below. |
+| `author.txt` | **The author's name and the Telegram channel**, the only place to change them (`author: NAME`, `channel: NAME`). Other files use `{author}`, `{telegram}` (https://t.me/NAME), `{telegram_short}` (t.me/NAME) and `{telegram_web}` (https://t.me/s/NAME), filled in by the scripts. See *Author and Telegram link* below. |
 | `ai_context/play_order.txt` | The story order of the game files, with scene titles. Edit it to fix the order, then `npm run rebuild`. Scenes marked `(?)` are guesses. |
 | `ai_context/style_guide.md` | Translation style decisions: quotes, apostrophe, punctuation, swearing, tone. |
 | `ai_context/speakers.md` | Who talks to whom, with the confirmed ти/ви decisions. |
@@ -213,19 +213,21 @@ text is set in the game script `Menu_About.lua`, not in a landb file, so it is n
 3. That script is compiled (Lua 5.2 `luac`) and packed into **both** `BM_pc_Menu_data.ttarch2` and
    `BAT_pc_BatmanNoirMenu_compressed.ttarch2` (not `BAT_pc_PC_Noir_Menu_compressed` — the About script is not there).
 
-## Telegram link
+## Author and Telegram link
 
-The channel is written once, in `telegram.txt` (`channel: NAME`, where NAME is the part after `t.me/`). `data/game_text/credits/*.txt`,
-`data/about_button/button.txt` and `data/feed_item/feed_item.txt` use placeholders instead of the link:
+The author's name and the channel are written once, in `author.txt` (`author: NAME` and `channel: NAME`, where the
+channel NAME is the part after `t.me/`). `data/game_text/credits/*.txt`, `data/about_button/button.txt` and
+`data/feed_item/feed_item.txt` use placeholders instead:
 
 | Placeholder | Becomes | Use it for |
 |---|---|---|
+| `{author}` | the `author:` name | credits text |
 | `{telegram}` | `https://t.me/NAME` | QR code, text people copy: opens the Telegram app on phones |
 | `{telegram_short}` | `t.me/NAME` | short text on screen |
 | `{telegram_web}` | `https://t.me/s/NAME` | buttons clicked in game: the Steam overlay browser can't open the app |
 
-To change the channel, edit `telegram.txt` and run `npm run import`. An unknown `{telegram...}` placeholder or a
-missing `telegram.txt` stops the scripts with an error.
+To change the name or the channel, edit `author.txt` and run `npm run import`. An unknown placeholder or a missing
+`author.txt` stops the scripts with an error.
 
 ## Main-menu feed item
 

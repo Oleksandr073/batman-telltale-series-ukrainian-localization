@@ -267,13 +267,14 @@ shown): `# scale original: N` puts `^glyphScale:N^` at the start of every non-em
 `npm run` shortcuts pass it. Lines must not start with `number) `. [TEST IN GAME: extra lines in a record, box
 height]
 
-### Telegram link (`telegram.txt`, `scripts/links.py`)
+### Author and Telegram link (`author.txt`, `scripts/links.py`)
 
-The channel name is stored ONCE, in `telegram.txt` in the repo root (`channel: NAME`). Never write the link itself
-into `data/game_text/credits/*.txt`, `data/about_button/button.txt` or `data/feed_item/feed_item.txt`; use the placeholders that
-`links.expand()` fills in when those files are read: `{telegram}` = `https://t.me/NAME` (QR, text), `{telegram_short}`
+The author's name and the channel name are stored ONCE, in `author.txt` in the repo root (`author: NAME`,
+`channel: NAME`). Never write the name or the link itself into `data/game_text/credits/*.txt`,
+`data/about_button/button.txt` or `data/feed_item/feed_item.txt`; use the placeholders that `links.expand()` fills in
+when those files are read: `{author}` = the author's name, `{telegram}` = `https://t.me/NAME` (QR, text), `{telegram_short}`
 = `t.me/NAME`, `{telegram_web}` = `https://t.me/s/NAME` (anything clicked in game: Steam overlay). Unknown
-placeholders and a missing `telegram.txt` are errors.
+placeholders and a missing `author.txt` are errors.
 
 ### Choices screen (`scripts/apply_choice_stats.py`, `npm run choice-stats`)
 

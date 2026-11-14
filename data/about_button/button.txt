@@ -3,7 +3,7 @@
 #   text: what the button says (one line; also shown for controller players next to the X / Square button)
 #   url:  the link. For a Telegram channel use the https://t.me/s/NAME form - plain t.me/NAME tries to open the
 #         Telegram app, which the Steam overlay browser can't do (it shows an error page).
-# {telegram}, {telegram_web}: the channel link from telegram.txt in the repo root - change the channel there.
+# {telegram}, {telegram_web}: the channel link from author.txt in the repo root - change the channel there.
 # Lines starting with # are comments.
 text: Відкрити Telegram канал
 url: {telegram_web}
